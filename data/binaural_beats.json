@@ -1,0 +1,638 @@
+{
+  "supplement": "Binaural Beats",
+  "query": "Binaural Beats[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:18:15",
+  "research_count": 24,
+  "count": 24,
+  "articles": [
+    {
+      "pmid": "40269359",
+      "title": "Comparing binaural beats and 432 Hz music for reduction of preoperative anxiety in root canal patients: a randomized controlled trial.",
+      "authors": [
+        "Hafsa Zaki",
+        "Shahbaz Ahmed",
+        "Fazal Ur Rehman Qazi",
+        "Nayab Fatima",
+        "Yumna Shaheen Ali"
+      ],
+      "journal": "JPMA. The Journal of the Pakistan Medical Association",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "abstract": "OBJECTIVE: To compare the effectiveness of binaural beats and 432Hz music in decreasing preoperative dental anxiety among adult patients undergoing root canal procedure. METHODS: The double-blind, randomised controlled trial was conducted from October 2023 to March 2024 at the Department of Operative Dentistry and Endodontics, Dr Ishrat-ul-Ebad Khan Institute of Oral Health Sciences, Dow University of Health Sciences, Karachi, and comprised adult patients undergoing root canal procedure who were randomised into three groups. Group A listened to 432Hz music, group B listened to binaural beats, and control group C listened to white noise. All the patients and the outcome assessors were kept blinded to the randomisation. The Visual Analogue Scale for Anxiety was used to measure anxiety levels before and after the administration of local anaesthesia and 10 minutes after listening to the sounds. The endodontic therapy was done as usual. Data was analysed using SPSS 26. RESULTS: Of the 99 participants, 64(64.6%) were females and 35(35.4%) were males with overall mean age 28.06±7.36 years. All the groups had 33(33.3%) subjects. Intragroup improvement in preoperative anxiety was significant in both interventional groups compared to the baseline value and the control group (p<0.05). No significant difference was found between the interventional groups (p>0.05). CONCLUSIONS: Binaural beats and 432Hz music were found to be highly and equally effective for decreasing preoperative dental anxiety in adult patients undergoing endodontic treatment. CLINICAL TRIAL REGISTRATION LINK: https://clinicaltrials.gov RCT No. (NCT06349200).",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Adult",
+        "Dental Anxiety",
+        "Root Canal Therapy",
+        "Double-Blind Method",
+        "Music Therapy",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "39768069",
+      "title": "Analyzing the Impact of Binaural Beats on Anxiety Levels by a New Method Based on Denoised Harmonic Subtraction and Transient Temporal Feature Extraction.",
+      "authors": [
+        "Devika Rankhambe",
+        "Bharati Sanjay Ainapure",
+        "Bhargav Appasani",
+        "Avireni Srinivasulu",
+        "Nicu Bizon"
+      ],
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "publication_date": "2024-Dec-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Anxiety is a widespread mental health issue, and binaural beats have been explored as a potential non-invasive treatment. EEG data reveal changes in neural oscillation and connectivity linked to anxiety reduction; however, harmonics introduced during signal acquisition and processing often distort these findings. Existing methods struggle to effectively reduce harmonics and capture the fine-grained temporal dynamics of EEG signals, leading to inaccurate feature extraction. Hence, a novel Denoised Harmonic Subtraction and Transient Temporal Feature Extraction is proposed to improve the analysis of the impact of binaural beats on anxiety levels. Initially, a novel Wiener Fused Convo Filter is introduced to capture spatial features and eliminate linear noise in EEG signals. Next, an Intrinsic Harmonic Subtraction Network is employed, utilizing the Attentive Weighted Least Mean Square (AW-LMS) algorithm to capture nonlinear summation and resonant coupling effects, effectively eliminating the misinterpretation of brain rhythms. To address the challenge of fine-grained temporal dynamics, an Embedded Transfo XL Recurrent Network is introduced to detect and extract relevant parameters associated with transient events in EEG data. Finally, EEG data undergo harmonic reduction and temporal feature extraction before classification with a cross-correlated Markov Deep Q-Network (DQN). This facilitates anxiety level classification into normal, mild, moderate, and severe categories. The model demonstrated a high accuracy of 95.6%, precision of 90%, sensitivity of 93.2%, and specificity of 96% in classifying anxiety levels, outperforming previous models. This integrated approach enhances EEG signal processing, enabling reliable anxiety classification and offering valuable insights for therapeutic interventions."
+    },
+    {
+      "pmid": "39615368",
+      "title": "Brainwave entrainment using binaural beats stimulation: Exploring the treatment efficacy in individuals with tinnitus having normal hearing sensitivity.",
+      "authors": [
+        "Praveen Prakash",
+        "Sreeraj Konadath"
+      ],
+      "journal": "Auris, nasus, larynx",
+      "publication_date": "2025-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The study aimed to compare the efficacy of brainwave entrainment in the treatment of individuals with tinnitus having normal hearing sensitivity. The effect of binaural beats (BB) stimulation in reducing negative emotions and tinnitus handicap post-three months is explored in this longitudinal study. METHOD: The study comprised sixty individuals (four groups) with tinnitus having normal hearing. The outcome measures of BB with beat frequencies falling under delta (4 Hz), theta (6 Hz), and alpha (10 Hz) and a standard tinnitus masker (white noise) were compared with the pre-treatment baseline scores for tinnitus handicap, depression, and stress levels, and quality of life parameters. RESULTS: All four groups showed an improvement in tinnitus symptoms and negative emotions. However, the groups that received BB stimulation (I, II, III) showed a remarkable reduction in scores for the tinnitus handicap, depression, and stress levels and an increase in quality-of-life scores for the domains that assessed physical and psychological health when compared to the group IV who received standard tinnitus masker. CONCLUSION: It was observed that all three broadband (BB) stimuli were equally effective in treating tinnitus handicap symptoms. However, the results cannot be definitively attributed to brainwave entrainment, as they may also reflect the effects of sound therapy. Additionally, the lack of significant differences among the BB frequencies suggests that the benefits may not arise specifically from brainwave entrainment, especially without a comparison to beta frequency BB. This technique should be adopted into clinical practice with generalizability after further research on a randomized sample.",
+      "mesh_terms": [
+        "Humans",
+        "Tinnitus",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Quality of Life",
+        "Acoustic Stimulation",
+        "Depression",
+        "Treatment Outcome",
+        "Stress, Psychological",
+        "Longitudinal Studies",
+        "Brain Waves",
+        "Aged",
+        "Emotions"
+      ]
+    },
+    {
+      "pmid": "39594300",
+      "title": "Do Progressive Intensities of Transcranial Direct Current Stimulation with and Without 40 Hz Binaural Beats Change Pre-Frontal Cortex Hemodynamics? A Randomized Controlled Trial.",
+      "authors": [
+        "Maria de Cassia Gomes Souza Macedo",
+        "Kariny Realino do Rosário Ferreira",
+        "Paula Almeida Meira",
+        "Arthur Ferreira Esquírio",
+        "Michelle Cristina Sales Almeida Barbosa",
+        "Gabriela Lopes Gama",
+        "Alexandre Wesley Carvalho Barbosa"
+      ],
+      "journal": "Behavioral sciences (Basel, Switzerland)",
+      "publication_date": "2024-Oct-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Transcranial direct current stimulation (tDCS) is often reported to have positive effects on brain hemodynamics as well as cognitive performance. Binaural beats (BBs) have also shown the potential to improve cognitive performance. However, we could not find any studies assessing prefrontal hemodynamics using a combination of these techniques or assessing the effects on hemodynamic response at different intensity levels of tDCS (two and three mA). This study aimed to compare the immediate hemodynamic responses to tDCS at different intensities (two and three mA) with and without 40 Hz BBs. Sixty-eight healthy young individuals of both sexes were split into four groups: the tDCS 2 mA group; tDCS 3 mA group; tDCS 2 mA + BB group; and tDCS 3 mA + BB group. All groups received 20 min tDCS (F3-Fp2) alone or combined with BBs. The hemodynamic effect was assessed using a functional near-infrared intracranial spectroscope (fNIRS) positioned on the left supraorbital region (Fp1). The mean values of rates of oxygen saturation (SatO2) were recorded at baseline, during the intervention period, and post-stimulation. The oxygenated hemoglobin rates (HbO) were also extracted. No between-group differences were observed. The within-group analysis did not show significant differences in terms of the time×groups factor. However, the time factor showed significant within-group differences. No differences were found for the HbO rates. The present findings showed that two and three mA tDCS had effects on pre-frontal cortex SatO2; however, the use of additional BBs did not change the SatO2 levels compared to the use of tDCS alone."
+    },
+    {
+      "pmid": "39240010",
+      "title": "Exploring the Therapeutic Effects of Music Intervention Embedded With Binaural Beats on Health and Well-Being of Older People: A Scoping Review.",
+      "authors": [
+        "Onouma Thummapol",
+        "Sadaf Murad",
+        "Oluwakemi Amodu",
+        "Megan Kennedy"
+      ],
+      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "abstract": "The utilization of music intervention featuring auditory binaural beats (BBs) has garnered attention as a promising avenue for enhancing the health and well-being of younger, healthy individuals. This scoping review systematically examines the effects and correlates associated with BB stimulation in the context of older adults' health. Additionally, it briefly addresses how incorporating BBs as a therapeutic modality can facilitate medical treatment strategies and support the rehabilitation of aging populations. Employing scoping review methodology, and adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension (PRISMA-ScR) for Scoping Review guidelines, a comprehensive literature search of seven databases was conducted. Twelve articles meeting the predefined inclusion criteria were identified and subsequently incorporated into the review. The findings of this scoping review underscore a notable paucity of studies exclusively dedicated to investigating the innovative and noninvasive application of binaural beat interventions among older individuals. The review delves into the applications of BB stimulation, health outcomes, and factors influencing the efficacy of BB interventions, with a particular focus on the older adults.",
+      "mesh_terms": [
+        "Humans",
+        "Music Therapy",
+        "Aged",
+        "Aging",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "39228455",
+      "title": "The Effect of Brainwave Synchronization Using Binaural Beats on Improving Working Memory and Reducing the Severity of Symptoms in Women With Obsessive-compulsive Disorder.",
+      "authors": [
+        "Zahra Hodhodi",
+        "Mehrangiz Pyvastegar",
+        "Peyman Hassani Abharian",
+        "Azam Farah Bidjari",
+        "Batool Ahadi"
+      ],
+      "journal": "Basic and clinical neuroscience",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Binaural beats are one of the new methods of brainwave synchronization. However, there is little knowledge about its clinical applications. The positive effect of this method on executive functions, such as attention and working memory, in the γ band has been mainly confirmed in healthy individuals. Still, its effectiveness on disorders such as obsessive-compulsive disorder (OCD), with a prominent cognitive profile, has not been established. Therefore, the present study was conducted to examine the effect of binaural beats on working memory and the severity of OCD symptoms in the γ band in the affected women. METHODS: Twenty-nine OCD women aged 25-40 years referring to psychological clinics in Tehran City, Iran, were selected by convenience sampling. After completing the symptom checklist 90 (SCL90) and the Yale-Brown severity scale (SS), the participants were given the Wechsler memory scale (WMS) digit repetition subtests. Then, they were randomly assigned to the experimental (n=15) and control (n=14) groups. The audio file of the binaural beats in the γ band was provided to the experimental group. The participants in the control group listened to the normal (no-wave) audio file. Both groups listened to the audio files for two weeks, three times a week, for 30 minutes each time. The Yale-Brown SS and digit repetition in post-test and one-month follow-up periods were obtained from both groups. RESULTS: According to the results, the severity of OCD symptoms was significantly reduced in the post-test and follow-up stages by the γ binaural beats (P<0.05). Also, the working memory function was improved, although it was not statistically significant (P>0.05). CONCLUSION: The results of this study show that binaural beats can be used as a complementary treatment to reduce the severity of OCD symptoms. Also, it seems that the patients' working memory is strengthened with this method."
+    },
+    {
+      "pmid": "39088370",
+      "title": "Effect of Binaural Beats on Anxiety and Tolerance in Patients Undergoing Upper Gastrointestinal Endoscopy Without Sedation: A Randomized Controlled Trial.",
+      "authors": [
+        "Selim Demirci",
+        "Semih Sezer"
+      ],
+      "journal": "Journal of integrative and complementary medicine",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Objective: Binaural beats, or the perceptual auditory illusions created when simultaneously presenting two similar frequencies to each ear separately, have been used to reduce anxiety in various procedures. Unfortunately, no prior study involved preprocedure binaural music exposure among patients undergoing upper gastrointestinal endoscopy, and this study sought to investigate its effect on anxiety and tolerance among participants undergoing sedation-free upper gastrointestinal endoscopy. Methods: The prospective, controlled, randomized trial included the participation of 96 Turkish patients aged between 18 and 70 years who were scheduled for an upper gastrointestinal endoscopy, regardless of sex or illness, and were divided randomly into two different groups to undergo endoscopy, namely, the binaural beats group (n = 48) and a control group (n = 48). Patients in the binaural beat music group wore headphones, and music was given 15 mins before endoscopy; however, no particular treatment was given for either group. Anxiety levels were assessed by using the State Trait Anxiety Inventory questionnaire, in addition to changes before and after endoscopy to measure patient satisfaction based on the physician's recorded numbers of retches noted by doctors as tolerance was documented and compared among both groups. Results: The results showed that following this procedure, in the music group, state scores remained significantly lower than before them (p = 0.016), compared with the control group (p > 0.05). There was no significant difference regarding changes in diastolic or systolic heart rate or blood pressure (p > 0.05). However, the procedure tolerance and satisfaction scores were significantly higher in the music group than those without music (p < 0.05). Conclusion: For patients undergoing upper gastrointestinal endoscopy, music with binaural beats was found to significantly reduce anxiety levels and increase patient tolerance, providing an alternative option to sedative medications as a potential sedative treatment option.Clinical trials registration number: NCT06114524.",
+      "mesh_terms": [
+        "Humans",
+        "Anxiety",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Music Therapy",
+        "Endoscopy, Gastrointestinal",
+        "Young Adult",
+        "Aged",
+        "Adolescent",
+        "Prospective Studies",
+        "Patient Satisfaction",
+        "Turkey",
+        "Music"
+      ]
+    },
+    {
+      "pmid": "39073304",
+      "title": "A pilot study exploring the effectiveness of binaural beats at reducing anxiety associated with cadaveric dissection.",
+      "authors": [
+        "Liteboho Tlotliso Mosheshe",
+        "Janine C Correia",
+        "Nadine Rampf"
+      ],
+      "journal": "Anatomical sciences education",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study explored the effects of a novel intervention, binaural beats (BB), on anxiety levels of anatomy students during cadaveric dissections and its impact on the learning environment. The study was quasi-experimental, employing a purposive sampling strategy. State (SA) and trait (TA) anxiety levels were measured using the State-Trait Anxiety Inventory during two routine dissection sessions. SA was measured at three time points: at the start, after a 3-min control (silence)/intervention (10 Hz BB) session, and at the end of the dissection. A post-study survey was distributed to the participants to obtain qualitative feedback on their perceptions of BB use during cadaveric dissections. Thirteen female students participated in this study (mean age 19.62 ± 0.65 years). Both control and intervention measures significantly reduced SA levels, with BB demonstrating a greater effect size (Hedges' g = 0.98 for intervention vs. 0.76 for control). SA decreased significantly after the BB intervention (t(12) = 3.78, p = 0.003) and remained low throughout the session, in contrast to the control session, where the reduction post-measure was not sustained (t(12) = -0.64, p = 0.54). Feedback from the post-study survey indicated that most students found the BB intervention effective in reducing their anxiety levels before the dissection. The BB intervention was effective in reducing and maintaining students' SA levels during dissection. Students reported positive experiences with BB. Further investigations are warranted to determine whether the findings of this study can be generalized to larger and more heterogeneous populations.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Pilot Projects",
+        "Dissection",
+        "Anxiety",
+        "Cadaver",
+        "Young Adult",
+        "Anatomy",
+        "Surveys and Questionnaires",
+        "Students, Medical"
+      ]
+    },
+    {
+      "pmid": "38891191",
+      "title": "Comparing the Effectiveness of Cognitive Rehabilitation and Binaural Beats on Craving and Comorbidities of Sexual Hyperactivity: A Pilot, Exploratory Quasi-Experimental Study.",
+      "authors": [
+        "Zeinab Mousavi",
+        "Mohammad Hossein Samanipour",
+        "Hamed Zarei",
+        "Payman Hassani Abharian",
+        "Halil İbrahim Ceylan",
+        "Nicola Luigi Bragazzi"
+      ],
+      "journal": "Healthcare (Basel, Switzerland)",
+      "publication_date": "2024-May-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sexual hyperactivity, often linked with substantial psychological and social disturbances, remains under-researched, particularly in contexts like Iran where cultural and social norms may influence the reporting and treatment of such conditions. This study explores the therapeutic potential of cognitive rehabilitation (CR) and binaural beats (BB) in addressing this issue. The primary objective was to compare the effectiveness of CR and BB in reducing symptoms of sexual hyperactivity and associated comorbid conditions, with a focus on fluctuations in sexual desire and overall mental health. Utilizing a quasi-experimental design, the study involved pretest, posttest, and follow-up assessments to evaluate the interventions' impacts. Recruitment through social media yielded 45 participants from a larger pool, who were then assigned to either the CR group, the BB group, or a control group. The CR and BB interventions were administered over a period of 10 sessions, each lasting 20 min, 3 times a week. Significant improvements were observed in both intervention groups compared to the control group. The CR group showed a marked reduction in Sexual Addiction Screening Test (SAST) scores from an initial average of 24.87 to 6.80 at follow-up, indicating a reduction in symptoms of sexual hyperactivity. The BB group also showed improvement, with SAST scores decreasing from 19.93 to 9.57. In terms of mental health comorbidities, the Depression, Anxiety, and Stress Scale (DASS-21) scores decreased notably in the CR group from a baseline of 8.53 to 3.07 post-intervention, and in the BB group from 10.33 to 5.80. Both interventions showed similar effectiveness in reducing anxiety and stress, with no statistically significant differences between the groups for most of the outcomes studied, affirming their potential for clinical application."
+    },
+    {
+      "pmid": "38723376",
+      "title": "Investigating the effectiveness of music therapy combined with binaural beats on chronic tinnitus: A randomized controlled trial.",
+      "authors": [
+        "Somayeh Bakhtarikia",
+        "Elham Tavanai",
+        "Nematollah Rouhbakhsh",
+        "Azadeh Jafari Sayadi",
+        "Vida Khorsand Sabet"
+      ],
+      "journal": "American journal of otolaryngology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Binaural beat stimulation (BBS) involve presenting two sinusoidal waves with specific frequency differences to induce neural changes in the brain, often used for mental state induction and symptom reduction. However, there are limited studies on its effectiveness for tinnitus. This study aimed to assess the effectiveness of combining binaural beats with music containing nature sounds for chronic tinnitus. METHODS: A total of 30 men, aged 45.87 on average (SD = 8.09), who had chronic tinnitus and symmetrical mild to moderate hearing loss, were included in this study. The participants were randomly assigned to two groups: MT group (Music therapy; n = 15), which received relaxing music containing the sound of sea waves, and MT + BBS group (Music therapy plus binaural beats; n = 15), which received the same music combined with alpha frequency (8 Hz) binaural beats. The therapy sessions were conducted twice a day for 15 min, over a period of 4 weeks. Outcome measures, including the Tinnitus Handicap Inventory (THI), Tinnitus Functional Index (TFI), Hospital Anxiety and Depression Scale (HADS), Visual Analog Scale (VAS) and the pitch and loudness of tinnitus were administered before, immediately after, and during the three-month follow-up period. RESULTS: The findings revealed improvements in loudness and annoyance VAS, as well as THI total and all subscale scores in both groups (p < 0.001). Additionally, TFI total score showed improvement in both groups (MT: p = 0.001; MT + BBS: p < 0.001) except for the sense of control subscale in both groups and the cognitive subscale in the MT group after the treatment and during the three-month follow-up period. Furthermore, both groups exhibited a decrease in scores for both subscales of HADS. However, there were no significant differences between the two groups in any of the measurement outcomes (p > 0.05), except for the emotional subscale scores of TFI (p = 0.049) and the functional subscale scores of THI (p = 0.034). In other words, during the follow-up period, the MT + BBS group exhibited lower scores in these two subscales compared to the MT group. CONCLUSION: Although our study failed to demonstrate the superiority of combining binaural beats with music, both groups experienced significant improvements. This suggest that there are potential benefits to be gained from these types of stimuli. Given the sustained effect of both methods and the even greater improvements in follow-up observed in the binaural beats group for some scales, it seems that the changes in neural response and brain waves caused by our stimulations are persistent. This necessitates further research involving brain mapping, especially with longer follow-up durations.",
+      "mesh_terms": [
+        "Humans",
+        "Tinnitus",
+        "Music Therapy",
+        "Male",
+        "Middle Aged",
+        "Chronic Disease",
+        "Treatment Outcome",
+        "Adult"
+      ]
+    },
+    {
+      "pmid": "37205669",
+      "title": "Binaural beats to entrain the brain? A systematic review of the effects of binaural beat stimulation on brain oscillatory activity, and the implications for psychological research and intervention.",
+      "authors": [
+        "Ruth Maria Ingendoh",
+        "Ella S Posny",
+        "Angela Heine"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2023",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "Binaural beats are an auditory phenomenon that occurs when two tones of different frequencies, which are presented separately to each ear, elicit the sensation of a third tone oscillating at the difference frequency of the two tones. Binaural beats can be perceived in the frequency range of about 1-30 Hz, a range that coincides with the main human EEG frequency bands. The brainwave entrainment hypothesis, which assumes that external stimulation at a certain frequency leads to the brain's electrocortical activity oscillating at the same frequency, provides the basis for research on the effects of binaural beat stimulation on cognitive and affective states. Studies, particularly in more applied fields, usually refer to neuroscientific research demonstrating that binaural beats elicit systematic changes in EEG parameters. At first glance, however, the available literature on brainwave entrainment effects due to binaural beat stimulation appears to be inconclusive at best. The aim of the present systematic review is, thus, to synthesize existing empirical research. A sample of fourteen published studies met our criteria for inclusion. The results corroborate the impression of an overall inconsistency of empirical outcomes, with five studies reporting results in line with the brainwave entrainment hypothesis, eight studies reporting contradictory, and one mixed results. What is to be noticed is that the fourteen studies included in this review were very heterogeneous regarding the implementation of the binaural beats, the experimental designs, and the EEG parameters and analyses. The methodological heterogeneity in this field of study ultimately limits the comparability of research outcomes. The results of the present systematic review emphasize the need for standardization in study approaches so as to allow for reliable insight into brainwave entrainment effects in the future.",
+      "mesh_terms": [
+        "Humans",
+        "Acoustic Stimulation",
+        "Brain",
+        "Auditory Cortex",
+        "Brain Waves"
+      ]
+    },
+    {
+      "pmid": "36138896",
+      "title": "Listening to 15 Hz Binaural Beats Enhances the Connectivity of Functional Brain Networks in the Mental Fatigue State-An EEG Study.",
+      "authors": [
+        "Xinlu Wang",
+        "Hongliang Lu",
+        "Yang He",
+        "Kewei Sun",
+        "Tingwei Feng",
+        "Xia Zhu"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2022-Aug-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: It is clear that mental fatigue can have many negative impacts on individuals, such as impairing cognitive function or affecting performance. The aim of this study was to investigate the role of sound interventions in combating mental fatigue. METHOD: The subjects were assessed on various scales, a psychomotor vigilance task (PVT) task, and a 3 min resting-state electroencephalogram (EEG), followed by a 20 min mental fatigue-inducing task (Time Load Dual Back, TloadDback), during which subjects in different condition groups listened to either 15 Hz binaural beats, 40 Hz binaural beats, relaxing music, or a 240 Hz pure tone. After the mental fatigue-inducing task, subjects were again assessed on various scales, a PVT task, and a 3 min resting-state EEG. RESULTS: After the fatigue-inducing task, there was no significant difference between the four groups on the scales or the PVT task performance. In TloadDback, the accuracy rate of the 40 Hz binaural beats group and the relaxing music group decreased in the middle stage of the task, while the 15 Hz binaural beats group and the 240 Hz pure tone group remained unchanged in all stages of the task. The EEG results showed that after fatigue inducement, the average path length of the 15 Hz binaural beats group decreased, and local efficiency showed an increasing tendency, indicating enhanced brain network connectivity. Meanwhile, the 240 Hz pure tone group showed enhanced functional connectivity, suggesting a state of mental fatigue in the group. CONCLUSIONS: The results of this study show that listening to 15 Hz binaural beats is a proven intervention for mental fatigue that can contribute to maintaining working memory function, enhancing brain topological structure, and alleviating the decline in brain function that occurs in a mentally fatigued state. As such, these results are of great scientific and practical value."
+    },
+    {
+      "pmid": "35842538",
+      "title": "Potential of binaural beats intervention for improving memory and attention: insights from meta-analysis and systematic review.",
+      "authors": [
+        "Sandhya Basu",
+        "Bidisha Banerjee"
+      ],
+      "journal": "Psychological research",
+      "publication_date": "2023-Jun",
+      "publication_types": [
+        "Systematic Review",
+        "Meta-Analysis",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Binaural beats (BB) entrainment is an auditory perceptual occurrence that exists when two tones of separate frequencies are simultaneously presented to each ear. Research on BB entrainment has gained attention due to its ability to treat various conditions like anxiety, attention-deficit/hyperactivity (ADHD), etc. Even though research on BB entrainment suggests its efficiency in improving cognition among individuals, existing literature indicates mixed results in the cognitive domains of attention and memory. Thus, we conducted meta-analysis to examine the effect of BB intervention on memory and attention, respectively, in the current paper. We further performed a systematic review on the selected studies to report their variables, demographic characteristics of the participants, and outcomes to comprehensively position the research on BB intervention exclusively in the areas of memory and attention. Fifteen studies met our inclusion criteria. Based on 31 effect sizes, the results indicated an overall medium and significant effect size (g = 0.40). Findings from systematic review reveal conflicting results, especially concerning theta and beta's efficacy on memory (recall and recognition tasks) and attention-related tasks. The findings of the current paper add to the growing evidence that BB intervention improves attention and memory in humans. Since the findings suggest a near-moderate effect of BB interventions and mixed results in the systematic review, more research with robust study designs must explore its guiding principle and the expanding role of brainwaves in improving memory and attention in individuals. Such an intervention has important implications in both clinical and non-clinical settings.",
+      "mesh_terms": [
+        "Humans",
+        "Attention",
+        "Cognition",
+        "Anxiety",
+        "Anxiety Disorders",
+        "Attention Deficit Disorder with Hyperactivity"
+      ]
+    },
+    {
+      "pmid": "35623152",
+      "title": "Binaural beats reduce feeling of pain and discomfort during colonoscopy procedure in not-sedated patients: A randomized control trial.",
+      "authors": [
+        "Alessandro Tani",
+        "Gennaro Tartarisco",
+        "Guido Vagheggini",
+        "Carla Vaccaro",
+        "Serena Campana",
+        "Francesco Tomaiuolo"
+      ],
+      "journal": "Complementary therapies in clinical practice",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: This study aimed to determine the effect of Binaural Beats(BB)on feeling of pain, and patient comfort during colonoscopy without sedation. MATERIALS AND METHODS: It is a randomized, controlled, double-blind procedural study of 115 patients that underwent colonoscopy without sedation. The patients were randomly assigned into the experimental group (n = 42) and the control group (n = 48) that were given BB starting 5 min before and continuing until the end of the colonoscopy procedure without any intervention other than routine nursing care. Measures of the state of anxiety (VAS-Anxiety scale) administered before the procedure, and measures of feeling of pain (Visual Analogue scale VAS-pain), Satisfactory and Willingness to repeat the procedure as Likert scales were also collected soon after the colonoscopy procedure. RESULTS: Feeling of pain was lower and scores of the level of comfort were higher in the experimental group when compared to the control group (p < 0.05). CONCLUSIONS: BB is an effective and safe method for reducing pain and improving patient comfort in cases undergoing colonoscopy without sedation. Since BB method is a non-pharmacological, non-invasive, inexpensive and simple method without any side effects, it may be used to reduce the feeling of pain and discomfort for non-sedated patients undergoing colonoscopy.",
+      "mesh_terms": [
+        "Colonoscopy",
+        "Double-Blind Method",
+        "Humans",
+        "Pain",
+        "Pain Measurement",
+        "Visual Analog Scale"
+      ]
+    },
+    {
+      "pmid": "34375712",
+      "title": "Effectiveness of Receptive Music Therapy with Imbedded 10 Hz Binaural Beats Compared with Standard Care for Patients with Major Depressive Disorder: A Randomized Controlled Trial.",
+      "authors": [
+        "Panitan Daengruan",
+        "Rattapong Chairat",
+        "Rewadee Jenraumjit",
+        "Dujrudee Chinwong",
+        "Awirut Oon-Arom",
+        "Jakkrit Klaphajone",
+        "Poukwan Arunmanakul"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: The purpose of this study was to determine the effectiveness of music therapy (MT) with imbedded 10 Hz binaural beats in combination with standard treatment in comparison to standard treatment alone in patients diagnosed with major depressive disorder (MDD). METHODS: This study was a randomized controlled trial enrolling 18 MDD adult patients aged ≥20 years old with mild to moderate levels of acute phase depression. The intervention group received MT along with standard treatment, while the control group received only standard treatment. 10-Hz binaural beats were embedded into soothing music. The participants listened to the MT via stereo headphones for 20 min at the clinic and were instructed to continue listening to the track at home at least 3 times/week. The primary outcome was depression score using patient health questionnaire depression screening (PHQ-9). The secondary outcomes were quality of life, measured by the Euro Quality of Life Five-Dimension (EQ-5D) rating, and medications adherence, measured by the medication adherence rating scale (MARS). The outcomes were measured at week 0, week 4, and week 8. RESULTS: At baseline, the primary outcome of PHQ-9 did not differ between the MT group and the control group (13.3 ± 4.4; 13.9 ± 3.37; p-value = 0.77). After a follow-up of 4 and 8 weeks, the PHQ-9 in the MT group was lower than the control group by 1.50 (95 % confidence interval: -4.46 to 1.46). However, this difference was not significant, with p-value = 0.32. As for the secondary outcome, there were no significant differences in terms of EQ-5D and MARS. CONCLUSIONS: This study concluded that MDD patients who received 10-Hz binaural beat imbedded MT combined with standard treatment had experienced no significant differences compared with control group in terms of depression score, quality of life, and medication adherence. Further studies are suggested to investigate the long-term effect of MT with binaural beats.",
+      "mesh_terms": [
+        "Adult",
+        "Depression",
+        "Depressive Disorder, Major",
+        "Humans",
+        "Music",
+        "Music Therapy",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "33247575",
+      "title": "Binaural beats or 432 Hz music? which method is more effective for reducing preoperative dental anxiety?",
+      "authors": [
+        "D Menziletoglu",
+        "A-Y Guler",
+        "T Cayır",
+        "B-K Isik"
+      ],
+      "journal": "Medicina oral, patologia oral y cirugia bucal",
+      "publication_date": "2021-Jan-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The aim of this prospective clinical study was to investigate the effectiveness of binaural beats and music at a frequency of 432 Hz and compare which method is more effective for reducing preoperative dental anxiety in impacted third molar surgery. MATERIAL AND METHODS: Ninety patients were randomly selected to the binaural beats group, music group and control group. Visual analog scale used to evaluate dental anxiety before the local anesthesia in the first measurement. Local anesthesia was applied to the all patients. Patients in the music group listened to 432 Hz tuned music using earphones for 10 minutes. Patients in the binaural beats group listened to binaural beats using earphones (for the right ear, 220 Hz and for the left ear 210 Hz) for 10 minutes. No special treatment was applied to the patients in control group. In the second measurement, dental anxiety was measured again in all three groups. For analysis of differences between three groups was used One way Anova and Kruskal Wallis test. RESULTS: Twenty seven male and 53 female patients included the study. In the first measurement, the same level of anxiety was recorded in all three groups. (p=0.811) There was a significant decrease in anxiety in both the binaural beats and music group in the second measurement. (p<0.001). CONCLUSIONS: Binaural beats and 432 Hz tuned music are a valid non pharmacological adjuvant to reduce dental anxiety in impacted third molar surgery. They have a positive effect to reduce the dental anxiety.",
+      "mesh_terms": [
+        "Anxiety",
+        "Dental Anxiety",
+        "Female",
+        "Humans",
+        "Male",
+        "Molar, Third",
+        "Music",
+        "Prospective Studies",
+        "Tooth, Impacted"
+      ]
+    },
+    {
+      "pmid": "32619206",
+      "title": "The Efficacy of Binaural Beats as a Stress-buffering Technique.",
+      "authors": [
+        "Katherine Kelton",
+        "Terri L Weaver",
+        "Lisa Willoughby",
+        "David Kaufman",
+        "Anna Santowski"
+      ],
+      "journal": "Alternative therapies in health and medicine",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "CONTEXT: Distress has deleterious effects on health. While complementary and alternative medicine (CAM) is a growing system of practices in the treatment of health and mental-health conditions, many individuals have limited access to mind-body interventions. Creating accessible stress-inoculation strategies may augment traditional mental-health interventions and services. OBJECTIVE: This pilot study intended to assess the effectiveness of a theta binaural beat (TBB) auditory stimulus on heart rate and self-reported stress, which was experimentally induced by the Trier Social Stress Test (TSST). DESIGN: The repeated measures study compared the stress levels after a stimulus and stressor for two groups, within an experimentally induced psychological stress paradigm, the Trier Social Stress Test (TSST). SETTING: The study occurred at a private Midwestern university. PARTICIPANTS: Participants were 64 US adults recruited from undergraduate classes at the university, with a mean age of 19 years and a range from 18 to 30. INTERVENTION: Participants were randomly assigned to the intervention or the control group. The intervention group listened to pink sound, carrier tones, and embedded TBB, while the control group listened to pink sound and carrier tones without embedded TBB. OUTCOME MEASURES: Participants completed self-report assessments about the auditory stimulus, perceived stress, and mindfulness and then engaged in the Trier Social Stress Test (TSST). Subsequently, they completed measures on perceived stress using a visual analogue scale (VAS), and heart rate variability (HRV) was recorded throughout the study. RESULTS: With respect to the evaluation of subjective stress using the VAS, psychological stress increased significantly between the exposure to the stimuli and the TSST-F(1.28, 53) = 42.76, P = .01, partial η2 = 0.44. The change in stress levels for the intervention group, however, was not significantly different from that of the control group at any time point F(1.28, 53) = 1.03, P = .33, partial η2 = 0.02. With respect to the evaluation of physiological response to stress using the HRV, the changes in HF HRV between the 4, five-minute segments during stimulus exposure were not significantly different between the groups F(3, 55) = 0.90, P = .44, partial η2 = 0.02. A significantly greater change-F(1, 55) = 4.84, P = .03 partial η2 = 0.08-in the HF HRV occurred over the TSST period for the intervention group compared to the control group suggesting that on average across the TSST stress tasks, those in the intervention group demonstrated higher HF signals. CONCLUSIONS: The current study found that the intervention group, who listened to TBBs, had greater parasympathetic dominance during TSST than the control group. This suggests that TBB exposure may dampen subsequent stress responses to an acute, psychological stressor. This finding, however, should be interpreted with caution, because further research and independent replication are warranted.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Heart Rate",
+        "Humans",
+        "Hydrocortisone",
+        "Pilot Projects",
+        "Stress, Psychological",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32564499",
+      "title": "Reduced pain and analgesic use after acoustic binaural beats therapy in chronic pain - A double-blind randomized control cross-over trial.",
+      "authors": [
+        "Vasileios Gkolias",
+        "Aikaterini Amaniti",
+        "Areti Triantafyllou",
+        "Panagiota Papakonstantinou",
+        "Panagiotis Kartsidis",
+        "Evangelos Paraskevopoulos",
+        "Panagiotis D Bamidis",
+        "Leontios Hadjileontiadis",
+        "Dimitrios Kouvelas"
+      ],
+      "journal": "European journal of pain (London, England)",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Binaural Beats (BB) consist of two artificial acoustic stimuli with different frequency, presented simultaneously but independently to each ear. The human brain perceives and synchronizes to this frequency difference (entrainment). Aim of this study was to test the hypothesis that brain entrainment to a lower function rhythm, with BB application, can decrease pain perception and analgesic medication use, in chronic pain patients. METHODS: In a double blind, randomized, cross-over trial, BB at 5Hz (theta rhythm) were applied for 30 minutes, under simultaneous electroencephalogram recordings, followed by liberal, on demand use by chronic pain patients for a week, compared to sham stimulation (SS). Pain as the main outcome (numeric scale, NRS), stress (STAI) and medication usage (defined daily doses, DDD) were assessed at baseline, 30 minutes and week's end. RESULTS: Perceived pain (NRS) was significantly reduced in BB intervention (5.6±2.3 to 3.4±2.6, p<0.001), compared to SS (5.2±2.1 to 4.8±2.3, p=0.78), during the first 30-minute phase, as well as at the week's end (to 3.9±2.5 compared to 5.5±2.6 respectively, p<0.001). The mean EEG theta power at 5Hz was significantly increased only during BB application. Stress was significantly reduced at 30 minutes in both interventions but remained reduced only in the BB group at the week's end. Analgesic medication consumption (DDD, g) during the week was significantly less in the BB intervention (3.9±3.7 vs. 4.6±4.1, p<0.05), while reporting equal to SS mean levels of pain. CONCLUSIONS: Acoustic BB reduced pain intensity, stress and analgesic use, compared to SS, in chronic pain patients. SIGNIFICANCE: This study provides evidence that theta rhythm binaural beats can alleviate pain intensity, both after a brief 30 minute and a longer one week on-demand intervention. The subsequent significant reduction in analgesic medication consumption in chronic pain patients' daily living could offer a valuable tool, augmenting the effect of existing pain therapies.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Acoustics",
+        "Analgesics",
+        "Chronic Pain",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "32412916",
+      "title": "Binaural Beats Reduce Postoperative Morphine Consumption in Older adults After Total Knee Replacement Surgery.",
+      "authors": [
+        "Alessandro Tani",
+        "Guido Vagheggini",
+        "Francesca Moretti",
+        "Valentina Del Colombo",
+        "Joerg Lehle",
+        "Serena Campana",
+        "Angelo Labate",
+        "Francesco Tomaiuolo"
+      ],
+      "journal": "Alternative therapies in health and medicine",
+      "publication_date": "2021-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "CONTEXT: A reduction in the use of opioids by older adult patients could reduce unpleasant side effects for them. During general anesthesia, binaural beat (BB) listening has been found to reduce intraoperative fentanyl consumption as well as postoperative pain scores and discharge time. Auditory BBs are a perceptual phenomenon occurring when tones of 2 slightly different frequencies are presented simultaneously and separately to each ear. OBJECTIVE: The study intended to evaluate the ability of BBs, as a nonpharmacological premedication, to reduce postoperative morphine consumption in older adults undergoing total knee replacement surgery and to modify the levels of anxiety and feelings of pain that patients experience. DESIGN: The research team designed a prospective, single-center, randomized controlled study. SETTING: The study was conducted in the Orthopedic Department of the Santa Maria Maddalena Hospital (Volterra [Pisa], Italy). PARTICIPANTS: Forty older adults at the hospital who were undergoing total knee joint replacement with spinal anesthesia participated in the study. INTERVENTION: The study included 2 groups (n = 20 each), one receiving BBs stimulation with frequencies of 256 Hz in one ear and 260 Hz in the opposite ear producing a BB of 4 Hz (intervention group), and the other receiving acoustical stimulation at 256 Hz in both ears (control group). BBs, or acoustical stimulation, were administered before the surgical procedure. Both acoustical stimuli, generated with the Gnaural program, were delivered through stereo headphones connected to a laptop in the preoperative holding area. OUTCOME MEASURES: The study measured postoperative, cumulative, self-administered morphine consumption, in mg, through a patient-controlled analgesia device. Feelings of anxiety were also assessed using the State-Trait Anxiety Inventory, and feelings of pain were measured every 8 h during the first postoperative day using a numerical rating scale. RESULTS: Patients who received the intervention, consumed almost half of the dosage of morphine during the first postoperative day when compared with the control group's consumption, 5.75 mg ± 5.25 vs 11.85 mg ± 7.71, respectively. The consumption did not correlate to anxiety measures. Regarding pain perception, no differences between the groups were captured. CONCLUSIONS: BB stimulation before surgery can be successfully used as a nonpharmacological treatment to reduce morphine consumption in older adults who undergo knee replacement. The use of a noninvasive, safe, and inexpensive BB intervention can result in a positive effect on patients' postoperative recovery.",
+      "mesh_terms": [
+        "Aged",
+        "Arthroplasty, Replacement, Knee",
+        "Double-Blind Method",
+        "Humans",
+        "Italy",
+        "Morphine",
+        "Pain, Postoperative",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "32307409",
+      "title": "[The effect of music containing binaural beats on daytime fall-asleep dynamics].",
+      "authors": [
+        "D E Shumov",
+        "I A Yakovenko",
+        "N N Alipov",
+        "Z V Bakaeva",
+        "E B Yakunina",
+        "A N Minyuk",
+        "A V Vinokurov",
+        "V B Dorokhov"
+      ],
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: To test the hypothesis that listening to the music with the effect of binaural beats of theta and delta range during nap decreases sleep latency defined by 2nd slow wave sleep stage appearance, as well as improves its stability. MATERIAL AND METHODS: The experimental set of 20 min duration was established according to the counterbalanced scheme with 21 subjects. Each subject participated in two attempts: one attempt included sound stimulation (music) and another one was sham (silence). RESULTS AND CONCLUSION: The decrease in sleep latency during stimulation is not confirmed reliably. The increase in sleep stability has been confirmed reliably using nonlinear regression model. The findings can be used in the development of non-pharmacologic ways of sleep treatment.",
+      "mesh_terms": [
+        "Auditory Perception",
+        "Music",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "31126569",
+      "title": "The short-term effects of recorded ocean sound with and without alpha frequency binaural beats on tinnitus perception.",
+      "authors": [
+        "Brittany A Munro",
+        "Grant D Searchfield"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The dichotic presentation of two auditory stimuli with a small frequency difference in each ear produces the perception of a third, fused auditory image called a binaural beat. Neural activity has been found to synchronize with these perceived beats. It is for this reason that binaural beats are often used in an attempt to induce certain psychological states that are associated with particular cortical rhythms. The aim of this proof-of-concept study was to explore the short-term effects of a binaural beat on tinnitus, to ascertain if further trials are justified. METHOD: Twenty adults with constant tinnitus and symmetrical hearing underwent audiological assessment and psychophysical measures of tinnitus. Participants were presented with two auditory stimuli: ocean waves with and without alpha frequency (8 Hz) binaural beats. Arousal and tinnitus perception were measured prior to and following each sound stimuli using the Perceived Arousal Scale and tinnitus rating scales. RESULTS: Small improvements in tinnitus rating scores occurred with sound. Some individuals showed more improvement with the binaural beats than ocean waves alone. CONCLUSION: The addition of binaural beats at 8 Hz to an ocean sound showed no significant group benefits above the ocean sound alone.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Oceans and Seas",
+        "Perception",
+        "Tape Recording",
+        "Tinnitus"
+      ]
+    },
+    {
+      "pmid": "29297265",
+      "title": "Short-Term Effects of Binaural Beats on EEG Power, Functional Connectivity, Cognition, Gait and Anxiety in Parkinson's Disease.",
+      "authors": [
+        "Gerardo Gálvez",
+        "Manuel Recuero",
+        "Leonides Canuet",
+        "Francisco Del-Pozo"
+      ],
+      "journal": "International journal of neural systems",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "We applied rhythmic binaural sound to Parkinson's Disease (PD) patients to investigate its influence on several symptoms of this disease and on Electrophysiology (Electrocardiography and Electroencephalography (EEG)). We conducted a double-blind, randomized controlled study in which rhythmic binaural beats and control were administered over two randomized and counterbalanced sessions (within-subjects repeated-measures design). Patients ([Formula: see text], age [Formula: see text], stage I-III Hoehn & Yahr scale) participated in two sessions of sound stimulation for 10[Formula: see text]min separated by a minimum of 7 days. Data were collected immediately before and after both stimulations with the following results: (1) a decrease in theta activity, (2) a general decrease in Functional Connectivity (FC), and (3) an improvement in working memory performance. However, no significant changes were identified in the gait performance, heart rate or anxiety level of the patients. With regard to the control stimulation, we did not identify significant changes in the variables analyzed. The use of binaural-rhythm stimulation for PD, as designed in this study, seems to be an effective, portable, inexpensive and noninvasive method to modulate brain activity. This influence on brain activity did not induce changes in anxiety or gait parameters; however, it resulted in a normalization of EEG power (altered in PD), normalization of brain FC (also altered in PD) and working memory improvement (a normalizing effect). In summary, we consider that sound, particularly binaural-rhythmic sound, may be a co-assistant tool in the treatment of PD, however more research is needed to consider the use of this type of stimulation as an effective therapy.",
+      "mesh_terms": [
+        "Anxiety",
+        "Auditory Perception",
+        "Brain",
+        "Cognition",
+        "Double-Blind Method",
+        "Electroencephalography",
+        "Female",
+        "Gait",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Memory, Short-Term",
+        "Middle Aged",
+        "Neural Pathways",
+        "Parkinson Disease",
+        "Periodicity",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "28325532",
+      "title": "Effectiveness of binaural beats in reducing preoperative dental anxiety.",
+      "authors": [
+        "B K Isik",
+        "A Esen",
+        "B Büyükerkmen",
+        "A Kilinç",
+        "D Menziletoglu"
+      ],
+      "journal": "The British journal of oral & maxillofacial surgery",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Binaural beats are an auditory illusion perceived when two different pure-tone sine waves are presented one to each ear at a steady intensity and frequency. We evaluated their effectiveness in reducing preoperative anxiety in dentistry. Sixty patients (30 in each group) who were to have impacted third molars removed were studied (experimental group: 20 women and 10 men, mean (range) age 24 (18-35) years, and control group: 22 women and 8 men, mean (range) age 28 (15-47) years). All patients were fully informed about the operation preoperatively, and their anxiety recorded on a visual analogue scale (VAS). The local anaesthetic was given and the patients waited for 10minutes, during which those in the experimental group were asked to listen to binaural beats through stereo earphones (200Hz for the left ear and 209.3Hz for the right ear). No special treatment was given to the control group. In both groups anxiety was then recorded again, and the tooth removed in the usual way. The paired t test and t test were used to assess the significance of differences between groups. The degree of anxiety in the control group was unchanged after the second measurement (p=0.625), while that in the experimental group showed a significant reduction in anxiety (p=0.001). We conclude that binaural beats may be useful in reducing preoperative anxiety in dentistry.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Adolescent",
+        "Adult",
+        "Dental Anxiety",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Tooth, Impacted",
+        "Visual Analog Scale",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26773319",
+      "title": "Efficacy of Theta Binaural Beats for the Treatment of Chronic Pain.",
+      "authors": [
+        "Donna D Zampi"
+      ],
+      "journal": "Alternative therapies in health and medicine",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: According to the National Institutes of Health, in 2011, chronic pain affected from approximately 10% to >50% of the adult population in the United States, with a cost of $61 billion to US businesses annually. OBJECTIVE: The pilot study assessed the effects that an external, audio, neural stimulus of theta binaural beats (TBB) had on returning the brain neurosignature for chronic pain to homeostasis. METHODS: The quantitative, experimental, repeated-measures crossover study compared the results of 2 interventions in 2 time-order sequences. An a priori analysis indicated a sample size of 28 participants was needed for a 2-way repeated-measures analysis of variance (ANOVA). SETTING: The study was conducted in Richmond, VA, USA, with participants recruited from the financial sector. PARTICIPANTS: Thirty-six US adults with various types of chronic pain, and with a median age of 47 y, ranging in ages from 26-69 y, participated in the study. The study experienced 4 dropouts. INTERVENTION: Participants listened to 2 recordings-one using TBB at 6 Hz (TBB intervention) and one using a placebo of a nonbinaural beat tone of 300 Hz (sham intervention) for 20 min daily. Both interventions lasted 14 successive days each, with some participants hearing the TBB intervention first and the sham intervention second and some hearing them in the reverse order. Participants listened to the interventions via a Web site on the Internet or via a compact disc. Interviews were conducted either in person or telephonically with e-mail support. OUTCOME MEASURES: Using the West Haven-Yale Multidimensional Pain Inventory (MPI), potential changes in perceived severity of chronic pain were measured (1) at baseline; (2) after the first test at 14 d, either TBB or sham intervention; and (3) after the second test at 28 d-either TBB or sham intervention. The analysis compared the average mean for pretest and first and second posttest scores. RESULTS: The analysis indicated a large main effect for the TBB intervention in reducing perceived pain severity, P<.001 (F2,60=84.98, r=0.74). Although the TBB and the placebo interventions both reduced the pain scores, a post hoc Bonferroni correction that compared pairs of MPI scores found a 77% larger drop in the mean for the TBB intervention, from M=4.60 at pretest to M=2.74 at the end of both TBB periods than in the mean for the sham intervention, with a change from M=4.60 at pretest to M=4.17 at the end of both sham periods. CONCLUSIONS: The results supported the hypothesis that an external audio protocol of TBB was effective in reducing perceived pain severity for participants.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Adult",
+        "Aged",
+        "Analysis of Variance",
+        "Chronic Pain",
+        "Complementary Therapies",
+        "Cross-Over Studies",
+        "Humans",
+        "Middle Aged",
+        "Pilot Projects"
+      ]
+    }
+  ]
+}

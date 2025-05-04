@@ -1,0 +1,1884 @@
+{
+  "supplement": "Alanylglutamine",
+  "query": "Alanylglutamine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:07:45",
+  "research_count": 54,
+  "count": 54,
+  "articles": [
+    {
+      "pmid": "40222582",
+      "title": "Clostridioides difficile infection in aged mice decreases memory function, which can be protected with alanyl-glutamine supplementation.",
+      "authors": [
+        "Sophia M Goldbeck",
+        "Deiziane V S Costa",
+        "Suemin E Yang",
+        "Caroline C Whitt",
+        "Ayesha E Tora",
+        "Cirle A Warren",
+        "Jae H Shin"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2025-Apr-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Adults above age 65 face higher risk of both Clostridioides difficile infection (CDI) and dementia. CDI in the elderly may exacerbate functional and cognitive impairments. Current CDI treatment options are limited. Alanyl-glutamine (AQ) is a dipeptide shown to decrease C. difficile toxin effects in vitro and in vivo. OBJECTIVE: We tested the potential benefits of AQ on the clinical outcomes and cognitive impairment in the aged mouse model of CDI treated at various timings of AQ and vancomycin treatment. METHODS: C57BL/6 retired breeder (9 months) and aged (18 months) mice were treated with AQ-supplemented water as a two-week pretreatment or continuously. The mice underwent a standard CDI protocol (VPI10463) and treated, or not, with vancomycin. Disease severity was tracked for 14 days, then Novel Object Recognition (NOR) tests for acute memory were performed. Hippocampal tissues were assayed for molecular markers. RESULTS: NOR testing confirmed CDI-induced cognitive impairment (p=0.0352). AQ pretreatment had mild neuroprotective effects during CDI. Mice treated with vancomycin and continuous AQ had better clinical scores and better memory performance than vancomycin controls (p=0.0286). Continuous AQ treatment, when used alone or paired with vancomycin, offered protection against CDI-induced cognitive impairment. The mechanism of CDI-induced memory impairment remains unclear, but infected mice had elevated synaptobrevin-2 (p=0.0396) and NCAM (p=0.008) compared to uninfected controls on day 14 post-infection. CONCLUSIONS: Our findings suggest that neuroinflammation and memory loss occur during CDI that may be ameliorated by AQ supplementation. AQ supplementation may have both neurological and intestinal protective effects during CDI treatment."
+    },
+    {
+      "pmid": "39510053",
+      "title": "Alanyl-Glutamine Inhibits the Epithelial-Mesenchymal Transition of Airway Epithelial Cells in Asthmatic Mice via DPP4-SIRT1 Pathway.",
+      "authors": [
+        "Kai Ding",
+        "Xiaowen He",
+        "Donglu Liang",
+        "Lanling Xu",
+        "Bo Xiao",
+        "Lixia Hou",
+        "Feiqian Xue",
+        "Guiming Zhou",
+        "Libing Ma"
+      ],
+      "journal": "International archives of allergy and immunology",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Alanyl-glutamine (Ala-Gln) is a compound known for its protective effects in various tissue injuries. However, its role in asthma-related lung injuries remains underexplored. This study investigates the mechanisms by which Ala-Gln modulates sDPP4-induced airway epithelial-mesenchymal transition and ovalbumin (OVA)-induced asthma in a mouse model. METHODS: An asthma model was established in female C57BL/6 J mice by using OVA. CD4+ T cells and bronchial epithelial cells (BECs) were isolated from the spleen and bronchi of the mice, respectively. Interventions included recombinant sCD26/sDPP4 protein, Ala-Gln, and EX527 (a SIRT1 inhibitor). Flow cytometry was used to assess Th17 and Treg cell populations. Mice were treated with Ala-Gln, EX527, and budesonide (BUD). Histopathological changes in lung tissues were evaluated using hematoxylin-eosin and Masson staining. White blood cell counts were measured with a hematology analyzer. The expression levels of DPP4, IL-17, SIRT1, SMAD2/3, N-cadherin, E-cadherin, MMP9, and α-SMA proteins were analyzed. RESULTS: Treatment with recombinant sCD26/sDPP4 resulted in decreased E-cadherin expression in BECs and increased levels of α-SMA, MMP9, and N-cadherin, effects that were mitigated by Ala-Gln. Ala-Gln also prevented the reduction in SIRT1 expression in BECs and the increase in Th17 cell differentiation induced by recombinant sCD26/sDPP4. EX527 administration alongside Ala-Gln reversed these changes and enhanced the phosphorylation of SMAD2/3 through SIRT1 signaling. BUD alone reduced inflammation and fibrosis in bronchial tissue and lowered the Th17/Treg ratio in peribronchial lymph nodes. The therapeutic effect of BUD was further improved with concurrent Ala-Gln treatment. CONCLUSION: Ala-Gln can inhibit BEC fibrosis and Th17 cell differentiation mediated by recombinant sCD26/sDPP4 through the SIRT1 pathway. Combined with BUD, Ala-Gln enhanced therapeutic efficacy in OVA-induced asthma in mice, which could offer improved outcomes for asthmatic patients with elevated DPP4 levels.",
+      "mesh_terms": [
+        "Animals",
+        "Asthma",
+        "Sirtuin 1",
+        "Epithelial-Mesenchymal Transition",
+        "Female",
+        "Mice",
+        "Signal Transduction",
+        "Disease Models, Animal",
+        "Epithelial Cells",
+        "Dipeptidyl Peptidase 4",
+        "Th17 Cells",
+        "Dipeptides",
+        "Mice, Inbred C57BL",
+        "Ovalbumin",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "37764772",
+      "title": "Alanyl-Glutamine Dipeptide Attenuates Non-Alcoholic Fatty Liver Disease Induced by a High-Fat Diet in Mice by Improving Gut Microbiota Dysbiosis.",
+      "authors": [
+        "Yigang Zheng",
+        "Hanglu Ying",
+        "Jiayi Shi",
+        "Long Li",
+        "Yufen Zhao"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Sep-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Non-alcoholic fatty liver disease (NAFLD) manifests as a persistent liver ailment marked by the excessive buildup of lipids within the hepatic organ accompanied by inflammatory responses and oxidative stress. Alanyl-glutamine (AG), a dipeptide comprising alanine and glutamine, is commonly employed as a nutritional supplement in clinical settings. This research aims to evaluate the impact of AG on NAFLD triggered by a high-fat diet (HFD), while concurrently delving into the potential mechanisms underlying its effects. The results presented herein demonstrate a notable reduction in the elevated body weight, liver mass, and liver index induced by a HFD upon AG administration. These alterations coincide with the amelioration of liver injury and the attenuation of hepatic histological advancement. Furthermore, AG treatment manifests a discernible diminution in oil-red-O-stained regions and triglyceride (TG) levels within the liver. Noteworthy alterations encompass lowered plasma total cholesterol (TC) and low-density lipoprotein cholesterol (LDLC) concentrations, coupled with elevated high-density lipoprotein cholesterol (HDLC) concentrations. The mitigation of hepatic lipid accumulation resultant from AG administration is aligned with the downregulation of ACC1, SCD1, PPAR-γ, and CD36 expression, in conjunction with the upregulation of FXR and SHP expression. Concomitantly, AG administration leads to a reduction in the accumulation of F4/80-positive macrophages within the liver, likely attributable to the downregulated expression of MCP-1. Furthermore, AG treatment yields a decline in hepatic MDA levels and a concurrent increase in the activities of SOD and GPX. A pivotal observation underscores the effect of AG in rectifying the imbalance of gut microbiota in HFD-fed mice. Consequently, this study sheds light on the protective attributes of AG against HFD-induced NAFLD through the modulation of gut microbiota composition.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Non-alcoholic Fatty Liver Disease",
+        "Diet, High-Fat",
+        "Gastrointestinal Microbiome",
+        "Dysbiosis",
+        "Liver",
+        "Dipeptides",
+        "Cholesterol",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "37474181",
+      "title": "Alanyl-glutamine supplementation for Clostridioides difficile infection treatment (ACT): a double-blind randomised controlled trial study protocol.",
+      "authors": [
+        "Cirle A Warren",
+        "Jae Hyun Shin",
+        "Ekta N Bansal",
+        "Deiziane V D S Costa",
+        "Xin Qun Wang",
+        "Martin Wu",
+        "Jonathan R Swann",
+        "Brian W Behm",
+        "Paul V Targonski",
+        "Laurie Archbald-Pannone"
+      ],
+      "journal": "BMJ open",
+      "publication_date": "2023-Jul-19",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "INTRODUCTION: Clostridioides difficile is the leading cause of healthcare-associated infections in the USA, with an estimated 1 billion dollars in excess cost to the healthcare system annually. C. difficile infection (CDI) has high recurrence rate, up to 25% after first episode and up to 60% for succeeding episodes. Preliminary in vitro and in vivo studies indicate that alanyl-glutamine (AQ) may be beneficial in treating CDI by its effect on restoring intestinal integrity in the epithelial barrier, ameliorating inflammation and decreasing relapse. METHODS AND ANALYSIS: This study is a randomised, placebo-controlled, double-blind, phase II clinical trial. The trial is designed to determine optimal dose and safety of oral AQ at 4, 24 and 44 g doses administered daily for 10 days concurrent with standard treatment of non-severe or severe uncomplicated CDI in persons age 18 and older. The primary outcome of interest is CDI recurrence during 60 days post-treatment follow-up, with the secondary outcome of mortality during 60 days post-treatment follow-up. Exploratory analysis will be done to determine the impact of AQ supplementation on intestinal and systemic inflammation, as well as intestinal microbial and metabolic profiles. ETHICS AND DISSEMINATION: The study has received University of Virginia Institutional Review Board approval (HSR200046, Protocol v9, April 2023). Findings will be disseminated via conference presentations, lectures and peer-reviewed publications. TRIAL REGISTRATION NUMBER: NCT04305769.",
+      "mesh_terms": [
+        "Adolescent",
+        "Humans",
+        "Clinical Trials, Phase II as Topic",
+        "Clostridioides difficile",
+        "Clostridium Infections",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Inflammation",
+        "Neoplasm Recurrence, Local",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Adult"
+      ]
+    },
+    {
+      "pmid": "37023559",
+      "title": "A randomized double-blind controlled proof-of-concept study of alanyl-glutamine for reduction of post-myomectomy adhesions.",
+      "authors": [
+        "Donna R Chizen",
+        "Dominique C Rislund",
+        "Lynne M Robertson",
+        "Hyun J Lim",
+        "Togas Tulandi",
+        "Antonio R Gargiulo",
+        "Rudy Leon De Wilde",
+        "Aleksey Velygodskiy",
+        "Roger A Pierson"
+      ],
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "STUDY OBJECTIVE: To test the hypothesis that intraperitoneal instillation of a single bolus dose of l-alanyl-l-glutamine (AG) will reduce the incidence, extent and/or severity of adhesions following myomectomy and establish preliminary safety and tolerability of AG in humans. DESIGN: Phase 1,2 Randomized, double-blind, placebo-controlled study (DBRCT). SETTING: Tertiary care gynecology surgical centre. PATIENTS: Thirty-eight women who underwent myomectomies by laparoscopy (N = 38; AG-19 vs Placebo-19) or laparotomy (N = 10; AG-5 vs Placebo-5) with a scheduled second-look laparoscopy (SLL) 6-8 weeks later. Thirty-two patients in the laparoscopy arm completed SLL. INTERVENTIONS: Bolus dose of AG or normal saline solution control (0.9% NaCl) administered intraperitoneally immediately prior to suture closure of the laparoscopic ports. The average dose was 170 mL of AG or control based on a dosing scheme of 1 g/kg bodyweight. MEASUREMENTS: Digital recordings obtained for all procedures. The primary endpoint was reduction in the incidence, severity and extent of post-operative adhesions analyzed by intention-to-treat (ITT) approach. Three independent, blinded reviewers evaluated all operative video recordings to assess presence of adhesions. Post-hoc analysis assessed presence or absence of adhesions in the peritoneal cavity. Secondary endpoints assessed safety and tolerability of AG. MAIN RESULTS: Administration of AG reduced the incidence, severity and/or extent of post-operative adhesions (p = 0.046). The presence of adhesions in the AG group was lower than in the Control group (p = 0.041). Adhesion improvement was achieved in 15 of 15 (100%) in the AG group versus 5 of 17 (29.6%) in the placebo group. No serious adverse events were reported. No differences in safety parameters were observed. CONCLUSIONS: Intraperitoneal l-alanyl-l-glutamine reduced adhesion formation in all patients following laparoscopic myomectomy. Complete absence of adhesions was achieved at all abdominal sites in 93% of patients. Results confirm AG's known effects on cellular mechanisms of adhesiogenesis and lay the foundation for new adhesion prophylaxis research and treatment.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Uterine Myomectomy",
+        "Glutamine",
+        "Gynecologic Surgical Procedures",
+        "Double-Blind Method",
+        "Tissue Adhesions",
+        "Laparoscopy",
+        "Postoperative Complications"
+      ]
+    },
+    {
+      "pmid": "36917734",
+      "title": "Alanyl-Glutamine (Ala-Gln) Ameliorates Dextran Sulfate Sodium (DSS)-Induced Acute Colitis by Regulating the Gut Microbiota, PI3K-Akt/NF-κB/STAT3 Signaling, and Associated Pulmonary Injury.",
+      "authors": [
+        "Jing Liu",
+        "Chengguo Zong",
+        "Xin Yu",
+        "Yan Ding",
+        "Bing Chang",
+        "Ruoyu Wang",
+        "Lixuan Sang"
+      ],
+      "journal": "ACS infectious diseases",
+      "publication_date": "2023-Apr-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of this study was to investigate the protective effect of alanyl-glutamine (Ala-Gln) on acute colitis complicated by pulmonary injury induced by dextran sulfate sodium (DSS) in C57BL/6 mice. The results showed that Ala-Gln intervention alleviated weight loss, the disease activity index (DAI), colon shortening, and pathological injury and regulated the absolute number of CD4+T-cell subsets in mesenteric lymph nodes (MLNs). In addition, Ala-Gln intervention significantly ameliorated the composition of the gut microbiota in mice with DSS- induced acute colitis, significantly decreasing the relative abundance of Desulfovibrionaceae and increasing the abundances of Gastranaerophilales, Clostridia-vadinBB60, and Alistipes. Moreover, Ala-Gln treatment significantly inhibited the activation of the PI3K-Akt/NF-κB/STAT3 inflammatory signaling pathways in the colon of mice with DSS-induced acute colitis. Notably, Ala-Gln intervention also alleviated the pulmonary injury as well as the imbalance in levels of CD4+T-cell subsets in pulmonary tissue in mice with DSS-induced acute colitis. In conclusion, Ala-Gln alleviates DSS-induced acute colitis by regulating the gut microflora and PI3K-Akt/NF-κB/STAT3 signaling pathways, as well as by alleviating accompanying pulmonary injury.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Colitis",
+        "Cytokines",
+        "Dextran Sulfate",
+        "Gastrointestinal Microbiome",
+        "Lung Injury",
+        "Mice, Inbred C57BL",
+        "NF-kappa B",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt"
+      ]
+    },
+    {
+      "pmid": "36145172",
+      "title": "Alanyl-Glutamine Protects Mice against Methionine- and Choline-Deficient-Diet-Induced Steatohepatitis and Fibrosis by Modulating Oxidative Stress and Inflammation.",
+      "authors": [
+        "Jiaji Hu",
+        "Yigang Zheng",
+        "Hanglu Ying",
+        "Huabin Ma",
+        "Long Li",
+        "Yufen Zhao"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nonalcoholic steatohepatitis (NASH) is a common chronic liver disease with increasing prevalence rates over years and is associated with hepatic lipid accumulation, liver injury, oxidative stress, hepatic inflammation, and liver fibrosis and lack of approved pharmacological therapy. Alanyl-glutamine (Ala-Gln) is a recognized gut-trophic nutrient that has multiple pharmacological effects in the prevention of inflammation- and oxidative-stress-associated diseases. Nevertheless, whether Ala-Gln has a protective effect on NASH still lacks evidence. The aim of this study is to explore the influence of Ala-Gln on NASH and its underlying mechanisms. Here, C57BL/6 mice were fed a methionine- and choline-deficient (MCD) diet to establish the model of NASH, and Ala-Gln at doses of 500 and 1500 mg/kg were intraperitoneally administered to mice along with a MCD diet. The results showed that Ala-Gln treatment significantly attenuated MCD-induced hepatic pathological changes, lowered NAFLD activity score, and reduced plasma alanine transaminase (ALT), aspartate transaminase (AST) and lactate dehydrogenase (LDH) levels. Ala-Gln dramatically alleviated lipid accumulation in liver through modulating the expression levels of fatty acid translocase (FAT/CD36) and farnesoid X receptor (FXR). In addition, Ala-Gln exerted an anti-oxidant effect by elevating the activities of superoxide dismutase (SOD) and glutathione peroxidase (GPX). Moreover, Ala-Gln exhibited an anti-inflammatory effect via decreasing the accumulation of activated macrophages and suppressing the production of proinflammatory mediators. Notably, Ala-Gln suppressed the development of liver fibrosis in MCD-diet-fed mice, which may be due to the inhibition of hepatic stellate cells activation. In conclusion, these findings revealed that Ala-Gln prevents the progression of NASH through the modulation of oxidative stress and inflammation and provided the proof that Ala-Gln might be an effective pharmacological agent to treat NASH.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Aspartate Aminotransferases",
+        "Choline",
+        "Diet",
+        "Dipeptides",
+        "Fatty Acids",
+        "Glutathione Peroxidase",
+        "Inflammation",
+        "Lactate Dehydrogenases",
+        "Lipids",
+        "Liver",
+        "Liver Cirrhosis",
+        "Methionine",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Non-alcoholic Fatty Liver Disease",
+        "Oxidative Stress",
+        "Racemethionine",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "35739966",
+      "title": "Alanyl-Glutamine Protects against Lipopolysaccharide-Induced Liver Injury in Mice via Alleviating Oxidative Stress, Inhibiting Inflammation, and Regulating Autophagy.",
+      "authors": [
+        "Jiaji Hu",
+        "Hanglu Ying",
+        "Yigang Zheng",
+        "Huabin Ma",
+        "Long Li",
+        "Yufen Zhao"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2022-May-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acute liver injury is a worldwide problem with a high rate of morbidity and mortality, and effective pharmacological therapies are still urgently needed. Alanyl-glutamine (Ala-Gln), a dipeptide formed from L-alanine and L-glutamine, is known as a protective compound that is involved in various tissue injuries, but there are limited reports regarding the effects of Ala-Gln in acute liver injury. This present study aimed to investigate the protective effects of Ala-Gln in lipopolysaccharide (LPS)-induced acute liver injury in mice, with a focus on inflammatory responses and oxidative stress. The acute liver injury induced using LPS (50 μg/kg) and D-galactosamine (D-Gal) (400 mg/kg) stimulation in mice was significantly attenuated after Ala-Gln treatment (500 and 1500 mg/kg), as evidenced by reduced plasma alanine transaminase (ALT) (p < 0.01, p < 0.001), aspartate transaminase (AST) (p < 0.05, p < 0.001), and lactate dehydrogenase (LDH) (p < 0.01, p < 0.001) levels, and accompanied by improved histopathological changes. In addition, LPS/D-Gal-induced hepatic apoptosis was also alleviated by Ala-Gln administration, as shown by a greatly decreased ratio of TUNEL-positive hepatocytes, from approximately 10% to 2%, and markedly reduced protein levels of cleaved caspase-3 (p < 0.05, p < 0.001) in liver. Moreover, we found that LPS/D-Gal-triggered oxidative stress was suppressed after Ala-Gln treatment, the effect of which might be dependent on the elevation of SOD and GPX activities, and on GSH levels in liver. Interestingly, we observed that Ala-Gln clearly inhibited LPS/D-Gal exposure-induced macrophage accumulation and the production of proinflammatory factors in the liver. Furthermore, Ala-Gln greatly regulated autophagy in the liver in LPS/D-Gal-treated mice. Using RAW264.7 cells, we confirmed the anti-inflammatory role of Ala-Gln-targeting macrophages."
+    },
+    {
+      "pmid": "33932823",
+      "title": "Protective effect of glutamine and alanyl-glutamine against zearalenone-induced intestinal epithelial barrier dysfunction in IPEC-J2 cells.",
+      "authors": [
+        "Aixin Gu",
+        "Lige Yang",
+        "Jingjing Wang",
+        "Jianping Li",
+        "Anshan Shan"
+      ],
+      "journal": "Research in veterinary science",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Zearalenone (ZEN), a nonsteroidal estrogenic mycotoxin, has a negative effect on porcine intestine. Glutamine (Gln) and alanyl-glutamine (Ala-Gln) are nutrients with potential preservation functions similar to those of the intestinal epithelial barrier. The protective role of Gln and Ala-Gln on ZEN-induced intestinal barrier dysfunction was evaluated in this study. Additionally, the ability of Gln and Ala-Gln to protect the intestinal barrier was investigated. Our results showed that lactate dehydrogenase (LDH) activity, paracellular permeability and reactive oxygen species (ROS) level were increased by ZEN, while the glutathione (GSH) level was decreased by ZEN. Gln and Ala-Gln promoted the proliferation of cells and attenuated the ZEN-induced increase in cytotoxicity, cell apoptosis and paracellular permeability. Gln and Ala-Gln alleviated barrier function damage, which was additionally induced by ZEN by increasing the antioxidant capacity of cells. In addition, Gln and Ala-Gln upregulated intestinal barrier associated gene expressions including pBD-1, pBD-2, MUC-2, ZO-1, occludin and claudin-3. This study revealed that Gln and Ala-Gln had similar effects in protecting intestinal epithelial barrier function against ZEN exposure in IPEC-J2 cells. A new treatment for alleviating ZEN-induced injury to the intestine through nutritional intervention is provided.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Cell Line",
+        "Dipeptides",
+        "Epithelial Cells",
+        "Estrogens, Non-Steroidal",
+        "Glutamine",
+        "Intestinal Diseases",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Permeability",
+        "Protective Agents",
+        "Reactive Oxygen Species",
+        "Zearalenone"
+      ]
+    },
+    {
+      "pmid": "33334074",
+      "title": "Peritoneal Dialysis Fluid Supplementation with Alanyl-Glutamine Attenuates Conventional Dialysis Fluid-Mediated Endothelial Cell Injury by Restoring Perturbed Cytoprotective Responses.",
+      "authors": [
+        "Rebecca Herzog",
+        "Maria Bartosova",
+        "Silvia Tarantino",
+        "Anja Wagner",
+        "Markus Unterwurzacher",
+        "Juan Manuel Sacnun",
+        "Anton M Lichtenauer",
+        "Lilian Kuster",
+        "Betti Schaefer",
+        "Seth L Alper",
+        "Christoph Aufricht",
+        "Claus Peter Schmitt",
+        "Klaus Kratochwill"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2020-Dec-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Long-term clinical outcome of peritoneal dialysis (PD) depends on adequate removal of small solutes and water. The peritoneal endothelium represents the key barrier and peritoneal transport dysfunction is associated with vascular changes. Alanyl-glutamine (AlaGln) has been shown to counteract PD-induced deteriorations but the effect on vascular changes has not yet been elucidated. Using multiplexed proteomic and bioinformatic analyses we investigated the molecular mechanisms of vascular pathology in-vitro (primary human umbilical vein endothelial cells, HUVEC) and ex-vivo (arterioles of patients undergoing PD) following exposure to PD-fluid. An overlap of 1813 proteins (40%) of over 3100 proteins was identified in both sample types. PD-fluid treatment significantly altered 378 in endothelial cells and 192 in arterioles. The HUVEC proteome resembles the arteriolar proteome with expected sample specific differences of mainly immune system processes only present in arterioles and extracellular region proteins primarily found in HUVEC. AlaGln-addition to PD-fluid revealed 359 differentially abundant proteins and restored the molecular process landscape altered by PD fluid. This study provides evidence on validity and inherent limitations of studying endothelial pathomechanisms in-vitro compared to vascular ex-vivo findings. AlaGln could reduce PD-associated vasculopathy by reducing endothelial cellular damage, restoring perturbed abundances of pathologically important proteins and enriching protective processes.",
+      "mesh_terms": [
+        "Arterioles",
+        "Child",
+        "Cytoprotection",
+        "Dialysis Solutions",
+        "Dipeptides",
+        "Human Umbilical Vein Endothelial Cells",
+        "Humans",
+        "Models, Biological",
+        "Peritoneal Dialysis",
+        "Proteomics"
+      ]
+    },
+    {
+      "pmid": "32826717",
+      "title": "Intervention and Mechanisms of Alanyl-glutamine for Inflammation, Nutrition, and Enteropathy: A Randomized Controlled Trial.",
+      "authors": [
+        "Sean R Moore",
+        "Laura A Quinn",
+        "Elizabeth A Maier",
+        "Marjorie M Guedes",
+        "Josiane S Quetz",
+        "Madeline Perry",
+        "Chethan Ramprasad",
+        "Gabriela M L Lanzarini Lopes",
+        "Jordi Mayneris-Perxachs",
+        "Jonathan Swann",
+        "Alberto M Soares",
+        "José Q Filho",
+        "Francisco S Junior",
+        "Alexandre Havt",
+        "Noelia L Lima",
+        "Richard L Guerrant",
+        "Aldo A M Lima"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2020-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Determine the minimum dosage of alanyl-glutamine (Ala-Gln) required to improve gut integrity and growth in children at risk of environmental enteropathy (EE). METHODS: This was a double-blinded randomized placebo-controlled dose-response trial. We enrolled 140 children residing in a low-income community in Fortaleza, Brazil. Participants were 2 to 60 months old and had weight-for-age (WAZ), height-for-age (HAZ), or weight-for-height (WHZ) z-scores less than -1. We randomized children to 10 days of nutritional supplementation: Ala-Gln at 3 g/day, Ala-Gln at 6 g/day, Ala-Gln at 12 g/day, or an isonitrogenous dose of glycine (Gly) placebo at 12.5 g/day. Our primary outcome was urinary lactulose-mannitol excretion testing. Secondary outcomes were anthropometry, fecal markers of inflammation, urine metabolic profiles, and malabsorption (spot fecal energy). RESULTS: Of 140 children, 103 completed 120 days of follow-up (24% dropout). In the group receiving the highest dose of Ala-Gln, we detected a modest improvement in urinary lactulose excretion from 0.19% on day 1 to 0.17% on day 10 (P = 0.05). We observed significant but transient improvements in WHZ at day 10 in 2 Ala-Gln groups, and in WHZ and WAZ in all Ala-Gln groups at day 30. We detected no effects on fecal inflammatory markers, diarrheal morbidity, or urine metabolic profiles; but did observe modest reductions in fecal energy and fecal lactoferrin in participants receiving Ala-Gln. CONCLUSIONS: Intermediate dose Ala-Gln promotes short-term improvement in gut integrity and ponderal growth in children at risk of EE. Lower doses produced improvements in ponderal growth in the absence of enhanced gut integrity.",
+      "mesh_terms": [
+        "Brazil",
+        "Child",
+        "Child, Preschool",
+        "Dipeptides",
+        "Glutamine",
+        "Humans",
+        "Infant",
+        "Inflammation",
+        "Nutritional Status"
+      ]
+    },
+    {
+      "pmid": "32321150",
+      "title": "Alanyl-glutamine protects the intestinal barrier function in trained rats against the impact of acute exhaustive exercise.",
+      "authors": [
+        "A K L Freitas",
+        "M T B Silva",
+        "C M S Silva",
+        "M M G Prata",
+        "F A P Rodrigues",
+        "R J B Siqueira",
+        "A A M Lima",
+        "A A Santos",
+        "A Havt"
+      ],
+      "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Strenuous exercise triggers deleterious effects on the intestinal epithelium, but their mechanisms are still uncertain. Here, we investigated whether a prolonged training and an additional exhaustive training protocol alter intestinal permeability and the putative effect of alanyl-glutamine (AG) pretreatment in this condition. Rats were allocated into 5 different groups: 1) sedentary; 2 and 3) trained (50 min per day, 5 days per week for 12 weeks) with or without 6 weeks oral (1.5 g/kg) AG supplementation; 4 and 5) trained and subjected to an additional exhaustive test protocol with or without oral AG supplementation. Venous blood samples were collected to determine gasometrical indices at the end of the 12-week protocol or after exhaustive test. Lactate and glucose levels were determined before, during, and after the exhaustive test. Ileum tissue collected after all experimental procedures was used for gene expression analysis of Zonula occludens 1 (ZO-1), occludin, claudin-2, and oligopeptide transporter 1 (PepT-1). Intestinal permeability was assessed by urinary lactulose/mannitol test collected after the 12-week protocol or the exhaustive test. The exhaustive test decreased pH and base excess and increased pCO2. Training sessions delayed exhaustion time and reduced the changes in blood glucose and lactate levels. Trained rats exhibited upregulation of PEPT-1, ZO-1, and occludin mRNA, which were partially protected by AG. Exhaustive exercise induced intestinal paracellular leakage associated with the upregulation of claudin-2, a phenomenon protected by AG treatment. Thus, AG partially prevented intestinal training adaptations but also blocked paracellular leakage during exhaustive exercise involving claudin-2 and occludin gene expression.",
+      "mesh_terms": [
+        "Animals",
+        "Dipeptides",
+        "Intestinal Mucosa",
+        "Male",
+        "Models, Animal",
+        "Permeability",
+        "Physical Conditioning, Animal",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "31255578",
+      "title": "Heat shock response in noise-induced hearing loss: effects of alanyl-glutamine dipeptide supplementation on heat shock proteins status.",
+      "authors": [
+        "Marcos Soares",
+        "Analu B Dos Santos",
+        "Tainara M Weich",
+        "Gabriela Gomes Mânica",
+        "Paulo Ivo Homem de Bittencourt",
+        "Mirna Stela Ludwig",
+        "Thiago Gomes Heck"
+      ],
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: The 72kDa heat shock protein, HSP72, located intracellularly provides cochlear cytoprotective and anti-inflammatory roles in the inner ear during stressful noise challenges. The expression of intracellular HSP72 (iHSP72) can be potentiated by alanyl-glutamine dipeptide supplementation. Conversely, these proteins act as pro-inflammatory signals in the extracellular milieu (eHSP72). OBJECTIVE: We explore whether noise-induced hearing loss promotes both intracellular and extracellular HSP72 heat shock response alterations, and if alanyl-glutamine dipeptide supplementation could modify heat shock response and prevent hearing loss. METHODS: Female 90 day-old Wistar rats (n=32) were randomly divided into four groups: control, noise-induced hearing loss, treated with alanyl-glutamine dipeptide and noise-induced hearing loss plus alanyl-glutamine dipeptide. Auditory brainstem responses were evaluated before noise exposure (124dB SPL for 2h) and 14days after. Cochlea, nuclear cochlear complex and plasma samples were collected for the measurement of intracellular HSP72 and extracellular HSP72 by a high-sensitivity ELISA kit. RESULTS: We found an increase in both iHSP72 and eHSP72 levels in the noise-induced hearing loss group, which was alleviated by alanyl-glutamine dipeptide treatment. Furthermore, H-index of HSP72 (plasma/cochlea eHSP72/iHSP72 ratio) was increased in the noise-induced hearing loss group, but prevented by alanyl-glutamine dipeptide treatment, although alanyl-glutamine dipeptide had no effect on auditory threshold. CONCLUSIONS: Our data indicates that cochlear damage induced by noise exposure is accompanied by local and systemic heat shock response markers. Also, alanyl-glutamine reduced stress markers even though it had no effect on noise-induced hearing loss. Finally, plasma levels of 72kDa heat shock proteins can be used as a biomarker of auditory stress after noise exposure.",
+      "mesh_terms": [
+        "Animals",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Female",
+        "Hearing Loss, Noise-Induced",
+        "Heat-Shock Proteins",
+        "Heat-Shock Response",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "30789107",
+      "title": "Dietary alanyl-glutamine improves growth performance of weaned piglets through maintaining intestinal morphology and digestion-absorption function.",
+      "authors": [
+        "T D Zou",
+        "C X Deng",
+        "Z R Wang",
+        "Y L Ye",
+        "J M You"
+      ],
+      "journal": "Animal : an international journal of animal bioscience",
+      "publication_date": "2019-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alanyl-glutamine (Ala-Gln), a highly soluble and stable glutamine dipeptide, is known to improve gut integrity and function. The aim of this study was to evaluate whether dietary Ala-Gln supplementation could improve growth performance, intestinal development and digestive-absorption function in weaned piglets. A total of 100 purebred Yorkshire piglets weaned at 21 days of age were assigned randomly to four dietary treatment groups and fed a basal diet (control group) or a basal diet containing 0.15%, 0.30% and 0.45% Ala-Gln, respectively. Compared with the control group, piglets fed the Ala-Gln diets had higher average daily gain and lower feed : gain and diarrhea rate (P < 0.05). Moreover, dietary Ala-Gln supplementation increased villous height and villous height : crypt depth ratio in duodenum and jejunum (P < 0.05), as well as the activities of maltase and lysozyme in jejunum mucosa (P < 0.05). In addition, a decrease in serum diamine oxidase activity and crypt depth in duodenum and jejunum was observed in piglets fed the Ala-Gln diets (P < 0.05). Serum cytosolic phospholipase A2 (cPLA2) concentration and gene expression of cPLA2, Na+-dependent glucose transporter 1, glucose transporter 2 and peptide transporter 1 in jejunum were increased by feeding Ala-Gln diets relative to control diet (P < 0.05). These results indicated that feeding Ala-Gln diet has beneficial effects on the growth performance of weaned piglets, which associated with maintaining intestinal morphology and digestive-absorption function.",
+      "mesh_terms": [
+        "Animals",
+        "Diet",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Male",
+        "Swine",
+        "Weaning"
+      ]
+    },
+    {
+      "pmid": "30719009",
+      "title": "Targeted Metabolomic Profiling of Peritoneal Dialysis Effluents Shows Anti-oxidative Capacity of Alanyl-Glutamine.",
+      "authors": [
+        "Florian M Wiesenhofer",
+        "Rebecca Herzog",
+        "Michael Boehm",
+        "Anja Wagner",
+        "Markus Unterwurzacher",
+        "David C Kasper",
+        "Seth L Alper",
+        "Andreas Vychytil",
+        "Christoph Aufricht",
+        "Klaus Kratochwill"
+      ],
+      "journal": "Frontiers in physiology",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Readily available peritoneal dialysis (PD) effluents from PD patients in the course of renal replacement therapy are a potentially rich source for molecular markers for predicting clinical outcome, monitoring the therapy, and therapeutic interventions. The complex clinical phenotype of PD patients might be reflected in the PD effluent metabolome. Metabolomic analysis of PD effluent might allow quantitative detection and assessment of candidate PD biomarkers for prognostication and therapeutic monitoring. We therefore subjected peritoneal equilibration test effluents from 20 stable PD patients, obtained in a randomized controlled trial (RCT) to evaluate cytoprotective effects of standard PD solution (3.86% glucose) supplemented with 8 mM alanyl-glutamine (AlaGln) to targeted metabolomics analysis. One hundred eighty eight pre-defined metabolites, including free amino acids, acylcarnitines, and glycerophospholipids, as well as custom metabolic indicators calculated from these metabolites were surveyed in a high-throughput assay requiring only 10 μl of PD effluent. Metabolite profiles of effluents from the cross-over trial were analyzed with respect to AlaGln status and clinical parameters such as duration of PD therapy and history of previous episodes of peritonitis. This targeted approach detected and quantified 184 small molecules in PD effluent, a larger number of detected metabolites than in all previous metabolomic studies in PD effluent combined. Metabolites were clustered within substance classes regarding concentrations after a 4-h dwell. PD effluent metabolic profiles were differentiated according to PD patient sub-populations, revealing novel changes in small molecule abundance during PD therapy. AlaGln supplementation of PD fluid altered levels of specific metabolites, including increases in alanine and glutamine but not glutamate, and reduced levels of small molecule indicators of oxidative stress, such as methionine sulfoxide. Our study represents the first application of targeted metabolomics to PD effluents. The observed metabolomic changes in PD effluent associated with AlaGln-supplementation during therapy suggested an anti-oxidant effect, and were consistent with the restoration of important stress and immune processes previously noted in the RCT. High-throughput detection of PD effluent metabolomic signatures and their alterations by therapeutic interventions offers new opportunities for metabolome-clinical correlation in PD and for prescription of personalized PD therapy."
+    },
+    {
+      "pmid": "30466563",
+      "title": "Does alanyl-glutamine supplementation offer potential to improve peritoneal dialysate biocompatibility?",
+      "authors": [
+        "Martin Wilkie",
+        "Simon Davies"
+      ],
+      "journal": "Kidney international",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Comment"
+      ],
+      "abstract": "Peritoneal dialysis technique survival remains challenging due to peritonitis and long-term alterations to peritoneal membrane function and integrity. Up to now, the development of less bio-incompatible dialysis solutions have not had a major impact on these aspects of the therapy. A novel approach, supplementing dialysis solutions with a cytoprotective additive, alanyl-glutamine, has shown benefits to surrogate biomarkers of cell function in a randomized controlled study.",
+      "mesh_terms": [
+        "Biomarkers",
+        "Dialysis Solutions",
+        "Dipeptides",
+        "Humans",
+        "Peritoneal Dialysis",
+        "Peritoneum",
+        "Peritonitis"
+      ]
+    },
+    {
+      "pmid": "30360960",
+      "title": "A randomized controlled trial of alanyl-glutamine supplementation in peritoneal dialysis fluid to assess impact on biomarkers of peritoneal health.",
+      "authors": [
+        "Andreas Vychytil",
+        "Rebecca Herzog",
+        "Paul Probst",
+        "Werner Ribitsch",
+        "Karl Lhotta",
+        "Veronika Machold-Fabrizii",
+        "Martin Wiesholzer",
+        "Michaela Kaufmann",
+        "Hermann Salmhofer",
+        "Martin Windpessl",
+        "Alexander R Rosenkranz",
+        "Rainer Oberbauer",
+        "Franz König",
+        "Klaus Kratochwill",
+        "Christoph Aufricht"
+      ],
+      "journal": "Kidney international",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In early clinical testing, acute addition of alanyl-glutamine (AlaGln) to glucose-based peritoneal dialysis (PD) fluids restored peritoneal cellular stress responses and leukocyte function. This study was designed to test the effect of extended treatment with AlaGln-supplemented PD fluid on biomarkers of peritoneal health. In a double-blinded, randomized crossover design, stable PD patients were treated with AlaGln (8 mM) or placebo added to PD fluid for eight weeks. As primary outcome measures, dialysate cancer-antigen 125 (CA-125) appearance rate and ex vivo stimulated interleukin-6 (IL-6) release were assessed in peritoneal equilibration tests. In 8 Austrian centers, 54 patients were screened, 50 randomized, and 41 included in the full analysis set. AlaGln supplementation significantly increased CA-125 appearance rate and ex vivo stimulated IL-6 release. AlaGln supplementation also reduced peritoneal protein loss, increased ex vivo stimulated tumor necrosis factor (TNF)-α release, and reduced systemic IL-8 levels. No adverse safety signals were observed. All 4 peritonitis episodes occurred during standard PD fluid treatment. A novel AlaGln-supplemented PD fluid improves biomarkers of peritoneal membrane integrity, immune competence, and systemic inflammation compared to unsupplemented PD fluid with neutral pH and low-glucose degradation. A phase 3 trial is needed to determine the impact of AlaGln supplementation on hard clinical outcomes.",
+      "mesh_terms": [
+        "Aged",
+        "Austria",
+        "Biomarkers",
+        "Cross-Over Studies",
+        "Dialysis Solutions",
+        "Dipeptides",
+        "Female",
+        "Humans",
+        "Kidney Failure, Chronic",
+        "Male",
+        "Middle Aged",
+        "Peritoneal Dialysis",
+        "Peritoneum",
+        "Peritonitis",
+        "Proof of Concept Study",
+        "Prospective Studies",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "30247422",
+      "title": "Alanyl-glutamine Protects Against Damage Induced by Enteroaggregative Escherichia coli Strains in Intestinal Cells.",
+      "authors": [
+        "Mara M G Prata",
+        "Paloma A Cavalcante",
+        "Antonio V Alves da Silva",
+        "Pedro H Q S de Medeiros",
+        "Eudmar M de Assis Júnior",
+        "Mayra A V Reyes",
+        "Josiane da S Quetz",
+        "Marco A F Clementino",
+        "Samilly A Ribeiro",
+        "Ila F N Lima",
+        "Roberto C P Lima-Junior",
+        "Alexandre Havt",
+        "Richard L Guerrant",
+        "Aldo A M Lima"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Enteroaggregative Escherichia coli (EAEC) is an important pathogen causing enteric infections worldwide. This pathotype is linked to malnutrition in children from developing countries. Alanyl-glutamine (Ala-Gln) is an immune modulator nutrient that acts during intestinal damage and/or inflammation. This study investigated the effect of EAEC infection and Ala-Gln on cell viability, cell death, and inflammation of intestinal epithelium cells (IEC-6). METHODS: Cells were infected with an EAEC prototype 042 strain, an EAEC wild-type strain isolated from a Brazilian malnourished child, and a commensal E coli HS. Gene transcription and protein levels of caspases-3, -8, and -9 and cytokine-induced neutrophil chemoattractant 1 (CINC-1/CXCL1) were evaluated using RT-qPCR, western blot analysis, and ELISA. RESULTS: Infections with both EAEC strains decreased cell viability and induced apoptosis and necrosis after 24 hours. Ala-Gln supplementation increased cell proliferation and reduced cell death in infected cells. Likewise, EAEC strain 042 significantly increased the transcript levels of caspases-3, -8, and -9 when compared to the control group, and Ala-Gln treatment reversed this effect. Furthermore, EAEC induced CXCL1 protein levels, which were also reduced by Ala-Gln supplementation. CONCLUSION: These findings suggest that EAEC infection promotes apoptosis, necrosis, and intestinal inflammation with involvement of caspases. Supplementation of Ala-Gln inhibits cell death, increases cell proliferation, attenuates mediators associated with cell death, and inflammatory pathways in infected cells.",
+      "mesh_terms": [
+        "Cell Survival",
+        "Chemokine CXCL1",
+        "Child",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Epithelial Cells",
+        "Escherichia coli",
+        "Escherichia coli Infections",
+        "Humans",
+        "Intestinal Mucosa",
+        "Protective Agents"
+      ]
+    },
+    {
+      "pmid": "35542200",
+      "title": "NMR-based metabolomic analysis of the effects of alanyl-glutamine supplementation on C2C12 myoblasts injured by energy deprivation.",
+      "authors": [
+        "Zhiqing Liu",
+        "Caihua Huang",
+        "Yan Liu",
+        "Donghai Lin",
+        "Yufen Zhao"
+      ],
+      "journal": "RSC advances",
+      "publication_date": "2018-Apr-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The dipeptide alanyl-glutamine (Ala-Gln) is a well-known parenteral nutritional supplement. The Ala-Gln supplementation is a potential treatment for muscle-related diseases and injuries. However, molecular mechanisms underlying the polyphenic effects of Ala-Gln supplementation remain elusive. Here, we performed NMR-based metabolomic profiling to analyze the effects of Ala-Gln, and the free alanine (Ala) and glutamine (Gln) supplementations on the mouse myoblast cell line C2C12 injured by glucose and glutamine deprivation. All the three supplementations can promote the differentiation ability of the injured C2C12 cells, while only Ala-Gln supplementation can facilitate the proliferation of the injured cells. Ala-Gln supplementation can partially restore the metabolic profile of C2C12 myoblasts disturbed by glucose and glutamine deprivation, and exhibits more significant effects than Ala and Gln supplementations. Our results suggest that Ala-Gln supplementation can promote MyoD1 protein synthesis, upregulate the muscle ATP-storage phosphocreatine (PCr), maintain TCA cycle anaplerosis, enhance the antioxidant capacity through promoting GSH biosynthesis, and stabilize lipid membranes by suppressing glycerophospholipids metabolism. This work provides new insight into mechanistic understanding of the polyphenic effects of Ala-Gln supplementation on muscle cells injured by energy deprivation."
+    },
+    {
+      "pmid": "29208752",
+      "title": "Effects of Alanyl-Glutamine Treatment on the Peritoneal Dialysis Effluent Proteome Reveal Pathomechanism-Associated Molecular Signatures.",
+      "authors": [
+        "Rebecca Herzog",
+        "Michael Boehm",
+        "Markus Unterwurzacher",
+        "Anja Wagner",
+        "Katja Parapatics",
+        "Peter Májek",
+        "André C Mueller",
+        "Anton Lichtenauer",
+        "Keiryn L Bennett",
+        "Seth L Alper",
+        "Andreas Vychytil",
+        "Christoph Aufricht",
+        "Klaus Kratochwill"
+      ],
+      "journal": "Molecular & cellular proteomics : MCP",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Peritoneal dialysis (PD) is a modality of renal replacement therapy in which the high volumes of available PD effluent (PDE) represents a rich source of biomarkers for monitoring disease and therapy. Although this information could help guide the management of PD patients, little is known about the potential of PDE to define pathomechanism-associated molecular signatures in PD.We therefore subjected PDE to a high-performance multiplex proteomic analysis after depletion of highly-abundant plasma proteins and enrichment of low-abundance proteins. A combination of label-free and isobaric labeling strategies was applied to PDE samples from PD patients (n = 20) treated in an open-label, randomized, two-period, cross-over clinical trial with standard PD fluid or with a novel PD fluid supplemented with alanyl-glutamine (AlaGln).With this workflow we identified 2506 unique proteins in the PDE proteome, greatly increasing coverage beyond the 171 previously-reported proteins. The proteins identified range from high abundance plasma proteins to low abundance cellular proteins, and are linked to larger numbers of biological processes and pathways, some of which are novel for PDE. Interestingly, proteins linked to membrane remodeling and fibrosis are overrepresented in PDE compared with plasma, whereas the proteins underrepresented in PDE suggest decreases in host defense, immune-competence and response to stress. Treatment with AlaGln-supplemented PD fluid is associated with reduced activity of membrane injury-associated mechanisms and with restoration of biological processes involved in stress responses and host defense.Our study represents the first application of the PDE proteome in a randomized controlled prospective clinical trial of PD. This novel proteomic workflow allowed detection of low abundance biomarkers to define pathomechanism-associated molecular signatures in PD and their alterations by a novel therapeutic intervention.",
+      "mesh_terms": [
+        "Blood Proteins",
+        "Cross-Over Studies",
+        "Dipeptides",
+        "Female",
+        "Humans",
+        "Male",
+        "Peritoneal Dialysis",
+        "Proteome"
+      ]
+    },
+    {
+      "pmid": "28861626",
+      "title": "Alanyl-glutamine but not glycyl-glutamine improved the proliferation of enterocytes as glutamine substitution in vitro.",
+      "authors": [
+        "Bie Tan",
+        "Honglan Liu",
+        "Guangzu He",
+        "Hao Xiao",
+        "Dingfu Xiao",
+        "Yanhong Liu",
+        "Jianping Wu",
+        "Jun Fang",
+        "Yulong Yin"
+      ],
+      "journal": "Amino acids",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The synthetic dipeptides alanyl-glutamine (Ala-Gln) and glycyl-glutamine (Gly-Gln) are used as Gln substitution to provide energy source in the gastrointestinal tract due to their high solubility and stability. This study aimed to investigate the effects of Gln, Ala-Gln and Gly-Gln on mitochondrial respiration and protein turnover of enterocytes. Intestinal porcine epithelial cells (IPEC-J2) were cultured for 2 days in Dulbecco's modified Eagle's-F12 Ham medium (DMEM-F12) containing 2.5 mM Gln, Ala-Gln or Gly-Gln. Results from 5-ethynyl-2'-deoxyuridine incorporation and flow cytometry analysis indicated that there were no differences in proliferation between free Gln and Ala-Gln-treated cells, whereas Gly-Gln treatment inhibited the cell growth compared with Gln treatment. Significantly lower mRNA expressions of Sp1 and PepT1 were also observed in Gly-Gln-treated cells than that of Ala-Gln treatment. Ala-Gln treatment increased the basal respiration and ATP production, compared with free Gln and Gly-Gln treatments. There were no differences in protein turnover between free Gln and Ala-Gln-treated cells, but Gly-Gln treatment reduced protein synthesis and increased protein degradation. Ala-Gln treatment stimulated mTOR activation whereas Gly-Gln decreased mTOR phosphorylation and increased the UB protein expression compared with free Gln treatment. These results indicate that Ala-Gln has the very similar functional profile to free Gln in porcine enterocytes in vitro and can be substituted Gln as energy and protein sources in the gastrointestinal tract.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Dipeptides",
+        "Enterocytes",
+        "Glutamine",
+        "In Vitro Techniques",
+        "Swine"
+      ]
+    },
+    {
+      "pmid": "27383799",
+      "title": "Effects of alanyl-glutamine supplementation on the small intestinal mucosa barrier in weaned piglets.",
+      "authors": [
+        "Shen Xing",
+        "Bolin Zhang",
+        "Meng Lin",
+        "Ping Zhou",
+        "Jiaolong Li",
+        "Lin Zhang",
+        "Feng Gao",
+        "Guanghong Zhou"
+      ],
+      "journal": "Asian-Australasian journal of animal sciences",
+      "publication_date": "2017-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The study was to investigate the effects of alanyl-glutamine (Ala-Gln) and glutamine (Gln) supplementation on the intestinal mucosa barrier in piglets. METHODS: A total of 180 barrows with initial weight 10.01±0.03 kg were randomly allocated to three treatments, and each treatment consisted of three pens and twenty pigs per pen. The piglets of three groups were fed with control diet [0.62% alanine (Ala)], Ala-Gln diet (0.5% Ala-Gln), Gln diet (0.34% Gln and 0.21% Ala), respectively. RESULTS: The results showed that in comparison with control diet, dietary Ala-Gln supplementation increased the height of villi in duodenum and jejunum (p<0.05), Gln supplementation increased the villi height of jejunum (p<0.05), Ala-Gln supplementation up-regulated the mRNA expressions of epidermal growth factor receptor and insulin-like growth factor 1 receptor in jejunal mucosa (p<0.05), raised the mRNA expressions of Claudin-1, Occludin, zonula occludens protein-1 (ZO-1) and the protein levels of Occludin, ZO-1 in jejunal mucosa (p<0.05), Ala-Gln supplementation enlarged the number of goblet cells in duodenal and ileal epithelium (p<0.05), Gln increased the number of goblet cells in duodenal epithelium (p<0.05) and Ala-Gln supplementation improved the concentrations of secretory immunoglobulin A and immunoglobulin G in the jejunal mucosa (p<0.05). CONCLUSION: These results demonstrated that dietary Ala-Gln supplementation could maintain the integrity of small intestine and promote the functions of intestinal mucosa barriers in piglets."
+    },
+    {
+      "pmid": "27155955",
+      "title": "Alanyl-glutamine supplementation regulates mTOR and ubiquitin proteasome proteolysis signaling pathways in piglets.",
+      "authors": [
+        "Bolin Zhang",
+        "Meng Lin",
+        "Changning Yu",
+        "Jiaolong Li",
+        "Lin Zhang",
+        "Ping Zhou",
+        "Wenwei Yang",
+        "Feng Gao",
+        "Guanghong Zhou"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2016-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The aim of the present study was to investigate the effects of the alanyl-glutamine dipeptide (Ala-Gln) or the combination supplementation of free alanine and glutamine (Ala+Gln) on the mammalian target of rapamycin (mTOR) and ubiquitin-proteasome proteolysis (UPP) signaling pathways in piglets. METHODS: We randomly allocated 180 piglets to three treatments with three replicates of 20 piglets each, fed with diets containing 0.62% Ala, 0.5% Ala-Gln, 0.21% Ala+0.34% Gln, respectively. The duration of the experiment was 28 d. RESULTS: The results showed that Ala-Gln increased average daily gain of piglets, and decreased the ratio of feed to gain (P < 0.05). Ala-Gln supplementation increased the concentrations of Gln and glutamate and decreased the activity of glutamine synthetase in liver and skeletal muscle (P < 0.05). Ala-Gln increased the expression of glutaminase and glutamate dehydrogenate (P < 0.05). The increased phosphorylation of eIF-4 E binding protein 1 (4E-BP1) and ribosomal protein S6 kinase 1 (S6K1) in Ala-Gln treatment were associated with phosphorylation of the mTOR in liver and skeletal muscle. Ala+Gln did not affect the phosphorylation abundances of mTOR, 4E-BP1, or S6K1 (P > 0.05). Ala-Gln supplementation inhibited the mRNA expressions of MAFbx and MuRF1 in skeletal muscle of piglets (P < 0.05). CONCLUSION: Taken together, Ala-Gln supplementation improved the growth performance of piglets, enhanced the metabolism of Gln, upregulated protein synthetic signaling in liver and skeletal muscle and decreased protein degradative signaling in muscle of piglets. Moreover, these effects of Ala-Gln were more effective than those of Ala+Gln.",
+      "mesh_terms": [
+        "Alanine",
+        "Alanine Transaminase",
+        "Animals",
+        "Aspartate Aminotransferases",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Glutamate Dehydrogenase",
+        "Glutamate-Ammonia Ligase",
+        "Glutamic Acid",
+        "Glutaminase",
+        "Glutamine",
+        "Liver",
+        "Male",
+        "Muscle, Skeletal",
+        "Proteasome Endopeptidase Complex",
+        "Proteolysis",
+        "RNA, Messenger",
+        "Signal Transduction",
+        "Sus scrofa",
+        "TOR Serine-Threonine Kinases",
+        "Ubiquitins",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "26880457",
+      "title": "The dipeptide alanyl-glutamine ameliorates peritoneal fibrosis and attenuates IL-17 dependent pathways during peritoneal dialysis.",
+      "authors": [
+        "Evelina Ferrantelli",
+        "Georgios Liappas",
+        "Marc Vila Cuenca",
+        "Eelco D Keuning",
+        "Thomas L Foster",
+        "Marc G Vervloet",
+        "Manuel Lopéz-Cabrera",
+        "Robert H J Beelen"
+      ],
+      "journal": "Kidney international",
+      "publication_date": "2016-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Peritoneal dialysis (PD) can result in chronic inflammation and progressive peritoneal membrane damage. Alanyl-Glutamine (Ala-Gln), a dipeptide with immunomodulatory effects, improved resistance of mesothelial cells to PD fluids. Recently, interleukin-17 (IL-17) was found to be associated with PD-induced peritoneal damage. Here we studied the capacity of intraperitoneal Ala-Gln administration to protect against peritoneal damage by modulating IL-17 expression in uremic rat and mouse PD exposure models. Supplementation of PD fluid with Ala-Gln resulted in reduced peritoneal thickness, αSMA expression and angiogenesis. Addition of Ala-Gln also attenuated the IL-17 pathway expression induced by PD, reflected by substantial reduction or normalization of peritoneal levels of IL-17, transforming growth factor β, IL-6, and the transcription factor retinoic acid receptor-related orphan receptor gamma T. Moreover, increased levels of IL-17 were associated with PD-induced peritoneal thickening. Conversely, Ala-Gln treatment prevented peritoneal extracellular matrix deposition, an effect seen with IL-17 blockade. Thus, intraperitoneal administration of Ala-Gln, a stable dipeptide commonly used in parenteral nutrition, ameliorates PD-induced peritoneal damage in animal models, in part by modulating IL-17 expression. Hence, Ala-Gln supplementation of dialysate may be a potential strategy to ameliorate peritoneal deterioration during PD.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Cytoprotection",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Epithelial-Mesenchymal Transition",
+        "Extracellular Matrix",
+        "Female",
+        "Inflammation Mediators",
+        "Interleukin-17",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Neovascularization, Pathologic",
+        "Peritoneal Dialysis",
+        "Peritoneal Fibrosis",
+        "Peritoneum",
+        "Protective Agents",
+        "Rats, Wistar",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "25945744",
+      "title": "Alanyl-glutamine attenuates 5-fluorouracil-induced intestinal mucositis in apolipoprotein E-deficient mice.",
+      "authors": [
+        "C V Araújo",
+        "C R Lazzarotto",
+        "C C Aquino",
+        "I L Figueiredo",
+        "T B Costa",
+        "L A de Oliveira Alves",
+        "R A Ribeiro",
+        "L R Bertolini",
+        "A A M Lima",
+        "G A C Brito",
+        "R B Oriá"
+      ],
+      "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Apolipoprotein E (APOE=gene, apoE=protein) is a known factor regulating the inflammatory response that may have regenerative effects during tissue recovery from injury. We investigated whether apoE deficiency reduces the healing effect of alanyl-glutamine (Ala-Gln) treatment, a recognized gut-trophic nutrient, during tissue recovery after 5-FU-induced intestinal mucositis. APOE-knockout (APOE-/-) and wild-type (APOE+/+) C57BL6J male and female mice (N=86) were given either Ala-Gln (100 mM) or phosphate buffered saline (PBS) by gavage 3 days before and 5 days after a 5-fluorouracil (5-FU) challenge (450 mg/kg, via intraperitoneal injection). Mouse body weight was monitored daily. The 5-FU cytotoxic effect was evaluated by leukometry. Intestinal villus height, villus/crypt ratio, and villin expression were monitored to assess recovery of the intestinal absorptive surface area. Crypt length, mitotic, apoptotic, and necrotic crypt indexes, and quantitative real-time PCR for insulin-like growth factor-1 (IGF-1) and B-cell lymphoma 2 (Bcl-2) intestinal mRNA transcripts were used to evaluate intestinal epithelial cell turnover. 5-FU challenge caused significant weight loss and leukopenia (P<0.001) in both mouse strains, which was not improved by Ala-Gln. Villus blunting, crypt hyperplasia, and reduced villus/crypt ratio (P<0.05) were found in all 5-FU-challenged mice but not in PBS controls. Ala-Gln improved villus/crypt ratio, crypt length and mitotic index in all challenged mice, compared with PBS controls. Ala-Gln improved villus height only in APOE-/- mice. Crypt cell apoptosis and necrotic scores were increased in all mice challenged by 5-FU, compared with untreated controls. Those scores were significantly lower in Ala-Gln-treated APOE+/+ mice than in controls. Bcl-2 and IGF-1 mRNA transcripts were reduced only in the APOE-/- -challenged mice. Altogether our findings suggest APOE-independent Ala-Gln regenerative effects after 5-FU challenge.",
+      "mesh_terms": [
+        "Animals",
+        "Antimetabolites, Antineoplastic",
+        "Apolipoproteins E",
+        "Apoptosis",
+        "Body Weight",
+        "Dipeptides",
+        "Female",
+        "Fluorouracil",
+        "Insulin-Like Growth Factor I",
+        "Intestinal Mucosa",
+        "Leukocyte Count",
+        "Lymphoma, B-Cell",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Mitosis",
+        "Mucositis",
+        "Random Allocation",
+        "Real-Time Polymerase Chain Reaction",
+        "Reproducibility of Results",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "25837223",
+      "title": "Regulation of skeletal muscle protein synthetic and degradative signaling by alanyl-glutamine in piglets challenged with Escherichia coli lipopolysaccharide.",
+      "authors": [
+        "Bolin Zhang",
+        "Changning Yu",
+        "Meng Lin",
+        "Ya'nan Fu",
+        "Lin Zhang",
+        "Meijuan Meng",
+        "Shen Xing",
+        "Jiaolong Li",
+        "Hui Sun",
+        "Feng Gao",
+        "Guanghong Zhou"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2015-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The aim of this study was to investigate the effects of alanyl-glutamine (Ala-Gln) on skeletal muscle protein synthetic and degradative signaling in piglets challenged with Escherichia coli lipopolysaccharide (LPS). METHODS: Piglets were arranged in a 2 × 2 factorial design and the main effects were LPS challenge (0 or 100 units) and diets (0.62% Ala or 0.5% Ala-Gln). After treatment with either Ala or Ala-Gln for 10 d, piglets were injected twice with either saline or LPS on days 11 and 15. RESULTS: During days 11 to 15 (postchallenge), LPS challenge affected the growth performance of piglets. Ala-Gln supplementation tended to alleviate the reduction of the average daily weight gain (P = 0.071) and the average daily feed intake (P = 0.087) of the LPS-challenged piglets. LPS challenge increased the concentrations of cytokines in plasma (P < 0.05), however, Ala-Gln supplementation prevented the elevation of cortisol induced by LPS challenge (P < 0.05). Moreover, Ala-Gln supplementation increased the mRNA expressions of insulin-like growth factor-1 signaling and Akt (P < 0.05). Ala-Gln supplementation also increased the phosphorylation abundance of the mammalian target of rapamycin, eIF-4 E binding protein 1 and ribosomal protein S6 kinase 1 (P < 0.05). Additionally, Ala-Gln supplementation down-regulated the mRNA abundances of toll-like receptor 4 (TLR4), muscle atrophy F-box, and muscle RING finger 1, which are associated with protein degradation induced by LPS challenge. CONCLUSION: Ala-Gln supplementation had beneficial effects in improving protein synthesis signaling of skeletal muscle, and reversed the deleterious changes of signaling molecules in muscle atrophy mainly through down-regulation of Akt/FOXO and TLR4 signaling pathways induced by LPS challenge.",
+      "mesh_terms": [
+        "Animals",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Eating",
+        "Escherichia coli",
+        "Insulin-Like Growth Factor I",
+        "Lipopolysaccharides",
+        "Male",
+        "Muscle Proteins",
+        "Muscle, Skeletal",
+        "Peptide Initiation Factors",
+        "Phosphorylation",
+        "Protein Biosynthesis",
+        "Protein Serine-Threonine Kinases",
+        "Proteolysis",
+        "Ribosomal Protein S6 Kinases, 90-kDa",
+        "Signal Transduction",
+        "Swine",
+        "Toll-Like Receptor 4",
+        "Treatment Outcome",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "25108105",
+      "title": "Enteral supplementation of alanyl-glutamine attenuates the up-regulation of beta-defensin-2 protein in lung injury induced by intestinal ischemia reperfusion in rats.",
+      "authors": [
+        "Yun Li",
+        "Xiao-Bin Wu",
+        "Jia-Gen Li",
+        "Yi-Jia Lin",
+        "Hong-Lei Chen",
+        "Hu Song",
+        "Zhong-Hui Liu",
+        "Jun-Sheng Peng"
+      ],
+      "journal": "International journal of surgery (London, England)",
+      "publication_date": "2014-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Beta-defensin-2 (BD-2), an endogenous antimicrobial peptide, plays a key role in immune response against microbial invasion. This study aimed to observe the effect of Alanyl-Glutamine (Ala-Gln) on BD-2 protein expression in pulmonary tissues after intestinal ischemia reperfusion (IIR) in rats and to investigate its correlations to pulmonary inflammatory and oxidative injury. METHODS: Rats in IIR and the two treatment groups were subjected to intestine ischemia for 60 min and those in the treatment groups were administered orally with Ala-Gln or alanine (Ala) respectively. Lung tissues were harvested to detect the BD-2 protein expression. Concentrations of Tumor necrosis factor (TNF)-α and malondialdehyde (MDA) as well as superoxide dismutase (SOD) activity in lung tissues were determined simultaneously. RESULTS: Ala-Gln attenuated the up-regulation of BD-2 expression (p < 0.05) and TNF-α (p < 0.05), MDA (p < 0.05) levels, as well as the reduction of SOD activity (p < 0.05) in lung tissues after IIR. But Ala did not exert significant effects. BD-2 protein in lung tissues was positively correlated to local TNF-α level (p < 0.01) and MDA concentration (p < 0.01) with statistical significance. CONCLUSION: Ala-Gln can relieve the IIR-induced up-regulation of BD-2 protein expression in the lung of rats, which involves anti-inflammation and anti-oxidation mechanisms.",
+      "mesh_terms": [
+        "Acute Lung Injury",
+        "Animals",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Enteral Nutrition",
+        "Male",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Reperfusion Injury",
+        "Tumor Necrosis Factor-alpha",
+        "Up-Regulation",
+        "beta-Defensins"
+      ]
+    },
+    {
+      "pmid": "23721689",
+      "title": "Alanyl-glutamine administration suppresses Th17 and reduces inflammatory reaction in dextran sulfate sodium-induced acute colitis.",
+      "authors": [
+        "Yu-Chen Hou",
+        "Jun-Jen Liu",
+        "Man-Hui Pai",
+        "Shung-Sheng Tsou",
+        "Sung-Ling Yeh"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "T helper (Th) cells play a major role in the pathogenesis of inflammatory bowel disease (IBD). Glutamine (Gln) is known to have immunomodulatory effects in metabolic stressed conditions. This study investigated the effects of post-treatment of alanyl-glutamine (Ala-Gln) on Th cell-associated cytokine expressions and inflammatory reaction in dextran sulfate sodium (DSS)-induced colitis. C57BL/6 mice received distilled water containing 3% DSS for 5 days to induce colitis, whereas the normal control (NC) group received distilled water. After induction of colitis, one of the colitis groups (DG) was intraperitoneally injected with an Ala-Gln solution (0.5 g Gln/kg/d), and the saline DSS group (DS) received an identical volume of saline. After treatment for 3 days, mice were sacrificed, and the blood and tissue samples were collected for further analysis. DSS colitis resulted in higher percentages of blood interleukin (IL)-17-secreting Th cells and greater expression of Th cell-associated cytokine messenger RNA (mRNA) in the mesenteric lymph nodes (MLN). Also, luminal immunoglobin (Ig) G, keratinocyte-derived chemokine, and macrophage chemoattractant protein-1 levels were higher in the DS group than the NC group, whereas these parameters did not differ between the DG and NC groups. The DG group had lower blood IL-17A, 17F, MLN IL-17 mRNA and macrophage percentage in the peritoneal lavage fluid than those of the DS group. These results suggest that post-treatment with Ala-Gln suppressed Th17-associated cytokine expressions, reduced macrophage infiltration into the peritoneal cavity and decreased pro-inflammatory cytokine production in the colon, thus may have attenuated inflammatory response in DSS-induced colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Colitis",
+        "Colon",
+        "Cytokines",
+        "Dextran Sulfate",
+        "Dipeptides",
+        "Gene Expression Regulation",
+        "Inflammation",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "RNA, Messenger",
+        "Th17 Cells"
+      ]
+    },
+    {
+      "pmid": "23657308",
+      "title": "Improvement of intestinal permeability with alanyl-glutamine in HIV patients: a randomized, double blinded, placebo-controlled clinical trial.",
+      "authors": [
+        "Robério Dias Leite",
+        "Noélia Leal Lima",
+        "Christiane Araujo Chaves Leite",
+        "Calil Kairalla Farhat",
+        "Richard Littleton Guerrant",
+        "Aldo Angelo Moreira Lima"
+      ],
+      "journal": "Arquivos de gastroenterologia",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CONTEXT: Glutamine is the main source of energy of the enterocyte and diarrhea and weight loss are frequent in HIV infected patients. OBJECTIVE: To determine the effect of alanyl-glutamine supplementation on intestinal permeability and absorption in these patients. METHODS: Randomized double-blinded, placebo-controlled study using isonitrogenous doses of alanyl-glutamine (24 g/day) and placebo (glycine, 25 g/day) during 10 days. Before and after this nutritional supplementation lactulose and mannitol urinary excretion were determined by high performance liquid chromatography. RESULTS: Forty six patients with HIV/AIDS, 36 of whom were male, with 37.28 ± 3 (mean ± standard error) years were enrolled. Twenty two and 24 subjects were treated with alanyl-glutamine and with glycine respectively. In nine patients among all in the study protocol that reported diarrhea in the 14 days preceding the beginning of the study, mannitol urinary excretion was significantly lower than patients who did not report this symptom [median (range): 10.51 (3.01-19.75) vs. 15.37 (3.93-46.73); P = 0.0281] and lactulose/mannitol ratio was significantly higher [median (range): 0.04 (0.00-2.89) vs. 0.02 (0.00-0.19); P = 0.0317]. There was also a significant increase in mannitol urinary excretion in the group treated with alanyl-glutamine [median (range): 14.38 (8.25-23.98) before vs 21.24 (6.27-32.99) after treatment; n = 14, P = 0.0382]. CONCLUSION: Our results suggest that the integrity and intestinal absorption are more intensely affected in patients with HIV/AIDS who recently have had diarrhea. Additionally, nutritional supplementation with alanyl-glutamine was associated with an improvement in intestinal absorption.",
+      "mesh_terms": [
+        "Adult",
+        "Diarrhea",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Double-Blind Method",
+        "Female",
+        "HIV Infections",
+        "Humans",
+        "Intestinal Absorption",
+        "Intestinal Mucosa",
+        "Male",
+        "Permeability",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "23562219",
+      "title": "Efficacy and safety of a parenteral amino acid solution containing alanyl-glutamine versus standard solution in infants: a first-in-man randomized double-blind trial.",
+      "authors": [
+        "Marie-Chantal Struijs",
+        "Thomas Schaible",
+        "Ruurd M van Elburg",
+        "Christian Debauche",
+        "Harma te Beest",
+        "Dick Tibboel"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Efforts are directed at reaching the optimal composition of pediatric amino acids (AA) infusions. The goal was to demonstrate the safety and efficacy of a newly developed parenteral AA solution containing alanyl-glutamine (GLN-AA) compared to Standard-AA. METHODS: This is a randomized (2:1), double-blind, multicentre clinical pilot trial. Infants after surgical interventions were allocated to receive GLN-AA or Standard-AA over a minimum of 5 days to maximum of 10 days. AA profiles in blood samples obtained at baseline, day 7, and end of treatment were compared to normal ranges. Data regarding safety, and efficacy were also collected. RESULTS: Infants were comparable for (safety population) gestational age at birth (36 vs 38 weeks), birth weight (2460 vs 2955 g), and day of life during start intervention (1 vs 2 days). Plasma AA profiles in infants treated with GLN-AA (n = 13) were closer the normal ranges than those in infants treated with Standard-AA (n = 6). There were no clinical or statistical differences in adverse events, safety and efficacy parameters between both groups. CONCLUSION: This first-in-man study shows that GLN-AA is safe in infants after surgical interventions, and is well tolerated. Compared to reference values, GLN-AA better reflects the amino acid requirements of the infant.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Birth Weight",
+        "Dipeptides",
+        "Double-Blind Method",
+        "Endpoint Determination",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Gestational Age",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Infant, Premature, Diseases",
+        "Male",
+        "Parenteral Nutrition Solutions",
+        "Pilot Projects"
+      ]
+    },
+    {
+      "pmid": "23484083",
+      "title": "Glutamine and alanyl-glutamine increase RhoA expression and reduce Clostridium difficile toxin-a-induced intestinal epithelial cell damage.",
+      "authors": [
+        "Ana A Q A Santos",
+        "Manuel B Braga-Neto",
+        "Marcelo R Oliveira",
+        "Rosemeire S Freire",
+        "Eduardo B Barros",
+        "Thiago M Santiago",
+        "Luciana M Rebelo",
+        "Claudia Mermelstein",
+        "Cirle A Warren",
+        "Richard L Guerrant",
+        "Gerly A C Brito"
+      ],
+      "journal": "BioMed research international",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Clostridium difficile is a major cause of antibiotic-associated colitis and is associated with significant morbidity and mortality. Glutamine (Gln) is a major fuel for the intestinal cell population. Alanyl-glutamine (Ala-Gln) is a dipeptide that is highly soluble and well tolerated. IEC-6 cells were used in the in vitro experiments. Cell morphology was evaluated by atomic force microscopy (AFM) and scanning electron microscopy (SEM). Cell proliferation was assessed by WST-1 and Ki-67 and apoptosis was assessed by TUNEL. Cytoskeleton was evaluated by immunofluorescence for RhoA and F-actin. RhoA was quantified by immunoblotting. TcdA induced cell shrinkage as observed by AFM, SEM, and fluorescent microscopy. Additionally, collapse of the F-actin cytoskeleton was demonstrated by immunofluorescence. TcdA decreased cell volume and area and increased cell height by 79%, 66.2%, and 58.9%, respectively. Following TcdA treatment, Ala-Gln and Gln supplementation, significantly increased RhoA by 65.5% and 89.7%, respectively at 24 h. Ala-Gln supplementation increased cell proliferation by 137.5% at 24 h and decreased cell apoptosis by 61.4% at 24 h following TcdA treatment. In conclusion, TcdA altered intestinal cell morphology and cytoskeleton organization, decreased cell proliferation, and increased cell apoptosis. Ala-Gln and Gln supplementation reduced intestinal epithelial cell damage and increased RhoA expression.",
+      "mesh_terms": [
+        "Animals",
+        "Bacterial Toxins",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cell Size",
+        "Colitis",
+        "Cytoskeleton",
+        "Dipeptides",
+        "Enterotoxins",
+        "Epithelial Cells",
+        "Gene Expression Regulation, Enzymologic",
+        "Glutamine",
+        "Intestinal Mucosa",
+        "Microscopy, Atomic Force",
+        "Microscopy, Electron, Scanning",
+        "Rats",
+        "rhoA GTP-Binding Protein"
+      ]
+    },
+    {
+      "pmid": "23359592",
+      "title": "Intestinal epithelial restitution after TcdB challenge and recovery from Clostridium difficile infection in mice with alanyl-glutamine treatment.",
+      "authors": [
+        "Raphael S Rodrigues",
+        "Renato A C Oliveira",
+        "Yuesheng Li",
+        "Snjezana Zaja-Milatovic",
+        "Lourrany B Costa",
+        "Manuel B Braga Neto",
+        "Glynis L Kolling",
+        "Aldo A Lima",
+        "Richard L Guerrant",
+        "Cirle Alcantara Warren"
+      ],
+      "journal": "The Journal of infectious diseases",
+      "publication_date": "2013-May-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND: Clostridium difficile is an anaerobic bacterium that causes antibiotic-associated diarrhea. It produces toxin A and toxin B (TcdB), which cause injury to the gut epithelium. Glutamine is a fundamental fuel for enterocytes, maintaining intestinal mucosal health. Alanyl-glutamine (AQ) is a highly soluble dipeptide derivative of glutamine. We studied whether administration of AQ ameliorates the effects of TcdB in the intestinal cells and improves the outcome of C. difficile infection in mice. METHODS: WST-1 proliferation and cell-wounding-migration assays were assessed in IEC-6 cells exposed to TcdB, with or without AQ. Apoptosis and necrosis were assessed using Annexin V and flow cytometry. C57BL/6 mice were infected with VPI 10463 and treated with either vancomycin, AQ, or vancomycin with AQ. Intestinal tissues were collected for histopathologic analysis, apoptosis staining, and determination of myeloperoxidase activity. RESULTS: AQ increased proliferation in intestinal cells exposed to TcdB, improved migration at 24 and 48 hours, and reduced apoptosis in intestinal cells challenged with TcdB. Infected mice treated with vancomycin and AQ had better survival and histopathologic findings than mice treated with vancomycin alone. CONCLUSIONS: AQ may reduce intestinal mucosal injury in C. difficile-infected mice by partially reversing the effects of TcdB on enterocyte proliferation, migration, and apoptosis, thereby improving survival from C. difficile infection.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Bacterial Proteins",
+        "Bacterial Toxins",
+        "Cell Line",
+        "Cell Proliferation",
+        "Clostridioides difficile",
+        "Clostridium Infections",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Enterocytes",
+        "Intestinal Mucosa",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Necrosis",
+        "Rats",
+        "Vancomycin"
+      ]
+    },
+    {
+      "pmid": "22986234",
+      "title": "Protective effects of alanyl-glutamine supplementation against nelfinavir-induced epithelial impairment in IEC-6 cells and in mouse intestinal mucosa.",
+      "authors": [
+        "Manuel B Braga-Neto",
+        "Bruna M C Oliveira",
+        "Raphael S Rodrigues",
+        "Francisco J Noronha",
+        "Renata F Leitao",
+        "Gerly A C Brito",
+        "Aldo A Lima",
+        "Richard L Guerrant",
+        "Cirle A Warren"
+      ],
+      "journal": "Cancer biology & therapy",
+      "publication_date": "2012-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: Human Immunodeficiency Virus (HIV) protease inhibitors (PI) remain a crucial component of highly active therapy (HAART) and recently have been demonstrated to have potent antitumor effect on a wide variety of tumor cell lines. However, discontinuation of therapy is an important issue, which may be related to various side-effects, especially diarrhea. The aim of this study was to evaluate the effects of nelfinavir (NFV), an HIV PI, and of alanyl-glutamine (AQ) supplementation, on intestinal cell migration, proliferation, apoptosis and necrosis, using IEC-6 cells and on intestinal crypt depth, villus length, villus area, mitotic index and apoptosis in Swiss mice. METHODS: Migration was evaluated at 12 and 24 h after injury using a wound healing assay. Cellular proliferation was measured indirectly at 24 and 48 h using tetrazolium salt WST-1. Apoptosis and necrosis were measured by flow cytometry using the Annexin V assay. Intestinal morphometry and mitotic index in vivo were assessed following a seven-day treatment with 100 mg/kg of NFV, given orally. In vivo proliferation and apoptosis were evaluated by intestinal crypt mitotic index and immunohistochemistry, respectively. RESULTS: In vitro, AQ supplementation enhanced IEC-6 cell migration and proliferation, following challenge with NFV. In vivo, AQ increased intestinal villus length, villus area, crypt depth and cell proliferation and cell migration, following treatment with NFV. AQ did not decrease cell death induced by NFV both in vivo and in vitro. CONCLUSIONS: AQ supplementation is potentially beneficial in preventing the effects of PIs, such as NFV, in the intestinal tract.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Dipeptides",
+        "Epithelial Cells",
+        "HIV Protease Inhibitors",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Male",
+        "Mice",
+        "Necrosis",
+        "Nelfinavir",
+        "Rats",
+        "Wound Healing"
+      ]
+    },
+    {
+      "pmid": "22847641",
+      "title": "Effects of alanyl-glutamine dipeptide on the expression of colon-inflammatory mediators during the recovery phase of colitis induced by dextran sulfate sodium.",
+      "authors": [
+        "Yu-Chen Hou",
+        "Chia-Chou Chu",
+        "Tsui-Ling Ko",
+        "Chiu-Li Yeh",
+        "Sung-Ling Yeh"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2013-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: Glutamine (Gln) is a nutrient with immunomodulatory effects in metabolic stressed conditions. This study investigated the effects of Gln on colonic-inflammatory-mediator expression and mucosal repair in mice with dextran sulfate sodium (DSS)-induced colitis. METHODS: C57BL/6 mice received distilled water containing 3 % DSS for 5 d to induce colitis. One of the DSS-treated groups was intraperitoneally injected with an alanyl (Ala)-Gln solution 3 days before (G-DSS) while the other group was administered Ala-Gln 3 days after colitis (DSS-G) was induced. The Ala-Gln solution provided 0.5 g Gln/kg/d. The saline-DSS group (S-DSS) received an identical amount of saline before and after colitis was induced to serve as a positive control. RESULTS: The S-DSS group had a shorter colon length, higher plasma haptoglobin level, and more-severe colon inflammation. Also, the toll-like receptor (TLR)4 level, nuclear factor (NF)-κB activation, and inflammatory cytokine gene expression in the colon were higher than those of the normal control group. Gln administration either before or after colitis suppressed TLR4 protein levels, decreased plasma haptoglobin, and reduced colon inflammation. Histological inflammatory scores were also lowered. Compared to the post-colitis Gln group, preventive use of Gln had higher colon length, expressions of mucin 2, trefoil factor 3, and heat shock protein 72 genes were also upregulated in the colon. CONCLUSIONS: These results suggest that Gln administered either before or after the colitis mitigated inflammation of colitis that was not observed in group without Gln injection. Prophylactic treatment with Gln had more-beneficial effects on reducing inflammatory markers and enhancing the recovery of mucosa in DSS-induced colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Colitis, Ulcerative",
+        "Colon",
+        "Cytokines",
+        "Dextran Sulfate",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Down-Regulation",
+        "Gastrointestinal Agents",
+        "Haptoglobins",
+        "Inflammation Mediators",
+        "Injections, Intraperitoneal",
+        "Intestinal Mucosa",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "NF-kappa B",
+        "Random Allocation",
+        "Toll-Like Receptor 4"
+      ]
+    },
+    {
+      "pmid": "22264229",
+      "title": "Effects of adenosine A₂A receptor activation and alanyl-glutamine in Clostridium difficile toxin-induced ileitis in rabbits and cecitis in mice.",
+      "authors": [
+        "Cirle Alcantara Warren",
+        "Gina M Calabrese",
+        "Yuesheng Li",
+        "Sean W Pawlowski",
+        "Robert A Figler",
+        "Jayson Rieger",
+        "Peter B Ernst",
+        "Joel Linden",
+        "Richard L Guerrant"
+      ],
+      "journal": "BMC infectious diseases",
+      "publication_date": "2012-Jan-20",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND: Severe Clostridium difficile toxin-induced enteritis is characterized by exuberant intestinal tissue inflammation, epithelial disruption and diarrhea. Adenosine, through its action on the adenosine A2A receptor, prevents neutrophillic adhesion and oxidative burst and inhibits inflammatory cytokine production. Alanyl-glutamine enhances intestinal mucosal repair and decreases apoptosis of enterocytes. This study investigates the protection from enteritis by combination therapy with ATL 370, an adenosine A2A receptor agonist, and alanyl-glutamine in a rabbit and murine intestinal loop models of C. difficile toxin A-induced epithelial injury. METHODS: Toxin A with or without alanyl-glutamine was administered intraluminally to rabbit ileal or murine cecal loops. Animals were also given either PBS or ATL 370 parenterally. Ileal tissues were examined for secretion, histopathology, apoptosis, Cxcl1/KC and IL-10. RESULTS: ATL 370 decreased ileal secretion and histopathologic changes in loops treated with Toxin A. These effects were reversed by the A2A receptor antagonist, SCH 58261, in a dose-dependent manner. The combination of ATL 370 and alanyl-glutamine significantly further decreased ileal secretion, mucosal injury and apoptosis more than loops treated with either drug alone. ATL 370 and alanyl-glutamine also decreased intestinal tissue KC and IL-10. CONCLUSIONS: Combination therapy with an adenosine A2A receptor agonist and alanyl-glutamine is effective in reversing C. difficile toxin A-induced epithelial injury, inflammation, secretion and apoptosis in animals and has therapeutic potential for the management of C. difficile infection.",
+      "mesh_terms": [
+        "Adenosine A2 Receptor Antagonists",
+        "Animals",
+        "Apoptosis",
+        "Bacterial Toxins",
+        "Clostridioides difficile",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Enterotoxins",
+        "Histocytochemistry",
+        "Ileitis",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Rabbits",
+        "Treatment Outcome",
+        "Typhlitis"
+      ]
+    },
+    {
+      "pmid": "21570752",
+      "title": "Alanyl-glutamine restores maternal deprivation-induced TLR4 levels in a rat neonatal model.",
+      "authors": [
+        "Khaly Mbodji",
+        "Stéphanie Torre",
+        "Verena Haas",
+        "Pierre Déchelotte",
+        "Rachel Marion-Letellier"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2011-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND & AIMS: Increased intestinal permeability of Irritable bowel syndrome (IBS) patients has been recently associated with a decreased level of glutamine synthetase. Neonatal maternal deprivation (NMD) is considered as an IBS-like model. The aim of our study was to investigate whether early nutritional intervention with glutamine may attenuate the deleterious impact of early life stress on gut barrier function in NMD. METHODS: 124 rat pups were separated from their dam 3 h daily during postnatal days 2-14, or left undisturbed (NS). Separated rats received by gavage either with alanyl-glutamine (GLN), an isonitrogenous amino acid mix (AA, control) or an equal amount of drinking water (H(2)O). Production of cytokines was measured by multiplex, expression of COX-2, PPARγ, tight junction proteins and TLR4 by western blot. Intestinal permeability was studied by Lactulose/Mannitol test. RESULTS: Treatment of pups with GLN or AA abolished the decrease in body weight observed in NMD. Treatment with GLN decreased in the colon (i) TLR4 expression at D20, (ii) IL-2 and -10 productions at D60 (iii) protein expression of occludin at D20 compared to AA. GLN also decreased colon expression of COX2 and PPARγ at D60 compared to NS. Colon production of IFNγ is significantly reduced by GLN compared to H(2)O. No significant change in intestinal permeability was observed. CONCLUSIONS: These results showed that an early nutritional intervention with alanyl-glutamine specifically abolished the up-regulation of TLR4 expression in NMD. Glutamine may be evaluated as a potential treatment for IBS patients.",
+      "mesh_terms": [
+        "Animals",
+        "Animals, Newborn",
+        "Colon",
+        "Cyclooxygenase 2",
+        "Cytokines",
+        "Dietary Supplements",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Down-Regulation",
+        "Female",
+        "Irritable Bowel Syndrome",
+        "Maternal Deprivation",
+        "Membrane Proteins",
+        "Occludin",
+        "PPAR gamma",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Wistar",
+        "Time Factors",
+        "Toll-Like Receptor 4",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "20400787",
+      "title": "Glutamine and alanyl-glutamine dipeptide reduce mesenteric plasma extravasation, leukocyte adhesion and tumor necrosis factor-α (TNF-α) release during experimental endotoxemia.",
+      "authors": [
+        "R Scheibe",
+        "M Schade",
+        "M Grundling",
+        "D Pavlovic",
+        "K Starke",
+        "M Wendt",
+        "S Retter",
+        "M Murphy",
+        "U Suchner",
+        "A Spassov",
+        "T Gedrange",
+        "Ch Lehmann"
+      ],
+      "journal": "Journal of physiology and pharmacology : an official journal of the Polish Physiological Society",
+      "publication_date": "2009-Dec",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Glutamine (GLN) appears to be an essential nutrient during organism development and critical illness. The aim of our study was to evaluate the effects of GLN and its generic preparation alanyl-glutamine-dipeptide (DIP) on the microcirculation in endotoxemia in rats and its effects on tonus or aortal rings in vitro. Male Lewis rats (n=40) were separated in 4 groups. Group 1 (CON) served as healthy control group while the other groups received an endotoxin bolus i.v. (5 mg/kg lipopolysaccharide, LPS i.v.). In group 3 (LPS+GLN) 0.75 g/kg-1 GLN i.v. before LPS challenge was administered. In group 4 (LPS+DIP) DIP containing 0.75 g/kg GLN was given. Leukocyte-endothelial interactions and mesenteric plasma extravasation were determined at 0, 1 and 2 hours during the experiment by intravital fluorescence microscopy (IVM). Cytokine release (TNF-alpha, IL-1 beta, IL-6, IL-10) was measured by ELISA. GLN treatment reduced leukocyte adherence (-49.7% vs. LPS group, p<0.05) and plasma extravasation (-12.3% vs. LPS group, p<0.05) significantly during endotoxemia compared to untreated LPS animals. In group 4 (DIP+LPS), a decrease of leukocyte adherence (-56.0%) and mesenteric plasma extravasation (-18.8% vs. LPS group, p<0.05) was also found. TNF-alpha levels were reduced in both GLN and DIP (p<0.05). In vitro experiments demonstrated that glutamine agents could attenuate the response to contracting agents in presence of the vascular endothelium, implying nitric oxide pathway. In vivo, GLN as well as DIP pre-treatment diminish the detrimental impact of endotoxemia on the mesenteric microcirculation and the TNF-alpha release, the effects whose clinical importance should be further examined.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Adhesion",
+        "Dipeptides",
+        "Dose-Response Relationship, Drug",
+        "Endothelium",
+        "Endotoxemia",
+        "Extravasation of Diagnostic and Therapeutic Materials",
+        "Glutamine",
+        "Leukocytes",
+        "Male",
+        "Mesenteric Veins",
+        "Rats",
+        "Rats, Inbred Lew",
+        "Serotonin",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "19549287",
+      "title": "Clinical trial: prophylactic intravenous alanyl-glutamine reduces the severity of gastrointestinal toxicity induced by chemotherapy--a randomized crossover study.",
+      "authors": [
+        "Y Li",
+        "X Ping",
+        "B Yu",
+        "F Liu",
+        "X Ni",
+        "J Li"
+      ],
+      "journal": "Alimentary pharmacology & therapeutics",
+      "publication_date": "2009-Sep-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Glutamine has been shown in numerous studies to reduce intestinal permeability which can be increased by chemotherapy. However, there have been few reports that conduct on its clinical effect on gastrointestinal toxicity. AIM: To examine whether prophylactic intravenous alanyl-glutamine dipeptide can ameliorate clinical manifestations of gastrointestinal toxicity induced by chemotherapy. METHODS: Forty-four patients with gastric or colorectal cancer developing WHO side-effect grading system of grade 2 or higher were randomized to either control group (n = 22) or Gln group (n = 22) during next cycle of chemotherapy. Patients were crossed over to the alternate treatment during chemotherapy cycle 2. In the control group, the patients received the same chemotherapy regimens as screening cycle and in the Gln group, the patients received chemotherapy and alanyl-glutamine. Prophylactic intravenous 20 g of alanyl-glutamine dipeptide was given for 5 days. RESULTS: Compared with the control group, the plasma glutamine level in the Gln group was significantly higher and the plasma endotoxin level was significantly lower. The scores of nausea/vomiting and diarrhoea decreased significantly. CONCLUSION: Prophylactic intravenous alanyl-glutamine is effective in preventing intestinal permeability disruption induced by chemotherapy and clinical manifestations of gastrointestinal toxicity.",
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Colorectal Neoplasms",
+        "Dipeptides",
+        "Double-Blind Method",
+        "Female",
+        "Glutamine",
+        "Humans",
+        "Infusions, Intravenous",
+        "Male",
+        "Middle Aged",
+        "Stomach Neoplasms"
+      ]
+    },
+    {
+      "pmid": "18320312",
+      "title": "Alanyl-glutamine and glutamine supplementation improves 5-fluorouracil-induced intestinal epithelium damage in vitro.",
+      "authors": [
+        "Manuel B Braga-Neto",
+        "Cirle A Warren",
+        "Reinaldo B Oriá",
+        "Manuel S Monteiro",
+        "Andressa A S Maciel",
+        "Gerly A C Brito",
+        "Aldo A M Lima",
+        "Richard L Guerrant"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "publication_date": "2008-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "In this study, we have examined the role of glutamine derivatives in reducing 5-fluorouracil (5-FU)-induced epithelial damage in an undifferentiated crypt intestinal cell line, IEC-6. In this model, we have investigated proliferation indirectly by detecting the enzyme-derived formazan dye from the tetrazolium salt WST-1 in viable cells at 24 and 48 h after 5-FU treatment. Migration was measured at 12 and 24 h after razor scraping of the cell monolayer. Cell death was measured by quantifying the percentage of apoptotic and necrotic figures by flow cytometry at 12 and 24 h following 5-FU challenge. Neither glutamine nor alanyl-glutamine prevented 5-FU-induced apoptosis and necrosis in IEC-6 cells at 12 and 24 h after 5-FU challenge. However, glutamine and alanyl-glutamine enhanced migration and proliferation when compared with 5-FU-treated controls (P < 0.05). These new findings support our earlier study on the benefit of oral glutamine in enhancing epithelial recovery after 5-FU challenge.",
+      "mesh_terms": [
+        "Animals",
+        "Antimetabolites, Antineoplastic",
+        "Apoptosis",
+        "Cell Line",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Dipeptides",
+        "Dose-Response Relationship, Drug",
+        "Fluorouracil",
+        "Glutamine",
+        "Intestinal Mucosa",
+        "Jejunum",
+        "Models, Animal",
+        "Rats",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "18203901",
+      "title": "Alanyl-glutamine consumption modifies the suppressive effect of L-asparaginase on lymphocyte populations in mice.",
+      "authors": [
+        "Piyawan Bunpo",
+        "Betty Murray",
+        "Judy Cundiff",
+        "Emma Brizius",
+        "Carla J Aldrich",
+        "Tracy G Anthony"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2008-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Asparaginase (Elspar) is used in the treatment of acute lymphoblastic leukemia. It depletes plasma asparagine and glutamine, killing leukemic lymphoblasts but also causing immunosuppression. The objective of this work was to assess whether supplementing the diet with glutamine modifies the effect of asparaginase on normal lymphocyte populations in the spleen, thymus, and bone marrow. Mice consuming water ad libitum with or without alanyl-glutamine dipeptide (AlaGln; 0.05 mol/L) were injected once daily with 0 or 3 international units/g body weight Escherichia coli L-asparaginase for 7 d. Tissue expression of specific immune cell surface markers was analyzed by flow cytometry. Asparaginase reduced B220+ and sIgM+ cells in the bone marrow (P < 0.05) and diminished total cell numbers in thymus (-42%) and spleen (-53%) (P < 0.05). In thymus, asparaginase depleted double positive (CD4+ CD8+) and single positive (CD4+ CD8-, CD4-CD8+) thymocytes by over 40% (P < 0.05). In spleen, asparaginase reduced CD19+ B cells to 33% of controls and substantially depleted the CD4+ and CD8+ T cell populations. CD11b-expressing leukocytes were reduced by 50% (P < 0.05). Consumption of AlaGln did not lessen the effects of asparaginase in bone marrow or thymus but mitigated cellular losses in the CD4+, CD8+, and CD11b+ populations in spleen. AlaGln also blunted the increase in eukaryotic initiation factor 2 (eIF2) phosphorylation by asparaginase in spleen, whereas eIF2 phosphorylation did not change in thymus in response to asparaginase or AlaGln. In conclusion, asparaginase reduces maturing populations of normal B and T cells in thymus, bone marrow, and spleen. Oral consumption of AlaGln mitigates metabolic stress in spleen, supporting the peripheral immune system and cell-mediated immunity during asparaginase chemotherapy.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Asparaginase",
+        "Bone Marrow Cells",
+        "Diet",
+        "Dipeptides",
+        "Female",
+        "Gene Expression Regulation",
+        "Immunosuppressive Agents",
+        "Lymphocytes",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Spleen",
+        "Thymus Gland",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "18200673",
+      "title": "Impact of alanyl-glutamine dipeptide on severe acute pancreatitis in early stage.",
+      "authors": [
+        "Ping Xue",
+        "Li-Hui Deng",
+        "Qing Xia",
+        "Zhao-Da Zhang",
+        "Wei-Ming Hu",
+        "Xiao-Nan Yang",
+        "Bing Song",
+        "Zong-Wen Huang"
+      ],
+      "journal": "World journal of gastroenterology",
+      "publication_date": "2008-Jan-21",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: To evaluate the therapeutic effect of alanyl-glutamine dipeptide (AGD) in the treatment of severe acute pancreatitis (SAP) in early and advanced stage. METHODS: Eighty patients with SAP were randomized and received 100 mL/d of 20% AGD intravenously for 10 d starting either on the day of (early treatment group) or 5 d after (late treatment group) admission. Groups had similar demographics, underlying diseases, Ranson score, Acute Physiology and Chronic Health Evaluation II (APACHE II) score, and Balthazar's computed tomography (CT) score at the beginning of the study and underwent similar other medical and nutritional management. RESULTS: The duration of acute respiratory distress syndrome (2.7 +/- 3.3 d vs 12.7 +/- 21.0 d, P < 0.01), renal failure (1.3 +/- 0.5 d vs 5.3 +/- 7.3 d, P < 0.01), acute hepatitis (3.2 +/- 2.3 d vs 7.0 +/- 7.1 d, P < 0.01), shock (1.7 +/- 0.4 d vs 4.8 +/- 3.1 d, P < 0.05), encephalopathy (2.3 +/- 1.9 d vs 9.5 +/- 11.0 d, P < 0.01) and enteroparalysis (2.2 +/- 1.4 d vs 3.5 +/- 2.2 d, P < 0.01) and hospital stay (28.8 +/- 9.4 d vs 45.2 +/- 27.1 d, P < 0.01) were shorter in the early treatment group than in the late treatment group. The 15-d APACHE II score was lower in the early treatment group than in the late treatment group (5.0 +/- 2.4 vs 8.6 +/- 3.6, P < 0.01). The infection rate (7.9% vs 26.3%, P < 0.05), operation rate (13.2% vs 34.2%, P < 0.05) and mortality (5.3% vs 21.1%, P < 0.05) in the early treatment group were lower than in the late treatment group. CONCLUSION: Early treatment with AGD achieved a better clinical outcome in SAP patients.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Dipeptides",
+        "Female",
+        "Hospitalization",
+        "Humans",
+        "Length of Stay",
+        "Male",
+        "Middle Aged",
+        "Pancreatitis, Acute Necrotizing",
+        "Prognosis"
+      ]
+    },
+    {
+      "pmid": "17709266",
+      "title": "Frequent intravenous pulses of growth hormone together with alanylglutamine supplementation in prolonged critical illness after multiple trauma: effects on glucose control, plasma IGF-I and glutamine.",
+      "authors": [
+        "Frantisek Duska",
+        "Michal Fric",
+        "Jaroslav Pazout",
+        "Petr Waldauf",
+        "Petr Tůma",
+        "Jan Pachl"
+      ],
+      "journal": "Growth hormone & IGF research : official journal of the Growth Hormone Research Society and the International IGF Research Society",
+      "publication_date": "2008-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: We aim to demonstrate that low dose growth hormone (GH) administered in i.v. pulses every 3h is able to normalize IGF-I levels in subjects with prolonged critical illness, after multiple trauma. We also ask whether it is possible to control glycaemia during such a treatment and how alanylglutamine (AG) supplementation influences plasma glutamine concentration. METHODS: We used a prospective double-blind (group 1 vs. 2), randomized trial with an open-label control arm (group 3). Thirty multiple trauma patients (median age: 36, 42, 46 years) were randomized on day 4 after trauma to receive (group 1, n=10) i.v. AG supplementation (0.3 g/kg day from day 4 till 17) and i.v. GH (0.05 mg/kg day divided into 8 boluses, maximum dose at 3 AM, administered on days 7-17) or AG and placebo (group 2, n=10). Group 3 (n=10) received isocaloric isonitrogenous (proteins 1.5 g/kg day) nutrition without AG. Glycaemia was controlled by i.v. insulin infusion according to a routine protocol. RESULTS: GH treatment caused an increase of IGF-I (from median 169 on day 4 to 493 ng/ml on day 17), IGFBP-3 (from 2.4 to 3.2 microg/ml) and a fall in IGFBP-1 (from 11.5 to 3.1 microg/ml), whilst in both groups 2 and 3 these indices remained unchanged. At the end of the study (day 17) IGF-I and IGFBP-1 differed significantly among groups (p=0.008 resp. p=0.010, Kruskal-Wallis). Plasma glutamine remained below the normal range through the study in all groups (median: 0.18-0.30 mM), but had a tendency to rise in group 2 in contrast with a fall in groups 1 and 3 (NS). Group 1 required more insulin (p<0.01) than did the control group but median glycaemia was only 0.4-0.5 mM higher in group 1 (6.5 mM) than in groups 2 and 3 (6.1 resp. 6.0 mM). CONCLUSIONS: GH (0.05 g/kg day) administered in i.v. pulses is able to normalize IGF-I levels in subjects with prolonged critical illness after trauma. During this treatment, the standard dose of AG prevents worsening of plasma glutamine deficiency and glucose control is possible using routine algorithms, but it requires higher insulin doses.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Critical Illness",
+        "Dipeptides",
+        "Double-Blind Method",
+        "Drug Administration Routes",
+        "Female",
+        "Glutamine",
+        "Growth Hormone",
+        "Humans",
+        "Insulin-Like Growth Factor I",
+        "Male",
+        "Middle Aged",
+        "Multiple Trauma"
+      ]
+    },
+    {
+      "pmid": "17708846",
+      "title": "[Effect of early enriched parenteral alanyl-glutamine on heat shock protein 70 (HSP70) expression in critical patients].",
+      "authors": [
+        "Zheng Zhang",
+        "Hai-dong Qin",
+        "Hai-bin Ni",
+        "Ying Xu",
+        "Hai-rong Wu",
+        "Hui Cheng",
+        "Shu-kui Wang"
+      ],
+      "journal": "Zhongguo wei zhong bing ji jiu yi xue = Chinese critical care medicine = Zhongguo weizhongbing jijiuyixue",
+      "publication_date": "2007-Aug",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the effect of early parenteral glutamine (Gln) administration on heat shock protein (HSP70) expression and clinical outcome in critical patients. METHODS: Forty-four Patients requiring parenteral nutrition (PN) for more than 7 days, admitted to emergency intensive care unit (EICU) and neurosurgical intensive care units (NICU) were randomly divided into two groups, one was the control group, the other was the Gln treatment group (each n=22). Patients in both group received PN and enteral nutrition (EN). In addition, glutamine 0.4 g/kg per day was given to patients of Gln treatment group for 7 days. Serum HSP70, Gln concentrations were measured at admission and 7 days after the nutritional supplementation. Observations of clinical outcome included the length of mechanical ventilation, the length of stay in intensive care unit (ICU), the incidence of liver and kidney dysfunction before and after treatment. RESULTS: Serum HSP70 and Gln level showed no significant changes in control group and Gln treatment group before the treatment (both P>0.05), though they were mildly increased after conventional treatment compared with the control group, but without statistically significant difference. In Gln treatment group, between serum HSP70, Gln concentrations were significantly higher than those before treatment (both P<0.01), and they showed significant difference between control group and Gln group after treatment (both P<0.01). HSP70 level was significantly positively correlated with Gln level in critical patients (r=0.650 5, P=0.001). The ratios of liver dysfunction and the length of mechanical ventilation showed significant difference between Gln group and control group (both P<0.05). The ratios of kidney dysfunction and the length of stay in ICU showed no obvious changes between two groups (both P>0.05). CONCLUSION: Early parenteral glutamine administration can improve clinical outcome, decrease the ratio of organ dysfunction possibly by the mechanism of increasing serum HSP70 in critical patients.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Dipeptides",
+        "Female",
+        "Glutamine",
+        "HSP70 Heat-Shock Proteins",
+        "Humans",
+        "Intensive Care Units",
+        "Kidney",
+        "Liver",
+        "Male",
+        "Middle Aged",
+        "Parenteral Nutrition",
+        "Prognosis",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "17426972",
+      "title": "Glutamine and alanyl-glutamine accelerate the recovery from 5-fluorouracil-induced experimental oral mucositis in hamster.",
+      "authors": [
+        "R F C Leitão",
+        "R A Ribeiro",
+        "A M S Lira",
+        "L R Silva",
+        "E A L Bellaguarda",
+        "F D B Macedo",
+        "R B Sousa",
+        "G A C Brito"
+      ],
+      "journal": "Cancer chemotherapy and pharmacology",
+      "publication_date": "2008-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Mucositis induced by anti-neoplastic drugs is an important, dose-limiting and costly side effect of cancer therapy. AIM: To evaluate the effect of oral glutamine and alanyl-glutamine, a more stable glutamine derivative, on 5-FU-induced oral mucositis in hamsters. MATERIALS AND METHODS: Oral mucositis was induced by two intraperitoneal (i.p) administrations of 5-FU on the first and second days of the experiment (60 and 40 mg/kg, respectively) followed by mechanical trauma on the fourth day in male hamsters. Animals received saline, glutamine or alanyl-glutamine suspension (100 mM) 1 h before the injections of 5-FU and daily until sacrifice, on the 10th or 14th day. Macroscopic and histopathological analyses were evaluated and graded. Tissues from the cheek pouches were harvested for measurement of myeloperoxidase activity and glutathione stores. For investigation of serum concentration of glutamine, blood was obtained by heart puncture from anesthetized animals before sacrifice, on day 10. RESULTS: Treatment with glutamine and alanyl-glutamine reduced macroscopic and histological parameters of oral mucositis, and reduced the myeloperoxidase activity on day 14, but not on day 10. The 5-FU-induced oral mucositis significantly decreased the serum glutamine levels as well as the cheek pouch glutathione stores observed on day 10. Glutamine or alanyl-glutamine administration reversed the 5-FU effects, restoring serum glutamine levels and cheek pouch glutathione stores, observed on day 10, but did not prevent oral mucositis on the tenth day. CONCLUSION: Glutamine or alanyl-glutamine accelerated the mucosal recovery increasing mucosal tissue glutathione stores, reducing inflammatory parameters and speeding reepithelization.",
+      "mesh_terms": [
+        "Animals",
+        "Antimetabolites, Antineoplastic",
+        "Cricetinae",
+        "Dipeptides",
+        "Fluorouracil",
+        "Glutamine",
+        "Glutathione",
+        "Male",
+        "Mesocricetus",
+        "Mouth Mucosa",
+        "Neutrophil Infiltration",
+        "Peroxidase",
+        "Stomatitis",
+        "Sulfhydryl Compounds"
+      ]
+    },
+    {
+      "pmid": "15623827",
+      "title": "Alanylglutamine dipeptide and growth hormone maintain PepT1-mediated transport in oxidatively stressed Caco-2 cells.",
+      "authors": [
+        "B Alteheld",
+        "M E Evans",
+        "L H Gu",
+        "V Ganapathy",
+        "F H Leibach",
+        "D P Jones",
+        "T R Ziegler"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2005-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Reactive oxygen species (ROS) produced by gut mucosal cells during conditions such as inflammatory bowel disease (IBD) may impair mucosal repair and nutrient transport/absorptive function. Absorption of di- and tripeptides in the small intestine and colon is mediated by the H(+)-dependent transporter PepT1, but effects of oxidative stress on di- and tripeptide transport are unknown. We assessed whether exposure to hydrogen peroxide (H(2)O(2)) influences dipeptide transport in human colonic epithelial (Caco-2) cells. Uptake of [(14)C]glycylsarcosine (Gly-Sar) was used to evaluate PepT1-mediated dipeptide transport. Exposure to 1-5 mmol/L H(2)O(2) for 24 h caused a dose-dependent decrease in Gly-Sar transport, which was associated with decreased PepT1 transport velocity (V(max)). Treatment with alanylglutamine (Ala-Gln) or growth hormone (GH) did not alter Caco-2 Gly-Sar transport in the absence of H(2)O(2). However, both Ala-Gln and GH prevented the decrease in dipeptide transport observed with 1 mmol/L H(2)O(2) treatment. Ala-Gln, but not GH, maintained cellular glutathione and prevented the decrease in PepT1 protein expression. Thus, these agents should be further investigated as potential therapies to improve absorption of small peptides in disorders associated with oxidative injury to the gut mucosa.",
+      "mesh_terms": [
+        "Biological Transport",
+        "Cell Line, Tumor",
+        "Colonic Neoplasms",
+        "Dipeptides",
+        "Gene Expression Regulation, Neoplastic",
+        "Human Growth Hormone",
+        "Humans",
+        "Intestinal Mucosa",
+        "Oxidative Stress",
+        "Peptide Transporter 1",
+        "Symporters"
+      ]
+    },
+    {
+      "pmid": "15474885",
+      "title": "Alanyl-glutamine hastens morphologic recovery from 5-fluorouracil-induced mucositis in mice.",
+      "authors": [
+        "Benedito A Carneiro-Filho",
+        "Reinaldo B Oriá",
+        "Katie Wood Rea",
+        "Gerly A C Brito",
+        "Jun Fujii",
+        "Tom Obrig",
+        "Aldo A M Lima",
+        "Richard L Guerrant"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2004-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "OBJECTIVE: In this study, we postulated the beneficial role of oral alanyl-glutamine, a more stable glutamine derivative to decrease 5-fluorouracil (5-FU)-induced mucositis in mice. METHODS: We measured different morphologic parameters to assess structural changes over time in the small bowel, including crypt depth, villus height, villus area, mitotic and apoptotic indices at the crypt level using terminal deoxyuridine triphosphate nick end labeling, and hematoxylin-eosin staining of ileal tissue. In addition, we analyzed the effect of different alanyl-glutamine concentrations on animal weight curves after 5-FU treatment. RESULTS: Neither glutamine nor alanyl- glutamine prevented the 5-FU intestinal structural damage or apoptosis in crypt enterocytes at 24 h after 5-FU challenge. However, we found that alanyl-glutamine, but not glutamine, speeds intestinal recovery when compared with 5-FU-treated controls (P < 0.05), predominantly by enhancing mitotic activity and crypt length. CONCLUSION: Our findings provide important data to support clinical studies of oral alanyl-glutamine in 5-FU-induced mucositis.",
+      "mesh_terms": [
+        "Animals",
+        "Antimetabolites, Antineoplastic",
+        "Apoptosis",
+        "Body Weight",
+        "Cell Division",
+        "Dipeptides",
+        "Dose-Response Relationship, Drug",
+        "Fluorouracil",
+        "Intestinal Mucosa",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C"
+      ]
+    },
+    {
+      "pmid": "15227625",
+      "title": "Diarrhea and reduced levels of antiretroviral drugs: improvement with glutamine or alanyl-glutamine in a randomized controlled trial in northeast Brazil.",
+      "authors": [
+        "Oluma Y Bushen",
+        "John A Davenport",
+        "Afonso Bezerra Lima",
+        "Stephen C Piscitelli",
+        "Arejas J Uzgiris",
+        "Terezinha M J Silva",
+        "Roberio Leite",
+        "Margaret Kosek",
+        "Rebecca A Dillingham",
+        "Arlete Girao",
+        "Aldo A M Lima",
+        "Richard L Guerrant"
+      ],
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "publication_date": "2004-Jun-15",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The effects of therapy with glutamine and alanyl-glutamine on diarrhea and antiretroviral drug levels in patients with acquired immune deficiency syndrome (AIDS) were examined in a randomized, double-blinded, placebo-controlled study in northeast Brazil. Patients with AIDS and with diarrhea and/or wasting were randomized into 4 groups to determine the efficacy of glutamine or high- or low-dose alanyl-glutamine given for 7 days, compared with isonitrogenous glycine given to control subjects. All patients in whom baseline antiretroviral drug levels were determined had low levels 2 h after dosing. Gastrointestinal symptom scores improved with receipt of high-dose alanyl-glutamine (P<.05) or glutamine (P<.01). Antiretroviral drug levels increased in patients given alanyl-glutamine (P=.02) or glutamine (P=.03) by 113% (P=.02) and 14% (P=.01), respectively. Antiretroviral drug resistance mutations were common in all groups. The dose-related efficacy of alanyl-glutamine and glutamine in treating diarrhea and in increasing antiretroviral drug levels shows that these supplements may help to improve therapy for patients with AIDS who have diarrhea and/or wasting in developing, tropical areas.",
+      "mesh_terms": [
+        "Acquired Immunodeficiency Syndrome",
+        "Adult",
+        "Anti-HIV Agents",
+        "Antiretroviral Therapy, Highly Active",
+        "Brazil",
+        "Diarrhea",
+        "Dipeptides",
+        "Drug Resistance, Viral",
+        "Female",
+        "Glutamine",
+        "HIV",
+        "HIV Wasting Syndrome",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects"
+      ]
+    },
+    {
+      "pmid": "12025876",
+      "title": "Effect of alanyl-glutamine on leucine and protein metabolism in irradiated rats.",
+      "authors": [
+        "M Holecek",
+        "F Skopec",
+        "L Sprongl",
+        "J Mráz",
+        "H Skalská",
+        "M Pecka"
+      ],
+      "journal": "Amino acids",
+      "publication_date": "2002",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The mechanism by which glutamine produces a favorable effect in the treatment of sepsis, injury, burns and abdominal irradiation is not completely understood. The main aim of this study was to evaluate the effect of alanyl-glutamine (AlaGln) administration on the metabolism of proteins in irradiated rats. The rats were exposed to whole-body irradiation (8Gy) and then fed intragastrically with a mixture of glucose and amino acids either with AlaGln or without AlaGln. At 48 hours after irradiation, parameters of whole-body protein metabolism and DNA synthesis in intestinal mucosa were investigated using a primed, continuous infusion of [1-14C]leucine and [3H]thymidine. In addition, we evaluated the effect of irradiation and AlaGln on gut morphology, blood count and amino acid concentrations in blood plasma and skeletal muscle. Control rats were not irradiated but were given identical treatment. An increase in whole-body leucine oxidation, and insignificant changes in whole-body proteolysis and in protein synthesis were observed after irradiation. In irradiated rats we observed a decrease in muscle glutamine concentration, a decrease in protein synthesis in jejunum, colon and heart, and an increase in synthesis of proteins of blood plasma and spleen. Morphological examination and measurement of DNA synthesis failed to demonstrate any favorable effect of AlaGln supplementation on irradiated gut. However, administration of AlaGln resulted in a decrease in whole-body proteolysis and leucine oxidation which caused an increase in the fraction of leucine incorporated into the pool of body proteins. We conclude that the data obtained demonstrate that irradiation induces metabolic derangement associated with increased oxidation of essential branched-chain amino acids (valine, leucine and isoleucine) and that these disturbances can be ameliorated by administration of AlaGln.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Dipeptides",
+        "Leucine",
+        "Male",
+        "Proteins",
+        "Rats",
+        "Rats, Wistar",
+        "Whole-Body Irradiation"
+      ]
+    },
+    {
+      "pmid": "11340095",
+      "title": "Alanyl-glutamine dipeptide does not affect hemodynamics despite a greater increase in myocardial heat shock protein 72 immunoreactivity in endotoxemic sheep.",
+      "authors": [
+        "M Scharte",
+        "H A Baba",
+        "H Van Aken",
+        "C Schulzki",
+        "J Meyer",
+        "C Goeters",
+        "H G Bone"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2001-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The possible beneficial effect of supplemental glutamine (Gln) in critically ill patients has been suggested to be mediated by the induction of the cytoprotective heat shock proteins (HSP)32 and HSP72. There is evidence that HSP72 and HSP32 have opposite effects on the hemodynamic situation during endotoxemia. Therefore, the effect of Gln supplementation on the cardiovascular system is not clear. We investigated the effect of alanyl-Gln (Ala-Gln) dipeptide on cardiovascular function in healthy and endotoxemic sheep. Ten sheep catheterized for chronic studies received Ala-Gln 700 mg/(kg x d) [equal to 470 mg/(kg x d)Gln] on 4 consecutive days, and 10 sheep received NaCl (9 g/L) as the control solution. On d 4, four sheep of each group were killed and myocardial samples were taken for immunohistochemistry. The remaining sheep received a continuous infusion of endotoxin [Salmonella typhosa, 10 ng/(kg x min)]. Hemodynamic parameters were measured before application of Ala-Gln or the control solution, and during endotoxemia. Myocardial HSP72 immunoreactivity was determined by immunohistochemistry. After 24 h of endotoxemia, the sheep exhibited a hyperdynamic circulation. No difference was found in the hemodynamic parameters between treatment and control group. Ala-Gln treated sheep had a greater increase in myocardial HSP72 immunoreactivity compared with controls after (P < 0.05) but not before endotoxemia. In summary, Ala-Gln increased HSP72 immunoreactivity after endotoxemia, but did not alter hemodynamic parameters. Thus, Ala-Gln supplementation does not seem to aggravate the hyperdynamic circulation in endotoxemic shock.",
+      "mesh_terms": [
+        "Animals",
+        "Dipeptides",
+        "Endotoxemia",
+        "HSP72 Heat-Shock Proteins",
+        "Heat-Shock Proteins",
+        "Hemodynamics",
+        "Myocardium",
+        "Sheep",
+        "Typhoid Fever"
+      ]
+    },
+    {
+      "pmid": "10885715",
+      "title": "Effect of alanyl-glutamine on leucine and protein metabolism in endotoxemic rats.",
+      "authors": [
+        "M Holecek",
+        "F Skopec",
+        "H Skalská",
+        "L Sprongl"
+      ],
+      "journal": "JPEN. Journal of parenteral and enteral nutrition",
+      "publication_date": "2000",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Branched-chain amino acids (BCAA; valine, leucine, and isoleucine) have a regulatory effect on protein metabolism and are the main donor for synthesis of alanine and glutamine in the skeletal muscle. This study was performed to investigate whether exogenous alanine or glutamine would affect leucine and protein metabolism in intact and endotoxemic rats. METHODS: Rats were injected with endotoxin of Salmonella enteritidis or saline. Thirty minutes later, the effects of endotoxemia and L-alanyl-L-glutamine (AG) on leucine and protein metabolism were evaluated using a primed constant infusion of [1-14C]leucine, endotoxin, and AG (200 mg/mL) solution or an infusion of [1-14C]leucine without endotoxin or AG. The specificity of the effect of exogenous alanine and glutamine was evaluated by a single infusion of alanine, glutamine, and glycine in a separate study. RESULTS: Endotoxin treatment induced more negative net protein balance caused mainly by an increase in whole-body proteolysis. Protein synthesis increased in kidneys, colon, and spleen, while a decrease was observed in skeletal muscle. The impressive effects of AG were the decrease in plasma branched-chain amino acid (BCAA) levels, decrease in leucine oxidized fraction, and improvement of protein balance associated with a decrease in whole-body proteolysis. Similar changes in leucine and protein metabolism were induced by infusion of alanine or glutamine but not by infusion of glycine. CONCLUSIONS: IV administration of alanine or glutamine improves protein balance and decreases leucine oxidized fraction in postabsorptive state and in endotoxemia. Decreased proteolysis is the main cause of decreased plasma BCAA levels after AG treatment.",
+      "mesh_terms": [
+        "Alanine",
+        "Amino Acids, Branched-Chain",
+        "Animals",
+        "Dipeptides",
+        "Endotoxemia",
+        "Glutamine",
+        "Glycine",
+        "Infusions, Intravenous",
+        "Leucine",
+        "Male",
+        "Muscle, Skeletal",
+        "Proteins",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "9042868",
+      "title": "Alanylglutamine-enriched total parenteral nutrition improves protein metabolism more than branched chain amino acid-enriched total parenteral nutrition in protracted peritonitis.",
+      "authors": [
+        "S Naka",
+        "H Saito",
+        "Y Hashiguchi",
+        "M T Lin",
+        "S Furukawa",
+        "T Inaba",
+        "R Fukushima",
+        "N Wada",
+        "T Muto"
+      ],
+      "journal": "The Journal of trauma",
+      "publication_date": "1997-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Branched chain amino acids (BCAAs) and glutamine are both recommended in catabolic states. The object of this study was to compare the efficacies of alanylglutamine (Ala-Gln)-enriched and BCAA-enriched total parenteral nutrition (TPN) on the protein kinetics in peritonitis. Rats were divided into Ala-Gln and BCAA groups after intraperitoneal implantation of an osmotic pump, delivering a continuous infusion of Escherichia coli. Glutamine composed 30.0% (w/v) of the total amino acids in the Ala-Gln group, and BCAA composed 30.5% (w/v) of the total amino acids in the BCAA group. The two solutions were isocaloric and isonitrogenous. Whole body protein turnover and organ fractional protein synthetic rates (FSR) were measured on days 3 and 5. Serum amino acid levels and mucosal morphology were determined. Ala-Gln group had higher rates of whole body protein turnover, and hepatic FSR on both days. Serum glutamine levels correlated with hepatic and muscle FSR. Ala-Gln TPN group had greater mucosal thickness, numbers of mitoses per crypt, and FSR in distal intestine. Ala-Gln-enriched TPN may be a useful nutritional treatment modality in sepsis.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Amino Acids, Branched-Chain",
+        "Animals",
+        "Dipeptides",
+        "Disease Models, Animal",
+        "Male",
+        "Parenteral Nutrition, Total",
+        "Peritonitis",
+        "Proteins",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "8945950",
+      "title": "Alanyl-glutamine prevents muscle atrophy and glutamine synthetase induction by glucocorticoids.",
+      "authors": [
+        "R C Hickson",
+        "L E Wegrzyn",
+        "D F Osborne",
+        "I E Karl"
+      ],
+      "journal": "The American journal of physiology",
+      "publication_date": "1996-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The aims of this work were to establish whether glutamine infusion via alanyl-glutamine dipeptide provides effective therapy against muscle atrophy from glucorticoids and whether the glucocorticoid induction of glutamine synthetase (GS) is downregulated by dipeptide supplementation. Rats were given hydrocortisone 21-acetate or the dosing vehicle and were infused with alanine (AA) or alanyl-glutamine (AG) at the same concentrations and rates (1.15 mumol.min-1.100 g body wt-1, 0.75 ml/h) for 7 days. Compared with AA infusion in hormone-treated animals, AG infusion prevented total body and fast-twitch muscle mass losses by over 70%. Glucocorticoid treatment did not reduce muscle glutamine levels. Higher serum glutamine was found in the AG-infused (1.72 +/- 0.28 mumol/ml) compared with the AA-infused group (1.32 +/- 0.06 mumol/ml), but muscle glutamine concentrations were not elevated by AG infusion. Following glucocorticoid injections, GS enzyme activity was increased by two- to threefold in plantaris, fast-twitch white (superficial quadriceps), and fast-twitch red (deep quadriceps) muscle/fiber types of the AA group. Similarly, GS mRNA was elevated by 3.3- to 4.1-fold in these same muscles of hormone-treated, AA-infused rats. AG infusion diminished glucocorticoid effects on GS enzyme activity to 52-65% and on GS mRNA to 31-37% of the values with AA infusion. These results provide firsthand evidence of atrophy prevention from a catabolic state using glutamine in dipeptide form. Despite higher serum and muscle alanine levels with AA infusion than with AG infusion, alanine alone is not a sufficient stimulus to counteract muscle atrophy. The AG-induced muscle sparing is accompanied by diminished expression of a glucocorticoid-inducible gene in skeletal muscle. However, glutamine regulation of GS appears complex and may involve more regulators than muscle glutamine concentration alone.",
+      "mesh_terms": [
+        "Alanine",
+        "Animals",
+        "Body Weight",
+        "Dipeptides",
+        "Enzyme Induction",
+        "Female",
+        "Glucocorticoids",
+        "Glutamate-Ammonia Ligase",
+        "Muscle Fibers, Fast-Twitch",
+        "Muscle, Skeletal",
+        "Muscular Atrophy",
+        "Organ Size",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "16844054",
+      "title": "Alanyl-glutamine preserves hepatic glutathione stores after 5-FU treatment.",
+      "authors": [
+        "J C Yu",
+        "Z M Jiang",
+        "D M Li",
+        "N F Yang",
+        "B M-X"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "1996-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Glutathione (GSH) is a major antioxidant that protects tissues from free radical injury. 5-fluorouracil (5-FU) considered the most active antineoplastic agent in the treatment of advanced gastrointestinal malignancies, causes hepatic GSH depletion. Glutamine (GLN) augments host defenses and may be important in GSH synthesis. We hypothesized that alanyl-glutamine (ALA-GLN) may protect liver cells from oxidant injury, like GLN, by increasing hepatic GSH stores. Two rat groups received standard parenteral nutrition (STD) supplemented with or without ALA-GLN for 7 days. After the antineoplastic agent 5-FU was injected, the concentration measurements were significantly different in ALA-GLN group compared with STD animals for serum GLN (687.3 +/- 49.8 vs. 504.9 +/- 38.6 uMol/L, P < 0.05), serum GSH (14.37 +/- 5.16 vs. 7.08 +/- 3.16 uMol/L, P < 0.01) and in liver GSH content (6.86 +/-2.46 vs. 4.38 +/-1.63 uMol/g liver tissue, P < 0.05). Rats in ALA-GLN group had lower elevations in hepatic enzymes induced by 5-FU. The experiment demonstrated that the supplemented nutrition ALA-GLN, like glutamine, protected the liver function and improved survival during 5-FU treatment by increasing GSH biosynthesis and by preserving the GSH stores of hepatic tissue."
+    },
+    {
+      "pmid": "16843356",
+      "title": "Amino acid and energy metabolism after coronary by-pass and surgical treatment of subarachnoidal hemorrhage: effects of alanyl-glutamine.",
+      "authors": [
+        "R Suojaranta-Ylinen"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "1994-Feb",
+      "publication_types": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

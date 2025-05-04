@@ -1,0 +1,120 @@
+{
+  "supplement": "Nonnutritive Sweeteners",
+  "query": "Nonnutritive Sweeteners[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:10:36",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "33589766",
+      "title": "Nonnutritive sweeteners can promote the dissemination of antibiotic resistance through conjugative gene transfer.",
+      "authors": [
+        "Zhigang Yu",
+        "Yue Wang",
+        "Ji Lu",
+        "Philip L Bond",
+        "Jianhua Guo"
+      ],
+      "journal": "The ISME journal",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Antimicrobial resistance (AMR) poses a worldwide threat to human health and biosecurity. The spread of antibiotic resistance genes (ARGs) via conjugative plasmid transfer is a major contributor to the evolution of this resistance. Although permitted as safe food additives, compounds such as saccharine, sucralose, aspartame, and acesulfame potassium that are commonly used as nonnutritive sweeteners have recently been associated with shifts in the gut microbiota similar to those caused by antibiotics. As antibiotics can promote the spread of antibiotic resistance genes (ARGs), we hypothesize that these nonnutritive sweeteners could have a similar effect. Here, we demonstrate for the first time that saccharine, sucralose, aspartame, and acesulfame potassium could promote plasmid-mediated conjugative transfer in three established conjugation models between the same and different phylogenetic strains. The real-time dynamic conjugation process was visualized at the single-cell level. Bacteria exposed to the tested compounds exhibited increased reactive oxygen species (ROS) production, the SOS response, and gene transfer. In addition, cell membrane permeability increased in both parental bacteria under exposure to the tested compounds. The expression of genes involved in ROS detoxification, the SOS response, and cell membrane permeability was significantly upregulated under sweetener treatment. In conclusion, exposure to nonnutritive sweeteners enhances conjugation in bacteria. Our findings provide insight into AMR spread and indicate the potential risk associated with the presence of nonnutritive sweeteners.",
+      "mesh_terms": [
+        "Drug Resistance, Microbial",
+        "Gene Transfer, Horizontal",
+        "Humans",
+        "Non-Nutritive Sweeteners",
+        "Phylogeny",
+        "Plasmids",
+        "Sweetening Agents"
+      ]
+    },
+    {
+      "pmid": "32216045",
+      "title": "Effects of nonnutritive sweeteners on body weight and BMI in diverse clinical contexts: Systematic review and meta-analysis.",
+      "authors": [
+        "Hugo Laviada-Molina",
+        "Fernanda Molina-Segui",
+        "Giordano Pérez-Gaxiola",
+        "Carlos Cuello-García",
+        "Ruy Arjona-Villicaña",
+        "Alan Espinosa-Marrón",
+        "Raigam Jafet Martinez-Portilla"
+      ],
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "There is an ongoing debate about the possible influences of nonnutritive sweeteners (NNS) on body weight. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) with NNS to assess their impact on body weight. We systematically searched for RCTs at least 4 weeks in duration, evaluating the effect of NNS on body weight, both in subjects with healthy weight and in subjects with overweight/obesity at any age, and compared the effects of NNS vs caloric and noncaloric comparators. The primary outcome was the difference in body weight between NNS and comparators. Twenty studies were eligible (n = 2914). Participants consuming NNS showed significant weight/BMI differences favouring NNS compared with nonusers. Grouping by nature of comparator revealed that NNS vs placebo/no intervention and NNS vs water produced no effect. When comparing NNS vs sucrose, significant weight/BMI differences appeared favouring NNS. Consumption of NNS led to significantly negative weight/BMI differences in unrestricted energy diets, but not in weight-reduction diets. Participants with overweight/obesity and adults showed significant favourable weight/BMI differences with NNS. Data suggest that replacing sugar with NNS leads to weight reduction, particularly in participants with overweight/obesity under an unrestricted diet, information that could be utilized for evidence-based public policy decisions.",
+      "mesh_terms": [
+        "Body Mass Index",
+        "Body Weight",
+        "Diet",
+        "Humans",
+        "Non-Nutritive Sweeteners",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "31033578",
+      "title": "Recent evidence for the effects of nonnutritive sweeteners on glycaemic control.",
+      "authors": [
+        "Samar Y Ahmad",
+        "Meghan B Azad",
+        "James Friel",
+        "Dylan MacKay"
+      ],
+      "journal": "Current opinion in clinical nutrition and metabolic care",
+      "publication_date": "2019-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "PURPOSE OF REVIEW: By replacing sugar, nonnutritive sweeteners (NNSs) are thought to aid in weight management and decrease insulin resistance. We reviewed the latest randomized clinical trials (RCTs) investigating the effects NNSs on glycaemic control. RECENT FINDINGS: Six RCTs addressed this topic between 2017 and 2018; the majority tested artificial NNS (sucralose or aspartame), with only one testing natural NNS (stevia and monk fruit extract). Most found no effect of NNS on blood glucose, insulin, gastric inhibitory polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) levels; however, two trials showed an effect of sucralose on the acute insulin response. SUMMARY: We are still incapable of reaching a definite judgement on which types of NNS, if any, impact glycaemic control. There is a need for more research to overcome the limitations of recent RCTs, related to sample size, intervention duration, dose, form of NNSs used, and inclusion of males or female participants only. Future studies should also compare different NNS types with each other, and include the increasingly popular 'natural' NNS.",
+      "mesh_terms": [
+        "Aspartame",
+        "Blood Glucose",
+        "Humans",
+        "Insulin",
+        "Non-Nutritive Sweeteners",
+        "Randomized Controlled Trials as Topic",
+        "Stevia",
+        "Sucrose"
+      ]
+    },
+    {
+      "pmid": "29570245",
+      "title": "Nonnutritive Sweeteners in Weight Management and Chronic Disease: A Review.",
+      "authors": [
+        "Allison C Sylvetsky",
+        "Kristina I Rother"
+      ],
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publication_date": "2018-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "OBJECTIVE: The objective of this review was to critically review findings from recent studies evaluating the effects of nonnutritive sweeteners (NNSs) on metabolism, weight, and obesity-related chronic diseases. Biologic mechanisms that may explain NNS effects will also be addressed. METHODS: A comprehensive review of the relevant scientific literature was conducted. RESULTS: Most cross-sectional and prospective cohort studies report positive associations between NNS consumption, body weight, and health conditions, including type 2 diabetes, cardiovascular disease, and nonalcoholic fatty liver disease. Although findings in cellular and rodent models suggest that NNSs have harmful effects on metabolic health, most randomized controlled trials in humans demonstrate marginal benefits of NNS use on body weight, with little data available on other metabolic outcomes. CONCLUSIONS: NNS consumption is associated with higher body weight and metabolic disease in observational studies. In contrast, randomized controlled trials demonstrate that NNSs may support weight loss, particularly when used alongside behavioral weight loss support. Additional long-term, well-controlled intervention studies in humans are needed to determine the effects of NNSs on weight, adiposity, and chronic disease under free-living conditions.",
+      "mesh_terms": [
+        "Body Weight",
+        "Body Weight Maintenance",
+        "Chronic Disease",
+        "Female",
+        "Humans",
+        "Male",
+        "Non-Nutritive Sweeteners",
+        "Obesity"
+      ]
+    }
+  ]
+}

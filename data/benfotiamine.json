@@ -1,0 +1,2656 @@
+{
+  "supplement": "Benfotiamine",
+  "query": "Benfotiamine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:16:46",
+  "research_count": 77,
+  "count": 77,
+  "articles": [
+    {
+      "pmid": "39115590",
+      "title": "The protective effect of benfotiamine on gastric ulcers in male rats: an experimental study.",
+      "authors": [
+        "Mohammad Shokati Sayyad",
+        "Mohammad Hossein Khanjani",
+        "Milad Amirbeik",
+        "Mohammad Seyedabadi",
+        "Fereshteh Talebpour Amiri",
+        "Vida Motamednia",
+        "Nastaran Rezaei",
+        "Fatemeh Shaki"
+      ],
+      "journal": "Journal of molecular histology",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Gastric ulcers are a common gastrointestinal disorder associated with significant morbidity and mortality. It can also increase the risk of gastric cancer. This study aimed to investigate the effect of benfotiamine on experimentally-induced gastric ulcers in male rats. In this study, 30 Wistar male rats were divided randomly into six groups: control (normal), indomethacin, omeprazole, and treatment groups, including 50, 100, and 200 mg/kg of benfotiamine. Gastric ulcer was induced by indomethacin gavage. Omeprazole and different therapeutic doses of benfotiamine were administered for three days. Twenty-four hours after the last treatment, the rats were euthanized, and samples were collected.The results demonstrated that 100 and 200 mg/kg of benfotiamine treatment significantly improved indomethacin-induced gastric tissue damage. Moreover, benfotiamine at 100 and 200 mg/kg effectively attenuated the levels of pro-inflammatory cytokines IL-6 and TNF-α and oxidative stress markers MDA and ROS while increasing the antioxidant GSH. These findings suggest that benfotiamine's gastroprotective effects are mediated through its antioxidant and anti-inflammatory properties, which help mitigate the tissue damage and inflammatory response associated with indomethacin-induced gastric ulcers.However, further research is needed to elucidate the precise molecular mechanisms underlying these beneficial effects and to evaluate the potential therapeutic application of benfotiamine in clinical settings.",
+      "mesh_terms": [
+        "Animals",
+        "Stomach Ulcer",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Oxidative Stress",
+        "Indomethacin",
+        "Thiamine",
+        "Antioxidants",
+        "Gastric Mucosa",
+        "Malondialdehyde",
+        "Interleukin-6",
+        "Reactive Oxygen Species",
+        "Tumor Necrosis Factor-alpha",
+        "Disease Models, Animal",
+        "Protective Agents"
+      ]
+    },
+    {
+      "pmid": "39042624",
+      "title": "Benfotiamine protects MPTP-induced Parkinson's disease mouse model via activating Nrf2 signaling pathway.",
+      "authors": [
+        "Kai Wang",
+        "Chao Han",
+        "Jinwei Yang",
+        "Wenhao Xu",
+        "Lei Wang",
+        "Huaiyu Li",
+        "Yu Wang"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The pursuit of drugs and methods to safeguard dopaminergic neurons holds paramount importance in Parkinson's disease (PD) research. Benfotiamine (BFT) has demonstrated neuroprotective properties, yet its precise mechanisms in PD remain elusive. This study investigated BFT's potential protective effects against dopamine neuron damage in a PD animal model and the underlying mechanisms. The PD mouse model was induced by 5 consecutive MPTP injections, followed by BFT intervention for 28 days. Motor deficits were assessed via pole test, hang test, gait analysis, and open field test, while dopaminergic neuron damage was evaluated through Immunofluorescence, Nissl staining, and Western blot analysis of Tyrosine Hydroxylase (TH) in the substantia nigra and striatum. High Performance Liquid Chromatography quantified dopamine (DA) levels and its metabolites. Genetic pathways were explored using RNA-seq and bioinformatics analysis on substantia nigra tissues, confirmed by qPCR. Activation of the Nrf2 pathway was examined through nuclear translocation and expression of downstream antioxidant enzymes HO-1, GCLM, and NQO1 at mRNA and protein levels. Additionally, measurements of MDA content, GSH activity, and SOD activity were taken in the substantia nigra and striatum. BFT administration improved motor function and protected against dopaminergic neuron degeneration in MPTP mice, with partial recovery in TH expression and DA levels. RNA-seq analysis revealed distinct effects of BFT and the NLRP3 inhibitor MCC950 on Parkinson-related pathways and genes. Control of Nrf2 proved crucial for BFT, as it facilitated Nrf2 movement to the nucleus, upregulating antioxidant genes and enzymes while mitigating oxidative damage. This study elucidates BFT's neuroprotective effects in a PD mouse model via Nrf2-mediated antioxidant mechanisms and gene expression modulation, underscoring its potential as a therapeutic agent for PD.",
+      "mesh_terms": [
+        "Animals",
+        "NF-E2-Related Factor 2",
+        "Signal Transduction",
+        "Mice",
+        "Male",
+        "Neuroprotective Agents",
+        "Disease Models, Animal",
+        "Mice, Inbred C57BL",
+        "Dopaminergic Neurons",
+        "Dopamine",
+        "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "Substantia Nigra",
+        "Parkinson Disease",
+        "Oxidative Stress",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "39007352",
+      "title": "Exploring the Therapeutic Potential of Benfotiamine in a Sporadic Alzheimer's-Like Disease Rat Model: Insights into Insulin Signaling and Cognitive function.",
+      "authors": [
+        "Camila A E F Cardinali",
+        "Yandara A Martins",
+        "Ruan C M Moraes",
+        "Andressa P Costa",
+        "Mayke B Alencar",
+        "Ariel M Silber",
+        "Andrea S Torrão"
+      ],
+      "journal": "ACS chemical neuroscience",
+      "publication_date": "2024-Aug-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative process, also considered a metabolic condition due to alterations in glucose metabolism and insulin signaling pathways in the brain, which share similarities with diabetes. This study aimed to investigate the therapeutic effects of benfotiamine (BFT), a vitamin B1 analog, in the early stages of the neurodegenerative process in a sporadic model of Alzheimer's-like disease induced by intracerebroventricular injection of streptozotocin (STZ). Supplementation with 150 mg/kg of BFT for 7 days reversed the cognitive impairment in short- and long-term memories caused by STZ in rodents. We attribute these effects to BFT's ability to modulate glucose transporters type 1 and 3 (GLUT1 and GLUT3) in the hippocampus, inhibit GSK3 activity in the hippocampus, and modulate the insulin signaling in the hippocampus and entorhinal cortex, as well as reduce the activation of apoptotic pathways (BAX) in the hippocampus. Therefore, BFT emerges as a promising and accessible intervention in the initial treatment of conditions similar to AD.",
+      "mesh_terms": [
+        "Animals",
+        "Alzheimer Disease",
+        "Insulin",
+        "Signal Transduction",
+        "Male",
+        "Disease Models, Animal",
+        "Hippocampus",
+        "Thiamine",
+        "Streptozocin",
+        "Rats",
+        "Cognition",
+        "Rats, Wistar",
+        "Maze Learning"
+      ]
+    },
+    {
+      "pmid": "38809849",
+      "title": "Protocol for a seamless phase 2A-phase 2B randomized double-blind placebo-controlled trial to evaluate the safety and efficacy of benfotiamine in patients with early Alzheimer's disease (BenfoTeam).",
+      "authors": [
+        "Howard H Feldman",
+        "José A Luchsinger",
+        "Gabriel C Léger",
+        "Curtis Taylor",
+        "Diane M Jacobs",
+        "David P Salmon",
+        "Steven D Edland",
+        "Karen Messer",
+        "Carolyn Revta",
+        "Sarah A Flowers",
+        "Kerry S Jones",
+        "Albert Koulman",
+        "Kevin E Yarasheski",
+        "Philip B Verghese",
+        "Venky Venkatesh",
+        "Henrik Zetterberg",
+        "January Durant",
+        "Jody-Lynn Lupo",
+        "Gary E Gibson"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2024",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Benfotiamine provides an important novel therapeutic direction in Alzheimer's disease (AD) with possible additive or synergistic effects to amyloid targeting therapeutic approaches. OBJECTIVE: To conduct a seamless phase 2A-2B proof of concept trial investigating tolerability, safety, and efficacy of benfotiamine, a prodrug of thiamine, as a first-in-class small molecule oral treatment for early AD. METHODS: This is the protocol for a randomized, double-blind, placebo-controlled 72-week clinical trial of benfotiamine in 406 participants with early AD. Phase 2A determines the highest safe and well-tolerated dose of benfotiamine to be carried forward to phase 2B. During phase 2A, real-time monitoring of pre-defined safety stopping criteria in the first approximately 150 enrollees will help determine which dose (600 mg or 1200 mg) will be carried forward into phase 2B. The phase 2A primary analysis will test whether the rate of tolerability events (TEs) is unacceptably high in the high-dose arm compared to placebo. The primary safety endpoint in phase 2A is the rate of TEs compared between active and placebo arms, at each dose. The completion of phase 2A will seamlessly transition to phase 2B without pausing or stopping the trial. Phase 2B will assess efficacy and longer-term safety of benfotiamine in a larger group of participants through 72 weeks of treatment, at the selected dose. The co-primary efficacy endpoints in phase 2B are CDR-Sum of Boxes and ADAS-Cog13. Secondary endpoints include safety and tolerability measures; pharmacokinetic measures of thiamine and its esters, erythrocyte transketolase activity as blood markers of efficacy of drug delivery; ADCS-ADL-MCI; and MoCA. CONCLUSION: The BenfoTeam trial utilizes an innovative seamless phase 2A-2B design to achieve proof of concept. It includes an adaptive dose decision rule, thus optimizing exposure to the highest and best-tolerated dose. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT06223360, registered on January 25, 2024. https://classic.clinicaltrials.gov/ct2/show/NCT06223360.",
+      "mesh_terms": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Alzheimer Disease",
+        "Double-Blind Method",
+        "Prodrugs",
+        "Thiamine",
+        "Treatment Outcome",
+        "Clinical Trials, Phase II as Topic",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "38710523",
+      "title": "Benfotiamine improves dystrophic pathology and exercise capacity in mdx mice by reducing inflammation and fibrosis.",
+      "authors": [
+        "Chantal A Coles",
+        "Keryn G Woodman",
+        "Elizabeth M Gibbs",
+        "Rachelle H Crosbie",
+        "Jason D White",
+        "Shireen R Lamandé"
+      ],
+      "journal": "Human molecular genetics",
+      "publication_date": "2024-Jul-22",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Duchenne Muscular Dystrophy (DMD) is a progressive and fatal neuromuscular disease. Cycles of myofibre degeneration and regeneration are hallmarks of the disease where immune cells infiltrate to repair damaged skeletal muscle. Benfotiamine is a lipid soluble precursor to thiamine, shown clinically to reduce inflammation in diabetic related complications. We assessed whether benfotiamine administration could reduce inflammation related dystrophic pathology. Benfotiamine (10 mg/kg/day) was fed to male mdx mice (n = 7) for 15 weeks from 4 weeks of age. Treated mice had an increased growth weight (5-7 weeks) and myofibre size at treatment completion. Markers of dystrophic pathology (area of damaged necrotic tissue, central nuclei) were reduced in benfotiamine mdx quadriceps. Grip strength was increased and improved exercise capacity was found in mdx treated with benfotiamine for 12 weeks, before being placed into individual cages and allowed access to an exercise wheel for 3 weeks. Global gene expression profiling (RNAseq) in the gastrocnemius revealed benfotiamine regulated signalling pathways relevant to dystrophic pathology (Inflammatory Response, Myogenesis) and fibrotic gene markers (Col1a1, Col1a2, Col4a5, Col5a2, Col6a2, Col6a2, Col6a3, Lum) towards wildtype levels. In addition, we observed a reduction in gene expression of inflammatory gene markers in the quadriceps (Emr1, Cd163, Cd4, Cd8, Ifng). Overall, these data suggest that benfotiamine reduces dystrophic pathology by acting on inflammatory and fibrotic gene markers and signalling pathways. Given benfotiamine's excellent safety profile and current clinical use, it could be used in combination with glucocorticoids to treat DMD patients.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Mice, Inbred mdx",
+        "Fibrosis",
+        "Muscular Dystrophy, Duchenne",
+        "Inflammation",
+        "Muscle, Skeletal",
+        "Male",
+        "Thiamine",
+        "Physical Conditioning, Animal",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "38112729",
+      "title": "Protective effects of benfotiamine on cyfluthrin-induced testicular damage and sperm characteristics during the prepubertal period.",
+      "authors": [
+        "Gözde Parlak",
+        "Neriman Çolakoğlu"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Cyfluthrin, a widely used synthetic pyrethroid insecticide, poses potential risks to both human health and the environment due to its extensive application in residential, agricultural, and outdoor settings. Conversely, benfotiamine, a fat-soluble derivative of vitamin B1, offers versatile therapeutic potential. This experimental study aimed to investigate the impact of cyfluthrin exposure during the prepubertal period on sperm characteristics and testicular tissue integrity in male rats, as well as to assess the protective effects of benfotiamine. A total of 32 4-week-old Wistar albino male rats were divided into four groups. Group I received daily oral gavage of 1 ml/kg/day of olive oil (control). Group II was administered cyfluthrin (54 mg/kg/day) dissolved in 1 ml of olive oil. Group III received both cyfluthrin (54 mg/kg/day) and benfotiamine (100 mg/kg/day) in olive oil. Group IV was given benfotiamine (100 mg/kg/day) in olive oil. After 5 weeks of treatment, the rats underwent evaluations for sperm motility, epididymal sperm density, and abnormal sperm rates. Additionally, their testicular tissues were examined histologically and immunohistochemically. This study underscores the potential hazards of cyfluthrin exposure on male reproductive health and highlights the protective role of benfotiamine in mitigating these effects. It emphasizes the importance of careful pesticide usage and dosage considerations to prevent potential public health issues, including infertility, associated with long-term exposure to pesticides like cyfluthrin.",
+      "mesh_terms": [
+        "Male",
+        "Animals",
+        "Pyrethrins",
+        "Rats, Wistar",
+        "Testis",
+        "Spermatozoa",
+        "Sperm Motility",
+        "Insecticides",
+        "Nitriles",
+        "Rats",
+        "Sperm Count",
+        "Sexual Maturation"
+      ]
+    },
+    {
+      "pmid": "38043777",
+      "title": "Harnessing the neuroprotective effect of oral administration of benfotiamine in MPTP induced Parkinson's disease in rats.",
+      "authors": [
+        "Bushra Bashir",
+        "Swati Mittal",
+        "A Muthukumar",
+        "Sukriti Vishwas",
+        "Narendra Kumar Pandey",
+        "Monica Gulati",
+        "Gaurav Gupta",
+        "Muralikrishnan Dhanasekaran",
+        "Puneet Kumar",
+        "Harish Dureja",
+        "Francisco Veiga",
+        "Ana Cláudia Paiva-Santos",
+        "Jon Adams",
+        "Kamal Dua",
+        "Sachin Kumar Singh"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2024-Jan-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The study was performed to evaluate the neuroprotective effects of Benfotiamine (BFT) in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced Parkinson's disease (PD) in rats. The rats were given daily doses of BFT (100 mg/kg, 200 mg/kg) through oral administration for 42 days. The rats were given a single bilateral dosage of MPTP (0.1 mg/nostril) intranasally once before the drug treatment to induce PD. On day 42, the animals were subjected to various behavioral paradigms. Post-treatment with BFT for 42 days significantly improved the motor and nonmotor fluctuations of MPTP. The results demonstrated that treatment with BFT ameliorated MPTP-induced disorders in behavior, body balance, and dopamine levels in the mid-brain. Among the post-treated groups, a high dose of BFT was the most effective treatment. Mean values are indicated in ±SEM, n = 5***(p < 0.001) when compared with the vehicle control, n = 5 ### (p < 0.001) when compared with the disease control; (p < 0.001) when compared with the BFT per se; (p < 0.001) when compared with the low dose of BFT; (p < 0.001) when compared with the high dose of BFT. Our finding suggests that BFT contributed to superior antioxidant, and anti-inflammatory and could be a novel therapeutic method for PD management. In conclusion, BFT could be a potential drug candidate for curbing and preventing PD.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Mice",
+        "Neuroprotective Agents",
+        "Parkinson Disease",
+        "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "Administration, Oral",
+        "Disease Models, Animal",
+        "Mice, Inbred C57BL",
+        "MPTP Poisoning"
+      ]
+    },
+    {
+      "pmid": "37333039",
+      "title": "Impaired Thiamine Metabolism in Amyotrophic Lateral Sclerosis and Its Potential Treatment With Benfotiamine: A Case Report and a Review of the Literature.",
+      "authors": [
+        "Richard H Mann"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2023-Jun",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Homogenates of brain tissue from the frontal cortex at autopsy in patients with amyotrophic lateral sclerosis (ALS) showed dramatically reduced levels of the enzyme thiamine pyrophosphatase (TPPase), the enzyme responsible for the conversion of thiamine pyrophosphate (TPP) to thiamine monophosphate (TMP). Additionally, free thiamine (vitamin B1) and TMP levels have been shown to be significantly reduced in the plasma and cerebral spinal fluid (CSF) of patients with ALS. These findings suggest that there is impaired thiamine metabolism in patients with ALS. Impaired thiamine metabolism decreases adenosine triphosphate (ATP) production and is a well-established cause of neurodegeneration. Decreased levels of TPPase, resulting in decreased levels of TMP in the cells of the frontal cortex, might account for the focal neurodegenerative changes observed in motor neurons in ALS. Benfotiamine, a safe, lipid-soluble, highly absorbable thiamine analogue, significantly raises free thiamine, TMP, and TPP levels in the blood. A case in which benfotiamine may have positively impacted the symptoms of a patient with ALS is presented. The use of benfotiamine in patients with ALS appears to be a promising therapeutic option. Considering the severity and the lack of satisfactory treatment options associated with this disease, more research on the effects of benfotiamine on the course of ALS is urgently needed."
+    },
+    {
+      "pmid": "35907494",
+      "title": "Benfotiamine protects against hypothalamic dysfunction in a STZ-induced model of neurodegeneration in rats.",
+      "authors": [
+        "Ruan Carlos Macêdo de Moraes",
+        "Gabriely Cristina Alves Lima",
+        "Camila Aparecida Erreiras Fernandes Cardinali",
+        "Alisson Carvalho Gonçalves",
+        "Guilherme Vannucchi Portari",
+        "Elvira Maria Guerra-Shinohara",
+        "Antoine Leboucher",
+        "José Donato",
+        "André Kleinridders",
+        "Andréa da Silva Torrão"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2022-Oct-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The neurodegeneration of Alzheimer's disease (AD) affects not only brain structures associate with cognition early in the progression of the disease, but other areas such as the hypothalamus, a region involved in the control of metabolism and appetite. In this context, we evaluated the effects of benfotiamine (BFT), a vitamin B1 analog that is being proposed as a therapeutical approach for AD-related cognitive alterations, which were induced by intracerebroventricular injection of streptozotocin (STZ). In addition to the already described effect of STZ on cognition, we show that this drug also causes metabolic changes which are linked to changes in hypothalamic insulin signaling and orexigenic and anorexigenic circuitries, as well as a decreased cellular integrated stress response. As expected, the supplementation with 150 mg/kg of BFT for 30 days increased blood concentrations of thiamine and its phosphate esters. This led to the prevention of body weight and fat loss in STZ-ICV-treated animals. In addition, we also found an improvement in food consumption, despite hypothalamic gene expression linked to anorexia after STZ exposure. Additionally, decreased apoptosis signaling was observed in the hypothalamus. In in vitro experiments, we noticed a high ability of BFT to increase insulin sensitivity in hypothalamic neurons. Furthermore, we also observed that BFT decreases the mitochondrial unfolded stress response damage by preventing the loss of HSP60 and reversed the mitochondria dysfunction caused by STZ. Taken together, these results suggest that benfotiamine treatment is a potential therapeutic approach in the treatment of hypothalamic dysfunction and metabolic disturbances associated with sporadic AD.",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Animals",
+        "Disease Models, Animal",
+        "Rats",
+        "Streptozocin",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "35115359",
+      "title": "BOND study: a randomised double-blind, placebo-controlled trial over 12 months to assess the effects of benfotiamine on morphometric, neurophysiological and clinical measures in patients with type 2 diabetes with symptomatic polyneuropathy.",
+      "authors": [
+        "Gidon J Bönhof",
+        "Gundega Sipola",
+        "Alexander Strom",
+        "Christian Herder",
+        "Klaus Strassburger",
+        "Birgit Knebel",
+        "Claudia Reule",
+        "Jan-Christoph Wollmann",
+        "Andrea Icks",
+        "Hadi Al-Hasani",
+        "Michael Roden",
+        "Oliver Kuss",
+        "Dan Ziegler"
+      ],
+      "journal": "BMJ open",
+      "publication_date": "2022-Feb-03",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Diabetic sensorimotor polyneuropathy (DSPN) affects approximately 30% of people with diabetes, while around half of cases are symptomatic. Currently, there are only few pathogenetically oriented pharmacotherapies for DSPN, one of which is benfotiamine, a prodrug of thiamine with a high bioavailability and favourable safety profile. While benfotiamine has shown positive effects in preclinical and short-term clinical studies, no long-term clinical trials are available to demonstrate disease-modifying effects on DSPN using a comprehensive set of disease-related endpoints. METHODS AND ANALYSIS: The benfotiamine on morphometric, neurophysiological and clinical measures in patients with type 2 diabetes trial is a randomised double-blind, placebo-controlled parallel group monocentric phase II clinical trial to assess the effects of treatment with benfotiamine compared with placebo in participants with type 2 diabetes and mild to moderate symptomatic DSPN. Sixty participants will be 1:1 randomised to treatment with benfotiamine 300 mg or placebo two times a day over 12 months. The primary endpoint will be the change in corneal nerve fibre length assessed by corneal confocal microscopy (CCM) after 12 months of benfotiamine treatment compared with placebo. Secondary endpoints will include other CCM measures, skin biopsy and function indices, variables from somatic and autonomic nerve function tests, clinical examination and questionnaires, general health, health-related quality of life, cost, safety and blood tests. ETHICS AND DISSEMINATION: The trial was approved by the competent authority and the local independent ethics committee. Trial results will be published in peer-reviewed journals, conference abstracts, and via online and print media. TRIAL REGISTRATION NUMBER: DRKS00014832.",
+      "mesh_terms": [
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Humans",
+        "Polyneuropathies",
+        "Quality of Life",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "34959619",
+      "title": "Effects of Magnesium Orotate, Benfotiamine and a Combination of Vitamins on Mitochondrial and Cholinergic Function in the TgF344-AD Rat Model of Alzheimer's Disease.",
+      "authors": [
+        "Christian Viel",
+        "Adrian T Brandtner",
+        "Alexander Weißhaar",
+        "Alina Lehto",
+        "Marius Fuchs",
+        "Jochen Klein"
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "publication_date": "2021-Nov-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Glucose hypometabolism, mitochondrial dysfunction, and cholinergic deficits have been reported in early stages of Alzheimer's disease (AD). Here, we examine these parameters in TgF344-AD rats, an Alzheimer model that carries amyloid precursor protein and presenilin-1 mutations, and of wild type F344 rats. In mitochondria isolated from rat hippocampi, we found reductions of complex I and oxidative phosphorylation in transgenic rats. Further impairments, also of complex II, were observed in aged (wild-type and transgenic) rats. Treatment with a \"cocktail\" containing magnesium orotate, benfotiamine, folic acid, cyanocobalamin, and cholecalciferol did not affect mitochondrial activities in wild-type rats but restored diminished activities in transgenic rats to wild-type levels. Glucose, lactate, and pyruvate levels were unchanged by age, genetic background, or treatment. Using microdialysis, we also investigated extracellular concentrations of acetylcholine that were strongly reduced in transgenic animals. Again, ACh levels in wild-type rats did not change upon treatment with nutrients, whereas the cocktail increased hippocampal acetylcholine levels under physiological stimulation. We conclude that TgF344-AD rats display a distinct mitochondrial and cholinergic dysfunction not unlike the findings in patients suffering from AD. This dysfunction can be partially corrected by the application of the \"cocktail\" which is particularly active in aged rats. We suggest that the TgF344-AD rat is a promising model to further investigate mitochondrial and cholinergic dysfunction and potential treatment approaches for AD."
+    },
+    {
+      "pmid": "34947984",
+      "title": "Serum Metabolomic and Lipidomic Profiling Reveals Novel Biomarkers of Efficacy for Benfotiamine in Alzheimer's Disease.",
+      "authors": [
+        "Ruchika Bhawal",
+        "Qin Fu",
+        "Elizabeth T Anderson",
+        "Gary E Gibson",
+        "Sheng Zhang"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2021-Dec-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Serum metabolomics and lipidomics are powerful approaches for discovering unique biomarkers in various diseases and associated therapeutics and for revealing metabolic mechanisms of both. Treatment with Benfotiamine (BFT), a thiamine prodrug, for one year produced encouraging results for patients with mild cognitive impairment and mild Alzheimer's disease (AD). In this study, a parallel metabolomics and lipidomics approach was applied for the first exploratory investigation on the serum metabolome and lipidome of patients treated with BFT. A total of 315 unique metabolites and 417 lipids species were confidently identified and relatively quantified. Rigorous statistical analyses revealed significant differences between the placebo and BFT treatment groups in 25 metabolites, including thiamine, tyrosine, tryptophan, lysine, and 22 lipid species, mostly belonging to phosphatidylcholines. Additionally, 10 of 11 metabolites and 14 of 15 lipid species reported in previous literature to follow AD progression changed in the opposite direction to those reported to reflect AD progression. Enrichment and pathway analyses show that significantly altered metabolites by BFT are involved in glucose metabolism and biosynthesis of aromatic amino acids. Our study discovered that multiple novel biomarkers and multiple mechanisms that may underlie the benefit of BFT are potential therapeutic targets in AD and should be validated in studies with larger sample sizes.",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Biomarkers",
+        "Case-Control Studies",
+        "Chromatography, Liquid",
+        "Humans",
+        "Lipids",
+        "Mass Spectrometry",
+        "Metabolic Networks and Pathways",
+        "Metabolomics",
+        "Pilot Projects",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "34232130",
+      "title": "The impact of thiamine deficiency and benfotiamine treatment on Nod-like receptor protein-3 inflammasome in microglia.",
+      "authors": [
+        "Yangqi Xu",
+        "Lei Zhao",
+        "Hongyan Qiu",
+        "Ting Qian",
+        "Shaoming Sang",
+        "Chunjiu Zhong"
+      ],
+      "journal": "Neuroreport",
+      "publication_date": "2021-Aug-11",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thiamine-dependent processes are critical in cerebral glucose metabolism, it is abnormity induces oxidative stress, inflammation and neurodegeneration. Nod-like receptor protein-3 (NLRP3) inflammasome-mediated inflammation is closely related to neurologic diseases and can be activated by oxidative stress. However, the impact of thiamine deficiency on NLRP3 inflammasome activation remains unknown. In this study, we found that NLRP3 inflammasomes were significantly activated in the microglia of thiamine deficiency mice model. In contrast, benfotiamine dampened inflammation NLRP3 mediated in BV2 cells stimulated with LPS and ATP through reducing mitochondrial reactive oxygen species levels and mitigating autophagy flux defect. These data identify an important role of thiamine metabolism in NLRP3 inflammasome activation, and correcting thiamine metabolism through benfotiamine provides a new therapeutic strategy for NLRP3 inflammasome related neurological, metabolic, and inflammatory diseases.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Cell Line",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microglia",
+        "Receptors, Cell Surface",
+        "Thiamine",
+        "Thiamine Deficiency",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "34222057",
+      "title": "Benfotiamine reduced collagen IV contents of sciatic nerve in hyperglycemic rats.",
+      "authors": [
+        "Leila Vafadar Ghasemi",
+        "Morteza Behnam Rassouli",
+        "Maryam M Matin",
+        "Naser Mahdavi-Shahri"
+      ],
+      "journal": "Journal of diabetes and metabolic disorders",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Neuropathy as a common complication of hyperglycemia in diabetic patients is probably caused by metabolic and structural changes in extracellular matrix (ECM) of peripheral nerves. This study was designed to evaluate the effects of benfotiamine (BT) on the structural, biological and mechanical characteristics of rat sciatic nerve in hyperglycemic condition. MATERIALS AND METHODS: Forty eight adult male Wistar rats were assigned to 6 groups (n = 8): control (healthy rats with no treatment; C), positive control (healthy rats received BT treatment; B), negative control groups 1&2 (hyperglycemic rats kept for 4 and/or 8 weeks; 4WD and 8WD, respectively) and experimental groups 1&2 (hyperglycemic rats treated by daily oral gavage of 100 mg kg- 1 body weight BT for 4 and/or 8 weeks; 4WD + BT and 8WD + BT, respectively). Hyperglycemia was induced by a single intraperitoneal injection of of streptozotocin (55 mg kg- 1 body weight). After a period of experimental period (4 and/or 8 weeks) rats were sacrificed and from each two segments (1 cm length) of left sciatic nerve were sampled. These samples were prepared for histological examinations (light and electron microscopy), collagen IV immunohistochemistry and strength tensile test. RESULTS: In comparison to control groups, in 4WD and 8WD groups the amount of type IV collagen was increased, the structure of myelin sheath and nerve fibers were extensively altered and the tensile strength was significantly decreased (p < 0.05) while in 4WD + BT and 8WD + BT groups these abnormalities were attenuated. CONCLUSIONS: It seems that BT treatment may rescue the sciatic nerve from the hyperglycemic-induced ECM structural abnormality. This beneficial advantage of BT is likely exerted through the modification of glucose metabolism pathways."
+    },
+    {
+      "pmid": "33325753",
+      "title": "Protective effect of benfotiamine on methotrexate induced gastric damage in rats.",
+      "authors": [
+        "S Koc",
+        "M A Erdogan",
+        "E Erdogan",
+        "A Yalcin",
+        "A Turk",
+        "M M Erdogan"
+      ],
+      "journal": "Biotechnic & histochemistry : official publication of the Biological Stain Commission",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Methotrexate (MTX) is widely used for treating cancers and inflammatory diseases; it is a potential anti-metabolite and folate antagonist. We investigated potential protective effects of benfotiamine on MTX damage. We used a rat model of MTX induced gastric injury to assess changes in gastric histopathology, oxidative stress and visfatin levels due to MTX treatment. Rats were divided into four groups: an untreated control group, an MTX group treated with a single dose of MTX, a benfotiamine group treated with benfotiamine daily for two weeks, and a benfotiamine + MTX group treated with a single dose of MTX followed by benfotiamine daily for two weeks. Total tissue antioxidant status (TAS), total oxidant status (TOS) and visfatin levels were measured at the end of the experiment. At the end of the experiment, we investigated both visfatin expression and the histopathology of gastric tissues. The mean visfatin level was lower in the MTX group than in the benfotiamine group. The mean tissue TOS levels were higher in MTX group than in the control, benfotiamine or benfotiamine + MTX groups. Significant gastric gland dilation, and erosion and loss of mucosa were found on the gastric surface in the MTX group compared to the control group. The dilation, erosion and mucosal loss were decreased significantly in the benfotiamine + MTX group compared to the MTX group. Compared to the control group, visfatin immunoreactivity was reduced significantly in the MTX group. Decreased visfatin levels appear to play a role in the mechanism of gastric damage. Benfotiamine may be useful for preventing MTX induced gastric injuries.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Methotrexate",
+        "Oxidative Stress",
+        "Rats",
+        "Rats, Wistar",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "33074237",
+      "title": "Benfotiamine and Cognitive Decline in Alzheimer's Disease: Results of a Randomized Placebo-Controlled Phase IIa Clinical Trial.",
+      "authors": [
+        "Gary E Gibson",
+        "José A Luchsinger",
+        "Rosanna Cirio",
+        "Huanlian Chen",
+        "Jessica Franchino-Elder",
+        "Joseph A Hirsch",
+        "Lucien Bettendorff",
+        "Zhengming Chen",
+        "Sarah A Flowers",
+        "Linda M Gerber",
+        "Thomas Grandville",
+        "Nicole Schupf",
+        "Hui Xu",
+        "Yaakov Stern",
+        "Christian Habeck",
+        "Barry Jordan",
+        "Pasquale Fonzetti"
+      ],
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publication_date": "2020",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: In preclinical models, benfotiamine efficiently ameliorates the clinical and biological pathologies that define Alzheimer's disease (AD) including impaired cognition, amyloid-β plaques, neurofibrillary tangles, diminished glucose metabolism, oxidative stress, increased advanced glycation end products (AGE), and inflammation. OBJECTIVE: To collect preliminary data on feasibility, safety, and efficacy in individuals with amnestic mild cognitive impairment (aMCI) or mild dementia due to AD in a placebo-controlled trial of benfotiamine. METHODS: A twelve-month treatment with benfotiamine tested whether clinical decline would be delayed in the benfotiamine group compared to the placebo group. The primary clinical outcome was the Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog). Secondary outcomes were the clinical dementia rating (CDR) score and fluorodeoxyglucose (FDG) uptake, measured with brain positron emission tomography (PET). Blood AGE were examined as an exploratory outcome. RESULTS: Participants were treated with benfotiamine (34) or placebo (36). Benfotiamine treatment was safe. The increase in ADAS-Cog was 43% lower in the benfotiamine group than in the placebo group, indicating less cognitive decline, and this effect was nearly statistically significant (p = 0.125). Worsening in CDR was 77% lower (p = 0.034) in the benfotiamine group compared to the placebo group, and this effect was stronger in the APOEɛ4 non-carriers. Benfotiamine significantly reduced increases in AGE (p = 0.044), and this effect was stronger in the APOEɛ4 non-carriers. Exploratory analysis derivation of an FDG PET pattern score showed a treatment effect at one year (p = 0.002). CONCLUSION: Oral benfotiamine is safe and potentially efficacious in improving cognitive outcomes among persons with MCI and mild AD.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Alzheimer Disease",
+        "Aniline Compounds",
+        "Apolipoprotein E4",
+        "Brain",
+        "Cognitive Dysfunction",
+        "Disease Progression",
+        "Ethylene Glycols",
+        "Female",
+        "Fluorodeoxyglucose F18",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Male",
+        "Positron-Emission Tomography",
+        "Radiopharmaceuticals",
+        "Thiamine",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "33069584",
+      "title": "Treatment with benfotiamine in patients with diabetic sensorimotor polyneuropathy: A double-blind, randomized, placebo-controlled, parallel group pilot study over 12 months.",
+      "authors": [
+        "Ovidiu Alin Stirban",
+        "Helga Zeller-Stefan",
+        "Jochen Schumacher",
+        "Wilhelm Gaus",
+        "Dan Ziegler",
+        "Thomas Schuerholz",
+        "Rodica Pop-Busui"
+      ],
+      "journal": "Journal of diabetes and its complications",
+      "publication_date": "2020-Dec",
+      "publication_types": [
+        "Letter",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Diabetes Mellitus",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Humans",
+        "Pilot Projects",
+        "Polyneuropathies",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "32987117",
+      "title": "Oral benfotiamine reverts cognitive deficit and increase thiamine diphosphate levels in the brain of a rat model of neurodegeneration.",
+      "authors": [
+        "Ruan Carlos Macêdo de Moraes",
+        "Monique Patricio Singulani",
+        "Alisson Carvalho de Gonçalves",
+        "Guilherme Vannucchi Portari",
+        "Andrea da Silva Torrão"
+      ],
+      "journal": "Experimental gerontology",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "It is well known that patients with Alzheimer's disease (AD) have imbalances in blood thiamine concentrations and lower activity of thiamine-dependent enzymes. Benfotiamine, a more bioavailable thiamine analog, has been proposed as an alternative to counteract these changes related to thiamine metabolism. Thus, our study aimed to analyze the effects of benfotiamine supplementation on brain thiamine absorption, as well as on parameters related to neuronal energy metabolism and disease progression in an experimental model of sporadic AD induced by intracerebroventricular injection of streptozotocin (STZ) in rats. The supplementation with 150 mg/kg of benfotiamine for 30 days increased the concentrations of thiamine diphosphate in the hippocampus and entorhinal cortex. This led to an improvement in mitochondria enzymes and insulin signaling pathway, with inactivation of GSK3α/β and ERK1/2, which are two tau-kinases related to the progression of AD, which could decrease tau hyperphosphorylation and apoptosis signaling. Besides, we observed an increased amount of Glun2b subunit of NMDA receptors, decreased inflammation, and improvement of cognitive deficit. Together, these results suggest that benfotiamine could be a potential therapeutic approach in the treatment of sporadic AD.",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Animals",
+        "Brain",
+        "Cognition",
+        "Humans",
+        "Rats",
+        "Thiamine",
+        "Thiamine Pyrophosphate"
+      ]
+    },
+    {
+      "pmid": "32384080",
+      "title": "Beneficial effects of benfotiamine, a NADPH oxidase inhibitor, in isoproterenol-induced myocardial infarction in rats.",
+      "authors": [
+        "Lamiaa A Ahmed",
+        "Omnia F Hassan",
+        "Omneya Galal",
+        "Dina F Mansour",
+        "Aiman El-Khatib"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Acute myocardial infarction (AMI) remains the most common cause of morbidity and mortality worldwide. The present study was directed to investigate the beneficial effects of benfotiamine pre- and post-treatments in isoproterenol (ISO)-induced MI in rats. METHODS: Myocardial heart damage was induced by subcutaneous injection of ISO (150 mg/kg) once daily for two consecutive days. Benfotiamine (100 mg/kg/day) was given orally for two weeks before or after ISO treatment. RESULTS: ISO administration revealed significant changes in electrocardiographic recordings, elevation of levels of cardiac enzymes; creatinine kinase (CK-MB) and troponin-I (cTn-I), and perturbation of markers of oxidative stress; nicotinamide adenine dinucleotide phosphate (NADPH) oxidase, malondialdehyde (MDA), reduced glutathione (GSH), superoxide dismutase (SOD) and glutathione peroxidase (GPx) and markers of inflammation; protein kinase C (PKC), nuclear factor-kappa B (NF-κB) and metalloproteinase-9 (MMP-9). The apoptotic markers (caspase-8 and p53) were also significantly elevated in ISO groups in addition to histological alterations. Groups treated with benfotiamine pre- and post-ISO administration showed significantly decreased cardiac enzymes levels and improved oxidative stress, inflammatory and apoptotic markers compared to the ISO groups. CONCLUSION: The current study highlights the potential role of benfotiamine as a promising agent for prophylactic and therapeutic interventions in myocardial damage in several cardiovascular disorders via NADPH oxidase inhibition.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Cardiotoxins",
+        "Disease Models, Animal",
+        "Electrocardiography",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Inflammation Mediators",
+        "Isoproterenol",
+        "Male",
+        "Myocardial Infarction",
+        "Myocardium",
+        "NADPH Oxidases",
+        "Oxidative Stress",
+        "Rats",
+        "Rats, Wistar",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "31958909",
+      "title": "Protective Effects of Citicoline and Benfotiamine Each Alone and in Combination on Streptozotocin-induced Memory Impairment in Mice.",
+      "authors": [
+        "Maryam Safavi",
+        "Ali Hosseini-Sharifabad",
+        "Yasaman Seyed-Yousefi",
+        "Mohammad Rabbani"
+      ],
+      "journal": "Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology",
+      "publication_date": "2020-Feb-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Diabetes mellitus is associated with cognitive disorders such as Alzheimer's disease. Studies have shown that citicoline and benfotiamine can improve memory and learning through different mechanism of actions. The aim of this study was to compare the individual effects of benfotiamine (100, 200, 300 mg/kg) and citicoline (50, 100, 250, 500 mg/kg, gavage) and their co-administration on memory impairments in diabetic mice. METHODS: Diabetes was induced by a single dose of streptozotocin (STZ, 140 mg/kg, intraperitoneal) and benfotiamine and/or citicoline were administered for three weeks. Memory was evaluated using the object recognition task (ORT) and passive avoidance test (PAT). RESULTS: Results from ORT shows that citicoline at 50, 100, 250, and 500 mg/kg and benfotiamine at 100, 200, and 300 mg/kg and their combination (benfotiamine at 100 mg/kg added to citicoline at 50, 100, and 250 mg/kg) are equally effective in reversing the memory loss induced by STZ (p < 0.001). PAT results demonstrate that citicoline at 100, 250, and 500 mg/kg and benfotiamine at above doses did not improve the latency time when administered separately, but benfotiamine at a fixed dose of 100 mg/kg in the presence of citicoline at 50, 100, and 250 mg/kg increased the latency time and improved memory significantly. CONCLUSION: In conclusion, in PAT, co-administration of benfotiamine and citicoline was more effective than either alone in improving memory. Regarding ORT, although benfotiamine added to citicoline improved memory notably, the difference between combination therapy and single-drug therapy was not considerable."
+    },
+    {
+      "pmid": "31810115",
+      "title": "Thiamine mimetics sulbutiamine and benfotiamine as a nutraceutical approach to anticancer therapy.",
+      "authors": [
+        "Hunter C Jonus",
+        "Charnel C Byrnes",
+        "Jaeah Kim",
+        "Maria L Valle",
+        "Michael G Bartlett",
+        "Hamid M Said",
+        "Jason A Zastre"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2020-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Malignant cells frequently demonstrate an oncogenic-driven reliance on glycolytic metabolism to support their highly proliferative nature. Overexpression of pyruvate dehydrogenase kinase (PDK) may promote this unique metabolic signature of tumor cells by inhibiting mitochondrial function. PDKs function to phosphorylate and inhibit pyruvate dehydrogenase (PDH) activity. Silencing of PDK expression has previously been shown to restore mitochondrial function and reduce tumor cell proliferation. High dose Vitamin B1, or thiamine, possesses antitumor properties related to its capacity to reduce PDH phosphorylation and promote its enzymatic activity, presumably through PDK inhibition. Though a promising nutraceutical approach for cancer therapy, thiamine's low bioavailability may limit clinical effectiveness. Here, we have demonstrated exploiting the commercially available lipophilic thiamine analogs sulbutiamine and benfotiamine increases thiamine's anti-cancer effect in vitro. Determined by crystal violet proliferation assays, both sulbutiamine and benfotiamine reduced thiamine's millimolar IC50 value to micromolar equivalents. HPLC analysis revealed that sulbutiamine and benfotiamine significantly increased intracellular thiamine and TPP concentrations in vitro, corresponding with reduced levels of PDH phosphorylation. Through an ex vitro kinase screen, thiamine's activated cofactor form thiamine pyrophosphate (TPP) was found to inhibit the function of multiple PDK isoforms. Attempts to maximize intracellular TPP by exploiting thiamine homeostasis gene expression resulted in enhanced apoptosis in tumor cells. Based on our in vitro evaluations, we conclude that TPP serves as the active species mediating thiamine's inhibitory effect on tumor cell proliferation. Pharmacologic administration of benfotiamine, but not sulbutiamine, reduced tumor growth in a subcutaneous xenograft mouse model. It remains unclear if benfotiamine's effects in vivo are associated with PDK inhibition or through an alternative mechanism of action. Future work will aim to define the action of lipophilic thiamine mimetics in vivo in order to translate their clinical usefulness as anticancer strategies.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Confidence Intervals",
+        "Dietary Supplements",
+        "Female",
+        "Humans",
+        "Inhibitory Concentration 50",
+        "Intracellular Space",
+        "Mice, Nude",
+        "Pyruvate Dehydrogenase Acetyl-Transferring Kinase",
+        "Pyruvate Dehydrogenase Complex",
+        "Thiamine",
+        "Thiamine Pyrophosphate"
+      ]
+    },
+    {
+      "pmid": "31395444",
+      "title": "Benfotiamine supplementation prevents oxidative stress in anterior tibialis muscle and heart.",
+      "authors": [
+        "Álisson de Carvalho Gonçalves",
+        "Einy Jéssika Siqueira Moreira",
+        "Guilherme Vannucchi Portari"
+      ],
+      "journal": "Journal of integrative medicine",
+      "publication_date": "2019-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: This study aimed to evaluate the influence of oral supplementation with benfotiamine on oxidative stress in the liver, heart and muscles of endurance-trained mice. METHODS: Twenty-five male BALB/c mice were allocated to the following treatment groups: standard diet and sedentary activity (Sta-Sed), benfotiamine-supplemented diet and sedentary activity (Ben-Sed), standard diet and training activity (Sta-Tr) and benfotiamine-supplemented diet and training activity (Ben-Tr). The training comprised 6 weeks of endurance swimming training. The concentration of thiobarbituric acid reactive substances (TBARS), carbonylated proteins, total thiols and non-protein thiols was analyzed in the liver, heart and tibialis anterior muscle. RESULTS: In the muscle, TBARS concentration in the Sta-Sed group was higher than that in other groups; in the heart, TBARS concentration in the Sta-Sed and Ben-Tr groups was higher than that in the Ben-Sed group. The carbonyl content of the muscle tissues was higher in the Sta-Sed group than in both supplemented groups. In liver, the carbonyl content was lower in the Ben-Sed group than in the Sta-Sed group. The level of total thiols was lower in the Ben-Sed group than in the Sta-Tr group. In the heart, the level of total thiols was higher in the Ben-Sed group than in the Ben-Tr group. The concentration of non-protein thiols in the muscle was higher in the Ben-Sed group than in the Ben-Tr group, whereas in the heart, concentration of non-protein thiols of Sta-Tr group was lower than that of Sta-Sed group. CONCLUSION: The results show that benfotiamine is an efficient antioxidant for the anterior tibialis muscle and heart; however, swimming training did not alter redox status.",
+      "mesh_terms": [
+        "Animals",
+        "Dietary Supplements",
+        "Heart",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Muscle, Skeletal",
+        "Oxidative Stress",
+        "Physical Conditioning, Animal",
+        "Sedentary Behavior",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "31193162",
+      "title": "Thiamine and benfotiamine protect neuroblastoma cells against paraquat and β-amyloid toxicity by a coenzyme-independent mechanism.",
+      "authors": [
+        "Margaux Sambon",
+        "Aurore Napp",
+        "Alice Demelenne",
+        "Julie Vignisse",
+        "Pierre Wins",
+        "Marianne Fillet",
+        "Lucien Bettendorff"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Benfotiamine (BFT) is a synthetic thiamine precursor with high bioavailability. It is efficient in treating complications of type 2 diabetes and has beneficial effects in mouse models of neurodegenerative diseases. The mechanism of action of BFT remains unknown, though it is sometimes suggested that it may be linked to increased thiamine diphosphate (ThDP) coenzyme function. METHODS: We used a mouse neuroblastoma cell line (Neuro2a) grown in thiamine-restricted medium. The cells were stressed by exposure to paraquat (PQ) or amyloid β1-42 peptide in the presence or absence of BFT and the cell survival was measured using the MTT method. In each case, BFT was compared with sulbutiamine (SuBT), an unrelated thiamine precursor, and thiamine. Metabolites of BFT were determined by HPLC and mass spectrometry. RESULTS: At 50 μM, BFT protects the cells against PQ and amyloid β1-42 peptide-induced toxicity with the same efficacy. Protective effects were also observed with SuBT and with higher concentrations of thiamine. The main metabolites of BFT were thiamine and S-benzoylthiamine (S-BT). Treatment with both precursors induces a strong increase in intracellular content of thiamine. Protective effects of BFT and SuBT are directly related to thiamine (but not ThDP) levels in Neuro2a cells. CONCLUSIONS: BFT, SuBT and thiamine all protect the cells against oxidative stress, suggesting an antioxidant effect of thiamine. Our results are not in favor of a direct ROS scavenging effect of thiamine but rather an indirect effect possibly mediated by some antioxidant signaling pathway. It is however not clear whether this effect is due to thiamine itself, its thiol form or an unknown metabolite. GENERAL SIGNIFICANCE: Our results suggest a role of thiamine in protection against oxidative stress, independent of the coenzyme function of thiamine diphosphate."
+    },
+    {
+      "pmid": "30817932",
+      "title": "Thiamine and benfotiamine counteract ultrasound-induced aggression, normalize AMPA receptor expression and plasticity markers, and reduce oxidative stress in mice.",
+      "authors": [
+        "Anna Gorlova",
+        "Dmitrii Pavlov",
+        "Daniel C Anthony",
+        "Eugene D Ponomarev",
+        "Margaux Sambon",
+        "Andrey Proshin",
+        "Igor Shafarevich",
+        "Diana Babaevskaya",
+        "Klaus-Peter Lesсh",
+        "Lucien Bettendorff",
+        "Tatyana Strekalova"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "2019-Sep-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The negative societal impacts associated with the increasing prevalence of violence and aggression is increasing, and, with this rise, is the need to understand the molecular and cellular changes that underpin ultrasound-induced aggressive behavior. In mice, stress-induced aggression is known to alter AMPA receptor subunit expression, plasticity markers, and oxidative stress within the brain. Here, we induced aggression in BALB/c mice using chronic ultrasound exposure and examined the impact of the psychoactive anti-oxidant compounds thiamine (vitamin B1), and its derivative benfotiamine, on AMPA receptor subunit expression, established plasticity markers, and oxidative stress. The administration of thiamine or benfotiamine (200 mg/kg/day) in drinking water decreased aggressive behavior following 3-weeks of ultrasound exposure and benfotiamine, reduced floating behavior in the swim test. The vehicle-treated ultrasound-exposed mice exhibited increases in protein carbonyl and total glutathione, altered AMPA receptor subunits expression, and decreased expression of plasticity markers. These ultrasound-induced effects were ameliorated by thiamine and benfotiamine treatment; in particular both antioxidants were able to reverse ultrasound-induced changes in GluA1 and GluA2 subunit expression, and, within the prefrontal cortex, significantly reversed the changes in protein carbonyl and polysialylated form of neural cell adhesion molecule (PSA-NCAM) expression levels. Benfotiamine was usually more efficacious than thiamine. Thus, the thiamine compounds were able to counteract ultrasound-induced aggression, which was accompanied by the normalization of markers that have been showed to be associated with ultrasound-induced aggression. These commonly used, orally-active compounds may have considerable potential for use in the control of aggression within the community. This article is part of the Special Issue entitled 'Current status of the neurobiology of aggression and impulsivity'.",
+      "mesh_terms": [
+        "Aggression",
+        "Animals",
+        "Antioxidants",
+        "Brain",
+        "Depression",
+        "Male",
+        "Mice, Inbred BALB C",
+        "Neuronal Plasticity",
+        "Oxidative Stress",
+        "Receptors, AMPA",
+        "Receptors, Serotonin",
+        "Thiamine",
+        "Ultrasonic Waves"
+      ]
+    },
+    {
+      "pmid": "29860433",
+      "title": "Benfotiamine treatment activates the Nrf2/ARE pathway and is neuroprotective in a transgenic mouse model of tauopathy.",
+      "authors": [
+        "Victor Tapias",
+        "Shari Jainuddin",
+        "Manuj Ahuja",
+        "Cliona Stack",
+        "Ceyhan Elipenahli",
+        "Julie Vignisse",
+        "Meri Gerges",
+        "Natalia Starkova",
+        "Hui Xu",
+        "Anatoly A Starkov",
+        "Lucien Bettendorff",
+        "Dmitry M Hushpulian",
+        "Natalya A Smirnova",
+        "Irina G Gazaryan",
+        "Navneet A Kaidery",
+        "Sushama Wakade",
+        "Noel Y Calingasan",
+        "Bobby Thomas",
+        "Gary E Gibson",
+        "Magali Dumont",
+        "M Flint Beal"
+      ],
+      "journal": "Human molecular genetics",
+      "publication_date": "2018-Aug-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Impaired glucose metabolism, decreased levels of thiamine and its phosphate esters, and reduced activity of thiamine-dependent enzymes, such as pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase and transketolase occur in Alzheimer's disease (AD). Thiamine deficiency exacerbates amyloid beta (Aβ) deposition, tau hyperphosphorylation and oxidative stress. Benfotiamine (BFT) rescued cognitive deficits and reduced Aβ burden in amyloid precursor protein (APP)/PS1 mice. In this study, we examined whether BFT confers neuroprotection against tau phosphorylation and the generation of neurofibrillary tangles (NFTs) in the P301S mouse model of tauopathy. Chronic dietary treatment with BFT increased lifespan, improved behavior, reduced glycated tau, decreased NFTs and prevented death of motor neurons. BFT administration significantly ameliorated mitochondrial dysfunction and attenuated oxidative damage and inflammation. We found that BFT and its metabolites (but not thiamine) trigger the expression of Nrf2/antioxidant response element (ARE)-dependent genes in mouse brain as well as in wild-type but not Nrf2-deficient fibroblasts. Active metabolites were more potent in activating the Nrf2 target genes than the parent molecule BFT. Docking studies showed that BFT and its metabolites (but not thiamine) bind to Keap1 with high affinity. These findings demonstrate that BFT activates the Nrf2/ARE pathway and is a promising therapeutic agent for the treatment of diseases with tau pathology, such as AD, frontotemporal dementia and progressive supranuclear palsy.",
+      "mesh_terms": [
+        "Amyloid beta-Peptides",
+        "Animals",
+        "Antioxidant Response Elements",
+        "Brain",
+        "Disease Models, Animal",
+        "Humans",
+        "Kelch-Like ECH-Associated Protein 1",
+        "Mice",
+        "Mice, Transgenic",
+        "NF-E2-Related Factor 2",
+        "Neuroprotection",
+        "Oxidative Stress",
+        "Protein Aggregation, Pathological",
+        "Signal Transduction",
+        "Tauopathies",
+        "Thiamine",
+        "tau Proteins"
+      ]
+    },
+    {
+      "pmid": "29066103",
+      "title": "Effects of benfotiamine and coenzyme Q10 on kidney damage induced gentamicin.",
+      "authors": [
+        "Mehmet Alperen Ustuner",
+        "Dilara Kaman",
+        "Neriman Colakoglu"
+      ],
+      "journal": "Tissue & cell",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Gentamicin (GM) is an effective antibiotic against severe infection but has limitations related to nephrotoxicity. In this study, we investigated whether benfotiamine (BFT) and coenzyme Q10 (CoQ10), could ameliorate the nephrotoxic effect of GM in rats. METHODS: Rats were divided into five groups. Group 1 and 2 served as control and sham respectively, Group 3 as GM group, Group 4 as GM+CoQ10 and Group 5 as GM+BFT for 8days. At the end of the study, all rats were euthanized by cervical decapitation and then blood samples and kidneys were collected for further analysis. Serum urea, creatinine, cytokine TNF-a, oxidant and antioxidant parameters, as well as histopathological examination of kidney tissues were assessed. RESULTS: Gentamicin administration caused a severe nephrotoxicity which was evidenced by an elevated serum creatinine, urea and KIM-1 level as compared with the controls. Moreover, a significant increase in serum malondialdehyde, reduced glutathione. Histopathological examination of renal tissue in gentamisin administered group, there were extremly pronounced necrotic tubules in the renal cortex and hyalen cast accumulation in the medullar tubuli. BFT given to GM rats reduced these nephrotoxicity parameters. Serum creatinine, urea, and KIM-1 were almost normalized in the GM+BFT group. Benfotiamin treatment was significantly decreased necrotic tubuli and hyalen deposition in gentamisin plus benfotiamin group. CoQ10 given to GM rats did not cause any statistically significant alterations in these nephrotoxicity parameters when compared with GM group but histopathological examination of renal tissue in GM+CoQ10 administered group, CoQ10 treatment was decreased necrotic tubuli rate and hyalen accumulation in tubuli. CONCLUSION: The results from our study indicate that BFT supplement attenuates gentamicin-induced renal injury via the amelioration of oxidative stress and inflammation of renal tubular cells.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Antioxidants",
+        "Gentamicins",
+        "Kidney",
+        "Male",
+        "Mice",
+        "Oxidative Stress",
+        "Random Allocation",
+        "Rats, Wistar",
+        "Thiamine",
+        "Ubiquinone"
+      ]
+    },
+    {
+      "pmid": "28506637",
+      "title": "Thiamine and benfotiamine prevent stress-induced suppression of hippocampal neurogenesis in mice exposed to predation without affecting brain thiamine diphosphate levels.",
+      "authors": [
+        "Julie Vignisse",
+        "Margaux Sambon",
+        "Anna Gorlova",
+        "Dmitrii Pavlov",
+        "Nicolas Caron",
+        "Brigitte Malgrange",
+        "Elena Shevtsova",
+        "Andrey Svistunov",
+        "Daniel C Anthony",
+        "Natalyia Markova",
+        "Natalyia Bazhenova",
+        "Bernard Coumans",
+        "Bernard Lakaye",
+        "Pierre Wins",
+        "Tatyana Strekalova",
+        "Lucien Bettendorff"
+      ],
+      "journal": "Molecular and cellular neurosciences",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thiamine is essential for normal brain function and its deficiency causes metabolic impairment, specific lesions, oxidative damage and reduced adult hippocampal neurogenesis (AHN). Thiamine precursors with increased bioavailability, especially benfotiamine, exert neuroprotective effects not only for thiamine deficiency (TD), but also in mouse models of neurodegeneration. As it is known that AHN is impaired by stress in rodents, we exposed C57BL6/J mice to predator stress for 5 consecutive nights and studied the proliferation (number of Ki67-positive cells) and survival (number of BrdU-positive cells) of newborn immature neurons in the subgranular zone of the dentate gyrus. In stressed mice, the number of Ki67- and BrdU-positive cells was reduced compared to non-stressed animals. This reduction was prevented when the mice were treated (200mg/kg/day in drinking water for 20days) with thiamine or benfotiamine, that were recently found to prevent stress-induced behavioral changes and glycogen synthase kinase-3β (GSK-3β) upregulation in the CNS. Moreover, we show that thiamine and benfotiamine counteract stress-induced bodyweight loss and suppress stress-induced anxiety-like behavior. Both treatments induced a modest increase in the brain content of free thiamine while the level of thiamine diphosphate (ThDP) remained unchanged, suggesting that the beneficial effects observed are not linked to the role of this coenzyme in energy metabolism. Predator stress increased hippocampal protein carbonylation, an indicator of oxidative stress. This effect was antagonized by both thiamine and benfotiamine. Moreover, using cultured mouse neuroblastoma cells, we show that in particular benfotiamine protects against paraquat-induced oxidative stress. We therefore hypothesize that thiamine compounds may act by boosting anti-oxidant cellular defenses, by a mechanism that still remains to be unveiled. Our study demonstrates, for the first time, that thiamine and benfotiamine prevent stress-induced inhibition of hippocampal neurogenesis and accompanying physiological changes. The present data suggest that thiamine precursors with high bioavailability might be useful as a complementary therapy in several neuropsychiatric disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Dentate Gyrus",
+        "Disease Models, Animal",
+        "Glycogen Synthase Kinase 3",
+        "Hippocampus",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Neurogenesis",
+        "Thiamine",
+        "Thiamine Pyrophosphate"
+      ]
+    },
+    {
+      "pmid": "27825907",
+      "title": "Thiamine and benfotiamine improve cognition and ameliorate GSK-3β-associated stress-induced behaviours in mice.",
+      "authors": [
+        "Nataliia Markova",
+        "Nataliia Bazhenova",
+        "Daniel C Anthony",
+        "Julie Vignisse",
+        "Andrey Svistunov",
+        "Klaus-Peter Lesch",
+        "Lucien Bettendorff",
+        "Tatyana Strekalova"
+      ],
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "publication_date": "2017-Apr-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thiamine (vitamin B1) deficiency in the brain has been implicated in the development of dementia and symptoms of depression. Indirect evidence suggests that thiamine may contribute to these pathologies by controlling the activities of glycogen synthase kinase (GSK)-3β. While decreased GSK-3β activity appears to impair memory, increased GSK-3β activity is associated with the distressed/depressed state. However, hitherto direct evidence for the effects of thiamine on GSK-3β function has not been reported. Here, we administered thiamine or, the more bioavailable precursor, benfotiamine at 200mg/kg/day for 2weeks to C57BL/6J mice, to determine whether treatment might affect behaviours that are known to be sensitive to GSK-3β activity and whether such administration impacts on GSK-3β expression within the brain. The mice were tested in models of contextual conditioning and extinction, a 5-day rat exposure stress test, and a modified swim test with repeated testing. The tricyclic antidepressant imipramine (7.5mg/kg/day), was administered as a positive control for the effects of thiamine or benfotiamine. As for imipramine, both compounds inhibited the upregulation of GSK-3β induced by predator stress or repeated swimming, and reduced floating scores and the predator stress-induced behavioural changes in anxiety and exploration. Coincident, thiamine and benfotiamine improved learning and extinction of contextual fear, and the acquisition of the step-down avoidance task. Our data indicate that thiamine and benfotiamine have antidepressant/anti-stress effects in naïve animals that are associated with reduced GSK-3β expression and conditioning of adverse memories. Thus thiamine and benfotiamine may modulate GSK-3β functions in a manner that is dependent on whether the contextual conditioning is adaptive or maladaptive.",
+      "mesh_terms": [
+        "Animals",
+        "Avoidance Learning",
+        "Brain",
+        "Cognition Disorders",
+        "Conditioning, Psychological",
+        "Disease Models, Animal",
+        "Extinction, Psychological",
+        "Fear",
+        "Gene Expression Regulation",
+        "Glycogen Synthase Kinase 3 beta",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "RNA, Messenger",
+        "Stress, Psychological",
+        "Swimming",
+        "Thiamine",
+        "Time Factors",
+        "Vitamin B Complex"
+      ]
+    },
+    {
+      "pmid": "27696179",
+      "title": "Long-Term Cognitive Improvement After Benfotiamine Administration in Patients with Alzheimer's Disease.",
+      "authors": [
+        "Xiaoli Pan",
+        "Zhichun Chen",
+        "Guoqiang Fei",
+        "Shumei Pan",
+        "Weiqi Bao",
+        "Shuhua Ren",
+        "Yihui Guan",
+        "Chunjiu Zhong"
+      ],
+      "journal": "Neuroscience bulletin",
+      "publication_date": "2016-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "To date, we still lack disease-modifying therapies for Alzheimer's disease (AD). Here, we report that long-term administration of benfotiamine improved the cognitive ability of patients with AD. Five patients with mild to moderate AD received oral benfotiamine (300 mg daily) over 18 months. All patients were examined by positron emission tomography with Pittsburgh compound B (PiB-PET) and exhibited positive imaging with β-amyloid deposition, and three received PiB-PET imaging at follow-up. The five patients exhibited cognitive improvement as assayed by the Mini-Mental Status Examination (MMSE) with an average increase of 3.2 points at month 18 of benfotiamine administration. The three patients who received follow-up PiB-PET had a 36.7% increase in the average standardized uptake value ratio in the brain compared with that in the first scan. Importantly, the MMSE scores of these three had an average increase of 3 points during the same period. Benfotiamine significantly improved the cognitive abilities of mild to moderate AD patients independently of brain amyloid accumulation. Our study provides new insight to the development of disease-modifying therapy.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Aged",
+        "Aged, 80 and over",
+        "Alzheimer Disease",
+        "Aniline Compounds",
+        "Chromatography, High Pressure Liquid",
+        "Cognition Disorders",
+        "Female",
+        "Humans",
+        "Longitudinal Studies",
+        "Male",
+        "Mental Status Schedule",
+        "Middle Aged",
+        "Neuropsychological Tests",
+        "Positron-Emission Tomography",
+        "Thiamine",
+        "Thiazoles"
+      ]
+    },
+    {
+      "pmid": "27545821",
+      "title": "Protective effect of treatment with thiamine or benfotiamine on liver oxidative damage in rat model of acute ethanol intoxication.",
+      "authors": [
+        "Guilherme Vannucchi Portari",
+        "Paula Payão Ovidio",
+        "Rafael Deminice",
+        "Alceu Afonso Jordão"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2016-Oct-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: The aim of this study was to evaluate possible beneficial effects of treatment with thiamine or benfotiamine in an animal model of acute ethanol intoxication. MAIN METHODS: Thirty male Wistar rats were separated at random into three groups of 10 animals each: Ethanol (E), Ethanol treated with thiamine (T) and Ethanol treated with benfotiamine (BE). Rats were gavaged with single dose of ethanol (5g/kg, 40% v:v). After 30min of ethanol gavage the animals were treated with thiamine or benfotiamine. Six hours after first gavage, the animals were euthanized and blood and liver samples were collected for ethanol and oxidative stress biomarkers quantification. KEY FINDINGS: Serum ethanol levels were higher in animals treated with thiamine or benfotiamine while hepatic alcohol levels were higher in animals of the group treated with benfotiamine comparing to controls or thiamine treated groups. The lipid peroxidation biomarkers were diminished for the groups treated with thiamine or benfotiamine comparing to E animals. Concerning protein oxidative damage parameters, they were enhanced for animals treated with benfotiamine in relation to other groups. SIGNIFICANCE: In conclusion, the treatment with thiamine or benfotiamine even 30min after the massive dose of ethanol has proven to be beneficial against liver damage. Improved results were obtained with benfotiamine in relation to oxidative damage from aqueous compartments.",
+      "mesh_terms": [
+        "Alcoholic Intoxication",
+        "Animals",
+        "Disease Models, Animal",
+        "Liver Diseases",
+        "Male",
+        "Oxidative Stress",
+        "Rats",
+        "Rats, Wistar",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "26141141",
+      "title": "Pharmacokinetics of the transdermal delivery of benfotiamine.",
+      "authors": [
+        "Zhen Zhu",
+        "Gyula Varadi",
+        "Stephen G Carter"
+      ],
+      "journal": "Acta diabetologica",
+      "publication_date": "2016-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: Accumulation of advanced glycation endpoints is a trigger to the development of diabetic peripheral neuropathy, which is a common complication of diabetes. Oral administration of benfotiamine (BFT) has shown some preclinical and clinical promise as a treatment for diabetic peripheral neuropathy. The purpose of this study was to evaluate the method of transdermal delivery of BFT as a possible, viable route of administration for the treatment of diabetic peripheral neuropathy. METHODS: A single application of 10 mg of BFT was given to guinea pigs topically. The levels of thiamine (T), thiamine monophosphate, thiamine diphosphate, S-benzoylthiamine and BFT were measured in the blood, skin and muscle at different time points within 24 h. RESULTS: At the 24-h time point, following the single BFT dose, the T level was increased 10× in the blood, more than 7× in the skin and almost 4× in the muscle compared to the untreated animals. The total T content (total) was increased 7× in the blood, 17× in the skin and 3× in the muscle compared to the untreated animals. CONCLUSIONS: This strong increase in the tissue levels of T and the associated metabolic derivatives levels found in the blood and local tissues following a single dose indicate that topically applied BFT may be a viable and advantageous delivery method for the treatment of diabetic peripheral neuropathy.",
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Animals",
+        "Diabetic Neuropathies",
+        "Drug Delivery Systems",
+        "Guinea Pigs",
+        "Male",
+        "Muscle, Skeletal",
+        "Peripheral Nervous System Diseases",
+        "Skin",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "25908323",
+      "title": "Change in psychiatric symptomatology after benfotiamine treatment in males is related to lifetime alcoholism severity.",
+      "authors": [
+        "Ann M Manzardo",
+        "Tiffany Pendleton",
+        "Albert Poje",
+        "Elizabeth C Penick",
+        "Merlin G Butler"
+      ],
+      "journal": "Drug and alcohol dependence",
+      "publication_date": "2015-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Severe alcoholism can be associated with significant nutritional and vitamin deficiency, especially vitamin B1 (thiamine) which is associated with neurological deficits impacting mood and cognition. Alcohol consumption was reduced among female but not male alcoholics after supplementation with the high potency thiamine analog benfotiamine (BF). We examined the relationship between lifetime alcoholism severity, psychiatric symptoms and response to BF among the alcohol dependent men from this cohort. METHODS: Eighty-five adult men (mean age=48±8 years) meeting DSM-IV-TR criteria for a current alcohol use disorder who were abstinent <30days participated in a randomized, double-blind, placebo-controlled trial of 600mg BF vs placebo (PL) for 6 months. Psychometric testing included a derived Lifetime Alcoholism Severity Score (AS), Symptom Checklist 90R (SCL-90R), and the Barratt Impulsivity Scale (BIS) at baseline and at 6 months. RESULTS: Baseline SCL-90-R scale scores for men with high alcoholism severity (AS≥24; N=46 HAS) were significantly greater than for men with low alcoholism severity (AS<24; N=39 LAS), but BIS scores did not differ. MANOVA modeling at follow-up (N=50 completed subjects) identified a significant treatment effect (F=2.5, df=10, p<0.03) and treatment×alcoholism severity level interaction (F=2.5, dfnum=10, dfden=30, p<0.03) indicating reduced SCL-90-R scores among BF treated, HAS males. Above normal plasma thiamine levels at follow-up predicted reduced depression scores in a BF-treated subset (F=3.2, p<0.09, N=26). CONCLUSION: BF appears to reduce psychiatric distress and may facilitate recovery in severely affected males with a lifetime alcohol use disorder and should be considered for adjuvant therapy in alcohol rehabilitation. TRIAL REGISTRATION: #NCT00680121 High Dose Vitamin B1 to Reduce Abusive Alcohol Use.",
+      "mesh_terms": [
+        "Adult",
+        "Alcoholism",
+        "Depression",
+        "Double-Blind Method",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Psychiatric Status Rating Scales",
+        "Thiamine",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "25695433",
+      "title": "Benfotiamine attenuates inflammatory response in LPS stimulated BV-2 microglia.",
+      "authors": [
+        "Iva Bozic",
+        "Danijela Savic",
+        "Danijela Laketa",
+        "Ivana Bjelobaba",
+        "Ivan Milenkovic",
+        "Sanja Pekovic",
+        "Nadezda Nedeljkovic",
+        "Irena Lavrnja"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Microglial cells are resident immune cells of the central nervous system (CNS), recognized as key elements in the regulation of neural homeostasis and the response to injury and repair. As excessive activation of microglia may lead to neurodegeneration, therapeutic strategies targeting its inhibition were shown to improve treatment of most neurodegenerative diseases. Benfotiamine is a synthetic vitamin B1 (thiamine) derivate exerting potentially anti-inflammatory effects. Despite the encouraging results regarding benfotiamine potential to alleviate diabetic microangiopathy, neuropathy and other oxidative stress-induced pathological conditions, its activities and cellular mechanisms during microglial activation have yet to be elucidated. In the present study, the anti-inflammatory effects of benfotiamine were investigated in lipopolysaccharide (LPS)-stimulated murine BV-2 microglia. We determined that benfotiamine remodels activated microglia to acquire the shape that is characteristic of non-stimulated BV-2 cells. In addition, benfotiamine significantly decreased production of pro-inflammatory mediators such as inducible form of nitric oxide synthase (iNOS) and NO; cyclooxygenase-2 (COX-2), heat-shock protein 70 (Hsp70), tumor necrosis factor alpha α (TNF-α), interleukin-6 (IL-6), whereas it increased anti-inflammatory interleukin-10 (IL-10) production in LPS stimulated BV-2 microglia. Moreover, benfotiamine suppressed the phosphorylation of extracellular signal-regulated kinases 1/2 (ERK1/2), c-Jun N-terminal kinases (JNK) and protein kinase B Akt/PKB. Treatment with specific inhibitors revealed that benfotiamine-mediated suppression of NO production was via JNK1/2 and Akt pathway, while the cytokine suppression includes ERK1/2, JNK1/2 and Akt pathways. Finally, the potentially protective effect is mediated by the suppression of translocation of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) in the nucleus. Therefore, benfotiamine may have therapeutic potential for neurodegenerative diseases by inhibiting inflammatory mediators and enhancing anti-inflammatory factor production in activated microglia.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Blotting, Western",
+        "Cell Line",
+        "Cell Survival",
+        "Cyclooxygenase 2",
+        "Cytokines",
+        "Cytoskeleton",
+        "HSP70 Heat-Shock Proteins",
+        "Lipopolysaccharides",
+        "Mice",
+        "Microglia",
+        "Microscopy, Fluorescence",
+        "Mitogen-Activated Protein Kinases",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase Type II",
+        "Protein Kinase Inhibitors",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "24824853",
+      "title": "Annexin V imaging detects diabetes-accelerated apoptosis and monitors the efficacy of benfotiamine treatment in ischemic limbs of mice.",
+      "authors": [
+        "Kyung-Ho Jung",
+        "Jin Hee Lee",
+        "Jin Won Park",
+        "Jin Young Paik",
+        "Cung Hoa Thien Quach",
+        "Eun Jeong Lee",
+        "Kyung-Han Lee"
+      ],
+      "journal": "Molecular imaging",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The role of apoptosis imaging for monitoring treatment response in ischemic limbs has not been properly explored. In this study, we investigated the ability of annexin V (AnxV) imaging to assess the efficacy of antiapoptotic treatment in ischemic limbs of diabetic mice. Normal C57BL/6 mice and streptozotocin-induced diabetic mice were subject to hindlimb ischemia. AnxV-conjugated fluorescent streptavidin probes were intravenously injected, and optical imaging was performed. Tissue apoptosis was quantified by histochemistry and Western blotting. The AnxV probes showed specific targeting to apoptotic cells on confocal microscopy and flow cytometry. Intravenous AnxV probes displayed substantially greater accumulation in ischemic limbs of diabetic mice. Benfotiamine (BFT) treatment of diabetic mice led to better perfusion recovery on laser Doppler imaging and reduced AnxV binding on optical imaging. TUNEL staining and cleaved caspase-3 Western blots confirmed accelerated apoptosis by diabetes and its suppression by BFT treatment. Furthermore, AnxV-SAv-PEcy5.5 uptake in the ischemic limbs closely correlated to cleaved caspase-3 expression. Thus, AnxV imaging may be useful for monitoring the efficacy of therapeutic agents designed to suppress ischemia-induced apoptosis.",
+      "mesh_terms": [
+        "Animals",
+        "Annexin A5",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Diabetes Mellitus, Experimental",
+        "Hindlimb",
+        "Ischemia",
+        "Laser-Doppler Flowmetry",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Streptavidin",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "24643695",
+      "title": "The effect of benfotiamine on mu-opioid receptor mediated antinociception in experimental diabetes.",
+      "authors": [
+        "C Nacitarhan",
+        "E Minareci",
+        "G Sadan"
+      ],
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "publication_date": "2014-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Diabetic neuropathy is a prevalent, disabling disorder. Currently, the only treatments available to patients with diabetic neuropathy are glucose control and pain management. B vitamin present neuroprotective effects, which are suggested to be related to their analgesic action in various models of neuropathic pain. According to our literature knowledge there is no report about antinociceptive effects of thiamine as benfotiamine and opioids together in diabetic mice. The purpose of this study was to determine the effects of benfotiamine on the antinociception produced by mu-opioid receptor agonist fentanyl in diabetic mice. The effects of benfotiamine on antinociception produced by fentanyl in diabetic mice were studied in 4 groups. Antinociceptive effect was determined with tail flick, hot plate and formalin test. Our results showed that, mu-opioid agonist fentanyl in benfotiamine applied diabetic group caused more potent antinociceptive effect than in diabetic group without benfotiamine treatment. In brief benfotiamine supplement in diet did not bring out antinociceptive effect itself, but during development of STZ diabetes, benfotiamine replacement increased the antinociceptive effect of fentanyl in mice tail-flick test. This effect is probably due to the replacement of benfotiamine efficiency occurring in diabetes mellitus. Finally, we suppose that oral benfotiamine replacement therapy may be useful to ameliorate analgesic effect of mu-opioid agonists on neuropathic pain in diabetic case.",
+      "mesh_terms": [
+        "Analgesics",
+        "Analgesics, Opioid",
+        "Animals",
+        "Body Weight",
+        "Diabetes Mellitus, Experimental",
+        "Fentanyl",
+        "Formaldehyde",
+        "Hot Temperature",
+        "Male",
+        "Mice",
+        "Nociception",
+        "Pain Measurement",
+        "Reaction Time",
+        "Receptors, Opioid, mu",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "24429949",
+      "title": "[The effect of long-chain polyunsaturated higher ω-3 fatty acids, benfotiamine and α-lipoic acid on the lipid metabolism in patients with diabetes mellitus type 2 and cardiovascular autonomic neuropathy].",
+      "authors": [
+        "V A Sergienko",
+        "V B Segin",
+        "A Samir",
+        "A A Sergienko"
+      ],
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Eighty-one patients with diabetes mellitus type 2 (DM) and cardiovascular autonomic neuropathy were studied. The combined treatment with ω-3 PUFA, benfotiamine, and α-lipoic acid resulted in significant positive changes in total cholesterol, triacylglycerol, LDL and HDL cholesterol levels. The efficacy of this treatment was not associated with the improved compensation of DM but was a result of the direct influence of pharmacological agents on the metabolic rate studied.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Drug Therapy, Combination",
+        "Fatty Acids, Omega-3",
+        "Female",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Lipid Metabolism",
+        "Male",
+        "Middle Aged",
+        "Thiamine",
+        "Thioctic Acid",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "23992649",
+      "title": "Double-blind, randomized placebo-controlled clinical trial of benfotiamine for severe alcohol dependence.",
+      "authors": [
+        "Ann M Manzardo",
+        "Jianghua He",
+        "Albert Poje",
+        "Elizabeth C Penick",
+        "Jan Campbell",
+        "Merlin G Butler"
+      ],
+      "journal": "Drug and alcohol dependence",
+      "publication_date": "2013-Dec-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Alcohol dependence is associated with severe nutritional and vitamin deficiency. Vitamin B1 (thiamine) deficiency erodes neurological pathways that may influence the ability to drink in moderation. The present study examines tolerability of supplementation using the high-potency thiamine analog, benfotiamine (BF), and BF's effects on alcohol consumption in severely affected, self-identified, alcohol dependent subjects. A randomized, double-blind, placebo-controlled trial was conducted on 120 non-treatment seeking, actively drinking, alcohol dependent men and women volunteers (mean age=47 years) from the Kansas City area who met DSM-IV-TR criteria for current alcohol dependence. Subjects were randomized to receive 600 mg benfotiamine or placebo (PL) once daily by mouth for 24 weeks with 6 follow-up assessments scheduled at 4 week intervals. Side effects and daily alcohol consumption were recorded. Seventy (58%) subjects completed 24 weeks of study (N=21 women; N=49 men) with overall completion rates of 55% (N=33) for PL and 63% (N=37) for BF groups. No significant adverse events were noted and alcohol consumption decreased significantly for both treatment groups. Alcohol consumption decreased from baseline levels for 9 of 10 BF treated women after 1 month of treatment compared with 2 of 11 on PL. Reductions in total alcohol consumption over 6 months were significantly greater for BF treated women (BF: N=10, -611 ± 380 standard drinks; PL: N=11, -159 ± 562 standard drinks, p-value=0.02). BF supplementation of actively drinking alcohol dependent men and women was well-tolerated and may discourage alcohol consumption among women. The results do support expanded studies of BF treatment in alcoholism.",
+      "mesh_terms": [
+        "Adult",
+        "Alcoholism",
+        "Algorithms",
+        "Diagnostic and Statistical Manual of Mental Disorders",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Longitudinal Studies",
+        "Male",
+        "Middle Aged",
+        "Sex Characteristics",
+        "Thiamine",
+        "Thiamine Deficiency",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23964994",
+      "title": "Variability of skin autofluorescence measurement over 6 and 12 weeks and the influence of benfotiamine treatment.",
+      "authors": [
+        "Alin Stirban",
+        "Alexandra Pop",
+        "Annelie Fischer",
+        "Sascha Heckermann",
+        "Diethelm Tschoepe"
+      ],
+      "journal": "Diabetes technology & therapeutics",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Measurements of skin autofluorescence (SAF) allow for a simple and noninvasive quantification of tissue advanced glycation end-products (AGEs), a marker linked to the risk of diabetes complications. The aim of this study was to test the repeatability of SAF over 6 and 12 weeks and to test whether benfotiamine, a thiamine prodrug suggested to reduce AGEs formation under hyperglycemic conditions, is able to attenuate SAF when administered over 6 weeks. PATIENTS AND METHODS: In a double-blind, placebo-controlled, randomized, crossover study, 22 patients with type 2 diabetes mellitus (T2DM) received 900 mg/day benfotiamine or placebo for 6 weeks (washout period of 6 weeks between). At the beginning and at the end of each treatment period, SAF was assessed in the fasting state, as well as 2, 4, and 6 h following a mixed test meal. RESULTS: The respective intra-individual and inter-individual variability of fasting SAF was 6.9% and 24.5% within 6 weeks and 10.9% and 23.1% within 12 weeks. The respective variability calculated for triplicate comparisons was 9.9% and 27.7%. A short-term therapy with benfotiamine did not influence SAF significantly, nor did we find a significant postprandial SAF increase. CONCLUSIONS: In patients with T2DM, repeated, timely spaced SAF measurements have an intra-subject variability of below 11%. Using these data, sample sizes were calculated for interventional studies aiming at reducing SAF. Benfotiamine treatment for 6 weeks did not significantly influence SAF; for this, a longer-term therapy is probably needed.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Chelating Agents",
+        "Cross-Over Studies",
+        "Diabetes Complications",
+        "Diabetes Mellitus, Type 2",
+        "Double-Blind Method",
+        "Female",
+        "Fluorescence",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Hyperglycemia",
+        "Male",
+        "Middle Aged",
+        "Postprandial Period",
+        "Reproducibility of Results",
+        "Skin",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "23716490",
+      "title": "Benfotiamine enhances antioxidant defenses and protects against cisplatin-induced DNA damage in nephrotoxic rats.",
+      "authors": [
+        "Gamaleldin I Harisa"
+      ],
+      "journal": "Journal of biochemical and molecular toxicology",
+      "publication_date": "2013-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The objective of the present study was to assess superoxide dismutase (SOD), catalase, glutathione peroxidase (GPx), paraoxonase (PON1), glutathione reductase (GR), and catalase (CAT) activities ratio and their relationship with DNA oxidative damage in rats treated with cisplatin (3 mg/kg bwt/day) in the presence and absence of benfotiamine (100 mg/kg/day) for 25 days. Cisplatin-induced renal damage was evidenced by renal dysfunction and elevated oxidative stress markers. SOD activity and levels of nitric oxide, protein carbonyl, malondialdehyde, and 8-hydroxy-2'-deoxyguanosine were significantly increased by cisplatin treatment. Moreover, the ratios of GPx/GR, SOD/GPx, SOD/CAT, and SOD/PON1 were significantly increased compared to control. In contrast, glutathione levels were significantly decreased by cisplatin treatment. Simultaneous treatment of rats with cisplatin and benfotiamine ameliorate these variables to values near to those of control rats. This study suggests that benfotiamine can prevent cisplatin-induced nephrotoxicity by inhibiting formation reactive species of oxygen and nitrogen.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Aryldialkylphosphatase",
+        "Catalase",
+        "Cisplatin",
+        "DNA Damage",
+        "Glutathione Peroxidase",
+        "Glutathione Reductase",
+        "Kidney",
+        "Malondialdehyde",
+        "Oxidative Stress",
+        "Protective Agents",
+        "Rats",
+        "Reactive Oxygen Species",
+        "Superoxide Dismutase",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "23701274",
+      "title": "A randomized, double-blind, crossover, placebo-controlled trial of 6 weeks benfotiamine treatment on postprandial vascular function and variables of autonomic nerve function in Type 2 diabetes.",
+      "authors": [
+        "A Stirban",
+        "A Pop",
+        "D Tschoepe"
+      ],
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "publication_date": "2013-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: In a pilot study we suggested that benfotiamine, a thiamine prodrug, prevents postprandial endothelial dysfunction in people with Type 2 diabetes mellitus. The aim of this study was to test these effects in a larger population. METHODS: In a double-blind, placebo-controlled, randomized, crossover study, 31 people with Type 2 diabetes received 900 mg/day benfotiamine or a placebo for 6 weeks (with a washout period of 6 weeks between). At the end of each treatment period, macrovascular and microvascular function were assessed, together with variables of autonomic nervous function in a fasting state, as well as 2, 4 and 6 h following a heated, mixed test meal. RESULTS: Participants had an impaired baseline flow-mediated dilatation (2.63 ± 2.49%). Compared with the fasting state, neither variable changed postprandially following the placebo treatment. The 6 weeks' treatment with high doses of benfotiamine did not alter this pattern, either in the fasting state or postprandially. Among a subgroup of patients with the highest flow-mediated dilatation, following placebo treatment there was a significant postprandial flow-mediated dilatation decrease, while this effect was attenuated by benfotiamine pretreatment. CONCLUSIONS: In people with Type 2 diabetes and markedly impaired fasting flow-mediated dilatation, a mixed test meal does not further deteriorate flow-mediated dilatation or variables of microvascular or autonomic nervous function. Because no significant deterioration of postprandial flow-mediated dilatation, microvascular or autonomic nervous function tests occurred after placebo treatment, a prevention of the postprandial deterioration of these variables with benfotiamine was not feasible.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antioxidants",
+        "Autonomic Pathways",
+        "Biomarkers",
+        "Blood Glucose",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Endothelium, Vascular",
+        "Fasting",
+        "Female",
+        "Humans",
+        "Laser-Doppler Flowmetry",
+        "Male",
+        "Microcirculation",
+        "Middle Aged",
+        "Pilot Projects",
+        "Postprandial Period",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "23369791",
+      "title": "Liver, plasma and erythrocyte levels of thiamine and its phosphate esters in rats with acute ethanol intoxication: a comparison of thiamine and benfotiamine administration.",
+      "authors": [
+        "Guilherme Vannucchi Portari",
+        "Helio Vannucchi",
+        "Alceu Afonso Jordao"
+      ],
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "publication_date": "2013-Mar-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thiamine and benfotiamine are vitamin B1 and pro-vitamin B1 substances, respectively. Vitamin B1 plays an essential role in energy metabolism, and its deficiency leads to neurologic and cardiovascular pathologies, as seen in alcoholics. This study presents new data about the effects of thiamine hydrochloride or benfotiamine treatment given to rats with acute alcohol intoxication, on the distribution of thiamine and its phosphate esters in liver, plasma and erythrocytes. The treatments were effective in increasing thiamine levels in plasma, erythrocytes and liver cells. The benfotiamine-treated group had its total plasma thiamine increased by 100%. In erythrocytes, thiamine levels were 4- and 25-fold higher in the groups treated with thiamine and benfotiamine, respectively, compared with the untreated groups. Liver thiamine was increased by 60% in the treated groups compared with the untreated groups. Thus, we verified the high bioavailability especially of benfotiamine within 6h of ethanol administration.",
+      "mesh_terms": [
+        "Alcoholic Intoxication",
+        "Animals",
+        "Liver",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Thiamine",
+        "Vitamins"
+      ]
+    },
+    {
+      "pmid": "23091724",
+      "title": "Benfotiamine counteracts smoking-induced vascular dysfunction in healthy smokers.",
+      "authors": [
+        "Alin Stirban",
+        "Simona Nandrean",
+        "Stanley Kirana",
+        "Christian Götting",
+        "Ioan Andrei Veresiu",
+        "Diethelm Tschoepe"
+      ],
+      "journal": "International journal of vascular medicine",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background. Smoking induces endothelial dysfunction (ED) mainly by exacerbating oxidative stress (OS) and inflammation. Benfotiamine, a thiamine prodrug with high bioavailability, prevents nicotine-induced vascular dysfunction in rats. It remained unknown whether this effect also occurs in humans. Methods. Therefore, 20 healthy volunteers (mean age: 38 years) were investigated twice, 7-10 days apart in a randomized, cross-over, and investigator-blinded design. Vascular function was assessed by flow-mediated vasodilatation (FMD) of the brachial artery and by measurements of the soluble vascular cell adhesion molecule (sVCAM)-1. Investigations were performed after an overnight fast as well as 20 minutes after one cigarette smoking. On another day, the same procedure was applied following a 3-day oral therapy with benfotiamine (1050 mg/day). Ten patients were randomized to start with smoking alone, and ten started with benfotiamine. Results. Results are expressed as (mean ± SEM). Smoking acutely induced a decrease in FMD by 50% ((∗∗)P < 0.001 versus baseline) an effect significantly reduced by benfotiamine treatment to 25%(∗§) ((∗)P < 0.05 versus baseline, (§)P < 0.05 versus smoking alone). Smoking-induced elevation in sVCAM-1 was also prevented by benfotiamine. The endothelium-independent vasodilatation remained unaltered between days. Conclusion. In healthy volunteers, smoking blunts vascular function mirrored by a decrease in FMD and an increase in sVCAM-1. Short-term treatment with benfotiamine significantly reduces these effects, showing protective vascular properties."
+    },
+    {
+      "pmid": "22067901",
+      "title": "Anti-inflammatory effects of benfotiamine are mediated through the regulation of the arachidonic acid pathway in macrophages.",
+      "authors": [
+        "Mohammad Shoeb",
+        "Kota V Ramana"
+      ],
+      "journal": "Free radical biology & medicine",
+      "publication_date": "2012-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Benfotiamine, a lipid-soluble analogue of vitamin B1, is a potent antioxidant that is used as a food supplement for the treatment of diabetic complications. Our recent study (U.C. Yadav et al., Free Radic. Biol. Med. 48:1423-1434, 2010) indicates a novel role for benfotiamine in the prevention of bacterial endotoxin, lipopolysaccharide (LPS)-induced cytotoxicity and inflammatory response in murine macrophages. Nevertheless, it remains unclear how benfotiamine mediates anti-inflammatory effects. In this study, we investigated the anti-inflammatory role of benfotiamine in regulating arachidonic acid (AA) pathway-generated inflammatory lipid mediators in RAW264.7 macrophages. Benfotiamine prevented the LPS-induced activation of cPLA2 and release of AA metabolites such as leukotrienes, prostaglandin E2, thromboxane 2 (TXB2), and prostacyclin (PGI2) in macrophages. Further, LPS-induced expression of AA-metabolizing enzymes such as COX-2, LOX-5, TXB synthase, and PGI2 synthase was significantly blocked by benfotiamine. Furthermore, benfotiamine prevented the LPS-induced phosphorylation of ERK1/2 and expression of transcription factors NF-κB and Egr-1. Benfotiamine also prevented the LPS-induced oxidative stress and protein-HNE adduct formation. Most importantly, compared to specific COX-2 and LOX-5 inhibitors, benfotiamine significantly prevented LPS-induced macrophage death and monocyte adhesion to endothelial cells. Thus, our studies indicate that the dual regulation of the COX and LOX pathways in AA metabolism could be a novel mechanism by which benfotiamine exhibits its potential anti-inflammatory response.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Arachidonic Acid",
+        "Cell Adhesion",
+        "Cell Death",
+        "Cell Line",
+        "Cyclooxygenase 2",
+        "Dinoprostone",
+        "Epoprostenol",
+        "Extracellular Matrix Proteins",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Gene Expression",
+        "Inflammation",
+        "Leukotrienes",
+        "Lipopolysaccharides",
+        "Macrophages",
+        "Mice",
+        "NF-kappa B",
+        "Protein-Lysine 6-Oxidase",
+        "Signal Transduction",
+        "Thiamine",
+        "Thromboxane B2"
+      ]
+    },
+    {
+      "pmid": "21984258",
+      "title": "Benfotiamine increases glucose oxidation and downregulates NADPH oxidase 4 expression in cultured human myotubes exposed to both normal and high glucose concentrations.",
+      "authors": [
+        "D A Fraser",
+        "N P Hessvik",
+        "N Nikolić",
+        "V Aas",
+        "K F Hanssen",
+        "S K Bøhn",
+        "G H Thoresen",
+        "A C Rustan"
+      ],
+      "journal": "Genes & nutrition",
+      "publication_date": "2012-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of the present work was to study the effects of benfotiamine (S-benzoylthiamine O-monophosphate) on glucose and lipid metabolism and gene expression in differentiated human skeletal muscle cells (myotubes) incubated for 4 days under normal (5.5 mM glucose) and hyperglycemic (20 mM glucose) conditions. Myotubes established from lean, healthy volunteers were treated with benfotiamine for 4 days. Glucose and lipid metabolism were studied with labeled precursors. Gene expression was measured using real-time polymerase chain reaction (qPCR) and microarray technology. Benfotiamine significantly increased glucose oxidation under normoglycemic (35 and 49% increase at 100 and 200 μM benfotiamine, respectively) as well as hyperglycemic conditions (70% increase at 200 μM benfotiamine). Benfotiamine also increased glucose uptake. In comparison, thiamine (200 μM) increased overall glucose metabolism but did not change glucose oxidation. In contrast to glucose, mitochondrial lipid oxidation and overall lipid metabolism were unchanged by benfotiamine. The expression of NADPH oxidase 4 (NOX4) was significantly downregulated by benfotiamine treatment under both normo- and hyperglycemic conditions. Gene set enrichment analysis (GSEA) showed that befotiamine increased peroxisomal lipid oxidation and organelle (mitochondrial) membrane function. In conclusion, benfotiamine increases mitochondrial glucose oxidation in myotubes and downregulates NOX4 expression. These findings may be of relevance to type 2 diabetes where reversal of reduced glucose oxidation and mitochondrial capacity is a desirable goal."
+    },
+    {
+      "pmid": "21511829",
+      "title": "Benfotiamine protects against peritoneal and kidney damage in peritoneal dialysis.",
+      "authors": [
+        "Lars P Kihm",
+        "Sandra Müller-Krebs",
+        "Julia Klein",
+        "Gregory Ehrlich",
+        "Laura Mertes",
+        "Marie-Luise Gross",
+        "Antonysunil Adaikalakoteswari",
+        "Paul J Thornalley",
+        "Hans-Peter Hammes",
+        "Peter P Nawroth",
+        "Martin Zeier",
+        "Vedat Schwenger"
+      ],
+      "journal": "Journal of the American Society of Nephrology : JASN",
+      "publication_date": "2011-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Residual renal function and the integrity of the peritoneal membrane contribute to morbidity and mortality among patients treated with peritoneal dialysis. Glucose and its degradation products likely contribute to the deterioration of the remnant kidney and damage to the peritoneum. Benfotiamine decreases glucose-induced tissue damage, suggesting the potential for benefit in peritoneal dialysis. Here, in a model of peritoneal dialysis in uremic rats, treatment with benfotiamine decreased peritoneal fibrosis, markers of inflammation, and neovascularization, resulting in improved characteristics of peritoneal transport. Furthermore, rats treated with benfotiamine exhibited lower expression of advanced glycation endproducts and their receptor in the peritoneum and the kidney, reduced glomerular and tubulointerstitial damage, and less albuminuria. Increased activity of transketolase in tissue and blood contributed to the protective effects of benfotiamine. In primary human peritoneal mesothelial cells, the addition of benfotiamine led to enhanced transketolase activity and decreased expression of advanced glycation endproducts and their receptor. Taken together, these data suggest that benfotiamine protects the peritoneal membrane and remnant kidney in a rat model of peritoneal dialysis and uremia.",
+      "mesh_terms": [
+        "Albuminuria",
+        "Animals",
+        "Fibrosis",
+        "Glycation End Products, Advanced",
+        "Kidney",
+        "Male",
+        "Peritoneal Dialysis",
+        "Peritoneum",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Reactive Oxygen Species",
+        "Receptor for Advanced Glycation End Products",
+        "Receptors, Immunologic",
+        "Thiamine",
+        "Transketolase",
+        "Uremia",
+        "Vascular Endothelial Growth Factor A"
+      ]
+    },
+    {
+      "pmid": "24843471",
+      "title": "Preventive effects of benfotiamine in chronic diabetic complications.",
+      "authors": [
+        "Rana Chakrabarti",
+        "Megan Chen",
+        "Weihua Liu",
+        "Shali Chen"
+      ],
+      "journal": "Journal of diabetes investigation",
+      "publication_date": "2011-Apr-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: Aims/Introduction:  In diabetes, increased oxidative stress as a result of damage to the electron transport chain can lead to tissue injury through upregulation of multiple vasoactive factors and extracellular matrix proteins. Benfotiamine, a lipid soluble thiamine derivative, through reducing mitochondrial superoxide production, blocks multiple pathways leading to tissue damage in hyperglycemia. We investigated if treatment with benfotiamine can prevent diabetes-induced production of vasoactive factors and extracellular matrix proteins, and whether such effects are tissue-specific. We also examined whether effects of benfotiamine are mediated through a nuclear mechanism. MATERIALS AND METHODS:   Retinal, renal and cardiac tissues from the streptozotocin-induced diabetic rats were examined after 4 months of follow up. mRNA levels were quantified using real-time RT-PCR. Protein levels were quantified using western blot and ELISA. Cellular expressions of 8-Hydroxy-2'-deoxyguanosine, a marker of nuclear DNA damage and Phospho-H2AX were also examined. RESULTS:   Diabetic animals showed hyperglycemia, glucosuria, increased urinary albumin/creatine ratio and loss of bodyweight. In the kidneys, heart and retina, diabetes caused increased production of endothelin-1, transforming growth factor-β1, vascular endothelial growth factor and augmented extracellular matrix proteins (collagen, fibronectin [FN] and its splice variant extradomain B containing FN), along with evidence of structural alterations, characteristic of diabetes-induced tissue damage. Such changes were prevented by benfotiamine. Furthermore, benfotiamine prevented diabetes-induced oxidative DNA damage and upregulation of p300, a histone acetylator and a transcription coactivator. CONCLUSIONS:   Data from the present study suggest that benfotiamine is effective in preventing tissue damage in diabetes and at the transcriptional level such effects are mediated through prevention of p300 upregulation. (J Diabetes Invest, doi: 10.1111/j.2040-1124.2010.00077.x, 2010)."
+    },
+    {
+      "pmid": "20542491",
+      "title": "Benfotiamine improves functional recovery of the infarcted heart via activation of pro-survival G6PD/Akt signaling pathway and modulation of neurohormonal response.",
+      "authors": [
+        "Rajesh Katare",
+        "Andrea Caporali",
+        "Costanza Emanueli",
+        "Paolo Madeddu"
+      ],
+      "journal": "Journal of molecular and cellular cardiology",
+      "publication_date": "2010-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Benfotiamine (BFT) is a transketolase activator that directs glucose to the pentose phosphate pathway. The present study investigated whether BFT improves the recovery after myocardial infarction (MI) and explored underlying mechanisms of protection. Non-diabetic and streptozotocin-induced type 1 diabetic mice were supplemented with BFT (70 mg/kg/day in drinking water) for 4 weeks and then subjected to MI or sham operation. Cardiac function was monitored by echocardiography. At two weeks post-MI, intra-ventricular pressure was measured by Millar tip-catheter and hearts were collected for biochemical, immunohistochemical and expressional analyses. No treatment effect was observed in sham-operated mice. Post-MI mortality was higher in diabetic mice and hemodynamic studies confirmed the worsening effect of diabetes on functional recovery. Furthermore, diabetic mice demonstrated increased cardiomyocyte apoptosis, reduced reparative angiogenesis, larger scars, enhanced oxidative stress, and blunted activation of the pro-survival VEGF receptor-2/Akt/Pim-1 signaling pathway. BFT improved post-MI survival, functional recovery and neovascularization and reduced cardiomyocyte apoptosis and neurohormonal activation in diabetic as well as in non-diabetic mice. In addition, BFT stimulated the activity of pentose phosphate pathway enzymes, leading to reduction of oxidative stress, phosphorylation/activation of VEGF receptor-2 and Akt and increased Pim-1, pBad and Bcl-2 levels. These effects were contrasted on silencing glucose-6-phosphate dehydrogenase, the key enzyme in pentose phosphate pathway, or inhibiting Akt. BFT benefits post-MI recovery through stimulation of pro-survival mechanisms and containment of neurohormonal response. These results may have implications for the treatment of myocardial ischemia.",
+      "mesh_terms": [
+        "Animals",
+        "Blotting, Western",
+        "Chelating Agents",
+        "Echocardiography",
+        "Glucosephosphate Dehydrogenase",
+        "Male",
+        "Mice",
+        "Microscopy, Fluorescence",
+        "Myocardial Infarction",
+        "Neurotransmitter Agents",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "20413516",
+      "title": "A double-blind, randomized, placebo-controlled clinical trial on benfotiamine treatment in patients with diabetic nephropathy.",
+      "authors": [
+        "Alaa Alkhalaf",
+        "Astrid Klooster",
+        "Willem van Oeveren",
+        "Ulrike Achenbach",
+        "Nanne Kleefstra",
+        "Robbert J Slingerland",
+        "G Sophie Mijnhout",
+        "Henk J G Bilo",
+        "Reinold O B Gans",
+        "Gerjan J Navis",
+        "Stephan J L Bakker"
+      ],
+      "journal": "Diabetes care",
+      "publication_date": "2010-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effect of benfotiamine on urinary albumin excretion (UAE) and the tubular damage marker kidney injury molecule-1 (KIM-1) in patients with type 2 diabetes and nephropathy. RESEARCH DESIGN AND METHODS: Patients with type 2 diabetes and UAE equivalent to 15-300 mg/24 h, despite ACE inhibitors (ACE-Is) or angiotensin receptor blockers (ARBs), were randomly assigned to 12 weeks of benfotiamine (900 mg/day) (n = 39) or placebo (n = 43). RESULTS: Compared with placebo, benfotiamine treatment resulted in significant improvement of thiamine status (P < 0.001). Benfotiamine treatment did not significantly decrease 24-h UAE or 24-h KIM-1 excretion. CONCLUSIONS: In patients with type 2 diabetes and nephropathy, high-dose benfotiamine treatment for 12 weeks in addition to ACE-Is or ARBs did not reduce UAE or KIM-1 excretion, despite improvement of thiamine status.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Adult",
+        "Aged",
+        "Albuminuria",
+        "Angiotensin II Type 1 Receptor Blockers",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Biomarkers",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Nephropathies",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Hepatitis A Virus Cellular Receptor 1",
+        "Humans",
+        "Kidney Tubules",
+        "Male",
+        "Membrane Glycoproteins",
+        "Middle Aged",
+        "Placebos",
+        "Receptors, Virus",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "20385653",
+      "title": "Powerful beneficial effects of benfotiamine on cognitive impairment and beta-amyloid deposition in amyloid precursor protein/presenilin-1 transgenic mice.",
+      "authors": [
+        "Xiaoli Pan",
+        "Neng Gong",
+        "Jing Zhao",
+        "Zhe Yu",
+        "Fenghua Gu",
+        "Jia Chen",
+        "Xiaojing Sun",
+        "Lei Zhao",
+        "Meijing Yu",
+        "Zhiru Xu",
+        "Wenxin Dong",
+        "Yan Qin",
+        "Guoqiang Fei",
+        "Chunjiu Zhong",
+        "Tian-Le Xu"
+      ],
+      "journal": "Brain : a journal of neurology",
+      "publication_date": "2010-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Reduction of glucose metabolism in brain is one of the main features of Alzheimer's disease. Thiamine (vitamin B1)-dependent processes are critical in glucose metabolism and have been found to be impaired in brains from patients with Alzheimer's disease. However, thiamine treatment exerts little beneficial effect in these patients. Here, we tested the effect of benfotiamine, a thiamine derivative with better bioavailability than thiamine, on cognitive impairment and pathology alterations in a mouse model of Alzheimer's disease, the amyloid precursor protein/presenilin-1 transgenic mouse. We show that after a chronic 8 week treatment, benfotiamine dose-dependently enhanced the spatial memory of amyloid precursor protein/presenilin-1 mice in the Morris water maze test. Furthermore, benfotiamine effectively reduced both amyloid plaque numbers and phosphorylated tau levels in cortical areas of the transgenic mice brains. Unexpectedly, these effects were not mimicked by another lipophilic thiamine derivative, fursultiamine, although both benfotiamine and fursultiamine were effective in increasing the levels of free thiamine in the brain. Most notably, benfotiamine, but not fursultiamine, significantly elevated the phosphorylation level of glycogen synthase kinase-3alpha and -3beta, and reduced their enzymatic activities in the amyloid precursor protein/presenilin-1 transgenic brain. Therefore, in the animal Alzheimer's disease model, benfotiamine appears to improve the cognitive function and reduce amyloid deposition via thiamine-independent mechanisms, which are likely to include the suppression of glycogen synthase kinase-3 activities. These results suggest that, unlike many other thiamine-related drugs, benfotiamine may be beneficial for clinical Alzheimer's disease treatment.",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Amyloid beta-Peptides",
+        "Animals",
+        "Brain",
+        "Cerebral Cortex",
+        "Cognition",
+        "Cognition Disorders",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Fursultiamin",
+        "Glycogen Synthase Kinases",
+        "Isoenzymes",
+        "Maze Learning",
+        "Memory",
+        "Mice",
+        "Mice, Transgenic",
+        "Phosphorylation",
+        "Plaque, Amyloid",
+        "Presenilin-1",
+        "Swimming",
+        "Thiamine",
+        "tau Proteins"
+      ]
+    },
+    {
+      "pmid": "20369223",
+      "title": "Increased protein damage in renal glomeruli, retina, nerve, plasma and urine and its prevention by thiamine and benfotiamine therapy in a rat model of diabetes.",
+      "authors": [
+        "N Karachalias",
+        "R Babaei-Jadidi",
+        "N Rabbani",
+        "P J Thornalley"
+      ],
+      "journal": "Diabetologia",
+      "publication_date": "2010-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS/HYPOTHESIS: The aim of this study was to quantify protein damage by glycation, oxidation and nitration in a rat model of diabetes at the sites of development of microvascular complications, including the effects of thiamine and benfotiamine therapy. METHODS: Diabetes was induced in male Sprague-Dawley rats by 55 mg/kg streptozotocin and moderated by insulin (2 U twice daily). Diabetic and control rats were given thiamine or benfotiamine (7 or 70 mg kg(-1) day(-1)) over 24 weeks. Plasma, urine and tissues were collected and analysed for protein damage by stable isotopic dilution analysis MS. RESULTS: There were two- to fourfold increases in fructosyl-lysine and AGE content of glomerular, retinal, sciatic nerve and plasma protein in diabetes. Increases in AGEs were reversed by thiamine and benfotiamine therapy but increases in fructosyl-lysine were not. Methionine sulfoxide content of plasma protein and 3-nitrotyrosine content of sciatic nerve protein were increased in diabetes. Plasma glycation free adducts were increased up to twofold in diabetes; the increases were reversed by thiamine. Urinary excretion of glycation, oxidation and nitration free adducts was increased by seven- to 27-fold in diabetes. These increases were reversed by thiamine and benfotiamine therapy. CONCLUSIONS/INTERPRETATION: AGEs, particularly arginine-derived hydroimidazolones, accumulate at sites of microvascular complication development and have markedly increased urinary excretion rates in experimental diabetes. Thiamine and benfotiamine supplementation prevented tissue accumulation and increased urinary excretion of protein glycation, oxidation and nitration adducts. Similar effects may contribute to the reversal of early-stage clinical diabetic nephropathy by thiamine.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Diabetes Mellitus, Experimental",
+        "Disease Models, Animal",
+        "Kidney Glomerulus",
+        "Male",
+        "Mass Spectrometry",
+        "Models, Biological",
+        "Oxidative Stress",
+        "Proteins",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Retina",
+        "Thiamine",
+        "Vitamin B Complex"
+      ]
+    },
+    {
+      "pmid": "20219672",
+      "title": "Protective role of benfotiamine, a fat-soluble vitamin B1 analogue, in lipopolysaccharide-induced cytotoxic signals in murine macrophages.",
+      "authors": [
+        "Umesh C S Yadav",
+        "Nilesh M Kalariya",
+        "Satish K Srivastava",
+        "Kota V Ramana"
+      ],
+      "journal": "Free radical biology & medicine",
+      "publication_date": "2010-May-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "This study was designed to investigate the molecular mechanisms by which benfotiamine, a lipid-soluble analogue of vitamin B1, affects lipopolysaccharide (LPS)-induced inflammatory signals leading to cytotoxicity in the mouse macrophage cell line RAW264.7. Benfotiamine prevented LPS-induced apoptosis, expression of the Bcl-2 family of proapoptotic proteins, caspase-3 activation, and PARP cleavage and altered mitochondrial membrane potential and release of cytochrome c and apoptosis-inducing factor and phosphorylation and subsequent activation of p38-MAPK, stress-activated kinases (SAPK/JNK), protein kinase C, and cytoplasmic phospholipase A2 in RAW cells. Further, phosphorylation and degradation of inhibitory kappaB and consequent activation and nuclear translocation of the redox-sensitive transcription factor NF-kappaB were significantly prevented by benfotiamine. The LPS-induced increased expression of cytokines and chemokines and the inflammatory marker proteins iNOS and COX-2 and their metabolic products NO and PGE(2) was also blocked significantly. Thus, our results elucidate the molecular mechanism of the anti-inflammatory action of benfotiamine in LPS-induced inflammation in murine macrophages. Benfotiamine suppresses oxidative stress-induced NF-kappaB activation and prevents bacterial endotoxin-induced inflammation, indicating that vitamin B1 supplementation could be beneficial in the treatment of inflammatory diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Apoptosis Inducing Factor",
+        "Caspase 3",
+        "Cell Line",
+        "Cytochromes c",
+        "Cytoprotection",
+        "Cytotoxicity, Immunologic",
+        "Enzyme Activation",
+        "Lipopolysaccharides",
+        "Macrophage Activation",
+        "Macrophages",
+        "Membrane Potential, Mitochondrial",
+        "Mice",
+        "Poly (ADP-Ribose) Polymerase-1",
+        "Poly(ADP-ribose) Polymerases",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "20188835",
+      "title": "The multifaceted therapeutic potential of benfotiamine.",
+      "authors": [
+        "Pitchai Balakumar",
+        "Ankur Rohilla",
+        "Pawan Krishan",
+        "Ponnu Solairaj",
+        "Arunachalam Thangathirupathi"
+      ],
+      "journal": "Pharmacological research",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Thiamine, known as vitamin B(1), plays an essential role in energy metabolism. Benfotiamine (S-benzoylthiamine O-monophoshate) is a synthetic S-acyl derivative of thiamine. Once absorbed, benfotiamine is dephosphorylated by ecto-alkaline phosphatase to lipid-soluble S-benzoylthiamine. Transketolase is an enzyme that directs the precursors of advanced glycation end products (AGEs) to pentose phosphate pathway. Benfotiamine administration increases the levels of intracellular thiamine diphosphate, a cofactor necessary for the activation transketolase, resulting in the reduction of tissue level of AGEs. The elevated level of AGEs has been implicated in the induction and progression of diabetes-associated complications. Chronic hyperglycemia accelerates the reaction between glucose and proteins leading to the formation of AGEs, which form irreversible cross-links with many macromolecules such as collagen. In diabetes, AGEs accumulate in tissues at an accelerated rate. Experimental studies have elucidated that binding of AGEs to their specific receptors (RAGE) activates mainly monocytes and endothelial cells and consequently induces various inflammatory events. Moreover, AGEs exaggerate the status of oxidative stress in diabetes that may additionally contribute to functional changes in vascular tone control observed in diabetes. The anti-AGE property of benfotiamine certainly makes it effective for the treatment of diabetic neuropathy, nephropathy and retinopathy. Interestingly, few recent studies demonstrated additional non-AGE-dependent pharmacological actions of benfotiamine. The present review critically analyzed the multifaceted therapeutic potential of benfotiamine.",
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Hyperglycemia",
+        "Hypoglycemic Agents",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "19943121",
+      "title": "The defensive effect of benfotiamine in sodium arsenite-induced experimental vascular endothelial dysfunction.",
+      "authors": [
+        "Sanjali Verma",
+        "Krishna Reddy",
+        "Pitchai Balakumar"
+      ],
+      "journal": "Biological trace element research",
+      "publication_date": "2010-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study has been designed to investigate the effect of benfotiamine, a thiamine derivative, in sodium arsenite-induced vascular endothelial dysfunction (VED) in rats. Sodium arsenite (1.5 mg(-1) kg(-1) day(-1) i.p., 2 weeks) was administered in rats to produce VED. The development of VED was assessed by employing isolated aortic ring preparation and estimating the serum and aortic concentrations of nitrite/nitrate. Further, the integrity of vascular endothelium in thoracic aorta was assessed by scanning electron microscopy. Moreover, the oxidative stress was assessed by estimating serum thiobarbituric acid reactive substances (TBARS) and aortic superoxide anion generation. The administration of sodium arsenite markedly produced VED by attenuating acetylcholine-induced endothelium-dependent relaxation, decreasing serum and aortic concentrations of nitrite/nitrate, and impairing the integrity of vascular endothelium. Further, sodium arsenite produced oxidative stress by increasing serum TBARS and aortic superoxide generation. The treatment with benfotiamine (25, 50, and 100 mg(-1) kg(-1) day(-1) p.o.) or atorvastatin (30 mg(-1) kg(-1) day(-1) p.o., a standard agent) prevented sodium arsenite-induced VED and oxidative stress. However, the beneficial effects of benfotiamine in preventing the sodium arsenite-induced VED were attenuated by co-administration with N-omega-nitro-L: -arginine methyl ester (L: -NAME) (25 mg(-1) kg(-1) day(-1), i.p.), an inhibitor of NOS. Thus, it may be concluded that benfotiamine reduces oxidative stress and activates endothelial nitric oxide synthase to enhance the generation and bioavailability of NO and subsequently improves the integrity of vascular endothelium to prevent sodium arsenite-induced experimental VED.",
+      "mesh_terms": [
+        "Animals",
+        "Arsenites",
+        "Endothelium, Vascular",
+        "Enzyme Inhibitors",
+        "Microscopy, Electron, Scanning",
+        "Nitric Oxide Synthase Type III",
+        "Oxidative Stress",
+        "Rats",
+        "Rats, Wistar",
+        "Sodium Compounds",
+        "Thiamine",
+        "Thiobarbituric Acid Reactive Substances",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "19136698",
+      "title": "Prevention of endotoxin-induced uveitis in rats by benfotiamine, a lipophilic analogue of vitamin B1.",
+      "authors": [
+        "Umesh C S Yadav",
+        "Sumitra Subramanyam",
+        "Kota V Ramana"
+      ],
+      "journal": "Investigative ophthalmology & visual science",
+      "publication_date": "2009-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "PURPOSE: To study the amelioration of ocular inflammation in endotoxin-induced uveitis (EIU) in rats by benfotiamine, a lipid-soluble analogue of thiamine. METHODS: EIU in Lewis rats was induced by subcutaneous injection of lipopolysaccharide (LPS) followed by treatment with benfotiamine. The rats were killed 3 or 24 hours after LPS injection, eyes were enucleated, aqueous humor (AqH) was collected, and the number of infiltrating cells, protein concentration, and inflammatory marker levels were determined. Immunohistochemical analysis of eye sections was performed to determine the expression of inducible-nitric oxide synthase (iNOS), cyclooxygenase (Cox)-2, protein kinase C (PKC), and transcription factor NF-kappaB. RESULTS: Infiltrating leukocytes, protein concentrations, and inflammatory cytokines and chemokines were significantly elevated in the AqH of EIU rats compared with control rats, and benfotiamine treatment suppressed these increases. Similarly increased expression of inflammatory markers iNOS and Cox-2 in ciliary body and retinal wall was also significantly inhibited by benfotiamine. The increased phosphorylation of PKC and the activation of NF-kappaB in the ciliary body and in the retinal wall of EIU rat eyes were suppressed by benfotiamine. CONCLUSIONS: These results suggest that benfotiamine suppresses oxidative stress-induced NF-kappaB-dependent inflammatory signaling leading to uveitis. Therefore, benfotiamine could be used as a novel therapeutic agent for the treatment of ocular inflammation, especially uveitis.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Administration, Oral",
+        "Animals",
+        "Aqueous Humor",
+        "Cyclooxygenase 2",
+        "Cytokines",
+        "Escherichia coli",
+        "Leukocytes",
+        "Lipopolysaccharides",
+        "Male",
+        "NF-kappa B",
+        "Nitric Oxide Synthase Type II",
+        "Oxidative Stress",
+        "Phosphorylation",
+        "Protein Kinase C",
+        "Rats",
+        "Rats, Inbred Lew",
+        "Thiamine",
+        "Uveitis"
+      ]
+    },
+    {
+      "pmid": "18951979",
+      "title": "Benfotiamine attenuates nicotine and uric acid-induced vascular endothelial dysfunction in the rat.",
+      "authors": [
+        "Pitchai Balakumar",
+        "Ramica Sharma",
+        "Manjeet Singh"
+      ],
+      "journal": "Pharmacological research",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The study has been designed to investigate the effect of benfotiamine, a thiamine derivative, in nicotine and uric acid-induced vascular endothelial dysfunction (VED) in rats. Nicotine (2 mg kg(-1)day(-1), i.p., 4 weeks) and uric acid (150 mg kg(-1)day(-1), i.p., 3 weeks) were administered to produce VED in rats. The development of VED was assessed by employing isolated aortic ring preparation and estimating serum and aortic concentration of nitrite/nitrate. Further, the integrity of vascular endothelium was assessed using the scanning electron microscopy (SEM) of thoracic aorta. Moreover, the oxidative stress was assessed by estimating serum thiobarbituric acid reactive substances (TBARS) and aortic superoxide anion generation. The administration of nicotine and uric acid produced VED by impairing the integrity of vascular endothelium and subsequently decreasing serum and aortic concentration of nitrite/nitrate and attenuating acetylcholine-induced endothelium dependent relaxation. Further, nicotine and uric acid produced oxidative stress, which was assessed in terms of increase in serum TBARS and aortic superoxide generation. However, treatment with benfotiamine (70 mg kg(-1)day(-1), p.o.) or atorvastatin (30 mg kg(-1)day(-1) p.o., a standard agent) markedly prevented nicotine and uric acid-induced VED and oxidative stress by improving the integrity of vascular endothelium, increasing the concentration of serum and aortic nitrite/nitrate, enhancing the acetylcholine-induced endothelium dependent relaxation and decreasing serum TBARS and aortic superoxide anion generation. Thus, it may be concluded that benfotiamine reduces the oxidative stress and consequently improves the integrity of vascular endothelium and enhances the generation of nitric oxide to prevent nicotine and uric acid-induced experimental VED.",
+      "mesh_terms": [
+        "Animals",
+        "Aorta, Thoracic",
+        "Atorvastatin",
+        "Endothelium, Vascular",
+        "Heptanoic Acids",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "In Vitro Techniques",
+        "Male",
+        "Microscopy, Electron, Scanning",
+        "Nicotine",
+        "Nicotinic Agonists",
+        "Nitrates",
+        "Nitrites",
+        "Nitroprusside",
+        "Oxidative Stress",
+        "Pyrroles",
+        "Rats",
+        "Rats, Wistar",
+        "Superoxides",
+        "Thiamine",
+        "Thiobarbituric Acid Reactive Substances",
+        "Uric Acid",
+        "Vascular Diseases",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "18850044",
+      "title": "Synergistic antiallodynic interaction between gabapentin or carbamazepine and either benfotiamine or cyanocobalamin in neuropathic rats.",
+      "authors": [
+        "Teresa Mixcoatl-Zecuatl",
+        "Geovanna N Quinonez-Bastidas",
+        "Nadia L Caram-Salas",
+        "Monica Ambriz-Tututi",
+        "Claudia I Araiza-Saldana",
+        "Hector I Rocha-Gonzalez",
+        "Roberto Medina-Santillan",
+        "Gerardo Reyes-Garcia",
+        "Vinicio Granados-Soto"
+      ],
+      "journal": "Methods and findings in experimental and clinical pharmacology",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Anticonvulsants, including gabapentin and carbamazepine, have shown activity against several types of neuropathic pain; however, they have limiting side effects that may minimize their use. In this study the possible synergistic interaction between anticonvulsants and benfotiamine or cyanocobalamin on spinal nerve ligation-induced tactile allodynia was assessed. Oral administration of gabapentin (15-300 mg/kg), carbamazepine (10-300 mg/kg), benfotiamine (30-600 mg/kg) or cyanocobalamin (0.3-6.0 mg/kg) significantly reduced tactile allodynia in rats. Maximal antiallodynic effects were reached with gabapentin 300 mg/kg (approximately 70%), carbamazepine 300 mg/kg (approximately 66%), benfotiamine 600 mg/kg (approximately 51%) and cyanocobalamin 6 mg/kg (approximately 59%). At the highest tested doses, gabapentin, but not carbamazepine, benfotiamine or cyanocobalamin, significantly reduced motor coordination. Coadministration of gabapentin or carbamazepine with benfotiamine or cyanocobalamin in a fixed ratio markedly reduced spinal nerve ligation-induced tactile allodynia, showing a synergistic interaction between anticonvulsants and B vitamins. Data indicate that combinations of anticonvulsants with benfotiamine or cyanocobalamin are able to reduce tactile allodynia without affecting motor coordination in rats, and suggest the possible clinical use of these combinations in the treatment of neuropathic pain in humans.",
+      "mesh_terms": [
+        "Amines",
+        "Analgesics",
+        "Animals",
+        "Anticonvulsants",
+        "Carbamazepine",
+        "Cyclohexanecarboxylic Acids",
+        "Drug Synergism",
+        "Female",
+        "Gabapentin",
+        "Ligation",
+        "Pain",
+        "Pain Measurement",
+        "Peripheral Nervous System Diseases",
+        "Physical Stimulation",
+        "Psychomotor Performance",
+        "Rats",
+        "Rats, Wistar",
+        "Spinal Nerves",
+        "Thiamine",
+        "Vitamin B 12",
+        "Vitamin B Complex",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "18830571",
+      "title": "Ameliorative effect of combination of benfotiamine and fenofibrate in diabetes-induced vascular endothelial dysfunction and nephropathy in the rat.",
+      "authors": [
+        "Pitchai Balakumar",
+        "Vishal Arvind Chakkarwar",
+        "Manjeet Singh"
+      ],
+      "journal": "Molecular and cellular biochemistry",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The study has been designed to investigate the effect of benfotiamine and fenofibrate in diabetes-induced experimental vascular endothelial dysfunction (VED) and nephropathy. The single administration of streptozotocin (STZ) (50 mg/kg, i.p.) produced diabetes, which was noted to develop VED and nephropathy in 8 weeks. The diabetes produced VED by attenuating acetylcholine-induced endothelium dependent relaxation, impairing the integrity of vascular endothelium, decreasing serum nitrite/nitrate concentration and increasing serum TBARS and aortic superoxide anion generation. Further, diabetes altered the lipid profile by increasing the serum cholesterol, triglycerides and decreasing the high density lipoprotein. The nephropathy was noted to be developed in the diabetic rat that was assessed in terms of increase in serum creatinine, blood urea, proteinuria, and glomerular damage. The benfotiamine (70 mg/kg, p.o.) and fenofibrate (32 mg/kg, p.o.) or lisinopril (1 mg/kg, p.o., a standard agent) treatments were started in diabetic rats after 1 week of STZ administration and continued for 7 weeks. The treatment with benfotiamine and fenofibrate either alone or in combination attenuated diabetes-induced VED and nephropathy. In addition, the combination of benfotiamine and fenofibrate was noted to be more effective in attenuating the diabetes-induced VED and nephropathy when compared to treatment with either drug alone or lisinopril. Treatment with fenofibrate normalizes the altered lipid profile in diabetic rats, whereas benfotiamine treatment has no effect on lipid alteration in diabetic rats. It may be concluded that diabetes-induced oxidative stress, lipids alteration, and consequent development of VED may be responsible for the induction of nephropathy in diabetic rats. Concurrent administration of benfotiamine and fenofibrate may provide synergistic benefits in preventing the development of diabetes-induced nephropathy by reducing the oxidative stress and lipid alteration, preventing the VED and subsequently improving the renal function.",
+      "mesh_terms": [
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Animals",
+        "Blood Glucose",
+        "Chelating Agents",
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Nephropathies",
+        "Endothelium, Vascular",
+        "Fenofibrate",
+        "Humans",
+        "Hypolipidemic Agents",
+        "Lisinopril",
+        "Oxidative Stress",
+        "Proteinuria",
+        "Rats",
+        "Rats, Wistar",
+        "Superoxides",
+        "Thiamine",
+        "Thiobarbituric Acid Reactive Substances",
+        "Vascular Diseases",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "18663426",
+      "title": "Oral benfotiamine plus alpha-lipoic acid normalises complication-causing pathways in type 1 diabetes.",
+      "authors": [
+        "X Du",
+        "D Edelstein",
+        "M Brownlee"
+      ],
+      "journal": "Diabetologia",
+      "publication_date": "2008-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS/HYPOTHESIS: We determined whether fixed doses of benfotiamine in combination with slow-release alpha-lipoic acid normalise markers of reactive oxygen species-induced pathways of complications in humans. METHODS: Male participants with and without type 1 diabetes were studied in the General Clinical Research Centre of the Albert Einstein College of Medicine. Glycaemic status was assessed by measuring baseline values of three different indicators of hyperglycaemia. Intracellular AGE formation, hexosamine pathway activity and prostacyclin synthase activity were measured initially, and after 2 and 4 weeks of treatment. RESULTS: In the nine participants with type 1 diabetes, treatment had no effect on any of the three indicators used to assess hyperglycaemia. However, treatment with benfotiamine plus alpha-lipoic acid completely normalised increased AGE formation, reduced increased monocyte hexosamine-modified proteins by 40% and normalised the 70% decrease in prostacyclin synthase activity from 1,709 +/- 586 pg/ml 6-keto-prostaglandin F(1alpha) to 4,696 +/- 533 pg/ml. CONCLUSIONS/INTERPRETATION: These results show that the previously demonstrated beneficial effects of these agents on complication-causing pathways in rodent models of diabetic complications also occur in humans with type 1 diabetes.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Analysis of Variance",
+        "Cytochrome P-450 Enzyme System",
+        "Diabetes Mellitus, Type 1",
+        "Drug Therapy, Combination",
+        "Glycation End Products, Advanced",
+        "Hexosamines",
+        "Humans",
+        "Hyperglycemia",
+        "Intramolecular Oxidoreductases",
+        "Male",
+        "Oxidative Stress",
+        "Thiamine",
+        "Thioctic Acid",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "18581039",
+      "title": "Effects of thiamine and benfotiamine on intracellular glucose metabolism and relevance in the prevention of diabetic complications.",
+      "authors": [
+        "Elena Beltramo",
+        "Elena Berrone",
+        "Sonia Tarallo",
+        "Massimo Porta"
+      ],
+      "journal": "Acta diabetologica",
+      "publication_date": "2008-Sep",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Thiamine (vitamin B1) is an essential cofactor in most organisms and is required at several stages of anabolic and catabolic intermediary metabolism, such as intracellular glucose metabolism, and is also a modulator of neuronal and neuro-muscular transmission. Lack of thiamine or defects in its intracellular transport can cause a number of severe disorders. Thiamine acts as a coenzyme for transketolase (TK) and for the pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase complexes, enzymes which play a fundamental role for intracellular glucose metabolism. In particular, TK is able to shift excess fructose-6-phosphate and glycerhaldeyde-3-phosphate from glycolysis into the pentose-phosphate shunt, thus eliminating these potentially damaging metabolites from the cytosol. Diabetes might be considered a thiamine-deficient state, if not in absolute terms at least relative to the increased requirements deriving from accelerated and amplified glucose metabolism in non-insulin dependent tissues that, like the vessel wall, are prone to complications. A thiamine/TK activity deficiency has been described in diabetic patients, the correction of which by thiamine and/or its lipophilic derivative, benfotiamine, has been demonstrated in vitro to counteract the damaging effects of hyperglycaemia on vascular cells. Little is known, however, on the positive effects of thiamine/benfotiamine administration in diabetic patients, apart from the possible amelioration of neuropathic symptoms. Clinical trials on diabetic patients would be necessary to test this vitamin as a potential and inexpensive approach to the prevention and/or treatment of diabetic vascular complications.",
+      "mesh_terms": [
+        "Animals",
+        "Clinical Trials as Topic",
+        "Diabetes Complications",
+        "Glucose",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Intracellular Space",
+        "Models, Biological",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "18473286",
+      "title": "Benfotiamine in diabetic polyneuropathy (BENDIP): results of a randomised, double blind, placebo-controlled clinical study.",
+      "authors": [
+        "H Stracke",
+        "W Gaus",
+        "U Achenbach",
+        "K Federlin",
+        "R G Bretzel"
+      ],
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "publication_date": "2008-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: Efficacy and safety of benfotiamine in treatment of diabetic polyneuropathy. METHODS: Double blind, placebo-controlled, phase-III-study. 181 patients were screened. 165 patients with symmetrical, distal diabetic polyneuropathy were randomised to one of three treatment groups entering the wash-out phase and 133/124 patients were analysed in the ITT/PP analysis: Benfotiamine 600 mg per day (n=47/43), benfotiamine 300 mg per day (n=45/42) or placebo (n=41/39). RESULTS: After 6 weeks of treatment, the primary outcome parameter NSS (Neuropathy Symptom Score) differed significantly between the treatment groups (p=0.033) in the PP (per protocol) population. In the ITT (intention to treat) population, the improvement of NSS was slightly above significance (p=0.055). The TSS (Total Symptom Score) showed no significant differences after 6 weeks of treatment. The improvement was more pronounced at the higher benfotiamine dose and increased with treatment duration. In the TSS, best results were obtained for the symptom \"pain\". Treatment was well tolerated in all groups. CONCLUSION: Benfotiamine may extend the treatment option for patients with diabetic polyneuropathy based on causal influence on impaired glucose metabolism. Further studies should confirm the positive experiences.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Adult",
+        "Aged",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Placebos",
+        "Safety",
+        "Sensory Thresholds",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "18393672",
+      "title": "Detection of transketolase in bone marrow-derived insulin-producing cells: benfotiamine enhances insulin synthesis and glucose metabolism.",
+      "authors": [
+        "Seh-Hoon Oh",
+        "Rafal P Witek",
+        "Si-Hyun Bae",
+        "Houda Darwiche",
+        "Youngmi Jung",
+        "Liya Pi",
+        "Alicia Brown",
+        "Bryon E Petersen"
+      ],
+      "journal": "Stem cells and development",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Adult bone marrow (BM)-derived insulin-producing cells (IPCs) are capable of regulating blood glucose levels in chemically induced hyperglycemic mice. Using cell transplantation therapy, fully functional BM-derived IPCs help to mediate treatment of diabetes mellitus. Here, we demonstrate the detection of the pentose phosphate pathway enzyme, transketolase (TK), in BM-derived IPCs cultured under high-glucose conditions. Benfotiamine, a known activator of TK, was not shown to affect the proliferation of insulinoma cell line, INS-1; however, when INS-1 cells were cultured with oxythiamine, an inhibitor of TK, cell proliferation was suppressed. Treatment with benfotiamine activated glucose metabolism in INS-1 cells in high-glucose culture conditions, and appeared to maximize the BM-derived IPCs ability to synthesize insulin. Benfotiamine was not shown to induce the glucose receptor Glut-2, however it was shown to activate glucokinase, the enzyme responsible for conversion of glucose to glucose-6-phosphate. Furthermore, benfotiamine-treated groups showed upregulation of the downstream glycolytic enzyme, glyceraldehyde phosphate dehydrogenase (GAPDH). However, in cells where the pentose phosphate pathway was blocked by oxythiamine treatment, there was a clear downregulation of Glut-2, glucokinase, insulin, and GAPDH. When benfotiamine was used to treat mice transplanted with BM-derived IPCs transplanted, their glucose level was brought to a normal range. The glucose challenge of normal mice treated with benfotiamine lead to rapidly normalized blood glucose levels. These results indicate that benfotiamine activates glucose metabolism and insulin synthesis to prevent glucose toxicity caused by high concentrations of blood glucose in diabetes mellitus.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Antimetabolites",
+        "Bone Marrow Cells",
+        "Cell Differentiation",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cell Transplantation",
+        "Diabetes Mellitus, Experimental",
+        "Glucose",
+        "Glyceraldehyde-3-Phosphate Dehydrogenase (Phosphorylating)",
+        "Humans",
+        "Hyperglycemia",
+        "Insulin",
+        "Male",
+        "Mice",
+        "Oxythiamine",
+        "Rats",
+        "Thiamine",
+        "Transketolase"
+      ]
+    },
+    {
+      "pmid": "16936154",
+      "title": "Benfotiamine prevents macro- and microvascular endothelial dysfunction and oxidative stress following a meal rich in advanced glycation end products in individuals with type 2 diabetes.",
+      "authors": [
+        "Alin Stirban",
+        "Monica Negrean",
+        "Bernd Stratmann",
+        "Thomas Gawlowski",
+        "Tina Horstmann",
+        "Christian Götting",
+        "Knut Kleesiek",
+        "Michaela Mueller-Roesel",
+        "Theodor Koschinsky",
+        "Jaime Uribarri",
+        "Helen Vlassara",
+        "Diethelm Tschoepe"
+      ],
+      "journal": "Diabetes care",
+      "publication_date": "2006-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Diabetes is characterized by marked postprandial endothelial dysfunction induced by hyperglycemia, hypertriglyceridemia, advanced glycation end products (AGEs), and dicarbonyls (e.g., methylglyoxal [MG]). In vitro hyperglycemia-induced MG formation and endothelial dysfunction could be blocked by benfotiamine, but in vivo effects of benfotiamine on postprandial endothelial dysfunction and MG synthesis have not been investigated in humans until now. RESEARCH DESIGN AND METHODS: Thirteen people with type 2 diabetes were given a heat-processed test meal with a high AGE content (HAGE; 15.100 AGE kU, 580 kcal, 54 g protein, 17 g lipids, and 48 g carbohydrates) before and after a 3-day therapy with benfotiamine (1,050 mg/day). Macrovascular flow-mediated dilatation (FMD) and microvascular reactive hyperemia, along with serum markers of endothelial disfunction (E-selectin, vascular cell adhesion molecule-1, and intracellular adhesion molecule-1), oxidative stress, AGE, and MG were measured during both test meal days after an overnight fast and then at 2, 4, and 6 h postprandially. RESULTS: The HAGE induced a maximum reactive hyperemia decrease of -60.0% after 2 h and a maximum FMD impairment of -35.1% after 4 h, without affecting endothelium-independent vasodilatation. The effects of HAGE on both FMD and reactive hyperemia were completely prevented by benfotiamine. Serum markers of endothelial dysfunction and oxidative stress, as well as AGE, increased after HAGE. These effects were significantly reduced by benfotiamine. CONCLUSIONS: Our study confirms micro- and macrovascular endothelial dysfunction accompanied by increased oxidative stress following a real-life, heat-processed, AGE-rich meal in individuals with type 2 diabetes and suggests benfotiamine as a potential treatment.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Biomarkers",
+        "Blood Glucose",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 2",
+        "Endothelium, Vascular",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Hyperglycemia",
+        "Hypertriglyceridemia",
+        "Laser-Doppler Flowmetry",
+        "Microcirculation",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Thiamine",
+        "Vascular Cell Adhesion Molecule-1",
+        "Vascular Diseases"
+      ]
+    },
+    {
+      "pmid": "16452468",
+      "title": "Regulation of intracellular glucose and polyol pathway by thiamine and benfotiamine in vascular cells cultured in high glucose.",
+      "authors": [
+        "Elena Berrone",
+        "Elena Beltramo",
+        "Carmela Solimine",
+        "Alessandro Ubertalli Ape",
+        "Massimo Porta"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "2006-Apr-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Hyperglycemia is a causal factor in the development of the vascular complications of diabetes. One of the biochemical mechanisms activated by excess glucose is the polyol pathway, the key enzyme of which, aldose reductase, transforms d-glucose into d-sorbitol, leading to imbalances of intracellular homeostasis. We aimed at verifying the effects of thiamine and benfotiamine on the polyol pathway, transketolase activity, and intracellular glucose in endothelial cells and pericytes under high ambient glucose. Human umbilical vein endothelial cells and bovine retinal pericytes were cultured in normal (5.6 mmol/liter) or high (28 mmol/liter) glucose, with or without thiamine or benfotiamine 50 or 100 mumol/liter. Transketolase and aldose reductase mRNA expression was determined by reverse transcription-PCR, and their activity was measured spectrophotometrically; sorbitol concentrations were quantified by gas chromatography-mass spectrometry and intracellular glucose concentrations by fluorescent enzyme-linked immunosorbent assay method. Thiamine and benfotiamine reduce aldose reductase mRNA expression, activity, sorbitol concentrations, and intracellular glucose while increasing the expression and activity of transketolase, for which it is a coenzyme, in human endothelial cells and bovine retinal pericytes cultured in high glucose. Thiamine and benfotiamine correct polyol pathway activation induced by high glucose in vascular cells. Activation of transketolase may shift excess glycolytic metabolites into the pentose phosphate cycle, accelerate the glycolytic flux, and reduce intracellular free glucose, thereby preventing its conversion to sorbitol. This effect on the polyol pathway, together with other beneficial effects reported for thiamine in high glucose, could justify testing thiamine as a potential approach to the prevention and/or treatment of diabetic complications.",
+      "mesh_terms": [
+        "Aldehyde Reductase",
+        "Animals",
+        "Cattle",
+        "Cell Culture Techniques",
+        "Chelating Agents",
+        "Diabetic Retinopathy",
+        "Endothelial Cells",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Glucose",
+        "Homeostasis",
+        "Humans",
+        "Hyperglycemia",
+        "Pericytes",
+        "Polymers",
+        "Reactive Oxygen Species",
+        "Retina",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Sorbitol",
+        "Thiamine",
+        "Transketolase",
+        "Umbilical Cord"
+      ]
+    },
+    {
+      "pmid": "16359659",
+      "title": "Benfotiamine relieves inflammatory and neuropathic pain in rats.",
+      "authors": [
+        "Gabriela M Sánchez-Ramírez",
+        "Nadia L Caram-Salas",
+        "Héctor I Rocha-González",
+        "Guadalupe C Vidal-Cantú",
+        "Roberto Medina-Santillán",
+        "Gerardo Reyes-García",
+        "Vinicio Granados-Soto"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2006-Jan-13",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Benfotiamine has shown therapeutic efficacy in the treatment of painful diabetic neuropathy in human beings. However, so far there is no evidence about the efficacy of this drug in preclinical models of pain. The purpose of this study was to assess the possible antinociceptive and antiallodynic effect of benfotiamine in inflammatory and neuropathic pain models in the rat. Inflammatory pain was induced by injection of formalin in non-diabetic and diabetic (2 weeks) rats. Reduction of flinching behavior was considered as antinociception. Neuropathic pain was induced by either ligation of left L5/L6 spinal nerves or administration of streptozotocin (50 mg/kg, i.p.) in Wistar rats. Benfotiamine significantly reduced inflammatory (10-300 mg/kg) and neuropathic (75-300 mg/kg) nociception in non-diabetic and diabetic rats. Results indicate that oral administration of benfotiamine is able to reduce tactile allodynia from different origin in the rat and they suggest the use of this drug to reduce inflammatory and neuropathic pain in humans.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Administration, Oral",
+        "Animals",
+        "Diabetes Mellitus, Experimental",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Forelimb",
+        "Formaldehyde",
+        "Inflammation",
+        "Injections, Subcutaneous",
+        "Ligation",
+        "Neuralgia",
+        "Rats",
+        "Rats, Wistar",
+        "Spinal Nerves",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "16260089",
+      "title": "Benfotiamine alleviates diabetes-induced cerebral oxidative damage independent of advanced glycation end-product, tissue factor and TNF-alpha.",
+      "authors": [
+        "Shan Wu",
+        "Jun Ren"
+      ],
+      "journal": "Neuroscience letters",
+      "publication_date": "2006-Feb-13",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Diabetes mellitus leads to thiamine deficiency and multiple organ damage including diabetic neuropathy. This study was designed to examine the effect of benfotiamine, a lipophilic derivative of thiamine, on streptozotocin (STZ)-induced cerebral oxidative stress. Adult male FVB mice were made diabetic with a single injection of STZ (200 mg/kg, i.p.). Fourteen days later, control and diabetic (fasting blood glucose >13.9 mM) mice received benfotiamine (100 mg/kg/day, i.p.) for 14 days. Oxidative stress and protein damage were evaluated by glutathione/glutathione disulfide (GSH/GSSG) assay and protein carbonyl formation, respectively. Pro-oxidative or pro-inflammatory factors including advanced glycation end-product (AGE), tissue factor and tumor necrosis factor-alpha (TNF-alpha) were evaluated by immunoblot analysis. Four weeks STZ treatment led to hyperglycemia, enhanced cerebral oxidative stress (reduced GSH/GSSG ratio), elevated TNF-alpha and AGE levels without changes in protein carbonyl or tissue factor. Benfotiamine alleviated diabetes-induced cerebral oxidative stress without affecting levels of AGE, protein carbonyl, tissue factor and TNF-alpha. Collectively, our results indicated benfotiamine may antagonize diabetes-induced cerebral oxidative stress through a mechanism unrelated to AGE, tissue factor and TNF-alpha.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Analysis of Variance",
+        "Animals",
+        "Blood Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Disease Models, Animal",
+        "Glutathione",
+        "Glutathione Disulfide",
+        "Glycation End Products, Advanced",
+        "Male",
+        "Mice",
+        "Oxidative Stress",
+        "Protein Carbonylation",
+        "Thiamine",
+        "Thromboplastin",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "16166234",
+      "title": "High-dose benfotiamine rescues cardiomyocyte contractile dysfunction in streptozotocin-induced diabetes mellitus.",
+      "authors": [
+        "Asli F Ceylan-Isik",
+        "Shan Wu",
+        "Qun Li",
+        "Shi-Yan Li",
+        "Jun Ren"
+      ],
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "publication_date": "2006-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Diabetic cardiomyopathy is characterized by cardiac dysfunction. This study was designed to examine the effect of benfotiamine, a lipophilic derivative of thiamine, on streptozotocin (STZ)-induced cardiac contractile dysfunction in mouse cardiomyocytes. Adult male FVB mice were made diabetic with a single injection of STZ (200 mg/kg ip). Fourteen days later, control and diabetic (fasting plasma glucose > 13.9 mM) mice were put on benfotiamine therapy (100 mg.kg(-1).day(-1) ip) for another 14 days. Mechanical and intracellular Ca2+ properties were evaluated in left ventricular myocytes using an IonOptix MyoCam system. The following indexes were evaluated: peak shortening (PS), time to PS (TPS), time to 90% relengthening (TR90), maximal velocity of shortening/relengthening, resting and rise of intracellular Ca2+ in response to electrical stimulus, sarcoplasmic reticulum (SR) Ca2+ load, and intracellular Ca2+ decay rate (tau). Two- or four-week STZ treatment led to hyperglycemia, prolonged TPS and TR90, reduced SR Ca2+ load, elevated resting intracellular Ca2+ level and prolonged tau associated with normal PS, maximal velocity of shortening/relengthening, and intracellular Ca2+ rise in response to electrical stimulus. Benfotiamine treatment abolished prolongation in TPS, TR90, and tau, as well as reduction in SR Ca2+ load without affecting hyperglycemia and elevated resting intracellular Ca2+. Diabetes triggered oxidative stress, measured by GSH-to-GSSG ratio and formation of advanced glycation end product (AGE) in the hearts. Benfotiamine treatment alleviated oxidative stress without affecting AGE or protein carbonyl formation. Collectively, our results indicated that benfotiamine may rescue STZ-induced cardiomyocyte dysfunction but not AGE formation in short-term diabetes.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Cells, Cultured",
+        "Diabetes Mellitus, Experimental",
+        "Dose-Response Relationship, Drug",
+        "Heart Ventricles",
+        "Male",
+        "Mice",
+        "Muscle Cells",
+        "Myocardial Contraction",
+        "Streptozocin",
+        "Thiamine",
+        "Treatment Outcome",
+        "Ventricular Dysfunction, Left"
+      ]
+    },
+    {
+      "pmid": "15726875",
+      "title": "Benfotiamine in the treatment of diabetic polyneuropathy--a three-week randomized, controlled pilot study (BEDIP study).",
+      "authors": [
+        "E Haupt",
+        "H Ledermann",
+        "W Köpcke"
+      ],
+      "journal": "International journal of clinical pharmacology and therapeutics",
+      "publication_date": "2005-Feb",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: The aim of the study was to evaluate the efficacy of benfotiamine administered over three weeks (allithiamine; a lipid-soluble vitamin B1 prodrug with high bioavailability) to patients with diabetic polyneuropathy in a randomized, placebo-controlled, double-blind, two-center pilot study. MATERIAL AND METHODS: Forty inpatients (23 male, 18 female, age range 18 - 70 years) with a history of type 1 or 2 diabetes and polyneuropathy of not longer than two years, were included in the study. Twenty Patients received two 50 mg benfotiamine tablets four times daily and 20 patients received placebo over the three-week study period. Two clinical units were involved with 10 patients receiving placebo and 10 patients benfotiamine in each. The neuropathy score according to Katzenwadel et al. [1987] was used to evaluate symptoms of polyneuropathy, vibration perception threshold and both the physician's and the patient's own assessment were documented. RESULTS: A statistically significant (p = 0.0287) improvement in the neuropathy score was observed in the group given active drug when compared to the placebo-treated controls. There was no statistically significant change observed in the tuning fork test. The most pronounced effect on complaints was a decrease in pain (p = 0.0414). More patients in the benfotiamine-treated group than in the placebo group considered their clinical condition to have improved (p = 0.052). No side effects attributable to benfotiamine were observed. The differences between the groups cannot be attributed to a change in metabolic parameters since there were no significant alterations in the HbA1 levels and blood sugar profiles. The body mass index of the two groups did not differ. CONCLUSION: This pilot investigation (BEDIP Study) has confirmed the results of two earlier randomized controlled trials and has provided further evidence for the beneficial effects of benfotiamine in patients with diabetic neuropathy.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Pain",
+        "Placebos",
+        "Severity of Illness Index",
+        "Thiamine",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "15250036",
+      "title": "Thiamine and benfotiamine prevent increased apoptosis in endothelial cells and pericytes cultured in high glucose.",
+      "authors": [
+        "E Beltramo",
+        "E Berrone",
+        "S Buttiglieri",
+        "M Porta"
+      ],
+      "journal": "Diabetes/metabolism research and reviews",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: High glucose induces pathological alterations in small and large vessels, possibly through increased formation of AGE, activation of aldose reductase and protein kinase C, and increased flux through the hexosamine pathway. We showed previously that thiamine and benfotiamine correct delayed replication and increase lactate production in endothelial cells subjected to high glucose. We now aim at verifying the effects of thiamine and benfotiamine on cell cycle, apoptosis, and expression of adhesion molecules in endothelial cells and pericytes, under high ambient glucose. METHODS: Human umbilical vein endothelial cells and bovine retinal pericytes were cultured in normal (5.6 mmol/L) or high (28 mmol/L) glucose, with or without thiamine or benfotiamine, 50 or 100 micro mol/L. Apoptosis was determined by two separate ELISA methods, measuring DNA fragmentation and caspase-3 activity, respectively. Cell cycle and integrin subunits alpha3, alpha5, and beta1 concentration were measured by flow cytometry. RESULTS: Apoptosis was increased in high glucose after 3 days of culture, both in endothelium and pericytes. Thiamine and benfotiamine reversed such effects. Neither cell cycle traversal nor integrin concentrations were modified in these experimental conditions. CONCLUSIONS: Thiamine and benfotiamine correct increased apoptosis due to high glucose in cultured vascular cells. Further elucidations of the mechanisms through which they work could help set the basis for clinical use of this vitamin in the prevention and/or treatment of diabetic microangiopathy.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Cattle",
+        "Cell Culture Techniques",
+        "Cell Cycle",
+        "Dose-Response Relationship, Drug",
+        "Endothelium, Vascular",
+        "Glucose",
+        "Humans",
+        "Pericytes",
+        "Retina",
+        "Thiamine",
+        "Umbilical Veins"
+      ]
+    },
+    {
+      "pmid": "15035429",
+      "title": "[Oral benfotiamine therapy. Thus you protect the nerves of diabetic patients].",
+      "authors": [],
+      "journal": "MMW Fortschritte der Medizin",
+      "publication_date": "2004-Jan-29",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Controlled Clinical Trials as Topic",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Neuropathies",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Placebos",
+        "Prodrugs",
+        "Pyridoxine",
+        "Thiamine",
+        "Time Factors",
+        "Vitamin B 12",
+        "Vitamin B 6"
+      ]
+    },
+    {
+      "pmid": "12882930",
+      "title": "Prevention of incipient diabetic nephropathy by high-dose thiamine and benfotiamine.",
+      "authors": [
+        "Roya Babaei-Jadidi",
+        "Nikolaos Karachalias",
+        "Naila Ahmed",
+        "Sinan Battah",
+        "Paul J Thornalley"
+      ],
+      "journal": "Diabetes",
+      "publication_date": "2003-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Accumulation of triosephosphates arising from high cytosolic glucose concentrations in hyperglycemia is the trigger for biochemical dysfunction leading to the development of diabetic nephropathy-a common complication of diabetes associated with a high risk of cardiovascular disease and mortality. Here we report that stimulation of the reductive pentosephosphate pathway by high-dose therapy with thiamine and the thiamine monophosphate derivative benfotiamine countered the accumulation of triosephosphates in experimental diabetes and inhibited the development of incipient nephropathy. High-dose thiamine and benfotiamine therapy increased transketolase expression in renal glomeruli, increased the conversion of triosephosphates to ribose-5-phosphate, and strongly inhibited the development of microalbuminuria. This was associated with decreased activation of protein kinase C and decreased protein glycation and oxidative stress-three major pathways of biochemical dysfunction in hyperglycemia. Benfotiamine also inhibited diabetes-induced hyperfiltration. This was achieved without change in elevated plasma glucose concentration and glycated hemoglobin in the diabetic state. High-dose thiamine and benfotiamine therapy is a potential novel strategy for the prevention of clinical diabetic nephropathy.",
+      "mesh_terms": [
+        "Albuminuria",
+        "Animals",
+        "Chelating Agents",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Nephropathies",
+        "Dose-Response Relationship, Drug",
+        "Male",
+        "Pentose Phosphate Pathway",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Thiamine",
+        "Transketolase"
+      ]
+    },
+    {
+      "pmid": "12592403",
+      "title": "Benfotiamine blocks three major pathways of hyperglycemic damage and prevents experimental diabetic retinopathy.",
+      "authors": [
+        "Hans-Peter Hammes",
+        "Xueliang Du",
+        "Diane Edelstein",
+        "Tetsuya Taguchi",
+        "Takeshi Matsumura",
+        "Qida Ju",
+        "Jihong Lin",
+        "Angelika Bierhaus",
+        "Peter Nawroth",
+        "Dieter Hannak",
+        "Michael Neumaier",
+        "Regine Bergfeld",
+        "Ida Giardino",
+        "Michael Brownlee"
+      ],
+      "journal": "Nature medicine",
+      "publication_date": "2003-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Three of the major biochemical pathways implicated in the pathogenesis of hyperglycemia induced vascular damage (the hexosamine pathway, the advanced glycation end product (AGE) formation pathway and the diacylglycerol (DAG)-protein kinase C (PKC) pathway) are activated by increased availability of the glycolytic metabolites glyceraldehyde-3-phosphate and fructose-6-phosphate. We have discovered that the lipid-soluble thiamine derivative benfotiamine can inhibit these three pathways, as well as hyperglycemia-associated NF-kappaB activation, by activating the pentose phosphate pathway enzyme transketolase, which converts glyceraldehyde-3-phosphate and fructose-6-phosphate into pentose-5-phosphates and other sugars. In retinas of diabetic animals, benfotiamine treatment inhibited these three pathways and NF-kappaB activation by activating transketolase, and also prevented experimental diabetic retinopathy. The ability of benfotiamine to inhibit three major pathways simultaneously might be clinically useful in preventing the development and progression of diabetic complications.",
+      "mesh_terms": [
+        "Animals",
+        "Cattle",
+        "Cells, Cultured",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Retinopathy",
+        "Endothelium, Vascular",
+        "Enzyme Activation",
+        "Glucose",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Hyperglycemia",
+        "Male",
+        "NF-kappa B",
+        "Protein Kinase C",
+        "Random Allocation",
+        "Rats",
+        "Rats, Wistar",
+        "Retina",
+        "Thiamine",
+        "Transketolase",
+        "Uridine Diphosphate N-Acetylglucosamine"
+      ]
+    },
+    {
+      "pmid": "11827434",
+      "title": "Benfotiamine is similar to thiamine in correcting endothelial cell defects induced by high glucose.",
+      "authors": [
+        "F Pomero",
+        "A Molinar Min",
+        "M La Selva",
+        "A Allione",
+        "G M Molinatti",
+        "M Porta"
+      ],
+      "journal": "Acta diabetologica",
+      "publication_date": "2001",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We investigated the hypothesis that benfotiamine, a lipophilic derivative of thiamine, affects replication delay and generation of advanced glycosylation end-products (AGE) in human umbilical vein endothelial cells cultured in the presence of high glucose. Cells were grown in physiological (5.6 mM) and high (28.0 mM) concentrations of D-glucose, with and without 150 microM thiamine or benfotiamine. Cell proliferation was measured by mitochondrial dehydrogenase activity. AGE generation after 20 days was assessed fluorimetrically. Cell replication was impaired by high glucose (72.3%+/-5.1% of that in physiological glucose, p=0.001). This was corrected by the addition of either thiamine (80.6%+/-2.4%, p=0.005) or benfotiamine (87.5%+/-8.9%, p=0.006), although it not was completely normalized (p=0.001 and p=0.008, respectively) to that in physiological glucose. Increased AGE production in high glucose (159.7%+/-38.9% of fluorescence in physiological glucose, p=0.003) was reduced by thiamine (113.2%+/-16.3%, p=0.008 vs. high glucose alone) or benfotiamine (135.6%+/-49.8%, p=0.03 vs. high glucose alone) to levels similar to those observed in physiological glucose. Benfotiamine, a derivative of thiamine with better bioavailability, corrects defective replication and increased AGE generation in endothelial cells cultured in high glucose, to a similar extent as thiamine. These effects may result from normalization of accelerated glycolysis and the consequent decrease in metabolites that are extremely active in generating nonenzymatic protein glycation. The potential role of thiamine administration in the prevention or treatment of vascular complications of diabetes deserves further investigation.",
+      "mesh_terms": [
+        "Cell Division",
+        "Cells, Cultured",
+        "Dose-Response Relationship, Drug",
+        "Endothelium, Vascular",
+        "Fluorescence",
+        "Glucose",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "11571671",
+      "title": "Efficacy of benfotiamine versus thiamine on function and glycation products of peripheral nerves in diabetic rats.",
+      "authors": [
+        "H Stracke",
+        "H P Hammes",
+        "D Werkmann",
+        "K Mavrakis",
+        "I Bitsch",
+        "M Netzel",
+        "J Geyer",
+        "W Köpcke",
+        "C Sauerland",
+        "R G Bretzel",
+        "K F Federlin"
+      ],
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "publication_date": "2001",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "In rats with streptozotocin (STZ) induced diabetes the effect of (watersoluble) thiamine nitrate and of (lipidsoluble) benfotiamine on peripheral nerve function (motor nerve conduction velocity) as well as on the formation of advanced glycation end-products in peripheral nerve tissue was studied. In one group of animals drug administration was started immediately after diabetes induction (prevention study) and in another group two months after diabetes induction (treatment study). Motor nerve conduction velocity (NCV) dropped by 10.5% in diabetic animals, carboxymethyl-lysine (CML) rose to a 3.5fold concentration, deoxyglucosone (3DG)-type AGE formation was increased 5.1fold compared with controls. After three months preventive administration of both vitamin B(1) preparations NCV had increased substantially compared with results in diabetic controls. It was nearly normal after six months with benfotiamine, while the administration of thiamine nitrate resulted in no further amelioration. NCV was nearly normalized after six months of benfotiamine application but not with thiamine. Furthermore, benfotiamine induced a major inhibition of neural imidazole-type AGE formation and completely prevented diabetes induced glycoxidation products (CML). Treatment with thiamine did not significantly affect AGE or cmL levels. Unlike treatment with water-soluble thiamine nitrate timely administration of liposoluble prodrug benfotiamine was effective in the prevention of functional damage and of AGE and cmL formation in nerves of diabetic rats.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Glycation End Products, Advanced",
+        "Glycosylation",
+        "Lysine",
+        "Male",
+        "Neural Conduction",
+        "Oxidation-Reduction",
+        "Peripheral Nerves",
+        "Rats",
+        "Rats, Wistar",
+        "Reference Values",
+        "Thiamine",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "10219465",
+      "title": "Effectiveness of different benfotiamine dosage regimens in the treatment of painful diabetic neuropathy.",
+      "authors": [
+        "G Winkler",
+        "B Pál",
+        "E Nagybéganyi",
+        "I Ory",
+        "M Porochnavec",
+        "P Kempler"
+      ],
+      "journal": "Arzneimittel-Forschung",
+      "publication_date": "1999-Mar",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The therapeutic effectiveness of a benfotiamine (CAS 22457-89-2)-vitamin B combination (Milgamma-N), administered in high (4 x 2 capsules/day, = 320 mg benfotiamine/day) and medium doses (3 x 1 capsules/day), was compared to a monotherapy with benfotiamine (Benfogamma) (3 x 1 tablets/day, = 150 mg benfotiamine/day) in diabetic patients suffering from painful peripheral diabetic neuropathy (DNP). In a 6-week open clinical trial, 36 patients (aged 40 to 70 yrs) having acceptable metabolic control (HbA1c < 8.0%) were randomly assigned to three groups, each of them comprising 12 participants. Neuropathy was assessed by five parameters: the pain sensation (evaluated by a modified analogue visual scale), the vibration sensation (measured with a tuning fork using the Riedel-Seyfert method) and the current perception threshold (CPT) on the peroneal nerve at 3 frequencies: 5, 250 and 2000 Hz). Parameters were registered at the beginning of the study and at the end of the 3rd and 6th week of therapy. An overall bneneficial therapeutic effect on the neuropathy status was observed in all three groups during the study, and a significant improvement in most of the parameters studied appeared already at the 3rd week of therapy (p < 0.01). The greatest change occurred in the group of patients receiving the high dose of benfotiamine (p < 0.01 and 0.05, resp., compared to the othr groups). Metabolic control did not change over the study. It is concluded that benfotiamine is most effective in large doses, although even in smaller daily dosages, either in combination or in monotherapy, it is effective.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Glucose",
+        "Chelating Agents",
+        "Cholesterol",
+        "Diabetic Neuropathies",
+        "Female",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Pain",
+        "Pain Measurement",
+        "Pain Threshold",
+        "Thiamine",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "9872352",
+      "title": "Benfotiamine in treatment of alcoholic polyneuropathy: an 8-week randomized controlled study (BAP I Study).",
+      "authors": [
+        "H Woelk",
+        "S Lehrl",
+        "R Bitsch",
+        "W Köpcke"
+      ],
+      "journal": "Alcohol and alcoholism (Oxford, Oxfordshire)",
+      "publication_date": "1998",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "A three-armed, randomized, multicentre, placebo-controlled double-blind study was used to examine the efficacy of benfotiamine vs a combination containing benfotiamine and vitamins B6 and B12 in out-patients with severe symptoms of alcoholic polyneuropathy (Benfotiamine in treatment of Alcoholic Polyneuropathy, BAP I). The study period was 8 weeks and 84 patients fulfilled all the prerequisite criteria and completed the study as planned. Benfotiamine led to significant improvement of alcoholic polyneuropathy. Vibration perception (measured at the tip of the great toe) significantly improved in the course of the study, as did motor function. and the overall score reflecting the entire range of symptoms of alcoholic polyneuropathy. A tendency toward improvement was evident for pain and co-ordination; no therapy-specific adverse effects were seen.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Alcoholism",
+        "Chelating Agents",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Peripheral Nervous System Diseases",
+        "Pyridoxine",
+        "Thiamine",
+        "Vibration",
+        "Vitamin B 12"
+      ]
+    },
+    {
+      "pmid": "8929745",
+      "title": "Pharmacokinetics of thiamine derivatives especially of benfotiamine.",
+      "authors": [
+        "D Loew"
+      ],
+      "journal": "International journal of clinical pharmacology and therapeutics",
+      "publication_date": "1996-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Pharmacokinetic data of orally administered lipid-soluble thiamine analogues like benfotiamine are reviewed and assessed. It is quite clear that benfotiamine is absorbed much more better than water-soluble thiamine salts: maximum plasma levels of thiamine are about 5 times higher after benfotiamine, the bioavailability is at maximum about 3.6 times as high as that of thiamine hydrochloride and better than other lipophilic thiamine derivates. The physiological activity (alphaETK) increased only after benfotiamine was given. Due to its excellent pharmacokinetic profile benfotiamine should be preferred in treatment of relevant indications.",
+      "mesh_terms": [
+        "Absorption",
+        "Adjuvants, Immunologic",
+        "Administration, Oral",
+        "Animals",
+        "Biological Availability",
+        "Chelating Agents",
+        "Half-Life",
+        "Humans",
+        "Nerve Fibers",
+        "Thiamine"
+      ]
+    },
+    {
+      "pmid": "8886748",
+      "title": "A benfotiamine-vitamin B combination in treatment of diabetic polyneuropathy.",
+      "authors": [
+        "H Stracke",
+        "A Lindemann",
+        "K Federlin"
+      ],
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "publication_date": "1996",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "In a double-blind, randomized, controlled study, the effectiveness of treatment with a combination of Benfotiamine (an Allithiamine, a lipid-soluble derivative of vitamin B1 with high bioavailability) plus vitamin B6/B12 on objective parameters of neuropathy was studied over a period of 12 weeks on 24 diabetic patients with diabetic polyneuropathy. The results showed a significant improvement (p = 0.006) of nerve conduction velocity in the peroneal nerve and a statistical trend toward improvement of the vibration perception threshold. Long-term observation of 9 patients with verum over a period of 9 months support the results. Therapy-specific adverse effects were not seen. The results of this double-blind investigation, of the long-term observation and of the reports in the literature support the contention that the neurotropic benfotiamine-vitamin B combination represents a starting point in the treatment of diabetic polyneuropathy.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Aged",
+        "Capsules",
+        "Diabetic Neuropathies",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Female",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Male",
+        "Median Nerve",
+        "Middle Aged",
+        "Neural Conduction",
+        "Perception",
+        "Peroneal Nerve",
+        "Pyridoxine",
+        "Sensory Thresholds",
+        "Thiamine",
+        "Time Factors",
+        "Vibration",
+        "Vitamin B 12"
+      ]
+    }
+  ]
+}

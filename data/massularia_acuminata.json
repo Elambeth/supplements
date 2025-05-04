@@ -1,0 +1,71 @@
+{
+  "supplement": "Massularia acuminata",
+  "query": "Massularia acuminata[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:01:55",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "36349558",
+      "title": "Aqueous extract of Massularia acuminata exerts erectogenic effect by modulating critical enzymes and hormones in streptozotocin-induced erectile dysfunction in rats.",
+      "authors": [
+        "Stephen Adeniyi Adefegha",
+        "Ganiyu Oboh",
+        "Abraham Olanrewaju Adedipe"
+      ],
+      "journal": "Andrologia",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Massularia acuminata stem is often used in folkloric medicine in the management of erectile dysfunction (ED), without full scientific basis for its action. Thus, the effects of aqueous extract of M. acuminata stem (MAS) on sexual activity, hormonal action, enzymatic activity and levels of molecules associated with erectile function were assessed. ED was induced by single intraperitoneal injection of 50 mg/kg body weight of streptozotocin in rats and treated with sildenafil citrate or MAS (50 or 100 mg/kg) orally for 2 weeks. The results revealed that there was significant (p < 0.05) reduction in mounting and intromission frequencies, testosterone, luteinizing hormone, and nitric oxide levels, as well as elevation in mounting and intromission latencies, phosphodiesterase 5, arginase, acetylcholinesterase, adenosine triphosphatidase, and adenosine deaminase activities, nitric oxide, thiobarbituric acid reactive species, and glycated haemoglobin levels were observed in ED rats in comparison with the control rats. Treatment with MAS or sildenafil citrate significantly (p < 0.05) modulated the sexual behaviour, biochemical parameters and histological architecture, with 100 mg/kg of MAS having the best erectogenic effects. Furthermore, phenolic characterization revealed that catechin and kaempferol as the main phenolic compounds present in MAS, that can act in synergistically or additively with other phytochemicals to confer erectogenic effect.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Male",
+        "Rats",
+        "Acetylcholinesterase",
+        "Erectile Dysfunction",
+        "Luteinizing Hormone",
+        "Nitric Oxide",
+        "Penile Erection",
+        "Plant Extracts",
+        "Rats, Wistar",
+        "Sildenafil Citrate",
+        "Streptozocin"
+      ]
+    },
+    {
+      "pmid": "25435615",
+      "title": "A new bioactive thiophenolic glycoside from the leaf of Massularia acuminata (g. Don Bullock) ex Hoyle (Rubiaceae).",
+      "authors": [
+        "A O Oriola",
+        "A J Aladesanmi",
+        "T O Idowu",
+        "E O Akinkunmi",
+        "E M Obuotor",
+        "M O Ogunsina"
+      ],
+      "journal": "African journal of traditional, complementary, and alternative medicines : AJTCAM",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Massularia acuminata is a small tree or shrub of tropical rainforest. The leaves are used in Nigerian ethno-medicine for the treatment of microbial infections and pharmacological report suggested the leaf extract as possessing antioxidant activity. This study was therefore carried out to determine the most antioxidant and antimicrobial active fraction(s) of Massularia acuminata leaf and the constituent(s) responsible for the activities. MATHERIALS AND METHODS: The leaf of Massularia acuminata was investigated for in vitro antioxidant and antimicrobial activities, using a 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical scavenging assay and agar dilution method respectively. RESULTS: The ethyl acetate fraction demonstrated the best activities among the partitioned fractions tested. Bioassay guided purification of the most active ethyl acetate fraction led to isolation of a new thiophenolic glycoside, characterized as 4-(3',3'-dihydroxy-1-mercaptopropyl)phenyl glycosylpyranoside. CONCLUSION: The isolated compound from the leaf of Massularia acuminata demonstrated antioxidant and antimicrobial activities and may be responsible for the activities of leaf extract and its ethyl acetate fraction, hence this may justify its ethnomedicinal use.",
+      "mesh_terms": [
+        "Anti-Infective Agents",
+        "Antioxidants",
+        "Bacteria",
+        "Fungi",
+        "Glycosides",
+        "Microbial Sensitivity Tests",
+        "Molecular Structure",
+        "Phenols",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rubiaceae",
+        "Sulfhydryl Compounds"
+      ]
+    }
+  ]
+}

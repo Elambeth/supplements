@@ -1,0 +1,38 @@
+{
+  "supplement": "Powdered Fruits and Vegetables",
+  "query": "Powdered Fruits and Vegetables[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:22:18",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "39602837",
+      "title": "The effect of fruits and vegetables on children's mental and cognitive health: A systematic review of intervention studies and perspective for future research.",
+      "authors": [
+        "Nicola A Gillies",
+        "Amy L Lovell",
+        "Karen E Waldie",
+        "Clare R Wall"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2025-Feb",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To synthesize evidence from fruit and vegetable intervention studies investigating mental or cognitive health outcomes (or both) in children ≤10 y. Our aim was to understand the efficacy of such interventions in improving measures of cognitive performance or mental health and to identify successful intervention elements to inform future research. METHODS: We conducted a systematic search of the Cochrane, Embase, PubMed, and CINAHL databases for articles published before August 2022 (PROSPERO registration no. CRD42022356571). A narrative synthesis was conducted according to the Synthesis Without Meta-Analysis guidelines. RESULTS: Of the 4686 articles identified, only 7 of the 17 full texts screened were included in the final review. No studies investigated the efficacy of interventions using \"whole\" fruits or vegetables. Six studies examined the effects of blueberries using drinks made from fresh (1 cup) or freeze-dried (30 g) blueberries and one study evaluated a mulberry powder-based drink. Sample sizes ranged from 14 to 54, and most studies were acute interventions with outcomes measured in a 2- to 3-h window (n = 6). Through a narrative synthesis of direction of responses, measures of executive function appeared sensitive to intervention effects in both acute and longer-term settings. Some concerns of risk of bias were evident, according to the RoB 2 tool, related to incomplete reporting of methodological aspects. CONCLUSIONS: The studies identified through this systematic review could not directly address the planned research question, resulting in poor certainty of evidence. Future research with whole fruit and vegetable interventions could better inform population health strategies for improved mental and cognitive health outcomes in children.",
+      "mesh_terms": [
+        "Humans",
+        "Vegetables",
+        "Fruit",
+        "Child",
+        "Cognition",
+        "Mental Health",
+        "Child, Preschool",
+        "Diet",
+        "Female",
+        "Male"
+      ]
+    }
+  ]
+}

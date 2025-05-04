@@ -1,0 +1,132 @@
+{
+  "supplement": "Chinese hawthorn",
+  "query": "Chinese hawthorn[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:35:38",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "38376772",
+      "title": "Uncovering the Mechanism of Chinese Hawthorn Leaf on Myocardial Ischemia Based on Network Pharmacology, Molecular Docking Verification, and In Vitro Studies.",
+      "authors": [
+        "Jingyun Gao",
+        "Yueyue Wang",
+        "Hui Xiong",
+        "Shengnan Zhao",
+        "Mingmei He",
+        "Meiting He",
+        "Haifeng Pan"
+      ],
+      "journal": "Cardiovascular toxicology",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hawthorn leaf has shown therapeutic effects in the patients with myocardial ischemia. Our study combines network pharmacology, molecular docking techniques, and in vitro experiment with the aim of revealing the mechanism of hawthorn leaves in the treatment of myocardial ischemia. The active ingredients and corresponding targets of hawthorn leaf through Traditional Chinese Medicine System Pharmacology and Swiss Target Prediction databases. Targets related to myocardial ischemia were retrieved by Gene Card, Online Mendelian Inheritance in Man, Disgenet, and Therapeutic Targets Database databases. Cytoscape software was used to construct an ingredient-target-organ network and enrichment analysis of common targets was analyzed. Molecular docking verification of the core compound and target interactions was performed using MOE software. In vitro cell experiment was performed to verify the findings from bioinformatics analysis. Six active components and 107 potential therapeutic targets were screened. The protein-protein interaction network analysis indicated that 10 targets, including AKT1 and EGFR, were hub genes. Quercetin, kaempferol and isorhamnetin were taken as core active components. Through pathway enrichment analysis, nearly 455 Gene Ontology entries and 77 Kyoto Encyclopedia of Genes and Genomes pathways were obtained, mainly including PI3K/Akt, estrogen and other signaling pathways. Molecular docking prediction showed that three main active ingredients were firmly combined with the core targets. Cellular experiments showed that quercetin alleviated oxidative damage in cells and regulated the expression of PI3K, P-AKT/AKT and Bax/Bcl-2 proteins. This study identified the potential targets of Hawthorn leaf against myocardial ischemia using network pharmacology and in vitro verification, which provided a new understanding of the pharmacological mechanisms of Hawthorn leaf in treatment of myocardial ischemia.",
+      "mesh_terms": [
+        "Humans",
+        "Molecular Docking Simulation",
+        "Crataegus",
+        "Network Pharmacology",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Quercetin",
+        "Coronary Artery Disease",
+        "Myocardial Ischemia",
+        "Databases, Genetic",
+        "Drugs, Chinese Herbal"
+      ]
+    },
+    {
+      "pmid": "33232307",
+      "title": "Ethanol Extract of Chinese Hawthorn (Crataegus pinnatifida) Fruit Reduces Inflammation and Oxidative Stress in Rats with Doxorubicin-Induced Chronic Heart Failure.",
+      "authors": [
+        "Fangzhou Cheng",
+        "Wenlong Jiang",
+        "Xiaoshuan Xiong",
+        "Juan Chen",
+        "Yunzhi Xiong",
+        "Yinghong Li"
+      ],
+      "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+      "publication_date": "2020-Nov-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND Chinese hawthorn (Crataegus pinnatifida) fruit is a traditional Chinese medicine for treatment of digestive system and cardiovascular diseases. The fruit contains polyphenol compounds, such as epicatechin, that have anti-inflammatory activity. This study aimed to investigate the effects of an alcohol extract of hawthorn fruit (HAE) on inflammation and oxidative stress in rats with doxorubicin-induced chronic heart failure (CHF). MATERIAL AND METHODS Rats were intraperitoneally injected with doxorubicin to induce CHF and subsequently treated with HAE intragastrically once daily for 6 weeks. At the end of the experiment, echocardiographic and hemodynamic parameters were assessed, and enzyme-linked immunoassays were used to detect the levels of cardiac injury markers (brain natriuretic peptide, creatine kinase-MB, aspartate aminotransferase, lactate dehydrogenase, copeptin, and adrenomedullin), oxidative stress markers (glutathione peroxidase and malondialdehyde), and inflammatory cytokines (interleukin [IL]-6, IL-8, IL-1ß, and tumor necrosis factor-a). The IL-1ß, IL-6, glutathione peroxidase-1, and catalase mRNA levels were also measured by quantitative real-time polymerase chain reaction. RESULTS Our findings indicated that HAE exerts a cardioprotective effect, as shown by improved echocardiographic and hemodynamic parameters, decreased activity of serum myocardial enzymes, reduced serum levels of CHF markers, and inhibited inflammatory response in cardiac tissue. In addition, HAE treatment downregulated the mRNA expression of IL-1ß and tumor necrosis factor-alpha and upregulated the mRNA expression of glutathione peroxidase-1 and catalase compared with untreated doxorubicin-induced CHF rats. CONCLUSIONS HAE shows promise for the prevention and treatment of CHF. The cardioprotective effect of HAE appears to be related to inhibition of both the inflammatory response and oxidative stress in vivo.",
+      "mesh_terms": [
+        "Adrenomedullin",
+        "Animals",
+        "Antioxidants",
+        "Aspartate Aminotransferases",
+        "Chromatography, High Pressure Liquid",
+        "Chronic Disease",
+        "Crataegus",
+        "Creatine Kinase",
+        "Cytokines",
+        "Doxorubicin",
+        "Electrocardiography",
+        "Ethanol",
+        "Fruit",
+        "Glutathione Peroxidase",
+        "Glycopeptides",
+        "Heart Failure",
+        "Heart Function Tests",
+        "Inflammation",
+        "L-Lactate Dehydrogenase",
+        "Male",
+        "Malondialdehyde",
+        "Natriuretic Peptide, Brain",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Polyphenols",
+        "RNA, Messenger",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "31217924",
+      "title": "The effects of Crataegus pinnatifida (Chinese hawthorn) on metabolic syndrome: A review.",
+      "authors": [
+        "Shahrzad Dehghani",
+        "Soghra Mehri",
+        "Hossein Hosseinzadeh"
+      ],
+      "journal": "Iranian journal of basic medical sciences",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Metabolic syndrome is described as a group of risk factors in which at least three unhealthy medical conditions, including obesity, high blood sugar, hypertension or dyslipidemia occur simultaneously in a patient. These conditions raise the risk for diabetes mellitus and cardiovascular diseases. Many recent studies have focused on herbal remedies and their pharmacological effects on metabolic syndrome. Crataegus pinnatifida or Chinese hawthorn has been widely used in the treatment of hyperlipidemia and cardiovascular diseases. Its leaves, fruits and seeds have various active substances such as, flavonoids, triterpenic acids and sesquiterpenes, which through different mechanisms can be beneficial in metabolic syndrome. Flavonoids found in the leaves of hawthorn can significantly reduce atherosclerotic lesion areas, the fruit extracts contain two triterpenic acids (oleanolic acid and ursolic acid), that have the ability to inhibit the acyl-coA-cholesterol acyltransferase (ACAT) enzyme and as a result reduce very low-density lipoprotein (VLDL) and low-density lipoprotein (LDL) cholesterol levels. Another example regards a sesquiterpene found in the seeds of C. pinnatifida, which exhibits the ability to inhibit platelet aggregation, thus showing antithrombotic activity. Various studies have shown that C. pinnatifida can have beneficial effects on controlling and treating high blood sugar, dyslipidemia, obesity and atherosclerosis. The aim of this review is to highlight the interesting effects of C. pinnatifida on metabolic syndrome."
+    },
+    {
+      "pmid": "17151441",
+      "title": "Polyphenolic content and physiological activities of Chinese hawthorn extracts.",
+      "authors": [
+        "Tong Cui",
+        "Kozo Nakamura",
+        "Su Tian",
+        "Hiroshi Kayahara",
+        "Yi-Ling Tian"
+      ],
+      "journal": "Bioscience, biotechnology, and biochemistry",
+      "publication_date": "2006-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hawthorn polyphenol (HP) was prepared by ethyl acetate treatment of the ethanol extract (HE) of Chinese hawthorn fruit. The concentrations of 15 polyphenols in the HP, HE, extraction residue (HJ), and a hawthorn leaf extract (HF) were determined by HPLC. For HP, the total content of the 15 polyphenols was 21.4%, comprised of 19.7% of procyanidins, 1.21% of chlorogenic acid, and 0.48% of flavonoids, compared to 2.55% for the HE. The yields of procyanidin monomer, dimer, trimer, tetramer, and pentamer were 50.5%, 30.3%, 23.0%, 14.6%, and 12.5% respectively, and the mean degree of polymerization was reduced to 1.39 (HP) from 1.65 (HE). Seven different physiological actions of the four extracts were investigated. The HP showed strong O(2)(-) and (.-)OH scavenging capacities (IC(50) values of 6.3 microg/ml and 1.1 microg/ml respectively), as well as selective prolyl endopeptidase inhibition (IC(50) of 60 microg/ml). The active constituents appeared to be procyanidins.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Chromatography, High Pressure Liquid",
+        "Crataegus",
+        "Enzyme Inhibitors",
+        "Flavonoids",
+        "Phenols",
+        "Plant Extracts",
+        "Polyphenols",
+        "Spectrometry, Mass, Electrospray Ionization"
+      ]
+    }
+  ]
+}

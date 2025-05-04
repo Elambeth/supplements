@@ -1,0 +1,384 @@
+{
+  "supplement": "Hordenine",
+  "query": "Hordenine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:46:37",
+  "research_count": 12,
+  "count": 12,
+  "articles": [
+    {
+      "pmid": "39289834",
+      "title": "Hordenine Alleviates Lipopolysaccharide-Induced Mastitis by Suppressing Inflammation and Oxidative Stress, Modulating Intestinal Microbiota, and Preserving the Blood-Milk Barrier.",
+      "authors": [
+        "Yachun Xie",
+        "Xinyi Li",
+        "Dianwen Xu",
+        "Dewei He",
+        "Jiaxin Wang",
+        "Junlong Bi",
+        "Juxiong Liu",
+        "Shoupeng Fu"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Oct-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Mastitis is a common mammalian disease occurring in the mammary tissue and poses a major threat to agriculture and the dairy industry. Hordenine (HOR), a phenylethylamine alkaloid naturally extracted from malt, has various pharmacological effects, but its role in mastitis is unknown. The aim of this study was to investigate the role of HOR and its underlying mechanism in a lipopolysaccharide (LPS)-induced inflammatory response model of mouse mammary epithelial cells (EpH4-Ev) and mouse mastitis model. The experimental results showed that HOR attenuated LPS-induced mammary tissue damage (from 3.75 ± 0.25 to 1.75 ± 0.25) and restored the integrity of the blood-milk barrier. Further mechanistic studies revealed that HOR inhibited LPS-induced overactivation of the TLR4-MAPK/NF-κB signaling pathway and activated the AMPK/Nrf2/HO-1 signaling pathway. Additionally, HOR altered the composition of the intestinal microbiota in mice, ultimately reducing the extent of inflammatory injury (from 3.33 ± 0.33 to 0.67 ± 0.33) and upregulating the expression of tight junction proteins (ZO-1, occludin, and claudin-3). The findings of this study provide a theoretical basis in the rational use of HOR for the prevention and treatment of mastitis and the maintenance of mammalian mammary gland health.",
+      "mesh_terms": [
+        "Animals",
+        "Mastitis",
+        "Female",
+        "Mice",
+        "Lipopolysaccharides",
+        "Gastrointestinal Microbiome",
+        "Oxidative Stress",
+        "Humans",
+        "Inflammation",
+        "NF-E2-Related Factor 2",
+        "NF-kappa B",
+        "Milk",
+        "Mammary Glands, Animal",
+        "Mice, Inbred BALB C",
+        "Toll-Like Receptor 4",
+        "Signal Transduction",
+        "Bacteria",
+        "Epithelial Cells"
+      ]
+    },
+    {
+      "pmid": "36985809",
+      "title": "Beneficial Effects of Hordenine on a Model of Ulcerative Colitis.",
+      "authors": [
+        "Zhengguang Xu",
+        "Qilian Zhang",
+        "Ce Ding",
+        "Feifei Wen",
+        "Fang Sun",
+        "Yanzhan Liu",
+        "Chunxue Tao",
+        "Jing Yao"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2023-Mar-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hordenine, a phenethylamine alkaloid, is found in a variety of plants and exhibits a broad array of biological activities and pharmacological properties, including anti-inflammatory and anti-fibrotic effects. However, the efficacy and underlying mechanisms of hordenine in treating ulcerative colitis (UC) remain unclear. To address this, we examined the therapeutic effects of hordenine on dextran sodium sulphate (DSS)-induced UC by comparing disease activity index (DAI), colon length, secretion of inflammatory factors, and degree of colonic histological lesions across diseased mice that were and were not treated with hordenine. We found that hordenine significantly reduced DAI and levels of pro-inflammatory factors, including interleukin (IL)-6, IL-1β, and tumor necrosis factor alpha (TNF-α), and also alleviated colon tissue oedema, colonic lesions, inflammatory cells infiltration and decreased the number of goblet cells. Moreover, in vitro experiments showed that hordenine protected intestinal epithelial barrier function by increasing the expression of tight junction proteins including ZO-1 and occludin, while also promoting the healing of intestinal mucosa. Using immunohistochemistry and western blotting, we demonstrated that hordenine reduced the expression of sphingosine kinase 1 (SPHK1), sphingosine-1-phosphate receptor 1 (S1PR1), and ras-related C3 botulinum toxin substrate 1 (Rac1), and it inhibited the expression of phosphorylated signal transducer and activator of transcription 3 (p-STAT3) in colon tissues. Thus, hordenine appears to be effective in UC treatment owing to pharmacological mechanisms that favor mucosal healing and the inhibition of SPHK-1/S1PR1/STAT3 signaling.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Colitis, Ulcerative",
+        "Colon",
+        "Tyramine",
+        "Anti-Inflammatory Agents",
+        "Interleukin-6",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Mice, Inbred C57BL",
+        "Colitis"
+      ]
+    },
+    {
+      "pmid": "35349959",
+      "title": "Hordenine inhibits neuroinflammation and exerts neuroprotective effects via inhibiting NF-κB and MAPK signaling pathways in vivo and in vitro.",
+      "authors": [
+        "Yingchun Su",
+        "Yanting Liu",
+        "Dewei He",
+        "Guiqiu Hu",
+        "Hefei Wang",
+        "Bojian Ye",
+        "Yuan He",
+        "Xiyu Gao",
+        "Dianfeng Liu"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2022-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Parkinson's disease (PD) is a usual disease caused by degeneration of the central nervous system, which features the denaturation and death of dopaminergic neurons in the substantia nigra compact (SNc) of the midbrain. Neuroinflammation casts a consequential role in its pathogenesis, and the excessive activation of microglia as a major part of neuroinflammation cannot be ignored. Studies have indicated that Hordenine (HOR) functioned widely as an anti-oxidant and anti-inflammatory substance, but there are no reports on neuroinflammation effects. Therefore, this study is devoted to exploring the effect of HOR on neuroinflammation and its specific mechanism. In vivo, results revealed that HOR depressed the activation of microglia in SNc and protected dopaminergic neurons in the 6-hydroxydopamine (6-OHDA)-induced PD rat model, which terminally reduced movement disorders and weight loss. In vitro, studies have shown that HOR can inhibit inflammatory responses triggered by lipopolysaccharide (LPS) in BV-2 cells. More profound studies have discovered that the specific anti-inflammatory mechanism is intimately associated with the NF-κB and MAPK signaling pathways. All in it together, HOR acts as a significant role in preserving dopaminergic neurons by restraining neuroinflammation mediated by activation of microglia. This may provide a potential drug for Parkinson's treatment.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cell Line",
+        "Lipopolysaccharides",
+        "MAP Kinase Signaling System",
+        "Microglia",
+        "NF-kappa B",
+        "Neuroinflammatory Diseases",
+        "Neuroprotective Agents",
+        "Parkinson Disease",
+        "Rats",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "32422877",
+      "title": "Discovery of Hordenine as a Potential Inhibitor of Pyruvate Dehydrogenase Kinase 3: Implication in Lung Cancer Therapy.",
+      "authors": [
+        "Saleha Anwar",
+        "Taj Mohammad",
+        "Anas Shamsi",
+        "Aarfa Queen",
+        "Shahnaz Parveen",
+        "Suaib Luqman",
+        "Gulam Mustafa Hasan",
+        "Khalid A Alamry",
+        "Naved Azum",
+        "Abdullah M Asiri",
+        "Md Imtaiyaz Hassan"
+      ],
+      "journal": "Biomedicines",
+      "publication_date": "2020-May-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Design and development of potential pyruvate dehydrogenase kinase 3 (PDK3) inhibitors have gained attention because of their possible therapeutic uses in lung cancer therapy. In the present study, the binding affinity of naturally occurring alkaloids, hordenine, vincamine, tryptamine, cinchonine, and colcemid was measured with PDK3. The molecular docking and fluorescence binding studies suggested that all these compounds show a considerable binding affinity for PDK3. Among them, the affinity of hordenine to the PDK3 was excellent (K = 106 M-1) which was further complemented by isothermal titration calorimetric measurements. Hordenine binds in the active site pocket of PDK3 and forms a significant number of non-covalent interactions with functionally important residues. All-atom molecular dynamics (MD) simulation study suggested that the PDK3-hordenine complex is stabilized throughout the trajectory of 100ns and leads to fewer conformational changes. The enzyme inhibition studies showed that hordenine inhibits the activity of PDK3 with an IC50 value of 5.4 µM. Furthermore, hordenine showed a cytotoxic effect on human lung cancer cells (A549 and H1299) with an admirable IC50 value. However, it did not inhibit the growth of HEK293 cells up to 200 µM, indicating its non-toxicity to non-cancerous cell lines. In summary, our findings provide the basis for the therapeutic implication of hordenine and its derivatives in lung cancer and PDK3-related diseases after required in vivo validation."
+    },
+    {
+      "pmid": "32382283",
+      "title": "Antiprolactinoma Effect of Hordenine by Inhibiting MAPK Signaling Pathway Activation in Rats.",
+      "authors": [
+        "Xiong Wang",
+        "Run-Zhu Guo",
+        "Li Ma",
+        "Qiao-Yan Ding",
+        "Jun-Hua Meng",
+        "Yong-Gang Chen",
+        "Jin-Hu Wu"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Prolactinomas are harmful to human health, and the clinical first-line treatment drug is bromocriptine. However, 20% prolactinomas patients did not respond to bromocriptine. Hordenine is an alkaloid separated from Fructus Hordei Germinatus, which showed significant antihyperprolactinemia activity in rats. The aim of this study was to explore the effect and mechanism of hordenine on prolactinomas in rats. The study used estradiol to induce prolactinomas, which caused the activation of the pituitary mitogen-activated protein kinase (MAPK) pathway in rats significantly. The treatment of hordenine restored estradiol, induced the overgrowth of pituitary gland, and reduced the prolactin (PRL) accumulation in the serum and pituitary gland of rats by blocking the MAPK (p38, ERK1/2, and JNK) activation and production of inflammatory cytokines, tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6). The antiprolactinoma effect of hordenine was mediated by inhibiting the MAPK signaling pathway activation in rats."
+    },
+    {
+      "pmid": "31161392",
+      "title": "Metabolomic analysis of quorum sensing inhibitor hordenine on Pseudomonas aeruginosa.",
+      "authors": [
+        "Jin-Wei Zhou",
+        "Junaid Muhammad",
+        "Bing Sun",
+        "Rui Yang",
+        "Abdul Wadood",
+        "Jun-Song Wang",
+        "Ai-Qun Jia"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Proton magnetic resonance-based metabolomics analysis was performed to determine the global metabolite changes in pathogenic bacterium Pseudomonas aeruginosa PAO1 following exposure to quorum sensing (QS) inhibitor hordenine. Pyocyanin inhibition assay confirmed that hordenine exhibited potent QS inhibitory activity. A total of 40 metabolites were assigned by PMR spectra. Hordenine treatment resulted in the destruction of QS system in P. aeruginosa PAO1 by downregulating the expressions of genes involved in QS. The synthesis of antioxidant enzymes was repressed and the oxidative stress was enhanced due to the dysfunctional QS system of P. aeruginosa PAO1. The enhanced oxidative stress induced by the dysfunctional QS system of P. aeruginosa PAO1 altered the membrane components, enhanced membrane permeability, and disturbed energy metabolism, amino acid metabolism, and nucleotide metabolism, and would ultimately attenuate the pathogenicity of P. aeruginosa PAO1. Hordenine may have promising potential for controlling nosocomial pathogens.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Gene Expression Regulation, Bacterial",
+        "Magnetic Resonance Spectroscopy",
+        "Metabolome",
+        "Metabolomics",
+        "Pseudomonas aeruginosa",
+        "Quorum Sensing",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "30609368",
+      "title": "Inhibition of Quorum Sensing and Virulence in Serratia marcescens by Hordenine.",
+      "authors": [
+        "Jin-Wei Zhou",
+        "Ling-Yu Ruan",
+        "Hong-Juan Chen",
+        "Huai-Zhi Luo",
+        "Huan Jiang",
+        "Jun-Song Wang",
+        "Ai-Qun Jia"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2019-Jan-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Serratia marcescens NJ01 is a pathogenic bacterium isolated from diseased tomato leaves. Here, we report on the development of a tomato- S. marcescens host-pathogen system as a model to evaluate the effects of hordenine on quorum sensing (QS)-mediated pathogenicity under native conditions. Exposure to hordenine at 25, 50, and 100 μg/mL significantly inhibited the production of acyl-homoserine lactones and the formation of biofilms. Hordenine treatment notably enhanced the susceptibility of the preformed biofilms to ciprofloxacin by reducing the production of extracellular polysaccharides, destroying the architecture of biofilms, and changing the permeability of membranes, as evidenced by the scattered appearance and dominant red fluorescence in the combination-treated biofilms. Furthermore, the addition of hordenine affected the production of virulence factors, influenced the intracellular metabolites, and downregulated the expressions of QS- and biofilm-related genes. The plant infection model indicated that hordenine could significantly attenuate the pathogenicity of S. marcescens NJ01 in tomato plants. Thus, hordenine could act as a potential pesticide or pesticide accelerant in treating crop infections.",
+      "mesh_terms": [
+        "Acyl-Butyrolactones",
+        "Anti-Bacterial Agents",
+        "Bacterial Proteins",
+        "Biofilms",
+        "Gene Expression Regulation, Bacterial",
+        "Solanum lycopersicum",
+        "Plant Diseases",
+        "Quorum Sensing",
+        "Serratia marcescens",
+        "Tyramine",
+        "Virulence",
+        "Virulence Factors"
+      ]
+    },
+    {
+      "pmid": "30128579",
+      "title": "Attenuation of Pseudomonas aeruginosa biofilm by hordenine: a combinatorial study with aminoglycoside antibiotics.",
+      "authors": [
+        "Jin-Wei Zhou",
+        "Bo Hou",
+        "Gen-Yan Liu",
+        "Huan Jiang",
+        "Bing Sun",
+        "Zhen-Nan Wang",
+        "Ruo-Fu Shi",
+        "Yuan Xu",
+        "Rong Wang",
+        "Ai-Qun Jia"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "publication_date": "2018-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pseudomonas aeruginosa is a ubiquitous pathogen that is the leading cause of chronic infections. Bacterial biofilm formation facilitates CF development and restricts the anti-bacterial potential of many current antibiotics. The capacity of P. aeruginosa to form biofilms and resist antibiotics is closely correlated with quorum sensing (QS). Disrupting QS by QS inhibitors is a promising strategy for treating chronic infections. Here, we evaluated the effect of hordenine, a recently characterized QS inhibitor, on the susceptibility of aminoglycoside antibiotics against P. aeruginosa biofilms. Hordenine significantly enhanced the susceptibility of aminoglycoside antibiotics tobramycin, gentamycin, and amikacin against P. aeruginosa PAO1 biofilm formation. Combinations of hordenine and aminoglycoside antibiotics showed potent efficiency in disrupting the preformed biofilms of P. aeruginosa. Microscopic observations showed flat, scattered, and unstructured biofilm architecture after treatment with hordenine. Mechanistic study further revealed that hordenine treatment led to the downregulation of genes involved in QS and biofilm formation. Thus, our results suggest that hordenine has the potential to function as an antibiotic accelerant in treating P. aeruginosa infections.",
+      "mesh_terms": [
+        "Aminoglycosides",
+        "Anti-Bacterial Agents",
+        "Bacterial Proteins",
+        "Biofilms",
+        "Gene Expression Regulation, Bacterial",
+        "Pseudomonas aeruginosa",
+        "Quorum Sensing",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "29775900",
+      "title": "Hordenine protects against hyperglycemia-associated renal complications in streptozotocin-induced diabetic mice.",
+      "authors": [
+        "Shuhao Su",
+        "Meng Cao",
+        "Guangyuan Wu",
+        "Zi Long",
+        "Xiaodong Cheng",
+        "Junshu Fan",
+        "Zhongrui Xu",
+        "Hongfei Su",
+        "Yiming Hao",
+        "Ge Li",
+        "Jie Peng",
+        "Shuang Li",
+        "Xin Wang"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2018-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The worldwide prevalence of diabetes and associated metabolic diseases has dramatically increased. Pharmacological treatment of diabetes is still limited. Hordenine (HOR), a phenethylamine alkaloid, is a natural constituent in many plants. The present study was designed to explore the possible anti-diabetic effect of HOR in streptozotocin (STZ)-induced diabetic mice. Combined treatment of HOR and insulin significantly reduced fasting and postprandial blood glucose level in diabetic mice. HOR and insulin did not show evident protective effect against structural and functional injuries of pancreas. Renal histological and functional injuries were significantly improved by HOR or insulin treatment. Moreover, combined treatment of HOR and insulin resulted in a more significant amelioration of renal histological and functional injuries in diabetic mice. HOR induced a decrease of renal IL-1α/β and IL-6 expression, and a reduction of Col1α1 and MMP9 expression and PAS-stained mesangial expansion in glomeruli of diabetic mice. In diabetic mice, HOR significantly decreased Nrf2 expression and increased hnRNPF and hnRNPK expression in kidney. Moreover, HOR showed a synergistic effect with insulin on the expression of these regulators. Renal ROS level and TBARS content in diabetic mice were decreased by HOR. The reduction of renal expression of antioxidant enzymes in diabetic mice was inhibited by HOR and insulin. Furthermore, HOR and insulin function synergistically to play an antioxidant role against oxidative injury in diabetic nephropathy. In conclusion, to the best of our knowledge, we, for the first time, found the anti-diabetic, anti-inflammatory, and anti-fibrotic role of HOR in combination with insulin. HOR functions synergistically with insulin and prevents diabetic nephropathy. However, the molecular mechanism of the synergistic effect of HOR and insulin needs to be elucidated.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Blood Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Nephropathies",
+        "Fibrosis",
+        "Hyperglycemia",
+        "Insulin",
+        "Kidney",
+        "Kidney Glomerulus",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oxidative Stress",
+        "Pancreas",
+        "Protective Agents",
+        "Streptozocin",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "29353476",
+      "title": "Hordenine: A Novel Quorum Sensing Inhibitor and Antibiofilm Agent against Pseudomonas aeruginosa.",
+      "authors": [
+        "Jin-Wei Zhou",
+        "Huai-Zhi Luo",
+        "Huan Jiang",
+        "Ting-Kun Jian",
+        "Zi-Qian Chen",
+        "Ai-Qun Jia"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2018-Feb-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The quorum sensing (QS) inhibitory activity of hordenine from sprouting barley against foodborne pathogen Pseudomonas aeruginosa was evaluated for the first time here. At concentrations ranging from 0.5 to 1.0 mg mL-1, hordenine inhibited the levels of acyl-homoserine lactones. The enhanced susceptibility of hordenine with netilmicin on P. aeruginosa PAO1 biofilm formation as well as their efficiency in disrupting preformed biofilms was also evaluated using scanning electron microscopy and confocal laser scanning microscopy (CLSM). Hordenine treatment inhibited the production of QS-related extracellular virulence factors of P. aeruginosa PAO1. Additionally, quantitative real-time polymerase chain reaction analysis demonstrated that the expressions of QS-related genes, lasI, lasR, rhlI, and rhlR, were significantly suppressed. Our results indicated that hordenine can serve as a competitive inhibitor for signaling molecules and act as a novel QS-based agent to defend against foodborne pathogens.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacterial Proteins",
+        "Biofilms",
+        "Hordeum",
+        "Plant Extracts",
+        "Pseudomonas aeruginosa",
+        "Quorum Sensing",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "29155399",
+      "title": "Green synthesis of anisotropic gold nanoparticles using hordenine and their antibiofilm efficacy against Pseudomonas aeruginosa.",
+      "authors": [
+        "Jobina Rajkumari",
+        "Himani Meena",
+        "Muralitharan Gangatharan",
+        "Siddhardha Busi"
+      ],
+      "journal": "IET nanobiotechnology",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pseudomonas aeruginosa is a notorious pathogen that causes biofilm aided infections in patients with cystic fibrosis and burn wounds, resulting in significant mortality in immunocompromised individuals. This study reports a novel one-step biosynthesis of gold nanoparticles using phytocompound, hordenine (HD), as a reducing and capping agent. The synthesis of the anisotropic hordenine-fabricated gold nanoparticles (HD-AuNPs) with an average particle size of 136.87 nm was achieved within 12 h of incubation at room temperature. Both HD and HD-AuNPs exhibited significant antibiofilm activity against P. aeruginosa PAO1, although greater biofilm inhibition was observed for the nanoparticles as compared to hordenine alone. In the microtitre plate assay and tube method, the nanoparticles significantly inhibited the biofilm formation by 73.69 and 78.41%, respectively. The exopolysaccharide production by the test pathogen was arrested by 68.46% on treatment with the nanoparticles. Further, the effect of HD and HD-AuNPs on the biofilm architecture of P. aeruginosa was revealed by light and confocal laser-scanning microscopy micrographs. The overall results of this study suggested the synergistic antibiofilm effect of AuNPs and HD for the treatment of chronic bacterial infections caused by biofilms forming pathogens.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Biofilms",
+        "Gold",
+        "Green Chemistry Technology",
+        "Metal Nanoparticles",
+        "Pseudomonas aeruginosa",
+        "Spectrophotometry, Ultraviolet",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "7020159",
+      "title": "Some hematological and histopathological effects of the alkaloids gramine and hordenine on meadow voles (Microtus pennsylvanicus).",
+      "authors": [
+        "M F Goelz",
+        "H Rothenbacher",
+        "J P Wiggins",
+        "W A Kendall",
+        "T V Hershberger"
+      ],
+      "journal": "Toxicology",
+      "publication_date": "1980",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Meadow voles (Microtus pennsylvanicus) were used to evaluate the relative toxicity of the alkaloids, gramine and hordenine, which are present in reed canarygrass (Phalaris arundinacea) and to assess their effects on the quality of this grass as a forage. One hundred and twenty meadow voles, 31 days of age, were fed gramine (0, 0.125, 0.25, or 0.5% of a nutritionally complete diet) or hordenine sulfate (0, 0.15, 0.31, or 0.62% of the diet) for 21 days. The effects of treatment on growth, mortality, hematology, blood chemistry, and histology of body organs were examined. Approximately one-third of the voles died when fed either 0.25 or 0.50% gramine. Voles that survived on gramine diets had kidney lesions, glycosuria, higher intakes (P less than 0.05), and lower weight gains (P less than 0.01) than control animals. Voles fed 0.25 and 0.50% gramine had increased circulating reticulocyte levels (P less than 0.01) and those fed 0.125% gramine had higher alkaline phosphatase activity (P less than 0.05) than the control voles. Hordenine did not affect vole diet intake, weight gain, or rate of mortality. Voles fed hordenine developed kidney lesions and glucose was detected in the urine of 62% of these animals. Gramine was more toxic than hordenine on a molar equivalent basis.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Arvicolinae",
+        "Blood Cells",
+        "Body Weight",
+        "Indole Alkaloids",
+        "Kidney",
+        "Liver",
+        "Male",
+        "Poaceae",
+        "Tyramine"
+      ]
+    }
+  ]
+}

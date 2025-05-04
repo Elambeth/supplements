@@ -1,0 +1,132 @@
+{
+  "supplement": "Omnivorous Diet",
+  "query": "Omnivorous Diet[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:12:43",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "39732437",
+      "title": "A Well-Balanced Vegan Diet Does not Compromise Daily Mixed Muscle Protein Synthesis Rates when Compared with an Omnivorous Diet in Active Older Adults: A Randomized Controlled Cross-Over Trial.",
+      "authors": [
+        "Jacintha Domić",
+        "Philippe Jm Pinckaers",
+        "Pol Grootswagers",
+        "Els Siebelink",
+        "Johanna C Gerdessen",
+        "Luc Jc van Loon",
+        "Lisette Cpgm de Groot"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Plant-based foods have reduced protein digestibility and frequently display unbalanced amino acid profiles. Plant-based foods are therefore considered inferior to animal-based foods in their anabolic potential. No study has assessed the anabolic potential of a vegan diet that provides a large variety of plant-based protein sources in older adults. OBJECTIVES: To investigate the effect of a 10-d vegan diet on daily mixed muscle protein synthesis (MPS) rates in comparison with an isocaloric, isonitrogenous, omnivorous diet in community-dwelling older adults. METHODS: This cross-over trial assessed 34 community-dwelling older adults (72 ± 4 y, 18 males, 16 females), who were randomly assigned to consume a 10-d controlled vegan diet, followed by a controlled omnivorous diet (60% animal protein), or vice versa. One day before the study diets, participants consumed 400 mL deuterated water, followed by daily doses of 50 mL. Subsequent plasma and muscle samples were collected during the intervention period. Physical activity levels were assessed using accelerometry. Secondary outcomes were cardiometabolic risk factors and appetite. Statistical analyses were performed using linear mixed models, and results are presented as means ± standard errors. RESULTS: Integrated MPS rates did not differ between the vegan (1.23 ± 0.04%/d) and omnivorous (1.29 ± 0.04%/d) diets (P = 0.2542). Plasma low-density lipoprotein (Δ0.23 ± 0.03, P < 0.0001), high-density lipoprotein (Δ0.03 ± 0.14, P = 0.0387), and total cholesterol (Δ0.25 ± 0.04, P < 0.0001) levels were significantly lower succeeding the vegan diet than the omnivorous diet. There were no significant differences between the omnivorous and the vegan diet in fasting plasma triglyceride, glucose and insulin levels, homeostasis model assessment of insulin resistance, and systolic and diastolic blood pressure (P > 0.05). Physical activity levels were high (12,460 ± 4512 steps/d). CONCLUSIONS: A well-balanced vegan diet providing a variety of plant-based protein sources does not compromise daily MPS rates when compared with an isocaloric, isonitrogenous omnivorous diet in physically active, older adults. This trial was registered at clinicaltrials.gov as NCT05624333 (https://clinicaltrials.gov/study/NCT05624333).",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Cross-Over Studies",
+        "Aged",
+        "Diet, Vegan",
+        "Muscle Proteins",
+        "Muscle, Skeletal",
+        "Exercise",
+        "Aged, 80 and over",
+        "Diet, Vegetarian"
+      ]
+    },
+    {
+      "pmid": "33599941",
+      "title": "High-Protein Plant-Based Diet Versus a Protein-Matched Omnivorous Diet to Support Resistance Training Adaptations: A Comparison Between Habitual Vegans and Omnivores.",
+      "authors": [
+        "Victoria Hevia-Larraín",
+        "Bruno Gualano",
+        "Igor Longobardi",
+        "Saulo Gil",
+        "Alan L Fernandes",
+        "Luiz A R Costa",
+        "Rosa M R Pereira",
+        "Guilherme G Artioli",
+        "Stuart M Phillips",
+        "Hamilton Roschel"
+      ],
+      "journal": "Sports medicine (Auckland, N.Z.)",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Acute protein turnover studies suggest lower anabolic response after ingestion of plant vs. animal proteins. However, the effects of an exclusively plant-based protein diet on resistance training-induced adaptations are under investigation. OBJECTIVE: To investigate the effects of dietary protein source [exclusively plant-based vs. mixed diet] on changes in muscle mass and strength in healthy young men undertaking resistance training. METHODS: Nineteen young men who were habitual vegans (VEG 26 ± 5 years; 72.7 ± 7.1 kg, 22.9 ± 2.3 kg/m2) and nineteen young men who were omnivores (OMN 26 ± 4 years; 73.3 ± 7.8 kg, 23.6 ± 2.3 kg/m2) undertook a 12-week, twice weekly, supervised resistance training program. Habitual protein intake was assessed at baseline and adjusted to 1.6 g kg-1 day-1 via supplemental protein (soy for VEG or whey for OMN). Dietary intake was monitored every four weeks during the intervention. Leg lean mass, whole muscle, and muscle fiber cross-sectional area (CSA), as well as leg-press 1RM were assessed before (PRE) and after the intervention (POST). RESULTS: Both groups showed significant (all p < 0.05) PRE-to-POST increases in leg lean mass (VEG: 1.2 ± 1.0 kg; OMN: 1.2 ± 0.8 kg), rectus femoris CSA (VEG: 1.0 ± 0.6 cm2; OMN: 0.9 ± 0.5 cm2), vastus lateralis CSA (VEG: 2.2 ± 1.1 cm2; OMN: 2.8 ± 1.0 cm2), vastus lateralis muscle fiber type I (VEG: 741 ± 323 µm2; OMN: 677 ± 617 µm2) and type II CSA (VEG: 921 ± 458 µm2; OMN: 844 ± 638 µm2), and leg-press 1RM (VEG: 97 ± 38 kg; OMN: 117 ± 35 kg), with no between-group differences for any of the variables (all p > 0.05). CONCLUSION: A high-protein (~ 1.6 g kg-1 day-1), exclusively plant-based diet (plant-based whole foods + soy protein isolate supplementation) is not different than a protein-matched mixed diet (mixed whole foods + whey protein supplementation) in supporting muscle strength and mass accrual, suggesting that protein source does not affect resistance training-induced adaptations in untrained young men consuming adequate amounts of protein. CLINICAL TRIAL REGISTRATION: NCT03907059. April 8, 2019. Retrospectively registered.",
+      "mesh_terms": [
+        "Animals",
+        "Diet",
+        "Diet, Vegetarian",
+        "Dietary Supplements",
+        "Humans",
+        "Male",
+        "Muscle Strength",
+        "Muscle, Skeletal",
+        "Resistance Training",
+        "Vegans"
+      ]
+    },
+    {
+      "pmid": "33172506",
+      "title": "A mycoprotein-based high-protein vegan diet supports equivalent daily myofibrillar protein synthesis rates compared with an isonitrogenous omnivorous diet in older adults: a randomised controlled trial.",
+      "authors": [
+        "Alistair J Monteyne",
+        "Mandy V Dunlop",
+        "David J Machin",
+        "Mariana O C Coelho",
+        "George F Pavis",
+        "Craig Porter",
+        "Andrew J Murton",
+        "Doaa R Abdelrahman",
+        "Marlou L Dirks",
+        "Francis B Stephens",
+        "Benjamin T Wall"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2021-Sep-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Animal-derived dietary protein ingestion and physical activity stimulate myofibrillar protein synthesis rates in older adults. We determined whether a non-animal-derived diet can support daily myofibrillar protein synthesis rates to the same extent as an omnivorous diet. Nineteen healthy older adults (aged 66 (sem 1) years; BMI 24 (sem 1) kg/m2; twelve males, seven females) participated in a randomised, parallel-group, controlled trial during which they consumed a 3-d isoenergetic high-protein (1·8 g/kg body mass per d) diet, where the protein was provided from predominantly (71 %) animal (OMNI; n 9; six males, three females) or exclusively vegan (VEG; n 10; six males, four females; mycoprotein providing 57 % of daily protein intake) sources. During the dietary control period, participants conducted a daily bout of unilateral resistance-type leg extension exercise. Before the dietary control period, participants ingested 400 ml of deuterated water, with 50-ml doses consumed daily thereafter. Saliva samples were collected throughout to determine body water 2H enrichments, and muscle samples were collected from rested and exercised muscle to determine daily myofibrillar protein synthesis rates. Deuterated water dosing resulted in body water 2H enrichments of approximately 0·78 (sem 0·03) %. Daily myofibrillar protein synthesis rates were 13 (sem 8) (P = 0·169) and 12 (sem 4) % (P = 0·016) greater in the exercised compared with rested leg (1·59 (sem 0·12) v. 1·77 (sem 0·12) and 1·76 (sem 0·14) v. 1·93 (sem 0·12) %/d) in OMNI and VEG groups, respectively. Daily myofibrillar protein synthesis rates did not differ between OMNI and VEG in either rested or exercised muscle (P > 0·05). Over the course of a 3-d intervention, omnivorous- or vegan-derived dietary protein sources can support equivalent rested and exercised daily myofibrillar protein synthesis rates in healthy older adults consuming a high-protein diet.",
+      "mesh_terms": [
+        "Aged",
+        "Animals",
+        "Diet, High-Protein",
+        "Diet, Vegan",
+        "Dietary Proteins",
+        "Female",
+        "Fungal Proteins",
+        "Humans",
+        "Male",
+        "Muscle Proteins",
+        "Muscle, Skeletal",
+        "Resistance Training"
+      ]
+    },
+    {
+      "pmid": "27417779",
+      "title": "Comparison of a Restricted and Unrestricted Vegan Diet Plan with a Restricted Omnivorous Diet Plan on Health-Specific Measures.",
+      "authors": [
+        "Richard J Bloomer",
+        "Trint A Gunnels",
+        "JohnHenry M Schriefer"
+      ],
+      "journal": "Healthcare (Basel, Switzerland)",
+      "publication_date": "2015-Jul-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: We have previously noted beneficial health outcomes when individuals follow a dietary restriction plan in accordance with the Daniel Fast (DF). This is true whether individuals eliminate all animal products or include small amounts of meat and dairy in their plan. The present study sought to compare anthropometric and biochemical measures of health in individuals following a traditional DF (i.e., restricted vegan) or modified DF (i.e., restricted omnivorous; inclusive of ad libitum meat and skim milk consumption), with those following an unrestricted vegan diet plan. METHODS: 35 subjects (six men; 29 women; 33 ± 2 years; range: 18-67 years) completed a 21-day diet plan. Subjects reported to the lab for pre- (day 1) and post-intervention testing (day 22) in a 10 h fasted state. Blood samples were collected and assayed for complete blood count, metabolic panel, lipid panel, insulin, HOMA-IR, C-reactive protein, and oxidative stress biomarkers (malondialdehyde, advanced oxidation protein products, and nitrate/nitrite). Heart rate and blood pressure were measured and body composition was determined via dual energy X-ray absorptiometry. Subjects' self-reported compliance, mental and physical health, and satiety in relation to the dietary modification were recorded. RESULTS: No interaction effects were noted for our outcome measures (p > 0.05). However, subjects in the traditional DF group reported an approximate 10% increase in perceived mental and physical health, with a 25% reduction in malondialdehyde and a 33% reduction in blood insulin. Systolic BP was reduced approximately 7 mmHg in subjects assigned to the traditional DF, with an approximate 5 mmHg reduction in subjects assigned to the modified DF and the unrestricted vegan plan. A small (2 mmHg) reduction in diastolic BP was noted for subjects in both DF groups; a slight increase in diastolic BP was noted for subjects assigned to the unrestricted vegan group. An approximate 20% reduction was noted in total and LDL cholesterol for subjects in the traditional DF group, with an approximate 10% decrease for subjects in the modified DF group. No decrease in total or LDL cholesterol was noted for subjects in the unrestricted vegan group. CONCLUSION: These data indicate that both a traditional or modified DF may improve blood pressure and blood lipids in a clinically meaningful manner if these results are sustained over the long term. A traditional DF also results in a significant reduction in blood insulin and oxidative stress. An unrestricted vegan diet may improve systolic blood pressure, but in the absence of measures to strictly monitor adherence, it does not favorably impact other markers of health measured in the present study."
+    }
+  ]
+}

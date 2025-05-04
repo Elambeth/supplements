@@ -1,0 +1,29 @@
+{
+  "supplement": "Methylliberine",
+  "query": "Methylliberine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:03:36",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "31911801",
+      "title": "A Toxicological Evaluation of Methylliberine (Dynamine®).",
+      "authors": [
+        "Timothy S Murbach",
+        "Róbert Glávits",
+        "John R Endres",
+        "Amy E Clewell",
+        "Gábor Hirka",
+        "Adél Vértesi",
+        "Erzsébet Béres",
+        "Ilona Pasics Szakonyiné"
+      ],
+      "journal": "Journal of toxicology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Methylliberine (CAS 51168-26-4), a methoxiuric acid, is a caffeine metabolite present at low levels in various Coffea plants; however, very little has been published regarding this compound and we could find no toxicological data in the public domain. Therefore, we undertook the toxicological investigation of a pure, synthetic form of methylliberine in order to evaluate its potential health hazards as a food ingredient. A (1) bacterial reverse mutation test, (2) in vitro mammalian chromosomal aberration test, (3) in vivo mammalian micronucleus test, and (4) 90-day repeated-dose oral toxicity study in rats with a 28-day recovery period were conducted. No in vitro mutagenic or clastogenic activity was observed in the presence or absence of metabolic activation up to the maximum OECD recommended test concentrations. No genotoxicity was observed in the mammalian micronucleus study up to the highest dose tested of 700 mg/kg bw. In the 90-day study, methylliberine was administered to Han:WIST rats at doses of 0, 75, 112, 150, 187, and 225 mg/kg bw/day. No mortality or morbidity was observed and no toxicologically relevant clinical effects or effects on clinical pathology parameters were observed. In male animals, test item-related effects on body weight and sexual organs, which were not reversible after a 28-day recovery period without treatment, were observed in the high-dose group. Body weight development was also slightly and reversibly depressed in the 187 mg/kg bw/day male group. No toxicological effects were observed in females. The NOAEL for females was determined to be 225 mg/kg bw/day, the highest dose tested, while the NOAEL for males was determined to be 150 mg/kg bw/day. Future studies are encouraged to corroborate the safety, and assess efficacy, of methylliberine in humans."
+    }
+  ]
+}

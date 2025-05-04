@@ -1,0 +1,68 @@
+{
+  "supplement": "ZMA",
+  "query": "ZMA[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:07:58",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39674290",
+      "title": "Evaluation of zma-miR408 and its target genes function on maize (Zea mays) leaf growth response to cold stress by VIGS-based STTM approach.",
+      "authors": [
+        "Burak Akgul",
+        "Fatma Aydinoglu"
+      ],
+      "journal": "Gene",
+      "publication_date": "2025-Feb-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "miR408 is a conserved plant miRNA family that is known to regulate genes involved in copper metabolism. However, the function of miR408 in maize leaf growth regulation under cold stress isn't defined. In this study, endogenous maize miR408 was transiently silenced by using virus-induced gene silencing (VIGS) combined with short tandem target mimic (STTM) approaches. To this end, STTM-miR408a/b was designed, synthesized, and applied to maize seedlings. Subsequently, STTM-miR408a/b (STTM) and mock-treated (M) seedlings were subjected to cold stress (C) and the growth response of the seedlings was monitored. Finally, STTM-miR408a/b-treatment successfully downregulated the expression of endogenous mir408a/b and upregulated their putative targets Basic Blue Protein (BBP) and Blue Copper Protein (BCP) antagonistically in the STTM and STTM_C groups compared to M and M_C groups. On the other hand, their putative target Laccase (LAC22) gene was upregulated in the STTM group compared to the M group, but there were no significant expression differences between the M_C and STTM_C groups. The elongation rate of the STTM-miR408a/b-treated second and third leaves was reduced by 10% and 19% resulting in 19% and 11% shortening, respectively. Furthermore, the activity of catalase (CAT) and glutathione reductase (GR) was decreased by 57% in STTM, M_C, and STTM_C, and 29% and 28% in the M_C and STTM_C groups and ascorbate peroxidase (APX) was increased by 15% in M_C and STTM_C groups, respectively. These findings illuminated the maize leaf growth response to cold via regulation of expression of miR408 and its target genes and antioxidant system.",
+      "mesh_terms": [
+        "Zea mays",
+        "MicroRNAs",
+        "Plant Leaves",
+        "Gene Expression Regulation, Plant",
+        "Cold-Shock Response",
+        "Plant Proteins",
+        "Gene Silencing",
+        "Seedlings",
+        "RNA, Plant",
+        "Cold Temperature"
+      ]
+    },
+    {
+      "pmid": "39125347",
+      "title": "Effects of an Acute Dose of Zinc Monomethionine Asparate and Magnesium Asparate (ZMA) on Subsequent Sleep and Next-Day Morning Performance (Countermovement Jumps, Repeated Sprints and Stroop Test).",
+      "authors": [
+        "Ben J Edwards",
+        "Ryan L Adam",
+        "Dan Drummond",
+        "Chloe Gallagher",
+        "Samuel A Pullinger",
+        "Andrew T Hulton",
+        "Lucinda D Richardson",
+        "Timothy F Donovan"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-Jul-29",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "The goal of the present study was to determine whether an acute dose of a zinc-containing nutritional supplement (ZMA) has any effects on sleep and morning performance in recreationally trained males. Nineteen males participated in a repeated-measures within-subjects study to assess objective and subjective measures of sleep, completed counter-movement jumps (CMJ) and repeated sprint morning performance (RSP). Three days of baseline food intake showed no major deficiencies of zinc, magnesium or vitamin B6 for all participants (11.9 ± 3.4, 395 ± 103 and 2.7 ± 0.9 mg.day-1, respectively). Sleep (22:30-06:30 h) was assessed via actimetry, and either a control (no tablets, NoPill), dextrose placebo (PLAC) or ZMA was ingested 30-60 min before retiring to bed for two nights. The participants undertook the three conditions (NoPill, PLAC or ZMA) administered in a counterbalanced order. The data were analyzed using general linear models with repeated measures. In healthy active males who consume diets of adequate micronutrients, sleep normally and maintain good sleep hygiene (time to bed and wake times), ZMA supplementation had no beneficial effect on RSP or performance in the Stroop test (p > 0.05) but did improve CMJ height (p < 0.001) compared to that of PLAC but not NoPill (p > 0.05). Supplementation of ZMA for two nights had no effect on sleep, RSP or cognitive function. The NoPill condition elucidated the effects of the intervention under investigation.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Young Adult",
+        "Athletic Performance",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Sleep",
+        "Stroop Test",
+        "Zinc"
+      ]
+    }
+  ]
+}

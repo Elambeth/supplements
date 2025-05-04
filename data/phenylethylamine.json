@@ -1,0 +1,1955 @@
+{
+  "supplement": "Phenylethylamine",
+  "query": "Phenylethylamine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:18:06",
+  "research_count": 62,
+  "count": 62,
+  "articles": [
+    {
+      "pmid": "39046216",
+      "title": "Multicopper Oxidase from Lactobacillus hilgardii: Mechanism of Degradation of Tyramine and Phenylethylamine in Fermented Food.",
+      "authors": [
+        "Qilin Yang",
+        "Yitao Bai",
+        "Shuangping Liu",
+        "Xiao Han",
+        "Tiantian Liu",
+        "Dongna Ma",
+        "Jian Mao"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Aug-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Elevated levels of biogenic amines (BAs) in fermented food can have negative effects on both the flavor and health. Mining enzymes that degrade BAs is an effective strategy for controlling their content. The study screened a strain of Lactobacillus hilgardii 1614 from fermented food system that can degrade BAs. The multiple copper oxidase genes LHMCO1614 were successfully mined after the whole genome protein sequences of homologous strains were clustered and followed by homology modeling. The enzyme molecules can interact with BAs to stabilize composite structures for catalytic degradation, as shown by molecular docking results. Ingeniously, the kinetic data showed that purified LHMCO1614 was less sensitive to the substrate inhibition of tyramine and phenylethylamine. The degradation rates of tyramine and phenylethylamine in huangjiu (18% vol) after adding LHMCO1614 were 41.35 and 40.21%, respectively. Furthermore, LHMCO1614 demonstrated universality in degrading tyramine and phenylethylamine present in other fermented foods as well. HS-SPME-GC-MS analysis revealed that, except for aldehydes, the addition of enzyme treatment did not significantly alter the levels of major flavor compounds in enzymatically treated fermented foods (p > 0.05). This study presents an enzymatic approach for regulating tyramine and phenylethylamine levels in fermented foods with potential applications both targeted and universal.",
+      "mesh_terms": [
+        "Tyramine",
+        "Phenethylamines",
+        "Bacterial Proteins",
+        "Lactobacillus",
+        "Fermented Foods",
+        "Molecular Docking Simulation",
+        "Kinetics",
+        "Oxidoreductases",
+        "Fermentation"
+      ]
+    },
+    {
+      "pmid": "38683969",
+      "title": "Chronic Behavioral and Neurochemical Effects of Four Novel N-Benzyl-2-phenylethylamine Derivatives Recently Identified as \"Psychoactive\" in Adult Zebrafish Screens.",
+      "authors": [
+        "Nikita P Ilyin",
+        "Arslan D Nabiullin",
+        "Anna D Kozlova",
+        "Olga V Kupriyanova",
+        "Vadim A Shevyrin",
+        "Tatyana Gloriozova",
+        "Dmitry Filimonov",
+        "Alexey Lagunin",
+        "David S Galstyan",
+        "Tatiana O Kolesnikova",
+        "Mikael S Mor",
+        "Evgeniya V Efimova",
+        "Vladimir Poroikov",
+        "Konstantin B Yenkoyan",
+        "Murilo S de Abreu",
+        "Konstantin A Demin",
+        "Allan V Kalueff"
+      ],
+      "journal": "ACS chemical neuroscience",
+      "publication_date": "2024-May-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Potently affecting human and animal brain and behavior, hallucinogenic drugs have recently emerged as potentially promising agents in psychopharmacotherapy. Complementing laboratory rodents, the zebrafish (Danio rerio) is a powerful model organism for screening neuroactive drugs, including hallucinogens. Here, we tested four novel N-benzyl-2-phenylethylamine (NBPEA) derivatives with 2,4- and 3,4-dimethoxy substitutions in the phenethylamine moiety and the -F, -Cl, and -OCF3 substitutions in the ortho position of the phenyl ring of the N-benzyl moiety (34H-NBF, 34H-NBCl, 24H-NBOMe(F), and 34H-NBOMe(F)), assessing their behavioral and neurochemical effects following chronic 14 day treatment in adult zebrafish. While the novel tank test behavioral data indicate anxiolytic-like effects of 24H-NBOMe(F) and 34H-NBOMe(F), neurochemical analyses reveal reduced brain norepinephrine by all four drugs, and (except 34H-NBCl) - reduced dopamine and serotonin levels. We also found reduced turnover rates for all three brain monoamines but unaltered levels of their respective metabolites. Collectively, these findings further our understanding of complex central behavioral and neurochemical effects of chronically administered novel NBPEAs and highlight the potential of zebrafish as a model for preclinical screening of small psychoactive molecules.",
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Phenethylamines",
+        "Behavior, Animal",
+        "Brain",
+        "Male",
+        "Hallucinogens",
+        "Psychotropic Drugs",
+        "Serotonin",
+        "Dopamine"
+      ]
+    },
+    {
+      "pmid": "35671176",
+      "title": "Acute behavioral and Neurochemical Effects of Novel N-Benzyl-2-Phenylethylamine Derivatives in Adult Zebrafish.",
+      "authors": [
+        "Konstantin A Demin",
+        "Olga V Kupriyanova",
+        "Vadim A Shevyrin",
+        "Ksenia A Derzhavina",
+        "Nataliya A Krotova",
+        "Nikita P Ilyin",
+        "Tatiana O Kolesnikova",
+        "David S Galstyan",
+        "Yurii M Kositsyn",
+        "Abubakar-Askhab S Khaybaev",
+        "Maria V Seredinskaya",
+        "Yaroslav Dubrovskii",
+        "Raziya G Sadykova",
+        "Maria O Nerush",
+        "Mikael S Mor",
+        "Elena V Petersen",
+        "Tatyana Strekalova",
+        "Evgeniya V Efimova",
+        "Savelii R Kuvarzin",
+        "Konstantin B Yenkoyan",
+        "Dmitrii V Bozhko",
+        "Vladislav O Myrov",
+        "Sofia M Kolchanova",
+        "Aleksander I Polovian",
+        "Georgii K Galumov",
+        "Allan V Kalueff"
+      ],
+      "journal": "ACS chemical neuroscience",
+      "publication_date": "2022-Jul-06",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Hallucinogenic drugs potently affect brain and behavior and have also recently emerged as potentially promising agents in pharmacotherapy. Complementing laboratory rodents, the zebrafish (Danio rerio) is a powerful animal model organism for screening neuroactive drugs, including hallucinogens. Here, we test a battery of ten novel N-benzyl-2-phenylethylamine (NBPEA) derivatives with the 2,4- and 3,4-dimethoxy substitutions in the phenethylamine moiety and the -OCH3, -OCF3, -F, -Cl, and -Br substitutions in the ortho position of the phenyl ring of the N-benzyl moiety, assessing their acute behavioral and neurochemical effects in the adult zebrafish. Overall, substitutions in the Overall, substitutions in the N-benzyl moiety modulate locomotion, and substitutions in the phenethylamine moiety alter zebrafish anxiety-like behavior, also affecting the brain serotonin and/or dopamine turnover. The 24H-NBOMe(F) and 34H-NBOMe(F) treatment also reduced zebrafish despair-like behavior. Computational analyses of zebrafish behavioral data by artificial intelligence identified several distinct clusters for these agents, including anxiogenic/hypolocomotor (24H-NBF, 24H-NBOMe, and 34H-NBF), behaviorally inert (34H-NBBr, 34H-NBCl, and 34H-NBOMe), anxiogenic/hallucinogenic-like (24H-NBBr, 24H-NBCl, and 24H-NBOMe(F)), and anxiolytic/hallucinogenic-like (34H-NBOMe(F)) drugs. Our computational analyses also revealed phenotypic similarity of the behavioral activity of some NBPEAs to that of selected conventional serotonergic and antiglutamatergic hallucinogens. In silico functional molecular activity modeling further supported the overlap of the drug targets for NBPEAs tested here and the conventional serotonergic and antiglutamatergic hallucinogens. Overall, these findings suggest potent neuroactive properties of several novel synthetic NBPEAs, detected in a sensitive in vivo vertebrate model system, the zebrafish, raising the possibility of their potential clinical use and abuse.",
+      "mesh_terms": [
+        "Animals",
+        "Artificial Intelligence",
+        "Behavior, Animal",
+        "Hallucinogens",
+        "Phenethylamines",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "33265983",
+      "title": "2-Phenylethylamine (PEA) Ameliorates Corticosterone-Induced Depression-Like Phenotype via the BDNF/TrkB/CREB Signaling Pathway.",
+      "authors": [
+        "Young-Ju Lee",
+        "Hye Ryeong Kim",
+        "Chang Youn Lee",
+        "Sung-Ae Hyun",
+        "Moon Yi Ko",
+        "Byoung-Seok Lee",
+        "Dae Youn Hwang",
+        "Minhan Ka"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2020-Nov-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Depression is a serious medical illness that is one of the most prevalent psychiatric disorders. Corticosterone (CORT) increases depression-like behavior, with some effects on anxiety-like behavior. 2-Phenethylamine (PEA) is a monoamine alkaloid that acts as a central nervous system stimulant in humans. Here, we show that PEA exerts antidepressant effects by modulating the Brain-derived neurotrophic factor (BDNF)/tropomyosin receptor kinase B (TrkB)/cAMP response element binding protein (CREB) signaling pathway in CORT-induced depression. To investigate the potential effects of PEA on CORT-induced depression, we first treated CORT (50 μM)-induced hippocampal neurons with 100 μM PEA for 24 h. We found that treatment with CORT altered dendritic spine architecture; however, treatment with PEA rescued dendritic spine formation via regulation of BDNF/TrkB/CREB signaling. Next, we used a mouse model of CORT-induced depression. Mice were treated with CORT (20 mg/kg) for 21 days, followed by assessments of a battery of depression-like behaviors. During the final four days of CORT exposure, the mice were treated with PEA (50 mg/kg). We found that CORT injection promoted depression-like behavior and significantly decreased BDNF and TrkB expression in the hippocampus. However, treatment with PEA significantly ameliorated the behavioral and biochemical changes induced by CORT. Our findings reveal that PEA exerts antidepressant effects by modulating the BDNF/TrkB/CREB signaling pathway in a mouse model of CORT-induced depression.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Brain-Derived Neurotrophic Factor",
+        "Corticosterone",
+        "Cyclic AMP Response Element-Binding Protein",
+        "Dendritic Spines",
+        "Depression",
+        "Hippocampus",
+        "Mice, Inbred C57BL",
+        "Models, Biological",
+        "Phenethylamines",
+        "Phenotype",
+        "Receptor, trkB",
+        "Signal Transduction",
+        "Synapses"
+      ]
+    },
+    {
+      "pmid": "32992828",
+      "title": "β-Phenylethylamine as a Natural Food Additive Shows Antimicrobial Activity against Listeria monocytogenes on Ready-to-Eat Foods.",
+      "authors": [
+        "Francis Muchaamba",
+        "Roger Stephan",
+        "Taurai Tasara"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2020-Sep-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Listeria monocytogenes is an important foodborne pathogen and a major cause of death associated with bacterial foodborne infections. Control of L. monocytogenes on most ready-to-eat (RTE) foods remains a challenge. The potential use of β-phenylethylamine (PEA) as an organic antimicrobial against L. monocytogenes was evaluated in an effort to develop a new intervention for its control. Using a collection of 62 clinical and food-related isolates we determined the minimum inhibitory concentration (MIC) of PEA against L. monocytogenes in different broth and agar media. Bologna type sausage (lyoner) and smoked salmon were used as food model systems to validate the in vitro findings. PEA had a growth inhibitory and bactericidal effect against L. monocytogenes both in in vitro experiments as well as on lyoner and smoked salmon. The MIC's ranged from 8 to 12.5 mg/mL. Furthermore, PEA also inhibited L. monocytogenes biofilm formation. Based on good manufacturing practices as a prerequisite, the application of PEA to RTE products might be an additional hurdle to limit L. monocytogenes growth thereby increasing food safety."
+    },
+    {
+      "pmid": "32191250",
+      "title": "Nuclear quantum effects in enzymatic reactions: simulation of the kinetic isotope effect of phenylethylamine oxidation catalyzed by monoamine oxidase A.",
+      "authors": [
+        "Alja Prah",
+        "Peter Ogrin",
+        "Janez Mavri",
+        "Jernej Stare"
+      ],
+      "journal": "Physical chemistry chemical physics : PCCP",
+      "publication_date": "2020-Apr-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The kinetic isotope effect (KIE) is arguably the most established experimental observable reflecting nuclear quantum effects in enzymatic reactions. The role of nuclear quantum effects in enzymes is rather intriguing and has long been a source of profound investigations. Herein, we present a computational study of monoamine oxidase A (MAO A) enzyme and its substrate phenylethylamine, focusing on the impact of nuclear quantum effects on the reaction free energy barrier. Two distinct schemes of quantization of nuclear motion were used, one being the established Quantum Classical Path (QCP) approach, and the other our own code for quantum treatment along the selected nuclear coordinate (hydrogen transfer coordinate) which reasonably mimics the reaction coordinate. In excellent agreement with the experimental value of 8.5 ± 0.3, H/D KIE was computed to 8.66, corresponding to the D-H barrier difference of 1.28 kcal mol-1. The magnitude of KIE implies that nuclear quantum effects probably have only a minor role in the reaction, which is in accordance with the features of potentials computed along the reaction coordinate and with the pertinent energy levels and wavefunctions. The computed H/D KIE for the same reaction in aqueous solution and in the gas phase was fairly similar to the one in the enzyme, suggesting that the role of tunneling in the catalytic function of MAO A is insignificant. The agreement between the computed and observed KIE supported by analysis of nuclear quantum effects implicitly validates the assumed hydride transfer reaction mechanism.",
+      "mesh_terms": [
+        "Catalysis",
+        "Computer Simulation",
+        "Isotopes",
+        "Kinetics",
+        "Monoamine Oxidase",
+        "Phenethylamines",
+        "Quantum Theory"
+      ]
+    },
+    {
+      "pmid": "31842318",
+      "title": "Acute Limb Ischemia after Intake of the Phenylethylamine Derivate NBOMe.",
+      "authors": [
+        "Patricia P Wadowski",
+        "Georgiana-Aura Giurgea",
+        "Oliver Schlager",
+        "Anton Luf",
+        "Thomas Gremmel",
+        "Eva-Luise Hobl",
+        "Sylvia Unterhumer",
+        "Henriette Löffler-Stastka",
+        "Renate Koppensteiner"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2019-Dec-12",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Objective: N-(2-methoxy) benzyl-phenethylamine (NBOMe) derivatives have a high affinity to the serotonin receptor 2A and emerged as new psychedelic agents. We report the case of a 30-year-old man admitted to the hospital because of acute ischemia of the left arm with clinical symptoms of pallor, pulselessness, paresthesia, and a motoric deficit. The patient had a history of schizophrenia and drug abuse and disclosed during the hospital stay the sublingual intake of a substance bought as 25I-NBOMe the night before the ischemic event. Methods: Routine clinical diagnostics including among others color-coded duplex sonography and computed tomography angiography (CTA) were performed. The remainder of the drugs was analyzed using high performance liquid chromatography. Results: Initial color-coded duplex sonography of the upper left limb showed pathological flow profiles of the axillary, brachial, ulnar, and radial artery with a reduced diameter of the ulnar (0.9 mm) and radial (1.1 mm) artery. In consequence, peripheral vasospasm, distal arterial thrombosis, or arterial embolization was anticipated. As therapeutic measures, the patient immediately received intravenous systemic vasodilators (alprostadil) and therapeutic anticoagulation with low molecular weight heparin. Instant symptom improvement was observed within the first day after therapy initiation. The subsequently performed CTA of the heart and left arm showed no signs of thrombotic material. Treatment was continued for five days and the patient was released thereafter having completely normalized perfusion in his left arm. Outpatient treatment was continued with calcium-channel blockers, as the patient had also displayed arterial hypertension. Drug analysis retrieved a composition of the isomers 25I-NBOMe, 25C-NBOMe, and 25H-NBOMe as well as traces of pentylon. Conclusion: NBOMe ingestion implicates the risk of peripheral vasospasms with severe, limb-threatening ischemia.",
+      "mesh_terms": [
+        "Adult",
+        "Dimethoxyphenylethylamine",
+        "Hallucinogens",
+        "Humans",
+        "Ischemia",
+        "Male"
+      ]
+    },
+    {
+      "pmid": "31713176",
+      "title": "Kratom Adulterated with Phenylethylamine and Associated Intracerebral Hemorrhage: Linking Toxicologists and Public Health Officials to Identify Dangerous Adulterants.",
+      "authors": [
+        "Nicholas Nacca",
+        "Rachel F Schult",
+        "Lingyun Li",
+        "David C Spink",
+        "Gary Ginsberg",
+        "Kristen Navarette",
+        "Jeanna Marraffa"
+      ],
+      "journal": "Journal of medical toxicology : official journal of the American College of Medical Toxicology",
+      "publication_date": "2020-Jan",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Kratom is derived from the plant Mitragyna speciosa which is indigenous to Southeast Asia. Active compounds, mitragynine and 7-hydroxymitragynine, cause mild stimulant and opioid agonist effects. Although reported to have potential benefits in the treatment of opioid use disorder, efficacy remains uncertain while adverse health effects have been reported. A compounding concern is the presence of adulterants given that this is an unregulated product. CASE DETAILS: A 54-year-old fitness instructor who used an online purchased kratom product regularly for one year developed stimulatory effects and suffered a large hemorrhagic stroke with a close temporal relationship to ingestion of a different kratom product from the one he regularly used. A collaborative investigation by medical toxicologists, a regional poison center, the state public health laboratory, and public health officials determined that his new kratom product was adulterated with phenylethylamine (PEA). DISCUSSION: We report a case of PEA adulterated kratom purchased and used with resultant adverse effects. PEA is structurally similar to amphetamine and is known to produce sympathomimetic effects. It is possible the stimulatory effect of PEA resulted in a marked and transient increase in blood pressure resulting in hemorrhagic stroke. CONCLUSION: Medical toxicologists should form working relationships with laboratories and public health officials to aid in early identification of adulterated products that carry risk to the general population.",
+      "mesh_terms": [
+        "Cerebral Hemorrhage",
+        "Drug Contamination",
+        "Hemorrhagic Stroke",
+        "Humans",
+        "Interdisciplinary Communication",
+        "Male",
+        "Middle Aged",
+        "Phenethylamines",
+        "Poison Control Centers",
+        "Predictive Value of Tests",
+        "Public Health",
+        "Secologanin Tryptamine Alkaloids",
+        "Substance Abuse Detection",
+        "Substance-Related Disorders",
+        "Toxicology"
+      ]
+    },
+    {
+      "pmid": "30325301",
+      "title": "Efficacy of β-phenylethylamine as a novel anti-microbial and application as a liquid catheter flush.",
+      "authors": [
+        "Meredith Schroeder",
+        "Shelley M Horne",
+        "Birgit M Prüß"
+      ],
+      "journal": "Journal of medical microbiology",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "With this study, we introduce a liquid flush for catheters and other tubing-based applications that consists of a solution of β-phenylethylamine (PEA) in tryptic soy broth. The initial experiments in multiwell polystyrene plates were conducted with Escherichia coli K-12 to assess the effectiveness of PEA at reducing planktonic growth, as well as the biomass and adenosine triphosphate (ATP) content of biofilm; PEA reduced these growth parameters as a function of increasing concentration. This effect was also seen in mutants of PEA catabolism, which leads us to believe that the PEA effect is due to PEA itself and not one of its degradation products. Since PEA reduced planktonic growth and biofilm when added at the time of inoculation, as well as at later time points, we propose PEA as a novel compound for the prevention and treatment of biofilm. PEA reduced planktonic growth and the ATP content of the biofilm for five bacterial pathogens, including an enterohemorrhagic E. coli, two uropathogenic E. coli, Pseudomonas aeruginosa and Staphylococcus aureus. A major finding of this study is the reduction of the ATP content of biofilm that formed in silicone tubing by periodic flushes of PEA. This experiment was performed to model antibiotic-lock treatment of an intravenous catheter. It was found that 10 mg ml-1 of PEA reduced the ATP content of biofilm of five bacterial strains by 96.3 % or more after 2 weeks of incubation and three treatments with PEA. For P. aeruginosa, the reduction in ATP content was paralleled by an identical percentage reduction in viable cells in the biofilm.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Bacteria",
+        "Biofilms",
+        "Catheter-Related Infections",
+        "Catheters, Indwelling",
+        "Escherichia coli K12",
+        "Mutation",
+        "Phenethylamines",
+        "Polystyrenes",
+        "Silicones",
+        "Surface Properties"
+      ]
+    },
+    {
+      "pmid": "28002512",
+      "title": "Pharmacotoxicological screening on new derivatives of beta-phenylethylamine, potential agonists of beta3-adrenergic receptors.",
+      "authors": [
+        "Simona Negreş",
+        "Anca Zanfirescu",
+        "Floriana Elvira Ionică",
+        "Elena Moroşan",
+        "Bruno Ştefan Velescu",
+        "Oana Cristina Şeremet",
+        "Cristina Elena Zbârcea",
+        "Emil Ştefănescu",
+        "Manuella Militaru",
+        "Andreea LetiŢia Arsene",
+        "Denisa Marilena Margină",
+        "Livia Uncu",
+        "Corina Scutari",
+        "Cornel ChiriŢă"
+      ],
+      "journal": "Romanian journal of morphology and embryology = Revue roumaine de morphologie et embryologie",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Beta3-adrenergic receptors (beta3-ARs) have been initially characterized in 1989. Afterwards, their tissue distribution was established: white and brown adipose tissue, central nervous system, myocardium (atrial and ventricular), blood vessels, smooth gastrointestinal muscles (stomach, small intestine, colon), gallbladder, urinary bladder, prostate, skeletal muscles. Non-clinical trials have demonstrated the major implication of beta3-ARs in glucose metabolism, implicitly, in insulin release, and also in obesity. Therefore, new compounds were synthesized starting from beta-phenylethylamine nucleus and substituted in various positions, for possible antidiabetic and÷or antiobesity action. MATERIALS AND METHODS: In the present research, the antidiabetic action of newly synthesized compounds was investigated on an experimental model of alloxan-induced diabetes, administered in dose of 130 mg÷kg body weight (bw), intraperitoneally (i.p.). After 14 days of treatment, glycemia and enzymes involved in homeostasis of glucose metabolism, glucose-6-phosphate dehydrogenase (G6PD), glucose-6-phosphatase (G6Pase) and hexokinase were determined. Animals were then euthanized and histopathology examinations were performed on harvested liver, kidney, spleen and brain in order to document pathological changes induced by alloxan-induced diabetes and÷or by tested compounds. RESULTS AND CONCLUSIONS: Glycemia in animals treated with the tested compounds decreased statistically significant for groups C2 and C3 (-42.13% and -37.2%, respectively), compared to diabetic control group. C2 was also the compound to favorably modify the dynamics of determined enzymes, together with the display of very good safety profile supported by minor, non-significant, histopathological changes.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Diabetes Mellitus",
+        "Humans",
+        "Male",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, Adrenergic, beta-3"
+      ]
+    },
+    {
+      "pmid": "26563498",
+      "title": "N-Methyl, N-propynyl-2-phenylethylamine (MPPE), a Selegiline Analog, Attenuates MPTP-induced Dopaminergic Toxicity with Guaranteed Behavioral Safety: Involvement of Inhibitions of Mitochondrial Oxidative Burdens and p53 Gene-elicited Pro-apoptotic Change.",
+      "authors": [
+        "Eun-Joo Shin",
+        "Yunsung Nam",
+        "Ji Won Lee",
+        "Phuong-Khue Thi Nguyen",
+        "Ji Eun Yoo",
+        "The-Vinh Tran",
+        "Ji Hoon Jeong",
+        "Choon-Gon Jang",
+        "Young J Oh",
+        "Moussa B H Youdim",
+        "Phil Ho Lee",
+        "Toshitaka Nabeshima",
+        "Hyoung-Chun Kim"
+      ],
+      "journal": "Molecular neurobiology",
+      "publication_date": "2016-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Selegiline is a monoamine oxidase-B (MAO-B) inhibitor with anti-Parkinsonian effects, but it is metabolized to amphetamines. Since another MAO-B inhibitor N-Methyl, N-propynyl-2-phenylethylamine (MPPE) is not metabolized to amphetamines, we examined whether MPPE induces behavioral side effects and whether MPPE affects dopaminergic toxicity induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). Multiple doses of MPPE (2.5 and 5 mg/kg/day) did not show any significant locomotor activity and conditioned place preference, whereas selegiline (2.5 and 5 mg/kg/day) significantly increased these behavioral side effects. Treatment with MPPE resulted in significant attenuations against decreases in mitochondrial complex I activity, mitochondrial Mn-SOD activity, and expression induced by MPTP in the striatum of mice. Consistently, MPPE significantly attenuated MPTP-induced oxidative stress and MPPE-mediated antioxidant activity appeared to be more pronounced in mitochondrial-fraction than in cytosolic-fraction. Because MPTP promoted mitochondrial p53 translocation and p53/Bcl-xL interaction, it was also examined whether mitochondrial p53 inhibitor pifithrin-μ attenuates MPTP neurotoxicity. MPPE, selegiline, or pifithrin-μ significantly attenuated mitochondrial p53/Bcl-xL interaction, impaired mitochondrial transmembrane potential, cytosolic cytochrome c release, and cleaved caspase-3 in wild-type mice. Subsequently, these compounds significantly ameliorated MPTP-induced motor impairments. Neuroprotective effects of MPPE appeared to be more prominent than those of selegiline. MPPE or selegiline did not show any additional protective effects against the attenuation by p53 gene knockout, suggesting that p53 gene is a critical target for these compounds. Our results suggest that MPPE possesses anti-Parkinsonian potentials with guaranteed behavioral safety and that the underlying mechanism of MPPE requires inhibition of mitochondrial oxidative stress, mitochondrial translocation of p53, and pro-apoptotic process.",
+      "mesh_terms": [
+        "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "Animals",
+        "Apoptosis",
+        "Behavior, Animal",
+        "Caspase 3",
+        "Conditioning, Psychological",
+        "Cytochromes c",
+        "Cytosol",
+        "Dopaminergic Neurons",
+        "Electron Transport Complex I",
+        "Locomotion",
+        "Membrane Potential, Mitochondrial",
+        "Mice, Inbred C57BL",
+        "Mitochondria",
+        "Monoamine Oxidase",
+        "Neostriatum",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Phenethylamines",
+        "Protein Binding",
+        "Selegiline",
+        "Sulfonamides",
+        "Superoxide Dismutase",
+        "Tumor Suppressor Protein p53",
+        "Uncoupling Protein 2",
+        "bcl-X Protein"
+      ]
+    },
+    {
+      "pmid": "25856561",
+      "title": "Methyl jasmonate stimulates biosynthesis of 2-phenylethylamine, phenylacetic acid and 2-phenylethanol in seedlings of common buckwheat.",
+      "authors": [
+        "Marcin Horbowicz",
+        "Wiesław Wiczkowski",
+        "Tomasz Sawicki",
+        "Dorota Szawara-Nowak",
+        "Hubert Sytykiewicz",
+        "Joanna Mitrus"
+      ],
+      "journal": "Acta biochimica Polonica",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Methyl jasmonate has a strong effect on secondary metabolizm in plants, by stimulating the biosynthesis a number of phenolic compounds and alkaloids. Common buckwheat (Fagopyrum esculentum Moench) is an important source of biologically active compounds. This research focuses on the detection and quantification of 2-phenylethylamine and its possible metabolites in the cotyledons, hypocotyl and roots of common buckwheat seedlings treated with methyl jasmonate. In cotyledons of buckwheat sprouts, only traces of 2-phenylethylamine were found, while in the hypocotyl and roots its concentration was about 150 and 1000-times higher, respectively. Treatment with methyl jasmonate resulted in a 4-fold increase of the 2-phenylethylamine level in the cotyledons of 7-day buckwheat seedlings, and an 11-fold and 5-fold increase in hypocotyl and roots, respectively. Methyl jasmonate treatment led also to about 4-fold increase of phenylacetic acid content in all examined seedling organs, but did not affect the 2-phenylethanol level in cotyledons, and slightly enhanced in hypocotyl and roots. It has been suggested that 2-phenylethylamine is a substrate for the biosynthesis of phenylacetic acid and 2-phenylethanol, as well as cinnamoyl 2-phenethylamide. In organs of buckwheat seedling treated with methyl jasmonate, higher amounts of aromatic amino acid transaminase mRNA were found. The enzyme can be involved in the synthesis of phenylpyruvic acid, but the presence of this compound could not be confirmed in any of the examined organs of common buckwheat seedling.",
+      "mesh_terms": [
+        "Acetates",
+        "Cyclopentanes",
+        "Enzymes",
+        "Fagopyrum",
+        "Gene Expression Regulation, Plant",
+        "Oxylipins",
+        "Phenethylamines",
+        "Phenylacetates",
+        "Phenylethyl Alcohol",
+        "Seedlings"
+      ]
+    },
+    {
+      "pmid": "25684415",
+      "title": "A beating heart cell model to predict cardiotoxicity: effects of the dietary supplement ingredients higenamine, phenylethylamine, ephedrine and caffeine.",
+      "authors": [
+        "Richard Calvert",
+        "Sanah Vohra",
+        "Martine Ferguson",
+        "Paddy Wiesenfeld"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Some dietary supplements may contain cardiac stimulants and potential cardiotoxins. In vitro studies may identify ingredients of concern. A beating human cardiomyocyte cell line was used to evaluate cellular effects following phenylethylamine (PEA), higenamine, ephedrine or caffeine treatment. PEA and higenamine exposure levels simulated published blood levels in humans or animals after intravenous administration. Ephedrine and caffeine levels approximated published blood levels following human oral intake. At low or midrange levels, each chemical was examined plus or minus 50 µM caffeine, simulating human blood levels reported after consumption of caffeine-enriched dietary supplements. To measure beats per minute (BPM), peak width, etc., rhythmic rise and fall in intracellular calcium levels following 30 min of treatment was examined. Higenamine 31.3 ng/ml or 313 ng/ml significantly increased BPM in an escalating manner. PEA increased BPM at 0.8 and 8 µg/ml, while 80 µg/ml PEA reduced BPM and widened peaks. Ephedrine produced a significant BPM dose response from 0.5 to 5.0 µM. Caffeine increased BPM only at a toxic level of 250 µM. Adding caffeine to PEA or higenamine but not ephedrine further increased BPM. These in vitro results suggest that additional testing may be warranted in vivo to further evaluate these effects.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Caffeine",
+        "Cardiotonic Agents",
+        "Cardiotoxicity",
+        "Cells, Cultured",
+        "Dietary Supplements",
+        "Ephedrine",
+        "Heart",
+        "Humans",
+        "Myocytes, Cardiac",
+        "Phenethylamines",
+        "Rats",
+        "Tetrahydroisoquinolines",
+        "Toxicity Tests"
+      ]
+    },
+    {
+      "pmid": "24672014",
+      "title": "Amphetamine potentiates the effects of β-phenylethylamine through activation of an amine-gated chloride channel.",
+      "authors": [
+        "Bryan D Safratowich",
+        "Murad Hossain",
+        "Laura Bianchi",
+        "Lucia Carvelli"
+      ],
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "publication_date": "2014-Mar-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "β-Phenylethylamine (βPEA) is a trace amine present in the CNS of all animals tested to date. However, its function is still not fully understood. βPEA has been suggested to function as a neurotransmitter and/or to mimic the effect of amphetamine (Amph). In support of the latter is the observation that βPEA and Amph produce similar but not identical behaviors. Here, we show that βPEA, like Amph, activates the dopamine transporter and the amine-gated chloride channel LGC-55 to generate behaviors in Caenorhabditis elegans. However, although Amph-induced behaviors occurred gradually during 10 min of treatment, βPEA induced maximal effects within 1 min. In vitro data demonstrate that βPEA activates the LGC-55 more efficiently than Amph (Km = 9 and 152 μm, respectively) and generates saturating currents that are 10 times larger than those produced by Amph. These results suggest that activation of LGC-55 mostly accounts for the behavioral effects reached after 1 min of treatment with βPEA. Importantly, our in vitro and in vivo data show that Amph increases the effects induced by βPEA on the LGC-55, indicating that Amph potentiates the effects generated by the biogenic amine βPEA. Together, our data not only identify a new target for βPEA, but also offer a novel mechanism of action of Amph. In addition, our results highlight C. elegans as a powerful genetic model for studying the effects of biogenic and synthetic amines both at the molecular and behavioral levels.",
+      "mesh_terms": [
+        "Amines",
+        "Amphetamine",
+        "Animals",
+        "Animals, Genetically Modified",
+        "Caenorhabditis elegans",
+        "Caenorhabditis elegans Proteins",
+        "Cells, Cultured",
+        "Central Nervous System Stimulants",
+        "Chloride Channels",
+        "Dopamine",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Dose-Response Relationship, Drug",
+        "Membrane Potentials",
+        "Oocytes",
+        "Phenethylamines",
+        "Psychotropic Drugs",
+        "Receptors, Biogenic Amine",
+        "Receptors, Dopamine"
+      ]
+    },
+    {
+      "pmid": "24244317",
+      "title": "Structure-activity relationships of constrained phenylethylamine ligands for the serotonin 5-HT2 receptors.",
+      "authors": [
+        "Vignir Isberg",
+        "James Paine",
+        "Sebastian Leth-Petersen",
+        "Jesper L Kristensen",
+        "David E Gloriam"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Serotonergic ligands have proven effective drugs in the treatment of migraine, pain, obesity, and a wide range of psychiatric and neurological disorders. There is a clinical need for more highly 5-HT2 receptor subtype-selective ligands and the most attention has been given to the phenethylamine class. Conformationally constrained phenethylamine analogs have demonstrated that for optimal activity the free lone pair electrons of the 2-oxygen must be oriented syn and the 5-oxygen lone pairs anti relative to the ethylamine moiety. Also the ethyl linker has been constrained providing information about the bioactive conformation of the amine functionality. However, combined 1,2-constriction by cyclization has only been tested with one compound. Here, we present three new 1,2-cyclized phenylethylamines, 9-11, and describe their synthetic routes. Ligand docking in the 5-HT2B crystal structure showed that the 1,2-heterocyclized compounds can be accommodated in the binding site. Conformational analysis showed that 11 can only bind in a higher-energy conformation, which would explain its absent or low affinity. The amine and 2-oxygen interactions with D3.32 and S3.36, respectively, can form but shift the placement of the core scaffold. The constraints in 9-11 resulted in docking poses with the 4-bromine in closer vicinity to 5.46, which is polar only in the human 5-HT2A subtype, for which 9-11 have the lowest affinity. The new ligands, conformational analysis and docking expand the structure-activity relationships of constrained phenethylamines and contributes towards the development of 5-HT2 receptor subtype-selective ligands.",
+      "mesh_terms": [
+        "Crystallography, X-Ray",
+        "Humans",
+        "Ligands",
+        "Molecular Docking Simulation",
+        "Phenethylamines",
+        "Receptor, Serotonin, 5-HT2A",
+        "Receptor, Serotonin, 5-HT2B",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "23896151",
+      "title": "ß-Phenylethylamine as a novel nutrient treatment to reduce bacterial contamination due to Escherichia coli O157:H7 on beef meat.",
+      "authors": [
+        "Ty Lynnes",
+        "S M Horne",
+        "B M Prüß"
+      ],
+      "journal": "Meat science",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Bacterial infection by Escherichia coli O157:H7 through the consumption of beef meat or meat products is an ongoing problem, in part because bacteria develop resistances towards chemicals aimed at killing them. In an approach that uses bacterial nutrients to manipulate bacteria into behaviors or cellular phenotypes less harmful to humans, we screened a library of 95 carbon and 95 nitrogen sources for their effect on E. coli growth, cell division, and biofilm formation. In the initial screening experiment using the Phenotype MicroArray(TM) technology from BioLog (Hayward, CA), we narrowed the 190 starting nutrients down to eight which were consecutively tested as supplements in liquid beef broth medium. Acetoacetic acid (AAA) and ß-phenylethylamine (PEA) performed best in this experiment. On beef meat pieces, PEA reduced the bacterial cell count by 90% after incubation of the PEA treated and E. coli contaminated meat pieces at 10°C for one week.",
+      "mesh_terms": [
+        "Acetoacetates",
+        "Animals",
+        "Asparagine",
+        "Caprylates",
+        "Cattle",
+        "Colony Count, Microbial",
+        "Consumer Product Safety",
+        "Escherichia coli O157",
+        "Food Contamination",
+        "Food Handling",
+        "Food Microbiology",
+        "Hexosamines",
+        "Inhibitory Concentration 50",
+        "Meat",
+        "Phenethylamines",
+        "Thymine"
+      ]
+    },
+    {
+      "pmid": "23009998",
+      "title": "Synthesis, characterization and biological screening of sulfonamides derived form 2-phenylethylamine.",
+      "authors": [
+        "Aziz-ur Rehman",
+        "Sumbel Afroz",
+        "Muhammad Athar Abbasi",
+        "Wajeeha Tanveer",
+        "Khalid Mohammed Khan",
+        "Muhammad Ashraf",
+        "Irshad Ahmad",
+        "Iftikhar Afzal",
+        "Nida Ambreen"
+      ],
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "publication_date": "2012-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In the present study, a series of N-substituted derivatives of 2-phenylethylamine has been synthesized. The reaction of 2-phenylethylamine (1) with benzene sulfonyl chloride (2) yielded N-(2-phenylethyl) benzenesulfonamide (3), which further on treatment with alkyl/acyl halides (4a-i) in the presence of sodium hydride furnished into N-substituted sulfonamides (5a-i). These derivatives were characterized by IR, (1)H-NMR and EI-MS and then screened against acetyl cholinesterase (AChE), butyryl cholinesterase (BChE) and lipoxygenase enzyme (LOX) and were found to be potent inhibitors of butyryl cholinesterase only.",
+      "mesh_terms": [
+        "Acetylcholinesterase",
+        "Butyrylcholinesterase",
+        "Cholinesterase Inhibitors",
+        "Lipoxygenase Inhibitors",
+        "Magnetic Resonance Spectroscopy",
+        "Mass Spectrometry",
+        "Molecular Structure",
+        "Phenethylamines",
+        "Spectrophotometry, Infrared",
+        "Sulfonamides"
+      ]
+    },
+    {
+      "pmid": "21277753",
+      "title": "Evaluation of antidepressant activity of 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-YL)-cyclohexanol, a β-substituted phenylethylamine in mice.",
+      "authors": [
+        "Ashish Dhir",
+        "Sneh Malik",
+        "S V Kessar",
+        "K N Singh",
+        "S K Kulkarni"
+      ],
+      "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+      "publication_date": "2011-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The β-phenylethylamines are known to act as ligands for the trace amine receptors, a novel family of G-protein-coupled receptors. The trace amines are stored and released along with various neurotransmitter agents such as norepinephrine, serotonin, and dopamine and thus work as neuromodulator or neurotransmitter agents. Trace amines are known to play an important role in the pathophysiology of major depression. In our earlier study, we have demonstrated the synthesis of various β-substituted phenylethylamine molecules hypothesized to be effective in various central nervous system disorders. The present study is an attempt to evaluate one of such molecules, 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-yl)-cyclohexanol, in animal models of depression. Various behavioral paradigms of despair such as forced swim and tail-suspension tests were used to assess the antidepressant-like activity. Further, an alteration in the levels of various neurotransmitters (norepinephrine, serotonin, and dopamine) in the mouse brain following 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-yl)-cyclohexanol administration was evaluated. The molecule (4-16 mg/kg., i.p.) dose-dependently inhibited the immobility period in mouse forced swim test, the effect comparable to venlafaxine. The ED50 values of 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-yl)-cyclohexanol and venlafaxine in mouse forced swim test were found to be 5.27 [4.38-6.35] mg/kg., i.p and 4.66 [3.48-6.25] mg/kg., i.p., respectively. Further, 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-yl)-cyclohexanol at 4-16 mg/kg., i.p. reversed the immobility period in mouse tail-suspension test. Additionally, the molecule at 8 mg/kg., i.p. reversed reserpine-induced behavioral despair in mouse forced swim test. When administered simultaneously, it (4 and 8 mg/kg., i.p) enhanced the antidepressant activity of sub-effective doses of imipramine (2mg/kg., i.p.) or fluoxetine (2mg/kg., i.p.) in the mouse forced swim test. Neurochemical analysis revealed that the molecule at 8 mg/kg., i.p. increased the levels of norepinephrine (21% increase) without affecting serotonin in the mouse brain. However, at higher dose (16 mg/kg., i.p.), it increased the levels of norepinephrine (13% increase), serotonin (37% increase), and dopamine (42% increase). The molecule enhanced the locomotor activity in mice only at higher doses. The molecule, unlike venlafaxine, which potentiated barbiturate-induced hypnosis, was devoid of any sedative activity. In conclusion, 1-(7-methoxy-2-methyl-1,2,3,4-tetrahydro-isoquinolin-4-yl)-cyclohexanol, possess antidepressant-like activity in animal models of depression by modulating the neurotransmitter levels in the brain. Such an activity might be due to the modulating action of this novel molecule on trace amine receptors. Such a molecule may be the future drugs of choice for the treatment of major depression.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Antidepressive Agents, Second-Generation",
+        "Antipsychotic Agents",
+        "Behavior, Animal",
+        "Biogenic Amines",
+        "Brain",
+        "Cyclohexanols",
+        "Depression",
+        "Disease Models, Animal",
+        "Hindlimb Suspension",
+        "Hypnotics and Sedatives",
+        "Isoquinolines",
+        "Male",
+        "Mice",
+        "Motor Activity",
+        "Neurotransmitter Agents",
+        "Pentobarbital",
+        "Reserpine",
+        "Sleep",
+        "Swimming",
+        "Venlafaxine Hydrochloride"
+      ]
+    },
+    {
+      "pmid": "20406628",
+      "title": "Combined treatment with MAO-A inhibitor and MAO-B inhibitor increases extracellular noradrenaline levels more than MAO-A inhibitor alone through increases in beta-phenylethylamine.",
+      "authors": [
+        "Yuji Kitaichi",
+        "Takeshi Inoue",
+        "Shin Nakagawa",
+        "Shuken Boku",
+        "Takeshi Izumi",
+        "Tsukasa Koyama"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2010-Jul-10",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Monoamine oxidase inhibitors (MAO inhibitors) have been widely used as antidepressants. However, it remains unclear whether a difference exists between non-selective MAO inhibitors and selective MAO-A inhibitors in terms of their antidepressant effects. Using in vivo microdialysis methods, we measured extracellular noradrenaline and serotonin levels following administration of Ro 41-1049, a reversible MAO-A inhibitor and/or lazabemide, a reversible MAO-B inhibitor in the medial prefrontal cortex (mPFC) of rats. We examined the effect of local infusion of beta-phenylethylamine to the mPFC of rats on extracellular noradrenaline and serotonin levels. Furthermore, the concentrations of beta-phenylethylamine in the tissue of the mPFC after combined treatment with Ro 41-1049 and lazabemide were measured. The Ro 41-1049 alone and the combined treatment significantly increased extracellular noradrenaline levels compared with vehicle and lazabemide alone. Furthermore, the combined treatment increased noradrenaline levels significantly more than Ro 41-1049 alone did. The Ro 41-1049 alone and the combined treatment significantly increased extracellular serotonin levels compared with vehicle and lazabemide alone, but no difference in serotonin levels was found between the combined treatment group and the Ro 41-1049 group. Local infusion of low-dose beta-phenylethylamine increased extracellular noradrenaline levels, but not that of serotonin. Only the combined treatment significantly increased beta-phenylethylamine levels in tissues of the mPFC. Our results suggest that the combined treatment with a MAO-A inhibitor and a MAO-B inhibitor strengthens antidepressant effects because the combined treatment increases extracellular noradrenaline levels more than a MAO-A inhibitor alone through increases in beta-phenylethylamine.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Chromatography, High Pressure Liquid",
+        "Drug Therapy, Combination",
+        "Extracellular Space",
+        "Male",
+        "Monoamine Oxidase",
+        "Monoamine Oxidase Inhibitors",
+        "Norepinephrine",
+        "Phenethylamines",
+        "Picolinic Acids",
+        "Prefrontal Cortex",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "19285043",
+      "title": "Effect of beta-phenylethylamine on extracellular concentrations of dopamine in the nucleus accumbens and prefrontal cortex.",
+      "authors": [
+        "Mikio Murata",
+        "Nobuyuki Katagiri",
+        "Kota Ishida",
+        "Kenji Abe",
+        "Masago Ishikawa",
+        "Iku Utsunomiya",
+        "Keiko Hoshi",
+        "Ken-ichi Miyamoto",
+        "Kyoji Taguchi"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2009-May-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "It is known that psychostimulants stimulate dopamine transmission in the nucleus accumbens. In the present study, we examined the effects of systemically administered beta-phenylethylamine (beta-PEA), a psychomotor-stimulating trace amine, on dopamine concentrations in the nucleus accumbens and prefrontal cortex in freely moving rats, using an in vivo microdialysis technique. Intraperitoneal administration of beta-PEA (12.5 and 25 mg/kg) significantly increased extracellular dopamine levels in the nucleus accumbens shell. The observed increase in the dopamine concentration in nucleus accumbens shell dialysate after intraperitoneal administration of 25 mg/kg beta-PEA was inhibited by pre-treatment with a dopamine uptake inhibitor, GBR12909 (10 mg/kg, i.p.). In contrast, beta-PEA (25 mg/kg, i.p.) did not affect dopamine release in the nucleus accumbens core. Although a high dose of beta-PEA (50 mg/kg) significantly increased dopamine levels in the nucleus accumbens core, the dopamine increasing effect of beta-PEA was more potent in the nucleus accumbens shell. Systemic administration of 12.5 and 25 mg/kg beta-PEA also increased extracellular dopamine levels in the prefrontal cortex of rats. However, systemic 25 mg/kg beta-PEA-induced increases in extracellular dopamine levels were not blocked by GBR12909 within the prefrontal cortex. These results suggest that beta-PEA has a greater effect in the shell than in the core and low-dose beta-PEA stimulates dopamine release in the nucleus accumbens shell through uptake by a dopamine transporter. Similarly, beta-PEA increased extracellular dopamine levels in the prefrontal cortex. Thus, beta-PEA may increase extracellular dopamine concentrations in the mesocorticolimbic pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Dopamine",
+        "Dopamine Uptake Inhibitors",
+        "Extracellular Space",
+        "Injections, Intraperitoneal",
+        "Male",
+        "Microdialysis",
+        "Nucleus Accumbens",
+        "Phenethylamines",
+        "Piperazines",
+        "Prefrontal Cortex",
+        "Psychotropic Drugs",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "16298423",
+      "title": "2-Phenylethylamine in combination with l-deprenyl lowers the striatal level of dopamine and prolongs the duration of the stereotypy in mice.",
+      "authors": [
+        "Junichi Kitanaka",
+        "Nobue Kitanaka",
+        "Tomohiro Tatsuta",
+        "Motohiko Takemura"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2005-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "2-Phenylethylamine (PEA)-induced stereotypy in rodents is suggested to model psychotic symptoms of schizophrenia. It is reported that PEA induces dopamine release in the striatum in vivo and in vitro. The present study analyzed the PEA-induced stereotypy and possible associated brain dopamine metabolism in mice. Using male ICR mice treated with a combination of PEA (100 mg/kg, i.p.) and increasing doses of l-deprenyl (0-10 mg/kg, s.c.), we examined (1) the behavioral profile of stereotypy (rating the scores), and (2) the tissue levels of dopamine and its metabolites by high-performance liquid chromatography. The stereotypic scores reached a plateau level at 10 min which lasted until 30 min after a single administration of 100 mg/kg PEA. The stereotyped behavior completely disappeared 45 min after PEA administration. Pretreatment with l-deprenyl (0.1, 1, and 10 mg/kg, s.c.) dose-dependently prolonged the duration of PEA-induced stereotypy. Notably, pretreatment with l-deprenyl dose-dependently increased the continuous sniffing. Treatment with PEA in combination of l-deprenyl (1 and 10 mg/kg) significantly reduced the level of dopamine in the region of the striatum and nucleus accumbens, compared with control animals. These results suggest that PEA in combination with l-deprenyl prolonged the duration of the stereotypy (particularly, continuous sniffing) while reducing the striatal level of dopamine.",
+      "mesh_terms": [
+        "Animals",
+        "Corpus Striatum",
+        "Dopamine",
+        "Drug Synergism",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Phenethylamines",
+        "Selegiline",
+        "Stereotyping"
+      ]
+    },
+    {
+      "pmid": "12205654",
+      "title": "Increased urine phenylethylamine after methylphenidate treatment in children with ADHD.",
+      "authors": [
+        "Akira Kusaga",
+        "Yushiro Yamashita",
+        "Tastuya Koeda",
+        "Michio Hiratani",
+        "Mika Kaneko",
+        "Shigeto Yamada",
+        "Toyojiro Matsuishi"
+      ],
+      "journal": "Annals of neurology",
+      "publication_date": "2002-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The urine levels of beta-phenylethylamine, 3-methoxy-4-hydroxyphenyl glycol, homovanillic acid, and 5-hydroxyindoleacetic acid were measured to clarify the neurochemical mechanism in attention deficit hyperactivity disorder. beta-Phenylethylamine levels were significantly lower in attention deficit hyperactivity disorder individuals (n = 37) than in controls (n = 21). The 22 children with attention deficit hyperactivity disorder were treated with methylphenidate, and they were further divided into methylphenidate responders (n = 18) and nonresponders (n = 4). beta-Phenylethylamine levels significantly increased after methylphenidate therapy in responders, whereas they did not increase in nonresponders.",
+      "mesh_terms": [
+        "Attention Deficit Disorder with Hyperactivity",
+        "Autistic Disorder",
+        "Biomarkers",
+        "Central Nervous System Stimulants",
+        "Child",
+        "Humans",
+        "Methylphenidate",
+        "Phenethylamines",
+        "Predictive Value of Tests"
+      ]
+    },
+    {
+      "pmid": "12039419",
+      "title": "Rat striatal monoamine oxidase-B inhibition by l-deprenyl and rasagiline: its relationship to 2-phenylethylamine-induced stereotypy and Parkinson's disease.",
+      "authors": [
+        "M B H Youdim",
+        "K F Tipton"
+      ],
+      "journal": "Parkinsonism & related disorders",
+      "publication_date": "2002-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rats were injected intraperitoneally with varying doses of l-deprenyl (selegiline) followed 2h later by 30 mg kg(-1) 2-phenylethylamine (PEA), administered in the same way, and the stereotypic behavioural response elicited was assessed. l-Deprenyl alone at doses of up to 5 mg kg(-1) caused no significant behavioural response. Administration of PEA without prior l-deprenyl treatment resulted in only a modest increase in stereotypic behaviour and this was not significantly enhanced by the prior administration 1 mg kg(-1) l-deprenyl. When the administered dose of l-deprenyl was increased to 2.5 or 5 mgkg(-1), however, the stereotypic behavioural response to PEA was greatly potentiated and in the latter case persisted for 60 min. A dose of 2.5 mg kg(-1) l-deprenyl and 1 mg kg(-1) rasagiline was shown to result in over 90% inhibition of the monoamine oxidase (MAO)-B from rat liver and striatum, whereas the inhibition of MAO-A was about 60 and 40% in liver and striatum, respectively. The recovery of MAO-B activity in rat striatum and liver following a single i.p. injection of 5 mg kg(-1) l-deprenyl gave first-order rate constants of 1.80 and 7.15 h(-1), respectively, which corresponded to half-lives of 9.23 and 2.33 days. Similar results were obtained with rasagiline. The corresponding indices of stereotypic response to PEA (30 mg kg(-1); i.p.) during recovery from the single dose of l-deprenyl were initially high, but had started to decline by the third day after l-deprenyl treatment and was not significant after day 4. At that time, less than 20% of the striatal monoamine oxidase-B activity had been regained, whereas the recovery of the liver enzyme was about 65%. These data are discussed in terms of the suggested involvement of PEA potentiation in the anti-parkinsonian actions of l-deprenyl and rasagiline and the duration of the 'wash-out' period used in studies on the effects of l-deprenyl on patients with Parkinson's disease. The longer duration of the recovery of brain monoamine oxidase B after its selective inhibition and the corresponding behavioural responses of the animals to PEA at same time points, indicate that PEA may have a major pharmacological role in the mechanism of the antiParkinson action of l-deprenyl and rasagiline. Brain monoamine oxidase B inhibition has previously been shown to significantly increases brain PEA and which is capable of releasing dopamine endogenously or that formed from L-dopa.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Corpus Striatum",
+        "Dose-Response Relationship, Drug",
+        "Drug Synergism",
+        "Indans",
+        "Male",
+        "Monoamine Oxidase",
+        "Monoamine Oxidase Inhibitors",
+        "Parkinson Disease, Secondary",
+        "Phenethylamines",
+        "Psychotropic Drugs",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Selegiline",
+        "Stereotyped Behavior"
+      ]
+    },
+    {
+      "pmid": "11797065",
+      "title": "Psychomotor stimulant effects of beta-phenylethylamine in monkeys treated with MAO-B inhibitors.",
+      "authors": [
+        "J Bergman",
+        "S Yasar",
+        "G Winger"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "RATIONALE AND OBJECTIVE: Sufficiently high doses of beta-phenylethylamine (beta-PEA), a trace amine that is rapidly metabolized by monoamine oxidase-type B (MAO-B), can produce effects comparable to those of cocaine or methamphetamine (MA). The present experiments were conducted to study how the discriminative-stimulus (S(D)) and reinforcing-stimulus (S(R)) effects of beta-PEA in monkeys are modified by treatment with inhibitors of MAO-B [R-(-)-deprenyl and MDL 72974]. METHODS AND RESULTS: In studies of its S(D) effects, doses of beta-PEA up to 30 mg/kg engendered only sporadic responding on the drug-associated lever in squirrel monkeys that discriminated intramuscular injections of 0.3 mg/kg MA from vehicle whereas lower doses of 0.3-1.0 mg/kg beta-PEA produced full substitution when administered after either R-(-)-deprenyl or MDL 72974 (0.3 mg/kg). The MA-like S(D) effects of beta-PEA were attenuated by either dopamine D(1) or D(2) receptor blockers. In studies of its S(R) effects, high doses of beta-PEA maintained responding in two of three monkeys under a second-order fixed-interval schedule (3.0 or 10 mg/kg per injection) and two of three monkeys under a simple fixed ratio (FR) schedule (0.3-1.0 mg/kg per injection) of intravenous (i.v.) self-administration. MAO-B inhibition by R-(-)-deprenyl or MDL 72974 enhanced the S(R) effects of beta-PEA in all monkeys and, under the FR schedule, induced a 30-fold or greater leftward shift in the dose-response function for its i.v. self-administration. Based on time-course determinations, the enhanced S(R) effects of beta-PEA under the FR schedule were long-lasting and dissipated gradually over 3-7 days. CONCLUSIONS: These results show that inhibition of MAO-B enhances S(D) and S(R) effects of beta-PEA in monkeys, presumably by delaying its inactivation. MAO-B inhibition leading to increased levels of beta-PEA may be useful, alone or in combination with other therapeutic agents, in the pharmacological management of selected aspects of drug dependence.",
+      "mesh_terms": [
+        "Animals",
+        "Central Nervous System Stimulants",
+        "Discrimination, Psychological",
+        "Dose-Response Relationship, Drug",
+        "Macaca mulatta",
+        "Male",
+        "Monoamine Oxidase",
+        "Monoamine Oxidase Inhibitors",
+        "Phenethylamines",
+        "Psychomotor Performance",
+        "Psychotropic Drugs",
+        "Reaction Time",
+        "Saimiri",
+        "Self Administration"
+      ]
+    },
+    {
+      "pmid": "11164083",
+      "title": "Effects of beta-phenylethylamine on the hypothalamo-pituitary-adrenal axis in the male rat.",
+      "authors": [
+        "E Kosa",
+        "A Marcilhac-Flouriot",
+        "M P Fache",
+        "P Siaud"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2000-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "beta-Phenylethylamine (PEA) is a trace neuroactive amine implicated in the regulation of the hypothalamic-pituitary-adrenal (HPA) response to stress. To test this hypothesis, effects of subchronic levels of PEA (50 mg/kg/day treatment for 10 days) on the corticotroph function were studied. PEA treatment induces: (i) a significant increase of corticotrophin releasing hormone (CRH) immunoreactivity in the median eminence (ME), as measured by semi-quantitative immunofluorescence labeling techniques, (ii) a significant increase in CRH mRNA levels in paraventricular nuclei, as detected by in situ hybridization, and (iii) an increase in plasma adreno-corticotrophin hormone (ACTH) and corticosterone levels in responses to stress. PEA treatment has no effect on the number of binding sites and on the dissociation constant of the glucocorticoid receptors in any structure studied. Results of the dexamethasone suppression test were similar in PEA- and saline-treated rats. Taken together, these results suggest that PEA treatment stimulated the HPA axis activity levels directly via the CRH hypothalamic neurons, without altering the negative feed back control exerted by the glucocorticoids.",
+      "mesh_terms": [
+        "Adrenocorticotropic Hormone",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Brain",
+        "Corticosterone",
+        "Corticotropin-Releasing Hormone",
+        "Dexamethasone",
+        "Gene Expression",
+        "Hypothalamo-Hypophyseal System",
+        "Male",
+        "Phenethylamines",
+        "Pituitary-Adrenal System",
+        "Psychotropic Drugs",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Receptors, Glucocorticoid",
+        "Stress, Physiological"
+      ]
+    },
+    {
+      "pmid": "11160474",
+      "title": "Platelet monoamine oxidase B and plasma beta-phenylethylamine in Parkinson's disease.",
+      "authors": [
+        "G Zhou",
+        "Y Miura",
+        "H Shoji",
+        "S Yamada",
+        "T Matsuishi"
+      ],
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "publication_date": "2001-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the correlation between changes in platelet monoamine oxidase type B (MAO-B) activity and plasma beta-phenylethylamine (PEA) concentrations in patients with Parkinson's disease and controls. METHODS: Platelet MAO-B activity and plasma PEA were measured with gas chromatography-mass spectrometry (GC-MS) in patients with Parkinson's disease treated with levodopa (12 men and 12 women) or selegiline (three men and three women), and physically healthy subjects as a control group (10 men and 10 women). RESULTS: Platelet MAO-B activity was significantly higher in the Parkinson's disease group (mean 542 (SD 318) pmol/10(7) platelets/30 min) than in the control group (mean 349 (SD 307) pmol/10(7) platelets/30 min) (p<0.05). By contrast, the plasma PEA concentrations in patients with Parkinson's disease were significantly lower than in the control group (mean 532 (SD 243) pg/ml; 931 (SD 560) pg/ml) (p<0.01). The plasma PEA concentrations in patients with Parkinson's disease treated with selegiline were prominently higher than in patients with no selegiline treatment (p<0.001). There was a significantly negative correlation between platelet MAO-B activity and plasma PEA concentrations in patients (n=24, r=-0.466, p<0.001). CONCLUSIONS: The increase in platelet MAO-B activity and decrease in plasma PEA concentrations in patients with Parkinson's disease may be involved in the pathophysiological processes of the disease, and these changes are reversed by treatment with selegiline.",
+      "mesh_terms": [
+        "Aged",
+        "Analysis of Variance",
+        "Blood Platelets",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Monoamine Oxidase",
+        "Parkinson Disease",
+        "Phenethylamines"
+      ]
+    },
+    {
+      "pmid": "9387886",
+      "title": "Does phenylethylamine have a role in schizophrenia?: LSD and PCP up-regulate aromatic L-amino acid decarboxylase mRNA levels.",
+      "authors": [
+        "P R Buckland",
+        "R Marshall",
+        "P Watkins",
+        "P McGuffin"
+      ],
+      "journal": "Brain research. Molecular brain research",
+      "publication_date": "1997-Oct-03",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Aromatic L-amino acid decarboxylase (AADC) is rate limiting in the production of 2-phenylethylamine (2PE). AADC activity and 2PE serum concentrations have been found to be increased in schizophrenic patients. Both antipsychotic and psychotogenic drugs, including amphetamine, affect the activity and encoding mRNA levels of AADC. Amphetamine is an analogue of 2PE and has a similar physiological effect. We have looked at the effects of chronic (32 day) treatment of rats with LSD (0.12 microg/kg/day) and phencyclidine (PCP; 10 mg/kg/day) on AADC mRNA levels. Both drugs up-regulated AADC mRNA levels in striatum, nucleus accumbens, hippocampus and cerebellum by between 50% and 150%. A splicing variant of AADC, present in human brain, which lacks the 3rd exon does not appear to be present in rat brain. These results are consistent with the hypothesis that over activity of AADC leading to increased production of 2PE is involved in endogenous psychosis such as schizophrenia.",
+      "mesh_terms": [
+        "Alternative Splicing",
+        "Animals",
+        "Aromatic-L-Amino-Acid Decarboxylases",
+        "Base Sequence",
+        "Brain",
+        "Cerebellum",
+        "Corpus Striatum",
+        "Exons",
+        "Gene Expression Regulation, Enzymologic",
+        "Genetic Variation",
+        "Hippocampus",
+        "Humans",
+        "Lysergic Acid Diethylamide",
+        "Male",
+        "Molecular Sequence Data",
+        "Nucleus Accumbens",
+        "Oligonucleotide Probes",
+        "Phencyclidine",
+        "Phenethylamines",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Wistar",
+        "Schizophrenia",
+        "Sequence Deletion",
+        "Transcription, Genetic"
+      ]
+    },
+    {
+      "pmid": "7918350",
+      "title": "Correlations of plasma and urinary phenylacetic acid and phenylethylamine concentrations with eating behavior and mood rating scores in brofaromine-treated women with bulimia nervosa.",
+      "authors": [
+        "B A Davis",
+        "S H Kennedy",
+        "J D'Souza",
+        "D A Durden",
+        "D S Goldbloom",
+        "A A Boulton"
+      ],
+      "journal": "Journal of psychiatry & neuroscience : JPN",
+      "publication_date": "1994-Jul",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Women with bulimia nervosa undergoing treatment with the reversible monoamine oxidase type A inhibitor, brofaromine, were rated for mood and eating behaviour and their plasma and urine were assessed for phenylacetic acid (unconjugated and total) and unconjugated phenylethylamine prior to and after four weeks of drug treatment. Changes in plasma unconjugated phenylacetic acid concentrations were significantly and negatively correlated with the corresponding changes in Hamilton Depression scores but not with eating behavior measures. There were no significant correlations between changes in phenylethylamine levels and changes in rating scores. Patients diagnosed as suffering concurrently from severe depression (Hamilton Depression score of 17 or higher) had lower plasma and urinary phenylacetic acid levels than did those whose depression was not severe (Hamilton score less than 17). Phenylethylamine concentrations were not different between the severely and mildly depressed subgroups. The results confirm earlier studies on the relationship between phenylacetic acid and depression while showing that a similar relationship does not pertain to phenylacetic acid and eating behavior in bulimia nervosa.",
+      "mesh_terms": [
+        "Adult",
+        "Bulimia",
+        "Depressive Disorder",
+        "Female",
+        "Humans",
+        "Monoamine Oxidase Inhibitors",
+        "Phenylacetates",
+        "Piperidines",
+        "Placebos",
+        "Psychiatric Status Rating Scales",
+        "Severity of Illness Index",
+        "Single-Blind Method"
+      ]
+    },
+    {
+      "pmid": "7901780",
+      "title": "2-Phenylethylamine-induced changes in catecholamine receptor density: implications for antidepressant drug action.",
+      "authors": [
+        "P R Paetsch",
+        "A J Greenshaw"
+      ],
+      "journal": "Neurochemical research",
+      "publication_date": "1993-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "It is now established that (1) concentrations of 2-phenylethylamine (PEA) are greatly increased in brain following administration of monoamine oxidase inhibitor (MAOI) antidepressants; (2) PEA is a metabolite of the MAOI antidepressant phenelzine; and (3) PEA may be a neuromodulator of catecholamine activity. On the basis of these observations, the effects of long term increases in brain PEA on catecholamine receptors have been assessed. Both PEA and antidepressants induced a reduction in the behavioural response to the beta 2 adrenoceptor agonist salbutamol. Radioligand binding measurements revealed that 28 day administration of PEA in combination with the type B MAOI (-)-deprenyl results in a decrease in the density of beta 1 adrenoceptors but not beta 2 adrenoceptors in rat cerebral cortex and cerebellum. (-)-Deprenyl alone also induced a significant decrease in beta 1-adrenoceptors but when PEA was added to this treatment there was a further decrease in beta 1-adrenoceptor density. Only changes in beta 1 adrenoceptor density were evident following 28 day administration of MAOI antidepressants. PEA also induced a decrease in the density of D1-like dopamine (DA) receptors in the rat striatum. MAOI antidepressants induced a decrease in the density of both D1-like and D2-like DA receptors. These data are discussed in terms of a possible role of PEA-catecholamine interactions in antidepressant drug action.",
+      "mesh_terms": [
+        "Animals",
+        "Monoamine Oxidase Inhibitors",
+        "Neurotransmitter Agents",
+        "Phenethylamines",
+        "Phenylalanine",
+        "Psychotropic Drugs",
+        "Receptors, Adrenergic, beta",
+        "Receptors, Catecholamine",
+        "Receptors, Dopamine"
+      ]
+    },
+    {
+      "pmid": "8242685",
+      "title": "Down-regulation of beta-adrenergic and dopaminergic receptors induced by 2-phenylethylamine.",
+      "authors": [
+        "P R Paetsch",
+        "A J Greenshaw"
+      ],
+      "journal": "Cellular and molecular neurobiology",
+      "publication_date": "1993-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "1. The effects of chronic administration (28 days s.c. via Alzet osmotic minipumps) of 2-phenylethylamine.HCl (10 mg kg-1 per day) and/or (-)-deprenyl.HCl (1 mg kg-1 per day) on dopamine and noradrenaline receptor subtypes have been measured in rat brain. 3H-CGP 12177 was used to label beta-adrenoceptors; 3H-spiperone and 3H-SCH 23390 were used to label D2-like and D1-like receptors. 2. Total cortical beta-adrenoceptor density was reduced by (-)-deprenyl but not 2-phenylethylamine alone. Combined administration of 2-phenylethylamine and (-)-deprenyl resulted in a significantly larger decrease than (-)-deprenyl alone. Subtype density analysis by competition experiments with ICI 89406 revealed that the (-)-deprenyl effect in cortex was due to a decrease in beta 1-adrenoceptor density. The combination of 2-phenylethylamine and (-)-deprenyl resulted in a significant decrease in both cortical beta 1- and cortical beta 2-adrenoceptors. Cerebellar beta-adrenoceptor density was not altered by the present drug treatments. The Kd values for total beta-adrenoceptor densities and Ki values for beta-adrenoceptor subtype densities were not altered by drug treatment in either cortex or cerebellum. 3. Administration of 2-phenylethylamine and of (-)-deprenyl resulted in a decrease in the density of D1-like 3H-SCH 23390 but not D2-like 3H-spiperone binding to dopamine receptors in the striatum. The effects of combined 2-phenylethylamine and (-)-deprenyl treatment on 3H-SCH 23390 binding were additive. These drug treatments did not alter Kd values for these binding sites. 4. The down-regulation of catecholamine receptors following chronically increased availability of 2-phenylethylamine may be due to the catecholamine releasing or uptake blocking effects of this amine. These effects may also be attributable to a direct neuromodulatory action of 2-phenylethylamine on catecholamine receptors. 5. The parallels between effects of increased 2-phenylethylamine availability and effects of administration of MAO inhibitor antidepressants on catecholamine receptor systems indicate that this substrate for MAO may mediate some of the effects of MAO inhibitor antidepressants.",
+      "mesh_terms": [
+        "Animals",
+        "Benzazepines",
+        "Binding, Competitive",
+        "Cerebellum",
+        "Cerebral Cortex",
+        "Corpus Striatum",
+        "Down-Regulation",
+        "Drug Synergism",
+        "Male",
+        "Organ Specificity",
+        "Phenethylamines",
+        "Propanolamines",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Receptors, Adrenergic, beta",
+        "Receptors, Dopamine",
+        "Selegiline",
+        "Spiperone"
+      ]
+    },
+    {
+      "pmid": "1880991",
+      "title": "The response to acoustic stimulation and the changes in brain amine levels after repeated administration of beta-phenylethylamine in rats.",
+      "authors": [
+        "M Yamada",
+        "Y Kiuchi",
+        "M Hashimoto",
+        "K Oguchi",
+        "H Yasuhara"
+      ],
+      "journal": "Japanese journal of pharmacology",
+      "publication_date": "1991-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Reverse tolerance to stereotyped behavior was induced after repeated administration of beta-phenylethylamine (PEA) (50 mg/kg, i.p., daily for 10 days) in rats. The reverse tolerance was maintained for at least 4 weeks after the last administration. We studied the effects of acoustic stimulation on locomotor activity 2 days and 4 weeks after withdrawal from PEA and measured the changes in brain monoamine levels 4 weeks after the withdrawal. Locomotor activity during acoustic stimulation was increased in the saline treated group, and this response was unaffected after repeated PEA treatment. Four weeks after withdrawal, significant increases in noradrenaline levels in the cerebral cortex and decreases in 5-hydroxytryptamine levels in the hypothalamus were found. The effects of acoustic stimulation on locomotor activity and the changes in brain monoamine levels were different from those of methamphetamine treatment obtained in our previous study. In conclusion, it may be suggested that the response to acoustic stimulation after repeated PEA administration in rats cannot be a model for abnormal responsiveness to environmental stimulation that is observed in chronic paranoid schizophrenics.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Animals",
+        "Biogenic Monoamines",
+        "Brain Chemistry",
+        "Drug Tolerance",
+        "Injections, Intraperitoneal",
+        "Male",
+        "Motor Activity",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Stereotyped Behavior"
+      ]
+    },
+    {
+      "pmid": "1956990",
+      "title": "Effect of dietary phenylalanine on the plasma concentrations of phenylalanine, phenylethylamine and phenylacetic acid in healthy volunteers.",
+      "authors": [
+        "B A Davis",
+        "R L O'Reilly",
+        "C L Placatka",
+        "I A Paterson",
+        "P H Yu",
+        "D A Durden"
+      ],
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "publication_date": "1991",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "1. Phenylethylamine has been proposed as a neuromodulator in several psychiatric and other brain disorders, and its concentration and that of its major metabolite, phenylacetic acid, in plasma may prove useful as state or trait markers in diagnosis, treatment or in the elucidation of biochemical mechanisms of these disorders. 2. The effect of dietary phenylalanine intake and changes in dietary phenylalanine intake on the plasma concentrations and changes in plasma concentrations, respectively, of phenylalanine, phenylethylamine and unconjugated and conjugated phenylacetic acid have been investigated. 3. Dietary phenylalanine affects the concentration of plasma phenylalanine on the following day, but has no effect on phenylethylamine or phenylacetic acid concentrations. Thus single measurements per subject of phenylethylamine or phenylacetic acid do not need to take dietary factors into account. 4. Changes in dietary phenylalanine (whether in absolute amount or in the proportion of phenylalanine in the diet) are significantly correlated with changes in unconjugated phenylacetic acid. Therefore, in longitudinal studies, dietary factors should be taken into account.",
+      "mesh_terms": [
+        "Adult",
+        "Diet",
+        "Female",
+        "Humans",
+        "Male",
+        "Phenethylamines",
+        "Phenylacetates",
+        "Phenylalanine",
+        "Reference Values",
+        "Regression Analysis"
+      ]
+    },
+    {
+      "pmid": "2344811",
+      "title": "Gastric mucosal protection with beta-phenylethylamine (PEA) and other sympathomimetic amines against absolute ethanol in the rat.",
+      "authors": [
+        "M J Derelanko"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "publication_date": "1990-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The purpose of this study was to investigate the potential of beta-phenylethylamine (PEA), an amphetamine-like compound present in the blood during high stress situations, to protect rat gastric mucosa against absolute ethanol. F-344 rats were pretreated with PEA in saline at several dose levels and at various times prior to oral administration of 1 ml absolute ethanol. PEA at dose levels of 50 and 100 mg/kg significantly reduced the severity of alcohol-induced lesions following oral, but not parenteral, treatment. The duration of protection with PEA was approximately 90 min, with maximum protection observed when PEA was administered 15-30 min before alcohol. Pretreatment with indomethacin did not prevent or reduce the protection induced by PEA. Other sympathomimetic amines such as isoproterenol and ephedrin were similarly cytoprotective against absolute ethanol while amphetamine, phenylephrine, and epinephrine proved ineffective. These results add further support to the role of the sympathetic nervous system in regulating gastric mucosal protection in the rat.",
+      "mesh_terms": [
+        "Amines",
+        "Animals",
+        "Ethanol",
+        "Gastric Mucosa",
+        "Male",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred F344",
+        "Stomach",
+        "Sympathomimetics"
+      ]
+    },
+    {
+      "pmid": "2392508",
+      "title": "Behavioral sensitization to beta-phenylethylamine (PEA): enduring modifications of specific dopaminergic neuron systems in the rat.",
+      "authors": [
+        "T Kuroki",
+        "T Tsutsumi",
+        "M Hirano",
+        "T Matsumoto",
+        "Y Tatebayashi",
+        "K Nishiyama",
+        "H Uchimura",
+        "A Shiraishi",
+        "T Nakahara",
+        "K Nakamura"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "1990",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Repeated daily administration of an endogenous trace amine, beta-phenylethylamine (PEA), produces behavioral sensitization such that the intensity of PEA-induced stereotyped behaviors in rats increases gradually during the treatment, and a challenge injection with PEA reinstates the enhanced stereotypy even long after withdrawal. In the present study, we examined the neurochemical changes in the central dopaminergic neurons systems in the rat for 7 drug-free days after repeated treatment with PEA (50 mg/kg, IP day for 14 or 28 days). During withdrawal, a decrease in steady-state levels of tissue dopamine (DA) and its metabolite, dihydroxyphenylacetic acid (DOPAC), was found in the mesolimbic DA nerve terminal areas of the rat brain receiving repeated PEA treatment. Fifteen minutes after challenge administration of PEA at varying doses from 6.3 to 75 mg/kg, the rats with repeated PEA treatment required smaller doses of PEA challenge than the rats with acute PEA treatment in order to obtain a significant decrease in striatal DOPAC content compared to the saline control in each treatment group. These results imply that the behavioral sensitization to PEA is accompanied by enduring modifications of the specific dopaminergic neuron systems in the rat brain. This suggestion was strongly supported by the results of the study using in vivo intracerebral dialysis, which indicated that 25 mg/kg PEA challenge elicited a remarkable increase in the extracellular DA concentrations in striatal perfusates collected from the PEA-pretreated rats, in accordance with the intensity of stereotyped behaviors. These findings argue that the hyper-responsiveness to PEA of the striatal dopaminergic neuron systems persists long after withdrawal from repeated treatment with PEA.",
+      "mesh_terms": [
+        "3,4-Dihydroxyphenylacetic Acid",
+        "Animals",
+        "Behavior, Animal",
+        "Dialysis",
+        "Homovanillic Acid",
+        "Male",
+        "Nerve Endings",
+        "Neurons",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Receptors, Dopamine",
+        "Stereotyped Behavior"
+      ]
+    },
+    {
+      "pmid": "2193105",
+      "title": "Phenylethylamine in the CNS: effects of monoamine oxidase inhibiting drugs, deuterium substitution and lesions and its role in the neuromodulation of catecholaminergic neurotransmission.",
+      "authors": [
+        "A A Boulton",
+        "A V Juorio",
+        "I A Paterson"
+      ],
+      "journal": "Journal of neural transmission. Supplementum",
+      "publication_date": "1990",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Phenylethylamine is present in brain in tiny quantities, it is heterogeneously distributed and present in synaptosomes, and it is synthesized and degraded very quickly. If deuterium is substituted for hydrogen on the alpha carbon of the side chain then it exhibits profound isotope effects to MAO and its penetration and persistence in the brain is considerably enhanced. In the presence of MAO-B inhibitors treatment with reserpine causes reciprocal changes to PE and DA suggesting a functional relationship between them and after unilateral lesions of the substantia nigra an ipsilateral reduction in striatal PE is seen suggesting again a co-relationship with DA. Following iontophoresis PE has been shown to exhibit indirect sympathomimetic effects but in addition when applied at low currents concurrently with DA or NA it causes post synaptically a substantial potentiation in the actions of the latter amines. As a result of this and other data PE has been proposed to be a neuromodulator of catecholaminergic transmission.",
+      "mesh_terms": [
+        "Animals",
+        "Catecholamines",
+        "Central Nervous System",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Monoamine Oxidase",
+        "Phenethylamines",
+        "Phenylalanine"
+      ]
+    },
+    {
+      "pmid": "2593080",
+      "title": "Structure-activity relationships of phenylethylamine analogs in their serotonergic depressant effects on the spinal monosynaptic reflex in rats.",
+      "authors": [
+        "H Ono",
+        "Y Hasebe",
+        "T Mori",
+        "H Fukuda",
+        "M Kohno",
+        "S Ohta",
+        "M Hirobe"
+      ],
+      "journal": "Journal of pharmacobio-dynamics",
+      "publication_date": "1989-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of 2-phenylethylamine (PEA) and related compounds on the spinal monosynaptic reflex (MSR) were examined using C1-spinalized rats. At low doses, PEA, S(+)-amphetamine, S(+)-methamphetamine and phentermine increased the amplitude of the MSR, whereas high doses of these drugs reduced it. p-Substituted PEA analogs (p-C1-PEA, p-methoxy-PEA and (+/-)-p-C1-amphetamine) only reduced the MSR. Low doses of PEA-related rigid compounds, R(+)-2-aminotetralin, (+/-)-N-methyl-2-aminotetralin and (+/-)-N,N-dimethyl-2-aminotetralin only reduced the MSR. S(-)-2-Aminotetralin did not affect the MSR. Depressions of MSR produced by PEA, S(+)-methamphetamine and R(+)-2-aminotetralin were antagonized by ketanserin and haloperidol which have 5-hydroxytryptamine (5-HT) antagonistic activity, and the MSR depression caused by S(+)-methamphetamine but not PEA and R(+)-2-aminotetralin was abolished by intracisternal 5,6-dihydroxytryptamine treatment or chronic spinal transection. These results suggest that PEA-related compounds cause MSR depression by direct and indirect 5-HT agonistic mechanisms, and support the proposal that the PEA moiety which exists in R(+)-2-aminotetralin is important for the direct 5-HT agonistic activity of some hallucinogens.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Molecular Conformation",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Reflex, Monosynaptic",
+        "Serotonin Antagonists",
+        "Spine",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "3384002",
+      "title": "Chronic cocaine effects on peripheral biogenic amines: a long-term reduction in peripheral dopamine and phenylethylamine production.",
+      "authors": [
+        "F Karoum",
+        "R W Fawcett",
+        "R J Wyatt"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1988-Apr-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The short- (during 12 h after last treatment) and long- (6 weeks after last treatment) term effects of repeated administration of cocaine on the total output of norepinephrine (NE) and its metabolites (sum NE), dopamine (DA) and its metabolites (sum DA) as well as the excretion of 5-hydroxyindoleacetic acid (5-HIAA) and phenylethylamine were evaluated in rats. The concentration of NE, DA and 3,4-dihydroxyphenylacetic acid (DOPAC) in the celiac ganglion after 1, 2 and 3 weeks of repeated cocaine administration were also measured. Sum NE remained unchanged during the cocaine treatment but NE and normetanephrine excretions were significantly decreased and increased respectively. 5-HIAA excretion was significantly reduced only after 3 weeks cocaine treatment. In the celiac ganglion NE and DOPAC contents showed tendencies towards being increased and decreased respectively. DA content was not changed. The excretions of DA, DOPAC, homovanillic acid (HVA) and phenylethylamine were significantly reduced during chronic exposure to cocaine. The above short-term changes in DA and phenylethylamine persisted for periods as long as 6 weeks after 1 week repeated exposure to cocaine. It is concluded that chronic exposure to cocaine can produce preferential long term deficiencies in the production of DA and phenylethylamine in the periphery. Peripheral noradrenergic and serotonergic neuronal systems are apparently minimally affected. The close association between DA or sum DA and phenylethylamine excretion suggest these 2 amines may coexist in the same neuron.",
+      "mesh_terms": [
+        "3,4-Dihydroxyphenylacetic Acid",
+        "Animals",
+        "Biogenic Amines",
+        "Cocaine",
+        "Dopamine",
+        "Drug Administration Schedule",
+        "Ganglia, Sympathetic",
+        "Male",
+        "Norepinephrine",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "3749219",
+      "title": "Pharmacological changes induced by repeated exposure to phenylethylamine.",
+      "authors": [
+        "G Gianutsos",
+        "S Chute"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "1986-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Mice receiving daily injections of phenylethylamine (PEA) exhibited an enhanced PEA-induced motor stimulation, beginning on day 21 of administration. The mice receiving PEA were also more sensitive to the stimulatory effect of amphetamine and PCP. There was no change in brain or hepatic monoamine oxidase activity nor in hepatic mixed function oxidase after this treatment, indicating that altered metabolism was not a factor in the sensitization. Striatal dopamine receptors, labelled by spiroperidol, were increased after the long-term PEA, suggesting that the sensitization may be due to increased dopaminergic receptor activity.",
+      "mesh_terms": [
+        "Animals",
+        "Brain",
+        "Corpus Striatum",
+        "Generalization, Stimulus",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mixed Function Oxygenases",
+        "Monoamine Oxidase",
+        "Motor Activity",
+        "Phenethylamines",
+        "Receptors, Dopamine"
+      ]
+    },
+    {
+      "pmid": "3714772",
+      "title": "beta-phenylethylamine effect on brain and blood catechol-O-methyltransferase activity.",
+      "authors": [
+        "C J Hannan"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "1986-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "A significant decrease in catechol-o-methyltransferase (COMT) activity has been found in the striatum (77% of control) and hippocampus (63% of control) of gerbils treated with daily injections of beta-phenylethylamine (50 mg/kg) for 10 days. This treatment group also exhibited increased (204% above control) COMT activity in a lysed red blood cell preparation. There were no changes in COMT activity in groups receiving 10 mg/kg beta-phenylethylamine or haloperidol (0.5 mg/kg). In vitro beta-phenylethylamine has no demonstrable effect on COMT activity.",
+      "mesh_terms": [
+        "Animals",
+        "Brain",
+        "Brain Stem",
+        "Catechol O-Methyltransferase",
+        "Cerebral Cortex",
+        "Corpus Striatum",
+        "Gerbillinae",
+        "Hippocampus",
+        "Hypothalamus",
+        "Limbic System",
+        "Male",
+        "Phenethylamines"
+      ]
+    },
+    {
+      "pmid": "3877535",
+      "title": "Prevention of dopaminergic toxicity of MPTP in mice by phenylethylamine, a specific substrate of type B monoamine oxidase.",
+      "authors": [
+        "E Melamed",
+        "M B Youdim"
+      ],
+      "journal": "British journal of pharmacology",
+      "publication_date": "1985-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "N-methyl-4-phenyl-1,2,5,6-tetrahydropyridine (MPTP) is toxic to dopaminergic neurones in several mammalian species including mice. Combined treatment with phenylethylamine prevented in mice the long-term (30 days post-treatment) dopamine depletions in striatum induced by MPTP. Phenylethylamine, a naturally-occurring specific substrate of monoamine oxidase (MAO) type B, probably protects against effects of MPTP by competitively inhibiting the oxidative conversion of MPTP to its toxic metabolite N-methyl-4-phenylpyridinium ion catalysed by MAO-B.",
+      "mesh_terms": [
+        "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "Animals",
+        "Binding, Competitive",
+        "Corpus Striatum",
+        "Dopamine",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Monoamine Oxidase",
+        "Phenethylamines",
+        "Pyridines",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "2412666",
+      "title": "Behavioral and neurochemical effects of deprenyl and beta-phenylethylamine in Wistar rats.",
+      "authors": [
+        "A J Greenshaw",
+        "A V Juorio",
+        "A A Boulton"
+      ],
+      "journal": "Brain research bulletin",
+      "publication_date": "1985-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of 1-deprenyl (1-16 mg kg-1, 3.5 hr) on brain levels of endogenous beta-phenylethylamine were assessed in animals under three conditions: (1) experience of lateral hypothalamic self-stimulation; (2) electrode implantation but no self-stimulation experience; (3) no surgical intervention. The increase in striatal levels of beta-phenylethylamine with 1-deprenyl treatment was attenuated in the self-stimulation condition relative to conditions (2) and (3). This differential effect of 1-deprenyl was not observed at the level of the hypothalamus. Administration of 1-deprenyl did not affect self-stimulation behavior. Equivalent analysis of beta-phenylethylamine levels was carried out using animals injected with beta-phenylethylamine (0.5-4 mg kg-1, 0.5 hr 1P and 1-deprenyl (4 mg kg-1, 3.5 hr sc). Injected beta-phenylethylamine with deprenyl pretreatment increased self-stimulation rates; concomitant striatal levels of approximately 190 ng g-1 of beta-phenylethylamine were observed and were associated with increased brainstem 5-HIAA but no change in striatal HVA, indicating possible involvement of 5-HT in this response to beta-phenylethylamine. It is proposed that experience of electrical hypothalamic stimulation may alter endogenous striatal beta-phenylethylamine metabolism, possibly via an alteration of mechanisms governing synthesis and/or catabolism.",
+      "mesh_terms": [
+        "Animals",
+        "Brain Chemistry",
+        "Brain Stem",
+        "Corpus Striatum",
+        "Homovanillic Acid",
+        "Hydroxyindoleacetic Acid",
+        "Hypothalamus",
+        "Male",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Selegiline",
+        "Self Stimulation"
+      ]
+    },
+    {
+      "pmid": "4004908",
+      "title": "Formation of beta-phenylethylamine from the antidepressant, beta-phenylethylhydrazine.",
+      "authors": [
+        "L E Dyck",
+        "D A Durden",
+        "A A Boulton"
+      ],
+      "journal": "Biochemical pharmacology",
+      "publication_date": "1985-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To determine whether the monoamine oxidase inhibitor phenelzine was metabolized in vivo to produce beta-phenylethylamine (PE) and p-hydroxy-beta-phenylethylamine [p-tyramine (pTA)], a deuterated analogue, alpha, alpha,, beta, beta-2H-phenelzine (d4-phenelzine) was synthesized and injected i.p. into rats. In the first experiment, rat striata from d4-phenelzine-treated rats were analyzed for the presence of d4-PE and d4-pTA at a time at which phenelzine was known to cause particularly large increases in striatal pTA. While d4-PE was found to be present in these rat striata at a concentration equivalent to the endogenous PE, no d4-pTA was present. The amounts of d4-PE produced at various times after the i.p. injection of 50 mg/kg d4-phenelzine were measured; at 1 hr post-injection, 371 +/- 60, 1295 +/- 682 and 1242 +/- 394 ng/g (mean +/- S.E.M.) d4-PE were present in whole brain, liver and kidney. Rat urine collected for a 24-hr period after this treatment contained (mean +/- S.E.M.) 88.5 +/- 14.0 micrograms d4-PE. These results clearly indicate that the antidepressant phenelzine was metabolized in vivo to produce the trace amine PE.",
+      "mesh_terms": [
+        "Animals",
+        "Biotransformation",
+        "Male",
+        "Phenelzine",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "6149591",
+      "title": "Environmental experience produces qualitative changes in the stimulant effects of beta-phenylethylamine in rats.",
+      "authors": [
+        "C T Dourish",
+        "S J Cooper"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "1984",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of beta-phenylethylamine (PEA 6.25, 12.5, and 25.0 mg/kg IP) on spontaneous motor activity were examined in rats before (novel situation) and after (familiar situation) they had experience of the test environment, in an undrugged state. In a novel cage, 12.5 mg/kg PEA stimulated rearing and locomotion. A dose of 25.0 mg/kg PEA also increased rearing and produced stereotyped head movements, but did not increase locomotion, in a novel environment. In a familiar cage, both 12.5 and 25.0 mg/kg PEA stimulated locomotion and sniffing, whereas rearing was unaffected by PEA treatment under these conditions. These data provide a striking instance of a qualitative change in the behavioural response to a psychostimulant compound which is associated with the relative familiarity of the animal with the test environment. In addition, the results show that PEA induces stereotypy at high doses and increases locomotor activity at moderate doses, which is a further illustration of the similarity in the unconditioned behavioural effects of PEA and amphetamine.",
+      "mesh_terms": [
+        "Animals",
+        "Central Nervous System Stimulants",
+        "Environment",
+        "Humans",
+        "Male",
+        "Motor Activity",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Stereotyped Behavior"
+      ]
+    },
+    {
+      "pmid": "6686144",
+      "title": "beta-Phenylethylamine-, d-amphetamine-and l-amphetamine-induced place preference conditioning in rats.",
+      "authors": [
+        "D Gilbert",
+        "S J Cooper"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1983-Nov-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The conditioned place preference paradigm was used to study the reinforcing properties of beta-phenylethylamine (PEA), d-amphetamine and l-amphetamine. The results confirmed that each drug produced place preferences for a distinctive environment that had previously been paired with the drug treatment. PEA proved as effective as the amphetamine isomers, although substantially less potent. This is the first report of a reinforcing effect of PEA in the rat and supplements previous evidence that PEA is self-administered intravenously in the dog.",
+      "mesh_terms": [
+        "Amphetamine",
+        "Animals",
+        "Conditioning, Psychological",
+        "Dextroamphetamine",
+        "Environment",
+        "Humans",
+        "Male",
+        "Phenethylamines",
+        "Rats",
+        "Reinforcement, Psychology",
+        "Stereotyped Behavior"
+      ]
+    },
+    {
+      "pmid": "6405286",
+      "title": "MAO-B inhibitor deprenyl and beta-phenylethylamine potentiate [D-ALA2]-Met-enkephalinamide-induced seizures.",
+      "authors": [
+        "O E Ukponmwan",
+        "A L van der Poel-Heisterkamp",
+        "J Haffmans",
+        "M Dzoljic"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "1983-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The relationship between deprenyl (MAO-B inhibitor), beta-phenylethylamine (PEA, MAO-B substrate) and [D-Ala2]-Met-enkephalinamide (DALA)-induced seizure was studied in the urethane-anaesthetized rats. A combined electromyographic (EMG) and electrocorticographic (ECoG) method was used. PEA (20-100 micrograms ivt) or DALA (10 micrograms ivt) induced myoclonic contractions (MC) in the submandibular muscle and epileptiform pattern with spike activity in the ECoG. Administration of subconvulsant doses of PEA (5-10 micrograms ivt 0.5-1 min before DALA) significantly increased DALA-induced seizure activity. Similarly, blockade of MAO-B with deprenyl (3-48 mg/kg ip) also enhanced DALA-induced epileptiform pattern. It is evident from this study that MAO-B system significantly modulates the excitatory phenomena induced by DALA. These findings of interactions between MAO-B system and enkephalinergic one, might be of relevance in the clinical situations such as psychosis, stress, a use of tricyclic antidepressants and all other cases, where the alteration of MAO-B system is a part of disease or induced during drug therapy.",
+      "mesh_terms": [
+        "2-Hydroxyphenethylamine",
+        "Animals",
+        "Drug Synergism",
+        "Electroencephalography",
+        "Electromyography",
+        "Enkephalin, Methionine",
+        "Male",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Seizures",
+        "Selegiline"
+      ]
+    },
+    {
+      "pmid": "6646393",
+      "title": "Phenylethylamine-like properties of baclofen.",
+      "authors": [
+        "M E Wolf",
+        "S Keener",
+        "P Mathis",
+        "A D Mosnaim"
+      ],
+      "journal": "Neuropsychobiology",
+      "publication_date": "1983",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Baclofen therapy resulted in improvement of dyskinesias only in patients with trunkal tardive dyskinesia. However, the appearance of undesirable side effects did not warrant continuation of treatment with this drug. Baclofen did not have any therapeutic effect in schizophrenia and moreover a trend towards a worsening of the psychiatric conditions with irritability, assaultiveness and prominent auditory hallucinations was observed. The effects of baclofen on tardive dyskinesia and schizophrenia can be explained in terms of its phenylethylamine-like properties.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Baclofen",
+        "Chronic Disease",
+        "Drug Therapy, Combination",
+        "Dyskinesia, Drug-Induced",
+        "Humans",
+        "Middle Aged",
+        "Phenethylamines",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "6194254",
+      "title": "Phenylethylamine and monoamine metabolites in CSF of schizophrenics: effects of neuroleptic treatment.",
+      "authors": [
+        "H Beckmann",
+        "P Waldmeier",
+        "J Lauber",
+        "W F Gattaz"
+      ],
+      "journal": "Journal of neural transmission",
+      "publication_date": "1983",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Phenylethylamine (PEA) and the monoamine metabolites 3-methoxy-4-hydroxyphenylglycol (MHPG), homovanillic acid (HVA) and 5-hydroxyindoleacetic acid (5-HIAA) have been measured in the cerebrospinal fluid (CSF) of nine paranoid schizophrenics before and after three weeks of neuroleptic treatment. Patients were classified according to the Research Diagnostic Criteria and rated by means of the Brief Psychiatric Rating Scale. A significant increase was seen in HVA CSF concentrations during neuroleptic treatment (p less than 0.01). No influence was found on levels of PEA, 5-HIAA, and MHPG. Concentrations of both MHPG and 5-HIAA correlated positively with those of HVA. These results in combination with previous findings do not support the contention that PEA and NA metabolisms are grossly disturbed in paranoid schizophrenics whereas involvement of other neurotransmitters i.e. dopamine, seems more probable.",
+      "mesh_terms": [
+        "Adult",
+        "Biogenic Amines",
+        "Brief Psychiatric Rating Scale",
+        "Haloperidol",
+        "Homovanillic Acid",
+        "Humans",
+        "Hydroxyindoleacetic Acid",
+        "Male",
+        "Methoxyhydroxyphenylglycol",
+        "Phenethylamines",
+        "Schizophrenia, Paranoid"
+      ]
+    },
+    {
+      "pmid": "6134694",
+      "title": "Effects of chronic D-amphetamine and phenylethylamine on the concentrations of neurotransmitter amino acids in the rat brain.",
+      "authors": [
+        "E R Korpi",
+        "R J Wyatt"
+      ],
+      "journal": "The International journal of neuroscience",
+      "publication_date": "1983",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rats were treated acutely and chronically with D-amphetamine or phenylethylamine. Following the treatments, the concentrations of amino acids in the hypothalamus and caudate nucleus were measured from prederivatized tissue extracts using reversed phase high pressure liquid chromatography with fluorescence detection. Acute amphetamine slightly decreased the caudate glutamine concentration, and chronic treatment for 10 days increased caudate aspartate content. Chronic phenylethylamine enhanced the taurine content, both in caudate and hypothalamus. No significant changes were observed in the concentrations of glutamate, GABA or alanine. The results indicate that these two stimulants can modify the brain metabolism of certain neuroactive amino acids in addition to the metabolism of catecholamines. The specific effect of chronic phenylethylamine on taurine concentration suggests an adaptive response of taurine-containing cells to repeated administrations of phenylethylamine.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Brain Chemistry",
+        "Dextroamphetamine",
+        "Male",
+        "Neurotransmitter Agents",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "7173310",
+      "title": "The effects of the administration of beta-phenylethylamine on tyramine metabolism.",
+      "authors": [
+        "P S McQuade",
+        "A V Juorio"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1982-Sep-24",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The concentrations of p-tyramine (p-TA), m-tyramine (m-TA), dopamine (DA) and their principal metabolites, p-hydroxyphenylacetic acid (p-HPAA), m-hydroxyphenylacetic acid (m-HPAA) and homovanillic acid (HVA) were determined in the corpus striatum of Swiss mice at various times after the subcutaneous administration of beta-phenylethylamine (PE) (50 mg/kg). Initially p-TA concentrations were reduced but rapid synthesis was apparent up to 2 h after PE administration. PE treatment increased m-TA and these increases reached significance at 1 and 8 h. PE caused a bimodal increase in p-HPAA and m-HPAA concentrations with the first peak observed at 0.5-1 h due to initial release of p-TA and m-TA. Rapid synthesis of p-TA and m-TA resulted in increased acid concentrations at 4 h. HVA concentrations were increased up to 1 h after PE administration. The synthesis of p-TA and m-TA is related to that of DA probably as a result of the activation of tyrosine hydroxylase. PE may serve as a precursor for p-TA synthesis when the endogenous PE concentration is greatly elevated.",
+      "mesh_terms": [
+        "Animals",
+        "Corpus Striatum",
+        "Dopamine",
+        "Homovanillic Acid",
+        "Isomerism",
+        "Male",
+        "Mice",
+        "Phenethylamines",
+        "Phenylacetates",
+        "Time Factors",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "6126334",
+      "title": "Effect of prolonged desmethylimipramine administration on the pulmonary clearance of 5-hydroxytryptamine and beta-phenylethylamine in rats.",
+      "authors": [
+        "R F Minchin",
+        "H E Barber",
+        "K F Ilett"
+      ],
+      "journal": "Drug metabolism and disposition: the biological fate of chemicals",
+      "publication_date": "1982",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Monoamine oxidase (MAO) is responsible for the pulmonary metabolism of 5-hydroxytryptamine (5-HT) and phenylethylamine (PEA). In the present study the effects of treatment of rats with the tricyclic antidepressant desmethylimipramine (DM) on the disposition of 5-HT and PEA in isolated perfused rat lungs was investigated. DMI accumulation in the lung reached a plateau after 6 days of treatment with mean values of 1.1, 6.1, and 315 nmol/lung at dose levels of 0.67, 6.7, and 33 mumol/kg/day, respectively. During a 10-min perfusion at a concentration of 10(-6) M, both 5-HT and PEA were rapidly taken up and extensively metabolized by lungs from control animals. DMI treatment decreased pulmonary clearance of 5-HT and the extent of its metabolism in a partially dose-related manner. Efflux experiments showed that no unmetabolized 5-HT appeared in the effluent from lungs of either control or DMI-treated rats. These data suggest that DMI decreases both transport of 5-HT across the pulmonary endothelium and MAO activity. PEA clearance in perfused lung was decreased in a dose-related manner by DMI treatment with a corresponding decrease in its metabolism. In efflux experiments, unmetabolized PEA was only found in the perfusate from lungs of DMI-treated rats. It was concluded that PEA clearance after DMI results almost entirely from inhibition of pulmonary MAO. The data also suggest that there may be two discrete pools of MAO in lung, one of which is relatively unaffected by DMI.",
+      "mesh_terms": [
+        "Animals",
+        "Desipramine",
+        "In Vitro Techniques",
+        "Lung",
+        "Male",
+        "Metabolic Clearance Rate",
+        "Monoamine Oxidase",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "6953460",
+      "title": "Fluctuating high urinary phenylethylamine excretion rates in some bipolar affective disorder patients.",
+      "authors": [
+        "F Karoum",
+        "M Linnoila",
+        "W Z Potter",
+        "L W Chuang",
+        "F K Goodwin",
+        "R J Wyatt"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "1982-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Five women with primary major bipolar affective disorders had variable and at times very high urinary phenylethylamine (PEA) excretion rates. The clinical picture of these patients was characterized by periodic bizarre behaviors and short psychotic episodes. These patients were generally nonresponsive to the usual treatment modalities, and their symptoms were exacerbated by nonspecific monoamine oxidase inhibitors which further increased PEA excretion rates.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bipolar Disorder",
+        "Depressive Disorder",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Norepinephrine",
+        "Phenethylamines"
+      ]
+    },
+    {
+      "pmid": "7322283",
+      "title": "Behavioural effects of acute and chronic beta-phenylethylamine administration in the rat: evidence for the involvement of 5-hydroxytryptamine.",
+      "authors": [
+        "C T Dourish"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "1981-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The behavioural consequences of daily beta-phenylethylamine (PEA) administration for a period of 6 weeks have been examined. Rats first showed signs of the 5-HT behavioural syndrome after a single injection of PEA (50mg/kg) or 7 daily injections of PEA (25mg/kg). The syndrome reached peak intensity after 3 weeks treatment and was prevented by pre-treatment with 5-HT antagonists mianserin and methysergide or the neuroloptic clozapine but relatively unaffected by pre-treatment with haloperidol. These data provide strong evidence for an effect of PEA on brain 5-HT mechanisms. Because of the similarity between PEA and amphetamine and the suggestion that PEA may be involved in the aetiology of schizophrenia, it is proposed that the mechanisms of action of PEA be reassessed taking into account its ability to affect 5-HT systems in addition to catecholaminergic systems.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Clozapine",
+        "Crowding",
+        "Haloperidol",
+        "Male",
+        "Methysergide",
+        "Mianserin",
+        "Phenethylamines",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Receptors, Dopamine",
+        "Receptors, Serotonin",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "574038",
+      "title": "Effects of the oestrous cycle and exogenous ovarian steroids on metabolism of beta-phenylethylamine in rat lung.",
+      "authors": [
+        "Y S Bakhle",
+        "R R Ben-Harari"
+      ],
+      "journal": "British journal of pharmacology",
+      "publication_date": "1979-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "1 Metabolism of [14C]-beta-phenylethylamine (PEN), a substrate for monoamine oxidase-B (MAO-B), was measured in lung homogenates and in perfused lungs during the 4 day oestrous cycle of the rat. 2 Metabolism in vitro was high during met-oestrus and di-oestrus and low during pro-oestrus and oestrus; this variation in activity correlated with changes in Vmax of the enzyme without changes in Km. 3 PEN metabolism in lung homogenates was also altered by treatment of rats with 17 beta-oestradiol but not by progesterone treatment. 4 Metabolism of [14C]-PEN in perfused lungs was the same during either pro-oestrus or met-oestrus. Uptake of [14C]-PEN in perfused lung measured directly was also the same at these two stages. 5 These results demonstrate that in lungs MAO-B activity was affected by endogenous changes in steroid level but that such changes in enzymic activity were not reflected in the metabolic properties of whole lung.",
+      "mesh_terms": [
+        "Animals",
+        "Estradiol",
+        "Estrus",
+        "Female",
+        "In Vitro Techniques",
+        "Kinetics",
+        "Lung",
+        "Phenethylamines",
+        "Pregnancy",
+        "Progesterone",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "479738",
+      "title": "Glucocorticoid and mineralocorticoid pathways in two adrenocortical carcinomas: comparison of the effects of o,p'-dichlorodiphenyldichloroethane, aminoglutethimide and 2-p-aminophenyl-2-phenylethylamine in vitro.",
+      "authors": [
+        "Y Touitou",
+        "A Bogdan",
+        "A Auzeby",
+        "J P Dommergues"
+      ],
+      "journal": "The Journal of endocrinology",
+      "publication_date": "1979-Jul",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "The synthesis of glucocorticoids and mineralocorticoids in vitro was studied in an adrenocortical carcinoma after alblation from an 11.5-year-old boy. This patient had been unsuccessfully treated with high doses of o,p'-dichlorodiphenyldichloroethane (o,p'-DDD) and aminoglutethimide. These in-vitro results were compared with those obtained with another adrenocortical carcinoma removed from a 26-year-old woman who had received no preoperative treatment. The sensitivity of these adrenocortical carcinomas to o,p'-DDD, aminoglutethimide and 2-(p-aminophenyl)-2-phenylethylamine (SKF 12185) was investigated. Synthesis of cortisol (47%) and corticosterone (45%) in control incubations showed that 11 beta-hydroxylase activity was not affected by the treatment. This explains the raised level of plasma cortisol in the treated child. All three compounds inhibited both 11 beta-hydroxylase and 18-hydroxylase activities up to 95%, depending on the inhibitor. This study shows (a) an inhibitory effect of o,p'-DDD on the steroidogenesis of an adrenocortical carcinoma in vitro, an effect not previously reported in man or laboratory animals, and (b) the in-vitro efficacy of o,p-DDD and aminoglutethimide on corticosteroidogenesis by a carcinoma unresponsive to treatment in vivo. This discrepancy between data obtained in vivo and in vitro could possibly be explained by either an insufficient ratio of ingested dose: tumour mass, or a malabsorption of the drugs in this patient.",
+      "mesh_terms": [
+        "Adrenal Cortex Neoplasms",
+        "Adult",
+        "Aminoglutethimide",
+        "Aniline Compounds",
+        "Child",
+        "Cortodoxone",
+        "Desoxycorticosterone",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "In Vitro Techniques",
+        "Male",
+        "Mineralocorticoids",
+        "Mitotane",
+        "Phenethylamines",
+        "Steroid Hydroxylases"
+      ]
+    },
+    {
+      "pmid": "104329",
+      "title": "Lithium prevention of amphetamine-induced 'manic' excitement and of reserpine-induced 'depression' in mice: possible role of 2-phenylethylamine.",
+      "authors": [
+        "R L Borison",
+        "H C Sabelli",
+        "P J Maple",
+        "H S Havdala",
+        "B I Diamond"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "1978-Dec-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Repeated treatment of mice with lithium chloride (45 mg/kg, i.p., daily for 8 days) reduced the jumping, fighting, stereotypies, and hyperactivity induced by d-amphetamine (5 mg/kg, i.p.). Lithium also reduced the hypoactivity observed 1--3 h after reserpine (0.75 mg/kg, i.p.). In biochemical studies we found that 8-day treatment with lithium markedly reduced (to 45% of control) the recovery from brain of labelled 2-phenylethylamine (PEA) following i.p. injection of labelled L-phenylalanine, while decreasing recovery from brain of labelled PEA following its i.p. injection of 63% of control. In saline-treated mice, d-amphetamine appeared to increase PEA synthesis and to accelerate its disposition, whereas reserpine enhanced PEA synthesis and reduced disposition; all of these effects were antagonized by lithium pretreatments. Since PEA appears to be one of the most powerful behavioral stimulants among endogenous neuroamines, and because its deaminated metabolites are behavioral depressants, such antagonism of brain PEA metabolism may significantly contribute to the prophylactic action of lithium against both manic and depressive behavior.",
+      "mesh_terms": [
+        "Animals",
+        "Brain",
+        "Dextroamphetamine",
+        "Lithium",
+        "Male",
+        "Mice",
+        "Motor Activity",
+        "Phenethylamines",
+        "Reserpine"
+      ]
+    },
+    {
+      "pmid": "620466",
+      "title": "The uri nary excretion of 2-phenylethylamine in phenylketonuria.",
+      "authors": [
+        "G P Reynolds",
+        "J W Seakins",
+        "D O Gray"
+      ],
+      "journal": "Clinica chimica acta; international journal of clinical chemistry",
+      "publication_date": "1978-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The urinary concentrations of free and conjugated 2-phenylethylamine were determined in phenylketonuric patients and normal subjects by solvent extraction and gas chromatography. Free 2-phenylethylamine excretion was found to be significantly elevated above normal in phenylketonuric adults and children receiving a normal or a slightly restricted intake of phenylalanine. Urinary 2-phenylethylamine was also significantly increased in phenylketonuric children receiving low phenylalaine dietary therapy. Conjugated 2-phenylethylamine excretion was found not to be increased above normal. In the light of these results, a relationship between blood phenylalanine concentration and 2-phenylethylamine excretion is proposed, and the possible role of this amine in phenylketonuria is discussed.",
+      "mesh_terms": [
+        "Adult",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Mass Spectrometry",
+        "Phenethylamines",
+        "Phenylalanine",
+        "Phenylketonurias"
+      ]
+    },
+    {
+      "pmid": "745019",
+      "title": "Amphetamine and 2-phenylethylamine in post-mortem Parkinsonian brain after (-)deprenyl administration.",
+      "authors": [
+        "G P Reynolds",
+        "P Riederer",
+        "M Sandler",
+        "K Jellinger",
+        "D Seemann"
+      ],
+      "journal": "Journal of neural transmission",
+      "publication_date": "1978",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Deprenyl is an inhibitor of monoamine oxidase type B, the enzyme responsible for 2-phenylethylamine oxidation, and is used in conjunction with L-Dopa therapy in Parkinson's disease. Post-mortem studies in human brain tissue have shown that after (-)deprenyl administration to parkinsonian patients amphetamine is present in concentrations up to 56 ng/g. It also could be shown that phenylethylamine concentrations are substantially increased in such patients. Phenylethylamine and amphetamine have been investigated using a gas chromatographic technique.",
+      "mesh_terms": [
+        "Amphetamines",
+        "Brain",
+        "Humans",
+        "Parkinson Disease",
+        "Phenethylamines",
+        "Selegiline"
+      ]
+    },
+    {
+      "pmid": "833580",
+      "title": "Desynchronization of electrical activity in rats induced by deprenyl--an inhibitor of monoamine oxidase B--and relationship with selective increase of dopamine and beta-phenylethylamine.",
+      "authors": [
+        "M R Dzoljic",
+        "J Bruinvels",
+        "I L Bonta"
+      ],
+      "journal": "Journal of neural transmission",
+      "publication_date": "1977",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Electrophysiological and biochemical effects of deprenyl and beta-phenylethylamine were studied in rats. d,1-Deprenyl, 1-deprenyl (4-6 mg/kg) and beta-phenylethylamine (75 mg/kg) induced a desynchronization of ECOG after i.p. administration of drugs. The effects lasted several hours. The biochemical analysis indicate that d,1-deprenyl (4 mg/kg) nearly doubled the concentration of brain dopamine (DA) while the concentration of noradrenaline was not altered. The maximal increase was reached at 60 min and the enhanced concentration of DA stayed at this level up till 180 min after administration of drug. Treatment of rats with alpha-methyl-p-tyrosine (200 mg/kg) did not antagonize a deprenyl induced desynchronization of ECOG. However, even low dose of haloperidol (0.1 mg/kg) abolished the arousal effect of d,1-deprenyl and beta-phenylethylamine. It is suggested that desynchronization of EEG induced by deprenyl is more likely due to increased endogenous beta-phenylethylamine than to increased concentration of endogenous DA in the brain.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Animals",
+        "Arousal",
+        "Brain",
+        "Dopamine",
+        "Drug Interactions",
+        "Electroencephalography",
+        "Female",
+        "Haloperidol",
+        "Male",
+        "Methyltyrosines",
+        "Monoamine Oxidase Inhibitors",
+        "Norepinephrine",
+        "Phenethylamines",
+        "Rats",
+        "Wakefulness"
+      ]
+    },
+    {
+      "pmid": "786670",
+      "title": "A double blind comparative trial of nomifensin and desimipramine in depression. Relationship between treatment and phenylethylamine excretion.",
+      "authors": [
+        "E Acébal",
+        "S Subirá",
+        "J Spatz",
+        "R Faleni",
+        "B Merzbacher",
+        "A Gales",
+        "J Moizeszowicz"
+      ],
+      "journal": "European journal of clinical pharmacology",
+      "publication_date": "1976-Jun-15",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "The effect of nomifensin (Hoechst 36984), a synthetic psychotropic drug whose structure differs from MAO inhibitors and tricyclics, was studied in a double blind comparative trial with desimipramine in patients with various depressive syndromes. Forty-three patients (23 in the nomifensin group and 20 in the desimipramine group) were studied for 6 weeks. Clinical follow-up was done with the Wittenborn scale (WPRS), Hamilton's rating scale for depression (HRS), Zung's scale (SDS), and the PEN inventory. The average daily dose was nomifensin 84 mg and desimipramine 76 mg. Changes in HRS, WPRS and SDS showed statistically significant improvement with both treatments. A moderate anxiolytic effect was found in the nomifensin group, whereas medication had to be discontinued in two desimipramine-treated patients because of its drive-enhancing effect. Urinary phenylethylamine excretion rose in 2 out of 8 patients after 5 weeks of treatment with nomifensin.",
+      "mesh_terms": [
+        "Adult",
+        "Antidepressive Agents",
+        "Clinical Trials as Topic",
+        "Depression",
+        "Desipramine",
+        "Female",
+        "Humans",
+        "Isoquinolines",
+        "Male",
+        "Middle Aged",
+        "Phenethylamines",
+        "Psychiatric Status Rating Scales"
+      ]
+    },
+    {
+      "pmid": "14468346",
+      "title": "[Study of a phenylethylamine derivative in threatened abortion and premature childbirth].",
+      "authors": [
+        "P MAGNIN",
+        "J BERNEX",
+        "G FISCHER"
+      ],
+      "journal": "Lyon medical",
+      "publication_date": "1962-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Abortion, Induced",
+        "Abortion, Spontaneous",
+        "Abortion, Threatened",
+        "Ephedrine",
+        "Female",
+        "Humans",
+        "Phenethylamines",
+        "Pregnancy"
+      ]
+    },
+    {
+      "pmid": "13822363",
+      "title": "[Value of a vasodilator derived from beta-phenylethylamine in vascular pathology].",
+      "authors": [
+        "M FERRAND",
+        "H ROUMAGNAC",
+        "C EHRHART"
+      ],
+      "journal": "Algerie medicale",
+      "publication_date": "1959-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Coronary Disease",
+        "Ephedrine",
+        "Phenethylamines",
+        "Raynaud Disease",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "13818551",
+      "title": "[Vasodilator treatment with a derivative of beta-phenylethylamine. Results in 5 cases of arterial syndromes].",
+      "authors": [
+        "J F DULAC",
+        "P MANY",
+        "P PICARD"
+      ],
+      "journal": "La Presse medicale",
+      "publication_date": "1959-Sep-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Coronary Disease",
+        "Humans",
+        "Peripheral Vascular Diseases",
+        "Phenethylamines",
+        "Syndrome",
+        "Vascular Diseases",
+        "Vasodilator Agents"
+      ]
+    }
+  ]
+}

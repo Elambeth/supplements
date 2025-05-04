@@ -1,0 +1,67 @@
+{
+  "supplement": "Ciplukan",
+  "query": "Ciplukan[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:37:41",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "37842316",
+      "title": "The Efficacy of Topical Formulation Containing Ciplukan (Physalis angulata Linn.) in Modulating Interleukin-17 and Interferon Gamma Expression in Mice (Mus musculus) Psoriasis Model.",
+      "authors": [
+        "Oki Suwarsa",
+        "Hartati Purbo Dharmadji",
+        "Enny Rohmawaty",
+        "Shela Mareta",
+        "Hendra Gunawan",
+        "Reiva Farah Dwiyana",
+        "Pati Aji Achdiat",
+        "Endang Sutedja",
+        "Miranti Pangastuti"
+      ],
+      "journal": "Journal of experimental pharmacology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Interleukin 17 (IL-17) and interferon gamma (IFN-γ) play a role in the pathogenesis of psoriasis vulgaris (PV). Topical corticosteroids are still utilised as first-line therapy for mild to moderate PV. However, long-term use of corticosteroid is associated with various side effects. Physalis angulata Linn. (Ciplukan) possesses anti-inflammatory properties that could serve as a potential alternative topical therapy for PV. OBJECTIVE: To assess the efficacy of topical ciplukan as an anti-inflammatory agent targeting the expression of IL-17 and IFN-γ. METHODS: Psoriasis was induced using imiquimod cream, therefore divided into five groups. Group I, the psoriasis control group, received only imiquimod cream. Groups C1 and C2 received imiquimod cream followed by a mixture of Ciplukan and vaseline in a 1:2 and 1:4 ratio, respectively. Group M, the standard therapy group, received imiquimod cream, followed by mometasone furoate cream. Lastly, group V, the vehicle group, received imiquimod cream followed by vaseline album. Expression of IL-17 and IFN-γ in mice's skin tissue was analysed using reverse transcription polymerase chain reaction (RT-PCR) after seven days of treatment. RESULTS: The mean expression of IL-17 in Group C1 (22.60) was significantly lower (p = 0.012) than in the psoriasis control group (23.60), and there was no significant difference (p = 0.613) in Group M (22.41). The mean expression of IFN-γ in Group C1 (26.97) and Group C2 (27.03) was also significantly lower (p = 0.026 and p = 0.026, respectively) than Group I (28.80), and there was no significant difference (p = 0.180 and p = 0.093, respectively) than Group M (26.03). CONCLUSION: Expression of IL-17 and IFN-γ in the ciplukan group is lower than in the psoriasis control group, and there is no significant difference compared to the standard therapy group."
+    },
+    {
+      "pmid": "32041913",
+      "title": "A Double-blind, Randomized Controlled Trial of Ciplukan (Physalis angulata Linn) Extract on Skin Fibrosis, Inflammatory, Immunology, and Fibrosis Biomarkers in Scleroderma Patients.",
+      "authors": [
+        "Sumartini Dewi",
+        "Harry Isbagio",
+        "Erni Hernawati Purwaningsih",
+        "Nyoman Kertia",
+        "Rianto Setiabudy",
+        "Siti Setiati"
+      ],
+      "journal": "Acta medica Indonesiana",
+      "publication_date": "2019-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: scleroderma is an autoimmune disease characterized by organ fibrosis, resistant to standard treatment. It is suspected the addition of Physalis angulata Linn. (Ciplukan) extract as adjuvant therapy can improve the scleroderma skin fibrosis. The aim at this study is to evaluate the effect of ciplukan extract as adjuvant on scleroderma skin fibrosis in standard therapy, based on modified Rodnan skin scale (MRSS), inflammatory biomarkers, immunology and serum fibrosis. METHODS: double-blind, randomized clinical trial was performed in scleroderma patients with stable disease at Cipto Mangunkusumo hospital and Hasan Sadikin hospital during November 2015-March 2017 who met the selection criteria and continued to receive standard therapy. The subjects were randomly allocated into two groups: the study group received the ciplukan  extract 3 x 250 mg / day for 12 weeks and the placebo group. Examination of MRSS, ESR, P1NP, BAFF and sCD40L was performed every 4 weeks until the end of the study. RESULTS: fifty-nine subjects completed the study. They consisted of 29 subjects of the treatment group and 30 of the placebo group, with an average age of 41 (SD 9) years, the proportion of women: male = 9 : 1. There was a significant improvement of skin fibrosis in the study group with a highly significant decrease in MRSS (35.9% VS 6.3%, p <0.001) and a relative decrease in P1NP levels (17.8% VS 0.7%, p = 0.002). No decrease in ESR, BAFF and sCD40L levels in both groups. There was a weak but significant positive correlation between MRSS with P1NP levels (r = 0.236, p = 0.036). CONCLUSION: Ciplukan extract with dose 3 x 250 mg for 12 weeks as adjuvant on scleroderma standard therapy alleviates skin fibrosis significantly based on MRSS and P1NP levels.",
+      "mesh_terms": [
+        "Adult",
+        "Biomarkers",
+        "Double-Blind Method",
+        "Female",
+        "Fibrosis",
+        "Humans",
+        "Indonesia",
+        "Male",
+        "Middle Aged",
+        "Physalis",
+        "Plant Extracts",
+        "Scleroderma, Diffuse",
+        "Severity of Illness Index",
+        "Skin",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

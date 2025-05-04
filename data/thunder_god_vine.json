@@ -1,0 +1,231 @@
+{
+  "supplement": "Thunder god vine",
+  "query": "Thunder god vine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:57:01",
+  "research_count": 6,
+  "count": 6,
+  "articles": [
+    {
+      "pmid": "39684213",
+      "title": "Unveiling the Anti-Obesity Potential of Thunder God Vine: Network Pharmacology and Computational Insights into Celastrol-like Molecules.",
+      "authors": [
+        "Siyun Zheng",
+        "Hengzheng Yang",
+        "Jingxian Zheng",
+        "Yidan Wang",
+        "Bo Jia",
+        "Wannan Li"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-Nov-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity, characterized by abnormal or excessive fat accumulation, has become a chronic degenerative health condition that poses significant threats to overall well-being. Pharmacological intervention stands at the forefront of strategies to combat this issue. Recent studies, notably by Umut Ozcan's team, have uncovered the remarkable potential of Celastrol, a small-molecule compound derived from the traditional Chinese herb thunder god vine (Tripterygium wilfordii) as an anti-obesity agent. In this research, computational chemical analysis was employed, incorporating the \"TriDimensional Hierarchical Fingerprint Clustering with Tanimoto Representative Selection (3DHFC-TRS)\" algorithm to systematically explore 139 active small molecules from thunder god vine. These compounds were classified into six categories, with a particular focus on Category 1 molecules for their exceptional binding affinity to obesity-related targets, offering new avenues for therapeutic development. Using advanced molecular docking techniques and Cytoscape prediction models, six representative Celastrol-like molecules were identified, namely 3-Epikatonic Acid, Hederagenin, Triptonide, Triptotriterpenic Acid B, Triptotriterpenic Acid C, and Ursolic Acid. These compounds demonstrated superior binding affinity and specificity toward two key obesity targets, PPARG and PTGS2, suggesting their potential to regulate fat metabolism and mitigate inflammatory responses. To further substantiate these findings, molecular dynamics simulations and MM-PBSA free-energy calculations were applied to analyze the dynamic interactions between these small molecules and the enzymatic active sites of their targets. The results provide robust theoretical evidence that support the feasibility of these molecules as promising candidates for anti-obesity therapies. This study underscores the power of the 3DHFC-TRS algorithm in uncovering bioactive compounds from natural sources, such as thunder god vine, and highlights the therapeutic promise of PPARG and PTGS2 as novel obesity-related targets. Furthermore, it emphasizes the essential role of computational science in expediting drug discovery, paving the way for personalized and precision-based treatments for obesity and heralding a future of more effective healthcare solutions.",
+      "mesh_terms": [
+        "Pentacyclic Triterpenes",
+        "Molecular Docking Simulation",
+        "Anti-Obesity Agents",
+        "Humans",
+        "Triterpenes",
+        "Tripterygium",
+        "Obesity",
+        "Network Pharmacology",
+        "Cyclooxygenase 2"
+      ]
+    },
+    {
+      "pmid": "26447544",
+      "title": "Synergistic anticancer effects of triptolide and celastrol, two main compounds from thunder god vine.",
+      "authors": [
+        "Qi-Wei Jiang",
+        "Ke-Jun Cheng",
+        "Xiao-Long Mei",
+        "Jian-Ge Qiu",
+        "Wen-Ji Zhang",
+        "You-Qiu Xue",
+        "Wu-Ming Qin",
+        "Yang Yang",
+        "Di-Wei Zheng",
+        "Yao Chen",
+        "Meng-Ning Wei",
+        "Xu Zhang",
+        "Min Lv",
+        "Mei-Wan Chen",
+        "Xing Wei",
+        "Zhi Shi"
+      ],
+      "journal": "Oncotarget",
+      "publication_date": "2015-Oct-20",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Triptolide and celastrol are two main active compounds isolated from Thunder God Vine with the potent anticancer activity. However, the anticancer effect of triptolide in combination with celastrol is still unknown. In the present study, we demonstrated that the combination of triptolide with celastrol synergistically induced cell growth inhibition, cell cycle arrest at G2/M phase and apoptosis with the increased intracellular ROS accumulation in cancer cells. Pretreatment with ROS scavenger N-acetyl-L-cysteine dramatically blocked the apoptosis induced by co-treatment with triptolide and celastrol. Treatment with celastrol alone led to the decreased expressions of HSP90 client proteins including survivin, AKT, EGFR, which was enhanced by the addition of triptolide. Additionally, the celastrol-induced expression of HSP70 and HSP27 was abrogated by triptolide. In the nude mice with xenograft tumors, the lower-dose combination of triptolide with celastrol significantly inhibited the growth of tumors without obvious toxicity. Overall, triptolide in combination with celastrol showed outstanding synergistic anticancer effect in vitro and in vivo, suggesting that this beneficial combination may offer a promising treatment option for cancer patients.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Diterpenes",
+        "Dose-Response Relationship, Drug",
+        "Drug Synergism",
+        "Epoxy Compounds",
+        "G2 Phase Cell Cycle Checkpoints",
+        "HSP27 Heat-Shock Proteins",
+        "HSP70 Heat-Shock Proteins",
+        "HSP90 Heat-Shock Proteins",
+        "Heat-Shock Proteins",
+        "Humans",
+        "Inhibitory Concentration 50",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Molecular Chaperones",
+        "Neoplasms",
+        "Pentacyclic Triterpenes",
+        "Phenanthrenes",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Reactive Oxygen Species",
+        "Time Factors",
+        "Transfection",
+        "Tripterygium",
+        "Triterpenes",
+        "Tumor Burden",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "24214023",
+      "title": "Celastrol from 'Thunder God Vine' protects SH-SY5Y cells through the preservation of mitochondrial function and inhibition of p38 MAPK in a rotenone model of Parkinson's disease.",
+      "authors": [
+        "Bong-Suk Choi",
+        "Hyool Kim",
+        "Hyo Jeong Lee",
+        "Kumar Sapkota",
+        "Se Eun Park",
+        "Seung Kim",
+        "Sung-Jun Kim"
+      ],
+      "journal": "Neurochemical research",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Celastrol, a potent natural triterpene and one of the most promising medicinal molecules, is known to possess a broad range of biological activity. Rotenone, a pesticide and complex I inhibitor, is commonly used to produce experimental models of Parkinson's disease both in vivo and in vitro. The present study was designed to examine the effects of celastrol on cell injury induced by rotenone in the human dopaminergic cells and to elucidate the possible mechanistic clues in its neuroprotective action. We demonstrate that celastrol protects SH-SY5Y cells from rotenone-induced cellular injury and apoptotic cell death. Celastrol also prevented the increased generation of reactive oxygen species and mitochondrial membrane potential (ΔΨm) loss induced by rotenone. Similarly, celastrol treatment inhibited cytochrome c release, Bax/Bcl-2 ratio changes, and caspase-9/3 activation. Celastrol specifically inhibited rotenone-evoked p38 mitogen-activated protein kinase activation in SH-SY5Y cells. These data suggest that celastrol may serve as a potent agent for prevention of neurotoxin-induced neurodegeneration through multiple mechanisms and thus has therapeutic potential for the treatment of neurodegenerative diseases.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Humans",
+        "Membrane Potential, Mitochondrial",
+        "Neuroprotective Agents",
+        "Oxidative Stress",
+        "Parkinson Disease",
+        "Pentacyclic Triterpenes",
+        "Rotenone",
+        "Triterpenes",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "21273574",
+      "title": "Inhibition of tumor cellular proteasome activity by triptolide extracted from the Chinese medicinal plant 'thunder god vine'.",
+      "authors": [
+        "Li Lu",
+        "Jyoti Kanwar",
+        "Sara Schmitt",
+        "Qiuzhi Cindy Cui",
+        "Chuanyin Zhang",
+        "Cong Zhao",
+        "Q Ping Dou"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2011-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: The molecular mechanisms of triptolide responsible for its antitumor properties are not yet fully understood. The ubiquitin/proteasome system is an important pathway of protein degradation in cells. This study investigated whether triptolide may inhibit proteasomal activity and induce apoptosis in human cancer cells. MATERIALS AND METHODS: In vitro proteasome inhibition was measured by incubation of a purified 20S proteasome with triptolide. Human breast and prostate cancer cell lines were also treated with different doses of triptolide for different times, followed by measurement of proteasome inhibition (levels of the chymotrypsin-like activity, ubiquitinated proteins and three well-known proteasome target proteins, p27, IκB-α and Bax) and apoptosis induction (caspase-3 activity and PARP cleavage). RESULTS: Triptolide did not inhibit the chymotrypsin-like activity of purified 20S proteasome. However, treatment of triptolide was able to cause decreased levels of cellular proteasomal chymotrypsin-like activity and accumulation of ubiquitinated proteins and three well-known proteasome target proteins in human breast and prostate cancer cells, associated with apoptosis induction. CONCLUSION: It is possible that at least one of metabolites of triptolide has proteasome-inhibitory activity.",
+      "mesh_terms": [
+        "Antineoplastic Agents, Alkylating",
+        "Apoptosis",
+        "Blotting, Western",
+        "Breast Neoplasms",
+        "Caspase 3",
+        "Cyclin-Dependent Kinase Inhibitor p27",
+        "Diterpenes",
+        "Epoxy Compounds",
+        "Female",
+        "Humans",
+        "I-kappa B Proteins",
+        "Male",
+        "NF-KappaB Inhibitor alpha",
+        "Phenanthrenes",
+        "Plants, Medicinal",
+        "Poly(ADP-ribose) Polymerases",
+        "Prostatic Neoplasms",
+        "Proteasome Inhibitors",
+        "Tumor Cells, Cultured",
+        "Ubiquitin"
+      ]
+    },
+    {
+      "pmid": "9144848",
+      "title": "A potential new treatment for rheumatoid arthritis: thunder god vine.",
+      "authors": [
+        "P E Lipsky",
+        "X L Tao"
+      ],
+      "journal": "Seminars in arthritis and rheumatism",
+      "publication_date": "1997-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Various extracts of the vinelike plant Tripterygium wilfordii Hook f have been widely used in China to treat patients with a number of autoimmune diseases. Although most of the clinical experience has derived from uncontrolled trials, one placebo-controlled double-blind trial has clearly demonstrated efficacy in rheumatoid arthritis. Studies in laboratory animals have indicated that extracts of Tripterygium wilfordii Hook f suppress both immune and inflammatory responses and also effectively treat a number of models of autoimmune disease. More detailed in vitro analysis has indicated that components of Tripterygium wilfordii Hook f suppress immune responses by inhibiting transcription of cytokine genes, including interleukin-2 and gamma interferon. The current status of knowledge of the potential clinical benefit of this herbal remedy and possible mechanisms accounting for its utility are considered in this review.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arthritis, Rheumatoid",
+        "Clinical Trials as Topic",
+        "Drugs, Chinese Herbal",
+        "Humans",
+        "Tripterygium"
+      ]
+    },
+    {
+      "pmid": "7261798",
+      "title": "[Thunder god vine in treatment of rheumatoid arthritis and ankylosing spondylitis (author's transl)].",
+      "authors": [
+        "J L Guo"
+      ],
+      "journal": "Zhonghua wai ke za zhi [Chinese journal of surgery]",
+      "publication_date": "1981-May",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Arthritis, Rheumatoid",
+        "Child",
+        "China",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Spondylitis, Ankylosing"
+      ]
+    }
+  ]
+}

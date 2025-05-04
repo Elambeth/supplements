@@ -1,0 +1,103 @@
+{
+  "supplement": "Haskap Berry",
+  "query": "Haskap Berry[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:43:44",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "36235552",
+      "title": "Haskap Berry Leaves (Lonicera caerulea L.)-The Favorable Potential of Medical Use.",
+      "authors": [
+        "Szymon Sip",
+        "Anna Sip",
+        "Piotr Szulc",
+        "Judyta Cielecka-Piontek"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-Sep-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The presented research evaluates the medical use potential of Lonicera caerulea leaves, which are waste plants in cultivating berries. The study's screening activity included the leaves of five varieties of Lonicera caerulea: Atut, Duet, Wojtek, Zojka, and Jugana. The microbiological analysis confirmed the safety of using Lonicera caerulea leaves without significant stabilization. Lonicera caerulea leaves standardization was carried out based on the results of the chromatographic analysis, and it showed differences in the contents of active compounds (loganic, chlorogenic and caffeic acids, and rutin), which are attributed to biological activity. For the Lonicera caerulea leaves varieties tested, the differences in the content of total polyphenol content, chlorophylls, and carotenoids were also confirmed. The screening of biological activity of five Lonicera caerulea leaf varieties was carried out concerning the possibility of inhibiting the activity of α-glucosidase, lipase, and hyaluronidase as well, and the antioxidant potential was determined. The defined profile of the biological activity of Lonicera caerulea leaves makes it possible to indicate this raw material as an essential material supporting the prevention and treatment of type II diabetes. However, this research showed that tested enzymes were strongly inhibited by the variety Jugana. The health-promoting potential of Lonicera caerulea leaves was correlated with the highest chlorogenic acid and rutin content in the variety Jugana.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Caffeic Acids",
+        "Carotenoids",
+        "Chlorogenic Acid",
+        "Diabetes Mellitus, Type 2",
+        "Fruit",
+        "Hyaluronoglucosaminidase",
+        "Lipase",
+        "Lonicera",
+        "Plant Leaves",
+        "Polyphenols",
+        "Rutin",
+        "alpha-Glucosidases"
+      ]
+    },
+    {
+      "pmid": "35215430",
+      "title": "Improved Endurance Running Performance Following Haskap Berry (Lonicera caerulea L.) Ingestion.",
+      "authors": [
+        "Glyn Howatson",
+        "Gemma C Snaith",
+        "Rachel Kimble",
+        "Gavin Cowper",
+        "Karen M Keane"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-Feb-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Food high in (poly)phenolic compounds, such as anthocyanins, have the potential to improve exercise recovery and exercise performance. Haskap berries are rich in anthocyanins, but no research has examined the potential to improve human performance. The aim of this study was to determine the influence of Haskap berry on parameters of endurance running performance. METHODS: Using a double-blind, placebo controlled, independent groups design, 30 male recreational runners (mean ± SD age, 33 ± 7 years; stature, 178.2 ± 7.2 cm; mass, 77.7 ± 10.6 kg; V˙O2peak, 52.2 ± 6.6 mL/kg/min) volunteered to participate. Following familiarisation, volunteers visited the laboratory twice (separated by seven days) to assess submaximal, maximal and 5 km time trial running performance. After the first visit, volunteers were randomly assigned to consume either the Haskap berry intervention or an isocaloric placebo control. RESULTS: There were modest changes in heart rate and V˙O2 at submaximal intensities (p < 0.05). Time to exhaustion during the V˙O2peak test was longer in the Haskap group by 20 s (p = 0.031). Additionally, 5 km time trial performance was improved in the Haskap group by ~21 s (p = 0.016), which equated to a 0.25 km/h increase in mean running speed compared to the placebo control; this represented a >2% improvement in running performance. CONCLUSIONS: The application of this newly identified functional food to athletes has the capacity to improve endurance running performance.",
+      "mesh_terms": [
+        "Adult",
+        "Anthocyanins",
+        "Double-Blind Method",
+        "Eating",
+        "Fruit",
+        "Humans",
+        "Lonicera",
+        "Male",
+        "Oxygen Consumption",
+        "Physical Endurance",
+        "Running"
+      ]
+    },
+    {
+      "pmid": "30535796",
+      "title": "A pilot dose-response study of the acute effects of haskap berry extract (Lonicera caerulea L.) on cognition, mood, and blood pressure in older adults.",
+      "authors": [
+        "Lynne Bell",
+        "Claire M Williams"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Haskap (Lonicera caerulea L. or blue honeysuckle) is a plant native to the low-lying wet areas and mountains of Siberia and northeastern Asia, but is now cultivated in Canada. The dark blue berries are rich in anthocyanins, particularly cyanidin-3-O-glucoside. Previously, anthocyanin-rich fruits have been observed to benefit cognitive performance during the immediate postprandial period following a single acute dose. However, no study has currently examined the potential for haskap berries to influence cognitive performance. Here, we investigate the acute cognitive benefits of an anthocyanin-rich haskap berry extract. METHODS: A double-blind, counterbalanced, crossover intervention study compared the acute effects of three separate haskap berry extract doses, containing 100 mg, 200 mg, and 400 mg anthocyanins, with a sugar-matched placebo. Participants were an opportunity sample of 20 older adults, aged 62-81 years. Measures of cognition, mood, and blood pressure were recorded at baseline and 1.5 h postprandially. RESULTS: Compared to placebo, the 400 mg dose elicited significantly lower diastolic blood pressure and heart rate. Both 200 mg and 400 mg doses elicited significantly higher word recall, with the 400 mg dose also significantly improving word recognition scores, on an episodic memory task. However, mood, working memory and executive function task results were more equivocal. CONCLUSIONS: The findings provide evidence for improvements in episodic memory and blood pressure following acute supplementation with haskap berry extract, with higher doses appearing most effective. The cognitive findings concur with previous literature that suggests episodic memory effects, and not executive function effects, are most prevalent in older adults following anthocyanin-rich berry supplementation. The blood pressure outcome is consistent with a vasodilatory mechanism of action.",
+      "mesh_terms": [
+        "Affect",
+        "Aged",
+        "Aged, 80 and over",
+        "Blood Pressure",
+        "Cognition",
+        "Cross-Over Studies",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Female",
+        "Fruit",
+        "Geriatric Assessment",
+        "Humans",
+        "Lonicera",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects",
+        "Plant Extracts"
+      ]
+    }
+  ]
+}

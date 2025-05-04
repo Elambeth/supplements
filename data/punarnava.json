@@ -1,0 +1,75 @@
+{
+  "supplement": "Punarnava",
+  "query": "Punarnava[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:25:10",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "27833367",
+      "title": "Clinical efficacy of Punarnava Mandura and Dhatri Lauha in the management of Garbhini Pandu (anemia in pregnancy).",
+      "authors": [
+        "Deepika A Khandelwal",
+        "Shilpa B Donga",
+        "Laxmipriya Dei"
+      ],
+      "journal": "Ayu",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: India is one of the countries with high prevalence of anemia during pregnancy. Anemia in pregnancy is multifactorial. Iron deficiency anemia is the most common conditions in a pregnant woman. As per ayurvedic classics, this condition occurs due to improper Rasa Dhatu in mother and continuously increasing fetal demands and is considered as Rasa Pradoshajavikara. A large number of Lauha preparations have been used widely for centuries to cure Anemia. AIM: To evaluate efficacy of Punarnava Mandura and Dhatri Lauha on Garbhini Pandu. MATERIALS AND METHODS: A total 24 pregnant women with symptoms of Garbhini Pandu were randomly divided into two groups (A and B). In Group A (n = 15) Punarnava Mandura, two tablets (each of 500 mg) thrice a day with one cup (100 ml) of buttermilk and in Group B (n = 9) Dhatri Lauha, two tablets (each of 500 mg) thrice a day with luke warm water were administered for 90 days. The assessment was done with subjective parameters such as pallor, general weakness, dyspnea, etc., and objective parameters such as hematological parameters. Results were statistically analyzed using Student's t-test. RESULTS: The results revealed that overall clinical improvement was better in Group A when compared to Group B. Hemoglobin was increased in patients of Group A, which was statistically significant. No adverse drug reaction was observed during the treatment period. CONCLUSION: Punarnava Mandura is more effective on Garbhini Pandu in comparison to Dhatri Lauha."
+    },
+    {
+      "pmid": "26664234",
+      "title": "A clinical study of Punarnava Mandura in the management of Pandu Roga in old age (geriatric anemia).",
+      "authors": [
+        "Megha G Pandya",
+        "Alankruta R Dave"
+      ],
+      "journal": "Ayu",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The incidence of anemia rises with age. The consequences of anemia are many and serious, affecting not only individual's health, but also the development of societies and countries. Pandu Roga can be effectively compared with anemia on the ground of its similar signs and symptoms. AIM: To evaluate the Panduhara and Rasayana effect of Punarnava Mandura in the management of Pandu Roga in old age (geriatric anemia). MATERIALS AND METHODS: The study was conducted in 50 clinically diagnosed patients of geriatric anemia. Patients were treated with Punarnava Mandura 2 tablets (250 mg each) twice in a day after lunch and dinner with Takra (butter milk) for 90 days. Among 50 registered patients, 40 patients had completed the treatment and 10 patients discontinued the treatment. Results were analyzed using Wilcoxon signed-rank test for subjective parameters and for assessment of objective parameters paired t-test was adopted. RESULTS: At the end of study, drug has shown beneficial effect in patients of anemia by providing highly significant result in chief complaints, associated symptoms, Kshaya of Dhatu and Agni Bala, Deha Bala and Sattwa Bala. It has also improved quality-of-life (QOL) of the patients. Moderate and mild improvement was observed in 30 and 70% of the patients respectively. CONCLUSION: Punarnava Mandura may work as Rasayana in geriatric anemia by providing highly significant results on clinical features of Pandu Roga, Dehabala, Agni Bala and Sattwa Bala and by improving QOL. of patients of geriatric anemia."
+    },
+    {
+      "pmid": "21869896",
+      "title": "Inhibition of Human Cervical Cancer Cell Growth by Ethanolic Extract of Boerhaavia diffusa Linn. (Punarnava) Root.",
+      "authors": [
+        "Rakhi Srivastava",
+        "Daman Saluja",
+        "Bilikere S Dwarakanath",
+        "Madhu Chopra"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In Indian traditional medicine, Boerhaavia diffusa (punarnava) roots have been widely used for the treatment of dyspepsia, jaundice, enlargement of spleen, abdominal pain and as an anti-stress agent. Pharmacological evaluation of the crude ethanolic extract of B. diffusa roots has been shown to possess antiproliferative and immunomodulatory properties. The extract of B. diffusa was studied for anti-proliferative effects on the growth of HeLa cells and for its effect on cell cycle. Bio-assays of extracts from B. diffusa root showed that a methanol : chloroform fraction (BDF 5) had an antiproliferative effect on HeLa cells. After 48 h of exposure, this fraction at a concentration of 200 μg mL(-1) significantly reduced cell proliferation with visible morphological changes in HeLa cells. Cell cycle analysis suggests that antiproliferative effect of BDF 5 could be due to inhibition of DNA synthesis in S-phase of cell cycle in HeLa cells, whereas no significant change in cell cycle was detected in control cells. The fraction BDF 5 caused cell death via apoptosis as evident from DNA fragmentation and caspase-9 activation. Thus the extract has potential to be evaluated in detail to assess the molecular mechanism-mediated anticancer activities of this plant."
+    },
+    {
+      "pmid": "13903001",
+      "title": "Effect of punarnava on the visual acuity and refractive errors.",
+      "authors": [
+        "R B GUPTA",
+        "S SINGH",
+        "Y DAYAL"
+      ],
+      "journal": "The Indian journal of medical research",
+      "publication_date": "1962-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Plants, Medicinal",
+        "Refractive Errors",
+        "Vision, Ocular",
+        "Visual Acuity"
+      ]
+    }
+  ]
+}

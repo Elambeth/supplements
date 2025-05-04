@@ -1,0 +1,436 @@
+{
+  "supplement": "Prunes",
+  "query": "Prunes[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:24:00",
+  "research_count": 14,
+  "count": 14,
+  "articles": [
+    {
+      "pmid": "39744218",
+      "title": "Inhibiting autophagy selectively prunes dysfunctional tumor vessels and optimizes the tumor immune microenvironment.",
+      "authors": [
+        "Wanting Hou",
+        "Chaoxin Xiao",
+        "Ruihan Zhou",
+        "Xiaohong Yao",
+        "Qin Chen",
+        "Tongtong Xu",
+        "Fujun Cao",
+        "Yulin Wang",
+        "Xiaoying Li",
+        "Ouying Yan",
+        "Xiaolin Ai",
+        "Cheng Yi",
+        "Dan Cao",
+        "Chengjian Zhao"
+      ],
+      "journal": "Theranostics",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dysfunctional tumor vasculature, hypoxia, and an immunosuppressive microenvironment are significant barriers to effective cancer therapy. Autophagy, which is critical for maintaining cellular homeostasis and apoptosis resistance, is primarily triggered by hypoxia and nutrient deprivation, conditions prevalent in dysfunctional tumor vessels due to poor circulation. However, the role of autophagy in dysfunctional tumor endothelial cells and its impact on treatment and the tumor microenvironment (TME) remain poorly understood. Methods: We used multiplex immunofluorescence and transgene-based imaging to characterize autophagy in endothelial cells from clinical tumor samples, zebrafish xenograft tumors, and murine models. Using a zebrafish xenograft vasculature platform, we analyzed the effects of autophagy inhibitors on the structure and function of the tumor vasculature. In mice, we investigated autophagy inhibition via endothelial-specific autophagy gene knockout (Atg7 iECKO) and the autophagy inhibitor SBI-0206965 and evaluated the synergistic effects of combining SBI-0206965 with low-dose chemotherapy (5-fluorouracil, 5-FU) or PD-1 antibody. Human umbilical vein endothelial cells (HUVECs) were cultured in vitro under hypoxic, glucose-deprived, and serum-free conditions to simulate dysfunctional tumor endothelial cells and to explore the mechanisms by which autophagy inhibition optimizes tumor vasculature. Results: Elevated autophagy was observed in tumor endothelial cells within the dysfunctional vasculature. Autophagy inhibition, through either genetic knockout or pharmacological inhibition, selectively prunes dysfunctional vessels and improves vascular function. It also stimulates the formation of a perivascular immune niche, thereby optimizing the tumor immune microenvironment (TiME). Furthermore, combining the autophagy inhibitor SBI-0206965 with low-dose 5-FU or PD-1 antibody potentiated the anti-tumor effects. Mechanistic studies have indicated that autophagy acts as a protective response to the hypoxic and nutrient-deprived TME, while its inhibition, mediated by p53 activation, promotes tumor endothelial cell apoptosis in dysfunctional tumor vessels, further optimizing the structure and function of the tumor vasculature. Conclusions: Targeting endothelial cell autophagy is a promising strategy for remodeling the dysfunctional tumor vasculature, optimizing the TiME, and boosting the efficacy of chemotherapy and immunotherapy.",
+      "mesh_terms": [
+        "Animals",
+        "Tumor Microenvironment",
+        "Autophagy",
+        "Humans",
+        "Zebrafish",
+        "Mice",
+        "Human Umbilical Vein Endothelial Cells",
+        "Xenograft Model Antitumor Assays",
+        "Neovascularization, Pathologic",
+        "Neoplasms",
+        "Cell Line, Tumor",
+        "Fluorouracil",
+        "Endothelial Cells",
+        "Female"
+      ]
+    },
+    {
+      "pmid": "38706560",
+      "title": "Gut microbes differ in postmenopausal women responding to prunes to maintain hip bone mineral density.",
+      "authors": [
+        "Abigayle M R Simpson",
+        "Mary Jane De Souza",
+        "Janhavi Damani",
+        "Connie J Rogers",
+        "Nancy I Williams",
+        "Connie M Weaver",
+        "Mario G Ferruzzi",
+        "Cindy H Nakatsu"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Foods high in phenolics such as prunes have been shown to exert protective effects on bone mineral density (BMD), but only certain individuals experience these benefits. This post-hoc analysis of a 12-month randomized controlled trial aimed to identify the relationship among the gut microbiome, immune responses, and bone protective effects of prunes on postmenopausal women. Subjects who consumed 50-100 g prunes daily were divided into responders (n = 20) and non-responders (n = 32) based on percent change in total hip bone mineral density (BMD, ≥1% or ≤-1% change, respectively). DXA scans were used to determine body composition and BMD. Immune markers were measured using immunoassays and flow cytometry. Targeted phenolic metabolites were analyzed using ultra performance liquid chromatography-tandem mass spectrometry. The fecal microbiota was characterized through 16S rRNA gene PCR amplicon sequencing. After 12 months of prune consumption, anti-inflammatory markers showed responders had significantly lower levels of IL-1β and TNF-α. QIIME2 sequence analysis showed that microbiomes of responders and non-responders differed in alpha (Shannon and Faith PD, Kruskal-Wallis p < 0.05) and beta diversity (unweighted Unifrac, PERMANOVA p < 0.04) metrics both before and after prune treatment. Furthermore, responders had a higher abundance of bacterial families Oscillospiraceae and Lachnospiraceae (ANCOM-BC p < 0.05). These findings provide evidence that postmenopausal women with initial low BMD can benefit from prunes if they host certain gut microbes. These insights can guide precision nutrition strategies to improve BMD tailored to diet and microbiome composition."
+    },
+    {
+      "pmid": "35798020",
+      "title": "Prunes preserve hip bone mineral density in a 12-month randomized controlled trial in postmenopausal women: the Prune Study.",
+      "authors": [
+        "Mary Jane De Souza",
+        "Nicole C A Strock",
+        "Nancy I Williams",
+        "Hang Lee",
+        "Kristen J Koltun",
+        "Connie Rogers",
+        "Mario G Ferruzzi",
+        "Cindy H Nakatsu",
+        "Connie Weaver"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2022-Oct-06",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Dietary consumption of prunes has favorable impacts on bone health, but more research is necessary to improve upon study designs and refine our understandings. OBJECTIVES: We evaluated the effects of prunes (50 g or 100 g/d) on bone mineral density (BMD) in postmenopausal women during a 12-mo dietary intervention. Secondary outcomes include effects on bone biomarkers. METHODS: The single-center, parallel-arm 12-mo randomized controlled trial tested the effects of 50 g and 100 g prunes compared with a control group on BMD (every 6 mo) and bone biomarkers in postmenopausal women. RESULTS: In total, 235 women (age 62.1 ± 5.0 y) were randomly allocated into control (n = 78), 50-g prune (n = 79), or 100-g prune (n = 78) groups. Compliance was 90.2 ± 1.8% and 87.1 ± 2.1% in the 50-g and 100-g prune groups. Dropout was 22%; however, the dropout rate was 41% for the 100-g prune group (compared with other groups: 10%, control; 15%, 50 g prune; P < 0.001). A group × time interaction for total hip BMD was observed in control compared with 50-g prune groups (P < 0.05) but not in control compared with 100-g prune groups (P > 0.05). Total hip BMD decreased -1.1 ± 0.2% in the control group at 12 mo, whereas the 50-g prune group preserved BMD (-0.3 ± 0.2%) at 12 mo (P < 0.05). Although hip fracture risk (FRAX) worsened in the control group at 6 mo compared with baseline (10.3 ± 0.5% compared with 9.8 ± 0.5%, P < 0.05), FRAX score was maintained in the pooled (50 g + 100 g) prune groups. CONCLUSIONS: A 50-g daily dose of prunes can prevent loss of total hip BMD in postmenopausal women after 6 mo, which persisted for 12 mo. Given that there was high compliance and retention at the 50-g dosage over 12 mo, we propose that the 50-g dose represents a valuable nonpharmacologic treatment strategy that can be used to preserve hip BMD in postmenopausal women and possibly reduce hip fracture risk. This trial was registered at clinicaltrials.gov as NCT02822378.",
+      "mesh_terms": [
+        "Aged",
+        "Biomarkers",
+        "Bone Density",
+        "Female",
+        "Hip Fractures",
+        "Humans",
+        "Middle Aged",
+        "Osteoporosis, Postmenopausal",
+        "Pelvic Bones",
+        "Postmenopause"
+      ]
+    },
+    {
+      "pmid": "34978320",
+      "title": "The Role of Prunes in Modulating Inflammatory Pathways to Improve Bone Health in Postmenopausal Women.",
+      "authors": [
+        "Janhavi J Damani",
+        "Mary Jane De Souza",
+        "Hannah L VanEvery",
+        "Nicole C A Strock",
+        "Connie J Rogers"
+      ],
+      "journal": "Advances in nutrition (Bethesda, Md.)",
+      "publication_date": "2022-Oct-02",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The prevalence of osteoporosis among women aged 50 y and older is expected to reach 13.6 million by 2030. Alternative nonpharmaceutical agents for osteoporosis, including nutritional interventions, are becoming increasingly popular. Prunes (dried plums; Prunus domestica L.) have been studied as a potential whole-food dietary intervention to mitigate bone loss in preclinical models of osteoporosis and in osteopenic postmenopausal women. Sixteen preclinical studies using in vivo rodent models of osteopenia or osteoporosis have established that dietary supplementation with prunes confers osteoprotective effects both by preventing and reversing bone loss. Increasing evidence from 10 studies suggests that, in addition to antiresorptive effects, prunes exert anti-inflammatory and antioxidant effects. Ten preclinical studies have found that prunes and/or their polyphenol extracts decrease malondialdehyde and NO secretion, increase antioxidant enzyme expression, or suppress NF-κB activation and proinflammatory cytokine production. Two clinical trials have investigated the impact of dried plum consumption (50-100 g/d for 6-12 mo) on bone health in postmenopausal women and demonstrated promising effects on bone mineral density and bone biomarkers. However, less is known about the impact of prune consumption on oxidative stress and inflammatory mediators in humans and their possible role in modulating bone outcomes. In this review, the current state of knowledge on the relation between inflammation and bone health is outlined. Findings from preclinical and clinical studies that have assessed the effect of prunes on oxidative stress, inflammatory mediators, and bone outcomes are summarized, and evidence supporting a potential role of prunes in modulating inflammatory and immune pathways is highlighted. Key future directions to bridge the knowledge gap in the field are proposed.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Biomarkers",
+        "Bone Density",
+        "Bone Diseases, Metabolic",
+        "Cytokines",
+        "Female",
+        "Humans",
+        "Inflammation Mediators",
+        "Malondialdehyde",
+        "NF-kappa B",
+        "Osteoporosis",
+        "Osteoporosis, Postmenopausal",
+        "Polyphenols",
+        "Postmenopause",
+        "Prunus domestica"
+      ]
+    },
+    {
+      "pmid": "34714130",
+      "title": "Effects of 12 Months Consumption of 100 g Dried Plum (Prunes) on Bone Biomarkers, Density, and Strength in Men.",
+      "authors": [
+        "Shirin Hooshmand",
+        "Danielle Gaffen",
+        "Ashley Eisner",
+        "Jonnatan Fajardo",
+        "Mark Payton",
+        "Mark Kern"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2022-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Several male animal studies have demonstrated bone-protective effects of dried plum; however, no human male study has evaluated the effect of dried plum on bone health. We conducted a randomized controlled clinical study to test if daily inclusion of 100 g of dried plum in the diet positively influenced bone mineral density (BMD), bone strength, and bone biomarkers in men. Sixty-six men were randomly assigned to one of two daily treatment groups: (1) control (0 g dried plum) or (2) 100 g dried plum. Blood samples were collected at baseline and after 3, 6, and 12 months to assess bone biomarkers. Bone was measured at baseline and after 6 and 12 months via dual-energy X-ray absorptiometry and peripheral quantitative computed tomography. Tartrate-resistant acid phosphatase-5b (TRAP5b) and C-terminal collagen cross-link (CTX) levels decreased significantly in the dried plum group at 3-, 6-, and 12-month intervals compared with baseline. No changes were observed in the control group for TRAP5b and CTX levels. Bone-specific alkaline phosphatase levels decreased significantly after 6 and 12 months in the control and dried plum groups. BMD for total body, spine (L1-L4), hip, and ulna did not change in the control and dried plum groups from baseline to 6 or 12 months. In the proximal tibia, endosteal circumferences increased significantly within the dried plum group during the course of treatment. The results suggest that daily consumption of 100 g dried plum for 12 months has modest bone-protective effects in men. ClinicalTrials.gov identifier: NCT04720833.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Bone Density",
+        "Bone and Bones",
+        "Fruit",
+        "Humans",
+        "Prunus domestica"
+      ]
+    },
+    {
+      "pmid": "34074830",
+      "title": "Exploratory Comparative Effectiveness Trial of Green Kiwifruit, Psyllium, or Prunes in US Patients With Chronic Constipation.",
+      "authors": [
+        "Samuel W Chey",
+        "William D Chey",
+        "Kenya Jackson",
+        "Shanti Eswaran"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "publication_date": "2021-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Psyllium and prunes are proven treatments for chronic constipation (CC). Asian studies suggest that kiwifruit may also benefit CC symptoms. We report a partially randomized, comparative effectiveness trial evaluating kiwifruit, psyllium, and prunes in US patients with CC. METHODS: Adults with CC at a US medical center were randomized to 3 natural treatments. Eligible patients had ≤3 complete spontaneous bowel movements (CSBMs) per week and were partially randomized to green kiwifruit (2/d), prunes (100 g/d), or psyllium (12 g/d) for 4 weeks. The primary endpoint was the proportion of patients in each group reporting an increase of ≥1 CSBM per week compared with baseline for at least 2 of 4 treatment weeks. Key secondary outcomes included stool frequency, stool consistency, and straining assessed daily. Treatment satisfaction and adverse events (AEs) were also measured. Standard statistical methods were used, and a P < 0.05 was considered significant. RESULTS: Seventy-nine patients with CC (mean age = 42.7 years, 87% female, and 77% white) were partially randomized. Complete data were available for 75 patients (kiwifruit 29, prunes 24, and psyllium 22). For the primary endpoint, proportions of CSBM responders were similar for the treatments. For secondary outcomes comparing treatment weeks 3 and 4 to baseline, there was a significant increase in weekly CSBM rate with all 3 treatments (P ≤ 0.003); stool consistency significantly improved with kiwifruit (P = 0.01) and prunes (P = 0.049); and straining significantly improved with kiwifruit (P = 0.003), prunes (P < 0.001), and psyllium (P = 0.04). Patients randomized to the kiwifruit group reported significant improvement in bloating scores (P = 0.02). AEs were most common with psyllium and least common with kiwifruit. At the end of treatment, a smaller proportion of patients were dissatisfied with kiwifruit compared with prunes or psyllium (P = 0.02). DISCUSSION: Kiwifruit, prunes, and psyllium improve constipation symptoms in patients with CC. Kiwifruit was associated with the lowest rate of AEs and dissatisfaction with therapy.",
+      "mesh_terms": [
+        "Actinidia",
+        "Adult",
+        "Chronic Disease",
+        "Comparative Effectiveness Research",
+        "Constipation",
+        "Female",
+        "Fruit",
+        "Humans",
+        "Male",
+        "Prunus",
+        "Psyllium"
+      ]
+    },
+    {
+      "pmid": "29398337",
+      "title": "The effect of prunes on stool output, gut transit time and gastrointestinal microbiota: A randomised controlled trial.",
+      "authors": [
+        "Ellen Lever",
+        "S Mark Scott",
+        "Petra Louis",
+        "Peter W Emery",
+        "Kevin Whelan"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIM: Prunes (dried plums) are perceived to maintain healthy bowel function, however their effects on gastrointestinal (GI) function are poorly researched and potential mechanisms of action are not clear. We aimed to investigate the effect of prunes on stool output, whole gut transit time (WGTT), gut microbiota and short-chain fatty acids (SCFA) in healthy adults METHODS: We conducted a parallel group, randomised controlled trial with three treatment arms in 120 healthy adults with low fibre intakes and stool frequency of 3-6 stools/wk. Subjects were randomised to 80 g/d prunes (plus 300 ml/d water); 120 g/d prunes (plus 300 ml/d water) or control (300 ml/d water) for 4 weeks. Stool weight was the primary outcome and determined by 7-day stool collection. Secondary outcomes included stool frequency and consistency (stool diary), WGTT (radio-opaque markers), GI symptoms (diary), microbiota (quantitative PCR) and SCFA (gas liquid chromatography). Group assignment was concealed from the outcome assessors. RESULTS: There were significantly greater increases in stool weight in both the 80 g/d (mean + 22.2 g/d, 95% CI -1-45.3) and 120 g/d (+32.8 g/d, 95% CI 13.9-51.7) prune groups compared with control (-0.8 g/d, 95% CI -17.2 to 15.6, P = 0.026). Stool frequency was significantly greater following 80 g/d (mean 6.8 bowel movements/wk, SD 3.8) and 120 g/d (5.6, SD 1.9) prune consumption compared with control (5.4, SD 2.1) (P = 0.023), but WGTT was unchanged. The incidence of flatulence was significantly higher after prune consumption. There were no significant differences in any of the bacteria measured, except for a greater increase in Bifidobacteria across the groups (P = 0.046). Prunes had no effect on SCFA or stool pH. CONCLUSIONS: In healthy individuals with infrequent stool habits and low fibre intake, prunes significantly increased stool weight and frequency and were well tolerated. Prunes may have health benefits in populations with low stool weight. CLINICAL TRIAL REGISTRY NUMBER AND WEBSITE: ISRCTN42793297 http://www.isrctn.com/ISRCTN42793297.",
+      "mesh_terms": [
+        "Adult",
+        "Feces",
+        "Female",
+        "Food, Preserved",
+        "Gastrointestinal Microbiome",
+        "Gastrointestinal Tract",
+        "Humans",
+        "London",
+        "Male",
+        "Prunus domestica",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "25511772",
+      "title": "Letter: prunes for the treatment of constipation.",
+      "authors": [
+        "M Pasalar",
+        "K B Lankarani"
+      ],
+      "journal": "Alimentary pharmacology & therapeutics",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Constipation",
+        "Dietary Fiber",
+        "Humans",
+        "Prunus"
+      ]
+    },
+    {
+      "pmid": "25109788",
+      "title": "Systematic review: the effect of prunes on gastrointestinal function.",
+      "authors": [
+        "E Lever",
+        "J Cole",
+        "S M Scott",
+        "P W Emery",
+        "K Whelan"
+      ],
+      "journal": "Alimentary pharmacology & therapeutics",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Prunes (dried plums) are high in fibre and are perceived to promote healthy gastrointestinal (GI) function. AIM: To assess the effect of prunes on GI function through a systematic review of randomised controlled trials (RCTs). METHODS: Sixteen electronic databases were searched, a hand search was performed and key opinion leaders were contacted. RCTs investigating the effect of prunes on GI function were included. Two reviewers independently screened relevant articles, extracted data and assessed risk of bias. RESULTS: Four trials met the inclusion criteria, one in constipation and three in non-constipated subjects. In constipation, 3 weeks of prune consumption (100 g/day) improved stool frequency (3.5 vs. 2.8 CSBM per week, P = 0.006) and stool consistency (3.2 vs. 2.8 on Bristol stool form scale, P = 0.02) compared with psyllium (22 g/day). In non-constipated subjects, prunes softened stool consistency in one trial and increased stool weight (628 g vs. 514 g/72 h wet weight, P = 0.001) in another trial, compared with control. No trials found differences in GI symptoms between prunes and comparator. Meta-analysis was not appropriate due to heterogeneity in populations and methods. Two of the trials were limited by unclear risk of bias. CONCLUSIONS: In constipation, prunes appear superior to psyllium for improving stool frequency and consistency, however, the evidence for other outcomes and the effects in non-constipated subjects is weak. Although prunes may be a promising intervention for the management of constipation and increasing stool weight, this needs to be confirmed by further rigorous research.",
+      "mesh_terms": [
+        "Beverages",
+        "Constipation",
+        "Dietary Fiber",
+        "Feces",
+        "Fruit",
+        "Humans",
+        "Plant Extracts",
+        "Prunus",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "24925283",
+      "title": "Prolonged ampakine exposure prunes dendritic spines and increases presynaptic release probability for enhanced long-term potentiation in the hippocampus.",
+      "authors": [
+        "Philip K-Y Chang",
+        "George A Prenosil",
+        "David Verbich",
+        "Raminder Gill",
+        "R Anne McKinney"
+      ],
+      "journal": "The European journal of neuroscience",
+      "publication_date": "2014-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CX 546, an allosteric positive modulator of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid-type ionotropic glutamate receptors (AMPARs), belongs to a drug class called ampakines. These compounds have been shown to enhance long-term potentiation (LTP), a cellular model of learning and memory, and improve animal learning task performance, and have augmented cognition in neurodegenerative patients. However, the chronic effect of CX546 on synaptic structures has not been examined. The structure and integrity of dendritic spines are thought to play a role in learning and memory, and their abnormalities have been implicated in cognitive disorders. In addition, their structural plasticity has been shown to be important for cognitive function, such that dendritic spine remodeling has been proposed as the morphological correlate for LTP. Here, we tested the effect of CX546 on dendritic spine remodeling following long-term treatment. We found that, with prolonged CX546 treatment, organotypic hippocampal slice cultures showed a significant reduction in CA3-CA1 excitatory synapse and spine density. Electrophysiological approaches revealed that the CA3-CA1 circuitry compensates for this synapse loss by increasing synaptic efficacy through enhancement of presynaptic release probability. CX546-treated slices showed prolonged and enhanced potentiation upon LTP induction. Furthermore, structural plasticity, namely spine head enlargement, was also more pronounced after CX546 treatment. Our results suggest a concordance of functional and structural changes that is enhanced with prolonged CX546 exposure. Thus, the improved cognitive ability of patients receiving ampakine treatment may result from the priming of synapses through increases in the structural plasticity and functional reliability of hippocampal synapses.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Survival",
+        "Dendritic Spines",
+        "Dioxanes",
+        "Dioxoles",
+        "Excitatory Amino Acid Agents",
+        "Excitatory Postsynaptic Potentials",
+        "Hippocampus",
+        "Long-Term Potentiation",
+        "Mice, Transgenic",
+        "Neuronal Plasticity",
+        "Piperidines",
+        "Presynaptic Terminals",
+        "Receptors, AMPA",
+        "Synapses",
+        "Synaptic Vesicles",
+        "Time Factors",
+        "Tissue Culture Techniques"
+      ]
+    },
+    {
+      "pmid": "21643036",
+      "title": "Constipation: Dried plums (prunes) for the treatment of constipation.",
+      "authors": [
+        "S Mark Scott",
+        "Charles H Knowles"
+      ],
+      "journal": "Nature reviews. Gastroenterology & hepatology",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "News"
+      ],
+      "mesh_terms": [
+        "Constipation",
+        "Humans",
+        "Laxatives",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Prunus",
+        "Severity of Illness Index",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "21323688",
+      "title": "Randomised clinical trial: dried plums (prunes) vs. psyllium for constipation.",
+      "authors": [
+        "A Attaluri",
+        "R Donahoe",
+        "J Valestin",
+        "K Brown",
+        "S S C Rao"
+      ],
+      "journal": "Alimentary pharmacology & therapeutics",
+      "publication_date": "2011-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Treatment of chronic constipation remains challenging with 50% of patients dissatisfied with current therapy. There is an unmet need for natural and safe alternatives. Dried plums (prunes) have been used traditionally for constipation but their efficacy is not known. Aim To assess and compare the effects of dried plums and psyllium in patients with chronic constipation. METHODS: Subjects were enrolled in an 8-week, single-blind, randomised cross-over study. Subjects received either dried plums (50 g b.d., fibre=6 gm/day) or psyllium (11 g b.d., fibre=6 gm/day) for 3 weeks each, in a crossover trial with a 1-week washout period. Subjects maintained a daily symptom and stool diary. Assessments included number of complete spontaneous bowel movements per week, global relief of constipation, stool consistency, straining, tolerability and taste. RESULTS: Forty constipated subjects (m/f=3/37, mean age=38 years) participated. The number of complete spontaneous bowel movements per week (primary outcome measure) and stool consistency scores improved significantly (P<0.05) with dried plums when compared to psyllium. Straining and global constipation symptoms did not differ significantly between treatments (P=N.S.). Dried plums and psyllium were rated as equally palatable and both were safe and well tolerated. CONCLUSION: Dried plums are safe, palatable and more effective than psyllium for the treatment of mild to moderate constipation, and should be considered as a first line therapy.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Cathartics",
+        "Constipation",
+        "Cross-Over Studies",
+        "Defecation",
+        "Dietary Fiber",
+        "Humans",
+        "Laxatives",
+        "Middle Aged",
+        "Prunus",
+        "Psyllium",
+        "Regression Analysis",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "17299467",
+      "title": "Yoghurt containing galacto-oligosaccharides, prunes and linseed reduces the severity of mild constipation in elderly subjects.",
+      "authors": [
+        "U Sairanen",
+        "L Piirainen",
+        "R Nevala",
+        "R Korpela"
+      ],
+      "journal": "European journal of clinical nutrition",
+      "publication_date": "2007-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Constipation is a common problem in the elderly. Dietary fibre is recommended for its treatment. The aim was to examine whether yoghurt containing galacto-oligosaccharides (GOS), prunes and linseed relieve constipation in elderly subjects. DESIGN: A randomized, double-blinded, cross-over study. SETTING: Free-living subjects. SUBJECTS: A group of 43 elderly subjects with self-reported constipation (mean age 76 years, range 61-92 years, 32 females, 11 males). INTERVENTIONS: The study consisted of a 2-week baseline period and 2, 3-week dietary interventions, with a 2-week wash-out period between the interventions. During the interventions, the subjects ingested, in random order, 260 g/day of either control yoghurt or test yoghurt containing GOS (12 g/day), prunes (12 g/day) and linseed (6 g/day). The use of laxatives was controlled and only allowed after 2 days without defecation. RESULTS: Defecation frequency was 5.7 times/week during the baseline period. During the test yoghurt period, defecation frequency was higher (8.0 vs 7.1 times/week, P=0.011), defecation was easier (on the scale 0-3, 1.3 vs 1.5, P=0.010), and there was a tendency towards softer stools (on the scale 0-3, 2.1 vs 2.2, P=0.059) compared with the control yoghurt period. The subjects felt that the test yoghurt relieved constipation more effectively than the control yoghurt (P=0.005). The sum of gastrointestinal symptoms did not differ between the interventions. The use of laxatives remained constant throughout the study. CONCLUSIONS: Daily intake of yoghurt containing GOS, prunes and linseed reduced the severity of constipation in elderly subjects with mild constipation. SPONSORSHIP: Valio Ltd, R&D.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Cathartics",
+        "Constipation",
+        "Cross-Over Studies",
+        "Defecation",
+        "Dietary Fiber",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Flax",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Oligosaccharides",
+        "Prunus",
+        "Treatment Outcome",
+        "Yogurt"
+      ]
+    },
+    {
+      "pmid": "31195511",
+      "title": "Reduction of Microbial Populations on Prunes by Vapor-Phase Hydrogen Peroxide †.",
+      "authors": [
+        "Gilbert F Simmons",
+        "Joseph L Smilanick",
+        "Shama John",
+        "Dennis A Margosan"
+      ],
+      "journal": "Journal of food protection",
+      "publication_date": "1997-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Vapor-phase hydrogen peroxide (VPHP) was used to disinfect prunes. Concentrated hydrogen peroxide solution (35%, wt/wt) was volatilized into a stream of dried air to approximately 3.1 mg/l (wt/vol) of hydrogen peroxide. Dried prunes obtained from commercial dehydrators were treated with VPHP and compared to untreated prunes. Microbial populations were determined for treatment comparisons. Untreated dried prune microbial populations were 155, 107, and 111 CFU/g of prunes on aerobic plate count agar, potato dextrose agar, and dichloran rose bengal agar, respectively. In contrast, VPHP-treated prune microbial populations were reduced to near zero on all media after 10 minutes of VPHP exposure. The color of prunes exposed for 20 min or longer, however, showed oxidation damage. No hydrogen peroxide residues were detected 90 days after treatment."
+    }
+  ]
+}

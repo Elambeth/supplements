@@ -1,0 +1,27 @@
+{
+  "supplement": "Coffee Pulp Extract",
+  "query": "Coffee Pulp Extract[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:39:46",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36873494",
+      "title": "Chlorogenic acid rich in coffee pulp extract suppresses inflammatory status by inhibiting the p38, MAPK, and NF-κB pathways.",
+      "authors": [
+        "Atcharaporn Ontawong",
+        "Acharaporn Duangjai",
+        "Chutima S Vaddhanaphuti",
+        "Doungporn Amornlerdpison",
+        "Sirinat Pengnet",
+        "Natakorn Kamkaew"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2023-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Coffee pulp (CP) is a coffee byproduct that contains various active ingredients, namely, chlorogenic acid (CGA) and caffeine. These active compounds show several benefits, including antihyperlipidemia, antioxidants, and anti-inflammation. However, the anti-inflammatory properties of Coffea pulp extract (CPE) are unknown. This work determined the impact of CPE on lipopolysaccharide (LPS)-activated murine macrophage cells and the molecular mechanism behind this action. RAW 264.7 cells were exposed to varying doses of CPE with or without LPS. Inflammatory markers and their mechanism were studied. CPE therapy has been shown to suppress the synthesis of inflammatory cytokines and mediators, namely, tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6), IL-1β, cyclooxygenase-2 (COX-2), inducible nitric oxide synthase (iNOS), and nitric oxide (NO), as well as prostaglandin E2 (PGE2). Finally, CPE inactivated the nuclear factor-kappa B (NF-κB) and MAPK signaling pathways. Consequently, CPE might be used as a nutraceutical to treat inflammation and its related disorders."
+    }
+  ]
+}

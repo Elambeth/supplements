@@ -1,0 +1,297 @@
+{
+  "supplement": "Society garlic",
+  "query": "Society garlic[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:41:32",
+  "research_count": 9,
+  "count": 9,
+  "articles": [
+    {
+      "pmid": "39945057",
+      "title": "The Yeast-Fermented Garlic and a Balance of Spermine/Spermidine Activates Autophagy via EGR1 Transcriptional Factor.",
+      "authors": [
+        "Kun Xie",
+        "Satoshi Yano",
+        "Jinyun Wang",
+        "Shota Yamakoshi",
+        "Tomoe Ohta",
+        "Takuhiro Uto",
+        "Maiko Sakai",
+        "Xi He",
+        "Kaichi Yoshizaki",
+        "Takumi Kubota",
+        "Kohta Ohnishi",
+        "Taichi Hara"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Spermine (SPM) and spermidine (SPD) are polyamines found in all organisms, and their concentrations can be regulated by ingestion. We demonstrated that yeast-fermented garlic (YF) extract significantly increased autophag flux in OUMS-36T-1 and HeLa cells expressing the fluorescent probe (GFP-LC3-RFP-LC3ΔG). YF-induced increase of autophagy occurred independently of mTORC1 signaling, and RNA-sequencing analysis revealed that EGR1 was the most significantly altered gene in YF-treated OUMS-36T-1 cells. YF-treated EGR1-deficient HAP1 cells displayed reduced autophagic flux (p < 0.05). YF-induced increasing of autophagic flux occurred via a specific SPM/SPD ratio. HAP1 cells treated with equivalent amounts of SPD or SPM as that found in YF did not increase autophagic flux (p > 0.05); however, treatment with SPD and SPM in the same ratio as that found in YF increased autophagic flux (p < 0.05). This specific SPM/SPD ratio reduced MG132-induced proteostress via EGR1-dependent pathways (p < 0.05). Thus, the SPM/SPD balance may regulate autophagy via EGR1-dependent pathways, and controlling this balance may provide a strategy to maintain cellular homeostasis.",
+      "mesh_terms": [
+        "Autophagy",
+        "Humans",
+        "Spermidine",
+        "Spermine",
+        "HeLa Cells",
+        "Early Growth Response Protein 1",
+        "Fermentation",
+        "Garlic",
+        "Plant Extracts",
+        "Saccharomyces cerevisiae"
+      ]
+    },
+    {
+      "pmid": "39548671",
+      "title": "Double-crosslinked hydrogels and hydrogel beads formed by garlic protein hydrolysates for bioactive encapsulation and gastrointestinal delivery.",
+      "authors": [
+        "Shuqin Li",
+        "Xiaoyu Zhang",
+        "Jia Wang",
+        "Jingyang Lu",
+        "Mingyue Li",
+        "Min Zhang",
+        "Pharkphoom Panichayupakaranant",
+        "Haixia Chen"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2025-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Garlic protein is one of the main components of garlic. It has several beneficial characteristics. This study aimed to characterize a double crosslinked hydrogel formed with alginate, calcium ions (Ca2+), and garlic protein hydrolysates (GPH), and to develop hydrogel beads for targeted delivery of bioactive constituents to the gastrointestinal tract. RESULTS: The results indicated that the degree of GPH hydrolysis was approximately 3% following trypsin treatment. The inner structure of the double crosslinked hydrogel showed a honeycomb pattern, with solid-like gel rheology and improved texture properties at a 4% (w/v) GPH concentration. The GPH-based hydrogel beads demonstrated pH sensitivity, swelling in near-neutral and alkaline environments, and the encapsulated paclitaxel (PTX) exhibited an amorphous phase with preferential release in intestinal conditions. The GPH group also achieved greater drug encapsulation efficiency than a soy protein hydrolysate (SPH) group, and proteomic analysis suggested that lower molecular weight and peptide charge favored the formation of peptide-integrated double crosslinking hydrogels. CONCLUSION: This work indicated that GPH was helpful and could inspire the development of drug delivery systems involving GPH with the required mechanical strength and target-release properties. © 2024 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Garlic",
+        "Hydrogels",
+        "Protein Hydrolysates",
+        "Drug Delivery Systems",
+        "Plant Proteins",
+        "Gastrointestinal Tract",
+        "Drug Compounding",
+        "Drug Carriers",
+        "Rheology",
+        "Hydrolysis",
+        "Alginates",
+        "Drug Liberation",
+        "Humans",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "35805955",
+      "title": "Therapeutic Potential of Allicin and Aged Garlic Extract in Alzheimer's Disease.",
+      "authors": [
+        "Paola Tedeschi",
+        "Manuela Nigro",
+        "Alessia Travagli",
+        "Martina Catani",
+        "Alberto Cavazzini",
+        "Stefania Merighi",
+        "Stefania Gessi"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2022-Jun-22",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Garlic, Allium sativum, has long been utilized for a number of medicinal purposes around the world, and its medical benefits have been well documented. The health benefits of garlic likely arise from a wide variety of components, possibly working synergistically. Garlic and garlic extracts, especially aged garlic extracts (AGEs), are rich in bioactive compounds, with potent anti-inflammatory, antioxidant and neuroprotective activities. In light of these effects, garlic and its components have been examined in experimental models of Alzheimer's disease (AD), the most common form of dementia without therapy, and a growing health concern in aging societies. With the aim of offering an updated overview, this paper reviews the chemical composition, metabolism and bioavailability of garlic bioactive compounds. In addition, it provides an overview of signaling mechanisms triggered by garlic derivatives, with a focus on allicin and AGE, to improve learning and memory.",
+      "mesh_terms": [
+        "Aged",
+        "Alzheimer Disease",
+        "Antioxidants",
+        "Biological Products",
+        "Disulfides",
+        "Garlic",
+        "Humans",
+        "Plant Extracts",
+        "Sulfinic Acids"
+      ]
+    },
+    {
+      "pmid": "32010339",
+      "title": "Benefits of aged garlic extract on Alzheimer's disease: Possible mechanisms of action.",
+      "authors": [
+        "Bungorn Sripanidkulchai"
+      ],
+      "journal": "Experimental and therapeutic medicine",
+      "publication_date": "2020-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Alzheimer's disease (AD) is the most common form of dementia and has become a growing health concern in aging societies. β-amyloid (Aβ) formation in vulnerable brain regions, such as the hippocampus and cerebral cortex is a major neuropathological feature of the disease. Currently, there is no specific drug available for the treatment of AD. However, due to its high antioxidant activity, aged garlic extract (AGE) has been widely used to prevent chronic diseases, such as cancer and cardiovascular disease. A number of studies on the benefits of AGE against cognitive and memory deficits have also been published. This review aimed to summarize the information related to the effects of AGE on learning memory in order to obtain a better understanding of its mechanisms of action. This review also presents an overview of the pathogenesis of AD, and summarizes the main ingredients and neuroprotective effects of AGE against cognitive and learning memory deficits. The mechanisms of action of AGE are also discussed."
+    },
+    {
+      "pmid": "31588997",
+      "title": "Effect of green garlic/cucumber crop rotation for 3 years on the dynamics of soil properties and cucumber yield in Chinese anthrosol.",
+      "authors": [
+        "Haiyan Ding",
+        "Ahmad Ali",
+        "Zhihui Cheng"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2020-Jan-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Long-term drastic anthropic inputs in conventional monoculture systems cause negative plant-soil feedback that will largely affect sustainable cucumber cultivation. The inclusion of multicropping in intensive cropping systems could reduce the detrimental effects of continuous cropping obstacles. The present study investigated the dynamics of soil microbial communities, soil enzyme activities and cucumber yield under plastic tunnel cultivation for three successive growing seasons (2013, 2014 and 2015). RESULT: In the amended crop rotation system, soil pH decreased with increasing number of cropped garlic bulbs. The soil electrical conductivity significantly changed during the entire growth period and increased with increasing number of incorporated garlic bulbs. The level of soil organic matter content increased in the last year (2015). Soil catalase activity was generally induced by the treatments of 10, 15, 20 and 25 garlic bulbs, and soil invertase activity was also enhanced by all the treatments in the last year. Similarly, fungal species richness dramatically increased under these crop rotation systems. In this study, we found the highest cucumber yield under the cropping treatment of 20 garlic bulbs. CONCLUSION: The results indicate that the green garlic/cucumber cropping system is a sustainable and efficient cropping system for cucumber production and can improve the soil environment to a certain extent. © 2019 Society of Chemical Industry.",
+      "mesh_terms": [
+        "China",
+        "Crop Production",
+        "Cucumis sativus",
+        "Fungi",
+        "Garlic",
+        "Hydrogen-Ion Concentration",
+        "Seasons",
+        "Soil",
+        "Soil Microbiology"
+      ]
+    },
+    {
+      "pmid": "31577841",
+      "title": "Effects of active edible coating based on thyme and garlic essential oils on lamb meat shelf life after long-term frozen storage.",
+      "authors": [
+        "Ana Guerrero",
+        "Sofía Ferrero",
+        "Marta Barahona",
+        "Bruna Boito",
+        "Eduardo Lisbinski",
+        "Filippo Maggi",
+        "Carlos Sañudo"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2020-Jan-30",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The frozen preservation of lamb meat could be crucial for successful international trade. The shelf life of thawed meat is shorter than that of fresh meat, so techniques or procedures are required to improve post-thawing meat quality attributes. This study investigated the effect of alginate-based edible coatings after the incorporation of essential oils of thyme (Thymus vulgaris L.) and garlic (Allium sativum L.) on thawed lamb meat (longissimus thoracis et lumborum muscle) quality after long-term frozen storage. Meat samples came from ten light lambs and the evolution of attributes related to shelf life, such as water-holding capacity, color stability, and lipid oxidation, was monitored during display (1, 4 and 7 days). Four meat treatments were evaluated: control (CON, uncoated meat), edible coat of alginate meat (ECA), and ECA with thyme or garlic essential oils (0.05%) (THY and GAR). RESULTS: The alginate-based edible coatings decreased exudative losses (P < 0.001) and modified color characteristics, especially increasing yellowness (P < 0.001) and chrome (P < 0.001). GAR decreased redness (P < 0.001) and the oxy/met ratio [R (630/580) wavelength light reflectance] or discoloration [R (630-580)]. THY was the treatment that best retained color during display and also showed a significantly lower lipid oxidation (P < 0.05) than CON and ECA, whereas GAR presented intermediate values. CONCLUSION: The addition of bioactive essential oils to alginate-based edible coatings improved preservation and shelf life of lamb meat after thawing. © 2019 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Food Preservation",
+        "Food Preservatives",
+        "Food Storage",
+        "Garlic",
+        "Lipids",
+        "Meat",
+        "Oils, Volatile",
+        "Oxidation-Reduction",
+        "Plant Extracts",
+        "Sheep",
+        "Thymus Plant"
+      ]
+    },
+    {
+      "pmid": "29998496",
+      "title": "Effect of pre-storage removal of different parts of the scape top on the biochemical changes of two garlic cultivars during controlled atmosphere storage.",
+      "authors": [
+        "Zobia Naheed",
+        "Zafar Rizwan",
+        "Zhihui Cheng",
+        "Noor A Khan",
+        "Muhammad Hanif"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2019-Jan-30",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: This study highlights the effect of removing different plant parts on the biochemical changes in the garlic scape of cultivars G064 and G025 during controlled atmosphere storage (O2 = 2%-5%, CO2 = 3%-6%) at temperature = 0 ± 0.5 °C, Relative Humidity (RH) RH = 85%-95%, for 168 day. Total polyphenols (TP), total flavonoids (TF), the concentration of allicin, ethylene production and the antioxidant potential were evaluated and analyzed by using four different assays. Statistically significant differences were observed between different treatments. RESULTS: Total polyphenols, allicin concentration, and ethylene production were the highest in G064, while the total flavonoid concentration was the highest in G025. Removing the top resulted in the highest levels of total polyphenols, total flavonoids, allicin, and ethylene in both cultivars. The antioxidant capacity was also significantly higher when the top was removed than with other treatments in both cultivars. 2,2-Diphenyl-1-picrylhydrazyl (DPPH), hydroxyl radical scavenging activity (HRSC), ferric ion reducing antioxidant power (FRAP) and metal-chelating capacity (MCC) were higher in cultivar G064 compared to G025. CONCLUSION: Overall, the results suggest that the removing the tops of the scapes of G025 and G064 is the best treatment to maintain these biochemical changes. © 2018 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Disulfides",
+        "Flavonoids",
+        "Food Storage",
+        "Fruit",
+        "Garlic",
+        "Plant Extracts",
+        "Polyphenols",
+        "Sulfinic Acids",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "26374695",
+      "title": "'Laba' garlic processed by dense phase carbon dioxide: the relation between green colour generation and cellular structure, alliin consumption and alliinase activity.",
+      "authors": [
+        "Dandan Tao",
+        "Bing Zhou",
+        "Luyao Zhang",
+        "Xiaosong Hu",
+        "Xiaojun Liao",
+        "Yan Zhang"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2016-Jul",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: 'Laba' garlic is usually processed by soaking garlic in vinegar for more than 1 week during winter. It is popular for its unique green colour and tasty flavour. Greening is desirable and required for this product as its characteristic. Dense phase carbon dioxide (DPCD) had a significant effect on the greening of intact garlic (Allium sativum L.) cloves. The relation between green colour generation and alliin consumption, alliinase activity and the cellular structure of garlic, respectively, were investigated in this work. The effects of treatment time, pressure and temperature of DPCD were also analysed and discussed. RESULTS: DPCD had a significant effect on the cellular structure of garlic cells. Garlic protoplast underwent greater morphological change after DPCD treatments at higher temperatures while the amount of precipitate increased with greater treatment time and temperature. Common trends on garlic greening and alliin consumption were observed except for DPCD treatment at 10 MPa and 65 °C. The alliinase activity decreased with increasing treatment time, pressure and temperature. It reached the lowest level at 13 MPa and 55 °C. CONCLUSION: The formation of the green colour was a comprehensive result of DPCD on changing cellular structure, alliin consumption and alliinase activity. DPCD treatment at 10 MPa and 55 °C was the optimum condition for the greening of 'Laba' garlic. This work further facilitated the application of DPCD in the industrial production of 'Laba' garlic. © 2015 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Carbon Dioxide",
+        "Carbon-Sulfur Lyases",
+        "Chemical Precipitation",
+        "China",
+        "Crops, Agricultural",
+        "Cysteine",
+        "Food Preservatives",
+        "Food Quality",
+        "Food Storage",
+        "Food, Preserved",
+        "Garlic",
+        "Hot Temperature",
+        "Microscopy, Electron, Scanning",
+        "Pigments, Biological",
+        "Plant Proteins",
+        "Plant Roots",
+        "Pressure",
+        "Protoplasts",
+        "Refrigeration",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "2083170",
+      "title": "Hypertension and hyperlipidaemia: garlic helps in mild cases.",
+      "authors": [
+        "W Auer",
+        "A Eiber",
+        "E Hertkorn",
+        "E Hoehfeld",
+        "U Koehrle",
+        "A Lorenz",
+        "F Mader",
+        "W Merx",
+        "G Otto",
+        "B Schmid-Otto"
+      ],
+      "journal": "British journal of clinical practice. Supplement",
+      "publication_date": "1990-Aug",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Forty-seven non-hospitalised patients with mild hypertension took part in a randomised, placebo-controlled, double-blind trial conducted by 11 general practitioners. The patients who were admitted had diastolic blood pressures between 95 and 104 mmHg after a two-week acclimatization phase. The patients then took either a preparation of garlic powder (Kwai) or a placebo of identical appearance for 12 weeks. Blood pressure and plasma lipids were monitored during treatment after four, eight and 12 weeks. Significant differences between the placebo and the drug group were found during the course of therapy. For example, the supine diastolic blood pressure in the group having garlic treatment fell from 102 to 91 mmHg after eight weeks (p less than 0.05) and to 89 mmHg after 12 weeks (p less than 0.01). The serum cholesterol and triglycerides were also significantly reduced after eight and 12 weeks of treatment. In the placebo group, on the other hand, no significant changes occurred.",
+      "mesh_terms": [
+        "Aged",
+        "Blood Pressure",
+        "Cholesterol",
+        "Double-Blind Method",
+        "Female",
+        "Garlic",
+        "Humans",
+        "Hyperlipidemias",
+        "Hypertension",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Plants, Medicinal",
+        "Triglycerides"
+      ]
+    }
+  ]
+}

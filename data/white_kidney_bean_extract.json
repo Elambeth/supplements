@@ -1,0 +1,77 @@
+{
+  "supplement": "White Kidney Bean Extract",
+  "query": "White Kidney Bean Extract[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:05:17",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39295906",
+      "title": "White kidney bean extract as a nutraceutical: effects on gut microbiota, alpha-amylase inhibition, and user experiences.",
+      "authors": [
+        "David Houghton",
+        "Oliver M Shannon",
+        "Peter I Chater",
+        "Matthew D Wilcox",
+        "Jeffrey P Pearson",
+        "Kyle Stanforth",
+        "Cara Jordan",
+        "Leah Avery",
+        "Alasdair P Blain",
+        "Abraham Joel",
+        "Ruth Jeffers",
+        "Ruth Nolan",
+        "Andrew Nelson",
+        "Christopher J Stewart",
+        "Fiona C Malcomson"
+      ],
+      "journal": "Gut microbiome (Cambridge, England)",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "White kidney bean extract (WKBE) is a nutraceutical often advocated as an anti-obesity agent. The main proposed mechanism for these effects is alpha-amylase inhibition, thereby slowing carbohydrate digestion and absorption. Thus, it is possible that WKBE could impact the gut microbiota and modulate gut health. We investigated the effects of supplementing 20 healthy adults with WKBE for 1 week in a randomised, placebo-controlled crossover trial on the composition of the gut microbiota, gastrointestinal (GI) inflammation (faecal calprotectin), GI symptoms, and stool habits. We conducted in vitro experiments and used a gut model system to explore potential inhibition of alpha-amylase. We gained qualitative insight into participant experiences of using WKBE via focus groups. WKBE supplementation decreased the relative abundance of Bacteroidetes and increased that of Firmicutes, however, there were no significant differences in post-intervention gut microbiota measurements between the WKBE and control. There were no significant effects on GI inflammation or symptoms related to constipation, or stool consistency or frequency. Our in vitro and gut model system analyses showed no effects of WKBE on alpha-amylase activity. Our findings suggest that WKBE may modulate the gut microbiota in healthy adults, however, the underlying mechanism is unlikely due to active site inhibition of alpha-amylase."
+    },
+    {
+      "pmid": "29155076",
+      "title": "Genotoxicity and 28-day oral toxicity studies of a functional food mixture containing maltodextrin, white kidney bean extract, mulberry leaf extract, and niacin-bound chromium complex.",
+      "authors": [
+        "Cheng-Tien Wu",
+        "Chen-Yuan Chiu",
+        "Chun-Fa Huang",
+        "Fu-Chuo Peng",
+        "Shing-Hwa Liu"
+      ],
+      "journal": "Regulatory toxicology and pharmacology : RTP",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Steady-fiber granule (SFG) is a functional food mixture that is composed of four major ingredients, resistant maltodextrin, white kidney bean (Phaseolus vulgaris) extract, mulberry leaf (Morus alba L.) extract, and niacin-bound chromium complex. This study focused on determining the safety of SFG. Genotoxicity and 28-day oral toxicity were evaluated. SFG did not induce mutagenicity in the bacterial reverse mutation assay using five Salmonella typhimurium strains (TA98, TA100, TA102, TA1535, and TA1537) in the presence or absence of metabolic activation (S9 system). SFG also did not induce clastogenic effects in Chinese hamster ovary cells with or without S9 treatment. Similarly, SFG did not induce genotoxicity in a micronucleus test conducted with mice. A dose-dependent 28-day oral toxicity assessment of SFG for rats revealed no significant effects on mortality, body weight, selected organ weights, and behavior. Evaluations of hematology, clinical biochemistry, and histopathology showed no adverse effects in rats treated with SFG. These results suggest that SFG has no significant mutagenic or toxic properties, and the no observed adverse effect level of SFG was defined as at least 5000 mg/kg/day orally for 28 days for male and female rats.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Body Weight",
+        "CHO Cells",
+        "Cricetulus",
+        "Female",
+        "Functional Food",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Morus",
+        "Mutagenicity Tests",
+        "Mutation",
+        "Niacin",
+        "Nicotinic Acids",
+        "Organometallic Compounds",
+        "Phaseolus",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Polysaccharides",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    }
+  ]
+}

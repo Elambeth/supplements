@@ -1,0 +1,105 @@
+{
+  "supplement": "Ku shen",
+  "query": "Ku shen[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:53:50",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "39457402",
+      "title": "Unveiling the Mechanism of Compound Ku-Shen Injection in Liver Cancer Treatment through an Ingredient-Target Network Analysis.",
+      "authors": [
+        "Wenkui Zou",
+        "Jiazhen Liu",
+        "Zexing Wei",
+        "Chunhua Peng",
+        "Ying Zhao",
+        "Yue Ding",
+        "Jifan Shi",
+        "Juan Zhao"
+      ],
+      "journal": "Genes",
+      "publication_date": "2024-Sep-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Compound Ku-Shen Injection (CKI) is a traditional Chinese medicine preparation derived from Ku-Shen and Bai-Tu-Ling, commonly used in the adjunctive treatment of advanced cancers, including liver cancer. However, the underlying mechanisms of CKI's effectiveness in cancer treatment are not well defined. METHODS: This study employs network pharmacology to investigate the traditional Chinese medicine (TCM) compatibility theory underlying CKI's action in treating liver cancer, with findings substantiated by molecular docking and in vitro experiments. Sixteen active components were identified from CKI, along with 193 potential targets for treating liver cancer. Key therapeutic target proteins, including EGFR and ESR1, were also identified. KEGG enrichment results showed that the neuroactive ligand-receptor interaction, cAMP signaling pathway, and serotonergic synapses make up the key pathway of CKI in the treatment of liver cancer. Molecular docking results confirmed that the key active ingredients effectively bind to the core targets. CCK-8 cytotoxic experiment results show that the CKI key components of oxymatrine and matrine can inhibit the growth of HepG2 liver cancer cell proliferation. A Western blot analysis revealed that oxymatrine suppresses the expression of EGFR, contributing to its therapeutic efficacy against liver cancer. CONCLUSION: our study elucidated the therapeutic mechanism of CKI in treating liver cancer and unveiled the underlying principles of its TCM compatibility through its mode of action.",
+      "mesh_terms": [
+        "Humans",
+        "Drugs, Chinese Herbal",
+        "Liver Neoplasms",
+        "Molecular Docking Simulation",
+        "Hep G2 Cells",
+        "Cell Proliferation",
+        "Alkaloids",
+        "Quinolizines",
+        "ErbB Receptors",
+        "Matrines",
+        "Network Pharmacology",
+        "Signal Transduction",
+        "Medicine, Chinese Traditional",
+        "Gene Expression Regulation, Neoplastic",
+        "Estrogen Receptor alpha"
+      ]
+    },
+    {
+      "pmid": "26908268",
+      "title": "Sophora flavescens (Ku-Shen) as a booster for antiretroviral therapy through cytochrome P450 3A4 inhibition.",
+      "authors": [
+        "Z X Lin",
+        "C T Che",
+        "S S Lee",
+        "R C Y Chan",
+        "P S P Ip",
+        "J M Yang"
+      ],
+      "journal": "Hong Kong medical journal = Xianggang yi xue za zhi",
+      "publication_date": "2015-Dec",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+        "Animals",
+        "Caco-2 Cells",
+        "Cytochrome P-450 CYP3A",
+        "Cytochrome P-450 CYP3A Inhibitors",
+        "Dose-Response Relationship, Drug",
+        "Herb-Drug Interactions",
+        "Humans",
+        "Indinavir",
+        "Plant Extracts",
+        "Rats",
+        "Ritonavir",
+        "Sophora",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "19538168",
+      "title": "Effects of oxymatrine from Ku Shen on cancer cells.",
+      "authors": [
+        "John W Ho",
+        "Parry Lee Ngan Hon",
+        "Wai On Chim"
+      ],
+      "journal": "Anti-cancer agents in medicinal chemistry",
+      "publication_date": "2009-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Oxymatrine is one of active constituents isolated from Ku Shen, which is the dried root of Sophora flavescens Ait. The herb used in different herbal formulations is commonly known with specific pharmacological properties for treatment of liver disorders and other diseases such as arrhythmia, eczema and skin disorders, leukopenia and bronchitis. Sophora flavescens Ait is known to enhance liver functions and reduce hepatotoxicity due to oxidative stress and liver injury. The protection of cells from chemical toxicity is important in reducing liver damage. Reduction of oxidative stress by active components of herbal medicines is shown to be beneficial and important in regulating the normal functions of the liver. In this study, effects of oxymatrine on cancer cells after treatment of the cell line with DMSO were reported. This review described for cells without oxymatrine pre-treatment, cell injury was implicated as indicated by the decrease in cell viability. Ku Shen showed protective effects on cells from the DMSO-induced toxicity. The results show that oxymatrine can inhibit the G(2) and M phase of H4IIE. The findings suggest that anti-inflammatory constituents such as oxymatrine could mediate cell division of cancer cells and reduce cell cytotoxicity due probably to its capacity to inhibit the metabolic activation of hepato-toxin, a critical factor in the pathogenesis of chemical-induced liver injury.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Drugs, Chinese Herbal",
+        "Humans",
+        "Liver Neoplasms",
+        "Quinolizines"
+      ]
+    }
+  ]
+}

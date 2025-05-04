@@ -1,0 +1,45 @@
+{
+  "supplement": "Calcium-D-Glucarate",
+  "query": "Calcium-D-Glucarate[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:29:29",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "17725531",
+      "title": "Induction of apoptosis by calcium D-glucarate in 7,12-dimethyl benz [a] anthracene-exposed mouse skin.",
+      "authors": [
+        "Jaya Singh",
+        "Krishna P Gupta"
+      ],
+      "journal": "Journal of environmental pathology, toxicology and oncology : official organ of the International Society for Environmental Toxicology and Cancer",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Calcium glucarate (Cag), a naturally occurring nontoxic compound, suppresses the DMBA-induced tumor development in mouse skin. In the process of understanding the mechanisms of tumor suppression by Cag, we investigated the effect of topical application of Cag on selective and critical events of apoptotic pathway in DMBA-exposed mouse epidermis. Varied doses of DMBA or Cag were used for the study. DMBA had an inhibitory effect on proteases in general and on caspases in particular. Cag tried to reverse the inhibitory effect of DMBA on 3, 8, or 9 caspase in a dose-dependent manner. Cag inhibited activity of Poly ADP-ribose polymerase enzyme, a substrate of caspses, after DMBA exposure. As indicated by western blotting, Cag treatment also inhibited PARP expression induced by DMBA at the level of protein. Cag induced the DMBA-inhibited Ca++/Mg++-dependent endonuclease, an enzyme responsible for the DNA fragmentation during apoptosis. DMBA induced the expression of mutant-p53 and Bcl-2. This induced expression of proteins was reversed when Cag was given along with DMBA. Cag showed a dose-dependent inhibition of DMBA-induced mutant-p53 expression. Similarly Bcl-2 overexpression by DMBA was also inhibited by topical treatment of Cag when given along with DMBA. Inhibition of mutant-p53 and Bcl-2 expression by Cag in DMBA-exposed mouse skin might contribute to the apoptogenic effect possibly exerted by Cag while suppressing the tumor development. The study indicates that Cag induces apoptosis in mouse epidermis, a possible mechanism for tumor suppression, and thus could be considered a promising anticancer agent.",
+      "mesh_terms": [
+        "9,10-Dimethyl-1,2-benzanthracene",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Apoptosis",
+        "Carcinogens",
+        "Caspases",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Gene Expression Regulation",
+        "Gene Expression Regulation, Enzymologic",
+        "Glucaric Acid",
+        "Mice",
+        "Peptide Hydrolases",
+        "Poly (ADP-Ribose) Polymerase-1",
+        "Poly(ADP-ribose) Polymerases",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Skin",
+        "Skin Neoplasms",
+        "Tumor Suppressor Protein p53"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,965 @@
+{
+  "supplement": "Fermented Foods",
+  "query": "Fermented Foods[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:34:51",
+  "research_count": 35,
+  "count": 35,
+  "articles": [
+    {
+      "pmid": "40068439",
+      "title": "Anti-listeria activity of newly isolated lactic acid bacteria from fermented foods and their application to smoked salmon(Coho).",
+      "authors": [
+        "Na-Yeon Son",
+        "Gi-Seong Moon",
+        "Mark S Turner",
+        "Hyun-Gyun Yuk"
+      ],
+      "journal": "International journal of food microbiology",
+      "publication_date": "2025-Apr-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of this study was to evaluate the anti-listeria activities of lactic acid bacteria (LAB) isolated from Korean fermented foods and to assess the effect of fermentate (cells and cell-free supernatant [CFS]), CFS or cells in controlling L. monocytogenes on smoked salmon, packaged either in vacuum- and air-packaging. One L. lactis (CJNU3001) strain and two Enterococcus faecium (CJNU2524 and CJNU2008) strains appeared to have higher anti-listeria activity than the other 15 LAB strains. They also exhibited anti-listeria activity against 24 L. monocytogenes strains of various serotypes. CJNU3001 had greater anti-listeria activity in brain heat infusion broth than the two E. faecium strains. No anti-listeria activity was observed when the partially purified proteinaceous compounds of all three LAB strains were treated with proteinase K, revealing that their anti-listeria activities might be due to bacteriocins. Amplification and sequence analysis of the nisin gene confirmed that CJNU3001 was a nisin Z producer. The treatment of fermentate and CFS of CNJU3001 on smoked salmon inoculated with L. monocytogenes at 6.0 log CFU/g inhibited the growth of the pathogen during storage. On the other hand, about 2.0 log reduction was achieved immediately after treatment of the fermentate and CFS of CNJU3001 when L. monocytogenes was inoculated at 5.0 log CFU/g, regardless of storage temperature and packaging type. The treatment using only CJNU3001 cells was not effective in controlling L. monocytogenes on smoked salmon, regardless of inoculation level of the pathogen. The fermentate and CFS treatment of CJNU3001 did not cause any color change of vacuum-packed smoked salmon. Thus, this study suggests that CJNU3001 fermentate and CFS as biopreservatives could be used to control the growth of L. monocytogenes on smoked salmon without causing color change.",
+      "mesh_terms": [
+        "Animals",
+        "Listeria monocytogenes",
+        "Fermented Foods",
+        "Salmon",
+        "Food Microbiology",
+        "Fermentation",
+        "Food Preservation",
+        "Food Packaging",
+        "Seafood",
+        "Lactobacillales",
+        "Nisin"
+      ]
+    },
+    {
+      "pmid": "39065201",
+      "title": "High Prevalence of Antibiotic Resistance in Traditionally Fermented Foods as a Critical Risk Factor for Host Gut Antibiotic Resistome.",
+      "authors": [
+        "Yutong Li",
+        "Siying Fu",
+        "Matthias S Klein",
+        "Hua Wang"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2024-Jul-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to assess the suitability of fermented food interventions to replenish damaged gut microbiota. Metagenomic assessment of published sequencing data found that fermented food interventions led to a significant increase in the gut antibiotic resistome in healthy human subjects. Antibiotic resistome and viable antibiotic-resistant (AR) bacteria were further highly prevalent in retail kimchi and artisan cheeses by metagenomic and culture analyses. Representative AR pathogens of importance in nosocomial infections, such as Klebsiella pneumoniae, Serratia marcescens, and vancomycin-resistant Enterococcus (VRE), as well as commensals and lactic acid bacteria, were characterized; some exhibited an extremely high minimum inhibitory concentration (MIC) against antibiotics of clinical significance. Exposing fermented food microbiota to representative antibiotics further led to a boost of the corresponding antibiotic and multidrug-resistance gene pools, as well as disturbed microbiota, including the rise of previously undetectable pathogens. These results revealed an underestimated public health risk associated with fermented food intervention at the current stage, particularly for susceptible populations with compromised gut integrity and immune functions seeking gut microbiota rescue. The findings call for productive intervention of foodborne AR via technology innovation and strategic movements to mitigate unnecessary, massive damages to the host gut microbiota due to orally administered or biliary excreted antibiotics."
+    },
+    {
+      "pmid": "38973125",
+      "title": "Cereal-based fermented foods as microbiota-directed products for improved child nutrition and health in sub-Saharan Africa.",
+      "authors": [
+        "Marcel Houngbédji",
+        "Jonas Sveen Jespersen",
+        "Sègla Wilfrid Padonou",
+        "Lene Jespersen"
+      ],
+      "journal": "Critical reviews in food science and nutrition",
+      "publication_date": "2024-Jul-07",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Several strategies, programs and policies have long been developed and implemented to alleviate child malnutrition in sub-Saharan African countries. However, stunting and wasting still persist at an alarming rate, suggesting that alternative strategies are needed to induce faster progress toward the 2030 SDGs targets of reducing malnutrition. Gut microbiota-directed intervention is now being recognized as an unconventional powerful approach to mitigate malnutrition and improve overall child health. In an African setting, manufactured probiotic and synbiotic foods or supplements may not be successful owing to the non-affordability and high attachment of African populations to their food tradition. This review analyses the potential of indigenous fermented cereal-based products including porridges, doughs, beverages, bread- and yoghurt-like products, to be used as microbiota-directed foods for over 6 months children. The discussion includes relevant strategies to effectively enhance the beneficial effects of these products on gut microbiota composition for improved child health and nutrition in sub-Saharan Africa. Characterization of probiotic features and general safety of food processing in sub-Saharan Africa as well as randomized clinical studies are still lacking to fully ascertain the health effects and suitability of these fermented foods in preventing and treating child malnutrition and diarrhea."
+    },
+    {
+      "pmid": "38468236",
+      "title": "Characterization of the broad-spectrum antibacterial activity of bacteriocin-like inhibitory substance-producing probiotics isolated from fermented foods.",
+      "authors": [
+        "Tran Thi Dieu Thuy",
+        "Hsu-Feng Lu",
+        "Carl Jay Ballena Bregente",
+        "Fong-Chi Annabelle Huang",
+        "Pei-Chun Tu",
+        "Cheng-Yen Kao"
+      ],
+      "journal": "BMC microbiology",
+      "publication_date": "2024-Mar-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Antimicrobial peptides, such as bacteriocin, produced by probiotics have become a promising novel class of therapeutic agents for treating infectious diseases. Selected lactic acid bacteria (LAB) isolated from fermented foods with probiotic potential were evaluated for various tests, including exopolysaccharide production, antibiotic susceptibility, acid and bile tolerance, antibacterial activity, and cell adhesion and cytotoxicity to gastric cell lines. Six selected LAB strains maintained their high viability under gastrointestinal conditions, produced high exopolysaccharides, showed no or less cytotoxicity, and adhered successfully to gastric cells. Furthermore, three strains, Weissella confusa CYLB30, Lactiplantibacillus plantarum CYLB47, and Limosilactobacillus fermentum CYLB55, demonstrated a strong antibacterial effect against drug-resistant Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Salmonella enterica serovar Choleraesuis, Enterococcus faecium, and Staphylococcus aureus. Whole genome sequencing was performed on these three strains using the Nanopore platform; then, the results showed that all three strains did not harbor genes related to toxins, superantigens, and acquired antimicrobial resistance, in their genome. The bacteriocin gene cluster was found in CYLB47 genome, but not in CYLB30 and CYLB55 genomes. In SDS-PAGE, the extract of CYLB30 and CYLB47 bacteriocin-like inhibitory substance (BLIS) yielded a single band with a size of less than 10 kDa. These BLIS inhibited the growth and biofilm formation of drug-resistant P. aeruginosa and methicillin-resistant S. aureus (MRSA), causing membrane disruption and inhibiting adhesion ability to human skin HaCaT cells. Moreover, CYLB30 and CYLB47 BLIS rescued the larvae after being infected with P. aeruginosa and MRSA infections. In conclusion, CYLB30 and CYLB47 BLIS may be potential alternative treatment for multidrug-resistant bacteria infections.",
+      "mesh_terms": [
+        "Humans",
+        "Bacteriocins",
+        "Methicillin-Resistant Staphylococcus aureus",
+        "Anti-Bacterial Agents",
+        "Lactobacillales",
+        "Probiotics",
+        "Fermented Foods"
+      ]
+    },
+    {
+      "pmid": "38278378",
+      "title": "Fermented foods: Harnessing their potential to modulate the microbiota-gut-brain axis for mental health.",
+      "authors": [
+        "Ramya Balasubramanian",
+        "Elizabeth Schneider",
+        "Eoin Gunnigle",
+        "Paul D Cotter",
+        "John F Cryan"
+      ],
+      "journal": "Neuroscience and biobehavioral reviews",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Over the past two decades, whole food supplementation strategies have been leveraged to target mental health. In addition, there has been increasing attention on the ability of gut microbes, so called psychobiotics, to positively impact behaviour though the microbiota-gut-brain axis. Fermented foods offer themselves as a combined whole food microbiota modulating intervention. Indeed, they contain potentially beneficial microbes, microbial metabolites and other bioactives, which are being harnessed to target the microbiota-gut-brain axis for positive benefits. This review highlights the diverse nature of fermented foods in terms of the raw materials used and type of fermentation employed, and summarises their potential to shape composition of the gut microbiota, the gut to brain communication pathways including the immune system and, ultimately, modulate the microbiota-gut-brain axis. Throughout, we identify knowledge gaps and challenges faced in designing human studies for investigating the mental health-promoting potential of individual fermented foods or components thereof. Importantly, we also suggest solutions that can advance understanding of the therapeutic merit of fermented foods to modulate the microbiota-gut-brain axis.",
+      "mesh_terms": [
+        "Humans",
+        "Probiotics",
+        "Brain-Gut Axis",
+        "Mental Health",
+        "Gastrointestinal Microbiome",
+        "Fermented Foods"
+      ]
+    },
+    {
+      "pmid": "38112243",
+      "title": "Effect of intake of probiotics and probiotic fermented foods on clinical outcomes among people living with HIV: A systematic review and meta-analysis.",
+      "authors": [
+        "Oluwafemi Temitayo Oyadiran",
+        "Samuel Busayo Ogunlade",
+        "Temitayo Rebecca Okusanya",
+        "Elile Monisola Okoka",
+        "Moshood Abiodun Kuyebi",
+        "Moshood Olanrewaju Omotayo",
+        "Ajibola Ibraheem Abioye"
+      ],
+      "journal": "Tropical medicine & international health : TM & IH",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The objective of the study was to determine the effect of probiotics and of probiotic-fermented foods on CD4 T-cell count, viral load, anaemia and body mass index (BMI) among people living with HIV (PLHIV). METHODS: In this article, we systematically reviewed the evidence on the influence of probiotic supplementation on CD4 lymphocyte count, viral load and anaemia among PLHIV on highly active antiretroviral therapy (HAART) and those who were HAART-naive. Medical literature databases identified randomised trials and pre-post studies of probiotic supplementation and HIV-related outcomes, and random effects meta-analysis was conducted. RESULTS: The preponderance of the evidence suggests that probiotic supplementation only improved CD4 lymphocyte count modestly, with quantitatively greater impact among individuals who were HAART-naive compared to HAART-experienced individuals. Probiotic supplementation improved CD4 lymphocyte count by 53 cells/mm3 (95% CI: 22 to 85) from 18 studies. Probiotic supplementation however reduced haemoglobin concentration by -2.1 g/L (95% CI: -4.0 to -0.2). Although viral load remain unchanged in HAART-experienced participants following probiotic supplementation, HAART-naïve participants saw a decrease in viral load. There were too few studies on the impact of probiotic supplementation on viral load (N = 1). CONCLUSION: Probiotic supplementation resulted in a modest increase in CD4 lymphocyte count among HAART-naive individuals with no significant change observed among HAART-experienced ones. Viral load and haemoglobin concentration also remained unchanged following probiotic supplementation. Further rigorous and well-powered studies may evaluate the effect of probiotic supplementation on important clinical outcomes among PLHIV on HAART.",
+      "mesh_terms": [
+        "Humans",
+        "HIV Infections",
+        "Antiretroviral Therapy, Highly Active",
+        "CD4 Lymphocyte Count",
+        "Probiotics",
+        "Anemia",
+        "Hemoglobins",
+        "Viral Load"
+      ]
+    },
+    {
+      "pmid": "37823145",
+      "title": "Research progress on the fibrinolytic enzymes produced from traditional fermented foods.",
+      "authors": [
+        "Panpan Wang",
+        "Cuiying Peng",
+        "Xiaomei Xie",
+        "Xiongwei Deng",
+        "Meizhi Weng"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Cardiovascular diseases (CVDs) are a global health problem and leading cause of death worldwide. Thrombus formation, one of the CVDs, is essentially the formation of fibrin clots. The existing thrombolytic agents have the disadvantages of high price, short half-life, and high bleeding risk; hence, there is an urgent need to find the alternative thrombolytic agents. In recent years, traditional fermented foods have been widely investigated for their outstanding effects in the prevention and treatment of thrombus formation. In this review, we have focused on fibrinolytic enzymes produced by microorganisms during the fermentation of traditional fermented foods and their potential use for treating CVDs. First, we discussed about the sources of fibrinolytic enzymes and microbial strains that produce those enzymes followed by the optimization of fermentation process, purification, and physicochemical properties of fibrinolytic enzymes. Finally, we have summarized the thrombolytic effects of fibrinolytic enzymes in humans and mice. Fibrinolytic enzymes produced by microorganisms during the fermentation of traditional fermented foods not only lyse thrombi but also acts as anti-atherosclerotic, anti-hyperlipidemia, and neuroprotection agents. Therefore, fibrinolytic enzymes from traditional fermented foods have great potential for the prevention and treatment of CVDs."
+    },
+    {
+      "pmid": "37204758",
+      "title": "Fermented foods and metabolic outcomes in diabetes and prediabetes: A systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Xiao-Feng Zhang",
+        "Yue Qi",
+        "Yong-Ping Zhang",
+        "Jin-Lan Deng",
+        "Xiao-Li Chen",
+        "Ruo-Nan Li",
+        "Qi-Lun Zhou",
+        "Jian-Ming Fan"
+      ],
+      "journal": "Critical reviews in food science and nutrition",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Several randomized controlled trials (RCTs) have investigated the effects of fermented foods on metabolic outcomes in adult patients suffering from diabetes and prediabetes. However, the results of these RCTs are conflicting. This systematic review and meta-analysis was carried out on data from RCTs to evaluate the effects of fermented foods in patients with diabetes and prediabetes. The PubMed, Web of Science, Embase, the Cochrane Library and Scopus databases were searched up to 21 June, 2022. English-language RCTs of fermented foods consumption were included which gave metabolic outcomes on body composition, glucose control, insulin sensitivity, lipid profile, as well as blood pressure. Eighteen RCTs met the inclusion criteria and 843 participants were included in the final analysis. The pooled results showed a significant reduction of fasting blood glucose (FBG), the homeostatic model assessment of insulin resistance (HOMA-IR), total cholesterol (TC), low density lipid cholesterol (LDL-C) and diastolic blood pressure (DBP) in the intervention group versus the control group. The results of this research showed that fermented foods have the potential to improve some metabolic outcomes, including FBG, HOMA-IR, TC, LDL-C, and DBP in patients with diabetes and prediabetes.",
+      "mesh_terms": [
+        "Humans",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2",
+        "Fermented Foods",
+        "Insulin Resistance",
+        "Prediabetic State",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "37086870",
+      "title": "Gut microbiome and cancer implications: Potential opportunities for fermented foods.",
+      "authors": [
+        "Sylvia L Crowder",
+        "Heather S L Jim",
+        "Stephanie Hogue",
+        "Tiffany L Carson",
+        "Doratha A Byrd"
+      ],
+      "journal": "Biochimica et biophysica acta. Reviews on cancer",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "There is a critical opportunity to improve response to immunotherapies and overall cancer survivorship via dietary interventions targeted to modify the gut microbiome, and in turn, potentially enhance anti-cancer immunity. A promising dietary intervention is fermented foods, which may alter gut microbiome composition and, in turn, improve immunity. In this article, we summarize the state of the literature pertaining to the gut microbiome and response to immunotherapy and other cancer treatments, potential clinical implications of utilizing a fermented foods dietary approach to improve cancer treatment outcomes, and existing gaps in the literature regarding the implementation of fermented food interventions among individuals with cancer or with a history of cancer. This review synthesizes a compelling rationale across different disciplines to lay a roadmap for future fermented food dietary intervention research aimed at modulating the gut microbiome to reduce cancer burden.",
+      "mesh_terms": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Diet",
+        "Fermented Foods",
+        "Immunotherapy",
+        "Neoplasms"
+      ]
+    },
+    {
+      "pmid": "37041970",
+      "title": "Probiotic therapy, African fermented foods and food-derived bioactive peptides in the management of SARS-CoV-2 cases and other viral infections.",
+      "authors": [
+        "Florence Chioma Mgbodile",
+        "Tochukwu Nwamaka T Nwagu"
+      ],
+      "journal": "Biotechnology reports (Amsterdam, Netherlands)",
+      "publication_date": "2023-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The current paper focuses on the impact of probiotics, African fermented foods and bioactive peptides on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection severity and related viral infections. Using probiotics or bioactive peptides as therapeutic adjuncts appears superior to standard care alone. Probiotics play critical roles in innate and adaptive immune modulation by balancing the gut microbiota to combat viral infections, secondary bacterial infections and microbial dysbiosis. African fermented foods contain abundant potential probiotic microorganisms such as the lactic acid bacteria (LAB), Saccharomyces, and Bacillus. More so, fermented food-derived bioactive peptides play vital roles in preventing cardiovascular diseases, hypertension, lung injury, diabetes, and other COVID-19 comorbidities. Regularly incorporating potential probiotics and bioactive peptides into diets should enable a build-up of the benefits in the body system that may result in a better prognosis, especially in COVID-19 patients with underlying complexities. Despite the reported therapeutic potentials of probiotics and fermented foods, numerous setbacks exist regarding their application in disease management. These shortfalls underscore an evident need for more studies to evaluate the specific potentials of probiotics and traditional fermented foods in ameliorating SARS-CoV-2 and other viral infections."
+    },
+    {
+      "pmid": "36981090",
+      "title": "Microbial Detoxification of Residual Pesticides in Fermented Foods: Current Status and Prospects.",
+      "authors": [
+        "Nadya Armenova",
+        "Lidia Tsigoriyna",
+        "Alexander Arsov",
+        "Kaloyan Petrov",
+        "Penka Petrova"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2023-Mar-09",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The treatment of agricultural areas with pesticides is an indispensable approach to improve crop yields and cannot be avoided in the coming decades. At the same time, significant amounts of pesticides remain in food and their ingestion causes serious damage such as neurological, gastrointestinal, and allergic reactions; cancer; and even death. However, during the fermentation processing of foods, residual amounts of pesticides are significantly reduced thanks to enzymatic degradation by the starter and accompanying microflora. This review concentrates on foods with the highest levels of pesticide residues, such as milk, yogurt, fermented vegetables (pickles, kimchi, and olives), fruit juices, grains, sourdough, and wines. The focus is on the molecular mechanisms of pesticide degradation due to the presence of specific microbial species. They contain a unique genetic pool that confers an appropriate enzymological profile to act as pesticide detoxifiers. The prospects of developing more effective biodetoxification strategies by engaging probiotic lactic acid bacteria are also discussed."
+    },
+    {
+      "pmid": "36415576",
+      "title": "Microbiological Composition and Sensory Characterization Analysis of Fermented Sausage Using Strains Isolated from Korean Fermented Foods.",
+      "authors": [
+        "Chang-Hwan Jeong",
+        "Sol-Hee Lee",
+        "Hack-Youn Kim"
+      ],
+      "journal": "Food science of animal resources",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to analyze the microbiological composition and sensory characterization of fermented sausage using strains isolated from Kimchi (GK1, Pediococcus pentosaceus SMFM2016-GK1; NK3, P. pentosaceus SMFM2016-NK3), Doenjang (D1, Debaryomyces hansenii SMFM2021-D1), and spontaneously fermented sausage (S8, D. hansenii SMFM2021-S8; S6, Penicillium nalgiovense SMFM2021-S6). The control was commercial starter culture. Nine treatments were applied [GD (GK1+D1), GS (GK1+S8), GDS (GK1+D1+S8), ND (NK3+D1), NS (NK3+S8), NDS (NK3+D1+S8), GND (GK1+NK3+D1), GNS (GK1+NK3+S8), and GNDS (GK1+NK3+D1+S8)] by mixing lactic acid bacteria and yeast, and S6 was sprayed. The microbial composition of fermented sausage was analyzed [aerobic bacteria (AC), Lactobacillus spp. (LABC), Staphylococcus spp. (STPC), and yeast and mold (YMC)], and pH and electronic nose and tongue measurements were taken. The AC, LABC, STPC, and YMC values of the control and treatment groups tended to increase during fermentation (p>0.05). The STPC values of the GD, GS, ND, and GDS groups were similar to that of the control on day 3. The pH of the control on day 3 was significantly lower than that of the GD, ND, and GND groups (p<0.05). Higher levels of 4-methylpentanol, 2-furanmethanol, and propyl nonanoate, which provide a \"fermented\" flavor, were detected in the GD group compared to in the control and other treatment groups. GD and ND groups showed higher umami values than the control and other treatment groups. Therefore, it is expected that GD can be valuable as a starter culture unique to Korea when manufacturing fermented sausage."
+    },
+    {
+      "pmid": "35804753",
+      "title": "Semantics of Dairy Fermented Foods: A Microbiologist's Perspective.",
+      "authors": [
+        "Francesco Vitali",
+        "Paola Zinno",
+        "Emily Schifano",
+        "Agnese Gori",
+        "Ana Costa",
+        "Carlotta De Filippo",
+        "Barbara Koroušić Seljak",
+        "Panče Panov",
+        "Chiara Devirgiliis",
+        "Duccio Cavalieri"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2022-Jun-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Food ontologies are acquiring a central role in human nutrition, providing a standardized terminology for a proper description of intervention and observational trials. In addition to bioactive molecules, several fermented foods, particularly dairy products, provide the host with live microorganisms, thus carrying potential \"genetic/functional\" nutrients. To date, a proper ontology to structure and formalize the concepts used to describe fermented foods is lacking. Here we describe a semantic representation of concepts revolving around what consuming fermented foods entails, both from a technological and health point of view, focusing actions on kefir and Parmigiano Reggiano, as representatives of fresh and ripened dairy products. We included concepts related to the connection of specific microbial taxa to the dairy fermentation process, demonstrating the potential of ontologies to formalize the various gene pathways involved in raw ingredient transformation, connect them to resulting metabolites, and finally to their consequences on the fermented product, including technological, health and sensory aspects. Our work marks an improvement in the ambition of creating a harmonized semantic model for integrating different aspects of modern nutritional science. Such a model, besides formalizing a multifaceted knowledge, will be pivotal for a rich annotation of data in public repositories, as a prerequisite to generalized meta-analysis."
+    },
+    {
+      "pmid": "35624749",
+      "title": "Clinical and Preclinical Studies of Fermented Foods and Their Effects on Alzheimer's Disease.",
+      "authors": [
+        "Muganti Rajah Kumar",
+        "Nor Farahin Azizi",
+        "Swee Keong Yeap",
+        "Janna Ong Abdullah",
+        "Melati Khalid",
+        "Abdul Rahman Omar",
+        "Mohd Azuraidi Osman",
+        "Adam Thean Chor Leow",
+        "Sharifah Alawieyah Syed Mortadza",
+        "Noorjahan Banu Alitheen"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2022-Apr-29",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The focus on managing Alzheimer's disease (AD) is shifting towards prevention through lifestyle modification instead of treatments since the currently available treatment options are only capable of providing symptomatic relief marginally and result in various side effects. Numerous studies have reported that the intake of fermented foods resulted in the successful management of AD. Food fermentation is a biochemical process where the microorganisms metabolize the constituents of raw food materials, giving vastly different organoleptic properties and additional nutritional value, and improved biosafety effects in the final products. The consumption of fermented foods is associated with a wide array of nutraceutical benefits, including anti-oxidative, anti-inflammatory, neuroprotective, anti-apoptotic, anti-cancer, anti-fungal, anti-bacterial, immunomodulatory, and hypocholesterolemic properties. Due to their promising health benefits, fermented food products have a great prospect for commercialization in the food industry. This paper reviews the memory and cognitive enhancement and neuroprotective potential of fermented food products on AD, the recently commercialized fermented food products in the health and food industries, and their limitations. The literature reviewed here demonstrates a growing demand for fermented food products as alternative therapeutic options for the prevention and management of AD."
+    },
+    {
+      "pmid": "35484792",
+      "title": "The efficacy of fermented foods in the treatment and management of diarrhoeal diseases: A systematic review and meta-analysis.",
+      "authors": [
+        "Adetokunbo Olayanju",
+        "Duane Mellor",
+        "Yunus Khatri",
+        "Neil Pickles"
+      ],
+      "journal": "Nutrition and health",
+      "publication_date": "2023-Mar",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Background: Diarrhoeal disease is a major cause of global infant mortality, and compromises the ability of many countries with respect to achieving sustainable development goals. The WHO's recommendation of Oral Rehydration Solution (ORS) and zinc in the management of this disease, may not be readily available. Consideration and assessment of cultural practices in its management has been an area of increased interest over the last decade. Aim: This study aims to systematically evaluate efficacy of the consumption of traditional fermented foods as functional products for the treatment and management of diarrhoea. Methods: Following PRISMA guidelines, a systematic review was conducted of electronic databases (Cochrane Library, Ovid Medline and Pubmed) databases with no restrictions on language and publication date for RCTs that investigated the effect of consumption of fermented foods on the treatment of diarrhoea in children under five years of age. Results: Seven RCTs were included. Meta-analysis showed that compared to control, consumption of fermented foods significantly reduced mean duration of diarrhoea, -0.61 days; (95% CI, -1.04, -0.18); length of hospitalization, -0.35 days (95% CI, -0.69, -0.02); but not mean daily frequency of stool -2.00 (95% CI,-7.03, 3.04). Conclusion: Limited available evidence suggests that consumption of fermented foods may help reduce duration and severity of symptoms as a treatment of diarrhoea. More high quality research needs to be undertaken to investigate the efficacy of fermented food as an effective alternative to ORS as a potential WHO recommendation for management of diarrhoeal disease.",
+      "mesh_terms": [
+        "Infant",
+        "Child",
+        "Humans",
+        "Child, Preschool",
+        "Diarrhea",
+        "Hospitalization"
+      ]
+    },
+    {
+      "pmid": "35330774",
+      "title": "Two Faces of Fermented Foods-The Benefits and Threats of Its Consumption.",
+      "authors": [
+        "Krzysztof Skowron",
+        "Anna Budzyńska",
+        "Katarzyna Grudlewska-Buda",
+        "Natalia Wiktorczyk-Kapischke",
+        "Małgorzata Andrzejewska",
+        "Ewa Wałecka-Zacharska",
+        "Eugenia Gospodarek-Komkowska"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "In underdeveloped and developing countries, due to poverty, fermentation is one of the most widely used preservation methods. It not only allows extending the shelf life of food, but also brings other benefits, including inhibiting the growth of pathogenic microorganisms, improving the organoleptic properties and product digestibility, and can be a valuable source of functional microorganisms. Today, there is a great interest in functional strains, which, in addition to typical probiotic strains, can participate in the treatment of numerous diseases, disorders of the digestive system, but also mental diseases, or stimulate our immune system. Hence, fermented foods and beverages are not only a part of the traditional diet, e.g., in Africa but also play a role in the nutrition of people around the world. The fermentation process for some products occurs spontaneously, without the use of well-defined starter cultures, under poorly controlled or uncontrolled conditions. Therefore, while this affordable technology has many advantages, it can also pose a potential health risk. The use of poor-quality ingredients, inadequate hygiene conditions in the manufacturing processes, the lack of standards for safety and hygiene controls lead to the failure food safety systems implementation, especially in low- and middle-income countries or for small-scale products (at household level, in villages and scale cottage industries). This can result in the presence of pathogenic microorganisms or their toxins in the food contributing to cases of illness or even outbreaks. Also, improper processing and storage, as by well as the conditions of sale affect the food safety. Foodborne diseases through the consumption of traditional fermented foods are not reported frequently, but this may be related, among other things, to a low percentage of people entering healthcare care or weaknesses in foodborne disease surveillance systems. In many parts of the world, especially in Africa and Asia, pathogens such as enterotoxigenic and enterohemorrhagic Escherichia coli, Shigella spp., Salmonella spp., enterotoxigenic Staphylococcus aureus, Listeria monocytogenes, and Bacillus cereus have been detected in fermented foods. Therefore, this review, in addition to the positive aspects, presents the potential risk associated with the consumption of this type of products."
+    },
+    {
+      "pmid": "34402418",
+      "title": "Fermented Foods and Their Abating Role in Gastric Ulcers.",
+      "authors": [
+        "S Vijayasarathy",
+        "P Gayathri",
+        "V Suneetha"
+      ],
+      "journal": "Journal of the American Nutrition Association",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Helicobacter pylori plays a consequential role in gastric inflammations and ulceration. The cure for the same was researched and identified to be the triple therapy regime. Intensive research in the field also proved that altering the food habits during ulcers will be a major factor in the time period that is required for cure. Fermented foods usage dates back to ancient civilizations, but their role in maintaining gastric health are slowly being uncovered. One such major role reported will be the bacterial check that the probiotics in fermented food do in human gastrointestinal tract. Various species of bacteria present in the fermented products will lead to reduction of the H. Pylori infection in the GI tract.Key teaching pointsMicrobes that are active in fermented foods reduce inflammation and improve histological conditions of ulcers caused due to H. pylori.Microbes such as Lactobacillus that were in fermented products when tested showed inhibitory effects, decreasing infection density and reducing mucus depletion.Lactic fermented products showed a decrease in urease activity and reduces H. pylori adhesion through various organic acid secretions.Organisms in fermented products involve various mechanisms like lowering gut pH, improving immunological responses, scavenging free radicals and so on.Fermented foods have many modulatory effects that help fighting and curing gastric ulcers.",
+      "mesh_terms": [
+        "Humans",
+        "Helicobacter Infections",
+        "Stomach Ulcer",
+        "Ulcer",
+        "Helicobacter pylori",
+        "Fermented Foods"
+      ]
+    },
+    {
+      "pmid": "33625606",
+      "title": "Lactobacillus plantarum strain HT-W104-B1: potential bacterium isolated from Malaysian fermented foods for control of the dermatophyte Trichophyton rubrum.",
+      "authors": [
+        "Azlina Mohd Danial",
+        "Angel Medina",
+        "Naresh Magan"
+      ],
+      "journal": "World journal of microbiology & biotechnology",
+      "publication_date": "2021-Feb-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective was to screen and evaluate the anti-fungal activity of lactic acid bacteria (LABs) isolated from Malaysian fermented foods against two Trichophyton species. A total of 66 LAB strains were screened using dual culture assays. This showed that four LAB strains were very effective in inhibiting growth of T. rubrum but not T. interdigitale. More detailed studies with Lactobacillus plantarum strain HT-W104-B1 showed that the supernatant was mainly responsible for inhibiting the growth of T. rubrum. The minimum inhibitory concentration (MIC), inhibitory concentration, the 50% growth inhibition (IC50) and minimum fungicide concentration (MFC) were 20 mg/mL, 14 mg/mL and 30 mg/mL, respectively. A total of six metabolites were found in the supernatant, with the two major metabolites being L-lactic acid (19.1 mg/g cell dry weight (CDW)) and acetic acid (2.2 mg/g CDW). A comparative study on keratin agar media showed that the natural mixture in the supernatants predominantly contained L-lactic and acetic acid, and this significantly controlled the growth of T. rubrum. The pure two individual compounds were less effective. Potential exists for application of the natural mixture of compounds for the treatment of skin infection by T. rubrum.",
+      "mesh_terms": [
+        "Acetic Acid",
+        "Antifungal Agents",
+        "Arthrodermataceae",
+        "Biological Control Agents",
+        "Culture Media",
+        "Fermented Foods",
+        "Lactic Acid",
+        "Lactobacillus plantarum",
+        "Microbial Sensitivity Tests",
+        "Tinea",
+        "Trichophyton"
+      ]
+    },
+    {
+      "pmid": "33307114",
+      "title": "Possible use of fermented foods in rehabilitation of anorexia nervosa: the gut microbiota as a modulator.",
+      "authors": [
+        "Tetyana Rocks",
+        "Madeline West",
+        "Meghan Hockey",
+        "Hajara Aslam",
+        "Melissa Lane",
+        "Amy Loughman",
+        "Felice N Jacka",
+        "Anu Ruusunen"
+      ],
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "publication_date": "2021-Apr-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Anorexia nervosa is a serious psychiatric disorder with high morbidity and mortality rate. Evidence for the optimal psychopharmacological approach to managing the disorder remains limited, with nutritional treatment, focused on weight restoration through the consumption of high energy diet, regarded as one of the fundamental steps in treatment. The human gut microbiome is increasingly recognised for its proposed role in gastrointestinal, metabolic, immune and mental health, all of which may be compromised in individuals with anorexia nervosa. Dietary intake plays an important role in shaping gut microbiota composition, whilst the use of fermented foods, foods with potential psychobiotic properties that deliver live bacteria, bacterial metabolites, prebiotics and energy, have been discussed to a lesser extent. However, fermented foods are of increasing interest due to their potential capacity to affect gut microbiota composition, provide beneficial bacterial metabolites, and confer beneficial outcomes to host health. This review provides an overview of the role of the gut microbiota in relation to the disease pathology in anorexia nervosa and especially focuses on the therapeutic potential of fermented foods, proposed here as a recommended addition to the current nutritional treatment protocols warranting further investigation.",
+      "mesh_terms": [
+        "Anorexia Nervosa",
+        "Eating",
+        "Fermented Foods",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Immunity, Cellular",
+        "Mental Health"
+      ]
+    },
+    {
+      "pmid": "33305285",
+      "title": "Psychobiotic Effects of Multi-Strain Probiotics Originated from Thai Fermented Foods in a Rat Model.",
+      "authors": [
+        "Vijitra Luang-In",
+        "Teeraporn Katisart",
+        "Ampa Konsue",
+        "Sutisa Nudmamud-Thanoi",
+        "Arjan Narbad",
+        "Worachot Saengha",
+        "Eakapol Wangkahart",
+        "Supaporn Pumriw",
+        "Wannee Samappito",
+        "Nyuk Ling Ma"
+      ],
+      "journal": "Food science of animal resources",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This work aimed to investigate the psychobiotic effects of six bacterial strains on the mind and behavior of male Wistar rats. The probiotic (PRO) group (n=7) were rats pre-treated with antibiotics for 7 days followed by 14-day probiotic administration, antibiotics (ANT) group (n=7) were rats treated with antibiotics for 21 days without probiotics. The control (CON) group (n=7) were rats that received sham treatment for 21 days. The six bacterial strains with probiotic properties were mostly isolated from Thai fermented foods; Pedicoccus pentosaceus WS11, Lactobacillus plantarum SK321, L. fermentum SK324, L. brevis TRBC 3003, Bifidobacterium adolescentis TBRC 7154 and Lactococcus lactis subsp. lactis TBRC 375. The probiotics were freeze-dried into powder (6×109 CFU/5 g) and administered to the PRO group via oral gavage. Behavioral tests were performed. The PRO group displayed significantly reduced anxiety level and increased locomotor function using a marble burying test and open field test, respectively and significantly improved short-term memory performance using a novel object recognition test. Antibiotics significantly reduced microbial counts in rat feces in the ANT group by 100 fold compared to the PRO group. Probiotics significantly enhanced antioxidant enzymatic and non-enzymatic defenses in rat brains as assessed using catalase activity and ferric reducing antioxidant power assay, respectively. Probiotics also showed neuroprotective effects with less pyknotic cells and lower frequency of vacuolization in cerebral cortex. This multi-strain probiotic formulation from Thai fermented foods may offer a potential to develop psychobiotic-rich functional foods to modulate human mind and behaviors."
+    },
+    {
+      "pmid": "32860802",
+      "title": "Prebiotics, probiotics, fermented foods and cognitive outcomes: A meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Wolfgang Marx",
+        "Andrew Scholey",
+        "Joseph Firth",
+        "Nathan M D'Cunha",
+        "Melissa Lane",
+        "Meghan Hockey",
+        "Melanie M Ashton",
+        "John F Cryan",
+        "Adrienne O'Neil",
+        "Nenad Naumovski",
+        "Michael Berk",
+        "Olivia M Dean",
+        "Felice Jacka"
+      ],
+      "journal": "Neuroscience and biobehavioral reviews",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "This systematic review and meta-analysis aimed to evaluate randomized controlled trials that investigated the use of probiotic, prebiotic, and fermented food interventions for cognitive performance. In total, 22 studies (n = 1551) were included that investigated probiotics (11 studies, n = 724), prebiotics (5 studies, n = 355), and fermented foods (6 studies, n = 472). Despite several individual studies (14 of 22) reporting significant improvements in specific cognitive domains, results of the pooled meta-analysis found no significant effect for any intervention for global cognition (Probiotics: g = 0.115, 95 %CI -0.041, 0.270, p = 0.148; Prebiotics: g = 0.077, 95 %CI -0.091, 0.246, p = 0.369; Fermented food: g = 0.164 95 %CI -0.017, 0.345, p = 0.076) or any individual cognitive domain. Most studies (16 of 22) had low risk of bias. These results do not support the use of probiotic, prebiotic, and fermented food interventions for cognitive outcomes. This may be due to the limited number of small and short-term studies as well clinical heterogeneity relating to the population, cognitive tests, and intervention. Therefore, further trials that investigate these interventions in clinical populations using adequately powered samples are warranted. PROSPERO: CRD42019137936.",
+      "mesh_terms": [
+        "Cognition",
+        "Fermented Foods",
+        "Humans",
+        "Prebiotics",
+        "Probiotics",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "32346840",
+      "title": "Molecular Characterization of Bacterial Fibrinolytic Proteins from Indonesian Traditional Fermented Foods.",
+      "authors": [
+        "Eni Purwaeni",
+        "Catur Riani",
+        "Debbie Soefie Retnoningrum"
+      ],
+      "journal": "The protein journal",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Previously, the crude extracts of recombinant Nattokinase (NK) variants i.e. NatTK and NatOC and one wild type Douchi Fibrinolytic Enzyme (DFE) from Indonesian traditional fermented foods has been shown to demonstrate fibrinolytic activity. Both NKs contain substitutions of D41N, V192A and 252-RLQHTLEALSTM-263 but NatOC has additional V4F. In the present study, the effects of amino acid substitutions in NK variants and G169A in DFE on their enzyme characteristics were evaluated. Pure proteins were obtained using two sequential steps chromatography using ion exchange and a gel filtration columns. Their activities were determined with fibrin plate, fibrin zymography, fibrinogen hydrolysis, and chromogenic assays. The fibrinogen degradation profile of the wild type NK (NatWT) was different to the NK variants but similar to DFEs. Optimum activity of all the NKs and DFEs was achieved at 50 °C while the optimum pH for NatWT/DFEs and NK variants were 8 and 7, respectively. DFEG169A exhibited higher fibrinogen degradation rate and fibrin specific activity than DFE. PMSF inhibited all the NKs and DFEs while SDS and EDTA caused lower activity. The NK variants were more resistant towards Na+ and Ca2+ but more sensitive to K+. The amino acid substitutions in NK variants alter their fibrinogen degradation profile, optimum working pH, working pH range, and resistance to some ions. Substitutions in NK variants likely promote structural changes, particularly with the binding mode of the calcium ion cofactor. The results provide a beneficial basis for future development of fibrino(gen)olytic proteins with improved properties for cardiovascular diseases therapy.",
+      "mesh_terms": [
+        "Amino Acid Substitution",
+        "Bacterial Proteins",
+        "Calcium",
+        "Cations, Divalent",
+        "Cations, Monovalent",
+        "Cloning, Molecular",
+        "Coenzymes",
+        "Escherichia coli",
+        "Fermented Foods",
+        "Fibrinogen",
+        "Fibrinolysis",
+        "Gene Expression",
+        "Genetic Vectors",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Potassium",
+        "Recombinant Proteins",
+        "Sodium",
+        "Subtilisins",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "32232406",
+      "title": "Does Consumption of Fermented Foods Modify the Human Gut Microbiota?",
+      "authors": [
+        "Leah T Stiemsma",
+        "Reine E Nakamura",
+        "Jennifer G Nguyen",
+        "Karin B Michels"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2020-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "abstract": "The human microbiota is a key contributor to many aspects of human health and its composition is largely influenced by diet. There is a growing body of scientific evidence to suggest that gut dysbiosis (microbial imbalance of the intestine) is associated with inflammatory and immune-mediated diseases (e.g., inflammatory bowel disease and asthma). Regular consumption of fermented foods (e.g., kimchi, kefir, etc.) may represent a potential avenue to counter the proinflammatory effects of gut dysbiosis. However, an assessment of the available literature in this research area is lacking. Here we provide a critical review of current human intervention studies that analyzed the effect of fermented foods on the composition and/or function of the human gut microbiota. A total of 19 human intervention studies were identified that met this search criteria. In this review, we discuss evidence that consumption of fermented foods may modify the gut microbiota in humans. Further, there is cursory evidence to suggest that gut microbiota compositional changes mediate associations between fermented food consumption and human health outcomes. Although promising, there remains considerable heterogeneity in the human populations targeted in the intervention studies we identified. Larger longitudinal feeding studies with longer follow-up are necessary to confirm and enhance the current data. Further, future studies should consider analyzing microbiota function as a means to elucidate the mechanism linking fermented food consumption with human health. This review highlights methodologic considerations for intervention trials, emphasizing an expanse of research opportunities related to fermented food consumption in humans.",
+      "mesh_terms": [
+        "Bacteria",
+        "Fermented Foods",
+        "Gastrointestinal Microbiome",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "31366656",
+      "title": "Impact of botanical fermented foods on metabolic biomarkers and gut microbiota in adults with metabolic syndrome and type 2 diabetes: a systematic review protocol.",
+      "authors": [
+        "Miin Chan",
+        "Helen Baxter",
+        "Nadja Larsen",
+        "Lene Jespersen",
+        "Elif I Ekinci",
+        "Kate Howell"
+      ],
+      "journal": "BMJ open",
+      "publication_date": "2019-Jul-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Dysfunctional gut microbiota is a common finding in patients with metabolic syndrome (MetS) and type 2 diabetes mellitus (T2DM). Recent clinical trials have assessed whether botanical fermented foods (BFFs) have beneficial effects on metabolic biomarkers, inflammatory markers and gut microbiota. The aim of this review is to critically evaluate all randomised controlled trials (RCTs) of BFF for evidence of impact on the outcome measures of these disease states. METHODS AND ANALYSIS: Four electronic databases (Embase, MEDLINE, CENTRAL and Google Scholar) as well as the grey literature will be searched from inception to present without language or publication status restrictions applied. Eligible RCTs which have enrolled adult participants with T2DM, any MetS components or combinations of these components, treated prophylactically or therapeutically with any botanical fermented food intervention, compared with a control group (no intervention, placebo or active control) will be assessed. Primary outcomes are related to the target conditions, including metabolic biomarkers, inflammatory markers and gut microbiota composition/function. Using Covidence, two independent investigators will conduct title and abstract screening, followed by full-text screening to identify appropriate studies. Methodological quality of the trials will be assessed using the Cochrane risk of bias assessment tool. Findings will be summarised with a narrative synthesis of the differences between included studies. A meta-analysis will be conducted if sufficient data are obtained. ETHICS AND DISSEMINATION: Ethical approval is not required as primary data will not be collected. Results will be disseminated through peer-reviewed publication, conference presentations and press. PROSPERO REGISTRATION NUMBER: CRD42018117766.",
+      "mesh_terms": [
+        "Biomarkers",
+        "Diabetes Mellitus, Type 2",
+        "Fermented Foods",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Metabolic Syndrome",
+        "Randomized Controlled Trials as Topic",
+        "Research Design",
+        "Systematic Reviews as Topic"
+      ]
+    },
+    {
+      "pmid": "30551623",
+      "title": "A Mini Review on Antidiabetic Properties of Fermented Foods.",
+      "authors": [
+        "Bhagavathi Sundaram Sivamaruthi",
+        "Periyanaina Kesika",
+        "Mani Iyer Prasanth",
+        "Chaiyavat Chaiyasut"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2018-Dec-13",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "In general, fermented foods (FFs) are considered as functional foods. Since the awareness about the health benefits of FFs has increased, the consumption of FF also improved significantly in recent decades. Diabetes is one of the leading threats of the health span of an individual. The present manuscript details the general methods of the production of FFs, and the results of various studies (in vitro, in vivo, and clinical studies) on the antidiabetic properties of FFs. The fermentation method and the active microbes involved in the process play a crucial role in the functional properties of FFs. Several in vitro and in vivo studies have been reported on the health-promoting properties of FFs, such as anti-inflammation, anticancer, antioxidant properties, improved cognitive function and gastrointestinal health, and the reduced presence of metabolic disorders. The studies on the functional properties of FFs by randomized controlled clinical trials using human volunteers are very limited for several reasons, including ethical reasons, safety concerns, approval from the government, etc. Several scientific teams are working on the development of complementary and alternative medicines to improve the treatment strategies for hyperglycemia.",
+      "mesh_terms": [
+        "Diabetes Mellitus",
+        "Fermentation",
+        "Fermented Foods",
+        "Functional Food",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "29314490",
+      "title": "A mixture of Lactobacillus species isolated from traditional fermented foods promote recovery from antibiotic-induced intestinal disruption in mice.",
+      "authors": [
+        "Y Shi",
+        "X Zhao",
+        "J Zhao",
+        "H Zhang",
+        "Q Zhai",
+        "A Narbad",
+        "W Chen"
+      ],
+      "journal": "Journal of applied microbiology",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: This study evaluated the antibiotic-induced changes in microbial ecology, intestinal dysbiosis and low-grade inflammation; and the combined effect of four different Lactobacillus species on recovery of microbiota composition and improvement of gut barrier function in mice. METHODS AND RESULTS: Administration of the antibiotic ampicillin for 2 weeks decreased microbial community diversity, induced caecum tumefaction and increased gut permeability in mice. Application of a probiotic cocktail of four Lactobacillus species (JUP-Y4) modulated the microbiota community structure and promoted the abundance of potentially beneficial bacteria such as Akkermansia. Ampicillin administration led to a decline in Bacteroidetes from 46·6 ± 3·91% to 0·264 ± 0·0362%; the addition of JUP-Y4 restored this to 41·4 ± 2·87%. This probiotic supplementation was more effective than natural restoration, where the levels of Bacteroidetes were only restored to 29·3 ± 2·07%. Interestingly, JUP-Y4 treatment was more effective in the restoration of microbiota in faecal samples than in caecal samples. JUP-Y4 also significantly reduced the levels of d-lactate and endotoxin (lipopolysaccharide, LPS) in the serum of mice, and increased the expression of tight-junction proteins while reducing the production of inflammatory cytokines (TNF-α, IL-6, MCP-1, IFN-γ and IL-1β) in the ileum and the colon of antibiotic-treated mice. CONCLUSIONS: JUP-Y4 not only promoted recovery from antibiotic-induced gut dysbiosis, but also enhanced the function of the gut barrier, reduced inflammation and lowered levels of circulating endotoxin in mice. SIGNIFICANCE AND IMPACT OF THE STUDY: Consumption of a mixture of Lactobacillus species may encourage faster recovery from antibiotic-induced gut dysbiosis and gut microbiota-related immune disturbance.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Brassica",
+        "Cecum",
+        "Colon",
+        "Cytokines",
+        "Fermented Foods",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Ileum",
+        "Intestinal Diseases",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Lactobacillus",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Probiotics",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "27221109",
+      "title": "Differential Cytokine Regulatory Effect of Three Lactobacillus Strains Isolated from Fermented Foods.",
+      "authors": [
+        "Yoon-Doo Lee",
+        "Yi-Fan Hong",
+        "Boram Jeon",
+        "Bong Jun Jung",
+        "Dae Kyun Chung",
+        "Hangeun Kim"
+      ],
+      "journal": "Journal of microbiology and biotechnology",
+      "publication_date": "2016-Sep-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lactic acid bacteria (LAB) isolated from fermented foods have potential as a treatment for immune-related disorders and the use of LAB has been increasing worldwide. In this study, the differential cytokine regulatory effect was examined with three isolates of lactobacilli strains; namely, Lactobacillus plantarum K55-5 isolated from dairy product, and L. sakei K101 and L. plantarum K8 previously isolated from kimchi (a Korean traditional fermented vegetable). Production of cytokines such as IL-10, IL-12, IFN-γ, and TNF-α was significantly increased in L. sakei K101- and L. plantarum K55-5-treated splenocytes as compared with controls. The oral administration of L. sakei K101 and L. plantarum K55-5 increased cytokine production in the immunosuppressed mouse splenocytes and blood. NK cell cytotoxic activity was also increased in L. sakei K101- and L. plantarum K55-5-fed mice. On the other hand, L. plantarum K8 did not affect cytokine induction in all the experiments performed in this study. The cytokine-inducing effect of L. plantarum K55-5 was significantly increased by lysates of heat-killed bacteria as compared with live, heat-killed, or supernatant of cell lysates. TNF-α production by lipoteichoic acids (LTAs) isolated from the three isolates of lactobacilli was compared, and it was found that K55-5 LTA had a highest cytokine-inducing ability, which was mediated by TLR2-mediated NF-κB and ERK activation. Taken together, our study suggests that L. plantarum K55-5 and L. sakei K101 can be used for the treatment of immunosuppressed disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Cultured Milk Products",
+        "Cytokines",
+        "Female",
+        "Food Microbiology",
+        "Immune System",
+        "Lactobacillus",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Probiotics",
+        "RAW 264.7 Cells",
+        "Republic of Korea",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "25998000",
+      "title": "Fermented foods, neuroticism, and social anxiety: An interaction model.",
+      "authors": [
+        "Matthew R Hilimire",
+        "Jordan E DeVylder",
+        "Catherine A Forestell"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "2015-Aug-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Animal models and clinical trials in humans suggest that probiotics can have an anxiolytic effect. However, no studies have examined the relationship between probiotics and social anxiety. Here we employ a cross-sectional approach to determine whether consumption of fermented foods likely to contain probiotics interacts with neuroticism to predict social anxiety symptoms. A sample of young adults (N=710, 445 female) completed self-report measures of fermented food consumption, neuroticism, and social anxiety. An interaction model, controlling for demographics, general consumption of healthful foods, and exercise frequency, showed that exercise frequency, neuroticism, and fermented food consumption significantly and independently predicted social anxiety. Moreover, fermented food consumption also interacted with neuroticism in predicting social anxiety. Specifically, for those high in neuroticism, higher frequency of fermented food consumption was associated with fewer symptoms of social anxiety. Taken together with previous studies, the results suggest that fermented foods that contain probiotics may have a protective effect against social anxiety symptoms for those at higher genetic risk, as indexed by trait neuroticism. While additional research is necessary to determine the direction of causality, these results suggest that consumption of fermented foods that contain probiotics may serve as a low-risk intervention for reducing social anxiety.",
+      "mesh_terms": [
+        "Adult",
+        "Animals",
+        "Anxiety",
+        "Anxiety Disorders",
+        "Cross-Sectional Studies",
+        "Female",
+        "Fermentation",
+        "Humans",
+        "Male",
+        "Neuroticism",
+        "Probiotics",
+        "Risk",
+        "Self Report",
+        "Social Behavior",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "25190588",
+      "title": "Potential of cell-free supernatants from cultures of selected lactic acid bacteria and yeast obtained from local fermented foods as inhibitors of Listeria monocytogenes, Salmonella spp. and Staphylococcus aureus.",
+      "authors": [
+        "Solomon H Mariam",
+        "Nigus Zegeye",
+        "Tewodros Tariku",
+        "Emawayish Andargie",
+        "Nigatu Endalafer",
+        "Abraham Aseffa"
+      ],
+      "journal": "BMC research notes",
+      "publication_date": "2014-Sep-04",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Food-borne infections cause huge economic and human life losses worldwide. The most common contaminants of foods include Listeria monocytogenes Salmonellae and Staphylococcus aureus. L. monocytogenes is most notorious due to its tolerance to common food preservation methods and the risks it poses, including higher fatality rates. Safer, more efficacious control methods are thus needed. Along with food-borne pathogens, lactic acid bacteria (LAB) can also be found in foods. Some LAB isolates inhibit pathogenic bacteria by various mechanisms, including by production of antimicrobial metabolites. METHODS: The potential of cell-free culture supernatants (CFS) derived from broth cultures of selected local LAB and yeast isolates, some of which were subjected to various treatments, were tested for inhibition of L. monocytogenes, Salmonella spp. and S. aureus in in vitro culture by incorporating various proportions of the CFSs into the growth medium concurrently with inoculation (co-cultures) or following limited proliferation after inoculation of the pathogens (delayed cultures). The effects of the CFSs on various growth parameters were assessed. RESULTS: CFS from the LAB isolates were strongly inhibitory when co-cultured. The inhibitory activities were stable following heat or protease treatment of the CFSs. Inhibitory activity was dependent primarily on active substance(s) secreted into the supernatant. In all co-cultures, CFS proportion-dependent progressive decrease in the number of colonies was observed and both growth rates and number of generations were reduced with significantly fewer numbers of colony forming units, whereas generation times were significantly increased compared to those of controls. Transfer from co-cultures to fresh broth showed inhibited cultures contained bacteria that can re-grow, indicating the presence of viable bacteria that are undetectable by culture. Growth rates in CFS-treated delayed cultures were also reduced to varying degrees with the number of colonies in some cultures being significantly less than the corresponding control values. CFSs were active against both Gram-positive and -negative bacteria. CONCLUSIONS: Active metabolites produced and secreted by LAB into the growth medium were effective in inhibiting the tested pathogens. Early addition of the CFSs was necessary for significant inhibition to occur. Further studies will help make these findings applicable to food safety.",
+      "mesh_terms": [
+        "Cell-Free System",
+        "Coculture Techniques",
+        "Fermentation",
+        "Food Microbiology",
+        "Lactobacillus",
+        "Listeria monocytogenes",
+        "Salmonella",
+        "Staphylococcus aureus"
+      ]
+    },
+    {
+      "pmid": "21467627",
+      "title": "Thermotolerant bacteriocin-producing lactic acid bacteria isolated from thai local fermented foods and their bacteriocin productivity.",
+      "authors": [
+        "Vichai Leelavatcharamas",
+        "Nida Arbsuwan",
+        "Jirawan Apiraksakorn",
+        "Pattana Laopaiboon",
+        "Masao Kishida"
+      ],
+      "journal": "Biocontrol science",
+      "publication_date": "2011-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Twenty-one samples of Thai local fermented foods were screened for thermotolerant bacteriocin-producing lactic acid bacteria. From 529 isolates of lactic acid bacteria, 121 isolates were able to inhibit the growth of certain bacterial strains. Of these 121 isolates, only 11 produced antibacterial agents that were capable of inhibiting the growth of multiple bacterial strains in a liquid medium. One strain (KKU 170) of these 11 isolates produced an antibacterial agent that could strongly inhibit the growth of selected strains of gram-positive bacteria including Listeria sp. The antibacterial agent produced by the strain KKU 170 was identified as a bacteriocin since it was inactivated by proteinase K treatment. The strain KKU 170 was identified as Pediococcus acidilactici by both biochemical tests and molecular biological techniques. Optimal production of bacteriocin by the strain KKU 170 was found in culture medium containing 0.2% glucose, at an initial culture pH of 6.5, and temperature of 45 ºC. The maximum bacteriocin activity (1600 AU ml(-1)) was reached at the late exponential phase of growth and displayed primary metabolite production. The partially purified bacteriocin of the strain KKU 170 was tolerant to heat treatment at 121 ºC for 30 min.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacteriocins",
+        "Endopeptidase K",
+        "Fermentation",
+        "Food Microbiology",
+        "Hot Temperature",
+        "Hydrogen-Ion Concentration",
+        "Lactic Acid",
+        "Listeria",
+        "Pediococcus"
+      ]
+    },
+    {
+      "pmid": "20494143",
+      "title": "Short communication: Antiproliferative effect of wild Lactobacillus strains isolated from fermented foods on HT-29 cells.",
+      "authors": [
+        "Y F Tuo",
+        "L W Zhang",
+        "H X Yi",
+        "Y C Zhang",
+        "W Q Zhang",
+        "X Han",
+        "M Du",
+        "Y H Jiao",
+        "S M Wang"
+      ],
+      "journal": "Journal of dairy science",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In vitro studies, animal models, epidemiology, and human intervention studies provide evidence that some lactic acid bacteria can reduce the risk of certain cancers. In this study, heat-killed bacterial cells, genomic DNA, and cell wall of 7 wild Lactobacillus strains isolated from traditional fermented foods in western China were tested in vitro for cytotoxicity on colonic cancer cell line HT-29 by using 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. The heat-killed bacterial cells, genomic DNA, and cell wall of the 7 strains exhibited direct antiproliferative activities against HT-29 cells. Among the strains, the cellular components of Lactobacillus coryniformis ssp. torquens T3L exerted marked antiproliferative activities against HT-29 cells. The maximum inhibition rates of HT-29 cells by the heat-killed bacterial cells (1x10(7) cfu/mL), cell wall (20 microg of protein/mL) and genomic DNA (100 microg/mL) of L. coryniformis ssp. torquens T3L were 30, 44.9, and 35.9%, respectively. The results indicate that the heat-killed bacterial cells, cell wall, and genomic DNA of the 7 wild Lactobacillus strains could inhibit the growth of HT-29 cells.",
+      "mesh_terms": [
+        "Cell Proliferation",
+        "Cell Wall",
+        "Cultured Milk Products",
+        "DNA, Bacterial",
+        "HT29 Cells",
+        "Hot Temperature",
+        "Humans",
+        "Lactobacillus",
+        "Microbial Sensitivity Tests"
+      ]
+    },
+    {
+      "pmid": "20005592",
+      "title": "Susceptibility to tetracycline and erythromycin of Lactobacillus paracasei strains isolated from traditional Italian fermented foods.",
+      "authors": [
+        "Roberta Comunian",
+        "Elisabetta Daga",
+        "Ilaria Dupré",
+        "Antonio Paba",
+        "Chiara Devirgiliis",
+        "Valeria Piccioni",
+        "Giuditta Perozzi",
+        "Daniela Zonenschain",
+        "Annalisa Rebecchi",
+        "Lorenzo Morelli",
+        "Angela De Lorentiis",
+        "Giorgio Giraffa"
+      ],
+      "journal": "International journal of food microbiology",
+      "publication_date": "2010-Mar-31",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of this study was to evaluate the susceptibility of 197 isolates of Lactobacillus paracasei, isolated from Italian fermented products coming from different geographical areas, to tetracycline and erythromycin, two antimicrobials widely used in clinical and animal therapy. Isolation media were supplemented with antibiotics according to the microbiological breakpoints (BPs) defined by European Food Safety Authority (EFSA). Isolates were identified at the species level and were typed by rep-PCR using the (GTG)(5) primer. A total of 121 genotypically different strains were detected and their phenotypic antimicrobial resistance to tetracycline and erythromycin was determined as the minimum inhibitory concentration (MIC) using the broth microdilution method. The presence of the genes ermB, ermC and tetL, tetM, tetS, tetW, in the phenotypically resistant isolates was investigated by PCR. Tetracycline induction of tetM expression on representative resistant strains, grown in medium either lacking or containing the antibiotic, was also analyzed by RT-PCR. Among the 121 tested strains, 77.7% were susceptible to tetracycline (MIC<or=4 microg/ml; BP=4 microg/ml) and 94.2% to erythromycin (MIC<or=1 microg/ml; BP=1 microg/ml). Overall, 27 strains appeared to be resistant to tetracycline (16<or=MIC<or=128 microg/ml ) (Tet(R)), and 7 of them were also resistant to erythromycin (MIC>or=1024 microg/ml) (Erm(R)). The tetM and ermB genes were the most frequently detected in the Tet(R) and/or Erm(R) strains. The tetM expression was induced by antibiotic addition to the growth medium. Our study confirmed that L. paracasei is quite sensitive to tetracycline and erythromycin, but the high level of resistance of Erm(R) strains suggested that acquired resistance took place. Further investigations are required to analyze whether the genes identified in L. paracasei isolates might be horizontally transferred to other species. Since \"commensal\" bacteria, which L. paracasei belongs to, may play an active role in the spreading of antibiotic resistance, a series of measures inspired from a principle of precaution should be taken before they are used as commercial starters or probiotic cultures in food products, complemented by a more prudent use of antibiotics in agriculture, veterinary, and human medicine.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Colony Count, Microbial",
+        "Consumer Product Safety",
+        "DNA, Bacterial",
+        "Dose-Response Relationship, Drug",
+        "Drug Resistance, Bacterial",
+        "Erythromycin",
+        "Fermentation",
+        "Food Contamination",
+        "Food Microbiology",
+        "Gene Transfer, Horizontal",
+        "Humans",
+        "Italy",
+        "Lactobacillus",
+        "Microbial Sensitivity Tests",
+        "Tetracycline"
+      ]
+    },
+    {
+      "pmid": "11985943",
+      "title": "Use of fermented foods to combat stunting and failure to thrive.",
+      "authors": [
+        "Shailee Saran",
+        "Sarath Gopalan",
+        "T Prasanna Krishna"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2002-May",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: With the adoption of vigorous child survival strategies, infant and child mortalities in India have declined significantly, even among the poorest, most undernourished segments of the population. Of the surviving infants and children, however, many remain stunted and undernourished. The present study was based on the hypothesis that failure to thrive is the result of damage to the gut epithelium incurred during repeated bouts of gastrointestinal infections. Promoting the regeneration of the damaged gut epithelium through the use of lactobacillus-rich fermented foods may yield beneficial results. This low-cost procedure can be widely used, even in poor communities. The objectives of this study were to investigate the effect in poor Indian communities of supplementation with a probiotic on the growth of children (aged 2 to 5 years) with growth retardation and assess the difference in morbidity between those receiving the supplement (n = 50) and the control group (n = 50), mainly with respect to the frequency, severity, and duration of diarrheal episodes. METHODS: One hundred children aged 2 to 5 y from an urban slum of New Delhi were matched for their age (+/-36 d), sex and weight (+/-1 kg) and assigned to one of two groups (experimental n= 50 and control n= 50). The experimental group received a probiotic supplement (50 ml curd containing Lactobacillus acidophilus) and the control group received an isocaloric supplement daily for 6 mo. Weight, height, and morbidity profile with respect to diarrhea, fever, cough, and cold was recorded. RESULTS: Increases in weight (P < 0.002) and height (P < 0.001) were significantly greater in the experimental group than in the control group. In addition, after 6 mo, of supplementation, there were fewer cases of diarrhea (P < 0.005) and fever (P < 0.001) in the intervention group then in the control group. CONCLUSIONS: From this study, it can be concluded that 6 mo of probiotic supplementation may be beneficial with respect to decrease in diarrheal morbidity and accelerated growth in the experimental group.",
+      "mesh_terms": [
+        "Body Height",
+        "Body Weight",
+        "Child, Preschool",
+        "Diarrhea",
+        "Digestive System",
+        "Failure to Thrive",
+        "Female",
+        "Fermentation",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "India",
+        "Lactobacillus acidophilus",
+        "Male",
+        "Morbidity",
+        "Poverty Areas",
+        "Probiotics",
+        "Treatment Outcome",
+        "Urban Population"
+      ]
+    },
+    {
+      "pmid": "11975375",
+      "title": "Iron-deficiency anemia in young working women can be reduced by increasing the consumption of cereal-based fermented foods or gooseberry juice at the workplace.",
+      "authors": [
+        "Tara Gopaldas"
+      ],
+      "journal": "Food and nutrition bulletin",
+      "publication_date": "2002-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This efficacy for both employers and employees (young working women 18 to 23 years of age) was undertaken to determine whether culturally acceptable dietary changes in lunches in the workplace and at home could bring about a behavioral change and improvement in their iron-deficiency anemia status. Maximum weight was given to increasing consumption of iddli, a popular cereal-based-fermented food, or of gooseberry juice. Four small factories were selected in periurban Bangalore, with a sample of 302 women. The 180-day interventions were supervised at the workplace. In unit 1 (72 women), the intervention consisted of iddli four times a week plus information, education, and communication (IEC) related to iron-deficiency anemia. Unit 2 (80 women) received 20 ml of gooseberry juice (containing 40 mg of vitamin C) three times a week plus IEC once a month. Women in unit 3 (70 women), the positive control, received 400 mg albendazole once plus ferrous sulfate tablets (60 mg elemental iron) two times a week. No IEC was given. Unit 4 (70 women) served as the negative control and received no intervention. The pre-post impact measures were dietary and nutrient intake, knowledge and practice, and hemoglobin status. In units 1, 2, and 3, the hemoglobin status of the women improved significantly from 11.10 to 12.30 g/dl, 11.20 to 12.70 g/dl, and 11.50 to 13.00 g/dl, respectively. In unit 4 there was no change: the values were 10.90 g/dl before and after intervention. The results show that the type of workplace lunch was of greater significance than IEC. Knowledge gains were impressive, but behavioral change was not sustained. It was concluded that the hemoglobin levels of the workers can easily be improved by cost-effective workplace lunches that also lead to better employer-employee relations.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anemia, Iron-Deficiency",
+        "Ascorbic Acid",
+        "Beverages",
+        "Diet Records",
+        "Dietary Supplements",
+        "Edible Grain",
+        "Female",
+        "Fermentation",
+        "Health Promotion",
+        "Humans",
+        "India",
+        "Nutritional Sciences",
+        "Severity of Illness Index",
+        "Women, Working"
+      ]
+    },
+    {
+      "pmid": "9830143",
+      "title": "Recovery of total microbial RNA from lactic acid fermented foods with a high starch content.",
+      "authors": [
+        "F Ampe",
+        "N ben Omar",
+        "J P Guyot"
+      ],
+      "journal": "Letters in applied microbiology",
+      "publication_date": "1998-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "An optimized procedure for the recovery of RNA from micro-organisms involved in the fermentation of starchy foods (mainly hard-to-lyse lactic acid bacteria) is reported. Critical steps for the extraction were: cell recovery by differential centrifugation; cell wall digestion with both mutanolysin and lysozyme; and CTAB treatment for the elimination of starch. Digestion of starch with alpha-amylase did not improve extraction yields. The method yielded high amounts of RNA from pozol, a Mexican maize-based fermented food, and was found to extract total RNA efficiently from all the micro-organisms potentially present in these ecosystems. Both rRNA and mRNA recovered were of high quality and suitable for hybridization studies.",
+      "mesh_terms": [
+        "Bacteria",
+        "Blotting, Northern",
+        "Electrophoresis, Agar Gel",
+        "Food Microbiology",
+        "Fungi",
+        "Lactobacillus",
+        "Nucleic Acid Hybridization",
+        "RNA, Bacterial",
+        "RNA, Fungal",
+        "Starch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1399 @@
+{
+  "supplement": "Hederagenin",
+  "query": "Hederagenin[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:44:18",
+  "research_count": 44,
+  "count": 44,
+  "articles": [
+    {
+      "pmid": "40142049",
+      "title": "Current Progress of Hederagenin and Its Derivatives for Disease Therapy (2017-Present).",
+      "authors": [
+        "Wang Wang",
+        "Yan Jin",
+        "Meng-Ke Liu",
+        "Sai-Yang Zhang",
+        "Hong Chen",
+        "Jian Song"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2025-Mar-12",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Natural products have emerged as crucial sources of biologically active compounds, holding promise for applications in drug development. Among the extensively researched pentacyclic triterpenes, hederagenin (HG) stands out for its diverse biological activities and serves as a valuable scaffold for synthesizing novel derivatives. These derivatives hold significant promise for the development of novel therapeutic agents aimed at treating a wide range of diseases. Over the past years, a multitude of HG derivatives with varied bioactivities have been synthesized through chemical modifications. This review article consolidates the most recent findings (since 2017) on HG derivatives, emphasizing their biological effects and mechanisms of action in both in vitro and in vivo models. The objective of this compilation is to offer insights and direct future research endeavors in the realm of HG.",
+      "mesh_terms": [
+        "Oleanolic Acid",
+        "Humans",
+        "Animals",
+        "Biological Products",
+        "Molecular Structure",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "40135937",
+      "title": "Elucidating the Molecular Mechanisms of Hederagenin-Regulated Mitophagy in Cervical Cancer SiHa Cells through an Integrative Approach Combining Proteomics and Advanced Network Association Algorithm.",
+      "authors": [
+        "Hao Sun",
+        "Dan Wang",
+        "Yongquan Zheng",
+        "Yiqing Ye"
+      ],
+      "journal": "Journal of proteome research",
+      "publication_date": "2025-Apr-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hederagenin (Hed), a natural triterpenoid, exhibits antitumor potential in cervical cancer. The present study was designed to explore Hed's regulatory mechanisms on mitophagy in SiHa cervical cancer cells, employing tandem mass tag (TMT) proteomics and an advanced network association algorithm (NAA). Our findings revealed that Hed decreased SiHa cell viability, induced apoptosis, and altered mitochondrial membrane potential. Notably, Hed inhibited mitophagic flux under both normoxic and hypoxic conditions. Through TMT proteomics analysis and innovative NAA, we identified a close association between the HIF-1 signaling pathway and mitophagy. Network analysis further suggested that Hed acts on a target network centered on SRC, STAT3, AKT1, and HIF1A. Western blot analysis confirmed the expression and phosphorylation status of these targets in response to Hed. This study elucidates the molecular mechanisms underlying Hed's regulation of mitophagy in SiHa cells, offering novel insights and potential therapeutic targets for cervical cancer treatment.",
+      "mesh_terms": [
+        "Humans",
+        "Mitophagy",
+        "Oleanolic Acid",
+        "Proteomics",
+        "Uterine Cervical Neoplasms",
+        "Female",
+        "Cell Line, Tumor",
+        "Apoptosis",
+        "Signal Transduction",
+        "Algorithms",
+        "Membrane Potential, Mitochondrial",
+        "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "Cell Survival",
+        "Proto-Oncogene Proteins c-akt",
+        "STAT3 Transcription Factor",
+        "Mitochondria"
+      ]
+    },
+    {
+      "pmid": "40054595",
+      "title": "Over-expression of AeWRKY2 promotes oleanolic acid and hederagenin accumulation in Aralia elata.",
+      "authors": [
+        "Honghao Xu",
+        "Hongfei Liu",
+        "Ye Liu",
+        "Wenhua Guo",
+        "Yue Zhao",
+        "Haoze Ying",
+        "Yaru Liu",
+        "Zhe Li",
+        "Yi Zhang",
+        "Lei Tao",
+        "Tuya Siqin",
+        "Wa Gao",
+        "Xiangling You"
+      ],
+      "journal": "Biochimie",
+      "publication_date": "2025-Mar-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oleanolic acid (OA) and hederagenin from Aralia elata have important medicinal value due to their anti-cancer and anti-inflammatory activities. Transcription factors (TFs) can affect the production of active substances by regulating the expression of genes in metabolic pathways. In this study, a transcription factor AeWRKY2 was cloned and overexpressed in A. elata. The result of gene expression analysis and high-performance liquid chromatography (HPLC) showed that the key enzyme genes of all transgenic strains analyzed were up-regulated to varying degrees. The contents of oleanolic acid and hederagenin were higher than those of wild type, up to 2.773 mg g-1 DW and 0.325 mg g-1 DW, respectively. After one-day MeJA treatment, the contents of oleanolic acid and hederagenin were further increased to 3.31 mg g-1 and 0.37 mg g-1, respectively."
+    },
+    {
+      "pmid": "39817810",
+      "title": "Design and Synthesis of Hederagenin Derivatives for the Treatment of Sepsis by Targeting TAK1 and Regulating the TAK1-NF-κB/MAPK Signaling.",
+      "authors": [
+        "Wenbin Xie",
+        "Haixia Li",
+        "Tao Yu",
+        "Yatong Zhu",
+        "Jing Gao",
+        "Xiaoli Yang",
+        "Haoran Cheng",
+        "Hui Qiao",
+        "Xin Zhang",
+        "Xiaojin Gao",
+        "Lei Zhang",
+        "Xianhe Fang",
+        "Leiming Zhang",
+        "Yi Bi"
+      ],
+      "journal": "Journal of medicinal chemistry",
+      "publication_date": "2025-Feb-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sepsis is a systemic inflammatory response caused by infection and is a leading cause of death worldwide. We designed and synthesized a series of hederagenin analogues with anti-inflammatory activity. The most effective compound, 14, reduced the release of TNF-α and IL-6 in RAW264.7 cells induced by lipopolysaccharide by affecting NF-κB/MAPK signaling. It demonstrated significant protection against sepsis in vivo and ameliorated histopathological changes in the liver, lungs, and kidneys. It exhibited good safety in subacute toxicity assays. Western blotting results indicated that it reduced the generation of p-p65, p-IκB, p-p38, p-JNK, and p-ERK. Immunofluorescence assay results suggested that the compound inhibited nuclear translocation of p65 and c-Fos. It was found to target TAK1 with a novel molecular backbone, distinct from the few TAK1 inhibitors previously reported. This work provides a new lead structure for the study of TAK1 inhibitors and a potential target for TAK1 in sepsis therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Sepsis",
+        "Mice",
+        "MAP Kinase Kinase Kinases",
+        "NF-kappa B",
+        "RAW 264.7 Cells",
+        "Drug Design",
+        "Oleanolic Acid",
+        "Lipopolysaccharides",
+        "MAP Kinase Signaling System",
+        "Male",
+        "Structure-Activity Relationship",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "39740845",
+      "title": "Hederagenin Glycoside Isolated from the Pericarps of Akebia quinata Fruits Induces Apoptotic Cell Death in Breast Cancer Cells.",
+      "authors": [
+        "Akira Sato",
+        "Sakura Masaka",
+        "Aoi Aisaka",
+        "Ikuto Ishibashi",
+        "Ayano Yabuki",
+        "Hina Nemoto",
+        "Makoto Ohira",
+        "Masanori Yamaura",
+        "Katsuhiko Suzuki",
+        "Keiichi Matsuzaki",
+        "Tsukasa Matsumoto",
+        "Yasushi Kawasaki"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2025-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/AIM: Hederagenin (3β,4α-3,23-dihydroxyolean-12-en-28-oic acid) is a natural pentacyclic triterpene that is present in various medicinal plants and exhibits pharmacological activities against various diseases, including cancer. The aim of the study was to investigate the effect of Aq3639 (3β-[(O-α-L-rhamnopyranosyl-(1→2)-α-L-arabinopyranosyl)oxy]olean-12-en-28-oic acid), a hederagenin glycoside comprising hederagenin and a disaccharide of L-rhamnose and L-arabinose, on breast cancer cells. MATERIALS AND METHODS: Aq3639 was isolated from the pericarps of Akebia quinata fruits, and its effects on cells from the human breast cell line MCF-7 were examined. RESULTS: Aq3639 was found to markedly inhibit the proliferation of MCF-7 cells in a concentration-dependent manner (particularly at concentrations above 25 μmol/l). The inhibitory effect [half-maximal inhibitory concentration (IC50)=13.10 μmol/l] was similar to that of tamoxifen, which is used as a therapeutic agent for estrogen receptor-positive breast cancer; the inhibitory effect was also approximately seven-times greater than that of hederagenin (IC50=93.05 μmol/l). Interestingly, neither of the sugars present in Aq3639, L-rhamnose nor L-arabinose, affected cell inhibition. Additionally, Aq3639 increased the generation of reactive oxygen species and, consequently, induced apoptosis in the MCF-7 cells in a time-dependent manner. CONCLUSION: Our results strongly suggest that Aq3639 may be useful in the prevention and treatment of breast cancer.",
+      "mesh_terms": [
+        "Humans",
+        "Apoptosis",
+        "Oleanolic Acid",
+        "Breast Neoplasms",
+        "Fruit",
+        "MCF-7 Cells",
+        "Female",
+        "Glycosides",
+        "Cell Proliferation",
+        "Reactive Oxygen Species",
+        "Antineoplastic Agents, Phytogenic",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "39641914",
+      "title": "Hederagenin is a Highly Selective Antagonist of the Neuropeptide FF Receptor 1 that Reveals Mechanisms for Subtype Selectivity.",
+      "authors": [
+        "Hannah Lentschat",
+        "Fabian Liessmann",
+        "Claiborne Tydings",
+        "Tina Schermeng",
+        "Jan Stichel",
+        "Nicole Urban",
+        "Michael Schaefer",
+        "Jens Meiler",
+        "Annette G Beck-Sickinger"
+      ],
+      "journal": "Angewandte Chemie (International ed. in English)",
+      "publication_date": "2025-Feb-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "RF-amide peptide receptors including the neuropeptide FF receptor 1 (NPFFR1) are G protein-coupled receptors (GPCRs) that modulate diverse physiological functions. High conservation of endogenous ligands and receptors makes the identification of selective ligands challenging. Previously identified antagonists mimic the C-terminus of peptide ligands and lack selectivity towards the closely related neuropeptide FF receptor 2 (NPFFR2) or the neuropeptide Y1 receptor (Y1R). In a high-throughput screening, we identified the pentacyclic triterpenoid hederagenin (1) as a novel selective antagonist for the NPFFR1. Hederagenin (1) is a natural product isolated from Hedera helix (ivy). We characterized its mode of activity using in vitro and in silico methods, revealing an overlapping binding site of the small molecule with the orthosteric peptide agonists. Despite the high similarity of the orthosteric binding pockets of NPFFR1 and NPFFR2, hederagenin (1) shows strong subtype selectivity, particularly caused by slight differences in the shape of the binding pockets and the rigidity of the small molecule. Several residues inhibiting the activity of hederagenin (1) at the NPFFR2 were identified. As NPFFR1 antagonists are discussed as potential candidates for the treatment of chronic pain, these insights into the structural determinants governing subtype specificity will facilitate the development of next-generation analgesics with improved safety and efficacy.",
+      "mesh_terms": [
+        "Receptors, Neuropeptide",
+        "Humans",
+        "Binding Sites",
+        "Animals",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "39409659",
+      "title": "Hederagenin from Hedera helix Promotes Fat Browning in 3T3-L1 Adipocytes.",
+      "authors": [
+        "Seung Min Choi",
+        "Ho Seon Lee",
+        "Sung Ho Lim",
+        "Gayoung Choi",
+        "Chang-Ik Choi"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2024-Oct-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The prevalence of obesity is increasing globally, with approximately 700 million obese people worldwide. Currently, regulating energy homeostasis by increasing energy expenditure is attracting attention as a strategy for treating obesity. White adipose tissue is known to play a role in accumulating energy by storing excess energy, while brown adipose tissue expends energy and maintains body temperature. Thus, the browning of white adipose tissue has been shown to be effective in controlling obesity. Hedera helix (H. helix) has been widely used as a traditional medicine for various diseases. In several previous studies, hederagenin (HDG) from H. helix has demonstrated many biological activities. In this study, we investigated the antiobesity effect of HDG on fat browning in 3T3-L1 adipocytes. Consequent to HDG treatment, a reduction in lipid accumulation was measured through oil red O staining. In addition, this study investigated that HDG increases energy expenditure by upregulating the expression of several targets related to thermogenesis, including uncoupling protein 1 (UCP1). This process involves inhibiting lipogenesis via the adenosine monophosphate-activated protein kinase (AMPK) signaling pathway and promoting lipolysis through the protein kinase A (PKA) pathway. HDG is expected to be effective in promoting fat browning, indicating its potential as a natural antiobesity candidate."
+    },
+    {
+      "pmid": "39383136",
+      "title": "Hederagenin regulates the migration and invasion of hepatocellular carcinoma cells through FOXO signaling pathway.",
+      "authors": [
+        "Shuchang Bao",
+        "Songzhe Li",
+        "Yang Sun"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: This study aimed to elucidate the effects of Hederagenin (HG) on hepatocellular carcinoma (HCC) and explore its potential molecular mechanisms. MATERIALS AND METHODS: Virtual screening was employed to identify potential targets within core pathways of liver cancer and to analyze the possible mechanisms of HG. CCK-8 assays were used to assess the viability of HCC cells, while Hoechst 33342/PI staining was utilized to evaluate apoptosis. The migration and invasion abilities of HCC cells were examined using Transwell and scratch assays, and single-cell cloning ability was assessed via colony formation assays. Subsequent qRT-PCR was conducted to determine the mRNA expression levels of FOXO1 and FOXO6 following HG treatment. Western blot (WB) analysis was employed to measure the protein expression levels of IGF1R, FOXO1, FOXO6, MMP2, MMP9, and VEGFA, as well as the phosphorylation status of FOXO1 Ser249. RESULTS: Virtual screening indicated that HG might exert antitumor effects through the FOXO signaling pathway. Experimental results demonstrated that HG induces apoptosis in a dose-dependent manner and inhibits the proliferation, migration, invasion, and single-cell cloning ability of HCC cells. After HG treatment, FOXO1 expression was upregulated, while the expression levels of IGF1R, phosphorylated FOXO1 Ser249, MMP2, MMP9, and VEGFA were downregulated. CONCLUSION: In summary, our study is the first to demonstrate that HG regulates the phosphorylation of FOXO1, affecting the proliferation, migration, and invasion of HCC cells. The findings suggest that HG can inhibit the migration of HCC cells in vitro. The data indicate that HG-mediated targeting of the FOXO1/FOXO6 pathway holds promise as a novel therapeutic approach.",
+      "mesh_terms": [
+        "Humans",
+        "Carcinoma, Hepatocellular",
+        "Liver Neoplasms",
+        "Cell Movement",
+        "Signal Transduction",
+        "Forkhead Box Protein O1",
+        "Cell Line, Tumor",
+        "Apoptosis",
+        "Oleanolic Acid",
+        "Cell Proliferation",
+        "Neoplasm Invasiveness",
+        "Forkhead Transcription Factors",
+        "Gene Expression Regulation, Neoplastic",
+        "Receptor, IGF Type 1"
+      ]
+    },
+    {
+      "pmid": "38814954",
+      "title": "Hederagenin reduces Aβ-induced oxidative damage, decreases Aβ deposition, and promotes cell survival by the P13K/Akt signaling pathway.",
+      "authors": [
+        "Kunpeng Xie",
+        "Hao Wang",
+        "Xin Yao",
+        "Jialin Lv",
+        "Qingyu Wang",
+        "Yu Zhao",
+        "Shuhan Yang",
+        "Lipeng Xu",
+        "Yuhua Shi",
+        "Jiliang Hu",
+        "Yaming Shan"
+      ],
+      "journal": "Journal of leukocyte biology",
+      "publication_date": "2025-Feb-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease (AD) is a neurodegenerative disease characterized by memory loss and cognitive impairment. β-Amyloid (Aβ) is one of the typical pathological features of AD, and its accumulation leads to neuronal death from oxidative stress. Here, we found that hederagenin (HG), a natural product, exhibits antitumor, anti-inflammatory, antidepressant, antineurodegenerative biological activities. However, whether HG has anti-Aβ activity remains unclear. Based on the characteristics of HG, it is hypothesized that HG has biological activity against Aβ injury. Therefore, Aβ-injured SH-SY5Y cells were constructed, and the protective effect of HG against Aβ injury was further evaluated using Caenorhabditis elegans. The results showed that HG increased superoxide dismutase activity, effectively reduced Aβ-induced oxidative damage, and reduced apoptosis via the PI3 K/Akt signaling pathway. HG inhibited Aβ deposition and delayed senescence and paralysis in the C. elegans strain, CL4176. HG showed inhibitory effects on Aβ; therefore, more natural active products are expected to be applied in AD therapy.",
+      "mesh_terms": [
+        "Amyloid beta-Peptides",
+        "Oxidative Stress",
+        "Animals",
+        "Proto-Oncogene Proteins c-akt",
+        "Caenorhabditis elegans",
+        "Humans",
+        "Signal Transduction",
+        "Cell Survival",
+        "Oleanolic Acid",
+        "Phosphatidylinositol 3-Kinases",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Alzheimer Disease"
+      ]
+    },
+    {
+      "pmid": "38776855",
+      "title": "Hederagenin improves renal fibrosis in diabetic nephropathy by regulating Smad3/NOX4/SLC7A11 signaling-mediated tubular cell ferroptosis.",
+      "authors": [
+        "Jian Jia",
+        "Ruizhi Tan",
+        "Linghui Xu",
+        "Honglian Wang",
+        "Jianchun Li",
+        "Hongwei Su",
+        "Xia Zhong",
+        "Peng Liu",
+        "Li Wang"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2024-Jun-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diabetic nephropathy (DN) is a common complication of diabetes, characterized by renal fibrosis and poor patient prognosis. Hederagenin (HDG) has shown promising improvement in chronic kidney disease (CKD) kidney fibrosis, but its mechanism in DN-induced kidney fibrosis remains unclear. In this study, a model of diabetic nephropathy (DN) in mice was induced by intraperitoneal injection of streptozocin (50 mg/kg), while in vitro, high glucose (25 mM) was used to induce HK2 cell damage, simulating tubular injury in DN kidneys. The improvement of HDG treatment intervention was evaluated by observing changes in renal function, pathological structural damage, and the expression of fibrosis-related proteins in renal tubular cells. The results demonstrate that HDG intervention alleviates renal dysfunction and pathological damage in DN mice, accompanied by reduced expression of fibrotic markers α-smooth muscle actin (α-SMA), fibronectin (FN) and Collagen-I. Mechanistically, this study found that HDG can inhibit ferroptosis and fibrosis induced by the ferroptosis inducer Erastin (1 μM) in renal tubular cells. Phosphorylation of Smad3 promotes ferroptosis in renal tubular cells. After using its specific inhibitor SIS3 (4 μM), the expression of downstream target protein NADPH oxidase 4 (NOX4) significantly decreases, while the level of glutathione peroxidase 4 (GPX4) is notably restored, mitigating ferroptosis. Smad3 overexpression attenuates the therapeutic effect of HDG on tubular cell fibrosis induced by high glucose. These results demonstrate HDG inhibits Smad3 phosphorylation, thereby reducing the expression of NOX4 and enhancing the expression of GPX4, ultimately attenuating ferroptosis induced renal fibrosis. These findings suggest that HDG offer therapeutic potential for DN renal fibrosis by targeting Smad3-mediated ferroptosis in renal tubular cells.",
+      "mesh_terms": [
+        "Animals",
+        "Ferroptosis",
+        "Smad3 Protein",
+        "Diabetic Nephropathies",
+        "NADPH Oxidase 4",
+        "Fibrosis",
+        "Humans",
+        "Mice",
+        "Signal Transduction",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Cell Line",
+        "Oleanolic Acid",
+        "Kidney Tubules",
+        "Diabetes Mellitus, Experimental"
+      ]
+    },
+    {
+      "pmid": "38735142",
+      "title": "Hederagenin promotes lung cancer cell death by activating CHAC1-dependent ferroptosis pathway.",
+      "authors": [
+        "Jiayan Lu",
+        "Qixia Guo",
+        "Hui Zhao",
+        "Hua Liu"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2024-Jul-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Lung cancer poses a significant threat globally, especially in China. This puts higher demands on the treatment methods and drugs for lung cancer. Natural plants provide valuable resources for the development of anti-cancer drugs. Hederagenin (Hed) is a triterpenoid compound extracted from ivy leaves and has anti-tumor activity against multifarious cancers, including lung cancer. However, the regulatory mechanism of Hed in lung cancer remains unclear. In this study, we used Hed to treat lung cancer cells, and observed the effect of Hed on cell proliferation (including CCK-8 and colony formation experiments), apoptosis (including flow cytometry and apoptosis gene detection (BAX and Bcl-2)). The results showed that Hed induced lung cancer cell death (inhibiting proliferation and promoting apoptosis). Next, we performed bioinformatics analysis of the expression profile GSE186218 and found that Hed treatment significantly increased the expression of CHAC1 gene. CHAC1 is a ferroptosis-inducing gene. RT-qPCR detection of lung cancer clinical tissues and related cell lines also showed that CHAC1 was lowly expressed in lung cancer. Therefore, we knocked down and overexpressed CHAC1 in lung cancer cells, respectively. Subsequently, cell phenotype experiments showed that down-regulating CHAC1 expression inhibited lung cancer cell death (promoting proliferation and inhibiting apoptosis); on the contrary, up-regulating CHAC1 expression promoted lung cancer cell death. To further verify that Hed exerts anti-tumor effects in lung cancer by promoting CHAC1 expression, we performed functional rescue experiments. The results showed that down-regulating CHAC1 expression reversed the promoting effect of Hed on lung cancer cell death. Mechanistically, in vitro and in vivo experiments jointly demonstrated that Hed exerts anti-cancer effects by promoting CHAC1-induced ferroptosis. In summary, our study further enriches the regulatory mechanism of Hed in lung cancer.",
+      "mesh_terms": [
+        "Ferroptosis",
+        "Humans",
+        "Lung Neoplasms",
+        "Oleanolic Acid",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Apoptosis",
+        "Gene Expression Regulation, Neoplastic",
+        "A549 Cells",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "37955689",
+      "title": "Hederagenin protects against myocardial ischemia-reperfusion injury via attenuating ALOX5-mediated ferroptosis.",
+      "authors": [
+        "Li Zhao",
+        "Hongtao Shi",
+        "Fan Zhang",
+        "Honghong Xue",
+        "Qinghua Han"
+      ],
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hederagenin (HDG), a medical herb, is known for its beneficial activities against diverse diseases. The cardioprotective effect of HDG has been preliminarily disclosed, but the efficacy and underlying mechanism by which HDG protects against myocardial ischemia-reperfusion (MI/R) injury have not been elucidated yet. To simulate MI/R injury, the left anterior descending artery was occluded for 30 min and then reperfusion for 120 min in a rat model, and the cellular model of hypoxia-reoxygenation (H/R) injury was constructed in H9c2 cardiomyocytes. Hematoxylin-eosin, Prussian blue, and 2,3,5-triphenyl-2H-tetrazolium chloride (TTC) staining were conducted to assess the histological injury, iron deposition, and myocardial infarction. Myocardial enzymes and oxidative stress-related factors were detected using their commercial kits. Lipid peroxidation was measured using BODIPY581/591 probe, and iron content was detected. Cell counting kit (CCK)-8, terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL), and flow cytometry assays were performed to assess cell viability and apoptosis. Protein levels were investigated by western blot. The interaction between HDG and 5-lipoxygenase (ALOX5) was verified using molecular docking. Our findings indicated that HDG significantly attenuated myocardial dysfunction by reducing infarction and myocardial injury. HDG significantly attenuated myocardial apoptosis in vitro and in vivo, as well as alleviating oxidative stress via reducing reactive oxygen species (ROS) and maintaining the balance between antioxidant and oxidant enzymes. Meanwhile, HDG inhibited I/R-induced ferroptosis in myocardium and cardiomyocytes, including reducing lipid peroxidation and iron level. Moreover, the binding relationship between HDG and ALOX5 was verified, and HDG could concentration dependently downregulate ALOX5. Furthermore, ALOX5 overexpression eliminated the inhibition of HDG on H/R-induced apoptosis, oxidative stress, and ferroptosis in H9c2 cardiomyocytes. HDG ameliorated myocardial dysfunction and cardiomyocyte injury by reducing apoptosis, oxidative stress, and ferroptosis through inhibiting ALOX5, providing a new perspective on the prevention and treatment of MI/R injury.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Rats",
+        "Apoptosis",
+        "Arachidonate 5-Lipoxygenase",
+        "Cardiotonic Agents",
+        "Cell Line",
+        "Ferroptosis",
+        "Molecular Docking Simulation",
+        "Myocardial Infarction",
+        "Myocardial Reperfusion Injury",
+        "Myocytes, Cardiac",
+        "Oleanolic Acid",
+        "Oxidative Stress",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "37882913",
+      "title": "Hederagenin Upregulates PTPN1 Expression in Aβ-Stimulated Neuronal Cells, Exerting Anti-Oxidative Stress and Anti-Apoptotic Activities.",
+      "authors": [
+        "Ke Li",
+        "Yu Wang",
+        "Hongzao Ni"
+      ],
+      "journal": "Journal of molecular neuroscience : MN",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease (AD) is a prevalently neurodegenerative disease characterized by neuronal damage which is associated with amyloid-β (Aβ) accumulation. Hederagenin is a triterpenoid saponin, exerting anti-apoptotic, anti-oxidative, anti-inflammatory, anti-tumoral, and neuroprotective activities. However, its role in AD progression is still obscure. The aim of this study was to explore the influences of hederagenin on Aβ-caused neuronal injury in vitro. Neuronal cells were treated with Aβ25-35 (Aβ) to establish a cellular model of AD. Cell viability was assessed using cell counting kit-8 (CCK-8). Oxidative stress was evaluated by detecting reactive oxygen species (ROS) generation and superoxide dismutase (SOD) activity. Apoptosis was investigated using TUNEL staining and caspase-3 activity assays. Protein tyrosine phosphatase nonreceptor type 1 (PTPN1) was screened by bioinformatics analysis. Protein levels of PTPN1 and protein kinase B (Akt) were measured by western blotting. Hederagenin (2.5, 5, and 10 μM) alone did not affect viability of neuronal cells, but relieved Aβ-induced viability reduction. Hederagenin mitigated Aβ-induced increase in ROS accumulation and decrease in SOD activity. Hederagenin attenuated Aβ-induced increase in apoptotic rate and caspase-3 activity. PTPN1 was screened as a target of hederagenin against AD by bioinformatics analysis. Hederagenin treatment resisted Aβ-induced decrease in PTPN1 mRNA and protein levels in neuronal cells. PTPN1 silencing attenuated the suppressive functions of hederagenin in Aβ-stimulated oxidative stress and apoptosis. Hederagenin mitigated Aβ-induced Akt signaling inactivation by upregulating PTPN1 expression. In conclusion, hederagenin attenuates oxidative stress and apoptosis in neuronal cells stimulated with Aβ by promoting PTPN1/Akt signaling activation.",
+      "mesh_terms": [
+        "Humans",
+        "Reactive Oxygen Species",
+        "Proto-Oncogene Proteins c-akt",
+        "Neurodegenerative Diseases",
+        "Phosphoric Monoester Hydrolases",
+        "Caspase 3",
+        "Oxidative Stress",
+        "Amyloid beta-Peptides",
+        "Alzheimer Disease",
+        "Apoptosis",
+        "Superoxide Dismutase-1",
+        "Neuroprotective Agents",
+        "Peptide Fragments",
+        "Protein Tyrosine Phosphatase, Non-Receptor Type 1"
+      ]
+    },
+    {
+      "pmid": "37859723",
+      "title": "Pharmacological overview of hederagenin and its derivatives.",
+      "authors": [
+        "Xing Huang",
+        "Qing-Kun Shen",
+        "Hong-Yan Guo",
+        "Xiaoting Li",
+        "Zhe-Shan Quan"
+      ],
+      "journal": "RSC medicinal chemistry",
+      "publication_date": "2023-Oct-18",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Hederagenin is a pentacyclic triterpenoid isolated from plants and widely distributed in a variety of medicinal plants. By integrating and analyzing external related literature reports, the latest research progress on the pharmacological effects and structural modification of hederagenin was reviewed. Hederagenin has a wide range of pharmacological activities, including antitumor, anti-inflammatory, antidepressant, anti-neurodegenerative, antihyperlipidemic, antidiabetic, anti-leishmaniasis, and antiviral activities. Among them, it shows high potential in the field of anti-tumor treatment. This paper also reviews the structural modifications of hederagenin, including carboxyl group modifications and two hydroxyl group modifications. Future research on hederagenin will focus on prolonging its half-life, improving its bioavailability and structural modification to enhance its pharmacological activity, accelerating the preclinical research stage of hederagenin for it to enter the clinical research stage as soon as possible."
+    },
+    {
+      "pmid": "37817515",
+      "title": "Hederagenin Induces Apoptosis of Human Hepatoma HepG2 Cells via the Mitochondrial Pathway.",
+      "authors": [
+        "Zhuo Liu",
+        "Xiaoning Tan",
+        "Lian Peng",
+        "Wenhui Gao",
+        "Puhua Zeng"
+      ],
+      "journal": "Combinatorial chemistry & high throughput screening",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The objective of this study is to assess the antitumor effects of hederagenin (HDG) in liver cancer (LC) cells and explore the related mechanisms. MATERIALS AND METHODS: HepG2 cells were treated with HDG and cisplatin, respectively. The CCK8 assay was used to detect cell activity, DAPI staining was used to detect the proportion of living cells, TUNEL assay to detect the proportion of apoptotic cells, flow cytometry to detect the membrane potential, fluoroscopic electron microscopy to detect microstructural changes to the mitochondrial, and western blot analysis and high-content screening to detect apoptosisrelated proteins. RESULTS: Treatment with HDG inhibited the growth of HepG2 cells, decreased the proportion of viable cells, increased the proportion of apoptotic cells, and significantly increased the proportion of cells in the G1 phase. Fluorescence staining showed that HDG damaged the mitochondria of HepG2 cells and significantly decreased the number of mitochondria. Flow cytometry showed that HDG decreased the mitochondrial membrane potential of HepG2 cells. Observations by electron microscopy showed that HDG caused swelling and vacuole formation of the mitochondria of HepG2 cells. HDG significantly reduced the average fluorescence intensity of Bcl-2 in HepG2 cells and significantly increased that of the pro-apoptosis proteins Bax, Cytochrome-c, and Caspase-3. CONCLUSION: HDG induced apoptosis of HepG2 cells via the mitochondrial pathway.",
+      "mesh_terms": [
+        "Humans",
+        "Apoptosis",
+        "Hep G2 Cells",
+        "Oleanolic Acid",
+        "Mitochondria",
+        "Liver Neoplasms",
+        "Membrane Potential, Mitochondrial",
+        "Antineoplastic Agents",
+        "Carcinoma, Hepatocellular",
+        "Cell Proliferation",
+        "Drug Screening Assays, Antitumor",
+        "Dose-Response Relationship, Drug"
+      ]
+    },
+    {
+      "pmid": "37120556",
+      "title": "Proteomics identifies differentially expressed proteins in glioblastoma U87 cells treated with hederagenin.",
+      "authors": [
+        "Yesen Zhang",
+        "Yi Han",
+        "Yuchun Shang",
+        "Xiangyu Wang",
+        "Jiwei Sun"
+      ],
+      "journal": "Proteome science",
+      "publication_date": "2023-Apr-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: We investigated differentially expressed proteins (DEPs) in human glioblastoma U87 cells after treatment with hederagenin as a therapeutic screening mechanism and provided a theoretical basis for hederagenin in treating glioblastoma. METHODS: The Cell Counting Kit 8 assay was used to analyze the inhibitory effect of hederagenin on the proliferation of U87 cells. Protein was identified by tandem mass tags and LC-MS/MS analysis techniques. Annotation of DEPs, Gene Ontology enrichment and function, and Kyoto Encyclopedia of Genes and Genomes pathways and domains were all examined by bioinformatics. According to the TMT results, hub protein was selected from DEPs for WB verification. RESULTS: Protein quantitative analysis found 6522 proteins in total. Compared with the control group, 43 DEPs (P < 0.05) were involved in the highly enriched signaling pathway in the hederagenin group, among which 20 proteins were upregulated, and 23 proteins were downregulated. These different proteins are mainly involved in the longness regulating pathway-WORM, the hedgehog signaling pathway, Staphylococcus aureus infection, complement, coagulation cascades, and mineral absorption. KIF7 and ATAD2B expression were significantly down-regulated and PHEX and TIMM9 expression were significantly upregulated, according to WB analysis, supporting the TMT findings. CONCLUSION: Hederagenin inhibition of GBM U87 cells may be related to KIF7, which is mainly involved in the hedgehog signaling pathway. Our findings lay a foundation for additional study of the therapeutic mechanism of hederagenin."
+    },
+    {
+      "pmid": "37023701",
+      "title": "Hederagenin ameliorates renal fibrosis in chronic kidney disease through blocking ISG15 regulated JAK/STAT signaling.",
+      "authors": [
+        "Jian Jia",
+        "Ling-Hui Xu",
+        "Chong Deng",
+        "Xia Zhong",
+        "Ke-Huan Xie",
+        "Rang-Yue Han",
+        "Hong-Wei Su",
+        "Rui-Zhi Tan",
+        "Li Wang"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Interstitial fibrosis is the key pathological characteristics of chronic kidney diseases (CKD). In this study, we reported that hederagenin (HDG) can effectively improve the renal interstitial fibrosis and its mechanism. We constructed CKD animal models of ischemia reperfusion injury (IRI) and unilateral ureteral obstruction (UUO) respectively to observe the improvement effect of HDG on CKD. The results showed that HDG can effectively improve the pathological structure of kidney and the renal fibrosis in CKD mice. Meanwhile, HDG can also significantly reduce the expression of α-SMA and FN induced by TGF-β in Transformed C3H Mouse Kidney-1 (TCMK1) cells. Mechanistically, we performed transcriptome sequencing on UUO kidneys treated with HDG. By real time PCR screening of the sequencing results, we determined that ISG15 plays an important role in the intervention of HDG in CKD. Subsequently, we knocked-down ISG15 in TCMK1 and found that ISG15 knock-down significantly inhibited TGF-β-induced fibrotic protein expression and JAK/STAT activation. Finally, we performed electrotransfection and used liposomes to transfect ISG15 overexpression plasmids to up-regulate ISG15 in kidney and cells, respectively. We found that ISG15 can aggravate renal tubular cell fibrosis and abolish the protection of HDG on CKD. These results indicated that HDG significantly improves renal fibrosis in CKD by inhibiting ISG15 and its downstream JAK/STAT signaling pathway, which provides a new drug and research target for the subsequent treatment of CKD.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Mice, Inbred C3H",
+        "Kidney",
+        "Renal Insufficiency, Chronic",
+        "Ureteral Obstruction",
+        "Signal Transduction",
+        "Transforming Growth Factor beta",
+        "Fibrosis",
+        "Transforming Growth Factor beta1"
+      ]
+    },
+    {
+      "pmid": "36911825",
+      "title": "Hederagenin suppresses glioma cell biological activities via Nur77 in vitro study.",
+      "authors": [
+        "Yuxiang Dai",
+        "Ngarmbaye Masra",
+        "Lu Zhou",
+        "Chen Yu",
+        "Wei Jin",
+        "Hongbin Ni"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2023-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this research was to discuss Hederagenin's antitumor effects on glioma by in vitro study. U251 and U87 cell lines were used as research target in our research. In the first step, the different Hed concentrations were treated to U251 and U87 cell lines, and the second step is Nur77 transfection in U251 and U87 with Hed treatment; measuring cell proliferation by MTT and EdU staining; evaluating cell invasion and migration abilities by transwell assay and relative gene and protein expressions by RT-qPCR and WB assay. Compared with NC group, U251 and U87 cell proliferation were significantly depressed with cell apoptosis significantly increasing, and cell invasion and migration abilities were significantly inhibited in Hed-treated groups (p < .05, respectively); however, with Nur77 transfection, the Hed's antitumor effects disappeared. Meanwhile, with Hed supplement, Nur77, PI3K, and AKT gene expressions were significantly downregulated (p < .05, respectively) in Hed-treated groups; and Nur77, p-PI3K, and p-AKT protein expressions were significantly decreased (p < .05, respectively) in Hed-treated groups. Hed had antitumor effects on glioma cell biological activities via Nur77/PI3K/AKT pathway in vitro study."
+    },
+    {
+      "pmid": "36809694",
+      "title": "Hederagenin improves Alzheimer's disease through PPARα/TFEB-mediated autophagy.",
+      "authors": [
+        "Zhi-Shen Xie",
+        "Jian-Ping Zhao",
+        "Li-Min Wu",
+        "Shuang Chu",
+        "Zheng-Hao Cui",
+        "Yi-Ran Sun",
+        "Hui Wang",
+        "Hui-Fen Ma",
+        "Dong-Rui Ma",
+        "Pan Wang",
+        "Xiao-Wei Zhang",
+        "Zhen-Qiang Zhang"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2023-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Autophagic flux is coordinated by a network of master regulatory genes, which centered on transcription factor EB (TFEB). The disorders of autophagic flux are closely associated with Alzheimer's disease (AD), and thus restoring autophagic flux to degrade pathogenic proteins has become a hot therapeutic strategy. Hederagenin (HD), a triterpene compound, isolated from a variety food such as Matoa (Pometia pinnata) Fruit, Medicago sativa, Medicago polymorpha L. Previous studies have shown that HD has the neuroprotective effect. However, the effect of HD on AD and underlying mechanisms are unclear. PURPOSE: To determine the effect of HD on AD and whether it promotes autophagy to reduce AD symptoms. STUDY DESIGN: BV2 cells, C. elegans and APP/PS1 transgenic mice were used to explore the alleviative effect of HD on AD and the molecular mechanism in vivo and in vitro. METHODS: The APP/PS1 transgenic mice at 10 months were randomized into 5 groups (n = 10 in each group) and orally administrated with either vehicle (0.5% CMCNa), WY14643 (10 mg/kg/d), low-dose of HD (25 mg/kg/d), high-dose of HD (50 mg/kg/d) or MK-886 (10 mg/kg/d) + HD (50 mg/kg/d) for consecutive 2 months. The behavioral experiments including morris water maze test, object recognition test and Y maze test were performed. The effects of HD on Aβ deposition and alleviates Aβ pathology in transgenic C. elegans were operated using paralysis assay and fluorescence staining assay. The roles of HD in promoting PPARα/TFEB-dependent autophagy were investigated using the BV2 cells via western blot analysis, real-time quantitative PCR (RT-qPCR), molecular docking, molecular dynamic (MD) simulation, electron microscope assay and immunofluorescence. RESULTS: In this study, we found that HD upregulated mRNA and protein level of TFEB and increased the distribution of TFEB in the nucleus, and the expressions of its target genes. HD also promoted the expressions of LC3BII/LC3BI, LAMP2, etc., and promoted autophagy and the degradation of Aβ. HD reduced Aβ deposition in the head area of C. elegans and Aβ-induced paralysis. HD improved cognitive impairment and pathological changes in APP/PS1 mice by promoting autophagy and activating TFEB. And our results also showed that HD could strongly target PPARα. More importantly, these effects were reversed by treatment of MK-886, a selective PPARα antagonist. CONCLUSION: Our present findings demonstrated that HD attenuated the pathology of AD through inducing autophagy and the underlying mechanism associated with PPARα/TFEB pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Alzheimer Disease",
+        "Amyloid beta-Peptides",
+        "Autophagy",
+        "Caenorhabditis elegans",
+        "Disease Models, Animal",
+        "Mice, Transgenic",
+        "Molecular Docking Simulation",
+        "PPAR alpha"
+      ]
+    },
+    {
+      "pmid": "36379106",
+      "title": "Design and synthesis of hederagenin derivatives modulating STING/NF-κB signaling for the relief of acute liver injury in septic mice.",
+      "authors": [
+        "Tao Yu",
+        "Haoran Cheng",
+        "Xiaoli Li",
+        "Wentao Huang",
+        "Haixia Li",
+        "Xiaojin Gao",
+        "Jianing Zhao",
+        "Xin Zhang",
+        "Xiaoxiao Gu",
+        "Yi Bi",
+        "Leiming Zhang"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2023-Jan-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Systemic inflammatory responses often result in sepsis and inhibition of inflammation is one strategy for sepsis treatment. In this study, we designed and synthesized 32 novel hederagenin (HD) derivatives with modifications at the A-ring, C-28, and C-23 positions and screened their anti-inflammatory activities in vitro, finding multiple compounds with potential anti-inflammatory activity. Of these, compound 1 was the most effective and was used for subsequent investigations into its mechanism of action and in vivo activity. In vivo assessments of anti-inflammatory activity showed that compound 1 reduced inflammation in a mouse model of sepsis with acute liver injury caused by lipopolysaccharide (LPS). Compound 1 also inhibited STING, p-IRF3, p-TBK1, p-p65, and p-IκB proteins in cGAS-STING-associated signaling. These findings indicated that compound 1 reduced inflammation through inhibition of STING expression and hence reducing activation of STING and nuclear factor-κB (NF-κB) signaling. Our work demonstrated that compound 1 is a promising lead compound for designing and developing anti-sepsis drugs.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Anti-Inflammatory Agents",
+        "Inflammation",
+        "Lipopolysaccharides",
+        "Liver",
+        "NF-kappa B",
+        "Sepsis",
+        "Liver Failure, Acute"
+      ]
+    },
+    {
+      "pmid": "36155281",
+      "title": "Hederagenin ameliorates cisplatin-induced acute kidney injury via inhibiting long non-coding RNA A330074k22Rik/Axin2/β-catenin signalling pathway.",
+      "authors": [
+        "Ke-Huan Xie",
+        "Xiao-Heng Liu",
+        "Jian Jia",
+        "Xia Zhong",
+        "Rang-Yue Han",
+        "Rui-Zhi Tan",
+        "Li Wang"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Acute kidney injury (AKI), a kidney disease with high morbidity and mortality, is characterized by a dramatic decline in renal function. Hederagenin (HDG), a pentacyclic triterpenoid saponin isolated from astragalus membranaceus, has been shown to have significant anti-inflammatory effects on various diseases. However, the effects of HDG on renal injury and inflammation in AKI has not been elucidated. METHODS: In this research, mice model of AKI was established by intraperitoneal injection of cisplatin in vivo, the inflammatory model of renal tubular epithelial cells was established by LPS stimulation in vitro, and HDG was used to intervene in vitro and in vivo models. Transcriptome sequencing was used to analyze the alterations of LncRNA and mRNA expression in AKI model and LncRNA-A330074k22Rik (A33) knockdown cells, respectively. Renal in situ electrotransfer knockdown plasmid was used to establish mice model of AKI with low expression of A33 in kidney. RESULTS: The results showed that HDG effectively alleviate cisplatin-induced kidney injury and inflammation in mice. Transcriptome sequencing results showed that multiple LncRNAs in kidney of AKI model exhibited significant changes, among which LncRNA-A33 had the most obvious change trend. Subsequent results showed that A33 was highly expressed in kidney of AKI mice and LPS-induced renal tubular cells. After in situ renal electroporation knockdown plasmid down-regulated A33 in kidney of AKI mice, it was found that inhibition of A33 could significantly relieve cisplatin-induced kidney injury and inflammation of AKI, while HDG could effectively suppress the expression of A33 in vitro and in vivo, respectively. Subsequently, transcriptome sequencing was again used to analyze the changes in mRNA expression of renal tubular cells after A33 knockdown by siRNA. The results showed that a large number of inflammation-related signaling pathways were down-regulated, Axin2 and its downstream β-catenin signal were significantly inhibited. Cell recovery test showed that HDG inhibited Axin2/β-catenin signal by down-regulating A33, and improved kidney injury and inflammation of AKI. CONCLUSION: Taken together, HDG significantly ameliorated cisplatin-induced kidney injury through LncRNA-A330074k22Rik/Axin2/β-catenin signal axis, which providing a potential therapeutic approach for the treatment of AKI.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Cisplatin",
+        "RNA, Long Noncoding",
+        "beta Catenin",
+        "Lipopolysaccharides",
+        "RNA, Small Interfering",
+        "Mice, Inbred C57BL",
+        "Acute Kidney Injury",
+        "Oleanolic Acid",
+        "Kidney",
+        "Inflammation",
+        "Disease Models, Animal",
+        "Anti-Inflammatory Agents",
+        "Saponins",
+        "RNA, Messenger"
+      ]
+    },
+    {
+      "pmid": "36102390",
+      "title": "Hederagenin Exerts Potential Antilipemic Effect via p38MAPK Pathway in Oleic Acid-induced HepG2 cells and in Hyperlipidemic Rats.",
+      "authors": [
+        "Meng Yang",
+        "Jing Wang",
+        "Qiaoling Wang"
+      ],
+      "journal": "Anais da Academia Brasileira de Ciencias",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hederagenin, a natural compound distributed in many medicinal plants, has a variety of pharmacological properties including anti-bacteria, anti-inflammation, anti-oxidation, and anti- apoptosis.. The aim of this study was to evaluate the effects of hederagenin on decreasing blood lipid and anti-oxidative stress in oleic acid-induced HepG2 cells and hyperlipidemic rats, and explore underlying mechanisms. In vitro, TG was used as the index to verify the lipid-lowering effect of hederagenin in oleic acid-induced HepG2 cells. In vivo, TC, TG, LDL-C, and HDL-C were used as direct indicators to study the antilipemic effect of hederagenin in hyperlipidemic rats. MDA, SOD, and GSH-PX were measured to analyze the anti-oxidative effect of hederagenin. The signaling pathways of anti-oxidation were evaluated using Western blot. Our results showed that hederagenin (250μmol/L) increased significantly TG clearance rate. In addition, treatment with hederagenin, XZK and simvastatin reduced effectively TC, TG, LDL-C and MDA content, and increased HDL-C, SOD and GSH-PX in HFD rats. Moreover, the phosphorylation level of p38 MAPK was inhibited after administration of hederagenin, XZK and simvastatin. Our results revealed that hederagenin possessed beneficial potentials for hypolipidemic effects, especially in TG clearance. The mechanism might be associated with inhibition of lipid absorption, reduction of lipid oxidation, and down-regulation of p38MAPK phosphorylation.",
+      "mesh_terms": [
+        "Animals",
+        "Cholesterol, LDL",
+        "Hep G2 Cells",
+        "Humans",
+        "Hypolipidemic Agents",
+        "Oleanolic Acid",
+        "Oleic Acid",
+        "Rats",
+        "Simvastatin",
+        "Superoxide Dismutase",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "35322725",
+      "title": "The protective effect of hederagenin on renal fibrosis by targeting muscarinic acetylcholine receptor.",
+      "authors": [
+        "Wei Yang",
+        "Lijuan He"
+      ],
+      "journal": "Bioengineered",
+      "publication_date": "2022-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hederagenin (HE) plays a protective role by inhibiting cell proliferation and ameliorating fibrosis. The current therapy for Chronic kidney disease (CKD) often result in the risks of side effects. The present study aimed to explore whether it can protect against renal fibrosis and unveil the underlying mechanism. Transforming growth factor (TGF)-β was used to induce the fibroblasts NRK-49 F for the simulation of renal fibrosis. The cell viability and expression of fibrosis-related proteins in TGF-β-treated NRK-49 F cells was, respectively, measured by Cell Counting Kit-8 (CCK-8) and western blot. After predicting the target genes of HE, M3 receptor was measured in NRK-49 F cells treated with TGF-β alone or in combination with HE. Then, M3 receptor was silenced in TGF-β-treated NRK-49 F cells for the detection of its role in proliferation and fibrosis. Muscarinic acetylcholine receptor M3 (M3 receptor) agonist pilocarpine was further added to determine the role of M3 receptor involved. HE inhibited the proliferation and fibrosis of TGF-β-treated NRK-49 F cells. M3 receptor was predicted to be a target of HE. Moreover, interference of M3 receptor improved the proliferation and fibrosis of TGF-β-treated NRK-49 F cells. Further addition of pilocarpine reversed the inhibitory effect of HE on proliferation and fibrosis of TGF-β-treated NRK-49 F cells. HE protects against renal fibrosis in NRK-49 F cells by targeting Muscarinic acetylcholine receptor, which will provide theoretical basis for the clinical use of HE for kidney-related disease treatment.",
+      "mesh_terms": [
+        "Cell Line",
+        "Fibrosis",
+        "Humans",
+        "Kidney",
+        "Kidney Diseases",
+        "Oleanolic Acid",
+        "Pilocarpine",
+        "Receptors, Muscarinic",
+        "Transforming Growth Factor beta"
+      ]
+    },
+    {
+      "pmid": "35266443",
+      "title": "Suppression of NOD-like receptor protein 3 inflammasome activation and macrophage M1 polarization by hederagenin contributes to attenuation of sepsis-induced acute lung injury in rats.",
+      "authors": [
+        "Lin Wang",
+        "Min Zhao"
+      ],
+      "journal": "Bioengineered",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acute lung injury (ALI) is a major leading cause of death in sepsis patients. Hederagenin (HG), derived from Hedera helix Linné, has anti-inflammatory effects, while its role in sepsis-induced ALI has not been elucidated. In vivo, rats were subjected to cecal ligation and puncture to induce ALI and then treated with HG (12.5, 25, or 50 mg/kg) by gavage. Administration of HG raised survival rate, ameliorated lung injury, and decreased lung wet/dry ratio and inflammatory cell accumulation in bronchoalveloar lavage fluid (BALF) of ALI rats. HG inhibited macrophage polarization toward the M1 phenotype as evidenced by decreased CD86 expression in rat lung tissues. Moreover, HG decreased the secretion of TNF-α, IL-6 and monocyte chemoattractant protein-1 (MCP-1) in BALF and the levels of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2) in lung tissues. In vitro, phorbol-12-myristate-13-acetate (PMA)-differentiated THP-1 macrophages were stimulated with 100 ng/mL lipopolysaccharide. HG treatment inhibited M1 macrophage polarization and the production of M1-related pro-inflammatory mediators (IL-6, MCP-1, iNOS, and COX-2). Mechanistically, HG inhibited NLRP3 inflammasome activation and subsequent release of IL-18 and IL-1β, and suppressed NF-κB signaling pathway both in vivo and in vitro. Notably, HG treatment further emphasized the inhibitory effect of NF-κB inhibitor BAY11-7082 on NLRP3 inflammasome activation and macrophage M1 polarization. Taken together, HG exerts a protective effect against sepsis-induced ALI by reducing the inflammatory response and macrophage M1 polarization, which may involve NF-κB pathway-modulated NLRP3 inflammasome activation.",
+      "mesh_terms": [
+        "Acute Lung Injury",
+        "Animals",
+        "Cyclooxygenase 2",
+        "Humans",
+        "Inflammasomes",
+        "Interleukin-6",
+        "Lipopolysaccharides",
+        "Lung",
+        "Macrophages",
+        "NF-kappa B",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "NLR Proteins",
+        "Oleanolic Acid",
+        "Rats",
+        "Sepsis"
+      ]
+    },
+    {
+      "pmid": "35179617",
+      "title": "Utility of the combination of hederagenin glucoside saponins and chromane hydrazone in the topical treatment of canine cutaneous leishmaniasis. An observational study.",
+      "authors": [
+        "S P Piragauta",
+        "J L Higuita-Castro",
+        "N Arbeláez",
+        "A M Restrepo",
+        "R Archbold",
+        "W Quiñones",
+        "F Torres",
+        "F Echeverri",
+        "G Escobar",
+        "I D Vélez",
+        "A Montoya",
+        "S M Robledo"
+      ],
+      "journal": "Parasitology research",
+      "publication_date": "2022-May",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "abstract": "Canine cutaneous leishmaniasis (CCL) is an emerging zoonotic infection endemic in several countries of the world. Due to variable response to therapy and frequency of relapses, a more effective, safer, and inexpensive treatment is needed. Recently, it was reported that the hederagenin glucoside saponins (SS) and chromane-derived hydrazone (TC2) combined in a 1:1 ratio has high potential in antileishmanial therapy since both compounds alter the survival of Leishmania and the ability to infect adjacent macrophage. Not only the skin permeation and the absorption of an ointment containing 2% TC2 and 2% SS (w/w) was determined in this work, but also the acute dermal toxicity in both in vitro and in vivo assays. Last, the effectiveness and safety of the topical therapy with 2% TC2-2% SS ointment was evaluated in an observational study in dogs with diagnosis of cutaneous leishmaniasis (CL). Both TC2 and SS diffused through pig ear skin and traces of TC2 (but not SS) were detected in the stratum corneum of mice at 6-24 h. Neither TC2 nor SS was detected in plasma. The acute dermal toxicity was negative. Treatment with 2% TC2-2% SS ointment produced a complete long-term clinical cure in 56 dogs (24 females and 32 males) from the Orinoco and Amazonas regions in southeastern Colombia without adverse effects. All dogs have remained disease-free for the last 24 months. In conclusion, these results support the use of this topical therapy as a safer and new first-line local treatment of CCL that could help limit the spread of CL from dogs to humans.",
+      "mesh_terms": [
+        "Animals",
+        "Antiprotozoal Agents",
+        "Dogs",
+        "Female",
+        "Glucosides",
+        "Hydrazones",
+        "Leishmaniasis, Cutaneous",
+        "Male",
+        "Mice",
+        "Ointments",
+        "Oleanolic Acid",
+        "Saponins",
+        "Swine"
+      ]
+    },
+    {
+      "pmid": "34896691",
+      "title": "Immunomodulatory and anti-inflammatory efficacy of hederagenin-coated maghemite (γ-Fe2O3) nanoparticles in an atopic dermatitis model.",
+      "authors": [
+        "Kwon-Jai Lee",
+        "Khoirunnisa Ratih",
+        "Gyeong-Ji Kim",
+        "Yu-Rim Lee",
+        "Jae-Soo Shin",
+        "Kang-Hyun Chung",
+        "Eun-Ju Choi",
+        "Eun-Kyung Kim",
+        "Jeung Hee An"
+      ],
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publication_date": "2022-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We investigated the immunomodulatory and anti-inflammatory efficacy of hederagenin coating on maghemite (γ-Fe2O3) nanoparticles (HM) in atopic dermatitis (AD), as well as the physical and optical properties of maghemite nanoparticles (MP) using SEM, XRD spectroscopy, UV-vis spectra, Raman spectra, and FTIR spectroscopy. Dose-dependent treatment with HM (10, 50, 100, 200 μg/mL) inhibited the expression of Interleukin-2 (IL-2) and Tumor necrosis factor- α (TNF-α) in inflammatory induced HaCaT and Jurkat cells with inflammation caused by TNF/IFN-γ and PMA/A23187. AD model was induced by performing topical application of 2,4-dinitrochlorobenzene (DNCB) and dermatophagoides farinae extract (DFE) for a 31-day period on 8-week-old BALB/c mice. The HM treatments efficiently diminished the AD-like cutaneous lesion induced by DNCB-DFE sensitization in mice. Compared to the AD-only groups, HM treatment considerably attenuated mast cell infiltration and lowered epidermal, and dermal thickness of mice ears skin. In addition, HM treatment prominently alleviated the enlarged size and weight of lymph nodes. Furthermore, HM treatment resulted in a notable reduction in the mRNA expression of Th1 cytokines (TNF-α and IFN-γ), Th2 cytokines (IL-4 and IL-6), Th17 (IL-17), and TSLP. Our data showed that HM provides better AD attenuation compared to MP. Additionally, HM had synergistic effect and act as anti-inflammatory and immunomodulatory agent. Thus, HM shows great potential in AD medication and as a substitution of non-steroid-based medication.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Dermatitis, Atopic",
+        "Ferric Compounds",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Nanoparticles",
+        "Oleanolic Acid",
+        "Skin"
+      ]
+    },
+    {
+      "pmid": "34547436",
+      "title": "Inhibitory effect of hederagenin on Streptococcus pneumoniae pneumolysin in vitro.",
+      "authors": [
+        "Rui Ding",
+        "Yan Zhang",
+        "Xiangzhu Xu",
+        "Yunfeng Hou",
+        "Jing Nie",
+        "Xuming Deng",
+        "Jiazhang Qiu",
+        "Qianghua Lv"
+      ],
+      "journal": "Microbes and infection",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Streptococcus pneumoniae is an important pathogen that causes otitis media, pneumonia, meningitis and bacteremia. As an important virulence factors of S. pneumoniae, pneumolysin (PLY) can penetrate cell membranes and lead to cell lysis and inflammation, which is one of the main causes of infection and damage of S. pneumoniae. Therefore, using pneumolysin as a target to study its inhibitors can provide a new treatment strategy for pneumococcal disease. This study analyzed the inhibitory effect of the natural compound hederagenin on PLY in vitro. The results show that hederagenin has great potential as a new strategy for the treatment of pneumococcal diseases.",
+      "mesh_terms": [
+        "Bacterial Proteins",
+        "Humans",
+        "Oleanolic Acid",
+        "Pneumococcal Infections",
+        "Streptococcus pneumoniae",
+        "Streptolysins"
+      ]
+    },
+    {
+      "pmid": "33360797",
+      "title": "Design, synthesis, and biological evaluation of hederagenin derivatives with improved aqueous solubility and tumor resistance reversal activity.",
+      "authors": [
+        "Binghua Wang",
+        "Shuqi Liu",
+        "Wentao Huang",
+        "Mengxin Ma",
+        "Xiaoqian Chen",
+        "Wenxuan Zeng",
+        "Kaicheng Liang",
+        "Hongbo Wang",
+        "Yi Bi",
+        "Xiaopeng Li"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2021-Feb-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Multidrug resistance (MDR) has become a major obstacle to malignancies treatment by chemotherapeutic drugs, therefore, it is important to develop MDR reversal agents with high activity. We have previously found that the hederagenin (HD) derivative HBQ showed good tumor MDR reversal activity in vitro and in vivo but had poor solubility. In this study, to enhance the aqueous solubility and tumor MDR reversal activity of HBQ, three series of HD derivatives were designed and synthesized. Nitrogen-containing heterocyclic-substituted, PEGylated, and ring-A substituted derivatives significantly reversed the MDR phenotype of KBV (multidrug-resistant oral epidermoid carcinoma) cells toward paclitaxel at a concentration of 10 μM in MTT assays. The PEGylated derivatives 10c-10e had increased aqueous solubility compared with HBQ by 18-657 fold, while maintaining tumor MDR reversal activity. The most in vitro active compound 10c possessed good chemical stability to an esterase over 24 h and enhanced the sensitivity of KBV cells to paclitaxel and vincristine with IC50 values of 4.58 and 0.79 nM, respectively. Mechanism studies indicated that compound 10c increased the accumulation of P-glycoprotein (P-gp) substrates rhodamine 123 and Flutax1 in KBV cells and MCF-7T (paclitaxel-resistant breast carcinoma) cells, that is to say, compound 10c exerted the reversal effect of tumor MDR by inhibiting the efflux function of P-gp. Finally, the structure-activity relationships were further investigated by analyzing the relationship between structure and tumor MDR reversal activity of HD derivatives. This study highlights the potential of PEGylated HD derivatives such as compound 10c for the development of tumor MDR reversal agents and provides information for the further improvement of the aqueous solubility and tumor MDR reversal activity of HD derivatives in the future.",
+      "mesh_terms": [
+        "Drug Resistance, Multiple",
+        "Drug Resistance, Neoplasm",
+        "Humans",
+        "Molecular Structure",
+        "Oleanolic Acid",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "32848779",
+      "title": "Hederagenin Attenuates Cerebral Ischaemia/Reperfusion Injury by Regulating MLK3 Signalling.",
+      "authors": [
+        "Hailong Yu",
+        "Lilong Song",
+        "Xiang Cao",
+        "Wei Li",
+        "Yuanyuan Zhao",
+        "Jian Chen",
+        "Jun Li",
+        "Yingzhu Chen",
+        "Wenkui Yu",
+        "Yun Xu"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cerebral ischaemia/reperfusion (CI/R) injury is a major challenge due to the lack of effective neuroprotective drugs. Hederagenin (HE) is the aglycone part of saponins extracted from Hedera helix Linné that has exhibited anti-apoptotic and anti-inflammatory effects; however, the role of HE in CI/R has not been elucidated. In this study, mice were intraperitoneally (i.p.) injected with HE (26.5, 53, or 106 μmol/kg body weight) for 3 days after middle cerebral artery occlusion (MCAO). Neural function and brain infarct volume were evaluated. HE treatment attenuated CI/R-induced apoptosis and inflammatory cytokine expression within the infarcted areas. HE treatment also decreased the activation of the MLK3 signalling pathway, which potentiates CI/R damage via the MAPK and NFκB pathways. Due to HE's safety profile, it has potential to be used for the clinical treatment of ischaemic stroke."
+    },
+    {
+      "pmid": "32714398",
+      "title": "A Natural Compound Mixture Containing Arctigenin, Hederagenin, and Baicalein Alleviates Atopic Dermatitis in Mice by Regulating HPA Axis and Immune Activity.",
+      "authors": [
+        "Ly Thi Huong Nguyen",
+        "Tae-Woo Oh",
+        "Uy Thai Nguyen",
+        "Min-Jin Choi",
+        "In-Jun Yang",
+        "Heung-Mook Shin"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Forsythiae Fructus, Lonicerae Flos, and Scutellariae Radix are medicinal herbs that possess anti-inflammatory and anti-atopic effects. Hence, we investigated the effects of a mixture (ADM), containing arctigenin, hederagenin, and baicalein, which are the main compound from these herbs on atopic dermatitis (AD) skin lesions and the underlying molecular mechanisms. ADM was topically applied to dorsal skin lesions of 2,4-dinitrochlorobenzene- (DNCB-) induced ICR mice, and the expressions of proinflammatory mediators and HPA axis hormones were investigated. The topical application of 0.5% ADM significantly reduced the DNCB-induced symptoms of AD in ICR mice. Histological analysis showed that ADM exerted antiatopic effects by reducing the epidermal thickness and mast cell infiltration into skin lesions. 0.5% ADM attenuated the levels of TNF-α, IFN-γ, IL-4, and VEGF in skin lesions and serum IgE. The production of Th1-/Th2-related cytokines in splenic tissues, including TNF-α, IFN-γ, IL-12, and IL-4, were also decreased by ADM treatment. ADM diminished corticotropin-releasing hormone (CRH), adrenocorticotropic hormone (ACTH), and corticosteroid (CORT) production in DNCB-induced mice. In vitro, ADM reduced the productions of TARC/CCL17, MDC/CCL22, IL-6, and ICAM-1 in TNF-α/IFN-γ- (TI-) stimulated HaCaT cells by suppressing the ERK and JNK signaling pathways. In addition, ADM inhibited corticotropin-releasing hormone/substance P- (CRH/SP-) induced VEGF production in HMC-1 cells. These results suggest that ADM may have therapeutic potential in AD by reducing inflammation and attenuating HPA axis activation."
+    },
+    {
+      "pmid": "32024440",
+      "title": "The protective effect of Hederagenin on pulmonary fibrosis by regulating the Ras/JNK/NFAT4 axis in rats.",
+      "authors": [
+        "Wenjing Ma",
+        "Qingsong Huang",
+        "Guofu Xiong",
+        "Lijun Deng",
+        "Yan He"
+      ],
+      "journal": "Bioscience, biotechnology, and biochemistry",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "As a respiratory disease with high morbidity and mortality, pulmonary fibrosis (PF) has been a serious threat to people's health. Hederagenin (HDG) is a pentacyclic triterpenoid saponin widely distributed in various plants. This study explored the role of HDG in Bleomycin (BLM)-induced PF and the molecular mechanism. The results showed that HDG reduced BLM-induced pulmonary dysfunction, pathological damage in a dose-dependent manner. Besides, HDG reduced BLM-induced collagen deposition by decreasing the levels of α-SMA, Collagen I and hydroxproline. Furthermore, HDG reduced the levels of inflammatory cytokines (TNF-α and IL-6), TGF-β1 and connective tissue growth factor (CTGF) in bronchoalveolar lavage fluid (BALF) or serum. Further mechanism analysis indicated that HDG inhibited the expression of Ras and phosphorylation of JNK and NFAT4 in a dose-dependent manner. However, the JNK pathway activator Anisomycin reversed this inhibitory effect. In conclusion, these findings suggest that HDG may be a potential target drug for PF therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Bleomycin",
+        "Cytokines",
+        "Epithelial-Mesenchymal Transition",
+        "JNK Mitogen-Activated Protein Kinases",
+        "MAP Kinase Signaling System",
+        "Male",
+        "NFATC Transcription Factors",
+        "Oleanolic Acid",
+        "Phosphorylation",
+        "Protective Agents",
+        "Pulmonary Fibrosis",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "ras Proteins"
+      ]
+    },
+    {
+      "pmid": "31972206",
+      "title": "Hederagenin protects mice against ovariectomy-induced bone loss by inhibiting RANKL-induced osteoclastogenesis and bone resorption.",
+      "authors": [
+        "Kun Tian",
+        "Yuangang Su",
+        "Jiaxin Ding",
+        "Dairong Wang",
+        "Yunfei Zhan",
+        "Yicheng Li",
+        "Jiamin Liang",
+        "Xixi Lin",
+        "Fangming Song",
+        "Ziyi Wang",
+        "Jiake Xu",
+        "Qian Liu",
+        "Jinmin Zhao"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2020-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Postmenopausal osteoporosis and other osteolytic bone diseases are often caused by the elevation in osteoclastogenesis and/or increased osteoclastic bone resorption, leading to excessive bone loss. Hederagenin (Hed) is a pentacyclic triterpenoid saponin extracted from various natural medicinal plants and exhibits numerous biological activities and may offer benefits against bone-related conditions. We evaluated the effects of Hed on osteoclast formation and bone resorption in vitro and the in vivo therapeutic benefits in the mouse model of ovariectomy (OVX)-induced bone loss. MAIN METHODS: In vitro, osteoclast formation were determined by TRAcp staining; bone resorption were examined using Hydroxyapatite resorption assay and Podosomal actin belt formation assay; Related molecular mechanisms were determined by western blot assay. Construction of OVX mice by bilateral oophorectomy to simulate bone loss in vivo. KEY FINDINGS: In vitro cellular assays showed that Hed inhibited RANKL-induced osteoclast formation and osteoclast bone (hydroxyapatite) resorption as well as marker gene expression from BMM culture. Mechanistically, Hed attenuated RANKL-induced intracellular reactive oxygen species (ROS) production, and MAPK signaling pathway (ERK and p38) activation which curbed the downstream induction of c-Fos and NFATc1. Consistent with the in vitro findings, Hed administration effectively protected OVX mice from bone loss by reducing osteoclast number and activity on bone surface. SIGNIFICANCE: Our data provided promising evidence for the potential use of Hederagenin in the treatment of osteoclast-mediated osteolytic bone diseases such as postmenopausal osteoporosis.",
+      "mesh_terms": [
+        "Animals",
+        "Bone Resorption",
+        "Female",
+        "MAP Kinase Signaling System",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oleanolic Acid",
+        "Osteogenesis",
+        "Ovariectomy",
+        "Protective Agents",
+        "RANK Ligand",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "31718182",
+      "title": "Discovery of an Oleanolic Acid/Hederagenin-Nitric Oxide Donor Hybrid as an EGFR Tyrosine Kinase Inhibitor for Non-Small-Cell Lung Cancer.",
+      "authors": [
+        "Zhong Chen",
+        "Kuo-Yen Huang",
+        "Yong Ling",
+        "Masuo Goto",
+        "Hua-Qing Duan",
+        "Xiao-Hang Tong",
+        "Yan-Li Liu",
+        "Yung-Yi Cheng",
+        "Susan L Morris-Natschke",
+        "Pan-Chyr Yang",
+        "Shi-Lin Yang",
+        "Kuo-Hsiung Lee"
+      ],
+      "journal": "Journal of natural products",
+      "publication_date": "2019-Nov-22",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Natural triterpenoids, such as oleanolic acid (OA) and hederagenin, display anti-lung cancer effects, and nitric oxide (NO) is associated with some oncogenic signaling pathways. Accordingly, 17 OA/hederagenin-NO donor hybrids were designed, synthesized, and evaluated against tumor cells. The most potent compound, 13, significantly inhibited the proliferation of five tumor cell lines (IC50 4.6-5.2 μM), while hederagenin inhibited the growth of only A549 tumor cells (IC50 > 10 μM). Furthermore, compound 13 showed stronger inhibitory effects on EGFR-LTC kinase activity (IC50 0.01 μM) than hederagenin (IC50 > 20 μM) and inhibited the proliferation of gefitinib-resistant H1975 (IC50 8.1 μM) and osimertinib-resistant H1975-LTC (IC50 7.6 μM) non-small-cell lung cancer (NSCLC) cells. Moreover, compound 13 produced the most NO in H1975 tumor cells, which indicated that NO may play a synergistic role. Collectively, compound 13, a novel hederagenin-NO donor hybrid with a different chemical structure from those of the current FDA-approved EGFR-targeted anti-NSCLC drugs, may be a promising lead compound for the treatment of NSCLC expressing gefitinib-resistant EGFR with a T790 M mutation or osimertinib-resistant EGFR-LTC with an L858R/T790M/C797S mutation. This work should shed light on the discovery of new anti-NSCLC drugs targeting EGFR from natural products.",
+      "mesh_terms": [
+        "A549 Cells",
+        "Antineoplastic Agents",
+        "Antineoplastic Agents, Phytogenic",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Cell Line, Tumor",
+        "Drug Design",
+        "Drug Resistance, Neoplasm",
+        "ErbB Receptors",
+        "Gefitinib",
+        "Humans",
+        "Lung Neoplasms",
+        "Mutation",
+        "Nitric Oxide",
+        "Nitric Oxide Donors",
+        "Oleanolic Acid",
+        "Protein Kinase Inhibitors"
+      ]
+    },
+    {
+      "pmid": "35531007",
+      "title": "Anti-inflammatory effects of hederagenin on diabetic cardiomyopathy via inhibiting NF-κB and Smads signaling pathways in a type-2 diabetic mice model.",
+      "authors": [
+        "Ying Li",
+        "Junli Dong",
+        "Yinghui Shang",
+        "Qiangqiang Zhao",
+        "Pengcheng Li",
+        "Bin Wu"
+      ],
+      "journal": "RSC advances",
+      "publication_date": "2019-Aug-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hederagenin (HED) is a bioactive natural compound of pentacyclic triterpenes extracted from many medicinal plants. It has a wide range of antitumor cytotoxic effects and significant anti-inflammation effects. However, at present, it is unclear whether HED can inhibit cardiac remodelling caused by diabetic cardiomyopathy. In this study, we evaluated the effects of HED on pathological abnormalities in cardiac structures and cardiac insufficiency caused by diabetic cardiomyopathy and focused on the inflammatory signalling pathways of the diabetic heart. Treatment with HED reduced pro-inflammatory cytokines, the heart and body mass of diabetic db/db mice but had no effect on fasting plasma glucose (FPG). Moreover, after HED treatment, the cardiac dysfunction of diabetic mice was relieved, and myocardial hypertrophy and fibrosis decreased. Furthermore, HED inhibited the nuclear translocation of nuclear factor-κB (NF-κB) and Smads and decreased the transcriptional activity of NF-κB and Smads. Additionally, the expression levels of transforming growth factor (TGF)-β1 and collagen I, which are target downstream molecules of the NF-κB and Smads signalling pathways, were also decreased in diabetic hearts. Taken together, our findings suggest that the cardioprotective effect of HED may be achieved by reducing the activation of inflammation-associated NF-κB and Smads signalling. We suggest that the protective effect of HED on the diabetic heart, as revealed in this study, should be further explored in-depth to elucidate its cell biology and molecular mechanisms."
+    },
+    {
+      "pmid": "29456786",
+      "title": "Hederagenin Induces Apoptosis in Cisplatin-Resistant Head and Neck Cancer Cells by Inhibiting the Nrf2-ARE Antioxidant Pathway.",
+      "authors": [
+        "Eun Hye Kim",
+        "Seungho Baek",
+        "Daiha Shin",
+        "Jaewang Lee",
+        "Jong-Lyel Roh"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acquired resistance to cisplatin is the most common reason for the failure of cisplatin chemotherapy. Hederagenin, triterpenoids extracted from ivy leaves, exhibits antitumor activity in various types of cancer. However, the therapeutic potential of hederagenin in head and neck cancer (HNC) has remained unclear. Therefore, we examined the effects of hederagenin in cisplatin-resistant HNC cells and characterized its molecular mechanisms of action in this context. We evaluated the effects of hederagenin treatment on cell viability, apoptosis, reactive oxygen species (ROS) production, glutathione levels, mitochondrial membrane potential (ΔΨm), and protein and mRNA expression in HNC cells. The antitumor effect of hederagenin in mouse tumor xenograft models was also analyzed. Hederagenin selectively induced cell death in both cisplatin-sensitive and cisplatin-resistant HNC cells by promoting changes in ΔΨm and inducing apoptosis. Hederagenin inhibited the Nrf2-antioxidant response element (ARE) pathway and activated p53 in HNC cells, thereby enhancing ROS production and promoting glutathione depletion. These effects were reversed by the antioxidant trolox. Hederagenin activated intrinsic apoptotic pathways via cleaved PARP, cleaved caspase-3, and Bax. The selective inhibitory effects of hederagenin were confirmed in cisplatin-resistant HNC xenograft models. These data suggest that hederagenin induces cell death in resistant HNC cells via the Nrf2-ARE antioxidant pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Carboxylic Ester Hydrolases",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Cisplatin",
+        "Drug Resistance, Neoplasm",
+        "Head and Neck Neoplasms",
+        "Hedera",
+        "Humans",
+        "Membrane Potential, Mitochondrial",
+        "Mice",
+        "NF-E2-Related Factor 2",
+        "Oleanolic Acid",
+        "Oxidation-Reduction",
+        "Signal Transduction",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "29408042",
+      "title": "H6, a novel hederagenin derivative, reverses multidrug resistance in vitro and in vivo.",
+      "authors": [
+        "Yanting Yang",
+        "Daokun Guan",
+        "Lei Lei",
+        "Jing Lu",
+        "Jia Qi Liu",
+        "Gangqiang Yang",
+        "Chunhong Yan",
+        "Rong Zhai",
+        "Jingwei Tian",
+        "Yi Bi",
+        "Fenghua Fu",
+        "Hongbo Wang"
+      ],
+      "journal": "Toxicology and applied pharmacology",
+      "publication_date": "2018-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Multidrug resistance (MDR) is a serious obstacle encountered in cancer treatment, in which the overexpression of P-glycoprotein (P-gp) plays an important role. Here, a novel α-hederagenin derivative, designated H6, was designed, synthesized and evaluated for its ability to reverse MDR. Our results showed that H6 could sensitize KBV and MCF7/T cells to paclitaxel and vincristine. Meanwhile, H6 could increase both rhodamine 123 and paclitaxel accumulation in MDR cells without affecting the expression of P-gp. Interestingly, siRNA knockdown of MDR1 further sensitized the cytotoxic activity of paclitaxel when co-administrated with H6. In addition, H6 could directly stimulate P-gp ATPase activity in vitro. Importantly, H6 enhanced the efficacy of paclitaxel against KBV cancer cell-derived xenograft tumors in nude mice. Finally, H6 showed high binding affinity with P-gp with a high docking score. Overall, we show H6 is a novel and potent MDR reversal agent, which has the potential to be administered in combination with conventional anticancer drugs.",
+      "mesh_terms": [
+        "Animals",
+        "Drug Resistance, Multiple",
+        "Drug Resistance, Neoplasm",
+        "Humans",
+        "MCF-7 Cells",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Oleanolic Acid",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "29024910",
+      "title": "Leishmanicidal and cytotoxic activity of hederagenin-bistriazolyl derivatives.",
+      "authors": [
+        "Diego Rodríguez-Hernández",
+        "Luiz C A Barbosa",
+        "Antonio J Demuner",
+        "Amalyn Nain-Perez",
+        "Sebastião R Ferreira",
+        "Ricardo T Fujiwara",
+        "Raquel M de Almeida",
+        "Lucie Heller",
+        "René Csuk"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2017-Nov-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aiming to obtain new potent leishmanicidal and cytotoxic compounds from natural sources, the triterpene hederagenin was converted into several new 1,2,3-triazolyl derivatives tethered at C-23 and C-28. For this work hederagenin was isolated from fruits of Sapindus saponaria and reacted with propargyl bromide to afford as a major product bis-propargylic derivative 1 in 74%. Submitting this compound to Huisgen 1,3-dipolar cycloaddition reactions with several azides afforded the derivatives 2-19 with yields in the range of 40-87%. All compounds have been screened for in vitro cytotoxic activity in a panel of five human cancer cell lines by a SRB assay. The bioassays showed that compound 19 was the most cytotoxic against all human cancer cell lines with EC50 = 7.4-12.1 μM. Moreover, leishmanicidal activity was evaluated through the in vitro effect in the growth of Leishmania infantum, and derivatives 1, 2, 5 and 17 were highly effective preventing proliferation of intracellular amastigote forms of L. infantum (IC50 = 28.8, 25.9, 5.6 and 7.4 μM, respectively). All these compounds showed a higher selectivity index and low toxicity against two strains of kidney BGM and liver HepG2 cells. Compound 5 has higher selectivity (1780 times) in comparison with the commercial antimony drug and is around 8 times more selective than the most active compound previously reported hederagenin derivative. Such high activity associated with low toxicities make the new bis-traiazolyl derivatives promising candidates for the treatment of leishmaniasis. In addition, hederagenin and some derivatives (2, 5 and 17) showed interaction in the binding site of the enzyme CYP51Li.",
+      "mesh_terms": [
+        "Animals",
+        "Antiprotozoal Agents",
+        "Carbon-13 Magnetic Resonance Spectroscopy",
+        "Cells, Cultured",
+        "Dogs",
+        "Hep G2 Cells",
+        "Humans",
+        "Leishmaniasis",
+        "Oleanolic Acid",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Triazoles"
+      ]
+    },
+    {
+      "pmid": "28067819",
+      "title": "Hederagenin Supplementation Alleviates the Pro-Inflammatory and Apoptotic Response to Alcohol in Rats.",
+      "authors": [
+        "Gyeong-Ji Kim",
+        "Da Hye Song",
+        "Han Seok Yoo",
+        "Kang-Hyun Chung",
+        "Kwon Jai Lee",
+        "Jeung Hee An"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2017-Jan-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this study, we determined the effects of hederagenin isolated from Akebia quinata fruit on alcohol-induced hepatotoxicity in rats. Specifically, we investigated the hepatoprotective, anti-inflammatory, and anti-apoptotic effects of hederagenin, as well as the role of AKT and mitogen-activated protein kinase (MAPK) signaling pathways in ethanol-induced liver injury. Experimental animals were randomly divided into three groups: normal (sham), 25% ethanol, and 25% ethanol + hederagenin (50 mg/kg/day). Each group was orally administered the respective treatments once per day for 21 days. Acetaldehyde dehydrogenase-2 mRNA expression was higher and alcohol dehydrogenase mRNA expression was lower in the ethanol + hederagenin group than those in the ethanol group. Pro-inflammatory cytokines, including TNF-α, IL-6, and cyclooxygenase-2, significantly increased in the ethanol group, but these increases were attenuated by hederagenin. Moreover, Western blot analysis showed increased expression of the apoptosis-associated protein, Bcl-2, and decreased expression of Bax and p53 after treatment with hederagenin. Hederagenin treatment attenuated ethanol-induced increases in activated p38 MAPK and increased the levels of phosphorylated AKT and ERK. Hederagenin alleviated ethanol-induced liver damage through anti-inflammatory and anti-apoptotic activities. These results suggest that hederagenin is a potential candidate for preventing alcoholic liver injury.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Alcohol Dehydrogenase",
+        "Aldehyde Dehydrogenase, Mitochondrial",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Apoptosis",
+        "Aspartate Aminotransferases",
+        "Cholesterol",
+        "Cyclooxygenase 2",
+        "Dietary Supplements",
+        "Ethanol",
+        "Inflammation",
+        "Interleukin-6",
+        "Liver",
+        "Liver Diseases",
+        "Male",
+        "Oleanolic Acid",
+        "Phosphorylation",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Wistar",
+        "Signal Transduction",
+        "Triglycerides",
+        "Tumor Necrosis Factor-alpha",
+        "Tumor Suppressor Protein p53",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "27569196",
+      "title": "Highly potent anti-leishmanial derivatives of hederagenin, a triperpenoid from Sapindus saponaria L.",
+      "authors": [
+        "Diego Rodríguez-Hernández",
+        "Luiz C A Barbosa",
+        "Antonio J Demuner",
+        "Raquel M de Almeida",
+        "Ricardo T Fujiwara",
+        "Sebastião R Ferreira"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2016-Nov-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Leishmaniasis is a neglected tropical disease (NTDs), endemic in 88 countries that affect more than 12 million people. Current drugs are limited due to their toxicity, development of biological resistance, length of treatment and high cost. Thus, the search for new effective and less toxic treatments is an urgent need. In this study, we report the synthesis of 3 new amide derivatives of hederagenin (22-24) with yields between 70% and 90%, along with 57 other derivatives of hederagenin (1-21, 25-60) carrying different groups at C-28 previously reported by our group, and the results of their in vitro ability to inhibit the growth of Leishmania infantum. Some derivatives (3, 4, 44, 49 and 52), showed activity at micromolar level and low toxicity against BGM and HepG2 cells. Moreover, the ability of hederagenin derivatives 3 (IC50 = 9.7 μM), 4 (12 μM), 44 (11 μM) and 49 (2 μM), to prevent proliferation of intracellular amastigote forms of L. infantum and their higher selectivity index and low toxicity compared to commercial positive drug control of choice (potassium antimonyl tartrate trihydrate) (IC50 = 80 μM, SI = 0.1), make these compounds promising candidates for the treatment of leishmaniasis.",
+      "mesh_terms": [
+        "Antiprotozoal Agents",
+        "Hep G2 Cells",
+        "Humans",
+        "Intracellular Space",
+        "Leishmania infantum",
+        "Oleanolic Acid",
+        "Saponaria",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "26557859",
+      "title": "Experimental Study of Antiatherosclerosis Effects with Hederagenin in Rats.",
+      "authors": [
+        "Su-Hong Lu",
+        "Jian-Hua Guan",
+        "Yan-Li Huang",
+        "Yu-Wei Pan",
+        "Wei Yang",
+        "Hai Lan",
+        "Si Huang",
+        "Jing Hu",
+        "Guo-Ping Zhao"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The research tries to establish Wistar rat's model of atherosclerosis for evaluating the antiatherosclerotic effect of hederagenin and exploring its antiatherosclerosis-related mechanisms. The statistical data have shown that hederagenin exhibits multiple pharmacological activities in the treatment of hyperlipidemia, antiplatelet aggregation, liver protection, and anti-inflammation, indicating that hederagenin may exert a protective effect on vascular walls by improving lipid metabolism disorders and lipid deposition. The results show that hederagenin can correct the imbalance of endothelial function by inhibiting the release of large amounts of iNOS and increasing eNOS contents and inhibits the IKKβ/NF-κB signaling pathway to reduce the release of IL-6, IFN-γ, TNF-α, and other inflammatory factors. The experimental results indicated that hederagenin can inhibit or ameliorate the pathological changes associated with AS, displaying an excellent preventive function against AS."
+    },
+    {
+      "pmid": "26481049",
+      "title": "Hederagenin, a major component of Clematis mandshurica Ruprecht root, attenuates inflammatory responses in RAW 264.7 cells and in mice.",
+      "authors": [
+        "Chul Won Lee",
+        "Sang Mi Park",
+        "Rongjie Zhao",
+        "Chu Lee",
+        "Wonjoo Chun",
+        "Yonghae Son",
+        "Sung Hun Kim",
+        "Ji Yun Jung",
+        "Kyung Hwan Jegal",
+        "Il Je Cho",
+        "Sae Kwang Ku",
+        "Young Woo Kim",
+        "Seong A Ju",
+        "Sang Chan Kim",
+        "Won G An"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2015-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Clematis mandshurica Ruprecht root has been used in Asia as a traditional anti-inflammatory, analgesic, and antitumor agent. Its main active component is hederagenin, a naturally occurring triterpene, and in this study, we examined the anti-inflammatory effects of hederagenin in lipopolysaccharide-stimulated RAW 264.7 cells using an enzyme-linked immunosorbent assay, Western blot, and RT-PCR. In addition, its effects on acute inflammation in vivo were observed using a carrageenan-induced mouse hind paw edema assay. Furthermore, the changes on the histopathology and histomorphometry of hind paw skins were examined using carrageenan-treated mice. Treatment with hederagenin (10, 30 and 100μM) resulted in inhibited levels of protein expression of lipopolysaccharide-stimulated iNOS, COX-2, and NF-κB as well as production of NO, PGE2, TNF-α, IL-1β, and IL-6 induced by lipopolysaccharide. Consistent with these results, hederagenin also dose-dependently reduced the lipopolysaccharide-induced mRNA levels of iNOS and COX-2, and of the above-mentioned cytokines. Interestingly, results of the carrageenan-induced mouse hind paw edema assay showed an anti-edema effect of hederagenin. Furthermore, hederagenin (30mg/kg) inhibited the carrageenan-induced increases in skin thicknesses, infiltrated inflammatory cells, and mast cell degranulation. These results suggest that hederagenin may possess anti-inflammatory activities.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Carrageenan",
+        "Clematis",
+        "Cytokines",
+        "Dose-Response Relationship, Drug",
+        "Edema",
+        "Foot",
+        "Inflammation",
+        "Lipopolysaccharides",
+        "Mice",
+        "Oleanolic Acid",
+        "Plant Roots",
+        "RAW 264.7 Cells",
+        "Skin"
+      ]
+    },
+    {
+      "pmid": "22005599",
+      "title": "The extracts of Fructus Akebiae, a preparation containing 90% of the active ingredient hederagenin: serotonin, norepinephrine and dopamine reuptake inhibitor.",
+      "authors": [
+        "Zeng-Liang Jin",
+        "Nana Gao",
+        "Dan Zhou",
+        "Mu-Gen Chi",
+        "Xue-Mei Yang",
+        "Jiang-Ping Xu"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2012-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Fructus Akebiae is a traditional Chinese herbal extract that has been used for the treatment of depressive disorders in China. Previous studies demonstrated that Fructus Akebiae extracts (FAE) displayed a potent antidepressant-like activity in animal behavior tests and found that the specific active ingredient from the extracts of Fructus Akebiae is hederagenin. However, the underlying mechanism is unknown. Here we provide evidences that FAE enhances the signaling of central monoamines via inhibition of the reuptake of the extracellular monoamines including serotonin (5-HT), norepinephrine (NE) and dopamine (DA). In rat brain membrane preparations and HEK293 cells transfected with human serotonin transporter (SERT), NE transporter (NET) and DA transporter (DAT), we found that FAE displayed marked affinity to rat and cloned human monoamine transporters in ex vivo and in vitro experiments, using competitive radio ligand binding assay. In uptake assays using rat synaptosomes and transfected cells, FAE was found to significantly inhibit all three monoamine transporters in a dose- and time-dependent manner, with a comparable or better potency to their corresponding specific inhibitors. In contrast, FAE (10 μM), showed no significant affinity to a variety array of receptors tested from CNS. In support of our uptake data, in vivo microdialysis studies showed that administration of FAE (12.6, 25, 50 mg/kg) significantly increased extracellular concentrations of 5-HT, NE and DA in frontal cortex of freely moving rats. Taken together, our current study showed for the first time that FAE is a novel triple inhibitor of monoamine transporters, which may be one the mechanisms of its antidepressant activity.",
+      "mesh_terms": [
+        "Animals",
+        "Biogenic Monoamines",
+        "Brain",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Dose-Response Relationship, Drug",
+        "Drugs, Chinese Herbal",
+        "Frontal Lobe",
+        "HEK293 Cells",
+        "Humans",
+        "Male",
+        "Nerve Tissue Proteins",
+        "Neurons",
+        "Neurotransmitter Uptake Inhibitors",
+        "Norepinephrine Plasma Membrane Transport Proteins",
+        "Oleanolic Acid",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Recombinant Proteins",
+        "Serotonin Plasma Membrane Transport Proteins",
+        "Synaptosomes",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "19406196",
+      "title": "Macranthoside B, a hederagenin saponin extracted from Lonicera macranthoides and its anti-tumor activities in vitro and in vivo.",
+      "authors": [
+        "Jia Wang",
+        "Xing-Zeng Zhao",
+        "Qi Qi",
+        "Lei Tao",
+        "Qing Zhao",
+        "Rong Mu",
+        "Hong-Yan Gu",
+        "Ming Wang",
+        "Xu Feng",
+        "Qing-Long Guo"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2009-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Macranthoside B (MB) is a hederagenin saponin extracted from the flower bud of Lonicera macranthoides. In this study, we defined the anticancer effect of MB both in vitro and in vivo using cell proliferation assays and xenograft tumor growth assays. Our data indicate that MB inhibits the proliferation of various kinds of cancer cells with IC(50) values in the range of 10-20 microM. Moreover, the volume and weight of xenograft tumors in nude mice treated with 5mg/kgMB were decreased remarkably compared to those of the vehicle control group. Furthermore, DAPI staining and flow cytometry analysis with Annexin V/PI double staining revealed that more apoptotic cells were observed following MB treatment. In addition, degradation of PARP (poly-ADP-ribose polymerase), and activation of the caspase cascade for intrinsic pathways were observed. We also found that the expression of Bcl-2 protein decreased and the protein level of Bax increased which leading to an increase of the Bax/Bcl-2 ratio. Our results showed that MB exhibited strong anti-tumor effect and mitochondrion-mediated apoptosis induction involved in it.",
+      "mesh_terms": [
+        "Animals",
+        "Annexin A5",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Blotting, Western",
+        "Caspases",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Female",
+        "Flow Cytometry",
+        "Humans",
+        "Indicators and Reagents",
+        "Lonicera",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mitochondria",
+        "Oleanolic Acid",
+        "Poly(ADP-ribose) Polymerases",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Saponins",
+        "Signal Transduction",
+        "Xenograft Model Antitumor Assays",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "10865448",
+      "title": "Essential moiety for antimutagenic and cytotoxic activity of hederagenin monodesmosides and bisdesmosides isolated from the stem bark of Kalopanax pictus.",
+      "authors": [
+        "K T Lee",
+        "I C Sohn",
+        "H J Park",
+        "D W Kim",
+        "G O Jung",
+        "K Y Park"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2000-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "For the elucidation of the antimutagenic and cytotoxic principles from the stem bark of Kalopanax pictus, seven isolated components of this crude drug were tested in the Ames test and the MTT test. Hederagenin and its monodesmosides, kalopanaxsaponin A and I in addition to its bisdesmosides, kalopanaxsaponin B and H, showed potent antimutagenic activities against aflatoxin B1 (AFB1). However, they had no inhibitory effects on mutagenicity induced by the direct mutagen, N-methyl-N'-nitro-N-nitrosoguanidine (MNNG). This suggested that hederagenin glycosides might effectively prevent the metabolic activation of AFB1 or scavenge the electrophilic intermediate capable of inducing mutation. Hederagenin was found to be an essential moiety for the exhibition of antimutagenicity. Moreover, hederagenin and its 3-O-glycosides were found to be cytotoxic on various tumor cell lines, P-388, L-1210, U-937, HL-60, SNU-5 and HepG2, while 3,28-di-O-glycosides of hederagenin were not cytotoxic. Hence, hederagenin and its 3-O-glycosides could be suitable for cancer treatment chemopreventive drugs.",
+      "mesh_terms": [
+        "Antimutagenic Agents",
+        "Antineoplastic Agents, Phytogenic",
+        "Mutagenicity Tests",
+        "Oleanolic Acid",
+        "Plant Stems",
+        "Plants, Medicinal",
+        "Salmonella typhimurium"
+      ]
+    }
+  ]
+}

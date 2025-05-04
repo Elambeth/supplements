@@ -1,0 +1,1726 @@
+{
+  "supplement": "Polygala Tenuifolia",
+  "query": "Polygala Tenuifolia[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:21:21",
+  "research_count": 50,
+  "count": 50,
+  "articles": [
+    {
+      "pmid": "40220839",
+      "title": "Preparation, activity, and mechanistic insights of processed Polygala tenuifolia glycoprotein in ameliorating Alzheimer's disease.",
+      "authors": [
+        "Yangang Cheng",
+        "Fuxia Zhao",
+        "Jing Wang",
+        "Hong Luo",
+        "Rui Mao",
+        "Yuetong Yu",
+        "Yan Wang",
+        "Jinyan Tan",
+        "Xuliang Hao",
+        "Yingli Wang"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2025-Apr-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study examined the efficacy and mechanism of Polygala tenuifolia glycoprotein (ZPG) in alleviating Alzheimer's disease (AD) for clinical application. ZPG's effects were tested in scopolamine hydrobromide-induced AD mice using behavioral, histological, and biomarker investigations. Additionally, 16S rDNA sequencing and lipidomics revealed ZPG's impact on gut microbiota and lipid metabolism, supported by pathway enrichment and correlation analyses. JNK pathway modulation was studied in vitro with purified and characterized ZPG-2. Results showed ZPG significantly improved cognitive deficits, reduced hippocampal pathology, and normalized APP, p-JNK, bax, and bcl-2 levels in AD mice. It also modulated gut microbiota and lipid metabolism, particularly glycerophospholipid pathways. ZPG-2 exhibited neuroprotective effects in Aβ25-35-induced PC12 cells by reducing apoptosis, inhibiting LDH release, and regulating oxidative stress and JNK activity. Structural analysis identified ZPG-2 as a 26 kDa glycoprotein with an O-linked glycopeptide bond and random coil conformation. Correlation analysis showed significant gut microbiota-AD biomarker relationships. These findings suggest ZPG may alleviate AD by reducing oxidative stress, inhibiting apoptosis, modulating gut microbiota, enhancing lipid metabolism, and suppressing the JNK signaling pathway. ZPG may be medicinal, however, more research is needed to validate its efficacy and mechanisms. This study lays the foundation for ZPG as an AD therapy for the future."
+    },
+    {
+      "pmid": "40098911",
+      "title": "Gut-Brain Axis-Based Polygala Tenuifolia and Magnolia Officinalis Improve D-gal-Induced Cognitive Impairment in Mice Through cAMP and NF-κB Signaling Pathways.",
+      "authors": [
+        "Dan Yang",
+        "Wen Li",
+        "Qiuping Chen",
+        "Si Liu",
+        "Chengjie Peng",
+        "Fengcheng Deng",
+        "Yingqi Meng",
+        "Yang Yang",
+        "Ping Yan",
+        "Hui Ao",
+        "Lihua Huang"
+      ],
+      "journal": "Drug design, development and therapy",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Polygala tenuifolia Willd. (PT) is commonly used to address cognitive impairment (CI), while Magnolia officinalis Rehd. et Wils (MO) is often prescribed for gastrointestinal issues as well as CI. This study seeks to explore the impacts and mechanisms behind the combined therapy of PT and MO (PM) in treating CI, based on the concept of the gut-brain axis. METHODS: The characteristic components of PT, MO, and PM were identified using ultra-high performance liquid chromatography-tandem triple quadrupole mass Spectrometry (UPLC-MS/MS). A mouse model was established by D-gal induction, and the effects of PT, MO, and PM on CI were evaluated through behavioral tests, pathological staining, and Enzyme-Linked Immunosorbent Assay (ELISA). Subsequently, network pharmacology was used to analyze the potential mechanisms by which PM improves CI, followed by validation through Western blotting (WB), traditional Chinese medicine (TEM), Immunofluorescence (IF), and 16S rRNA. RESULTS: PT, MO, and PM can each alleviate cognitive decline and neuropathological damage in D-gal mice to varying degrees, reduce the expression of pro-inflammatory factors (TNF-α, IL-1β, IL-6, IFN-γ, LPS) in serum or hippocampal tissue, and increase SOD and GSH levels. Network pharmacology analysis and molecular experiments confirmed that PM upregulates the expression of tight junction s (TJs), enhances the expression of proteins in the cAMP pathway, and inhibits p-NF-κB-p65 expression. PM reverses D-gal-induced gut microbiota dysbiosis, increases the abundance of SCFA-producing bacteria, and decreases the abundance of LPS-producing bacteria. CONCLUSION: PM alleviates CI by reducing inflammation and oxidative stress, protecting the blood-brain barrier (BBB) and intestinal barrier, inhibiting the NF-κB pathway, activating the cAMP pathway, and regulating gut microbiota.",
+      "mesh_terms": [
+        "Animals",
+        "Polygala",
+        "Cognitive Dysfunction",
+        "Mice",
+        "NF-kappa B",
+        "Magnolia",
+        "Signal Transduction",
+        "Male",
+        "Cyclic AMP",
+        "Brain-Gut Axis",
+        "Galactose",
+        "Disease Models, Animal",
+        "Plant Extracts",
+        "Drugs, Chinese Herbal"
+      ]
+    },
+    {
+      "pmid": "39434798",
+      "title": "Sequence characteristics, expression and subcellular localization of PtCYP721A57 gene from cytochrome P450 family in Polygala tenuifolia willd.",
+      "authors": [
+        "Yao Luo",
+        "Benxiang Hu",
+        "Haiyue Ji",
+        "Yiyao Jing",
+        "Gang Zhang",
+        "Yonggang Yan",
+        "Bingyue Yang",
+        "Liang Peng"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The Cytochrome P450 (CYP450) family is the largest enzyme protein family in plants, distributed across various organs and involved in significant catalytic activities in primary and secondary metabolic processes. In this study, we cloned the PtCYP721A57 gene, characterized its open reading frame (ORF), and conducted comprehensive analyses including physicochemical properties, evolutionary relationships, subcellular localization, prokaryotic expression, and correlation between the relative expression of different parts and the content of tenuifolin, hormones, and abiotic stress response associated with the encoded protein. The ORF of PtCYP721A57 was 1,521 bp, with a secondary structure predominantly composed of α-helices and random coils. Subcellular localization experiments confirmed the presence of PtCYP721A57 in the endoplasmic reticulum. For prokaryotic expression, we constructed the recombinant plasmid pET28a-PtCYP721A57 using pET28a as the vector, which was then transformed into BL21(DE3). Induction with Isopropyl β-D-1-thiogalactopyranoside (IPTG) at temperatures of 16 and 25 °C and varying concentrations (0.1, 0.2, 0.5, 1, 2 mM) resulted in the formation of inclusion bodies, with higher expression observed at 25 °C. Our qPCR analyses revealed that PtCYP721A57 exhibited the highest expression in the cortex of Polygala tenuifolia, followed by roots and xylem, correlating with the observed tenuifolin content distribution. Induction with abscisic acid (ABA) and chitosan (CHT) initially decreased PtCYP721A57 expression followed by a subsequent increase, peaking at 48 h. Similarly, drought stress induced a gradual increase in PtCYP721A57 expression, also peaking at 48 h. NaCl treatment for 6 h significantly upregulated PtCYP721A57 expression. In conclusion, our study provides foundational insights into the PtCYP721A57 gene in Polygala tenuifolia, laying the groundwork for further exploration of its role in the biosynthesis pathway of triterpenoid saponins.",
+      "mesh_terms": [
+        "Cytochrome P-450 Enzyme System",
+        "Polygala",
+        "Plant Proteins",
+        "Gene Expression Regulation, Plant",
+        "Stress, Physiological",
+        "Cloning, Molecular"
+      ]
+    },
+    {
+      "pmid": "39197206",
+      "title": "Serum metabolomics combined with gut microbiota reveals the effects of Polygala tenuifolia polysaccharide on the metabolic and microbial profiles in SAMP8 mouse.",
+      "authors": [
+        "Zheng Li",
+        "Yuanyuan Li",
+        "Jin Zhang",
+        "Qian Liu",
+        "Lihao Zhu",
+        "Beibei Mao",
+        "Yan Ma",
+        "Yuhong Liu"
+      ],
+      "journal": "Journal of pharmaceutical and biomedical analysis",
+      "publication_date": "2024-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Polygala tenuifolia is a well-known traditional Chinese medicine. Polygala tenuifolia polysaccharide (PTP), as one of its main active ingredients, has excellent neuroprotective activity. PTP improved the disruption of the endogenous metabolites and gut microbiota caused by Alzheimer's disease (AD). Specifically, untargeted metabolomics results showed that 19 metabolites such as leukotriene B4, vanylglycol, and cer(d18:1/18:0) are significantly reduced, and 2 metabolites are elevated. It was significantly enriched in Sphingolipid metabolism, Glycerophospholipid metabolism, Tyrosine metabolism, and Arachidonic acid metabolism. Meanwhile, 16S rDNA analysis showed that PTP treatment significantly increased the relative abundance of bacteria such as Alistipes, Lachnospiraceae_NK4A136_group, and Lachnospiraceae_UCG-006. In addition, Spearman analysis showed that significant changes in gut microbiota were closely related to differential endogenous metabolites.",
+      "mesh_terms": [
+        "Gastrointestinal Microbiome",
+        "Animals",
+        "Polygala",
+        "Mice",
+        "Polysaccharides",
+        "Metabolomics",
+        "Male",
+        "Alzheimer Disease",
+        "Bacteria",
+        "Disease Models, Animal",
+        "Neuroprotective Agents",
+        "Drugs, Chinese Herbal",
+        "RNA, Ribosomal, 16S"
+      ]
+    },
+    {
+      "pmid": "39050746",
+      "title": "Saponin components in Polygala tenuifolia as potential candidate drugs for treating dementia.",
+      "authors": [
+        "Songzhe Li",
+        "Zhitao Hou",
+        "Ting Ye",
+        "Xiaochen Song",
+        "Xinying Hu",
+        "Jing Chen"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "OBJECTIVE: This study aims to elucidate the intervention effects of saponin components from Polygala tenuifolia Willd (Polygalaceae) on dementia, providing experimental evidence and new insights for the research and application of saponins in the field of dementia. MATERIALS AND METHODS: This review is based on a search of the PubMed, NCBI, and Google Scholar databases from their inception to 13 May 2024, using terms such as \"P. tenuifolia,\" \"P. tenuifolia and saponins,\" \"toxicity,\" \"dementia,\" \"Alzheimer's disease,\" \"Parkinson's disease dementia,\" and \"vascular dementia.\" The article summarizes the saponin components of P. tenuifolia, including tenuigenin, tenuifolin, polygalasaponins XXXII, and onjisaponin B, as well as the pathophysiological mechanisms of dementia. Importantly, it highlights the potential mechanisms by which the active components of P. tenuifolia prevent and treat diseases and relevant clinical studies. RESULTS: The saponin components of P. tenuifolia can reduce β-amyloid accumulation, exhibit antioxidant effects, regulate neurotransmitters, improve synaptic function, possess anti-inflammatory properties, inhibit neuronal apoptosis, and modulate autophagy. Therefore, P. tenuifolia may play a role in the prevention and treatment of dementia. CONCLUSION: The saponin components of P. tenuifolia have shown certain therapeutic effects on dementia. They can prevent and treat dementia through various mechanisms."
+    },
+    {
+      "pmid": "38972239",
+      "title": "Polygala tenuifolia willd. Extract alleviates LPS-induced acute lung injury in rats via TLR4/NF-κB pathway and NLRP3 inflammasome suppression.",
+      "authors": [
+        "Shuyun Guo",
+        "Jianguang Zhang",
+        "Qian Zhang",
+        "Shuang Xu",
+        "Yuezhen Liu",
+        "Shangzhi Ma",
+        "Xiaodi Hu",
+        "Yanju Liu",
+        "Xiuqiao Zhang",
+        "Ruixue Jiang",
+        "Zhifeng Zhang",
+        "Zhihua Zhang",
+        "Zhongshi Zhou",
+        "Li Wen"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Acute lung injury (ALI) has received considerable attention in the field of critical care as it can lead to high mortality rates. Polygala tenuifolia, a traditional Chinese medicine with strong expectorant properties, can be used to treat pneumonia. Owing to the complexity of its composition, the main active ingredient is not yet known. Thus, there is a need to identify its constituent compounds and mechanism of action in the treatment of ALI using advanced technological means. PURPOSE: We investigated the anti-inflammatory mechanism and constituent compounds with regard to the effect of P. tenuifolia Willd. extract (EPT) in lipopolysaccharide (LPS)-induced ALI in vivo and in vitro. METHODS: The UHPLC-Q-Exactive Orbitrap MS technology was used to investigate the chemical profile of EPT. Network pharmacology was used to predict the targets and pathways of action of EPT in ALI, and molecular docking was used to validate the binding of polygalacic acid to Toll-like receptor (TLR) 4. The main compounds were determined using LC-MS. A rat model of LPS-induced ALI was established, and THP-1 cells were stimulated with LPS and adenosine triphosphate (ATP) to construct an in vitro model. Pathological changes were observed using hematoxylin and eosin staining, Wright-Giemsa staining, and immunohistochemistry. The expression of inflammatory factors (NE, MPO, Ly-6 G, TNF-α, IL-1β, IL-6, and iNOS) was determined using enzyme-linked immunosorbent assay, real-time fluorescence quantitative polymerase chain reaction, and western blotting. The LPS + ATP-induced inflammation model in THP-1 cells was used to verify the in vivo experimental results. RESULTS: Ninety-nine compounds were identified or tentatively deduced from EPT. Using network pharmacology, we found that TLR4/NF-κB may be a relevant pathway for the prevention and treatment of ALI by EPT. Polygalacic acid in EPT may be a potential active ingredient. EPT could alleviate LPS-induced histopathological lung damage and reduce the wet/dry lung weight ratio in the rat model of ALI. Moreover, EPT decreased the white blood cell and neutrophil counts in the bronchoalveolar lavage fluid and decreased the expression of genes and proteins of relevant inflammatory factors (NE, MPO, Ly-6 G, TNF-α, IL-1β, IL-6, and iNOS) in lung tissues. It also increased the expression of endothelial-type nitric oxide synthase expression. Western blotting confirmed that EPT may affect TLR4/NF-κB and NLRP3 signaling pathways in vivo. Similar results were obtained in THP-1 cells. CONCLUSION: EPT reduced the release of inflammatory factors by affecting TLR4/NF-κB and NLRP3 signaling pathways, thereby attenuating the inflammatory response of ALI. Polygalacic acid is the likely compounds responsible for these effects.",
+      "mesh_terms": [
+        "Animals",
+        "Acute Lung Injury",
+        "Polygala",
+        "Lipopolysaccharides",
+        "Toll-Like Receptor 4",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "NF-kappa B",
+        "Male",
+        "Rats, Sprague-Dawley",
+        "Inflammasomes",
+        "Rats",
+        "Plant Extracts",
+        "Molecular Docking Simulation",
+        "Humans",
+        "Signal Transduction",
+        "Anti-Inflammatory Agents",
+        "Drugs, Chinese Herbal",
+        "Lung"
+      ]
+    },
+    {
+      "pmid": "38283842",
+      "title": "Polygala tenuifolia and Acorus tatarinowii in the treatment of Alzheimer's disease: a systematic review and meta-analysis.",
+      "authors": [
+        "Yuchen Zhang",
+        "Jinzhou Tian",
+        "Jingnian Ni",
+        "Mingqing Wei",
+        "Ting Li",
+        "Jing Shi"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "Background: The complexity of Chinese medicine treatment for Alzheimer's disease (AD) utilizing a multi-herb therapy makes the evidence in current studies insufficient. Herb pairs are the most fundamental form of multi-herb formulae. Among the Chinese herbal formulas for AD treatment, Polygala tenuifolia (PT) and Acorus tatarinowii (AT) appeared as the most commonly used herbal pairs in combination. Objective: The aim of this study is to evaluate the clinical efficacy and safety of the combination of PT and AT in the treatment of AD. Methods: We systematically searched and screened randomized controlled trials of pairing PT and AT for the treatment of AD patients in eight databases with a search deadline of June 26, 2023. Authors, year of publication, title, and basic information such as subject characteristics (age, sex, and race), course of disease, control interventions, dose, and treatment duration were extracted from the screened studies. Primary outcomes assessed included mini-mental state examination (MMSE), activities of daily living (ADL), and AD assessment scale-cognitive subscale (ADAS-cog), while secondary outcomes included efficiency and adverse events. The quality of the included studies was assessed using the Cochrane risk of bias tool. The mean difference with 95% confidence intervals (MD [95% CI]) and risk ratio (RR) was selected as the effect size, and the data were analyzed and evaluated using RevMan 5.4 and Stata 16. Results: A total of sixteen eligible and relevant studies involving 1103 AD participants were included. The combination of PT and AT plus conventional drugs was superior to single conventional drugs in MMSE [MD = 2.57, 95%CI: (1.44, 3.69); p < 0.00001; I 2 = 86%], ADL [MD = -3.19, 95%CI: (-4.29, -2.09); p < 0.00001; I 2 = 0%], and ADAS-cog scores [MD = -2.09, 95%CI: (-3.07, -1.10); p < 0.0001; I 2 = 0%]. The combination of PT and AT plus conventional drugs had a significantly more favorable benefit in clinical effectiveness [RR = 1.27, 95%CI: (1.12, 1.44); p = 0.0002; I 2 = 0%]. Adverse events were not increased with the combination of PT and AT plus conventional drugs compared to conventional drugs [RR = 0.65, 95%CI: (0.35, 1.19); p = 0.16; I 2 = 0%]. The experimental group treated with the combination of PT and AT alone for AD was comparable in MMSE, ADL, and ADAS-cog scores compared with the control group treated with single conventional drugs. Conclusion: Compared to single conventional drugs, the combination of PT and AT may be used as an alternative therapy to improve global cognition and functioning in AD, and the combination of PT and AT as adjunctive therapy appears to produce a better therapeutic response to AD in terms of efficacy without increasing the risk of adverse events. However, the very low to low quality of available evidence limits confidence in the findings. Systematic Review Registration: https://www.crd.york.ac.uk/prospero/, identifier CRD42023444156."
+    },
+    {
+      "pmid": "38141791",
+      "title": "Sedative and hypnotic effects of Polygala tenuifolia willd. saponins on insomnia mice and their targets.",
+      "authors": [
+        "Ke-Xin Hao",
+        "Chun-Yan Shen",
+        "Jian-Guo Jiang"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2024-Apr-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Polygala tenuifolia Willd. has been widely used in the treatment of cancer, forgetfulness, depression and other diseases. AIM OF REVIEW: The purpose of this study was to investigate the sleep-enhancing effect and mechanism of P. tenuifolia saponins (PTS). MATERIALS AND METHODS: The total saponin (YZ-I) and purified saponin (YZ-II) fractions were extracted and ICR mice model of insomnia was established by p-chlorophenylalanine (PCPA) induction to observe anxiety and depression behaviors. Effects of YZ-I and YZ-II on the levels of neurotransmitters, hormones, and inflammation cytokines were detected by ELISA, RT-qPCR and western blotting. RESULTS: The results showed that YZ-I and YZ-II reduced the immobility time of mice and prolonged the sleep time of mice and significantly increased the concentrations of 5-HT, NE, PGD2, IL-1β and TNF-α. YZ-I and YZ-II regulated GABAARα2, GABAARα3, GAD65/67, 5-HT1A and 5-HT2A, while regulated the levels of inflammatory cytokines such as DPR, PGD2, iNOS and TNF-α to exert sedative and hypnotic effects. CONCLUSION: PTS are mainly achieved sedative and hypnotic effects by altering serotonergic, GABAergic and immune systems, but the effects and mechanisms of action of YZ-I were different from YZ-II.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Hypnotics and Sedatives",
+        "Polygala",
+        "Sleep Initiation and Maintenance Disorders",
+        "Saponins",
+        "Tumor Necrosis Factor-alpha",
+        "Serotonin",
+        "Mice, Inbred ICR",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "38081400",
+      "title": "Polysaccharide from Polygala tenuifolia alleviates cognitive decline in Alzheimer's disease mice by alleviating Aβ damage and targeting the ERK pathway.",
+      "authors": [
+        "Yuanyuan Li",
+        "Haoran Wu",
+        "Maoxuan Liu",
+        "Zhiyuan Zhang",
+        "Yuning Ji",
+        "Lingchuan Xu",
+        "Yuhong Liu"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2024-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Polygala tenuifolia is used in a variety of Chinese medicine prescriptions for the classic dementia treatment, and polysaccharide is an important active component in the herb. AIM OF THE STUDY: This study investigated the in vivo anti-Alzheimer's disease (AD) activity of the polysaccharide PTPS from Polygala tenuifolia using the senescence-accelerated mouse/prone8 (SAMP8) model and explored its molecular mechanism to lay the foundation for the development of polysaccharide-based anti-AD drugs. MATERIALS AND METHODS: The Morris water maze test (MWM)was used to detect changes in the spatial cognitive ability of mice, and Nissl staining was applied to observe the state of neurons in the classic hippocampus. The levels of acetylcholine (ACh) and acetylcholinesterase (AChE) were measured by ELISA. Immunofluorescence was used to reflect β-amyloid (Aβ) levels in brain tissue. Apoptosis was evaluated by TdT-mediated dUTP Nick-End Labeling (TUNEL) method. The status of dendritic branches and spines was observed by Golgi staining. Meanwhile, the expression levels of recombinant human insulin-degrading enzyme (IDE), brain-derived neurotrophic factor (BDNF), tyrosine kinase receptor B (TrkB), extracellular regulated protein kinases (ERK), and cAMP-response element binding protein (CREB) proteins were determined by Western blotting. RESULTS: PTPS improves spatial cognitive deficits in AD mice, reduces cellular damage in the CA3 region of the hippocampus, maintains the balance of the cholinergic system, and exerts an anti-AD effect in vivo. The molecular mechanism of its action may be related to the reduction of Aβ deposition as well as the activation of ERK pathway-related proteins with enhanced synaptic plasticity. CONCLUSIONS: PTPS is able to exert anti-AD activity in vivo by mitigating Aβ damage and targeting the ERK pathway.",
+      "mesh_terms": [
+        "Mice",
+        "Humans",
+        "Animals",
+        "Alzheimer Disease",
+        "Polygala",
+        "Protein Kinases",
+        "MAP Kinase Signaling System",
+        "Acetylcholinesterase",
+        "Hippocampus",
+        "Amyloid beta-Peptides",
+        "Cognitive Dysfunction",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "37869756",
+      "title": "Attenuating effect of Polygala tenuifolia Willd. seed oil on progression of MAFLD.",
+      "authors": [
+        "Meiling Xin",
+        "Hanlin Wang",
+        "Meng Wang",
+        "Bendong Yang",
+        "Shufei Liang",
+        "Xiaoxue Xu",
+        "Ling Dong",
+        "Tianqi Cai",
+        "Yuhong Huang",
+        "Qing Wang",
+        "Chao Wang",
+        "Yuting Cui",
+        "Zhengbao Xu",
+        "Wenlong Sun",
+        "Xinhua Song",
+        "Jinyue Sun"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Introduction: Metabolic-associated fatty liver disease (MAFLD) is a common chronic metabolic disease that seriously threatens human health. The pharmacological activity of unsaturated fatty acid-rich vegetable oil interventions in the treatment of MAFLD has been demonstrated. This study evaluated the pharmacological activity of Polygala tenuifolia Willd, which contains high levels of 2-acetyl-1,3-diacyl-sn-glycerols (sn-2-acTAGs). Methods: In this study, a mouse model was established by feeding a high-fat diet (HFD, 31% lard oil diet), and the treatment group was fed a P. tenuifolia seed oil (PWSO) treatment diet (17% lard oil and 14% PWSO diet). The pharmacological activity and mechanism of PWSO were investigated by total cho-lesterol (TC) measurement, triglyceride (TG) measurement and histopathological observation, and the sterol regulatory element-binding protein-1 (SREBP1), SREBP2 and NF-κB signaling pathways were evaluated by immunofluorescence and Western blot analyses. Results: PWSO attenuated the increases in plasma TC and TG levels. Furthermore, PWSO reduced the hepatic levels of TC and TG, ameliorating hepatic lipid accumulation. PWSO treatment effectively improves the level of hepatitic inflammation, such as reducing IL-6 levels and TNF-α level. Discussion: PWSO treatment inactivated SREBP1 and SREBP2, which are involved in lipogenesis, to attenuate hepatic lipid accumulation and mitigate the inflammatory response induced via the NF-κB signaling pathway. This study demonstrated that PWSO can be used as a relatively potent dietary supplement to inhibit the occurrence and development of MAFLD."
+    },
+    {
+      "pmid": "36037912",
+      "title": "Structural elucidation and anti-neuroinflammatory activity of Polygala tenuifolia polysaccharide.",
+      "authors": [
+        "Zhiwei Zeng",
+        "Xiao Chang",
+        "Dawei Zhang",
+        "Haiyun Chen",
+        "Xiaoyan Zhong",
+        "Yikun Xie",
+        "Qian Yu",
+        "Chunyan Yan"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2022-Oct-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Polygala tenuifolia is extensively used to treat amnesia in traditional Chinese medicine, and pharmacological studies have reported the beneficial effects of P. tenuifolia on intelligence and cognition. In the present study, the crude polysaccharide alkali-extracted from P. tenuifolia roots (PTB) inhibited lipopolysaccharide-induced microglia/astrocyte activation and significantly improved the learning and memory ability of Alzheimer's disease (AD) rats. To determine its bioactive components, a heteropolysaccharide (PTBP-1-3) was isolated from PTB. Structural analysis showed that PTBP-1-3 was composed of α-L-Araf-(1→, →3)-α-L-Araf-(1→, →5)-α-L-Araf-(1→, →3,5)-α-L-Araf-(1→, →2,5)-α-L-Araf-(1→, β-D-Xylp-(1→, →2,3,4)-β-D-Xylp-(1→, α-L-Rhap-(1→, β-D-Galp-(1→, →4)-α-D-Galp-(1→, →6)-α-D-Galp-(1→, →6)-α-D-Glcp-(1→, →3,6)-α-D-Glcp-(1→, →6)-α-D-Manp-(1→, and →2,4)-β-D-Manp-(1→ residues. PTBP-1-3 decreased the production of NO, TNF-α, and IL-1β in lipopolysaccharide-activated BV2 microglia cells in a manner similar to that of minocycline. In conclusion, PTBP-1-3 exhibited a potent inhibitory effect on neuroinflammation, and could be one of the bioactive ingredients in PTB for anti-neuroinflammation. PTB and PTBP-1-3 may be potential therapeutic agents for the treatment of AD.",
+      "mesh_terms": [
+        "Alkalies",
+        "Animals",
+        "Lipopolysaccharides",
+        "Minocycline",
+        "Polygala",
+        "Polysaccharides",
+        "Rats",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "35924058",
+      "title": "Neuroprotective Effects and Mechanisms of Senegenin, an Effective Compound Originated From the Roots of Polygala Tenuifolia.",
+      "authors": [
+        "Zhe Chen",
+        "Yu Yang",
+        "Ying Han",
+        "Xijun Wang"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Senegenin is the main bioactive ingredient isolated from the dried roots of Polygala tenuifolia Willd. In recent years, senegenin has been proved to possess a variety of pharmacological activities, such as anti-oxidation, anti-inflammation, anti-apoptosis, enhancement of cognitive function. Besides, it has a good development prospect for the treatment of neurodegenerative diseases, depression, osteoporosis, cognitive dysfunction, ischemia-reperfusion injury and other diseases. However, there is no systematic literature that fully demonstrates the pharmacological effects of senegenin. In order to meet the needs of new drug research and precise medication, this review summarized the neuroprotective effects, mechanisms and gastrointestinal toxicity of senegenin based on the literatures published from the past 2 decades. In addition, an in-depth analysis of the existing problems in the current research as well as the future research directions have been conducted in order to provide a basis for the clinical application of this important plant extract."
+    },
+    {
+      "pmid": "34696749",
+      "title": "Active constituent of Polygala tenuifolia attenuates cognitive deficits by rescuing hippocampal neurogenesis in APP/PS1 transgenic mice.",
+      "authors": [
+        "Xiao-Feng Wang",
+        "Hong-He Xiao",
+        "Yu-Tong Wu",
+        "Liang Kong",
+        "Ji-Cong Chen",
+        "Jing-Xian Yang",
+        "Xiao-le Hu"
+      ],
+      "journal": "BMC complementary medicine and therapies",
+      "publication_date": "2021-Oct-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Alzheimer's disease (AD) is the most common dementia worldwide, and there is still no satisfactory drug or therapeutic strategy. Polygala tenuifolia is a traditional Chinese medicine with multiple neuroprotective effects. In present study, we investigated the effects of three active constituents [3,6'-disinapoyl sucrose (DISS), onjisaponin B (OB) and tenuifolin (TEN)] of Polygala tenuifolia (PT) on the proliferation and differentiation of neural stem cells (NSCs) to identify the potential active constituent of PT promoting hippocampal neurogenesis. METHODS: NSCs were isolated from hippocampi of newborn C57BL/6 mice, and transfected with mutant amyloid precursor protein (APP) gene to establish an AD cell model (APP-NSCs). 3-(4,5- Dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) and lactate dehydrogenase (LDH) assays were performed, and the proliferation and differentiation of NSCs were assessed by neurosphere formation assay, 5-bromo-2'-deoxyuridine (BrdU) incorporation assay and immunofluorescence (IF) staining analysis. APP/PS1 transgenic mice were administrated with the potential active constituent DISS for 4 weeks. Morris water maze (MWM), Nissl staining assay and IF staining assays were carried out to evaluate the cognitive function, neural damages and hippocampal neurogenesis, respectively. RESULTS: DISS exerted the optimal ability to strengthen APP-NSCs proliferation and neuronal differentiation, followed by OB and TEN. Furthermore, DISS treatment for 4 weeks strikingly rescued the cognitive deficits, neuronal injures, and neurogenesis disorder in adult APP/PS1 transgenic mice. CONCLUSIONS: Our findings demonstrated that DISS is the constituent of PT that triggers the most potent increase of hippocampal neurogenesis in our mouse model of AD.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Alzheimer Disease",
+        "Disease Models, Animal",
+        "Hippocampus",
+        "Medicine, Chinese Traditional",
+        "Mice, Inbred C57BL",
+        "Mice, Transgenic",
+        "Molecular Structure",
+        "Morris Water Maze Test",
+        "Neural Stem Cells",
+        "Neurogenesis",
+        "Polygala"
+      ]
+    },
+    {
+      "pmid": "33793803",
+      "title": "Combination of urine and faeces metabolomics to reveal the intervention mechanism of Polygala tenuifolia compatibility with Magnolia officinalis on gastrointestinal motility disorders.",
+      "authors": [
+        "Rong Ma",
+        "Qian Xie",
+        "Jian Wang",
+        "Lihua Huang",
+        "Xiaoqing Guo",
+        "Yamei Fan"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2021-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To explore the intervention mechanism of combining Polygala tenuifolia (PT) with Magnolia officinalis (MO) on gastrointestinal motility disorders caused by PT. METHODS: Urine and faeces of rats were collected; the effects of PT and MO on the gastric emptying and small intestine advancing rates in mice were analysed via ultra-high performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UHPLC-Q-TOF-MS) to determine the potential metabolites. Changes in the metabolic profiles of the urine and faeces were revealed by untargeted metabolomics, followed by multivariate statistical analysis. The integration of urine and faeces was applied to reveal the intervention mechanism of PT-MO on PT-induced disorders. KEY FINDINGS: PT + MO (1:2) improved the gastrointestinal function in mice suffering from PT-induced gastrointestinal motility disorder. Metabolomics indicated that the PT-MO mechanism was mainly associated with the regulations of 17 and 12 metabolites and 11 and 10 pathways in urine and faeces, respectively. The common metabolic pathways were those of tyrosine, purine, tricarboxylic acid cycle, pyruvate and gluconeogenesis, which were responsible for the PT-MO intervention mechanism. CONCLUSIONS: The PT-MO (1:2) couple mechanism mitigated the PT-induced disorders, which were related to the energy, amino acid and fatty metabolisms.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Chromatography, High Pressure Liquid",
+        "Energy Metabolism",
+        "Fatty Acids",
+        "Feces",
+        "Female",
+        "Gastrointestinal Motility",
+        "Magnolia",
+        "Male",
+        "Mass Spectrometry",
+        "Metabolomics",
+        "Mice",
+        "Plant Extracts",
+        "Polygala",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "33432492",
+      "title": "Extract of Polygala tenuifolia, Angelica tenuissima, and Dimocarpus longan Reduces Behavioral Defect and Enhances Autophagy in Experimental Models of Parkinson's Disease.",
+      "authors": [
+        "Huan Li",
+        "Joonki Kim",
+        "Huynh Nguyen Khanh Tran",
+        "Chang Hwan Lee",
+        "Jonghyun Hur",
+        "Min Cheol Kim",
+        "Hyun Ok Yang"
+      ],
+      "journal": "Neuromolecular medicine",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The 20% ethanol extract of Polygala tenuifolia, Angelica tenuissima, and Dimocarpus longan (WIN-1001X) was derived from a modified version of Korean traditional herbal formula 'Chungsimyeolda-tang' which has been used for the treatment of cerebrovascular disorders. The Parkinson's disease presents with impaired motor functions and loss of dopaminergic neurons. However, the treatment for Parkinson's disease is not established until now. This study aims to elucidate the therapeutic advantages of WIN-1001X on animal models of Parkinson's disease. WIN-1001X administration successfully relieved the Parkinsonism symptoms in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced Parkinson's disease mice tested by rota-rod and pole tests. The loss of tyrosine hydroxylase activities in substantia nigra and striatum was also attenuated by administration of WIN-1001X. In mice with sub-chronical MPTP injections, autophagy-related proteins, such as LC3, beclin-1, mTOR, and p62, were measured using the immunoblot assay. The results were favorable to induction of autophagy after the WIN-1001X administration. WIN-1001X treatment on 6-hydroxydopamine-injected rats also exhibited protective effects against striatal neuronal damage and loss of dopaminergic cells. Such protection is expected to be due to the positive regulation of autophagy by administration of WIN-1001X with confirmation both in vivo and in vitro. In addition, an active compound, onjisaponin B was isolated and identified from WIN-1001X. Onjisaponin B also showed significant autophagosome-inducing effect in human neuroblastoma cell line. Our study suggests that relief of Parkinsonism symptoms and rescue of tyrosine hydroxylase activity in dopaminergic neurons are affected by autophagy enhancing effect of WIN-1001X which the onjisaponin B is one of the major components of activity.",
+      "mesh_terms": [
+        "Angelica",
+        "Animals",
+        "Apomorphine",
+        "Autophagy",
+        "Cell Line, Tumor",
+        "Corpus Striatum",
+        "Dopaminergic Neurons",
+        "Drug Evaluation, Preclinical",
+        "Humans",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Molecular Structure",
+        "Neuroblastoma",
+        "Neuroprotective Agents",
+        "Oxidopamine",
+        "Parkinsonian Disorders",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Polygala",
+        "Random Allocation",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Rotarod Performance Test",
+        "Sapindaceae",
+        "Saponins",
+        "Substantia Nigra",
+        "Triterpenes",
+        "Tyrosine 3-Monooxygenase"
+      ]
+    },
+    {
+      "pmid": "33383115",
+      "title": "Protein unbound pharmacokinetics of ambroxol in the blood and brains of rats and the interaction of ambroxol with Polygala tenuifolia by multiple microdialysis.",
+      "authors": [
+        "Chao-Nan Yang",
+        "Wen-Ya Peng",
+        "Lie-Chwen Lin",
+        "Tung-Hu Tsai"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2021-Apr-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Ambroxol elevates glucocerebrosidase (GCase) activity and reduces nigrostriatal alpha-synuclein burden to better ameliorate motor function in Parkinson's disease (PD). Polygala tenuifolia is a potential alternative botanical medicine for the treatment of many nonmotor symptoms of PD commonly used in Taiwanese patients. Co-administration of these two medicines pose potential herb-drug interaction. AIM OF THE STUDY: Our hypothesis is that ambroxol and P. tenuifolia may potentially possess herbal drug synergetic effects in the blood and brain. MATERIALS AND METHODS: To investigate this hypothesis, a multiple microdialysis system coupled with validated ultra-high performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) method was developed for rat blood and brain samples. Experimental rats were divided into three groups: low-dose and high-dose ambroxol alone (10 mg/kg, i.v. and 30 mg/kg, i.v., respectively) and ambroxol (10 mg/kg, i.v.) pretreated with P. tenuifolia extract (1 g/kg, p.o. for 5 consecutive days). RESULTS: Ambroxol easily penetrated into the brain and reached a maximum concentration in the striatum at approximately 60 min after low- and high-dose treatment. The area under the concentration curve (AUC) ratio increased proportionally at the doses of 10 and 30 mg/kg, which suggested a linear pharmacokinetic manner of ambroxol. The brain penetration of ambroxol was approximately 30-34%, which was defined as the ambroxol AUC blood-to-brain distribution ratio (AUCbrain/AUCblood). The P. tenuifolia extract did not significantly alter the pharmacokinetics of ambroxol in the blood and brain of rats. CONCLUSION: The present study suggests that it is safety without pharmacokinetic interactions for this dosing regimen to use P. tenuifolia extract and ambroxol together.",
+      "mesh_terms": [
+        "Ambroxol",
+        "Animals",
+        "Area Under Curve",
+        "Blood Chemical Analysis",
+        "Blood-Brain Barrier",
+        "Brain",
+        "Chromatography, High Pressure Liquid",
+        "Corpus Striatum",
+        "Drugs, Chinese Herbal",
+        "Herb-Drug Interactions",
+        "Male",
+        "Microdialysis",
+        "Parkinsonian Disorders",
+        "Polygala",
+        "Rats, Sprague-Dawley",
+        "Tandem Mass Spectrometry",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "33248184",
+      "title": "The antidepressant-like effects of the water extract of Panax ginseng and Polygala tenuifolia are mediated via the BDNF-TrkB signaling pathway and neurogenesis in the hippocampus.",
+      "authors": [
+        "Ning Jiang",
+        "Haixia Wang",
+        "Chenchen Li",
+        "Guirong Zeng",
+        "Jingwei Lv",
+        "Qiong Wang",
+        "Yin Chen",
+        "Xinmin Liu"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2021-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGY RELEVANCE: The water extract of Panax ginseng (GT) and Polygala tenuifolia (YT), the main constituents of the commonly used kai-xin-san formula of traditional Chinese medicine, represents SY. It possesses strong neuroprotective effects. Using behavioural tests, we have previously established that the SY formulation exerts superior antidepressant activity than that of GT or YT. AIM: To elucidate the impact of SY treatment on chronic unpredictable mild stress (CUMS)-induced depressive-like behaviours and the prospective mechanism related to hippocampal neurogenesis and the BDNF signaling pathway. METHODS: We exposed Sprague-Dawley rats (male; 180-200 g) to CUMS for 35 days. The rats in the experimental treatment groups were daily treated with either fluoxetine (10 mg kg-1d-1) or SY (67.5, 135, or 270 mg kg-1d-1) orally until the behavioural tests (tail suspension test [TST], novelty-suppressed feeding test [NSFT], sucrose preference test [SPT], and forced swim test [FST]) were completed. We assessed the modifications in the hippocampal neurogenesis and the BDNF signaling pathway post-treatment with CUMS and SY. Additionally, K252a, a tyrosine protein kinase inhibitor, was utilized to evaluate the antidepressant mechanisms of SY. RESULT: s: The results of SPT, NSFT, FST, and TST in CUMS-exposed rats confirmed the antidepressant actions of SY. Additionally, SY treatment induced the BDNF signaling pathway and reversed the hippocampal neurogenesis caused by CUMS. Moreover, we found that the TrkB antagonist K252a blocked SY effects on behavioural improvement, inhibited the incremental effects of SY on hippocampal neurogenesis, and eliminated the impact of SY on BDNF-TrkB signaling activation. Thus, the impact of SY treatment on BDNF signaling molecules (pAkt, pERK1/2, and pCREB) were significantly inhibited by K252a. CONCLUSIONS: This study showed that SY acted as an antidepressant in rats exhibiting CUMS-induced depressive-like behaviours, and was facilitated by promoting hippocampal neurogenesis and the BDNF signaling pathway activation. Thus, SY could act as a potential novel supplement or adjuvant to prevent or treat clinical depressive disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Behavior, Animal",
+        "Brain-Derived Neurotrophic Factor",
+        "Depression",
+        "Disease Models, Animal",
+        "Exploratory Behavior",
+        "Food Preferences",
+        "Hippocampus",
+        "Male",
+        "Motor Activity",
+        "Neurogenesis",
+        "Panax",
+        "Plant Extracts",
+        "Polygala",
+        "Rats, Sprague-Dawley",
+        "Receptor, trkB",
+        "Signal Transduction",
+        "Solvents",
+        "Water",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "32874571",
+      "title": "Neuroprotective effects of the aerial parts of Polygala tenuifolia Willd extract on scopolamine-induced learning and memory impairments in mice.",
+      "authors": [
+        "Xiao Wang",
+        "Dian Zhang",
+        "Weihao Song",
+        "Cheng Fei Cai",
+        "Zihao Zhou",
+        "Qi Fu",
+        "Xingrong Yan",
+        "Yanjun Cao",
+        "Minfeng Fang"
+      ],
+      "journal": "Biomedical reports",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease is a common neurodegenerative disease characterized by progressive cognitive dysfunction and behavioral impairment. Aerial parts of Polygala tenuifolia Willd (APT) is a traditional Chinese medicine used for the treatment of amnesia. The present study aimed to investigate the protective effects of APT on scopolamine-induced learning and memory impairments in mice. Scopolamine-induced mice were used to determine the effects of APT on learning and memory impairment. Mice were orally administered with APT (25, 50 and 100 mg/kg) and piracetam (750 mg/kg) for 14 days, and intraperitoneally injected with scopolamine (2 mg/kg) from days 8 to 14. Morris water maze and step-down tests were performed to evaluate learning and memory. Levels of acetylcholine (ACh), choline acetyltransferase (ChAT), acetylcholinesterase (AChE), interleukin (IL)-1β, IL-10 and brain-derived neurotrophic factor (BDNF) in the hippocampus and frontal cortex were measured by ELISA. Superoxide dismutase (SOD), malondialdehyde (MDA) and glutathione (GSH) were measured via biochemical detection. The results demonstrated that APT ameliorated learning and memory impairment in scopolamine-induced mice. Correspondingly, APT significantly increased ACh and ChAT levels in the hippocampus and prefrontal cortex of scopolamine-induced mice. Additionally, treatment with APT significantly increased BDNF and IL-10 levels, and decreased IL-1β and AChE levels in the same mice. Furthermore, APT significantly increased SOD activity and GSH content, and decreased MDA levels in brain tissue. These results indicated that APT may ameliorate learning and memory impairment by regulating cholinergic activity, promoting BDNF and inhibiting neuroinflammation and oxidative stress."
+    },
+    {
+      "pmid": "32797467",
+      "title": "Extract of the Aerial Part of Polygala tenuifolia Attenuates d-Galactose/NaNO2-induced Learning and Memory Impairment in Mice.",
+      "authors": [
+        "Dian Zhang",
+        "Xiao Wang",
+        "Rong Li",
+        "Lin Wang",
+        "Zihao Zhou",
+        "Qi Fu",
+        "Yanjun Cao",
+        "Minfeng Fang"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2020-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease, one of the most common types of age-related dementia, is characterized by memory deterioration and behavior disorder. The aboveground part of Polygala tenuifolia is a traditional Chinese medicine used for the treatment of amnesia. This study was conducted to investigate the ameliorating effect of the aerial part of P. tenuifolia on d-galactose/NaNO2-induced learning and memory impairment in mice. d-galactose (120 mg/kg) and NaNO2 (90 mg/kg) were injected intraperitoneally for 60 days to induce learning and memory impairment in mice. The aerial part of P. tenuifolia (25, 50, and 100 mg/kg) and piracetam (200 mg/kg) were simultaneously administered orally on days 15 - 60. Results of this study showed that aerial part of P. tenuifolia significantly decreased the latency time and increased the number of platform crossings in the Morris water maze compared with the Model group. Moreover, the aerial part of P. tenuifolia significantly increased the latency time and decreased the error frequency in the step-down and step-through tests compared with the Model group. Meanwhile, the aerial part of P. tenuifolia was able to regulate the cholinergic system by increasing the levels of ACh and ChAT and decreasing the level of AChe. The aerial part of P. tenuifolia also significantly attenuated the levels of interleukin-1 beta and malonaldehyde and enhanced the interleukin-10 and glutathione levels and superoxide dismutase activity. Furthermore, treatment with aerial part of P. tenuifolia increased the protein and mRNA expression of brain-derived neurotrophic factor and tropomyosin receptor kinase B in the hippocampus. These results suggest that the aerial part of P. tenuifolia can ameliorate learning and memory impairments by modulating cholinergic activity, inhibiting neuroinflammation and oxidative stress, and regulating the brain-derived neurotrophic factor and tropomyosin receptor kinase B signaling pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Galactose",
+        "Hippocampus",
+        "Maze Learning",
+        "Memory",
+        "Memory Disorders",
+        "Mice",
+        "Plant Components, Aerial",
+        "Plant Extracts",
+        "Polygala"
+      ]
+    },
+    {
+      "pmid": "32531363",
+      "title": "A pectin-like polysaccharide from Polygala tenuifolia inhibits pancreatic cancer cell growth in vitro and in vivo by inducing apoptosis and suppressing autophagy.",
+      "authors": [
+        "Youcheng Bian",
+        "Hui Zeng",
+        "Hong Tao",
+        "Lulin Huang",
+        "Zhenyun Du",
+        "Jiao Wang",
+        "Kan Ding"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2020-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal malignant carcinomas, which is characterized by apoptosis- and autophagy-dependent tumorigenic growth. Autophagy constitutes a stress adaptation that suppresses apoptosis. To explore new leading compound against PDAC, a pectin-like polysaccharide named RP02-1, was purified from roots of Polygala tenuifolia. Bioactivity test showed that RP02-1 might inhibit pancreatic cancer cells growth in vitro and in vivo. RP02-1 could inhibit pancreatic cancer cell (AsPC-1 and BxPC-3) proliferation, migration and colony formation. Mechanism study suggested that RP02-1 induced pancreatic cancer cells apoptosis, which was detected by Bcl-2 down-regulation, Bax up-regulation and conversion from Caspase 3 to Cleaved Caspase 3. Interestingly, autophagy was suppressed by RP02-1 treatment concentration-dependently through affenuatingBeclin-1, ATG5 and LC3B expression in BxPC-3 cells. In addition, RP02-1 could inhibit autophagy induced by Pennogenin 3-O-beta-chacotrioside. However, RP02-1 had almost no toxicity both in vitro and in vivo. The above results suggested that RP02-1 might be a potential leading compound for new drug candidate development for human PDAC treatment via inducing apoptosis and against autophagy.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Autophagy",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Humans",
+        "Immunohistochemistry",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Pancreatic Neoplasms",
+        "Pectins",
+        "Polygala",
+        "Polysaccharides",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "32240473",
+      "title": "Sedative and Hypnotic Effects and Transcriptome Analysis of Polygala tenuifolia in Aged Insomnia Rats.",
+      "authors": [
+        "Xiao-Juan Ren",
+        "Guan-Ying Wang",
+        "Xing-Ping Zhang",
+        "Qing-Quan Wang",
+        "Zhi-Peng Peng"
+      ],
+      "journal": "Chinese journal of integrative medicine",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To study the sedative and hypnotic effects and underlying mechanisms of Polygala tenuifolia (PT) on treating aged insomnia rats. METHODS: Sixty Sprague-Dawley male rats were divided into 6 groups by a random number table, including control group, model group, diazepam group (0.92 mg/kg), as well as PT low-, medium- and high-dose groups (0.0875, 0.175, 0.35 g/kg, respectively), 10 rats in each group. Aged insomnia rat model was established with subcutaneous injection of D-galactose for 42 days and then intraperitoneal injection of para-chlorophenylalanine for 3 days. PT and diazepam were respectively given to aged insomnia rats by intragastric administration for 7 days after model establishment. Then the rats were investigated by body weight, Morris water maze test, pentobarbital test, enzyme-linked immunosorbent assay, and transcriptome sequencing. RESULTS: Compared with the model group, PT increased the body weight, improved memory ability, and prolonged pentobarbital-induced sleep time of aged insomnia rats (P<0.01 or P<0.05). The medium dose of PT also increased the neurotransmitter levels of 5-hydroxytryptamine (5-HT) and gamma-aminobutyric acid (GABA), and decreased the level of Glu in the hippocampus of aged insomnia rats (P<0.05 or P<0.01). Twenty-four differentially expressed genes (DEGs) were overlapped among model group, medium-dose PT group, and diazepam group in transcriptome analysis. Fuom and Pcp2 were down-regulated by the treatment of medium-dose PT (P<0.01 or P<0.05). The metabolic pathways of PT were relatively less than diazepam (91 vs. 104). CONCLUSIONS: The sedative and hypnotic effects of PT in aged insomnia rats might be related to neuro, metabolism pathways, especially through GABAergic signaling pathway. It provided more effective herb choice for the treatment of senile insomnia.",
+      "mesh_terms": [
+        "Animals",
+        "China",
+        "Diazepam",
+        "Disease Models, Animal",
+        "Gene Expression Profiling",
+        "Hypnotics and Sedatives",
+        "Male",
+        "Plant Preparations",
+        "Polygala",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Sleep Initiation and Maintenance Disorders"
+      ]
+    },
+    {
+      "pmid": "31664284",
+      "title": "Protective effects of tenuifolin isolated from Polygala tenuifolia Willd roots on neuronal apoptosis and learning and memory deficits in mice with Alzheimer's disease.",
+      "authors": [
+        "Lin Wang",
+        "Gui Fang Jin",
+        "He Han Yu",
+        "Xiao Hua Lu",
+        "Zhen Hua Zou",
+        "Jia Qi Liang",
+        "Hong Yang"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2019-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The roots of Polygala tenuifolia Willd have a long history of being used as a traditional Chinese medicine for the treatment of insomnia, forgetfulness, sorrow and depression. Tenuifolin (TEN) has been isolated from Polygala tenuifolia Willd roots, and this study was carried out to investigate the potential beneficial effects of TEN on neuronal apoptosis and memory deficits in a mouse model of Alzheimer's disease (AD). TEN treatment reversed spatial learning and memory deficits, as well as neuronal apoptosis in hippocampal areas, in APP/PS1 transgenic AD mice. TEN treatment protected against Aβ25-35-induced apoptosis, loss of mitochondria-membrane potential, and activation of caspases-3 and -9 in SH-SY5Y cells. TEN has potential benefit in treating learning and memory deficits in APP/PS1 transgenic AD mice, and its effects may be associated with reversing AD pathology-induced neuronal apoptosis. These insights pave the way for further analysis of the potential of TEN as an AD therapeutic agent.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Alzheimer Disease",
+        "Amyloid beta-Peptides",
+        "Andorra",
+        "Apoptosis",
+        "Diterpenes, Kaurane",
+        "Maze Learning",
+        "Membrane Potential, Mitochondrial",
+        "Memory",
+        "Mice, Transgenic",
+        "Molecular Structure",
+        "Neurons",
+        "Peptide Fragments",
+        "Plant Roots",
+        "Polygala"
+      ]
+    },
+    {
+      "pmid": "31539780",
+      "title": "Polygala tenuifolia-Acori tatarinowii herbal pair as an inspiration for substituted cinnamic α-asaronol esters: Design, synthesis, anticonvulsant activity, and inhibition of lactate dehydrogenase study.",
+      "authors": [
+        "Yajun Bai",
+        "Xirui He",
+        "Yujun Bai",
+        "Ying Sun",
+        "Zefeng Zhao",
+        "Xufei Chen",
+        "Bin Li",
+        "Jing Xie",
+        "Yang Li",
+        "Pu Jia",
+        "Xue Meng",
+        "Ye Zhao",
+        "Yanrui Ding",
+        "Chaoni Xiao",
+        "Shixiang Wang",
+        "Jie Yu",
+        "Sha Liao",
+        "Yajun Zhang",
+        "Zhiling Zhu",
+        "Qiang Zhang",
+        "Yuhui Zhao",
+        "Fanggang Qin",
+        "Yi Zhang",
+        "Xiaoyang Wei",
+        "Min Zeng",
+        "Jing Liang",
+        "Ye Cuan",
+        "Guangzhi Shan",
+        "Tai-Ping Fan",
+        "Biao Wu",
+        "Xiaohui Zheng"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "publication_date": "2019-Dec-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inspired by the traditional Chinese herbal pair of Polygala tenuifolia-Acori Tatarinowii for treating epilepsy, 33 novel substituted cinnamic α-asaronol esters and analogues were designed by Combination of Traditional Chinese Medicine Molecular Chemistry (CTCMMC) strategy, synthesized and tested systematically not only for anticonvulsant activity in three mouse models but also for LDH inhibitory activity. Thereinto, 68-70 and 75 displayed excellent and broad spectra of anticonvulsant activities with modest ability in preventing neuropathic pain, as well as low neurotoxicity. The protective indices of these four compounds compared favorably with stiripentol, lacosamide, carbamazepine and valproic acid. 68-70 exhibited good LDH1 and LDH5 inhibitory activities with noncompetitive inhibition type, and were more potent than stiripentol. Notably, 70, as a representative agent, was also shown as a moderately positive allosteric modulator at human α1β2γ2 GABAA receptors (EC50 46.3 ± 7.3 μM). Thus, 68-70 were promising candidates for developing into anti-epileptic drugs, especially for treatment of refractory epilepsies such as Dravet syndrome.",
+      "mesh_terms": [
+        "Allosteric Regulation",
+        "Animals",
+        "Anisoles",
+        "Anticonvulsants",
+        "Carbamazepine",
+        "Cinnamates",
+        "Dioxolanes",
+        "Drug Design",
+        "Drugs, Chinese Herbal",
+        "Esters",
+        "Humans",
+        "L-Lactate Dehydrogenase",
+        "Medicine, Chinese Traditional",
+        "Mice",
+        "Molecular Structure",
+        "Neuralgia",
+        "Polygala",
+        "Receptors, GABA-A",
+        "Structure-Activity Relationship",
+        "Valproic Acid"
+      ]
+    },
+    {
+      "pmid": "30576772",
+      "title": "Study on the safety of Polygala tenuifolia Willdenow root extract powder (BT-11) in young person aged from 9 to 19 years old.",
+      "authors": [
+        "Cheol Hyoung Park",
+        "Pil-Soon Yang",
+        "Yeo Sang Yoon",
+        "Jeong-Chan Ra"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2019-Mar-25",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Polygala tenuifolia Willdenow root extract (BT-11) has beneficial effects on central nervous system disorders in human. The safety of BT-11 should be elucidated in younger person further. AIM OF THE STUDY: To evaluate the safety of BT-11 in human aged from 9 to 19 years old. MATERIAL AND METHODS: The safety was evaluated in randomly assigned subjects who received the test products (61 subjects in BT-11 300 mg daily or 60 subjects in matching placebo) for 12 weeks. Adverse reactions were analyzed by the incidence rate, type, and severity. The clinical examination included hematology and blood chemistry tests, urinalysis, vital signs, body weight, and electrocardiogram (ECG). RESULTS: Eleven adverse reactions were observed in ten subjects receiving BT-11 while seven adverse reactions in six subjects receiving placebo. There were no statistical differences in the incidence of adverse reactions between the two groups. Serious adverse reactions such as acute appendicitis and acute viral gastroenteritis were observed in the BT-11 group4 and the placebo group, respectively. However, it was confirmed that they were not associated with the test product. All other adverse reactions observed during the test period were resolved completely without special treatment. No statistical difference was also observed in safety laboratory tests, vital signs, and ECG between two groups. CONCLUSIONS: This study demonstrates the safety of BT-11 in the adolescent by showing no apparent adverse reactions related to it.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Child",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Powders",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "29140303",
+      "title": "Two Cycloartenol Synthases for Phytosterol Biosynthesis in Polygala tenuifolia Willd.",
+      "authors": [
+        "Mei Lan Jin",
+        "Woo Moon Lee",
+        "Ok Tae Kim"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2017-Nov-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oxidosqualene cyclases (OSCs) are enzymes that play a key role in control of the biosynthesis of phytosterols and triterpene saponins. In order to uncover OSC genes from Polygala tenuifolia seedlings induced by methyl jasmonate (MeJA), RNA-sequencing analysis was performed using the Illumina sequencing platform. A total of 148,488,632 high-quality reads from two samples (control and the MeJA treated) were generated. We screened genes related to phytosterol and triterpene saponin biosynthesis and analyzed the transcriptional changes of differentially expressed unigene (DEUG) values calculated by fragments per kilobase million (FPKM). In our datasets, two full-length cDNAs of putative OSC genes, PtCAS1, and PtCAS2, were found, in addition to the PtBS (β-amyrin synthase) gene reported in our previous studies and the two cycloartenol synthase genes of P. tenuifolia. All genes were isolated and characterized in yeast cells. The functional expression of the two PtCAS genes in yeast cells showed that the genes all produce a cycloartenol as the sole product. When qRT-PCR analysis from different tissues was performed, the expressions of PtCAS1 and PtCAS2 were highest in flowers and roots, respectively. After MeJA treatment, the transcripts of PtCAS1 and PtCAS2 genes increased by 1.5- and 2-fold, respectively. Given these results, we discuss the potential roles of the two PtCAS genes in relation to triterpenoid biosynthesis.",
+      "mesh_terms": [
+        "Acetates",
+        "Amino Acid Sequence",
+        "Cyclopentanes",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Intramolecular Transferases",
+        "Microsatellite Repeats",
+        "Molecular Sequence Annotation",
+        "Oxylipins",
+        "Phylogeny",
+        "Phytosterols",
+        "Polygala",
+        "Saccharomyces cerevisiae",
+        "Seedlings",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "29056891",
+      "title": "Polygala tenuifolia extract inhibits lipid accumulation in 3T3-L1 adipocytes and high-fat diet-induced obese mouse model and affects hepatic transcriptome and gut microbiota profiles.",
+      "authors": [
+        "Chun-Chung Wang",
+        "Jui-Hung Yen",
+        "Yi-Cheng Cheng",
+        "Chia-Yu Lin",
+        "Cheng-Ta Hsieh",
+        "Rung-Jiun Gau",
+        "Shu-Jiau Chiou",
+        "Hwan-You Chang"
+      ],
+      "journal": "Food & nutrition research",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity, the excessive accumulation of lipids in the body, is closely associated with many prevalent human disorders. Continued efforts to identify plant extracts that exhibit anti-obesity effects have drawn much attention. This study investigated whether a Polygala tenuifolia extract (PTE) possesses anti-obesity activity and how PTE may affect liver gene expression and gut microbiota. We used 3T3-L1 adipocytes and a high-fat diet-induced obese mouse model to determine the effects of PTE on lipid accumulation. Next-generation sequencing analysis of liver gene expression and gut microbiota profiles following PTE treatment were conducted to elucidate possible mechanisms. We found that treatment of fully differentiated 3T3-L1 adipocytes with PTE inhibited lipid accumulation in the cells through reducing lipid formation and triglyceride content and by increasing lipase activity. No cytotoxicity was observed from the PTE treatment. After 5 weeks of treatment with PTE, the increased body weight, elevated serum triglyceride content, and liver steatosis in the high-fat diet-induced obese mice were each reduced. Liver transcriptomic analysis revealed that expression of genes involved in lipid and cholesterol metabolism was significantly altered. The low-grade chronic inflammation of obesity caused by a high-fat diet was also decreased after PTE treatment. In addition, treatment with PTE improved the relatively low Bacteroidetes/Firmicutes ratio in the gut of high-fat diet-fed mice through enrichment of the Proteobacteria population and reduction of the Deferribacteres population. In conclusion, treatment with PTE inhibited lipid accumulation by inducing the expression of the master transcription factor PPARα, attenuated the low-grade chronic inflammation of obesity, and also altered gut microbiota profiles. These results indicate that PTE has the potential to be developed into an anti-obesity food supplement and therapy. Abbreviations: Abcg5: ATP-binding cassette subfamily G member 5; ALT: alanine aminotransferase; AMPK: adenosine monophosphate-activated protein kinase; AST: aspartate aminotransferase; B/F: Bacteroidetes to Firmicutes [ratio]; C/EBPα: CCAAT/enhancer-binding protein alpha; CR: creatinine; Cyp51: cytochrome P450 family 51; DMEM: Dulbecco's modified Eagle's medium; Fabp5: fatty acid-binding protein 5; FBS: fetal bovine serum; Fdps: farnesyl diphosphate synthase; Glc: Glucose; HFD: high-fat diet; GO: gene ontology; HPRT: hypoxanthine guanine phosphoribosyl transferase; IBMS: 3-isobutyl-1-methylxanthine; Idi1: isopentenyl-diphosphate delta isomerase 1; IL-1β: interleukin-1-beta; Lpin1: phosphatidic acid phosphohydrolase; LPS: lipopolysaccharide; Mvd: mevalonate diphosphate decarboxylase; ND: normal diet; OTU: operational taxonomic units; Pcsk9: proprotein convertase subtilisin/kexin 9; Pctp: phosphatidylcholine transfer protein; PPARα: peroxisome proliferator-activated receptor alpha; PPARγ: peroxisome proliferator-activated receptor gamma; PTE: Polygala tenuifolia extract; Saa1: serum amyloid A1; SD: standard deviation; SEM: standard error of the mean; Serpina12: serpin family member 12; Sqle: squalene monooxygenase; SREBP1C: sterol regulatory element-binding protein 1C; TCHO: total cholesterol; TG: triglyceride."
+    },
+    {
+      "pmid": "28923567",
+      "title": "A water-soluble polysaccharide from the roots of Polygala tenuifolia suppresses ovarian tumor growth and angiogenesis in vivo.",
+      "authors": [
+        "Hua Yao",
+        "Ping Cui",
+        "Dan Xu",
+        "Yunduo Liu",
+        "Qinghua Tian",
+        "Fubin Zhang"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PTP, one polysaccharide extracted from the roots of Polygala tenuifolia, has displayed anti-cancer activity in several types of ovarian cancer cells. This study aims to elucidate the structure of PTP and investigate its anticancer effects against SKOV3 xenograft tumor growth in BALB/c mice, as well as the underlying mechanisms involved. GC-MS and NMR data indicate that PTP has a backbone composed of 1,4,6-linked-β-Galp, 1,4-linked-β-Galp and 1,4-linked-β-Glcp, with non-reducing terminal 1-linked-α-Glcp attached to O-6 of 1,4,6-linked-β-Galp. The tumor growth was suppressed in mice following two week's PTP administration (10, 20 and 40mg/kg) due to the induction of apoptosis, as detected by TUNEL assay. Moreover, lower serum VEGF and EGFR levels were observed in BALB/c mice treated with different doses of PTP when compared with that in untreated mice. Also, EGFR, VEGF, and CD34 were decreased in both transcript and protein levels in the tumor-bearing mice upon PTP treatment. Taken together, our data suggest that PTP appears to be a powerful chemopreventive agent for the patients with ovarian cancer, especially at advanced stage.",
+      "mesh_terms": [
+        "Animals",
+        "Antigens, CD34",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "ErbB Receptors",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Neovascularization, Pathologic",
+        "Ovarian Neoplasms",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Polysaccharides",
+        "Solubility",
+        "Tumor Burden",
+        "Vascular Endothelial Growth Factor A",
+        "Water",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "28134488",
+      "title": "Bioactivity screening, extraction, and separation of lactate dehydrogenase inhibitors from Polygala tenuifolia Willd. based on a hyphenated strategy.",
+      "authors": [
+        "Sainan Li",
+        "Shu Liu",
+        "Zhiqiang Liu",
+        "Chunming Liu",
+        "Fengrui Song",
+        "Zifeng Pi"
+      ],
+      "journal": "Journal of separation science",
+      "publication_date": "2017-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Stroke is the second leading cause of death worldwide. Lactate dehydrogenase inhibitors are currently widely used in the treatment of ischemic stroke, and natural products are considered promising sources of lactate dehydrogenase inhibitors. In this study, ultrafiltration liquid chromatography coupled with mass spectrometry was used for the screening and identification of lactate dehydrogenase inhibitors from Polygala tenuifolia. Furthermore, five lactate dehydrogenase inhibitors, sibiricose A5, 3,6'-di-O-sinapoyl-sucrose, glomeratose A, tenuifoliside B, and tenuifoliside C, were selected as target lactate dehydrogenase inhibitors. In addition, the five target compounds with purities of 96.45, 97.65, 96.38, 94.34, and 93.29% were extracted and isolated using a new hyphenated strategy of microwave-assisted extraction coupled with countercurrent chromatography with a two-phase solvent system of n-hexane/n-butanol/ethanol/water (5.321:1.00:1.664:6.647). The bioactivities of the isolated compounds were analyzed using PC12 cells and the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide assay. The results also demonstrated that microwave-assisted extraction coupled with countercurrent chromatography is an efficient method of isolating chemical constituents from medicinal herbs. Moreover, the research route consisting of activity screening, extraction, separation, and activity verification of the compounds has the advantages of being efficient, orientated, and objective.",
+      "mesh_terms": [
+        "Animals",
+        "Chromatography, High Pressure Liquid",
+        "Countercurrent Distribution",
+        "Enzyme Inhibitors",
+        "L-Lactate Dehydrogenase",
+        "PC12 Cells",
+        "Plants, Medicinal",
+        "Polygala",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "28106783",
+      "title": "Extract of Polygala tenuifolia Alleviates Stress-Exacerbated Atopy-Like Skin Dermatitis through the Modulation of Protein Kinase A and p38 Mitogen-Activated Protein Kinase Signaling Pathway.",
+      "authors": [
+        "Bongjun Sur",
+        "Bombi Lee",
+        "Ye Seul Yoon",
+        "Pooreum Lim",
+        "Riwon Hong",
+        "Mijung Yeom",
+        "Hyang Sook Lee",
+        "Hijoon Park",
+        "Insop Shim",
+        "Hyejung Lee",
+        "Young Pyo Jang",
+        "Dae-Hyun Hahm"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2017-Jan-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Atopic dermatitis (AD) and stress create a vicious cycle: stress exacerbates atopic symptoms, and atopic disease elicits stress and anxiety. Targeting multiple pathways including stress and allergic inflammation is, therefore, important for treating AD. In this study, we investigated the remedial value of Polygala tenuifolia Willd. (PTW) for treating immobilization (IMO) stress-exacerbated atopy-like skin dermatitis and its underlying mechanism. Trimellitic anhydride (TMA) was applied to dorsal skin for sensitization and subsequently both ears for eliciting T-cell-dependent contact hypersensitivity in mice, which underwent 2 h-IMO stress and PTW administration for the latter 6 and 9 days in the ear exposure period of TMA, respectively. To elicit in vitro degranulation of human mast cell line-1 (HMC-1), 10 µM substance P (SP) and 200 nM corticotrophin-releasing factor (CRF) were sequentially added with 48 h-interval. PTW extract (500 µg/mL) was added 30 min before CRF treatment. IMO stress exacerbated TMA-induced scratching behavior by 252%, and increased their blood corticosterone levels by two-fold. Treatment with 250 mg/kg PTW significantly restored IMO stress-exacerbated scratching behavior and other indicators such as skin inflammation and water content, lymph node weights, and serum histamine and immunoglobulin E (lgE) levels. Furthermore, it also reversed TMA-stimulated expression of tumor necrosis factor (TNF)-α and interleukin (IL)-4 mRNAs in ear tissues. PTW significantly inhibited SP/CRF-stimulated degranulation of HMC-1 cells, subsequent tryptase secretion, and protein kinase A (PKA) activity. PTW also selectively inhibited p38 mitogen-activated protein kinase (MAPK) phosphorylation in SP/CRF-treated HMC-1 cells. PTW significantly inhibited HMC-1 cell degranulation and alleviated IMO stress-exacerbated atopic dermatitis symptoms by modulating the PKA/p38 MAPK signaling pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Cell Line",
+        "Chromatography, High Pressure Liquid",
+        "Cyclic AMP-Dependent Protein Kinases",
+        "Dermatitis, Atopic",
+        "Ear",
+        "Humans",
+        "Immobilization",
+        "Immunoglobulin E",
+        "Interleukin-4",
+        "MAP Kinase Signaling System",
+        "Male",
+        "Mast Cells",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Phytochemicals",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Polygala",
+        "Protein Kinase C",
+        "RNA, Messenger",
+        "Skin",
+        "Spectrometry, Mass, Electrospray Ionization",
+        "Stress, Psychological",
+        "Tumor Necrosis Factor-alpha",
+        "Water",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "26946836",
+      "title": "[HPLC Fingerprint and Active Components Determination of Polygala tenuifolia Root Bark and Root].",
+      "authors": [
+        "Yan-hua Zhang",
+        "Lu Bai",
+        "Zhen-yu Li",
+        "Fu-sheng Zhang",
+        "Xue-mei Qin"
+      ],
+      "journal": "Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials",
+      "publication_date": "2015-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To compare the difference between Polygala tenuifolia root bark and root using HPLC fingerprint analysis and active components determination. METHODS: Three main characteristic components including tenuifolin, polygalaxanthone III, and 3, 6'-disinapoly sucrose in different Polygala tenuifolia samples were determined by HPLC. The fingerprint methods were optimized. Then, the similarity evaluation and multivariate statistical analysis were applied in the post-processing data analysis. RESULTS: There was a high similarity in 15 batches of Polygala tenuifolia samples and its similarity coefficient was greater than 0. 9. The Polygala tenuifolia root bark and root could be clearly separated by the cluster analysis and/or the principal component analysis due to significant differences of the contents of polygalaxanthone III and 3 ,6'-disinapoly sucrose. In addition, the result of scatter plot showed that there was a high variation of tenuifolin content among all samples. The contents range of polygalaxanthone III and 3,6'-disinapoly sucrose in root bark varied relatively slight,while the content range of polygalaxanthone III in roots varied largely. Moreover,the stacked plots suggested that it was not reasonable to evaluate the quality of Polygala tenuifolia only by a single ingredient. Conclusion:The content of 3 ,6'-disinapoly sucrose varies more largely than the other two active components in Polygala tenuifolia root bark and root. Polygala tenuifolia root bark and root should be selected for different clinical treatment to ensure the accuracy of its clinical use.",
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Diterpenes, Kaurane",
+        "Glycosides",
+        "Plant Bark",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Polygala",
+        "Xanthones"
+      ]
+    },
+    {
+      "pmid": "26353692",
+      "title": "Crystalline Silver Nanoparticles by Using Polygala tenuifolia Root Extract as a Green Reducing Agent.",
+      "authors": [
+        "Sang Hui Jun",
+        "Song-Hyun Cha",
+        "Jinwoong Kim",
+        "Seonho Cho",
+        "Youmie Park"
+      ],
+      "journal": "Journal of nanoscience and nanotechnology",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Due to the emergence of multidrug-resistant bacteria, silver nanoparticles (AgNPs) have found interest as a new category of antibacterial agents. The toxicity of the chemicals involved in the commonly employed chemical methods for synthesizing AgNPs present limitations for subsequent pharmaceutical and biomedical applications. In this report, 70% aqueous ethanol extracts of Polygala tenuifolia root were used to reduce Ag+1 ions for AgNPs synthesis. The as-synthesized AgNPs were characterized via UV-Visible spectrophotometry, high resolution transmission electron microscopy, atomic force microscopy, X-ray diffraction, and Fourier transform infrared spectroscopy. A strong surface plasmon resonance band was observed at 414 nm. Images from the high resolution transmission electron microscopy and atomic force microscopy demonstrated the spherical and irregular shapes of the AgNPs were synthesized. The AgNP crystalline structure was confirmed by the strong diffraction peaks in the X-ray diffraction results and by the bright circular spots observed in selected-area electron diffraction, whose average diameter was measured to be 17.97 8.63 nm or 15.12 nm via high resolution transmission electron microscopy images or X-ray diffraction analysis, respectively. The as-synthesized AgNPs exerted the highest antibacterial activity against Escherichia coli among the tested Gram-positive and Gram-negative bacteria. The current method is eco-friendly, straightforward, cost-effective, biocompatible, and easily scaled up to produce of AgNPs for applications in the treatment of bacterial infections.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Bacterial Physiological Phenomena",
+        "Cell Survival",
+        "Crystallization",
+        "Green Chemistry Technology",
+        "Materials Testing",
+        "Metal Nanoparticles",
+        "Oxidation-Reduction",
+        "Particle Size",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Silver",
+        "Surface Properties"
+      ]
+    },
+    {
+      "pmid": "25666111",
+      "title": "Genotoxicity studies on the root extract of Polygala tenuifolia Willdenow.",
+      "authors": [
+        "Ki Young Shin",
+        "Beom Young Won",
+        "Hyun Jee Ha",
+        "Yeo Sang Yun",
+        "Hyung Gun Lee"
+      ],
+      "journal": "Regulatory toxicology and pharmacology : RTP",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The root of Polygala tenuifolia Willdenow has been used for the treatment against insomnia, amnesia, depression, palpitations with anxiety, and memory improvement. However, there is no sufficient background information on toxicological evaluation of the root to given an assurance of safety for developing dietary supplements and functional foods. As part of a safety evaluation, the potential genotoxicity of the root extract of P. tenuifolia was evaluated using a standard battery of tests (bacterial reverse mutation assay, chromosomal aberrations assay, and mouse micronucleus assay). In a reverse mutation assay using four Salmonella typhimurium strains and Escherichia coli, the extract did not increase the number of revertant colonies in any tester strain with or without metabolic activation by S9 mix, and did not cause chromosomal aberration in short-period test with the S9 mix or in the continuous (24h) test. A bone marrow micronucleus test in ICR mice dosed by oral gavage at doses up to 2000 mg/kg/day showed no significant or dose dependent increase in the frequency of micronucleated polychromatic erythrocytes (PCE). These results indicate that ingesting the rot extract P. tenuifolia is not genotoxic at the proper dose.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Line",
+        "Chromosome Aberrations",
+        "Cricetinae",
+        "DNA, Bacterial",
+        "Erythrocytes",
+        "Escherichia coli",
+        "Male",
+        "Mice, Inbred ICR",
+        "Micronuclei, Chromosome-Defective",
+        "Micronucleus Tests",
+        "Mutagenicity Tests",
+        "Mutation",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Polygala",
+        "Risk Assessment",
+        "Salmonella typhimurium"
+      ]
+    },
+    {
+      "pmid": "25501509",
+      "title": "Polygala tenuifolia polysaccharide (PTP) inhibits cell proliferation by repressing Bmi-1 expression and downregulating telomerase activity.",
+      "authors": [
+        "Fubin Zhang",
+        "Xiaowei Song",
+        "Li Li",
+        "Jingfang Wang",
+        "Leyuan Lin",
+        "Cong Li",
+        "Hongtao Li",
+        "Yanju Lv",
+        "Yinghua Jin",
+        "Ying Liu",
+        "Yu Hu",
+        "Tao Xin"
+      ],
+      "journal": "Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In our previous study, we isolated a homogeneous polysaccharide (PTP) with antitumor activity from the roots of Polygala tenuifolia. In view of the close correlation between Bmi-1 expression and progression of ovarian cancer, we intend to elucidate the mechanism of its activity by determining the Bmi-1 expression and the telomerase activity in human ovarian carcinoma OVCAR-3 cells following treatment with PTP at three concentrations of 0.5, 1, and 2 mg/mL for 48 h. MTT and colony-forming assays revealed that PTP had a significant inhibitory effect on the cell growth and colony formation of OVCAR-3 cells. Furthermore, Western blot and real-time PCR analysis showed that PTP inhibited Bmi-1 both in protein and transcript levels. Besides, the telomerase activity in OVCAR-3 cells was also downregulated after PTP treatment for 48 h. Taken together, the inhibitory effect of PTP on the cell growth was at least in part mediated via the downregulation of Bmi-1 expression and the telomerase activity in OVCAR-3 cells, and PTP might be a new candidate for chemotherapeutic agent against human ovarian cancer.",
+      "mesh_terms": [
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Ovarian Neoplasms",
+        "Polycomb Repressive Complex 1",
+        "Polygala",
+        "Polysaccharides",
+        "Telomerase"
+      ]
+    },
+    {
+      "pmid": "25501282",
+      "title": "Polygala tenuifolia polysaccharide PTP induced apoptosis in ovarian cancer cells via a mitochondrial pathway.",
+      "authors": [
+        "Fubin Zhang",
+        "Xiaowei Song",
+        "Li Li",
+        "Jingfang Wang",
+        "Leyuan Lin",
+        "Cong Li",
+        "Hongtao Li",
+        "Yanju Lv",
+        "Yinghua Jin",
+        "Ying Liu",
+        "Yu Hu",
+        "Tao Xin"
+      ],
+      "journal": "Tumour biology : the journal of the International Society for Oncodevelopmental Biology and Medicine",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "One purified polysaccharide protein tyrosine phosphatase (PTP) was isolated from the roots of Polygala tenuifolia. The aim of the present study is to investigate the antitumor effect of PTP on human ovarian cancer OVCAR-3 cells and explore the molecular mechanism of the action involved. The results of MTT assay and apoptosis detection assay showed that PTP inhibited cellular proliferation of OVCAR-3 cells and induced apoptotic cellular death via arresting cell circle at the G0/G1 phase. Reverse transcription-polymerase chain reaction (RT-PCR) and Western blot analysis identified that bcl-2 gradually decreased at both transcription and protein levels after PTP treatment for 48 h in OVCAR-3 cells, while those of bax, cytochrome c, caspase-3, and caspase-9 increased. In addition, the low expression of NF-κB in PTP-treated OVCAR-3 cells would trigger the extrinsic pathway of programmed cell death signaling in tumor cells. These results together suggest that PTP may induce apoptosis of OVCAR-3 cells through a mitochondrial pathway.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Mitochondria",
+        "NF-kappa B",
+        "Ovarian Neoplasms",
+        "Polygala",
+        "Polysaccharides",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "25431613",
+      "title": "Preclinical Safety of the Root Extract of Polygala tenuifolia Willdenow in Sprague-Dawley Rats and Beagle Dogs.",
+      "authors": [
+        "Ki Young Shin",
+        "Beom Young Won",
+        "Hyun Jee Ha",
+        "Yeo Sang Yun",
+        "Hyung Gun Lee"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The root of Polygala tenuifolia Willdenow has been used for the treatment of insomnia, depression, and amnesia. However, the toxicological properties of the herb have been overlooked, because it has been used for a long time for various purposes. In this study, we evaluated the preclinical safety of the root extract in rats and beagle dogs. First, the acute oral toxicity was tested in both rats and dogs. In the rats, only one female of 2 g/kg died, but no treatment-related death or clinical and gross findings were observed after the administration. No toxicological changes or mortalities related to the test substance were also observed after the administration in the dogs. Although vomiting, discoloration, or hemorrhage was found in some dogs, there were no serious abnormalities. Second, the subchronic toxicity was investigated in the rats. Two animals were found dead in the female group of 1,000 mg/kg/day, but there were no abnormal findings associated with the test substance. There also were no adverse effects on the clinical signs, body weight, and hematological and biochemical findings. Therefore, our results showed that the acute or subchronic toxicity of the root extract of Polygala tenuifolia might not be toxic to rats and dogs."
+    },
+    {
+      "pmid": "24076326",
+      "title": "The inhibition of JNK MAPK and NF-κB signaling by tenuifoliside A isolated from Polygala tenuifolia in lipopolysaccharide-induced macrophages is associated with its anti-inflammatory effect.",
+      "authors": [
+        "Kyoung-Su Kim",
+        "Dong-Sung Lee",
+        "Gi-Sang Bae",
+        "Sung-Joo Park",
+        "Dae-Gil Kang",
+        "Ho-Sub Lee",
+        "Hyuncheol Oh",
+        "Youn-Chul Kim"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2013-Dec-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The root of Polygala tenuifolia Willd. (Polygalaceae) is well known for its use in the treatment of neurasthenia, amnesia, and inflammation. In this study, we isolated phenyl propanoid type metabolite tenuifoliside A, one of the phenylpropanoids from P. tenuifolia, and investigated its anti-inflammatory effects in lipopolysaccharide (LPS)-stimulated RAW264.7 and murine peritoneal macrophages. The results showed that tenuifoliside A inhibited the production of nitric oxide (NO), inducible nitric oxide synthase (iNOS), prostaglandin E2 (PG E2), and cyclooxygenase (COX)-2. In addition, tenuifoliside A suppressed the production of pro-inflammatory cytokines, such as tumor necrosis factor (TNF)-α and interleukin (IL)-1β. We also evaluated the effects of tenuifoliside A on the activation of nuclear factor-kappaB (NF-κB). Tenuifoliside A inhibited the translocation of the NF-κB subunit p65 into the nucleus by interrupting the phosphorylation and degradation of inhibitor kappa B (IκB)-α in LPS-stimulated murine peritoneal macrophages. Moreover, we confirmed that the suppression of the inflammatory process by tenuifoliside A was mediated through the mitogen-activated protein kinases (MAPKs) pathway based on the fact that tenuifoliside A significantly decreased p-c-Jun N-terminal kinase (p-JNK) protein expression in LPS-stimulated murine peritoneal macrophages. Taken together, the anti-inflammatory effects of tenuifoliside A were mediated by the inhibition of the NF-κB and MAPK pathways. This study is the first report on the anti-inflammatory effects of tenuifoliside A, and the strong anti-inflammatory effects of tenuifoliside A provide potential compound to be developed as therapeutic for inflammatory diseases.",
+      "mesh_terms": [
+        "Active Transport, Cell Nucleus",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cell Nucleus",
+        "Cell Survival",
+        "Cyclooxygenase 2",
+        "Cytokines",
+        "DNA",
+        "Disaccharidases",
+        "I-kappa B Kinase",
+        "JNK Mitogen-Activated Protein Kinases",
+        "Lipopolysaccharides",
+        "Macrophages, Peritoneal",
+        "Mice",
+        "NF-kappa B",
+        "Nitric Oxide Synthase Type II",
+        "Polygala",
+        "RNA, Messenger",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "22944432",
+      "title": "Purification and antitumor activity of two acidic polysaccharides from the roots of Polygala tenuifolia.",
+      "authors": [
+        "Tao Xin",
+        "Fubin Zhang",
+        "Qiuying Jiang",
+        "Chunhong Chen",
+        "Dayong Huang",
+        "Yanju Lv",
+        "Weixi Shen",
+        "Yinghua Jin"
+      ],
+      "journal": "Carbohydrate polymers",
+      "publication_date": "2012-Nov-06",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Two acidic polysaccharide fractions (PTPa and PTPb) extracted from the roots of Polygala tenuifolia, were obtained by DEAE-Sephacel anion-exchange, and Sephadex G-100 gel-permeation chromatography. High-performance liquid chromatography (HPLC) identified that PTPa and PTPb was composed of Ara, Glc, Gal, Man and GlcUA in the proportion of 2.4:1.2:0.6:0.4:1.1 and 2.1:1.7:0.5:0.6:1.7, respectively. Their molecular weight was evaluated to be 5.9×10(4) (PTPa) and 2.5×10(4) Da (PTPb) as determined by high performance size exclusion chromatography (HPSEC). Pharmacological studies revealed PTPa and PTPb significantly inhibited the growth of A549 cells in vitro and exhibited significantly higher antitumor activity against solid tumor A549 in vivo than did a blank control. Moreover, treatment with two acidic polysaccharides caused an enhancement of superoxide dismutase (SOD) and catalase (CAT) activities in tumor-bearing mice and a reduction in thiobarbituric acid reactive substances (TBARS) level. Taken together, these results indicated that two acidic polysaccharides from the roots of P. tenuifolia may be useful as potent antitumor agents for the prevention of lung tumorigenesis.",
+      "mesh_terms": [
+        "Acids",
+        "Animals",
+        "Antineoplastic Agents",
+        "Antioxidants",
+        "Catalase",
+        "Cell Proliferation",
+        "Chromatography, Gel",
+        "Chromatography, High Pressure Liquid",
+        "Female",
+        "Humans",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Neoplasms, Experimental",
+        "Plant Roots",
+        "Polysaccharides",
+        "Superoxide Dismutase",
+        "Thiobarbituric Acid Reactive Substances",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "22840049",
+      "title": "Extraction, purification and antitumor activity of a water-soluble polysaccharide from the roots of Polygala tenuifolia.",
+      "authors": [
+        "Tao Xin",
+        "Fubin Zhang",
+        "Qiuying Jiang",
+        "Chunhong Chen",
+        "Dayong Huang",
+        "Yanju Li",
+        "Weixi Shen",
+        "Yinghua Jin"
+      ],
+      "journal": "Carbohydrate polymers",
+      "publication_date": "2012-Oct-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "One polysaccharide PTP was isolated and purified from the roots of Polygala tenuifolia. It consisted of galactose, glucose and galactose in the ratio of 3.1:3.7:2.5, and a small amount of rhamnose, mannose and xylose. 17 general amino acids were identified to be components of the protein-bound polysaccharide analyzed by automatic amino acid analyzer. In order to test the anti-cancer activity of PTP, we investigated its effect against the growth of human ovarian cancer cells SKOV3 in vitro and in ovarian cancer rats. The intracellular reactive oxygen species (ROS) and glutathione (GSH) in SKOV3 cells following PTP treatment were also quantified to explore the possible mechanism underlying the antitumor activity of the polysaccharide. The result showed that PTP is effective on inhibiting the proliferation of SKOV3 cells in a concentration-dependent manner. Furthermore, treatment with PTP caused a rapid depletion of intracellular GSH content and accumulation of intracellular ROS, thus resulting in the apoptosis, which may prove to be a pivotal mechanism for its cancer protection action. In addition, a significant tumor growth inhibition effect was observed in nude mice after PTP administration for 7 weeks. All above indicated PTP could be beneficial towards ovarian cancer therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Carcinoma",
+        "Cell Line, Tumor",
+        "Drugs, Chinese Herbal",
+        "Female",
+        "Humans",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Ovarian Neoplasms",
+        "Plant Roots",
+        "Polygala",
+        "Polysaccharides",
+        "Solubility",
+        "Water",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "21856398",
+      "title": "Anti-inflammatory effects of Polygala tenuifolia root through inhibition of NF-κB activation in lipopolysaccharide-induced BV2 microglial cells.",
+      "authors": [
+        "Myung-Hee Cheong",
+        "Sang-Ryong Lee",
+        "Hwa-Seung Yoo",
+        "Jin-Woo Jeong",
+        "Gi-Young Kim",
+        "Wun-Jae Kim",
+        "In-Chul Jung",
+        "Yung Hyun Choi"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2011-Oct-11",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: The root of Polygala tenuifolia Willd is a well-known traditional Oriental medicine and has been prescribed for treatment of dysfunction in memorial systems and various brain inflammatory diseases. The present study was designed to validate the anti-inflammatory effects of the water extract of Polygala tenuifolia root (WEPT). MATERIALS AND METHODS: The anti-inflammatory properties of WEPT were studied using lipopolysaccharide (LPS)-stimulated murine BV2 microglia model. As inflammatory parameters, the production of nitric oxide (NO), inducible NO synthase (iNOS), cyclooxygenase (COX)-2, prostaglandin E(2) (PGE(2)), tumor necrosis factor (TNF)-α, and interleukin (IL)-1β were evaluated. We also examined the extract's effect on the activity of nuclear factor-kappaB (NF-κB), and toll-like receptor 4 (TLR4) and myeloid differentiation factor 88 (Myd-88) expression. RESULTS: WEPT suppressed LPS-induced production of NO, PGE(2), and expression of iNOS and COX-2 in a dose-dependent manner, without causing cytotoxicity. It also significantly reduced generation of proinflammatory cytokines, including IL-1β and TNF-α. In addition, WEPT suppressed NF-κB translocation by blockade of IkappaB-α (IκB-α) degradation and inhibited TLR4 and Myd-88 expression in LPS-stimulated BV2 cells. CONCLUSIONS: These results indicate that the inhibitory effects of WEPT on LPS-stimulated inflammatory mediator production in BV2 microglia are associated with suppression of the NF-κB and toll-like receptor signaling pathways. Therefore, Polygala tenuifolia extracts may be useful in treatment of neurodegenerative diseases by inhibition of inflammatory mediator production in activated microglia.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cell Line",
+        "Cyclooxygenase 2",
+        "Dinoprostone",
+        "Dose-Response Relationship, Drug",
+        "I-kappa B Proteins",
+        "Inflammation Mediators",
+        "Interleukin-1beta",
+        "Lipopolysaccharides",
+        "Mice",
+        "Microglia",
+        "Myeloid Differentiation Factor 88",
+        "NF-KappaB Inhibitor alpha",
+        "NF-kappa B",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase Type II",
+        "Plant Extracts",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Polygala",
+        "RNA, Messenger",
+        "Solvents",
+        "Toll-Like Receptor 4",
+        "Tumor Necrosis Factor-alpha",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "21842381",
+      "title": "In vivo anthelmintic activity of Dryopteris crassirhizoma, Kochia scoparia, and Polygala tenuifolia against Dactylogyrus intermedius (Monogenea) in goldfish (Carassius auratus).",
+      "authors": [
+        "Cheng Lu",
+        "Hong-Yu Zhang",
+        "Jie Ji",
+        "Gao-Xue Wang"
+      ],
+      "journal": "Parasitology research",
+      "publication_date": "2012-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In order to find natural agents against Dactylogyrus intermedius in goldfish, petroleum ether, chloroform, ethyl acetate, acetone, and methanol extracts of three medicinal plants (Dryopteris crassirhizoma, Kochia scoparia, and Polygala tenuifolia) were screened for antiparasitic properties using in vivo anthelmintic efficacy assay. Among these extracts investigated, methanolic extract of D. crassirhizoma was observed the most effective with EC₅₀ value of 22.97 mg L⁻¹ after 48 h of exposure, which exhibited a 100% efficacy against D. intermedius at 60.00 mg L⁻¹, followed by the methanolic extracts of K. scoparia and P. tenuifolia with EC₅₀ values of 31.28 and 154.79 mg L⁻¹, showing 100% efficacy against D. intermedius at 60.00 and 500.00 mg L⁻¹, respectively. In addition, acute toxicity assay indicated that 48-h LC₅₀ values of methanolic extracts of D. crassirhizoma, K. scoparia, and P. tenuifolia were 4.10-, 2.27-, and 5.00-fold higher than the corresponding EC₅₀. The obtained results demonstrated that methanolic extracts of D. crassirhizoma, K. scoparia, and P. tenuifolia have the potential for the development of novel therapy for the control of D. intermedius in aquaculture.",
+      "mesh_terms": [
+        "Animals",
+        "Anthelmintics",
+        "Bassia scoparia",
+        "Dryopteris",
+        "Fish Diseases",
+        "Goldfish",
+        "Parasitic Sensitivity Tests",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Polygala",
+        "Trematoda",
+        "Trematode Infections"
+      ]
+    },
+    {
+      "pmid": "21634037",
+      "title": "Effects of the crude extract of Polygala tenuifolia Willd on human sperm in vitro.",
+      "authors": [
+        "Yi Qiu",
+        "Lei-guang Wang",
+        "Yi-fang Jia",
+        "Dan-tong Yang",
+        "Mei-hua Zhang",
+        "Yan-ping Zhang",
+        "Li-hong Zhang",
+        "Ling Gai"
+      ],
+      "journal": "Journal of Zhejiang University. Science. B",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of the present study is to analyze sperm membrane changes and the spermicidal effect in treatment with the crude extract from Polygala tenuifolia Willd (PTW) in vitro. The root of PTW was extracted in distilled water. Normal human spermatozoa were used to assess the spermicidal activity (Sander-Cramer assay) of the extract from the PTW root. The hypo-osmotic swelling (HOS) test and the eosin Y (EY) staining were used to detect the integrity of sperm membrane and vitality. The sperm chromatin dispersion (SCD) test was performed to determine sperm DNA integrity. N-9 was used as a reference standard and semen added to physiological saline was used as the control. Semen samples were donated by 42 healthy fertile men. The crude extract from the root of PTW could immobilize and kill 100% spermatozoa within 20 s in vitro at the concentrations of 20.0 and 10.0 mg/ml; at the concentration of 5.0 mg/ml, spermatozoa were immobilized in (39.5±3.2) s. In the groups of the crude extract from the root of PTW and N-9 solution, the rate of the normal HOS (tails swollen) and the white head (unstained) was 0%, and the rate of the abnormal HOS (tails unswollen) and red head (stained) was 100%. Sperm DNA fragmentation showed no change in exposure to the crude extract from the root of PTW and N-9 solution. The sperm revival test did not show any spermatozoa that recovered their motilities. The rapid spermicidal activity of the crude extract from the root of PTW in vitro may occur by the disruption of the sperm membrane integrity.",
+      "mesh_terms": [
+        "Complex Mixtures",
+        "DNA Fragmentation",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Male",
+        "Plant Extracts",
+        "Polygala",
+        "Spermatozoa"
+      ]
+    },
+    {
+      "pmid": "21585386",
+      "title": "Possible mechanism of the antidepressant effect of 3,6'-disinapoyl sucrose from Polygala tenuifolia Willd.",
+      "authors": [
+        "Yuan Hu",
+        "Ming Liu",
+        "Ping Liu",
+        "Dai-Hong Guo",
+        "Ri-Bao Wei",
+        "Khalid Rahman"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The present study was designed to observe the effects of 3,6'-disinapoyl sucrose (DISS), an active oligosaccharide ester component obtained from the roots of Polygala tenuifolia Willd., on behavioral and biochemical aspects of depression induced by chronic mild stress (CMS) in rats. It is the first exploration of the possible association between DISS's antidepressant-like effects and biochemical markers of depression, and involved measuring monoamine oxidase (MAO) activity, cortisol levels, superoxide dismutase (SOD) activity and malondialdehyde (MDA) levels. METHODS: Rats were exposed to stressor once daily for consecutive 5 weeks. DISS and a positive control drug, fluoxetine, were administered via gastric intubation to once daily for consecutive 3 weeks from the third week. KEY FINDINGS: The results showed that rats subjected to CMS exhibit a reduction in sucrose intake. Conversely, brain MAO-A and MAO-B activity, plasma cortisol levels, and MDA levels were increased, while SOD activity was decreased following CMS exposures. DISS significantly inhibited MAO-A and MAO-B activity and blocked plasma elevated cortisol level, an indicator of the hypothalamic-pituitary-adrenal (HPA) axis. In addition, DISS increases SOD activity, inhibits lipid peroxidation, and lessens production of MDA. CONCLUSION: These results suggest that DISS may possess potent and rapid antidepressant properties, which are mediated via MAO, the HPA axis and oxidative systems. These antidepressant actions make DISS a potentially valuable drug for the treatment of depression.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Biomarkers",
+        "Brain",
+        "Coumaric Acids",
+        "Depression",
+        "Energy Intake",
+        "Hydrocortisone",
+        "Hypothalamo-Hypophyseal System",
+        "Lipid Peroxidation",
+        "Male",
+        "Malondialdehyde",
+        "Monoamine Oxidase",
+        "Phytotherapy",
+        "Pituitary-Adrenal System",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Stress, Psychological",
+        "Sucrose",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "18693285",
+      "title": "Effects of Polygala tenuifolia root extract on proliferation of neural stem cells in the hippocampal CA1 region.",
+      "authors": [
+        "Hyun-Ju Park",
+        "Kiwon Lee",
+        "Hwon Heo",
+        "Myoungsun Lee",
+        "Jong Woo Kim",
+        "Wei Wan Whang",
+        "Yunhee Kim Kwon",
+        "Hyockman Kwon"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2008-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Neurogenesis persists in the adult mammalian brain and can be a target for modulation for therapeutic purposes. This study investigated the effect of a Polygala tenuifolia root extract on the proliferation of a stem cell population in the rat hippocampus. The root extract of P. tenuifolia (2 mg/kg/day, 14 times intraperitoneal injections) increased the incorporation of bromodeoxyuridine (BrdU) into cells in the hippocampal CA1 region. This activity was enriched in the saponin-containing fraction. The majority of cells labelled with BrdU were immunoreactive to nestin or Tuj1 and the percentages of nestin/BrdU- and Tuj1/BrdU-double positive cells were increased by the P. tenuifolia root extract, suggesting that the P. tenuifolia root extract promotes the proliferation of neural stem cells. In addition, this extract promoted the neurite outgrowth of rat neuronal precursor cells, HiB5. These activities of P. tenuifolia root extract may contribute to the therapeutic benefits of herbal medicines containing P. tenuifolia root for the treatment of patients with insomnia, neurosis and dementia.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Line",
+        "Cell Proliferation",
+        "Hippocampus",
+        "Immunohistochemistry",
+        "Male",
+        "Nervous System",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Stem Cells"
+      ]
+    },
+    {
+      "pmid": "16946504",
+      "title": "Characterization of anti-neurodegenerative effects of Polygala tenuifolia in Abeta(25-35)-treated cortical neurons.",
+      "authors": [
+        "Rie Naito",
+        "Chihiro Tohda"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "2006-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Although Polygala tenuifolia WILLD (PT) was classically mentioned as an anti-dementia drug in Chinese and Japanese traditional medicine, basic research showed only enhancement of the cholinergic function. In Alzheimer's disease, neuritic atrophy and synaptic loss occur prior to neuronal death event, and may be the first trigger of the memory impairment. Therefore, we studied effects of Polygala tenuifolia WILLD (PT) on Abeta(25-35)-induced neuronal damage using rat cortical neurons for characterization of activities of PT under Abeta-induced neuronal damage. Treatment with the water extract of PT enhanced axonal length dose-dependently after Abeta(25-35)-induced axonal atrophy. However, dendritic atrophy and synaptic loss induced by Abeta(25-35) were not recovered by treatment with PT extract. In contrast, Abeta(25-35)-induced cell damage was completely inhibited by PT extract. By characterization of PT effects on neuronal morphological plasticity and cell damage, usefulness as well as an insufficiency of PT as an anti-dementia drug was clarified.",
+      "mesh_terms": [
+        "Amyloid beta-Peptides",
+        "Animals",
+        "Axons",
+        "Cells, Cultured",
+        "Cerebral Cortex",
+        "Dendrites",
+        "Female",
+        "Neurodegenerative Diseases",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Polygala",
+        "Pregnancy",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "16437744",
+      "title": "Effect of Polygala tenuifolia root extract on cerebral ischemia and reperfusion.",
+      "authors": [
+        "Jin-Hyuk Park",
+        "Jin Sook Kim",
+        "Dae Sik Jang",
+        "Sun-Mee Lee"
+      ],
+      "journal": "The American journal of Chinese medicine",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In this study, the effects of Polygala tenuifolia root extract on brain ischemia/reperfusion injury in Mongolian gerbils were investigated. The gerbils were administered ethanol extract of P. tenuifolia and its four sub-fractions orally 2 hours prior to ischemia, and were subjected to a 20-minute no-flow cerebral ischemia in vivo. Thirty minutes and 72 hours after reperfusion, the brain was removed and the ATP, lactate and lipid peroxide levels were determined, and the neurons in the hippocampal CA1 subfield were examined. In the vehicle-treated ischemic gerbils, the brain ATP levels decreased significantly, but this decrease was prevented by pre-treatment with an n-butanol fraction of P. tenuifolia. In contrast, both the lactate content and lipid peroxidation levels were elevated in the vehicle-treated ischemic animals, but this elevation was inhibited by ethanol extract and n-butanol fraction of P. tenuifolia, respectively. Both the ethanol extract and n-butanol fraction of P. tenuifolia attenuated post-ischemic neuronal necrosis in the hippocampal CA1 subfield. Our findings suggest that both ethanol extract and n-butanol fraction of P. tenuifolia root can reduce brain damage during ischemia and reperfusion, and prevent lipid peroxidation and preserve the energy metabolism.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Animals",
+        "Apoptosis",
+        "Brain",
+        "Brain Ischemia",
+        "Gerbillinae",
+        "Lactic Acid",
+        "Lipid Peroxidation",
+        "Male",
+        "Malondialdehyde",
+        "Neurons",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Reperfusion",
+        "Reperfusion Injury"
+      ]
+    },
+    {
+      "pmid": "15464827",
+      "title": "Attenuation of cocaine-induced conditioned place preference by Polygala tenuifolia root extract.",
+      "authors": [
+        "Eun-Joo Shin",
+        "Ki-Wan Oh",
+        "Kee-Won Kim",
+        "Yong Soo Kwon",
+        "Jin Hyeong Jhoo",
+        "Wang-Kee Jhoo",
+        "Joo-Young Cha",
+        "Yong Kwang Lim",
+        "In Soon Kim",
+        "Hyoung-Chun Kim"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2004-Oct-22",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A recent investigation indicated that Polygala tenuifolia Willdenow extract (PTE) possesses a potential antipsychotic effect. In this study, we examined the effects of PTE on the cocaine-induced changes in locomotor activity, conditioned place preference (CPP), fos-related antigen-immunoreactivity (FRA-IR), and activator protein (AP)-1 DNA binding activity. Cocaine-induced behavioral effects (hyperlocomotion and CPP) occurred in parallel with increases in FRA-IR and AP-1 DNA binding activity in the nucleus accumbens. These responses induced by cocaine were consistently attenuated by concurrent treatment with PTE (25 mg or 50 mg/kg/day, i.p. x 7). The adenosine A2A receptor antagonist, 1,3,7-trimethyl-8-(3-chlorostyrl)xanthine (0.5 or 1.0 mg/kg, i.p.), reversed the PTE-mediated pharmacological action in a dose related manner; neither the adenosine A(1) receptor antagonist, 8-cyclopentyl-1,3-dimethylxanthine (0.5 or 1.0 mg/kg, i.p.) nor the A2B receptor antagonist, alloxazine (1.5 or 3.0 mg/kg, i.p.) significantly affected this pharmacological action. Our results suggest that PTE prevents cocaine-induced behavioral effects, at least in part, via the activation of the adenosine A2A receptor.",
+      "mesh_terms": [
+        "Analysis of Variance",
+        "Animals",
+        "Autoradiography",
+        "Cocaine",
+        "DNA",
+        "Immunohistochemistry",
+        "Locomotion",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Nucleus Accumbens",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Proto-Oncogene Proteins c-fos",
+        "Purinergic P1 Receptor Antagonists",
+        "Spatial Behavior",
+        "Transcription Factor AP-1"
+      ]
+    },
+    {
+      "pmid": "15374606",
+      "title": "Effect of Polygala tenuifolia root on behavioral disorders by lesioning nucleus basalis magnocellularis in rat.",
+      "authors": [
+        "Yung-Li Chen",
+        "Ching-Liang Hsieh",
+        "Ping-Hsien Benson Wu",
+        "Jaung-Geng Lin"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2004-Nov",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: We investigated whether an aqueous extract of Polygala tenuifolia Willd (PTW) could improve the rats' memory and behavioral disorders produced by lesioning nucleus basalis magnocellularis (NBM) in rats. The animals were divided into four groups for surgery, and following that they were orally administered PTW extract for 7 and 21 days. Each group consisted of eight male Sprague-Dawley rats and were treated as follows: CONTROL: no surgery (n = 8), PBS: 1M (mol/L) phosphate buffered saline (n = 8), IBO: 0.12 M (n = 8), QUIS: 0.12 M (n = 8). Two 0.5 microL injections were made in the vicinity of the bilateral side of the nucleus basalis magnocellularis (NBM). All rats were tested in the neurological tests and the step-through passive avoidance memory test during pre-surgery, surgery and post-surgery drug treatment. The results suggest that PTW extract has some repairing effects on the memory and behavioral disorders produced by lesioning of the NBM in rats.",
+      "mesh_terms": [
+        "Animals",
+        "Basal Nucleus of Meynert",
+        "Male",
+        "Mental Disorders",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "12725562",
+      "title": "Induction of NGF synthesis in astrocytes by onjisaponins of Polygala tenuifolia, constituents of kampo (Japanese herbal) medicine, Ninjin-yoei-to.",
+      "authors": [
+        "T Yabe",
+        "H Tuchida",
+        "H Kiyohara",
+        "T Takeda",
+        "H Yamada"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2003-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effect of a kampo medicine, Ninjin-yoei-to (NYT; Ren-shen-yang-rong-tang in Chinese) on nerve growth factor (NGF) secretion from the cultured rat astrocytes was examined in vitro. When rat embryo astrocytes were cultured in the presence of NYT for 24 h, the amount of NGF in the medium was significantly increased in a dose dependent manner. Among 14 kinds of component herbs in NYT, the roots of Polygala tenuifolia and roots of Panax ginseng extracts increased NGF levels from the astrocytes. Saponin fraction from the roots of P. tenuifolia enhanced the production of NGF, however phenolic glycoside fraction showed no effect. Onjisaponins A, B, E, F and G as major saponins of the root of P. tenuifolia strongly increased the NGF level, whereas ginsenosides Rb1 and Rg1 did not affect the NGF level. Onjisaponin F also induced ChAT mRNA level in rat basal forebrain cells. These results indicate the possibility that NYT and/or onjisaponins in P. tenuifolia may have potential therapeutic effects for the treatment of Alzheimer disease patients.",
+      "mesh_terms": [
+        "Animals",
+        "Astrocytes",
+        "Cells, Cultured",
+        "Drugs, Chinese Herbal",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Ginsenosides",
+        "Medicine, Kampo",
+        "Nerve Growth Factor",
+        "Panax",
+        "Plant Extracts",
+        "Plant Roots",
+        "Polygala",
+        "RNA, Messenger",
+        "Rats",
+        "Saponins",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "9705011",
+      "title": "Effect of Polygala tenuifolia root extract on the tumor necrosis factor-alpha secretion from mouse astrocytes.",
+      "authors": [
+        "H M Kim",
+        "E H Lee",
+        "H J Na",
+        "S B Lee",
+        "T Y Shin",
+        "Y S Lyu",
+        "N S Kim",
+        "S Nomura"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "1998-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We investigated whether an aqueous extract of Polygala tenuifolia root (PTAE) inhibits secretion of tumor necrosis factor-alpha (TNF-alpha) from primary cultures of mouse astrocytes. PTAE dose-dependently inhibited the TNF-alpha secretion by astrocytes stimulated with substance P (SP) and lipopolysaccharide (LPS). Interleukin-1 (IL-1) has been shown to elevate TNF-alpha secretion from LPS-stimulated astrocytes while having no effect on astrocytes in the absence of LPS. We therefore also investigated whether IL-1 mediated inhibition of TNF-alpha secretion from primary astrocytes by PTAE. Treatment of PTAE to astrocytes stimulated with both LPS and SP decreased IL-1 secretion to the level observed with LPS alone. Moreover, incubation of astrocytes with IL-1 antibody abolished the synergistic co-operative effect of LPS and SP. These results suggest that PTAE may inhibit TNF-alpha secretion by inhibiting IL-1 secretion and that PTAE has an anti-inflammatory activity on the central nervous system curing some pathological disease states.",
+      "mesh_terms": [
+        "Animals",
+        "Astrocytes",
+        "Dose-Response Relationship, Drug",
+        "Interleukin-1",
+        "Korea",
+        "Medicine, East Asian Traditional",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Plant Extracts",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "2508667",
+      "title": "[Observation on propagating experiments with Polygala tenuifolia Willd seed].",
+      "authors": [
+        "H Xue"
+      ],
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publication_date": "1989-Aug",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "This paper reports the harvesting and storing of Polygala tenuifolia seed, the operating process and method of seed propagation both in the laboratory and in the field, the relationship between Palygala tenuifolia seed germination, seed treatment and temperature and humidity, and the importance of suitable conditions and climatic factors in the sexual propagation of the seed.",
+      "mesh_terms": [
+        "Climate",
+        "Medicine, Chinese Traditional",
+        "Plants, Medicinal",
+        "Seeds",
+        "Temperature"
+      ]
+    }
+  ]
+}

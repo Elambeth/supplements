@@ -1,0 +1,1220 @@
+{
+  "supplement": "Evodia rutaecarpa",
+  "query": "Evodia rutaecarpa[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:33:38",
+  "research_count": 38,
+  "count": 38,
+  "articles": [
+    {
+      "pmid": "40148293",
+      "title": "Exploring the Therapeutic Potential of Evodia rutaecarpa in Early-Onset Pancreatic Cancer: A Network Pharmacology and Molecular Docking Approach.",
+      "authors": [
+        "Md Imran Hasan",
+        "Kh Mujahidul Islam",
+        "Md Nahid Hasan",
+        "Md Mizanur Rahman",
+        "Md Habibur Rahman",
+        "Seungjoon Moon",
+        "Moon Nyeo Park",
+        "Han Na Kang",
+        "Bonglee Kim"
+      ],
+      "journal": "Current pharmaceutical design",
+      "publication_date": "2025-Mar-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Pancreatic cancer (PC) remains a formidable challenge in cancer, which requires innovative approaches to identify novel therapeutic strategies. Evodia rutaecarpa, a traditional herbal remedy known for its analgesic and antiemetic properties, has been reported to exhibit anticancer effects. METHOD: We employed network pharmacology to elucidate the bioactive ingredients of Evodia rutaecarpa and their potential targets in the context of early-onset pancreatic cancer. By integrating data from public databases, we identified genes associated with PC and developed a protein-protein interaction (PPI) network. Topological analysis of the PPI network facilitated the identification of core targets, which were subsequently subjected to molecular docking with corresponding bioactive ingredients of Evodia rutaecarpa. The computational approach aimed to unveil the pharmacological mechanisms of basic putative crucial proteins and associated pathways implicated in early-onset PC. Pathway and GO analysis highlighted the significant involvement of Evodia rutaecarpa in pathways such as cAMP signaling, cytokine-cytokine receptor interaction, rheumatoid arthritis, interleukin signaling, bladder cancer, IL-17, IL-24 signaling, cytokine-mediated signaling, chemokine, and calcium-mediated signaling. RESULTS: Further exploration focused on a hub protein module derived from PPIs, with molecular docking emphasizing strong binding interactions between Evodia rutaecarpa and ERBB2, a protein strongly implicated in PC management compared to other identified hub proteins (STAT1, ERBB2, CXCL10, INS, RACK1, FOS, HLA-DRB1, POMC, PRKAA1). Additionally, the pharmacokinetic analysis of Evodia rutaecarpa indicated its efficacy as a therapeutic agent with minimal adverse effects. Rutaecarpine, identified as the main bioactive ingredient, emerged as a potential inhibitor of PC growth through the suppression of ERBB2. CONCLUSION: These outcomes provide novel insights into the prevention and treatment of PC, presenting Evodia rutaecarpa as a promising candidate for further experimental validation and clinical exploration. The identified discovery has the potential to reduce the drug resistance of Evodia rutaecarpa by engaging with a new target in a specific manner, thus improving therapeutic effectiveness."
+    },
+    {
+      "pmid": "39977411",
+      "title": "The effectiveness of Evodia rutaecarpa hot compress on the recovery of gastrointestinal function after laparoscopic surgery for colorectal cancer: A propensity score-matched retrospective cohort study.",
+      "authors": [
+        "Miaoxin Huang",
+        "Junmiao Li",
+        "Wei Huang",
+        "Yuling Zhou",
+        "Lei Cai",
+        "Ming Liu"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Although the use of hot compresses with the herbal medicine Evodia rutaecarpa (ER) as a complementary and alternative therapy to promote recovery of postoperative gastrointestinal function is gradually increasing in clinical practice, there is still a lack of relevant empirical studies. Particularly, the role of ER hot compress therapy on gastrointestinal recovery post-laparoscopic surgery for colorectal cancer has not been well investigated. The purpose of this study is to evaluate the efficacy and applicability of ER hot compress therapy for the recovery of postoperative gastrointestinal function. METHODS: This is a retrospective cohort study. Patients were divided into two cohorts, the ER group and the non-ER group. Propensity score matching(PSM) was introduced to limit confounding, and independent samples t-tests, non-parametric tests, or Chi-squared tests were used to compare these two cohorts. RESULTS: A total of 454 patients were included, with 267 (59%) receiving ER hot compress therapy and 187 (41%) not. After 1:1 PSM, 320 patients were analyzed (160 in each group). Compared to the ER group, patients in the non-ER group had shorter times to return to a semi-liquid diet (p = 0.030) and hospital stay (p<0.001), as well as lower hospital costs (p<0.001). Subgroup analyses revealed no statistically significant differences in the length of hospital stay, hospital costs, postoperative time to return to full-liquid diet, or time to return to semi-liquid diet among stage I and II tumor patients. However, except for hospital costs, the means and standard deviations of the other indicators were generally lower in the ER group. Complication incidence showed no significant difference between the two cohorts before and after PSM. CONCLUSIONS: The use of ER hot packs after laparoscopic surgery in patients with colorectal cancer has a non-significant effect on the recovery of the gastrointestinal function and, given the results of the study, it is likely that patients with early-stage tumors may benefit more. Therefore, healthcare providers need to consider the individualization, practicality, and economics of treatment options.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Colorectal Neoplasms",
+        "Retrospective Studies",
+        "Laparoscopy",
+        "Middle Aged",
+        "Aged",
+        "Propensity Score",
+        "Evodia",
+        "Length of Stay",
+        "Recovery of Function",
+        "Treatment Outcome",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "39434543",
+      "title": "The active ingredient of Evodia rutaecarpa reduces inflammation in knee osteoarthritis rats through blocking calcium influx and NF-κB pathway.",
+      "authors": [
+        "Yan Gao",
+        "Sixiang Wang",
+        "Yuehong Gao",
+        "Li Yang"
+      ],
+      "journal": "Basic & clinical pharmacology & toxicology",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic inflammation significantly contributes to the progression of osteoarthritis (OA), and an anti-inflammatory small molecule derived from medicinal herbs could be a potential drug candidate for OA. Herein, we investigated the function and mechanism of Evodiamine (EAE), the active ingredient from Evodia rutaecarpa, in chondrocytes and macrophages in vitro and in vivo. The cytotoxicity of EAE was determined using an MTT assay. And the anti-inflammatory and anti-extracellular matrix (ECM) degradation effects of EAE were investigated using qRT-PCR, western blot (WB), immunofluorescence (IF). Inductively Coupled Plasma Atomic Emission Spectrometry (ICP-AES), Fluo-4 AM, IF and AutoDock were used to elucidate the molecular mechanisms and signalling pathways of the reducing-inflammatory properties of EAE on chondrocytes in vitro. Moreover, the effect of EAE on macrophage polarization was detected by IF and flow cytometry (FC). Ultimately, we explored the in vivo therapeutic efficacy of EAE in an anterior cruciate ligament transection (ACLT)-induced OA model. The finding demonstrated that EAE blocked the phosphorylation of IKBα and Ca2+ influx, thereby curbing inflammation and ECM degradation. Additionally, EAE can prevent the polarization towards the M1 phenotype. Thus, our findings suggest that EAE has great potential as a therapeutic drug for the treatment of OA.",
+      "mesh_terms": [
+        "Animals",
+        "NF-kappa B",
+        "Chondrocytes",
+        "Rats",
+        "Osteoarthritis, Knee",
+        "Macrophages",
+        "Rats, Sprague-Dawley",
+        "Anti-Inflammatory Agents",
+        "Male",
+        "Evodia",
+        "Quinazolines",
+        "Calcium",
+        "Signal Transduction",
+        "Disease Models, Animal",
+        "Inflammation",
+        "Plant Extracts",
+        "NF-KappaB Inhibitor alpha",
+        "Phosphorylation"
+      ]
+    },
+    {
+      "pmid": "38231254",
+      "title": "KIT-SNAP-tag/cell membrane chromatography model coupled with liquid chromatography-mass spectrometry for anti-GIST compound screening from Evodia rutaecarpa.",
+      "authors": [
+        "Jingting Feng",
+        "Yuhan Jiang",
+        "Sihan Liu",
+        "Linge Deng",
+        "Yanni Lv",
+        "Nanzheng Chen",
+        "Shengli Han"
+      ],
+      "journal": "Analytical and bioanalytical chemistry",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Gastrointestinal mesenchymal tumors, as the most common mesenchymal tumors in the gastrointestinal tract, are adjuvantly treated with multi-targeted tyrosine kinase inhibitors, such as imatinib and sunitinib, but there are problems of drug resistance and complex methods of monitoring therapeutic agents. The pathogenesis of this disease is related to mutations in tyrosine kinase (KIT) or platelet-derived growth factor receptor α, an important target for drug therapy. In recent years, the screening of relevant tyrosine kinase inhibitors from traditional Chinese medicine has become a hotspot in antitumor drug research. In the current study, the KIT-SNAP-tag cell membrane chromatography (KIT-SNAP-tag/CMC) column was prepared with satisfying specificity, selectivity, and reproducibility by chemically bonding high KIT expression cell membranes to the silica gel surface using the SNAP-tag technology. The KIT-SNAP-tag/CMC-HPLC-MS two-dimensional coupling system was investigated using the positive drug imatinib, and the results showed that the system was a reliable model for screening potential antitumor compounds from complex systems. This system screened and identified three potential active compounds of evodiamine (EVO), rutaecarpin (RUT), and dehydroevodiamine (DEVO), which possibly target the KIT receptor, from the alcoholic extract of the traditional Chinese medicine Evodia rutaecarpa. Then, the KD values of the interaction of EVO, RUT, and DEVO with KIT receptors measured using nonlinear chromatography were 7.75 (±4.93) × 10-6, 1.42 (±0.71) × 10-6, and 2.34 (±1.86) × 10-6 mol/L, respectively. In addition, the methyl thiazolyl tetrazolium assay validated the active effects of EVO and RUT in inhibiting the proliferation of high KIT-expressing cells in the ranges of 0.1-10 µmol/L and 0.1-50 µmol/L, respectively. In conclusion, the KIT-SNAP-tag/CMC could be a reliable model for screening antitumor components from complex systems.",
+      "mesh_terms": [
+        "Humans",
+        "Imatinib Mesylate",
+        "Evodia",
+        "Liquid Chromatography-Mass Spectrometry",
+        "Reproducibility of Results",
+        "Tyrosine Kinase Inhibitors",
+        "Receptor Protein-Tyrosine Kinases",
+        "Gastrointestinal Neoplasms",
+        "Cell Membrane"
+      ]
+    },
+    {
+      "pmid": "38173117",
+      "title": "Therapeutic Effects of the major alkaloid constituents of Evodia rutaecarpa in Alzheimer's disease.",
+      "authors": [
+        "Qingyu Cao",
+        "Peiliang Dong",
+        "Hua Han"
+      ],
+      "journal": "Psychogeriatrics : the official journal of the Japanese Psychogeriatric Society",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Since the report of Alzheimer's disease (AD) in 1907, it has garnered widespread attention due to its intricate pathogenic mechanisms, significant impact on patients' lives, and the substantial burden it places on society. Presently, effective treatments for AD remain elusive. Recent pharmacological studies on the traditional East Asian herb, Evodia rutaecarpa, have revealed that the bioactive alkaloid components within it can ameliorate AD-related cognitive impairments and neurological damage through various pathways, including anti-inflammatory, antioxidant, and anti-acetylcholinesterase activities. Consequently, this article provides an overview of the pharmacological effects and research status of the four main alkaloid components found in Evodia concerning AD. We hope this article will serve as a valuable reference for experimental and clinical research on the use of Evodia in AD prevention and treatment.",
+      "mesh_terms": [
+        "Humans",
+        "Evodia",
+        "Alzheimer Disease",
+        "Alkaloids",
+        "Antineoplastic Agents",
+        "Antioxidants"
+      ]
+    },
+    {
+      "pmid": "38034776",
+      "title": "The study of therapeutic efficacy and mechanisms of Schisandra chinensis and Evodia rutaecarpa combined treatment in a rat model of Alzheimer's disease.",
+      "authors": [
+        "Qingyu Cao",
+        "Jiaqi Liu",
+        "Chengguo Pang",
+        "Kemeng Liu",
+        "Ruijiao Wang",
+        "Yuanjin Chen",
+        "Xu Yuan",
+        "Meng Zhang",
+        "Jiating Ni",
+        "Peiliang Dong",
+        "Hua Han"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: Schisandra chinensis and Evodia rutaecarpa are traditional Chinese herbs used to treat neurodegenerative diseases. This study investigates the combined effects of SC and ER on learning and memory in an Alzheimer's disease rat model and their underlying mechanisms. METHODS: High-performance liquid chromatography was employed to analyze the primary active constituents of Schisandra and Evodia. The effects of the combined treatment of Schisandra and Evodia on learning and memory in an Alzheimer's disease rat model were evaluated through Morris water maze and Hematoxylin-Eosin staining experiments. Immunohistochemical analysis was conducted to investigate the impact of S-E on Aβ1-42 and P-tau proteins. Western blotting and real-time quantitative polymerase chain reaction were utilized to quantify the expression of pivotal proteins and genes within the BDNF/TRKB/CREB and GSK-3β/Tau pathways. RESULTS: The treatment group exhibited significant neuroprotective effects, ameliorating learning and memory impairments in the Alzheimer's disease rat model. The treatment regimen modulated the activity of the BDNF/TRKB/CREB and GSK-3β/Tau pathways by influencing the expression of relevant genes, thereby reducing the generation of Aβ1-42 and P-Tau proteins and inhibiting the deposition of senile plaques. Furthermore, among the three treatment groups, the combined treatment demonstrated notably superior therapeutic effects on Alzheimer's disease compared to the single-drug treatment groups."
+    },
+    {
+      "pmid": "37801896",
+      "title": "Coptidis Rhizoma processed with Evodia Rutaecarpa improves the effect on ulcerative colitis by increasing intestinal energy metabolites alpha-ketoglutarate and Lactobacillus reuteri.",
+      "authors": [
+        "Zhen-Ye Luo",
+        "Yin-Xia Hu",
+        "Chuan-Wei Qiu",
+        "Wei-Cong Chen",
+        "Li Li",
+        "Fei-Long Chen",
+        "Chang-Shun Liu"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Evodia Rutaecarpa-processed Coptidis Rhizoma (ECR) is a traditional Chinese medicine for the treatment of ulcerative colitis (UC) in China. However, the mechanisms underlying the ECR processing are not elucidated. PURPOSE: Coptidis Rhizoma (CR) regulates the gut microbiota in the treatment of gastrointestinal diseases. This study explored the mechanism of action of ECR before and after processing in UC in view of the regulation of gut microecology. STUDY DESIGN: A preclinical experimental investigation was performed using a mouse model of UC to examine the regulatory effect of ECR and its mechanisms through gut microbiota analysis and metabolomic assays. METHODS: Mice received 4% dextran sulfate sodium to establish a UC model and treated with ECR and CR. Colonic histopathology and inflammatory changes were observed. Gut microbiota was analyzed using 16 s rRNA sequencing. Transplants of Lactobacillus reuteri were used to explore the correlation between ECR processing and the gut microbiota. The expression of mucin-2, Lgr5, and PCNA in colonic epithelial cells was measured using immunofluorescence. Wnt3a and β-catenin levels were detected by western blotting. The metabolites in the colon tissue were analyzed using a targeted energy metabolomic assay. The effect of energy metabolite α-ketoglutarate (α-KG) on L. reuteri growth and UC were verified in mice. RESULTS: ECR improved the effects on UC in mice compared to CR, including alleviating colonic injury and inflammation, and modulating gut microbiota by increasing L. reuteri level. L. reuteri dose-dependently alleviated colonic injury, increased mucin-2 level, and promoted colonic epithelial regeneration by increasing Lgr5 and PCNA expression. This was consistent with the results before and after ECR processing. L. reuteri promoted epithelial regeneration by upregulating Wnt/β-catenin pathway. Moreover, ECR increased metabolites levels (especially α-KG) to promote energy metabolism in the colon tissue compared to CR. α-KG treatment increased L. reuteri level and alleviated mucosal damage in UC mice. It promoted L. reuteri growth by increasing the energy metabolic status by enhancing α-KG dehydrogenase activity. CONCLUSION: ECR processing improves the therapeutic effects of UC via the α-KG-L. reuteri-epithelial regeneration axis.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Colitis, Ulcerative",
+        "Ketoglutaric Acids",
+        "Drugs, Chinese Herbal",
+        "Evodia",
+        "Limosilactobacillus reuteri",
+        "Mucin-2",
+        "beta Catenin",
+        "Proliferating Cell Nuclear Antigen",
+        "Colon",
+        "Disease Models, Animal",
+        "Dextran Sulfate",
+        "Colitis",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "37741256",
+      "title": "Major Indole Alkaloids in Evodia Rutaecarpa: The Latest Insights and Review of Their Impact on Gastrointestinal Diseases.",
+      "authors": [
+        "Liulin Chen",
+        "Yu Hu",
+        "Zhen Ye",
+        "Linzhen Li",
+        "Huanzhu Qian",
+        "Mingquan Wu",
+        "Kaihua Qin",
+        "Nan Li",
+        "Xudong Wen",
+        "Tao Pan",
+        "Qiaobo Ye"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Evodia rutaecarpa, the near-ripe fruit of Euodia rutaecarpa (Juss.) Benth, Euodia rutaecarpa (Juss.) Benth. var. officinalis (Dode) Huang, or Euodia rutaecarpa (Juss.) Benth. var. bodinieri (Dode) Huang, is a famous herbal medicine with several biological activities and therapeutic values, which has been applied for abdominalgia, abdominal distension, vomiting, and diarrhea as a complementary and alternative therapy in clinic. Indole alkaloids, particularly evodiamine (EVO), rutaecarpine (RUT), and dedhydroevodiamine (DHE), are received rising attention as the major bioactivity compounds in Evodia rutaecarpa. Therefore, this review summarizes the physicochemical properties, pharmacological activities, pharmacokinetics, and therapeutic effects on gastrointestinal diseases of these three indole alkaloids with original literature collected by PubMed, Web of Science Core Collection, and CNKI up to June 2023. Despite sharing the same parent nucleus, EVO, RUT, and DHE have different structural and chemical properties, which result in different advantages of biological effects. In their wide range of pharmacological activities, the anti-migratory activity of RUT is less effective than that of EVO, and the neuroprotection of DHE is significant. Additionally, although DHE has a higher bioavailability, EVO and RUT display better permeabilities within blood-brain barrier. These three indole alkaloids can alleviate gastrointestinal inflammatory in particular, and EVO also has outstanding anti-cancer effect, although clinical trials are still required to further support their therapeutic potential.",
+      "mesh_terms": [
+        "Humans",
+        "Evodia",
+        "Indole Alkaloids",
+        "Plants, Medicinal",
+        "Plant Extracts",
+        "Gastrointestinal Diseases",
+        "Fruit"
+      ]
+    },
+    {
+      "pmid": "37570816",
+      "title": "Elucidation of Pharmacological Mechanism Underlying the Anti-Alzheimer's Disease Effects of Evodia rutaecarpa and Discovery of Novel Lead Molecules: An In Silico Study.",
+      "authors": [
+        "Lulu Zhang",
+        "Jia Xu",
+        "Jiejie Guo",
+        "Yun Wang",
+        "Qinwen Wang"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2023-Aug-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease (AD) is a brain disease with a peculiarity of multiformity and an insidious onset. Multiple-target drugs, especially Chinese traditional medicine, have achieved a measure of success in AD treatment. Evodia rutaecarpa (Juss.) Benth. (Wuzhuyu, WZY, i.e., E. rutaecarpa), a traditional Chinese herb, has been identified as an effective drug to cure migraines. To our surprise, our in silico study showed that rather than migraines, Alzheimer's disease was the primary disease to which the E. rutaecarpa active compounds were targeted. Correspondingly, a behavioral experiment showed that E. rutaecarpa extract could improve impairments in learning and memory in AD model mice. However, the mechanism underlying the way that E. rutaecarpa compounds target AD is still not clear. For this purpose, we employed methods of pharmacology networking and molecular docking to explore this mechanism. We found that E. rutaecarpa showed significant AD-targeting characteristics, and alkaloids of E. rutaecarpa played the main role in binding to the key nodes of AD. Our research detected that E. rutaecarpa affects the pathologic development of AD through the serotonergic synapse signaling pathway (SLC6A4), hormones (PTGS2, ESR1, AR), anti-neuroinflammation (SRC, TNF, NOS3), transcription regulation (NR3C1), and molecular chaperones (HSP90AA1), especially in the key nodes of PTGS2, AR, SLCA64, and SRC. Graveoline, 5-methoxy-N, N-dimethyltryptamine, dehydroevodiamine, and goshuyuamide II in E. rutaecarpa show stronger binding affinities to these key proteins than currently known preclinical and clinical drugs, showing a great potential to be developed as lead molecules for treating AD.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Evodia",
+        "Cyclooxygenase 2",
+        "Molecular Docking Simulation",
+        "Alkaloids",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "37476805",
+      "title": "Retracted: Analysis of the Molecular Mechanism of Evodia rutaecarpa Fruit in the Treatment of Nasopharyngeal Carcinoma Using Network Pharmacology and Molecular Docking.",
+      "authors": [
+        "Journal Of Healthcare Engineering"
+      ],
+      "journal": "Journal of healthcare engineering",
+      "publication_date": "2023",
+      "publication_types": [
+        "Retraction Notice"
+      ],
+      "abstract": "[This retracts the article DOI: 10.1155/2022/6277139.]."
+    },
+    {
+      "pmid": "35463684",
+      "title": "Analysis of the Molecular Mechanism of Evodia rutaecarpa Fruit in the Treatment of Nasopharyngeal Carcinoma Using Network Pharmacology and Molecular Docking.",
+      "authors": [
+        "Runshi Xu",
+        "Ximing Yang",
+        "Yangyang Tao",
+        "Wang Luo",
+        "Yu Xiong",
+        "Lan He",
+        "Fangliang Zhou",
+        "Yingchun He"
+      ],
+      "journal": "Journal of healthcare engineering",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Retracted Publication"
+      ],
+      "abstract": "BACKGROUND: Nasopharyngeal carcinoma (NPC), a neoplasm of the head and neck, has high incidence and mortality rates in East and Southeast Asia. Evodia rutaecarpa is a tree native to Korea and China, and its fruit (hereafter referred to as Evodia) exhibits remarkable antitumour properties. However, little is known about its mechanism of action in NPC. In this study, we employed network pharmacology to identify targets of active Evodia compounds in nasopharyngeal carcinoma and generate an interaction network. METHODS: The active ingredients of Evodia and targets in NPC were obtained from multiple databases, and an interaction network was constructed via the Cytoscape and STRING databases. The key biological processes and signalling pathways were predicted using Gene Ontology and Kyoto Encyclopaedia of Genes and Genomes pathway enrichment analyses. Molecular docking technology was used to identify the affinity and activity of target genes, and The Cancer Genome Atlas and Human Protein Atlas databases were used to analyse differential expression. Cell Counting Kit-8 (CCK-8) and Annexin V-fluorescein isothiocyanate (FITC)/propidium iodide (PI) dual-fluorescence staining were used for experimental verification. RESULTS: Active Evodia compounds included quercetin, isorhamnetin, and evodiamine, and important NPC targets included MAPK14, AKT1, RELA, MAPK1, JUN, and p53, which were enriched in lipid and atherosclerosis signalling pathways. Additionally, we verified the high affinity and activity of the active compounds through molecular docking, and the target proteins were verified using immunohistochemistry and differential expression analyses. Furthermore, CCK-8 assays and Annexin V-FITC/PI dual-fluorescence staining showed that isorhamnetin inhibited the proliferation of NPC cells and induced apoptosis. CONCLUSION: Our results identified the molecular mechanisms of Evodia and demonstrated its ability to alter the proliferation and apoptosis of NPC cells through multiple targets and pathways, thereby providing evidence for the clinical application of Evodia.",
+      "mesh_terms": [
+        "Drugs, Chinese Herbal",
+        "Evodia",
+        "Fruit",
+        "Humans",
+        "Medicine, Chinese Traditional",
+        "Molecular Docking Simulation",
+        "Nasopharyngeal Carcinoma",
+        "Nasopharyngeal Neoplasms",
+        "Network Pharmacology"
+      ]
+    },
+    {
+      "pmid": "33305580",
+      "title": "Cytochrome P450 Mediated Bioactivation of Rutaevin, a Bioactive and Potentially Hepatotoxic Component of Evodia Rutaecarpa.",
+      "authors": [
+        "Yutao Liu",
+        "Chang Liu",
+        "Yamei Liu",
+        "Quanli Ge",
+        "Chen Sun"
+      ],
+      "journal": "Chemical research in toxicology",
+      "publication_date": "2020-Dec-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rutaevin is one of the major bioactive constituents isolated from Evodia rutaecarpa, a well-known herbal medicine that has been widely prescribed for the treatment of gastrointestinal disorders in China. However, oral administration of rutaevin has been shown to cause hepatotoxicity in mice. Bioactivation was suggested to be involved in rutaevin-induced hepatotoxicity. The aim of this study was to investigate the bioactivation of rutaevin in rat and human liver microsomes fortified with NADPH. Rutaevin was metabolized into the reactive intermediate cis-butene-1,4-dial (BDA) that was dependent on NADPH. The rutaevin-derived BDA intermediate was trapped by nucleophiles such as glutathione (GSH), N-acetyl-lysine (NAL), and methoxylamine (MOA) in the microsomal incubation system. A total of 10 conjugates resulting from the conjugation of the intermediate with GSH, NAL, or MOA were detected and structurally characterized by liquid chromatography combined with high-resolution tandem mass spectrometry. M1, structurally confirmed by NMR spectroscopic analysis, was identified as a cyclic mono(GSH) conjugate of the BDA intermediate, which was also found in the biliary samples of rutaevin-treated rats. Further inhibitory experiments suggested that ketoconazole showed strong inhibitory effect on the formation of the rutaevin-derived BDA intermediate. CYP3A4 was demonstrated to be the major enzyme responsible for rutaevin bioactivation by using cDNA-expressed human recombinant cytochrome P450 enzymes. Additionally, it was found that rutaevin was a mechanism-based inactivator of CYP3A4, with inactivation parameters of KI = 15.98 μM, kinact = 0.032 min-1, and t1/2 inact = 21.65 min. In summary, these findings are of great significance in understanding the bioactivation mechanism of rutaevin, the potential mechanism of rutaevin-caused hepatotoxicity, and the drug-drug interactions associated with rutaevin mainly via CYP3A4 inactivation.",
+      "mesh_terms": [
+        "Animals",
+        "Cytochrome P-450 Enzyme System",
+        "Drugs, Chinese Herbal",
+        "Evodia",
+        "Humans",
+        "Liver",
+        "Male",
+        "Microsomes, Liver",
+        "Molecular Conformation",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "32774447",
+      "title": "Traditional Chinese medicine for anti-Alzheimer's disease: berberine and evodiamine from Evodia rutaecarpa.",
+      "authors": [
+        "Zhiling Fang",
+        "Yuqing Tang",
+        "Jiaming Ying",
+        "Chunlan Tang",
+        "Qinwen Wang"
+      ],
+      "journal": "Chinese medicine",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Alzheimer's disease (AD) is one of the most common diseases in elderly people with a high incidence of dementia at approximately 60-80%. The pathogenesis of AD was quite complicated and currently there is no unified conclusion in the academic community, so no efficiently clinical treatment is available. In recent years, with the development of traditional Chinese medicine (TCM), researchers have proposed the idea of relying on TCM to prevent and treat AD based on the characteristic of multiple targets of TCM. This study reviewed the pathological hypothesis of AD and the potential biomarkers found in the current researches. And the potential targets of berberine and evodiamine from Evodia rutaecarpa in AD were summarized and further analyzed. A compound-targets-pathway network was carried out to clarify the mechanism of action of berberine and evodiamine for AD. Furthermore, the limitations of current researches on the TCM and AD were discussed. It is hoped that this review will provide some references for development of TCM in the prevention and treatment of AD."
+    },
+    {
+      "pmid": "32328100",
+      "title": "An Indole Alkaloid Extracted from Evodia rutaecarpa Inhibits Colonic Motility of Rats In Vitro.",
+      "authors": [
+        "Guo-Xiang Wang",
+        "Yan-Li Xiang",
+        "Hong-Gang Wang",
+        "Yang-de Miu",
+        "Guang Yu"
+      ],
+      "journal": "Gastroenterology research and practice",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Evodiamine (Evo) is an indole alkaloid extracted from the traditional Chinese medicinal herb Evodia rutaecarpa. Evo may regulate gastrointestinal motility, but the evidence is insufficient, and the mechanisms remain unknown. The aim of this study was to investigate the effect of Evo on colonic motility of rats and the underlying mechanisms in vitro. Rat colonic muscle was exposed to Evo (10 and 100 μM) followed by immunohistochemistry of cholecystokinin receptor 1 (CCK1R). Muscle contractions were studied in an organ bath system to determine whether CCK1R, nitric oxide (NO), and enteric neurons are involved in the relaxant effect of Evo. Whole-cell patch-clamp was used to detect L-type calcium currents (I Ca,L) in isolated colonic smooth muscle cells (SMCs). CCK1R was observed in SMCs, intermuscular neurons, and mucosa of rat colon. Evo could inhibit spontaneous muscle contractions; NO synthase, inhibitor L-NAME CCK1R antagonist, could partly block this effect, while the enteric neurons may not play a major role. Evo inhibited the peak I Ca,L in colonic SMCs at a membrane potential of 0 mV. The current-voltage (I-V) relationship of L-type calcium channels was modified by Evo, while the peak of the I-V curve remained at 0 mV. Furthermore, Evo inhibited the activation of L-type calcium channels and decreased the peak I Ca,L. The relaxant effect of Evo on colonic muscle is associated with the inhibition of L-type calcium channels. The enteric neurons, NO, and CCK1R may be partly related to the inhibitory effect of Evo on colonic motility. This study provides the first evidence that evodiamine can regulate colonic motility in rats by mediating calcium homeostasis in smooth muscle cells. These data form a theoretical basis for the clinical application of evodiamine for treatment of gastrointestinal motility diseases."
+    },
+    {
+      "pmid": "32197606",
+      "title": "Role of limonin in anticancer effects of Evodia rutaecarpa on ovarian cancer cells.",
+      "authors": [
+        "Jae Ryul Bae",
+        "Wook Ha Park",
+        "Dong Hoon Suh",
+        "Jae Hong No",
+        "Yong Beom Kim",
+        "Kidong Kim"
+      ],
+      "journal": "BMC complementary medicine and therapies",
+      "publication_date": "2020-Mar-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Ovarian cancer therapy generally involves systemic chemotherapy with anticancer drugs; however, chemotherapy with a platinum-based drug has often been shown to cause adverse reactions and drug resistance in ovarian cancer patients. Evodia rutaecarpa (ER) reportedly shows anticancer activity against various types of cancer cells. However, the effects of ER have not yet been fully uncovered in ovarian cancer. METHODS: In the present study, we investigated the anticancer effects of an ER extract and its components against the ovarian cancer cell lines SKOV-33, A2780, RMUG-S and a cisplatin-resistant SKOV-3 cell line (CisR SKOV-3). Cell viability and colony formation assays along with subcellular fractionation analysis, immunoblotting, and immunofluorescence staining were performed. RESULTS: ER treatment led to a significant reduction in the viability of SKOV-3 cells. Moreover, limonin, a compound found in ER, reduced the viability of both serous-type (SKOV-3 and A2780) and mucinous-type (RMUG-S) ovarian cancer cells by inducing apoptosis via activation of the p53 signaling pathway. Furthermore, limonin reversed the drug resistance through activation of apoptosis in CisR SKOV-3. CONCLUSION: Taken together, our findings suggest that limonin contributes to the anti-ovarian cancer effects of ER by inducing apoptosis via activation of the p53 signaling pathway.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Evodia",
+        "Female",
+        "Humans",
+        "Limonins",
+        "Ovarian Neoplasms",
+        "Plant Extracts",
+        "Signal Transduction",
+        "Tumor Suppressor Protein p53"
+      ]
+    },
+    {
+      "pmid": "30616017",
+      "title": "Rutaecarpine: A promising cardiovascular protective alkaloid from Evodia rutaecarpa (Wu Zhu Yu).",
+      "authors": [
+        "Kun-Ming Tian",
+        "Jing-Jie Li",
+        "Suo-Wen Xu"
+      ],
+      "journal": "Pharmacological research",
+      "publication_date": "2019-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Rutaecarpine is a bioactive alkaloid isolated from Evodia rutaecarpa (Wu Zhu Yu, Family: Rutaceae), a versatile medicinal herb which is clinically used to treat headache, abdominal pain, postpartum hemorrhage, dysentery, and amenorrhea in China. As one of the most representative indolopyridoquinazoline alkaloids of Evodia rutaecarpa, rutaecarpine has broad pharmacological actions in treating various cardiovascular, cerebrovascular, and metabolic diseases. The cardiovascular actions of rutaecarpine have aroused intense research interest due to its purported inotropic and chronotropic, vasodilatory, anti-platelet activation, anti-oxidant, anti-inflammatory, and lipid-lowering effects. Biochemical and pharmacological studies have illustrated the molecular targets of rutaecarpine, such as TRPV1, CGRP, AMPK, ABCA1, and β1-AR. Furthermore, several rutaecarpine derivatives (such as bromorutaecarpine and fluororutaecarpine) have been shown to possess cardioprotective and vasculoprotective effects with improved safety profile. Hereby, we provide a systematic overview of pharmacological actions, toxicological effects, and molecular targets of rutaecarpine in cardiovascular disease prevention/treatment, aiming to exploit the therapeutic potential of rutaecarpine and its derivatives in treating cardiovascular diseases.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Cardiotonic Agents",
+        "Cardiovascular Diseases",
+        "Evodia",
+        "Humans",
+        "Hypolipidemic Agents",
+        "Indole Alkaloids",
+        "Platelet Aggregation Inhibitors",
+        "Quinazolines",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "29690562",
+      "title": "Ethanol Extract of Evodia rutaecarpa Attenuates Cell Growth through Caspase-Dependent Apoptosis in Benign Prostatic Hyperplasia-1 Cells.",
+      "authors": [
+        "Eunsook Park",
+        "Mee-Young Lee",
+        "Chang-Seob Seo",
+        "Ji-Hye Jang",
+        "Yong-Ung Kim",
+        "Hyeun-Kyoo Shin"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2018-Apr-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The dried fruits of Evodia rutaecarpa Bentham have been used widely as a herbal medicine for the treatment of inflammatory disorders and abdominal pain. Benign prostatic hyperplasia (BPH) is a nonmalignant disease characterized by overgrowth of prostates. Despite the pharmacological efficacy of the fruits of E. rutaecarpa against various diseases, their effects against BPH have not been reported. Here, we investigated the inhibitory activity of a 70% ethanol extract of E. rutaecarpa (EEER) against BPH, and its underlying mechanisms regarding cell growth of BPH using BPH-1 cells. An in vitro 5&alpha;-reductase activity assay showed that EEER exhibited inhibitory activity against 5&alpha;-reductase. In BPH-1 cells, EEER treatment inhibited cell viability and reduced the expression of the proliferating cell nuclear antigen proliferating cell nuclear antigen (PCNA), cyclin D1, and phosphor-ERK1/2 proteins. Moreover, EEER also induced apoptosis, with chromatin condensation, apoptotic bodies, and internucleosomal DNA fragmentation. Regarding its underlying mechanisms, EEER exacerbated the activation of caspase-8 and caspase-3 in a concentration-dependent manner and eventually caused the cleavage of PARP. Taken together, these data demonstrated that EEER had a potent 5&alpha;-reductase inhibitory activity and that EEER treatment in BPH-1 cells inhibited cell viability via caspase-8- and caspase-3-dependent apoptosis. Therefore, EEER may be a potential phytotherapeutic agent for the treatment of BPH.",
+      "mesh_terms": [
+        "5-alpha Reductase Inhibitors",
+        "Animals",
+        "Apoptosis",
+        "Caspase 3",
+        "Caspase 8",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Chromatography, High Pressure Liquid",
+        "Dose-Response Relationship, Drug",
+        "Evodia",
+        "Fruit",
+        "Humans",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Prostate",
+        "Prostatic Hyperplasia",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "27890875",
+      "title": "Induction of apoptosis by ethanol extract of Evodia rutaecarpa in HeLa human cervical cancer cells via activation of AMP-activated protein kinase.",
+      "authors": [
+        "Seon Young Park",
+        "Cheol Park",
+        "Shin-Hyung Park",
+        "Su-Hyun Hong",
+        "Gi-Young Kim",
+        "Sang Hoon Hong",
+        "Yung-Hyun Choi"
+      ],
+      "journal": "Bioscience trends",
+      "publication_date": "2017-Jan-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The fruit of Evodia rutaecarpa (Juss.) Benth has been used widely in traditional medicine therapy. Although it has been shown to possess many pharmacological activities, the molecular mechanisms of its anti-cancer activity have not been clearly elucidated. In the present study, we investigated the pro-apoptotic effects of an ethanol extract isolated from immature fruits of E. rutaecarpa (EEER) in HeLa human cervical cancer cells. EEER treatment decreased the cell viability of HeLa cells in a concentration-dependent manner, which was related to apoptotic cell death resulting from apoptotic body formation, DNA fragmentation, and an increased population of annexin V+-positive cells. EEER treatment significantly suppressed anti-apoptotic Bcl-2 expression, leading to subsequent loss of mitochondrial membrane potential (MMP), while it did not change expression levels of death receptor (DR)-related proteins. EEER treatment increased activity of caspase-3 and -9 but not caspase-8, and pretreatment of a caspase-3 inhibitor markedly attenuated EEER-induced apoptosis. Furthermore, EEER activated the AMP-activated protein kinase (AMPK) signaling pathway; however, inhibition of AMPK markedly abrogated EEER-induced apoptosis. Overall, the results suggest that the apoptotic activity of EEER may be associated with a caspase-dependent cascade through activation of the intrinsic signaling pathway connected with AMPK activation. E. rutaecarpa could be a prospective clinical application to treat human cervical cancer.",
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Apoptosis",
+        "Caspases",
+        "Enzyme Activation",
+        "Ethanol",
+        "Evodia",
+        "Female",
+        "HeLa Cells",
+        "Humans",
+        "Plant Extracts",
+        "Signal Transduction",
+        "Uterine Cervical Neoplasms"
+      ]
+    },
+    {
+      "pmid": "27422570",
+      "title": "Identification and Structural Characterization of Acylgluconic Acids, Flavonol Glycosides, Limonoids and Alkaloids from the Fruits of Evodia Rutaecarpa by High Performance Liquid Chromatography Coupled to Electrospray Ionization and Quadrupole Time-of-Flight Mass Spectrometry.",
+      "authors": [
+        "Yun Ling",
+        "Pei Hu",
+        "Lifang Zhang",
+        "Hongguang Jin",
+        "Jian Chen",
+        "Zhi Tao",
+        "Ling Huang",
+        "Ruoyu Ren"
+      ],
+      "journal": "Journal of chromatographic science",
+      "publication_date": "2016-Oct-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The dried fruit of Evodia rutaecarpa (Juss.) Benth. (ER) is a well-known traditional Chinese medicine and has been used in treatment of headache, abdominal pain, migraine, chill limbs, diarrhea, nausea, hyperbaropathy, dysmenorrheal and postpartum hemorrhage. In this work, a comprehensive characterization of chemical constituents in ER extract is carried out by high performance liquid chromatography coupled to electrospray ionization and quadrupole time-of-flight mass spectrometry. The increased power of higher mass resolution and exact mass measurements for precursor and fragment ions lead to detection of 3 acylgluconic acids, 3 flavonol glycosides, 6 limonoids and 24 alkaloids in ER, of which 6 quinolone alkaloids has not been reported previously to our best knowledge. This research enriches our knowledge of chemical constituents of ER and provides a reliable guide for further pharmacology and active mechanism study on this herb."
+    },
+    {
+      "pmid": "27159637",
+      "title": "Partial Activation and Inhibition of TRPV1 Channels by Evodiamine and Rutaecarpine, Two Major Components of the Fruits of Evodia rutaecarpa.",
+      "authors": [
+        "Shenglan Wang",
+        "Satoshi Yamamoto",
+        "Yoko Kogure",
+        "Wensheng Zhang",
+        "Koichi Noguchi",
+        "Yi Dai"
+      ],
+      "journal": "Journal of natural products",
+      "publication_date": "2016-May-27",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Evodiamine (1) and rutaecarpine (2) are the two major components of Evodia rutaecarpa, which has long been used in traditional medicine for the treatment of many diseases. Using transient receptor potential vanilloid 1 (TRPV1)-expressing HEK293 cells and patch-clamp recording, the inhibitory actions of 1 and 2 against TRPV1 channels were investigated. The effects of these compounds against capsaicin- or proton-activated TRPV1 activities were evaluated. The results showed that, although 1 and 2 can activate TRPV1, the maximum response was 3.5- or 9-fold lower than that of capsaicin, respectively, suggesting partial agonism. In comparison to capsaicin, coadministration of 1 and capsaicin increased the half-maximal effective concentration (EC50) of capsaicin-activated TRPV1 currents as shown by a right shift in the dose-response curve, whereas coadministration of 1 with protons failed to inhibit the proton-induced current. Moreover, preadministration of 1, but not 2, inhibited both capsaicin- and proton-induced TRPV1 currents, which might involve channel desensitization. Taken together, 1 and 2 may share the same binding site with capsaicin and act as partial agonists (antagonists) of TRPV1. Evodiamine (1), but not rutaecarpine (2), can desensitize or competitively inhibit the activity of TRPV1.",
+      "mesh_terms": [
+        "Animals",
+        "Capsaicin",
+        "Dose-Response Relationship, Drug",
+        "Evodia",
+        "Fruit",
+        "HEK293 Cells",
+        "Humans",
+        "Indole Alkaloids",
+        "Molecular Structure",
+        "Quinazolines",
+        "TRPV Cation Channels"
+      ]
+    },
+    {
+      "pmid": "26640368",
+      "title": "Protective effects of alginate-chitosan microspheres loaded with alkaloids from Coptis chinensis Franch. and Evodia rutaecarpa (Juss.) Benth. (Zuojin Pill) against ethanol-induced acute gastric mucosal injury in rats.",
+      "authors": [
+        "Qiang-Song Wang",
+        "Xiao-Ning Zhu",
+        "Heng-Li Jiang",
+        "Gui-Fang Wang",
+        "Yuan-Lu Cui"
+      ],
+      "journal": "Drug design, development and therapy",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Zuojin Pill (ZJP), a traditional Chinese medicine formula, consists of Coptis chinensis Franch. and Evodia rutaecarpa (Juss.) Benth. in a ratio of 6:1 (w/w) and was first recorded in \"Danxi's experiential therapy\" for treating gastrointestinal disorders in the 15th century. However, the poor solubility of alkaloids from ZJP restricted the protective effect in treating gastritis and gastric ulcer. The aim of the study was to investigate the protective mechanism of mucoadhesive microspheres loaded with alkaloids from C. chinensis Franch. and E. rutaecarpa (Juss.) Benth. on ethanol-induced acute gastric mucosal injury in rats. Surface morphology, particle size, drug loading, encapsulation efficiency, in vitro drug release, mucoadhesiveness, and fluorescent imaging of the microspheres in gastrointestinal tract were studied. The results showed that the mucoadhesive microspheres loaded with alkaloids could sustain the release of drugs beyond 12 hours and had gastric mucoadhesive property with 82.63% retention rate in vitro. The fluorescence tracer indicated high retention of mucoadhesive microspheres within 12 hours in vivo. The mucoadhesive microspheres loaded with alkaloids could reduce the gastric injury by decreasing the mucosal lesion index, increasing the percentage of inhibition and increasing the amount of mucus in the gastric mucosa in an ethanol-induced gastric mucosal injury rat model. Moreover, the mucoadhesive microspheres loaded with alkaloids reduce the inflammatory response by decreasing the levels of tumor necrosis factor-α (TNF-α), interleukin 1β (IL-1β), downregulating the mRNA expression of inducible nitric oxide synthase, TNF-α, and IL-1β in gastric mucosa. All the results indicate that mucoadhesive microspheres loaded with alkaloids could not only increase the residence time of alkaloids in rat stomach, but also exert gastroprotective effects through reducing the inflammatory response on ethanol-induced gastric mucosal damage. Thus, these microspheres could be developed as a potential controlled release drug for treatment of gastric ulcer.",
+      "mesh_terms": [
+        "Adhesiveness",
+        "Alginates",
+        "Alkaloids",
+        "Animals",
+        "Anti-Ulcer Agents",
+        "Chemistry, Pharmaceutical",
+        "Chitosan",
+        "Coptis",
+        "Cytoprotection",
+        "Disease Models, Animal",
+        "Drug Carriers",
+        "Drugs, Chinese Herbal",
+        "Ethanol",
+        "Evodia",
+        "Gastric Mucosa",
+        "Glucuronic Acid",
+        "Hexuronic Acids",
+        "Inflammation Mediators",
+        "Interleukin-1beta",
+        "Male",
+        "Mice, Inbred ICR",
+        "Microspheres",
+        "Nitric Oxide Synthase Type II",
+        "Phytotherapy",
+        "Plants, Medicinal",
+        "Rats, Sprague-Dawley",
+        "Solubility",
+        "Stomach Ulcer",
+        "Time Factors",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "21320305",
+      "title": "Anti-inflammatory and anti-infectious effects of Evodia rutaecarpa (Wuzhuyu) and its major bioactive components.",
+      "authors": [
+        "Jyh-Fei Liao",
+        "Wen-Fei Chiou",
+        "Yuh-Chiang Shen",
+        "Guei-Jane Wang",
+        "Chieh-Fu Chen"
+      ],
+      "journal": "Chinese medicine",
+      "publication_date": "2011-Feb-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This article reviews the anti-inflammatory relative and anti-infectious effects of Evodia rutaecarpa and its major bioactive components and the involvement of the nitric oxide synthases, cyclooxygenase, NADPH oxidase, nuclear factor kappa B, hypoxia-inducible factor 1 alpha, reactive oxygen species, prostaglandins, tumor necrosis factor, LIGHT, amyloid protein and orexigenic neuropeptides. Their potential applications for the treatment of endotoxaemia, obesity, diabetes, Alzheimer's disease and their uses as cardiovascular and gastrointestinal protective agents, analgesics, anti-oxidant, anti-atherosclerosis agents, dermatological agents and anti-infectious agents are highlighted. Stimulation of calcitonin gene-related peptide release may partially explain the analgesic, cardiovascular and gastrointestinal protective, anti-obese activities of Evodia rutaecarpa and its major bioactive components."
+    },
+    {
+      "pmid": "19471205",
+      "title": "Evodiamine: a novel anti-cancer alkaloid from Evodia rutaecarpa.",
+      "authors": [
+        "Junlin Jiang",
+        "Changping Hu"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2009-May-18",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Traditional Chinese herbs are regarded as a new and promising source of potential anti-cancer remedies and new chemotherapy adjuvants to enhance the efficacy of chemotherapy and/or to ameliorate its side effects. Extensive investigations have been undertaken both in the experimental and clinical studies over the years to augment the efficacy of chemotherapy. Evodia rutaecarpa is a very popular multi-purpose herb traditionally used in China for the treatment of headaches, abdominal pain, postpartum hemorrhage, dysentery and amenorrhea. The major constituents of Evodia rutaecarpa are evodiamine and rutaecarpine. Growing evidence demonstrates that evodiamine possesses anti-cancer activities both in vitro and in vivo by inhibiting proliferation, invasion and metastasis, inducing apoptosis of a variety of tumor cell lines. This review is aimed to summarize the recent researches on evodiamine focusing on anti-cancer activity and to highlight molecular mechanisms during the past ten years.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Evodia",
+        "Humans",
+        "Medicine, Chinese Traditional",
+        "Neoplasms",
+        "Neovascularization, Pathologic",
+        "Plant Extracts",
+        "Quinazolines"
+      ]
+    },
+    {
+      "pmid": "19350478",
+      "title": "In vivo inhibition of S180 tumors by the synergistic effect of the Chinese medicinal herbs Coptis chinensis and Evodia rutaecarpa.",
+      "authors": [
+        "Xiao-na Wang",
+        "Li-na Xu",
+        "Jin-yong Peng",
+        "Ke-xin Liu",
+        "Li-hua Zhang",
+        "Yu-kui Zhang"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of the present paper was to investigate the synergistic effect and mechanism of anticancer activity of Zuojinwan ( ZJW) comprising Coptis chinensis Franch ( HL) and Evodia rutaecarpa (Juss.) Benth ( WZY) at a ratio of 6 : 1 (w/w). In vivo anticancer activity testing was carried out by inhibiting the growth of S180 tumor. Tumor growth inhibition, spleen index, lymphocyte proliferation, apoptosis, tumor necrosis factor-alpha (TNF-alpha) level, activities of serum tumor markers (TMs), increase in life span (ILS), histopathology and gene expression were tested. The results indicated that ZJW could significantly induce apoptosis of cancer cells. The inhibition ratio, ILS and TNF-alpha levels of mice treated with ZJW were 50.54 %, 64.91 % and 1.04 ng/mL, respectively, much higher than HL and WZY when singly used. Furthermore, the activities of acid phosphatase and alkaline phosphatase were significantly increased and the activities of creatine kinase, aldolase and lactate dehydrogenase were reduced in serum, and the expressions of Bax and wild-type p53 proteins were much higher for the mice treated by ZJW compared with HL and WZY single-treatment groups. A clear synergistic effect on the anticancer activity was observed with ZJW, and the mechanism of antitumor growth may be due to an effect on gene expression and activities of tumor markers in serum.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Coptis",
+        "Drug Synergism",
+        "Drugs, Chinese Herbal",
+        "Evodia",
+        "Mice",
+        "Mice, Inbred Strains",
+        "Sarcoma",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "18831217",
+      "title": "[Toxicological assessment on safety of water and 70% ethanolic extracts of nearly ripe fruit of Evodia rutaecarpa].",
+      "authors": [
+        "Xiu-Wei Yang"
+      ],
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publication_date": "2008-Jun",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To study the acute toxicity and mutagenic risk of the water extracts (ERWE) and 70% ethanol extracts (EREE) from the nearly ripe fruit of Evodia rutaecarpa, and provide experimental basis for safety evaluation of ones. METHOD: The ERWE and EREE were prepared from the nearly ripe fruit of E. rutaecarpa by reflux extraction with H2O and 70% ethanol aqueous solution for three times, respectively. According to the terms from \"technical standards for test & toxicological assessment of health food\" issued by Healthy Ministry of PRC, acute toxicity, and Ames, mouse marrow cell micronucleus and mouse sperm aberration test were performed. Acute toxicity test of ERWE and EREE in mice was studied by the method of Horn to give the median lethal dose (LD50). Forty healthy Kunming strain male and female mice were used and their body weights ranged from 17-22 g. All of them were distributed randomly to 4 different dose groups which each had 10 mice. The ERWE or EREE was administered at the doses of 1.00, 2.15, 4.64 and 10.00 g x kg(-1), respectively, via intragastrical route. The number of animals poisoned and died in each group were noted daily for 7 consecutive days. The Ames test was carried out using the Salmonella typhimurium strain TA97, TA98, TA100 and TA102. In the sperm abnormalities test, 25 healthy adult male Kunming strain mice with a body weights ranged from 25-35 g were distributed randomly to 5 different groups (1 positive control, 1 negative control and 3 treated groups) which each had 5 mice. A single dose of 60 g x kg(-1) of cyclophosphamide was intragastrically administered to mice in a positive control group, and the mice in the negative control group were administered with the same volume of distilled water. In the treated groups, the ERWE or EREE was intragastrically administered at the doses of 1.25, 250 and 5.00 g x kg(-1), respectively, via the same route with the positive control group. The administration was carried out once daily for 5 consecutive days. The sperm suspension was prepared from caudal epididymis of male mice at 35th day after treatment with different doses of the extract. The suspension was stained with Eosin-Y and air-dried smears were prepared. One thousand sperms per animal were analysed for abnormal shapes and the rates of sperm aberration was calculated. In the mouse bone marrow micronucleus assay, 50 healthy adult male and female Kunming mice, weighing 25 to 30 g, were randomly assigned to five groups (1 positive control, 1 negative control and 3 treated groups) which each had 10 mice, five males and five females. The mice were intragastrically administered twice at intervals of 24 h with the ERWE or EREE at doses of 1.25, 2.50 and 5.00 g x kg(-1) in the positive control group. A single dose of 60 g x kg(-1) of cyclophosphamide in a positive control group and the same volume of distilled water in a negative control groups were intragastrically administered, respectively. Mouse bone marrow was obtained from 10 animals for each group at 6 h after the last dose administration. Smears were stained with Giemsa and analysed for the presence of mouse bone marrow micronucleus from 1 000 cells. RESULT: The oral acute toxicity study in mice revealed that the LD50 of the both ERWE and EREE was more than 10.0 g x kg(-1). The mice with both the poisoned sign or died had not been observed after intragastrical administration of ERWE or EREE at the doses of 1.00, 2.15, 4.64 and 10.00 g x kg(-1). The results of genotoxicity tests were all negative, including Ames, mouse marrow cell micronucleus and mouse sperm aberration test. In the all assay in vivo, the mice showed a normally progressive increase in body weight from the start to the end of the experiment. CONCLUSION: The oral LD50 of the ERWE and EREE in mice was more than 10.0 g x kg(-1) belonging to non-toxicity on the acute toxicity rating criteria. The both ERWE and EREE showed no genotoxicity in the experimental condition.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Bone Marrow Cells",
+        "Drugs, Chinese Herbal",
+        "Ethanol",
+        "Evodia",
+        "Female",
+        "Fruit",
+        "Lethal Dose 50",
+        "Male",
+        "Mice",
+        "Mutagenesis",
+        "Mutagenicity Tests",
+        "Spermatozoa",
+        "Toxicity Tests, Acute",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "18729042",
+      "title": "Induction of NAD(P)H: quinone reductase by rutaecarpine isolated from the fruits of Evodia rutaecarpa in the murine hepatic Hepa-1c1c7 cell line.",
+      "authors": [
+        "Hyunjin Ahn",
+        "Joo-Won Nam",
+        "Eun-Kyoung Seo",
+        "Woongchon Mar"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2008-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rutaecarpine is a quinazolinocarboline alkaloid isolated from Evodia rutaecarpa (Juss.), which has been used in traditional Chinese medicine. The bioactivity-guided fractionation has led to the isolation of rutaecarpine from the extract of the fruits of E. rutaecarpa as the major component possessing NAD(P)H:quinone reductase (QR) activity. The activator protein-1 (AP-1), a transcriptional factor, in the antioxidant response element (ARE) region plays an important role in mediating induction of the target genes by xenobiotics, including chemopreventive agents. The present study demonstrates that rutaecarpine induces QR activity and gene expression by transactivation of AP-1. To study the induction of QR activity and AP-1-mediated QR gene expression by rutaecarpine, we performed enzyme and reporter gene assays. This compound markedly induced the enzyme activity and mRNA expression levels of QR in a dose-dependent manner. Using the luciferase reporter gene assay, a dose-dependent transactivation of AP-1-mediated luciferase expression was observed upon treatment of rutaecarpine. These results suggest that rutaecarpine induces QR gene expression and activity through an increase in AP-1 activation.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Line, Tumor",
+        "Chemoprevention",
+        "Evodia",
+        "Fruit",
+        "Indole Alkaloids",
+        "Mice",
+        "Plant Extracts",
+        "Quinazolines",
+        "Quinone Reductases"
+      ]
+    },
+    {
+      "pmid": "17498942",
+      "title": "Inhibitory effect of rhetsinine isolated from Evodia rutaecarpa on aldose reductase activity.",
+      "authors": [
+        "A Kato",
+        "H Yasuko",
+        "H Goto",
+        "J Hollinshead",
+        "R J Nash",
+        "I Adachi"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2009-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aldose reductase inhibitors have considerable potential for the treatment of diabetic complications, without increased risk of hypoglycemia. Search for components inhibiting aldose reductase led to the discovery of active compounds contained in Evodia rutaecarpa Bentham (Rutaceae), which is the one of the component of Kampo-herbal medicine. The hot water extract from the E. rutaecarpa was subjected to distribution or gel filtration chromatography to give an active compound, N2-(2-methylaminobenzoyl)tetrahydro-1H-pyrido[3,4-b]indol-1-one (rhetsinine). It inhibited aldose reductase with IC(50) values of 24.1 microM. Furthermore, rhetsinine inhibited sorbitol accumulation by 79.3% at 100 microM. These results suggested that the E. rutaecarpa derived component, rhetsinine, would be potentially useful in the treatment of diabetic complications.",
+      "mesh_terms": [
+        "Aldehyde Reductase",
+        "Carbolines",
+        "Diabetes Complications",
+        "Enzyme Inhibitors",
+        "Erythrocytes",
+        "Evodia",
+        "Female",
+        "Fruit",
+        "Humans",
+        "Plant Extracts",
+        "Sorbitol"
+      ]
+    },
+    {
+      "pmid": "16099612",
+      "title": "Herb-drug interaction of Evodia rutaecarpa extract on the pharmacokinetics of theophylline in rats.",
+      "authors": [
+        "Woan-Ching Jan",
+        "Lie-Chwen Lin",
+        "Chieh-Fu-Chen",
+        "Tung-Hu Tsai"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2005-Dec-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The extract of Evodia rutaecarpa fruit and its preparation were used for the treatment of gastrointestinal disorders and headache. To assess the possible herb-drug interaction, the ethanol extract of Evodia rutaecarpa fruit (1 and 2 g/kg/day, p.o.) and the herbal preparation Wu-Chu-Yu-Tang (1 and 5 g/kg/day) were given to rats daily for three consecutive days and on the fourth day theophylline was administered (2 mg/kg, i.v.). Theophylline concentration in blood was measured by a microdialysis coupled to a liquid chromatographic system. Pharmacokinetic data were calculated by noncompartmental model. The results indicate that the theophylline level was significantly decreased by the pretreatment with the extract of Evodia rutaecarpa and herbal preparation Wu-Chu-Yu-Tang with dose-related manner. It is suggested that the herb-drug interaction may occur through the induction of the metabolism of theophylline.",
+      "mesh_terms": [
+        "Animals",
+        "Cytochrome P-450 CYP1A1",
+        "Drug Interactions",
+        "Evodia",
+        "Male",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Theophylline"
+      ]
+    },
+    {
+      "pmid": "15720787",
+      "title": "Alteration of the pharmacokinetics of theophylline by rutaecarpine, an alkaloid of the medicinal herb Evodia rutaecarpa, in rats.",
+      "authors": [
+        "Yune-Fang Ueng",
+        "Tung-Hu Tsai",
+        "Ming-Jaw Don",
+        "Ruei-Ming Chen",
+        "Ta-Liang Chen"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2005-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rutaecarpine is a main active alkaloid present in the medicinal herb, Evodia rutaecarpa. The cytochrome P450 (CYP) 1A2 substrate, theophylline, is an important therapeutic agent for the treatment of asthma, but has a narrow therapeutic index. To evaluate the pharmacokinetic interaction of theophylline with rutaecarpine, the effects of rutaecarpine on CYP1A2 activity and theophylline pharmacokinetics were investigated. Oral treatment of Sprague-Dawley rats with 50 mg kg(-1) rutaecarpine for three days through a gastrogavage caused a 4- and 3-fold increase in liver microsomal 7-ethoxyresorufin O-deethylation (EROD) and 7-methoxyresorufin O-demethylation activity, respectively. In the kidney, rutaecarpine treatment caused a 3-fold increase in EROD activity. In the lungs, EROD activity was elevated from an undetectable to a detectable level by rutaecarpine. Pharmacokinetic parameters of theophylline were determined using a microdialysis sampling method. Rutaecarpine pre-treatment increased the clearance of theophylline in a dose-dependent manner. Pre-treatment of rats with 50 mg kg(-1) rutaecarpine caused a 3-fold increase in theophylline clearance and a 70%, 68% and 68% decrease in the area under the concentration-time curve (AUC), mean residence time (MRT) and half-life, respectively. These results demonstrated that rutaecarpine treatment elevated CYP1A2 catalytic activity and theophylline excretion in rats. In patients taking theophylline, adverse effects might be noticed when a rutaecarpine-containing herbal preparation is used concomitantly.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Area Under Curve",
+        "Cytochrome P-450 CYP1A1",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Drug Evaluation, Preclinical",
+        "Drug Interactions",
+        "Enzyme Induction",
+        "Evodia",
+        "Half-Life",
+        "Indole Alkaloids",
+        "Intubation, Gastrointestinal",
+        "Kidney",
+        "Lung",
+        "Male",
+        "Microdialysis",
+        "Microsomes, Liver",
+        "Oxazines",
+        "Plants, Medicinal",
+        "Quinazolines",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction",
+        "Theophylline",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "15563061",
+      "title": "[Studies on the chemical constituents of Evodia rutaecarpa (Juss.) Benth].",
+      "authors": [
+        "Qi-zhi Wang",
+        "Jing-yu Liang"
+      ],
+      "journal": "Yao xue xue bao = Acta pharmaceutica Sinica",
+      "publication_date": "2004-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: To study the chemical constituents of Evodia rutaecarpa (Juss.) Benth. METHODS: The crude total alkaloids were enriched by acid-base treatment and solvent extraction. Isolation and purification were carried out by silica gel column chromatography and recrystallization etc. Structural determination of the pure compounds were based on physico-chemical properties and various spectral data analysis (1HNMR, 13CNMR, UV, IR, 1H-1H COSY, HMQC, HMBC, ESIMS, HREIMS, NOESY). RESULTS: Fourteen compounds were obtained from Evodia rutaecarpa, ten of them were identified as evodianinine (1), rutaecarpine (2), evodiamine (3), wuchuyuamide I (4), hydroxyevodiamine (5), limonin (6), daucosterol (7), triacontanoic acid (8), nonacosane (9) and beta-sitosterol (10). CONCLUSION: Compound 1 is a new alkaloid named evodianinine.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Carbolines",
+        "Evodia",
+        "Fruit",
+        "Indole Alkaloids",
+        "Molecular Structure",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Quinazolines"
+      ]
+    },
+    {
+      "pmid": "12802723",
+      "title": "The nociceptive and anti-nociceptive effects of evodiamine from fruits of Evodia rutaecarpa in mice.",
+      "authors": [
+        "Yoshinori Kobayashi"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2003-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recently, the authors reported that evodiamine, a major alkaloidal principle of Evodia fruits (Evodia rutaecarpa, Rutaceae), had vanilloid receptor agonistic activity comparable to capsaicin. In spite of the similarities in the actions of evodiamine and capsaicin in vitro, the effects of evodiamine on sensory neurons in vivo had not been investigated. We demonstrate here that evodiamine sensitizes and desensitizes the capsaicin-sensitive sensory afferents in mice, resulting in nociceptive action and antinociceptive actions. The nociceptive action (paw licking behaviour) was dose dependently induced by intradermal injection (i.d.) of evodiamine to the hind paw and was suppressed by the co-treatment with capsazepine, a vanilloid receptor specific agonist, in a dose-dependent manner. The treatment with higher dosages of evodiamine showed sustained antinociceptive effects. The acetic acid-induced writhing was significantly suppressed by the intraperitoneal evodiamine administration 3 days before, without any observable effects on spontaneous motor activity. The response of the isolated ileum from the mice with or without high dosages of evodiamine administration indicated the sensory neuron specific desensitizing effect of evodiamine. The isolated ileum from vehicle-treated mice contracted in response to both the sensory nerve stimulation by 10 microM capsaicin and the mimicked vagal stimulation by 2 microM carbachol. However, the isolated ileum from evodiamine-treated mice lost its response to sensory nerve stimuli but retained its response to vagus nerve stimuli. The suppression of acetic acid-induced writhing and the desensitization of visceral sensory neurons strongly correlated [regression coefficient (r) = 0.955]. Thus, we demonstrate that evodiamine shows the analgesic action by desensitizing sensory nerves.",
+      "mesh_terms": [
+        "Acetic Acid",
+        "Analgesics",
+        "Animals",
+        "Capsaicin",
+        "Dose-Response Relationship, Drug",
+        "Evodia",
+        "Fruit",
+        "Ileum",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Motor Activity",
+        "Pain",
+        "Pain Measurement",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Quinazolines"
+      ]
+    },
+    {
+      "pmid": "12396303",
+      "title": "Evodia rutaecarpa protects against circulation failure and organ dysfunction in endotoxaemic rats through modulating nitric oxide release.",
+      "authors": [
+        "Wen Fei Chiou",
+        "Han Chieh Ko",
+        "Chieh Fu Chen",
+        "Cheng Jen Chou"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2002-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Using a rat model of septic shock we studied the effects of Evodia rutaecarpa, a Chinese herbal medicine with antimicrobial and anti-inflammatory activity, on haemodynamic parameters, biochemical markers of organ function and nitric oxide (NO) production. Anaesthetized rats challenged with a high dosage of endotoxin (Escherichia coli lipopolysaccharide; LPS; 50 mg kg(-1), i.v.) for 6 h showed a severe decrease in mean arterial pressure. This was accompanied by delayed bradycardia, vascular hyporeactivity to phenylephrine and increase in plasma levels of lactate dehydrogenase, aspartate aminotransferase, bilirubin and creatinine, as well as NOx (NO2- plus NO3-). Pretreatment with ethanol extract of E. rutaecarpa (25, 50 and 100 mg kg(-1), i.v.), 1 h before LPS, dose-dependently prevented the circulation failure, vascular hyporeactivity to phenylephrine, prevented liver dysfunction and reduced the NOx over-production in plasma in endotoxaemic rats. A selective inducible NO-synthase (iNOS) inhibitor, aminoguanidine (15 mg kg(-1), i.v.), also effectively ameliorated the above pathophysiological phenomenon associated with endotoxaemia so that the normal condition was approached. Endotoxaemia for 6 h resulted in a significant increase in iNOS activity in the liver homogenate, which was attenuated significantly by E. rutaecarpa pretreatment. In summary, E. rutaecarpa, at the dosages used, exerted these beneficial effects probably through inhibition of iNOS activity and subsequent modulation of the release of NO. These significant results may offer E. rutaecarpa as a candidate for the treatment of this model of endotoxaemia.",
+      "mesh_terms": [
+        "Animals",
+        "Aspartate Aminotransferases",
+        "Endothelium, Vascular",
+        "Endotoxemia",
+        "Endotoxins",
+        "Evodia",
+        "Fruit",
+        "Guanidines",
+        "Hemodynamics",
+        "In Vitro Techniques",
+        "L-Lactate Dehydrogenase",
+        "Lipopolysaccharides",
+        "Male",
+        "Multiple Organ Failure",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase",
+        "Nitric Oxide Synthase Type II",
+        "Phenylephrine",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Shock",
+        "Vasoconstrictor Agents"
+      ]
+    },
+    {
+      "pmid": "12106592",
+      "title": "Modulation of drug-metabolizing enzymes by extracts of a herbal medicine Evodia rutaecarpa in C57BL/6J mice.",
+      "authors": [
+        "Yune-Fang Ueng",
+        "Han-Chieh Ko",
+        "Chieh-Fu Chen",
+        "Jong-Jing Wang",
+        "Kuo-Tung Chen"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2002-Aug-02",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Evodia rutaecarpa is a traditional Chinese medicine used for the treatment of gastrointestinal disorders and headache. To assess the possible drug interactions, effects of methanol and aqueous extracts of E. rutaecarpa on drug-metabolizing enzymes, cytochrome P450 (CYP), UDP-glucuronosyl transferase (UGT), and glutathione S-transferase (GST) were studied in C57BL/6J mice. Treatment of mice with methanol extract by gastrogavage caused a dose-dependent increase of liver microsomal 7-ethoxyresorufin O-deethylation (EROD) activity. In liver, methanol extract at 2 g/kg caused 47%, 7-, 8-, 4-fold, 81% and 26% increases of benzo(a)pyrene hydroxylation (AHH), EROD, 7-methoxyresorufin O-demethylation (MROD), 7-ethoxycoumarin O-deethylation (ECOD), benzphetamine N-demethylation, and N-nitrosodimethylamine N-demethylation activities, respectively. Aqueous extract at 2 g/kg caused 68%, 2-fold, and 83% increases of EROD, MROD, and ECOD activities, respectively. For conjugation activities, methanol extract elevated UGT and GST activities. Aqueous extract elevated UGT activity without affecting GST activity. Immunoblot analyses showed that methanol extract increased the levels of CYP1A1, CYP1A2, CYP2B-, and GSTYb-immunoreactive proteins. Aqueous extract increased CYP1A2 protein level. In kidney, both extracts had no effects on AHH, ECOD, UGT, and GST activities. Three major bioactive alkaloids rutaecarpine, evodiamine, and dehydroevodiamine were present in both extracts. These alkaloids at 25 mg/kg increased hepatic EROD activity. These results demonstrated that E. rutaecarpa methanol and aqueous extracts could affect drug-metabolizing enzyme activities. Rutaecarpine, evodiamine, and dehydroevodiamine contributed at least in part to the increase of hepatic EROD activity by extracts of E. rutaecarpa. Thus, caution should be paid to the possible drug interactions of E. rutaecarpa and CYP substrates.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Cell Fractionation",
+        "Chromatography, High Pressure Liquid",
+        "Cyclooxygenase Inhibitors",
+        "Cytochrome P-450 Enzyme System",
+        "Drug Interactions",
+        "Drugs, Chinese Herbal",
+        "Glucuronosyltransferase",
+        "Glutathione Transferase",
+        "Humans",
+        "Indole Alkaloids",
+        "Liver",
+        "Male",
+        "Methanol",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oxazines",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Quinazolines",
+        "Rutaceae"
+      ]
+    },
+    {
+      "pmid": "11787945",
+      "title": "Induction of cytochrome P450-dependent monooxygenase in mouse liver and kidney by rutaecarpine, an alkaloid of the herbal drug Evodia rutaecarpa.",
+      "authors": [
+        "Y F Ueng",
+        "J J Wang",
+        "L C Lin",
+        "S S Park",
+        "C F Chen"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2001-Nov-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rutaecarpine is one of the main alkaloids of an herbal remedy, Evodia rutaecarpa, which has been used for the treatment of gastrointestinal disorder and headache. Effects of rutaecarpine on hepatic and renal cytochrome P450 (CYP)-dependent monooxygenase were studied in C57BL/6J mice. Treatment of mice with rutaecarpine by gastrogavage at 50 mg/kg/day for three days resulted in 57%, 41%, 6-, and 6-fold increases of hepatic microsomal benzo(a)pyrene hydroxylation, 7-ethoxycoumarin O-deethylation, 7-ethoxyresorufin O-deethylation, and 7-methoxyresorufin O-demethylation activities, respectively. However, the treatment had no effects on hepatic oxidation activities toward benzphetamine, N-nitrosodimethylamine, nifedipine, and erythromycin. In the kidney, rutaecarpine-treatment resulted in 2-fold and 42% increases of microsomal benzo(a)pyrene hydroxylation and 7-ethoxycoumarin O-deethylation activities, respectively. The treatment also increased renal 7-ethoxyresorufin O-deethylation activity to a detectable level. Immunoblot analysis of microsomal proteins showed that rutaecarpine-treatment increased the protein levels of CYP1A1 and CYP1A2 in the liver, whereas hepatic level of CYP3A-immunoreacted protein was not affected by rutaecarpine. These CYPs were not detectable in the immunoblot analyses of control and rutaecarpine-treated mouse kidney microsomes. These results indicated that rutaecarpine was a CYP1A inducer and showed potent inductive effects on both CYP1A1 and CYP1A2 in the liver.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Alkaloids",
+        "Animals",
+        "Cytochrome P-450 Enzyme System",
+        "Dose-Response Relationship, Drug",
+        "Drugs, Chinese Herbal",
+        "Enzyme Induction",
+        "Immunoblotting",
+        "Indole Alkaloids",
+        "Kidney",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microsomes, Liver",
+        "Quinazolines"
+      ]
+    },
+    {
+      "pmid": "10864095",
+      "title": "In vitro relaxation of rabbit and human internal anal sphincter by rutaecarpine, an alkaloid isolated from Evodia rutaecarpa.",
+      "authors": [
+        "J K Jiang",
+        "J H Chiu",
+        "I T Yu",
+        "J K Lin"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2000-May-05",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rutaecarpine, a compound extracted from the Chinese medicinal herb Evodia rutaecarpa, has been shown to possess relaxing action on vascular smooth muscle from rat thoracic aorta. The internal anal sphincter is a specialized smooth muscle regulating important anorectal physiology. To investigate the effect and underlying mechanisms of rutaecarpine on internal anal sphincter, muscle strips from rabbit internal anal sphincter were used. The results showed that rutaecarpine (1 x 10(-10) M to 1 x 10(-4) M) produced a concentration-dependent muscular relaxation effect in our preparations, which were precontracted with acetylcholine. This muscular relaxation effect was not affected by treatment with L-N(G)-nitro-arginine methyl ester (a nitric oxide synthase inhibitor), methylene blue (a guanylate cyclase inhibitor), N-ethylmaleimide (an adenylate cyclase inhibitor), or by removal of the mucosa and submucosa tissue. Pretreatment with nifedipine (a calcium channel blocker) or extracellular Ca+2 removal by ethylenediaminetetraacetic acid (EDTA) greatly attenuated the relaxation effect, suggesting that calcium ion might be involved. In experiments using strips from human internal anal sphincter, an even more prominent relaxation effect was shown. It is thus concluded that rutaecarpine caused relaxation on internal anal sphincter from rabbits and human subjects. The relaxation action was not related to NO-cGMP pathway, instead calcium ion might play an important role and shed insight into clinical implications for those anorectal disorders with hyperactive anal tone.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Alkaloids",
+        "Anal Canal",
+        "Animals",
+        "Calcium",
+        "Dose-Response Relationship, Drug",
+        "Drugs, Chinese Herbal",
+        "Edetic Acid",
+        "Enzyme Inhibitors",
+        "Ethylmaleimide",
+        "Humans",
+        "In Vitro Techniques",
+        "Indole Alkaloids",
+        "Male",
+        "Methylene Blue",
+        "Muscle Relaxation",
+        "Muscle, Smooth",
+        "NG-Nitroarginine Methyl Ester",
+        "Nifedipine",
+        "Quinazolines",
+        "Rabbits",
+        "Species Specificity",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "10669112",
+      "title": "A new class of COX-2 inhibitor, rutaecarpine from Evodia rutaecarpa.",
+      "authors": [
+        "T C Moon",
+        "M Murakami",
+        "I Kudo",
+        "K H Son",
+        "H P Kim",
+        "S S Kang",
+        "H W Chang"
+      ],
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "publication_date": "1999-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE AND DESIGN: We investigated the effect of a new class of COX-2 inhibitor, rutaecarpine, on the production of PGD2 in bone marrow derived mast cells (BMMC) and PGE2 in COX-2 transfected HEK293 cells. Inflammation was induced by lambda-carrageenan in male Splague-Dawley (SD) rats. MATERIAL: Rutaecarpine (8,13-Dihydroindolo[2',3':3,4]pyridol[2,1-b]quinazolin -5(7H)-one) was isolated from the fruits of Evodia rutaecarpa. BMMC were cultured with WEHI-3 conditioned medium. c-Kit ligand and IL-10 were obtained by their expression in baculovirus. METHODS: The generation of PGD2 and PGE2 were determined by their assay kit. COX-1 and COX-2 protein and mRNA expression was determined by BMMC in the presence of KL, LPS and IL-10. TREATMENT: Rutaecarpine and indomethacin dissolved in 0.1% carboxymethyl cellulose was administered intraperitoneally and, 1 h later, lambda-carrageenan solution was injected to right hind paw of rats. Paw volumes were measured using plethysmometer 5 h after lambda-carrageenan injection. RESULTS: Rutaecarpine inhibited COX-2 and COX-1 dependent phases of PGD2 generation in BMMC in a concentration-dependent manner with an IC50 of 0.28 microM and 8.7 microM, respectively. It inhibited COX-2-dependent conversion of exogenous arachidonic acid to PGE2 in a dose-dependent manner by the COX-2-transfected HEK293 cells. However, rutaecarpine inhibited neither PLA2 and COX-1 activity nor COX-2 protein and mRNA expression up to the concentration of 30 microM in BMMC, indicating that rutaecarpine directly inhibited COX-2 activity. Furthermore, rutaecarpine showed in vivo anti-inflammatory activity on rat lambda-carrageenan induced paw edema by intraperitoneal administration. CONCLUSION: Anti-inflammatory activity of Evodia rutaecarpa could be attributed at least in part by inhibition of COS-2.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Cell Line",
+        "Cyclooxygenase 1",
+        "Cyclooxygenase 2",
+        "Cyclooxygenase 2 Inhibitors",
+        "Cyclooxygenase Inhibitors",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Fruit",
+        "Humans",
+        "Immunoblotting",
+        "Indole Alkaloids",
+        "Inflammation",
+        "Isoenzymes",
+        "Male",
+        "Membrane Proteins",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Prostaglandin-Endoperoxide Synthases",
+        "Quinazolines",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Transfection"
+      ]
+    },
+    {
+      "pmid": "8082708",
+      "title": "The mechanism of the vasodilator effect of rutaecarpine, an alkaloid isolated from Evodia rutaecarpa.",
+      "authors": [
+        "W F Chiou",
+        "C J Chou",
+        "J F Liao",
+        "A Y Sham",
+        "C F Chen"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1994-May-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The mechanisms underlying the rutaecarpine-induced vasodilatation were studied using isolated rat mesenteric arterial ring segments. The results showed that rutaecarpine (0.1 microM to 0.1 mM) produced a dose-dependent vasorelaxing response in our preparations, which were precontracted with phenylephrine. This vasodilator effect was significantly attenuated by removal of the endothelium, treatment with L-NG-nitro-arginine, a nitric oxide synthase inhibitor, and methylene blue, a guanylyl cyclase inhibitor, but not by treatment with atropine, triprolidine and yohimbine. Rutaecarpine pretreatment (1 microM to 0.1 mM) reduced both the phasic (fast) and tonic (slow) phases of phenylephrine-induced contractions, suggesting that a reduction in intracellular calcium might be involved. It is thus concluded that while the vasorelaxing effect of rutaecarpine appeared to be endothelium-dependent and to involve nitric oxide and guanylyl cyclase, neither muscarinic receptors, histamine H1 receptors nor alpha 2-adrenoceptors are involved. Moreover, a direct effect on the vascular smooth muscle cell, possibly through a reduction in intracellular Ca2+, can not be excluded.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Alkaloids",
+        "Animals",
+        "Arginine",
+        "Atropine",
+        "Calcium",
+        "Dose-Response Relationship, Drug",
+        "Endothelium, Vascular",
+        "In Vitro Techniques",
+        "Indole Alkaloids",
+        "Male",
+        "Mesenteric Arteries",
+        "Methylene Blue",
+        "Muscle Relaxation",
+        "Muscle, Smooth, Vascular",
+        "Nitroarginine",
+        "Phenylephrine",
+        "Quinazolines",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Triprolidine",
+        "Vasodilation",
+        "Yohimbine"
+      ]
+    },
+    {
+      "pmid": "2615419",
+      "title": "Antianoxic action of evodiamine, an alkaloid in Evodia rutaecarpa fruit.",
+      "authors": [
+        "J Yamahara",
+        "T Yamada",
+        "T Kitani",
+        "Y Naitoh",
+        "H Fujimura"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "1989-Nov",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "In order to determine the antianoxic potential of evodiamine, its effects were compared to those of vinpocetine (VPT), using a series of animal models of anoxia. In mice, evodiamine was equivalent to VPT in the KCN-induced anoxia model but was greater than VPT in the low-pressure-induced anoxia model. Its effectiveness was increased by combined treatment with physostigmine, suggesting the involvement of a cholinergic mechanism in the antianoxic action of evodiamine.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Anticonvulsants",
+        "Atmospheric Pressure",
+        "Dihydroergotoxine",
+        "Hypoxia",
+        "Male",
+        "Mice",
+        "Pentobarbital",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Potassium Cyanide",
+        "Quinazolines",
+        "Sleep",
+        "Vinca Alkaloids"
+      ]
+    }
+  ]
+}

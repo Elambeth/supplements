@@ -1,0 +1,37 @@
+{
+  "supplement": "Burning bush",
+  "query": "Burning bush[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:27:23",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "3530683",
+      "title": "[Bullous phototoxic contact dermatitis caused by Dictamnus albus. The Bible's \"burning bush\"?].",
+      "authors": [
+        "M Knüchel",
+        "C Luderschmidt"
+      ],
+      "journal": "Deutsche medizinische Wochenschrift (1946)",
+      "publication_date": "1986-Sep-19",
+      "publication_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "A bullous phototoxic reaction occurred in a 27-year-old man working with the plant Dictamnus albus. The skin changes disappeared, leaving behind areas of hyperpigmentation, after treatment with corticoid-containing ointments. Possible causes are 5- and 8-methoxypsoralen, perhaps also photodynamically active alkaloids of the plant, as well as sun-ray exposure and sweating. Dictamnus albus may be the biblical \"burning bush\". Since the plant becoming ever more popular in German gardens, a phytophototoxic reaction should be considered in the differential diagnosis of the described symptoms.",
+      "mesh_terms": [
+        "Administration, Topical",
+        "Adult",
+        "Anti-Inflammatory Agents",
+        "Diagnosis, Differential",
+        "Glucocorticoids",
+        "Humans",
+        "Male",
+        "Photosensitivity Disorders",
+        "Plants, Toxic",
+        "Skin Diseases, Vesiculobullous"
+      ]
+    }
+  ]
+}

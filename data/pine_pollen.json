@@ -1,0 +1,333 @@
+{
+  "supplement": "Pine Pollen",
+  "query": "Pine Pollen[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:19:51",
+  "research_count": 11,
+  "count": 11,
+  "articles": [
+    {
+      "pmid": "38143799",
+      "title": "Masson pine pollen aqueous extract ameliorates cadmium-induced kidney damage in rats.",
+      "authors": [
+        "Zhiyong Hu",
+        "Sixin Chen",
+        "Tala Shi",
+        "Zhaoju Dong",
+        "Mei Cheng",
+        "Ning Li",
+        "Huijuan Zhao",
+        "Haibo Zhu",
+        "Chunlei Han",
+        "Lanlan Xu"
+      ],
+      "journal": "Frontiers in molecular biosciences",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Introduction: Cadmium (Cd) is a hazardous environmental pollutant present in soil, water, and food. Accumulation of Cd in organisms can cause systematic injury and damage to the kidney. The Masson pine pollen aqueous extract (MPPAE) has attracted increasing attention due to its antioxidant activity and ability to enhance immunity. Methods: In this study, we investigated the potential of MPPAE to protect against Cd-induced kidney damage in rats and the underlying mechanism. The transcriptome and metabolome of rats with Cd-induced kidney damage, following treatment with MPPAE, were explored. Results: The concentrations of superoxide dismutase (SOD) and malondialdehyde (MDA) were both significantly altered after treatment with MPPAE. Furthermore, sequencing and analysis of the transcriptome and metabolome of rats with Cd-induced kidney damage, following treatment with MPPAE, revealed differential expression of numerous genes and metabolites compared with the untreated control rats. These differentially expressed genes (DEGs) included detoxification-related genes such as cytochrome P450 and the transporter. The differentially expressed metabolites (DEMs) included 4-hydroxybenzoic acid, L-ascorbate, and ciliatine. Conjoint transcriptome and metabolome analysis showed that several DEGs were correlated with DEMs. Conclusion: These preliminary findings indicate the potential of MPPAE for the treatment of toxic metal poisoning."
+    },
+    {
+      "pmid": "36987195",
+      "title": "Effects of Pine Pollen Polysaccharides and Sulfated Polysaccharides on Ulcerative Colitis and Gut Flora in Mice.",
+      "authors": [
+        "Yali Wang",
+        "Xiao Song",
+        "Zhanjiang Wang",
+        "Zhenxiang Li",
+        "Yue Geng"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2023-Mar-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Polysaccharides are important biological macromolecules in all organisms, and have recently been studied as therapeutic agents for ulcerative colitis (UC). However, the effects of Pinus yunnanensis pollen polysaccharides on ulcerative colitis remains unknown. In this study, dextran sodium sulfate (DSS) was used to induce the UC model to investigate the effects of Pinus yunnanensis pollen polysaccharides (PPM60) and sulfated polysaccharides (SPPM60) on UC. We evaluated the improvement of polysaccharides on UC by analyzing the levels of intestinal cytokines, serum metabolites and metabolic pathways, intestinal flora species diversity, and beneficial and harmful bacteria. The results show that purified PPM60 and its sulfated form SPPM60 effectively alleviated the disease progression of weight loss, colon shortening and intestinal injury in UC mice. On the intestinal immunity level, PPM60 and SPPM60 increased the levels of anti-inflammatory cytokines (IL-2, IL-10, and IL-13) and decreased the levels of proinflammatory cytokines (IL-1β, IL-6, and TNF-α). On the serum metabolism level, PPM60 and SPPM60 mainly regulated the abnormal serum metabolism of UC mice by regulating the energy-related and lipid-related metabolism pathways, respectively. On the intestinal flora level, PPM60 and SPPM60 reduced the abundance of harmful bacteria (such as Akkermansia and Aerococcus) and induced the abundance of beneficial bacteria (such as lactobacillus). In summary, this study is the first to evaluate the effects of PPM60 and SPPM60 on UC from the joint perspectives of intestinal immunity, serum metabolomics, and intestinal flora, which may provide an experimental basis for plant polysaccharides as an adjuvant clinical treatment of UC."
+    },
+    {
+      "pmid": "36633076",
+      "title": "[Pseudotargeted metabolomics analysis of pine pollen intervention in the liver of premature ovarian failure rats].",
+      "authors": [
+        "Tao Qu",
+        "Yang Chen",
+        "Changjun Yang",
+        "Qisong Liu",
+        "Hui Chen",
+        "Zhiyong He",
+        "Zhaojun Wang",
+        "Jie Chen",
+        "Maomao Zeng"
+      ],
+      "journal": "Se pu = Chinese journal of chromatography",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "Premature ovarian failure (POF) is a prevalent gynecological disease. In traditional Chinese medicine, it is believed that POF is directly related to abnormal function of the liver and kidneys. As such, regulation of the liver metabolism through the use of medicinal and edible substances is important for the treatment of POF. Pine pollen, a traditional Chinese medicinal and edible pollen variety, contains various active substances, such as sex hormones and phytohormones, which have been used to inhibit inflammation, regulate the immune system, and protect reproductive tissues. Using ultra-high performance liquid chromatography-triple quadrupole mass spectrometry (UHPLC-MS/MS), this study examined the influence of pine pollen on the liver metabolome of cyclophosphamide-induced POF model Sprague Dawley (SD) rats. The variations in the metabolites present in the liver tissue of control SD rats, model SD rats, and SD rats treated with various doses of pine pollen or estrogen were analyzed using principal component analysis (PCA) in combination with orthogonal partial least squares discriminant analysis (OPLS-DA) and other multivariate statistical methods to reveal the mechanism of pine pollen intervention in the livers of POF SD rats. An animal model experiment was conducted using six groups of ten-week-old rats. Cyclophosphamide was administered intraperitoneally to the model group and four intervention groups at a dosage of 60 mg/kg for 1 d followed by a dosage of 10 mg/kg for 14 d. Within the following four weeks, each of the four intervention groups received the intragastric administration of 0.1, 0.5, or 1.5 g/kg bodyweight (BW) of pine pollen, or 0.075 g/kg BW of conjugated estrogens (positive control). Equal quantities of normal saline were administered to the control and cyclophosphamide-treated model groups. Subsequently, the rat livers were subject to pseudotargeted metabolomics, and a total of 687 liver metabolites were discovered using both positive and negative ions. The metabolites differing in content were screened using the t-test (p<0.05) and the fold change (FC>2 or <0.5) in univariate analysis, and the variable importance in projection (VIP>1) in multivariate analysis. It was found that in comparison with the control group, the contents of 32 metabolites significantly increased, while those of 28 metabolites significantly decreased in the model group. The majority of these metabolites were involved α-linolenic acid metabolism, vitamin B6 metabolism, and purine metabolism, along with the lysine degradation and glycolysis/gluconeogenesis metabolic pathways. Compared with the cyclophosphamide-induced model group, the estrogen group exhibited increased levels of 47 metabolites and decreased levels of 29 metabolites, wherein 34 metabolites were restored to the levels found in the control group. These metabolites mainly involved the vitamin B6, lysine, glycolysis/gluconeogenesis, arginine and proline, and cysteine and methionine metabolic pathways. In the low/medium/high-dose pine pollen groups, the contents of 34/32/34 metabolites increased, the contents of 30/37/24 metabolites decreased, and the contents of 47/38/34 metabolites were restored to the levels found in the control group, respectively. These metabolites were mainly involved in vitamin B6 metabolism, purine metabolism, and the glycolysis/gluconeogenesis metabolic pathway. These results therefore indicate that the restoring effect of pine pollen is equivalent or superior to that of conjugated estrogen. Additionally, based on the known metabolic pathways, it appears that when estrogen interferes with the liver metabolism, the key metabolic pathways that become affected are the arginine and proline metabolism and cysteine and methionine metabolism pathways. In contrast, pine pollen intervention affected existing metabolic pathways that were known to be disordered by cyclophosphamide. The use of pine pollen may therefore restore the levels of many metabolites. It should be noted that 23 overlaps exist between the estrogen-restored metabolites and the pine pollen-restored metabolites, including a variety of acylcarnitines, such as ACar 10∶0. As a result, pine pollen extract may be able to normalize the liver metabolic abnormalities induced by POF. This study therefore establishes a theoretical reference for the development of functional applications for pine pollen and for the treatment of POF.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Rats",
+        "Animals",
+        "Rats, Sprague-Dawley",
+        "Tandem Mass Spectrometry",
+        "Primary Ovarian Insufficiency",
+        "Cysteine",
+        "Lysine",
+        "Drugs, Chinese Herbal",
+        "Metabolomics",
+        "Chromatography, High Pressure Liquid",
+        "Liver",
+        "Estrogens",
+        "Cyclophosphamide",
+        "Purines",
+        "Biomarkers"
+      ]
+    },
+    {
+      "pmid": "36476398",
+      "title": "Pine pollen extract alleviates ethanol-induced oxidative stress and apoptosis in HepG2 cells via MAPK signaling.",
+      "authors": [
+        "Dandan Ma",
+        "Zhenyu Wang",
+        "Zhiyong He",
+        "Zhaojun Wang",
+        "Qiuming Chen",
+        "Fang Qin",
+        "Maomao Zeng",
+        "Jie Chen"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pine pollen extract (PPE) has various effects such as antioxidant, hypoglycemic and anti-obesity. However, the anti-ALD mechanism of PPE has rarely been studied. In this study, PPE was prepared and chemical components such as total protein, total sugars, total phenols, total flavonoids and polyphenol composition were determined. The effect of PPE on HepG2 cells after ethanol damage was also measured. HepG2 cells were pre-treated with 200 μg/mL and 400 μg/mL of PPE for 24 h followed by treatment with ethanol for 24 h. The results suggested that PPE significantly decreased the production of LDH, ROS and MDA. Meanwhile, the levels of GSH and SOD were also increased. The levels of Nrf2, HO-1 and Keap1 were upregulated after PPE treatment. Additionally, Bax were downregulated and Caspase3 activation was inhibited after PPE treatment. What's more, PPE also attenuated the ethanol-induced phosphorylation levels of MAPK in HepG2 cells. Three major phenols were identified as p-coumaric acid, catechins and caffeic acid. These results suggest that PPE can be effective against ALD by alleviating MAPK pathway-mediated oxidative stress and apoptosis. In conclusion, PPE is a natural product with hepatoprotective potential.",
+      "mesh_terms": [
+        "Humans",
+        "Hep G2 Cells",
+        "Ethanol",
+        "Kelch-Like ECH-Associated Protein 1",
+        "NF-E2-Related Factor 2",
+        "Oxidative Stress",
+        "Antioxidants",
+        "Apoptosis",
+        "Pollen",
+        "Phenols"
+      ]
+    },
+    {
+      "pmid": "36431783",
+      "title": "Pine Pollen Polysaccharides' and Sulfated Polysaccharides' Effects on UC Mice through Modulation of Cell Tight Junctions and RIPK3-Dependent Necroptosis Pathways.",
+      "authors": [
+        "Zhenxiang Li",
+        "Hanyue Wang",
+        "Zhanjiang Wang",
+        "Yue Geng"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2022-Nov-08",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The purpose of this study is to explore the effects of pine pollen polysaccharides and sulfated polysaccharides on mice with ulcerative colitis and whether they could protect mice from inflammation by regulating the tight junctions of colonic epithelial cells and regulating the RIPK3-dependent necroptosis pathways. Pine pollen polysaccharides were prepared by water boiling and ethanol precipitation. After deproteinedization with trichloroacetic acid, the UV spectrum showed that there were no proteins. One polysaccharide component (PPM60-III) was made by gel filtration chromatography, and then sulfated polysaccharide (SPPM60-III) was derived using the chlorosulfonic acid-pyridine method. After treatment with PPM60-III and SPPM60-III, the body weight of mice with ulcerative colitis induced by dextran sodium sulfate increased, the DAI score decreased, the levels of pro-inflammatory factors and inflammation-related enzymes decreased, and the level of anti-inflammatory factors increased. In addition, after treatment, the expressions levels of tight junction proteins increased, the expressions levels of key proteins of programmed necroptosis decreased, while the level of Caspase-8 increased. The results indicated that pine pollen polysaccharides and sulfated polysaccharides have a certain therapeutic effect on UC mice, and the therapeutic effect may be achieved by regulating the tight junction of colonic epithelial cells and regulating the RIPK3-dependent necroptosis pathways.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Necroptosis",
+        "Tight Junctions",
+        "Sulfates",
+        "Dextran Sulfate",
+        "Colitis, Ulcerative",
+        "Polysaccharides",
+        "Sulfur Oxides",
+        "Inflammation",
+        "Pollen",
+        "Receptor-Interacting Protein Serine-Threonine Kinases"
+      ]
+    },
+    {
+      "pmid": "29845056",
+      "title": "Biosynthesis of Silver Nanoparticles Using Pine Pollen and Evaluation of the Antifungal Efficiency.",
+      "authors": [
+        "Mehrdad Khatami",
+        "Seyed Mojtaba Mortazavi",
+        "Zeinab Kishani-Farahani",
+        "Abbas Amini",
+        "Elham Amini",
+        "Hossein Heli"
+      ],
+      "journal": "Iranian journal of biotechnology",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Nanoparticles have been applied to medicine, hygiene, pharmacy and dentistry, and will bring significant advances in the prevention, diagnosis, drug delivery and treatment of disease. Green synthesis of metal nanoparticles has a very important role in nanobiotechnology, allowing production of non-toxic and eco-friendly particles. Objectives: Green synthesis of silver nanoparticles (AgNPs) was studied using pine pollen as a novel, cost-effective, simple and non-hazardous bioresource. The antifungal activity of the synthesized AgNPs was investigated in vitro. Materials and Methods: Biosynthesis of AgNPs was conducted using pollen of pine (as a novel bioresource) acting as both reducing and capping agents. AgNPs were characterized using UV-visible spectroscopy, X-ray diffraction and transmission electron microscopy. In evaluation for antifungal properties, the synthesized AgNPs represented significant in vitro inhibitory effects on Neofusicoccum parvum cultures. Results: Pine pollen can mediate biosynthesis of colloidal AgNPs with an average size of 12 nm. AgNPs were formed at 22 °C and observed to be highly stable up to three months without precipitation or decreased antifungal property. AgNPs showed significant inhibitory effects against Neofusicoccum parvum. Conclusion: The first report for a low-cost, simple, well feasible and eco-friendly procedure for biosynthesis of AgNPs was presented. The synthesized AgNPs by pine pollen were nontoxic and eco-friendly, and can be employed for large-scale production. The nanoparticles showed strong effect on quantitative inhibition and disruption of antifungal growth."
+    },
+    {
+      "pmid": "26770368",
+      "title": "The protective effects of Masson pine pollen aqueous extract on CCl4-induced oxidative damage of human hepatic cells.",
+      "authors": [
+        "Xueyuan Jin",
+        "Tao Cong",
+        "Lin Zhao",
+        "Long Ma",
+        "Reisheng Li",
+        "Ping Zhao",
+        "Changjiang Guo"
+      ],
+      "journal": "International journal of clinical and experimental medicine",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: We observed the effects of Masson pine pollen aqueous extracts (MPPAE) on CCl4-induced oxidative damage of the human hepatic cell line L-02. METHODS: We created an in vitro model of oxidative liver damage by treating L-02 human hepatic cells with 40 mmol/L CCl4. Effects of different concentrations of MPPAE on cell proliferation, morphology, and change of functional indexes were observed after addition of CCl4. RESULTS: CCl4 was toxic to proliferation, cell morphology, and functionality of hepatic cells. It decreased proliferation by 29.3-38.4% and increased AST and ALT activities by 22.3% and 99.2%, respectively. The oxidative stress also disrupted hepatic cell growth and induced pyknosis. Although MPPAE did not prevent decreased proliferation of L-02 cells, the treatment alleviated some CCl4-induced cell morphology changes and inhibited the abnormal rise of ALT (39.8%-70.1%) and AST (14.75-27.25%) activities in a dose dependent manner. A high dose of MPPAE (400 mg/L) ameliorated nucleus deformation to an almost normal appearance. CONCLUSIONS: According to our in vitro model, MPPAE specifically prevented the changes in cell morphology and functional injury caused by CCL4 treatment; however, it offered limited protection against damage-induced reduction of proliferation."
+    },
+    {
+      "pmid": "22577492",
+      "title": "Antiaging effect of pine pollen in human diploid fibroblasts and in a mouse model induced by D-galactose.",
+      "authors": [
+        "Gen-Xiang Mao",
+        "Ling-Di Zheng",
+        "Yong-Bao Cao",
+        "Zhuo-Mei Chen",
+        "Yuan-Dong Lv",
+        "Ya-Zhen Wang",
+        "Xi-Lian Hu",
+        "Guo-Fu Wang",
+        "Jing Yan"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present paper was designed to investigate the effect of pine pollen against aging in human diploid fibroblast 2BS cells and in an accelerated aging model, which was established by subcutaneous injections with D-galactose daily for 8 weeks in C57BL/6J mice. Pine pollen (1 mg/mL and 2 mg/mL) is proved to delay the replicative senescence of 2BS cells as evidenced by enhanced cell proliferation, decreased SA-β-Gal activity, and reversed expression of senescence-associated molecular markers, such as p53, p21(Waf1), p16(INK4a), PTEN, and p27(Kip1) in late PD cells. Besides, pine pollen reversed D-galactose-induced aging effects in neural activity and inflammatory cytokine levels, as indicated by improved memory latency time and reduced error rate in step-down test and decreased concentrations of IL-6 and TNF-α in model mice. Similar to the role of AGEs (advanced glycation endproducts) formation inhibitor aminoguanidine (AG), pine pollen inhibited D-galactose-induced increment of AGEs levels thus reversed the aging phenotypes in model mice. Furthermore, the declined antioxidant activity was obviously reversed upon pine pollen treatment, which may account for its inhibitory effect on nonenzymatic glycation (NEG) in vivo. Our finding presents pine pollen as an attractive agent with potential to retard aging and attenuate age-related diseases in humans.",
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Antioxidants",
+        "Body Weight",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cellular Senescence",
+        "Cytokines",
+        "Diploidy",
+        "Female",
+        "Fibroblasts",
+        "Galactose",
+        "Glycation End Products, Advanced",
+        "Humans",
+        "Inflammation Mediators",
+        "Lipid Peroxidation",
+        "Malondialdehyde",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Models, Animal",
+        "Nervous System",
+        "Pinus",
+        "Pollen",
+        "Staining and Labeling",
+        "Superoxide Dismutase",
+        "beta-Galactosidase"
+      ]
+    },
+    {
+      "pmid": "20388281",
+      "title": "Effects of pine pollen supplementation in an onion diet on Frankliniella fusca reproduction.",
+      "authors": [
+        "G M Angelella",
+        "D G Riley"
+      ],
+      "journal": "Environmental entomology",
+      "publication_date": "2010-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A micro-cage bioassay was developed to test the effect of slash pine pollen (Pinus elliottii Engelm.) supplementation to a whole onion plant (Allium cepa L. variety Pegasus) diet on thrips (Thysanoptera: Thripidae) reproductive parameters. Frankliniella fusca (Hinds) females were placed on two to three-leaf stage onion seedling under a treatment of either slash pine (Pinus elliottii Engelm.) pollen dusting (a pollen supplement) or no pollen treatment. Adult survival, net oviposition, and offspring produced over a series of ten 2-d intervals were recorded. From these values, l(x), l(x)m(x), and R(0) values were constructed. A trimodal distribution of oviposition was observed with the pollen supplement. Increased oviposition rates led to higher female offspring production per female and to a four-fold increase in F. fusca net reproduction on pollen-treated onions.",
+      "mesh_terms": [
+        "Animals",
+        "Diet",
+        "Female",
+        "Insecta",
+        "Male",
+        "Onions",
+        "Oviparity",
+        "Pinus",
+        "Pollen"
+      ]
+    },
+    {
+      "pmid": "19148883",
+      "title": "Effect of pine pollen extract on experimental chronic arthritis.",
+      "authors": [
+        "Kyung-Hee Lee",
+        "Eun-Mi Choi"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2009-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of pine pollen extract (PE) on Freund's complete adjuvant (FCA)-induced arthritis and collagen-induced arthritis (CIA) were investigated. The oral administration of PE (100 and 200 mg/kg per day) for 21 days after subcutaneous immunization with FCA, significantly reduced hindpaw swelling and the production of inflammatory cytokines (TNF-alpha, IL-1beta and IL-6) compared with the FCA-induced arthritis group. Treatment with the PE (100 mg/kg) also decreased the serum levels of LDL-cholesterol and increased HDL-cholesterol contents compared with those of the arthritis group. Since CIA is a model of some types of human autoimmune rheumatoid arthritis (RA), the study examined whether PE is efficacious against CIA in mice and investigated the possible antioxidant potential of PE on CIA. Arthritis in DBA/1J mice was induced by subcutaneous immunization with bovine type II collagen. PE (100 and 200 mg/kg) was orally administered once daily for 49 days after initial immunization with type II collagen. The arthritis score and paw edema were markedly suppressed in the groups treated with PE. Moreover, administration of PE (100 mg/kg) for 49 days reduced the serum levels of rheumatoid factor, anti-type II collagen antibody, TNF-alpha, IL-1beta, IL-6, protein carbonyl, advanced glycation endproducts, malondialdehyde and LDL-cholesterol compared with that of CIA mice. These results suggest that the pine pollen might be beneficial in the treatment of chronic inflammatory disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antirheumatic Agents",
+        "Arthritis, Experimental",
+        "Collagen Type II",
+        "Cytokines",
+        "Female",
+        "Freund's Adjuvant",
+        "Male",
+        "Mice",
+        "Mice, Inbred DBA",
+        "Mice, Inbred ICR",
+        "Pinus",
+        "Plant Extracts",
+        "Pollen"
+      ]
+    },
+    {
+      "pmid": "19107823",
+      "title": "Antioxidant and antiinflammatory activity of pine pollen extract in vitro.",
+      "authors": [
+        "Kyung-Hee Lee",
+        "Ae-Jung Kim",
+        "Eun-Mi Choi"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To determine the medicinal properties of pine pollen, the antioxidant and antiinflammatory activities of the ethanol extract of pine pollen extract (PPE) were investigated. PPE displayed a strong free radical scavenger activity on 1,1-diphenyl-2-picrylhydrazyl radical and hydrogen peroxide. It was observed also that the antioxidant activity, measured by the ferric thiocyanate method, increased with the addition of PPE to the linoleic acid emulsion system. PPE was also found to inhibit significantly the amount of malondialdehyde and protein carbonyls formed from liver homogenate. Like the antioxidant activity, the reducing power of PPE was excellent. Thereafter, the study investigated the effects of PPE in modulating the production of pro-inflammatory mediators in lipopolysaccharide (LPS)-activated RAW 264.7 macrophages, and the effect of PPE on interleukin (IL)-1beta-induced matrix metalloproteinases (MMPs) production and mitogen-activated protein kinases (MAPKs) activation in the human synovial sarcoma cell line, SW982. PPE was found to inhibit the production of nitric oxide, tumor necrosis factor-alpha, IL-1 and IL-6 in LPS-activated macrophages. Treatment with PPE at 10 microg/mL significantly (p < 0.05) inhibited IL-1beta-induced MMPs (MMP-1 and -3) production in SW982 cells. IL-1beta-induced JNK activation was inhibited by PPE (10 microg/mL), whereas p38 and ERK1/2 were not affected. These findings suggest that pine pollen is a potential antioxidant and beneficial for inflammatory conditions through down-regulation of JNK and MMPs.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Biphenyl Compounds",
+        "Cell Line, Tumor",
+        "Humans",
+        "Hydrogen Peroxide",
+        "Interleukin-1beta",
+        "JNK Mitogen-Activated Protein Kinases",
+        "Malondialdehyde",
+        "Matrix Metalloproteinases",
+        "Mice",
+        "Mitogen-Activated Protein Kinases",
+        "Oxidation-Reduction",
+        "Picrates",
+        "Pinus",
+        "Plant Extracts",
+        "Pollen"
+      ]
+    }
+  ]
+}

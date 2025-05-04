@@ -1,0 +1,72 @@
+{
+  "supplement": "Low-Dairy Diet",
+  "query": "Low-Dairy Diet[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:58:30",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "26225266",
+      "title": "Low Starch/Low Dairy Diet Results in Successful Treatment of Obesity and Co-Morbidities Linked to Polycystic Ovary Syndrome (PCOS).",
+      "authors": [
+        "Jennifer L Phy",
+        "Ali M Pohlmeier",
+        "Jamie A Cooper",
+        "Phillip Watkins",
+        "Julian Spallholz",
+        "Kitty S Harris",
+        "Abbey B Berenson",
+        "Mallory Boylan"
+      ],
+      "journal": "Journal of obesity & weight loss therapy",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Polycystic Ovary Syndrome (PCOS) affects approximately 15% of reproductive-age women and increases risk of insulin resistance, type 2 diabetes mellitus, cardiovascular disease, cancer and infertility. Hyperinsulinemia is believed to contribute to or worsen all of these conditions, and increases androgens in women with PCOS. Carbohydrates are the main stimulators of insulin release, but research shows that dairy products and starches elicit greater postprandial insulin secretion than non-starchy vegetables and fruits. The purpose of this study was to determine whether an 8-week low-starch/low-dairy diet results in weight loss, increased insulin sensitivity, and reduced testosterone in women with PCOS. METHODS: Prospective 8-week dietary intervention using an ad libitum low starch/low dairy diet in 24 overweight and obese women (BMI ≥ 25 kg/m2 and ≤ 45 kg/m2) with PCOS. Diagnosis of PCOS was based on the Rotterdam criteria. Weight, BMI, Waist Circumference (WC), Waist-to-Height Ratio (WHtR), fasting and 2-hour glucose and insulin, homeostasis model assessment of Insulin Resistance (HOMA-IR), HbA1c, total and free testosterone, and Ferriman-Gallwey scores were measured before and after the 8-week intervention. RESULTS: There was a reduction in weight (-8.61 ± 2.34 kg, p<0.001), BMI (-3.25 ± 0.88 kg/m2, p<0.001), WC (-8.4 ± 3.1 cm, p<0.001), WHtR (-0.05 ± 0.02 inches, p<0.001), fasting insulin (-17.0 ± 13.6 μg/mL, p<0.001) and 2-hour insulin (-82.8 ± 177.7 μg/mL, p=0.03), and HOMA-IR (-1.9 ± 1.2, p<0.001) after diet intervention. Total testosterone (-10.0 ± 17.0 ng/dL, p=0.008), free testosterone (-1.8 pg/dL, p=0.043) and Ferriman-Gallwey scores (-2.1 ± 2.7 points (p=0.001) were also reduced from pre- to post-intervention. CONCLUSION: An 8-week low-starch/low-dairy diet resulted in weight loss, improved insulin sensitivity and reduced testosterone in women with PCOS."
+    },
+    {
+      "pmid": "25109619",
+      "title": "Effect of a low-starch/low-dairy diet on fat oxidation in overweight and obese women with polycystic ovary syndrome.",
+      "authors": [
+        "Ali M Pohlmeier",
+        "Jennifer L Phy",
+        "Phillip Watkins",
+        "Mallory Boylan",
+        "Julian Spallholz",
+        "Kitty S Harris",
+        "Jamie A Cooper"
+      ],
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "publication_date": "2014-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Polycystic ovary syndrome (PCOS) affects between 4%-18% of reproductive-aged women and is associated with increased risk of obesity and obesity-related disease. PCOS is associated with hyperinsulinemia, which is known to impair fat oxidation. Research shows that carbohydrates from dairy and starch-based foods cause greater postprandial insulin secretion than carbohydrates from nonstarchy vegetables and fruits. The purpose of this study was to determine whether an ad libitum 8-week low-starch/low-dairy diet would improve fasting and postprandial fat oxidation after a high saturated fat liquid meal (HSFLM) in overweight and obese women with PCOS. Prospective 8-week dietary intervention using a low-starch/low-dairy diet in 10 women (body mass index ≥25 kg/m(2) and ≤45 kg/m(2)) with PCOS. Indirect calorimetry was used at fasting and for 5 h following consumption of the HSFLM to determine respiratory exchange ratio (RER), macronutrient oxidation, and energy expenditure (EE) at week 0 and week 8. Participants had a reduction in body weight (-8.1 ± 1.8 kg, p < 0.05) and fasting insulin (-19.5 ± 8.9 μg/mL, p < 0.05) after dietary intervention; however, these were not significantly correlated with improved fat oxidation. There was a reduction in fasting RER, and fasting and postprandial carbohydrate oxidation, and an increase in fasting and postprandial fat oxidation after adjusting for body weight. There was also significant difference in incremental area under the curve from pre- to post-diet for fat (0.06 ± 0.00 g/kg per 5 h; p < 0.001) and carbohydrate oxidation (-0.29 ± 0.06 g/kg per 5 h; p < 0.001), but not for RER or EE. In conclusion, an 8-week low-starch/low-dairy diet increased fat oxidation in overweight and obese women with PCOS.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Body Composition",
+        "Body Mass Index",
+        "Calorimetry, Indirect",
+        "Dairy Products",
+        "Diet, Carbohydrate-Restricted",
+        "Energy Metabolism",
+        "Female",
+        "Glycemic Index",
+        "Humans",
+        "Insulin",
+        "Insulin Resistance",
+        "Lipids",
+        "Middle Aged",
+        "Obesity",
+        "Overweight",
+        "Oxidation-Reduction",
+        "Polycystic Ovary Syndrome",
+        "Prospective Studies",
+        "Weight Loss"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "supplement": "Banana Flower",
+  "query": "Banana Flower[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:15:20",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "39302552",
+      "title": "The use of microencapsulated banana flower powder pellet on in vitro ruminal fermentation, digestibility, microbial diversity, and methane production.",
+      "authors": [
+        "Gamonmas Dagaew",
+        "Sajee Kunhareang",
+        "Srisan Phupaboon",
+        "Maharach Matra",
+        "Sukruthai Sommai",
+        "Chaichana Suriyapha",
+        "Rittikeard Prachumchai",
+        "Metha Wanapat"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2024-Sep-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ruminant animals constitute major contributors to greenhouse gas (GHG) emissions and play an important part in sustainable agricultural systems. A bioactive compound (BC) with antibacterial properties was utilized to inhibit rumen methanogens and decrease ruminant methane emissions. The bio efficacy of ruminant nutrition was frequently employed using a new technology through microencapsulation technique to produce stable products. The microencapsulated banana flower powder pellet (mBAFLOP) powder was used as a BC in the diets. Consequently, this study aimed to evaluate the effects of mBAFLOP supplementation on in vitro gas production kinetics, rumen fermentation, microbial population, and methane production. A completely randomized design (CRD) was used to randomly assign respective treatments at 0, 1, 2, and 3% of the total dry matter (DM) substrate. Ruminal pH, in vitro dry matter degradability and volatile fatty acid profile both at 12, and 24 h were not negatively affected by supplementation with mBAFLOP. The supplemented mBAFLOP (3% of total DM substrate) resulting in ruminal ammonia-nitrogen concentrations was linearly increased (P < 0.01) different among treatments, while methane production was reduced when compared with other treatment (quadratic effect, P < 0.05). Moreover, Ruminococcus flavefaciens was increased when the proportion of mBAFLOP supplement was increased. Furthermore, there was a linear effect (P < 0.05) of decreasing Methanobacteriales in the rumen with increased levels of mBAFLOP supplementation. Based on this study, the use of mBAFLOP at 3% could enhance NH3N concentration and cellulolytic bacteria especially Ruminococcus flavefaciens was increased. Furthermore, supplementation with mBAFLOP decreased methane production. Therefore, a possible dietary plant-based bioactive compound, mBAFLOP supplementation cloud enhances rumen fermentation and mitigates methane production.",
+      "mesh_terms": [
+        "Animals",
+        "Musa",
+        "Rumen",
+        "Methane",
+        "Fermentation",
+        "Digestion",
+        "Animal Feed",
+        "Diet",
+        "Flowers",
+        "Dietary Supplements",
+        "Gastrointestinal Microbiome",
+        "Animal Nutritional Physiological Phenomena",
+        "Powders",
+        "Drug Compounding",
+        "Cattle"
+      ]
+    },
+    {
+      "pmid": "32729140",
+      "title": "Correction of glycemic and oxidative stress sensors in streptozotocin induced diabetic rat model: Impact of dose dependent study of n-butanol solvent fraction of hydro-methanol extract of banana flower (Musa balbisiana).",
+      "authors": [
+        "Farhin Ara",
+        "Adrija Tripathy",
+        "Prabal Ghosh",
+        "Debidas Ghosh"
+      ],
+      "journal": "Journal of food biochemistry",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The experiment focused the most effective dose out of 2.5, 5, and 10 mg/100 g body weight/day for 4 weeks of n-butanol fraction from the pretested promising hydro-methanol extract of Musa balbisiana flower to manage the streptozotocin-induced diabetes in rat and to minimize the bioburden of the body by excluding the inactive components from the said extract. Fraction treatment exhibited an outstanding recovery in fasting blood glucose, glycated hemoglobin, serum insulin levels, carbohydrate metabolic, antioxidant enzymes activities, expression of their marker genes, and apoptotic gene in diabetic rat. Flow-cytometric study of pancreatic β-cell population was significantly recovered in fraction-treated groups which was also supported by histological study. The moderate dose, that is, 5 mg dose showed maximum efficacy in respect to other doses. The high dose, that is, 10 mg dose is not significantly effective than 5 mg dose may be due to the desensitization of the target organ's orphan receptor(s). PRACTICAL APPLICATIONS: The work includes the role of M. balbisiana on diabetes management. Result focused that M. balbisiana flower can able to rectify the diabetic condition and recovered the β cell population. M. balbisiana flower is a very common vegetable to people, use mostly in their daily meal. The experiment showed positive results to cure diabetes in the long-term. Moreover, this study is potential for drug development using nutraceutical(s) isolation. The pharmaceutical companies may develop an antidiabetic drug from the concerned plant part after successful clinical trial."
+    },
+    {
+      "pmid": "22493522",
+      "title": "Molecular docking studies of banana flower flavonoids as insulin receptor tyrosine kinase activators as a cure for diabetes mellitus.",
+      "authors": [
+        "Jayasree Ganugapati",
+        "Aashish Baldwa",
+        "Sarfaraz Lalani"
+      ],
+      "journal": "Bioinformation",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diabetes mellitus is a metabolic disorder caused due to insulin deficiency. Banana flower is a rich source of flavonoids that exhibit anti diabetic activity. Insulin receptor is a tetramer that belongs to a family of receptor tyrosine kinases. It contains two alpha subunits that form the extracellular domain and two beta subunits that constitute the intracellular tyrosine kinase domain. Insulin binds to the extracellular region of the receptor and causes conformational changes that lead to the activation of the tyrosine kinase. This leads to autophosphorylation, a step that is crucial in insulin signaling pathway. Hence, compounds that augment insulin receptor tyrosine kinase activity would be useful in the treatment of diabetes mellitus. The 3D structure of IR tyrosine kinase was obtained from PDB database. The list of flavonoids found in banana flower was obtained from USDA database. The structures of the flavonoids were obtained from NCBI Pubchem. Docking analysis of the flavonoids was performed using Autodock 4.0 and Autodock Vina. The results indicate that few of the flavonoids may be potential activators of IR tyrosine kinase."
+    }
+  ]
+}

@@ -1,0 +1,1938 @@
+{
+  "supplement": "Yerba Mate",
+  "query": "Yerba Mate[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:06:57",
+  "research_count": 58,
+  "count": 58,
+  "articles": [
+    {
+      "pmid": "40077767",
+      "title": "Yerba Mate (Ilex paraguariensis) Ameliorates Experimental Autoimmune Encephalomyelitis by Modulating Regulatory T Cell Function.",
+      "authors": [
+        "Andrés A Herrada",
+        "Francisca Rodríguez-Arriaza",
+        "Alexandra Olate-Briones",
+        "Sofía Albornoz-Muñoz",
+        "Jorge Y Faúndez-Acuña",
+        "Victor Rojas-Henríquez",
+        "Ledaliz Retamal-Quinteros",
+        "Carolina Prado",
+        "Noelia Escobedo"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2025-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background/Objectives: In Latin America, yerba mate (YM) is a popular infusion processed from the leaves and stems of Ilex paraguariensis. YM has been shown to have anti-inflammatory properties in several studies, although the effect of YM on multiple sclerosis (MS) remains elusive. The purpose of this study was to examine the effect of YM on the development of MS, by using the experimental autoimmune encephalomyelitis (EAE) mouse model while also evaluating its effect over infiltration of immune cells into the central nervous system (CNS) and regulatory T cell (Treg) function. Methods: YM or vehicle were administrated to mice daily by oral gavage for seven days prior to EAE induction and during the entire course of the disease. EAE score was recorded daily, and immune cell infiltration into the CNS was measured by flow cytometry and immunofluorescence. Results: Our results showed that YM administration decreases EAE symptoms and immune cell infiltration into the CNS, along with reducing demyelination, compared to the vehicle treatment. Moreover, an increase in the Treg population, immune cells capable of generating tolerance and decreased inflammation, was observed in mice receiving YM, together with improved Treg suppressive capabilities after YM treatment in vitro. Conclusions: In summary, we showed that YM promotes an immunosuppressive environment by modulating Treg function, reducing EAE symptoms and immune cell infiltration into the brain, and suggesting that YM consumption could be a good cost-effective treatment for MS.",
+      "mesh_terms": [
+        "Animals",
+        "T-Lymphocytes, Regulatory",
+        "Encephalomyelitis, Autoimmune, Experimental",
+        "Ilex paraguariensis",
+        "Plant Extracts",
+        "Mice",
+        "Female",
+        "Mice, Inbred C57BL",
+        "Multiple Sclerosis",
+        "Anti-Inflammatory Agents",
+        "Disease Models, Animal",
+        "Central Nervous System"
+      ]
+    },
+    {
+      "pmid": "40004954",
+      "title": "The Incretin Effect of Yerba Maté (Ilex paraguariensis) Is Partially Dependent on Gut-Mediated Metabolism of Ferulic Acid.",
+      "authors": [
+        "Elijah T Cooper-Leavitt",
+        "Marley J Shin",
+        "Colson G Beus",
+        "Alden T Chiu",
+        "Genevieve Parker",
+        "Jack H Radford",
+        "Ethan P Evans",
+        "Isaac T Edwards",
+        "Juan A Arroyo",
+        "Paul R Reynolds",
+        "Benjamin T Bikman"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2025-Feb-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: Yerba maté (YM), a traditional herbal beverage made from Ilex paraguariensis, contains bioactive compounds like polyphenols and alkaloids known for their metabolic benefits. This study investigates YM's incretin effects, focusing on glucagon-like peptide-1 (GLP-1) and gastric inhibitory polypeptide (GIP). Methods: Male and female C57BL/6 mice were supplemented with YM for four weeks. Post-supplementation, GLP-1 and GIP gene expression levels were analyzed in jejunal mucosa, and plasma hormone concentrations were measured. Additionally, in vitro experiments were conducted using GLUTag L-cells to evaluate the direct effects of YM and its metabolites, including ferulic acid and dihydroferulic acid, on GLP-1 secretion. Gene expression analysis involved quantitative real-time PCR, while hormone levels were assessed via ELISA. RESULTS: YM supplementation significantly increased GLP-1 gene expression and plasma GLP-1 levels compared to controls, with no changes observed in GIP expression or plasma levels. Direct treatment of GLUTag L-cells with YM did not enhance GLP-1 secretion. However, dihydroferulic acid, a microbial metabolite of ferulic acid, markedly stimulated GLP-1 production in L-cells, highlighting a role of gut-mediated metabolism in YM's incretin effects. CONCLUSIONS: YM selectively upregulates GLP-1 pathways without affecting GIP, likely through gut-mediated mechanisms. These findings suggest YM as a promising nutraceutical for incretin modulation and metabolic disorder management. Further studies should explore the interplay between YM, the gut microbiota, and incretin pathways to fully realize its therapeutic potential.",
+      "mesh_terms": [
+        "Animals",
+        "Coumaric Acids",
+        "Ilex paraguariensis",
+        "Male",
+        "Glucagon-Like Peptide 1",
+        "Mice, Inbred C57BL",
+        "Female",
+        "Incretins",
+        "Mice",
+        "Gastric Inhibitory Polypeptide",
+        "Dietary Supplements",
+        "Intestinal Mucosa",
+        "Plant Extracts",
+        "Jejunum"
+      ]
+    },
+    {
+      "pmid": "39987999",
+      "title": "Could the inhibition of systemic NLRP3 inflammasome mediate central redox effects of yerba mate? An in silico and pre-clinical translational approach.",
+      "authors": [
+        "Júlia Maiara Dos Santos",
+        "Luciana Touguinha",
+        "Raquel Bridi",
+        "Ana Cristina Andreazza",
+        "Djenifer Leticia Ulrich Bick",
+        "Carolina Bordin Davidson",
+        "André Flores Dos Santos",
+        "Kolinski Alencar Machado",
+        "Fernando Joel Scariot",
+        "Longaray Ana Paula Delamare",
+        "Mirian Salvador",
+        "Catia Santos Branco"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2025-Mar-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Empirically, Ilex paraguariensis A. St. Hil, or yerba-mate, has been used by natives of South America as a stimulant. Nowadays, this plant has gained popularity due to its neuroprotective effects. However, there are few studies on the biochemical-molecular mechanisms of action involved in its effect. AIM OF THE STUDY: Chemically characterize an aqueous extract of yerba mate (YME) and evaluate if it could suppress the aberrant inflammatory response related to neurodegeneration. MATERIALS AND METHODS: Macrophages and microglia cells were exposed to lipopolysaccharide (LPS; 100 ng/mL) plus nigericin (100 μM) or quinolinic acid (QA; 5 mM). Cellular viability, oxidative, and inflammatory markers were evaluated. Chemical matrix (HPLC - DAD), antioxidant activity, safety profile in vitro and in vivo, and an in silico docking of main targets were also assessed. RESULTS: Pre-treatment with YME (15 μg/mL) prevented impairments in redox metabolism and inflammatory markers in BV-2 cells. In macrophages, YME showed similar results to MCC950, an inflammasome inhibitor. YME presented 282.88 mg EAG/g total phenolic content and a redox capacity of 32.94 ± 1.30 μg/mL (IC50), and its major compounds were chlorogenic acid > rutin > ferulic acid > catechin > sinapic acid. Chlorogenic acid and rutin presented a high affinity to the MCC950 region. Additionally, YME did not cause genotoxicity and was safe in vivo. CONCLUSION: YME has significantly affected macrophages and microglia by regulating the NLRP3 inflammatory pathway.",
+      "mesh_terms": [
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Animals",
+        "Ilex paraguariensis",
+        "Mice",
+        "Inflammasomes",
+        "Plant Extracts",
+        "Macrophages",
+        "Oxidation-Reduction",
+        "Microglia",
+        "Male",
+        "Molecular Docking Simulation",
+        "Cell Line",
+        "Lipopolysaccharides",
+        "Anti-Inflammatory Agents",
+        "Computer Simulation",
+        "Antioxidants",
+        "Neuroprotective Agents"
+      ]
+    },
+    {
+      "pmid": "39708247",
+      "title": "The Acute Ingestion of Yerba Mate (Ilex paraguariensis) Infusion Does Not Modify Endothelial Function, Hemodynamics, or Heart Rate Variability: A Randomized Crossover Clinical Trial.",
+      "authors": [
+        "Richard Emanuel Filipini",
+        "Manuela de Faria Barcellos José",
+        "Guilherme Fleury Fina Speretta"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2024-Dec-21",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Herbal plants may contribute to reducing the incidence of cardiovascular disease. Yerba mate (YM) emerges as a candidate to improve endothelial function, hemodynamics, and heart rate variability (HRV) due to its antioxidant and anti-inflammatory properties, potentially decreasing cardiovascular risk. Therefore, studies are needed to assess the effect of YM ingestion on these parameters. This study aimed to evaluate the impact of acute ingestion of YM infusion (hot or cold) on endothelial function, hemodynamics, and HRV. METHODS AND RESULTS: In this crossover randomized clinical trial, 13 participants (18-40 years old) of both genders were evaluated under three conditions: control (water), cold YM infusion, and hot YM infusion. The primary outcome was endothelial function assessed through flow-mediated dilation (FMD), with the secondary outcomes including blood pressure (BP), heart rate (HR) and HRV. Parameters were evaluated before and after intervention (40' and 80'). Analysis of variance (ANOVA) showed an intervention effect on FMD (%) (p < 0.05), with both cold and hot YM associated to higher FMD% compared to control, although no time or time*intervention effects were found. ANOVA also showed a time effect on BP, HR, and HRV time and frequency domains variables (p < 0.05), though no time*intervention or intervention effect was observed. CONCLUSION: We did not find acute effects of YM infusion on endothelial function, central hemodynamic, or autonomic parameters in healthy adults. These results were not impacted by the temperature of YM. Further studies should assess the dose-response of acute and chronic YM ingestion on endothelial function. TRIAL REGISTRATION: U1111-1289-9324, retrospectively registered in May 2023.",
+      "mesh_terms": [
+        "Humans",
+        "Ilex paraguariensis",
+        "Cross-Over Studies",
+        "Heart Rate",
+        "Male",
+        "Adult",
+        "Female",
+        "Young Adult",
+        "Hemodynamics",
+        "Endothelium, Vascular",
+        "Blood Pressure",
+        "Adolescent",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "39383364",
+      "title": "Occurrence and diversity of arbuscular mycorrhizal fungi in yerba mate (Ilex paraguariensis - Aquifoliaceae) cultivation environments.",
+      "authors": [
+        "V J Dos Santos",
+        "G de Barros",
+        "T F Moreira",
+        "A de R Giovenardi",
+        "J B Magalhães",
+        "G P K Steffen",
+        "S L Stürmer",
+        "R F da Silva"
+      ],
+      "journal": "Brazilian journal of biology = Revista brasleira de biologia",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba mate (Ilex paraguariensis) represents a culture of economic, social, and ecological importance for the cultivation regions. Due to the chemical, physical, and biological variations that occur in the different soils where yerba mate is economically exploited, the symbiotic associations with arbuscular mycorrhizal fungi (AMF) guarantee the plant's ability to absorb nutrients. The purpose of this study was to identify and quantify the occurrence of arbuscular mycorrhizal fungi in different environments of yerba mate cultivation. The research was performed in four areas located in the rural area of the municipality of Seberi/RS: Environment with production of yerba mate in the conventional system, silvopastoral system, organic system, and native forest. The normality of residuals and homogeneity of variances assumptions were verified using the Lilliefors and Chi-square tests and the averages compared by the Tukey's test at 5% probability of error. In addition to calculations of diversity, equivalent species, and evenness indices. The presence of AMF spores showed a direct relationship with the phosphorus (P) availability in each treatment, with a count reduction in the organic system, with P content lower than 3 mg kg-1 of soil. The species with the highest predominance were the Acaulosporaceae (Acaulospora colombiana, A. delicata, and A. tuberculata), followed by the Glomaceae (Glomus ambisporum and Glomus pansihalos) in the conventional and silvopastoral systems. The silvopastoral and conventional systems showed the highest levels of Shannon-Weaver diversity (H') and Pielou's evenness, demonstrating greater diversity and consequently greater richness and uniformity.",
+      "mesh_terms": [
+        "Mycorrhizae",
+        "Ilex paraguariensis",
+        "Biodiversity",
+        "Soil Microbiology",
+        "Brazil",
+        "Phosphorus"
+      ]
+    },
+    {
+      "pmid": "39202736",
+      "title": "Anti-Cataract Effect of the Traditional Aqueous Extract of Yerba Mate (Ilex paraguariensis A. St.-Hil.): An In Ovo Perspective.",
+      "authors": [
+        "Seyma Oncu",
+        "Merve Becit-Kizilkaya",
+        "Abdulkadir Bilir",
+        "Alperen Saritas",
+        "Evrim Suna Arikan-Soylemez",
+        "Halit Bugra Koca",
+        "Fatma Firat",
+        "Afife Busra Ugur-Kaplan",
+        "Mustafa Abdullah Yilmaz"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2024-Aug-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: The therapeutic effect of different doses of the traditional aqueous extract of dried leaves of yerba mate (Ilex paraguariensis A. St.-Hil.) was investigated in an experimental cataract model in chicken embryos. METHODS AND RESULTS: LC-MS/MS analysis allowed the identification and quantification of 53 metabolites. In the hydrocortisone-induced cataract model, lenses were examined morphologically after treatment and parameters related to oxidative stress (total antioxidant/oxidant status (TAS/TOS), glutathione (GSH), and malondialdehyde (MDA)) were evaluated. Antiproliferative cell nuclear antigen (PCNA) and caspase-3 H-scores were determined and crystallin alpha A (CRYAA) gene expression in the lenses was measured by RT-PCR. The degree of cataract decreased in all treatment groups. While there was no significant difference in TAS levels compared to the negative control, TOS, GSH, and MDA levels were dose-dependently regulated. Treatment groups other than the high-dose group regulated the decrease in PCNA and the increase in caspase-3. CRYAA gene expression increased significantly only at the lowest dose. CONCLUSION: YM, which is becoming increasingly popular as a traditional tea, showed a therapeutic effect on hydrocortisone-induced cataracts in chicken embryos at relatively low doses."
+    },
+    {
+      "pmid": "38892549",
+      "title": "Yerba Mate (Ilex paraguariensis) Reduces Colitis Severity by Promoting Anti-Inflammatory Macrophage Polarization.",
+      "authors": [
+        "Alexandra Olate-Briones",
+        "Sofía Albornoz-Muñoz",
+        "Francisca Rodríguez-Arriaza",
+        "Valentina Rodríguez-Vergara",
+        "Juan Machuca Aguirre",
+        "Chaohong Liu",
+        "Carlos Peña-Farfal",
+        "Noelia Escobedo",
+        "Andrés A Herrada"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-May-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba Mate (YM) (Ilex paraguariensis) is a natural herbal supplement with a well-described anti-inflammatory capacity and beneficial effects in different inflammatory contexts such as insulin resistance or obesity. However, whether YM could improve other inflammatory conditions such as colitis or the immune cell population that can be modulated by this plant remains elusive. Here, by using 61 male and female C57BL/6/J wild-type (WT) mice and the dextran sodium sulfate (DSS)-induced acute colitis model, we evaluated the effect of YM on colitis symptoms and macrophage polarization. Our results showed that the oral administration of YM reduces colitis symptoms and improves animal survival. Increasing infiltration of anti-inflammatory M2 macrophage was observed in the colon of the mice treated with YM. Accordingly, YM promoted M2 macrophage differentiation in vivo. However, the direct administration of YM to bone marrow-derived macrophages did not increase anti-inflammatory polarization, suggesting that YM, through an indirect mechanism, is able to skew the M1/M2 ratio. Moreover, YM consumption reduced the Eubacterium rectale/Clostridium coccoides and Enterobacteriaceae groups and increased the Lactobacillus/Lactococcus group in the gut microbiota. In summary, we show that YM promotes an immunosuppressive environment by enhancing anti-inflammatory M2 macrophage differentiation, reducing colitis symptoms, and suggesting that YM consumption may be a good cost-effective treatment for ulcerative colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Macrophages",
+        "Ilex paraguariensis",
+        "Colitis",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Female",
+        "Anti-Inflammatory Agents",
+        "Mice",
+        "Dextran Sulfate",
+        "Plant Extracts",
+        "Gastrointestinal Microbiome",
+        "Disease Models, Animal",
+        "Colon",
+        "Cell Differentiation"
+      ]
+    },
+    {
+      "pmid": "38886968",
+      "title": "Increased Osteoblastic and Osteocytic in Vitro Cell Viability by Yerba Mate (Ilex paraguariensis).",
+      "authors": [
+        "Laureana Villarreal",
+        "Natasha Sanz",
+        "Florencia Buiatti Fagalde",
+        "Florencia D'Andrea",
+        "Mercedes Lombarte",
+        "María J Rico",
+        "Viviana R Rozados",
+        "O Graciela Scharovsky",
+        "Lilian I Plotkin",
+        "Verónica E Di Loreto",
+        "Lucas R Brun"
+      ],
+      "journal": "Journal of bone metabolism",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Yerba mate (YM, Ilex paraguariensis) consumption beneficially affects the bones. However, whether YM components exert their effect on bone cells directly remains elusive. METHODS: We evaluated how main YM components affect osteoblastic (MC3T3-E1) and osteocytic (MLO-Y4) cells in vitro when administered separately or in an aqueous extract. MC3T3-E1 and MLO-Y4 cells were exposed to three different experimental conditions: (1) Caffeine, chlorogenic acid, and their combinations; (2) Caffeine, rutin, and their combinations; (3) Aqueous YM extract. RESULTS: All polyphenol and caffeine concentrations as well as that of their tested combinations significantly increased MC3T3-E1 cell viability from 16.6% to 34.8% compared to the control. In MLO-Y4 cells, the lowest rutin and the two highest caffeine concentrations significantly increased cell viability by 11.9, 14.9, and 13.7%, respectively. While rutin and caffeine combinations tended to increase MLO-Y4 cell viability, different chlorogenic acid and caffeine combinations did not affect it. Finally, the aqueous YM extract significantly increased MLO-Y4, MC3T3-E1, and differentiated MC3T3-E1 cell viability compared to the control without treatment. CONCLUSIONS: YM components (rutin, chlorogenic acid, and caffeine) positively affected bone cells, mainly pre-osteoblast cells. Moreover, the aqueous YM extract significantly increased MLO-Y4, MC3T3-E1, and differentiated MC3T3-E1 cell viabilities indicating an additional relevant nutritional property of YM infusion. Further studies would be required to elucidate the underlying effector mechanism of YM on the bones and its relationship with previously described in vivo positive effects."
+    },
+    {
+      "pmid": "38708314",
+      "title": "An investigation of the genotoxic potential of a well-characterized yerba mate extract.",
+      "authors": [
+        "C Doepker",
+        "C Rabert",
+        "P Heard",
+        "T Dubnicka",
+        "N Choksi",
+        "A Eapen"
+      ],
+      "journal": "Toxicology reports",
+      "publication_date": "2024-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba Mate (Ilex paraguariensis) is historically used as a beverage and its extracts are considered traditional medicine in South America. Extract use has been expanding to North American and European markets and the currently available genetic toxicology literature indicate discrepancies in genotoxicity findings for yerba mate. As botanical extract use expands, assumption in safety should be made with caution assuring a good understanding of the test material characterization. Authoritative agencies suggest a two-step paradigm to investigate genotoxicity, and this was implemented to evaluate the safety of yerba mate hydroxycinnamic acid extract. Four OECD compliant assays were employed: bacterial reverse mutation, in vitro micronucleus and a parallel in vivo micronucleus, and comet assay. No evidence of mutagenicity was observed in the in vitro Ames assay, but the results of an in vitro micronucleus study were inconclusive. However, oral gavage treatment of rats for the in vivo micronucleus and comet assays demonstrated negative findings. The results from this battery of tests, supports that this yerba mate hydroxycinnamic acid extract is not anticipated to pose genotoxicity concerns. A high-level comparison of results to other available genotoxicity literature on yerba mate is presented with emphasis on the importance of identity when drawing conclusions on botanicals."
+    },
+    {
+      "pmid": "37892529",
+      "title": "Yerba Maté (Ilex paraguariensis) Supplement Exerts Beneficial, Tissue-Specific Effects on Mitochondrial Efficiency and Redox Status in Healthy Adult Mice.",
+      "authors": [
+        "Chase M Walton",
+        "Erin R Saito",
+        "Cali E Warren",
+        "John G Larsen",
+        "Nicole P Remund",
+        "Paul R Reynolds",
+        "Jason M Hansen",
+        "Benjamin T Bikman"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Oct-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba maté, a herbal tea derived from Ilex paraguariensis, has previously been reported to be protective against obesity-related and other cardiometabolic disorders. Using high-resolution respirometry and reverse-phase high-performance liquid chromatography, the effects of four weeks of yerba maté consumption on mitochondrial efficiency and cellular redox status in skeletal muscle, adipose, and liver, tissues highly relevant to whole-body metabolism, were explored in healthy adult mice. Yerba maté treatment increased the mitochondrial oxygen consumption in adipose but not in the other examined tissues. Yerba maté increased the ATP concentration in skeletal muscle and decreased the ATP concentration in adipose. Combined with the observed changes in oxygen consumption, these data yielded a significantly higher ATP:O2, a measure of mitochondrial efficiency, in muscle and a significantly lower ATP:O2 in adipose, which was consistent with yerba maté-induced weight loss. Yerba maté treatment also altered the hepatic glutathione (GSH)/glutathione disulfide (GSSG) redox potential to a more reduced redox state, suggesting the treatment's potential protective effects against oxidative stress and for the preservation of cellular function. Together, these data indicate the beneficial, tissue-specific effects of yerba maté supplementation on mitochondrial bioenergetics and redox states in healthy mice that are protective against obesity.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Ilex paraguariensis",
+        "Plant Extracts",
+        "Obesity",
+        "Dietary Supplements",
+        "Muscle, Skeletal",
+        "Oxidation-Reduction",
+        "Adenosine Triphosphate"
+      ]
+    },
+    {
+      "pmid": "36917307",
+      "title": "Antioxidant action of yerba mate on carcass and meat characteristics and fatty acid profile in meat and fat of lambs finished in tropical pastures.",
+      "authors": [
+        "Vinicius Roa Baerley",
+        "Camila Celeste Brandão Ferreira Itavo",
+        "Luis Carlos Vinhas Itavo",
+        "Carlos Eduardo Domingues Nazário",
+        "Marina de Nadai Bonin Gomes",
+        "Gelson Dos Santos Difante",
+        "Geraldo Tadeu Dos Santos",
+        "Gleice Kelli Ayardes de Melo",
+        "Antonio Leandro Chaves Gurgel",
+        "Évelyn Silva de Melo Soares",
+        "Thais Fernanda Farias de Souza Arco",
+        "Camila de Godoy",
+        "Aline Aparecida da Silva Miguel",
+        "Priscila Bernardo de Andrade"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2023-Mar-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial, Veterinary"
+      ],
+      "abstract": "The objective was to evaluate the effect of the supplementation with natural antioxidants from Yerba mate (Ilex paraguariensis St. Hil.) on the performance, carcass and meat characteristics, and fatty acid profile in meat and fat of Texel × Ile de France lambs kept in Brachiaria-grass pasture. Twenty lambs with a mean age of 90 days and 26.3 kg of BW were distributed in a completely randomized design in two treatments with 10 replicates/treatment: Control-protein-energy supplement based on corn and soybean meal (150 g/kg DM of crude protein) without the addition of natural antioxidant yerba mate and Yerba Mate - energy protein supplement with the addition of yerba mate (110 g/kg DM). There was no treatment effect on animal performance and carcass characteristics. The subcutaneous fat thickness was significantly higher for lambs treated without yerba mate. There was no effect of nutritional treatments on the oxidative markers of lamb meat. The muscle of the animals treated with yerba mate showed a higher concentration of unsaturated and polyunsaturated fatty acids elaidic, linolenic, thymnodonic, docosadienoic, and ceorvonic. The fat of the animals treated with yerba mate showed a higher concentration of palmitoleic acid, linoelaidic acid, heneicosanoic acid, dihomo-γ-linolenic acid, and arachidonic acid. The concentration of polyunsaturated fatty acids was significantly higher in meat and fat of lambs treated with yerba mate. Including yerba mate in the diet of lambs kept on Brachiaria pastures improves the lipid profile of polyunsaturated fatty acids in meat and fat, without altering the performance of the animals.",
+      "mesh_terms": [
+        "Animals",
+        "Animal Feed",
+        "Antioxidants",
+        "Fatty Acids",
+        "Fatty Acids, Unsaturated",
+        "Ilex paraguariensis",
+        "Meat",
+        "Sheep",
+        "Sheep, Domestic"
+      ]
+    },
+    {
+      "pmid": "36736880",
+      "title": "Yerba mate consumption by ovariectomized rats alters white adipose tissue.",
+      "authors": [
+        "Victor Machado de Mello Andrade",
+        "Amanda Fernandes de Moura",
+        "Katlen da Costa Chaves",
+        "Camilla Pereira Dias da Rocha",
+        "Cherley Borba Vieira de Andrade",
+        "Isis Hara Trevenzoli",
+        "Tania Maria Ortiga-Carvalho",
+        "Luciane Cláudia Barcellos",
+        "Mário Vaisman",
+        "Verônica Pinto Salerno"
+      ],
+      "journal": "Molecular and cellular endocrinology",
+      "publication_date": "2023-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Menopause and post-menopause are characterized by low levels of estrogen that can be associated with the emergence of metabolic diseases. While hormone replacement therapy can alleviate many symptoms, it can also exacerbate other diseases such as breast cancer. In the search for natural alternatives, Ilex paraguariensis (Yerba Mate) has been identified as a potential therapy for the onset of obesity. Here, the effect of MATE consumption on white adipose tissue (WAT) was studied in ovariectomized rats, an animal model for post-menopause hormone loss. METHODS: Four groups of animals were used: ovariectomy with MATE (OVX MATE) and without MATE (OVX), as well as sham surgery with MATE (Sham MATE) and without MATE (Sham). MATE was provided by gavage at 1 g/kg of body weight for eight weeks before measuring biochemical parameters in plasma and characterizing WAT morphology. RESULTS: The consumption of Yerba MATE significantly decreased weight gain in ovariectomized rats and presented near control levels of triglycerides, total cholesterol, and LDL. A morphometric analysis of WAT showed a significant decrease in the area occupied by adipocytes in the group that consumed MATE. Finally, MATE consumption increased the UCP1 content in the WAT of the ovariectomized group. Yerba MATE treatment was also associated with higher levels of SIRT1 protein. CONCLUSION: MATE consumption has a preventive effect on the weight gain observed in ovariectomized rats and potential benefits in naturally avoiding the onset of obesity post menopause.",
+      "mesh_terms": [
+        "Female",
+        "Rats",
+        "Animals",
+        "Ilex paraguariensis",
+        "Plant Extracts",
+        "Obesity",
+        "Weight Gain",
+        "Adipose Tissue, White",
+        "Adipose Tissue"
+      ]
+    },
+    {
+      "pmid": "36647770",
+      "title": "Physiological effects of yerba maté (Ilex paraguariensis): a systematic review.",
+      "authors": [
+        "Manuela F B José",
+        "Roberta P Machado",
+        "Pablo A B Araujo",
+        "Guilherme F Speretta"
+      ],
+      "journal": "Nutrition reviews",
+      "publication_date": "2023-Aug-10",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: Clinical studies have found an association between yerba maté intake and beneficial physiological effects. Nevertheless, no systematic reviews have been conducted to shed light on the data supporting this association. OBJECTIVE: The present systematic review aimed to investigate the physiological effects of yerba maté. DATA SOURCES: Searches were performed in 6 databases (Embase, LILACS, Scopus, PubMed, SciELO, Web of Science) and 3 grey literature databases (OpenGrey, ProQuest, Google Scholar). Relevant publications were identified, and the reference lists of included studies were searched manually for randomized clinical trials, nonrandomized clinical trials, and observational studies investigating the physiological effects of yerba maté. DATA EXTRACTION: Risk of bias was assessed using the Cochrane risk of bias tool for randomized trials and the Cochrane ROBINS-I (Risk Of Bias In Nonrandomized Studies of Interventions) tool. Joanna Briggs Institute critical appraisal tools were used for cross-sectional, case series, cohort, and case-control studies. The overall certainty of the evidence was estimated using the GRADE (Grading of Recommendations, Assessment, Development and Evaluations) working group summary of findings table. DATA ANALYSIS: Of 1096 studies identified, 32 were included. Studies showed consistent effects of yerba maté intake on metabolism improvement and antioxidant and anti-inflammatory activities in different populations. Benefits for body weight and composition, exercise performance, mood, and appetite, in addition cardio- and neuroprotective effects, were also observed. Risk of bias was categorized as high in 22 studies, moderate in 9 studies, and low in 1 study. The certainty of evidence ranged from moderate to very low. CONCLUSION: The available literature indicates that yerba maté can be used within a balanced and healthy diet for prevention and adjuvant treatment of chronic diseases. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration number CRD42020200196.",
+      "mesh_terms": [
+        "Humans",
+        "Plant Extracts",
+        "Ilex paraguariensis",
+        "Cross-Sectional Studies",
+        "Body Weight",
+        "Antioxidants"
+      ]
+    },
+    {
+      "pmid": "36603253",
+      "title": "Yerba mate: From waste to activated carbon for supercapacitors.",
+      "authors": [
+        "Florencia Jerez",
+        "Pamela B Ramos",
+        "Verónica E Córdoba",
+        "M Federico Ponce",
+        "Gerardo G Acosta",
+        "Marcela A Bavio"
+      ],
+      "journal": "Journal of environmental management",
+      "publication_date": "2023-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Developing technological solutions that use yerba mate waste as precursors is key to reducing the environmental impact caused by the lack of treatment and its accumulation in landfills. Due to their physicochemical properties, these residues can be used to develop activated carbons. Activated carbon is a versatile material with a high surface area that can be used for energy storage. In this work, yerba mate residues were valued by producing chemically activated carbon to be used as electrode material in supercapacitors. Activated carbons were developed through chemical activation in two steps with KOH. Variables such as impregnation ratio and activation temperature are studied. The developed carbons were characterized by physicochemical and electrochemical techniques. They were found to have high surface areas, up to 1800 m2 g-1, with a hierarchical porous distribution. A maximum specific capacitance of 644 F g-1 at 0.1 A g-1, and power values of ca 32,000 W kg-1, at 33 A g-1 were found. All the synthesized carbons have excellent electrochemical properties and are suitable for use as active material in supercapacitors.",
+      "mesh_terms": [
+        "Charcoal",
+        "Ilex paraguariensis",
+        "Electric Capacitance",
+        "Electrodes",
+        "Porosity"
+      ]
+    },
+    {
+      "pmid": "36359122",
+      "title": "Effect of Yerba Mate Extract as Feed Additive on Ruminal Fermentation and Methane Emissions in Beef Cattle.",
+      "authors": [
+        "Yuli A Pena-Bermudez",
+        "Rafaela Vincenzi",
+        "Paulo Meo-Filho",
+        "Leandro S Sakamoto",
+        "Richard Lobo",
+        "Gabriela Benetel",
+        "Annelise Lobo",
+        "Carol Matos",
+        "Vanderlei Benetel",
+        "Cesar G Lima",
+        "Alexandre Berndt",
+        "Laura M Cardenas",
+        "Ives C S Bueno"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2022-Oct-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The inclusion of plant extracts that contain secondary compounds with the potential to modulate rumen fermentation and improve animal performance has gained attention in recent years. The aim of this study was to evaluate the effect of the inclusion of yerba mate extract (Ilex paraguariensis ST. Hilaire) (YME) on the ruminal parameters. Eight castrated cattle were divided into four groups, a control without YME (0%) and three treatment groups with 0.5, 1 and 2% inclusion of YME in the dry matter. The inclusion of YME did not show differences in ruminal methane emissions (CH4), and total apparent digestibility (p = 0.54). Likewise, YME did not modify ruminal pH, but positively affected NH3-N, which decreased linearly as the extract level in the diet increased (p = 0.01). No short chain fatty acids (SCFA) were influenced by YME, except isovaleric acid (p = 0.01), which showed a lower concentration in the inclusion of 2% YME. Our results show that up to 2% YME does not affect digestibility, ruminal fermentation parameters, or the concentration of short-chain fatty acids in the rumen."
+    },
+    {
+      "pmid": "35941506",
+      "title": "Carbon dots decorated magnetite nanocomposite obtained using yerba mate useful for remediation of textile wastewater through a photo-Fenton treatment: Ilex paraguariensis as a platform of environmental interest-part 2.",
+      "authors": [
+        "Dany S Monje",
+        "D Fabio Mercado",
+        "Gustavo A Peñuela Mesa",
+        "Gloria Cristina Valencia"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Two carbon dots (CD) with diameters of 4.9 ± 1.5 and 4.1 ± 1.2 nm were successfully synthesized through an acid ablation route with HNO3 or H2SO4, respectively, using Ilex paraguariensis as raw material. The CD were used to produce magnetite-containing nanocomposites through two different routes: hydrothermal and in situ. A thorough characterization of the particles by transmission electron microscopy (TEM), X-ray diffraction (XRD), thermogravimetric analysis (TGA), dynamic light scattering (DLS), Fourier transform infrared (FTIR), and X-ray photoelectron spectroscopy (XPS) indicates that all nanomaterials have spherical-like morphology with a core-shell structure. The composition of this structure depends on the route used: with the hydrothermal route, the shell is composed of the CD, but with the in situ process, the CD act as nucleation centers, and so the iron oxide domains are in the shell. Regarding the photocatalytic mechanism for the degradation of methyl orange, the interaction between the CD and the magnetite plays an important role in the photo-Fenton reaction at pH 6.2, in which ligand-to-metal charge transfer processes (LTMCT) allow Fe2+ regeneration. All materials (100 ppm) showed catalytic activity in the elimination of methyl orange (8.5 ppm), achieving discoloration of up to 98% under visible irradiation over 400 nm in 7 h. This opens very interesting possibilities for the use of agro-industrial residues for sustainable synthesis of catalytic nanomaterials, and the role of the interaction of iron-based catalysts with organic matter in heterogeneous Fenton-based processes.",
+      "mesh_terms": [
+        "Ferrosoferric Oxide",
+        "Carbon",
+        "Ilex paraguariensis",
+        "Wastewater",
+        "Nanocomposites",
+        "Catalysis"
+      ]
+    },
+    {
+      "pmid": "35829819",
+      "title": "Effect of Yerba Mate (Ilex paraguariensis) on Lipid Levels: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Walter Masson",
+        "Leandro Barbagelata",
+        "Martín Lobo",
+        "Juan P Nogueira",
+        "Pablo Corral",
+        "Augusto Lavalle-Cobo"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2022-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Several studies have evaluated the lipid-lowering properties of yerba mate, although the results were conflicting. The objective of this systematic review was to assess the effect of yerba mate consumption on lipid levels. A literature search was performed to detect observational and experimental studies that evaluated the association between yerba mate consumption and lipid levels. A quantitative analysis was performed with the subgroup of experimental studies. A meta-regression was performed considering the difference in baseline lipid values between the intervention and control groups as a covariate. Thirteen studies were considered eligible for this systematic review and seven studies (378 patients) were selected for quantitative analysis. In the qualitative analysis, the results were conflicting, both in the observational and in the experimental studies. In quantitative analysis, we found no differences in total cholesterol [mean difference 6.4 (CI 95% -2.2 to 15.0)], LDL-C [mean difference 5.5 (CI 95% - 1.5 to 12.6)], HDL-C [mean difference 0.4 (CI 95% -2.8 to 3.7)] and triglycerides [mean difference 5.7 (CI 95% 0.0 to 11.4)] levels when comparing the yerba mate and control groups. According to meta-regression, differences between baseline levels could influence the findings on total cholesterol and LDL-C but not on HDL-C or triglycerides. In conclusion, this research showed that yerba mate consumption was not associated with a significant change in lipid levels. Since the results are based on small inconclusive studies, more research is needed to confirm these findings.",
+      "mesh_terms": [
+        "Cholesterol, LDL",
+        "Ilex paraguariensis",
+        "Plant Extracts",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "35674426",
+      "title": "Effects of an alternative bleaching method for yerba mate leaves on total phenolic content: evaluation and prediction with soft-computing approaches.",
+      "authors": [
+        "Vitor Hiroyuki Nomura",
+        "Beatriz Godoy Martins Moreira",
+        "Anderson Chaves Carniel",
+        "Edimir Andrade Pereira",
+        "Gracielle Johann"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The effects of an alternative bleaching method on the total phenolic content (TPC) and antioxidant activity (AA) of yerba mate extracts were evaluated. Traditional bleaching ('zapeco') was compared with submerging the leaves in water followed by a hot air oven-drying process. Seven different approaches, i.e. linear model (LM), response surface model (RSM), Mamdani, Larsen, adaptive neuro-fuzzy inference system (ANFIS) with the product (Prod) and the minimum (Min) operators, and ANFIS with automatically membership functions (Auto), were employed to compare the TPC of yerba mate extracts based on drying temperature and AA assays. RESULTS: The results showed that if leaves were bleached followed by drying at higher temperatures, we obtained higher AA and TPC values. For submerging bleaching treatment, RSM model delivered the best accuracy measures with a mean absolute error (MAE), average absolute percentage error (MAPE), and mean squared error (MSE) of 0.128, 0.006, and 0.028, respectively. The ANFIS Auto model was the best for traditional bleaching treatment, with MAE, MAPE, and MSE of 0.490, 0.013, and 0.612, respectively. CONCLUSION: The results suggest a second-order linear relation between drying temperature, AA assays to TPC, and a high level of relation complexity of drying temperature, AA assays, and TPC. The evaluated soft-computing approaches have the excellent ability to estimate TPC from bleached leaves. © 2022 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Ilex paraguariensis",
+        "Phenols",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Desiccation",
+        "Hot Temperature"
+      ]
+    },
+    {
+      "pmid": "35344143",
+      "title": "Iron oxide nanoparticles embedded in organic microparticles from Yerba Mate useful for remediation of textile wastewater through a photo-Fenton treatment: Ilex paraguariensis as a platform of environmental interest - Part 1.",
+      "authors": [
+        "Dany Santiago Monje",
+        "Orlando Simón Ruiz",
+        "Gloria Cristina Valencia",
+        "D Fabio Mercado"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Seven composites of iron oxide nanoparticles embedded in organic microparticles mediated by Cu(II) were synthesized using yerba mate (Ilex paraguariensis) dry leaf extract as precipitant, capping agent, and dispersant medium, using different Cu/Fe molar ratios. A thorough characterization of the particles by transmission electron microscopy (TEM), X-ray diffraction (XRD), thermogravimetric analysis-mass spectrometry (TGA-MS), Fourier transform infrared spectrometer (FTIR), and atomic absorption-spectrometry (AA) indicates that all materials have spheric-like morphology with nanoparticles composed by metal oxide phases embedded into organic microparticles. Interestingly, this organic matter is proposed to play an important role in the solids' photocatalytic activity in a photo-Fenton reaction, in which iron photo-leaching was elucidated, and a mechanism through ligand-to-metal charge transfer processes was proposed. All materials showed catalytic activity in the methyl orange elimination, achieving discolorations up to 96% in 2 h under UV irradiation at 375 nm. An experimental correlation between all samples' UV/Vis spectra and their performances for methyl orange discoloration was observed. This process opens a landscape very interesting for the use of agroindustrial residues for green synthesis of metal oxide nanomaterials and their use and understanding of organo-metallic systems participation in Fenton-based processes.",
+      "mesh_terms": [
+        "Ilex paraguariensis",
+        "Magnetic Iron Oxide Nanoparticles",
+        "Oxides",
+        "Textiles",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "33454904",
+      "title": "Preadministration of yerba mate (Ilex paraguariensis) helps functional activity and morphology maintenance of MC3T3-E1 osteoblastic cells after in vitro exposition to hydrogen peroxide.",
+      "authors": [
+        "Gabrielli Collasanto Ceverino",
+        "Paula Katherine Vargas Sanchez",
+        "Roger Rodrigo Fernandes",
+        "Guilherme Alvarenga Alves",
+        "José Bernardo de Santis",
+        "Milla Sprone Tavares",
+        "Selma Siéssere",
+        "Karina Fittipaldi Bombonato-Prado"
+      ],
+      "journal": "Molecular biology reports",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Natural substances with antioxidant effects may benefit prevention and treatment of people with or prone to bone diseases after menopause, such as osteoporosis. This study aimed to evaluate the in vitro effect of preadministration of yerba mate extract (YM) in the metabolism of MC3T3-E1 osteoblasts exposed to hydrogen peroxide (H2O2). The cells (MC3T3-E1) were cultured in 24-well plates with the concentration of 1 μg/mL yerba mate extract dissolved in culture medium throughout the culture period. Four hours before each experiment, 400 μmol/L H2O2 was added per well to simulate oxidative stress. There were evaluated cell adhesion and proliferation, in situ detection of alkaline phosphatase (ALP), mineralized nodules, and immunolocalization of osteocalcin (OCN), bone sialoprotein (BSP) and alkaline phosphatase (ALP) proteins. The results showed that YM preadministration to H2O2 exposition significatively increased cell adhesion after 3 days as well as proliferation and in situ ALP detection after 10 and 7 days respectively, when compared to H2O2 group. Besides, staining of OCN and BSP proteins was less intense and scattered in poor spread cells with cytoskeletal changes in H2O2 group when compared to control and YM H2O2 group. ALP staining was restrained to intracellular regions and similar in all experimental groups. Our results suggest that preadministration of yerba mate extract may prevent deleterious effects in the morphology and functional activity of osteoblasts exposed to H2O2, which could enable the maintenance of extracellular matrix in the presence of oxidative stress.",
+      "mesh_terms": [
+        "3T3 Cells",
+        "Animals",
+        "Antioxidants",
+        "Cell Proliferation",
+        "Hydrogen Peroxide",
+        "Ilex paraguariensis",
+        "Mice",
+        "Osteoblasts",
+        "Oxidative Stress",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "32825237",
+      "title": "Effects of Feeding Increasing Levels of Yerba Mate on Lamb Meat Quality and Antioxidant Activity.",
+      "authors": [
+        "Yuli A Pena-Bermudez",
+        "Richard R Lobo",
+        "Danny A Rojas-Moreno",
+        "Mirele D Poleti",
+        "Tamyres R de Amorim",
+        "Alessandra F Rosa",
+        "Angélica S C Pereira",
+        "Rafael S B Pinheiro",
+        "Ives C S Bueno"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2020-Aug-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study investigated the inclusion of yerba mate extract (YME) in the lamb's diet on meat quality traits, antioxidant activity, and shelf-life. Thirty-six lambs were distributed according to a block design with the following groups: control group without YME (0%) and three treatment groups with 1, 2, and 4% YME inclusion in the dry matter. The animals were fed these diets for 53 days. Samples were collected from the Longissimusthoracis (LT) muscle to analyze antioxidant activity and meat quality. Samples were placed on a counter display simulating a retail environment for 0, 3, and 6 days at 4 ± 2 °C. All data were analyzed using a MIXED model with orthogonal contrasts. Inclusion of 1 and 4% YME in the diet changed the yellow (b*) and the chroma (C*) of the meat (p ≤ 0.05). The pH, colour, thiobarbituric acid reactive substances, and carbonyl values were influenced by the retail display time for all the evaluated treatments (p ≤ 0.03). However, neither diet nor the retail display time influenced the oxidation of proteins or the antioxidant enzyme activities of catalase (CAT), superoxide dismutase (SOD), glutathione peroxidase (GPX) and glutathione activity (GSH) in meat. Therefore, the inclusion of 4% YME showed positive results in the yellow and colour stability parameters of the meat without increasing the lipid peroxidation values or altering the normal meat quality parameters in lambs."
+    },
+    {
+      "pmid": "32813863",
+      "title": "Yerba mate (Ilex paraguariensis St. Hil.) extract inhibits hand-rolled cornhusk cigarette smoke-induced oxidative pulmonary damage.",
+      "authors": [
+        "Fernanda D M Camara",
+        "Giulia S Pedroso",
+        "Silvane S Roman",
+        "RogÉrio M Dallago",
+        "Alice T Valduga",
+        "Bruna B Fernandes",
+        "Eduardo B B Cunha",
+        "Paulo Cesar L Silveira",
+        "Renata T Nesi",
+        "Ricardo A Pinho"
+      ],
+      "journal": "Anais da Academia Brasileira de Ciencias",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this study was to investigate the effects of yerba mate (Ilex paraguariensis St. Hil.) extract (YME) on oxidative stress parameters and pathological changes in the lungs of mice chronically exposed to hand-rolled cornhusk cigarette (HRC) smoke. Twenty-four male Swiss mice were divided into four groups exposed to the following treatments: control (ambient air), HRC, YME, and HRC plus YME. The animals were exposed to four HRCs per session, with 3 sessions/day, every day for 30 days. Twenty-four hours after the last inhalation, the mice were killed, and the left lungs were removed. The results showed that HRC contains elevated levels of tin and carbon oxide, but less arsenic, cobalt, manganese, and selenium than commercial cigarettes. YME administration reversed fibrosis, alveolar enlargement, and hemorrhage induced by HRC smoke. In addition, the YME and HRC significantly reduced the production of oxidants, oxidative damage and promoted a significant increase in total thiol. In conclusion, exposure to HRC smoke compromised pulmonary histoarchitecture by promoting structural changes and increasing oxidative stress in tissues. However, concomitant treatment with YME regulated the redox state and reduced the harmful effects of HRC smoke exposure in the lungs.",
+      "mesh_terms": [
+        "Animals",
+        "Ilex paraguariensis",
+        "Male",
+        "Mice",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Smoke",
+        "Smoking"
+      ]
+    },
+    {
+      "pmid": "32588612",
+      "title": "Health properties of Yerba Mate.",
+      "authors": [
+        "Piotr Lutomski",
+        "Małgorzata Goździewska",
+        "Magdalena Florek-Łuszczki"
+      ],
+      "journal": "Annals of agricultural and environmental medicine : AAEM",
+      "publication_date": "2020-Jun-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Yerba Mate, also called Paraguay tea, is obtained from the dried leaves (approximately 95%) and stems (about 5%) of the evergreen shrub-tree Ilex paraguariensis. Each year, the consumption of yerba mate becomes increasingly popular in North America and Europe. The fashion for Paraguay tea has also reached Poland. During the period 2012 - 2018, as much as an 8-fold increase has been observed in the import of this raw material to our country. OBJECTIVE: The aim of the study is analysis of the present state of knowledge concerning the health effects of Yerba Mate, based on selected scientific literature. DICUSSION: The consumption of yerba mate may exert a beneficial effect on human health and its consumption is recommended in the treatment of obesity and while practicing sports. Nevertheless, it should be remembered that a very high consumption of the tea, especially when very hot, may increase the risk of occurrence of cancer, which has not been unequivocally confirmed by scientific studies to-date. CONCLUSIONS: It has been confirmed that this beverage shows a number of beneficial health effects, including: a protective effect on liver cells, stimulation of the central nervous system, anti-inflammatory effect, as well as a positive effect on the cardiovascular system.",
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Humans",
+        "Ilex paraguariensis",
+        "Obesity",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Protective Agents"
+      ]
+    },
+    {
+      "pmid": "32567699",
+      "title": "In vitro and in vivo antitumor activity of Yerba Mate extract in colon cancer models.",
+      "authors": [
+        "Rocio S Garcia-Lazaro",
+        "Humberto Lamdan",
+        "Lorena G Caligiuri",
+        "Norailys Lorenzo",
+        "Andrea L Berengeno",
+        "Hugo H Ortega",
+        "Daniel F Alonso",
+        "Hernan G Farina"
+      ],
+      "journal": "Journal of food science",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba Mate (Ilex paraguariensis St. Hill. Aquifoliaceae) is a native South American tree and has a large amount of bioactive compounds. Colorectal cancer (CRC) is one of the so-called westernized diseases and is the third most common cancer in both men and women. Efficient strategies for the treatment of CRC are extensively being explored including dietary intervention. The objective of our research was to evaluate the effects of Yerba Mate extract on cell proliferation, invasive capacity of tumor cells, and angiogenesis. For this, in vitro and in vivo experimentation was carried out using CRC models. The extract was generated by aqueous extraction and prepared according to traditional American procedure of preparing mate infusion. In vitro results showed that the Yerba Mate extract inhibits CT26 and COLO 205 cell proliferation with IC50 values of 0.25 and 0.46 mg/mL, respectively. We demonstrated by TUNEL assay that one of the mechanisms by which Yerba Mate extract decreases cell proliferation is by induction of apoptosis. In a murine syngeneic tumor model, oral administration of Yerba Mate extract in a dose of 1.6 g/kg/day significantly inhibited angiogenesis and tumor growth without affecting biological parameters or body weight. Our findings suggest that Yerba Mate may be a promising agent for the treatment of colon cancer and could be used as an herbal medicine or functional food ingredient. PRACTICAL APPLICATION: Considering the chemical composition and presence of phenolic compounds with their free-radical scavenging activities and bioactivities against colon cancer cells, Yerba Mate can be a promising candidate as healthy food sources in human nutrition, and also be considered a natural source of potential antitumor agents. Taking into account the economic importance of Yerba Mate in Argentina, this vegetable would have a greater commercial value as a functional food.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Argentina",
+        "Body Weight",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Colonic Neoplasms",
+        "Humans",
+        "Ilex paraguariensis",
+        "Mice",
+        "Phenols",
+        "Phytotherapy",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "32492885",
+      "title": "Inclusion of Yerba Mate (Ilex paraguariensis) Extract in the Diet of Growing Lambs: Effects on Blood Parameters, Animal Performance, and Carcass Traits.",
+      "authors": [
+        "Richard R Lobo",
+        "Rafaela Vincenzi",
+        "Danny A Rojas-Moreno",
+        "Annelise A G Lobo",
+        "Caroline M da Silva",
+        "Vanderlei Benetel-Junior",
+        "Laura R Ghussn",
+        "Vinícius C Mufalo",
+        "Alexandre Berndt",
+        "Sarita B Gallo",
+        "Rafael S B Pinheiro",
+        "Ives C da S Bueno",
+        "Antonio P Faciola"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2020-Jun-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to evaluate levels of yerba mate (Ilex paraguariensis) extract (YME), as a feed additive in the diets of growing lambs on serum biochemical parameters and hematological indices, animal performance, body metrics and carcass traits. Thirty-six entire (nine per treatment), male growing lambs, weighing 23.8 ± 3.7 kg, were fed the experimental diets which were treatments consisting of increasing levels of YME (0, 1, 2, and 4% inclusion on a dry matter [DM] basis) during an experimental period of 53 days. The experiment was carried out in a randomized block design, which initial body weight was used as blocking factor and the results were analyzed by orthogonal contrasts (linear, quadratic, and cubic). Yerba mate extract did not change the general health status of the animals; however, inclusions of up to 2% of the extract increased globulins (p = 0.05) and white blood cell count, as segmented neutrophils (p = 0.02) and lymphocytes (p = 0.04). Additionally, inclusion of up to 2% YME increased dry matter intake, final weight gain, total and daily gain (p < 0.05), also tended to increase ribeye area and reduce fat thickness (p < 0.10); however, YME above 2% of inclusion reduced animal productive parameters (p < 0.05). In conclusion, levels up to 2% of YME were beneficial to the health and productive parameters of growing lambs."
+    },
+    {
+      "pmid": "31435625",
+      "title": "Yerba mate aqueous extract improves the oxidative and inflammatory states of rats with adjuvant-induced arthritis.",
+      "authors": [
+        "Vanesa Gesser Correa",
+        "Anacharis B de Sá-Nakanishi",
+        "Geferson de Almeida Gonçalves",
+        "Lillian Barros",
+        "Isabel C F R Ferreira",
+        "Adelar Bracht",
+        "Rosane M Peralta"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2019-Sep-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Healthy and adjuvant-induced arthritic rats were treated for 23 days with daily doses of 400 and 800 mg kg-1Ilex paraguariensis extract. This treatment (a) diminished the ROS levels in the liver and brain, (b) decreased oxidative protein and lipid damage in liver and brain, (c) increased the plasma antioxidant capacity, (d) increased the GSH levels and the GSH/GSSH ratio in both the liver and the brain, (e) almost restored the enzymatic activities linked to the metabolism of GSH-GSSG, and (f) reversed the modified activities of xanthine oxidase, superoxide dismutase and catalase. The anti-inflammatory actions (firstly) and the antioxidant actions (in the second place) of the yerba mate constituents (e.g., chlorogenic acid derivatives) are the causes of these beneficial effects. Daily ingestion of traditional yerba mate beverages may be effective in attenuating the symptoms of inflammatory diseases, especially in older adults.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Arthritis, Experimental",
+        "Beverages",
+        "Catalase",
+        "Humans",
+        "Ilex paraguariensis",
+        "Liver",
+        "Male",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Reactive Oxygen Species",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "31221346",
+      "title": "Evaluation of different methods for extraction of nanocellulose from yerba mate residues.",
+      "authors": [
+        "Marcos Aurélio Dahlem",
+        "Cleide Borsoi",
+        "Betina Hansen",
+        "André Luís Catto"
+      ],
+      "journal": "Carbohydrate polymers",
+      "publication_date": "2019-Aug-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this work, we evaluate the production of nanocellulose from yerba mate sticks (YMS) using soft chemical and steam explosion treatments. The nanocellulose is characterized by chemical characterization, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), dynamic light scattering (DLS), transmission electron microscopy (TEM) and atomic force microscopy (AFM). The main results showed that after the chemical treatment and steam explosion, the YMS fiber reached diameters of 11-15 nm and aspect ratios (L/D) of 12-24. The XRD results showed that there is an increase in the index of crystallinity of up to 35% when compared to raw YMS. We discover that it is possible to obtain cellulose nanofibers (CNF) from the YMS without the use of alkaline treatment, which reduces the generation of liquid waste. Thus, the production of CNF by means of acid hydrolysis, bleaching and steam explosion represents an alternative route."
+    },
+    {
+      "pmid": "30660196",
+      "title": "Effect of yerba mate and green tea on paraoxonase and leptin levels in patients affected by overweight or obesity and dyslipidemia: a randomized clinical trial.",
+      "authors": [
+        "Guilherme Balsan",
+        "Lúcia Campos Pellanda",
+        "Grasiele Sausen",
+        "Thaís Galarraga",
+        "Denise Zaffari",
+        "Bruna Pontin",
+        "Vera Lúcia Portal"
+      ],
+      "journal": "Nutrition journal",
+      "publication_date": "2019-Jan-19",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: This study aimed to evaluate the effect of the intake of yerba mate (YM) and green tea (GT) on serum levels of leptin and paraoxonase-1 (PON-1), compared to control. METHODS: Controlled, randomized clinical trial (RCT) that evaluated 142 men and women affected by overweight or obesity aged 35-60 years, untreated dyslipidemia and no history of coronary artery disease. Participants were randomized to ingest 1000 mL GT, YM or apple tea (AT, control group) daily, during eight weeks. Serum PON-1 and leptin levels were analyzed by ELISA immunoassay at the beginning (baseline) and after eight weeks of intervention. RESULTS: The intake of 1 l of YM/day resulted in significant increase in serum levels of PON-1 (9.7%; p = 0.005). The consumption of GT induced no significant difference in the levels of PON-1 (p = 0.154) and leptin (p = 0.783). Intergroup analysis showed a significant difference (p = 0.036) in the variation of PON-1 levels in the YM group when compared to GT and AT groups. In addition, the increase in PON-1 levels in the YM group was significantly associated with increased HDL-c (p = 0.004). CONCLUSIONS: The intake of yerba mate increased the antioxidant capacity by increasing serum levels of PON-1 and was positively associated with increased HDL-c, stressing the protective role of this beverage against atherosclerotic diseases. GT intake had no significant effect on serum levels of PON-1 and leptin. TRIAL REGISTRATION: This study is registered with ClinicalTrials.gov under protocol number NCT00933647.",
+      "mesh_terms": [
+        "Adult",
+        "Antioxidants",
+        "Aryldialkylphosphatase",
+        "Beverages",
+        "Body Mass Index",
+        "Cholesterol, HDL",
+        "Dyslipidemias",
+        "Female",
+        "Humans",
+        "Ilex paraguariensis",
+        "Leptin",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Overweight",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Tea"
+      ]
+    },
+    {
+      "pmid": "30335566",
+      "title": "Evaluation of Reproductive Toxicology of Aqueous Extract of Yerba Mate (Ilex paraguariensis A. St.-Hil.), a Traditional South American Beverage.",
+      "authors": [
+        "Washington Rogério de Sousa",
+        "Bruno Henrique Lopes Botelho Lourenço",
+        "Michelle de Paula Reis",
+        "Guilherme Donadel",
+        "Marcia Alessandra Arantes Marques",
+        "Euclides Lara Cardozo Junior",
+        "Ezilda Jacomassi",
+        "Salviano Tramontin Belettini",
+        "Francislaine Aparecida Dos Reis Lívero",
+        "Arquimedes Gasparotto Junior",
+        "Emerson Luiz Botelho Lourenço"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2019-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba mate (Ilex paraguariensis A. St.-Hil.; Aquifoliaceae) is a popular tonic and stimulant beverage that is widely consumed in different South American countries. Estimates indicate the consumption of >1 L per day in southern Brazil and Uruguay. Despite its relatively high consumption, data on reproductive toxicity during critical periods of gestation remain unclear. Thus, we evaluated the effects of an aqueous extract of I. paraguariensis leaves (\"chimarrão\" [IPC]) at two critical periods of gestation in Wistar rats: preimplantation embryonic stage and fetal organogenesis. Pregnant Wistar rats were orally treated with IPC (3, 30, and 300 mg/kg) from days 1 to 7 or 8 to 21 of pregnancy. The respective control groups received vehicle. During treatment, clinical signs of maternal toxicity, maternal body weight, and food and water intake were monitored. The rats were killed on days 8 and 20 of pregnancy, and the following parameters were evaluated: weight of the maternal uterus, weight of the liver, weight of the kidneys, weight of the spleen, total embryo implantation, preimplantation loss, the mean of live fetuses, the percentage of dead fetuses, fetus weight, and fetal malformation. The aqueous extract of the leaves of I. paraguariensis L. did not present any deleterious effects on preimplantation embryos or the organogenesis of offspring from female Wistar rats. These safety data provide evidence that IPC may be safe for consumption during gestation.",
+      "mesh_terms": [
+        "Animals",
+        "Contraindications, Drug",
+        "Female",
+        "Fetal Development",
+        "Fetus",
+        "Ilex paraguariensis",
+        "Organogenesis",
+        "Plant Leaves",
+        "Pregnancy",
+        "Rats, Wistar",
+        "Reproduction",
+        "South America",
+        "Teas, Herbal"
+      ]
+    },
+    {
+      "pmid": "29864625",
+      "title": "Effect of yerba mate (Ilex paraguariensis) extract on the metabolism of diabetic rats.",
+      "authors": [
+        "Débora Santos Rocha",
+        "Lucas Casagrande",
+        "Jorge Felipe Argenta Model",
+        "Jordana Tres Dos Santos",
+        "Ana Lúcia Hoefel",
+        "Luiz Carlos Kucharski"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2018-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The relationship between metabolic disturbances and clinical events related to diabetes is well known. Yerba mate has presented a potential use as preventive and therapeutic agent on diabetes. The aim of this study was to evaluate the effect of yerba mate on different tissues of diabetic rats, focusing on energetic metabolism. Diabetes was induced by streptozotocin, followed by daily yerba mate treatment. After 30 days, the animals were euthanized to evaluate metabolic parameters on liver, adipose tissue, muscle and serum. The results showed mate treatment promoted a decrease in retroperitoneal adipose tissue in healthy animals. Muscle weight returned to control levels in diabetic rats treated with mate. There was improvement on serum glucose, creatinine, urea and total protein levels associated with mate treatment. Muscle parameters, such as glucose uptake and carbon dioxide production, were improved by mate treatment to control levels. The results evidenced the beneficial actions mate can have on metabolic disturbances of diabetes.",
+      "mesh_terms": [
+        "Animals",
+        "Creatinine",
+        "Diabetes Mellitus, Experimental",
+        "Ilex paraguariensis",
+        "Lipids",
+        "Liver",
+        "Male",
+        "Muscles",
+        "Plant Extracts",
+        "Rats, Wistar",
+        "Transaminases",
+        "Urea"
+      ]
+    },
+    {
+      "pmid": "29851217",
+      "title": "Yerba Mate Stimulates Mitochondrial Biogenesis and Thermogenesis in High-Fat-Diet-Induced Obese Mice.",
+      "authors": [
+        "Tanila Wood Dos Santos",
+        "Jonatan Miranda",
+        "Lucimara Teixeira",
+        "Ana Aiastui",
+        "Ander Matheu",
+        "Alessandra Gambero",
+        "María P Portillo",
+        "Marcelo Lima Ribeiro"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2018-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "SCOPE: The potential effects of yerba mate (YM) on mitochondrial biogenesis and thermogenesis are evaluated. METHODS AND RESULTS: The in vitro effects of YM on mitochondrial respiration are assessed in C2C12 cells. The expression of genes related to mitochondrial biogenesis and thermogenesis are analyzed by quantitative PCR. The in vivo experiments are performed on mice fed a high-fat diet (HFD) and treated with YM extract. Indirect calorimetry was performed, and the expression of genes and proteins related to mitochondrial biogenesis, thermogenesis, and de novo lipogenesis is determined by quantitative PCR and western blot. Our in vitro data indicate that YM increases mtDNA copy number as well as mitochondrial spare respiratory capacity and coupling efficiency. The gene expression profile reinforces this evidence, indicating a modulation of genes downstream of Ampk. In vivo, it is found that YM partially prevents diet-induced obesity by increasing energy expenditure and enhancing mitochondrial biogenesis via the AMPK/SIRT1/PGC1α pathway. CONCLUSIONS: YM stimulates mitochondriogenesis and Ucp expression, leading to an increase in the spare respiratory capacity and energy dissipation. These effects may help to better understand the potential use of YM for obesity treatment."
+    },
+    {
+      "pmid": "29791596",
+      "title": "Treatment with Ilex paraguariensis (yerba mate) aqueous solution prevents hepatic redox imbalance, elevated triglycerides, and microsteatosis in overweight adult rats that were precociously weaned.",
+      "authors": [
+        "E de Oliveira",
+        "N S Lima",
+        "E P S Conceição",
+        "N Peixoto-Silva",
+        "E G Moura",
+        "P C Lisboa"
+      ],
+      "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Early weaning (EW) leads to overweight, visceral obesity, hyperleptinemia, and insulin resistance in adulthood. Treatment with Ilex paraguariensis (yerba mate) improves obesity and insulin resistance in these animals. Here, we evaluated the effects of chronic treatment with yerba mate on the redox balance and liver morphology of overweight early-weaned rats. To induce EW, we wrapped the dams with bandages to interrupt milk access during the last 3 days of lactation. Control pups (C) had free access to maternal milk for the full 21 days of lactation. On postnatal day (PN) 150, EW offspring were subdivided into the EW+YM group, which received the aqueous extract of yerba mate (1 g/kg bw by gavage once a day for 30 days) and the EW group, which received water by gavage for the same period. All rats were euthanized on PN180. The EW group showed higher bound carbonyl (a marker of total protein oxidation), higher TBARS levels (a marker of lipid peroxidation), and lower superoxide dismutase (SOD) activity in liver tissue than the C group, as well as higher triglyceride content and microsteatosis. In plasma, the EW offspring showed higher TBARS levels. One month of yerba mate treatment normalized these parameters. Thus, we have shown evidence that yerba mate improved antioxidant defenses and mitigated liver dysfunction in overweight adult rats that were weaned prematurely.",
+      "mesh_terms": [
+        "Animals",
+        "Fatty Liver",
+        "Female",
+        "Ilex paraguariensis",
+        "Insulin Resistance",
+        "Male",
+        "Overweight",
+        "Oxidation-Reduction",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar",
+        "Triglycerides",
+        "Weaning"
+      ]
+    },
+    {
+      "pmid": "29725356",
+      "title": "Yerba Mate (Ilex paraguariensis) Beverage: Nutraceutical Ingredient or Conveyor for the Intake of Medicinal Plants? Evidence from Paraguayan Folk Medicine.",
+      "authors": [
+        "Monika Kujawska"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The use of medicinal plants mixed with yerba mate (Ilex paraguariensis) has been poorly studied in the ethnopharmacological literature so far. The Paraguayan Mestizo people have the longest tradition of using the yerba mate beverage, apart from the indigenous Guarani people. This study analyses the role of yerba mate and medicinal plants in the treatment of illnesses within Paraguayan folk medicine. The research was conducted among 100 Paraguayan migrants living in Misiones, Argentina, in 2014 and 2015. Yerba mate is not considered to be a medicinal plant by its own virtues but is culturally a very important type of medicinal plant intake. Ninety-seven species are employed in hot and cold versions of the yerba mate beverage. The most important species are as follows: Allophylus edulis (highest number of citations), Aristolochia triangularis (highest relative importance value), and Achyrocline flaccida and Achyrocline tomentosa (highest score by Index of Agreement on Species). The plants are used in the treatment of 18 medicinal categories, which include illnesses traditionally treated with plants: digestive system, humoral medicine, and relatively new health conditions such as diabetes, hypertension, and high levels of cholesterol. Newly incorporated medicinal plants, such as Moringa oleifera, are ingested predominantly or exclusively with the mate beverage."
+    },
+    {
+      "pmid": "29182010",
+      "title": "New antioxidant treatment with yerba mate ( Ilex paraguariensis) infusion for fresh-cut apples: Modeling, optimization, and acceptability.",
+      "authors": [
+        "Mariana Rodríguez-Arzuaga",
+        "Andrea M Piagentini"
+      ],
+      "journal": "Food science and technology international = Ciencia y tecnologia de los alimentos internacional",
+      "publication_date": "2018-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Enzymatic browning affects the sensory and nutritional quality of fresh-cut apples and limits their shelf-life. Yerba mate ( Ilex paraguariensis), a plant widely consumed in South America as an infusion, could potentially be used in minimally processed fruits and vegetables as a natural additive to prevent browning, due to its high content of phenolic compounds with antioxidant capacity. The effects of the concentrations of ascorbic acid, citric acid, and yerba mate in an aqueous dipping solution on the instrumental color parameters, antioxidant capacity, and sensory quality of \"Granny Smith\" fresh-cut apples were modeled and the solution was optimized to obtain treated apples with maximum antioxidant capacity and minimum browning, without affecting the natural flavor of the fruits. The optimal composition obtained (1.2% yerba mate  + 0.9% citric acid + 1.0% ascorbic acid) increased the antioxidant capacity of the apples by 36%. The sensory acceptability test carried out on the \"Granny Smith\" fresh-cut apples treated with the optimal dipping solution showed that more than 78% of the surveyed consumers liked the color, flavor, and texture of the apples.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Argentina",
+        "Ascorbic Acid",
+        "Citric Acid",
+        "Fast Foods",
+        "Food Handling",
+        "Food Preferences",
+        "Food Preservatives",
+        "Food Quality",
+        "Food Storage",
+        "Fruit",
+        "Humans",
+        "Ilex paraguariensis",
+        "Maillard Reaction",
+        "Malus",
+        "Models, Biological",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Sensation",
+        "Taste"
+      ]
+    },
+    {
+      "pmid": "29117073",
+      "title": "Metabolic and Performance Effects of Yerba Mate on Well-trained Cyclists.",
+      "authors": [
+        "Jose L Areta",
+        "Ingvild Austarheim",
+        "Helle Wangensteen",
+        "Carlo Capelli"
+      ],
+      "journal": "Medicine and science in sports and exercise",
+      "publication_date": "2018-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Yerba Mate (YM) is a South American plant, rich in polyphenols, saponins, and xanthines, of growing scientific interest because of its metabolic effects. YM has been shown to increase fat utilization during exercise in untrained humans, but its effects on well-trained individuals during exercise are unknown. METHODS: We characterized metabolic and physical performance effects of YM in 11 well-trained male cyclists. In a double-blind crossover design, participants ingested 5 g of YM or placebo (PL; maltodextrin) daily for 5 d and 1 h before experimental trials. RESULTS: Ergometer-based tests included a submaximal step test (SST) at 30%-80% of V˙O2max (6 × 5-min stages), followed by a cycloergometer-based time trial (TT) test to complete mechanical work (~30 min; n = 9). Before and during tests, blood and respiratory gas samples were collected. YM increased resting plasma adrenaline concentration (P = 0.002), and fat utilization by 23% at 30%-50% V˙O2max versus PL (Glass effect sizes (ES) ± 95% confidence interval (CI), 0.8 ± 0.55) correlating strongly with post-SST plasma (glycerol; r = 0.758). Treatment effects on rates of perceived exertion, heart rate, and gross efficiency were unclear during SST. Respiratory exchange ratio during TT indicated carbohydrate dependence and did not differ between treatments (PL, 0.95 ± 0.03 (SD); YM, 0.95 ± 0.02). TT performance showed a small (ES = 0.38 ± 0.33) but significant (P = 0.0278) improvement with YM (PL, 30.1 ± 1.8 min (SD); YM, 29.4 ± 1.4 min; 2.2% ± 2% (95% CI)), with an average increase of 7-W power output (ES = 0.2 ± 0.19; P = 0.0418; 2.3% ± 2% (95% CI)) and 2.8% V˙O2 (P = 0.019). Pacing displayed lower power output after 30% of total TT workload in PL vs YM. CONCLUSIONS: YM increased fat utilization during submaximal exercise and improved TT performance, but performance-enhancement effect was unrelated to measures of substrate metabolism during maximal exercise.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Adult",
+        "Athletic Performance",
+        "Bicycling",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Free Radical Scavengers",
+        "Heart Rate",
+        "Humans",
+        "Ilex paraguariensis",
+        "Male",
+        "Oxygen Consumption",
+        "Performance-Enhancing Substances",
+        "Physical Endurance",
+        "Plant Preparations",
+        "Polyphenols",
+        "Xanthine"
+      ]
+    },
+    {
+      "pmid": "28809814",
+      "title": "Yerba Maté (Ilex paraguariensis) Metabolic, Satiety, and Mood State Effects at Rest and during Prolonged Exercise.",
+      "authors": [
+        "Ahmad Alkhatib",
+        "Roisin Atcheson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2017-Aug-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Yerba Maté (YM), has become a popular herb ingested for enhancing metabolic health and weight-loss outcomes. No studies have tested the combined metabolic, satiety, and psychomotor effects of YM during exercise. We tested whether YM ingestion affects fatty acid oxidation (FAO), profile of mood state score (POMS), and subjective appetite scale (VAS), during prolonged moderate exercise. Twelve healthy active females were randomized to ingest either 2 g of YM or placebo (PLC) in a repeated-measures design. Participants rested for 120 min before performing a 30-min cycling exercise corresponding to individuals' crossover point intensity (COP). FAO, determined using indirect calorimetry, was significantly higher during the 30-min exercise in YM vs. PLC (0.21 ± 0.07 vs. 0.17 ± 0.06 g/min, p < 0.05). VAS scores for hunger, prospective eating, and desire to eat were all reduced (p < 0.05). Whereas, POMS measures of focus, energy, and concentration were all increased (p < 0.05). There was no significant time-effect for any of the measured variables, nor was there any interaction effects between YM treatment and time. Combining YM intake with prolonged exercise at targeted \"fat-loss\"' intensities augments FAO and improves measures of satiety and mood state. Such positive combined metabolic, satiety, and psychomotor effects may provide an important role for designing future fat and weight-loss lifestyle interventions.",
+      "mesh_terms": [
+        "Adult",
+        "Affect",
+        "Cross-Over Studies",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Ilex paraguariensis",
+        "Satiety Response",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28209193",
+      "title": "UP601, a standardized botanical composition composed of Morus alba, Yerba mate and Magnolia officinalis for weight loss.",
+      "authors": [
+        "Mesfin Yimam",
+        "Ping Jiao",
+        "Mei Hong",
+        "Lidia Brownell",
+        "Young-Chul Lee",
+        "Eu-Jin Hyun",
+        "Hyun-Jin Kim",
+        "Jeong-Bum Nam",
+        "Mi-Ran Kim",
+        "Qi Jia"
+      ],
+      "journal": "BMC complementary and alternative medicine",
+      "publication_date": "2017-Feb-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The prevalence of obesity is surging in an alarming rate all over the world. Pharmaceutical drugs are considered potential adjunctive therapy to lifestyle modification. However, for most, besides being too expensive, their long term usages are hindered by their severe adverse effects. Here we describe the effect of UP601, a standardized blend of extracts from Morus alba, Yerba mate and Magnolia officinalis, in modulating a number of obesity-related phenotypic and biochemical markers in a high-fat high-fructose (HFF)-induced C57BL/6J mouse model of obesity. METHOD: Adipogenesis activity of the composition was assessed in 3T3-L1 cells in vitro. Effects of UP601 on body weight and metabolic markers were evaluated. It was administered at oral doses of 300 mg/kg, 450 mg/kg and 600 mg/kg for 7 weeks. Orlistat (40 mg/kg/day) was used as a positive control. Body compositions of mice were assessed using dual energy X-ray absorptiometry (DEXA). Serum biomarkers were measured for liver function and lipid profiling. Relative organ weights were determined. Histopathological analysis was performed for non-alcoholic steatohepatitis (NASH) scoring. RESULTS: UP601 at 250 μg/ml resulted in 1.8-fold increase in lipolysis. Statistically significant changes in body weight (decreased by 9.1, 19.6 and 25.6% compared to the HFF group at week-7) were observed for mice treated with UP601 at 300, 450 and 600 mg/kg, respectively. Reductions of 9.1, 16.9, and 18.6% in total cholesterol; 45.0, 55.0, 63.6% in triglyceride; 34.8, 37.1 and 41.6% in LDL; 3.2, 21.6 (P = 0.03) and 33.7% (P = 0.005) in serum glucose were observed for UP601 at 300, 450 and 600 mg/kg, respectively. Body fat distribution was found reduced by 31.6 and 17.2% for the 450 mg/kg UP601 and orlistat, respectively, from the DEXA scan analysis. Up to an 89.1% reduction in mesenteric fat deposit was observed for UP601 in relative organ weight. Statistically significant improvements in NASH scores were observed for mice treated with UP601. CONCLUSION: UP601, a standardized botanical composition from Morus alba, Yerba mate and Magnolia officinalis could potentially be used for achieving healthy weight loss and maintenance.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipogenesis",
+        "Animals",
+        "Blood Glucose",
+        "Body Fat Distribution",
+        "Diet",
+        "Disease Models, Animal",
+        "Hypoglycemic Agents",
+        "Hypolipidemic Agents",
+        "Ilex",
+        "Lactones",
+        "Lipids",
+        "Lipolysis",
+        "Liver",
+        "Magnolia",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Morus",
+        "Non-alcoholic Fatty Liver Disease",
+        "Obesity",
+        "Orlistat",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "27714004",
+      "title": "Yerba mate (Ilex paraguariensis) inhibits lymphocyte activation in vitro.",
+      "authors": [
+        "Maider Muñoz-Culla",
+        "Matías Sáenz-Cuesta",
+        "Maier J Guereca-Barandiaran",
+        "Marcelo L Ribeiro",
+        "David Otaegui"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2016-Nov-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba mate (YM) has been shown to have anti-inflammatory properties in several studies. However, this effect has been found mainly in obesity-related inflammation. The aim of this work was to study the effect of YM on cultured peripheral blood mononuclear cells to see whether it has anti-inflammatory properties. We stimulated peripheral blood mononuclear cells in vitro with phytohemagglutinin (PHA) in the presence of yerba mate and determined their activation by measuring the expression of CD25 by flow cytometry. We observed that YM treatment produced a dose-dependent reduction in PBMC activation (CD25 positive cells) when they were stimulated with PHA. This effect was also observed in T cells' (CD3 positive) subpopulation. Microarray analysis revealed the differential expression of 128 genes in YM-treated cells. According to a protein-protein interaction database, these genes were highly connected and they are involved in the inflammatory response. In summary, it was demonstrated that YM produces a reduction in the amount of activated cells under the stimulation of PHA. Therefore, it might be used in diseases with an inflammatory component.",
+      "mesh_terms": [
+        "Dose-Response Relationship, Drug",
+        "Gene Expression Regulation",
+        "Ilex paraguariensis",
+        "Interleukin-2 Receptor alpha Subunit",
+        "Lymphocyte Activation",
+        "Microarray Analysis",
+        "Phytohemagglutinins",
+        "Plant Extracts",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "27609670",
+      "title": "Effects of Ilex paraguariensis (yerba mate) on the hypothalamic signalling of insulin and leptin and liver dysfunction in adult rats overfed during lactation.",
+      "authors": [
+        "E P S Conceição",
+        "A R Kaezer",
+        "N Peixoto-Silva",
+        "I Felzenszwalb",
+        "E de Oliveira",
+        "E G Moura",
+        "P C Lisboa"
+      ],
+      "journal": "Journal of developmental origins of health and disease",
+      "publication_date": "2017-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ilex paraguariensis (yerba mate) has a beneficial effect in the management of obesity. Here, we studied the effects of yerba mate on hypothalamic changes in leptin and insulin signalling, oxidative stress and liver morphology and metabolism in postnatal early overfeeding (EO) Wistar rats. To induce EO, the litter size was reduced to three pups per dam, and litters with 10 pups per dam were used as a control (10 litters each). On postnatal day (PN) 150, EO offspring were subdivided into EO and EO+mate groups (10 animals each), which were treated with water or mate tea [1 g/kg body weight (BW)/day, by gavage], respectively, for 30 days. The C offspring received water. On PN180, yerba mate treatment prevented BW gain and reduced total body fat, visceral fat and food intake in comparison with the EO group. Leptin and insulin signalling in the hypothalamus measured by Western blotting was reduced only in the EO group. Yerba mate treatment had a greater impact on insulin signalling normalization. In the liver, yerba mate treatment normalized antioxidant enzyme activities and, consequently, decreased lipid peroxidation, determined by malondialdehyde content. In addition, the steatosis level and the liver triglyceride content were also restored. Thus, for the first time, yerba mate was demonstrated to increase antioxidant defences and improve liver metabolism in adult rats that were overfed during lactation, possibly through improvements in the hypothalamic action of insulin. These findings may be important for the treatment of obesity-related disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Breast Feeding",
+        "Eating",
+        "Female",
+        "Gene Expression Regulation",
+        "Hypothalamus",
+        "Ilex paraguariensis",
+        "Insulin",
+        "Lactation",
+        "Leptin",
+        "Liver Diseases",
+        "Male",
+        "Overnutrition",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "29606245",
+      "title": "Dihydrocaffeic acid, a major microbial metabolite of chlorogenic acids, shows similar protective effect than a yerba mate phenolic extract against oxidative stress in HepG2 cells.",
+      "authors": [
+        "Gema Baeza",
+        "Beatriz Sarriá",
+        "Raquel Mateos",
+        "Laura Bravo"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2016-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The hepatoprotective effect of a yerba mate phenolic extract (YMPE), rich in chlorogenic acids, and its main circulating metabolites dihydrocaffeic (DHCA) and dihydroferulic (DHFA) acids were assessed in human hepatoma HepG2 cells subjected to oxidative damage induced by tert-butylhydroperoxide (t-BOOH). Direct treatment of HepG2 cells with realistic concentrations of YMPE (1, 10 and 50μg/mL), DHCA or DHFA (0.2, 1, 10μM) for 20h was not cytotoxic and significantly decreased ROS generation. Pre-treatment with YMPE and DHCA prevented the cytotoxicity and macromolecular damage induced by t-BOOH. Moreover, decreased levels of reduced glutathione (GSH), and increased ROS levels and antioxidant enzyme activity induced by t-BOOH were dose-dependently recovered. DHFA only showed a slight protection against cell cytotoxicity, lipid oxidation and GSH depletion. In conclusion, YMPE and one of its major microbial metabolites, DHCA, confer significant protection against oxidative damage, adding evidences to the beneficial health effects associated with mate intake."
+    },
+    {
+      "pmid": "27223302",
+      "title": "Effect of Chocolate and Yerba Mate Phenolic Compounds on Inflammatory and Oxidative Biomarkers in HIV/AIDS Individuals.",
+      "authors": [
+        "Aline A Petrilli",
+        "Suelen J Souza",
+        "Andrea M Teixeira",
+        "Patricia M Pontilho",
+        "José M P Souza",
+        "Liania A Luzia",
+        "Patricia H C Rondó"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2016-May-23",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Flavonoids in cocoa and yerba mate have a beneficial role on inflammation and oxidative disorders. Their effect on HIV individuals has not been studied yet, despite the high cardiovascular risk of this population. This study investigated the role of cocoa and yerba mate consumption on oxidative and inflammatory biomarkers in HIV+ individuals. A cross-over, placebo-controlled, double-blind, randomized clinical trial was conducted in 92 individuals on antiretroviral therapy for at least six months and at viral suppression. Participants were randomized to receive either 65 g of chocolate or chocolate-placebo or 3 g of yerba mate or mate-placebo for 15 days each, alternating by a washout period of 15 days. At baseline, and at the end of each intervention regimen, data regarding anthropometry, inflammatory, oxidative and immunological parameters were collected. High-sensitivity C-reactive protein, fibrinogen, lipid profile, white blood cell profile and thiobarbituric acid reactive substances were assessed. There was a difference between mean concentrations of HDL-c (ANOVA; p ≤ 0.05) among the different regimens: dark chocolate, chocolate-placebo, yerba mate and mate-placebo. When a paired Student t-test was used for comparisons between mean HDL-c at baseline and after each regimen, the mean concentration of HDL-c was higher after supplementation with dark chocolate (p = 0.008).",
+      "mesh_terms": [
+        "Acquired Immunodeficiency Syndrome",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Retroviral Agents",
+        "Antioxidants",
+        "Biomarkers",
+        "Brazil",
+        "Candy",
+        "Cardiovascular Diseases",
+        "Chocolate",
+        "Combined Modality Therapy",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Flavonoids",
+        "HIV Infections",
+        "Humans",
+        "Ilex paraguariensis",
+        "Inflammation Mediators",
+        "Male",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Risk",
+        "Teas, Herbal"
+      ]
+    },
+    {
+      "pmid": "26661577",
+      "title": "Effect of an Ilex paraguariensis (yerba mate) extract on infarct size in isolated rat hearts: the mechanisms involved.",
+      "authors": [
+        "Luisa F González Arbeláez",
+        "Juliana C Fantinelli",
+        "Alejandro Ciocci Pardo",
+        "Claudia I Caldiz",
+        "José Luis Ríos",
+        "Guillermo R Schinella",
+        "Susana M Mosca"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2016-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Tea made from Ilex paraguariensis (IP) dried and minced leaves is a beverage widely consumed by large populations in South America as a source of caffeine (stimulant action) and for its medicinal properties. However, there is little information about the action of IP on the myocardium in the ischemia-reperfusion condition. Therefore, the objective of this study was to examine the effects of an aqueous extract of IP on infarct size in a model of regional ischemia. Isolated rat hearts were perfused by the Langendorff technique and subjected to 40 min of coronary artery occlusion followed by 60 min of reperfusion (ischemic control hearts). Other hearts received IP 30 μg mL(-1) during the first 10 min of reperfusion in the absence or presence of l(G)-nitro-l-arginine methyl ester [l-NAME, a nitric oxide synthase (NOS) inhibitor]. The infarct size was determined by triphenyltetrazolium chloride (TTC) staining. Post-ischemic myocardial function and coronary perfusion were also assessed. Cardiac oxidative damage was evaluated by using the thiobarbituric acid reactive substance (TBARS) concentration and the reduced glutathione (GSH) content. To analyze the mechanisms involved, the expressions of phosphorylated forms of eNOS and Akt were measured. In isolated mitochondria the Ca(2+)-induced mitochondrial permeability transition pore (mPTP) opening was determined. IP significantly decreased the infarct size and improved post-ischemic myocardial function and coronary perfusion. TBARS decreased, GSH was partially preserved, the levels of P-eNOS and P-Akt increased and mPTP opening diminished after IP addition. These changes were abolished by l-NAME. Therefore, our data demonstrate that acute treatment with IP only during reperfusion was effective in reducing myocardial post-ischemic alterations. These actions would be mediated by a decrease of mitochondrial permeability through IP-activated Akt/eNOS-dependent pathways.",
+      "mesh_terms": [
+        "Animals",
+        "Glutathione",
+        "Heart",
+        "Humans",
+        "Ilex paraguariensis",
+        "In Vitro Techniques",
+        "Male",
+        "Myocardial Infarction",
+        "Myocardium",
+        "Nitric Oxide Synthase",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "25562195",
+      "title": "Yerba mate (Ilex paraguariensis) improves microcirculation of volunteers with high blood viscosity: a randomized, double-blind, placebo-controlled trial.",
+      "authors": [
+        "Shaohong Yu",
+        "Shou wei Yue",
+        "Zhaochun Liu",
+        "Tiefeng Zhang",
+        "Nan Xiang",
+        "Hui Fu"
+      ],
+      "journal": "Experimental gerontology",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Elevated blood viscosity is a risk factor for atherosclerosis, thrombosis and other cardiovascular events. Our previous studies have suggested that consumption of Yerba mate tea (Ilex paraguariensis) has strong antioxidant and lipid-lowering properties in animals. The in vivo effects of Yerba mate on blood viscosity in humans, however, have not been studied. OBJECTIVE: This study aims to investigate the effect of Yerba mate tea on the reduction of blood viscosity and the improvement of microcirculatory parameters commonly regarded as risk factors for serious cardio and cerebrovascular disorders. METHODS: 142 subjects with high blood viscosity were recruited in this randomized, double-blind, placebo-controlled study. Yerba mate tea or placebo (5 g/day) was administered to different groups for 6 weeks. After treatment, results of hemorheological indexes, nailfold microcirculation, 6-keto-PGF1α and TXB2 and lipid profiles of subjects in the Yerba mate tea group were compared with those in the placebo-receiving group. RESULTS: Parameters of blood viscosity and microcirculation were improved in the subjects from the Yerba mate tea group but not in placebo-receiving patients. After treatment, whole blood viscosity, plasma viscosity and the Equation K value of erythrocyte sedimentation rate (ESRK) decreased significantly in the Yerba mate group. Meanwhile, shape, flow state and nailfold microcirculation appeared positively changed. Specifically, blood flow speeds accelerated gradually and nailfold weighted integral values decreased significantly. Moreover, the vasodilator 6-keto PGF1α increased while the thromboxane TXB2 decreased in serum samples of subjects in the Yerba mate-receiving group. Overall, Yerba mate tea-receiving subjects saw nearly all measured values improve to levels comparable to those characteristic of patients with normal microcirculation. CONCLUSIONS: These results indicate the therapeutic capacity of Yerba mate tea in the treatment of high blood viscosity. Here, Yerba mate tea played a role in the regulation of various indexes of hemorheology, nailfold microcirculation, and the platelet aggregating factors 6-keto-PGF1a and TXB2. The regulation of these might be correlated with reduced blood viscosity and accelerating blood flow. Thus, Yerba mate tea may reduce some key risk-factors of cardiovascular disease. Daily consumption of Yerba mate tea may be a better-tolerated option for individuals with high blood viscosity and microcirculatory disturbance and as such, a novel preventative strategy for patients at-risk for vascular disease.",
+      "mesh_terms": [
+        "6-Ketoprostaglandin F1 alpha",
+        "Adult",
+        "Blood Viscosity",
+        "Capillaries",
+        "Double-Blind Method",
+        "Female",
+        "Hemorheology",
+        "Humans",
+        "Ilex paraguariensis",
+        "Lipids",
+        "Male",
+        "Microcirculation",
+        "Middle Aged",
+        "Nails",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Thromboxane B2",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "25241125",
+      "title": "Effects of Ilex paraguariensis (yerba mate) treatment on leptin resistance and inflammatory parameters in obese rats primed by early weaning.",
+      "authors": [
+        "Natália da Silva Lima",
+        "Elaine de Oliveira",
+        "Ana Paula Santos da Silva",
+        "Lígia de Albuquerque Maia",
+        "Egberto Gaspar de Moura",
+        "Patricia Cristina Lisboa"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2014-Oct-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: We evaluated the effects of yerba mate treatment over 30 days on body weight, food intake, hypothalamic leptin action and inflammatory profile in adult rats that were weaned early. MAIN METHODS: To induce early weaning, the teats of lactating rats were blocked with a bandage to interrupt milk access for the last 3 days of lactation (EW group). Control offspring had free access to milk throughout lactation. On postnatal day (PN) 150, EW offspring were subdivided into: EW and M groups were treated with water and mate aqueous solution (1g/kg BW/day, gavage), respectively, for 30 days. Control offspring received water by gavage. On PN180, offspring were killed. KEY FINDINGS: EW group presented hyperphagia; higher adiposity; higher NPY and TNF-α expression in the ARC nucleus; higher TNF-α and IL-1β levels in the adipose tissue; and lower IL-10 levels in the adipose tissue. These characteristics were normal in M group. As expected, the leptin injection in control offspring caused lower food intake. However, EW group exhibited no change in food intake after the leptin injection, indicating leptin resistance. In contrast, M group had a normal response to the leptin injection. SIGNIFICANCE: Thirty days of mate treatment prevented the development of hyperphagia, overweight, visceral obesity and central leptin resistance. This beneficial effect on the satiety of M offspring most likely occurred after the improvement of inflammatory markers in the hypothalamus and adipocytes, which suggests that Ilex paraguariensis plays an important role in the management of obesity by acting on the inflammatory profile.",
+      "mesh_terms": [
+        "Adiposity",
+        "Animals",
+        "Body Weight",
+        "Drug Resistance",
+        "Eating",
+        "Female",
+        "Hypothalamus",
+        "Ilex paraguariensis",
+        "Inflammation",
+        "Injections",
+        "Leptin",
+        "Male",
+        "Obesity",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Rats",
+        "Rats, Wistar",
+        "Weaning"
+      ]
+    },
+    {
+      "pmid": "24570466",
+      "title": "Yerba mate enhances probiotic bacteria growth in vitro but as a feed additive does not reduce Salmonella Enteritidis colonization in vivo.",
+      "authors": [
+        "Francisco Gonzalez-Gil",
+        "Sandra Diaz-Sanchez",
+        "Sean Pendleton",
+        "Ana Andino",
+        "Nan Zhang",
+        "Carrie Yard",
+        "Nate Crilly",
+        "Federico Harte",
+        "Irene Hanning"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2014-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yerba mate (Ilex paraguariensis) is a tea known to have beneficial effects on human health and antimicrobial activity against some foodborne pathogens. Thus, the application of yerba mate as a feed additive for broiler chickens to reduce Salmonella colonization was evaluated. The first in vitro evaluation was conducted by suspending Salmonella Enteritidis and lactic acid bacteria (LAB) in yerba mate extract. The in vivo evaluations were conducted using preventative and horizontal transmission experiments. In all experiments, day-of-hatch chicks were treated with one of the following 1) no treatment (control); 2) ground yerba mate in feed; 3) probiotic treatment (Lactobacillus acidophilus and Pediococcus; 9:1 administered once on day of hatch by gavage); or 4) both yerba mate and probiotic treatments. At d 3, all chicks were challenged with Salmonella Enteritidis (preventative experiment) or 5 of 20 chicks (horizontal transmission experiment). At d 10, all birds were euthanized, weighed, and cecal contents enumerated for Salmonella. For the in vitro evaluation, antimicrobial activity was observed against Salmonella and the same treatment enhanced growth of LAB. For in vivo evaluations, none of the yerba mate treatments significantly reduced Salmonella Enteritidis colonization, whereas the probiotic treatment significantly reduced Salmonella colonization in the horizontal transmission experiment. Yerba mate decreased chicken BW and decreased the performance of the probiotic treatment when used in combination. In conclusion, yerba mate had antimicrobial activity against foodborne pathogens and enhanced the growth of LAB in vitro, but in vivo yerba mate did not decrease Salmonella Enteritidis colonization.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Bacteria",
+        "Cecum",
+        "Chickens",
+        "Diet",
+        "Dietary Supplements",
+        "Ilex paraguariensis",
+        "Lactobacillus",
+        "Pediococcus",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Poultry Diseases",
+        "Probiotics",
+        "Salmonella Infections, Animal",
+        "Salmonella enteritidis"
+      ]
+    },
+    {
+      "pmid": "24291756",
+      "title": "Hypocholesterolaemic and antioxidant effects of yerba mate (Ilex paraguariensis) in high-cholesterol fed rats.",
+      "authors": [
+        "Laura Bravo",
+        "Raquel Mateos",
+        "Beatriz Sarriá",
+        "Gema Baeza",
+        "Elena Lecumberri",
+        "Sonia Ramos",
+        "Luis Goya"
+      ],
+      "journal": "Fitoterapia",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To study the effect of mate (Ilex paraguariensis) on serum lipids and antioxidant status in normocholesterolaemic and hypercholesterolaemic rats. METHODS: Triglycerides (TG), total, LDL- and HDL-cholesterol levels, total antioxidant capacity (FRAP and ABTS assays), malondialdehyde (MDA) and protein carbonyls were analysed in serum, and MDA, glutathione and antioxidant enzyme activity in livers of rats drinking water or mate fed normal or cholesterol-cholic supplemented diets. RESULTS: ABTS, glutathione and antioxidant enzymes were not affected by any treatment. In normocholesterolaemic animals, mate had no effect on serum lipids or antioxidant status, yet it increased serum carbonyls and liver MDA concentrations. In hypercholesterolaemic rats, mate consumption had no effect on HDL-cholesterol or protein carbonyls, yet it showed a marked hypolipidaemic action, decreasing TG, total and LDL-cholesterol, and serum MDA levels that had been increased after consuming the high-cholesterol diet. CONCLUSION: Potential beneficial effect of mate on markers of cardiovascular risk seems to be restricted to hyperlipaemic animals.",
+      "mesh_terms": [
+        "Animals",
+        "Anticholesteremic Agents",
+        "Antioxidants",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Cholesterol, Dietary",
+        "Hypercholesterolemia",
+        "Ilex paraguariensis",
+        "Lipids",
+        "Liver",
+        "Male",
+        "Malondialdehyde",
+        "Oxidative Stress",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Protein Carbonylation",
+        "Rats",
+        "Rats, Wistar",
+        "Reference Values",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "23670797",
+      "title": "Modulatory effects of yerba maté (Ilex paraguariensis) on the PI3K-AKT signaling pathway.",
+      "authors": [
+        "Demétrius Paiva Arçari",
+        "Juliana Carvalho Santos",
+        "Alessandra Gambero",
+        "Lucio Fábio Caldas Ferraz",
+        "Marcelo Lima Ribeiro"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2013-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of this study was to evaluate the effects of yerba maté (YM) extract on the phosphatidylinositol 3-kinase (PI3K)-AKT signaling pathway in vivo. The mice were introduced to either standard- or high-fat diet (HFD). After 8 weeks on an HFD, mice were randomly assigned to one of the two treatment conditions, water or yerba maté extract at 1.0 g/kg. After treatment, glucose blood level and hepatic insulin response were evaluated. Liver tissue was examined to determine the mRNA levels using the PI3K-AKT PCR array. The nuclear translocation of forkhead box O1 (FOXO1) was determined by an electrophoretic mobility-shift assay. Our data demonstrated that yerba maté extract significantly decreased the final body weight, glucose blood levels, and insulin resistance of mice. Molecular analysis demonstrated that an HFD downregulated Akt2, Irs1, Irs2, Pi3kca, Pi3kcg, and Pdk1; after yerba maté treatment, the levels of those genes returned to baseline. In addition, an HFD upregulated Pepck and G6pc and increased FOXO1 nuclear translocation. The intervention downregulated these genes by decreasing FOXO1 nuclear translocation. The results obtained demonstrate for the first time the specific action of yerba maté on the PI3K-AKT pathway, which contributed to the observed improvement in hepatic insulin signaling.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Body Weight",
+        "Diet, High-Fat",
+        "Down-Regulation",
+        "Forkhead Box Protein O1",
+        "Forkhead Transcription Factors",
+        "Glucose-6-Phosphatase",
+        "Ilex paraguariensis",
+        "Insulin",
+        "Insulin Receptor Substrate Proteins",
+        "Insulin Resistance",
+        "Male",
+        "Mice",
+        "Phosphatidylinositol 3-Kinase",
+        "Protein Serine-Threonine Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Pyruvate Dehydrogenase Acetyl-Transferring Kinase",
+        "RNA, Messenger",
+        "Signal Transduction",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "23562841",
+      "title": "Beneficial effects of Yerba Mate tea (Ilex paraguariensis) on hyperlipidemia in high-fat-fed hamsters.",
+      "authors": [
+        "Hongli Gao",
+        "Yuezhou Long",
+        "Xinquan Jiang",
+        "Zhaochun Liu",
+        "Decai Wang",
+        "Ying Zhao",
+        "Dawei Li",
+        "Bao-liang Sun"
+      ],
+      "journal": "Experimental gerontology",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yerba Mate tea (Mate), an infusion made from the leaves of the tree Ilex paraguariensis, is a widely consumed beverage in South America. Mate has previously been shown to have hypolipidemic effects. However, its mechanism of action is not well understood. This study was conducted to determine the effect of Mate on hyperlipidemia induced in hamsters by a high-fat diet, as well as its mechanism of action. Fifty male hamsters were randomly assigned to normal control, high-fat control, and high-fat with Mate tea aqueous extract (1%, 2% or 4% w/v) groups. We evaluated the effects of Mate aqueous extract on body weight, serum lipids, antioxidant enzyme activity, lipoprotein metabolism enzyme activity, and gene expression involved in lipid metabolism in hyperlipidemic hamsters. Mate aqueous extract significantly decreased body-weight gain and lowered serum lipid levels in the hyperlipidemic hamster model. Meanwhile, Mate treatment increased antioxidant enzyme activity, improved lipoprotein lipase (LPL) and hepatic lipase (HL) activities in serum and liver, upregulated mRNA expression of peroxisome proliferator-activated receptor α and low density lipoprotein receptor, and downregulated mRNA expression of sterol regulatory element-binding protein 1c and acetyl CoA carboxylase in the liver. The results indicate that Mate tea ameliorates hyperlipidemia partly by reducing lipid peroxidation, improving endothelial function and LPL and HL activities, and modulating the expression levels of genes involved in lipid oxidation and lipogenesis.",
+      "mesh_terms": [
+        "Animals",
+        "Beverages",
+        "Chromatography, High Pressure Liquid",
+        "Cricetinae",
+        "Diet, High-Fat",
+        "Gene Expression Regulation",
+        "Hyperlipidemias",
+        "Ilex paraguariensis",
+        "Lipase",
+        "Lipid Peroxidation",
+        "Lipoprotein Lipase",
+        "Liver",
+        "Male",
+        "Mesocricetus",
+        "Organ Size",
+        "Oxidoreductases",
+        "Plant Extracts",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "23397595",
+      "title": "Ilex paraguariensis (yerba mate) improves endocrine and metabolic disorders in obese rats primed by early weaning.",
+      "authors": [
+        "Natália da S Lima",
+        "Juliana G Franco",
+        "Nayara Peixoto-Silva",
+        "Lígia A Maia",
+        "Andrea Kaezer",
+        "Israel Felzenszwalb",
+        "Elaine de Oliveira",
+        "Egberto G de Moura",
+        "Patricia Cristina Lisboa"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2014-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: We showed that early weaned rats developed obesity, hyperleptinemia, leptin and insulin resistance at adulthood. Here, we studied the potential beneficial effects of Ilex paraguariensis aqueous solution upon body composition, glycemia, lipid and hormonal profiles, leptin signaling and NPY content. METHODS: To induce early weaning, lactating rats' teats were blocked with a bandage to interrupt lactation during the last 3 days (EW group), while control offspring had free access to milk throughout lactation (C group). In postnatal day (PN) 150, EW offspring were subdivided into: EW and EW+ mate groups treated, respectively, with water or yerba mate aqueous solution (1 g/kg BW/day, gavage) during 30 days. C offspring received water for gavage. In PN180, offspring were killed. RESULTS: EW+ mate group presented lower body weight (-10 %), adipose mass (retroperitoneal:-40 % and epididymal:-44 %), total body fat (-43 %), subcutaneous fat (-46 %), visceral adipocyte area (-21 %), triglyceridemia (-31 %) and hypothalamic NPY content (-37 %) compared to EW group. However, hyperglycemia and lower HDL-c levels observed in EW group were not reverted with mate treatment. Although the hyperleptinemia, lower hypothalamic JAK2 and pSTAT3 content of EW group were not corrected by mate treatment, the hyperphagia and higher hypothalamic SOCS-3 content were normalized in EW+ mate group, indicating that the central leptin resistance could be restored. CONCLUSION: Thus, the therapy with yerba mate solution was capable to reverse abdominal obesity, leptin resistance and hypertriglyceridemia, suggesting an important role of this bioactive component in the management of obesity in this programming model.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Body Composition",
+        "Body Weight",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Disease Models, Animal",
+        "Dyslipidemias",
+        "Female",
+        "Hyperglycemia",
+        "Hypothalamus",
+        "Ilex paraguariensis",
+        "Insulin Resistance",
+        "Janus Kinase 2",
+        "Lactation",
+        "Leptin",
+        "Neuropeptide Y",
+        "Obesity",
+        "Plant Extracts",
+        "Rats",
+        "STAT3 Transcription Factor",
+        "Subcutaneous Fat",
+        "Suppressor of Cytokine Signaling 3 Protein",
+        "Suppressor of Cytokine Signaling Proteins",
+        "Weaning"
+      ]
+    },
+    {
+      "pmid": "23055269",
+      "title": "Aqueous extract of Yerba Mate tea lowers atherosclerotic risk factors in a rat hyperlipidemia model.",
+      "authors": [
+        "Hongli Gao",
+        "Zhaochun Liu",
+        "Wenju Wan",
+        "Xiaolan Qu",
+        "Meihua Chen"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2013-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yerba Mate tea (Mate) is believed to be a natural source of cardioprotective lipid-lowering and antioxidant compounds. In this study, the antihyperlipidemic and antioxidant effects of Mate tea in a rat hyperlipidemia model were investigated. Male Sprague-Dawley rats were divided randomly into five groups and fed varying diets: standard diet, hyperlipidemic diet, and hyperlipidemic diet supplemented with low, moderate, or high concentrations of Mate tea aqueous extract (1%, 2%, and 4% w/v, respectively). Compared to the hyperlipidemic control group, Mate tea reduced significantly the total body weight and lowered serum levels of total cholesterol, triglyceride, and low-density lipoprotein-cholesterol, and caused the elevation of serum levels of high-density lipoprotein-cholesterol. Moreover, activities of superoxide dismutase and glutathione peroxidase in serum were elevated significantly, whereas the levels of malondialdehyde decreased. In addition, Mate tea treatment ameliorated significantly the severe fatty degeneration of liver cells that occurred in the hyperlipidemic groups. The relative levels of sterol regulatory element binding protein 1 and its target fatty acid synthase, as well as acetyl-CoA carboxylase mRNA transcripts were reduced, whereas peroxisome proliferator-activated receptor alpha mRNA transcripts were elevated in the Mate tea groups. Our results suggest that Mate tea exerts strong antioxidant and lipid-lowering effects, prevents hepatic fatty deposition, and regulates the expression of lipid metabolic regulators. It can therefore be used to reduce the risk of atherosclerosis.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Body Weight",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Diet",
+        "Disease Models, Animal",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Ilex paraguariensis",
+        "Liver",
+        "Male",
+        "Oxidative Stress",
+        "PPAR alpha",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Risk Factors",
+        "Sterol Regulatory Element Binding Protein 1",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "22841395",
+      "title": "Yerba mate extract (Ilex paraguariensis) attenuates both central and peripheral inflammatory effects of diet-induced obesity in rats.",
+      "authors": [
+        "Gustavo D Pimentel",
+        "Fábio S Lira",
+        "José C Rosa",
+        "Aline V Caris",
+        "Fernanda Pinheiro",
+        "Eliane B Ribeiro",
+        "Cláudia M Oller do Nascimento",
+        "Lila M Oyama"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "publication_date": "2013-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To clarify the effects of natural dietary components on the metabolic consequences of obesity, we examined the effects of yerba mate extract Ilex paraguariensis on both central and peripheral inflammatory effects of diet-induced obesity and correlated the hypothalamic tumor necrosis factor (TNF)-α level with adipose depot weight. Wistar rats were divided into four groups: a control group (CTL) fed with chow diet, a second group fed with chow diet plus yerba mate extract (CTL+E), a third group fed with a high-fat diet rich in saturated fatty acids (HFD) and a fourth group fed with HFD plus yerba mate extract (HFD+E). Enzyme-linked immunosorbent assay, Western blotting, colorimetric method and treatment by gavage were utilized as materials and methods. The HFD groups showed a significant increase in food intake (kcal), body weight, adipose tissue and leptin level in comparison to CTL and CTL+E. HFD leads to increase of both central and peripheral inflammatory effects, and deregulation of insulin pathway. In addition, yerba mate extract intake blunted the proinflammatory effects of diet-induced obesity in rats by reducing the phosphorylation of hypothalamic IKK and NFκBp65 expression and increasing the phosphorylation of IκBα, the expression of adiponectin receptor-1 and consequently the amount of IRS-2. Moreover, the increase in interleukin (IL)-6 levels in the liver and muscle and of the IL-10/TNF-α ratio in groups that received yerba mate extract showed the anti-inflammatory effects of this natural substance. Taken together, our data suggest that the use of yerba mate extract may be useful for reducing low-grade obesity-associated inflammation.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Animals",
+        "Body Weight",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Diet, High-Fat",
+        "Energy Intake",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Fasting",
+        "Fatty Acids",
+        "Hypothalamus",
+        "I-kappa B Proteins",
+        "Ilex paraguariensis",
+        "Inflammation",
+        "Insulin",
+        "Insulin Receptor Substrate Proteins",
+        "Interleukin-10",
+        "Interleukin-6",
+        "Leptin",
+        "Liver",
+        "Male",
+        "Muscles",
+        "NF-KappaB Inhibitor alpha",
+        "NF-kappa B",
+        "Obesity",
+        "Phosphorylation",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, Adiponectin",
+        "Signal Transduction",
+        "TOR Serine-Threonine Kinases",
+        "Tumor Necrosis Factor-alpha",
+        "fas Receptor"
+      ]
+    },
+    {
+      "pmid": "22474471",
+      "title": "Anti-obesity and anti-diabetic effects of Yerba Mate (Ilex paraguariensis) in C57BL/6J mice fed a high-fat diet.",
+      "authors": [
+        "Young-Rye Kang",
+        "Hak-Yong Lee",
+        "Jung-Hoon Kim",
+        "Dea-In Moon",
+        "Min-Young Seo",
+        "Sang-Hoon Park",
+        "Kwang-Ho Choi",
+        "Chang-Ryong Kim",
+        "Sang-Hyun Kim",
+        "Ji-Hyun Oh",
+        "Seong-Wan Cho",
+        "Sun-Young Kim",
+        "Min-Gul Kim",
+        "Soo-Wan Chae",
+        "Okjin Kim",
+        "Hong-Geun Oh"
+      ],
+      "journal": "Laboratory animal research",
+      "publication_date": "2012-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba Mate, derived from the leaves of the tree, Ilex paraguariensis, is widely-used as a tea or as an ingredient in formulated foods. The aim of the present study was to evaluate the effects of Yerba Mate extract on weight loss, obesity-related biochemical parameters, and diabetes in high-fat diet-fed mice.To this end, by using in vivo animal models of dietary-induced obesity, we have made the interesting observations that Yerba Mate has the ability to decrease the differentiation of pre-adipocytes and to reduce the accumulation of lipids in adipocytes, both of which contribute to a lower growth rate of adipose tissue, lower body weight gain, and obesity. Our data from in vivo studies revealed that Yerba Mate treatment affects food intake, resulting in higher energy expenditure, likely as a result of higher basal metabolism in Yerba Mate-treated mice. Furthermore, in vivo effects of Yerba Mate on lipid metabolism included reductions in serum cholesterol, serum triglycerides, and glucose concentrations in mice that were fed a high fat diet. In conclusion, Yerba Mate can potentially be used to treat obesity and diabetes."
+    },
+    {
+      "pmid": "21920487",
+      "title": "Yerba Mate (Ilex paraguariensis) consumption is associated with higher bone mineral density in postmenopausal women.",
+      "authors": [
+        "Andrea S Conforti",
+        "María E Gallo",
+        "Fernando D Saraví"
+      ],
+      "journal": "Bone",
+      "publication_date": "2012-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yerba Mate (Ilex paraguariensis) tea consumption is higher in Argentina and other South American countries than those of coffee or tea (Camellia sinensis). The effects of Yerba Mate on bone health have not previously been explored. From a program for osteoporosis prevention and treatment, postmenopausal women who drank at least 1 L of Yerba Mate tea daily during 4 or more years (n=146) were identified, and matched by age and time since menopause with an equal number of women who did not drink Yerba Mate tea. Their bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry (DXA) at the lumbar spine and femoral neck. Yerba Mate drinkers had a 9.7% higher lumbar spine BMD (0.952 g/cm(2) versus 0.858 g/cm(2): p<0.0001) and a 6.2% higher femoral neck BMD (0.817 g/cm(2) versus 0.776 g/cm(2); p=0.0002). In multiple regression analysis, Yerba Mate drinking was the only factor, other than body mass index, which showed a positive correlation with BMD at both the lumbar spine (p<0.0001) and the femoral neck (p=0.0028). Results suggest a protective effect of chronic Yerba Mate consumption on bone.",
+      "mesh_terms": [
+        "Absorptiometry, Photon",
+        "Body Mass Index",
+        "Bone Density",
+        "Cross-Sectional Studies",
+        "Female",
+        "Femur Neck",
+        "Humans",
+        "Ilex paraguariensis",
+        "Lumbar Vertebrae",
+        "Osteoporosis, Postmenopausal",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Retrospective Studies",
+        "Tea"
+      ]
+    },
+    {
+      "pmid": "21600272",
+      "title": "The effect of aqueous extract of gross and commercial yerba mate (Ilex paraguariensis) on intra-abdominal and epididymal fat and glucose levels in male Wistar rats.",
+      "authors": [
+        "Raquel D'Agostini Silva",
+        "Audrin Loss Scopel Bueno",
+        "Carin Weirich Gallon",
+        "Luana Ferreira Gomes",
+        "Samuel Kaiser",
+        "Cabral Pavei",
+        "George González Ortega",
+        "Luiz Carlos Kucharski",
+        "Matheus Parmegiani Jahn"
+      ],
+      "journal": "Fitoterapia",
+      "publication_date": "2011-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study analyzed the plasma lipid profile, glucose levels and fat deposits in male rats treated with aqueous extract of gross yerba mate, commercial yerba mate or water. Yerba mate treatment did not change body weight gain and lipid profile. The consumption of gross yerba mate significantly increased blood glucose (6.6 mmol/L) as compared to the water (4.8 mmol/L) and commercial group (5.2 mmol/L) and decreased epididymal and intra-abdominal deposits (10.1mg/g and 23.7 mg/g of weight) as compared to the water (15.4 mg/g and 36.9 mg/g of weight) and commercial group (12.5mg/g and 28 mg/g of weight). The results suggest that gross yerba mate reduces fat more efficiently but produces a greater increase in blood glucose when compared to commercial yerba mate and water groups.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Animals",
+        "Blood Glucose",
+        "Body Weight",
+        "Epididymis",
+        "Ilex paraguariensis",
+        "Intra-Abdominal Fat",
+        "Male",
+        "Plant Components, Aerial",
+        "Plant Extracts",
+        "Polyphenols",
+        "Random Allocation",
+        "Rats",
+        "Rats, Wistar",
+        "Saponins",
+        "Xanthines"
+      ]
+    },
+    {
+      "pmid": "21238540",
+      "title": "Anti-inflammatory effects of yerba maté extract (Ilex paraguariensis) ameliorate insulin resistance in mice with high fat diet-induced obesity.",
+      "authors": [
+        "Demétrius P Arçari",
+        "Waldemar Bartchewsky",
+        "Tanila W dos Santos",
+        "Karim A Oliveira",
+        "Carlorine C DeOliveira",
+        "Érica M Gotardo",
+        "José Pedrazzoli",
+        "Alessandra Gambero",
+        "Lucio F C Ferraz",
+        "Patricia de O Carvalho",
+        "Marcelo L Ribeiro"
+      ],
+      "journal": "Molecular and cellular endocrinology",
+      "publication_date": "2011-Mar-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of the present study was to evaluate the effects of yerba maté extract upon markers of insulin resistance and inflammatory markers in mice with high fat diet-induced obesity. The mice were introduced to either standard or high fat diets. After 12 weeks on a high fat diet, mice were randomly assigned to one of the two treatment conditions, water or yerba maté extract at 1.0 gkg(-1). After treatment, glucose blood level and hepatic and soleus muscle insulin response were evaluated. Serum levels of TNF-α and IL-6 were evaluated by ELISA, liver tissue was examined to determine the mRNA levels of TNF-α, IL-6 and iNOS, and the nuclear translocation of NF-κB was determined by an electrophoretic mobility shift assay. Our data show improvements in both the basal glucose blood levels and in the response to insulin administration in the treated animals. The molecular analysis of insulin signalling revealed a restoration of hepatic and muscle insulin substrate receptor (IRS)-1 and AKT phosphorylation. Our data show that the high fat diet caused an up-regulation of the TNF-α, IL-6, and iNOS genes. Although after intervention with yerba maté extract the expression levels of those genes returned to baseline through the NF-κB pathway, these results could also be secondary to the weight loss observed. In conclusion, our results indicate that yerba maté has a potential anti-inflammatory effect. Additionally, these data demonstrate that yerba maté inhibits hepatic and muscle TNF-α and restores hepatic insulin signalling in mice with high fat diet-induced obesity.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Biomarkers",
+        "Blood Glucose",
+        "Body Weight",
+        "Dietary Fats",
+        "Gene Expression Regulation",
+        "Ilex paraguariensis",
+        "Inflammation Mediators",
+        "Insulin",
+        "Insulin Receptor Substrate Proteins",
+        "Insulin Resistance",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Obese",
+        "Muscle, Skeletal",
+        "NF-kappa B",
+        "Nitric Oxide Synthase Type II",
+        "Obesity",
+        "Phosphorylation",
+        "Plant Extracts",
+        "Proto-Oncogene Proteins c-akt",
+        "Thermogenesis",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "19694438",
+      "title": "Consumption of yerba mate ( Ilex paraguariensis ) improves serum lipid parameters in healthy dyslipidemic subjects and provides an additional LDL-cholesterol reduction in individuals on statin therapy.",
+      "authors": [
+        "Elayne C de Morais",
+        "Aliny Stefanuto",
+        "Graziela A Klein",
+        "Brunna C B Boaventura",
+        "Fernanda de Andrade",
+        "Elisabeth Wazlawik",
+        "Patrícia F Di Pietro",
+        "Marcelo Maraschin",
+        "Edson L da Silva"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2009-Sep-23",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The objective of this study was to verify the effect of yerba mate (Ilex paraguariensis) consumption on lipid and lipoprotein levels in humans. One hundred and two individuals participated of this single-blind controlled trial. Normolipidemic (n = 15), dyslipidemic (n = 57), and hypercholesterolemic subjects on long-term statin therapy (n = 30) ingested 330 mL, 3 times/day, of green or roasted yerba mate infusions for 40 days. In normolipidemic subjects, yerba mate consumption reduced LDL-cholesterol by 8.7% (p < 0.05). Compared with the baseline period, yerba mate intake by dyslipidemic individuals for 20 and 40 days lowered LDL-cholesterol by 8.1 and 8.6% (p < 0.001) and non-HDL cholesterol by 5.4 and 6.5% (p < 0.01). After 20 days of yerba mate intake, apolipoprotein B was reduced by 6.0% (p < 0.05) and HDL-cholesterol was increased by 4.4% (p < 0.01). In all participants triglyceride levels remained unchanged. The consumption of yerba mate by hypercholesterolemic individuals on statin therapy promoted additional 10.0 and 13.1% reductions in LDL-C after 20 and 40 days, respectively (p < 0.001) and increased HDL-cholesterol by 6.2% after 40 days (p < 0.05). It was thus concluded that intake of yerba mate infusion improved the lipid parameters in normolipidemic and dyslipidemic subjects and provided an additional LDL-cholesterol reduction in hypercholesterolemic subjects on statin treatment, which may reduce the risk for cardiovascular diseases.",
+      "mesh_terms": [
+        "Adult",
+        "Beverages",
+        "Cholesterol, LDL",
+        "Female",
+        "Flavonoids",
+        "Hot Temperature",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hypercholesterolemia",
+        "Ilex paraguariensis",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Phenols",
+        "Phytotherapy",
+        "Plant Leaves",
+        "Polyphenols",
+        "Saponins",
+        "Xanthines"
+      ]
+    },
+    {
+      "pmid": "19444227",
+      "title": "Antiobesity effects of yerba maté extract (Ilex paraguariensis) in high-fat diet-induced obese mice.",
+      "authors": [
+        "Demétrius P Arçari",
+        "Waldemar Bartchewsky",
+        "Tanila W dos Santos",
+        "Karim A Oliveira",
+        "Alexandre Funck",
+        "José Pedrazzoli",
+        "Marina F F de Souza",
+        "Mario J Saad",
+        "Deborah H M Bastos",
+        "Alessandra Gambero",
+        "Patricia de O Carvalho",
+        "Marcelo L Ribeiro"
+      ],
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publication_date": "2009-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Because the potential of yerba maté (Ilex paraguariensis) has been suggested in the management of obesity, the aim of the present study was to evaluate the effects of yerba maté extract on weight loss, obesity-related biochemical parameters, and the regulation of adipose tissue gene expression in high-fat diet-induced obesity in mice. Thirty animals were randomly assigned to three groups. The mice were introduced to standard or high-fat diets. After 12 weeks on a high-fat diet, mice were randomly assigned according to the treatment (water or yerba maté extract 1.0 g/kg). After treatment intervention, plasma concentrations of total cholesterol, high-density lipoprotein cholesterol, triglyceride, low-density lipoprotein (LDL) cholesterol, and glucose were evaluated. Adipose tissue was examined to determine the mRNA levels of several genes such as tumor necrosis factor-alpha (TNF-alpha), leptin, interleukin-6 (IL-6), C-C motif chemokine ligand-2 (CCL2), CCL receptor-2 (CCR2), angiotensinogen, plasminogen activator inhibitor-1 (PAI-1), adiponectin, resistin, peroxisome proliferator-activated receptor-gamma(2) (PPAR-gamma(2)), uncoupling protein-1 (UCP1), and PPAR-gamma coactivator-1 alpha (PGC-1 alpha). The F4/80 levels were determined by immunoblotting. We found that obese mice treated with yerba maté exhibited marked attenuation of weight gain, adiposity, a decrease in epididymal fat-pad weight, and restoration of the serum levels of cholesterol, triglycerides, LDL cholesterol, and glucose. The gene and protein expression levels were directly regulated by the high-fat diet. After treatment with yerba maté extract, we observed a recovery of the expression levels. In conclusion, our data show that yerba maté extract has potent antiobesity activity in vivo. Additionally, we observed that the treatment had a modulatory effect on the expression of several genes related to obesity.",
+      "mesh_terms": [
+        "Adipokines",
+        "Adipose Tissue",
+        "Animals",
+        "Anti-Obesity Agents",
+        "Blood Glucose",
+        "Body Weight",
+        "Cell Migration Assays, Macrophage",
+        "Cholesterol",
+        "Diet",
+        "Dietary Fats",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Ilex paraguariensis",
+        "Mice",
+        "Mice, Obese",
+        "Obesity",
+        "Phytotherapy",
+        "Plant Extracts",
+        "RNA, Messenger",
+        "Random Allocation",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "18942839",
+      "title": "Yerba Maté (Ilex paraguariensis) aqueous extract decreases intestinal SGLT1 gene expression but does not affect other biochemical parameters in alloxan-diabetic Wistar rats.",
+      "authors": [
+        "Daniela M Oliveira",
+        "Helayne S Freitas",
+        "Marina F F Souza",
+        "Demetrius P Arçari",
+        "Marcelo L Ribeiro",
+        "Patrícia O Carvalho",
+        "Deborah H M Bastos"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2008-Nov-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yerba maté (Ilex paraguariensis) is rich in polyphenols, especially chlorogenic acids. Evidence suggests that dietary polyphenols could play a role in glucose absorption and metabolism. The aim of this study was to evaluate the antidiabetic properties of yerba maté extract in alloxan-induced diabetic Wistar rats. Animals (n = 41) were divided in four groups: nondiabetic control (NDC, n = 10), nondiabetic yerba maté (NDY, n = 10), diabetic control (DC, n = 11), and diabetic yerba maté (DY, n = 10). The intervention consisted in the administration of yerba maté extract in a 1 g extract/kg body weight dose for 28 days; controls received saline solution only. There were no significant differences in serum glucose, insulin, and hepatic glucose-6-phosphatase activity between the groups that ingested yerba maté extract (NDY and DY) and the controls (NDC and DC). However, the intestinal SGLT1 gene expression was significantly lower in animals that received yerba maté both in upper (p = 0.007) and middle (p < 0.001) small intestine. These results indicate that bioactive compounds present in yerba maté might be capable of interfering in glucose absorption, by decreasing SGLT1 expression.",
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus, Experimental",
+        "Gene Expression",
+        "Ilex paraguariensis",
+        "Intestinal Mucosa",
+        "Male",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar",
+        "Sodium-Glucose Transporter 1",
+        "Water"
+      ]
+    }
+  ]
+}

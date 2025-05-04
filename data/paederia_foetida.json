@@ -1,0 +1,223 @@
+{
+  "supplement": "Paederia foetida",
+  "query": "Paederia foetida[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:14:25",
+  "research_count": 7,
+  "count": 7,
+  "articles": [
+    {
+      "pmid": "39781725",
+      "title": "Paederia Foetida Linn (Rubiaceae): Chemical Diversity, Phytopharmacological Potential, Quantitative Analysis and Clinical Approaches.",
+      "authors": [
+        "Jyotsana Dwivedi",
+        "Pranay Wal",
+        "Vijay D Wagh",
+        "Pranjal Sachan",
+        "Neha Shukla Joshi",
+        "Swapnil Goyal",
+        "Arpan Kumar Tripathi"
+      ],
+      "journal": "Combinatorial chemistry & high throughput screening",
+      "publication_date": "2025-Jan-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The discovery of novel counteractive pharmaceuticals, which have recently generated much interest, has played a significant role in the development of drugs derived from herbal medicines or botanical sources. Paederia foetida (P. foetida) is one such example of a role in both traditional and traditional medicine. Owing to its popularity in folk medicine, it has been the subject of intense pharmacological and chemical studies for the last 30 years. They are locally known as \"Gandhavadulia\" or \"GandhaPrasarini\" (English name \"skunkvine\") and belong to the family Rubiaceae. This plant has a broad range of applications in the treatment of several illnesses, including anti-inflammatory, antinociceptive, antitussive, thrombolytic, antidiabetic, antihyperlipidaemic, antioxidant, nephroprotective, anti-inflammatory, hepatoprotective, anthelmintic, and antidiarrheal effects. Additionally, it contains a variety of phytochemicals, such as asperuloside, paederosidic acid, sitosterols, campesterol, lignans, alkaloids, volatile oils, iridoids, methylindooxy substances, stigmasterol, tannins, triterpenoids, ellagic acid, ursolic acid, epifriedelinol, and phenolic compounds. Recently, mounting data on numerous active ingredients have indicated that they may be beneficial for spermatogenesis, wound healing, inflammatory illnesses, and cancer. This review describes the phytochemistry and mechanisms of action of these pharmacological effects and provides insights into potential pharmacological targets. These results highlight the need for additional studies on this medicinal plant and the investigation of new counteractive medications to determine their mode of action before use in healthcare."
+    },
+    {
+      "pmid": "39507784",
+      "title": "Neuroprotective effects of Paederia foetida Linn. on scopolamine-induced cognitive impairment in rats.",
+      "authors": [
+        "Narawut Pakaprot",
+        "Tanaporn Khamphaya",
+        "Pattamaporn Kwankaew",
+        "Sarawut Ninsuwan",
+        "Sutida Laisunthad",
+        "Kotchaporn Thonoi",
+        "Saruda Kuraeiad"
+      ],
+      "journal": "Veterinary world",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND AIM: Alzheimer's disease (AD) poses a significant health-care challenge, often linked to cognitive decline caused by oxidative stress. This study investigated the potential neuroprotective effects of the Paederia foetida leaf extract (PFE) in rats that exhibited scopolamine-induced dementia mimicking AD. MATERIALS AND METHODS: Forty-two male rats were treated with either donepezil (0.5 mg/kg) or PFE at doses of 250, 500, and 1000 mg/kg for 14 days before and 14 days after the beginning of Alzheimer's-like symptoms after 14 consecutive days of scopolamine administration. Behavioral tests, including the open-field test for locomotor activity and the Morris water maze task for learning and memory assessment, were conducted. Neuronal cell counts and biochemical assays were performed to further analyze outcomes. RESULTS: All groups exhibited normal locomotor activity. The scopolamine group displayed longer escape latency times, reduced time in the target quadrant, decreased number of surviving neurons, and increased malondialdehyde and decreased glutathione levels compared with the control group. However, pre-treatment with 1000 mg/kg PFE notably mitigated the neurotoxic effects of scopolamine. CONCLUSION: The neuroprotective properties of PFE are highlighted, suggesting its potential as a promising treatment strategy for AD."
+    },
+    {
+      "pmid": "37738820",
+      "title": "Assessment of the hypoglycemic and anti-hemostasis effects of Paederia foetida (L.) in controlling diabetes and thrombophilia combining in vivo and computational analysis.",
+      "authors": [
+        "Jannatul Ferdous",
+        "Md Ekhtiar Rahman",
+        "Farzana Sayed Sraboni",
+        "Amit Kumar Dutta",
+        "Md Siddikur Rahman",
+        "Md Roushan Ali",
+        "Biswanath Sikdar",
+        "Alam Khan",
+        "Md Faruk Hasan"
+      ],
+      "journal": "Computational biology and chemistry",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Paederia foetida is valued for its folk medicinal properties. This research aimed to assess the acute toxicity, hypoglycemic and anti-hemostasis properties of the methanolic extract of P. foetida leaves (PFLE). Acute toxicity of PFLE was performed on a mice model. Hypoglycemic and anti-hemostasis properties of PFLE were investigated on normal and streptozotocin-induced mice models. Deep learning, molecular docking, density functional theory, and molecular simulation techniques were employed to understand the underlying mechanisms through in silico study. Oral administration of PFLE at a dosage of 300 µg/kg body weight (BW) showed no signs of toxicity. Treatment with PFLE (300 µg/kg/BW) for 14 days resulted in a hypoglycemic condition and a 30.47% increase in body weight. Additionally, PFLE mixed with blood exhibited a 44.6% anti-hemostasis effect. Deep learning predicted the inhibitory concentration (pIC50, nM) of Cleomiscosins against SGLT2 and FXa to be 7.478 and 6.017, respectively. Molecular docking analysis revealed strong binding interactions of Cleomiscosins with crucial residues of the target proteins, exhibiting binding energies of -8.2 kcal/mol and -7.1 kcal/mol, respectively. ADME/Tox predictions indicated favorable pharmacokinetic properties of Cleomiscosins, and DFT calculations of frontier molecular orbitals analyzed the stability and reactivity of these compounds. Molecular simulation dynamics, principal component analysis and MM-PBSA calculation demonstrated the stable, compact, and rigid nature of the protein-ligand complexes. The methanolic PFLE exhibited significant hypoglycemic and anti-hemostasis properties. Cleomiscosin may have inhibitory properties for the development of novel drugs to manage diabetes and thrombophilia in the near future.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Hypoglycemic Agents",
+        "Molecular Docking Simulation",
+        "Plant Extracts",
+        "Diabetes Mellitus",
+        "Molecular Dynamics Simulation",
+        "Thrombophilia",
+        "Body Weight"
+      ]
+    },
+    {
+      "pmid": "31112703",
+      "title": "Paederia foetida induces anticancer activity by modulating chromatin modification enzymes and altering pro-inflammatory cytokine gene expression in human prostate cancer cells.",
+      "authors": [
+        "Nibedita Pradhan",
+        "Sabnam Parbin",
+        "Chahat Kausar",
+        "Swayamsiddha Kar",
+        "Shradha Mawatwal",
+        "Laxmidhar Das",
+        "Moonmoon Deb",
+        "Dipta Sengupta",
+        "Rohan Dhiman",
+        "Samir Kumar Patra"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aberrant epigenetic modifications are responsible for tumor development and cancer progression; however, readily reversible. Bioactive molecules from diets are promising to cure cancer by modulating epigenetic marks and changing immune response. These compounds specifically target the activity of DNMTs and HDACs to cure various human cancers. In view of this, we investigated the anticancer and epigenetic regulatory activities of an edible-plant Paederia foetida. The efficacy of methanolic extract of P. foetida leaves (MEPL) was tested for the modulation of epigenetic factors in gene silencing, i.e. DNMT and HDAC and expression pattern of certain tumor-suppressor genes. After treatment of prostate cancer cells (PC-3 and DU-145) with MEPL, lupeol and β-sitosterol; induction of apoptosis, decrease in cellular-viability and inhibition of cellular-migration were noticed. Simultaneously there was inhibition of DNMT1, HDACs and pro-inflammatory, IL-6, IL1-β, TNF-α and anti-inflammatory, IL-10 genes in cancer and THP1 cell lines. The DNMT1 protein content, enzyme activity and Bcl2 expression decreased significantly; however, expression of E-cadherin (CDH1) and pro-apoptotic gene Bax increased significantly after the treatment of cells with drugs. We conclude plant-derived compounds can be considered to target epigenetic machineries involved with malignant transformation and can open new avenues for cancer therapeutics provoking immune response.",
+      "mesh_terms": [
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "DNA (Cytosine-5-)-Methyltransferase 1",
+        "Gene Expression Regulation, Neoplastic",
+        "Histone Deacetylase 1",
+        "Histone Deacetylase 2",
+        "Humans",
+        "Inflammation",
+        "Male",
+        "Pentacyclic Triterpenes",
+        "Phytochemicals",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Prostatic Neoplasms",
+        "RNA, Messenger",
+        "Rubiaceae",
+        "Sitosterols"
+      ]
+    },
+    {
+      "pmid": "28111217",
+      "title": "Renoprotective and antioxidative effects of methanolic Paederia foetida leaf extract on experimental diabetic nephropathy in rats.",
+      "authors": [
+        "M P Borgohain",
+        "L Chowdhury",
+        "S Ahmed",
+        "N Bolshette",
+        "K Devasani",
+        "T J Das",
+        "A Mohapatra",
+        "M Lahkar"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2017-Feb-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Paederia foetida Linn. (Family: Rubiaceae) is widely used as a natural remedy for diabetes mellitus by the Nepali and Lepcha tribes of Sikkim and Darjeeling Himalayan region. The plant is administered to a diabetic individual in the form of leaf infusion for 2-3 weeks. Therefore, we investigated the effects of methanolic leaf extract of Paederia foetida (MEPF) on alloxan (ALX) induced diabetic renal oxidative stress and NF-kB dependent renoinflammatory events in rat. Method Effects of MEPF on blood glucose, glomerular filtration rate (GFR), serum and oxidative stress markers were evaluated in ALX induced diabetic wistar rats. Enzyme linked immunosorbent assay (ELISA) was carried out to estimate serum IL-6, IL-1β, TNF-α and renal tissue NF-kB p65 levels. MEPF treatment was given to the diabetic rats at a dose of 250 and 500mg/kg body weight (b.w.). RESULTS & DISCUSSION: MEPF treatment significantly reduced hyperglycaemia, serum creatinine, blood urea nitrogen (BUN), bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT), triglycerides (TRIGs), and total cholesterol (TCHOL) levels in the diabetic rats, whereas it significantly restored GFR and serum albumin level. The activity of enzymatic and non-enzymatic antioxidant machineries was remarkably augmented by MEPF treatment. Likewise, it also significantly lowered lipid peroxidation which was evidenced by decreased concentration of thiobarbituric reactive substances (malondialdehyde, MDA) in the renal tissue of treated diabetic groups. Moreover, MEPF treated animals exhibited low serum concentrations of IL-6, IL-1β and TNF-α compared to the diabetic control rats. It showed a dose dependent inhibition of NF-kB activation in the diabetic kidney, but the effects were more prominent at a dose of 500mg/kg. Histopathological examinations also confirmed its nephroprotective action during diabetes. CONCLUSION: MEPF treatment mitigates oxidative stress and suppresses renal inflammation via inhibition of NF-kB in diabetic kidney in early progressive diabetic nephropathy.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Blood Glucose",
+        "Cytokines",
+        "Diabetes Mellitus, Experimental",
+        "Diabetic Nephropathies",
+        "Dose-Response Relationship, Drug",
+        "Glomerular Filtration Rate",
+        "Inflammation",
+        "Lipid Peroxidation",
+        "Male",
+        "NF-kappa B",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rats",
+        "Rats, Wistar",
+        "Rubiaceae"
+      ]
+    },
+    {
+      "pmid": "25893742",
+      "title": "Paederia foetida Linn. inhibits adjuvant induced arthritis by suppression of PGE(2) and COX-2 expression via nuclear factor-κB.",
+      "authors": [
+        "Vikas Kumar",
+        "F A Al-Abbasi",
+        "Danish Ahmed",
+        "Amita Verma",
+        "Mohd Mujeeb",
+        "Firoz Anwar"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2015-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The current investigation was undertaken to determine the anti-inflammatory and antioxidant effects of Paederia foetida Linn. (PF) along with its mechanism of action when implemented in tissue protection. HPTLC was used in the identification of the compound quercetin, while in vitro analysis confirmed the significance of the antioxidant and anti-inflammatory action of PF. We initially demonstrated the in vivo anti-inflammatory effect of PF, evaluating it against a variety of phlogistic agents as well as turpentine oil, prostaglandin and arachidonic acid. Groups of rats, fasted overnight, were treated as follows: Group I: normal control (vehicle), Group II: PF (100 mg kg(-1)), Group III: arthritic control (CFA only, 0.05 ml), Group IV, V, VI: CFA (0.05 ml) + PF (25, 50 and 100 mg kg(-1)) and Group VII: CFA (0.05 ml) + indomethacin (10 mg per kg b.w.). PF significantly protected against paw edema, arthritic index and body weight alteration induced by Complete Fruend's Adjuvant (CFA). Other observations, like histological and macroscopic changes, were observed in CFA induced inflammation in knee joints. Subcutaneous administration of CFA was accompanied by proinflammatory cytokine status, as appraised by the amplification of interleukin-2 (IL-2), interleukin-1β (IL-1β) and tumor necrosis factor (TNF-α); oxidative stress status was estimated by the enhancement of the level of lipid peroxidation (LPO) and the depletion of superoxide dismutase (SOD), glutathione peroxidase (GPx) and glutathione (GSH). Pre-treatment with PF significantly (P < 0.001) protected against CFA induced oxidative stress and proinflammatory cytokines. More prominently, CFA administration augmented tissue and plasma superoxide (O2) and hydrogen peroxide (H2O2) levels, while the PF pre-treatment significantly (P < 0.001) reversed all CFA induced intracellular interruption. Following CFA induced arthritis, PF was tested for its free radical scavenging activity against the DPPH and ABTS radicals and its inhibitory proficiency against COX-1 and COX-2 in vitro. Considering the above, the current research confirmed momentous protection against CFA induced arthritis, which could be attributed to its anti-inflammatory and pro-oxidant nature.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Arthritis, Experimental",
+        "Cyclooxygenase 2",
+        "Female",
+        "Humans",
+        "Interleukin-1beta",
+        "Interleukin-2",
+        "Male",
+        "NF-kappa B",
+        "Plant Extracts",
+        "Prostaglandins E",
+        "Rats",
+        "Rubiaceae"
+      ]
+    },
+    {
+      "pmid": "25115105",
+      "title": "A phytochemical, pharmacological and clinical profile of Paederia foetida and P. scandens.",
+      "authors": [
+        "Liang Wang",
+        "Yiping Jiang",
+        "Ting Han",
+        "Chengjian Zheng",
+        "Luping Qin"
+      ],
+      "journal": "Natural product communications",
+      "publication_date": "2014-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Paederia foetida and P. scandens are two important and well explored Paederia species (Rubiaceae). P. foetida, which grows mainly in China, Bangladesh, India and Mauritius, has been used in folk medicine for the treatment of inflammation, piles, and diarrhea, while P. scandens is used to treat aches, jaundice, dysentery and dyspepsia as a folk medicine in the southern region of China, Vietnam, India and Japan. This review covers the comprehensive knowledge of the traditional medicinal uses, phytochemistry, pharmacology, toxicology and clinical studies of P. foetida and P. scandens. Phytochemical studies revealed the presence of iridoids, flavonoids, volatile oil, and other metabolites in these two species, which possess versatile bioactivities like antinociceptive, anti-inflammatory, antidiarrheal, antitussive and antitumor activities. An injection developed from P. scandens has been clinically used as an analgesic drug. P. foetida and P. scandens have emerged as a good source of traditional medicines. Available scientific references reveal that the biological properties of these two Paederia species have been evaluated by modem pharmacological studies. However, bioguided isolation of active constituent responsible for the medical uses, as well as study of their structure-activity relationship and mode of actions, is urgently needed.",
+      "mesh_terms": [
+        "Flavones",
+        "Iridoid Glycosides",
+        "Oils, Volatile",
+        "Plant Oils",
+        "Plants, Medicinal",
+        "Rubiaceae"
+      ]
+    }
+  ]
+}

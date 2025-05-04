@@ -1,0 +1,29 @@
+{
+  "supplement": "Bhringaraj",
+  "query": "Bhringaraj[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:18:07",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36836257",
+      "title": "Immunomodulatory Potency of Eclipta alba (Bhringaraj) Leaf Extract in Heteropneustes fossilis against Oomycete Pathogen, Aphanomyces invadans.",
+      "authors": [
+        "Vikash Kumar",
+        "Basanta Kumar Das",
+        "Himanshu Sekhar Swain",
+        "Hemanta Chowdhury",
+        "Suvra Roy",
+        "Asit Kumar Bera",
+        "Ramesh Chandra Malick",
+        "Bijay Kumar Behera"
+      ],
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "publication_date": "2023-Jan-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aphanomyces invadans is an aquatic oomycete pathogen and the causative agent of epizootic ulcerative syndrome (EUS) in fresh and brackish water fish, which is responsible for severe mortalities and economic losses in aquaculture. Therefore, there is an urgent need to develop anti-infective strategies to control EUS. An Oomycetes, a fungus-like eukaryotic microorganism, and a susceptible species, i.e., Heteropneustes fossilis, are used to establish whether an Eclipta alba leaf extract is effective against the EUS-causing A. invadans. We found that treatment with methanolic leaf extract, at concentrations between 50-100 ppm (T4-T6), protects the H. fossilis fingerlings against A. invadans infection. These optimum concentrations induced anti-stress and antioxidative response in fish, marked by a significant decrease in cortisol and elevated levels of superoxide dismutase (SOD) and catalase (CAT) levels in treated animals, as compared with the controls. We further demonstrated that the A. invadans-protective effect of methanolic leaf extract was caused by its immunomodulatory effect and is linked to the enhanced survival of fingerlings. The analysis of non-specific and specific immune factors confirms that methanolic leaf extract-induced HSP70, HSP90 and IgM levels mediate the survival of H. fossilis fingerlings against A. invadans infection. Taken together, our study provides evidence that the generation of anti-stress and antioxidative responses, as well as humoral immunity, may play a role in protecting H. fossilis fingerlings against A. invadans infection. It is probable that E. alba methanolic leaf extract treatment might become part of a holistic strategy to control EUS in fish species."
+    }
+  ]
+}

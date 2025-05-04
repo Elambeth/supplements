@@ -1,0 +1,494 @@
+{
+  "supplement": "Phellodendron amurense",
+  "query": "Phellodendron amurense[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:17:57",
+  "research_count": 16,
+  "count": 16,
+  "articles": [
+    {
+      "pmid": "39091177",
+      "title": "Screening and isolation of quorum sensing inhibitors of Pseudomonas aeruginosa from Phellodendron amurense extracts using bio-affinity chromatography.",
+      "authors": [
+        "Yu Yi",
+        "Ye Zhou",
+        "Susu Lin",
+        "Kefan Shi",
+        "Jianfeng Mei",
+        "Guoqing Ying",
+        "Shujiang Wu"
+      ],
+      "journal": "Journal of separation science",
+      "publication_date": "2024-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Drug-resistant bacterial infections pose a significant challenge in the field of bacterial disease treatment. Finding new antibacterial pathways and targets to combat drug-resistant bacteria is crucial. The bacterial quorum sensing (QS) system regulates the expression of bacterial virulence factors. Inhibiting bacterial QS and reducing bacterial virulence can achieve antibacterial therapeutic effects, making QS inhibition an effective strategy to control bacterial pathogenicity. This article mainly focused on the PqsA protein in the QS system of Pseudomonas aeruginosa. An affinity chromatography medium was developed using the SpyTag/SpyCatcher heteropeptide bond system. Berberine, which can interact with the PqsA target, was screened from Phellodendron amurense by affinity chromatography. We characterized its structure, verified its inhibitory activity on P. aeruginosa, and preliminarily analyzed its mechanism using molecular docking technology. This method can also be widely applied to the immobilization of various protein targets and the effective screening of active substances.",
+      "mesh_terms": [
+        "Quorum Sensing",
+        "Pseudomonas aeruginosa",
+        "Phellodendron",
+        "Chromatography, Affinity",
+        "Anti-Bacterial Agents",
+        "Plant Extracts",
+        "Molecular Docking Simulation",
+        "Drug Evaluation, Preclinical",
+        "Microbial Sensitivity Tests"
+      ]
+    },
+    {
+      "pmid": "38492509",
+      "title": "Metabolic profile of Phellodendron amurense Rupr. in vivo of rat and its metabolomic study on intervention in rheumatoid arthritis.",
+      "authors": [
+        "Ying Hao",
+        "Bingcheng Wang",
+        "Yuan Feng",
+        "Xiaodong Xin",
+        "Yawei Deng",
+        "Mingsong Liu",
+        "Chunhua Li",
+        "Shiqiao Liu",
+        "Qingqing Zhang"
+      ],
+      "journal": "Journal of pharmaceutical and biomedical analysis",
+      "publication_date": "2024-Jun-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "To analyze the metabolites (blood, urine and feces) in normal rats after intragastric administration of the decoction of Phellodendri Amurensis Cortex (PAC) and to map the metabolic profile of PAC in vivo of rat; meanwhile, to evaluate the anti-rheumatoid arthritis (RA) effect of PAC by blood metabolomics technique and to explore its mechanism. Performing on UPLC-Q-TOF-MS technology with a Waters ACQUITY UPLC BEH-C18 column (100 mm × 2.1 mm, 1.7 μm), the mobile phase was acetonitrile-0.1% formic acid aqueous solution (gradient elution). Prior to and following the administration of the decoction of PAC, the samples of blood, urine, and fecal were collected from the rats, in the positive ion mode, pharmacogenic metabolites in each biological sample were identified according to the accurate mass, fragment ions, retention time, metabolic reaction type, comparison of reference substance and retrieval of Pub Med database; The adjuvant-type arthritis (AA) rat model was established, and blood metabonomics method was used to study the improvement effect of rheumatoid arthritis after drug intervention with PAC, and its mechanism was preliminarily explored through analysis of metabolic pathway. A total of 72 exogenous components were identified, including 17 prototype components and 55 metabolites; 14 biomarkers were screened by blood metabolomics techniques combined with multivariate statistical analysis, and PAC significantly improved symptoms of rheumatoid arthritis in rats, and the metabolic pathway analysis mainly involves 5 metabolic pathways. The components in the aqueous decoction of PAC mainly undergo phase I metabolic reactions in rats, such as oxidation, reduction, dehydrogenation, demethylation, and phase II metabolic reactions, such as acetylation, glucuronidation, methylation; PAC has anti-rheumatoid arthritis effects, and its mechanism of action may be related to biosynthesis of aminoacyl-tRNA, metabolism of phenylalanine, metabolism of tryptophan, degradation of valine, leucine and isoleucine and biosynthesis of pantothenic acid and coenzyme A, providing a scientific basis for the study of the pharmacodynamic substances and the action mechanism of PAC against RA.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Phellodendron",
+        "Chromatography, High Pressure Liquid",
+        "Drugs, Chinese Herbal",
+        "Metabolomics",
+        "Metabolome",
+        "Arthritis, Rheumatoid"
+      ]
+    },
+    {
+      "pmid": "35629433",
+      "title": "Antiproliferative Effect of Phellodendron amurense Rupr. Based on Angiogenesis.",
+      "authors": [
+        "Ľudmila Balážová",
+        "Slavomír Kurhajec",
+        "Martin Kello",
+        "Zdenka Bedlovičová",
+        "Martina Zigová",
+        "Eva Petrovová",
+        "Katarína Beňová",
+        "Ján Mojžiš",
+        "Jarmila Eftimová"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2022-May-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Phellodendron amurense Rupr. is medicinal plant used for supplemental therapy of various diseases based on their positive biological activities. The aim of this study was evaluated the main metabolite, safety of application and anticancer potential. Berberine was determined by HPLC as main alkaloid. Harmful character was determined by irritation test in ovo. The potential cancerogenic effect was studied in vitro on a cellular level, in ovo by CAM assay and in vivo on whole organism Artemia franciscana. Extract from the bark of Phellodendron amurense showed antiproliferative and antiangiogenic effects. The results of our work showed promising anticancer effects based also on the inhibition of angiogenesis with minimum negative effects."
+    },
+    {
+      "pmid": "34386623",
+      "title": "Safety studies of Nexrutine, bark extract of Phellodendron amurense through repeated oral exposure to rats for 28 days.",
+      "authors": [
+        "Shamshad Alam",
+        "Payal Mandal",
+        "Pankaj Ramji Jagdale",
+        "Anjaneya Ayanur",
+        "Kausar Mahmood Ansari"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nexrutine (NX), a marketable herbal extract from a traditional Chinese herbal plant, Phellodendron amurense, is majorly used for the resolution of inflammation, gastroenteritis, and some tissue-specific cancer. Strategies for the identification of the safety of anticancer solutions of plant origin are an important area of study. The present investigation assesses the single and repeated dose (28 days) toxicity of NX following OECD guidelines 425 and 407, respectively. Briefly, to identify acute toxic properties of NX, a dose of 2000 mg/kg b. wt was administered once orally. Simultaneously, repeated dose toxicity was evaluated through daily administration of the three different doses (250, 500, 750 mg/kg b. wt) of NX for 28days. The single administration of NX showed no signs of toxicity and morbidity, suggesting LD50 of NX more than 2000 mg/kg b. wt. Furthermore, repeated dose exposure of NX for 28 days did not show any sign of toxicity. Hematology, serum biochemistry, and histopathological analysis also did not show any significant abnormalities. However, a marginal decrease in triglyceride, cholesterol, and glucose levels along with mild tubular degeneration in the kidney was also noticed in the high dose NX treatment group. Overall, the findings of the study suggest that NX is safe for use up to 500 mg/kg b.wt."
+    },
+    {
+      "pmid": "33671908",
+      "title": "Gelatin/Chitosan Bilayer Patches Loaded with Cortex Phellodendron amurense/Centella asiatica Extracts for Anti-Acne Application.",
+      "authors": [
+        "Chi-Wen Kuo",
+        "Yi-Fang Chiu",
+        "Min-Hua Wu",
+        "Ming-Hsien Li",
+        "Cheng-Nan Wu",
+        "Wan-Sin Chen",
+        "Chiung-Hua Huang"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2021-Feb-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acne is a chronic inflammatory skin disease that often occurs with anaerobic Propionibacterium acnes (P. acnes). Anti-acne patches, made of hydrocolloid or hydrogel, have become a popular way of topical treatment. The outer water-impermeable layer of commercial patches might create hypoxic conditions and promote P. acnes growth. In this study, gelatin/chitosan (GC) bilayer patches were prepared at different temperatures that included room temperature (RT), -20 °C/RT, and -80 °C/RT. The most promising GC bilayer patch (-80 °C /RT) contained a dense upper layer for protection from bacteria and infection and a porous lower layer for absorbing pus and fluids from pimples. The anti-acne bilayer patch was loaded with Cortex Phellodendri amurensis (PA) and Centella asiatica (CA) extracts. PA extract could inhibit the growth of P. acnes and CA extract was reported to improve wound healing and reduce scar formation. Moreover, the water retention rate, weight loss rate, antibacterial activity, and in vitro cytotoxicity of the patches were investigated. The porous structure of the patches promoted water retention and contributed to absorbing the exudate when used on open acne wounds. The GC bilayer patches loaded with PA/CA extracts were demonstrated to inhibit the growth of P. acnes, and accelerate the skin fibroblast cell viability. Based on their activities and characteristics, the GC bilayer patches with PA/CA extract prepared at -80 °C/RT obtain the potential for the application of acne spot treatment."
+    },
+    {
+      "pmid": "28231693",
+      "title": "Native plants (Phellodendron amurense and Humulus japonicus) extracts act as antioxidants to support developmental competence of bovine blastocysts.",
+      "authors": [
+        "Geon-Yeop Do",
+        "Jin-Woo Kim",
+        "Hyo-Jin Park",
+        "Seung-Bin Yoon",
+        "Jae-Young Park",
+        "Seul-Gi Yang",
+        "Bae Dong Jung",
+        "Yong-Soo Kwon",
+        "Man-Jong Kang",
+        "Bong-Seok Song",
+        "Sun-Uk Kim",
+        "Kyu-Tae Chang",
+        "Deog-Bon Koo"
+      ],
+      "journal": "Asian-Australasian journal of animal sciences",
+      "publication_date": "2017-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Phellodendron amurense (P. amurense) and Humulus japonicus (H. japonicus) are closely involved in anti-oxidative response and increasing antioxidant enzymes activities. However, the effects of their extracts on development of preimplantation bovine embryos have not been investigated. Therefore, we investigated the effects of P. amurense and H. japonicus extracts on developmental competence and quality of preimplantation bovine embryos. METHODS: After in vitro fertilization, bovine embryos were cultured for 7 days in Charles Rosenkrans amino acid medium supplemented with P. amurense (0.01 μg/mL) and H. japonicus (0.01 μg/mL). The effect of this supplementation during in vitro culture on development competence and antioxidant was investigated. RESULTS: We observed that the blastocysts rate was significantly increased (p<0.05) in P. amurense (28.9%±2.9%), H. japonicus (30.9%±1.5%), and a mixture of P. amurense and H. japonicus (34.8%± 2.1%) treated groups compared with the control group (25.4%±1.6%). We next confirmed that the intracellular levels of reactive oxygen species (ROS) were significantly decreased (p<0.01) in P. amurense and/or H. japonicus extract treated groups when compared with the control group. Our results also showed that expression of cleaved caspase-3 and apoptotic cells of blastocysts were significantly decreased (p<0.05) in bovine blastocysts derived from both P. amurense and H. japonicus extract treated embryos. CONCLUSION: These results suggest that proper treatment with P. amurense and H. japonicus extracts in the development of preimplantation bovine embryos improves the quality of blastocysts, which may be related to the reduction of ROS level and apoptosis."
+    },
+    {
+      "pmid": "26397864",
+      "title": "Synergistic topical application of salt-processed Phellodendron amurense and Sanguisorba officinalis Linne alleviates atopic dermatitis symptoms by reducing levels of immunoglobulin E and pro-inflammatory cytokines in NC/Nga mice.",
+      "authors": [
+        "Sunmin Park",
+        "Da Sol Kim",
+        "Suna Kang",
+        "Bae Keun Shin"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2015-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Atopic dermatitis is a chronic inflammatory skin disease, and salt-processed Phellodendron amurense (CPE) and Sanguisorba officinalis Linne (SOE) are widely used as anti-inflammatory agents in Asia. Therefore, the present study investigated the efficacy of CPE, SOE, and CPE+SOE in the treatment of atopic dermatitis-like symptoms in mice. Following topical application of 1,3‑butylen glycol (control), 30% CPE, 30% SOE, 15% CPE+15% SOE or 0.1% hydrocortisone (HC) on the atopic dermatitis‑like skin lesions of 2,4-dinitrochlorobenzene‑treated NC/Nga mice for 5 weeks, the severity of clinical atopic dermatitis, mast cell infiltration, serum expression levels of immunoglobulin (Ig)E, IgG1, interleukin (IL)-4 and interferon (IFN)-γ, and cytokine expression in the dorsal skin were measured. Compared with the control group, treatment with CPE alleviated the clinical severity of the AD symptoms, with decreased numbers of mast cells, decreased expression levels of serum tumor necrosis factor (TNF)‑α, IL‑4 and IFN‑γ, and decreased expression levels of inflammatory cytokines in the dorsal lesions. Treatment with SOE did not reduce these expression levels, however, the serum expression levels of IgE and IgG1 were suppressed to similar levels as those in the CPE group. Furthermore, synergistic treatment with CPE and SOE relieved the clinical severity of atopic dermatitis, reduced the serum expression levels of IgE, IgG1, TNF‑α, IL‑4 and IFN‑γ, and suppressed the mRNA expression levels of TNF‑α, IL‑4, IL‑13, and IFN‑γ in the dorsal skin lesions. Treatment with CPE+SOE was superior to treatment with HC alone for reducing dermal thickness and suppressing the production of several cytokines. Therefore, combined treatment with CPE and SOE may be an effective alternative intervention for the management of atopic dermatitis.",
+      "mesh_terms": [
+        "Administration, Topical",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Dermatitis, Atopic",
+        "Flavonoids",
+        "Immunoglobulin E",
+        "Male",
+        "Mice",
+        "Phellodendron",
+        "Phenols",
+        "Plant Extracts",
+        "Salts",
+        "Sanguisorba",
+        "Skin"
+      ]
+    },
+    {
+      "pmid": "25443277",
+      "title": "Ionic liquid-aqueous solution ultrasonic-assisted extraction of three kinds of alkaloids from Phellodendron amurense Rupr and optimize conditions use response surface.",
+      "authors": [
+        "Wenchao Wang",
+        "Qingyong Li",
+        "Yuhui Liu",
+        "Binbin Chen"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2015-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In this paper, we chose diffident kinds of ionic liquids to optimal selection an optimal one to extract alkaloids from Phellodendron amurense Rupr. Four ionic liquids with diffident carbon chains or anions have been investigated and 1-butyl-3-methylimidazolium bromide with best productivity. Then, selections have been optimized in different conditions, including concentration of ionic liquid, time for ultrasonic treatment, ultrasonic power and solid-liquid ratio. Moreover, three conditions have been comprehensively assessment by response surface methodology, the optimal conditions were determined as follows ultrasonic power 100 W, extraction time 75 min and ratio of solvent to raw material 1:14. Under these conditions, the yield% (MIX) was 106.7% (extracted by heat reflux being defined 100%). Comparing with other methods, the advantages are saving conserving, time saving, high yield% and especially pollution-free.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Liquid-Liquid Extraction",
+        "Phellodendron",
+        "Ultrasonic Waves"
+      ]
+    },
+    {
+      "pmid": "25230217",
+      "title": "The standardized BHH10 extract, a combination of Astragalus membranaceus, Cinnamomum cassia, and Phellodendron amurense, reverses bone mass and metabolism in a rat model of postmenopausal osteoporosis.",
+      "authors": [
+        "Jeong-Eun Huh",
+        "Soo-Jeong Kim",
+        "Jung-Won Kang",
+        "Dong-Woo Nam",
+        "Do-Young Choi",
+        "Dong-Suk Park",
+        "Jae-Dong Lee"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Jasin-hwan-gagambang (BHH10), a modified prescription of Jasin-hwan, contains Astragalus membranaceus, Cinnamomum cassia, and Phellodendron amurense, and it has been traditionally used to treat osteoporosis and other inflammatory diseases. In this study, we systematically investigated the protective effects of BHH10 in ovariectomy (OVX)-induced rats. Sprague-Dawley rats were randomly divided into sham and OVX subgroups. The rats in the OVX group were treated with vehicle, BHH10, alendronate (ALN), and 17β-estradiol (E2). BHH10 treatment significantly inhibited OVX-induced increases in body weight and uterus atrophy. In addition, it significantly increased the bone mineral density (BMD) and prevented a decrease in trabecular bone volume, connectivity density, trabecular number, thickness, and separation at the total femur and femur neck. The OVX rats showed significant decreases in the serum levels of calcium and phosphorous and significant increases in the serum levels of cholesterol, low-density lipoprotein cholesterol, alkaline phosphatase, osteocalcin, C-telopeptide type 1 collagen, and bone morphogenetic protein-2. These changes were significantly reduced to near sham levels by administration of BHH10 to OVX rats. BHH10-treated rats had a greater bone mass, a better structural architecture of the bone, and higher levels of biochemical markers of the bone than did the ALN-treated or E2-treated rats. These results suggest that BHH10 reverses osteoporosis in OVX rats by stimulating bone formation or regulating bone resorption and is not associated with toxicity.",
+      "mesh_terms": [
+        "Alendronate",
+        "Animals",
+        "Astragalus propinquus",
+        "Body Weight",
+        "Bone Density",
+        "Bone Resorption",
+        "Cinnamomum aromaticum",
+        "Disease Models, Animal",
+        "Estradiol",
+        "Female",
+        "Femur",
+        "Organ Size",
+        "Osteocalcin",
+        "Osteogenesis",
+        "Osteoporosis",
+        "Ovariectomy",
+        "Phellodendron",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Toxicity Tests, Acute",
+        "Toxicity Tests, Chronic"
+      ]
+    },
+    {
+      "pmid": "25205619",
+      "title": "Tolerance of Phellodendron amurense bark extract (Nexrutine®) in patients with human prostate cancer.",
+      "authors": [
+        "Gregory P Swanson",
+        "William E Jones",
+        "Chul S Ha",
+        "Carol A Jenkins",
+        "Addanki Pratap Kumar",
+        "Joseph Basler"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Phellodendron amurense bark extract (Nexrutine®) has shown a favorable effect on prostate cancer in vivo and in vitro. We evaluated its tolerance in patients undergoing surgery or radiation for prostate cancer. Patients received Nexrutine® orally (500 mg tid) either 1 to 2 months preoperatively or 1 to 2 months prior to and with radiation therapy. Common Terminology Criteria for Adverse Events were used to measure tolerance. In total, 21 patients (9 surgery and 12 radiation) underwent treatment. During the Nexrutine® alone component, there were two transient grade 3 toxicities (hypokalemia and urinary incontinence). There was no grade 4 toxicity. For the combined Nexrutine® and radiation component, no additional patients suffered a grade 3 toxicity. All the toxicities were transient. By the end of the neoadjuvant treatment, 81% of the patients had a decline in prostate-specific antigen. This is the first report of patients with prostate cancer being treated with P. amurense bark extract, and it was very well tolerated. Toxicities were minimal and self-limited. This compound can be safely used in further evaluation of a treatment effect on cancer.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phellodendron",
+        "Plant Bark",
+        "Plant Extracts",
+        "Prostate-Specific Antigen",
+        "Prostatic Neoplasms"
+      ]
+    },
+    {
+      "pmid": "23924268",
+      "title": "Effect of Magnolia officinalis and Phellodendron amurense (Relora®) on cortisol and psychological mood state in moderately stressed subjects.",
+      "authors": [
+        "Shawn M Talbott",
+        "Julie A Talbott",
+        "Mike Pugh"
+      ],
+      "journal": "Journal of the International Society of Sports Nutrition",
+      "publication_date": "2013-Aug-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Magnolia (Magnolia officinalis) and Phellodendron (Phellodendron amurense) barks are medicinal plants commonly used as traditional remedies for reducing stress and anxiety. Modern dietary supplements are intended to induce relaxation and reduce stress as well as stress-related eating. Previous studies have shown the combination of Magnolia/Phellodendron (MP) to reduce both cortisol exposure and the perception of stress/anxiety, while improving weight loss in subjects with stress-related eating. Competitive athletes are \"stressed\" by their intense exercise regimens in addition to their normal activities of daily living and thus may benefit from a natural therapy intended to modulate baseline perceptions of stress and stress hormone exposure. METHODS: We assessed salivary cortisol exposure and psychological mood state in 56 subjects (35 men and 21 women) screened for moderate stress and supplemented with a standardized/patented MP combination (Relora®, Next Pharmaceuticals) or Placebo for 4 weeks. RESULTS: After 4 weeks of supplementation, salivary cortisol exposure was significantly (p<0.05) lower (-18%) in the Relora group compared to Placebo. Compared to Placebo, the Relora group had significantly better (p<0.05) mood state parameters, including lower indices of Overall Stress (-11%), Tension (-13%), Depression (-20%), Anger (-42%), Fatigue (-31%), and Confusion (-27%), and higher indices of Global Mood State (+11%) and Vigor (+18%). CONCLUSION: These results indicate that daily supplementation with a combination of Magnolia bark extract and Phellodendron bark extract (Relora®) reduces cortisol exposure and perceived daily stress, while improving a variety of mood state parameters, including lower fatigue and higher vigor. These results suggest an effective natural approach to modulating the detrimental health effects of chronic stress in moderately stressed adults. Future studies should examine the possible performance and recovery benefits of Relora supplementation in athletes overstressed by the physical and psychological demands of training and competition."
+    },
+    {
+      "pmid": "22124950",
+      "title": "Bioguided isolation of (9Z)-octadec-9-enoic acid from Phellodendron amurense Rupr. and identification of fatty acids as PTP1B inhibitors.",
+      "authors": [
+        "Dirk Steinmann",
+        "Renate Rita Baumgartner",
+        "Elke Hannelore Heiss",
+        "Sophie Bartenstein",
+        "Atanas Georgiev Atanasov",
+        "Verena Maria Dirsch",
+        "Markus Ganzera",
+        "Hermann Stuppner"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2012-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The therapy of type-2 diabetes mellitus is one of the major challenges of our age. A possible strategy to prevent the progression of this disease is the inhibition of protein tyrosine phosphatase 1B (PTP1B), a major negative regulator in the insulin and leptin signalling pathway. Phellodendri amurensis cortex is a well-known Asian herbal drug traditionally used as antiphlogistic, antibacterial, and anti-inflammatory agent, and its efficacy against diabetes-related symptoms is reported as well. However, information regarding active principle(s) or the molecular mode of action was scarce. By bioguided isolation using an IN VITRO enzyme assay with human recombinant PTP1B, (9 Z)-octadec-9-enoic acid (oleic acid) could be identified as a major PTP1B inhibitor in the bark of Phellodendron amurENSE Rupr. (Rutaceae); it showed an IC₅₀ value of 6.2 µM. Consistent with this inhibition of PTP1B, oleic acid was capable of enhancing insulin signalling in wild-type, but not PTP1B knockout fibroblasts. By testing a series of other fatty acids of different chain length and degree of saturation, their general PTP1B-inhibitory potential in the micromolar range was observed. More pronounced effects were associated with a longer carbon backbone and saturation of the double bonds. Therefore, our work provides first scientific evidences for the antidiabetic properties of P. amurense via a new target, effects which seem to be explainable by oleic acid. The discovery of a PTP1B inhibition by many fatty acids also adds a novel facet to the pharmacological properties of a class of compounds that is found in many food items in considerable amount and triggers speculation over their possible involvement in the feedback regulation of cellular fatty acid synthesis.",
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus, Type 2",
+        "Dose-Response Relationship, Drug",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Insulin",
+        "Mice",
+        "Oleic Acids",
+        "Phellodendron",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Protein Tyrosine Phosphatase, Non-Receptor Type 1",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "20393007",
+      "title": "Phellodendron amurense bark extract prevents progression of prostate tumors in transgenic adenocarcinoma of mouse prostate: potential for prostate cancer management.",
+      "authors": [
+        "Rita Ghosh",
+        "Heather Graham",
+        "Paul Rivas",
+        "Xishi James Tan",
+        "Katherine Crosby",
+        "Shylesh Bhaskaran",
+        "John Schoolfield",
+        "Jameela Banu",
+        "Gabriel Fernandes",
+        "I-Tien Yeh",
+        "Addanki P Kumar"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2010-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Prostate cancer is the second leading cause of cancer-related deaths in men in Western society. Epidemiological studies suggest that a reduced risk of cancer is associated with the consumption of a phytochemical-rich diet that includes fruits and vegetables. Strategies to delay clinically significant prostate cancer will have a tremendous impact in reducing the overall incidence of prostate cancer as well as improving quality of life for elderly men. Furthermore, the long latency involved in the development of clinically significant prostate cancer provides a plethora of opportunities for its management, especially using prevention approaches. Previous studies from our laboratory show that Nexrutine (bark extract from Phellodendron amurense) prevents prostate tumor development when given prior to the development of high-grade prostatic intraepithelial neoplasia in the transgenic adenocarcinoma of mouse prostate (TRAMP) model. In this study, we investigated the effect on the progression of established tumors in the TRAMP model by administering Nexrutine to 28-week-old TRAMP mice. Efficacy of Nexrutine was determined by histopathological evaluation of the prostate. Our data indicate that Nexrutine inhibited progression of prostate tumors that was correlated with tissue levels of transcription factors nuclear factor kappa B, cyclic-AMP response element-binding protein and phosphorylated CREB. Moreover, Nexrutine intervention resulted in a significant increase in the bone mineral density of the left femur diaphysis (p=0.009) and prevented the development of metastatic lesions. Nexrutine treatment also significantly (p=0.005) inhibited invasion of androgen-independent prostate cancer cells.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Animals",
+        "Apoptosis",
+        "Bone Resorption",
+        "Cell Growth Processes",
+        "Disease Progression",
+        "Male",
+        "Matrix Metalloproteinase 2",
+        "Matrix Metalloproteinase 3",
+        "Mice",
+        "Mice, Transgenic",
+        "Neoplasm Invasiveness",
+        "Neoplasm Metastasis",
+        "Phellodendron",
+        "Plant Bark",
+        "Plant Extracts",
+        "Prostatic Neoplasms",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "19799978",
+      "title": "Extracts of bark from the traditional Chinese herb Phellodendron amurense inhibit contractility of the isolated rat prostate gland.",
+      "authors": [
+        "Yuanhao Xu",
+        "Sabatino Ventura"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2010-Jan-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM OF THE STUDY: To assess the effectiveness of the traditional Chinese herb Phellodendron amurense in treating urological disorders. MATERIALS AND METHODS: Prostate smooth muscle relaxant activity of an extract from the bark of Phellodendron amurense was tested on contractions of isolated rat prostate gland induced by electrical nerve stimulation and direct muscle stimulation. RESULTS: Electrical field stimulation (0.5 ms, 60V, 1-20 Hz) induced nerve mediated contractions of isolated rat prostate were inhibited by Phellodendron amurense extract dissolved in either dimethylsulfoxide (DMSO), acetic acid or water (P<or=0.022, n=6 for each) but not boiling water (P=0.619, n=6). Phellodendron amurense extract also inhibited contractions of isolated rat prostates elicited by exogenous administration of noradrenaline (10nM to 100 microM), acetylcholine (10nM to 100 microM) or adenosine 5'-triphosphate (ATP, 100 nM to 100 microM) (P<or=0.004, n=6-8 for each). CONCLUSION: Phellodendron amurense is able to inhibit prostatic contractility suggesting that it may be useful in the treatment of urological disorders caused by prostatic urethral obstruction such as in the case of benign prostatic hyperplasia (BPH).",
+      "mesh_terms": [
+        "Adrenergic Agonists",
+        "Animals",
+        "Cholinergic Agonists",
+        "Drugs, Chinese Herbal",
+        "Electric Stimulation",
+        "In Vitro Techniques",
+        "Isometric Contraction",
+        "Male",
+        "Muscle, Smooth",
+        "Phellodendron",
+        "Phytoestrogens",
+        "Plant Bark",
+        "Prescription Drugs",
+        "Prostate",
+        "Prostatic Hyperplasia",
+        "Purinergic Agonists",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "17473212",
+      "title": "Akt/cAMP-responsive element binding protein/cyclin D1 network: a novel target for prostate cancer inhibition in transgenic adenocarcinoma of mouse prostate model mediated by Nexrutine, a Phellodendron amurense bark extract.",
+      "authors": [
+        "Addanki P Kumar",
+        "Shylesh Bhaskaran",
+        "Manonmani Ganapathy",
+        "Katherine Crosby",
+        "Michael D Davis",
+        "Peter Kochunov",
+        "John Schoolfield",
+        "I-Tien Yeh",
+        "Dean A Troyer",
+        "Rita Ghosh"
+      ],
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "publication_date": "2007-May-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "PURPOSE: Development of prostate cancer prevention strategies is an important priority to overcome high incidence, morbidity, and mortality. Recently, we showed that Nexrutine, an herbal extract, inhibits prostate cancer cell proliferation through modulation of Akt and cAMP-responsive element binding protein (CREB)-mediated signaling pathways. However, it is unknown if Nexrutine can be developed as a dietary supplement for the prevention of prostate cancer. In this study, we used the transgenic adenocarcinoma of mouse prostate (TRAMP) model to examine the ability of Nexrutine to protect TRAMP mice from developing prostate cancer. EXPERIMENTAL DESIGN: Eight-week-old TRAMP mice were fed with pelleted diet containing 300 and 600 mg/kg Nexrutine for 20 weeks. Efficacy of Nexrutine was evaluated by magnetic resonance imaging at 18 and 28 weeks of progression and histologic analysis of prostate tumor or tissue at the termination of the experiment. Tumor tissue was analyzed for modulation of various signaling molecules. RESULTS: We show that Nexrutine significantly suppressed palpable tumors and progression of cancer in the TRAMP model. Expression of total and phosphorylated Akt, CREB, and cyclin D1 was significantly reduced in prostate tissue from Nexrutine intervention group compared with tumors from control animals. Nexrutine also inhibited cyclin D1 transcriptional activity in androgen-independent PC-3 cells. Overexpression of kinase dead Akt mutant or phosphorylation-defective CREB inhibited cyclin D1 transcriptional activity. CONCLUSIONS: The current study shows that Nexrutine-mediated targeting of Akt/CREB-induced activation of cyclin D1 prevents the progression of prostate cancer. Expression of CREB and phosphorylated CREB increased in human prostate tumors compared with normal tissue, suggesting their potential use as prognostic markers.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Animals",
+        "Cell Proliferation",
+        "Cyclic AMP Response Element-Binding Protein",
+        "Cyclin D1",
+        "Dietary Supplements",
+        "Disease Models, Animal",
+        "Male",
+        "Mice",
+        "Mice, Transgenic",
+        "Phosphorylation",
+        "Plant Extracts",
+        "Prostatic Neoplasms",
+        "Proto-Oncogene Proteins c-akt",
+        "Receptors, Tumor Necrosis Factor, Member 25"
+      ]
+    },
+    {
+      "pmid": "16820098",
+      "title": "Akt-and CREB-mediated prostate cancer cell proliferation inhibition by Nexrutine, a Phellodendron amurense extract.",
+      "authors": [
+        "Gretchen E Garcia",
+        "Arevalo Nicole",
+        "Shylesh Bhaskaran",
+        "Ashima Gupta",
+        "Natasha Kyprianou",
+        "Addanki P Kumar"
+      ],
+      "journal": "Neoplasia (New York, N.Y.)",
+      "publication_date": "2006-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Evidence from epidemiological studies suggests that plant-based diets can reduce the risk of prostate cancer. However, very little information is available concerning the use of botanicals in preventing prostate cancer. As a first step toward developing botanicals as prostate cancer preventives, we examined the effect of Nexrutine on human prostate cancer cells. Nexrutine is a herbal extract developed from Phellodendron amurense. Phellodendron extracts have been used traditionally in Chinese medicine for hundreds of years as an antidiarrheal, astringent, and anti-inflammatory agent. The present study investigated its potential antitumor effect on human prostate cancer cells. Our results suggest that it inhibits tumor cell proliferation through apoptosis induction and inhibition of cell survival signaling. The results of the present study indicate that Nexrutine treatment 1) inhibits the proliferation of both androgen-responsive and androgen-independent human prostate cancer cells through induction of apoptosis; 2) reduces levels of pAkt, phosphorylated cAMP response-binding protein (pCREB) and CREB DNA-binding activity; and 3) induces apoptosis in prostate cancer cells stably overexpressing Bcl-2. Further, Akt kinase activity was reduced in cells treated with Nexrutine, and ectopic expression of myristoylated Akt protected from Nexrutine induced inhibition of proliferation, implicating a role for Akt signaling.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cyclic AMP Response Element-Binding Protein",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Humans",
+        "Inflammation",
+        "Male",
+        "Medicine, Chinese Traditional",
+        "Phellodendron",
+        "Phosphorylation",
+        "Plant Extracts",
+        "Prostatic Neoplasms",
+        "Proto-Oncogene Proteins c-akt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "supplement": "Alpha-GPC",
+  "query": "Alpha-GPC[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:08:32",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39765138",
+      "title": "Treatment with soybean lecithin-derived α-GPC (SHCog™) improves scopolamine-induced cognitive declines in mice via regulating cholinergic neurotransmission and enhancing neural plasticity in the hippocampus.",
+      "authors": [
+        "Yulong Zheng",
+        "SoEun An",
+        "Ga-Yeon Kim",
+        "Geum Duck Park",
+        "Byong Ho Yoo",
+        "Ki Nam Kim",
+        "Tae-Kyeong Lee"
+      ],
+      "journal": "Tissue & cell",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Mild cognitive impairment is a diagnostic category marked by declines in memory and cognitive function that are less severe than those observed in Alzheimer's disease. Previous studies have indicated that individuals with mild cognitive impairment have an elevated risk of progressing to Alzheimer's disease. The hippocampus is well known to play pivotal roles in memory and cognitive functions. Scopolamine (Sco) disrupts cholinergic neurotransmission in the hippocampus and triggers functional declines in memory and cognition. SHCog™ is a commercially available alpha glycerophosphorylcholine (α-GPC) derived from soybean lecithin. The objective of the present study was to examine whether SHCog™ can alleviate memory and cognitive dysfunctions in a mouse model of cognitive impairments induced by Sco. In this study, C57BL/6 J mice were subjected to the passive avoidance and Morris water maze tests to investigate short-term and spatial memory functions, respectively. This study also examined cellular morphology and distribution by cresyl violet staining and investigated changes in acetylcholinesterase (AChE) and choline acetyltransferase (ChAT) as cholinergic enzymes through immunohistochemical staining of the hippocampus. Additionally, we examined changes in postsynaptic density protein 95 (PSD-95) and brain-derived neurotrophic factor (BDNF) related to neural plasticity in the hippocampus. Treatment with SHCog™ (125 mg/kg and 250 mg/kg) brought functional recovery in short-term and spatial memory against Sco-induced memory and cognitive impairments. Changes in cellular morphology and distribution in the hippocampus were not detected following the administration of Sco and/or SHCog™. Treatment with SHCog™ reduced AChE elevated by Sco, whereas SHCog™ administration increased ChAT decreased by Sco. Furthermore, SHCog™ restored PSD-95 and BDNF in the mouse hippocampus reduced by Sco. Specifically, SHCog™ modulated cholinergic neurotransmission and enhanced neural plasticity in the hippocampus. Taken together, we suggest that SHCog™ can be a valuable ingredient in functional foods or supplements for improving memory and cognitive functions.",
+      "mesh_terms": [
+        "Animals",
+        "Hippocampus",
+        "Neuronal Plasticity",
+        "Scopolamine",
+        "Cognitive Dysfunction",
+        "Mice",
+        "Synaptic Transmission",
+        "Male",
+        "Glycine max",
+        "Mice, Inbred C57BL",
+        "Lecithins",
+        "Choline O-Acetyltransferase",
+        "Brain-Derived Neurotrophic Factor",
+        "Disks Large Homolog 4 Protein",
+        "Disease Models, Animal",
+        "Cholinergic Neurons",
+        "Acetylcholinesterase"
+      ]
+    },
+    {
+      "pmid": "27765578",
+      "title": "Late treatment with choline alfoscerate (l-alpha glycerylphosphorylcholine, α-GPC) increases hippocampal neurogenesis and provides protection against seizure-induced neuronal death and cognitive impairment.",
+      "authors": [
+        "Song Hee Lee",
+        "Bo Young Choi",
+        "Jin Hee Kim",
+        "A Ra Kho",
+        "Min Sohn",
+        "Hong Ki Song",
+        "Hui Chul Choi",
+        "Sang Won Suh"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2017-Jan-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Choline alfoscerate (α-GPC) is a common choline compound and acetylcholine precursor in the brain, which has been shown to be effective in the treatment of Alzheimer's disease and dementia. α-GPC has been shown to enhance memory and cognitive function in stroke and Alzheimer's patients but currently remains untested in patients suffering from epilepsy. This study aimed to evaluate whether α-GPC treatment after seizure can ameliorate seizure-induced cognitive impairment and neuronal injury. The potential therapeutic effects of α-GPC on seizure-induced cognitive impairment were tested in an animal model of pilocarpine-induced seizure. Seizures were induced by intraperitoneal injection of pilocarpine (25mg/kg) in male rats. α-GPC (250mg/kg) was injected into the intramuscular space once daily for one or three weeks from immediately after seizure, or from 3 weeks after the seizure onset for 3 weeks. Here we found that immediate 1-week treatment of α-GPC showed no neuroprotective effects and neurogenesis. Immediate 3-week treatment of α-GPC showed neuroprotective effect but no effect on neurogenesis. To evaluate the effect of late treatment of α-GPC on cognitive impairment following seizure, rats were injected α-GPC from 3 weeks after seizure for 3 weeks and subjected to a water maze test. In the present study, we found that administration of α-GPC starting at 3 weeks after seizure improved cognitive function through reduced neuronal death and BBB disruption, and increased neurogenesis. Therefore, α-GPC injection may serve as a beneficial treatment for improvement of cognitive function in epilepsy patients.",
+      "mesh_terms": [
+        "Animals",
+        "Blood-Brain Barrier",
+        "Cell Death",
+        "Choline O-Acetyltransferase",
+        "Cognition",
+        "Cognitive Dysfunction",
+        "Disease Models, Animal",
+        "Glycerylphosphorylcholine",
+        "Hippocampus",
+        "Male",
+        "Maze Learning",
+        "Neural Stem Cells",
+        "Neurogenesis",
+        "Neurons",
+        "Neuroprotective Agents",
+        "Pilocarpine",
+        "Rats, Sprague-Dawley",
+        "Seizures"
+      ]
+    }
+  ]
+}

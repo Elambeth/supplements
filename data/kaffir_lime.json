@@ -1,0 +1,79 @@
+{
+  "supplement": "Kaffir Lime",
+  "query": "Kaffir Lime[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:51:27",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "36802384",
+      "title": "Anti-proliferative and immunomodulatory properties of kaffir lime leaves and bioactive compounds on macrophages co-cultured with squamous cell carcinoma.",
+      "authors": [
+        "Thitiya Luetragoon",
+        "Yordhathai Thongsri",
+        "Krai Daotak",
+        "Pachuen Potup",
+        "Kanchana Usuwanthim"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Head and neck squamous cell carcinoma (HNSCC) is the seventh most common cancer worldwide. Late-stage patients have a significant chance of local recurrence and distant metastasis, as well as poor prognosis. Therapeutic goals for patients must be improved and personalized to reduce adverse effects. This study explored the anti-proliferative activity and immunomodulation potential of the constituents of crude kaffir lime leaf extract (lupeol, citronellal and citronellol) under co-culture. Results showed high cytotoxicity to human SCC15 cell line but not to human monocyte-derived macrophages. Treatment with crude extract and the contained compounds also suppressed cell migration and colony formation of SCC15 compared to the untreated control group, while high levels of intracellular ROS production were detected in the treatment group of SCC15. The MuseTM cell analyzer revealed cell cycle arrest at G2/M phase and apoptosis induction. Inhibition of Bcl-2 and activation of Bax, leading to induction of the downstream caspase-dependent death pathway were confirmed by Western blot analysis. Co-culture with activated macrophages, kaffir lime extract and its constituents enhanced the development of pro-inflammatory (M1) macrophages and boosted TNF-α production, resulting in SCC15 apoptosis. Findings revealed novel potential activities of kaffir lime leaf extracts and their constituents in inducing M1 polarization against SCC15, as well as direct anti-proliferative activity.",
+      "mesh_terms": [
+        "Humans",
+        "Coculture Techniques",
+        "Citrus",
+        "Carcinoma, Squamous Cell",
+        "Squamous Cell Carcinoma of Head and Neck",
+        "Apoptosis",
+        "Head and Neck Neoplasms",
+        "Cell Line, Tumor",
+        "Plant Extracts",
+        "Cell Proliferation"
+      ]
+    },
+    {
+      "pmid": "31978768",
+      "title": "A combination extract of kaffir lime, galangal, and lemongrass maintains blood lipid profiles, hepatocytes, and liver mitochondria in rats with nonalcoholic steatohepatitis.",
+      "authors": [
+        "Napatara Tirawanchai",
+        "Kanchana Kengkoom",
+        "Duangnate Isarangkul",
+        "Jankana Burana-Osot",
+        "Tapanee Kanjanapruthipong",
+        "Surachai Chantip",
+        "Panadda Phattanawasin",
+        "Uthai Sotanaphun",
+        "Sumate Ampawong"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2020-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Kaffir lime leaves and the rhizomes of galangal and lemongrass are the main ingredients in several Thai foods with desirable medicinal effects. Based on their beneficial activities, this study aimed to indicate the chemical properties and in vivo efficacy of a combination of the herbs at a 1:2:1 ratio in a water extract form. Its volatile constituents were analyzed by gas chromatography coupled with mass spectrometer, which mainly consists of eucalyptol, citronellal, and citral. Clinicohistopathological and electron microscopic studies demonstrated that the extract corrected blood cholesterol, LDL, HDL, and triglyceride levels similarly as simvastatin treatment in association with its antioxidative properties, as indicated by the levels of superoxide dismutase and malondialdehyde in serum and the increment of nuclear factor erythroid 2-related factor 2 levels in hepatocytes. Hepatitis was significantly less severe in rats fed the extract for 14 days than in simvastatin-treated rats. Regarding its immunomodulatory properties, the extract also accelerated hepatic resolution from steatohepatitis during hypercholesterolemia as indicated by the upregulation of vimentin, cytokeratin, and CD206+. Interestingly, liver mitochondria were also preserved in hypercholesterolemic rats treated with the extract in relation to their architecture and the expression of haloacid dehalogenase-like hydrolase domain-containing protein 3 as well as metabolic and energy regulators. Therefore, the study concluded that the water extract of kaffir lime leaves and the rhizomes of galangal and lemongrass has beneficial effects on blood cholesterol, the severity of steatohepatitis, and the maintenance of mitochondrial architecture via its antioxidative and immunomodulatory activities.",
+      "mesh_terms": [
+        "Alpinia",
+        "Animals",
+        "Antioxidants",
+        "Citrus",
+        "Cymbopogon",
+        "Hepatocytes",
+        "Hypercholesterolemia",
+        "Hypolipidemic Agents",
+        "Lipids",
+        "Male",
+        "Mitochondria, Liver",
+        "Non-alcoholic Fatty Liver Disease",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Simvastatin"
+      ]
+    }
+  ]
+}

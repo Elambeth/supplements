@@ -1,0 +1,2054 @@
+{
+  "supplement": "Diaphragmatic Breathing",
+  "query": "Diaphragmatic Breathing[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:27:47",
+  "research_count": 72,
+  "count": 72,
+  "articles": [
+    {
+      "pmid": "40242838",
+      "title": "The Breathing IQ: an anthropometric index of diaphragmatic breathing efficiency.",
+      "authors": [
+        "Belisa Vranich",
+        "Rachel Lee",
+        "John Zapanta",
+        "Brian Shoen",
+        "Helene Houghton",
+        "Crystal Ruelas",
+        "Mary Lisa Wahlfeldt",
+        "Robin Kerr",
+        "Andrei Pripotnev",
+        "Michaela Goorahoo",
+        "Jean-Berne Baptiste",
+        "Joanne Elliot"
+      ],
+      "journal": "Frontiers in physiology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Breathing pattern disorders (BPDs) are becoming increasingly relevant due to the rise of respiratory illnesses but are often limited to diagnoses of hyperventilation syndrome and do not consider breathing dysfunction of mechanical origin. Impaired diaphragmatic and inefficient breathing patterns often evolve into downstream musculoskeletal and psychological consequences. Respiratory research has consistently called for the standardization of methods that can consider breathing as multifactorial and also consider breathing mechanics. AIM: This paper aims to introduce the Breathing IQ (BIQ) as a novel anthropometric index of abdominothoracic flexibility for identifying biomechanical breathing patterns and assessing diaphragmatic breathing efficiency. METHOD: A sample of N = 384 individuals was assessed with the BIQ pre- and post-intervention of five corrective exercises in a single 90-minute session to identify changes in the BIQ grade (A-F), as determined by measuring the breathing range of motion (ROM) and location of movement (LOM). RESULTS: Binary-grade improvement (yes/no) occurred in 331 of 370 without an A grade at baseline (89.5%), p < 0.001. Before the intervention, 249 (64.8%) were graded an F and only 14 (3.7%) were graded an A. After the intervention, only 20 (5.2%) were graded an F and 102 (26.6%) were graded an A. Breath hold (BH) improved from pre- to post-intervention, from 37.2 (18.7) to 66.0 (26.9), with a mean change 24.3 (15.3), which was highly significant (p < 0.001). CONCLUSION: The BIQ shows preliminary potential as an effective screening tool for mechanical breathing dysfunction."
+    },
+    {
+      "pmid": "40085337",
+      "title": "Comparison of diaphragmatic breathing relaxation training and cognitive-behavioral therapy on sleep quality in the elderly: a randomized clinical trial.",
+      "authors": [
+        "AliAkbar Kakuei",
+        "Ali Ravari",
+        "Tayebeh Mirzaei",
+        "Zahra Kamiab",
+        "Roya Bahrami"
+      ],
+      "journal": "Sleep & breathing = Schlaf & Atmung",
+      "publication_date": "2025-Mar-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "abstract": "OBJECTIVE: To examine the effects of diaphragm breathing relaxation training and cognitive-behavioral therapy on sleep quality in the elderly. METHODS: In this three-arm randomized clinical trial, 99 older patients with a primary diagnosis of insomnia were randomly divided into two intervention groups (n = 33) and a control group (n = 33). The study design was a parallel group trial with an allocation ratio of 1:1. The CBT-I intervention was done in a group format for four weeks, consisting of two 60-min sessions per week. The diaphragmatic breathing intervention was trained in a group setting session and practiced individually for 30 min every night before sleep. The control group received no information about sleep or relaxation. Participants completed the Pittsburgh Sleep Quality Questionnaire before, four weeks, and eight weeks after the intervention. RESULTS: A total of 99 patients were randomized to the CBT-I intervention (n = 33), diaphragmatic breathing intervention (n = 33), or control arm (n = 33), with 74 patients providing final analysis data. Repeated measures ANOVA revealed a significant decrease in sleep quality score (p < 0.001) from pre-test to post-test and one-month follow-ups. The greatest effect of both interventions in reducing the sleep quality score was during the first period of the study (four weeks after the intervention), and there was no significant reduction eight weeks after the intervention. CONCLUSION: Diaphragmatic breathing and CBT-I interventions improved sleep quality indicators among older adults.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Cognitive Behavioral Therapy",
+        "Sleep Initiation and Maintenance Disorders",
+        "Relaxation Therapy",
+        "Breathing Exercises",
+        "Sleep Quality",
+        "Middle Aged",
+        "Diaphragm",
+        "Psychotherapy, Group",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "40053714",
+      "title": "Diaphragmatic Breathing Interfaces to Promote Relaxation for Mitigating Insomnia: Pilot Study.",
+      "authors": [
+        "Yi-Jen Lai",
+        "Hsiao-Yean Chiu",
+        "Ko-Chiu Wu",
+        "Chun-Wei Chang"
+      ],
+      "journal": "JMIR serious games",
+      "publication_date": "2025-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Brief behavioral treatment for insomnia is an effective short-term therapy focusing on stimulus control and sleep restriction to enhance sleep quality. As a crucial part of this therapy, diaphragmatic breathing is often recommended when patients fail to fall asleep within 30 minutes. With the rise of health apps and gamification, these tools are increasingly seen as effective ways to boost self-efficacy and user engagement; however, traditional games tend to increase attention, which can negatively impact sleep and contradicts the aim of sleep therapy. This study thus explored the potential for gamification techniques to promote relaxation without disrupting sleep processes. OBJECTIVE: The study developed 4 breathing guidance mechanisms, ranging from concrete to abstract: number countdown, zoom-in/out, up/down, and color gradients. The objective was to explore the relationship between game mechanics, cognitive load, relaxation effects, and attention as well as to understand how different designs impact users with varying levels of insomnia. METHODS: The study was conducted in 2 phases. The first phase involved a questionnaire on the 4 guidance mechanisms. In the second phase, 33 participants classified by insomnia severity completed a Sleep Self-Efficacy Scale. They then engaged in 5 minutes of diaphragmatic breathing using each of the 4 interfaces. Relaxation effects were measured using heart rate variability via a smartwatch, attention and relaxation levels via an electroencephalogram device, and respiratory rate via a smartphone. Participants also completed the Game Experience Questionnaire and NASA Task Load Index, followed by user interviews. RESULTS: The results indicated that competence, immersion, and challenge significantly influenced cognitive load. Specifically, competence and immersion reduced cognitive load, while challenge, negative affect, and positive affect were correlated with relaxation. Negative affect showed a positive correlation with the mean root mean square of successive differences, while positive affect exhibited a negative correlation with the mean root mean square of successive differences. Cognitive load was found to affect both relaxation and attention, with a negative correlation between mental demand and attention and a positive correlation between temporal demand and respiratory rate. Sleep self-efficacy was negatively correlated with temporal demand and negative affect and positively correlated with competence and immersion. CONCLUSIONS: Interfaces offering moderate variability and neither overly abstract nor too concrete guidance are preferable. The up/down interface was most effective, showing the best overall relaxation effect. Conversely, the number countdown interface was stress-inducing, while the zoom-in/out interface had a significant impact on insomnia-related issues, making them less suitable for insomnia-related breathing exercises. Participants showed considerable variability in their response to the color gradient interface. These findings underscore the importance of carefully considering game design elements in relaxation training. It is essential that breathing guidance designs account for the impact of the game experience to effectively promote relaxation in users."
+    },
+    {
+      "pmid": "39938067",
+      "title": "The effect of diaphragmatic breathing exercise with biofeedback on respiratory function in incomplete cervical spinal cord injury: A randomized-controlled study.",
+      "authors": [
+        "Soroush Hasnakipour",
+        "Zahra Mosallanezhad",
+        "Tahere Rezaeian",
+        "Farhad Azadi",
+        "Mehdi Noroozi"
+      ],
+      "journal": "American journal of physical medicine & rehabilitation",
+      "publication_date": "2025-Feb-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: The aim of this study was to investigate the effect of diaphragmatic breathing exercise with biofeedback on respiratory function in incomplete cervical spinal cord injury (SCI) patients. DESIGN: Forty SCI patients (mean age: 32.67 ± 5.08 years) were randomly entered into two groups including the control group (n = 20) and the intervention group (n = 20). Forced Expiratory Volume in 1 second (FEV1), Functional Vital Capacity (FVC), Maximum Voluntary Ventilation (MVV) tests were performed to measure pulmonary function and Nijmegen Questionnaire (NQ) was used to evaluate severity of respiratory dysfunction before, immediately after intervention, and one month after the intervention. RESULTS: The mean of pulmonary function tests in the intervention group was increased after the intervention (p < 0.001) and at one-month after intervention (p < 0.001).In addition, the control group indicated no change in these variables. The NQ score also decreased significantly in both groups (control group = p < 0.001, intervention group=, p < 0.001). The change of NQ score significantly differed between the groups (F = 4.67, p = 0.03); also, significant difference was observed after intervention (p < 0.001) and one month follow-up (p < 0.001). CONCLUSION: The application of visual biofeedback during breathing exercise can improve pulmonary function and mechanism may make the NQ improve as a reflection of lowered dyspnea."
+    },
+    {
+      "pmid": "39899118",
+      "title": "The effect of deep diaphragmatic breathing on fatigue in patients with metastatic gastrointestinal cancers: a randomized clinical trial.",
+      "authors": [
+        "Maryam Rezaei",
+        "Alireza Abdi",
+        "Nader Salari",
+        "Mozaffar Aznab",
+        "Seyed Vahid Jasemi"
+      ],
+      "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "publication_date": "2025-Feb-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Fatigue is a common and unpleasant symptom experienced by many cancer patients. One method that has been suggested to reduce fatigue is deep diaphragmatic breathing. However, there is limited information available regarding the effectiveness of this technique for patients with advanced cancers. As a result, this study was conducted to investigate the impact of deep diaphragmatic breathing on fatigue in patients with gastrointestinal tract cancers that have spread to other parts of the body. METHODS: This study, conducted in the oncology departments of Imam Reza (AS) Kermanshah Hospital in 2022, aimed to investigate the effects of an intervention test on 44 patients with malignant gastrointestinal cancer. Inclusion criteria include metastatic cancer of the gastrointestinal tract, the patient's consent to cooperate, and the age of 18-65 years. Exit criteria also include transfer from the oncology department, death, misdiagnosis, and non-cooperation The patients were selected as available and randomly assigned to two groups: an experimental group and a control group. The intervention test was performed by the experimental group twice a day for 10 days, with each session lasting for 10 min. Before and after the intervention, both groups completed research tools, which included Piper's fatigue questionnaire and a demographic information checklist. The data collected was analyzed using SPSS version 25 software. FINDINGS: According to the findings, before the intervention, the average total fatigue was measured at 5.15 ± 1.98 in the case group and 4.43 ± 1.74 in the control group, with no significant difference between the two groups (p = 0.213). However, after the intervention, the average total fatigue decreased to 3.59 ± 1.91 in the case group, whereas it increased to 6.14 ± 1.91 in the control group, with a significant difference between the two groups (p = 0.001). CONCLUSION: The study revealed that the method used in the treatment had a significant impact on reducing fatigue in patients. Considering its low cost and high feasibility, it is recommended to include this approach in the care plan for patients and make it a part of their routine. TRIAL REGISTRATION: IRCT20220104053628N1, date: 2022-02-05.",
+      "mesh_terms": [
+        "Humans",
+        "Fatigue",
+        "Middle Aged",
+        "Male",
+        "Female",
+        "Gastrointestinal Neoplasms",
+        "Adult",
+        "Aged",
+        "Surveys and Questionnaires",
+        "Breathing Exercises",
+        "Iran",
+        "Young Adult",
+        "Neoplasm Metastasis",
+        "Diaphragm"
+      ]
+    },
+    {
+      "pmid": "39857890",
+      "title": "The Effect of Diaphragmatic Breathing as a Complementary Therapeutic Strategy in Stress of Children and Teenagers 6-18 Years Old.",
+      "authors": [
+        "Pelagia Tsakona",
+        "Ioannis Kitsatis",
+        "Thomas Apostolou",
+        "Ourania Papadopoulou",
+        "Alexandra Hristara-Papadopoulou"
+      ],
+      "journal": "Children (Basel, Switzerland)",
+      "publication_date": "2025-Jan-05",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: Few studies are reported on interventions that have been carried out in children and adolescents using diaphragmatic breathing (DB) together with methods like counseling, muscle relaxation, therapeutic exercise, and music therapy. OBJECTIVE: The goal of the review is to evaluate the effectiveness of DB as complementary therapy in the stress of the pediatric population (6-18 years old). METHODS: Detailed research was carried out in the current literature to find relevant studies published from 2010 to October 2024 in PubMed and Cochrane Library. Thirteen studies that fulfilled the inclusion criteria were included in the study. Nine studies involved obese and overweight pediatric populations and the other four involved pediatric patients. RESULTS: The interventions comprised two 8-week studies in an obese pediatric population, seven studies in healthy children and adolescents with normal weight. The studies were based on DB, muscle relaxation, nutrition, counseling, music therapy, and slow breathing exercises. The participants in the intervention group improved in comparison to those in the control group in terms of stress and depression in most included studies, in terms of school performance in two studies, in terms of better family relationships in one study, and showed improvement in anthropometric indicators in two studies. In four studies that involved pediatric patients, stress and fear of medical procedures were reduced. CONCLUSIONS: DB can effectively contribute on its own or in combination with other therapeutic methods to improving physiological and psychological indicators in the pediatric population. It is useful to integrate stress management programs that include DB training as clinical practice in primary healthcare and in school schedules for elementary and high-school students."
+    },
+    {
+      "pmid": "39835688",
+      "title": "Digital Therapeutic Combining Hypnosis and Diaphragmatic Breathing Intervention for Functional Abdominal Bloating: A Feasibility Study.",
+      "authors": [
+        "Xiao Jing Wang",
+        "Lindsey Philpot",
+        "Jon Ebbert",
+        "Saam Dilmaghani",
+        "Conor Loftus",
+        "Jean Fox",
+        "Olafur Palsson"
+      ],
+      "journal": "Clinical and translational gastroenterology",
+      "publication_date": "2025-Apr-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Abdominal bloating is a difficult symptom to treat. Hypnotherapy and diaphragmatic intervention have separately shown benefit on bloating in prior work but have not been united into a single intervention. We aimed to obtain data on the potential therapeutic impact of a novel audio-recorded bloating treatment for bloating integrating hypnosis and diaphragmatic breathing, with proposed synergistic effect. METHODS: Patients with nonorganic bowel disorders with predominant bloating symptoms completed a digitally delivered 7-session audio-recorded hypnotherapy program without clinician involvement. The intervention combined bloating-targeted hypnotic suggestions and guided diaphragmatic breathing delivered under hypnosis, and was supplemented with interval self-guided breathing exercises. Participants completed online REDCap assessments at baseline, midtreatment, at end of treatment, and 3-month follow-up, evaluating symptom severity, gastrointestinal symptom-specific anxiety, overall anxiety/depression, and quality of life. Outcomes were assessed in an intention-to-treat manner with repeated measures analysis of variances (ANOVAs) with Bonferroni-adjusted pairwise post hoc tests. RESULTS: Of 23 patients who started treatment, 22 (95.6%) completed follow-up. Bloating severity on Irritable Bowel Syndrome-Symptom Severity Scale and Patient Assessment of Upper Gastrointestinal Symptom Severity Index showed reduction in bloating with large effect sizes (Cohen d of ∼0.8) at the end of treatment, as did Visceral Sensitivity Index bloating-related anxiety. At the end of treatment, 16 patients (69.6%) were Irritable Bowel Syndrome-Symptom Severity Scale treatment responders (≥30% symptom reduction) on bloating and 17 (73.9%) on overall bowel symptom severity. Anxiety, depression, and quality-of-life scores were unchanged. Outcome measures were fully maintained at the 3-month follow-up. DISCUSSION: Results suggest the therapeutic utility of a new cost-effective self-administered bloating intervention. A randomized controlled trial is planned to confirm these therapeutic effects.",
+      "mesh_terms": [
+        "Humans",
+        "Hypnosis",
+        "Female",
+        "Male",
+        "Feasibility Studies",
+        "Adult",
+        "Breathing Exercises",
+        "Middle Aged",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Severity of Illness Index",
+        "Irritable Bowel Syndrome",
+        "Anxiety",
+        "Follow-Up Studies",
+        "Combined Modality Therapy"
+      ]
+    },
+    {
+      "pmid": "39794689",
+      "title": "Comparison of diaphragmatic breathing exercises and incentive spirometry on the functional status of heart failure patients: a randomized controlled trial.",
+      "authors": [
+        "Amirhossein Nasirmoghadas",
+        "Fateme Monjazebi",
+        "Malihe Nasiri",
+        "Aydin Feyzi",
+        "Fariba Borhani"
+      ],
+      "journal": "BMC cardiovascular disorders",
+      "publication_date": "2025-Jan-10",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "abstract": "BACKGROUND: Respiratory muscle weakness in heart failure (HF) can deteriorate its symptoms such as fatigue, dyspnea, and impaired functional status. Pulmonary rehabilitation can strengthen these muscles. This study aimed to determine the impact of breathing exercises on fatigue severity, dyspnea, and functional classification in HF patients. METHODS: A three-arm single-blind randomized controlled trial was conducted on 90 hospitalized HF patients in three 30-participant groups including diaphragmatic breathing group (DG), incentive spirometry group (SG), and control group (CG). The interventions were performed thrice daily for 10 days in DG and SG. The Fatigue Severity Scale (FSS), Borg dyspnea scale, and New York Heart Association (NYHA) functional classification were used before and after the intervention. Data were analyzed using SPSS-20 software. RESULTS: After the intervention, the patients' frequency with severe fatigue decreased by 30% in both DG and SG (p < 0.001); the mean dyspnea score in DG and SG respectively reduced by 0.7 and 0.9 units at rest (p < 0.001) and reduced by 2.93 and 2.73 units during activity (p < 0.001); the total patients' frequency in functional class III and IV was significantly decreased by 30% in DG and 33.3% in SG (p < 0.001). The intervention groups were not significantly different regarding fatigue severity, dyspnea, and functional classification. While in CG these outcomes had no significant reduction after the intervention. CONCLUSION: In this study breathing exercises could reduce fatigue and dyspnea, and improve NYHA functional classification of HF patients which can be included in nursing care plans for respiratory rehabilitation in HF. TRIAL REGISTRATION: This study was prospectively registered by the Iranian Registry of Clinical Trials ( https://irct.behdasht.gov.ir/ ) on 14/04/2024 with registration ID: IRCT20240306061197N.",
+      "mesh_terms": [
+        "Humans",
+        "Heart Failure",
+        "Male",
+        "Female",
+        "Breathing Exercises",
+        "Single-Blind Method",
+        "Middle Aged",
+        "Spirometry",
+        "Treatment Outcome",
+        "Aged",
+        "Dyspnea",
+        "Diaphragm",
+        "Functional Status",
+        "Recovery of Function",
+        "Fatigue",
+        "Time Factors",
+        "Severity of Illness Index",
+        "Lung"
+      ]
+    },
+    {
+      "pmid": "39624272",
+      "title": "Effect of deep diaphragmatic breathing on pain in patients with metastatic gastrointestinal cancers.",
+      "authors": [
+        "Maryam Rezaei",
+        "Nader Salari",
+        "Mozafar Aznab",
+        "Sayed Vahid Jasmi",
+        "Alireza Abdi",
+        "Shamarina Shohaimi"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2024-Nov-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Patients with gastrointestinal cancers commonly experience acute and chronic pain. This study aimed to determine the effect of deep diaphragmatic breathing on acute and chronic pain in patients with metastatic gastrointestinal cancers. METHODS: This clinical trial was conducted in Kermanshah-Iran in 2022. The sample consisted of 44 patients hospitalized in the oncology ward, who were selected by convenient sampling and randomly allocated into case and control groups. The case group performed diaphragmatic deep breathing intervention for 10 days, twice a day, for 10 min. The subjects completed pain assessment tools before and after the intervention. Data were analyzed using SPSS Version 24. RESULTS: The study included participants with a Mean and Standard Deviation(SD) age of 53.95 ± 10.51 years. The case and control groups were similar in terms of demographic variables. The mean and sd acute pain score before the intervention was 3.50 ± 1.84 in the experimental group and 2.18 ± 1.65 in the control group (p = 0.01). However, after the intervention, the score decreased to 1.72 ± 1.07 in the experimental group and increased to 3.72 ± 1.95 in the control group (p = 0.001). The two groups did not differ significantly in terms of chronic pain before the intervention (p = 0.07). However, after the intervention, the score decreased in the experimental group and increased in the control group, with a significant difference (p = 0.01). CONCLUSION: The results of this study suggest that deep diaphragmatic breathing reduces pain in patients with gastrointestinal cancer. Including this method as a routine care program for cancer patients is recommended."
+    },
+    {
+      "pmid": "39543797",
+      "title": "Neurobiological and Anti-Inflammatory Effects of a Deep Diaphragmatic Breathing Technique Based on Neofunctional Psychotherapy: A Pilot RCT.",
+      "authors": [
+        "Giuseppe Maniaci",
+        "Marco Daino",
+        "Maria Iapichino",
+        "Alessandra Giammanco",
+        "Calogero Taormina",
+        "Giuseppina Bonura",
+        "Zaira Sardella",
+        "Giuseppe Carolla",
+        "Patrizia Cammareri",
+        "Emanuele Sberna",
+        "Maria Francesca Clesi",
+        "Laura Ferraro",
+        "Caterina Maria Gambino",
+        "Marcello Ciaccio",
+        "Luciano Rispoli",
+        "Caterina La Cascia",
+        "Daniele La Barbera",
+        "Diego Quattrone"
+      ],
+      "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "We examined the feasibility of using the neofunctional deep breathing (NDB) technique to reduce the allostatic load following the Trier Social Stress Test (TSST). Forty-four healthy subjects were randomised into experimental and control groups. Following the TSST procedure, participants underwent either a single session of NDB or an attention control intervention. The Procomp Infinity Biofeedback system measured breath per minute (BPM), respiratory amplitude, HRV linear domains, skin conductance, and trapezius muscle electromyographic activity. Cortisol and cytokine salivary concentrations, perceived stress, and anxiety levels were also assessed. These parameters were combined into an allostatic load index (ALI) to measure the intervention's effect. This pilot RCT demonstrated the feasibility of the study design and practicality of the intervention. The NDB group showed reduced ALI, increased respiratory abdominal amplitude, decreased BPM, increased HRV indicating parasympathetic activation, and decreased cortisol and inflammatory cytokines. This study highlighted the feasibility of testing the NDB technique in reducing allostatic load through a neurobiological and anti-inflammatory response after exposure to psychosocial stress. This protocol can represent a non-invasive therapeutic adjutant in disorders related to a dysregulation of the HPA axis or to an inflammatory state. Trial Registration: NCT04102813.",
+      "mesh_terms": [
+        "Humans",
+        "Pilot Projects",
+        "Male",
+        "Adult",
+        "Female",
+        "Hydrocortisone",
+        "Stress, Psychological",
+        "Young Adult",
+        "Breathing Exercises",
+        "Biofeedback, Psychology",
+        "Feasibility Studies",
+        "Cytokines"
+      ]
+    },
+    {
+      "pmid": "39476253",
+      "title": "A slow diaphragmatic breathing intervention for anxiety: How do respiration rate and inhalation/exhalation ratio influence self-reported anxiety?",
+      "authors": [
+        "Marcin Czub",
+        "Marta Kowal",
+        "Rosa Esteve Zarazaga",
+        "Elena R Serrano-Ibáñez",
+        "Gema T Ruíz-Párraga",
+        "Carmen Ramírez-Maestre",
+        "Alicia E López-Martínez",
+        "Charles Paccione",
+        "Joanna Piskorz"
+      ],
+      "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The primary aim was to investigate how respiration rate and inhalation/exhalation ratio influence self-reported state anxiety during a single slow diaphragmatic breathing exercise session. Eight hundred and twenty-eight participants completed the study at two separate geographical locations (Poland and Spain). Participants performed a 10-min online guided breathing exercise. Respiration rates were sampled from a continuous uniform distribution (ranging from 6 to 12 breaths/min). Similarly, inhalation/exhalation ratios were treated as continuous variables and sampled from a uniform distribution for each participant. An application programed for this experiment displayed visual and auditory cues adjusted for each participant. Before and after the breathing exercise, each participant filled in the Current Anxiety Level Measure questionnaire. Self-trait anxiety was measured with the Clinically Useful Anxiety Outcome Scale. A linear regression model showed that respiration rate, trait anxiety, pre-test anxiety, and nationality (Polish/Spanish) were positively related to post-test anxiety levels. Adding quadratic terms of respiration rate and inhalation/exhalation ratio did not improve model fit. Polish participants exhibited higher post-test anxiety levels compared with the Spanish subsample. Age was negatively associated with post-test anxiety. No significant relationships between inhalation/exhalation ratio and post-test anxiety level were found. Slower respiration rates during a single-session breathing exercise are linearly associated with lower post-test anxiety levels in a large and varied sample. This study is the largest to date and may offer further guidance for predicting expected effect sizes for the relationships between anxiety and respiratory dynamics.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Adult",
+        "Breathing Exercises",
+        "Anxiety",
+        "Middle Aged",
+        "Self Report",
+        "Young Adult",
+        "Respiratory Rate",
+        "Spain",
+        "Adolescent",
+        "Poland",
+        "Aged",
+        "Diaphragm"
+      ]
+    },
+    {
+      "pmid": "39064498",
+      "title": "Does the Effect of Mental Fatigue Created by Motor Imagery on Upper Extremity Functions Change with Diaphragmatic Breathing Exercises? A Randomized, Controlled, Single-Blinded Trial.",
+      "authors": [
+        "Ozan Bahadır Türkmen",
+        "Burçin Akçay",
+        "Canan Demir",
+        "Ahmet Kurtoğlu",
+        "Madawi H Alotaibi",
+        "Safaa M Elkholi"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "publication_date": "2024-Jun-28",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Background and Objectives: This study focused on the impact of mental fatigue induced by motor imagery on upper limb function, an area with limited research compared to lower limb performance. It aimed to explore how diaphragmatic breathing exercises influence these effects. Materials and Methods: This study included 30 participants, and Group 1 participated in 12 sessions of diaphragmatic breathing exercises under the supervision of a physiotherapist; Group 2 did not receive any intervention. For all the participants, mental fatigue was induced with motor imagery before and after the intervention, and evaluations were performed before and after mental fatigue. Upper extremity functions were evaluated using isometric elbow flexion strength, hand grip strength, upper extremity reaction time and endurance, finger reaction time, the nine-hole peg test, shoulder position sense, light touch-pressure threshold, and two-point discrimination. Results: The study results showed that after mental fatigue, there was a decrease in isometric elbow flexion strength, nondominant hand grip strength, and nondominant upper extremity endurance, and an increase in nondominant tactile sensation (p < 0.05). No changes were found in two-point discrimination, nine-hole peg test time, and position sense on either side (p > 0.05). The effect of mental fatigue on isometric elbow flexion strength and nondominant grip strength showed significant improvement following diaphragmatic breathing exercises (p < 0.05). Conclusions: This study found that mental fatigue from motor imagery can impact elbow flexion, hand grip strength, upper extremity endurance, and tactile sensitivity. Breathing exercises may help improve strength parameters affected by mental fatigue. It is crucial to consider these effects on upper extremity functions in rehabilitation programs.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Upper Extremity",
+        "Breathing Exercises",
+        "Adult",
+        "Mental Fatigue",
+        "Imagery, Psychotherapy",
+        "Hand Strength",
+        "Single-Blind Method"
+      ]
+    },
+    {
+      "pmid": "38903184",
+      "title": "The rehabilitation efficacy of diaphragmatic breathing combined with limb coordination training for lower limb lymphedema following gynecologic cancer surgery.",
+      "authors": [
+        "Jingxin Wang",
+        "Jiahui Ma",
+        "Yujie Zhang",
+        "Yuan Tian",
+        "Xinxin Wang",
+        "Yu Wang",
+        "Dongquan Xiang",
+        "Daoyu Wang",
+        "Kun Huang",
+        "Luxi Mao",
+        "Jiaxin Zhang",
+        "Huixuan Fan",
+        "Yilan Li"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To investigate the impact of diaphragmatic breathing combined with limb training on lower limb lymphedema following surgery for gynecological cancer. METHODS: From January 2022 to May 2022, 60 patients with lower limb lymphedema post-gynecologic cancer surgery were chosen. They were split into a control group (n = 30) and a treatment group (n = 30). The control group underwent complex decongestive therapy (CDT) for managing lower limb lymphedema after gynecologic cancer surgery, while the treatment group received diaphragmatic breathing combined with limb coordination training alongside CDT. Both groups completed a 4-week treatment regimen. The lower limb lymphedema symptoms were evaluated using the genital, lower limb, buttock, and abdomen (GCLQ) scores; bilateral lower limb circumference measurements; and anxiety and depression scores. RESULTS: Compared to sole CDT administration, individuals undergoing diaphragmatic breathing coupled with limb coordination training experienced notable reductions in scores for the self-perceived symptom assessment questionnaire (GCLQ), bilateral lower limb circumference, as well as anxiety and depression scores. CONCLUSION: The incorporation of diaphragmatic breathing combined withalongside limb coordination training can accelerate and augment the efficacy of treating lower limb lymphedema post-gynecologic cancer surgery."
+    },
+    {
+      "pmid": "38821882",
+      "title": "Effect of adding diaphragmatic breathing to corrective exercises on kyphotic angle and diaphragmatic excursion in postmenopausal kyphotic women: A randomized controlled trial.",
+      "authors": [
+        "Samia S Rashed",
+        "Fahema M Okeel",
+        "Amel M Yousef",
+        "Khaled M Kamel",
+        "Doaa A Osman"
+      ],
+      "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Age-related thoracic kyphosis can impair posture, diaphragmatic excursion, respiratory function, and overall quality of life (QoL). PURPOSE: This randomized controlled trial aimed to compare the effects of corrective exercises alone versus combined with diaphragmatic breathing exercises on thoracic kyphosis, diaphragmatic excursion, thoracic pain, and QoL in postmenopausal kyphotic women. METHODS: Forty postmenopausal women diagnosed with thoracic kyphosis were randomly divided into two groups. Group A received corrective exercises for 12 weeks (n = 20), while Group B received both diaphragmatic breathing exercises and corrective exercises for the same duration (n = 20). Primary outcome measures were thoracic kyphosis angle and diaphragmatic excursion, while secondary outcome measures were thoracic pain and QoL. Both groups were assessed pre- and post-intervention using a flexible curve ruler for the thoracic kyphosis angle, ultrasonography for the diaphragmatic excursion, the visual analog scale for thoracic pain, and the Arabic version of the QoL Questionnaire of the European Foundation for Osteoporosis for QoL. RESULTS: Both groups showed significant within-group improvements in all measures post-intervention (p < 0.05). Between-group comparisons post-intervention revealed no significant differences (p > 0.05) except for diaphragmatic excursion, where Group B showed significantly greater improvement (p < 0.05). CONCLUSIONS: A 12-week program of corrective exercises alone or combined with diaphragmatic breathing exercises significantly improved kyphosis angle, thoracic pain, and QoL in postmenopausal kyphotic women. The addition of diaphragmatic breathing exercises provided further benefits by increasing diaphragmatic excursion to a greater degree compared with corrective exercises alone.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Kyphosis",
+        "Middle Aged",
+        "Postmenopause",
+        "Quality of Life",
+        "Breathing Exercises",
+        "Diaphragm",
+        "Aged",
+        "Exercise Therapy",
+        "Thoracic Vertebrae",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "38637797",
+      "title": "Positive effect of deep diaphragmatic breathing training on gastroesophageal reflux-induced chronic cough: a clinical randomized controlled study.",
+      "authors": [
+        "Shanshan Niu",
+        "Tongyangzi Zhang",
+        "Wanzhen Li",
+        "Siwan Wen",
+        "Lei Dong",
+        "Shengyuan Wang",
+        "Wenbo Shi",
+        "Cuiqin Shi",
+        "Yuqin Shen",
+        "Qianchun Huang",
+        "Yaling Tan",
+        "Xianghuai Xu",
+        "Li Yu"
+      ],
+      "journal": "Respiratory research",
+      "publication_date": "2024-Apr-18",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVE: To explore the efficacy of deep diaphragmatic breathing training (DEP) in patients with gastroesophageal reflux-induced chronic cough (GERC). METHODS: A randomized controlled study was conducted involving 60 GERC patients who were divided into the intervention group and the control group (each with 30 patients). Both groups received routine medication treatment for GERC, while the intervention group received DEP training additionally. Both groups were evaluated by cough symptom scores, Hull airway reflux questionnaire (HARQ), gastroesophageal reflux diagnostic questionnaire (GerdQ), generalized anxiety disorder scale-7 (GAD-7), patient health questionnaire-9 (PHQ-9), Pittsburgh sleep quality index (PSQI), the Leicester cough questionnaire (LCQ), as well as capsaicin cough sensitivity testing, B-ultrasound and surface electromyography (sEMG) of the diaphragmatic muscles before and after treatment. The cough resolution rate and changes of the above indictors was compared between the two groups after eight weeks of treatment. RESULTS: After eight weeks of treatment, cough symptoms improved in both groups, but the cough resolution rate in the intervention group of 94% was significantly higher than that in the control group of 77% (χ2 = 6.402, P = 0.041). The intervention group showed significant improvements to the control group in GerdQ (6.13(0.35) VS 6.57(0.77)), GAD-7 (0(0;1) VS 1(0;3)), PSQI (2(1;3) VS 4(3;6)), LCQ (17.19(1.56) VS 15.88(1.92)) and PHQ-9 (0(0;0) VS 0(0;3)) after treatment. Compared to control group, sEMG activity of the diaphragmatic muscle was significantly increased in the intervention group after treatment, measured during DEP (79.00(2.49) VS 74.65 (1.93)) and quiet breathing (72.73 (1.96) VS 67.15 (2.48)). CONCLUSION: DEP training can improve cough symptoms as an adjunctive treatment in GERC patients. TRIAL REGISTRATION: The protocol was registered in February 2, 2022 via the Chinese Clinical Trials Register ( http://www.chictr.org.cn/ ) [ChiCTR2200056246].",
+      "mesh_terms": [
+        "Humans",
+        "Chronic Cough",
+        "Gastroesophageal Reflux",
+        "Cough",
+        "Surveys and Questionnaires",
+        "Research Design"
+      ]
+    },
+    {
+      "pmid": "38549830",
+      "title": "Effect of diaphragmatic breathing training with visual biofeedback on respiratory function in patients with multiple rib fractures: A randomized-controlled study.",
+      "authors": [
+        "Ho Jeong Shin",
+        "Ho Hee Son"
+      ],
+      "journal": "Turkish journal of physical medicine and rehabilitation",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: The aim of this study was to investigate the effect of diaphragmatic breathing training with visual biofeedback on respiratory function in patients with multiple rib fractures. PATIENTS AND METHODS: Between June 2021 and October 2021, a total of 16 patients (15 males, 1 female; mean age: 49.50±11.85 years; range, 25 to 66 years) who were diagnosed with multiple rib fractures were randomly assigned into two groups as the control group (CG, n=8) and the visual biofeedback group (VBG, n=8). The effect of each diaphragmatic breathing training on respiratory function was evaluated before and after eight interventions. For respiratory function, pulmonary function test was used to measure pulmonary function and respiratory muscle strength, and the Pain, Inspiratory capacity, Cough (PIC) score was used to evaluated pain, inspiratory capacity, and cough ability. RESULTS: In both groups, the pulmonary function representing the ratio of measurements to predicted values of both forced vital capacity (CG mean difference=25.37±4.58, p=0.002, VBG mean difference=24.25±3.96, p=0.007) and forced expiratory volume in 1 sec (CG mean difference=32.38±5.7, p=0.002, VBG mean difference=26.15±5.73, p <0.001) increased significantly. The maximal inspiratory (CG mean difference=14.00±0.35, p=0.002, VBG mean difference=20.5±6.26, p=0.009) and expiratory pressure (CG mean difference=43.72±29.44, p=0.034, VBG mean difference=25.76±6.78, p=0.015), the indicators of respiratory muscle strength, increased significantly in both groups. The PIC score, which evaluated pain, inspiratory capacity, and cough ability, also increased significantly in both groups (CG mean difference=1.63±0.26, p≤0.001, VBG mean difference=3.13±0.19, p <0.001). The change of PIC score after intervention did not significantly differ between the groups (F=1.439, p=0.250); however, there was a significant difference over time (F=38.476, p <0.001). The change of PIC scores differed over time between the groups (F=2.806 p=0.011). CONCLUSION: Diaphragmatic breathing training and diaphragmatic breathing training with visual biofeedback can improve pulmonary function, respiratory muscle strength, pain, inspiratory capacity, and cough ability in patients with multiple rib fractures."
+    },
+    {
+      "pmid": "38541838",
+      "title": "Effects of Telerehabilitation Combining Diaphragmatic Breathing Re-Education and Shoulder Stabilization Exercises on Neck Pain, Posture, and Function in Young Adult Men with Upper Crossed Syndrome: A Randomized Controlled Trial.",
+      "authors": [
+        "Gyeong-Hyeon Jeong",
+        "Byoung-Hee Lee"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2024-Mar-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Forward head posture and rounded shoulder posture are common postural variants found in upper crossed syndrome, which can lead to limited neck mobility, respiratory problems, and other issues. The purpose of this study was to investigate the effects of telerehabilitation, combining diaphragmatic breathing re-education and shoulder stabilization exercises, on young men with upper crossed syndrome during the COVID-19 pandemic over 4 weeks. Methods: The study included 37 participants aged in their 20s and 30s who were randomly divided into two groups. The experimental group received diaphragmatic breathing re-education and shoulder stabilization exercises, while the control group only underwent shoulder stabilization exercises. Both groups were trained three times a week for four weeks using telerehabilitation. The comparison of within-group pre-post differences in the experimental and control groups was conducted using a paired t-test, while the effects of treatment were assessed using repeated-measures analysis of variance. Results: After 4 weeks, both groups showed significant improvements in the pain pressure threshold of the upper trapezius, craniovertebral angle, round shoulder posture, shoulder tilt degree, neck disability index, and closed kinetic chain upper extremity stability test (all p < 0.05). The results showed a significant difference between the Time effect (p adj < 0.05/4) for both sides of PPT, CVA, and STD and both sides of RSP, NDI, and CKCUEST, and an interaction between the Time × Group effects (p adj < 0.05/4) for the Rt. PPT, CVA, and STD. Conclusions: These findings suggest that the telerehabilitation training group, which included diaphragmatic breathing re-education and shoulder stabilization exercises, was more effective in improving Rt. PPT, CVA, and STD in males with UCS."
+    },
+    {
+      "pmid": "38530127",
+      "title": "Interoceptive awareness mediated the effects of a 15-minute diaphragmatic breathing on empathy for pain: A randomized controlled trial.",
+      "authors": [
+        "Yaping He",
+        "Likun Ge",
+        "Jiajin Yuan",
+        "Yingying Wang",
+        "Danni Zheng",
+        "An Rui",
+        "Jun Song",
+        "Li Hu",
+        "Gao-Xia Wei"
+      ],
+      "journal": "Psychophysiology",
+      "publication_date": "2024-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Although empathy for pain plays an important role in positive interpersonal relationships and encourages engagement in prosocial behavior, it remains largely unknown whether empathy for pain could be effectively altered by psychophysiological techniques. This study aimed to investigate the impact of a single session of diaphragmatic breathing practice on empathy for pain and examine the potential mechanism involving interoceptive awareness. A total of 66 healthy participants were randomly assigned to the intervention group or the control group. The intervention group received a 15-minute diaphragmatic breathing (DB) practice with real-time biofeedback, while the control group was to gaze at a black screen at rest and not engaged in any other activities. Before and after the invention, all participants were instructed to evaluate the intensity and unpleasantness of empathy for pain while watching different pictures with pain or non-pain conditions. The Multidimensional Assessment of Interoceptive Awareness (MAIA) was then administered to measure interoceptive awareness. The results indicated a significant interaction between group and time with regard to empathy for pain and MAIA. The DB group showed a statistically significant decrease in both pain intensity and unpleasantness during the pain picture condition, as well as a noteworthy increase in MAIA scores. The control group did not demonstrate any substantial changes. More importantly, the regulation of attention, a dimension of MAIA, had a significant mediating effect on the impact of diaphragmatic breathing on reported unpleasantness. Diaphragmatic breathing could serve as a simple, convenient, and practical strategy to optimize human empathy for pain that warrants further investigation, which has important implications not only for individuals with impaired empathy for pain but also for the improvement of interoceptive awareness.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Empathy",
+        "Interoception",
+        "Female",
+        "Awareness",
+        "Young Adult",
+        "Adult",
+        "Breathing Exercises",
+        "Pain",
+        "Biofeedback, Psychology"
+      ]
+    },
+    {
+      "pmid": "38513453",
+      "title": "The effect of diaphragmatic breathing on nausea, vomiting and functional status among breast cancer patients undergoing chemotherapy.",
+      "authors": [
+        "Nelwati Nelwati",
+        "Dwi Noviyani"
+      ],
+      "journal": "European journal of oncology nursing : the official journal of European Oncology Nursing Society",
+      "publication_date": "2024-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: To examine the effect of diaphragmatic breathing (DB) on nausea, vomiting, and functional status among breast cancer patients undergoing chemotherapy in Indonesia. METHODS: A quasi experimental study with non-equivalent pretest and posttest control group was conducted. A total of forty-eight breast cancer patients (24 DB and 24 control participants) undergoing chemotherapy participated in this study selected conveniently. DB intervention was performed to the intervention group after chemotherapy cycle twice a day for six days, meanwhile the control group received usual care. A set of questionnaires was used to collect data consisting of Patient Information Form, Rhodes Index Nausea, Vomiting and Retching (RINVR) and The Functional Living Index-Cancer (FLI-C). Data were analyzed and interpreted using Generalized Linear Model, Wilcoxon Test, Paired T Test and Mann-Whitney U test. RESULTS: There were significant changes in RINVR mean scores for the intervention group that started on the third day after chemotherapy (p = 0.000); meanwhile, the significant changes in RINVR mean scores for the control group began on the fifth day (p = 0.000). The total score of FLI-C was significantly different between the intervention and control groups (p = 0.000). CONCLUSION: DB could decrease nausea and vomiting, and increase functional status of breast cancer patients undergoing chemotherapy. It can be promoted as a useful low-cost self-management approach and an additional and complementary therapy to manage chemotherapy-related nausea and vomiting.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms",
+        "Vomiting",
+        "Nausea",
+        "Middle Aged",
+        "Adult",
+        "Indonesia",
+        "Functional Status",
+        "Antineoplastic Agents",
+        "Breathing Exercises",
+        "Diaphragm",
+        "Surveys and Questionnaires",
+        "Aged",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "38205226",
+      "title": "Effect of Adding Diaphragmatic Breathing Exercises to Core Stabilization Exercises on Pain, Muscle Activity, Disability, and Sleep Quality in Patients With Chronic Low Back Pain: A Randomized Control Trial.",
+      "authors": [
+        "Sana Masroor",
+        "Tarushi Tanwar",
+        "Mosab Aldabbas",
+        "Iram Iram",
+        "Zubia Veqar"
+      ],
+      "journal": "Journal of chiropractic medicine",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The purpose of this study was to test the effect of adding diaphragmatic breathing exercises (DBEs) to core stabilization exercises (CSEs) for patients with chronic low back pain (CLPB). METHODS: Twenty-two patients with CLPB were randomly allocated to the experimental (DBE + CSE) or control group (CSE only). They were given 12 treatment sessions 3 times a week for 4 weeks. Patients were evaluated before and after the 12 sessions. Surface electromyography of transverse abdominis, Oswestry Disability Index, Fear Avoidance Belief Questionnaire, Pittsburgh Sleep Quality Index, Numeric Pain Rating Scale, and chest expansion were used as outcome measures for pain, muscle activity, disability, and sleep quality. RESULTS: The outcome measure scores showed statistical significance of (P = .01) in time effect on muscle activity, sleep quality, disability score, pain score, fear-avoidance belief of patients and chest expansion; and group effect on Fear Avoidance Belief Questionnaire and physical activity parameter (P = .05). An interaction effect (time x group) on muscle activity for right transverse abdominus during tuck in (P = .01) and chest expansion (P = .01) was also found; however, no significant difference was found related to other parameters. CONCLUSION: The combination of DBE and CSE interventions compared to CSE alone showed improvement in the measured parameters for patients with CLBP. Incorporating DBE with CSE also improved muscle activation and chest expansion."
+    },
+    {
+      "pmid": "37949552",
+      "title": "Effect of diaphragmatic breathing, respiratory muscle stretch gymnastics and conventional physiotherapy on chest expansion, pulmonary function and pain in patients with mechanical neck pain: A single group pretest-posttest quasi-experimental pilot study.",
+      "authors": [
+        "Chand",
+        "Hina Vaish"
+      ],
+      "journal": "Journal of bodywork and movement therapies",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: There is evidence that mechanical neck pain results in respiratory dysfunction. Physiotherapy management for mechanical neck pain is well documented but the evidence regarding inclusion of breathing strategies to improve pulmonary functions in mechanical neck pain patients is scarce. OBJECTIVE: To investigate the combined effect of diaphragmatic breathing, respiratory muscles stretch gymnastics (RMSG) and conventional physiotherapy on chest expansion, pulmonary function and pain in patient with mechanical neck pain. METHOD: Thirteen patients with mechanical neck pain (18-35years) with neck pain history of ≥ three months and NPRS (numeric pain rating scale) score ≥3 were recruited for this single group pre pretest-posttest quasi experimental pilot study. Informed consent was taken from all participants. After initial screening and assessment, diaphragmatic breathing, RSMG (5 patterns) and conventional physiotherapy (hot pack and TENS for 10 min) were given for one week. Chest expansion, spirometry (FEV1, FVC, FEV1/FVC, PEFR), NDI (neck disability index) and NPRS were assessed on baseline and after one week following the intervention. RESULTS: The normality of data was tested by using Shapiro-wilk test and the data was found to be normally distributed. Paired t-test was used to compare the baseline and post intervention values. Diaphragmatic breathing, RMSG and conventional physiotherapy had significant effect on chest expansion, FEV1, NPRS and NDI in patients with mechanical neck pain. CONCLUSION: The rehabilitation strategies should emphasize breathing exercises to improve the lung function and pain scores in addition to conventional physiotherapy in rehabilitation of mechanical neck pain patients.",
+      "mesh_terms": [
+        "Humans",
+        "Neck Pain",
+        "Pilot Projects",
+        "Gymnastics",
+        "Physical Therapy Modalities",
+        "Respiratory Muscles",
+        "Lung"
+      ]
+    },
+    {
+      "pmid": "37858261",
+      "title": "Diaphragmatic breathing combined with abdominal drawing-in maneuver for walking function in post-stroke patients: a randomized controlled study protocol.",
+      "authors": [
+        "Jianqing Su",
+        "Yunrong Ding",
+        "Yanjun Cao",
+        "Zengqiao Zhang",
+        "Mengxue Sun",
+        "Yajuan Zhang",
+        "Kunpeng Li",
+        "Wu Wang"
+      ],
+      "journal": "Trials",
+      "publication_date": "2023-Oct-19",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Patients with stroke frequently experience walking dysfunction. Core training can help improve balance and walking function in patients with stroke. However, core training movements in clinical practice are numerous and differently targeted. Therefore, this study will investigate the improvement of walking function in patients with combined diaphragmatic breathing maneuver (DBM) and draw-in breathing technique (ADIM) training. METHODS: This single-blind, randomized controlled preliminary will analyze the viability of DBM combined ADIM training versus routine rehabilitation therapy in patients with stroke with early to mid-stroke. Patients will be randomly assigned to either the DBM and ADIM training or the routine rehabilitation training. We will recruit 42 stroke inpatients from the Second Rehabilitation Hospital of Shanghai who meet the trial criteria and measure the balance and walking functions and improvement of that after 4 weeks of intervention. The primary outcome is the 10 m maximum walking test (10MWT). The secondary outcomes indices include the limits of stability test (LOS), Berg balance scale test (BBS), Functional Ambulation Categories test (FAC), Timed Up and Go test (TUG), trunk impairment scale test (TIS), ultrasound indicators of the diaphragm and transversus abdominis (UI), rhythmic weight shift test (RWS), walk across test (WA), Fugl-Meyer assessment of lower extremity (FMA-LE), and Barthel index of ADL test. DISCUSSION: The primary objective of this project was to investigate the effects of DBM combined with ADIM on balance capacity and walking function for patients with early to mid-stroke. The outcomes of this study will hold significant implications for future clinical applications in rehabilitation. TRIAL REGISTRATION: Chinese Clinical Trial Registry (ChiCTR), ID: ChiCTR2100054897. Registered on 28 December 2021.",
+      "mesh_terms": [
+        "Humans",
+        "Stroke Rehabilitation",
+        "Postural Balance",
+        "Single-Blind Method",
+        "China",
+        "Time and Motion Studies",
+        "Stroke",
+        "Walking",
+        "Abdominal Muscles",
+        "Treatment Outcome",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "36734111",
+      "title": "Deep Diaphragmatic Breathing-Anatomical and Biomechanical Consideration.",
+      "authors": [
+        "Howe Liu",
+        "Christopher M Wiedman",
+        "Venita Lovelace-Chandler",
+        "Suzhen Gong",
+        "Yasser Salem"
+      ],
+      "journal": "Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Deep diaphragmatic breathing (DDB) involves slow and fully contraction of the diaphragm with expansion of the belly during inhalation, and slow and fully contraction of the abdominal muscles with reduction of the belly during exhalation. It is the key component of the holistic mind-body exercises commonly used for patients with multimorbidity. Purpose: The purpose of this study was to re-visit and address the fundamental anatomical and biomechanical consideration of the DDB with the relevant literature. Method: Peer-reviewed publications from last the 15 years were retrieved, reviewed, and analyzed. Findings: In this article, we described the updated morphological and anatomical characteristics of the diaphragm. Then, we elucidated in a biomechanical approach how and why the DDB can work on the gastrointestinal, cardiopulmonary, and nervous systems as well as on regulating the intra-abdominopelvic pressure and mind-body interaction to coordinate the diaphragm-pelvic floor-abdominal complex for a variety of physical and physiological activities. Conclusion: Understanding of this updated DDB knowledge may help holistic healthcare professionals including holistic nurses provide better patient education and care management during the DDB or DDB-based mind-body intervention time.",
+      "mesh_terms": [
+        "Humans",
+        "Diaphragm",
+        "Pelvic Floor",
+        "Exercise",
+        "Hydrocarbons, Chlorinated"
+      ]
+    },
+    {
+      "pmid": "36454123",
+      "title": "Effectiveness of eye movement exercise and diaphragmatic breathing with jogging in reducing migraine symptoms: A preliminary, randomized comparison trial.",
+      "authors": [
+        "Mohammad Dawood Rahimi",
+        "Pouriya Hassani",
+        "Mohammad Taghi Kheirkhah",
+        "Javad Salehi Fadardi"
+      ],
+      "journal": "Brain and behavior",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Migraine is a multifactorial headache disorder. Maladaptive functional networks or altered circuit-related connectivity in the brain with migraine appear to perturb the effects of usual treatments. OBJECTIVES: In the present preliminary trial, we aim to study the effectiveness of performing pieces of body-mind, cognitive, or network reconstruction-based training (i.e., eye movement exercise plus jogging; EME+J and diaphragmatic breathing plus jogging; DB+J) in decreasing migraine symptoms. METHODS: We used a three-arm, triple-blind, non-inferiority randomized comparison design with pre-test, post-test, and follow-up measurements to assess the effectiveness of EME+J and DB+J in the brain with migraine. Participants were randomly assigned to one of the study groups to perform either 12 consecutive weeks of EME+J (n = 22), DB+J (n = 19), or receiving, treatment as usual, TAU (n = 22). RESULTS: The primary outcome statistical analysis through a linear mixed model showed a significant decrease in the frequency (p = .0001), duration (p = .003), and intensity (p = .007) of migraine attacks among the interventions and measurement times. The pairwise comparisons of simple effects showed that EME+J and DB+J effectively reduced migraine symptoms at the post-test and follow-up (p < .05). Cochran's tests showed that interventions decreased the number of menses-related migraine attacks. EME+J and DB+J effectively decreased over-the-counter (OTC) drug use, refreshed wake-up mode, and improved sleep and water drinking patterns. These are the secondary outcomes that Cochran's tests showed in the interventional groups after the interventions and at 12 months of follow-up. CONCLUSION: EME+J or DB+J can be an effective and safe method with no adverse effects to decrease the symptoms of migraine attacks. Moreover, a reduction in the frequency of menstrual cycle-related attacks, OTC drug use, and improved quality of sleep and drinking water were the secondary outcomes of the post-test and a 12-month follow-up.",
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Eye Movements",
+        "Jogging",
+        "Migraine Disorders",
+        "Exercise Therapy",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "36438970",
+      "title": "Meditative-based diaphragmatic breathing vs. vagus nerve stimulation in the treatment of fibromyalgia-A randomized controlled trial: Body vs. machine.",
+      "authors": [
+        "Charles Ethan Paccione",
+        "Audun Stubhaug",
+        "Lien My Diep",
+        "Leiv Arne Rosseland",
+        "Henrik Børsting Jacobsen"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "IMPORTANCE: Vagus nerve innervation via electrical stimulation and meditative-based diaphragmatic breathing may be promising treatment avenues for fibromyalgia. OBJECTIVE: Explore and compare the treatment effectiveness of active and sham transcutaneous vagus nerve stimulation (tVNS) and meditative-based diaphragmatic breathing (MDB) for fibromyalgia. DESIGN: Participants enrolled from March 2019-October 2020 and randomly assigned to active tVNS (n = 28), sham tVNS (n = 29), active MDB (n = 29), or sham MDB (n = 30). Treatments were self-delivered at home for 15 min/morning and 15 min/evening for 14 days. Follow-up was at 2 weeks. SETTING: Outpatient pain clinic in Oslo, Norway. PARTICIPANTS: 116 adults aged 18-65 years with severe fibromyalgia were consecutively enrolled and randomized. 86 participants (74%) had an 80% treatment adherence and 107 (92%) completed the study at 2 weeks; 1 participant dropped out due to adverse effects from active tVNS. INTERVENTIONS: Active tVNS is placed on the cymba conchae of the left ear; sham tVNS is placed on the left earlobe. Active MDB trains users in nondirective meditation with deep breathing; sham MDB trains users in open-awareness meditation with paced breathing. MAIN OUTCOMES AND MEASURES: Primary outcome was change from baseline in ultra short-term photoplethysmography-measured cardiac-vagal heart rate variability at 2 weeks. Prior to trial launch, we hypothesized that (1) those randomized to active MDB or active tVNS would display greater increases in heart rate variability compared to those randomized to sham MDB or sham tVNS after 2-weeks; (2) a change in heart rate variability would be correlated with a change in self-reported average pain intensity; and (3) active treatments would outperform sham treatments on all pain-related secondary outcome measures. RESULTS: No significant across-group changes in heart rate variability were found. Furthermore, no significant correlations were found between changes in heart rate variability and average pain intensity during treatment. Significant across group differences were found for overall FM severity yet were not found for average pain intensity. CONCLUSIONS AND RELEVANCE: These findings suggest that changes in cardiac-vagal heart rate variability when recorded with ultra short-term photoplethysmography in those with fibromyalgia may not be associated with treatment-specific changes in pain intensity. Further research should be conducted to evaluate potential changes in long-term cardiac-vagal heart rate variability in response to noninvasive vagus nerve innervation in those with fibromyalgia. CLINICAL TRIAL REGISTRATION: https://clinicaltrials.gov/ct2/show/NCT03180554, Identifier: NCT03180554."
+    },
+    {
+      "pmid": "36159577",
+      "title": "A Retrospective Study of Diaphragmatic Breathing Training Combined with Discharge Care Bundles in Patients with Chronic Obstructive Pulmonary Disease.",
+      "authors": [
+        "Shuhui Yu",
+        "Chen Lu",
+        "Lingling Qin"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "abstract": "OBJECTIVE: Both physical exercise and discharge care bundles can improve patient outcomes and reduce hospitalization rates among subjects with chronic obstructive pulmonary disease (COPD). The retrospective analysis aims to determine the advantages of care bundles combined with diaphragmatic breathing training (DBT) in COPD patients after discharge. METHODS: Of the 110 COPD patients, 55 patients received DBT alone (DBT group) and 55 participants received the combined intervention (care bundle + DBT group). Three months after discharge, we assessed the outcomes of patients using Bristol COPD Knowledge Questionnaire (BCKQ), Hospital Anxiety and Depression Scale (HADS), COPD Assessment Test (CAT), and St. George's Respiratory Questionnaire (SGRQ). Meanwhile, COPD-related hospital readmissions were also recorded. RESULTS: The BCKQ score for assessing the disease knowledge level was increased in patients at 3 months after the combined interventions as compared to the baseline values, which was higher in the care bundle + DBT group than the DBT group at 3 months. Moreover, improvements in negative emotion and clinical symptoms from baseline to 3-month follow-up were seen in both the two groups. Besides, the care bundle + DBT group showed the mitigation of depression and anxiety and the alleviation of clinical symptoms in comparison with the DBT group at 3 months. Participants who received combined interventions had lower SGRQ scores than those who received DBT alone. The time to first COPD-related readmission was shorter for patients in the care bundle + DBT group compared with the DBT group. CONCLUSIONS: DBT combined with discharge care bundles for COPD patients resulted in improvements in disease-specific knowledge, negative emotions, and clinical symptoms with better HRQOL and lower readmission rate."
+    },
+    {
+      "pmid": "35704507",
+      "title": "The Effectiveness of A Slow-Paced Diaphragmatic Breathing Exercise in Children's Daily Life: A Micro-Randomized Trial.",
+      "authors": [
+        "Andrea C Kramer",
+        "Andreas B Neubauer",
+        "Florian Schmiedek"
+      ],
+      "journal": "Journal of clinical child and adolescent psychology : the official journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53",
+      "publication_date": "2023",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Breathing exercises have been proposed as an effective intervention to improve subjective well-being and manage anxiety symptoms. As they are comparatively easy to learn and to implement, breathing exercises may be particularly beneficial for children. Although breathing exercises are ultimately supposed to provide salutary effects in individuals' everyday lives, immediate effects of breathing exercises in naturalistic contexts have received limited empirical attention. The purpose of this study was to examine immediate effects of slow-paced diaphragmatic breathing on negative affect as well as on relaxation in an ecologically valid setting. To that end, we conducted a micro-randomized trial in children's daily life. METHOD: On each of 15 days, children (N = 171, aged 9-13 years, 54% female) were randomized to different conditions: performing a video-guided slow-paced diaphragmatic breathing exercise (experimental condition), watching a different video (active control condition), or a passive control condition. RESULTS: The breathing exercise had no immediate effects on negative affect or relaxation compared to both control conditions. However, in situations when children reported higher levels of worries than usual, relaxation was higher when children performed the breathing exercise compared to the passive control condition. Compared to the active control condition, the breathing exercise did not result in higher levels of relaxation in situations when children worried more than normally. CONCLUSIONS: Findings highlight that context-specific factors can modulate the effectiveness of breathing exercises and should be taken into account to tailor interventions to individuals' needs.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Child",
+        "Male",
+        "Breathing Exercises",
+        "Exercise"
+      ]
+    },
+    {
+      "pmid": "35703895",
+      "title": "Implementation of a Mobile Technology-Supported Diaphragmatic Breathing Intervention in Military mTBI With PTSD.",
+      "authors": [
+        "Tracey Wallace",
+        "John T Morris",
+        "Richard Glickstein",
+        "Raeda K Anderson",
+        "Russell K Gore"
+      ],
+      "journal": "The Journal of head trauma rehabilitation",
+      "publication_date": null,
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "BACKGROUND: Diaphragmatic breathing is an evidence-based intervention for managing stress and anxiety; however, some military veterans with mild traumatic brain injury (mTBI) and posttraumatic stress disorder (PTSD) report challenges to learning and practicing the technique. BreatheWell Wear assists performance of breathing exercises through reminders, biofeedback, and visual, tactile, and auditory guidance. OBJECTIVE: To evaluate feasibility of implementing BreatheWell Wear, a mobile smartwatch application with companion smartphone app, as an intervention for stress management in military veterans with mTBI and PTSD. METHODS: Thirty veterans with chronic symptoms of mTBI and PTSD recruited from an interdisciplinary, intensive outpatient program participated in this pilot pragmatic clinical trial. Participants were randomly assigned to the experimental (BreatheWell Wear and conventional care) and control (conventional care) groups for 4 weeks. Conventional care included instruction on relaxation breathing and participation in behavioral health therapy. Effects on goal attainment, treatment adherence, diaphragmatic breathing technique knowledge, and stress were measured through surveys and diaries. Changes in symptoms, mood, and well-being were measured pre/postintervention via the Posttraumatic Checklist for DSM-5, Beck Anxiety Inventory, Beck Depression Inventory, and Flourishing Scale. RESULTS: Person-centered goal attainment (t = 4.009, P < .001), treatment adherence (t = 2.742, P = .001), diaphragmatic breathing technique knowledge (t = 1.637, P < .001), and reported ease of remembering to practice (t = -3.075, P = .005) were significantly greater in the experimental group. As expected, measures of PTSD, anxiety, depression, and psychological well-being showed clinically meaningful change in both groups, and both groups demonstrated reduced stress following diaphragmatic breathing. CONCLUSION: These preliminary findings indicate that BreatheWell Wear may be a clinically feasible tool for supporting diaphragmatic breathing as an intervention in veterans with mTBI and PTSD, and a future effectiveness trial is warranted.",
+      "mesh_terms": [
+        "Brain Concussion",
+        "Humans",
+        "Military Personnel",
+        "Stress Disorders, Post-Traumatic",
+        "Technology",
+        "Veterans"
+      ]
+    },
+    {
+      "pmid": "35468589",
+      "title": "Pulling the Trigger: The Effect of a 5-Minute Slow Diaphragmatic Breathing Intervention on Psychophysiological Stress Responses and Pressurized Pistol Shooting Performance.",
+      "authors": [
+        "Aodhagán Conlon",
+        "Rachel Arnold",
+        "Ezio Preatoni",
+        "Lee J Moore"
+      ],
+      "journal": "Journal of sport & exercise psychology",
+      "publication_date": "2022-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This study examined the effect of slow diaphragmatic breathing on psychophysiological stress responses and pressurized performance. Sixty-seven participants (40 female; Mage = 20.17 ± 2.77 years) were randomly assigned to either a diaphragmatic-breathing, paced-breathing, or control group. Participants completed a nonpressurized shooting task and then received instructions about a pressurized version. Next, the diaphragmatic group was told to breathe at 6 breaths/min, the paced group at 12 breaths/min, and the control group received no instructions. Following a 5-min intervention period, participants completed the pressurized task while performance was assessed. Psychophysiological stress responses (e.g., cognitive anxiety, heart rate) were recorded throughout. Results revealed that diaphragmatic breathing had mixed effects on stress responses, with some unaffected (e.g., heart rate) and others reduced (e.g., cognitive anxiety), and little effect on performance. Findings suggested that slow diaphragmatic breathing might not aid pressurized performance but could benefit psychological stress responses.",
+      "mesh_terms": [
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Stress, Psychological"
+      ]
+    },
+    {
+      "pmid": "35320303",
+      "title": "A randomised cross-over trial of QT response to hyperventilation-induced anxiety and diaphragmatic breathing in patients with stress cardiomyopathy and in control patients.",
+      "authors": [
+        "George M Watson",
+        "Jacalin Sutherland",
+        "Cameron Lacey",
+        "Paul G Bridgman"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: The most perfect example of the mind-body interaction in all of medicine is provided by stress cardiomyopathy. In stress cardiomyopathy, what is initially a purely emotional event may become rapidly fatal. Prolongation of the QT interval is a cardinal feature of the condition, but the mechanism of the prolongation is unknown. We undertook a randomised controlled trial of stress with a cross-over design, comparing the cardiac response of women with a history of stress cardiomyopathy to age-matched controls to explore the mind-body interaction. Our hypothesis is that the hearts of women with a history of stress cardiomyopathy will respond differently to emotional stress than those of the controls. METHOD: This is a randomised cross-over study. Each patient underwent two separate 24-hour Holter monitors performed at least 5 days apart. Baseline recording was followed by either the stress intervention (hyperventilation) or control (diaphragmatic breathing). Our primary endpoint is change in QTc interval over the first hour. Secondary endpoints were change in QTc over 24 hours, and change in SDNN, a measure of heart rate variability. As a secondary stressor, each participant was telephoned four times during their stressed recording and asked to complete a questionnaire. RESULTS: Twelve stress cardiomyopathy patients and twelve control patients were recruited. Baseline characteristics did not differ between cases and controls. With hyperventilation, there was a significant initial difference in anxiety (p<0.001), heart rate response (p<0.0001), and QTc (p<0.0002) compared to diaphragmatic breathing, but no differences between the cases and controls. Only first phone call caused an increase in QTc in cases and controls (p = 0.0098). SDNN increased with hyperventilation (p<0.0001) but did not differ between cases and controls. CONCLUSIONS: QTc response in women with a history of stress cardiomyopathy does not differ from controls. The relevance of QT prolongation and sensitivity in the autonomic response to the pathogenesis of stress cardiomyopathy remains uncertain.",
+      "mesh_terms": [
+        "Anxiety",
+        "Cross-Over Studies",
+        "Electrocardiography",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Hyperventilation",
+        "Long QT Syndrome",
+        "Takotsubo Cardiomyopathy"
+      ]
+    },
+    {
+      "pmid": "35248263",
+      "title": "The role of diaphragmatic breathing exercise on urinary incontinence treatment: A pilot study.",
+      "authors": [
+        "Nevin Toprak",
+        "Selva Sen",
+        "Berrak Varhan"
+      ],
+      "journal": "Journal of bodywork and movement therapies",
+      "publication_date": "2022-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: The main aim of this pilot study was to examine the effect of diaphragmatic breathing exercise on urinary incontinence treatment. The secondary purpose was to compare the effect of pelvic floor muscle exercises and diaphragmatic breathing exercises on urinary incontinence women. DESIGN: Participants were randomized into two groups: pelvic floor muscle exercises (Group PFM n = 20) and diaphragmatic breathing exercises (Group DB n = 20). Exercise programs consisted of 1 set of contractions per day and each set included 30 repetitions for 6 weeks. Women were asked to complete forms of Incontinence Impact Questionnaire (IIQ-7) and the Urogenital Distress Inventory (UDI-6), Incontinence Quality of Life (I-QOL), and Overactive Bladder (OAB-V3) before starting the program and again at the end of the 6-week program. RESULTS: IIQ-7, I-QOL, and OAB-V3 scores significantly improved in both groups, after exercises. There were no difference between groups in the post-exercise scores. Total score of the UDI-6 was statistically significantly decreased higher in the DB exercises group. UDI-6 Urge Symptoms decreased statistically significantly only in the DB exercises group. Even though there was a decrease in the PFM group, but it was not significant. CONCLUSION: Diaphragmatic breathing exercises may be an alternative to pelvic floor muscle exercises in the treatment of urinary incontinence. CLINICALTRIALS. GOV ID: NCT04991675.",
+      "mesh_terms": [
+        "Breathing Exercises",
+        "Exercise Therapy",
+        "Female",
+        "Humans",
+        "Pelvic Floor",
+        "Pilot Projects",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Urinary Incontinence",
+        "Urinary Incontinence, Stress"
+      ]
+    },
+    {
+      "pmid": "35152506",
+      "title": "Breathing out dental fear: A feasibility crossover study on the effectiveness of diaphragmatic breathing in children sitting on the dentist's chair.",
+      "authors": [
+        "Martina Levi",
+        "Maurizio Bossù",
+        "Valeria Luzzi",
+        "Federica Semprini",
+        "Andrea Salaris",
+        "Cristina Ottaviani",
+        "Cristiano Violani",
+        "Antonella Polimeni"
+      ],
+      "journal": "International journal of paediatric dentistry",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Anxiety related to the dental context is a clinically significant challenge. In children, dental fear is often accompanied by disruptive and uncooperative behaviours that can render treatment difficult. Although techniques to reduce children's anxiety exist, many have not been formally evaluated. DESIGN: Diaphragmatic breathing has been shown to reduce fear and anxiety, but few investigations have evaluated whether it can reduce dental anxiety in children. This crossover study tested the effectiveness and feasibility of diaphragmatic breathing in twenty children undergoing dental care. RESULTS: Compared with the treatment as usual, such a simple technique had significant benefits on mood, self-reported pain and autonomic balance, thus reducing sympathetic activation. CONCLUSION: Diaphragmatic breathing is a low-cost, easy-to-implement technique suitable for daily dental practice, and is a promising tool for reducing negative effect and physiological distress in children with dental anxiety that results in more cooperative behaviours and reduced visit time.",
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Cross-Over Studies",
+        "Dental Anxiety",
+        "Dentists",
+        "Feasibility Studies",
+        "Self Report",
+        "Respiration"
+      ]
+    },
+    {
+      "pmid": "34491340",
+      "title": "Effects of Diaphragmatic Breathing and Systematic Relaxation on Depression, Anxiety, Stress, and Glycemic Control in Type 2 Diabetes Mellitus.",
+      "authors": [
+        "Abhishek Yadav",
+        "Rajeev Mohan Kaushik",
+        "Reshma Kaushik"
+      ],
+      "journal": "International journal of yoga therapy",
+      "publication_date": "2021-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This prospective study assessed the effects of diaphragmatic breathing and systematic relaxation on depression, anxiety, and stress levels, as well as glycemic control, in patients with type 2 diabetes mellitus (T2DM). One hundred patients with T2DM were randomly assigned to two equal groups: Group A patients received conventional treatment for T2DM, and Group B patients received conventional treatment for T2DM plus training in diaphragmatic breathing and systematic relaxation and home practice of these stress-management techniques for 6 months. Stress, depression, and anxiety levels, blood sugar, and glycated hemoglobin (HbA1c) were recorded at baseline and after 6 months of treatment in all patients. Baseline characteristics were compared using the chi-square test and student's t test. Changes in mental well-being and glycemic status were assessed for their significance in each group using student's t test and compared between two groups using one-way analysis of covariance (ANCOVA). Baseline levels of the respective change outcome and duration of diabetes were used as covariates in the ANCOVA. A significant decrease was seen in depression, anxiety, and stress scores in Group B, but in Group A only the stress score decreased after 6 months. A significant decline occurred in blood sugar (fasting, 2-hour postprandial, and random) and HbA1c in both groups after 6 months. There was a larger decrease in depression and anxiety scores and HbA1c in Group B than in Group A. The decrease in HbA1c was significantly correlated with the decrease in anxiety and stress scores in both groups and with the depression score in Group A. Thus, the addition of diaphragmatic breathing and systematic relaxation to conventional T2DM treatment appears to have led to improvement in mental well-being and glycemic control in patients with T2DM.",
+      "mesh_terms": [
+        "Anxiety",
+        "Blood Glucose",
+        "Depression",
+        "Diabetes Mellitus, Type 2",
+        "Glycated Hemoglobin",
+        "Glycemic Control",
+        "Humans",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "34441033",
+      "title": "Immediate Effects of Diaphragmatic Breathing with Cervical Spine Mobilization on the Pulmonary Function and Craniovertebral Angle in Patients with Chronic Stroke.",
+      "authors": [
+        "Ho Jung An",
+        "A Yeon Kim",
+        "Shin Jun Park"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "publication_date": "2021-Aug-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background and Objectives: Patients with stroke have a forward neck posture due to neurological damage and often have impaired pulmonary function. This study investigated the effect of diaphragmatic breathing with cervical mobilization to improve pulmonary function cervical alignments. Materials and Methods: This study used a one-group pre-test-post-test design including 20 patients with stroke. Two types of cervical joint mobilization techniques, consisting of left and right lateral glide mobilization and posterior-anterior mobilization, were utilized. During joint mobilization, the patients performed diaphragmatic breathing. The measurements were performed immediately after the intervention. Pulmonary function was evaluated using a spirometer to measure the forced expiratory volume in 1 s (FEV1), forced vital capacity (FVC), and peak expiratory flow (PEF). The craniovertebral angle (CVA) was measured using lateral photographs. Results: After diaphragm breathing with cervical joint mobilization, subjects had significantly increased FEV1, FVC, PEF and CVA. Conclusion: Diaphragm breathing with cervical joint mobilization are possible interventions to increase pulmonary function and improve the craniovertebral angle in patients with stroke. However, a complete conclusion can be reached only after a follow-up study has been conducted with a comparison of more subjects and controls.",
+      "mesh_terms": [
+        "Cervical Vertebrae",
+        "Follow-Up Studies",
+        "Humans",
+        "Lung",
+        "Neck",
+        "Stroke"
+      ]
+    },
+    {
+      "pmid": "33955942",
+      "title": "Yogic Pranayama and Diaphragmatic Breathing: Adjunct Therapy for Intraocular Pressure in Patients With Primary Open-angle Glaucoma: A Randomized Controlled Trial.",
+      "authors": [
+        "Hemlata Udenia",
+        "Sunita Mittal",
+        "Ajai Agrawal",
+        "Anvita Singh",
+        "Anupam Singh",
+        "Sanjeev K Mittal"
+      ],
+      "journal": "Journal of glaucoma",
+      "publication_date": "2021-Feb-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PRCIS: Yogic pranayama and diaphragmatic breathing are potential adjunctive therapies for patients with glaucoma; however, they are not substitutes for medicine or eye drops. PURPOSE: Currently, medical or surgical lowering of intraocular pressure is the only therapeutic approach for treating primary open-angle glaucoma. Intraocular pressure maintenance is influenced by autonomic activity (sympathetic and parasympathetic). \"Yogic pranayama\" and \"diaphragmatic breathing\" are exercises that can affect autonomic activity by stimulating a wakeful hypometabolic state of parasympathetic dominance. We aimed to assess the effect of yogic pranayama and diaphragmatic breathing on intraocular pressure to determine whether it can be recommended for individuals with established glaucoma in combination with glaucoma medication as an adjuvant therapy. MATERIALS AND METHODS: In this prospective, randomized trial, 90 patients with primary open-angle glaucoma (180 eyes, age: above 40 y) were assigned to either the control or yogic pranayama and diaphragmatic breathing exercise group. In the latter group, yogic pranayama and diaphragmatic breathing were practiced daily for 6 months. We measured the intraocular pressure at presentation and subsequently after 1, 3, and 6 months. RESULTS: Compared with the wait-list group, the yogic pranayama and diaphragmatic breathing exercise group had significantly lowered intraocular pressure (right eye: 20.85±3.39 to 14.90±2.86 mm Hg; left eye: 20.30±4.12 to 14.25±3.85 mm Hg; P<0.001). CONCLUSION: Yogic pranayama and diaphragmatic breathing exercises can reduce intraocular pressure in patients with primary open-angle glaucoma and can therefore be recommended as an adjuvant therapy.",
+      "mesh_terms": [
+        "Glaucoma",
+        "Glaucoma, Open-Angle",
+        "Humans",
+        "Intraocular Pressure",
+        "Prospective Studies",
+        "Tonometry, Ocular"
+      ]
+    },
+    {
+      "pmid": "33383396",
+      "title": "The effectiveness of diaphragmatic breathing relaxation training for improving sleep quality among nursing staff during the COVID-19 outbreak: a before and after study.",
+      "authors": [
+        "Yu Liu",
+        "Tong-Tong Jiang",
+        "Tie-Ying Shi",
+        "Yong-Ning Liu",
+        "Xiu-Mei Liu",
+        "Guo-Jun Xu",
+        "Fang-Lin Li",
+        "Yue-Liang Wang",
+        "Xiao-Yu Wu"
+      ],
+      "journal": "Sleep medicine",
+      "publication_date": "2021-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Recent studies have demonstrated that first-line nurses involved in the coronavirus disease-2019 (COVID-19) crisis may experience sleep disturbances. As breathing relaxation techniques can improve sleep quality, anxiety, and depression, the current study aimed to evaluate the effectiveness of diaphragmatic breathing relaxation training (DBRT) for improving sleep quality among nurses in Wuhan, China during the COVID-19 outbreak. METHODS: This study used a quasi-experimental (before and after) intervention strategy, with 151 first-line nurses from four wards in Leishenshan hospital. The Pittsburgh Sleep Quality Index (PSQI), Self-Rating Anxiety Scale (SAS), and Self-Rating Depression Scale (SDS) to evaluate the effectiveness of DBRT before and after the intervention. Data were examined using the Shapiro-Wilk test, Levene's test, and paired t-test. RESULTS: A total of 140 nurses completed the DBRT sessions. First-line nurses achieved significant reductions in global sleep quality (p < 0.01), subjective sleep quality (p < 0.001), sleep latency (p < 0.01), sleep duration (p < 0.001), sleep disturbances (p < 0.001), habitual sleep efficiency (p = 0.015), daytime dysfunction (p = 0.001), and anxiety (p = 0.001). There were no significant reductions in the use of sleeping medication (p = 0.134) and depression (p = 0.359). CONCLUSION: DBRT is a useful non-pharmacological treatment for improving sleep quality and reducing anxiety among first-line nurses involved in the COVID-19 outbreak. The study protocol was clinically registered by the Chinese Clinical Trial Registry. CLINICAL TRIAL REGISTRATION NUMBER: ChiCTR2000032743.",
+      "mesh_terms": [
+        "Adult",
+        "Anxiety",
+        "COVID-19",
+        "China",
+        "Female",
+        "Humans",
+        "Male",
+        "Nursing Staff, Hospital",
+        "Relaxation Therapy",
+        "Self Efficacy",
+        "Sleep Disorders, Circadian Rhythm",
+        "Sleep Latency",
+        "Stress, Psychological",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "33175346",
+      "title": "Comprehensive Cognitive-Behavioral Interventions Augment Diaphragmatic Breathing for Rumination Syndrome: A Proof-of-Concept Trial.",
+      "authors": [
+        "Helen Burton Murray",
+        "Fengqing Zhang",
+        "Christine C Call",
+        "Ani Keshishian",
+        "Rowan A Hunt",
+        "Adrienne S Juarascio",
+        "Jennifer J Thomas"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "publication_date": "2021-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Rumination syndrome (RS) is often treated in medical settings with 1-2 sessions of diaphragmatic breathing to target reflexive abdominal wall contraction in response to conditioned cues (e.g., food). However, many patients remain symptomatic and require additional behavioral interventions. AIMS: In an attempt to augment diaphragmatic breathing with additional interventions, we tested the proof-of-concept of a comprehensive Cognitive-Behavioral Therapy (CBT) for RS. METHODS: In an uncontrolled trial, adults with RS completed a 5-8 session CBT protocol, delivered by one of two psychology behavioral health providers. CBT included two main phases: awareness training and diaphragmatic breathing (Phase 1) and modularized interventions chosen by the therapist and patient to target secondary maintenance mechanisms (Phase 2). At pre-treatment, post-treatment, and 3-month follow-up, participants completed a semi-structured interview on RS symptoms with an independent evaluator. RESULTS: Of 10 eligible individuals (ages 20-67 years, 50% female) offered treatment, all 10 initiated treatment and eight completed it. All participants endorsed high treatment credibility at Session 1. Permutation-based repeated measures ANOVA showed participants achieved large reductions in regurgitations across treatment [F(1,7) = 17.7, p = .007, η p2  = .69]. Although participants reduced regurgitations with diaphragmatic breathing during Phase 1, addition of other CBT strategies in Phase 2 produced further large reductions [F(1,7) = 6.3, p = .04, η p2  = .47]. Of eight treatment completers, treatment gains were maintained at 3-month follow-up for n = 6. CONCLUSIONS: Findings provide evidence of feasibility, acceptability, and proof-of-concept for a comprehensive CBT for RS that includes interventions in addition to diaphragmatic breathing to target secondary maintenance mechanisms. Randomized controlled trials are needed.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Cognitive Behavioral Therapy",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Rumination Syndrome",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "33076360",
+      "title": "Effects of Diaphragmatic Breathing on Health: A Narrative Review.",
+      "authors": [
+        "Hidetaka Hamasaki"
+      ],
+      "journal": "Medicines (Basel, Switzerland)",
+      "publication_date": "2020-Oct-15",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Background: Breathing is an essential part of life. Diaphragmatic breathing (DB) is slow and deep breathing that affects the brain and the cardiovascular, respiratory, and gastrointestinal systems through the modulation of autonomic nervous functions. However, the effects of DB on human health need to be further investigated. Methods: The author conducted a PubMed search regarding the current evidence of the effect of DB on health. Results: This review consists of a total of 10 systematic reviews and 15 randomized controlled trials (RCTs). DB appears to be effective for improving the exercise capacity and respiratory function in patients with chronic obstructive pulmonary disease (COPD). Although the effect of DB on the quality of life (QoL) of patients with asthma needs to be investigated, it may also help in reducing stress; treating eating disorders, chronic functional constipation, hypertension, migraine, and anxiety; and improving the QoL of patients with cancer and gastroesophageal reflux disease (GERD) and the cardiorespiratory fitness of patients with heart failure. Conclusions: Based on this narrative review, the exact usefulness of DB in clinical practice is unclear due to the poor quality of studies. However, it may be a feasible and practical treatment method for various disorders."
+    },
+    {
+      "pmid": "33009052",
+      "title": "Effects of Diaphragmatic Breathing on the Pathophysiology and Treatment of Upright Gastroesophageal Reflux: A Randomized Controlled Trial.",
+      "authors": [
+        "Magnus Halland",
+        "Adil E Bharucha",
+        "Michael D Crowell",
+        "Karthik Ravi",
+        "David A Katzka"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "publication_date": "2021-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Uncontrolled results suggest that diaphragmatic breathing (DB) is effective in gastroesophageal reflux disease (GERD) but the mechanism of action and rigor of proof is lacking. This study aimed to determine the effects of DB on reflux, lower esophageal sphincter (LES), and gastric pressures in patients with upright GERD and controls. METHODS: Adult patients with pH proven upright GERD were studied. During a high-resolution impedance manometry, study patients received a standardized pH neutral refluxogenic meal followed by LES challenge maneuvers (Valsalva and abdominal hollowing) while randomized to DB or sham. After that, patients underwent 48 hours of pH-impedance monitoring, with 50% randomization to postprandial DB during the second day. RESULTS: On examining 23 patients and 10 controls, postprandial gastric pressure was found to be significantly higher in patients compared with that in controls (12 vs 7 mm Hg, P = 0.018). Valsalva maneuver produced reflux in 65.2% of patients compared with 44.4% of controls (P = 0.035). LES increased during the inspiratory portion of DB (42.2 vs 23.1 mm Hg, P < 0.001) in patients and healthy persons. Postprandial DB reduced the number of postprandial reflux events in patients (0.36 vs 2.60, P < 0.001) and healthy subjects (0.00 vs 1.75, P < 0.001) compared with observation. During 48-hour ambulatory study, DB reduced the reflux episodes on day 2 compared with observation on day 1 in both the patient and control groups (P = 0.049). In patients, comparing DB with sham, total acid exposure on day 2 was not different (10.2 ± 7.9 vs 9.4 ± 6.2, P = 0.804). In patients randomized to DB, esophageal acid exposure in a 2-hour window after the standardized meal on day 1 vs day 2 reduced from 11.8% ±6.4 to 5.2% ± 5.1, P = 0.015. DISCUSSION: In patients with upright GERD, DB reduces the number of postprandial reflux events pressure by increasing the difference between LES and gastric pressure. These data further encourage studying DB as therapy for GERD.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Breathing Exercises",
+        "Case-Control Studies",
+        "Esophageal Sphincter, Lower",
+        "Esophageal pH Monitoring",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Male",
+        "Manometry",
+        "Middle Aged",
+        "Postprandial Period",
+        "Pressure",
+        "Sitting Position",
+        "Stomach",
+        "Supine Position",
+        "Valsalva Maneuver"
+      ]
+    },
+    {
+      "pmid": "32827410",
+      "title": "Nonpharmacological Management of Gestational Diabetes Mellitus: Diaphragmatic Breathing Exercise.",
+      "authors": [
+        "Gamze Fiskin",
+        "Nevin Sahin"
+      ],
+      "journal": "Alternative therapies in health and medicine",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "CONTEXT: Gestational diabetes mellitus (GDM) is one of the most common complications during pregnancy. It can lead to physiological reactions that can increase the incidence of preeclampsia and infections, the risk of postpartum bleeding in the short term, and the possibility of conversion Type II diabetes in the long term. OBJECTIVES: The present study intended to determine the effects of diaphragmatic breathing exercises (DBE) on physiological parameters in pregnant women with GDM. DESIGN: The research team designed a single-blinded, randomized, controlled clinical trial. SETTING: The study was performed at a university hospital in Istanbul, Turkey. PARTICIPANTS: Participants were 60 pregnant women who suffered from GDM and who attended the antenatal polyclinic at the hospital between June 2015 and June 2016. INTERVENTION: Participants were divided randomly into 2 groups with 30 participants each, the intervention and control groups. The intervention group practiced DBE for 5 minutes every day; the control group did not. Diet therapy has been recommended to both groups by their obstetrician. OUTCOME MEASURES: The outcome measures were the levels of fasting blood glucose (FBG), and vital measurements were taken from both groups for 30 days. Data analysis was done using SPSS statistical software. Results • The experimental group showed significant decreases in respiratory rate and levels of FBG when compared with the control group. The intervention group's results for pulse rate and systolic and diastolic blood pressure were within normal limits, and no measurable differences existed between the two groups for those measures. CONCLUSION: Practicing DBE provided positive effects for pregnant women with gestational diabetes mellitus on the observed physiological parameters.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "Breathing Exercises",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes, Gestational",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Turkey"
+      ]
+    },
+    {
+      "pmid": "32808571",
+      "title": "The effects of pursed lip breathing combined with diaphragmatic breathing on pulmonary function and exercise capacity in patients with COPD: a systematic review and meta-analysis.",
+      "authors": [
+        "Ying Yang",
+        "Liuyi Wei",
+        "Shizhen Wang",
+        "Li Ke",
+        "Huimin Zhao",
+        "Jing Mao",
+        "Jie Li",
+        "Zongfu Mao"
+      ],
+      "journal": "Physiotherapy theory and practice",
+      "publication_date": "2022-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Pursed lip breathing (PLB) and diaphragmatic breathing (DB) are physical therapy interventions frequently adopted by patients with chronic obstructive pulmonary disease (COPD). This systematic review aimed to investigate the effects of PLB combined with DB on pulmonary function and exercise capacity in patients with COPD. METHODS: Six databases were searched to collect relevant studies published before August 30, 2019 in English and Chinese. Randomized controlled trials (RCTs) with PLB combined with DB training as the exclusive intervention for COPD were identified. Mean difference (MD) or standardized mean difference (SMD) with 95% confidence interval (CI) was calculated. Heterogeneity was assessed by Cochran's Q test and I2 statistics. RESULTS: A total of 15 RCTs were included, involving 1098 patients with COPD (570 in treatment groups and 528 in control groups). Significant improvements were found in forced expiratory volume in 1 s (FEV1) (SMD = 0.47, 95% CI = 0.27-0.67, P < .001), forced vital capacity (FVC) (SMD = 0.87, 95% CI = 0.59-1.15, P < .001), FEV1 as a proportion of FVC (FEV1/FVC) (MD = 8.30, 95% CI = 1.17-15.43, P = .02), and 6-min walk test (6MWT) distance (MD = 29.09, 95% CI = 19.35-38.83, P < .001). CONCLUSIONS: The intervention of PLB combined with DB effectively promotes pulmonary function and exercise capacity in patients with COPD. The combined application of PLB and DB is an easy and low-cost physical therapy intervention, which should be promoted as a daily essential practice of COPD.",
+      "mesh_terms": [
+        "Dyspnea",
+        "Exercise Tolerance",
+        "Forced Expiratory Volume",
+        "Humans",
+        "Lip",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "34556964",
+      "title": "Comparison of Diaphragmatic Breathing Exercises, Volume, and Flow-Oriented Incentive Spirometry on Respiratory Function in Stroke Subjects: A Non-randomized Study.",
+      "authors": [
+        "Natasha Shetty",
+        "Stephen Rajan Samuel",
+        "Gopala Krishna Alaparthi",
+        "Sampath Kumar Amaravadi",
+        "Abraham M Joshua",
+        "Shivanand Pai"
+      ],
+      "journal": "Annals of neurosciences",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "UNLABELLED: Abstract. BACKGROUND: Reduced respiratory muscle strength leads to reduced pulmonary function, chest wall movements in the affected side, and increased chest infections, which thereby reduces oxygenation and ventilation. Respiratory muscle training can be used in acute stroke subjects to increase their pulmonary function. PURPOSE: To compare the short-term effects of diaphragmatic breathing exercise, flow, and volume-oriented incentive spirometry on respiratory function following stroke. METHODS: A non-randomized hospital-based study was conducted at Kasturba Medical College Hospitals, Mangalore, India. Forty-two sub-acute subjects of either gender, with the first episode of stroke within six months, were assigned to three groups by the consultant, i.e., diaphragmatic breathing group (DBE), Flow oriented-incentive spirometry group (FIS), and volume oriented-incentive spirometry group (VIS; N = 14) each. All subjects received intervention thrice daily, along with conventional stroke rehabilitation protocols throughout the study period. Pre- and post-intervention values were taken on alternate days until day 5 for all the three groups. RESULTS: The pulmonary function and maximal respiratory pressures were found to be significantly increased by the end of intervention in all three groups, but FIS and DBE groups had better results than VIS (FVC = FIS group, 13.71%; VIS group, 14.89%; DBE group, 21.27%, FEV1 = FIS group, 25.97%; VIS group, 22.52%; DBE group, 19.38%, PEFR = FIS group, 38.76%; VIS group,9.75%; DBE group, 33.16%, MIP = FIS group, 28.23%; VIS group, 19.36%; DBE group, 52.14%, MEP = FIS group, 43.00%; VIS group, 22.80%; DBE group, 28.68%). CONCLUSION: Even though all interventions had positive outcomes in all variables, flow incentive spirometry had better results across all outcomes (pulmonary function and maximal respiratory pressures) when compared to the other two interventions making it a valuable tool for stroke rehabilitation."
+    },
+    {
+      "pmid": "32383546",
+      "title": "Rumination syndrome: Assessment of vagal tone during and after meals and during diaphragmatic breathing.",
+      "authors": [
+        "Yoshimasa Hoshikawa",
+        "Heather Fitzke",
+        "Rami Sweis",
+        "Asma Fikree",
+        "Seth Saverymuttu",
+        "Sritharan Kadirkamanathan",
+        "Katsuhiko Iwakiri",
+        "Etsuro Yazaki",
+        "Qasim Aziz",
+        "Daniel Sifrim"
+      ],
+      "journal": "Neurogastroenterology and motility",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Pathophysiology of rumination syndrome (RS) is not well understood. Treatment with diaphragmatic breathing improves rumination syndrome. The aim of the study was to characterize vagal tone in patients with rumination syndrome during and after meals and during diaphragmatic breathing. METHODS: We prospectively recruited 10 healthy volunteers (HV) and 10 patients with RS. Subjects underwent measurement of vagal tone using heart rate variability. Vagal tone was measured during baseline, test meal and intervention (diaphragmatic (DiaB), slow deep (SlowDB), and normal breathing). Vagal tone was assessed using mean values of root mean square of successive differences (RMSSD), and area under curves (AUC) were calculated for each period. We compared baseline RMSSD, the AUC and meal-induced discomfort scores between HV and RS. Furthermore, we assessed the effect of respiratory exercises on symptom scores, and number of rumination episodes. KEY RESULTS: There was no significant difference in baseline vagal tone between HV and RS. During the postprandial period, there was a trend to higher vagal tone in RS, but not significantly (P > .2 for all). RS had the higher total symptom scores than HV (P < .011). In RS, only DiaB decreased the number of rumination episodes during the intervention period (P = .028), while both DiaB and SlowDB increased vagal tone (P < .05 for both). The symptom scores with the 3 breathing exercises showed very similar trends. CONCLUSIONS AND INFERENCES: Patients with RS do not have decreased vagal tone related to meals. DiaB reduced number of rumination events by a mechanism not related to changes in vagal tone.",
+      "mesh_terms": [
+        "Adult",
+        "Breathing Exercises",
+        "Case-Control Studies",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Rumination Syndrome",
+        "Vagus Nerve",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32381269",
+      "title": "Outcomes of Treating Rumination Syndrome with a Tricyclic Antidepressant and Diaphragmatic Breathing.",
+      "authors": [
+        "Alejandro Robles",
+        "Yehudi A Romero",
+        "Eric Tatro",
+        "Hugo Quezada",
+        "Richard W McCallum"
+      ],
+      "journal": "The American journal of the medical sciences",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Rumination syndrome is a functional gastrointestinal disorder characterized by effortless postprandial regurgitation and accompanied by gastric visceral hypersensitivity. Almost invariably, the onset of symptoms is preceded by a psychologically stressful situation, and anxiety is often an accompanying complaint. In this background of gastric visceral hypersensitivity, anxiety and psychological stress, we investigated the effectiveness of combining a tricyclic antidepressant (TCA) with diaphragmatic breathing/relaxation techniques for the treatment of rumination syndrome. MATERIALS AND METHODS: Patients who fulfilled the Rome IV criteria for rumination syndrome received hands-on instructions and/or coaching on diaphragmatic breathing techniques, were given relaxing auditory media, started on a TCA, and completed a follow-up symptoms questionnaire after undergoing a minimum of 3 months of this therapy. RESULTS: A total of 44 patients, 35 women; mean age 40.4 (range 20-71) were identified. Mean time from onset of symptoms to diagnosis was 36.0 months (range 6-180). Weight loss ranged from 1.4 to 39.5 kg. Approximately 65.9% had a history of anxiety and/or depression, and a separate 65.9% reported the onset of symptoms were chronologically related to an inciting event and/or psychological stressor. After a mean follow-up period of 8.8 months, 90.9% of patients reported improvement in their symptoms, with a mean subjective improvement from baseline of 68.9%, and specifically, 45.5% of patients reported ≥80% improvement. Weight increased or stabilized in 80.6% of those initially reporting weight loss. CONCLUSIONS: The combination of a TCA with diaphragmatic breathing/relaxation techniques is an effective treatment modality for the management of rumination syndrome as it addresses the underlying factors identified in this entity.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antidepressive Agents, Tricyclic",
+        "Breathing Exercises",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Relaxation Therapy",
+        "Rumination Syndrome",
+        "Stress, Psychological",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31893532",
+      "title": "Effect of Diaphragmatic Breathing on Procedural Anxiety During Transrectal Prostate Biopsy.",
+      "authors": [
+        "Amy S Grinberg",
+        "John J Sellinger",
+        "Preston C Sprenkle",
+        "Alexander J Bandin",
+        "Cayce B Nawaf",
+        "Jamil S Syed",
+        "Michael S Leapman"
+      ],
+      "journal": "Urology",
+      "publication_date": "2020-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To improve the tolerability of transrectal ultrasound guided prostate biopsy through use of diaphragmatic breathing. METHODS: Forty-seven patients, aged 52-79 years, who were scheduled for a transrectal ultrasound guided prostate biopsy with or without MRI guidance, were recruited at a single Veterans Affairs medical center for the diagnosis or evaluation of prostate cancer. Patients either met with a health psychologist for a 1-time, diaphragmatic breathing intervention immediately prior to their biopsy, or received usual care. All biopsies were performed using local anesthetic without sedation or anxiolytic therapy. The primary outcome was the difference in self-reported procedural situational anxiety as measured with the State Trait Anxiety Inventory, assessed both pre- and post-transrectal ultrasound guided prostate biopsy. We also examined secondary outcomes including physiological parameters (heart rate and blood pressure). RESULTS: There were no significant differences in preprocedural anxiety or physiological parameters between patients who received the intervention and those who received usual care. Patients who received the intervention had a significantly larger decrease in situational anxiety from pre- to postprocedure (M = 14.15, SD = 6.64) compared with those who received usual care (M = 3.45, SD = 9.97); t (38) = -4.0, P <.000; d = 1.26. Patients who received the intervention had a significantly larger decrease in heart rate (bpm) from pre- to postprocedure (M = 10.63, SD = 12.21) compared with those who received usual care (M = 0.07, SD = 9.25); t (31) = 2.75 P = 0.010; d = 0.97. CONCLUSION: A guided diaphragmatic breathing intervention reduced procedural anxiety during prostate biopsy and improved patient experience.",
+      "mesh_terms": [
+        "Aged",
+        "Anxiety",
+        "Diaphragm",
+        "Humans",
+        "Image-Guided Biopsy",
+        "Male",
+        "Middle Aged",
+        "Preoperative Care",
+        "Prostate",
+        "Prostatic Neoplasms",
+        "Rectum",
+        "Respiration",
+        "Ultrasonography, Interventional"
+      ]
+    },
+    {
+      "pmid": "31436595",
+      "title": "Effectiveness of diaphragmatic breathing for reducing physiological and psychological stress in adults: a quantitative systematic review.",
+      "authors": [
+        "Susan I Hopper",
+        "Sherrie L Murray",
+        "Lucille R Ferrara",
+        "Joanne K Singleton"
+      ],
+      "journal": "JBI database of systematic reviews and implementation reports",
+      "publication_date": "2019-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "OBJECTIVE: The objective of this review was to evaluate the effectiveness of diaphragmatic breathing for reducing physiological and psychological stress in adults 18 years and over. INTRODUCTION: Stress has reached epidemic proportions globally. Unidentified sequela of physiological and psychological stress can result in anxiety, depression, heart disease, cancer, immunologic conditions and death. There is a high cost associated with the treatment of stress related health conditions in the United States and worldwide. Many treatments are pharmacologic and cannot be self-initiated. Therefore, it is critical to identify evidence-based, low-cost, non-pharmacologic, self-administered interventions that can mitigate physiological and psychological stress. INCLUSION CRITERIA: This review considered adults 18 years and over engaged in diaphragmatic breathing as an isolated intervention to reduce physiological and psychological stress. There were no exclusions based on physical or psychological conditions. The comparator was no treatment or usual treatment, which may constitute ordinary breathing. METHODS: The comprehensive literature search included published and unpublished studies in English from the beginning of the databases through January 2018. The databases searched included: PubMed, CINAHL, Cochrane Central Register of Controlled Trials (CENTRAL), Embase, PsycINFO, ProQuest Nursing and Allied Health and Health Source: Nursing/Academic Edition. The recommended JBI approach to critical appraisal, study selection, data extraction and data synthesis was used. RESULTS: Three studies met the criteria for review: one randomized controlled trial and two quasi-experimental studies. Statistical pooling was not possible due to clinical and methodological heterogeneity of interventions and outcome measures of the included studies. All three studies demonstrated the effectiveness of diaphragmatic breathing on reducing stress. One study showed improvement in the biomarkers of respiratory rate and salivary cortisol levels, one showed improvement in systolic and diastolic blood pressure, and one study showed an improvement in the stress subscale of the Depression Anxiety Stress Scales-21 (DASS-21) after implementation of a diaphragmatic breathing intervention. Although there were limitations across the studies, such as sample size, and length and duration of the intervention over time, ranging from one 20-minute intervention to nine months, the studies demonstrated that diaphragmatic breathing had a positive effect on lowering physiological and psychological stress. CONCLUSIONS: The evidence suggests that diaphragmatic breathing may decrease stress as measured by physiologic biomarkers, as well psychological self-report tools. Given the benefits of diaphragmatic breathing on stress reduction, ongoing research is needed to continue to establish the evidence-base for this self-administered, low-cost, non-pharmacologic intervention.",
+      "mesh_terms": [
+        "Adult",
+        "Breathing Exercises",
+        "Clinical Trials as Topic",
+        "Diaphragm",
+        "Female",
+        "Humans",
+        "Male",
+        "Stress, Physiological",
+        "Stress, Psychological",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "30186206",
+      "title": "Large-Group One-Session Treatment: A Feasibility Study of Exposure Combined With Applied Tension or Diaphragmatic Breathing in Highly Blood-Injury-Injection Fearful Individuals.",
+      "authors": [
+        "André Wannemueller",
+        "Alessa Fasbender",
+        "Zarah Kampmann",
+        "Kristin Weiser",
+        "Svenja Schaumburg",
+        "Julia Velten",
+        "Jürgen Margraf"
+      ],
+      "journal": "Frontiers in psychology",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective: Large-group one-session treatments (LG-OSTs) might represent a promising treatment tool as increasing evidence suggests their effectiveness in individuals with different situational fears. In the present study, we explored feasibility and effectiveness of an exposure-based LG-OST protocol applying applied tension and diaphragmatic breathing as coping strategies in a sample of 40 individuals, highly fearful of blood-injury-injection (BII). Method: We assessed participants' BII-fear using questionnaires and a behavioral approach test (BAT) before and after treatment, consisting of a blood-drawing procedure. Stability of treatment effects was assessed via online-survey at 7-month follow-up. Results: The LG-OST procedure evidenced feasible and effective. Pre-post treatment comparisons showed medium to large treatment effects (d = 0.40-0.93) regarding the questionnaire measures. After being treated, 70% of the individuals successfully underwent a blood drawing. Moreover, participants continued to improve in the post follow-up interval leading to large treatment effects (d = 1.19-1.62). Conclusion: In treating BII-fear, LG-OSTs might not only serve within a framework of a stepped care approach but also could represent a useful single-treatment option. Additionally, due to their high efficiency and standardization of treatment delivery, LG-OST protocols might foster research at the interface of basic and clinical research."
+    },
+    {
+      "pmid": "29104130",
+      "title": "Diaphragmatic Breathing Reduces Belching and Proton Pump Inhibitor Refractory Gastroesophageal Reflux Symptoms.",
+      "authors": [
+        "Andrew Ming-Liang Ong",
+        "Laura Teng-Teng Chua",
+        "Christopher Jen-Lock Khor",
+        "Ravishankar Asokkumar",
+        "Vikneswaran S/O Namasivayam",
+        "Yu-Tien Wang"
+      ],
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: In patients with gastroesophageal reflux disease (GERD) and excessive belching, most belches are supragastric, and can induce reflux episodes and worsen GERD. Supragastric belching (SGB) might be reduced with diaphragmatic breathing exercises. We investigated whether diaphragmatic breathing therapy is effective in reducing belching and proton pump inhibitor (PPI)-refractory gastroesophageal reflux symptoms. METHODS: We performed a prospective study of 36 consecutive patients with GERD refractory to PPI therapy and a belching visual analogue scale (VAS) score of 6 or more, seen at a gastroenterology clinic at a tertiary hospital in Singapore from April 2015 through October 2016. Patients underwent high-resolution manometry and 24-hour pH-impedance studies while they were off PPIs. Fifteen patients were placed on a standardized diaphragmatic breathing exercise protocol (treatment group) and completed questionnaires at baseline, after diaphragmatic breathing therapy, and 4 months after the therapy ended. Twenty-one patients were placed on a waitlist (control subjects), completed the same questionnaires with an additional questionnaire after their waitlist period, and eventually received diaphragmatic breathing therapy. The primary outcome was reduction in belching VAS by 50% or more after treatment. Secondary outcomes included GERD symptoms (evaluated using the reflux disease questionnaire) and quality of life (QoL) scores, determined from the Reflux-Qual Short Form and EuroQoL-VAS. RESULTS: Nine of the 15 patients in the treatment group (60%) and none of the 21 control subjects achieved the primary outcome (P < .001). In the treatment group, the mean belching VAS score decreased from 7.1 ± 1.5 at baseline to 3.5 ± 2.0 after diaphragmatic breathing therapy; in the control group, the mean VAS score was 7.6 ± 1.1 at baseline and 7.4 ± 1.3 after the waitlist period. Eighty percent of patients in the treatment group significantly reduced belching frequency compared with 19% in control subjects (P = .001). Treatment significantly reduced symptoms of GERD (the mean reflux disease questionnaire score decreased by 12.2 in the treatment group and 3.1 in the control group; P = .01). The treatment significantly increased QoL scores (the mean Reflux-Qual Short Form score increased by 15.4 in the treatment group and 5.2 in the control group; P = .04) and mean EuroQoL-VAS scores (15.7 increase in treatment group and 2.4 decrease in the control group). These changes were sustained at 4 months after treatment. In the end, 20 of the 36 patients who received diaphragmatic breathing therapy (55.6%), all with excessive SGB, achieved the primary outcome. CONCLUSIONS: In a prospective study, we found a standardized protocol for diaphragmatic breathing to reduce belching and PPI-refractory gastroesophageal reflux symptoms, and increase QoL in patients with PPI-refractory GERD with belching-especially those with excessive SGB.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Breathing Exercises",
+        "Eructation",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "Singapore",
+        "Tertiary Care Centers",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28670907",
+      "title": "Recovery of Percent Vital Capacity by Breathing Training in Patients With Panic Disorder and Impaired Diaphragmatic Breathing.",
+      "authors": [
+        "Tatsuji Yamada",
+        "Akiomi Inoue",
+        "Kosuke Mafune",
+        "Hisanori Hiro",
+        "Shoji Nagata"
+      ],
+      "journal": "Behavior modification",
+      "publication_date": "2017-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Slow diaphragmatic breathing is one of the therapeutic methods used in behavioral therapy for panic disorder. In practice, we have noticed that some of these patients could not perform diaphragmatic breathing and their percent vital capacity was initially reduced but could be recovered through breathing training. We conducted a comparative study with healthy controls to investigate the relationship between diaphragmatic breathing ability and percent vital capacity in patients with panic disorder. Our findings suggest that percent vital capacity in patients with impaired diaphragmatic breathing was significantly reduced compared with those with normal diaphragmatic breathing and that diaphragmatic breathing could be restored by breathing training. Percent vital capacity of the healthy controls was equivalent to that of the patients who had completed breathing training. This article provides preliminary findings regarding reduced vital capacity in relation to abnormal respiratory movements found in patients with panic disorder, potentially offering alternative perspectives for verifying the significance of breathing training for panic disorder.",
+      "mesh_terms": [
+        "Adult",
+        "Breathing Exercises",
+        "Case-Control Studies",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Panic Disorder",
+        "Vital Capacity",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28626434",
+      "title": "The Effect of Diaphragmatic Breathing on Attention, Negative Affect and Stress in Healthy Adults.",
+      "authors": [
+        "Xiao Ma",
+        "Zi-Qi Yue",
+        "Zhu-Qing Gong",
+        "Hong Zhang",
+        "Nai-Yue Duan",
+        "Yu-Tong Shi",
+        "Gao-Xia Wei",
+        "You-Fa Li"
+      ],
+      "journal": "Frontiers in psychology",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A growing number of empirical studies have revealed that diaphragmatic breathing may trigger body relaxation responses and benefit both physical and mental health. However, the specific benefits of diaphragmatic breathing on mental health remain largely unknown. The present study aimed to investigate the effect of diaphragmatic breathing on cognition, affect, and cortisol responses to stress. Forty participants were randomly assigned to either a breathing intervention group (BIG) or a control group (CG). The BIG received intensive training for 20 sessions, implemented over 8 weeks, employing a real-time feedback device, and an average respiratory rate of 4 breaths/min, while the CG did not receive this treatment. All participants completed pre- and post-tests of sustained attention and affect. Additionally, pre-test and post-test salivary cortisol concentrations were determined in both groups. The findings suggested that the BIG showed a significant decrease in negative affect after intervention, compared to baseline. In the diaphragmatic breathing condition, there was a significant interaction effect of group by time on sustained attention, whereby the BIG showed significantly increased sustained attention after training, compared to baseline. There was a significant interaction effect of group and time in the diaphragmatic breathing condition on cortisol levels, whereby the BIG had a significantly lower cortisol level after training, while the CG showed no significant change in cortisol levels. In conclusion, diaphragmatic breathing could improve sustained attention, affect, and cortisol levels. This study provided evidence demonstrating the effect of diaphragmatic breathing, a mind-body practice, on mental function, from a health psychology approach, which has important implications for health promotion in healthy individuals."
+    },
+    {
+      "pmid": "28546966",
+      "title": "Effects of progressive muscle relaxation, guided imagery and deep diaphragmatic breathing on quality of life in elderly with breast or prostate cancer.",
+      "authors": [
+        "Mohsen Shahriari",
+        "Mojtaba Dehghan",
+        "Saeid Pahlavanzadeh",
+        "Abdolrahim Hazini"
+      ],
+      "journal": "Journal of education and health promotion",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVES: Due to the increasing number of elderly and an increase in the number of cases of cancer by age, cancer is a common problem in the elderly. For elderly patients with cancer, the disease and its treatment can have long-term negative effects on their quality of life (QoL). The purpose of this study was to evaluate the effect of progressive muscle relaxation, body image and deep diaphragmatic breathing on the QoL in the elderly with cancer. MATERIALS AND METHODS: This study was a randomized controlled trial in which 50 elderly patients with breast or prostate cancer were randomized into study and control groups. Progressive muscle relaxation, guided imagery, and deep diaphragmatic breathing were given to the study group, but not to the control group. The effect of the progressive muscle relaxation, guided imagery and deep diaphragmatic breathing was measured at three different time points. European Organization for Research and Treatment of Cancer and QoL Questionnaire-Core questionnaires was completed before, after and 6 weeks after the intervention for the patients in both groups simultaneously. The data were analyzed by SPSS. RESULTS: There was statistically significant improvement in QoL (P < 0.001) and physical functioning (P < 0.001) after progressive muscle relaxation, guided imagery and deep diaphragmatic breathing intervention. CONCLUSIONS: The findings indicated that concurrent application of progressive muscle relaxation, guided imagery, and deep diaphragmatic breathing would improve QoL in the elderly with breast or prostate cancer."
+    },
+    {
+      "pmid": "28111556",
+      "title": "Large Group Exposure Treatment: A Feasibility Study of Exposure Combined with Diaphragmatic Breathing in Highly Dental Fearful Individuals.",
+      "authors": [
+        "André Wannemueller",
+        "Hans-Peter Jöhren",
+        "Alina Borgstädt",
+        "Jessica Bosch",
+        "Milena Meyers",
+        "Miriam Völse",
+        "Saskia Scholten",
+        "Jürgen Margraf"
+      ],
+      "journal": "Frontiers in psychology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A large-group one session treatment (LG-OST) combining exposure and diaphragmatic breathing as a bodily coping element was carried out to investigate its feasibility and effectiveness in a sample of 43 highly dental fearful individuals treated simultaneously. We assessed subjective dental fear, dysfunctional dental-related beliefs, and perceived control pre- and post-intervention and at four-month follow-up. Participants additionally performed a behavioural approach test (BAT) pre- and post-intervention. During the applied exposure exercises, four participants (9.3%) discontinued the program all reporting too high levels of distress. Regarding subjective dental fear and dysfunctional dental related beliefs post treatment effects, LG-OST showed medium to large effect sizes, ranging from Cohen's d = 0.51 to d = 0.84 in the Intention-to-Treat analysis. Subjective dental fear improved clinically significantly in about one fourth (25.6%) of therapy completers. All post-treatment effects remained stable over time. Concerning the behavioral fear dimension, we observed a strong ceiling effect. Already at pre-assessment, participants accomplished more than six out of seven BAT-steps. Thus, behavioral approach did not increase significantly following treatment. Overall, the LG-OST protocol proved feasible and efficient. Compared to other one-session individual and multi-session group treatments the observed LG-OST effects were smaller. However, if LG-OST could match the efficacy of highly intensive short treatments delivered in an individual setting in the future, for example, by applying a wider array of exposure exercises, it could be a very useful treatment option as an intermediate step within a stepped care approach."
+    },
+    {
+      "pmid": "28100203",
+      "title": "Diaphragmatic breathing during virtual reality exposure therapy for aviophobia: functional coping strategy or avoidance behavior? a pilot study.",
+      "authors": [
+        "Youssef Shiban",
+        "Julia Diemer",
+        "Jana Müller",
+        "Johanna Brütting-Schick",
+        "Paul Pauli",
+        "Andreas Mühlberger"
+      ],
+      "journal": "BMC psychiatry",
+      "publication_date": "2017-Jan-18",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Although there is solid evidence for the efficacy of in vivo and virtual reality (VR) exposure therapy for a specific phobia, there is a significant debate over whether techniques promoting distraction or relaxation have impairing or enhancing effects on treatment outcome. In the present pilot study, we investigated the effect of diaphragmatic breathing (DB) as a relaxation technique during VR exposure treatment. METHOD: Twenty-nine patients with aviophobia were randomly assigned to VR exposure treatment either with or without diaphragmatic breathing (six cycles per minute). Subjective fear ratings, heart rate and skin conductance were assessed as indicators of fear during both the exposure and the test session one week later. RESULTS: The group that experienced VR exposure combined with diaphragmatic breathing showed a higher tendency to effectively overcome the fear of flying. Psychophysiological measures of fear decreased and self-efficacy increased in both groups with no significant difference between the groups. CONCLUSIONS: Our findings indicate that diaphragmatic breathing during VR exposure does not interfere with the treatment outcome and may even enhance treatment effects of VR exposure therapy for aviophobic patients. TRIAL REGISTRATION: Retrospectively registered. ClinicalTrials.gov NCT02990208 . Registered 07 December 2016.",
+      "mesh_terms": [
+        "Adaptation, Psychological",
+        "Adult",
+        "Aged",
+        "Aviation",
+        "Avoidance Learning",
+        "Breathing Exercises",
+        "Combined Modality Therapy",
+        "Diaphragm",
+        "Fear",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phobic Disorders",
+        "Pilot Projects",
+        "Treatment Outcome",
+        "Virtual Reality Exposure Therapy",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28040503",
+      "title": "Are Interferential Electrical Stimulation and Diaphragmatic Breathing Exercises Beneficial in Children With Bladder and Bowel Dysfunction?",
+      "authors": [
+        "Vesna D Zivkovic",
+        "Ivona Stankovic",
+        "Lidija Dimitrijevic",
+        "Mirjana Kocic",
+        "Hristina Colovic",
+        "Marina Vlajkovic",
+        "Andjelka Slavkovic",
+        "Milica Lazovic"
+      ],
+      "journal": "Urology",
+      "publication_date": "2017-Apr",
+      "publication_types": [
+        "Clinical Study",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the effects of interferential current (IC) stimulation and diaphragmatic breathing exercises (DBEs) in children with bladder and bowel dysfunction. PATIENTS AND METHODS: Seventy-nine children with dysfunctional voiding and chronic constipation who were failures of primary care interventions were included in the prospective clinical study. All the children were checked for their medical history regarding lower urinary tract symptoms and bowel habits. Physical examination, including abdominal and anorectal digital examination, was performed. Children kept a bladder and bowel diary, and underwent urinalyses and urine culture, ultrasound examination of bladder and kidneys, and uroflowmetry with pelvic floor electromyography. Eligible children were divided into 3 groups (A, B, and C). All groups were assigned education and behavioral modifications. Additionally, group A underwent DBEs and IC stimulation, whereas group B received only DBEs. The treatment was conducted for 2 weeks in the clinic in all 3 groups,. The behavioral modifications and DBEs were continued at home for 1 month. Clinical manifestations, uroflowmetry parameters, and postvoided residual urine were analyzed before and after 6 weeks of therapy. RESULTS: After the treatment, significant improvement in defecation frequency and fecal incontinence was noticed only in group A (P < .001 and P < .05, respectively). These children demonstrated significant improvement in lower urinary tract symptoms and postvoided residual urine (P < .001 and P < .05, respectively). Bell-shaped uroflowmetry curve was observed in 73.3% of group A patients (P < .001). CONCLUSION: IC stimulation and DBEs are beneficial in chronically constipated dysfunctional voiders. Further trials are needed to define the long-term effects of this program.",
+      "mesh_terms": [
+        "Breathing Exercises",
+        "Child",
+        "Child, Preschool",
+        "Constipation",
+        "Defecation",
+        "Diaphragm",
+        "Electric Stimulation Therapy",
+        "Electromyography",
+        "Female",
+        "Humans",
+        "Kidney",
+        "Male",
+        "Pelvic Floor",
+        "Symptom Assessment",
+        "Treatment Outcome",
+        "Ultrasonography",
+        "Urinary Bladder",
+        "Urination Disorders"
+      ]
+    },
+    {
+      "pmid": "27925652",
+      "title": "Inclusion of a rest period in diaphragmatic breathing increases high frequency heart rate variability: Implications for behavioral therapy.",
+      "authors": [
+        "Matthew E B Russell",
+        "April B Scott",
+        "Ian A Boggero",
+        "Charles R Carlson"
+      ],
+      "journal": "Psychophysiology",
+      "publication_date": "2017-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Heart rate variability (HRV) is associated with positive physiological and psychological effects. HRV is affected by breathing parameters, yet debate remains regarding the best breathing interventions for strengthening HRV. The objective of the current study was to test whether the inclusion of a postexhalation rest period was effective at increasing HRV, while controlling for breathing rate. A within-subject crossover design was used with 40 participants who were assigned randomly to a breathing pattern including a postexhalation rest period or a breathing pattern that omitted the postexhalation rest period. Participants completed training on each breathing pattern, practiced for 6 min, and sat quietly during a 5-min washout period between practices. Participants were given instructions for diaphragmatic breathing at a pace of six breaths/minute with or without a postexhalation rest period. Recordings of heart rate, breathing rate, HF-HRV, RMSSD, LF-HRV, and SDNN were collected before and during each of the breathing trials. HRV indices were derived from Lead 1 ECG recordings. Pairwise contrasts showed that inclusion of a postexhalation rest period significantly decreased heart rate (p < .001) and increased HF-HRV (p < .05). No differences were found for breathing rates (p > .05), RMSSD (p > .05), and SDNN (p > .05). Results indicated that omission of the postexhalation rest period resulted in higher LF-HRV (p < .05). A postexhalation rest period improves HF-HRV, commonly associated with self-regulatory control, yet the importance of a postexhalation rest period requires further exploration.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Behavior Therapy",
+        "Cross-Over Studies",
+        "Diaphragm",
+        "Exhalation",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Respiration",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "27525116",
+      "title": "Comparison of Diaphragmatic Breathing Exercise, Volume and Flow Incentive Spirometry, on Diaphragm Excursion and Pulmonary Function in Patients Undergoing Laparoscopic Surgery: A Randomized Controlled Trial.",
+      "authors": [
+        "Gopala Krishna Alaparthi",
+        "Alfred Joseph Augustine",
+        "R Anand",
+        "Ajith Mahale"
+      ],
+      "journal": "Minimally invasive surgery",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective. To evaluate the effects of diaphragmatic breathing exercises and flow and volume-oriented incentive spirometry on pulmonary function and diaphragm excursion in patients undergoing laparoscopic abdominal surgery. Methodology. We selected 260 patients posted for laparoscopic abdominal surgery and they were block randomization as follows: 65 patients performed diaphragmatic breathing exercises, 65 patients performed flow incentive spirometry, 65 patients performed volume incentive spirometry, and 65 patients participated as a control group. All of them underwent evaluation of pulmonary function with measurement of Forced Vital Capacity (FVC), Forced Expiratory Volume in the first second (FEV1), Peak Expiratory Flow Rate (PEFR), and diaphragm excursion measurement by ultrasonography before the operation and on the first and second postoperative days. With the level of significance set at p < 0.05. Results. Pulmonary function and diaphragm excursion showed a significant decrease on the first postoperative day in all four groups (p < 0.001) but was evident more in the control group than in the experimental groups. On the second postoperative day pulmonary function (Forced Vital Capacity) and diaphragm excursion were found to be better preserved in volume incentive spirometry and diaphragmatic breathing exercise group than in the flow incentive spirometry group and the control group. Pulmonary function (Forced Vital Capacity) and diaphragm excursion showed statistically significant differences between volume incentive spirometry and diaphragmatic breathing exercise group (p < 0.05) as compared to that flow incentive spirometry group and the control group. Conclusion. Volume incentive spirometry and diaphragmatic breathing exercise can be recommended as an intervention for all patients pre- and postoperatively, over flow-oriented incentive spirometry for the generation and sustenance of pulmonary function and diaphragm excursion in the management of laparoscopic abdominal surgery."
+    },
+    {
+      "pmid": "26661735",
+      "title": "Diaphragmatic breathing for rumination syndrome: efficacy and mechanisms of action.",
+      "authors": [
+        "M Halland",
+        "G Parthasarathy",
+        "A E Bharucha",
+        "D A Katzka"
+      ],
+      "journal": "Neurogastroenterology and motility",
+      "publication_date": "2016-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: While high resolution esophageal manometry combined with impedancometry has demonstrated that gastric pressurizations lead to rumination, the contribution of upper esophageal sphincter (UES) and esophagogastric junction (EGJ) function to rumination is unclear. Behavioral therapy with diaphragmatic breathing (DB) can reduce rumination. We aimed to evaluate the pressures in the stomach, EGJ and UES during rumination and the effects of DB augmented with biofeedback therapy. METHODS: Sixteen patients with rumination were studied with manometry and impedancometry before and after a meal. The postprandial assessment comprised three periods: before, during, and after DB augmented with biofeedback therapy. KEY RESULTS: All patients had postprandial rumination, which was associated (p < 0.001) with increased gastric pressure and reversal of the postprandial gastroesophageal pressure gradient from -4 (-43 to 18) before to 20 (7-79) mmHg during rumination. The EGJ pressure was lower (p < 0.001) during gastric pressurizations that were associated with rumination vs those that were not. The UES also relaxed, almost completely, during rumination. Patients had a median (range) of 5 (2-10) rumination episodes before, 1 (0-2) (p < 0.001) during, and 3 (1-5) after (p < 0.001 vs during) diaphragmatic breathing. During manometry and impedancometry, DB was well-tolerated and learned within 5 min. Diaphragmatic breathing increased EGJ pressure (p < 0.001) and restored a negative gastroesophageal pressure gradient (-20 mmHg [-80 to 7]). CONCLUSIONS & INFERENCES: Diaphragmatic breathing aided with high resolution esophageal manometry is well-tolerated, effective and averts the gastroesophageal pressure disturbance that leads to rumination.",
+      "mesh_terms": [
+        "Adult",
+        "Biofeedback, Psychology",
+        "Breathing Exercises",
+        "Diaphragm",
+        "Esophageal Sphincter, Lower",
+        "Esophageal Sphincter, Upper",
+        "Feeding and Eating Disorders",
+        "Female",
+        "Humans",
+        "Male",
+        "Manometry",
+        "Respiration",
+        "Retrospective Studies",
+        "Syndrome"
+      ]
+    },
+    {
+      "pmid": "25956151",
+      "title": "A Home-Based Diaphragmatic Breathing Retraining in Rural Patients With Heart Failure.",
+      "authors": [
+        "Yaewon Seo",
+        "Bernice Yates",
+        "Louise LaFramboise",
+        "Bunny Pozehl",
+        "Joseph F Norman",
+        "Melody Hertzog"
+      ],
+      "journal": "Western journal of nursing research",
+      "publication_date": "2016-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Dyspnea limits physical activity and functional status in heart failure patients. This feasibility study examined effects of a diaphragmatic breathing retraining (DBR) intervention delivered over 8 weeks with follow-up at 5 months. The intervention group (n = 18) was trained at baseline and received four telephone calls. An attention control group (n = 18) received four telephone calls with general health information. Results from linear mixed model analysis with effect sizes (η(2)) showed dyspnea improved in both groups, with little difference between groups. Compared with attention alone, the intervention increased physical activity (calories expended; η(2) = .015) and functional status (η(2) = .013) across the 5-month follow-up and increased activity counts at 8 weeks (η(2) = .070). This intervention was feasible and demonstrated promising effects on activity and function but not by reducing dyspnea. Patients may have increased physical activity because of instructions to use DBR during activities of daily living. Further exploration of the intervention's underlying physiological effect is needed.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Breathing Exercises",
+        "Dyspnea",
+        "Exercise",
+        "Female",
+        "Heart Failure",
+        "Home Care Services",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Outcome Assessment, Health Care",
+        "Quality of Life",
+        "Rural Population",
+        "Self Care",
+        "Severity of Illness Index",
+        "Surveys and Questionnaires",
+        "United States"
+      ]
+    },
+    {
+      "pmid": "25075999",
+      "title": "Respiratory pattern of diaphragmatic breathing and pilates breathing in COPD subjects.",
+      "authors": [
+        "Karina M Cancelliero-Gaiad",
+        "Daniela Ike",
+        "Camila B F Pantoni",
+        "Audrey Borghi-Silva",
+        "Dirceu Costa"
+      ],
+      "journal": "Brazilian journal of physical therapy",
+      "publication_date": "2014",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Diaphragmatic breathing (DB) is widely used in pulmonary rehabilitation (PR) of patients with chronic obstructive pulmonary disease (COPD), however it has been little studied in the scientific literature. The Pilates breathing (PB) method has also been used in the rehabilitation area and has been little studied in the scientific literature and in COPD. OBJECTIVES: To compare ventilatory parameters during DB and PB in COPD patients and healthy adults. METHOD: Fifteen COPD patients (COPD group) and fifteen healthy patients (healthy group) performed three types of respiration: natural breathing (NB), DB, and PB, with the respiratory pattern being analyzed by respiratory inductive plethysmography. The parameters of time, volume, and thoracoabdominal coordination were evaluated. After the Shapiro-Wilk normality test, ANOVA was applied followed by Tukey's test (intragroup analysis) and Student's t-test (intergroup analysis; p<0.05). RESULTS: DB promoted increase in respiratory volumes, times, and SpO2 as well as decrease in respiratory rate in both groups. PB increased respiratory volumes in healthy group, with no additional benefits of respiratory pattern in the COPD group. With respect to thoracoabdominal coordination, both groups presented higher asynchrony during DB, with a greater increase in the healthy group. CONCLUSIONS: DB showed positive effects such as increase in lung volumes, respiratory motion, and SpO2 and reduction in respiratory rate. Although there were no changes in volume and time measurements during PB in COPD, this breathing pattern increased volumes in the healthy subjects and increased oxygenation in both groups. In this context, the acute benefits of DB are emphasized as a supporting treatment in respiratory rehabilitation programs.",
+      "mesh_terms": [
+        "Aged",
+        "Cross-Over Studies",
+        "Diaphragm",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Plethysmography",
+        "Prospective Studies",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Respiration"
+      ]
+    },
+    {
+      "pmid": "22789789",
+      "title": "Diaphragmatic breathing exercise as a therapeutic intervention for control of oxidative stress in type 2 diabetes mellitus.",
+      "authors": [
+        "Shreelaxmi V Hegde",
+        "Prabha Adhikari",
+        "N K Subbalakshmi",
+        "M Nandini",
+        "Gayathri M Rao",
+        "Vivian D'Souza"
+      ],
+      "journal": "Complementary therapies in clinical practice",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Present study aims to evaluate the effect of diaphragmatic breathing on anthropometry, blood pressure, glycemic control and oxidative stress in patients with type 2 diabetes on standard care in comparison with standard care alone. Study involved 123 patients who were assigned to receive either standard care or with additional diaphragmatic breathing for 3 months. In comparison with the control group, diaphragmatic breathing resulted in significant reduction in body mass index, waist-hip ratio, fasting and post prandial plasma glucose, glycated hemoglobin, malondialdehyde, superoxide dismutase and improvement in glutathione and vitamin C. There was no difference in waist circumference, blood pressure and vitamin E in intervention group at follow-up. It can be concluded that diaphragmatic breathing can be employed as an effective therapy in reducing the oxidative stress while it can be incorporated as an add-on therapy to standard care in improving the anthropometry and glycemic parameters in type 2 diabetes.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antioxidants",
+        "Ascorbic Acid",
+        "Blood Glucose",
+        "Body Composition",
+        "Body Mass Index",
+        "Breathing Exercises",
+        "Diabetes Mellitus, Type 2",
+        "Diaphragm",
+        "Glutathione",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Malondialdehyde",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Standard of Care",
+        "Superoxide Dismutase",
+        "Waist-Hip Ratio"
+      ]
+    },
+    {
+      "pmid": "22669134",
+      "title": "Diaphragmatic breathing exercises and pelvic floor retraining in children with dysfunctional voiding.",
+      "authors": [
+        "V Zivkovic",
+        "M Lazovic",
+        "M Vlajkovic",
+        "A Slavkovic",
+        "L Dimitrijevic",
+        "I Stankovic",
+        "N Vacic"
+      ],
+      "journal": "European journal of physical and rehabilitation medicine",
+      "publication_date": "2012-Sep",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Dysfunctional voiding (DV) in neurologically normal children is characterized by involuntary intermittent contractions of either the striated muscle in external urethral sphincter, or the pelvic floor during voiding. Urinary incontinence, pelvic holding maneuvers, voiding difficulties, urinary tract infections (UTIs), constipation and vesicoureteral reflux are highly associated with DV. AIM: To investigate the role of abdominal and pelvic floor muscle (PFM) retraining in children with DV. DESIGN: Prospective clinical controlled study SETTING: Outpatient clinical facility POPULATION: Forty-three children, 5-13 years of age, with dysfunctional voiding METHODS: In addition to standard urotherapy (education, timed voiding, adequate fluid intake, voiding posture and pattern, constipation management and hygiene issues), children were assigned abdominal and PFM retraining. Diaphragmatic breathing exercises were done in lying and sitting positions, for the purpose of achieving abdominal muscle relaxation. PFM retraining consisted of low-level three-second contractions followed by thirty-second relaxation periods. Selected children received pharmacotherapy (anticholinergics or desmopressin). Recurrent symptomatic UTIs were treated with antibiotic prophylaxis. Uroflowmetry with PFM electromyography and ultrasound residual urine volumes were obtained before and at the end of the 12-month treatment period. Clinical manifestations and uroflowmetry parameters were analysed before and after the therapy. RESULTS: After one year of therapy, urinary incontinence was cured in 20 out of 24 patients (83%), nocturnal enuresis in 12 out of 19 children (63%), while 13 out of 19 children (68%) were UTI free. All 15 patients recovered from constipation. Post-treatment uroflowmetry parameters showed significant improvements and a bell-shaped curve was observed in 36 out of 43 children. CONCLUSION: In combination with standard urotherapy, abdominal and pelvic floor muscle retraining is beneficial for curing urinary incontinence, nocturnal enuresis and UTIs in children with DV, as well as for normalizing urinary function. Further trials are needed to define the most effective treatment program which would result in the best treatment outcome. CLINICAL REHABILITATION IMPACT: To improve clinical and objective treatment outcome in dysfunctional voiders. Diaphragmatic breathing and pelvic floor muscle exercises are simple and easy to learn and could be assigned to children aged 5 or older. As they do not require special equipment, they can be performed at all health care levels.",
+      "mesh_terms": [
+        "Adolescent",
+        "Biofeedback, Psychology",
+        "Breathing Exercises",
+        "Child",
+        "Child, Preschool",
+        "Diaphragm",
+        "Electromyography",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Nocturnal Enuresis",
+        "Pelvic Floor",
+        "Prospective Studies",
+        "Relaxation Therapy",
+        "Treatment Outcome",
+        "Urination Disorders",
+        "Urodynamics"
+      ]
+    },
+    {
+      "pmid": "22464088",
+      "title": "Diaphragmatic breathing training program improves abdominal motion during natural breathing in patients with chronic obstructive pulmonary disease: a randomized controlled trial.",
+      "authors": [
+        "Wellington P Yamaguti",
+        "Renata C Claudino",
+        "Alberto P Neto",
+        "Maria C Chammas",
+        "Andrea C Gomes",
+        "João M Salge",
+        "Henrique T Moriya",
+        "Alberto Cukier",
+        "Celso R Carvalho"
+      ],
+      "journal": "Archives of physical medicine and rehabilitation",
+      "publication_date": "2012-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effects of a diaphragmatic breathing training program (DBTP) on thoracoabdominal motion and functional capacity in patients with chronic obstructive pulmonary disease. DESIGN: A prospective, randomized controlled trial. SETTING: Academic medical center. PARTICIPANTS: Subjects (N=30; forced expiratory volume in 1s, 42%±13% predicted) were randomly allocated to either a training group (TG) or a control group (CG). INTERVENTIONS: Subjects in the TG completed a 4-week supervised DBTP (3 individualized weekly sessions), while those in the CG received their usual care. MAIN OUTCOME MEASURES: Effectiveness was assessed by amplitude of the rib cage to abdominal motion ratio (RC/ABD ratio) (primary outcome) and diaphragmatic mobility (secondary outcome). The RC/ABD ratio was measured using respiratory inductive plethysmography during voluntary diaphragmatic breathing and natural breathing. Diaphragmatic mobility was measured by ultrasonography. A 6-minute walk test and health-related quality of life were also evaluated. RESULTS: Immediately after the 4-week DBTP, the TG showed a greater abdominal motion during natural breathing quantified by a reduction in the RC/ABD ratio when compared with the CG (F=8.66; P<.001). Abdominal motion during voluntary diaphragmatic breathing after the intervention was also greater in the TG than in the CG (F=4.11; P<.05). The TG showed greater diaphragmatic mobility after the 4-week DBTP than did the CG (F=15.08; P<.001). An improvement in the 6-minute walk test and in health-related quality of life was also observed in the TG. CONCLUSIONS: DBTP for patients with chronic obstructive pulmonary disease induced increased diaphragm participation during natural breathing, resulting in an improvement in functional capacity.",
+      "mesh_terms": [
+        "Abdominal Muscles",
+        "Aged",
+        "Aged, 80 and over",
+        "Breathing Exercises",
+        "Chi-Square Distribution",
+        "Diaphragm",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Quality of Life",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "21318637",
+      "title": "Pulmonary function and abdominal and thoracic kinematic changes following aerobic and inspiratory resistive diaphragmatic breathing training in asthmatics.",
+      "authors": [
+        "Brandon S Shaw",
+        "Ina Shaw"
+      ],
+      "journal": "Lung",
+      "publication_date": "2011-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This study investigated the effect of 8 weeks, three times weekly, of aerobic exercise (AE), diaphragmatic inspiratory resistive breathing (DR), and aerobic exercise combined with diaphragmatic inspiratory resistive breathing (CE) on pulmonary function and abdominal and thoracic dimensions and kinematics in asthmatics. Eighty-eight inactive, moderate-persistent asthmatics were matched and randomly assigned to AE, DR, CE, or nonexercise control (NE) groups (n = 22 each). AE subjects walked and/or jogged at 60% of age-predicted maximum heart rate. DR subjects performed diaphragmatic breathing combined with inspiratory resistive breathing at varying inspiration, expiration ratios. CE subjects utilized a combination of the AE and DR programs. AE, DR, and CE significantly (p ≤ 0.05) improved chest dimensions and kinematics during inspiration at the height of the second intercostal space, during inspiration and expiration at the height of the xiphoid process, and during inspiration and expiration at the height of the midpoint between the xiphoid process and umbilicus. All exercise interventions significantly improved FVC, FEV(1), PEF, and IVC, while MVV improved following AE and CE. However, CE proved superior to AE at improving FVC (p = 0.001), FEV(1) (p = 0.001), and IVC (p = 0.009). There were no significant changes (p > 0.05) in any of the measured parameters in the NE group. CE produces adaptations greater than those for single-mode training in moderate-persistent asthmatics. The results suggest synergy rather than interference between aerobic exercise and diaphragmatic inspiratory resistive breathing and that this mode of training might be useful as an adjunct therapy in asthmatic patients.",
+      "mesh_terms": [
+        "Abdomen",
+        "Adolescent",
+        "Adult",
+        "Asthma",
+        "Biomechanical Phenomena",
+        "Breathing Exercises",
+        "Diaphragm",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Inhalation",
+        "Lung",
+        "Male",
+        "Physical Endurance",
+        "Respiratory Function Tests",
+        "Respiratory Physiological Phenomena",
+        "Single-Blind Method",
+        "Thorax",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "20857772",
+      "title": "Exploring effects of therapeutic massage and patient teaching in the practice of diaphragmatic breathing on blood pressure, stress, and anxiety in hypertensive African-American women: an intervention study.",
+      "authors": [
+        "Lenetra L Jefferson"
+      ],
+      "journal": "Journal of National Black Nurses' Association : JNBNA",
+      "publication_date": "2010-Jul",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The problem of hypertension among African-Americans is one of the major areas of health disparities. The American Heart Association (2009) noted that the prevalence of hypertension among African-Americans is perhaps among the highest in the world and this is particularly so among African-American women (44.0%). The purpose of this study was to determine how therapeutic chair massage and patient teaching in diaphragmatic breathing affected African-American women's blood pressure, stress, and anxiety levels over one week or six weeks time periods. A Modified Stress, Coping, and Adaptation Model (Roy, 1976; Lazarus, 1966), Descriptives, T-tests, Pearson Product Moment Correlations, Multivariate analysis of variance (MANOVA), and Multivariate analysis of variance with covariate (MANCOVA) were used. Descriptive statistics indicated a significance for decreased systolic blood pressure levels for the one week post massage intervention measurement with p = .01, diastolic blood pressure level significance for the same group p = .02, significance for this group's State Trait Anxiety Inventory (STAI) Y2 Scale score p = .01, and Roy's Largest Root p = .03.",
+      "mesh_terms": [
+        "Adaptation, Psychological",
+        "Adult",
+        "Black or African American",
+        "Aged",
+        "Aged, 80 and over",
+        "Anxiety",
+        "Attitude to Health",
+        "Breathing Exercises",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Louisiana",
+        "Massage",
+        "Middle Aged",
+        "Models, Psychological",
+        "Multivariate Analysis",
+        "Patient Education as Topic",
+        "Psychiatric Status Rating Scales",
+        "Stress, Psychological",
+        "Treatment Outcome",
+        "Women"
+      ]
+    },
+    {
+      "pmid": "19629309",
+      "title": "Effect of diaphragmatic breathing on heart rate variability in ischemic heart disease with diabetes.",
+      "authors": [
+        "Anupama Bangra Kulur",
+        "Nagaraja Haleagrahara",
+        "Prabha Adhikary",
+        "P S Jeganathan"
+      ],
+      "journal": "Arquivos brasileiros de cardiologia",
+      "publication_date": "2009-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Reduced heart rate variability is associated with an unfavorable prognosis in patients with ischemic heart disease and diabetes. Whether change in breathing pattern can modify the risk factor in these patients has not been definitely proved. OBJECTIVE: To evaluate the effect of diaphragmatic breathing on heart rate variability (HRV) in ischemic heart disease patients with diabetes. METHODS: Study population consisted of 145 randomly selected male patients of which 45 had ischemic heart disease (IHD), 52 had IHD and diabetes (IHD-DM) and the remaining 48 had IHD and diabetic neuropathy (IHD-DN). HRV was assessed by 5 minute-electrocardiogram using the time domain method. The intervention group was divided into compliant and non-compliant groups and follow-up recording was carried out after three months and one year. RESULTS: Baseline recordings showed a significant decrease in HRV in ischemic heart disease (IHD) patients with or without diabetes (p<0.01). IHD patients had higher HRV than IHD patients with diabetes (p<0.01) or diabetic neuropathy (p<0.01). Increase in HRV was observed in patients who practiced diaphragmatic breathing for three months (IHD-DM: p<0.01; IHD-DN: p<0.05) and for one year (IHD-DM: p<0.01; IHD-DN: p<0.01). The HRV significantly decreased after one year in non-compliant patients. The regular practice of diaphragmatic breathing also improved the glycemic index in these patients. CONCLUSION: The regular practice of diaphragmatic breathing significantly improves heart rate variability with a favorable prognostic picture in ischemic heart disease patients who have diabetes. These effects seem to be potentially beneficial in the management of IHD patients with diabetes.",
+      "mesh_terms": [
+        "Breathing Exercises",
+        "Diabetes Complications",
+        "Diaphragm",
+        "Epidemiologic Methods",
+        "Follow-Up Studies",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Myocardial Ischemia",
+        "Patient Compliance"
+      ]
+    },
+    {
+      "pmid": "16150370",
+      "title": "Biofeedback assisted diaphragmatic breathing and systematic relaxation versus propranolol in long term prophylaxis of migraine.",
+      "authors": [
+        "Reshma Kaushik",
+        "Rajeev Mohan Kaushik",
+        "Sukhdev Krishan Mahajan",
+        "Vemreddi Rajesh"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2005-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: To evaluate utility of biofeedback assisted diaphragmatic breathing and systematic relaxation in migraine and to compare their efficacy with propranolol in long term prophylaxis of migraine. METHODS: 192 migraine patients were randomly distributed into two groups. Propranolol group received propranolol 80 mg/day while biofeedback group received electromyogram (EMG) and temperature biofeedback assisted diaphragmatic breathing and systematic relaxation training accompanied by home practice for 6 months. RESULTS: Significant clinical response was seen with biofeedback in 66.66% and with propranolol in 64.58% of patients. Frequency, severity, duration of attacks and number of vomiting episodes were significantly reduced in both the groups at 6 months but inter-group differences were statistically insignificant. During 1 year post-treatment period, significantly lesser resurgence of migraine was seen in biofeedback group as whole (9.37%) and in biofeedback responders in biofeedback group (9.37%) in comparison to resurgence of migraine in propranolol group as whole (38.54%) and in propranolol responders in propranolol group (53.22%) respectively. CONCLUSIONS: Biofeedback assisted diaphragmatic breathing and systematic relaxation were very useful in migraine and had significantly better long-term prophylactic effect than propranolol in migraine.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Biofeedback, Psychology",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Migraine Disorders",
+        "Mind-Body Therapies",
+        "Propranolol",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "14572682",
+      "title": "Effects of diaphragmatic breathing on ambulatory blood pressure and heart rate.",
+      "authors": [
+        "John S Lee",
+        "Mary S Lee",
+        "Jong Y Lee",
+        "Germaine Cornélissen",
+        "Kuniaki Otsuka",
+        "Franz Halberg"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2003-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Psychological procedures, such as self-hypnosis in the form of autogenic training, have been proposed for correcting a deviant, e.g., high blood pressure (BP). In view of the overwhelming evidence for the circadian (CD) stage dependence of any treatment effects, the CD stage dependence of the effects of diaphragmatic breathing (DB) on BP and heart rate (HR) was explored in data from a clinically healthy normotensive subject who, following 3 weeks of ambulatory monitoring as a reference standard, measured BP and HR with a manual monitor at 1-min intervals for 5 min before and after DB (three deep diaphragmatic breaths) and who performed DB for about 2 weeks at about 2-h intervals while awake. The 3-week data series were analyzed by cosinor, involving the least-squares fit of cosine curves with periods of 24, 12 and 168 h. A CD rhythm was detected for BP and HR (P < 0.001 in each case), peaking in the afternoon. Some about-weekly (circaseptan; CS) BP rhythms and 12-h (circasemidian) components were also statistically significant. DB was found to reduce systolic (S) BP. Overall, SBP decreased by 5.9 +/- 0.8 mmHg (P < 0.001) and diastolic (D) BP by 1.4 +/- 0.8 mmHg (P < 0.005), while HR remained at about the same average. The effect of DB on BP was CD-dependent, the largest response occurring in the afternoon, 2-3 h before the peaks in SBP and DBP found in the reference data of the same subject. There was also a 5-10% decrease in SBP around the weekend (Friday, Saturday and Sunday). The results on a single subject suggest the need to collect similar data on others for optimizing by clock-hour, day of the week, and eventually by the marker rhythms BP and/or HR the best times for DB and other procedures. The personalized best time for people on different work/rest schedules for relaxation may be several hours before their BP has reached its highest point in the 24-h span. HR may serve as a marker for DB timing, but the effect on HR of DB was only of borderline statistical significance in the subject investigated.",
+      "mesh_terms": [
+        "Adolescent",
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Breathing Exercises",
+        "Circadian Rhythm",
+        "Diaphragm",
+        "Heart Rate",
+        "Humans",
+        "Hypertension",
+        "Japan",
+        "Relaxation Therapy",
+        "Time Factors",
+        "Vasomotor System"
+      ]
+    },
+    {
+      "pmid": "12861790",
+      "title": "The effects of deep diaphragmatic breathing and focused attention on dental anxiety in a private practice setting.",
+      "authors": [
+        "Quinn M Biggs",
+        "Kimberly S Kelly",
+        "J David Toney"
+      ],
+      "journal": "Journal of dental hygiene : JDH",
+      "publication_date": "2003",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: High dental anxiety is pervasive and associated with treatment avoidance and poor oral health. Ideally, anxiety reduction techniques should be easy to use, low in cost, non-pharmacological, comfortable, and effective. This study compared the effectiveness of two self-taught anxiety reduction techniques--breathing and focused attention--with a control group. METHODS: Anxiety was assessed in 272 adult private dental practice patients with a modified dental anxiety scale-revised. Frequency of oral health care visits in the last 10 years to all dentists, including the current dentist, was collected. Immediately prior to the dental procedure, participants in the two experimental groups were given written instructions outlining the respective anxiety reduction technique they were to use. Efficacy of technique was assessed by subjective comparison to anxiety during previous oral health treatment. Participants also listed techniques that they believed to be effective for anxiety reduction. RESULTS: Twenty-six participants (9.56%) scored high in dental anxiety. High anxiety was associated with infrequent oral health care visits. Compared to the recall of anxiety experienced during prior treatment, there were no significant differences in anxiety between breathing, focusing, and control groups. But there was a trend toward decreased anxiety overall. Controls who reported infrequent visits and use of their own anxiety reduction technique showed significantly reduced anxiety. CONCLUSION: Dental patients employ numerous strategies for anxiety reduction. Anxiety reduction techniques not yet practiced may place unwanted expectations on patients. It is suggested that oral health care practitioners be aware of the patient's preferred technique for coping with anxiety and encourage them to use self-help techniques.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Attention",
+        "Breathing Exercises",
+        "Dental Anxiety",
+        "Female",
+        "Humans",
+        "Male",
+        "Manifest Anxiety Scale",
+        "Middle Aged",
+        "Relaxation Therapy",
+        "Self Care",
+        "Surveys and Questionnaires",
+        "Treatment Failure"
+      ]
+    },
+    {
+      "pmid": "11839992",
+      "title": "Efficacy of diaphragmatic breathing in persons with chronic obstructive pulmonary disease: a review of the literature.",
+      "authors": [
+        "Lawrence P Cahalin",
+        "Malinda Braga",
+        "Yoshimi Matsuo",
+        "Edgar D Hernandez"
+      ],
+      "journal": "Journal of cardiopulmonary rehabilitation",
+      "publication_date": "2002",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The evidence base for diaphragmatic breathing (DB) as an adjunctive treatment modality for persons with COPD is questionable. This article reviews the literature regarding the efficacy of DB in persons with chronic obstructive pulmonary disease (COPD), and reports on the beneficial and detrimental effects of DB in persons with COPD. Diaphragmatic breathing has been described as breathing predominantly with the diaphragm while minimizing the action of accessory muscles that may assist with inspiration. No single or combined patient characteristic has been identified consistently to help predict which person with COPD may benefit from DB. However, it has been suggested that persons with moderate to severe COPD and marked hyperinflation of the lungs without adequate diaphragmatic movement and increase in tidal volume during DB may be poor candidates for instruction in DB. Conversely, persons with COPD who have elevated respiratory rates, low tidal volumes that increase during DB, and abnormal arterial blood gases with adequate diaphragmatic movement may benefit from DB. Identification of an abdominal paradoxical breathing pattern and worsening dyspnea and fatigue during or after DB are criteria to modify or terminate DB. Persons with COPD demonstrating an abdominal paradox during DB may benefit from a more upright body position or trunk flexion. Several methods to examine diaphragmatic movement and the potential for success with DB will be discussed. Future research is needed to better identify which patients may benefit from DB.",
+      "mesh_terms": [
+        "Breathing Exercises",
+        "Diaphragm",
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "6417647",
+      "title": "[Advantages of respiratory therapy by expiratory retarded diaphragmatic breathing].",
+      "authors": [
+        "G Jüngst"
+      ],
+      "journal": "Praxis und Klinik der Pneumologie",
+      "publication_date": "1983-Oct",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Carbon Dioxide",
+        "Humans",
+        "Lung Diseases, Obstructive",
+        "Respiratory Insufficiency",
+        "Respiratory Therapy"
+      ]
+    },
+    {
+      "pmid": "1172741",
+      "title": "Diaphragmatic breathing exercises. Therapy in chronic obstructive pulmonary disease.",
+      "authors": [
+        "M A Sackner"
+      ],
+      "journal": "JAMA",
+      "publication_date": "1975-Jan-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Airway Resistance",
+        "Autosuggestion",
+        "Breathing Exercises",
+        "Chronic Disease",
+        "Diaphragm",
+        "Humans",
+        "Lung Diseases, Obstructive",
+        "Posture",
+        "Respiratory Dead Space",
+        "Spirometry",
+        "Ventilation-Perfusion Ratio",
+        "Work of Breathing"
+      ]
+    },
+    {
+      "pmid": "13197413",
+      "title": "A physiologic evaluation of the effects of diaphragmatic breathing training in patients with chronic pulmonary emphysema.",
+      "authors": [
+        "W F MILLER"
+      ],
+      "journal": "The American journal of medicine",
+      "publication_date": "1954-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Emphysema",
+        "Exercise Therapy",
+        "Humans",
+        "Pulmonary Emphysema",
+        "Respiration"
+      ]
+    }
+  ]
+}

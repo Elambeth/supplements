@@ -1,0 +1,132 @@
+{
+  "supplement": "Lactosucrose",
+  "query": "Lactosucrose[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:55:54",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "25367079",
+      "title": "A diet with lactosucrose supplementation ameliorates trinitrobenzene sulfonic acid-induced colitis in rats.",
+      "authors": [
+        "Yan Zhou",
+        "Zheng Ruan",
+        "Xiaoli Zhou",
+        "Xiaoliu Huang",
+        "Hua Li",
+        "Ling Wang",
+        "Cui Zhang",
+        "Shiqiang Liu",
+        "Zeyuan Deng",
+        "Guoyao Wu",
+        "Yulong Yin"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Chronic intestinal inflammation contributes to an increased risk of colon cancer. Lactosucrose (LS), a kind of functional trisaccharide, can modulate immunity and promote microbe growth. The aim of this study was to investigate the effect of LS on 2,4,6-trinitrobenzene sulfonic acid (TNBS) induced colitis in rats. Rats were randomly divided into four treatment groups: the normal group, TNBS group, LS group, and salicylazosulfapyridine (SASP) group for five weeks. LS supplementation ameliorated TNBS-induced colitis. LS supplementation increased IL-10 production and suppressed the secretion of IL-12 in the colon, as compared to the TNBS group. LS decreased the production of TLR-2 protein and nuclear NF-κB p65 protein, as well as mRNA levels, as compared with colitic rats. These results indicate that chronic feeding of LS inhibited TNBS-induced chronic inflammation. LS has potential nutraceutical intervention to combat colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Colitis",
+        "Colon",
+        "Disease Models, Animal",
+        "Female",
+        "Gastrointestinal Agents",
+        "Inflammatory Bowel Diseases",
+        "Interleukin-10",
+        "Interleukin-12",
+        "Intestinal Mucosa",
+        "Prebiotics",
+        "Random Allocation",
+        "Rats, Sprague-Dawley",
+        "Specific Pathogen-Free Organisms",
+        "Sulfasalazine",
+        "Toll-Like Receptor 2",
+        "Transcription Factor RelA",
+        "Trinitrobenzenesulfonic Acid",
+        "Trisaccharides"
+      ]
+    },
+    {
+      "pmid": "17190104",
+      "title": "Long-term administration of 4G-beta-D-galactosylsucrose (lactosucrose) enhances intestinal calcium absorption in young women: a randomized, placebo-controlled 96-wk study.",
+      "authors": [
+        "Fusako Teramoto",
+        "Kazuhito Rokutan",
+        "Yasuko Sugano",
+        "Kazuyuki Oku",
+        "Eriko Kishino",
+        "Koki Fujita",
+        "Kozo Hara",
+        "Kyouichi Kishi",
+        "Masao Fukunaga",
+        "Tetsuro Morita"
+      ],
+      "journal": "Journal of nutritional science and vitaminology",
+      "publication_date": "2006-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This study determined the effect of long-term administration of 4(G)-beta-D-galactosylsucrose (lactosucrose; LS) on intestinal calcium absorption. In a randomized, single-blind, parallel-group study, LS (n=9, 6.0 g twice daily) or a placebo (maltose; n=8, 6.0 g twice daily) was administered to healthy young women for 92 wk: the study also included a 4-wk post-administration period. All participants completed the study. Dietary nutrient intake; fecal weight, pH, and moisture content; fecal concentrations of short-chain fatty acids (SCFA), putrefactive products, ammonia, and minerals (calcium, magnesium, phosphorus, and iron); and serum calcium and osteocalcin concentrations were measured every 24 wk. Urinary pyridinoline (PYR) and deoxypyridinoline (DPD), and urinary calcium excretion were measured every 12 wk. Significant effects of oligosaccharide treatment, time, and the interaction between oligosaccharide treatment and time were observed for fecal pH, SCFA, ammonia, and putrefactive product values (p<0.05). Fecal pH, ammonia, and putrefactive product values decreased in the LS group, and the fecal SCFA concentration significantly increased during the administration period; these changes were not observed 4 wk post-administration. To examine the mineral balance of calcium, magnesium, and phosphorus in detail, all the participants completed a 6-d mineral balance study, sometime between week 56 and 60 of the longer study. During the mineral balance study, the daily calcium intake was set at 400 mg; all feces and urine were collected each day for 6 d after an 8-d acclimation period. In the balance study, fecal calcium excretion was significantly lower in the LS group than in the placebo group (p<0.05), and apparent calcium absorption and retention, apparent magnesium and phosphorus absorption, and magnesium retention were significantly higher in the LS group than in the placebo group (p<0.05). Our results suggest that the administration of LS produces a long-term enhancement of intestinal calcium absorption in healthy young women with lower than recommended calcium intakes.",
+      "mesh_terms": [
+        "Adult",
+        "Amino Acids",
+        "Ammonia",
+        "Anthropometry",
+        "Calcium",
+        "Diet",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Intestinal Absorption",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Minerals",
+        "Osteocalcin",
+        "Reference Values",
+        "Students",
+        "Time",
+        "Time Factors",
+        "Trisaccharides"
+      ]
+    },
+    {
+      "pmid": "10232870",
+      "title": "Protective effect of lactosucrose on intracolonic indomethacin-induced small-intestinal ulcers in rats.",
+      "authors": [
+        "K Honda",
+        "T Matsumoto",
+        "F Kuroki",
+        "M Iida",
+        "M Oka",
+        "I Sawatani"
+      ],
+      "journal": "Scandinavian journal of gastroenterology",
+      "publication_date": "1999-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Little is known about the role of intestinal microflora in the development of indomethacin-induced enteropathy. The aim of this study was to evaluate the effects of lactosucrose, an indigestible oligosaccharide, on intestinal microflora and on indomethacin-induced enteropathy in rats. METHODS: Male Wistar rats were fed either sucrose (SC) or lactosucrose (LS) for 2 weeks. Indomethacin (24 mg/kg/ day) was administered into the colon twice, 24 h apart, and intestinal ulcers in SC and LS groups were compared macroscopically. In another experiment the bacterial composition in the mid-small-intestinal segment was determined in both groups before and after treatment with indomethacin. RESULTS: After indomethacin treatment small-intestinal ulcers were less severe in the LS than in the SC group (ulcer index: median, 0.13 (range, 0.05-0.19) versus 0.23 (0.13-0.34); P < 0.05). Total bacterial count did not differ significantly between the two groups. Indomethacin increased the number of Enterobacteriaceae in both groups, but the increase was less in the LS group. The number of streptococci was also significantly increased in the SC group but not in the LS group. CONCLUSION: These results suggest that LS has some protective effects on indomethacin-induced enteropathy and that this protective effect is in part due to the maintenance of intestinal microflora.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Indomethacin",
+        "Intestinal Diseases",
+        "Intestine, Small",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Trisaccharides",
+        "Ulcer"
+      ]
+    }
+  ]
+}

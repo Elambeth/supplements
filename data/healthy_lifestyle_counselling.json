@@ -1,0 +1,27 @@
+{
+  "supplement": "Healthy Lifestyle Counselling",
+  "query": "Healthy Lifestyle Counselling[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:44:01",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36382254",
+      "title": "[Implementation design of the HEARTS healthy-lifestyle counselling module at the first level of care in MexicoDelineamento da implementação do módulo de hábitos e estilos de vida saudáveis da Iniciativa HEARTS na atenção primária do México].",
+      "authors": [
+        "Nely González",
+        "Laura Vega",
+        "Laura Gloria",
+        "Virginia Molina",
+        "Miguel Malo"
+      ],
+      "journal": "Revista panamericana de salud publica = Pan American journal of public health",
+      "publication_date": "2022",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "The number of people with cardiovascular diseases is a leading public health problem. The Ministry of Health of Mexico and the local representative office of the Pan American Health Organization have joined forces to implement the \"HEARTS: technical package for cardiovascular disease management in primary health care.\" The objective of this article is to describe the implementation design of the \"Healthy-lifestyle counselling\" module, which is part of the HEARTS technical package. To this end, an interdisciplinary and inter-institutional group was formed to discuss implementation, the topics to be addressed in each brief intervention, and follow-up and monitoring. In conclusion, working with the advisory group from various health disciplines contributed to a broad vision of the person-centered approach, and helped with the implementation design of the module. The objective is to achieve active communication between patients and health professionals, helping to generate interventions that result in informed patients who are active in their health care, and health teams that enable patients to obtain better health outcomes."
+    }
+  ]
+}

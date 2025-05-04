@@ -1,0 +1,45 @@
+{
+  "supplement": "Hibiscus macranthus",
+  "query": "Hibiscus macranthus[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:44:43",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "10465653",
+      "title": "Effects of aqueous extracts of Hibiscus macranthus and Basella alba in mature rat testis function.",
+      "authors": [
+        "F P Moundipa",
+        "P Kamtchouing",
+        "N Koueta",
+        "J Tantchou",
+        "N P Foyang",
+        "F T Mbiapo"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "1999-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Mature male albino Wistar rats (180-220 g) were given by gastric intubation Hibiscus macranthus Hochst A ex Rich (Malvaceae) and Basella alba L. (Basellaceae) aqueous extract from both fresh and dry leaves, at a dose equivalent to 0.720 or 0.108 g of plant, respectively per kg body weight. This was to evaluate their effects on male reproductive function. Control groups were treated equally, but given water instead of the extract. After the treatment periods, animals were killed, their blood collected, the testes and some annex glands removed for histological and biochemical analysis. Results showed that the extract from fresh leaves significantly increased the body weight of rats by 17% from day 7 as compared to controls, whereas the increase was less pronounced (4%) when the rats were given dry leaf extract. The weight of seminal vesicles of rats given the extracts also increased after 15 days. The histological analysis of testis showed abundant spermatozoa in the lumen of the seminiferous tubulus from day 7 in rats fed with the extract when compared to the controls. The serum level of testosterone was significantly increased on the 15th day by 80% in rats given both types of extracts compared to the controls. Testis of treated rats showed high testosterone production in vitro (136 and 62%, respectively for treated and control after 15 days, compared to those of 3 days). Activity of prostatic acid phosphatase was high in prostate, testis and serum of treated rats in all experimental period. From these findings and observation, it was concluded that the aqueous extract of H. macranthus and B. alba had anabolizing and virilizing effects.",
+      "mesh_terms": [
+        "Acid Phosphatase",
+        "Animals",
+        "Body Weight",
+        "Male",
+        "Malvaceae",
+        "Organ Size",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Prostate",
+        "Rats",
+        "Rats, Wistar",
+        "Seminal Vesicles",
+        "Spermatozoa",
+        "Testis",
+        "Testosterone"
+      ]
+    }
+  ]
+}

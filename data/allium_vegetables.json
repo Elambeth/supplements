@@ -1,0 +1,63 @@
+{
+  "supplement": "Allium Vegetables",
+  "query": "Allium Vegetables[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:08:04",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "31464060",
+      "title": "Allium vegetables for possible future of cancer treatment.",
+      "authors": [
+        "Yahya Asemani",
+        "Nasrindokht Zamani",
+        "Maryam Bayat",
+        "Zahra Amirghofran"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Natural resources such as plants are an upright curing option in treating cancers and reducing the side effects of current therapeutic modalities. Allium genus vegetables are of the most interesting herbs in restricting cancers that includes garlic, onions, leeks, chives, and shallots. These plants have been exploited in folk medicine because of their beneficial health effects in improving numerous diseases. The phytochemical analysis of various Allium genus members showed that, to date, 16 species have proved potential anticancer properties due to the accumulation of various sulfur and organic compounds like S-allyl mercaptocysteine, quercetin, flavonoids, and ajoene. These compounds with various mechanisms such as hindering cell cycle, inhibiting signaling pathways, inducing apoptosis, and antioxidant activity interfere with diverse stages of formation, growth, differentiation, and metastasis of cancer cells. Similar to garlic and onion, other species have exhibited anticancer activities, so that active natural molecules extracted from them might serve as possible anticancer agents. Therefore, evaluating the main ingredients and studying their anticancer mechanisms are of great importance. In this review, we aim to summarize the available data on anticancer mechanisms of 16 species of Allium genus and their major compounds to assist further researches on the treatment and prevention of cancers.",
+      "mesh_terms": [
+        "Allium",
+        "Humans",
+        "Neoplasms",
+        "Plants",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "30607216",
+      "title": "Biomarkers of food intake for Allium vegetables.",
+      "authors": [
+        "Giulia Praticò",
+        "Qian Gao",
+        "Claudine Manach",
+        "Lars O Dragsted"
+      ],
+      "journal": "Genes & nutrition",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Allium vegetables are widely consumed around the world and are known for their potential bioactive components improving human health. These effects have been extensively investigated; however, the results were inconsistent in human studies. Biomarkers of food intake (BFIs) could provide objective measurements of food intake in observational studies and assess compliance in intervention studies. Therefore, the discovery and application of BFIs for Allium vegetables would facilitate the exploring and understanding of the health benefit of Allium vegetables. In this manuscript, we reviewed the currently used and potential candidate BFIs for Allium vegetables and evaluated their levels of validation. S-Allylmercapturic acid (ALMA), allyl methyl sulfide (AMS), allyl methyl sulfoxide (AMSO), allyl methyl sulfone (AMSO2), and S-allylcysteine (SAC), which are derived from organosulfur compounds, were shown to be promising candidate BFIs for garlic consumption. Further validation is needed to assess their robustness and concordance with other measures. Their applicability for the whole food group should be evaluated as well. N-Acetyl-S-(2-carboxypropyl)cysteine (CPMA) was detected in high levels in urine after both garlic and onion intake, suggesting that it may be used for the assessment of intake of Allium food group. The available information regarding its kinetics, robustness, and analytical performance is limited and needs to be assessed in further studies. No candidate BFIs specific to intake of onion, leek, chives, shallots, or ramsons were found. Untargeted metabolomics studies and further validation studies should be performed to discover more reliable BFIs for individual Allium vegetables and the whole food group. This paper serves as an example of Biomarker of Food Intake Reviews (BFIRev) and biomarker of food intake validation procedures."
+    },
+    {
+      "pmid": "23195250",
+      "title": "Can Allium vegetables prevent cancer?",
+      "authors": [
+        "E Ernst"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "1997-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this paper is to review the evidence for or against an association between regular consumption of Allium vegetables and cancer. A Medline search was conducted to identify all publications on the topic. Twenty epidemiological studies were found. The majority investigate the association of onion consumption and cancer, while eight studies assess garlic consumption. With only one exception, these studies suggest that Allium vegetables convey a protective effect, in particular from cancers of the gastrointestinal tract. These results could be due to an artefact but more likely, they are based on plausible biological mechanisms. Anti-bacterial or anti-mutagenic effects of Allium vegetables are prime candidates to explain this relationship. In conclusion, the hypothesis that regular consumption of Allium vegetables reduces the risk of cancer is compelling and would seem to deserve testing in intervention trials."
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "supplement": "Exogenous Ketones",
+  "query": "Exogenous Ketones[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:33:56",
+  "research_count": 6,
+  "count": 6,
+  "articles": [
+    {
+      "pmid": "39412260",
+      "title": "Exogenous ketones exert antiseizure effects and modulate the gut microbiome and mycobiome in a clinically relevant murine model of epilepsy.",
+      "authors": [
+        "Chunlong Mu",
+        "Mitchell Kesler",
+        "Xingyu Chen",
+        "Jane Shearer",
+        "G Campbell Teskey",
+        "Jong M Rho"
+      ],
+      "journal": "Epilepsia",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Despite growing interest in the potential use of exogenous ketones for the treatment of epilepsy, their impact on seizures and the gut microbiome and mycobiome remain unclear. METHODS: Here, we examined the effects of both oral gavage and subcutaneous (SC) injection of a ketone ester (KE) in spontaneously epileptic Kcna1-null (KO) mice that model seminal aspects of human temporal lobe epilepsy. Electroencephalographic recordings and biochemical analyses were performed in KE-treated KO mice. Fecal microbial and fungal communities were profiled to determine whether the antiseizure activity of KE involves changes in the gut microbiome. RESULTS: We found that exogenous KE administration by SC injection was more effective than oral gavage in terms of rendering antiseizure effects while generating similar degrees of ketonemia. However, reductions in mean daily seizure counts were accompanied by overall alterations in the fecal bacterial microbiome. Either oral or SC injection imposed a greater impact on the microbiome in male than female mice. In males, oral KE decreased Bacteroidota phylum and genera of Ligilactobacillus and Muribaculaceae, whereas SC injection decreased Bacteroides, Lactobacillus, and Lachnospiraceae. The fecal mycobiome was affected by KE injection to a greater degree than by oral gavage, and more in females than in males, as reflected by an increase in Ascomycota and Saccharomyces. Correlation analysis between microbiome and seizure counts revealed that in mice receiving KE injection, the seizure count was positively correlated with an amplicon sequencing variant of Lactobacillus (Spearman rho = .64, p = .03) and tended toward a negative correlation with Saccharomyces (Spearman rho = -.57, p = .057). SIGNIFICANCE: Our findings demonstrate that exogenous ketone administration alone can induce antiseizure effects equally via different routes of administration, and that they induce differential shifts in both the bacterial microbiome and mycobiome.",
+      "mesh_terms": [
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "Mice",
+        "Female",
+        "Male",
+        "Ketones",
+        "Disease Models, Animal",
+        "Mycobiome",
+        "Mice, Knockout",
+        "Anticonvulsants",
+        "Epilepsy",
+        "Seizures",
+        "Mice, Inbred C57BL",
+        "Electroencephalography"
+      ]
+    },
+    {
+      "pmid": "39047293",
+      "title": "Efficacy and Safety of Exogenous Ketones in People with Mild Neurocognitive Disorder and Alzheimer's Disease: A Systematic Literature Review.",
+      "authors": [
+        "Pierre Krolak-Salmon",
+        "Russell H Swerdlow",
+        "Thibault Mastain",
+        "Catherine Dive-Pouletty",
+        "Nick Pooley",
+        "Masoumeh Kisomi"
+      ],
+      "journal": "Nutrition reviews",
+      "publication_date": "2025-Mar-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "CONTEXT: Mild neurocognitive disorder (NCD), formally known as mild cognitive impairment, is usually the clinical stage preceding the development of Alzheimer's disease (AD), the most prevalent major NCD, and other causes of dementia. Glucose is a major source of energy for human brain metabolism and the uptake of glucose is reduced in patients with mild NCD, AD, and other NCDs. Unlike glucose, the uptake of ketones remains normal in people with mild NCD and AD, suggesting that the use of ketone bodies may compensate for glucose energy deficiency in patients with mild NCD and AD. OBJECTIVE: The aim of this systematic review was to summarize the efficacy and safety of exogenic ketones, including medium chain triglycerides (MCTs), on cognitive function in patients with mild NCD and AD. DATA SOURCES: The Embase, MEDLINE, MEDLINE In-Process, PubMed Ahead-of-Print, Cochrane Central Register of Controlled Trials, Europe PMC databases were searched from inception to April 2022. Studies reporting cognitive function efficacy and safety outcomes from randomized controlled trials of exogenic ketones in patients with mild NCD and AD were included. DATA EXTRACTION: Data were extracted by 1 reviewer and checked by a second reviewer. Risk of bias was assessed using the Cochrane risk of bias tool, version 2. DATA ANALYSIS: This review identified 13 individual trials investigating the efficacy and safety of MCT or coconut oil for patients with mild NCD or with AD. Because of the heterogeneity of the studies, a narrative synthesis was used. CONCLUSION: Overall, improvements associated with exogenic ketones were observed in multiple aspects of cognitive abilities, although the large heterogeneity between the included studies makes it difficult to draw firm conclusions from the current literature. Although some studies investigated the impact of the apolipoprotein E ε4 allele status on treatment efficacy, the current data are insufficient to conclude whether such an effect is present. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration No. CRD42022336664.",
+      "mesh_terms": [
+        "Humans",
+        "Alzheimer Disease",
+        "Cognitive Dysfunction",
+        "Ketones",
+        "Cognition",
+        "Randomized Controlled Trials as Topic",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "36267349",
+      "title": "Exogenous Ketones and Lactate as a Potential Therapeutic Intervention for Brain Injury and Neurodegenerative Conditions.",
+      "authors": [
+        "Naomi Elyse Omori",
+        "Geoffrey Hubert Woo",
+        "Latt Shahril Mansor"
+      ],
+      "journal": "Frontiers in human neuroscience",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Metabolic dysfunction is a ubiquitous underlying feature of many neurological conditions including acute traumatic brain injuries and chronic neurodegenerative conditions. A central problem in neurological patients, in particular those with traumatic brain injuries, is an impairment in the utilization of glucose, which is the predominant metabolic substrate in a normally functioning brain. In such patients, alternative substrates including ketone bodies and lactate become important metabolic candidates for maintaining brain function. While the potential neuroprotective benefits of ketosis have been recognized for up to almost a century, the majority of work has focused on the use of ketogenic diets to induce such a state, which is inappropriate in cases of acute disease due to the prolonged periods of time (i.e., weeks to months) required for the effects of a ketogenic diet to be seen. The following review seeks to explore the neuroprotective effects of exogenous ketone and lactate preparations, which have more recently become commercially available and are able to induce a deep ketogenic response in a fraction of the time. The rapid response of exogenous preparations makes their use as a therapeutic adjunct more feasible from a clinical perspective in both acute and chronic neurological conditions. Potentially, their ability to globally moderate long-term, occult brain dysfunction may also be relevant in reducing lifetime risks of certain neurodegenerative conditions. In particular, this review explores the association between traumatic brain injury and contusion-related dementia, assessing metabolic parallels and highlighting the potential role of exogenous ketone and lactate therapies."
+    },
+    {
+      "pmid": "34510212",
+      "title": "Nutritional Formulation for Patients with Angelman Syndrome: A Randomized, Double-Blind, Placebo-Controlled Study of Exogenous Ketones.",
+      "authors": [
+        "Robert P Carson",
+        "Donna L Herber",
+        "Zhaoxing Pan",
+        "Fenna Phibbs",
+        "Alexandra P Key",
+        "Arnaud Gouelle",
+        "Patience Ergish",
+        "Eric A Armour",
+        "Shital Patel",
+        "Jessica Duis"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2021-Dec-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Angelman syndrome (AS) patients often respond to low glycemic index therapy to manage refractory seizures. These diets significantly affect quality of life and are challenging to implement. These formulations may have benefits in AS even in the absence of biomarkers suggesting ketosis. OBJECTIVES: We aimed to compare an exogenous medical food ketone formulation (KF) with placebo for the dietary management of AS. METHODS: This randomized, double-blind, placebo-controlled, crossover clinical trial was conducted in an academic center from 15 November, 2018 to 6 January, 2020. Thirteen participants with molecularly confirmed AS aged 4-11 y met the criteria and completed the 16-wk study. The study consisted of four 4-wk phases: a baseline phase, a blinded KF or placebo phase, a washout phase, and the crossover phase with alternate blinded KF or placebo. Primary outcomes were safety and tolerability rated by retention in the study and adherence to the formulation. Additional secondary outcomes of safety in this nonverbal population included blood chemistry, gastrointestinal health, seizure burden, cortical irritability, cognition, mobility, sleep, and developmental staging. RESULTS: Data were compared between the baseline, KF, and placebo epochs. One participant exited the trial owing to difficulty consuming the formulation. Adverse events included an increase in cholesterol in 1 subject when consuming KF and a decrease in albumin in 1 subject when consuming placebo. Stool consistency improved with KF consumption, from 6.04 ± 1.61 at baseline and 6.35 ± 1.55 during placebo to 4.54 ± 1.19 during KF (P = 0.0027). Electroencephalograph trends showed a decrease in Δ frequency power during the KF arm and event-related potentials suggested a change in the frontal memory response. Vineland-3 showed improved fine motor skills in the KF arm. CONCLUSIONS: The exogenous KF appears safe. More data are needed to determine the utility of exogenous ketones as a nutritional approach in children with AS.This trial was registered at clinicaltrials.gov as NCT03644693.",
+      "mesh_terms": [
+        "Angelman Syndrome",
+        "Child",
+        "Child, Preschool",
+        "Double-Blind Method",
+        "Humans",
+        "Ketones",
+        "Quality of Life",
+        "Seizures",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "34024503",
+      "title": "Abdominal fat distribution modulates the metabolic effects of exogenous ketones in individuals with new-onset prediabetes after acute pancreatitis: Results from a randomized placebo-controlled trial.",
+      "authors": [
+        "Sakina H Bharmal",
+        "Gisselle C Alarcon Ramos",
+        "Juyeon Ko",
+        "Maxim S Petrov"
+      ],
+      "journal": "Clinical nutrition ESPEN",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Exogenous ketone supplementation is emerging as a nutritional intervention that beneficially affects blood glucose control. We hypothesized that varying abdominal fat phenotypes play a role in the effect of exogenously induced ketosis. The aim was to investigate whether intra-abdominal fat distribution modulates the effect of exogenous ketones on glucoregulatory peptides in new-onset prediabetes. METHODS: Eighteen individuals with new-onset prediabetes after acute pancreatitis were randomized to receive a ketone monoester supplement or placebo in a crossover fashion. All participants underwent magnetic resonance imaging on a 3T scanner to determine their abdominal fat phenotypes. They were non-exclusively categorized as low adiposity or high adiposity phenotypes based on their abdominal and ectopic fat distribution (regardless of body mass index and waist circumference). Blood samples were analyzed for glucoregulatory peptides. Total area under the curve (AUC) over 150 min was calculated for each analyte. RESULTS: The total AUCs for insulin and C-peptide were significantly higher after ketone supplementation in individuals with high intra-pancreatic fat deposition, skeletal muscle fat deposition, and subcutaneous fat volume; and low visceral fat volume and intra-hepatic fat deposition. The total AUC for glucose-dependent insulinotropic peptide was significantly higher after ketone supplementation in individuals with high intra-pancreatic fat deposition, skeletal muscle fat deposition, subcutaneous fat volume, and visceral fat volume. The total AUC for glucagon-like peptide-1 was not associated with any adiposity phenotype. CONCLUSIONS: Individuals with high depositions of intra-pancreatic fat, skeletal muscle fat, subcutaneous fat may not achieve favorable outcomes of blood glucose control following ketone supplementation. Abdominal fat distribution is an important factor in the pathogenesis of new-onset prediabetes and it may influence the effectiveness of nutritional strategies designed for these individuals. REGISTERED UNDER CLINICALTRIALS. GOV IDENTIFIER NO: NCT03889210.",
+      "mesh_terms": [
+        "Abdominal Fat",
+        "Acute Disease",
+        "Humans",
+        "Ketones",
+        "Pancreatitis",
+        "Prediabetic State"
+      ]
+    },
+    {
+      "pmid": "31581549",
+      "title": "Exogenous Ketones Lower Blood Glucose Level in Rested and Exercised Rodent Models.",
+      "authors": [
+        "Csilla Ari",
+        "Cem Murdun",
+        "Andrew P Koutnik",
+        "Craig R Goldhagen",
+        "Christopher Rogers",
+        "Collin Park",
+        "Sahil Bharwani",
+        "David M Diamond",
+        "Mark S Kindy",
+        "Dominic P D'Agostino",
+        "Zsolt Kovács"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2019-Oct-01",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Diseases involving inflammation and oxidative stress can be exacerbated by high blood glucose levels. Due to tight metabolic regulation, safely reducing blood glucose can prove difficult. The ketogenic diet (KD) reduces absolute glucose and insulin, while increasing fatty acid oxidation, ketogenesis, and circulating levels of β-hydroxybutyrate (βHB), acetoacetate (AcAc), and acetone. Compliance to KD can be difficult, so alternative therapies that help reduce glucose levels are needed. Exogenous ketones provide an alternative method to elevate blood ketone levels without strict dietary requirements. In this study, we tested the changes in blood glucose and ketone (βHB) levels in response to acute, sub-chronic, and chronic administration of various ketogenic compounds in either a post-exercise or rested state. WAG/Rij (WR) rats, a rodent model of human absence epilepsy, GLUT1 deficiency syndrome mice (GLUT1D), and wild type Sprague Dawley rats (SPD) were assessed. Non-pathological animals were also assessed across different age ranges. Experimental groups included KD, standard diet (SD) supplemented with water (Control, C) or with exogenous ketones: 1, 3-butanediol (BD), βHB mineral salt (KS), KS with medium chain triglyceride/MCT (KSMCT), BD acetoacetate diester (KE), KE with MCT (KEMCT), and KE with KS (KEKS). In rested WR rats, the KE, KS, KSMCT groups had lower blood glucose level after 1 h of treatment, and in KE and KSMCT groups after 24 h. After exercise, the KE, KSMCT, KEKS, and KEMCT groups had lowered glucose levels after 1 h, and in the KEKS and KEMCT groups after 7 days, compared to control. In GLUT1D mice without exercise, only KE resulted in significantly lower glucose levels at week 2 and week 6 during a 10 weeks long chronic feeding study. In 4-month and 1-year-old SPD rats in the post-exercise trials, blood glucose was significantly lower in KD and KE, and in KEMCT groups, respectively. After seven days, the KSMCT group had the most significantly reduced blood glucose levels, compared to control. These results indicate that exogenous ketones were efficacious in reducing blood glucose levels within and outside the context of exercise in various rodent models of different ages, with and without pathology.",
+      "mesh_terms": [
+        "3-Hydroxybutyric Acid",
+        "Acetoacetates",
+        "Animals",
+        "Biomarkers",
+        "Blood Glucose",
+        "Butylene Glycols",
+        "Carbohydrate Metabolism, Inborn Errors",
+        "Diet, Ketogenic",
+        "Dietary Supplements",
+        "Disease Models, Animal",
+        "Down-Regulation",
+        "Epilepsy, Absence",
+        "Glucose Transporter Type 1",
+        "Male",
+        "Mice, Knockout",
+        "Monosaccharide Transport Proteins",
+        "Physical Exertion",
+        "Rats, Sprague-Dawley",
+        "Rest",
+        "Time Factors"
+      ]
+    }
+  ]
+}

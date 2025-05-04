@@ -1,0 +1,1169 @@
+{
+  "supplement": "Chaga",
+  "query": "Chaga[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:33:44",
+  "research_count": 40,
+  "count": 40,
+  "articles": [
+    {
+      "pmid": "40228216",
+      "title": "Mechanistic Study of Chaga Medicinal Mushroom Inonotus obliquus (Agaricomycetes) Phenolic Compounds in the Treatment of Liver Cancer: A Database and Simulation Approach.",
+      "authors": [
+        "Hui-Xuan Tan",
+        "Yue-Ting Wang",
+        "Ruo-Lin Shen",
+        "Ming Jiang"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inonotus obliquus is a large fungus with high phenolic content that has demonstrated promising potential for the treatment of liver cancer. However, studies investigating its mechanism of action in the treatment of liver cancer are scarce. To explore its mechanism of action, network pharmacology was used to collect phenolic compounds from I. obliquus, identify potential targets related to liver cancer, and examine their association with relevant signaling pathways. Moreover, molecular docking was conducted to explore the binding abilities between the phenolic compounds of I. obliquus and core targets. Finally, molecular dynamics simulations were performed to assess the binding stability of protein-ligand complexes. A total of 22 phenolic compounds were identified in I. obliquus in the CNKI database. The 10 core targets in the PPI network included VEGFA, CTNNB1, KDR, VAV3, VAV2, CDC42, TP53, CBL, CCND1 and CDK2, all of which were primarily related to tumor angiogenesis, invasion, migration and cell cycle. GO analysis yielded 1487 biological processes, 99 cellular components, and 207 molecular functions. Meanwhile, KEGG enrichment analysis identified 103 signaling pathways, of which the MAPK pathway had the most annotated targets. Additionally, the results of molecular docking indicated that phenolic compounds in I. obliquus could effectively bind to the 10 core targets in the PPI network, with the lowest overall binding energy observed for the target CDK2. Finally, the results of molecular dynamics simulation demonstrated that over 100 ns, the phenolic compounds in I. obliquus, namely hesperetin, quercetin, isorhamnetin-3-O-glucoside, and rutin, could stably bind to the target CDK2. Overall, these findings indicated that phenolic compounds in I. obliquus regulate the proliferative, migratory and invasive abilities of liver cancer cells through multiple targets and signaling pathways. This study provides a scientific reference for the development of I. obliquus phenolic compounds as therapeutic agents for liver cancer.",
+      "mesh_terms": [
+        "Phenols",
+        "Molecular Docking Simulation",
+        "Liver Neoplasms",
+        "Humans",
+        "Inonotus",
+        "Molecular Dynamics Simulation",
+        "Signal Transduction",
+        "Network Pharmacology",
+        "Antineoplastic Agents"
+      ]
+    },
+    {
+      "pmid": "40160460",
+      "title": "Inonotus obliquus (chaga) ameliorates folic acid-induced renal fibrosis in mice: the crosstalk analysis among PT cells, macrophages and T cells based on single-cell sequencing.",
+      "authors": [
+        "Yueling Peng",
+        "Yaling Zhang",
+        "Rui Wang",
+        "Xinyu Wang",
+        "Xingwei Liu",
+        "Hui Liao",
+        "Rongshan Li"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Renal fibrosis, characterized by the abnormal accumulation of extracellular matrix in renal tissue and progressive loss of kidney function, is posing a significant challenge in clinical treatment. While several therapeutic options exist, effective treatments remain limited. Inonotus obliquus (Chaga), a traditional medicinal mushroom, has shown promising effects in chronic kidney disease (CKD), yet its cellular and molecular mechanisms remain largely unexplored. METHODS: We analysed the chemical composition of Chaga using UPLC-MS and predicted its biological targets using PubChem and Swiss Target Prediction. We used single-cell RNA sequencing to study cellular responses in a mouse model of folic acid-induced renal fibrosis, complemented by spatial transcriptomics to map cellular location patterns. Histological assessment was performed using H&E and Masson trichrome staining. RESULTS: For the first time, we employed single-cell RNA sequencing technology to investigate Chaga treatment in renal fibrosis. Histological analysis revealed that Chaga treatment significantly reduced renal tubular damage scores [from 5.00 (5.00, 5.00) to 2.00 (2.00, 2.00), p < 0.05] and decreased collagen deposition area (from 11.40% ± 3.01% to 4.06% ± 0.45%, p < 0.05) at day 14. Through analysis of 82,496 kidney cells, we identified 30 distinct cell clusters classified into eight cell types. Key findings include the downregulation of pro-inflammatory M1 macrophages and upregulation of anti-inflammatory M2 macrophages, alongside decreased T cell responses. Single-cell sequencing revealed differential gene expression in proximal tubular subpopulations associated with reduced fibrosis. Pathway and network pharmacology analyses of 60 identified compounds in Chaga and their 675 predicted targets suggested potential effects on immune and fibrotic pathways, particularly affecting Tregs and NKT cells. Cell-to-cell communication analyses revealed potential interactions between proximal tubular cells, macrophages, and T Cells, providing insights into possible mechanisms by which Chaga may ameliorate renal fibrosis. CONCLUSION: Our study provided new insights into the potential therapeutic effects of Chaga in renal fibrosis through single-cell sequencing analysis. Our findings suggest that Chaga may represent a promising candidate for renal fibrosis treatment, though further experimental validation is needed to establish its clinical application."
+    },
+    {
+      "pmid": "39756955",
+      "title": "Anticancer potentials of chaga and notoginseng against dog bladder cancer organoids.",
+      "authors": [
+        "Yuta Shinohara",
+        "Mohamed Elbadawy",
+        "Yishan Liu",
+        "Megumi Yamanaka",
+        "Haru Yamamoto",
+        "Yomogi Sato",
+        "Amira Augomaa",
+        "Yusuke Ishihara",
+        "Tatsuya Usui",
+        "Kazuaki Sasaki"
+      ],
+      "journal": "The Journal of veterinary medical science",
+      "publication_date": "2025-Feb-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Muscle-invasive bladder cancer (MIBC) is a common form of BC in dogs. Adjuvant chemotherapy administration is commonly applied in MIBC cases, but patients sometimes experience treatment failure and recurrence. Therefore, supplements with anticancer properties, such as traditional Chinese medicines (TCMs), are required, and they have been widely used in Japanese human medicine and may be useful in veterinary medicine. Furthermore, organoid cultures can mimic the characteristics of their original tissues, such as self-renewal and organization. We previously established a novel experimental model for MIBC using a dog BC organoid (DBCO) culture. Herein, we examined the antiproliferative effects and mechanisms of 39 substances, consisting of TCMs, TCM supplements, and crude drug extracts, on DBCOs. Among the TCMs, D3 (also known as Shibe-ria), which is a mixture of chaga (Inonotus obliquus) and notoginseng (Panax notoginseng), significantly diminished the cell viability of DBCOs. The expression of BC stem cell markers, CD44 and SOX2, was reduced considerably in the D3-treated DBCOs. Among the components of D3, chaga exerted an antiproliferative effect on DBCO, whereas notoginseng did not. The administration of D3 also significantly reduced the volume of DBCO xenografted tumors in mice in vivo. Overall, D3 may have benefits as a natural anticancer supplement in veterinary medicine.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Inonotus",
+        "Drugs, Chinese Herbal",
+        "Organoids",
+        "Urinary Bladder Neoplasms",
+        "Cell Proliferation",
+        "Male",
+        "Female",
+        "Animals",
+        "Dogs",
+        "Cell Survival",
+        "Mice",
+        "Heterografts",
+        "Biomarkers, Tumor",
+        "Gene Expression Regulation, Neoplastic",
+        "Carcinogenesis"
+      ]
+    },
+    {
+      "pmid": "39059831",
+      "title": "Inonotus obliquus (Chaga) against HFD/STZ-induced glucolipid metabolism disorders and abnormal renal functions by regulating NOS-cGMP-PDE5 signaling pathway.",
+      "authors": [
+        "Yating Feng",
+        "Jing Liu",
+        "Le Gong",
+        "Zhaodi Han",
+        "Yan Zhang",
+        "Rongshan Li",
+        "Hui Liao"
+      ],
+      "journal": "Chinese journal of natural medicines",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Our prior investigations have established that Inonotus obliquus (Chaga) possesses hypoglycemic effects. Persistent hyperglycemia is known to precipitate renal function abnormalities. The functionality of the kidneys is intricately linked to the levels of cyclic guanosine-3',5'-monophosphate (cGMP), which are influenced by the activities of nitric oxide synthase (NOS) and phosphodiesterase (PDE). Enhanced cGMP levels can be achieved either through the upregulation of NOS activity or the downregulation of PDE activity. The objective of the current study is to elucidate the effects of Chaga on disorders of glucolipid metabolism and renal abnormalities in rats with type 2 diabetes mellitus (T2DM), while concurrently examining the NOS-cGMP-PDE5 signaling pathway. A model of T2DM was developed in rats using a high-fat diet (HFD) combined with streptozotocin (STZ) administration, followed by treatment with Chaga extracts at doses of 50 and 100 mg·kg-1 for eight weeks. The findings revealed that Chaga not only mitigated metabolic dysfunctions, evidenced by improvements in fasting blood glucose, total cholesterol, triglycerides, and insulin resistance, but also ameliorated renal function markers, including serum creatinine, urine creatinine (UCr), blood urea nitrogen, 24-h urinary protein, and estimated creatinine clearance. Additionally, enhancements in glomerular volume, GBM thickness, podocyte foot process width (FPW), and the mRNA and protein expressions of podocyte markers, such as nephrin and wilms tumor-1, were observed. Chaga was found to elevate cGMP levels in both serum and kidney tissues by increasing mRNA and protein expressions of renal endothelial NOS and neural NOS, while simultaneously reducing the expressions of renal inducible NOS and PDE5. In summary, Chaga counteracts HFD/STZ-induced glucolipid metabolism and renal function disturbances by modulating the NOS-cGMP-PDE5 signaling pathway. This research supports the potential application of Chaga in the clinical prevention and treatment of T2DM and diabetic nephropathy (DN), with cGMP serving as a potential therapeutic target.",
+      "mesh_terms": [
+        "Animals",
+        "Cyclic GMP",
+        "Male",
+        "Signal Transduction",
+        "Cyclic Nucleotide Phosphodiesterases, Type 5",
+        "Kidney",
+        "Diet, High-Fat",
+        "Rats",
+        "Nitric Oxide Synthase",
+        "Inonotus",
+        "Diabetes Mellitus, Type 2",
+        "Rats, Sprague-Dawley",
+        "Streptozocin",
+        "Humans",
+        "Diabetes Mellitus, Experimental",
+        "Blood Glucose",
+        "Hypoglycemic Agents"
+      ]
+    },
+    {
+      "pmid": "38813471",
+      "title": "Therapeutic properties of Inonotus obliquus (Chaga mushroom): A review.",
+      "authors": [
+        "Phoebe Tee Yon Ern",
+        "Tang Yin Quan",
+        "Fung Shin Yee",
+        "Adeline Chia Yoke Yin"
+      ],
+      "journal": "Mycology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inonotus obliquus, also known as Chaga, is a medicinal mushroom that has been used for therapeutic purposes since the sixteenth century. Collections of folk medicine record the application of Chaga for the treatment of diseases such as gastrointestinal cancer, diabetes, bacterial infection, and liver diseases. Modern research provides scientific evidence of the therapeutic properties of I. obliquus extracts, including anti-inflammatory, antioxidant, anticancer, anti-diabetic, anti-obesity, hepatoprotective, renoprotective, anti-fatigue, antibacterial, and antiviral activities. Various bioactive compounds, including polysaccharides, triterpenoids, polyphenols, and lignin metabolites have been found to be responsible for the health-benefiting properties of I. obliquus. Furthermore, some studies have elucidated the underlying mechanisms of the mushroom's medicinal effects, revealing the compounds' interactions with enzymes or proteins of important pathways. Thus, this review aims to explore available information on the therapeutic potentials of Inonotus obliquus for the development of an effective naturally sourced treatment option."
+    },
+    {
+      "pmid": "38720012",
+      "title": "Chaga mushroom extract suppresses oral cancer cell growth via inhibition of energy metabolism.",
+      "authors": [
+        "Donghyeon Yeo",
+        "Yeo Gyun Yun",
+        "Seong-Jin Shin",
+        "Khandmaa Dashnyam",
+        "Anand Khurelbaatar",
+        "Jun Hee Lee",
+        "Hae-Won Kim"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2024-May-09",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Oral cancer stands as a prevalent maligancy worldwide; however, its therapeutic potential is limited by undesired effects and complications. As a medicinal edible fungus, Chaga mushroom (Inonotus obliquus) exhibits anticancer effects across diverse cancers. Yet, the precise mechanisms underlying its efficacy remain unclear. We explored the detailed mechanisms underlying the anticancer action of Chaga mushroom extract in oral cancer cells (HSC-4). Following treatment with Chaga mushroom extracts, we analyzed cell viability, proliferation capacity, glycolysis, mitochondrial respiration, and apoptosis. Our findings revealed that the extract reduced cell viability and proliferation of HSC-4 cells while arresting their cell cycle via suppression of STAT3 activity. Regarding energy metabolism, Chaga mushroom extract inhibited glycolysis and mitochondrial membrane potential in HSC-4 cells, thereby triggering autophagy-mediated apoptotic cell death through activation of the p38 MAPK and NF-κB signaling pathways. Our results indicate that Chaga mushroom extract impedes oral cancer cell progression, by inhibiting cell cycle and proliferation, suppressing cancer cell energy metabolism, and promoting autophagy-mediated apoptotic cell death. These findings suggest that this extract is a promising supplementary medicine for the treatment of patients with oral cancer.",
+      "mesh_terms": [
+        "Humans",
+        "Mouth Neoplasms",
+        "Energy Metabolism",
+        "Cell Proliferation",
+        "Cell Line, Tumor",
+        "Apoptosis",
+        "Autophagy",
+        "Inonotus",
+        "Cell Survival",
+        "Membrane Potential, Mitochondrial",
+        "Glycolysis",
+        "Signal Transduction",
+        "NF-kappa B",
+        "STAT3 Transcription Factor",
+        "Agaricales",
+        "Mitochondria",
+        "Cell Cycle"
+      ]
+    },
+    {
+      "pmid": "38543412",
+      "title": "Lignin-Based Hydrogels for the Delivery of Bioactive Chaga Mushroom Extract.",
+      "authors": [
+        "Aditi Nagardeolekar",
+        "Prajakta Dongre",
+        "Biljana M Bujanovic"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2024-Mar-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lignin-poly(ethylene)glycol diglycidyl ether hydrogels were synthesized from lignin fractions readily extracted during the hot-water treatment of angiosperms: hardwoods, sugar maple and energy-crop willow, monocotyledons, grasses, miscanthus and agriculture residues, and wheat straw. These lignins represent a broad range of chemical structures and properties as a comparative analysis of their suitability to produce the hydrogels as a novel carrier of chaga-silver nanoparticles. The formation of hydrogels was assessed via attenuated total reflectance Fourier-transformed infrared spectroscopy. Then, the hydrogels were observed via scanning electron microscopy and evaluated for their free-absorbency capacity and moduli of compression. Furthermore, a hydrogel produced from kraft lignin and two commercial hydrogels was evaluated to benchmark the effectiveness of our hydrogels. Chaga extracts were prepared via the hot-water extraction of chaga mushroom, a method selected for its relatively higher yields and preserved antioxidizing activities. Hydrogels synthesized with lignins of monocotyledons, wheat straw, and miscanthus were found to be suitable carriers for chaga-silver nanoparticles due to their favorable absorption and release behaviors."
+    },
+    {
+      "pmid": "38156584",
+      "title": "[Screening of antiviral activity of samples from chaga Inonotus obliquus and humic acid from brown coal on Vero cell culture against ectromelia virus (Poxviridae: Orthopoxvirus; ECTV)].",
+      "authors": [
+        "T V Teplyakova",
+        "A S Kabanov",
+        "A S Ovchinnikova",
+        "D A Odnoshevskyh",
+        "I F Petrovskaya",
+        "T S Nepomnyashchikh",
+        "O V Pyankov"
+      ],
+      "journal": "Voprosy virusologii",
+      "publication_date": "2023-Sep-21",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: The mouse-specific orthopoxvirus, ectromelia virus, is one of the best models that can be used to study key issues of pathogenesis, prevention, and treatment of smallpox, and to develop measures to increase virulence, transmissibility, or the ability to overcome vaccine immunity. The aim of the work is to screen the antiviral activity of samples from Inonotus obliquus chaga and humic acid from brown coal in vitro against ectromelia virus. MATERIALS AND METHODS: We used ectromelia virus, strain K-1 (reg. No V-142), obtained from the State Collection of Pathogens of Viral Infections and Rickettsioses of the State Scientific Center of Virology and Biotechnology \"Vector\"; Vero Е6 cell culture (No 70) from the Collection of cell cultures of the State Scientific Center of Virology and Biotechnology \"Vector\". Nine samples from chaga I. obliquus and humic acid from brown coal were used to evaluate the changes in the infectivity of the ectromelia virus on cell culture using 2 schemes of application of drugs and virus (preventive and therapeutic schemes), and to assess their cytotoxicity and antiviral activity. RESULTS: 50% cytotoxic concentration, 50% virus-inhibiting concentrations and selectivity index were determined for all samples. The studied samples were shown to be non-toxic to the monolayer of Vero cell culture in a dilution of 300 and more micrograms/ml, while demonstrated high antiviral activity against strain K-1 of ectromelia virus in two application schemes - preventive and curative. CONCLUSION: All samples tested for ectromelia virus in vitro can be considered promising for further development of drugs against diseases caused by orthopoxviruses.",
+      "mesh_terms": [
+        "Animals",
+        "Antiviral Agents",
+        "Cell Culture Techniques",
+        "Coal",
+        "Ectromelia virus",
+        "Ectromelia, Infectious",
+        "Humic Substances",
+        "Vero Cells",
+        "Chlorocebus aethiops",
+        "Inonotus"
+      ]
+    },
+    {
+      "pmid": "38116085",
+      "title": "Chaga mushroom: a super-fungus with countless facets and untapped potential.",
+      "authors": [
+        "Eric Fordjour",
+        "Charles F Manful",
+        "Rabia Javed",
+        "Lakshman W Galagedara",
+        "Chad W Cuss",
+        "Mumtaz Cheema",
+        "Raymond Thomas"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inonotus obliquus (Chaga mushroom) is an inexpensive fungus with a broad range of traditional and medicinal applications. These applications include therapy for breast, cervix, and skin cancers, as well as treating diabetes. However, its benefits are virtually untapped due to a limited understanding of its mycochemical composition and bioactivities. In this article, we explore the ethnobotany, mycochemistry, pharmacology, traditional therapeutic, cosmetic, and prospective agricultural uses. The review establishes that several secondary metabolites, such as steroids, terpenoids, and other compounds exist in chaga. Findings on its bioactivity have demonstrated its ability as an antioxidant, anti-inflammatory, antiviral, and antitumor agent. The study also demonstrates that Chaga powder has a long history of traditional use for medicinal purposes, pipe smoking rituals, and mystical future forecasts. The study further reveals that the applications of Chaga powder can be extended to industries such as pharmaceuticals, food, cosmetics, and agriculture. However numerous publications focused on the pharmaceutical benefits of Chaga with few publications on other applications. Overall, chaga is a promising natural resource with a wide range of potential applications and therefore the diverse array of therapeutic compounds makes it an attractive candidate for various applications such as plant biofertilizers and active ingredients in cosmetics and pharmaceutical products. Thus, further exploration of Chaga's potential benefits in agriculture and other industries could lead to exciting new developments and innovations."
+    },
+    {
+      "pmid": "38046279",
+      "title": "Chaga mushroom triterpenoids as adjuncts to minimally invasive cancer therapies: A review.",
+      "authors": [
+        "Selina Plehn",
+        "Sajeev Wagle",
+        "H P Vasantha Rupasinghe"
+      ],
+      "journal": "Current research in toxicology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cancer has become the second leading cause of death in the world. Integrative cancer therapy management is continuously evolving to enhance treatment outcomes. Chaga mushroom (Inonotus obliquus) is a parasitic fungus acclaimed to contain pharmaceutical and nutraceutical value in the fight against cancer. In particular, triterpenoid constituents derived from Chaga mushrooms have been recognized for their anti-cancer activity after distinguished cytotoxicity was repeatedly observed in cancer cells treated in vitro with lipophilic fractions of extract compared to aqueous ones. Studies that investigate the anti-cancer activity of Chaga mushroom triterpenoids are reviewed in this article to determine which cancer cell lines demonstrate the greatest susceptibility to them while highlighting the structure-activity relationships that are involved. Triterpenoid supplementation as an adjunct to cancer treatment may be a viable option as inotodiol and 3-β-22 α-dihydroxylanosta-8, 25-diene-24-one have been shown to exhibit anti-cancer activity similar to that of conventional drugs. Advances in addressing bioavailability challenges are also included in this review as studies include in vivo components."
+    },
+    {
+      "pmid": "37153767",
+      "title": "Anti-cancer activity of Chaga mushroom (Inonotus obliquus) against dog bladder cancer organoids.",
+      "authors": [
+        "Amira Abugomaa",
+        "Mohamed Elbadawy",
+        "Yusuke Ishihara",
+        "Haru Yamamoto",
+        "Masahiro Kaneda",
+        "Hideyuki Yamawaki",
+        "Yuta Shinohara",
+        "Tatsuya Usui",
+        "Kazuaki Sasaki"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Despite its disadvantages, chemotherapy is still commonly used for the treatment of bladder cancer (BC). Developing natural supplements that can target cancer stem cells (CSCs) which cause drug resistance and distant metastasis is necessary. Chaga mushrooms are popular to have several health-promoting and anti-cancer potentials. Organoid culture can recapitulate tumor heterogeneity, epithelial environment, and genetic and molecular imprints of the original tissues. In the previous study, we generated dog bladder cancer organoids (DBCO) as a novel experimental model of muscle-invasive BCO. Therefore, the present study aimed to examine the anti-tumor potentials of Chaga mushroom extract (Chaga) against DBCO. Four strains of DBCO were used in the present study. Treatment with Chaga inhibited the cell viability of DBCO in a concentration-dependent way. Treatment of DBCO with Chaga has significantly arrested its cell cycle and induced apoptosis. Expression of bladder CSC markers, CD44, C-MYC, SOX2, and YAP1, declined in the Chaga-treated DBCO. Also, Chaga inhibited the phosphorylation of ERK in DBCO. Expression of downstream signals of ERK, C-MYC, and Cyclins (Cyclin-A2, Cyclin-D1, Cyclin-E1, and CDK4) was also inhibited by Chaga in DBCO. Interestingly, the combinational treatment of DBCO with Chaga and anti-cancer drugs, vinblastine, mitoxantrone, or carboplatin, showed a potentiating activity. In vivo, Chaga administration decreased tumor growth and weight of DBCO-derived xenograft in mice with the induction of necrotic lesions. In conclusion, Chaga diminished the cell viability of DBCO by inhibiting proliferation-related signals and stemness conditions as well as by arresting the cell cycle. Collectively, these data suggest the value of Chaga as a promising natural supplement that could potentiate the effect of adjuvant chemotherapy, lower its adverse effects, and thus, limit the recurrence and metastasis of BC."
+    },
+    {
+      "pmid": "35807453",
+      "title": "The Anti-Inflammatory Properties of Chaga Extracts Obtained by Different Extraction Methods against LPS-Induced RAW 264.7.",
+      "authors": [
+        "Weaam Alhallaf",
+        "Lewis B Perkins"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2022-Jun-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chaga, a sclerotia formed by the Inonotus obliquus fungus, has been widely recognized for a number of medicinal properties. Although numerous scientific investigations have been published describing various biological activities of chaga from different geographical locations, little work has focused on chaga harvested in the USA or extraction techniques to maximize anti-inflammatory properties. The aim of this study was to investigate the anti-inflammatory properties of chaga collected in Maine (USA) extracted using traditional aqueous (hot water steeping) methods against lipopolysaccharide (LPS)-induced RAW 264.7 macrophages. Chaga extracts obtained from both conventional (ethanol/water) extraction methods and an accelerated solvent extraction method (ASE) at optimized conditions were compared to aqueous extracts (tea) obtained from chaga in the powder form (P) and powder form in tea bags (B) based on their effect on both nitric oxide (NO) production and pro-inflammatory cytokine expression, in particular, the expression of TNF-α, interleukin-6 (IL-6), and interleukin-β (IL-1β). Phenolic acid extracts from chaga and individual phenolic acid standards were also investigated for their effect on the same parameters. Results indicated that various chaga extracts have significant anti-inflammatory activity on LPS-stimulated RAW 264.7 cells. The inhibitory effect was through a decrease in the production of NO and the downregulation of TNF-α, IL-6, and IL-1β in RAW 264.7 macrophages. ASE1 (novel, optimized ethanol/water extraction) and P6 (six-minute steeping of powder in 100 °C water) extracts showed the highest inhibitory activity on NO production and on the expression of the inflammatory cytokines, compared to extracts obtained by conventional extraction methods.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Ethanol",
+        "Interleukin-6",
+        "Lipopolysaccharides",
+        "Mice",
+        "Nitric Oxide",
+        "Plant Extracts",
+        "Powders",
+        "RAW 264.7 Cells",
+        "Tea",
+        "Tumor Necrosis Factor-alpha",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "35451393",
+      "title": "Chaga mushroom-induced oxalate nephropathy that clinically manifested as nephrotic syndrome: A case report.",
+      "authors": [
+        "Ohyun Kwon",
+        "Yaerim Kim",
+        "Jin Hyuk Paek",
+        "Woo Yeong Park",
+        "Seungyeup Han",
+        "Hyungchan Sin",
+        "Kyubok Jin"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2022-Mar-11",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "RATIONALE: The Chaga mushroom (Hymenochaetaceae, Inonotus obliquus) is a fungus belonging to the Hymenochaetaceae family. It is parasitic on birch and other tree species. Chaga mushrooms are rich in various vitamins, minerals, and nutrients. Some people consider these mushrooms medicinal as they have been reported to suppress cancer progression through anti-inflammatory and antioxidant effects. However, recent studies have reported that excessive ingestion of Chaga mushrooms can cause acute oxalate nephropathy. PATIENT CONCERNS: A 69-year-old man who ingested Chaga mushroom powder (10-15 g per day) and vitamin C (500 mg per day) for the past 3 months developed acute kidney injury (AKI) with the clinical manifestations of nephrotic syndrome (NS). DIAGNOSIS: Pathological findings showed focal acute tubular injury and the deposition of calcium oxalate crystals in the tubules. Light microscopy showed interstitial fibrosis and tubular atrophy, and electron microscopy showed the effacement of the foot processes in podocytes. Based on these results, the diagnosis was acute oxalate nephropathy accompanied by minimal change disease (MCD). INTERVENTIONS: The patient's kidney function did not improve with supportive care, such as hydration and blood pressure control. Thus, we recommended hemodialysis and the administration of a high dose of steroids (intravenous hydrocortisone 500 mg twice a day for 3 days and oral prednisolone at 1 mg/kg). OUTCOMES: The patient's kidney function recovered just 1 month after the start of treatment, and the MCD was completely remitted. LESSONS: In cases of AKI with an unknown cause, it is important to closely observe the patient's medication history, and it is recommended to perform kidney biopsy. Furthermore, this study showed that active dialysis and high-dose steroid treatment can restore kidney function in patients with AKI caused by acute oxalate nephropathy with MCD.",
+      "mesh_terms": [
+        "Acute Kidney Injury",
+        "Aged",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Female",
+        "Humans",
+        "Hyperoxaluria",
+        "Inonotus",
+        "Male",
+        "Nephrosis, Lipoid",
+        "Nephrotic Syndrome",
+        "Oxalates",
+        "Renal Dialysis",
+        "Vitamins"
+      ]
+    },
+    {
+      "pmid": "34900242",
+      "title": "Targeting SARS-CoV-2 with Chaga mushroom: An in silico study toward developing a natural antiviral compound.",
+      "authors": [
+        "Jehane Ibrahim Eid",
+        "Biswadeep Das",
+        "Majdah Mohamed Al-Tuwaijri",
+        "Wesam Taha Basal"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2021-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The novel coronavirus (SARS-CoV-2) has caused large-scale global outbreaks and mainly mediates host cell entry through the interaction of its spike (S) protein with the human angiotensin-converting enzyme-2 (ACE-2) receptor. As there is no effective treatment for SARS-CoV-2 to date, it is imperative to explore the efficacy of new compounds that possess potential antiviral activity. In this study, we assessed the potential binding interaction of the beneficial components of Chaga mushroom, a natural anti-inflammatory and immune booster with that of the SARS-CoV-2 receptor-binding domain (RBD) using molecular docking, MD simulation, and phylogenetic analysis. Beta glycan, betulinic acid, and galactomannan constituents of Chaga mushroom exhibited strong binding interaction (-7.4 to -8.6 kcal/mol) forming multivalent hydrogen and non-polar bonds with the viral S1-carboxy-terminal domain of the RBD. Specifically, the best interacting sites for beta glycan comprised ASN-440, SER 373, TRP-436, ASN-343, and ARG 509 with average binding energy of -8.4 kcal/mol. The best interacting sites of galactomannan included ASN-437, SER 373, TRP-436, ASN-343, and ALA 344 with a mean binding energy of -7.4 kcal/mol; and the best interacting sites of betulinic acid were ASN-437, SER 373, TRP-436, PHE 342, ARG 509, and ALA 344 that strongly interacted with the S-protein (ΔG = -8.1 kcal/mol). The docking results were also compared with an S-protein binding analog, NAG and depicted similar binding affinities compared with that of the ligands (-8.67 kcal/mol). In addition, phylogenetic analysis using global isolates depicted that the current SARS-CoV-2 isolates possessed a furin cleavage site (NSPRRA) in the RBD, which was absent in the previous isolates that indicated increased efficacy of the present virus for enhanced infection through increased interaction with ACE-2. The results showed that Chaga could be an effective natural antiviral that can supplement the current anti-SARS-CoV-2 drugs."
+    },
+    {
+      "pmid": "34591398",
+      "title": "Protective Effects of Chaga Medicinal Mushroom, Inonotus obliquus (Agaricomycetes), Extract on β-Amyloid-Induced Neurotoxicity in PC12 Cells and Aging Rats: In Vitro and In Vivo Studies.",
+      "authors": [
+        "Yizhou Xin",
+        "Ying Zhang",
+        "Xiaoli Zhang"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Modulation of β-amyloid (Aβ)-induced neurotoxicity has emerged as a possible therapeutic approach to ameliorate the onset and progression of Alzheimer's disease. The present study aimed to evaluate the protective effect of Inonotus obliquus extracts (IOEs) on Aβ-induced neurotoxicity in cultured rat pheochromocytoma (PC12) cells and rats. Exposure of PC12 cells to IOE significantly elevated cell viability, decreased intracellular calcium levels, and attenuated Aβ-mediated cell apoptosis. In aging rats, IOE can decrease the production of amyloid precursor protein (APP) and the levels of Aβ plaques in hippocampus after IOE treatment in the brain by an action that is associated with a lowering of the of IL-1β, TNF-α levels. Our findings indicate that IOE has potential neuroprotective actions against Aβ-induced neurotoxicity, which may occur through modulation of calcium channels or downstream molecules involved in inflammation.",
+      "mesh_terms": [
+        "Agaricales",
+        "Aging",
+        "Amyloid beta-Peptides",
+        "Animals",
+        "Inonotus",
+        "PC12 Cells",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "34439572",
+      "title": "Effects of pH and Temperature on Water under Pressurized Conditions in the Extraction of Nutraceuticals from Chaga (Inonotus obliquus) Mushroom.",
+      "authors": [
+        "Ibrahim M Abu-Reidah",
+        "Amber L Critch",
+        "Charles F Manful",
+        "Amanda Rajakaruna",
+        "Natalia P Vidal",
+        "Thu H Pham",
+        "Mumtaz Cheema",
+        "Raymond Thomas"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2021-Aug-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Currently, there is increased interest in finding appropriate food-grade green extraction systems capable of extracting these bioactive compounds from dietary mushrooms for applications in various food, pharmacological, or nutraceutical formulations. Herein, we evaluated a modified Swiss water process (SWP) method using alkaline and acidic pH at low and high temperature under pressurized conditions as a suitable green food grade solvent to obtained extracts enriched with myco-nutrients (dietary phenolics, total antioxidants (TAA), vitamins, and minerals) from Chaga. Ultra-high performance liquid chromatography coupled to high resolution accurate mass tandem mass spectrometry (UHPLC-HRAMS-MS/MS) was used to assess the phenolic compounds and vitamin levels in the extracts, while inductively coupled plasma mass spectrometry (ICP-MS) was used to determine the mineral contents. Over 20 phenolic compounds were quantitatively evaluated in the extracts and the highest total phenolic content (TPC) and total antioxidant activity (TAA) was observed at pH 11.5 at 100 °C. The most abundant phenolic compounds present in Chaga extracts included phenolic acids such as protocatechuic acid 4-glucoside (0.7-1.08 µg/mL), syringic acid (0.62-1.18 µg/mL), and myricetin (0.68-1.3 µg/mL). Vitamins are being reported for the first time in Chaga. Not only, a strong correlation was found for TPC with TAA (r-0.8, <0.0001), but also, with individual phenolics (i.e., Salicylic acid), lipophilic antioxidant activity (LAA), and total antioxidant minerals (TAM). pH 2.5 at 100 °C treatment shows superior effects in extracting the B vitamins whereas pH 2.5 at 60 and 100 °C treatments were outstanding for extraction of total fat-soluble vitamins. Vitamin E content was the highest for the fat-soluble vitamins in the Chaga extract under acidic pH (2.5) and high temp. (100 °C) and ranges between 50 to 175 µg/100 g Chaga. Antioxidant minerals ranged from 85.94 µg/g (pH7 at 100 °C) to 113.86 µg/g DW (pH2.5 at 100 °C). High temperature 100 °C and a pH of 2.5 or 9.5. The treatment of pH 11.5 at 100 °C was the most useful for recovering phenolics and antioxidants from Chaga including several phenolic compounds reported for the first time in Chaga. SWP is being proposed herein for the first time as a novel, green food-grade solvent system for the extraction of myco-nutrients from Chaga and have potential applications as a suitable approach to extract nutrients from other matrices. Chaga extracts enriched with bioactive myconutrients and antioxidants may be suitable for further use or applications in the food and nutraceutical industries."
+    },
+    {
+      "pmid": "33947037",
+      "title": "Recent Developments in Inonotus obliquus (Chaga mushroom) Polysaccharides: Isolation, Structural Characteristics, Biological Activities and Application.",
+      "authors": [
+        "Yangpeng Lu",
+        "Yanan Jia",
+        "Zihan Xue",
+        "Nannan Li",
+        "Junyu Liu",
+        "Haixia Chen"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2021-Apr-29",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inonotus obliquus (Chaga mushroom) is a kind of medicine and health food widely used by folk in China, Russia, Korea, and some occidental countries. Among the extracts from Inonotus obliquus, Inonotus obliquus polysaccharide (IOPS) is supposed to be one of the major bioactive components in Inonotus obliquus, which possesses antitumor, antioxidant, anti-virus, hypoglycemic, and hypolipidemic activities. In this review, the current advancements on extraction, purification, structural characteristics, and biological activities of IOPS were summarized. This review can provide significant insight into the IOPS bioactivities as their in vitro and in vivo data were summarized, and some possible mechanisms were listed. Furthermore, applications of IOPS were reviewed and discussed; IOPS might be a potential candidate for the treatment of cancers and type 2 diabetes. Besides, new perspectives for the future work of IOPS were also proposed."
+    },
+    {
+      "pmid": "33598573",
+      "title": "Chaga mushroom (Inonotus obliquus) polysaccharides exhibit genoprotective effects in UVB-exposed embryonic zebrafish (Danio rerio) through coordinated expression of DNA repair genes.",
+      "authors": [
+        "Jehane Ibrahim Eid",
+        "Majdah Mohammad Al-Tuwaijri",
+        "Swabhiman Mohanty",
+        "Biswadeep Das"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2021-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chaga mushroom is one of the promising beneficial mushrooms thriving in the colder parts of Northern hemisphere. Chaga polysaccharides (IOP) have been reported to enhance immune response and alleviate oxidative stress during development. However, the effects of IOP on the genotoxicity in model organisms are yet to be clarified. In this study, IOP was extracted using hot water extraction method, followed by GC analysis. Zebrafish embryos (12 h post fertilization, hpf) were exposed to transient UVB (12 J/m2/s, 305-310nm) for 10 s using a UV hybridisation chamber, followed by IOP treatment (2.5 mg/mL) at 24 hpf for up to 7 days post fertilization (dpf). The genotoxic effects were assessed using acridine orange staining, alkaline comet assay, and qRT-PCR for screening DNA repair genes. Significant reduction in DNA damage and amelioration of the deformed structures in the IOP-treated zebrafish exposed to UVB (p < 0.05) was observed at 5 dpf and thereafter. The relative mRNA expressions of XRCC-5, XRCC-6, RAD51, and GADD45 were significantly upregulated, whereas p53 and BAX were downregulated in IOP-treated UVB-exposed zebrafish compared to UVB-exposed zebrafish. ELISA analysis revealed significantly decreased expression of XRCC5 and RAD51 in UVB-exposed compared to IOP-treated UVB-exposed and control zebrafish (7 dpf). However, p53 and BAX levels were high in UVB-exposed zebrafish, indicating higher apoptosis. Pathway analysis demonstrated coordinated regulation of DNA repair genes; p53 playing a pivotal role in regulating the expression of BAX, thereby promoting apoptosis in UVB-exposed zebrafish. Overall, IOP treatment ameliorated the genotoxic effects in UVB-exposed zebrafish by enhanced expression of DNA repair genes, which assisted in normal development. The study delineated the efficacy of IOP in mitigating UV-induced DNA damage in zebrafish."
+    },
+    {
+      "pmid": "33426827",
+      "title": "Effects of Chaga Medicinal Mushroom Inonotus obliquus (Agaricomycetes) Extracts on NOS-cGMP-PDE5 Pathway in Rat Penile Smooth Muscle Cells.",
+      "authors": [
+        "Hui Liao",
+        "Ding Jia",
+        "Xiaoyun Zhao",
+        "Dan Zheng",
+        "Yuanping Li",
+        "Rongshan Li"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Some medicinal mushrooms have effects on sexual dysfunctions. Nitric oxide synthase (NOS)-cyclic gua-nosine monophosphate (cGMP)-phosphodiesterase 5 enzyme (PDE5) pathway is one of the pathophysiological basis of erectile dysfunction (ED). The normal erectile function involves the synthesis of nitric oxide (NO), and the subsequent accumulation of cGMP, whereas cGMP degradation is specifically controlled by PDE5, which promotes corporal smooth muscle cell (SMC) tone and terminates erection. The antioxidant activities of Inonotus obliquus (chaga) water extracts (IO1) and water extraction and alcohol precipitation extracts (IO2) were compared using the 1,1-diphenyl-2-picrylhydrazyl (DPPH) scavenging assay and oxygen radical absorbance capacity (ORAC) method. Three subtypes of NOS (nNOS, iNOS, and eNOS) and PDE5 protein expressions were tested by Western blotting, and cGMP was determined by ELISA on a rat corporal primary SMC. The results revealed that IO2, which had a significantly higher polysaccharide content than IO1, showed a significantly higher ORAC value and a significantly lower half inhibitory concentration for DPPH scavenging activity than IO1. We observed that both IO1 and IO2 increased the expression of eNOS and iNOS significantly compared with the control. Furthermore, when compared with the control, IO1 increased PDE5 expression significantly, while IO2 showed no effect. The different impacts on PDE5 might be the reason that IO2, not IO1, showed significant inducible effect on cGMP compared with the control. This is to our knowledge, the first study exploring the effect of I. obliquus on NOS-cGMP-PDE5 pathway on SMC. The results provide a possible selection of I. obliquus for the treatment of ED.",
+      "mesh_terms": [
+        "Agaricales",
+        "Animals",
+        "Cyclic GMP",
+        "Cyclic Nucleotide Phosphodiesterases, Type 5",
+        "Erectile Dysfunction",
+        "Humans",
+        "Inonotus",
+        "Male",
+        "Myocytes, Smooth Muscle",
+        "Nitric Oxide Synthase",
+        "Penis",
+        "Plant Extracts",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "32751371",
+      "title": "Extracts of Phellinus linteus, Bamboo (Sasa senanensis) Leaf and Chaga Mushroom (Inonotus obliquus) Exhibit Antitumor Activity through Activating Innate Immunity.",
+      "authors": [
+        "Jun Fang",
+        "Shanghui Gao",
+        "Rayhanul Islam",
+        "Yuji Teramoto",
+        "Hiroshi Maeda"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2020-Jul-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Natural products have attracted great interest for some time as alternative methods against cancers by fulfilling immunomodulating properties. In this study, we investigated the activity of hot water extracts (120 °C, >30 min) of Phellinus linteus, fresh leaves of Kumaizasa bamboo and Chaga mushroom which we called MeshimaMax, for cancer prevention and treatment by using different solid tumor models. In the implanted mouse sarcoma S180 tumor, MeshimaMax treatment significantly inhibited tumor growth when it was applied at the early stage of tumor inoculation. The effect was further confirmed by using carcinogen induced tumors, i.e., azoxymethane (AOM)/dextran sulfate sodium (DSS) induced mouse colon cancer and 7,12-dimethylbenz anthracene (DMBA) induced rat breast cancer. In both cases the occurrences of tumors were remarkably suppressed by administration of MeshimaMax which consists of three components above. More importantly, when MeshimaMax was combined with an anticancer chemotherapeutic drug, the therapeutic effect was remarkably improved. In vitro studies showed that when MeshimaMax was applied to mouse macrophage RAW264.7 cells the phagocytosis of macrophages was significantly activated, which was evaluated by using living yeast cells as well as synthetic nanoparticles. A cytotoxicity assay showed the 50% inhibitory concentration (IC50) was higher than 1 mg/mL and normal cells were 2-3 times more tolerant to MeshimaMax than cancer cells. These findings suggest the potential application of MeshimaMax for cancer prevention and as supplement regimen for anticancer chemotherapy, probably functioning through activation of innate immunity, which may benefit cancer patients as an alternative supplement.",
+      "mesh_terms": [
+        "9,10-Dimethyl-1,2-benzanthracene",
+        "Animals",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Azoxymethane",
+        "Breast Neoplasms",
+        "Colonic Neoplasms",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Female",
+        "Immunity, Innate",
+        "Inonotus",
+        "Macrophages",
+        "Male",
+        "Mice",
+        "Phagocytosis",
+        "Phellinus",
+        "Plant Extracts",
+        "Plant Leaves",
+        "RAW 264.7 Cells",
+        "Rats",
+        "Sarcoma 180",
+        "Sasa"
+      ]
+    },
+    {
+      "pmid": "32035309",
+      "title": "Anti-allergic effect of inotodiol, a lanostane triterpenoid from Chaga mushroom, via selective inhibition of mast cell function.",
+      "authors": [
+        "Thi Minh Nguyet Nguyen",
+        "Hong Son Le",
+        "Ba Vinh Le",
+        "Young Ho Kim",
+        "Inkyu Hwang"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2020-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inotodiol is a lanostane triterpenoid found only in Chaga mushroom. In the previous study investigating anti-allergic effects of fractionated Chaga mushroom extracts, we have found evidence that purified inotodiol holds an activity to suppress the mast cell function in vivo. To address the therapeutic relevance of the finding, in this study, we investigated whether inotodiol could also alleviate allergy symptoms observed in a chicken ovalbumin (cOVA)-induced mouse model of food allergy. Like the crude 70% ethanol extract of Chaga mushroom (320 mg/kg), oral administration of inotodiol (20 mg/kg), regardless of whether that was for preventive or treatment purpose, resulted in a significant improvement in allergic symptoms and inflammatory lesions in the small intestine appearing after repeated oral challenge with cOVA. Despite the results that inotodiol (20 mg/kg) and the Chaga mushroom extract (320 mg/kg) took effect to a similar extent, immunological mechanisms underlying those effects were found to be distinct from each other. That is, the results obtained from several in vivo assays, including mast cell-mediated passive systemic anaphylaxis, activation/proliferation of adoptively transferred antigen-specific T cells and immunoglobulin (IgG1, IgE, IgA) production by antigen-specific B cells, illustrated that inotodiol selectively inhibited the mast cell function without having any noticeable effect on other immune responses while the crude Chaga mushroom extract indiscriminately suppressed diverse immune responses. The strong anti-allergic activity of inotodiol, along with its remarkable selectivity to mast cell, makes it an excellent therapeutic candidate for food allergy with both high efficacy and outstanding safety.",
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Anti-Allergic Agents",
+        "Cell Degranulation",
+        "Disease Models, Animal",
+        "Food Hypersensitivity",
+        "Humans",
+        "Inonotus",
+        "Lanosterol",
+        "Mast Cells",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Ovalbumin",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "31679287",
+      "title": "Assessment of the Gastroprotective Effect of the Chaga Medicinal Mushroom, Inonotus obliquus (Agaricomycetes), Against the Gastric Mucosal Ulceration Induced by Ethanol in Experimental Rats.",
+      "authors": [
+        "Xin Xin",
+        "Jing Qu",
+        "Vishnu Priya Veeraraghavan",
+        "Surapaneni Krishna Mohan",
+        "Kebin Gu"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The chaga medicinal mushroom (Inonotus obliquus) was traditionally used to treat various ailments. To establish the pharmacological properties of I. obliquus, studies were performed to show the antiulcer activity of the ethanolic extract. The ethanolic extract of I. obliquus was prepared. The antiulcer activity of I. obliquus was determined using gastric ulcerated rats (ulceration induced by ethanol). The ethanolic extract of I. obliquus (200 mg/kg) did not cause any sign of toxicity or sensitivity to rats when the extracts were administered by oral feed. Oral administration of ethanolic extract of I. obliquus exhibited antiulcer activity in all models used. The ethanolic extract of I. obliquus showed an effective antiulcer activity, which could be due to the presence of various biologically active compounds. This confirmed the traditional uses of I. obliquus in the treatment of ailments.",
+      "mesh_terms": [
+        "Agaricales",
+        "Animals",
+        "Anti-Ulcer Agents",
+        "Antioxidants",
+        "Basidiomycota",
+        "Catalase",
+        "Complex Mixtures",
+        "Dinoprostone",
+        "Disease Models, Animal",
+        "Ethanol",
+        "Glutathione",
+        "Hydrogen-Ion Concentration",
+        "Lipid Peroxidation",
+        "Medicine, Traditional",
+        "Rats",
+        "Rats, Wistar",
+        "Stomach Ulcer",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "31679230",
+      "title": "Chaga Medicinal Mushroom, Inonotus obliquus (Agaricomycetes) Polysaccharides Suppress Tacrine-induced Apoptosis by ROS-scavenging and Mitochondrial Pathway in HepG2 Cells.",
+      "authors": [
+        "Zhiguo Li",
+        "Junjie Mei",
+        "Liping Jiang",
+        "Chengyan Geng",
+        "Qiujuan Li",
+        "Xiaofeng Yao",
+        "Jun Cao"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Tacrine is the first drug licensed for the treatment of Alzheimer disease. Unfortunately, reversible hepatotoxicity limits its clinical use. In our previous study, we found that tacrine induced apoptosis in HepG2 cells by reactive oxygen species (ROS) formation and mitochondria dysfunction. Inonotus obliquus is a mushroom traditionally used as a folk medicine in Asia. In this study, the possible protective effect of polysaccharides from I. obliquus was investigated. The results showed that I. obliquus polysaccharides (IOP) reduced tacrine-induced apoptosis in HepG2 cells. Inhibition of tacrine-induced ROS generation, 8-OHdG formation in mitochondrial DNA, and loss of the mitochondrial transmembrane potential by IOP were also observed. Furthermore, IOP decreased the cytochrome c release and activation of caspase-3 induced by tacrine. These data suggest that IOP could inhibit tacrine-induced apoptosis in HepG2 cells. The protection is mediated by an antioxidant protective mechanism. Consumption of IOP may be a plausible way to prevent tacrine-induced hepatotoxicity.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Asia",
+        "Basidiomycota",
+        "Fungal Polysaccharides",
+        "Hep G2 Cells",
+        "Humans",
+        "Medicine, Traditional",
+        "Membrane Potential, Mitochondrial",
+        "Mitochondria",
+        "Reactive Oxygen Species",
+        "Tacrine"
+      ]
+    },
+    {
+      "pmid": "31030453",
+      "title": "Secondary Fermented Extract of Chaga-Cheonggukjang Attenuates the Effects of Obesity and Suppresses Inflammatory Response in the Liver and Spleen of High-Fat Diet-Induced Obese Mice.",
+      "authors": [
+        "Ha Gyoon Na",
+        "Yuna Park",
+        "Min-Ah Kim",
+        "Jin Woo Lee",
+        "Gyeongseop So",
+        "Sung Hyeok Kim",
+        "Ki-Hyo Jang",
+        "Mi-Ja Kim",
+        "Seung Namkoong",
+        "Hyun Jung Koo",
+        "Sung Ryul Lee",
+        "Eun-Hwa Sohn"
+      ],
+      "journal": "Journal of microbiology and biotechnology",
+      "publication_date": "2019-May-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cheonggukjang and chaga mushrooms have numerous health benefits, and have been used in alternative medicine. Therefore, a powder mixture of 98: Cheonggukjang and 2: Chaga extracts was fermented with Lactobacillus acidophilus KCTC3925 (FCC) and its anti-obesity effects in high-fat diet (HFD)-induced obese mice were determined. Five-week-old male ICR mice were fed a normal diet or HFD in the presence or absence of 3% and 5% FCC by weight (n = 10 per group). After 12 weeks, the mice were sacrificed, and the serum and tissue samples were collected for analysis. Body weight and epididymal fat pad weight were significantly lowered in the 3% and 5% FCC groups compared with those in the HFD control group (p < 0.01). FCC supplementation suppressed serum triglyceride and increased serum HDL-C levels (p < 0.01). Serum GOT, GPT, and leptin levels, hepatic COX-2 mRNA expression, and splenic COX-2 and IL-4 mRNA expression were significantly higher in the HFD groups than in the control group (p > 0.05); however, except for splenic IL-4 levels, the increases were significantly attenuated by FCC supplementation. Expression of ICAM-1, an aortic inflammatory marker, was significantly increased in the HFD group; this effect was suppressed in the 3% FCC group (p < 0.01) but not in the 5% FCC group. FCC suppressed the body weight and epididymal fat pad weight gain, as well as inflammatory responses in the liver and spleen of HFD-fed mice. Thus, FCC supplementation will be beneficial for the treatment of obesity-related effects.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Animals",
+        "Body Weight",
+        "Cyclooxygenase 2",
+        "Diet, High-Fat",
+        "Fermentation",
+        "Fermented Foods",
+        "Lactobacillus acidophilus",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Mice, Obese",
+        "Obesity",
+        "RNA, Messenger",
+        "Spleen",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "30334053",
+      "title": "Synthesis of porous Pd nanoparticles by therapeutic chaga extract for highly efficient tri-modal cancer treatment.",
+      "authors": [
+        "Yeong-Gyu Gil",
+        "Seounghun Kang",
+        "Ari Chae",
+        "Young-Kwan Kim",
+        "Dal-Hee Min",
+        "Hongje Jang"
+      ],
+      "journal": "Nanoscale",
+      "publication_date": "2018-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Porous palladium nanoparticles were designed and synthesized to maximize the pharmacological activity of the chaga mushroom (Inonotus obliquus) extract, which has anticancer and antibacterial activities. In the present study, we synthesized anisotropic porous Pd nanostructures with ultraviolet-visible-near infrared whole wavelength region absorption using chaga extract concentration-dependent reductant-mediated synthesis. The porous Pd nanoparticles exhibited a surface chaga extract-derived anticancer effect, controlled delivery of doxorubicin through electrostatic interaction, and a photothermal conversion effect under 808 nm laser irradiation. The combined application of the three cancer treatment approaches clearly demonstrated the feasibility of synergistic tri-modal therapy. The present platform using Pd, which is a key constituent element of nanocatalysts but is not commonly used in biological applications, suggests numerous applications utilizing Pd nanostructures, as well as the potential development of new cancer therapies.",
+      "mesh_terms": [
+        "Agaricales",
+        "Antineoplastic Agents",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Doxorubicin",
+        "Drug Carriers",
+        "Green Chemistry Technology",
+        "HeLa Cells",
+        "Humans",
+        "Hyperthermia, Induced",
+        "Lasers",
+        "Metal Nanoparticles",
+        "Neoplasms",
+        "Palladium",
+        "Phototherapy",
+        "Porosity",
+        "Static Electricity"
+      ]
+    },
+    {
+      "pmid": "29800742",
+      "title": "Bioactivity-based analysis and chemical characterization of cytotoxic constituents from Chaga mushroom (Inonotus obliquus) that induce apoptosis in human lung adenocarcinoma cells.",
+      "authors": [
+        "Jiwon Baek",
+        "Hyun-Soo Roh",
+        "Kwan-Hyuck Baek",
+        "Seulah Lee",
+        "Seul Lee",
+        "Seong-Soo Song",
+        "Ki Hyun Kim"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2018-Oct-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Inonotus obliquus, also known as Chaga mushroom, is one of the most widely appreciated wild edible mushrooms in Russia and northern European countries and is renowned for its use in cancer treatment. Indeed, recently published in vitro and in vivo studies have demonstrated its anticancer activity in various types of cancer and support its potential application for therapeutic intervention in cancer. However, its activity against lung cancer, the most commonly diagnosed cancer and the leading cause of cancer death worldwide, and the underlying molecular basis of its action remain to be fully elucidated. OBJECTIVE: This study aimed to evaluate the cytotoxic activity of I. obliquus in four human lung adenocarcinoma cell lines with different p53 status (A549, H1264, H1299, and Calu-6) and identify its active constituents by bioactivity-based analysis and the underlying molecular basis of their cytotoxicity on lung cancer cells. MATERIALS AND METHODS: Bioactivity-guided fractionation and preparative/semi-preparative HPLC purification were used with LC/MS analysis to separate the bioactive constituents. Cell viability and apoptosis in human lung cancer cell lines (A549, H1264, H1299, and Calu-6) were assessed using the WST-1 assay and TUNEL staining, respectively. Caspase activation was assessed by detecting its surrogate markers, cleaved poly (ADP-ribose) polymerase (PARP) and caspase-3, using an immunoblot assay. RESULTS: The MeOH extract of I. obliquus reduced cell viability in all lung cancer cell lines tested through induction of apoptosis accompanied by caspase-3 cleavage. Bioactivity-guided fractionation of the MeOH extract and chemical investigation of its cytotoxic hexane-soluble and CH2Cl2-soluble fractions led to the isolation of eight triterpenoids (1-8), including a new lanostane-type triterpenoid named chagabusone A (7). The structures of the isolates were elucidated based on spectroscopic analysis, including 1D and 2D NMR and high-resolution ESIMS. Among isolated compounds, compounds 1, 6, and 7 showed the most potent cytotoxic activity in all human lung cancer cell lines examined, with IC50 values ranging from 75.1 to 227.4 μM. Cytotoxicity of these compounds was mediated by apoptosis with caspase-3 activation. CONCLUSION: These findings provide experimental evidence supporting the potential application of I. obliquus in lung cancer treatment and reveal the molecular basis underlying its cytotoxic activity against human lung cancer cells.",
+      "mesh_terms": [
+        "Agaricales",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Complex Mixtures",
+        "Fruiting Bodies, Fungal",
+        "Humans",
+        "Lung Neoplasms",
+        "Methanol",
+        "Solvents"
+      ]
+    },
+    {
+      "pmid": "29175507",
+      "title": "The mast cell stabilizing activity of Chaga mushroom critical for its therapeutic effect on food allergy is derived from inotodiol.",
+      "authors": [
+        "Thi Minh Nguyen Nguyet",
+        "Maria Lomunova",
+        "Ba Vinh Le",
+        "Ji Sun Lee",
+        "Seol Kyu Park",
+        "Jong Seong Kang",
+        "Young Ho Kim",
+        "Inkyu Hwang"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "While an anti-allergic effect of Chaga mushroom (Inonotus obliquus) has been indicated, its therapeutic effect on allergy and immunoregulatory mechanisms and chemical constituents directly responsible for that are hardly known. We examined the effect of 70% ethanol extract of Chaga mushroom (EE) and its dichloromethane (DF) and aqueous (AF) fractions using a mouse model of chicken ovalbumin (cOVA)-induced food allergy, and found that only EE and DF ameliorated allergy symptoms to a significant extent. The in vivo mast cell-stabilizing activity was also found only in EE and DF whereas the activities to suppress Th2 and Th17 immune responses and cOVA-specific IgE production in the small intestine were observed in all three treatment regimens, implying that inhibition of the mast cell function by lipophilic compounds was vital for the therapeutic effect. Results also indicated that inotodiol, a triterpenoid predominantly present in DF, played an active role as a mast cell stabilizer.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Allergic Agents",
+        "Basidiomycota",
+        "Disease Models, Animal",
+        "Ethanol",
+        "Female",
+        "Food Hypersensitivity",
+        "Humans",
+        "Immunoglobulin E",
+        "Lanosterol",
+        "Mast Cells",
+        "Methylene Chloride",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Ovalbumin",
+        "Th17 Cells",
+        "Th2 Cells"
+      ]
+    },
+    {
+      "pmid": "27649606",
+      "title": "Cloning and Characterization of a Squalene Synthase Gene from the Chaga Medicinal Mushroom, Inonotus obliquus (Agaricomycetes).",
+      "authors": [
+        "Panpan Zhang",
+        "Xiaoying Cao",
+        "Changgen Li",
+        "Zhujun Zheng",
+        "Sun Yong",
+        "Ji-Hong Jiang"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Squalene synthase catalyzes the condensation of 2 molecules of farnesyl diphosphate to produce squalene, the first committed precursor for sterol, brassinosteroid, and triterpene biosynthesis. A squalene synthase gene, designated IoSQS, was isolated from Inonotus obliquus, a medicinal mushroom that produces a plethora of bioactive triterpenes. IoSQS complementary DNA was found to contain an open reading frame of 1476 bp, encoding a protein of 491 amino acids with a calculated molecular mass of 55.85 kDa. The IoSQS genomic DNA sequence consisted of 1813 bp and contained 4 exons and 3 introns. The restriction fragment polymorphisms revealed by Southern blot analysis suggested that IoSQS was a single-copy gene. Promoter analysis indicated that the 5' upstream region of IoSQS possessed various potential elements associated with physiological and environmental factors. The expression pattern of IoSQS in different stages and under methyl jasmonate treatment correlated with the accumulation of total triterpenoids and was consistent with the predicted results of the IoSQS promoter region. The N-terminal 466 residues of the hydrophilic sequence were expressed as a His-tagged protein in Escherichia coli, and the resultant bacterial crude extract was incubated with farnesyl diphosphate and NADPH. Squalene was detected in vitro in reaction mixture by high-performance liquid chromatography analysis. These results suggest that the IoSQS enzyme is involved in squalene production in I. obliquus.",
+      "mesh_terms": [
+        "Agaricales",
+        "Base Sequence",
+        "Blotting, Southern",
+        "Cloning, Molecular",
+        "DNA, Complementary",
+        "DNA, Fungal",
+        "Escherichia coli",
+        "Farnesyl-Diphosphate Farnesyltransferase",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Fungal",
+        "Phylogeny"
+      ]
+    },
+    {
+      "pmid": "27441282",
+      "title": "Continuous intake of the Chaga mushroom (Inonotus obliquus) aqueous extract suppresses cancer progression and maintains body temperature in mice.",
+      "authors": [
+        "Satoru Arata",
+        "Jun Watanabe",
+        "Masako Maeda",
+        "Masato Yamamoto",
+        "Hideto Matsuhashi",
+        "Mamiko Mochizuki",
+        "Nobuyuki Kagami",
+        "Kazuho Honda",
+        "Masahiro Inagaki"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2016-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Cancer is a leading cause of morbidity and mortality worldwide; therefore, effective measures for cancer prevention and treatment are in constant demand. The extracts of Inonotus obliquus (Chaga mushroom) demonstrate potent anti-tumor activities and have been used to treat cancer in several countries; however, the actual effect and underlying mechanisms are still unclear. In the present study, we aimed to investigate the effects of continuous intake of aqueous extract from I. obliquus on tumor suppression. MAIN METHODS: Anticancer activity of the I. obliquus extract was examined in mouse models of Lewis lung carcinoma growth and spontaneous metastasis after 3 weeks of continuous extract intake at the dose of 6 mg/kg/day, which corresponded to that ingested daily with Chaga infusion in Japan. KEY FINDINGS: The extract of I. obliquus caused significant tumor suppressive effects in both models. Thus, in tumor-bearing mice, 60% tumor reduction was observed, while in metastatic mice, the number of nodules decreased by 25% compared to the control group. Moreover, I. obliquus extract-treated mice demonstrated the increase in tumor agglomeration and inhibition of vascularization. Interestingly, I. obliquus intake decreased body weight in middle-aged mice and increased body temperature in response to light-dark switching in mature adult mice. Furthermore, I. obliquus prevented temperature drop in mice after tumor implantation. SIGNIFICANCE: Our findings suggest that the I. obliquus extract could be used as a natural remedy for cancer suppression by promoting energy metabolism."
+    },
+    {
+      "pmid": "26210065",
+      "title": "Ergosterol peroxide from Chaga mushroom (Inonotus obliquus) exhibits anti-cancer activity by down-regulation of the β-catenin pathway in colorectal cancer.",
+      "authors": [
+        "Ju-Hee Kang",
+        "Jeong-Eun Jang",
+        "Siddhartha Kumar Mishra",
+        "Hee-Ju Lee",
+        "Chu Won Nho",
+        "Dongyun Shin",
+        "Mirim Jin",
+        "Mi Kyung Kim",
+        "Changsun Choi",
+        "Seung Hyun Oh"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2015-Sep-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM OF THE STUDY: In this study, we examined the effect of different fractions and components of Chaga mushroom (Inonotus Obliquus) on viability and apoptosis of colon cancer cells. Among them, one component showed the most effective growth inhibition and was identified as ergosterol peroxide by NMR analysis. We investigated the anti-proliferative and apoptosis mechanisms of ergosterol peroxide associated with its anti-cancer activities in human colorectal cancer (CRC) cell lines and tested its anti-tumor effect on colitis-induced CRC developed by Azoxymethane (AOM)/Dextran sulfate sodium (DSS) in a mouse model. MATERIALS AND METHODS: We used MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) assays, flow cytometry assays, Western blot analysis, colony formation assays, reverse transcription-polymerase chain reaction (RT-PCR), immunohistochemistry (IHC), and AOM/DSS mouse models to study the molecular mechanism of metastatic activities in CRC cells. RESULTS: Ergosterol peroxide inhibited cell proliferation and also suppressed clonogenic colony formation in HCT116, HT-29, SW620 and DLD-1 CRC cell lines. The growth inhibition observed in these CRC cell lines was the result of apoptosis, which was confirmed by FACS analysis and Western blotting. Ergosterol peroxide inhibited the nuclear levels of β-catenin, which ultimately resulted in reduced transcription of c-Myc, cyclin D1, and CDK-8. Ergosterol peroxide administration showed a tendency to suppress tumor growth in the colon of AOM/DSS-treated mice, and quantification of the IHC staining showed a dramatic decrease in the Ki67-positive staining and an increase in the TUNEL staining of colonic epithelial cells in AOM/DSS-treated mice by ergosterol peroxide for both prevention and therapy. CONCLUSION: Our data suggest that ergosterol peroxide suppresses the proliferation of CRC cell lines and effectively inhibits colitis-associated colon cancer in AOM/DSS-treated mice. Ergosterol peroxide down-regulated β-catenin signaling, which exerted anti-proliferative and pro-apoptotic activities in CRC cells. These properties of ergosterol peroxide advocate its use as a supplement in colon cancer chemoprevention.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Agaricales",
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Colitis",
+        "Colon",
+        "Colorectal Neoplasms",
+        "Down-Regulation",
+        "Ergosterol",
+        "Female",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Signal Transduction",
+        "beta Catenin"
+      ]
+    },
+    {
+      "pmid": "25861415",
+      "title": "Ethanol extract of Innotus obliquus (Chaga mushroom) induces G1 cell cycle arrest in HT-29 human colon cancer cells.",
+      "authors": [
+        "Hyun Sook Lee",
+        "Eun Ji Kim",
+        "Sun Hyo Kim"
+      ],
+      "journal": "Nutrition research and practice",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: Inonotus obliquus (I. obliquus, Chaga mushroom) has long been used as a folk medicine to treat cancer. In the present study, we examined whether or not ethanol extract of I. obliquus (EEIO) inhibits cell cycle progression in HT-29 human colon cancer cells, in addition to its mechanism of action. MATERIALS/METHODS: To examine the effects of Inonotus obliquus on the cell cycle progression and the molecular mechanism in colon cancer cells, HT-29 human colon cancer cells were cultured in the presence of 2.5 - 10 µg/mL of EEIO, and analyzed the cell cycle arrest by flow cytometry and the cell cycle controlling protein expression by Western blotting. RESULTS: Treatment cells with 2.5 - 10 µg/mL of EEIO reduced viable HT-29 cell numbers and DNA synthesis, increased the percentage of cells in G1 phase, decreased protein expression of CDK2, CDK4, and cyclin D1, increased expression of p21, p27, and p53, and inhibited phosphorylation of Rb and E2F1 expression. Among I. obliquus fractions, fraction 2 (fractionated by dichloromethane from EEIO) showed the same effect as EEIO treatment on cell proliferation and cell cycle-related protein levels. CONCLUSIONS: These results demonstrate that fraction 2 is the major fraction that induces G1 arrest and inhibits cell proliferation, suggesting I. obliquus could be used as a natural anti-cancer ingredient in the food and/or pharmaceutical industry."
+    },
+    {
+      "pmid": "24940902",
+      "title": "Inhibitory effects of a polysaccharide extract from the Chaga medicinal mushroom, Inonotus obliquus (higher Basidiomycetes), on the proliferation of human neurogliocytoma cells.",
+      "authors": [
+        "Xianbin Ning",
+        "Qi Luo",
+        "Chuang Li",
+        "Zhaoyi Ding",
+        "Jinfeng Pang",
+        "Changfu Zhao"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to investigate the inhibitory roles of a polysaccharide extract from Inonotus obliquus on U251 human neurogliocytoma cells cultured in vitro. After administering the polysaccharide extract from I. obliquus to U251 cells cultivated in vitro, methyl thiazolyl tetrazoliym assay was performed to measure the inhibitory effects of the extract on tumor cell proliferation. The expression of the apoptosis-related proteins Bcl-2 and caspase-3 were determined by Western blotting. Different concentrations of I. obliquus extract (25, 50, 100, 200, and 500 µg/mL) were added to U251 cells at 24, 48, and 72 hours. Methyl thiazolyl tetrazoliym assay showed that the inhibition ratio increased with increased extract concentration and prolonged treatment duration. The I. obliquus extract sharply decreased the expression of Bcl-2 but dramatically increased the expression of caspase-3. This function was gradually enhanced with increased drug concentration and prolonged treatment duration. The I. obliquus extract can inhibit the proliferation of tumor cells. This inhibition function is closely related to the downregulation of Bcl-2 and the upregulation of caspase-3.",
+      "mesh_terms": [
+        "Agaricales",
+        "Apoptosis",
+        "Brain Neoplasms",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Glioma",
+        "Growth Inhibitors",
+        "Humans",
+        "Polysaccharides",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "22135889",
+      "title": "Anticancer effects of fraction isolated from fruiting bodies of Chaga medicinal mushroom, Inonotus obliquus (Pers.:Fr.) Pilát (Aphyllophoromycetideae): in vitro studies.",
+      "authors": [
+        "Marta Kinga Lemieszek",
+        "Ewa Langner",
+        "Józef Kaczor",
+        "Martyna Kandefer-Szerszeń",
+        "Bozena Sanecka",
+        "Witold Mazurkiewicz",
+        "Wojciech Rzeski"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The medicinal mushroom Chaga, Inonotus obliquus (Pers.:Fr.) Pilát (Hymenochaetaceae), has been used in folk medicine in Russia, Poland, and most of the Baltic countries, as a cleansing and disinfecting measure, and as decoctions for stomach diseases, intestinal worms, liver and heart ailments, and cancer treatment. Many reports have been published concerning the health promoting functions of this mushroom, including antibacterial, hepatoprotective, anti-inflammatory, antitumor, and antioxidant activities. The purpose of the present study was evaluation of in vitro anticancer activity of fraction IO4 isolated from I. obliquus. The effect on cell proliferation, motility and viability was assessed in a range of cancer and normal cells. Chaga fraction prepared from dried fruiting bodies was subjected to anticancer evaluation in human lung carcinoma (A549), colon adenocarcinoma (HT-29), and rat glioma (C6) cell cultures. Human skin fibroblasts (HSF), bovine aorta endothelial cells (BAEC), models of rat oligodendrocytes (OLN-93), hepatocytes (Fao), rat astroglia, and mouse neurons (P19) were applied to test toxicity in normal cells. The following methods were applied: tumor cell proliferation (MTT assay and BrdU assay), cytotoxicity (LDH assay), tumor cell motility (wound assay), tumor cell morphology (May-Grünwald-Giemsa staining), and death detection (ELISA). Chaga fraction elicited anticancer effects which were attributed to decreased tumor cell proliferation, motility and morphological changes induction. Of note is the fact that it produced no or low toxicity in tested normal cells. The data presented could open interesting paths for further investigations of fraction IO4 as a potential anticancer agent.",
+      "mesh_terms": [
+        "Agaricales",
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Biological Products",
+        "Cattle",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Fruiting Bodies, Fungal",
+        "Humans",
+        "Mice",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "22135888",
+      "title": "In vitro antitumor activity and structure characterization of ethanol extracts from wild and cultivated Chaga medicinal mushroom, Inonotus obliquus (Pers.:Fr.) Pilát (Aphyllophoromycetideae).",
+      "authors": [
+        "Yong Sun",
+        "Ting Yin",
+        "Xian-Hui Chen",
+        "Gong Zhang",
+        "Rempel B Curtis",
+        "Zhan-Hui Lu",
+        "Ji-Hong Jiang"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inonotus obliquus (Pers.:Fr.) Pilát has been traditionally used as a folk remedy for treatment of cancers, cardiovascular disease and diabetes in Russia, Poland, and most of the Baltic countries, but natural reserves of this fungus have nearly been exhausted. This study was designed to investigate the artificial cultivation of I. obliquus and the antitumor activity of its tissues. The ethanol extract of cultivated sclerotium had the highest cell growth inhibitory rate (74.6%) as determined by an 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. 78% of the bags produced sclerotia and only 6.17 g/bag of sclerotium was obtained. Extracts of the cultivated fruiting body showed 44.2% inhibitory activity against tumor cells. However, the yield was as high as 18.24 g/bag, and 98% of the bags produced fruiting body. The results of gas chromatography-mass spectroscopy (GC-MS) showed that similar compounds were extracted from the wild and cultivated samples. The principal compounds observed were lanosterol, inotodiol, and ergosterol. Their percentages of the mass fraction were 86.1, 59.9, and 71.8% of the total, for the wild sclerotium, cultivated sclerotium, and cultivated fruiting body, respectively. Ergosterol was found to be much higher (27.32%) in cultivated fruiting body. We conclude that cultivated fruiting body of I. obliquus obtained by inoculation of the substrate with spawn mycelium of the fifth generation could serve as an ideal substitute for the wild I. obliquus.",
+      "mesh_terms": [
+        "Agaricales",
+        "Antineoplastic Agents",
+        "Antioxidants",
+        "Biological Products",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Drug Screening Assays, Antitumor",
+        "Humans",
+        "Lung Neoplasms",
+        "Medicine, Traditional"
+      ]
+    },
+    {
+      "pmid": "18997282",
+      "title": "Chaga mushroom extract inhibits oxidative DNA damage in lymphocytes of patients with inflammatory bowel disease.",
+      "authors": [
+        "Mojgan Najafzadeh",
+        "P Dominic Reynolds",
+        "Adolf Baumgartner",
+        "David Jerwood",
+        "Diana Anderson"
+      ],
+      "journal": "BioFactors (Oxford, England)",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inflammatory Bowel Disease (IBD) is partly caused by oxidative stress from free radicals and reduced antioxidant levels. Using hydrogen peroxide to induce oxidative stress in vitro in peripheral lymphocytes we investigated the induction of DNA damage supplemented with ethanolic extract of Chaga mushroom as a protective antioxidant. Lymphocytes were obtained from 20 IBD patients and 20 healthy volunteers. For treatment, a constant H_{2}O_{2 } dose (50 microg/ml) was used with variable doses of Chaga extract (10-500 microg/ml). DNA damage was evaluated in 50 cells per individual and dose using the Comet assay (making 1000 observations per experimental point ensuring appropriate statistical power). Chaga supplementation resulted in a 54.9% (p < 0.001) reduction of H_{2}O_{2 } induced DNA damage within the patient group and 34.9% (p < 0.001) within the control group. Lymphocytes from Crohn's disease (CD) patients had a greater basic DNA damage than Ulcerative Colitis (UC) patients (p < 0.001). Conclusively, Chaga extract reduces oxidative stress in lymphocytes from IBD patients and also healthy individuals when challenged in vitro. Thus, Chaga extract could be a possible and valuable supplement to inhibit oxidative stress in general.",
+      "mesh_terms": [
+        "Agaricales",
+        "Biological Products",
+        "Comet Assay",
+        "DNA Damage",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Lymphocytes",
+        "Oxidative Stress"
+      ]
+    },
+    {
+      "pmid": "18203281",
+      "title": "Chaga mushroom (Inonotus obliquus) induces G0/G1 arrest and apoptosis in human hepatoma HepG2 cells.",
+      "authors": [
+        "Myung-Ja Youn",
+        "Jin-Kyung Kim",
+        "Seong-Yeol Park",
+        "Yunha Kim",
+        "Se-Jin Kim",
+        "Jin-Seok Lee",
+        "Kyu-Yun Chai",
+        "Hye-Jung Kim",
+        "Ming-Xun Cui",
+        "Hong-Seob So",
+        "Ki-Young Kim",
+        "Raekil Park"
+      ],
+      "journal": "World journal of gastroenterology",
+      "publication_date": "2008-Jan-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To investigate the anti-proliferative and apoptotic effects of Chaga mushroom (Inonotus obliquus) water extract on human hepatoma cell lines, HepG2 and Hep3B cells. METHODS: The cytotoxicity of Chaga extract was screened by 3-[4,5-dimethylthiazol-2-yl]-2, 5-diphenyltetrazolium bromide (MTT) assay. Morphological observation, flow cytometry analysis, Western blot were employed to elucidate the cytotoxic mechanism of Chaga extract. RESULTS: HepG2 cells were more sensitive to Chaga extract than Hep3B cells, as demonstrated by markedly reduced cell viability. Chaga extract inhibited the cell growth in a dose-dependent manner, which was accompanied with G0/G1-phase arrest and apoptotic cell death. In addition, G0/G1 arrest in the cell cycle was closely associated with down-regulation of p53, pRb, p27, cyclins D1, D2, E, cyclin-dependent kinase (Cdk) 2, Cdk4, and Cdk6 expression. CONCLUSION: Chaga mushroom may provide a new therapeutic option, as a potential anticancer agent, in the treatment of hepatoma.",
+      "mesh_terms": [
+        "Agaricales",
+        "Apoptosis",
+        "Biological Products",
+        "Carcinoma, Hepatocellular",
+        "Cell Line, Tumor",
+        "Cytotoxins",
+        "G1 Phase",
+        "Humans",
+        "Liver Neoplasms",
+        "Medicine, Traditional",
+        "Resting Phase, Cell Cycle"
+      ]
+    },
+    {
+      "pmid": "17012771",
+      "title": "Reversal of the TPA-induced inhibition of gap junctional intercellular communication by Chaga mushroom (Inonotus obliquus) extracts: effects on MAP kinases.",
+      "authors": [
+        "Jung-Ran Park",
+        "Joon-Suk Park",
+        "Eun-Hye Jo",
+        "Jae-Woong Hwang",
+        "Sun-Jung Kim",
+        "Jeong-Chan Ra",
+        "Okezie I Aruoma",
+        "Yong-Soon Lee",
+        "Kyung-Sun Kang"
+      ],
+      "journal": "BioFactors (Oxford, England)",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Chaga mushroom (Inonotus obliquus) has continued to receive attention as a folk medicine with indications for the treatment of cancers and digestive diseases. The anticarcinogenic effect of Chaga mushroom extract was investigated using a model system of gap junctional intercellular communication (GJIC) in WB-F344 normal rat liver epithelial cells. The cells were pre-incubated with Chaga mushroom extracts (5, 10, 20 microg/ml) for 24 h and this was followed by co-treatment with Chaga mushroom extracts and TPA (12-O-tetradecanoylphorbol-13-acetate, 10 ng/ml) for 1 h. The inhibition of GJIC by TPA (12-O-tetradecanoylphorbol-13-acetate), promoter of cancer, was prevented with treatment of Chaga mushroom extracts. Similarly, the increased phosphorylated ERK1/2 and p38 protein kinases were markedly reduced in Chaga mushroom extracts-treated cells. There was no change in the JNK kinase protein level, suggesting that Chaga mushroom extracts could only block the activation of ERK1/2 and p38 MAP kinase. The Chaga mushroom extracts further prevented the inhibition of GJIC through the blocking of Cx43 phosphorylation. Indeed cell-to-cell communication through gap junctional channels is a critical factor in the life and death balance of cells because GJIC has an important function in maintaining tissue homeostasis through the regulation of cell growth, differentiation, apoptosis and adaptive functions of differentiated cells. Thus Chaga mushroom may act as a natural anticancer product by preventing the inhibition of GJIC through the inactivation of ERK1/2 and p38 MAP kinase.",
+      "mesh_terms": [
+        "Agaricales",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Blotting, Western",
+        "Cell Communication",
+        "Cell Survival",
+        "Cells, Cultured",
+        "Connexin 43",
+        "Epithelial Cells",
+        "Gap Junctions",
+        "MAP Kinase Kinase 4",
+        "Mitogen-Activated Protein Kinase 1",
+        "Mitogen-Activated Protein Kinases",
+        "Phosphorylation",
+        "Rats",
+        "Tetradecanoylphorbol Acetate",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "15630179",
+      "title": "Chaga mushroom extract inhibits oxidative DNA damage in human lymphocytes as assessed by comet assay.",
+      "authors": [
+        "Yoo Kyoung Park",
+        "Hyang Burm Lee",
+        "Eun-Jae Jeon",
+        "Hack Sung Jung",
+        "Myung-Hee Kang"
+      ],
+      "journal": "BioFactors (Oxford, England)",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The Chaga mushroom (Inonotus obliquus) is claimed to have beneficial properties for human health, such as anti-bacterial, anti-allergic, anti-inflammatory and antioxidant activities. The antioxidant effects of the mushroom may be partly explained by protection of cell components against free radicals. We evaluated the effect of aqueous Chaga mushroom extracts for their potential for protecting against oxidative damage to DNA in human lymphocytes. Cells were pretreated with various concentrations (10, 50, 100 and 500 microg/mL) of the extract for 1 h at 37 degrees C. Cells were then treated with 100 microM of H2O2 for 5 min as an oxidative stress. Evaluation of oxidative damage was performed using single-cell gel electrophoresis for DNA fragmentation (Comet assay). Using image analysis, the degree of DNA damage was evaluated as the DNA tail moment. Cells pretreated with Chaga extract showed over 40% reduction in DNA fragmentation compared with the positive control (100 micromol H2O2 treatment). Thus, Chaga mushroom treatment affords cellular protection against endogenous DNA damage produced by H2O2.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Basidiomycota",
+        "Cell Extracts",
+        "Comet Assay",
+        "DNA",
+        "DNA Damage",
+        "Humans",
+        "Korea",
+        "Lymphocytes"
+      ]
+    },
+    {
+      "pmid": "4755970",
+      "title": "[Treatment o psoriasis using \"Chaga\" fungus preparations].",
+      "authors": [
+        "E A Dosychev",
+        "V N Bystrova"
+      ],
+      "journal": "Vestnik dermatologii i venerologii",
+      "publication_date": "1973-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Child",
+        "Chronic Disease",
+        "Dermatologic Agents",
+        "Female",
+        "Fungi",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Psoriasis"
+      ]
+    },
+    {
+      "pmid": "20994826",
+      "title": "Penicillin in Chaga's disease; with a note on Chaga's disease in Ecuador.",
+      "authors": [
+        "K V EARLE"
+      ],
+      "journal": "The Journal of tropical medicine and hygiene",
+      "publication_date": "1946",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Chagas Disease",
+        "Ecuador",
+        "Humans",
+        "Penicillins",
+        "Trypanosomiasis"
+      ]
+    }
+  ]
+}

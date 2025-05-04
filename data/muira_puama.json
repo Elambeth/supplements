@@ -1,0 +1,25 @@
+{
+  "supplement": "Muira puama",
+  "query": "Muira puama[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:06:52",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "26405615",
+      "title": "Treatment with a combination of ginger, L-citrulline, muira puama and Paullinia cupana can reverse the progression of corporal smooth muscle loss, fibrosis and veno-occlusive dysfunction in the aging rat.",
+      "authors": [
+        "Monica G Ferrini",
+        "Su M Hlaing",
+        "Andre Chan",
+        "Jorge N Artaza"
+      ],
+      "journal": "Andrology : open access",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Aging associated erectile dysfunction is characterized within the corpora by a progressive apoptosis of the smooth muscle cells and their replacement by collagen. Nitric oxide from iNOS has been shown to inhibit these histological changes in the corpora while PDE5 inhibitors as well as certain nutraceuticals such as ginger, paullinia cupana, muira puama and L-citrulline are known to enhance the effects of NO. We evaluated whether the daily oral administration for 2 months with a combination of ginger, paullinia cupana, muira puama and L-citrulline (COMP-4) can effectively delay the ongoing corporal fibrosis, smooth muscle cell apoptosis and cavernosal veno-occlusive dysfunction (CVOD) seen in middle aged rats similar to that seen with tadalafil. METHODS: 10 Month old Fisher 344 rats were treated or not for two months with COMP-4, tadalafil or a combination of tadalafil plus COMP-4. CVOD was determined by dynamic infusion cavernosometry. Penile sections of the corpora cavernosa were subjected to Masson trichrome staining to evaluate fibrosis and immunohistochemistry for desmin as a marker of smooth muscle content and inducible nitric oxide synthase (iNOS) followed by image analysis. Oxidative stress levels were determined by GSH/GSSG ratio in whole blood. RESULTS: a decline in the non-treated rat's erectile function is evident by 10-12 months of age and is accompanied by a decrease in the corporal smooth muscle content determined by desmin expression and an increase in corporal fibrosis. The daily treatment for two months with COMP-4 reverses this process by reducing systemic oxidative stress and increasing desmin and iNOS expression, similar to that seen with tadalafil or the combination of COMP-4 plus tadalafil. CONCLUSION: An oral combination of ginger, muira puama, Paullinia cupana and L-citrulline seems to be as effective as daily PDE5 inhibitor therapy in either delaying or reversing the onset of the histological and functional characteristics of aging related erectile dysfunction."
+    }
+  ]
+}

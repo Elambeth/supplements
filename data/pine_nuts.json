@@ -1,0 +1,108 @@
+{
+  "supplement": "Pine Nuts",
+  "query": "Pine Nuts[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:19:43",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "39816337",
+      "title": "Effect of roasting on the chemical and lipid composition of pine nuts in two regions in Russia.",
+      "authors": [
+        "Olga Teneva",
+        "Zhana Petkova",
+        "Nikolay Toshev",
+        "Nikolay Solakov",
+        "Kamelia Loginovska",
+        "Yurii Platov"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2024-Jul-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The impact of thermal treatment for roasting on pine nuts from two geographical regions in Russia (Vladivostok and Baikal) was studied. They were roasted at 180 °C for 20 min in an oven. The aim was to establish the changes that occurred in the chemical (proteins, lipids, carbohydrates, ash, fibers), lipid composition (fatty acids, tocopherols, sterols, phospholipids), and physicochemical characteristics (peroxide value, acid value, iodine value, conjugated dienes and trienes) after roasting of the pine nuts. The results showed that the composition of the raw and roasted nuts differed (p < 0.05). Significant differences (p < 0.05) were observed in the oxidative stability of raw and roasted nuts from Baikal and, the content of unsaponifiable substances and sterols in the nut oil from Vladivostok. The roasting process influences the isolated oils from pine nuts as the chemical and lipid composition changes of oils from Baikal are significant (p < 0.05). Both raw and roasted pine nuts have high energy value, protein content, and good health benefits and can be consumed either way. Overall, it was established that the roasting of pine nuts had little impact on their lipid composition; the nuts could also be a source of lipid-soluble bioactive components and might have health-promoting effects."
+    },
+    {
+      "pmid": "36674687",
+      "title": "The Beneficial Effects of Pine Nuts and Its Major Fatty Acid, Pinolenic Acid, on Inflammation and Metabolic Perturbations in Inflammatory Disorders.",
+      "authors": [
+        "Rabaa Takala",
+        "Dipak P Ramji",
+        "Ernest Choy"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-Jan-06",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inflammatory disorders such as atherosclerosis, diabetes and rheumatoid arthritis are regulated by cytokines and other inflammatory mediators. Current treatments for these conditions are associated with significant side effects and do not completely suppress inflammation. The benefits of diet, especially the role of specific components, are poorly understood. Polyunsaturated fatty acids (PUFAs) have several beneficial health effects. The majority of studies on PUFAs have been on omega-3 fatty acids. This review will focus on a less studied fatty acid, pinolenic acid (PNLA) from pine nuts, which typically constitutes up to 20% of its total fatty acids. PNLA is emerging as a dietary PUFA and a promising supplement in the prevention of inflammatory disorders or as an alternative therapy. Some studies have shown the health implications of pine nuts oil (PNO) and PNLA in weight reduction, lipid-lowering and anti-diabetic actions as well as in suppression of cell invasiveness and motility in cancer. However, few reviews have specifically focused on the biological and anti-inflammatory effects of PNLA. Furthermore, in recent bioinformatic studies on human samples, the expression of many mRNAs and microRNAs was regulated by PNLA indicating potential transcriptional and post-transcriptional regulation of inflammatory and metabolic processes. The aim of this review is to summarize, highlight, and evaluate research findings on PNO and PNLA in relation to potential anti-inflammatory benefits and beneficial metabolic changes. In this context, the focus of the review is on the potential actions of PNLA on inflammation along with modulation of lipid metabolism and oxidative stress based on data from both in vitro and in vivo experiments, and human findings, including gene expression analysis.",
+      "mesh_terms": [
+        "Humans",
+        "Nuts",
+        "Inflammation",
+        "Linolenic Acids",
+        "Fatty Acids, Unsaturated",
+        "Anti-Inflammatory Agents",
+        "Fatty Acids, Omega-3"
+      ]
+    },
+    {
+      "pmid": "22153059",
+      "title": "Tree nut phytochemicals: composition, antioxidant capacity, bioactivity, impact factors. A systematic review of almonds, Brazils, cashews, hazelnuts, macadamias, pecans, pine nuts, pistachios and walnuts.",
+      "authors": [
+        "Bradley W Bolling",
+        "C-Y Oliver Chen",
+        "Diane L McKay",
+        "Jeffrey B Blumberg"
+      ],
+      "journal": "Nutrition research reviews",
+      "publication_date": "2011-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "Tree nuts contain an array of phytochemicals including carotenoids, phenolic acids, phytosterols and polyphenolic compounds such as flavonoids, proanthocyanidins (PAC) and stilbenes, all of which are included in nutrient databases, as well as phytates, sphingolipids, alkylphenols and lignans, which are not. The phytochemical content of tree nuts can vary considerably by nut type, genotype, pre- and post-harvest conditions, as well as storage conditions. Genotype affects phenolic acids, flavonoids, stilbenes and phytosterols, but data are lacking for many other phytochemical classes. During the roasting process, tree nut isoflavones, flavanols and flavonols were found to be more resistant to heat than the anthocyanins, PAC and trans-resveratrol. The choice of solvents used for extracting polyphenols and phytosterols significantly affects their quantification, and studies validating these methods for tree nut phytochemicals are lacking. The phytochemicals found in tree nuts have been associated with antioxidant, anti-inflammatory, anti-proliferative, antiviral, chemopreventive and hypocholesterolaemic actions, all of which are known to affect the initiation and progression of several pathogenic processes. While tree nut phytochemicals are bioaccessible and bioavailable in humans, the number of intervention trials conducted to date is limited. The objectives of the present review are to summarise tree nut: (1) phytochemicals; (2) phytochemical content included in nutrient databases and current publications; (3) phytochemicals affected by pre- and post-harvest conditions and analytical methodology; and (4) bioactivity and health benefits in humans.",
+      "mesh_terms": [
+        "Agriculture",
+        "Anti-Inflammatory Agents",
+        "Anticholesteremic Agents",
+        "Antineoplastic Agents, Phytogenic",
+        "Antioxidants",
+        "Antiviral Agents",
+        "Humans",
+        "Magnoliopsida",
+        "Nuts",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Trees"
+      ]
+    },
+    {
+      "pmid": "20049580",
+      "title": "\"Pine mouth\" syndrome: cacogeusia following ingestion of pine nuts (genus: pinus). An emerging problem?",
+      "authors": [
+        "Marc-David Munk"
+      ],
+      "journal": "Journal of medical toxicology : official journal of the American College of Medical Toxicology",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "We report a case of cacogeusia, specifically metallogeusia (a perceived metallic or bitter taste) following pine nut ingestion. A 36-year-old male presented with cacogeusia one day following ingestion of 10-15 roasted pine nuts (genus: Pinus). Symptoms became worst on post-exposure day 2 and progressively improved without treatment over 5 days. There were no other symptoms and physical examination was unrevealing. All symptoms resolved without sequalae. We contemporaneously report a rise in pine nut-associated cacogeusia reported online during the first quarter of 2009, and a significant rise in online searches related to pine nut-associated cacogeusia (or what the online public has termed \"pine mouth\") during this time. Most online contributors note a similar cacogeusia 1-3 days following pine nut ingestion lasting for up to 2 weeks. All cases seem self-limited. Patients occasionally describe abdominal cramping and nausea after eating the nuts. Raw, cooked, and processed nuts (in pesto, for example) are implicated. While there appears to be an association between pine nut ingestion and cacogeusia, little is known about this condition, nor can any specific mechanism of specific cause be identified. It is not known if a specific species of pine nut can be implicated. \"Pine mouth\" appears to be an emerging problem.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Mouth Diseases",
+        "Nuts",
+        "Pinus",
+        "Taste"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "supplement": "Whole Coffee Fruit Extract",
+  "query": "Whole Coffee Fruit Extract[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:05:40",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "23312069",
+      "title": "Modulatory effect of coffee fruit extract on plasma levels of brain-derived neurotrophic factor in healthy subjects.",
+      "authors": [
+        "Tania Reyes-Izquierdo",
+        "Boris Nemzer",
+        "Cynthia Shu",
+        "Lan Huynh",
+        "Ruby Argumedo",
+        "Robert Keller",
+        "Zb Pietrzkowski"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2013-Aug-28",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present single-dose study was performed to assess the effect of whole coffee fruit concentrate powder (WCFC), green coffee caffeine powder (N677), grape seed extract powder (N31) and green coffee bean extract powder (N625) on blood levels of brain-derived neurotrophic factor (BDNF). Randomly assorted groups of fasted subjects consumed a single, 100mg dose of each material. Plasma samples were collected at time zero (T0) and at 30 min intervals afterwards, up to 120 min. A total of two control groups were included: subjects treated with silica dioxide (as placebo) or with no treatment. The collected data revealed that treatments with N31 and N677 increased levels of plasma BDNF by about 31% under these experimental conditions, whereas treatment with WCFC increased it by 143% (n 10), compared with baseline. These results indicate that WCFC could be used for modulation of BDNF-dependent health conditions. However, larger clinical studies are needed to support this possibility.",
+      "mesh_terms": [
+        "Brain-Derived Neurotrophic Factor",
+        "Caffeine",
+        "Coffea",
+        "Fruit",
+        "Humans",
+        "Plant Extracts",
+        "Seeds",
+        "Silicon Dioxide",
+        "Vitis"
+      ]
+    }
+  ]
+}

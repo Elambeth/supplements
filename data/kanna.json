@@ -1,0 +1,63 @@
+{
+  "supplement": "Kanna",
+  "query": "Kanna[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:51:34",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "33924742",
+      "title": "A Chewable Cure \"Kanna\": Biological and Pharmaceutical Properties of Sceletium tortuosum.",
+      "authors": [
+        "Madira Coutlyne Manganyi",
+        "Cornelius Carlos Bezuidenhout",
+        "Thierry Regnier",
+        "Collins Njie Ateba"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2021-Apr-28",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Sceletium tortuosum (L.) N.E.Br. (Mesembryanthemaceae), commonly known as kanna or kougoed, is an effective indigenous medicinal plant in South Africa, specifically to the native San and Khoikhoi tribes. Today, the plant has gained strong global attraction and reputation due to its capabilities to promote a sense of well-being by relieving stress with calming effects. Historically, the plant was used by native San hunter-gatherers and Khoi people to quench their thirst, fight fatigue and for healing, social, and spiritual purposes. Various studies have revealed that extracts of the plant have numerous biological properties and isolated alkaloids of Sceletium tortuosum are currently being used as dietary supplements for medicinal purposes and food. Furthermore, current research has focused on the commercialization of the plant because of its treatment in clinical anxiety and depression, psychological and psychiatric disorders, improving mood, promoting relaxation and happiness. In addition, several studies have focused on the isolation and characterization of various beneficial bioactive compounds including alkaloids from the Sceletium tortuosum plant. Sceletium was reviewed more than a decade ago and new evidence has been published since 2008, substantiating an update on this South African botanical asset. Thus, this review provides an extensive overview of the biological and pharmaceutical properties of Sceletium tortuosum as well as the bioactive compounds with an emphasis on antimicrobial, anti-inflammatory, anti-oxidant, antidepressant, anxiolytic, and other significant biological effects. There is a need to critically evaluate the bioactivities and responsible bioactive compounds, which might assist in reinforcing and confirming the significant role of kanna in the promotion of healthy well-being in these stressful times.",
+      "mesh_terms": [
+        "Aizoaceae",
+        "Anti-Infective Agents",
+        "Anti-Inflammatory Agents",
+        "Antidepressive Agents",
+        "Humans",
+        "Phenotype",
+        "Phytochemicals",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "17596200",
+      "title": "Response to Pokharna and Kanna: initial treatment with rosiglitazone/metformin fixed-dose combination therapy compared with monotherapy with either rosiglitazone or metformin in patients with uncontrolled type 2 diabetes.",
+      "authors": [
+        "A Garber"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "publication_date": "2008-May",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Confounding Factors, Epidemiologic",
+        "Data Interpretation, Statistical",
+        "Diabetes Mellitus, Type 2",
+        "Drug Combinations",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Metformin",
+        "Rosiglitazone",
+        "Thiazoles",
+        "Thiazolidinediones"
+      ]
+    }
+  ]
+}

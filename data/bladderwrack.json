@@ -1,0 +1,40 @@
+{
+  "supplement": "Bladderwrack",
+  "query": "Bladderwrack[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:20:12",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "30332899",
+      "title": "Safety evidence on the administration of Fucus vesiculosus L. (bladderwrack) extract and lamotrigine: data from pharmacokinetic studies in the rat.",
+      "authors": [
+        "Sandra Ventura",
+        "Márcio Rodrigues",
+        "Amílcar Falcão",
+        "Gilberto Alves"
+      ],
+      "journal": "Drug and chemical toxicology",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fucus vesiculosus is often incorporated in weight loss dietary supplements to improve weight loss in overweight adults. Obesity is a common condition in epilepsy patients and is indeed increasing in refractory epilepsy and in patients under polytherapy. Since lamotrigine (LTG) is a first-line antiepileptic drug, used in monotherapy or adjunctive therapy, the main objective of this work was to investigate the potential pharmacokinetic-based interactions between F. vesiculosus and LTG in rats. In a first pharmacokinetic study, a single oral dose of F. vesiculosus extract (575 mg/kg, p.o.) was co-administered with a single-dose of LTG (10 mg/kg, p.o.). In a second study, rats were orally pretreated with F. vesiculosus extract (575 mg/kg/day, p.o.) for 14 days and received LTG (10 mg/kg, p.o.) on the 15th day. In the control groups, rats received water instead of the extract. After LTG administration, blood samples were taken until 96 h post-dose, and LTG concentrations measured in plasma were submitted to a non-compartmental pharmacokinetic analysis. The co-administration of F. vesiculosus extract and LTG caused no significant changes in the drug kinetics. However, the repeated pretreatment with F. vesiculosus extract significantly reduced the peak concentrations of LTG and caused a slightly decrease in the extent of systemic drug exposure. Overall, based on these results, no significant clinical impact is expected from the administration of F. vesiculosus dietary supplements and LTG.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Anti-Obesity Agents",
+        "Anticonvulsants",
+        "Drug Administration Schedule",
+        "Fucus",
+        "Herb-Drug Interactions",
+        "Lamotrigine",
+        "Male",
+        "Models, Biological",
+        "Plant Extracts",
+        "Rats, Wistar",
+        "Risk Assessment"
+      ]
+    }
+  ]
+}

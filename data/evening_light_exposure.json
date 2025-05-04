@@ -1,0 +1,36 @@
+{
+  "supplement": "Evening Light Exposure",
+  "query": "Evening Light Exposure[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:33:21",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "9547424",
+      "title": "The effects of evening light exposure on the sleep of elderly women expressing sleep complaints.",
+      "authors": [
+        "K M Cooke",
+        "M A Kreydatus",
+        "A Atherton",
+        "E B Thoman"
+      ],
+      "journal": "Journal of behavioral medicine",
+      "publication_date": "1998-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In order to address the typical phase advanced, disturbed sleep of the elderly, additional evening light was provided to elderly women by means of a \"visor\" which provides 2000 lux to each eye. The subjects wore the light visor for 30 min in the evening. The subjects were 10 community-residing women over the age of 65 (mean = 79.4 years; range, 67-87 years). Sleep was recorded in the home for 28 successive 24-hr periods: 7 days pretreatment, 14 days while using the light visor, and 7 days posttreatment. Thus, each subject served as her own control. Sleep was recorded using the Home Monitoring System (HMS), a nonintrusive procedure which does not require instrumentation of the subject. The subjects showed significant changes during and even after the intervention: there was a significant decrease in sleep latency over weeks, and a significant increase in sleep time and sleep efficiency. The subjects also reported less fatigue during treatment. The results suggest that additional light, provided for as little as 0.5 hr in the evening and at only 2000 lux, increases the amount of nighttime sleep and improves the quality of sleep in older women.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Phototherapy",
+        "Polysomnography",
+        "Sleep Initiation and Maintenance Disorders",
+        "Sleep Stages"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1355 @@
+{
+  "supplement": "Brain Stimulation Therapy",
+  "query": "Brain Stimulation Therapy[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:21:15",
+  "research_count": 52,
+  "count": 52,
+  "articles": [
+    {
+      "pmid": "40310745",
+      "title": "A Habenula Neural Biomarker Simultaneously Tracks Weekly and Daily Symptom Variations during Deep Brain Stimulation Therapy for Depression.",
+      "authors": [
+        "Shi Liu",
+        "Yu Qi",
+        "Shaohua Hu",
+        "Ning Wei",
+        "Jianmin Zhang",
+        "Junming Zhu",
+        "Hemmings Wu",
+        "Hailan Hu",
+        "Yuxiao Yang",
+        "Yueming Wang"
+      ],
+      "journal": "IEEE journal of biomedical and health informatics",
+      "publication_date": "2025-May-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Deep brain stimulation (DBS) targeting the lateral habenula (LHb) is a promising therapy for treatment-resistant depression (TRD) but its clinical effect has been variable, which can be improved by adaptive DBS (aDBS) guided by a neural biomarker of depression symptoms. Existing neural biomarkers, however, cannot simultaneously track slow and fast symptom dynamics, do not sufficiently respond to stimulation parameters, and lack neurobiological interpretability, which hinder their use in developing aDBS. METHODS: We conducted a study on one TRD patient who achieved remission following a 41-week LHb DBS treatment, during which we assessed slow symptom variations using weekly clinical ratings and fast variations using daily self-reports. We recorded daily LHb local field potentials (LFP) concurrently with the reports during the entire treatment process. We then used machine learning methods to identify a personalized depression neural biomarker from spectral and temporal LFP features. RESULTS: The neural biomarker was identified from classification of high and low depression symptom states with a cross-validated accuracy of 0.97. It further simultaneously tracked both weekly (slow) and daily (fast) depression symptom variation dynamics, achieving test data explained variance of 0.74 and 0.63 respectively and responded to DBS frequency alterations. Finally, it can be neurobiologically interpreted as indicating LHb excitatory and inhibitory balance changes during DBS treatment. CONCLUSION: By collecting and analyzing a unique personalized dataset of weekly and daily LFP recordings and symptom evaluations, we identified a high-performance neural biomarker for depression during LHb DBS. SIGNIFICANCE: Our results hold promise to facilitate future aDBS for treating TRD."
+    },
+    {
+      "pmid": "40201337",
+      "title": "Affective bias predicts changes in depression during deep brain stimulation therapy.",
+      "authors": [
+        "Brian Cui",
+        "Madaline M Mocchi",
+        "Brian A Metzger",
+        "Prathik Kalva",
+        "John F Magnotti",
+        "Jess G Fiedorowicz",
+        "Allison Waters",
+        "Christopher K Kovach",
+        "Yvonne Y Reed",
+        "Raissa K Mathura",
+        "Camille Steger",
+        "Bailey Pascuzzi",
+        "Kourtney Kanja",
+        "Ashan Veerakumar",
+        "Vineet Tiruvadi",
+        "Andrea Crowell",
+        "Lydia Denison",
+        "Christopher J Rozell",
+        "Nader Pouratian",
+        "Wayne Goodman",
+        "Patricio Riva Posse",
+        "Helen S Mayberg",
+        "Kelly Rowe Bijanki"
+      ],
+      "journal": "Frontiers in human neuroscience",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Deep brain stimulation (DBS) is a promising treatment for refractory depression, utilizing surgically implanted electrodes to stimulate specific anatomical targets within the brain. However, limitations of patient-reported and clinician-administered mood assessments pose obstacles in evaluating DBS treatment efficacy. In this study, we investigated whether an affective bias task, which leverages the inherent negative interpretation bias seen in individuals with depression, could serve as a reliable measure of mood changes during DBS therapy in patients with treatment-resistant depression. METHODS: Two cohorts of patients (n = 8, n = 2) undergoing DBS for treatment-resistant depression at different academic medical centers completed an affective bias task at multiple time points before and after DBS implantation. The affective bias task involved rating the emotional content of a series of static photographic stimuli of facial expressions throughout their DBS treatment. Patients' ratings were compared with those of non-depressed controls to calculate affective bias scores. Linear mixed-effects modeling was used to assess changes in bias scores over time and their relationship with depression severity measured by the Hamilton Depression Rating Scale (HDRS-17). RESULTS: We observed significant improvements in total affective bias scores over the course of DBS treatment in both cohorts. Pre-DBS, patients exhibited a negative affective bias, which was nearly eliminated post-DBS, with total bias scores approaching those of non-depressed controls. Positive valence trials showed significant improvement post-DBS, while negative valence trials showed no notable change. A control analysis indicated that stimulation status did not significantly affect bias scores, and thus stimulation status was excluded from further modeling. Linear mixed-effects modeling revealed that more negative bias scores were associated with higher HDRS-17 scores, particularly for positive valence stimuli. Additionally, greater time elapsed since DBS implantation was associated with a decrease in HDRS-17 scores, indicating clinical improvement over time. DISCUSSION: Our findings demonstrate that the affective bias task leverages the inherent negative interpretation bias seen in individuals with depression, providing a standardized measure of how these biases change over time. Unlike traditional mood assessments, which rely on subjective introspection, the affective bias task consistently measures changes in mood, offering potential as a tool to monitor mood changes and evaluate the candidacy of DBS treatment in refractory depression."
+    },
+    {
+      "pmid": "40041698",
+      "title": "Tourette syndrome and brain stimulation therapy: a systematic review and meta-analysis of current evidence.",
+      "authors": [
+        "Alwaleed K Aloufi",
+        "Jalal A Zahhar",
+        "Mahmoud W Bader",
+        "Maher B Almutairi",
+        "Abdulqader Alaaldeen",
+        "Omar E Hetta",
+        "Abdulaziz M Gammash",
+        "Saleh Almuntashiri",
+        "Ibrahim S Binrabaa",
+        "Ahmad Alsaleh",
+        "Moayyad AlSalem"
+      ],
+      "journal": "Frontiers in psychiatry",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Tourette syndrome (TS) is a neurological disorder characterized by tics, often associated with obsessive-compulsive disorder (OCD). Severe cases may require interventions such as deep brain stimulation (DBS) or repetitive transcranial magnetic stimulation (rTMS). METHODS: A thorough search was performed across PubMed/Medline, Embase, (CENTRAL), and Google Scholar. Studies comparing DBS and rTMS efficacy for TS were included if they reported YGTSS before and after treatment. Two independent reviewers screened the search results, extracted data, and assessed study quality using standardized tools. RESULTS: 22 studies met the inclusion criteria, with a total of 222 participants. Analysis of RCTs investigating post-intervention rTMS vs baseline showed a statistically insignificant decrease in YGTSS (MD = -5.01, 95% CI: [-10.8, 0.79], P= 0.090) but a statistically significant decrease in YBOCS (MD = -6.6; 95% CI: [-11.64, -1.55], P= 0.010). However, post-intervention rTMS in RCT and non-randomized trials vs baseline showed a significant decrease in YGTSS (MD = -11.6; 95% CI: [-18.25, -4.94], P < 0.001) and YBOCS (MD = -7.5; 95% CI: [-11.85, -3.15], P < 0.001). Post-intervention DBS in RCT and non-RCTs vs baseline showed a significant decrease in YGTSS (MD = -18.29; 95% CI: [-24.93, -11.64], P < 0.001) and YBOCS (MD = -4.76; 95% CI: [-7.30, -2.21], P < 0.001). Analysis of RCTs investigating Post-intervention DBS vs baseline showed a significant decrease in YGTSS (MD = -14.71; 95% CI: [-19.78, -9.63], P <0.001) and YBOCS (MD = -5.04; 95% CI: [-8.28, -1.80], P = 0.002). CONCLUSION: Our analysis revealed both DBS and rTMS improved TS and OCD symptoms, however the effect of rTMS on TS in RCTs was insignificant, suggesting DBS stimulation is more effective. Despite this, clinicians may still opt for rTMS before DBS due to its less invasive nature, the limited number of high-quality RCTs, and the lack of studies directly comparing rTMS and DBS. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023386856, identifier CRD42023386856."
+    },
+    {
+      "pmid": "39890864",
+      "title": "Accelerated symptom improvement in Parkinson's disease via remote internet-based optimization of deep brain stimulation therapy: a randomized controlled multicenter trial.",
+      "authors": [
+        "Alireza Gharabaghi",
+        "Sergiu Groppa",
+        "Marta Navas-Garcia",
+        "Alfons Schnitzler",
+        "Laura Muñoz-Delgado",
+        "Vicky L Marshall",
+        "Jessica Karl",
+        "Lin Zhang",
+        "Ramiro Alvarez",
+        "Mary S Feldman",
+        "Michael J Soileau",
+        "Lan Luo",
+        "S Elizabeth Zauber",
+        "Benjamin L Walter",
+        "Chengyuan Wu",
+        "Hong Lei",
+        "Damian M Herz",
+        "Ming-Hua Chung",
+        "Yagna Pathak",
+        "Bram Blomme",
+        "Binith Cheeran",
+        "Corneliu Luca",
+        "Daniel Weiss"
+      ],
+      "journal": "Communications medicine",
+      "publication_date": "2025-Jan-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Deep brain stimulation (DBS) has emerged as an important therapeutic intervention for neurological and neuropsychiatric disorders. After initial programming, clinicians are tasked with fine-tuning DBS parameters through repeated in-person clinic visits. We aimed to evaluate whether DBS patients achieve clinical benefit more rapidly by incorporating remote internet-based adjustment (RIBA) of stimulation parameters into the continuum of care. METHODS: We conducted a randomized controlled multicenter study (ClinicalTrails.gov NCT05269862) involving patients scheduled for de novo implantation with a DBS System to treat Parkinson's Disease. Eligibility criteria included the ability to incorporate RIBA as part of routine follow-up care. Ninety-six patients were randomly assigned in a 1:1 ratio using automated allocation, blocked into groups of 4, allocation concealed, and no stratification. After surgery and initial configuration of stimulation parameters, optimization of DBS settings occurred in the clinic alone (IC) or with additional access to RIBA. The primary outcome assessed differences in the average time to achieve a one-point improvement on the Patient Global Impression of Change score between groups. Patients, caregivers, and outcome assessors were not blinded to group assignment. Most of the data collection took place in the patient's home environment. RESULTS: Access to RIBA reduces the time to symptom improvement, with patients reporting 15.1 days faster clinical benefit (after 39.1 (SD 3.3) days in the RIBA group (n = 48) and after 54.2 (SD 3.7) days in the IC group (n = 48)). None of the reported adverse events are related to RIBA. CONCLUSIONS: This study demonstrates safety and efficacy of internet-based adjustment of DBS therapy, while providing clinical benefit earlier than in-clinic optimization of stimulation parameters by increasing patient access to therapy adjustment."
+    },
+    {
+      "pmid": "39355465",
+      "title": "Correction: Personalizing Deep Brain Stimulation Therapy for Parkinson's Disease With Whole-Brain MRI Radiomics and Machine Learning.",
+      "authors": [
+        "Nikolaos Haliasos",
+        "Dimitrios Giakoumettis",
+        "Prathishta Gnanaratnasingham",
+        "Hu Liang Low",
+        "Anjum Misbahuddin",
+        "Panagiotis Zikos",
+        "Vangelis Sakkalis",
+        "Spanaki Cleo",
+        "Antonios Vakis",
+        "Sotirios Bisdas"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "abstract": "[This corrects the article DOI: 10.7759/cureus.59915.]."
+    },
+    {
+      "pmid": "39291248",
+      "title": "Non-invasive brain stimulation therapy in amyotrophic lateral sclerosis: are we ready for clinical use?",
+      "authors": [
+        "Gianmaria Senerchia",
+        "Raffaele Dubbioso"
+      ],
+      "journal": "The Lancet regional health. Europe",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "39083230",
+      "title": "Letter to the editor: Impact of deep brain stimulation therapy on the vertebral sagittal balance in parkinson's disease patients.",
+      "authors": [
+        "Fnu Venjhraj",
+        "Mukesh Kumar",
+        "Zainab Muhammad Hanif",
+        "Ashvin Kumar"
+      ],
+      "journal": "Neurosurgical review",
+      "publication_date": "2024-Jul-31",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Parkinson Disease",
+        "Deep Brain Stimulation",
+        "Postural Balance",
+        "Spine"
+      ]
+    },
+    {
+      "pmid": "38854362",
+      "title": "Personalizing Deep Brain Stimulation Therapy for Parkinson's Disease With Whole-Brain MRI Radiomics and Machine Learning.",
+      "authors": [
+        "Nikolaos Haliasos",
+        "Dimitrios Giakoumettis",
+        "Prathishta Gnanaratnasingham",
+        "Hu Liang Low",
+        "Anjum Misbahuddin",
+        "Panagiotis Zikos",
+        "Vangelis Sakkalis",
+        "Spanaki Cleo",
+        "Antonios Vakis",
+        "Sotirios Bisdas"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background Deep brain stimulation (DBS) is a well-recognised treatment for advanced Parkinson's disease (PD) patients. Structural brain alterations of the white matter can correlate with disease progression and act as a biomarker for DBS therapy outcomes. This study aims to develop a machine learning-driven predictive model for DBS patient selection using whole-brain white matter radiomics and common clinical variables. Methodology A total of 120 PD patients underwent DBS of the subthalamic nucleus. Their therapy effect was assessed at the one-year follow-up with the Unified Parkinson's Disease Rating Scale-part III (UPDRSIII) motor component. Radiomics analysis of whole-brain white matter was performed with PyRadiomics. The following machine learning methods were used: logistic regression (LR), support vector machine, naïve Bayes, K-nearest neighbours, and random forest (RF) to allow prediction of clinically meaningful UPRDSIII motor response before and after. Clinical variables were also added to the model to improve accuracy. Results The RF model showed the best performance on the final whole dataset with an area under the curve (AUC) of 0.99, accuracy of 0.95, sensitivity of 0.93, and specificity of 0.97. At the same time, the LR model showed an AUC of 0.93, accuracy of 0.88, sensitivity of 0.84, and specificity of 0.91. Conclusions Machine learning models can be used in clinical decision support tools which can deliver true personalised therapy recommendations for PD patients. Clinicians and engineers should choose between best-performing, less interpretable models vs. most interpretable, lesser-performing models. Larger clinical trials would allow to build trust among clinicians and patients to widely use these AI tools in the future."
+    },
+    {
+      "pmid": "38421092",
+      "title": "Synchronous monitoring of brain-heart electrophysiology using heart rate variability coupled with rapid quantitative electroencephalography in orthostatic hypotension patients with α-synucleinopathies: Rapid prediction of orthostatic hypotension and preliminary exploration of brain stimulation therapy.",
+      "authors": [
+        "Lin Lin",
+        "Yingzhe Cheng",
+        "Peilin Huang",
+        "Jiejun Zhang",
+        "Jiahao Zheng",
+        "Xiaodong Pan"
+      ],
+      "journal": "CNS neuroscience & therapeutics",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: In α-synucleinopathies, the dysfunction of the autonomic nervous system which typically manifests as orthostatic hypotension (OH) often leads to severe consequences and poses therapeutic challenges. This study aims to discover the brain-cardiac electrophysiological changes in OH patients with α-synucleinopathies using the rapid quantitative electroencephalography (qEEG) coupled with heart rate variability (HRV) technique to identify rapid, noninvasive biomarkers for early warning and diagnosis, as well as shed new light on complementary treatment approaches such as brain stimulation targets. METHODS: In this study, 26 subjects of α-synucleinopathies with OH (α-OH group), 21 subjects of α-synucleinopathies without OH (α-NOH group), and 34 healthy controls (control group) were included from September 2021 to August 2023 (NCT05527067). The heart rate-blood pressure variations in supine and standing positions were monitored, and synchronization parameters of seated resting-state HRV coupled with qEEG were collected. Time-domain and frequency-domain of HRV measures as well as peak frequency and power of the brainwaves were extracted. Differences between these three groups were compared, and correlations between brain-heart parameters were analyzed. RESULTS: The research results showed that the time-domain parameters such as MxDMn, pNN50, RMSSD, and SDSD of seated resting-state HRV exhibited a significant decrease only in the α-OH group compared to the healthy control group (p < 0.05), while there was no significant difference between the α-NOH group and the healthy control group. Several time-domain and frequency-domain parameters of seated resting-state HRV were found to be correlated with the blood pressure changes within the first 5 min of transitioning from supine to standing position (p < 0.05). Differences were observed in the power of beta1 waves (F4 and Fp2) and beta2 waves (Fp2 and F4) in the seated resting-state qEEG between the α-OH and α-NOH groups (p < 0.05). The peak frequency of theta waves in the Cz region also showed a difference (p < 0.05). The power of beta2 waves in the Fp2 and F4 brain regions correlated with frequency-domain parameters of HRV (p < 0.05). Additionally, abnormal electrical activity in the alpha, theta, and beta1 waves was associated with changes in heart rate and blood pressure within the first 5 min of transitioning from supine to standing position (p < 0.05). CONCLUSION: Rapid resting-state HRV with certain time-domain parameters below normal levels may serve as a predictive indicator for the occurrence of orthostatic hypotension (OH) in patients with α-synucleinopathies. Additionally, the deterioration of HRV parameters correlates with synchronous abnormal qEEG patterns, which can provide insights into the brain stimulation target areas for OH in α-synucleinopathy patients.",
+      "mesh_terms": [
+        "Humans",
+        "Hypotension, Orthostatic",
+        "Heart Rate",
+        "Synucleinopathies",
+        "Brain",
+        "Blood Pressure",
+        "Electroencephalography",
+        "Electrophysiology"
+      ]
+    },
+    {
+      "pmid": "38063935",
+      "title": "Impact of deep brain stimulation therapy on the vertebral sagittal balance in Parkinson's disease patients.",
+      "authors": [
+        "Teresa Somma",
+        "Fabrizio Fellico",
+        "Andrea De Rosa",
+        "Andrea Bocchino",
+        "Sergio Corvino",
+        "Antonio Milone",
+        "Paolo Cappabianca",
+        "Felice Esposito"
+      ],
+      "journal": "Neurosurgical review",
+      "publication_date": "2023-Dec-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Parkinson's disease (PD) is characterized by cardinal motor signs: 4-6 Hz resting tremor, rigidity, and bradykinesia. In addition, 3-18% of PD patients have camptocormia, an abnormal forward flexion of the thoracolumbar spine, which may have a negative impact on patients' quality of life. Different possible treatments have been suggested for such a condition, but no one is resolutive. This study aims to define the possible impact of DBS, with selective targeting on the dorsal-lateral region of the STN, on the sagittal balance of patients affected by PD. Among all patients that have undergone DBS procedures in our institution, we selected eight subjects, four females and four males, with selective targeting on the dorsal-lateral region of the subthalamic nucleus (STN) because of camptocormia and other severe postural changes. Radiological assessments of spinal balance parameters before surgery and at 6 and 12 months postoperatively were carried out. Comparison of preoperative and postoperative spine X-ray data showed a statistically significant improvement in dorsal kyphosis angle (D-Cobb) 12 months after the operation. Deep brain stimulation with selective targeting of the dorsal lateral part of the STN may induce changes of the posture in patients with Parkinson's disease 12 months after the operation, which appears to improve in this small sample size, but larger observational and controlled trials would be required to confirm this observation.",
+      "mesh_terms": [
+        "Male",
+        "Quality of Life",
+        "Parkinson Disease",
+        "Spinal Curvatures",
+        "Female",
+        "Muscular Atrophy, Spinal",
+        "Humans",
+        "Deep Brain Stimulation"
+      ]
+    },
+    {
+      "pmid": "36797194",
+      "title": "Pilot Study to Investigate the Use of In-Clinic Sensing to Identify Optimal Stimulation Parameters for Deep Brain Stimulation Therapy in Parkinson's Disease.",
+      "authors": [
+        "Sydnei Lewis",
+        "Erin Radcliffe",
+        "Steven Ojemann",
+        "Daniel R Kramer",
+        "Lisa Hirt",
+        "Michelle Case",
+        "Abbey B Holt-Becker",
+        "Robert Raike",
+        "Drew S Kern",
+        "John A Thompson"
+      ],
+      "journal": "Neuromodulation : journal of the International Neuromodulation Society",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Deep brain stimulation (DBS) programming is time intensive. Recent advances in sensing technology of local field potentials (LFPs) may enable improvements. Few studies have compared the use of this technology with standard of care. OBJECTIVE/HYPOTHESIS: Sensing technology of subthalamic nucleus (STN) DBS leads in Parkinson's disease (PD) is reliable and predicts the optimal contacts and settings as predicted by clinical assessment. MATERIALS AND METHODS: Five subjects with PD (n = 9 hemispheres) with bilateral STN DBS and sensing capable battery replacement were recruited. An LFP sensing review of all bipolar contact pairs was performed three times. Contact with the maximal beta peak power (MBP) was then clinically assessed in a double-blinded fashion, and five conditions were tested: 1) entry settings, 2) off stimulation, 3) MBP at 30 μs, 4) MBP at 60 μs, and 5) MBP at 90 μs. RESULTS: Contact and frequency of the MBP power in all hemispheres did not differ across sessions. The entry settings matched with the contact with the MBP power in 5 of 9 hemispheres. No clinical difference was evident in the stimulation conditions. The clinician and subject preferred settings determined by MBP power in 7 of 9 and 5 of 7 hemispheres, respectively. CONCLUSIONS: This study indicates that STN LFPs in PD recorded directly from contacts of the DBS lead provide consistent recordings across the frequency range and a reliably detected beta peak. Furthermore, programming based on the MBP power provides at least clinical equivalence to standard of care programming with STN DBS.",
+      "mesh_terms": [
+        "Humans",
+        "Parkinson Disease",
+        "Pilot Projects",
+        "Deep Brain Stimulation",
+        "Subthalamic Nucleus"
+      ]
+    },
+    {
+      "pmid": "36457862",
+      "title": "Non-invasive brain stimulation therapy on neurological symptoms in patients with multiple sclerosis: A network meta analysis.",
+      "authors": [
+        "Xiaoyun Zhang",
+        "Yaping Huai",
+        "Zhiqiang Wei",
+        "Weiwei Yang",
+        "Qizhi Xie",
+        "Li Yi"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "OBJECTIVE: The aim of the study was to evaluate non-invasive brain stimulation (NIBS) [including transcranial magnetic stimulation (TMS) and transcranial electrical stimulation (tES)] on neurological symptoms in patients with multiple sclerosis (PwMS). METHOD: We searched PubMed, Embase, Cochrane Library, Web of Science and Ovid MEDLINE until February 2022. And we evaluated the included studies for methodological quality by the Cochrane bias risk assessment tool and assessed the studies' certainty of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. We performed network meta analysis (NMA) by using Stata 15 and ranked the results of the NMA by using the surface under the cumulative ranking curve (SUCRA) ranking chart. RESULT: Twenty seven clinical trials were finally included (N = 596, 66.4% women). For the immediate effects, rTMS over M1 yielded the most optimal scheme for fatigue reduction among all the interventions compared to the sham stimulation groups [MD = -0.85, 95% CI (-1.57, -0.14)] (SUCRA = 82.6%). iTBS over M1 yielded the most signifcant reduced pain level than the sham groups did [MD = -1.26, 95% CI (-2.40, -0.11)] (SUCRA = 98.4%). tDCS over F3 was the best protocol of NIBS to improve quality of life (QOL) [MD = 1.41, 95% CI = (0.45,2.36)] (SUCRA = 76.7%), and iTBS over M1 may significantly reduce spasticity compared to sham stimulation [MD = -1.20, 95% CI = (-1.99, -0.41)] (SUCRA = 90.3%). Furthermore, rTMS, tRNS, and tDCS on certain areas may improve PwMS accuracy, response time, manual dexterity, pain relief and QOL, but does not show statistically significant differences. The evidence assessed using GRADE is very low. CONCLUSION: Based on the NMA and SUCRA ranking, we can conclude that symptoms including fatigue, pain, spasticity, and QOL can be improved by following NIBS protocol after treatment. Nonetheless, most of the included studies lack a good methodology, and more high-quality randomized clinical trials are needed."
+    },
+    {
+      "pmid": "36329385",
+      "title": "Correction: A case of novel DYT6 dystonia variant with serious complications after deep brain stimulation therapy: a case report.",
+      "authors": [
+        "M Grofik",
+        "M Cibulka",
+        "J Olekšakova",
+        "M Turčanova Koprušakova",
+        "T Galanda",
+        "J Necpal",
+        "P Jungova",
+        "E Kurča",
+        "J Winkelmann",
+        "M Zech",
+        "R Jech"
+      ],
+      "journal": "BMC neurology",
+      "publication_date": "2022-Nov-03",
+      "publication_types": [
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "36294782",
+      "title": "Psychiatric Symptoms in Parkinson's Disease Patients before and One Year after Subthalamic Nucleus Deep Brain Stimulation Therapy: Role of Lead Positioning and Not of Total Electrical Energy Delivered.",
+      "authors": [
+        "Teresa Somma",
+        "Felice Esposito",
+        "Maria Rosaria Scala",
+        "Antonio Scelzo",
+        "Cinzia Baiano",
+        "Sara Patti",
+        "Vincenzo Meglio",
+        "Felice Iasevoli",
+        "Luigi M Cavallo",
+        "Domenico Solari",
+        "Andrea De Bartolomeis",
+        "Paolo Cappabianca",
+        "Giordano D'Urso"
+      ],
+      "journal": "Journal of personalized medicine",
+      "publication_date": "2022-Oct-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Parkinson’s disease (PD) patients may experience neuropsychiatric symptoms, including depression, anxiety, sleep disturbances, psychosis, as well as behavioral and cognitive symptoms during all the different stages of the illness. Deep Brain Stimulation (DBS) therapy has proven to be successful in controlling the motor symptoms of PD and its possible correlation with the occurrence or worsening of neuropsychiatric symptoms has been reported. We aimed to assess the neuropsychiatric symptoms of 14 PD patients before and after one year of Subthalamic Nucleus (STN)-DBS and to correlate the possible changes to the lead placement and to the total electrical energy delivered. We assessed PD motor symptoms, depression, anxiety, apathy, impulsivity, and suicidality using clinician- and/or self-administered rating scales and correlated the results to the lead position using the Medtronic SuretuneTM software and to the total electrical energy delivered (TEED). At the 12-month follow-up, the patients showed a significant improvement in PD symptoms on the UPDRS (Unified Parkinson’s disease Rating Scale) (−38.5%; p < 0.001) and in anxiety on the Hamilton Anxiety Rating Scale (HAM-A) (−29%; p = 0.041), with the most significant reduction in the physiological anxiety subscore (−36.26%; p < 0.001). A mild worsening of impulsivity was detected on the Barratt Impulsiveness Scale (BIS-11) (+9%; p = 0.048), with the greatest increase in the attentional impulsiveness subscore (+13.60%; p = 0.050). No statistically significant differences were found for the other scales. No correlation was found between TEED and scales’ scores, while the positioning of the stimulating electrodes in the different portions of the STN was shown to considerably influence the outcome, with more anterior and/or medial lead position negatively influencing psychiatric symptoms."
+    },
+    {
+      "pmid": "36096774",
+      "title": "A case of novel DYT6 dystonia variant with serious complications after deep brain stimulation therapy: a case report.",
+      "authors": [
+        "M Grofik",
+        "M Cibulka",
+        "J Olekšáková",
+        "M Turčanová Koprušáková",
+        "T Galanda",
+        "J Necpál",
+        "P Jungová",
+        "E Kurča",
+        "J Winkelmann",
+        "M Zech",
+        "R Jech"
+      ],
+      "journal": "BMC neurology",
+      "publication_date": "2022-Sep-12",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: DYT6 dystonia belongs to a group of isolated, genetically determined, generalized dystonia associated with mutations in the THAP1 gene. CASE PRESENTATION: We present the case of a young patient with DYT6 dystonia associated with a newly discovered c14G>A (p.Cys5Tyr) mutation in the THAP1 gene. We describe the clinical phenotype of this new mutation, effect of pallidal deep brain stimulation (DBS), which was accompanied by two rare postimplantation complications: an early intracerebral hemorrhage and delayed epileptic seizures. Among the published case reports of patients with DYT6 dystonia, the mentioned complications have not been described so far. CONCLUSIONS: DBS in the case of DYT6 dystonia is a challenge to thoroughly consider possible therapeutic benefits and potential risks associated with surgery. Genetic heterogeneity of the disease may also play an important role in predicting the development of the clinical phenotype as well as the effect of treatment including DBS. Therefore, it is beneficial to analyze the genetic and clinical relationships of DYT6 dystonia.",
+      "mesh_terms": [
+        "Apoptosis Regulatory Proteins",
+        "DNA-Binding Proteins",
+        "Deep Brain Stimulation",
+        "Dystonia",
+        "Dystonic Disorders",
+        "Humans",
+        "Nuclear Proteins"
+      ]
+    },
+    {
+      "pmid": "35219433",
+      "title": "The Impact of COVID-19 on Brain Stimulation Therapy.",
+      "authors": [
+        "Michael Justin Coffey",
+        "Suzanne Kerns",
+        "Sohag Sanghani",
+        "Lee Wachtel"
+      ],
+      "journal": "The Psychiatric clinics of North America",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Among the far-reaching effects of the COVID-19 pandemic has been restricted access to safe and effective forms of psychiatric treatment. Focusing on electroconvulsive therapy and transcranial magnetic stimulation, we review the pandemic's impact on brain stimulation therapy by asking 3 fundamental questions-Where have we been? How are we doing? And where are we going?",
+      "mesh_terms": [
+        "Brain",
+        "COVID-19",
+        "Electroconvulsive Therapy",
+        "Humans",
+        "Pandemics",
+        "SARS-CoV-2",
+        "Transcranial Magnetic Stimulation"
+      ]
+    },
+    {
+      "pmid": "35168853",
+      "title": "Reply to \"Transcranial Pulse Stimulation (TPS) - A highly focused brain stimulation therapy with 3D navigation\".",
+      "authors": [
+        "Ghazaleh Darmani",
+        "Robert Chen"
+      ],
+      "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+      "publication_date": "2022-Apr",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Brain",
+        "Humans",
+        "Stereotaxic Techniques",
+        "Transcranial Direct Current Stimulation"
+      ]
+    },
+    {
+      "pmid": "35131146",
+      "title": "Transcranial Pulse Stimulation (TPS) - A highly focused brain stimulation therapy with 3D navigation.",
+      "authors": [
+        "R Beisteiner",
+        "M Hallett"
+      ],
+      "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+      "publication_date": "2022-Apr",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Brain",
+        "Humans",
+        "Stereotaxic Techniques",
+        "Transcranial Direct Current Stimulation"
+      ]
+    },
+    {
+      "pmid": "34279235",
+      "title": "Pregnancy and deep brain stimulation therapy for epilepsy.",
+      "authors": [
+        "Beáta Bóné",
+        "Norbert Kovács",
+        "István Balás",
+        "Réka A Horváth",
+        "Tamás Dóczi",
+        "József Janszky"
+      ],
+      "journal": "Epileptic disorders : international epilepsy journal with videotape",
+      "publication_date": "2021-Aug-01",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Neuromodulation therapy -vagus nerve stimulation (VNS) and deep brain stimulation (DBS)- is one of the therapeutic options for drug-resistant epilepsy. With the increasing number of DBS implantations in women with epilepsy, it has become a burning issue whether DBS is safe in pregnancy. We report here two women with epilepsy who gave birth to healthy children with DBS therapy. We describe two cases, a 30-year-old woman and a 37-year-old woman. Both were implanted with DBS due to drug-resistant epilepsy. Both of our patients showed a significant improvement after DBS implantation and thereafter gave birth to a healthy child with DBS treatment. The severity and frequency of epileptic seizures did not change during pregnancy and after childbirth. Although a Caesarean section was performed in one case, pregnancies and births were essentially problem-free. At present, the two- and four-year-old children are healthy. Considering these cases, previously described VNS cases, and DBS cases with non-epileptic indications; we suggest that pregnancy and childbirth are safe in epilepsy patients with DBS, moreover, DBS treatment has probably no effect on foetal abnormalities or breastfeeding.",
+      "mesh_terms": [
+        "Adult",
+        "Cesarean Section",
+        "Child, Preschool",
+        "Deep Brain Stimulation",
+        "Drug Resistant Epilepsy",
+        "Epilepsy",
+        "Female",
+        "Humans",
+        "Pharmaceutical Preparations",
+        "Pregnancy",
+        "Treatment Outcome",
+        "Vagus Nerve Stimulation"
+      ]
+    },
+    {
+      "pmid": "33426169",
+      "title": "Secondary Dystonia in a Novel Mitochondriopathy Responsive to Deep Brain Stimulation Therapy.",
+      "authors": [
+        "Vibhash D Sharma",
+        "Cathrin M Buetefisch",
+        "Frances D Kendall",
+        "Robert E Gross",
+        "Mahlon R DeLong",
+        "Jorge L Juncos"
+      ],
+      "journal": "Movement disorders clinical practice",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "31907154",
+      "title": "[Application of intracranial lead reconstruction in deep brain stimulation therapy in patients with Parkinson's disease].",
+      "authors": [
+        "Xiaobin Zheng",
+        "Lianghong Yu",
+        "Xinlong Wan",
+        "Huiqing Wang",
+        "Ting Yu",
+        "Qiu He",
+        "Zhangya Lin",
+        "Dezhi Kang"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2019-Dec-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the feasibility of applying intracranial lead reconstruction in deep brain stimulation (DBS) therapy for Parkinsonism. METHODS: We retrospectively collected the clinical data from 27 patients with Parkinson's disease (PD), who received bilateral subthalamic nucleus (STN) DBS therapy between January, 2016 and December, 2017. According to the position of the selected optimal stimulating contact of the implanted leads, the patients were divided into group A with the stimulating contacts of the bilateral leads in the STN, group B with unilateral stimulating contacts in the STN, and group C with bilateral stimulating contacts outside the STN. All the patients were assessed for improvement using Hoehn-Yahr stage, the third part of United Parkinson's Disease Rating Scale (UPDRS Ⅲ), Schwab and England Activities of Daily Living (SE-ADL), and L-dopa equivalent daily dose (LEDD). The consistency between the optimal stimulating contact selected by lead reconstruction and that by standard postoperative programming procedure was also evaluated. RESULTS: The patients in all the 3 groups showed postoperative improvements in Hoehn-Yahr stage, UPDRS Ⅲ score, SE-ADL score, and LEDD in the medication-off state. But at 12 months of the follow-up, such improvements were maintained only in the patients of group A. The optimal stimulating contacts selected by lead reconstruction and standard postoperative programming procedure had a matching rate of up to 77.78% (42/54), and the coordinates of the optimal contacts selected by the two methods showed no significant difference. CONCLUSIONS: Intracranial lead reconstruction facilitates the study of the association between the implant site of the leads and the clinical outcome of DBS therapy for PD and allows the precise selection of the optimal contact of the implanted leads in postoperative programming of DBS.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Deep Brain Stimulation",
+        "Humans",
+        "Parkinson Disease",
+        "Retrospective Studies",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "31736863",
+      "title": "Low Pulvinar Intensity in Susceptibility-Weighted Imaging May Suggest Cognitive Worsening After Deep Brain Stimulation Therapy in Patients With Parkinson's Disease.",
+      "authors": [
+        "Keita Matsuura",
+        "Masayuki Maeda",
+        "Masayuki Satoh",
+        "Ken-Ichi Tabei",
+        "Tomohiro Araki",
+        "Maki Umino",
+        "Hiroyuki Kajikawa",
+        "Naoko Nakamura",
+        "Hidekazu Tomimoto"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Purpose: Deep brain stimulation (DBS) is an established therapy for Parkinson's disease (PD). However, deteriorating cognitive function after DBS is a considerable problem for affected patients. This study was undertaken to assess whether pulvinar findings in susceptibility-weighted imaging (SWI) can suggest cognitive worsening. Methods: We examined 21 patients with PD who underwent DBS along with SWI and neuromelanin-sensitive MR imaging (NMI). We further assessed pulvinar hypointensity based on the SWI findings and also the area of the substantia nigra (SN) pars compacta in NMI. We then examined associations among cognitive changes, pulvinar hypointensity, and SN area. The cognitive function of the patient immediately before surgery was compared with function at 1 year postoperatively. Results: Pulvinar hypointensity in SWI was found in 11 of 21 patients with PD at baseline. One year postoperatively, six of the 21 patients demonstrated a Mini-Mental State Examination score that was ≥3 points lower than the baseline score. We observed pulvinar hypointensity in SWI before DBS surgery in five of these six patients (p = 0.072). During the first postoperative year, six of 21 patients reported both transient or permanent hallucinations; we observed pulvinar hypointensity in these six patients, while 10 patients without pulvinar hypointensity had no hallucinations. Conclusion: Pulvinar hypointensity in SWI in patients with PD may provide information that is useful for suggesting cognitive deterioration after DBS treatment."
+    },
+    {
+      "pmid": "31623494",
+      "title": "Role of deep brain stimulation therapy in the magnetic resonance-guided high-frequency focused ultrasound era: current situation and future prospects.",
+      "authors": [
+        "C Fernandez-Garcia",
+        "F Alonso-Frech",
+        "M H G Monje",
+        "J Matias-Guiu"
+      ],
+      "journal": "Expert review of neurotherapeutics",
+      "publication_date": "2020-Jan",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Introduction: Deep brain stimulation (DBS) is a well-established treatment of movement disorders; but recently there has been an increasing trend toward the ablative procedure magnetic resonance-guided focused ultrasound (MRgFU). DBS is an efficient neuromodulatory technique but associated with surgical complications. MRIgFUS is an incision-free method that allows thermal lesioning, with fewer surgical complications but irreversible effects.Areas covered: We look at current and prospective aspects of both techniques. In DBS, appropriate patient selection, improvement in surgical expertise, target accuracy (preoperative and intraoperative imaging), neurophysiological recordings, and novel segmented leads need to be considered. However, increased number of older patients with higher comorbidities and risk of DBS complications (mainly intracranial hemorrhage, but also infections, hardware complications) make them not eligible for surgery. With MRgFUS, hemorrhage risks are virtually nonexistent, infection or hardware malfunction are eliminated, while irreversible side effects can appear.Expert commentary: Comparison of the efficacy and risks associated with these techniques, in combination with a growing aged population in developed countries with higher comorbidities and a preference for less invasive treatments, necessitates a review of the indications for movement disorders and the most appropriate treatment modalities.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "High-Intensity Focused Ultrasound Ablation",
+        "Humans",
+        "Magnetic Resonance Imaging",
+        "Neurosurgical Procedures",
+        "Postoperative Complications",
+        "Prospective Studies",
+        "Surgery, Computer-Assisted"
+      ]
+    },
+    {
+      "pmid": "30696788",
+      "title": "[(2)Deep Brain Stimulation Therapy for Parkinson Disease:STN vs. GPi].",
+      "authors": [
+        "Hidehiro Hirabayashi",
+        "Kiyoshi Nagata",
+        "Tatsuo Shimokawara",
+        "Ryouta Sasaki",
+        "Nagako Murase"
+      ],
+      "journal": "No shinkei geka. Neurological surgery",
+      "publication_date": "2019-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Globus Pallidus",
+        "Humans",
+        "Parkinson Disease"
+      ]
+    },
+    {
+      "pmid": "30350730",
+      "title": "Is deep brain stimulation therapy underutilized for movement disorders?",
+      "authors": [
+        "Aparna Wagle Shukla",
+        "Wissam Deeb",
+        "Bhavana Patel",
+        "Adolfo Ramirez-Zamora"
+      ],
+      "journal": "Expert review of neurotherapeutics",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "30148495",
+      "title": "Targeting Neuronal Fiber Tracts for Deep Brain Stimulation Therapy Using Interactive, Patient-Specific Models.",
+      "authors": [
+        "Andrew P Janson",
+        "Christopher R Butson"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "publication_date": "2018-Aug-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Video-Audio Media"
+      ],
+      "abstract": "Deep brain stimulation (DBS), which involves insertion of an electrode to deliver stimulation to a localized brain region, is an established therapy for movement disorders and is being applied to a growing number of disorders. Computational modeling has been successfully used to predict the clinical effects of DBS; however, there is a need for novel modeling techniques to keep pace with the growing complexity of DBS devices. These models also need to generate predictions quickly and accurately. The goal of this project is to develop an image processing pipeline to incorporate structural magnetic resonance imaging (MRI) and diffusion weighted imaging (DWI) into an interactive, patient specific model to simulate the effects of DBS. A virtual DBS lead can be placed inside of the patient model, along with active contacts and stimulation settings, where changes in lead position or orientation generate a new finite element mesh and solution of the bioelectric field problem in near real-time, a timespan of approximately 10 seconds. This system also enables the simulation of multiple leads in close proximity to allow for current steering by varying anodes and cathodes on different leads. The techniques presented in this paper reduce the burden of generating and using computational models while providing meaningful feedback about the effects of electrode position, electrode design, and stimulation configurations to researchers or clinicians who may not be modeling experts.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Humans",
+        "Image Processing, Computer-Assisted",
+        "Models, Neurological",
+        "Neural Pathways"
+      ]
+    },
+    {
+      "pmid": "29972424",
+      "title": "Decisions about deep brain stimulation therapy in Parkinson's disease.",
+      "authors": [
+        "Pedro Brandão",
+        "Talyta Cortez Grippe",
+        "Luiz Cláudio Modesto",
+        "André Gustavo Fonseca Ferreira",
+        "Flávia Martins da Silva",
+        "Flávio Faria Pereira",
+        "Marcelo Evangelista Lobo",
+        "Nasser Allam",
+        "Tiago da Silva Freitas",
+        "Renato P Munhoz"
+      ],
+      "journal": "Arquivos de neuro-psiquiatria",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Parkinson's disease can be treated surgically in patients who present with motor complications such as fluctuations and dyskinesias, or medically-refractory disabling tremor. In this review, a group of specialists formulated suggestions for a preoperative evaluation protocol after reviewing the literature published up to October 2017. In this protocol, eligibility and ineligibility criteria for surgical treatment were suggested, as well as procedures that should be carried out before the multidisciplinary therapeutic decisions. The review emphasizes the need to establish \"DBS teams\", with professionals dedicated specifically to this area. Finally, surgical target selection (subthalamic nucleus or globus pallidus internus) is discussed briefly, weighing the pros and cons of each target.",
+      "mesh_terms": [
+        "Clinical Decision-Making",
+        "Deep Brain Stimulation",
+        "Humans",
+        "Parkinson Disease"
+      ]
+    },
+    {
+      "pmid": "29900088",
+      "title": "Improving the Standard for Deep Brain Stimulation Therapy: Target Structures and Feedback Signals for Adaptive Stimulation. Current Perspectives and Future Directions.",
+      "authors": [
+        "Franz Hell",
+        "Thomas Köglsperger",
+        "Jan Mehrkens",
+        "Kai Boetzel"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2018-Apr-12",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Deep brain stimulation (DBS) is an established therapeutic option for the treatment of various neurological disorders and has been used successfully in movement disorders for over 25 years. However, the standard stimulation schemes have not changed substantially. Two major points of interest for the further development of DBS are target-structures and novel adaptive stimulation techniques integrating feedback signals. We describe recent research results on target structures and on neural and behavioural feedback signals for adaptive deep brain stimulation (aDBS), as well as outline future directions."
+    },
+    {
+      "pmid": "29657957",
+      "title": "The Effect of Deep Brain Stimulation Therapy on Fear-Related Capture of Attention in Parkinson's Disease and Essential Tremor: A Comparison to Healthy Individuals.",
+      "authors": [
+        "Corrie R Camalier",
+        "Maureen McHugo",
+        "David H Zald",
+        "Joseph S Neimat"
+      ],
+      "journal": "Journal of neurological disorders",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In addition to motor symptoms, Parkinson's disease (PD) involves significant non-motor sequelae, including disruptions in cognitive and emotional processing. Fear recognition appears to be affected both by the course of the disease and by a common interventional therapy, deep brain stimulation of the subthalamic nucleus (STN-DBS). Here, we examined if these effects extend to other aspects of emotional processing, such as attentional capture by negative emotional stimuli. Performance on an emotional attentional blink (EAB) paradigm, a common paradigm used to study emotional capture of attention, was examined in a cohort of individuals with PD, both on and off STN-DBS therapy (n=20). To contrast effects of healthy aging and other movement disorder and DBS targets, we also examined performance in a healthy elderly (n=20) and young (n=18) sample on the same task, and a sample diagnosed with Essential Tremor (ET) undergoing therapeutic deep brain stimulation of the ventral-intermediate nucleus (VIM-DBS, n=18). All four groups showed a robust attentional capture of emotional stimuli, irrespective of aging processes, movement disorder diagnosis, or stimulation. PD patients on average had overall worse performance, but this decrement in performance was not related to the emotional capture of attention. PD patients exhibited a robust EAB, indicating that the ability of emotion to direct attention remains intact in PD. Congruent with other recent data, these findings suggest that fear recognition deficits in PD may instead reflect a highly specific problem in recognition, rather than a general deficit in emotional processing of fearful stimuli."
+    },
+    {
+      "pmid": "28652714",
+      "title": "The safety issues and hardware-related complications of deep brain stimulation therapy: a single-center retrospective analysis of 478 patients with Parkinson's disease.",
+      "authors": [
+        "Jing Zhang",
+        "Tao Wang",
+        "Chen-Cheng Zhang",
+        "Kristina Zeljic",
+        "Shikun Zhan",
+        "Bo-Min Sun",
+        "Dian-You Li"
+      ],
+      "journal": "Clinical interventions in aging",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Deep brain stimulation (DBS) is a well-established therapy for the treatment of advanced Parkinson's disease (PD) in patients experiencing motor fluctuations and medication-refractory tremor. Despite the relative tolerability and safety of this procedure, associated complications and unnatural deaths are still unavoidable. METHODS: In this study, hardware-related complications and the causes of unnatural death were retrospectively analyzed in 478 patients with PD who were treated with DBS. RESULTS: The results showed a 3-year survival rate of 98.6% and a 5-year survival rate of 96.4% for patients with PD who underwent DBS treatment at the study center. Pneumonia was the cause of death with the highest frequency. Prophylactic antibiotics and steroids or antihistamine drugs were adopted to reduce the risk of infection. Twenty-two patients (4.6%) experienced hardware-related complications. CONCLUSION: Deaths of PD patients who receive DBS are typically unrelated to the disease itself or complications associated with the surgery. Pneumonia, malignant tumors, asphyxia, and multiple-organ failure are the common causes of death. Swallowing-related problems may be the most important clinical symptom in late-stage PD, as they cannot be stabilized or improved by DBS alone, and are potentially lethal. Although prophylactic antibiotics and steroids or antihistamine drugs may reduce the risk of infection, it is imperative to identify high-risk patients for whom a therapeutic approach not requiring an implantable device is more suitable, for example, pallidotomy and potentially transcranial ultrasound.",
+      "mesh_terms": [
+        "Aged",
+        "Antibiotic Prophylaxis",
+        "Cause of Death",
+        "Deep Brain Stimulation",
+        "Equipment Design",
+        "Equipment Failure",
+        "Female",
+        "Humans",
+        "Infections",
+        "Male",
+        "Middle Aged",
+        "Parkinson Disease",
+        "Retrospective Studies"
+      ]
+    },
+    {
+      "pmid": "28511261",
+      "title": "Current Practice and the Future of Deep Brain Stimulation Therapy in Parkinson's Disease.",
+      "authors": [
+        "Leonardo Almeida",
+        "Wissam Deeb",
+        "Chauncey Spears",
+        "Enrico Opri",
+        "Rene Molina",
+        "Daniel Martinez-Ramirez",
+        "Aysegul Gunduz",
+        "Christopher W Hess",
+        "Michael S Okun"
+      ],
+      "journal": "Seminars in neurology",
+      "publication_date": "2017-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Deep brain stimulation (DBS) is an effective therapy for Parkinson's disease patients experiencing motor fluctuations, medication-resistant tremor, and/or dyskinesia. Currently, the subthalamic nucleus and the globus pallidus internus are the two most widely used targets, with individual advantages and disadvantages influencing patient selection. Potential DBS patients are selected using the few existing guidelines and the available DBS literature, and many centers employ an interdisciplinary team review of the individual's risk-benefit profile. Programmed settings vary based on institution- or physician-specific protocols designed to maximize benefits and limit adverse effects. Expectations should be realistic and clearly defined during the evaluation process, and each bothersome symptom should be addressed in the context of building the risk-benefit profile. Current DBS research is focused on improved symptom control, the development of newer technologies, and the improved efficiency of stimulation delivery. Techniques deliver stimulation in a more personalized way, and methods of adaptive DBS such as closed-loop approaches are already on the horizon.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Globus Pallidus",
+        "Humans",
+        "Parkinson Disease",
+        "Subthalamic Nucleus",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "27411228",
+      "title": "State of the Art for Deep Brain Stimulation Therapy in Movement Disorders: A Clinical and Technological Perspective.",
+      "authors": [
+        "Aparna Wagle Shukla",
+        "Michael S Okun"
+      ],
+      "journal": "IEEE reviews in biomedical engineering",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Deep brain stimulation (DBS) therapy is a widely used brain surgery that can be applied for many neurological and psychiatric disorders. DBS is American Food and Drug Administration approved for medication refractory Parkinson's disease, essential tremor and dystonia. Although DBS has shown consistent success in many clinical trials, the therapy has limitations and there are well-recognized complications. Thus, only carefully selected patients are ideal candidates for this surgery. Over the last two decades, there have been significant advances in clinical knowledge on DBS. In addition, the surgical techniques and technology related to DBS has been rapidly evolving. The goal of this review is to describe the current status of DBS in the context of movement disorders, outline the mechanisms of action for DBS in brief, discuss the standard surgical and imaging techniques, discuss the patient selection and clinical outcomes in each of the movement disorders, and finally, introduce the recent advancements from a clinical and technological perspective.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Humans",
+        "Movement Disorders",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "27148019",
+      "title": "Brain Stimulation Therapy for Central Post-Stroke Pain from a Perspective of Interhemispheric Neural Network Remodeling.",
+      "authors": [
+        "Takashi Morishita",
+        "Tooru Inoue"
+      ],
+      "journal": "Frontiers in human neuroscience",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Central post-stroke pain (CPSP) is a debilitating, severe disorder affecting patient quality of life. Since CPSP is refractory to medication, various treatment modalities have been tried with marginal results. Following the first report of epidural motor cortex (M1) stimulation (MCS) for CPSP, many researchers have investigated the mechanisms of electrical stimulation of the M1. CPSP is currently considered to be a maladapted network reorganization problem following stroke, and recent studies have revealed that the activities of the impaired hemisphere after stroke may be inhibited by the contralesional hemisphere. Even though this interhemispheric inhibition (IHI) theory was originally proposed to explain the motor recovery process in stroke patients, we considered that IHI may also contribute to the CPSP mechanism. Based on the IHI theory and the fact that electrical stimulation of the M1 suppresses CPSP, we hypothesized that the inhibitory signals from the contralesional hemisphere may suppress the activities of the M1 in the ipsilesional hemisphere, and therefore pain suppression mechanisms may be malfunctioning in CPSP patients. In this context, transcranial direct current stimulation (tDCS) was considered to be a reasonable procedure to address the interhemispheric imbalance, as the bilateral M1 can be simultaneously stimulated using an anode (excitatory) and cathode (inhibitory). In this article, we review the potential mechanisms and propose a new model of CPSP. We also report two cases where CPSP was addressed with tDCS, discuss the potential roles of tDCS in the treatment of CPSP, and make recommendations for future studies."
+    },
+    {
+      "pmid": "26852116",
+      "title": "Removing and reimplanting deep brain stimulation therapy devices in resistant OCD (when the patient does not respond): case report.",
+      "authors": [
+        "Eva Real",
+        "Gerard Plans",
+        "Pino Alonso",
+        "Marco A Aparicio",
+        "Cinto Segalàs",
+        "Narcís Cardoner",
+        "Carles Soriano-Mas",
+        "Clara López-Solà",
+        "José M Menchón"
+      ],
+      "journal": "BMC psychiatry",
+      "publication_date": "2016-Feb-06",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Deep brain stimulation (DBS) is emerging as a promising tool in the treatment of refractory obsessive-compulsive disorder (OCD) but the search for the best target still continues. This issue is especially relevant when particularly resistant profiles are observed in some patients, which have been ascribed to individual responses to DBS according to differential patterns of connectivity. As patients have been implanted, new dilemmas have emerged, such as what to do when the patient does not respond to surgery. CASE PRESENTATION: Here we describe a 22-year-old male with extremely severe OCD who did not respond to treatment with DBS in the nucleus accumbens, but who did respond after explanting and reimplanting leads targeting the ventral capsule-ventral striatum region. Information regarding the position of the electrodes for both surgeries is provided and possible brain structures affected during stimulation are reviewed. To our knowledge this case is the first in the literature reporting the removal and reimplantation of DBS leads for therapeutical benefits in a patient affected by a mental disorder. CONCLUSION: The capability for explantation and reimplantation of leads should be considered as part of the DBS therapy reversibility profile in resistant mental disorders, as it allows application in cases of non-response to the first surgery.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Device Removal",
+        "Electrodes, Implanted",
+        "Humans",
+        "Male",
+        "Nucleus Accumbens",
+        "Obsessive-Compulsive Disorder",
+        "Psychiatric Status Rating Scales",
+        "Reoperation",
+        "Stereotaxic Techniques",
+        "Treatment Outcome",
+        "Ventral Striatum",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26793102",
+      "title": "Non-Human Primate: An Essential Building Brick in the Discovery of the Subthalamic Deep Brain Stimulation Therapy.",
+      "authors": [
+        "Abdelhamid Benazzouz",
+        "Christian Gross",
+        "Bernard Bioulac"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "26379180",
+      "title": "Deep Brain Stimulation Therapy in Parkinson Disease: The Role of Cortical Phase-Amplitude Coupling Reduction.",
+      "authors": [
+        "Yousef Salimpour",
+        "William S Anderson"
+      ],
+      "journal": "Neurosurgery",
+      "publication_date": "2015-Oct",
+      "publication_types": [
+        "Comment",
+        "News"
+      ]
+    },
+    {
+      "pmid": "25485378",
+      "title": "A method for predicting the outcomes of combined pharmacologic and deep brain stimulation therapy for Parkinson's disease.",
+      "authors": [
+        "Reuben R Shamir",
+        "Trygve Dolbert",
+        "Angela M Noecker",
+        "Anneke M Frankemolle",
+        "Benjamin L Walter",
+        "Cameron C McIntyre"
+      ],
+      "journal": "Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "publication_date": "2014",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Deep brain stimulation (DBS) is an established therapy for the management of advanced Parkinson's disease (PD). However, the coupled adjustment of pharmacologic therapy and stimulation parameter settings is a time-consuming process and treatment outcomes are not always optimal. In this study, we develop a linear function that relates the DBS parameters, the levodopa dosage, and patient-specific preoperative clinical data with the actual treatment motor outcomes. To this end, we incorporate image-based patient-specific computer models of the volume of tissue activated by DBS in a multilinear regression analysis (6 PD patients; 60 follow up visits). The resulting predictor function was highly correlated with the actual motor outcomes (r = 0.76; p < 0.05). These results demonstrate that the outcomes of a combined pharmacologic-DBS therapy can be predicted and may facilitate patient-specific treatment optimization for maximal benefits and minimal adverse effects.",
+      "mesh_terms": [
+        "Aged",
+        "Antiparkinson Agents",
+        "Brain",
+        "Combined Modality Therapy",
+        "Deep Brain Stimulation",
+        "Female",
+        "Humans",
+        "Image Interpretation, Computer-Assisted",
+        "Imaging, Three-Dimensional",
+        "Levodopa",
+        "Magnetic Resonance Imaging",
+        "Male",
+        "Middle Aged",
+        "Outcome Assessment, Health Care",
+        "Parkinson Disease",
+        "Prognosis",
+        "Reproducibility of Results",
+        "Sensitivity and Specificity",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "25359259",
+      "title": "Non-invasive brain stimulation therapy in multiple sclerosis: a review of tDCS, rTMS and ECT results.",
+      "authors": [
+        "Ulrich Palm",
+        "Samar S Ayache",
+        "Frank Padberg",
+        "Jean-Pascal Lefaucheur"
+      ],
+      "journal": "Brain stimulation",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: Multiple sclerosis (MS) is a disabling neurological disorder presenting a variety of symptoms which are hard to control by actual drug regimens. Non-invasive brain stimulation (NIBS) techniques have been investigated in the past years for the improvement of several neurologic and psychiatric disorders. OBJECTIVE: Here, we review the application of transcranial direct current stimulation (tDCS), transcranial magnetic stimulation (rTMS, iTBS) and electroconvulsive therapy (ECT) in MS patients. METHODS: Articles were searched in common literature databases. Crosslinks were reviewed. RESULTS: ECT was shown to be efficacious for the treatment of severe psychiatric disorders in 21 case reports. The results of tDCS and TMS for the treatment of depressive symptoms, fatigue, tactile sensory deficit, pain, motor performance, and spasticity were assessed in several studies and showed mixed results. CONCLUSIONS: Overall, data for the treatment of MS with NIBS is sparse regarding TMS and tDCS. Treatment of severe psychiatric disorders with ECT is only reported in single cases. More studies are needed to elucidate the potential role of NIBS in MS treatment.",
+      "mesh_terms": [
+        "Brain",
+        "Depression",
+        "Electroconvulsive Therapy",
+        "Humans",
+        "Mental Disorders",
+        "Multiple Sclerosis",
+        "Transcranial Direct Current Stimulation",
+        "Transcranial Magnetic Stimulation"
+      ]
+    },
+    {
+      "pmid": "25304438",
+      "title": "Successful subthalamic nucleus deep brain stimulation therapy after significant lead displacement from a subdural hematoma.",
+      "authors": [
+        "Esmiralda Yeremeyeva Henderson",
+        "Timothy Goble",
+        "Pierre-François D'Haese",
+        "Srivatsan Pallavaram",
+        "Chima Oluigbo",
+        "Punit Agrawal",
+        "Milind Deogaonkar",
+        "Ali Rezai"
+      ],
+      "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "A 57-year-old man with a 21 year history of Parkinson's disease underwent bilateral subthalamic nucleus deep brain stimulation (DBS) placement. One week postoperatively he developed an acute left subdural hematoma from a fall with significant displacement of the DBS leads. It was promptly evacuated, the patient slowly recovered neurologically, and the leads again moved near to the original position. Six months of stimulation therapy attained 50% reduction in symptoms. This case report demonstrates the movement of DBS leads due to brain shift and their ability to come back to previous location once the brain shift is corrected.",
+      "mesh_terms": [
+        "Deep Brain Stimulation",
+        "Electrodes, Implanted",
+        "Equipment Failure",
+        "Hematoma, Subdural",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Parkinson Disease",
+        "Recovery of Function",
+        "Reoperation",
+        "Subthalamic Nucleus",
+        "Suction",
+        "Tomography, X-Ray Computed",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "23590906",
+      "title": "Reaching to proprioceptively defined targets in Parkinson's disease: effects of deep brain stimulation therapy.",
+      "authors": [
+        "D Lee",
+        "D Y Henriques",
+        "J Snider",
+        "D Song",
+        "H Poizner"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2013-Aug-06",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Deep brain stimulation of the subthalamic nucleus (STN DBS) provides a unique window into human brain function since it can reversibly alter the functioning of specific brain circuits. Basal ganglia-cortical circuits are thought to be excessively noisy in patients with Parkinson's disease (PD), based in part on the lack of specificity of proprioceptive signals in basal ganglia-thalamic-cortical circuits in monkey models of the disease. PD patients are known to have deficits in proprioception, but the effects are often subtle, with paradigms typically restricted to one or two joint movements in a plane. Moreover, the effects of STN DBS on proprioception are virtually unexplored. We tested the following hypotheses: first, that PD patients will show substantial deficits in unconstrained, multi-joint proprioception, and, second, that STN DBS will improve multi-joint proprioception. Twelve PD patients with bilaterally implanted electrodes in the subthalamic nucleus and 12 age-matched healthy subjects were asked to position the left hand at a location that was proprioceptively defined in 3D space with the right hand. In a second condition, subjects were provided visual feedback during the task so that they were not forced to rely on proprioception. Overall, with STN DBS switched off, PD patients showed significantly larger proprioceptive localization errors, and greater variability in endpoint localizations than the control subjects. Visual feedback partially normalized PD performance, and demonstrated that the errors in proprioceptive localization were not simply due to a difficulty in executing the movements or in remembering target locations. Switching STN DBS on significantly reduced localization errors from those of control subjects when patients moved without visual feedback relative to when they moved with visual feedback (when proprioception was not required). However, this reduction in localization errors without vision came at the cost of increased localization variability.",
+      "mesh_terms": [
+        "Aged",
+        "Deep Brain Stimulation",
+        "Feedback, Sensory",
+        "Female",
+        "Humans",
+        "Male",
+        "Parkinson Disease",
+        "Psychomotor Performance",
+        "Somatosensory Disorders",
+        "Subthalamic Nucleus"
+      ]
+    },
+    {
+      "pmid": "22354581",
+      "title": "Deep brain stimulation therapy.",
+      "authors": [
+        "Andres M Lozano"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "publication_date": "2012-Feb-21",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_terms": [
+        "Central Nervous System Diseases",
+        "Deep Brain Stimulation",
+        "Humans",
+        "Reproducibility of Results"
+      ]
+    },
+    {
+      "pmid": "21704492",
+      "title": "Digital voice analysis in patients with advanced Parkinson's disease undergoing deep brain stimulation therapy.",
+      "authors": [
+        "María Angeles Mate",
+        "Ignacio Cobeta",
+        "Félix Javier Jiménez-Jiménez",
+        "Roberto Figueiras"
+      ],
+      "journal": "Journal of voice : official journal of the Voice Foundation",
+      "publication_date": "2012-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: An acoustic analysis was conducted of the voice of 25 patients with Parkinson's disease (PD) subjected to deep brain stimulation (DBS) to assess the impact of therapy. MATERIALS AND METHODS: We examined 25 patients with advanced PD under four different conditions: deprived of medical treatment, under medical treatment, and one week and one month after the implant of the DBS electrodes. At the four time points, the patients produced a sustained /a/ and a standard sentence in Spanish, and microphone and electroglottographic recordings were digitally analyzed using the Computerized Speech Lab program. RESULTS: Waveform analysis of the sustained /a/ captured by the microphone indicated a higher fundamental frequency (F(0)) when the patients were under levodopa treatment. The frequency perturbation (jitter) decreased remarkably after the three treatments. Shimmer also fell, but differences were not significant. CONCLUSIONS: Nearly all acoustic analysis parameters during phonation of a sustained /a/ improved after DBS, but the factor that was most sensitive to the impact of both surgical and medical therapy was jitter.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Deep Brain Stimulation",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Parkinson Disease",
+        "Speech Acoustics",
+        "Voice"
+      ]
+    },
+    {
+      "pmid": "20853121",
+      "title": "Deep brain stimulation therapy for treatment-refractory Tourette's syndrome: A review.",
+      "authors": [
+        "Marco Sassi",
+        "Mauro Porta",
+        "Domenico Servello"
+      ],
+      "journal": "Acta neurochirurgica",
+      "publication_date": "2011-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Tourette's syndrome is a chronic neurobehavioral disorder that can demonstrate refractoriness to conservative treatments, or to invasive nonsurgical treatments such as botulinum toxin infiltration, or to psychobehavioral treatments. In these cases, the surgical option is often proposed, either with lesional interventions, or more recently with deep brain stimulation (DBS). This latter modality is currently preferred because of its reversibility and modularity. Some relevant issues, however, still persist in terms of appropriate indication to treatment, selection of target, and follow-up evaluation.",
+      "mesh_terms": [
+        "Adult",
+        "Brain Mapping",
+        "Deep Brain Stimulation",
+        "Dominance, Cerebral",
+        "Female",
+        "Globus Pallidus",
+        "Humans",
+        "Internal Capsule",
+        "Intralaminar Thalamic Nuclei",
+        "Male",
+        "Nucleus Accumbens",
+        "Social Behavior",
+        "Tourette Syndrome"
+      ]
+    },
+    {
+      "pmid": "20443976",
+      "title": "Deep brain stimulation therapy for Parkinson's disease using frameless stereotaxy: comparison with frame-based surgery.",
+      "authors": [
+        "C-H Tai",
+        "R-M Wu",
+        "C-H Lin",
+        "M-K Pan",
+        "Y-F Chen",
+        "H-M Liu",
+        "H-H Lu",
+        "C-W Tsai",
+        "S-H Tseng"
+      ],
+      "journal": "European journal of neurology",
+      "publication_date": "2010-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: Deep brain stimulation (DBS) surgery has been performed using frame-based stereotaxy traditionally; however, in recent years, it has also been performed using frameless stereotaxy. The purpose of this study was to compare the experience at our centre in performing DBS surgery using frameless surgery for patients with Parkinson's disease with that of using frame-based surgery. METHODS: Twenty-four patients with advanced Parkinson's disease underwent DBS surgery, 12 with frameless and 12 with frame-based stereotaxy. After identifying the subthalamus by microelectrode recording (MER), the DBS electrodes were implanted and connected to an implanted programmable generator in all patients. Programming was started 1 month after the operation and the outcome of the patients was followed up regularly for at least 12 months. RESULTS: After 1 year of follow-up, the patients who received frameless surgery showed no difference in the degree of improvement in clinical motor function compared with the patients who received frame-based surgery (P = 0.819); the average improvement was 60.9% and 56.9%, respectively, in the stimulation alone/medication-off state, as evaluated by the Unified Parkinson's Disease Rating Scale-III motor subscore. However, the frameless group had significantly shorter total MER time (P = 0.0127) and a smaller number of trajectories (P = 0.0096) than the frame-based group. CONCLUSIONS: Our data indicate that frameless DBS surgery has a similar outcome when compared with frame-based surgery; however, frameless surgery can decrease the operation time, MER time, and MER trajectory number.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Algorithms",
+        "Deep Brain Stimulation",
+        "Electrodes",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Neuronavigation",
+        "Parkinson Disease",
+        "Statistics, Nonparametric",
+        "Stereotaxic Techniques",
+        "Subthalamic Nucleus",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "20633372",
+      "title": "From Meduna to ultrabrief: New directions for the oldest brain stimulation therapy.",
+      "authors": [
+        "Bernard Lerer",
+        "Moshe Isserles"
+      ],
+      "journal": "Brain stimulation",
+      "publication_date": "2008-Apr",
+      "publication_types": [
+        "Comment",
+        "Editorial",
+        "Historical Article"
+      ],
+      "mesh_terms": [
+        "Brain",
+        "Electroconvulsive Therapy",
+        "History, 20th Century",
+        "History, 21st Century",
+        "Humans",
+        "Nervous System Diseases"
+      ]
+    },
+    {
+      "pmid": "16350981",
+      "title": "Deep brain stimulation therapy for the vegetative state.",
+      "authors": [
+        "Takamitsu Yamamoto",
+        "Yoichi Katayama"
+      ],
+      "journal": "Neuropsychological rehabilitation",
+      "publication_date": "2005",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Twenty-one cases of a vegetative state (VS) caused by various kinds of brain damage were evaluated neurologically and electrophysiologically three months after brain injury. These cases were treated by deep brain stimulation (DBS) therapy, and followed up for over 10 years. The mesencephalic reticular formation was selected as a target in two cases, and the thalamic centre median-parafascicular (CM-pf) complex was selected as a target in the other 19 cases. Eight of the 21 patients emerged from the VS, and became able to obey verbal commands. However, they remained in a bedridden state except for one case. DBS therapy may be useful for allowing patients to emerge from a VS, if the candidates are selected according to appropriate neurophysiological criteria. A special neurorehabilitation system may be necessary for emergence from the bedridden state in the treatment of VS patients. Further, DBS therapy is expected to provide a useful method in minimally conscious state (MCS) patients to achieve consistent discernible behavioural evidence of consciousness, and emergence from the bedridden state.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Brain Injuries",
+        "Deep Brain Stimulation",
+        "Electroencephalography",
+        "Female",
+        "Humans",
+        "Male",
+        "Mesencephalon",
+        "Middle Aged",
+        "Persistent Vegetative State",
+        "Reticular Formation",
+        "Retrospective Studies"
+      ]
+    },
+    {
+      "pmid": "15359520",
+      "title": "Bilateral globus pallidus internus deep brain stimulation therapy for primary generalized dystonia.",
+      "authors": [
+        "Bimal B Padaliya",
+        "Thomas L Davis",
+        "William J Newman",
+        "Peter E Konrad",
+        "Cassondra D Covington",
+        "Chandler E Gill",
+        "Anna I Abramovitch",
+        "P David Charles"
+      ],
+      "journal": "Tennessee medicine : journal of the Tennessee Medical Association",
+      "publication_date": "2004-Jul",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Primary generalized dystonia (PGD) associated with the early-onset generalized dystonia gene (DYT1) can cause severe disability, compromising an individual's ability to perform activities of daily living. Pharmacological treatment has been inadequate in alleviating the motor dysfunctions. Deep brain stimulation of the bilateral globus pallidus internus (DBS B-GPi) has been documented to reduce these debilitating motor abnormalities. This report details the successful treatment of a DYT1-positive 13 year-old boy suffering from PGD.",
+      "mesh_terms": [
+        "Botulinum Toxins",
+        "Child",
+        "Deep Brain Stimulation",
+        "Diazepam",
+        "Dystonia",
+        "Globus Pallidus",
+        "Humans",
+        "Male",
+        "Methadone",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "15287493",
+      "title": "[Thalamic deep brain stimulation therapy: a guide to stereotactic brain operations].",
+      "authors": [
+        "Kenji Sugiyama"
+      ],
+      "journal": "No shinkei geka. Neurological surgery",
+      "publication_date": "2004-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Electric Stimulation Therapy",
+        "Electromyography",
+        "Essential Tremor",
+        "Evoked Potentials, Somatosensory",
+        "Humans",
+        "Magnetic Resonance Imaging",
+        "Monitoring, Physiologic",
+        "Movement Disorders",
+        "Neurosurgical Procedures",
+        "Parkinson Disease",
+        "Stereotaxic Techniques",
+        "Thalamus"
+      ]
+    },
+    {
+      "pmid": "12235801",
+      "title": "[Deep brain stimulation therapy for involuntary movements].",
+      "authors": [
+        "Y Katayama"
+      ],
+      "journal": "Rinsho shinkeigaku = Clinical neurology",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "During the last decade, it has become clear that deep brain stimulation (DBS) therapy provides a dramatic improvement in the symptoms of movement disorders. We have experienced DBS in 110 patients with various types of involuntary movements, and confirmed the benefits of stimulation of the thalamic nucleus ventralis intermedius (Vim), internal globus pallidus (GPi) and subthalamic nucleus (STN) in these patients. DBS therapy affords the best effect on tremor when the Vim is selected as the stimulation site. DBS therapy is also useful for controlling rigidity when the GPi or STN is stimulated. Improvements of bradykinesia and gait disturbance are often induced by DBS therapy involving the GPi or STN. Dopa-induced dyskinesia can be attenuated effectively by the direct and/or indirect effects of DBS therapy. DBS of the Vim also provides excellent control of post-stroke involuntary movements, including hemiballism and hemichoreoathetosis. Dystonia in young patients is controlled effectively by DBS of GPi. Ablative procedures for control of involuntary movement disorders, such as thalamotomy and pallidotomy, always carry a risk associated with creating additional lesions in an already damaged brain. In contrast, there is not such a risk in DBS therapy. This modality of therapy is an important option in treating involuntary movements.",
+      "mesh_terms": [
+        "Dyskinesias",
+        "Electric Stimulation Therapy",
+        "Globus Pallidus",
+        "Humans",
+        "Parkinson Disease",
+        "Stereotaxic Techniques",
+        "Stroke",
+        "Ventral Thalamic Nuclei"
+      ]
+    },
+    {
+      "pmid": "11974994",
+      "title": "Deep brain stimulation therapy for a persistent vegetative state.",
+      "authors": [
+        "T Yamamoto",
+        "Y Katayama",
+        "H Oshima",
+        "C Fukaya",
+        "T Kawamata",
+        "T Tsubokawa"
+      ],
+      "journal": "Acta neurochirurgica. Supplement",
+      "publication_date": "2002",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Twenty cases of a persistent vegetative state (PVS) caused by various kinds of brain damage were neurologically and electrophysiologically evaluated at 3 months after persistence of the PVS, and were treated by deep brain stimulation (DBS) therapy. The stimulation sites were the mesencephalic reticular formation (2 cases) and CM-pf complex (18 cases). Seven of the patients emerged from the PVS, and became able to obey verbal commands. However, they remained in a bedridden state. These 7 cases revealed a desynchronization or slight desynchronization pattern on continuous EEG frequency analysis. The Vth wave of ABR and N20 of SEP could be recorded even with a prolonged latency, and the pain-related P250 was recorded with an amplitude of over 7 microV. We conclude that chronic DBS therapy may be useful for allowing the patient to emerge from a PVS, if the candidates are selected according to the neurophysiological criteria. In view of the severely disabled state of the patients who emerged from the PVS, a special rehabilitation program which includes neurostimulation therapy may be necessary for treatment of the PVS.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Brain",
+        "Electric Stimulation Therapy",
+        "Electroencephalography",
+        "Evoked Potentials, Auditory, Brain Stem",
+        "Evoked Potentials, Somatosensory",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Persistent Vegetative State"
+      ]
+    },
+    {
+      "pmid": "11765826",
+      "title": "New method of deep brain stimulation therapy with two electrodes implanted in parallel and side by side.",
+      "authors": [
+        "T Yamamoto",
+        "Y Katayama",
+        "C Fukaya",
+        "H Oshima",
+        "M Kasai",
+        "K Kobayashi"
+      ],
+      "journal": "Journal of neurosurgery",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Technical Report"
+      ],
+      "abstract": "Reversibility and adaptability are preferred features of long-term therapeutic deep brain stimulation (DBS). In such therapy, a permanent stimulating electrode with four contact points is placed at the stimulation site and, generally speaking, bipolar stimulation is induced by various pairs of adjacent contact points on one electrode. The stimulation sites are thus all located along the trajectory of the implanted electrode. In a patient with unilateral severe essential tremor, the authors implanted two electrodes side by side and parallel to each other in the unilateral thalamic ventralis intermedius nucleus. Using these electrodes, the authors were able to deliver current flow not only along the electrode trajectory, but also between the two electrodes in a direction parallel to the anterior commissure-posterior commissure line. Although individual stimulations, delivered by each of the two electrodes using all parameters and all stimulation points, were unable to stop the patient's tremor completely without adverse effects, the new stimulation method, in which electrical currents passed between the two electrodes, effected complete abolition of the tremor without adverse effects. With the aid of this method, one can use two electrodes, implanted in parallel and side by side, to achieve maximum efficacy and to reduce adverse effects in some instances of DBS therapy.",
+      "mesh_terms": [
+        "Aged",
+        "Electric Stimulation Therapy",
+        "Electrodes, Implanted",
+        "Essential Tremor",
+        "Humans",
+        "Male",
+        "Treatment Outcome",
+        "Ventral Thalamic Nuclei"
+      ]
+    },
+    {
+      "pmid": "10793416",
+      "title": "[Deep brain stimulation therapy: control of human brain function by chronically implanted electrodes].",
+      "authors": [
+        "Y Katayama"
+      ],
+      "journal": "No to shinkei = Brain and nerve",
+      "publication_date": "2000-Apr",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "During the last decade, it has become increasingly clear that deep brain stimulation(DBS) is useful for controlling various neurological disorders, including intractable pain and involuntary movements. The development of an implantable and programmable pulse-generator has greatly facilitated the clinical application of DBS therapy. The history and clinical data of DBS therapy currently available from the literature, together with our own cases treated by DBS, are reviewed. DBS therapy has many advantages over conventional neuroablative therapies, including reversibility of the procedure, controllability and relative selectivity of the effects, and possible plastic effects on neural function. Further evolution of the stimulation system, such as through integration with neuromonitoring devices, would open up a new field of restorative neurology and neurosurgery.",
+      "mesh_terms": [
+        "Brain",
+        "Electric Stimulation Therapy",
+        "Electrodes, Implanted",
+        "Humans",
+        "Movement Disorders",
+        "Pain, Intractable"
+      ]
+    }
+  ]
+}

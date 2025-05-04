@@ -1,0 +1,136 @@
+{
+  "supplement": "Energy Conservation Management",
+  "query": "Energy Conservation Management[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:31:44",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "31318668",
+      "title": "Energy Conservation Management for People With Multiple Sclerosis-Related Fatigue: Who Benefits?",
+      "authors": [
+        "Lyan J M Blikman",
+        "Jetty van Meeteren",
+        "Jos W R Twisk",
+        "Fred A J de Laat",
+        "Vincent de Groot",
+        "Heleen Beckerman",
+        "Henk J Stam",
+        "Johannes B J Bussmann"
+      ],
+      "journal": "The American journal of occupational therapy : official publication of the American Occupational Therapy Association",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: We investigated whether demographic, disease-related, or personal baseline determinants can predict a positive response to energy conservation management (ECM). METHOD: We conducted a secondary analysis of a single-blind, two-parallel-arms randomized controlled trial that included ambulatory adults with severe MS-related fatigue. Therapy responders and nonresponders were categorized by Checklist Individual Strength fatigue change scores between baseline and end of treatment. Logistic regression analyses were used to assess the determinants of response. RESULTS: Sixty-nine participants were included (ECM group, n = 34; control group, n = 35). In the ECM group, fatigue severity, perception of fatigue, illness cognitions about MS, and social support discrepancies were related to the probability of being a responder. CONCLUSION: The results suggest that people with MS-related fatigue who had a less negative perception of fatigue and who perceived fewer disease benefits and a higher discrepancy in social support had the best response to ECM treatment.",
+      "mesh_terms": [
+        "Fatigue",
+        "Humans",
+        "Multiple Sclerosis",
+        "Single-Blind Method"
+      ]
+    },
+    {
+      "pmid": "28949284",
+      "title": "Aerobic exercise, cognitive behavioural therapy and energy conservation management for multiple sclerosis (MS) fatigue: Are three trials better than one?",
+      "authors": [
+        "Rona Moss-Morris",
+        "Sam Norton"
+      ],
+      "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Cognitive Behavioral Therapy",
+        "Exercise",
+        "Fatigue",
+        "Humans",
+        "Multiple Sclerosis"
+      ]
+    },
+    {
+      "pmid": "28528565",
+      "title": "Effectiveness of energy conservation management on fatigue and participation in multiple sclerosis: A randomized controlled trial.",
+      "authors": [
+        "Lyan Jm Blikman",
+        "Jetty van Meeteren",
+        "Jos Wr Twisk",
+        "Fred Aj de Laat",
+        "Vincent de Groot",
+        "Heleen Beckerman",
+        "Henk J Stam",
+        "Johannes Bj Bussmann"
+      ],
+      "journal": "Multiple sclerosis (Houndmills, Basingstoke, England)",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Fatigue is a frequently reported and disabling symptom in multiple sclerosis (MS). OBJECTIVE: To investigate the effectiveness of an individual energy conservation management (ECM) intervention on fatigue and participation in persons with primary MS-related fatigue. METHODS: A total of 86 severely fatigued and ambulatory adults with a definite diagnosis of MS were randomized in a single-blind, two-parallel-arm randomized clinical trial to the ECM group or the information-only control group in outpatient rehabilitation departments. Blinded assessments were carried out at baseline and at 8, 16, 26 and 52 weeks after randomization. Primary outcomes were fatigue (fatigue subscale of Checklist Individual Strength - CIS20r) and participation (Impact on Participation and Autonomy scale - IPA). RESULTS: Modified intention-to-treat analysis was based on 76 randomized patients (ECM, n = 36; MS nurse, n=40). No significant ECM effects were found for fatigue (overall difference CIS20r between the groups = -0.81; 95% confidence interval (CI), -3.71 to 2.11) or for four out of five IPA domains. An overall unfavourable effect was found in the ECM group for the IPA domain social relations (difference between the groups = 0.19; 95% CI, 0.03 to 0.35). CONCLUSION: The individual ECM format used in this study did not reduce MS-related fatigue and restrictions in participation more than an information-only control condition.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Adult",
+        "Energy Metabolism",
+        "Fatigue",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Multiple Sclerosis",
+        "Neurological Rehabilitation",
+        "Outcome Assessment, Health Care",
+        "Single-Blind Method",
+        "Social Participation"
+      ]
+    },
+    {
+      "pmid": "23938046",
+      "title": "The effectiveness of aerobic training, cognitive behavioural therapy, and energy conservation management in treating MS-related fatigue: the design of the TREFAMS-ACE programme.",
+      "authors": [
+        "Heleen Beckerman",
+        "Lyan Jm Blikman",
+        "Martin Heine",
+        "Arjan Malekzadeh",
+        "Charlotte E Teunissen",
+        "Johannes Bj Bussmann",
+        "Gert Kwakkel",
+        "Jetty van Meeteren",
+        "Vincent de Groot"
+      ],
+      "journal": "Trials",
+      "publication_date": "2013-Aug-12",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: TREFAMS is an acronym for TReating FAtigue in Multiple Sclerosis, while ACE refers to the rehabilitation treatment methods under study, that is, Aerobic training, Cognitive behavioural therapy, and Energy conservation management. The TREFAMS-ACE research programme consists of four studies and has two main objectives: (1) to assess the effectiveness of three different rehabilitation treatment strategies in reducing fatigue and improving societal participation in patients with MS; and (2) to study the neurobiological mechanisms of action that underlie treatment effects and MS-related fatigue in general. METHODS/DESIGN: Ambulatory patients (n = 270) suffering from MS-related fatigue will be recruited to three single-blinded randomised clinical trials (RCTs). In each RCT, 90 patients will be randomly allocated to the trial-specific intervention or to a low-intensity intervention that is the same for all RCTs. This low-intensity intervention consists of three individual consultations with a specialised MS-nurse. The trial-specific interventions are Aerobic Training, Cognitive Behavioural Therapy, and Energy Conservation Management. These interventions consist of 12 individual therapist-supervised sessions with additional intervention-specific home exercises. The therapy period lasts 16 weeks. All RCTs have the same design and the same primary outcome measures: fatigue - measured with the Checklist Individual Strength, and participation - measured with the Impact on Participation and Autonomy questionnaire. Outcomes will be assessed 1 week prior to, and at 0, 8, 16, 26 and 52 weeks after randomisation. The assessors will be blinded to allocation. Pro- and anti-inflammatory cytokines in serum, salivary cortisol, physical fitness, physical activity, coping, self-efficacy, illness cognitions and other determinants will be longitudinally measured in order to study the neurobiological mechanisms of action. DISCUSSION: The TREFAMS-ACE programme is unique in its aim to assess the effectiveness of three rehabilitation treatments. The programme will provide important insights regarding the most effective treatment for MS-related fatigue and the mechanisms that underlie treatment response. A major strength of the programme is that the design involves three almost identical RCTs, enabling a close comparison of the treatment strategies and a strong overall meta-analysis. The results will also support clinical practice guidelines for the treatment of MS-related fatigue. TRIAL REGISTRATIONS: Current Controlled Trials ISRCTN69520623, ISRCTN58583714, and ISRCTN82353628.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Adaptation, Psychological",
+        "Checklist",
+        "Clinical Protocols",
+        "Cognitive Behavioral Therapy",
+        "Combined Modality Therapy",
+        "Cost of Illness",
+        "Energy Metabolism",
+        "Exercise Therapy",
+        "Fatigue",
+        "Humans",
+        "Multiple Sclerosis",
+        "Netherlands",
+        "Research Design",
+        "Social Participation",
+        "Surveys and Questionnaires",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "supplement": "Plantago Major Seeds",
+  "query": "Plantago Major Seeds[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:20:44",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "38797623",
+      "title": "Efficacy and safety of Plantago major seeds in patients with diabetic nephropathy: A randomized open-labeled controlled clinical trial.",
+      "authors": [
+        "Romella Haider",
+        "Majid Asghari",
+        "Fatemeh Aliasl",
+        "Mohammad Aghaali",
+        "Razieh Borujerdi",
+        "Hossein Saghafi",
+        "Hossein Moradi"
+      ],
+      "journal": "Explore (New York, N.Y.)",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Diabetic Nephropathy (DN) is characterized by albuminuria and a declining glomerular filtration rate (GFR) in diabetic patients. Plantago major (plantain) seed powder is traditionally used in these patients. Despite emerging and promising pre-clinical evidence, no clinical study investigated the potential efficacy of this intervention in patients with DN, which is the aim of this study. METHODS: In a randomized clinical trial 60 DN patients were recruited from November 2022 to March 2023 and randomly assigned to the plantain group that received standard treatment (Losartan 25 mg twice a day) and plantain seeds' powder (10 gm sachet twice a day) plus sweet almond and the control group was received only standard treatment for 60 days. Proteinuria, as per 24-hour urinary protein, as well as fasting blood sugar (FBS), blood urea nitrogen (BUN), serum creatinine, serum potassium, and quality of life score were measured at baseline and after 60 days as study outcome measures. RESULTS: Proteinuria was significantly decreased from 165.04 mg to 135.84 mg (p = 0.026) in the plantain group. The mean level of proteinuria was significantly lower in the plantain group (135.84 vs. 192.04, p = 0.039) compared to the control group after treatment. The plantain group showed more increase in quality of life score after treatment (33.89±9.67 vs 38.28±10.72, p = 0.041). Other outcomes showed no significant difference between the two study groups. CONCLUSION: Adjuvant supplementation with plantain seeds powder may decrease proteinuria in patients with diabetic nephropathy. Further studies with larger sample sizes and longer duration are needed to confirm these results.",
+      "mesh_terms": [
+        "Humans",
+        "Diabetic Nephropathies",
+        "Male",
+        "Seeds",
+        "Female",
+        "Middle Aged",
+        "Plantago",
+        "Quality of Life",
+        "Aged",
+        "Phytotherapy",
+        "Proteinuria",
+        "Creatinine",
+        "Adult",
+        "Blood Glucose",
+        "Glomerular Filtration Rate",
+        "Blood Urea Nitrogen"
+      ]
+    }
+  ]
+}

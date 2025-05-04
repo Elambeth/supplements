@@ -1,0 +1,1800 @@
+{
+  "supplement": "Octopamine",
+  "query": "Octopamine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:11:30",
+  "research_count": 58,
+  "count": 58,
+  "articles": [
+    {
+      "pmid": "40222199",
+      "title": "Octopamine alters yellow mealworm body composition.",
+      "authors": [
+        "V Hill",
+        "L Williams",
+        "A Salter",
+        "J Brameld",
+        "T Parr"
+      ],
+      "journal": "Animal : an international journal of animal bioscience",
+      "publication_date": "2025-Mar-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "There is the potential to increase the production yield within the emerging insect industry in order to produce high-quality, sustainable protein. In invertebrates, the monoamine, octopamine (OA), has a similar role to that of noradrenaline in mammals. Beta-2 adrenergic agonists increase protein and decrease fat deposition in mammals, thereby inducing favourable changes in body composition. We hypothesised that OA would have similar effects in insects. Tenebrio molitor larvae, commonly called yellow mealworms, were fed for 35 days on either control wheat bran or wheat bran containing OA at 5 μg OA/g. There were trends for treatment × time interactions for mealworm group weight (P = 0.075) and individual mealworm weight (P = 0.069), with the OA group becoming heavier/bigger after 18 days. In addition, there was a trend for a treatment × time interaction on cumulative pupation (P = 0.099), with OA-treated mealworms having delayed pupation. After 35 days of OA treatment, there were significant effects on mealworm final body proximate nutrient composition on a DM basis, with fat content being significantly decreased (by 8%, P = 0.006), whilst CP was significantly increased (by 6%, P = 0.019) in OA-treated mealworms compared to control. There was little effect of OA on the fatty acid composition of the mealworms, with small reductions in palmitoleic acid (P < 0.001) and oleic acid (P = 0.082). Despite a significant increase in protein content with OA treatment, SDS-PAGE did not reveal any changes in the proteins being expressed. Hence, OA treatment of mealworms resulted in an increase in the proportion of protein and a decrease in fat, demonstrating that mealworm nutrient composition can potentially be manipulated to provide a higher-value feed ingredient."
+    },
+    {
+      "pmid": "39300611",
+      "title": "A new mutation in the octopamine receptor associated with amitraz resistance in Varroa destructor.",
+      "authors": [
+        "Carmen Sara Hernández-Rodríguez",
+        "Sara Moreno-Martí",
+        "Kristina Emilova-Kirilova",
+        "Joel González-Cabrera"
+      ],
+      "journal": "Pest management science",
+      "publication_date": "2025-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The acaricide amitraz is now used intensively in many regions to control the honey bee parasite, Varroa destructor, because of the reduced efficacy of pyrethroids and coumaphos caused by resistance evolution. The continued application of amitraz in recent years exerts a very high selection pressure on mites, favouring the evolution of resistance to this acaricide. Mutations N87S and Y215H in the β2-adrenergic-like octopamine receptor (Octβ2R), target site of amitraz, have been already associated with resistance to amitraz in France and the USA, respectively. RESULTS: A new mutation (F290L) in the Octβ2R of V. destructor has been found in mites from Spanish apiaries. The frequency of L290 mutated alleles in colonies increased after consecutive treatments with amitraz. In a field trial, mites from colonies with higher frequency of L290 mutated allele took longer to die compared with those carrying a higher proportion of the wild-type allele. Lower susceptibility to amitraz was found in apiaries with a high frequency of homozygous mutants. CONCLUSION: Our data indicate the association of the F290L mutation in the octopamine receptor with resistance to amitraz in Spanish populations of V. destructor. Determining the frequency of mutant mites in apiaries may be important for predicting the efficacy of amitraz treatment in the field and would help design appropriate resistance management. © 2024 The Author(s). Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Receptors, Biogenic Amine",
+        "Toluidines",
+        "Acaricides",
+        "Varroidae",
+        "Mutation",
+        "Drug Resistance",
+        "Spain",
+        "Arthropod Proteins"
+      ]
+    },
+    {
+      "pmid": "39277393",
+      "title": "Identification and CRISPR-Cas9 validation of a novel β-adrenergic-like octopamine receptor mutation associated with amitraz resistance in Varroa destructor.",
+      "authors": [
+        "Emre İnak",
+        "Sander De Rouck",
+        "Nafiye Koç-İnak",
+        "Esengül Erdem",
+        "Mustafa Rüstemoğlu",
+        "Wannes Dermauw",
+        "Thomas Van Leeuwen"
+      ],
+      "journal": "Pesticide biochemistry and physiology",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Varroa destructor is widely recognized as a significant contributor to colony collapse disorder. Chemical acaricides, such as amitraz, have been extensively used for Varroa control due to their selectivity within beehives. However, the increasing number of cases of amitraz resistance across global V. destructor populations poses a significant challenge. In this study, we conducted a comprehensive molecular screening of the β-adrenergic-like octopamine receptor (Octβ2R), the target-site of amitraz, across 66 Turkish and 63 Belgian V. destructor populations. Although previously reported amitraz resistance mutations were not detected, the screening revealed a novel Y337F mutation located within transmembrane 7 (TM7) of Octβ2R in Turkish Varroa populations. Notably, this mutation was identified in the last residue of the highly conserved NPxxY motif associated with the activation of G-protein coupled receptors (GPCR). Among the 66 Varroa samples from Türkiye, twenty harbored the Y337F mutation, with eight samples exhibiting fixation of the mutation. Subsequent bioassays revealed over 8-fold resistance to amitraz in populations that contain the Y337F mutation. Genotyping of mites after exposure to 10 mg a.i./l amitraz demonstrated that all surviving mites were homozygous for the Y337F mutation, whereas dead mites carried susceptible alleles, providing genetic linkage between mutation and phenotype. Further, we used CRISPR-Cas9 editing to introduce the Y337F mutation in the orthologous Octβ2R of the model organism Tetranychus urticae. Crispants exhibited over threefold resistance to amitraz. In conclusion, this study identified and validated a novel amitraz resistance mutation. Additional research is required to further evaluate the phenotypic strength of Y337F in the context of operational resistance with current treatment strategies.",
+      "mesh_terms": [
+        "Animals",
+        "Toluidines",
+        "Receptors, Biogenic Amine",
+        "Varroidae",
+        "Mutation",
+        "CRISPR-Cas Systems",
+        "Acaricides",
+        "Drug Resistance"
+      ]
+    },
+    {
+      "pmid": "38326892",
+      "title": "olf413 an octopamine biogenesis pathway gene is required for axon growth and pathfinding during embryonic nervous system development in Drosophila melanogaster.",
+      "authors": [
+        "Ravindrakumar Ramya",
+        "Chikkate Ramakrishnappa Venkatesh",
+        "Baragur Venkatanarayanasetty Shyamala"
+      ],
+      "journal": "BMC research notes",
+      "publication_date": "2024-Feb-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Neurotransmitters have been extensively studied as neural communication molecules. Genetic associations discovered, and indirect intervention studies in Humans and mammals have led to a general proposition that neurotransmitters have a role in structuring of neuronal network during development. olf413 is a Drosophila gene annotated as coding for dopamine beta-monooxygenase enzyme with a predicted function in octopaminergic pathway. The biological function of this gene is very little worked out. In this study we investigate the requirement of olf413 gene function for octopamine biogenesis and developmental patterning of embryonic nervous system. RESULT: In our study we have used the newly characterized neuronal specific allele olf413SG1.1, and the gene disruption strain olf413MI02014 to dissect out the function of olf413. olf413 has an enhancer activity as depicted by reporter GFP expression, in the embryonic ventral nerve cord, peripheral nervous system and the somatic muscle bundles. Homozygous loss of function mutants show reduced levels of octopamine, and this finding supports the proposed function of the gene in octopamine biogenesis. Further, loss of function of olf413 causes embryonic lethality. FasII staining of these embryos reveal a range of phenotypes in the central and peripheral motor nerves, featuring axonal growth, pathfinding, branching and misrouting defects. Our findings are important as they implicate a key functional requirement of this gene in precise axonal patterning events, a novel developmental role imparted for an octopamine biosynthesis pathway gene in structuring of embryonic nervous system.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Drosophila melanogaster",
+        "Octopamine",
+        "Drosophila",
+        "Drosophila Proteins",
+        "Axons",
+        "Neurotransmitter Agents",
+        "Mammals"
+      ]
+    },
+    {
+      "pmid": "38072185",
+      "title": "Octopamine is involved in TRP-induced thermopreference responses in American cockroach.",
+      "authors": [
+        "Justyna Maliszewska",
+        "Milena Jankowska",
+        "Justyna Rogalska"
+      ],
+      "journal": "Journal of insect physiology",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Insects' thermoregulatory processes depend on thermosensation and further processing of thermal information in the nervous system. It is commonly known that thermosensation involves thermoreceptors, including members of the TRP receptor family, but the involvement of neurotransmitters in thermoregulatory pathways remains unstudied. We conducted test to determine whether octopamine, a biogenic amine that acts as a neurotransmitter and neurohormone in insects, is involved in TRP-induced thermoregulatory responses in Periplaneta americana. We used capsaicin, an activator of the heat-sensitive TRP channel, Painless, to induce thermoregulatory response in cockroaches. Then, we evaluated the behavioural (thermal preferences and grooming), physiological (heart rate) and biochemical responses of insects to capsaicin, octopamine and phentolamine - octopaminergic receptor blocker. Capsaicin, similar to octopamine, increased cockroaches' grooming activity and heart rate. Moreover, octopamine level and protein kinase A (PKA) activity significantly increased after capsaicin treatment. Blocking octopaminergic receptors with phentolamine diminished cockroaches' response to capsaicin - thermoregulatory behaviour, grooming and heart rate were abolished. The results indicate that octopamine is a neurotransmitter secreted in insects after the activation of heat receptors.",
+      "mesh_terms": [
+        "Animals",
+        "Periplaneta",
+        "Capsaicin",
+        "Octopamine",
+        "Phentolamine",
+        "Cockroaches",
+        "Neurotransmitter Agents"
+      ]
+    },
+    {
+      "pmid": "37737492",
+      "title": "Bite force, body size, and octopamine mediate mating interactions in the house cricket (Acheta domesticus).",
+      "authors": [
+        "Fadeke Adeola",
+        "Simon Lailvaux"
+      ],
+      "journal": "Journal of evolutionary biology",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Mating interactions are rife with conflict because the evolutionary interests of males and females seldom coincide. Intersexual conflict affects sexual selection, yet the proximate factors underlying male coercive ability and female resistance are poorly understood. Male combat outcomes are often influenced by bite force, with superior biters being more likely to achieve victory over poorer biters in a range of species, including crickets. If good performers also achieve mating success through sexual coercion, then bite force might play a role in intersexual conflict as well. We tested the capacity of bite force to influence mating interactions in house crickets both directly by measuring bite forces of males and females and by altering male bite capacity through neuropharmacological manipulation. In addition, the invertebrate neurotransmitter octopamine both mediates aggression and underlies motivation to bite in male house crickets. By blocking octopamine receptors through the application of an antagonist, epinastine, we tested the effects of reduced bite force on male mating success. Our results show that male bite capacity, in combination with body size, influences both the likelihood and the outcomes of mating interactions, whereas treatment of males with epinastine eliminates motivation to mate. Our results suggest a functional role for bite force in affecting both sexual conflict and sexual selection and expand our knowledge of the influence of biogenic amines on reproductive behaviour.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Male",
+        "Sexual Behavior, Animal",
+        "Gryllidae",
+        "Bite Force",
+        "Octopamine",
+        "Body Size"
+      ]
+    },
+    {
+      "pmid": "35914533",
+      "title": "Octopamine mediates sugar relief from a chronic-stress-induced depression-like state in Drosophila.",
+      "authors": [
+        "Tim Hermanns",
+        "Sonja Graf-Boxhorn",
+        "Burkhard Poeck",
+        "Roland Strauss"
+      ],
+      "journal": "Current biology : CB",
+      "publication_date": "2022-Sep-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Chronic, uncontrollable stress can result in psychiatric syndromes, including anxiety and major depressive disorder, in humans and mammalian disease models.1,2 Similarly, several days of chronic stress can induce depression-associated behavioral alteration in Drosophila accompanied by changes in biogenic amine levels in the adult brain.3-6 In our chronic stress paradigm, flies are subjected to 3 days of repetitive phases of 300 Hz vibrations combined with overcrowding and food deprivation. This treatment reduces voluntary behavioral activity, including the motivation to climb wide gaps (risk taking) and to stop for sweets (anhedonia), suggesting a depression-like state (DLS). These behavioral changes correlate with decreased serotonin release to the mushroom body (MB), a major behavioral control center in the central brain of the fly.7,8 Stressed flies are relieved from the DLS by feeding the anti-depressant serotonin precursor 5-HTP or the selective serotonin reuptake inhibitor fluoxetine. Notably, feeding sucrose to stressed flies results in elevated serotonin levels in the brain and ameliorates the DLS.3 Here, we show that this sugar relief is mediated by the neurotransmitter octopamine signaled from ventral unpaired medial neurons located in the subesophageal ganglion. The octopamine signaling of sweet sensation is transmitted to the MB via the dopaminergic PAM neurons. In addition, neuronal-silencing experiments reveal that the serotonergic dorsal paired medial (DPM) neurons innervating the MB are essential for sugar relief. Conversely, thermogenetic or optogenetic activation of DPMs can replace sweet sensation, elucidating that serotonergic signaling from DPMs takes part in positively modulating DLS-related behavioral changes.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Depression",
+        "Depressive Disorder, Major",
+        "Dopaminergic Neurons",
+        "Drosophila",
+        "Fluoxetine",
+        "Humans",
+        "Mammals",
+        "Octopamine",
+        "Serotonin",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Succinimides",
+        "Sucrose",
+        "Sugars"
+      ]
+    },
+    {
+      "pmid": "35687218",
+      "title": "Octopamine modulates insect mating and Oviposition.",
+      "authors": [
+        "Dandan Liu",
+        "Xinxin Zhang",
+        "Fang Chiqin",
+        "Innocent Nyamwasa",
+        "Yazhong Cao",
+        "Jiao Yin",
+        "Shuai Zhang",
+        "Honglin Feng",
+        "Kebin Li"
+      ],
+      "journal": "Journal of chemical ecology",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The neuro-mechanisms that regulate insect reproduction are not fully understood. Biogenic amines, including octopamine, are neuromodulators that have been shown to modulate insect reproduction in various ways, e.g., promote or inhibit insect mating or oviposition. In this study, we examined the role of octopamine in regulating the reproduction behaviors of a devastating underground insect pest, the dark black chafer (Holotrichia parallela). We first measured the abundance of octopamine in different neural tissues of the adult chafer pre- and post-mating, demonstrating that octopamine decreased in the abdominal ganglia of females but increased in males post-mating. We then fed the adult H. parallela with a concentration gradient of octopamine to test the effects on insect reproductive behaviors. Compared with its antagonist mianserin, octopamine at the concentration of 2 µg/mL resulted in the highest increase in males' preference for sex pheromone and females' oviposition, whereas the mianserin-treatment increased the survival rate and prolonged the lifespan of H. parallela. In addition, we did not observe significant differences in egg hatchability between octopamine and mianserin-treated H. parallela. Our results demonstrated that octopamine promotes H. parallela mating and oviposition with a clear low dosage effect, illustrated how neural substrates modulate insect behaviors, and provided insights for applying octopamine in pest management.",
+      "mesh_terms": [
+        "Animals",
+        "Coleoptera",
+        "Female",
+        "Male",
+        "Mianserin",
+        "Octopamine",
+        "Oviposition",
+        "Reproduction"
+      ]
+    },
+    {
+      "pmid": "35652818",
+      "title": "Octopamine terminates sex pheromone biosynthesis by suppressing PBAN signal in moths.",
+      "authors": [
+        "Yue Yang",
+        "Xingyu Ma",
+        "Long Zhang",
+        "Wenli Zhao",
+        "Xiaoguang Liu",
+        "Xiang Li",
+        "Mengfang Du",
+        "Shiheng An"
+      ],
+      "journal": "Insect molecular biology",
+      "publication_date": "2022-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The biosynthesis and termination of insect sex pheromones should be accurately regulated. In most moths, the biosynthesis and release of sex pheromones are regulated by a class of neuropeptides known as pheromone biosynthesis activating neuropeptides (PBANs). However, endogenous mechanisms underlying the termination of sex pheromone biosynthesis in moths remain elusive. In the present study, Helicoverpa armigera was employed as a model to investigate the role of octopamine (OA) in the inhibition of sex pheromone biosynthesis. Results demonstrated that the release of sex pheromones decreased with an increase in OA titres in older female moths. Moreover, OA treatment led to a significant decrease in sex pheromone production, female capability to attract male counterparts and subsequent female acceptance, indicating its inhibitory role in sex pheromone release. Subsequent qPCR and RNAi analyses revealed that OctβR was a key receptor of OA that regulated sex pheromone biosynthesis. In addition, the OA/OctβR signal suppressed intracellular Ca2+ levels and attenuated PBAN-mediated increase in the enzyme activities of calcineurin and acetyl-CoA carboxylase as demonstrated by OA treatment and OctβR-RNAi. Altogether, these results revealed a mechanism underlying the inhibition of sex pheromone production by OA via suppression of PBAN signalling in moths.",
+      "mesh_terms": [
+        "Animals",
+        "Calcineurin",
+        "Female",
+        "Male",
+        "Moths",
+        "Neuropeptides",
+        "Octopamine",
+        "Sex Attractants"
+      ]
+    },
+    {
+      "pmid": "35631305",
+      "title": "Phytochemical Combination (p-Synephrine, p-Octopamine Hydrochloride, and Hispidulin) for Improving Obesity in Obese Mice Induced by High-Fat Diet.",
+      "authors": [
+        "Dahae Lee",
+        "Ji Hwan Lee",
+        "Byoung Ha Kim",
+        "Sanghyun Lee",
+        "Dong-Wook Kim",
+        "Ki Sung Kang"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-May-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity treatment efficiency can be increased by targeting both central and peripheral pathways. In a previous study, we identified two natural compounds (hispidulin and p-synephrine) that affect adipocyte differentiation. We tested whether obesity treatment efficiency may be improved by adding an appetite-controlling agent to the treatment in the present study. Alkaloids, such as p-octopamine, are adrenergic agonists and are thus used as dietary supplements to achieve weight loss. Here, we assessed anti-obesity effects of a mixture of p-synephrine, p-octopamine HCl, and hispidulin (SOH) on murine preadipocyte cells and on mice receiving a high-fat diet (HFD). SOH showed stronger inhibition of the formation of red-stained lipid droplets than co-treatment with hispidulin and p-synephrine. Moreover, SOH reduced the expression of adipogenic marker proteins, including CCAAT/enhancer-binding protein alpha, CCAAT/enhancer-binding protein beta, and peroxisome proliferator-activated receptor gamma. In the HFD-induced obesity model, body weight and dietary intake were lower in mice treated with SOH than in the controls. Additionally, liver weight and the levels of alanine aminotransferase and total cholesterol were lower in SOH-treated mice than in the controls. In conclusion, our results suggest that consumption of SOH may be a potential alternative strategy to counteract obesity.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Obesity Agents",
+        "Diet, High-Fat",
+        "Flavones",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Obese",
+        "Obesity",
+        "Octopamine",
+        "Phytochemicals",
+        "Synephrine"
+      ]
+    },
+    {
+      "pmid": "34572588",
+      "title": "Opposing Actions of Octopamine and Tyramine on Honeybee Vision.",
+      "authors": [
+        "Felix Schilcher",
+        "Markus Thamm",
+        "Martin Strube-Bloss",
+        "Ricarda Scheiner"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2021-Sep-17",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The biogenic amines octopamine and tyramine are important neurotransmitters in insects and other protostomes. They play a pivotal role in the sensory responses, learning and memory and social organisation of honeybees. Generally, octopamine and tyramine are believed to fulfil similar roles as their deuterostome counterparts epinephrine and norepinephrine. In some cases opposing functions of both amines have been observed. In this study, we examined the functions of tyramine and octopamine in honeybee responses to light. As a first step, electroretinography was used to analyse the effect of both amines on sensory sensitivity at the photoreceptor level. Here, the maximum receptor response was increased by octopamine and decreased by tyramine. As a second step, phototaxis experiments were performed to quantify the behavioural responses to light following treatment with either amine. Octopamine increased the walking speed towards different light sources while tyramine decreased it. This was independent of locomotor activity. Our results indicate that tyramine and octopamine act as functional opposites in processing responses to light.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Electroretinography",
+        "Feeding Behavior",
+        "Octopamine",
+        "Phototaxis",
+        "Statistics as Topic",
+        "Tyramine",
+        "Vision, Ocular"
+      ]
+    },
+    {
+      "pmid": "33719088",
+      "title": "Characterization and functional analysis of a β-adrenergic-like octopamine receptor from the oriental armyworm (Mythimna separata Walker).",
+      "authors": [
+        "Yan-Fang Guo",
+        "Jia-Ren Qiu",
+        "Tao Chen",
+        "San-Ji Gao",
+        "Bu Su-Hong",
+        "Ran Wang",
+        "Jin-da Wang"
+      ],
+      "journal": "Archives of insect biochemistry and physiology",
+      "publication_date": "2021-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The β-adrenergic-like octopamine receptor (OA2B2), which binds the biogenic amine octopamine, belongs to the class of G-protein coupled receptors and significantly regulates many physiological and behavioral processes in insects. In this study, the putative open reading frame sequence of the MsOA2B2 gene in Mythimna separata was cloned, the full-length complementary DNA was 1191 bp and it encoded a 396-amino acid protein (GenBank accession number MN822800). Orthologous sequence alignment, phylogenetic tree analysis, and protein sequence analysis all showed that the cloned receptor belongs to the OA2B2 protein family. Real-time quantitative polymerase chain reaction of spatial and temporal expression analysis revealed that the MsOAB2 gene was expressed in all developmental stages of M. separata and was most abundant in egg stages and second and fourth instars compared with other developmental stages, while the expression level during the pupal stage was much lower than that at the other stages. Further analysis with sixth instar M. separata larvae showed that the MsOA2B2 gene was expressed 1.81 times higher in the head than in integument and gut tissues. Dietary ingestion of dsMsOA2B2 significantly reduced the messenger RNA level of MsOA2B2 and decreased mortality following amitraz treatment. This study provides both a pharmacological characterization and the gene expression patterns of OA2B2 in M. separata, facilitating further research for insecticides using MsOA2B2 as a target.",
+      "mesh_terms": [
+        "Animals",
+        "Gene Expression",
+        "Genes, Insect",
+        "Insect Control",
+        "Insect Proteins",
+        "Insecticides",
+        "Larva",
+        "Moths",
+        "Phylogeny",
+        "Pupa",
+        "Receptors, Adrenergic, beta",
+        "Receptors, Biogenic Amine",
+        "Toluidines"
+      ]
+    },
+    {
+      "pmid": "32516562",
+      "title": "Octopamine increases individual and collective foraging in a neotropical stingless bee.",
+      "authors": [
+        "Tianfei Peng",
+        "Maximilian Schroeder",
+        "Christoph Grüter"
+      ],
+      "journal": "Biology letters",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The biogenic amine octopamine (OA) is a key modulator of individual and social behaviours in honeybees, but its role in the other group of highly eusocial bees, the stingless bees, remains largely unknown. In honeybees, OA mediates reward perception and affects a wide range of reward-seeking behaviours. Thus, we tested the hypothesis that OA increases individual foraging effort and collective food source exploitation in the neotropical stingless bee Plebeia droryana. OA treatment caused a significant increase in the number of bees at artificial sucrose feeders and a 1.73-times higher individual foraging frequency. This effect can be explained by OA lowering the sucrose response threshold and, thus, increasing the perceived value of the food source. Our results demonstrate that, similar to its effects on honeybees, OA increases both individual and collective food source exploitation in P. droryana. This suggests that, despite having evolved many complex behaviours independently, OA might have similar regulatory effects on foraging behaviours in the two groups of highly eusocial bees.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Feeding Behavior",
+        "Octopamine",
+        "Reward",
+        "Social Behavior",
+        "Sucrose"
+      ]
+    },
+    {
+      "pmid": "32426446",
+      "title": "The synergistic effect of octopamine receptor agonists on selected insect growth regulators on Culex quinquefasciatus Say (Diptera: Culicidae) mosquitoes.",
+      "authors": [
+        "Mohamed Ahmed Ibrahim Ahmed",
+        "Christoph Franz Adam Vogel"
+      ],
+      "journal": "One health (Amsterdam, Netherlands)",
+      "publication_date": "2020-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Synergistic effects of octopamine receptor agonists (OR agonists) have attracted many scientists based on their potent effects on mosquitoes. Herein, we determined the toxicity of selected insect growth regulators (IGRs) on fourth instar larvae of Culex quinquefasciatus. We evaluated the synergistic action of OR agonists on the toxicity of IGR insecticides to achieve a better understanding of their mode of action. As a result, pyriproxyfen was the most potent IGR insecticide (EC50 = 0.049 ng/ml) followed by lufenuron, novaluron, and diflubenzuron according to the IGR bioassay. Further, based on the acute bioassay, lufenuron was the most toxic IGR insecticide (LC50 = 44 ng/ml) after 24-h post treatment followed by pyriproxyfen, novaluron, and diflubenzuron (LC50 = 137, 263, and 1127 ng/ml, respectively). Similar tendency was observed after 48 and 72-h post treatment. Furthermore, OR agonists that combined with pyriproxyfen was the most significant effects after 48 and 72-h of exposure. The synergism with amitraz (AMZ) was more significant when co-treated with IGR insecticides compared to chlordimeform (CDM). These findings suggest that OR agonists are promising tools and are important alternative strategies as synergistic compounds in preventing and controlling Culex quinquefasciatus mosquitoes."
+    },
+    {
+      "pmid": "31190093",
+      "title": "Appetite is correlated with octopamine and hemolymph sugar levels in forager honeybees.",
+      "authors": [
+        "Christopher Mayack",
+        "Nicole Phalen",
+        "Kathleen Carmichael",
+        "Helen K White",
+        "Frank Hirche",
+        "Ying Wang",
+        "Gabriele I Stangl",
+        "Gro V Amdam"
+      ],
+      "journal": "Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Insects have rapidly changing energy demands, so they primarily rely on hemolymph and other carbohydrates to carry out life activities. However, how gustatory responsiveness and hemolymph sugar levels coordinate with one another to maintain energetic homeostasis in insects remains largely unknown for the highly social honeybee that goes through large physiological and behavioral changes. The potential role of biogenic amines and neuropeptides in the connection between the regulation of appetite and fluctuating sugar levels in the hemolymph, due to starvation, as the bee ages, was investigated. The largest appetite increase due to the starvation treatment was within the forager age class and this corresponded with an increase in octopamine levels in the brain along with a decline in hemolymph sugar levels. Adipokinetic hormone (AKH) was found in very small quantities in the brain and there were no significant changes in response to starvation treatment. Our findings suggest that the particularly dynamic levels of hemolymph sugar levels may serve as a monitor of the forager honeybee energetic state. Therefore, there may be a pathway in forager bees via octopamine responsible for their precise precipitous regulation of appetite, but to determine cause and effect relationships further investigation is needed.",
+      "mesh_terms": [
+        "Animals",
+        "Appetite",
+        "Bees",
+        "Brain",
+        "Hemolymph",
+        "Octopamine",
+        "Sugars"
+      ]
+    },
+    {
+      "pmid": "30842494",
+      "title": "Systems Genetics of Hepatic Metabolome Reveals Octopamine as a Target for Non-Alcoholic Fatty Liver Disease Treatment.",
+      "authors": [
+        "Francois Brial",
+        "Aurélie Le Lay",
+        "Lyamine Hedjazi",
+        "Tsz Tsang",
+        "Jane F Fearnside",
+        "Georg W Otto",
+        "Fawaz Alzaid",
+        "Steven P Wilder",
+        "Nicolas Venteclef",
+        "Jean-Baptiste Cazier",
+        "Jeremy K Nicholson",
+        "Chris Day",
+        "Alastair D Burt",
+        "Ivo G Gut",
+        "Mark Lathrop",
+        "Marc-Emmanuel Dumas",
+        "Dominique Gauguier"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2019-Mar-06",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Non-alcoholic fatty liver disease (NAFLD) is often associated with obesity and type 2 diabetes. To disentangle etiological relationships between these conditions and identify genetically-determined metabolites involved in NAFLD processes, we mapped 1H nuclear magnetic resonance (NMR) metabolomic and disease-related phenotypes in a mouse F2 cross derived from strains showing resistance (BALB/c) and increased susceptibility (129S6) to these diseases. Quantitative trait locus (QTL) analysis based on single nucleotide polymorphism (SNP) genotypes identified diet responsive QTLs in F2 mice fed control or high fat diet (HFD). In HFD fed F2 mice we mapped on chromosome 18 a QTL regulating liver micro- and macrovesicular steatosis and inflammation, independently from glucose intolerance and adiposity, which was linked to chromosome 4. Linkage analysis of liver metabolomic profiling data identified a QTL for octopamine, which co-localised with the QTL for liver histopathology in the cross. Functional relationship between these two QTLs was validated in vivo in mice chronically treated with octopamine, which exhibited reduction in liver histopathology and metabolic benefits, underlining its role as a mechanistic biomarker of fatty liver with potential therapeutic applications.",
+      "mesh_terms": [
+        "Animals",
+        "Chromosomes, Mammalian",
+        "Diet, High-Fat",
+        "Male",
+        "Metabolomics",
+        "Mice, Inbred BALB C",
+        "Non-alcoholic Fatty Liver Disease",
+        "Octopamine",
+        "Polymorphism, Single Nucleotide",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Quantitative Trait Loci",
+        "Systems Biology",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "29925529",
+      "title": "Octopamine signaling in the metazoan pathogen Schistosoma mansoni: localization, small-molecule screening and opportunities for drug development.",
+      "authors": [
+        "Nelly El-Sakkary",
+        "Steven Chen",
+        "Michelle R Arkin",
+        "Conor R Caffrey",
+        "Paula Ribeiro"
+      ],
+      "journal": "Disease models & mechanisms",
+      "publication_date": "2018-Jul-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Schistosomiasis is a tropical disease caused by a flatworm trematode parasite that infects over 200 million people worldwide. Treatment and control of the disease rely on just one drug, praziquantel. The possibility of drug resistance coupled with praziquantel's variable efficacy encourages the identification of new drugs and drug targets. Disruption of neuromuscular homeostasis in parasitic worms is a validated strategy for drug development. In schistosomes, however, much remains to be understood about the organization of the nervous system, its component neurotransmitters and potential for drug discovery. Using synapsin as a neuronal marker, we map the central and peripheral nervous systems in the Schistosoma mansoni adult and schistosomulum (post-infective larva). We discover the widespread presence of octopamine (OA), a tyrosine-derived and invertebrate-specific neurotransmitter involved in neuromuscular coordination. OA labeling facilitated the discovery of two pairs of ganglia in the brain of the adult schistosome, rather than the one pair thus far reported for this and other trematodes. In quantitative phenotypic assays, OA and the structurally related tyrosine-derived phenolamine and catecholamine neurotransmitters differentially modulated schistosomulum motility and length. Similarly, from a screen of 28 drug agonists and antagonists of tyrosine-derivative signaling, certain drugs that act on OA and dopamine receptors induced robust and sometimes complex concentration-dependent effects on schistosome motility and length; in some cases, these effects occurred at concentrations achievable in vivo The present data advance our knowledge of the organization of the nervous system in this globally important pathogen and identify a number of drugs that interfere with tyrosine-derivative signaling, one or more of which might provide the basis for a new chemotherapeutic approach to treat schistosomiasis.This article has an associated First Person interview with the first author of the paper.",
+      "mesh_terms": [
+        "Animals",
+        "Antibody Specificity",
+        "Antiparasitic Agents",
+        "Biomarkers",
+        "Drug Discovery",
+        "Drug Evaluation, Preclinical",
+        "Female",
+        "Movement",
+        "Nerve Net",
+        "Nervous System",
+        "Neurons",
+        "Octopamine",
+        "Ovary",
+        "Parasites",
+        "Protozoan Proteins",
+        "Schistosoma mansoni",
+        "Signal Transduction",
+        "Small Molecule Libraries",
+        "Snails",
+        "Tyrosine"
+      ]
+    },
+    {
+      "pmid": "29141215",
+      "title": "Octopamine Drives Endurance Exercise Adaptations in Drosophila.",
+      "authors": [
+        "Alyson Sujkowski",
+        "Divya Ramesh",
+        "Axel Brockmann",
+        "Robert Wessells"
+      ],
+      "journal": "Cell reports",
+      "publication_date": "2017-Nov-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Endurance exercise is an effective therapeutic intervention with substantial pro-healthspan effects. Male Drosophila respond to a ramped daily program of exercise by inducing conserved physiological responses similar to those seen in mice and humans. Female flies respond to an exercise stimulus but do not experience the adaptive training response seen in males. Here, we use female flies as a model to demonstrate that differences in exercise response are mediated by differences in neuronal activity. The activity of octopaminergic neurons is specifically required to induce the conserved cellular and physiological changes seen following endurance training. Furthermore, either intermittent, scheduled activation of octopaminergic neurons or octopamine feeding is able to fully substitute for exercise, conferring a suite of pro-healthspan benefits to sedentary Drosophila. These experiments indicate that octopamine is a critical mediator of adaptation to endurance exercise in Drosophila.",
+      "mesh_terms": [
+        "Adaptation, Physiological",
+        "Adrenergic alpha-Agonists",
+        "Animals",
+        "Drosophila",
+        "Female",
+        "Male",
+        "Neurons",
+        "Octopamine",
+        "Physical Conditioning, Animal",
+        "Sex Factors"
+      ]
+    },
+    {
+      "pmid": "28314750",
+      "title": "Octopamine and tyramine modulate the thermoregulatory fanning response in honey bees (Apis mellifera).",
+      "authors": [
+        "Chelsea N Cook",
+        "Colin S Brent",
+        "Michael D Breed"
+      ],
+      "journal": "The Journal of experimental biology",
+      "publication_date": "2017-May-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Biogenic amines regulate the proximate mechanisms underlying most behavior, including those that contribute to the overall success of complex societies. For honey bees, one crucial set of behaviors contributing to the welfare of a colony is involved with nest thermoregulation. Worker honeybees cool the colony by performing a fanning behavior, the expression of which is largely influenced by response thresholds modulated by the social environment. Here, we examined how changes in biogenic amines affect this group-performed thermoregulatory fanning behavior in honeybees. Concentrations of two biogenic amines, octopamine and tyramine, are significantly lower in active fanners than in non-fanners, but there is no difference in dopamine and serotonin concentrations. Direct feeding of octopamine and tyramine induced a decrease in fanning responses, but only when both amines were included in the treatment. This is the first evidence that fanning behavior is influenced by these two biogenic amines, and this result is consistent with the typical role of these neurotransmitters in regulating locomotor activity in other insects. Individual variation in amine expression also provides a mechanistic link that helps to explain how this group behavior might be coordinated within a colony.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Body Temperature Regulation",
+        "Movement",
+        "Octopamine",
+        "Social Behavior",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "28028168",
+      "title": "Acute Exposure to Worst-Case Concentrations of Amitraz Does Not Affect Honey Bee Learning, Short-Term Memory, or Hemolymph Octopamine Levels.",
+      "authors": [
+        "Rachel R Rix",
+        "G Christopher Cutler"
+      ],
+      "journal": "Journal of economic entomology",
+      "publication_date": "2017-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Amitraz, an acaricide used to treat Varroa destructor Anderson & Trueman, is one of the most commonly detected pesticides in honey bee (Apis mellifera L.) hives. Acaricides sometimes negatively impact honey bee cognition, but potential effects of amitraz on honey bee learning have been rarely studied. We topically exposed foragers to 95th percentile field-relevant levels of amitraz and, 24 h later, tested the ability of bees to associate a sucrose reward with a conditioned odor (learning response) using the proboscis extension response (PER). We then tested the ability of the bees to retain this memory 1 h and 2 h post-conditioning. Because amitraz is thought to affect octopamine metabolism in honey bees, and because octopamine is directly related to honey bee learning and memory, we also examined effects of exposure to amitraz on octopamine levels in honey bee hemolymph. We found that acute exposure to 95th percentile doses of amitraz had no impact on honey bee learning or short-term memory as measured by PER. Concentrations of octopamine in hemolymph from our low amitraz treatment were 1.4-fold higher than control levels, but other treatments had no effect. Our results from worst-case acute exposure experiments with worker bees in the laboratory suggest that typical field-relevant (within hive) exposures to amitraz probably have little effect on honey bee learning and memory.",
+      "mesh_terms": [
+        "Acaricides",
+        "Animals",
+        "Bees",
+        "Dose-Response Relationship, Drug",
+        "Hemolymph",
+        "Learning",
+        "Memory, Short-Term",
+        "Octopamine",
+        "Toluidines",
+        "Toxicity Tests, Acute"
+      ]
+    },
+    {
+      "pmid": "26903298",
+      "title": "Central nervous system promotes thermotolerance via FoxO/DAF-16 activation through octopamine and acetylcholine signaling in Caenorhabditis elegans.",
+      "authors": [
+        "Tsubasa Furuhashi",
+        "Kazuichi Sakamoto"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2016-Mar-25",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The autonomic nervous system (ANS) responds to many kinds of stressors to maintain homeostasis. Although the ANS is believed to regulate stress tolerance, the exact mechanism underlying this is not well understood. To understand this, we focused on longevity genes, which have functions such as lifespan extension and promotion of stress tolerance. To understand the relationship between ANS and longevity genes, we analyzed stress tolerance of Caenorhabditis elegans treated with octopamine, which has an affinity to noradrenaline in insects, and acetylcholine. Octopamine and acetylcholine did not show resistance against H2O2, but the neurotransmitters promoted thermotolerance via DAF-16. However, chronic treatment with octopamine and acetylcholine did not extend the lifespan, although DAF-16 plays an important role in longevity. In conclusion, our results show that octopamine and acetylcholine activate DAF-16 in response to stress, but chronic induction of octopamine and acetylcholine is not beneficial for increasing longevity.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Animals",
+        "Autonomic Nervous System",
+        "Caenorhabditis elegans",
+        "Caenorhabditis elegans Proteins",
+        "Forkhead Transcription Factors",
+        "Genes, Helminth",
+        "Heat-Shock Proteins",
+        "Longevity",
+        "Octopamine",
+        "Oxidative Stress",
+        "RNA, Helminth",
+        "RNA, Messenger",
+        "Signal Transduction",
+        "Stress, Physiological",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "24457641",
+      "title": "The effects of serotonin, dopamine, octopamine and tyramine on behavior of workers of the ant Formica polyctena during dyadic aggression tests.",
+      "authors": [
+        "Anna Szczuka",
+        "Julita Korczyńska",
+        "Andrzej Wnuk",
+        "Beata Symonowicz",
+        "Anna Gonzalez Szwacka",
+        "Paweł Mazurkiewicz",
+        "Wojciech Kostowski",
+        "Ewa Joanna Godzińska"
+      ],
+      "journal": "Acta neurobiologiae experimentalis",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We investigated the effect of injections of four biogenic amines (serotonin, dopamine, octopamine and tyramine) on behavior patterns displayed by workers of the red wood ant Formica polyctena during dyadic confrontations with four types of opponents: a nestmate, an alien conspecific, an allospecific ant (Formica fusca), and a potential prey, a nymph of the house cricket (Acheta domesticus). Significant effects of biogenic amine administration were observed almost exclusively in the case of confrontations with allospecific opponents. Serotonin treatment exerted stimulatory effects on behavior patterns involving physical aggression (biting accompanied by gaster flexing, dragging and formic acid spraying), but these effects were relatively weak and/or documented by indirect evidence. Dopamine administration exerted a stimulatory effect on open-mandible threats directed by F. polyctena to F. fusca and to cricket nymphs, and on biting behavior directed to cricket nymphs. Surprisingly, octopamine treatment did not exert significant effects on aggressive behavior of the tested ants. Tyramine administration exerted a suppressing effect on threatening behavior directed to F. fusca, but led to shortening of the latencies to the first open-mandible threat during the tests with cricket nymphs. Biogenic amine administration also influenced non-aggressive behavior of the tested ants. Our findings confirmed the role of serotonin and dopamine in the mediation of ant aggressive behavior and documented for the first time significant effects of tyramine treatment on ant aggressive behavior. We also demonstrated that not only specific patterns of ant aggressive behavior, but also behavioral effects of biogenic amine treatments are as a rule strongly context-dependent.",
+      "mesh_terms": [
+        "Aggression",
+        "Animals",
+        "Ants",
+        "Behavior, Animal",
+        "Brain",
+        "Dopamine",
+        "Octopamine",
+        "Serotonin",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "22399652",
+      "title": "Octopamine improves learning in newly emerged bees but not in old foragers.",
+      "authors": [
+        "Andreas Behrends",
+        "Ricarda Scheiner"
+      ],
+      "journal": "The Journal of experimental biology",
+      "publication_date": "2012-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Honey bees (Apis mellifera) are well known for their excellent learning abilities. Although most age groups learn quickly to associate an odor with a sucrose reward, newly emerged bees and old foragers often perform poorly. For a long time, the reason for the poor learning performance of these age groups was unclear. We show that reduced sensitivity for sucrose is the cause for poor associative learning in newly emerged bees but not in old foragers. By increasing the sensitivity for sucrose through octopamine, we selectively improved the learning performance of insensitive newly emerged bees. Interestingly, the learning performance of foragers experiencing the same treatment remained low, despite the observed increase in sensitivity for the reward. We thus demonstrate that increasing sensitivity for the reward can improve the associative learning performance of bees when they are young but not when they had foraged for a long time. Importantly, octopamine can have very different effects on bees, depending on their initial sensory sensitivity. These differential effects of octopamine have important consequences for interpreting the action of biogenic amines on insect behavior.",
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Association Learning",
+        "Bees",
+        "Dopamine",
+        "Feeding Behavior",
+        "Learning",
+        "Octopamine",
+        "Serotonin",
+        "Sucrose",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "22281532",
+      "title": "Modulation by octopamine of olfactory responses to nonpheromone odorants in the cockroach, Periplaneta americana L.",
+      "authors": [
+        "Marianna I Zhukovskaya"
+      ],
+      "journal": "Chemical senses",
+      "publication_date": "2012-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Olfactory receptor cells in insects are modulated by neurohormones. Recordings from cockroach olfactory sensilla showed that a subset of sensory neurons increase their responses to selected nonpheromone odorants after octopamine application. With octopamine application, recordings demonstrated increased firing rates by the short but not the long alcohol-sensitive sensilla to the nonpheromone volatile, hexan-1-ol. Within the same sensillum, individual receptor cells are shown to be modulated independently from each other, indicating that the octopamine receptors reside in the receptor not in the accessory cells. A uniform decrease in the amplitude of electroantennogram, which is odorant independent, is suggested to reflect the rise in octopamine concentration in the antennal hemolymph. Perception of general odorants measured as behavioral responses changed qualitatively under octopamine treatment: namely, repulsive hexan-1-ol became neutral, whereas neutral eucalyptol became attractive. Octopamine induced a change in male behavioral responses to general odors that were essentially the same as in the state of sexual arousal. Our findings suggest that sensitivity to odors having different biological significances is modulated selectively at the peripheral as well as other levels of olfactory processing.",
+      "mesh_terms": [
+        "Action Potentials",
+        "Animals",
+        "Arthropod Antennae",
+        "Cyclohexanols",
+        "Eucalyptol",
+        "Hemolymph",
+        "Hexanols",
+        "Male",
+        "Monoterpenes",
+        "Octopamine",
+        "Odorants",
+        "Olfactory Receptor Neurons",
+        "Periplaneta",
+        "Receptors, Odorant",
+        "Sensilla",
+        "Smell"
+      ]
+    },
+    {
+      "pmid": "22216137",
+      "title": "Winning fights induces hyperaggression via the action of the biogenic amine octopamine in crickets.",
+      "authors": [
+        "Jan Rillich",
+        "Paul Anthony Stevenson"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Winning an agonistic interaction against a conspecific is known to heighten aggressiveness, but the underlying events and mechanism are poorly understood. We quantified the effect of experiencing successive wins on aggression in adult male crickets (Gryllus bimaculatus) by staging knockout tournaments and investigated its dependence on biogenic amines by treatment with amine receptor antagonists. For an inter-fight interval of 5 min, fights between winners escalated to higher levels of aggression and lasted significantly longer than the preceding round. This winner effect is transient, and no longer evident for an inter-fight interval of 20 min, indicating that it does not result from selecting individuals that were hyper-aggressive from the outset. A winner effect was also evident in crickets that experienced wins without physical exertion, or that engaged in fights that were interrupted before a win was experienced. Finally, the winner effect was abolished by prior treatment with epinastine, a highly selective octopamine receptor blocker, but not by propranolol, a ß-adrenergic receptor antagonist, nor by yohimbine, an insect tyramine receptor blocker nor by fluphenazine an insect dopamine-receptor blocker. Taken together our study in the cricket indicates that the physical exertion of fighting, together with some rewarding aspect of the actual winning experience, leads to a transient increase in aggressive motivation via activation of the octopaminergic system, the invertebrate equivalent to the adrenergic system of vertebrates.",
+      "mesh_terms": [
+        "Aggression",
+        "Animals",
+        "Behavior, Animal",
+        "Gryllidae",
+        "Male",
+        "Octopamine"
+      ]
+    },
+    {
+      "pmid": "22205342",
+      "title": "The role of tyramine and octopamine in the regulation of reproduction in queenless worker honeybees.",
+      "authors": [
+        "Mor Salomon",
+        "Osnat Malka",
+        "Robert K Vander Meer",
+        "Abraham Hefetz"
+      ],
+      "journal": "Die Naturwissenschaften",
+      "publication_date": "2012-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In honeybees, workers under queenless condition compete for reproduction and establish reproductive dominance hierarchy. Ovary activation is generally accompanied by the expression of queen-like pheromones. Biogenic amines (BAs), in particular dopamine, are believed to be involved in this process by regulating ovarian development. However, the role of BAs in establishing reproductive dominance or their effect on queen-like pheromone production was not investigated. Here, we explored the effect of octopamine (OA) and tyramine (TA) oral treatments on the propensity of treated bees to become reproductively dominant and produce queen-like pheromones in Dufour's and mandibular glands. One bee in a pair was treated with either OA or TA while the other was fed sugar solution. TA was found to enhance ovary development and the production of esters in the Dufour's gland and 9HDA (queen component) in the mandibular glands, thus facilitating worker reproductive dominance. OA, on the other hand, did not enhance ovarian development or ester production, but increased the production of 10HDA (worker major component) in the mandibular glands of their sugar-paired mates. OA is known to induce foraging behavior by workers, while increased production of 10HDA characterizes nursing workers. Therefore, we suggest that TA induces reproductive division of labor, while OA treatment results in caste differentiation of workers to foragers and nurses.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Biogenic Amines",
+        "Brain Chemistry",
+        "Female",
+        "Octopamine",
+        "Pheromones",
+        "Reproduction",
+        "Social Dominance",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "22096499",
+      "title": "Honey bee dopamine and octopamine receptors linked to intracellular calcium signaling have a close phylogenetic and pharmacological relationship.",
+      "authors": [
+        "Kyle T Beggs",
+        "Joel D A Tyndall",
+        "Alison R Mercer"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Three dopamine receptor genes have been identified that are highly conserved among arthropod species. One of these genes, referred to in honey bees as Amdop2, shows a close phylogenetic relationship to the a-adrenergic-like octopamine receptor family. In this study we examined in parallel the functional and pharmacological properties of AmDOP2 and the honey bee octopamine receptor, AmOA1. For comparison, pharmacological properties of the honey bee dopamine receptors AmDOP1 and AmDOP3, and the tyramine receptor AmTYR1, were also examined. METHODOLOGY/PRINCIPAL FINDINGS: Using HEK293 cells heterologously expressing honey bee biogenic amine receptors, we found that activation of AmDOP2 receptors, like AmOA1 receptors, initiates a rapid increase in intracellular calcium levels. We found no evidence of calcium signaling via AmDOP1, AmDOP3 or AmTYR1 receptors. AmDOP2- and AmOA1-mediated increases in intracellular calcium were inhibited by 10 µM edelfosine indicating a requirement for phospholipase C-β activity in this signaling pathway. Edelfosine treatment had no effect on AmDOP2- or AmOA1-mediated increases in intracellular cAMP. The synthetic compounds mianserin and epinastine, like cis-(Z)-flupentixol and spiperone, were found to have significant antagonist activity on AmDOP2 receptors. All 4 compounds were effective antagonists also on AmOA1 receptors. Analysis of putative ligand binding sites offers a possible explanation for why epinastine acts as an antagonist at AmDOP2 receptors, but fails to block responses mediated via AmDOP1. CONCLUSIONS/SIGNIFICANCE: Our results indicate that AmDOP2, like AmOA1, is coupled not only to cAMP, but also to calcium-signalling and moreover, that the two signalling pathways are independent upstream of phospholipase C-β activity. The striking similarity between the pharmacological properties of these 2 receptors suggests an underlying conservation of structural properties related to receptor function. Taken together, these results strongly support phylogenetic analyses indicating that the AmDOP2 and AmOA1 receptor genes are immediate paralogs.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Bees",
+        "Binding Sites",
+        "Calcium",
+        "Calcium Signaling",
+        "Cell Line",
+        "Cyclic AMP",
+        "Dibenzazepines",
+        "Flupenthixol",
+        "Humans",
+        "Imidazoles",
+        "Molecular Sequence Data",
+        "Phylogeny",
+        "Receptors, Biogenic Amine",
+        "Receptors, Dopamine",
+        "Sequence Homology, Amino Acid",
+        "Signal Transduction",
+        "Spiperone"
+      ]
+    },
+    {
+      "pmid": "21478261",
+      "title": "A single amino acid residue controls Ca2+ signaling by an octopamine receptor from Drosophila melanogaster.",
+      "authors": [
+        "Max Hoff",
+        "Sabine Balfanz",
+        "Petra Ehling",
+        "Thomas Gensch",
+        "Arnd Baumann"
+      ],
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "publication_date": "2011-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rhythmic activity of cells and cellular networks plays an important role in physiology. In the nervous system oscillations of electrical activity and/or second messenger concentrations are important to synchronize neuronal activity. At the molecular level, rhythmic activity can be initiated by different routes. We have recently shown that an octopamine-activated G-protein-coupled receptor (GPCR; DmOctα1Rb, CG3856) from Drosophila initiates Ca(2+) oscillations. Here, we have unraveled the molecular basis of cellular Ca(2+) signaling controlled by the DmOctα1Rb receptor using a combination of pharmacological intervention, site-directed mutagenesis, and functional cellular Ca(2+) imaging on heterologously expressed receptors. Phosphorylation of a single amino acid residue in the third intracellular loop of the GPCR by PKC is necessary and sufficient to desensitize the receptor. From its desensitized state, DmOctα1Rb is resensitized by dephosphorylation, and a new Ca(2+) signal occurs on octopamine stimulation. Our findings show that transient changes of the receptor's surface profile have a strong effect on its physiological signaling properties. We expect that the detailed knowledge of DmOctα1Rb-dependent signal transduction fosters the identification of specific drugs that can be used for GPCR-mediated pest control, since octopamine serves important physiological and behavioral functions in arthropods.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Calcium",
+        "Calcium Signaling",
+        "Drosophila melanogaster",
+        "Estrenes",
+        "Fluorometry",
+        "HEK293 Cells",
+        "Humans",
+        "Indoles",
+        "Intracellular Space",
+        "Maleimides",
+        "Molecular Sequence Data",
+        "Mutagenesis, Site-Directed",
+        "Mutation",
+        "Octopamine",
+        "Phosphodiesterase Inhibitors",
+        "Phosphorylation",
+        "Protein Kinase C",
+        "Pyrrolidinones",
+        "Receptors, Biogenic Amine",
+        "Threonine",
+        "Type C Phospholipases"
+      ]
+    },
+    {
+      "pmid": "21106592",
+      "title": "Octopamine and occupancy: an aminergic mechanism for intruder-resident aggression in crickets.",
+      "authors": [
+        "Jan Rillich",
+        "Klaus Schildberger",
+        "Paul A Stevenson"
+      ],
+      "journal": "Proceedings. Biological sciences",
+      "publication_date": "2011-Jun-22",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Aggression is a behavioural strategy for securing resources (food, mates and territory) and its expression is strongly influenced by their presence and value. While it is known that resource holders are generally highly aggressive towards intruding consexuals and usually defeat them, the underlying neuronal mechanisms are not known. In a novel intruder-resident paradigm for field crickets (Gryllus bimaculatus), we show that otherwise submissive losers of a preceding aggressive encounter readily fight and often defeat aggressive winners after occupying an artificial shelter. This aggression enhancing effect first became evident after 2 min residency, and was maximal after 15 min, but absent 15 min after shelter removal. The residency effect was abolished following non-selective depletion of biogenic amines from the central nervous system using reserpine, or semi-selective depletion of octopamine and dopamine using α-methyl-tyrosine, but not following serotonin depletion using α-methyl-tryptophan. The residency effect was also abolished by the treatment with phentolamine, an α-adrenergic receptor antagonist, or epinastine, a highly selective octopamine receptor blocker, but not by propranolol, a ß-adrenergic receptor antagonist, or by yohimbine, an insect tyramine receptor blocker. We conclude that crickets evaluate residency as a rewarding experience that promotes aggressive motivation via a mechanism involving octopamine, the invertebrate analogue of noradrenaline.",
+      "mesh_terms": [
+        "Adrenergic alpha-Antagonists",
+        "Adrenergic beta-Antagonists",
+        "Aggression",
+        "Animals",
+        "Behavior, Animal",
+        "Biogenic Amines",
+        "Gryllidae",
+        "Octopamine",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "20228346",
+      "title": "Mating-induced transient inhibition of responses to sex pheromone in a male moth is not mediated by octopamine or serotonin.",
+      "authors": [
+        "Romina B Barrozo",
+        "David Jarriault",
+        "Xenia Simeone",
+        "Cyril Gaertner",
+        "Christophe Gadenne",
+        "Sylvia Anton"
+      ],
+      "journal": "The Journal of experimental biology",
+      "publication_date": "2010-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In the male moth, Agrotis ipsilon, mating induces a transient inhibition of behavioural and central nervous responses to sex pheromone. Newly mated males are not attracted to sex pheromone, and the sensitivity of their antennal lobe (AL) neurons is lower than in virgin males. This rapid transient olfactory inhibition prevents them from re-mating unsuccessfully until they have refilled their sex glands. We hypothesized that this olfactory 'switch off' might be controlled by neuromodulators such as biogenic amines. To test our hypothesis, we studied the effects of octopamine (OA) and serotonin (5-hydroxytryptamine, 5-HT) on the coding properties of pheromone-sensitive AL neurons in virgin and newly mated males. We show that AL neuron sensitivity increased in newly mated males after injection of OA or 5-HT, but only OA treatment affected certain response characteristics of AL neurons in virgin males. Whereas all measured AL neuron response characteristics were different between virgin and newly mated males, amine treatment in newly mated males restored only the latency and spike frequency, but not the duration of excitatory and inhibitory phases, which were initially found in virgin males. Additionally, we investigated the behavioural effects of OA and 5-HT treatments in virgin and mated males. Although OA and 5-HT enhanced the general flight activity of newly mated males, amine treatments did not restore the behavioural pheromone response of mated moths. Altogether, these results show that, although biogenic amines modulate the olfactory system in moths, OA and 5-HT are probably not involved in the post-mating inhibition of responses to sex pheromone in A. ipsilon males.",
+      "mesh_terms": [
+        "Animal Structures",
+        "Animals",
+        "Female",
+        "Flight, Animal",
+        "Male",
+        "Moths",
+        "Neurons",
+        "Octopamine",
+        "Serotonin",
+        "Sex Attractants",
+        "Sexual Behavior, Animal"
+      ]
+    },
+    {
+      "pmid": "19409391",
+      "title": "Age-dependent plasticity of sex pheromone response in the moth, Agrotis ipsilon: combined effects of octopamine and juvenile hormone.",
+      "authors": [
+        "David Jarriault",
+        "Romina B Barrozo",
+        "Carlos J de Carvalho Pinto",
+        "Birgit Greiner",
+        "Marie-Cécile Dufour",
+        "Ingwild Masante-Roca",
+        "Jan B Gramsbergen",
+        "Sylvia Anton",
+        "Christophe Gadenne"
+      ],
+      "journal": "Hormones and behavior",
+      "publication_date": "2009-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Male moths use sex pheromones to find their mating partners. In the moth, Agrotis ipsilon, the behavioral response and the neuron sensitivity within the primary olfactory centre, the antennal lobe (AL), to sex pheromone increase with age and juvenile hormone (JH) biosynthesis. By manipulating the JH level, we previously showed that JH controls this age-dependent neuronal plasticity, and that its effects are slow (within 2 days). We hypothesized that the hormonal effect might be indirect, and one neuromodulator candidate, which might serve as a mediator, is octopamine (OA). Here, we studied the effects of OA and an OA receptor antagonist, mianserin, on behavioral and AL neuron responses of mature and immature males during stimulation with sex pheromone. Our results indicate that, although OA injections enhanced the behavioral pheromone response in mature males, OA had no significant effect on behavior in immature males. However, mianserin injections decreased the behavioral response in mature males. AL neuron sensitivity increased after OA treatment in immature males, and decreased after mianserin treatment in mature males. Determination of OA levels in ALs of immature and mature males did not reveal any difference. To study the possible interactive effects of JH and OA, the behavioral pheromone response was analyzed in JH-deprived mature males injected with OA, and in immature males injected with fenoxycarb, a JH agonist, and mianserin. Results show that both JH and OA are necessary to elicit a behavioral response of A. ipsilon males to sex pheromone.",
+      "mesh_terms": [
+        "Action Potentials",
+        "Aging",
+        "Animals",
+        "Behavior, Animal",
+        "Chromatography, High Pressure Liquid",
+        "Juvenile Hormones",
+        "Male",
+        "Mianserin",
+        "Microelectrodes",
+        "Moths",
+        "Motor Activity",
+        "Neurons",
+        "Octopamine",
+        "Phenylcarbamates",
+        "Physical Stimulation",
+        "Receptors, Biogenic Amine",
+        "Sensory Thresholds",
+        "Sex Attractants"
+      ]
+    },
+    {
+      "pmid": "18799671",
+      "title": "Octopamine regulates sleep in drosophila through protein kinase A-dependent mechanisms.",
+      "authors": [
+        "Amanda Crocker",
+        "Amita Sehgal"
+      ],
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "publication_date": "2008-Sep-17",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Sleep is a fundamental process, but its regulation and function are still not well understood. The Drosophila model for sleep provides a powerful system to address the genetic and molecular mechanisms underlying sleep and wakefulness. Here we show that a Drosophila biogenic amine, octopamine, is a potent wake-promoting signal. Mutations in the octopamine biosynthesis pathway produced a phenotype of increased sleep, which was restored to wild-type levels by pharmacological treatment with octopamine. Moreover, electrical silencing of octopamine-producing cells decreased wakefulness, whereas excitation of these neurons promoted wakefulness. Because protein kinase A (PKA) is a putative target of octopamine signaling and is also implicated in Drosophila sleep, we investigated its role in the effects of octopamine on sleep. We found that decreased PKA activity in neurons rendered flies insensitive to the wake-promoting effects of octopamine. However, this effect of PKA was not exerted in the mushroom bodies, a site previously associated with PKA action on sleep. These studies identify a novel pathway that regulates sleep in Drosophila.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Brain",
+        "Cyclic AMP-Dependent Protein Kinases",
+        "Drosophila",
+        "Drosophila Proteins",
+        "Female",
+        "Green Fluorescent Proteins",
+        "Male",
+        "Motor Activity",
+        "Mushroom Bodies",
+        "Mutation",
+        "Neurons",
+        "Norepinephrine",
+        "Octopamine",
+        "Sleep",
+        "Tyramine",
+        "Tyrosine Decarboxylase",
+        "Wakefulness"
+      ]
+    },
+    {
+      "pmid": "17681232",
+      "title": "Functional comparison of full-length and N-terminal-truncated octopamine transporters from Lepidoptera.",
+      "authors": [
+        "Cam Donly",
+        "LouAnn Verellen",
+        "Wendy Cladman",
+        "Stan Caveney"
+      ],
+      "journal": "Insect biochemistry and molecular biology",
+      "publication_date": "2007-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We have cloned two new lepidopteran octopamine transporters (OATs), members of the solute-linked carrier family 6 (SLC6) of nutrient transporters, from the CNS of the European corn borer Ostrinia nubilalis and the cabbage white Pieris rapae. Comparison of these sequences with the previously cloned OAT from the cabbage looper Trichoplusia ni showed that the T. ni OAT sequence previously reported was truncated by 74 amino acids at the N-terminus. The cytoplasmic N-termini deduced here are considerably longer than the N-termini of other monoamine transporters in the SLC6 family and contain many more high-probability serine- and threonine-phosphorylation sites. Monoamine uptake and competitive inhibition studies on baculovirus-infected Sf9 cells expressing these three cloned OATs indicate that they are able to transport tyramine, octopamine and dopamine with high affinity (K(m) and K(i) range, 0.4 microM-2.7 microM) and capacity ((3)H-dopamine uptake by TrnOAT, 2.5 pmol/well/min). We aimed to examine the role of the N-terminus of OAT by comparing the properties of the full-length T. ni OAT with those of the previously reported N-truncated version. Results for the new full-length T. ni OAT showed no difference in the protein's affinity for octopamine or dopamine, although at low levels of viral infection it did show slightly higher transport activity ((3)H-dopamine uptake by truncated TrnOAT, 1.5 pmol/well/min). Treatment of Sf9 cells expressing full-length or truncated TrnOAT with a variety of protein kinase activators and inhibitors, however, did not change transporter activity. Neither an intact N-terminus, nor apparently a particular phosphorylation state of this extended N-terminus, is required for OAT to transport monoamines.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Animals",
+        "Cloning, Molecular",
+        "Conserved Sequence",
+        "DNA Primers",
+        "Insect Proteins",
+        "Kinetics",
+        "Lepidoptera",
+        "Membrane Transport Proteins",
+        "Molecular Sequence Data",
+        "Octopamine",
+        "Polymerase Chain Reaction",
+        "RNA, Messenger",
+        "Recombinant Proteins",
+        "Sequence Alignment",
+        "Sequence Deletion",
+        "Sequence Homology, Amino Acid"
+      ]
+    },
+    {
+      "pmid": "17574568",
+      "title": "Octopamine influences honey bee foraging preference.",
+      "authors": [
+        "Tugrul Giray",
+        "Alberto Galindo-Cardona",
+        "Devrim Oskay"
+      ],
+      "journal": "Journal of insect physiology",
+      "publication_date": "2007-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Colony condition and differences in individual preferences influence forage type collected by bees. Physiological bases for the changing preferences of individual foragers are just beginning to be examined. Recently, for honey bees octopamine is shown to influence age at onset of foraging and probability of dance for rewards. However, octopamine has not been causally linked with foraging preference in the field. We tested the hypothesis that changes in octopamine may alter forage type (preference hypothesis). We treated identified foragers orally with octopamine or its immediate precursor, tyramine, or sucrose syrup (control). Octopamine-treated foragers switched type of material collected; control bees did not. Tyramine group results were not different from the control group. In addition, sugar concentrations of nectar collected by foragers after octopamine treatment were lower than before treatment, indicating change in preference. In contrast, before and after nectar concentrations for bees in the control group were similar. These results, taken together, support the preference hypothesis.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Feeding Behavior",
+        "Female",
+        "Flowers",
+        "Food Preferences",
+        "Octopamine",
+        "Social Behavior"
+      ]
+    },
+    {
+      "pmid": "17270208",
+      "title": "Comparing injection, feeding and topical application methods for treatment of honeybees with octopamine.",
+      "authors": [
+        "Andrew B Barron",
+        "Joanna Maleszka",
+        "Robert K Vander Meer",
+        "Gene E Robinson",
+        "Ryszard Maleszka"
+      ],
+      "journal": "Journal of insect physiology",
+      "publication_date": "2007-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Entomologists have used a range of techniques to treat insects with neuroactive compounds, but it is not always clear whether different treatment methods are equally effective in delivering a compound to a target organ. Here, we used five different techniques to treat honeybees with 3H-octopamine (3H-OA), and analysed the distribution of the 3H radiolabelled compound within different tissues and how it changed over time. All treatment methods, including injection of the median ocellus, resulted in 3H-OA detection in all parts of the honeybee. Injection through the median ocellus was the most effective method for delivering 3H-OA to the brain. Topical application of 3H-OA dissolved in dimethylformamide (dMF) to the thorax was as effective as thoracic injections of 3H-OA in delivering 3H-OA to the brain, but topical applications to the abdomen were less so. Most of the 3H-OA applied topically remained associated with the cuticle and the tissues of the body segment to which it had been applied. For all treatment methods, 3H-OA was rapidly lost from the brain and head capsule, and accumulated in the abdomen. Our findings demonstrate the value of thoracic topical treatment with compounds dissolved in dMF as an effective non-invasive method for short-term, systemic pharmacological treatments.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Administration, Topical",
+        "Analysis of Variance",
+        "Animals",
+        "Bees",
+        "Brain",
+        "Dimethylformamide",
+        "Injections",
+        "Octopamine",
+        "Tritium"
+      ]
+    },
+    {
+      "pmid": "17237217",
+      "title": "Octopamine modulates honey bee dance behavior.",
+      "authors": [
+        "Andrew B Barron",
+        "Ryszard Maleszka",
+        "Robert K Vander Meer",
+        "Gene E Robinson"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2007-Jan-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Honey bees communicate the location and desirability of valuable forage sites to their nestmates through an elaborate, symbolic \"dance language.\" The dance language is a uniquely complex communication system in invertebrates, and the neural mechanisms that generate dances are largely unknown. Here we show that treatments with controlled doses of the biogenic amine neuromodulator octopamine selectively increased the reporting of resource value in dances by forager bees. Oral and topical octopamine treatments modulated aspects of dances related to resource profitability in a dose-dependent manner. Dances for pollen and sucrose responded similarly to octopamine treatment, and these effects were eliminated by treatment with the octopamine antagonist mianserin. We propose that octopamine modulates the representation of floral rewards in dances by changing the processing of reward in the honey bee brain. Octopamine is known to modulate appetitive behavior in a range of solitary insects; the role of octopamine in dance provides an example of how neural substrates can be adapted for new behavioral innovations in the process of social evolution.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animal Communication",
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Brain",
+        "Dose-Response Relationship, Drug",
+        "Mianserin",
+        "Octopamine",
+        "Pollen",
+        "Social Behavior",
+        "Sucrose"
+      ]
+    },
+    {
+      "pmid": "17122036",
+      "title": "Octopamine mediates thermal preconditioning of the locust ventilatory central pattern generator via a cAMP/protein kinase A signaling pathway.",
+      "authors": [
+        "Gary A B Armstrong",
+        "Kelly L Shoemaker",
+        "Tomas G A Money",
+        "R Meldrum Robertson"
+      ],
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "publication_date": "2006-Nov-22",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We investigated the role of biogenic amines in generating thermoprotection of the ventilatory motor pattern circuitry in Locusta migratoria. Levels of octopamine (OA) and dopamine (DA) in the metathoracic ganglion decreased during heat stress. We measured the thermosensitivity of central pattern generation in response to a ramped increase of temperature in semi-intact preparations. OA, DA, and tyramine (TA) were either bath applied or injected into the locust hemocoel 4-8 h before testing. Neither TA nor DA modified the thermotolerance of ventilatory motor pattern generation. However, OA treatment by bath applications (10(-4) M OA) or by injections into the hemocoel (2 microg/10 microl OA) mimicked heat shock preconditioning and improved the thermotolerance of the motor pattern by increasing the failure temperature and by decreasing the time taken to recover operation after a return to room temperature. Heat shock-induced thermoprotection was eradicated in locusts preinjected with epinastine (Oct betaR antagonist). Neuropil injections of the cAMP agonist and protein kinase A (PKA) activator, Sp-cAMPs, both conferred thermoprotection in control locusts and rescued thermoprotection in epinastine-treated HS locusts. Similar injections of the PKA inhibitor Rp-cAMPs blocked the thermoprotective effect of bath-applied OA. Octopamine-mediated thermoprotection was also abolished with neuropil injections of cycloheximide or actinomycin D, indicating a requirement for transcription and translation. We conclude that OA has a crucial role in triggering protein synthesis-dependent physiological adaptations to protect CNS function during heat stress by activating a cAMP/PKA pathway.",
+      "mesh_terms": [
+        "Action Potentials",
+        "Adaptation, Physiological",
+        "Adenylyl Cyclases",
+        "Analysis of Variance",
+        "Animals",
+        "Chromatography, High Pressure Liquid",
+        "Cyclic AMP",
+        "Cyclic AMP-Dependent Protein Kinases",
+        "Dopamine",
+        "Electromyography",
+        "Enzyme Inhibitors",
+        "Ganglia, Invertebrate",
+        "Heat-Shock Response",
+        "Hot Temperature",
+        "Locusta migratoria",
+        "Octopamine",
+        "Potassium",
+        "Respiratory Muscles",
+        "Signal Transduction",
+        "Stress, Physiological",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "17082965",
+      "title": "Influences of octopamine and juvenile hormone on locomotor behavior and period gene expression in the honeybee, Apis mellifera.",
+      "authors": [
+        "Guy Bloch",
+        "Avital Meshi"
+      ],
+      "journal": "Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",
+      "publication_date": "2007-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Octopamine (OA) and juvenile hormone (JH) are implicated in the regulation of age-based division of labor in the honeybee, Apis mellifera. We tested the hypothesis that these two neuroendocrine signals influence task-associated plasticity in circadian and diurnal rhythms, and in brain expression of the clock gene period (per). Treatment with OA, OA antagonist (epinastine), or both, did not affect the age at onset of circadian rhythmicity or the free running period in constant darkness (DD). Young bees orally treated with OA in light-dark (LD) illumination regime for 6 days followed by DD showed reduced alpha (the period between the daily onset and offset of activity) during the first 4 days in LD and the first 4 days in DD. Oral treatment with OA, epinastine, or both, but not manipulations of JH levels, caused increased average daily levels and aberrant patterns of brain per mRNA oscillation in young bees. These results suggest that OA and JH do not influence the development or function of the central pacemaker but rather that OA influences the brain expression of a clock gene and characteristics of locomotor behavior that are not thought to be under direct control of the circadian pacemaker.",
+      "mesh_terms": [
+        "Age Factors",
+        "Analysis of Variance",
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Biological Clocks",
+        "Cooperative Behavior",
+        "Gene Expression Regulation",
+        "Juvenile Hormones",
+        "Light",
+        "Motor Activity",
+        "Nuclear Proteins",
+        "Octopamine",
+        "Period Circadian Proteins",
+        "Photoperiod",
+        "RNA, Messenger"
+      ]
+    },
+    {
+      "pmid": "17072577",
+      "title": "Octopamine boosts snail locomotion: behavioural and cellular analysis.",
+      "authors": [
+        "Jennifer C Ormshaw",
+        "Christopher J H Elliott"
+      ],
+      "journal": "Invertebrate neuroscience : IN",
+      "publication_date": "2006-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We measured the reduction in locomotion of unrestrained pond snails, Lymnaea stagnalis, subsequent to transdermal application of two selective octopamine antagonists, epinastine and phentolamine. After 3 h in fresh standard snail water following treatment with 4 mM epinastine or 3.5 mM phentolamine, the snails' speed was reduced to 25 and 56% of the controls (P < 0.001 and P = 0.02, respectively). The snails' speed decreased as the drug concentration increased. In the isolated CNS, 0.5 mM octopamine increased the firing rate of the pedal A cluster motoneurons, which innervate the cilia of the foot. In normal saline the increase was 26% and in a high magnesium/low calcium saline 22% (P < 0.05 and 0.01, respectively). We conclude that octopamine is likely to modulate snail locomotion, partially through effects on pedal motoneurons.",
+      "mesh_terms": [
+        "Adrenergic alpha-Agonists",
+        "Adrenergic alpha-Antagonists",
+        "Animals",
+        "Behavior, Animal",
+        "Dibenzazepines",
+        "Histamine H1 Antagonists",
+        "Imidazoles",
+        "Motor Activity",
+        "Motor Neurons",
+        "Octopamine",
+        "Phentolamine",
+        "Snails"
+      ]
+    },
+    {
+      "pmid": "16256134",
+      "title": "Activity modulation in cockroach sensillum: the role of octopamine.",
+      "authors": [
+        "M I Zhukovskaya",
+        "S V Kapitsky"
+      ],
+      "journal": "Journal of insect physiology",
+      "publication_date": "2006-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The plasticity of sensory perception is provided partially by modulation of receptor cells. The electrical activity of American cockroach chemoreceptor cells in response to sex pheromone was measured under the influence of octopamine treatment and tracheal anoxia. Both experimental procedures caused decreased electroantennograms but affected spike activity differently: octopamine treatment increased firing rate, whereas anoxia decreased it. Spike frequency under octopamine treatment was elevated in response to pheromone stimulation and at background activity. Experiments with perfusion of isolated antennae showed a direct effect of octopamine on spike activity of pheromone sensilla, and excluded the possibility of indirect effects via octopamine-dependent release of other biologically active substances. The suggested mechanism of octopamine action is receptor cell membrane depolarization.",
+      "mesh_terms": [
+        "Animals",
+        "Chemoreceptor Cells",
+        "Female",
+        "Hypoxia",
+        "Male",
+        "Octopamine",
+        "Perfusion",
+        "Periplaneta",
+        "Sex Attractants"
+      ]
+    },
+    {
+      "pmid": "15986384",
+      "title": "Molecular and pharmacological analysis of an octopamine receptor from American cockroach and fruit fly in response to plant essential oils.",
+      "authors": [
+        "Essam E Enan"
+      ],
+      "journal": "Archives of insect biochemistry and physiology",
+      "publication_date": "2005-Jul",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Octopamine receptors from American cockroach, Periplaneta americana (Pa oa1), and fruit fly, Drosophila melanogaster (OAMB), were cloned and permanently expressed in HEK-293 cells, and found to activate adenylate cyclase activity and increase [Ca2+]i levels through G-protein coupled receptor signaling pathways. Sequencing information (GenBank accession number AY333178) and functional data of Pa oa1 were recently published. Saturation binding analysis with 3H-yohimbine was performed with Pa oa(1) and OAMB expressed in COS-7 cells. The K(d) values were determined to be 28.4 and 43.0 nM, respectively. B(max) was determined to be 11.8 and 8.04 pmol receptor/mg protein, respectively. Competitive binding data using cell membranes expressing either OAMB or Pa oa1 demonstrated significantly decreased binding activity in binding assays performed in the presence of plant essential oils, eugenol, cinnamic alcohol, and trans-anethole. Eugenol decreased cAMP level in HEK-293 cells expressing Pa oa1, but trans-anethole increased cAMP in HEK-293 cells expressing OAMB. All three chemicals increased [Ca2+]i level in both cell models. Toxicity data against fruit flies and American cockroaches demonstrated species differences in response to treatment with tested plant essential oils. The toxicity of tested chemicals against wild type and octopamine mutant (iav) fly strains suggested that an octopamine receptor mediates the toxicity of cinnamic alcohol, eugenol, trans-antehole, and 2-phenethyl propionate against fruit flies. Collectively, the data suggest a correlation between cellular changes induced by tested plant essential oils and their toxicity against fruit fly and American cockroach.",
+      "mesh_terms": [
+        "Adenylyl Cyclases",
+        "Animals",
+        "Binding, Competitive",
+        "Calcium",
+        "Cell Line",
+        "Cell Membrane",
+        "Chlorocebus aethiops",
+        "Cyclic AMP",
+        "Drosophila Proteins",
+        "Drosophila melanogaster",
+        "Humans",
+        "Lethal Dose 50",
+        "Oils, Volatile",
+        "Periplaneta",
+        "Plants",
+        "Receptors, Neurotransmitter",
+        "Species Specificity",
+        "Toxicity Tests",
+        "Transfection",
+        "Yohimbine"
+      ]
+    },
+    {
+      "pmid": "15889261",
+      "title": "Selective modulation of task performance by octopamine in honey bee (Apis mellifera) division of labour.",
+      "authors": [
+        "Andrew B Barron",
+        "Gene E Robinson"
+      ],
+      "journal": "Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",
+      "publication_date": "2005-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Octopamine treatment has previously been shown to increase honey bee foraging behaviour. We determined the effects of octopamine on other tasks to learn how octopamine affects division of labour in honey bee colonies. Octopamine treatment did not increase the rate of corpse removal from the hive, suggesting that elevated brain levels of octopamine do not act to increase the performance of all flight-related tasks. Octopamine treatment also did not increase attendance in the queen's retinue, suggesting that elevated brain levels of octopamine do not act to increase responsiveness to all olfactory stimuli. Consistent with these findings, octopamine treatment enhanced the foraging response to brood pheromone but not the cell capping response, a component of brood care. These results demonstrate a relatively specific form of neuromodulation by octopamine in the regulation of division of labour in honey bee colonies.",
+      "mesh_terms": [
+        "Animals",
+        "Appetitive Behavior",
+        "Bees",
+        "Behavior, Animal",
+        "Brain",
+        "Female",
+        "Male",
+        "Octopamine",
+        "Pheromones",
+        "Social Behavior",
+        "Social Environment"
+      ]
+    },
+    {
+      "pmid": "15000448",
+      "title": "Moderate weight-lowering effect of octopamine treatment in obese Zucker rats.",
+      "authors": [
+        "S Bour",
+        "V Visentin",
+        "D Prévot",
+        "C Carpéné"
+      ],
+      "journal": "Journal of physiology and biochemistry",
+      "publication_date": "2003-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Octopamine is proposed as a substitution product of synephrine by diverse drug industries that advertise new weight-lowering products or medicinal plants enriched in this biogenic amine. We have already reported that octopamine is able to activate in vitro lipolysis in rat adipocytes via beta3-adrenergic receptor activation, while it activates glucose uptake in human fat cells via its oxidation by amine oxidases. In this work, we tested whether a chronic challenge with octopamine could exert anti-obesity effects. A treatment consisting in daily i.p. administration of octopamine (81 micromol/kg) was compared on a four-week period with calorie restriction in the genetically obese Zucker rat. Octopamine treatment resulted in a 19% decrease in body weight gain, when compared to the 177 g gained by controls during the same period. The decrease in body weight gain was detectable only after three weeks of treatment and was apparently not due to a pronounced and sustainable anorectic effect of octopamine since: 1) cumulated food consumption was only reduced by 10%; 2) the experimental 18% reduction of food intake provoked a rapid decrease in body weight gain, significant in less than two weeks. The lipolytic responses to isoprenaline or octopamine and the stimulation of glucose transport by insulin or by the amine oxidase substrate tyramine were unmodified by the treatments. Noteworthy, the elevated plasma insulin of obese rats was lowered by octopamine. This study shows that octopamine can reduce body weight gain in obese rats, without apparent adverse effects, but with less efficacy than beta3-AR agonists.",
+      "mesh_terms": [
+        "Adipocytes",
+        "Animals",
+        "Blood Glucose",
+        "Body Weight",
+        "Fatty Acids, Nonesterified",
+        "Food Deprivation",
+        "Glucose",
+        "Glycerol",
+        "Insulin",
+        "Isoproterenol",
+        "Lipolysis",
+        "Male",
+        "Obesity",
+        "Octopamine",
+        "Rats",
+        "Rats, Zucker",
+        "Time Factors",
+        "Triglycerides",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "12725895",
+      "title": "Synaptic facilitation by ectopic octopamine and 5-HT receptors in Aplysia.",
+      "authors": [
+        "Deok-Jin Chang",
+        "Chae-Seok Lim",
+        "Jin-A Lee",
+        "Bong-Kiun Kaang"
+      ],
+      "journal": "Brain research bulletin",
+      "publication_date": "2003-Apr-15",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The cAMP pathway plays a critical role in synaptic plasticity. We assessed using the ectopic expression of octopamine (OA) receptor, the contribution of the cAMP pathway to short-term facilitation of sensory-motor synapses in Aplysia. When synaptic connections were depressed to 20-30% of their initial EPSP amplitude, the application of OA to sensory cells expressing OA receptor showed significant synaptic facilitation, but this was less than the synaptic facilitation shown by 5-HT treatment. We also found that synaptic facilitation was further enhanced when OA was treated in the presence of 5-HT at non-depressed synapses, but not at depressed synapses. These results imply that the role of cAMP in synaptic facilitation is reduced as the synapse becomes depressed due to repeated activity.",
+      "mesh_terms": [
+        "Adrenergic alpha-Agonists",
+        "Animals",
+        "Aplysia",
+        "Cells, Cultured",
+        "DNA",
+        "Dose-Response Relationship, Drug",
+        "Drug Interactions",
+        "Electric Stimulation",
+        "Ganglia, Invertebrate",
+        "Gene Expression",
+        "Green Fluorescent Proteins",
+        "Luminescent Proteins",
+        "Membrane Potentials",
+        "Motor Neurons",
+        "Neural Inhibition",
+        "Neurons, Afferent",
+        "Octopamine",
+        "Receptors, Biogenic Amine",
+        "Receptors, Serotonin",
+        "Serotonin",
+        "Synapses",
+        "Synaptic Transmission",
+        "Time Factors",
+        "Transfection"
+      ]
+    },
+    {
+      "pmid": "12563167",
+      "title": "A role for octopamine in honey bee division of labor.",
+      "authors": [
+        "David J Schulz",
+        "Andrew B Barron",
+        "Gene E Robinson"
+      ],
+      "journal": "Brain, behavior and evolution",
+      "publication_date": "2002",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Efficient division of labor is one of the main reasons for the success of the social insects. In honey bees the division of labor is principally achieved by workers changing tasks as they age. Typically, young adult bees perform a series of tasks within the colony before ultimately making the transition to foraging outside the hive for resources. This lifelong behavioral development is a well-characterized example of naturally occurring behavioral plasticity, but its neural bases are not well understood. Two techniques were used to assess the role of biogenic amines in the transition from in-hive work to foraging, which is the most dramatic and obvious transition in honey bee behavioral development. First, associations between amines and tasks were determined by measuring the levels of amines in dissected regions of individual bee brains using HPLC analysis. Second, colonies were orally treated with biogenic amines and effects on the onset of foraging were observed. Octopamine concentration in the antennal lobes of the bee brain was most reliably associated with task: high in foragers and low in nurses regardless of age. In contrast, octopamine in the mushroom bodies, a neighboring neuropil, was associated with age and not behavior, indicating independent modulation of octopamine in these two brain regions. Treating colonies with octopamine resulted in an earlier onset of foraging in young bees. In addition, octopamine levels were not elevated by non-foraging flight, but were already high on return from the first successful foraging trip and subsequently remained high, showing no further change with foraging experience. This observation suggests that octopamine becomes elevated in the antennal lobes in anticipation of foraging and is involved in the release and maintenance of the foraging state. Foraging itself, however, does not modulate octopamine levels. Behaviorally related changes in octopamine are modulated by juvenile hormone, which has also been implicated in the control of honey bee division of labor. Treatment with the juvenile hormone analog methoprene elevated octopamine and octopamine treatment 'rescued' the delay in behavioral development caused by experimentally depleting juvenile hormone in bees. Although the pathways linking juvenile hormone and octopamine are presently unknown, it is clear that octopamine acts 'downstream' of juvenile hormone to influence behavior and that juvenile hormone modulates brain octopamine levels. A working hypothesis is that octopamine acts as an activator of foraging by modulating responsiveness to foraging-related stimuli. This is supported by the finding that octopamine treatment increased the response of bees to brood pheromone, a stimulator of foraging activity. Establishing a role for octopamine in honey bee behavioral development is a first step in understanding the neural bases of this example of naturally occurring, socially mediated, behavioral plasticity. The next level of analysis will be to determine precisely where and how octopamine acts in the nervous system to coordinate this complex social behavior.",
+      "mesh_terms": [
+        "Animals",
+        "Appetitive Behavior",
+        "Bees",
+        "Brain",
+        "Juvenile Hormones",
+        "Nerve Net",
+        "Neuronal Plasticity",
+        "Neurotransmitter Agents",
+        "Octopamine",
+        "Peripheral Nervous System",
+        "Pheromones",
+        "Sensory Receptor Cells",
+        "Social Behavior",
+        "Social Environment"
+      ]
+    },
+    {
+      "pmid": "12367575",
+      "title": "Juvenile hormone and octopamine in the regulation of division of labor in honey bee colonies.",
+      "authors": [
+        "David J Schulz",
+        "Joseph P Sullivan",
+        "Gene E Robinson"
+      ],
+      "journal": "Hormones and behavior",
+      "publication_date": "2002-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Forager honey bees have high circulating levels of juvenile hormone (JH) and high brain levels of octopamine, especially in the antennal lobes, and treatment with either of these compounds induces foraging. Experiments were performed to determine whether octopamine acts more proximally than JH to affect the initiation of foraging behavior. Bees treated with octopamine became foragers more rapidly than bees treated with the JH analog methoprene. Bees treated with methoprene showed an increase in antennal lobe levels of octopamine, especially after 12 days. Bees with no circulating JH (corpora allata glands removed) treated with octopamine became foragers in similar numbers to bees with intact corpora allata. These results suggest that JH affects the initiation of foraging at least in part by increasing brain levels of octopamine, but octopamine can act independently of JH. Effects of JH that are not related to octopamine also are possible, as bees treated with both octopamine and methoprene were more likely to become foragers than bees treated with only octopamine or methoprene.",
+      "mesh_terms": [
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Brain",
+        "Drug Synergism",
+        "Juvenile Hormones",
+        "Methoprene",
+        "Octopamine"
+      ]
+    },
+    {
+      "pmid": "12355236",
+      "title": "Octopamine modulates responsiveness to foraging-related stimuli in honey bees (Apis mellifera).",
+      "authors": [
+        "A B Barron",
+        "D J Schulz",
+        "G E Robinson"
+      ],
+      "journal": "Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",
+      "publication_date": "2002-Sep",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The biogenic amine neurochemical octopamine is involved in the onset of foraging behaviour in honey bees. We tested the hypothesis that octopamine influences honey bee behavioural development by modulating responsiveness to task-related stimuli. We examined the effect of octopamine treatment on responsiveness to brood pheromone (an activator of foraging) and to the presence of older bees in the colony (an inhibitor of foraging in young bees). Octopamine treatment increased responsiveness to brood pheromone and decreased responsiveness to social inhibition. These results identify octopamine both as an important source of variation in response thresholds and as a modulator of pheromonal communication in insect societies. We speculate that octopamine plays more than one role in the organisation of behavioural development indicating a very high level of integration between the neurochemical system and the generation of complex behaviour.",
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Bees",
+        "Cohort Studies",
+        "Feeding Behavior",
+        "Female",
+        "Male",
+        "Octopamine",
+        "Pheromones",
+        "Reference Values",
+        "Reproducibility of Results",
+        "Sensitivity and Specificity",
+        "Social Behavior",
+        "Species Specificity"
+      ]
+    },
+    {
+      "pmid": "11318378",
+      "title": "Octopamine influences division of labor in honey bee colonies.",
+      "authors": [
+        "D J Schulz",
+        "G E Robinson"
+      ],
+      "journal": "Journal of comparative physiology. A, Sensory, neural, and behavioral physiology",
+      "publication_date": "2001-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Forager honey bees have higher brain levels of octopamine than do bees tending larvae in the hive. To test the hypothesis that octopamine influences honey bee division of labor we treated bees orally with octopamine or its immediate precursor tyramine and determined whether these treatments increased the probability of initiating foraging. Octopamine treatment significantly elevated levels of octopamine in the brain and caused a significant dose-dependent increase in the number of new foragers. This effect was seen for precocious foragers in single-cohort colonies and foragers in larger colonies with more typical age demographies. Tyramine treatment did not increase the number of new foragers, suggesting that octopamine was exerting a specific effect. Octopamine treatment was effective only when given to bees old enough to forage, i.e., older than 4 days of age. Treatment when bees were 1-3 days of age did not cause a significant increase in the number of new foragers when the bees reached the minimal foraging age. These results demonstrate that octopamine influences division of labor in honey bee colonies. We speculate that octopamine is acting in this context as a neuromodulator.",
+      "mesh_terms": [
+        "Adrenergic alpha-Agonists",
+        "Aging",
+        "Animals",
+        "Bees",
+        "Behavior, Animal",
+        "Biogenic Amines",
+        "Brain Chemistry",
+        "Chromatography, High Pressure Liquid",
+        "Dose-Response Relationship, Drug",
+        "Feeding Behavior",
+        "Octopamine",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "2174067",
+      "title": "The effects of octopamine on juvenile hormone biosynthesis, electrophysiology, and cAMP content of the corpora allata of the cockroach Diploptera punctata.",
+      "authors": [
+        "C S Thompson",
+        "K J Yagi",
+        "Z F Chen",
+        "S S Tobe"
+      ],
+      "journal": "Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology",
+      "publication_date": "1990",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Juvenile hormone production by the corpora allata of the adult female cockroach, Diploptera punctata, can be modulated by treatment with the biogenic amine, octopamine. Endogenous octopamine has been identified within the CA, using HPLC and electrochemical detection. Treatment with octopamine results in a sinusoidal, dose-dependent inhibition of JH biosynthesis by CA from day 2 virgin females, with maximal inhibition occurring at 10(-10) M and 10(-4 M. In day 4 and day 8 mated female corpora allata octopamine inhibited JH biosynthesis at 5 x 10(-5) M. Although the elevation of either cAMP or cGMP within the CA is known to be associated with an inhibition of JH biosynthesis, treatment with high concentrations of octopamine results in an increase in the level of cAMP but not cGMP. This effect is both dose- and time-dependent. Octopamine treatment also initiates changes in the passive membrane responses of the CA. Superfusion of CA with octopamine results in a pronounced hyperpolarization of CA cells and an increase in the electrotonic potential (indicative of the degree of electrical coupling between CA cells). This effect could be blocked by the octopamine receptor blocker phentolamine. Treatment with octopamine or phentolamine also blocked the hyperpolarization of CA cells normally associated with electrical stimulation of the axon tracts innervating the CA. We hypothesize that octopamine may be a natural neuromodulator of JH production by CA, regulating ion channels in CA cells themselves as well as release of the inhibitory neuropeptide, allatostatin, from the terminals within the CA.",
+      "mesh_terms": [
+        "Animals",
+        "Axons",
+        "Chromatography, High Pressure Liquid",
+        "Cockroaches",
+        "Corpora Allata",
+        "Cyclic AMP",
+        "Cyclic GMP",
+        "Dose-Response Relationship, Drug",
+        "Electric Stimulation",
+        "Electrophysiology",
+        "Female",
+        "Juvenile Hormones",
+        "Membrane Potentials",
+        "Octopamine",
+        "Radioimmunoassay",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "3018148",
+      "title": "Effects of octopamine on miniature excitatory junction potentials from developing and adult moth muscle.",
+      "authors": [
+        "L W Klaassen",
+        "A E Kammer",
+        "G K Fitch"
+      ],
+      "journal": "Journal of neurobiology",
+      "publication_date": "1986-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Intracellular recordings of excitatory junction potentials (EJPs) and miniature EJPs (MEJPs) were made from the dorsal longitudinal muscle of Manduca sexta to determine the sites of action of octopamine. MEJPs increased in amplitude and frequency as the moth developed during the 3 days before eclosion. DL-Octopamine (5 X 10(-6) M) increased the amplitude of excitatory junction potentials in both immature moths (one day before eclosion) and adults. Octopamine (10(-5) M) also increased the amplitude and frequency of MEJPs from immature animals (one and two days before eclosion) but had the opposite effect on adults and pharate adults ready to eclose. Treatment with octopamine (10(-5) M) resulted in a decrease in input resistance and a hyperpolarization in both immature and adult muscle fibers. The results suggest that octopamine acts both presynaptically and postsynaptically but that the increase in the amplitude of the evoked response is due primarily to influences on presynaptic processes.",
+      "mesh_terms": [
+        "Age Factors",
+        "Animals",
+        "Calcium",
+        "Electric Conductivity",
+        "Membrane Potentials",
+        "Moths",
+        "Motor Endplate",
+        "Muscle Development",
+        "Neuromuscular Junction",
+        "Octopamine",
+        "Synaptic Transmission"
+      ]
+    },
+    {
+      "pmid": "3939325",
+      "title": "The effects of imipramine and iprindole on the metabolism of octopamine in the rat.",
+      "authors": [
+        "M L Sedlock",
+        "J Ravitch",
+        "D J Edwards"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "1985-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Acute injections of imipramine and iprindole in rats produced significant decreases in the concentration of p-hydroxyphenylglycol (pHPG), a neutral metabolite of octopamine in brain at 6 and 24 hr after the administration of drugs. The 24-hr urinary levels of both free and total pHPG were reduced to 25-29% of control with acute administration of imipramine, while iprindole produced a 30% decrease in free pHPG. With chronic administration of imipramine, concentrations of pHPG in brain returned to normal, while the 24-hr urinary levels were still decreased (to 24%). Octopamine in brain was unaltered after both single and repeated injections of imipramine. Thus, these data suggest that the turnover of octopamine in brain is reduced after acute administration of imipramine and iprindole, while after chronic treatment with imipramine, turnover of octopamine in brain has returned to control levels.",
+      "mesh_terms": [
+        "Animals",
+        "Brain",
+        "Ethylene Glycols",
+        "Imipramine",
+        "Indoles",
+        "Iprindole",
+        "Male",
+        "Octopamine",
+        "Phenols",
+        "Rats",
+        "Rats, Inbred Strains"
+      ]
+    },
+    {
+      "pmid": "2865057",
+      "title": "A new approach to the analysis of complex dose-response relationships: a multivariate study of octopamine action on the leech Leydig neurone.",
+      "authors": [
+        "J A Dean",
+        "M G Ford",
+        "L D Leake"
+      ],
+      "journal": "Comparative biochemistry and physiology. C, Comparative pharmacology and toxicology",
+      "publication_date": "1985",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Octopamine (OA) hyperpolarizes leech Leydig neurones but response amplitudes and thresholds vary. Associations between response, OA dose and other variables [initial resting potential, action potential (AP) frequency and amplitude, temperature, microelectrode resistance, position of ganglion along nerve cord, animal, treatment order] were examined using canonical correlation. A complex response was expressed by summing changes in membrane potential and AP frequency over 2 min of OA treatment. Only dose and ganglion position influenced this response. One significant canonical variate related dose to immediate changes in membrane potential and summed changes in AP frequency throughout the OA effect. Response to OA was greater in cells in posterior ganglia.",
+      "mesh_terms": [
+        "Action Potentials",
+        "Animals",
+        "Leeches",
+        "Leydig Cells",
+        "Male",
+        "Membrane Potentials",
+        "Octopamine",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "6419983",
+      "title": "Brain octopamine and strain differences in avoidance behavior.",
+      "authors": [
+        "J Delacour",
+        "J F Coulon",
+        "J C David",
+        "C Guenaire"
+      ],
+      "journal": "Brain research",
+      "publication_date": "1983-Dec-12",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "According to recent research, a significant relationship seems to exist between brain contents of p-octopamine and two-way avoidance responding in rats. Levels of this amine in hypothalamus and brainstem are higher in rats from the Roman High Avoidance (RHA) strain than in rats from the Roman Low Avoidance (RLA) strain. Intracerebroventricular administration of p-octopamine facilitates avoidance responding. The present paper reports the behavioral and neurochemical effects of p-octopamine administration on rats from the Roman strains. This treatment has no significant effect on cerebral levels of catecholamines, but it temporarily suppresses the strain differences in p-octopamine levels. In parallel, it also suppresses the strain differences in two-way avoidance conditioning, its facilitatory effect being much greater in RLA than in RHA rats. Avoidance behavior appears to be a useful model for the study of octopamine functions in the mammalian brain.",
+      "mesh_terms": [
+        "Animals",
+        "Avoidance Learning",
+        "Brain",
+        "Dopamine",
+        "Male",
+        "Motor Activity",
+        "Norepinephrine",
+        "Octopamine",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Species Specificity"
+      ]
+    },
+    {
+      "pmid": "354941",
+      "title": "Effect of haloperidol and d-amphetamine on cerebral tyramine and octopamine levels.",
+      "authors": [
+        "A V Juorio",
+        "T J Danielson"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1978-Jul-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The administration of d-amphetamine or haloperidol produced a marked reduction in the rat striatum concentration of p-tyramine, an effect that was not observed in the mesolimbic system. However, the administration of d-amphetamine to haloperidol-pretreated animals produced in both brain areas a marked reduction in p-tyramine levels. Furthermore, this latter treatment produced a marked increase in the m-tyramine levels in both brain regions. Hypothalamic p-octopamine levels were reduced by d-amphetamine, but not by haloperidol or haloperidol in the presence of d-amphetamine.",
+      "mesh_terms": [
+        "Animals",
+        "Brain Chemistry",
+        "Dextroamphetamine",
+        "Haloperidol",
+        "Male",
+        "Octopamine",
+        "Rats",
+        "Time Factors",
+        "Tyramine"
+      ]
+    },
+    {
+      "pmid": "411665",
+      "title": "Serum octopamine, coma, and charcoal haemoperfusion in fulminant hepatic failure.",
+      "authors": [
+        "R A Chase",
+        "P N Trewby",
+        "M Davis",
+        "R Williams"
+      ],
+      "journal": "European journal of clinical investigation",
+      "publication_date": "1977-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Serum octopamine levels were significantly higher in twenty patients with fulminant hepatic failure (FHF) during the first 48 h of grade IV coma than in health control subjects (3.38 +/- 0.20 ng/ml and 1.75 +/- 0.19 ng/ml respectively, P less than 0.001). Serial measurements in five patients who died without regaining consciousness showed serum octopamine to remain raised, and concentrations in the cerebrospinal fluid at death reflected serum levels. In five patients who regained consciousness, improvement in encephalopathy was associated with a significant reduction in serum octopamine. Renal failure in patients with FHF was found to contribute to raised serum octopamine but could not alone account for the observed levels. Patients given neomycin therapy did not have significantly lower serum octopamine levels than an untreated group. There was, however, a significant correlation between elevated serum octopamine and the occurrence of gestrointestinal bleeding during the previous 24 h. Charcoal haemoperfusion did not appreciably reduce serum octopamine levels.",
+      "mesh_terms": [
+        "Charcoal",
+        "Coma",
+        "Hemoperfusion",
+        "Humans",
+        "Liver Diseases",
+        "Octopamine"
+      ]
+    },
+    {
+      "pmid": "333308",
+      "title": "Catecholamine and octopamine concentrations in brains of patients with Reye syndrome.",
+      "authors": [
+        "K G Lloyd",
+        "L Davidson",
+        "K Price",
+        "H J McClung",
+        "D G Gall"
+      ],
+      "journal": "Neurology",
+      "publication_date": "1977-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dopamine, norepinephrine, and octopamine levels were estimated in regions of brains obtained postmortem from children who died with Reye syndrome and from age-matched controls. Hypothalamic norepinephrine levels were greatly decreased (to 30 percent of control, p less than 0.02) and octopamine levels were increased (to 700 percent of control, p less than 0.01). Levodopa had little effect on the physiologic condition of the patients. However, CNS dopamine and homovanillic concentrations were not elevated by levodopa, indicating that in the present cases levodopa was not metabolized to its catecholamine products. The findings indicate that the encephalopathy of Reye syndrome (as in other types of hepatic coma) may be linked to the presence of false transmitters in the brain and that levodopa is a rational therapy if administered before irreversible CNS changes occur.",
+      "mesh_terms": [
+        "Brain Chemistry",
+        "Catecholamines",
+        "Dihydroxyphenylalanine",
+        "Dopamine",
+        "Homovanillic Acid",
+        "Humans",
+        "Hypothalamus",
+        "Levodopa",
+        "Octopamine",
+        "Reye Syndrome"
+      ]
+    },
+    {
+      "pmid": "772882",
+      "title": "Pharmacologic analysis of positive chronotropic and inotropic responses to octopamine.",
+      "authors": [
+        "S Chiba"
+      ],
+      "journal": "The Tohoku journal of experimental medicine",
+      "publication_date": "1976-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Effects of octopamine on sinus rate and atrial contractility were investigated using the isolated atrium preparation of the dog which perfused with heparinized arterial blood led from a support dog. When octopamine, dopamine or norepinephrine was administered into the cannulated sinus node artery, positive chronotropic and inotropic responses were dose-relatedly induced from 0.1 mug, 0.1 mug or 0.01 mug, respectively. The D.R.50 values (dose ratio at 50% maximum response) of octopamine, dopamine and norepinephrine are roughly 30-100: 30:1, respectively. The duration of action of octopamine was longest. Effects induced by octopamine were blocked by an adrenergic beta-blocking agent, alprenolol. Desmethyl-imipramine treatment significantly suppressed octopamine-induced effects but rather enhanced norepinephrine-induced ones. Octopamine-induced effects were not influenced by tetrodotoxin which blocked those induced by nicotine. From these results, it is concluded that positive chronotropic and inotropic responses to octopamine are mainly due to a tyramine-like action.",
+      "mesh_terms": [
+        "Alprenolol",
+        "Animals",
+        "Desipramine",
+        "Dogs",
+        "Dopamine",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Heart Rate",
+        "In Vitro Techniques",
+        "Male",
+        "Myocardial Contraction",
+        "Nicotine",
+        "Norepinephrine",
+        "Octopamine",
+        "Stimulation, Chemical",
+        "Tetrodotoxin"
+      ]
+    },
+    {
+      "pmid": "1093755",
+      "title": "Pharmacological effects of alpha-methyldopa, alpha-methylnorepinephrine, and octopamine on rat arteriolar, arterial, and terminal vascular smooth.",
+      "authors": [
+        "B M Altura"
+      ],
+      "journal": "Circulation research",
+      "publication_date": "1975-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Experiments on rat mesenteric arterioles, metarterioles, and aortae demonstrate that although alpha-methylnorepinephrine is much less potent in inducing contraction than epinephrine on all three blood vessel types, it is either equivalent or only one and a half to two times less potent than the natural postganglionic neurotransmitter, norepinephrine, on these blood vessels. Furthermore, alpha-methylnorepinephrine is equivalent to norepinephrine in its ability to induce maximal contractile responses on rat arterioles, metarterioles, and aortae. Systemic administration of alpha-methyldopa to rats for 15 days shifted the log dose-response curves for all three catecholamines, but not vasopressin or potassium chloride, to the right of all three blood vessel types; the maximal contractile responses to these amines were, however, not affected by chronic treatment with alpha-methyldopa. In addition, acute, intra-arterial administration of 500 mg/kg of alpha-methyldopa was found not only to induce mesenteric arteriolar vasodilatation gradually but also to depress arteriolar reponsiveness to catecholamines. In view of these direct findings, it is difficult to accept the hypothesis that alpha-methyldopa induces hypotension via formation of a \"false\" postganglionic neurotransmitter substance, namely, alpha-methylnorepinephrine. The present findings suggest that alpha-methyldopa may exert some of its anti-hypertensive action, at least in the rat, by (1) depressing arteriolar responsiveness to circulating and released catecholamines and (2) some unknown direct action on peripheral vascular muscle. In addition, the present study indicates that octopamine is (1) between 60 and 15,000 times less potent than norepinephrine on rat arterioles and metarterioles and (2) incapable of eliciting more than a 40% occlusion of these terminal vessels. It is suggested that such data support the concept that octopamine, in contrast to alpha-methylnorepinephrine, could serve as a false adrenergic neurotransmitter agent and thus account for part or all of the hypotensive action of monoamine oxidase inhibitors like pargyline. The use of complete dose-response curves, several different adrenergic compounds (i.e., epinephrine, norepinephrine, alpha-methylnorepinephrine, octopamine, phenylephrine, and dopamine), and different rat blood vessels supports the concept that adrenergic molecules containing a catecholamine nucleus and a beta-hydroxyl group elicit the most potent constrictor responses from peripheral blood vessels. In addition, the data suggest that the structure-activity relationships for catecholamines and their analogs on terminal vascular smooth muscle are probably different from those for arterial smooth muscle.",
+      "mesh_terms": [
+        "Administration, Topical",
+        "Animals",
+        "Aorta, Thoracic",
+        "Blood Vessels",
+        "Dopamine",
+        "Dose-Response Relationship, Drug",
+        "Epinephrine",
+        "In Vitro Techniques",
+        "Injections, Intra-Arterial",
+        "Injections, Intraperitoneal",
+        "Male",
+        "Mesenteric Arteries",
+        "Methyldopa",
+        "Muscle Contraction",
+        "Muscle, Smooth",
+        "Nordefrin",
+        "Norepinephrine",
+        "Octopamine",
+        "Phenylephrine",
+        "Rats",
+        "Structure-Activity Relationship",
+        "Vasomotor System"
+      ]
+    }
+  ]
+}

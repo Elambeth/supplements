@@ -1,0 +1,337 @@
+{
+  "supplement": "Dihydroberberine",
+  "query": "Dihydroberberine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:28:36",
+  "research_count": 9,
+  "count": 9,
+  "articles": [
+    {
+      "pmid": "39472803",
+      "title": "Dihydroberberine alleviates Th17/Treg imbalance in premature ovarian insufficiency mice via inhibiting Rheb/mTOR signaling.",
+      "authors": [
+        "Disi Deng",
+        "Yeke Wu",
+        "Keming Wu",
+        "Nan Zeng",
+        "Wanjing Li"
+      ],
+      "journal": "Molecular medicine (Cambridge, Mass.)",
+      "publication_date": "2024-Oct-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Premature ovarian insufficiency (POI) is an immune-related condition. Dihydroberberine (dhBBR) plays a regulatory role in maintaining the T-helper 17 (Th17)/regulatory T (Treg) cell balance. This study aimed to explore the action mechanisms of dhBBR on POI. METHODS: In vivo, female BALB/c mice were used as POI models, treated with dhBBR, or injected with recombinant interleukin (rIL)-17 and anti-CD25 monoclonal antibody. Hematoxylin and eosin staining was used to validate the model and assess the therapeutic effects of dhBBR. mRNA expression levels of cytochrome P450 (Cyp)-17a1, Cyp19a1, Cyp11a1, steroidogenic acute regulatory protein, and luteinizing hormone receptor in mouse ovaries were quantified via quantitative polymerase chain reaction (qPCR). Enzyme-linked immunosorbent assay was used to determine the cytokine and sex hormone levels. Immunohistochemical staining for cleaved-caspase 3 and Ki-67 were performed to assess ovarian cell apoptosis and proliferation. Flow cytometry was used to analyze the Th17/Treg cell balance in the ovary and spleen. In vitro cytotoxicity of dhBBR was measured using the cell counting kit-8 assay. GTP-Ras homolog enriched in brain (Rheb) activity was determined via immunofluorescence assay. Co-immunoprecipitation was performed to assess Rheb activity, Th17 or Treg induction, and binding between Rheb and mammalian target of rapamycin (mTOR) after dhBBR treatment. Flow cytometry and qPCR assays were used to verify the effect of dhBBR on CD4 + cell differentiation. Finally, Rheb/mTOR pathway activation was confirmed via western blotting of proteins, including mTOR, p-mTOR, p70S6K, p-p70S6K, 4E-BP1, and p-4E-BP1. RESULTS: dhBBR improved the ovarian function in a dose-dependent manner. It also decreased ovarian cell apoptosis and increased cell proliferation. It decreased Th1 and Th17 cell proportions but increased Treg cell proportions in the ovaries and spleens of POI model mice. Cell experiments revealed that dhBBR promoted CD4 + cell differentiation into Treg cells. Co-immunoprecipitation revealed Rheb as the dhBBR target that bound to mTOR. However, MHY1485 restored dhBBR-induced changes in forkhead box P3, IL-10, transforming growth factor-β1, IL-17, IL-22, retinoic acid-related orphan receptor-γt and p-mTOR levels in Th17- and Treg-induced CD4 + cells. CONCLUSION: Overall, dhBBR targeted the Rheb/mTOR pathway to promote CD4 + cell differentiation into Treg cells and alleviate POI.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "T-Lymphocytes, Regulatory",
+        "Th17 Cells",
+        "TOR Serine-Threonine Kinases",
+        "Signal Transduction",
+        "Mice",
+        "Primary Ovarian Insufficiency",
+        "Ras Homolog Enriched in Brain Protein",
+        "Disease Models, Animal",
+        "Mice, Inbred BALB C",
+        "Apoptosis",
+        "Ovary",
+        "Cell Proliferation"
+      ]
+    },
+    {
+      "pmid": "38891813",
+      "title": "Differences in Metabolite Profiles of Dihydroberberine and Micellar Berberine in Caco-2 Cells and Humans-A Pilot Study.",
+      "authors": [
+        "Chuck Chang",
+        "Yoon Seok Roh",
+        "Min Du",
+        "Yun Chai Kuo",
+        "Yiming Zhang",
+        "Mary Hardy",
+        "Roland Gahler",
+        "Julia Solnier"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-May-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We investigated the pharmacokinetic pathway of berberine and its metabolites in vitro, in Caco-2 cells, and in human participants following the administration of dihydroberberine (DHB) and micellar berberine (LipoMicel®, LMB) formulations. A pilot trial involving nine healthy volunteers was conducted over a 24 h period; blood samples were collected and subjected to Ultra High-Performance Liquid Chromatography-High Resolution Mass Spectrometry (UHPLC-HRMS) analyses to quantify the concentrations of berberine and its metabolites. Pharmacokinetic correlations indicated that berberrubine and thalifendine follow distinct metabolic pathways. Additionally, jatrorrhizine sulfate appeared to undergo metabolism differently compared to the other sulfated metabolites. Moreover, berberrubine glucuronide likely has a unique metabolic pathway distinct from other glucuronides. The human trial revealed significantly higher blood concentrations of berberine metabolites in participants of the DHB treatment group compared to the LMB treatment group-except for berberrubine glucuronide, which was only detected in the LMB treatment group. Similarly, results from in vitro investigations showed significant differences in berberine metabolite profiles between DHB and LMB. Dihydroberberine, dihydroxy-berberrubine/thalifendine and jatrorrhizine sulfate were detected in LMB-treated cells, but not in DHB-treated cells; thalifendine and jatrorrhizine-glucuronide were detected in DHB-treated cells only. While DHB treatment provided higher blood concentrations of berberine and most berberine metabolites, both in vitro (Caco-2 cells) and in vivo human studies showed that treatment with LMB resulted in a higher proportion of unmetabolized berberine compared to DHB. These findings suggest potential clinical implications that merit further investigation in future large-scale trials.",
+      "mesh_terms": [
+        "Humans",
+        "Berberine",
+        "Caco-2 Cells",
+        "Pilot Projects",
+        "Male",
+        "Micelles",
+        "Adult",
+        "Female",
+        "Chromatography, High Pressure Liquid"
+      ]
+    },
+    {
+      "pmid": "34253428",
+      "title": "Dihydroberberine, an isoquinoline alkaloid, exhibits protective effect against dextran sulfate sodium-induced ulcerative colitis in mice.",
+      "authors": [
+        "Cailan Li",
+        "Na Dong",
+        "Bowen Wu",
+        "Zhimi Mo",
+        "Jianhui Xie",
+        "Qiang Lu"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: As a chronic inflammatory disease, ulcerative colitis (UC) is relevant to a rising risk of colorectal cancer. Dihydroberberine (DHBB), a natural occurring isoquinoline alkaloid with various bioactivities, was found in many plants including Coptis chinensis Franch. (Ranunculaceae), Phellodendron chinense Schneid. (Rutaceae), and Chelidonium majus L. (Papaveraceae). However, its protective effect on UC is sparsely dissected out. PURPOSE: To explore the protective role and underlying mechanism of DHBB on a model of colitis. METHODS: Acute colitis model was established by gavage with 3% dextran sulfate sodium (DSS) for 8 days. Influence of DHBB on DSS-induced clinical symptoms and disease activity index (DAI) was monitored and analyzed. Pathological injury of colon tissues was examined by hematoxylin-eosin and Alcian blue staining. The expression of intestinal mucosal barrier function proteins, immune-inflammation related biomarkers and signal pathway key targets were determined by ELISA kit, Western blot, immunohistochemistry and qRT-PCR. RESULTS: DHBB treatment effectively alleviated DSS-induced UC by relieving clinical manifestations, DAI scores and pathological damage, which exerted similar beneficial effect to azathioprine (AZA), and better than berberine (BBR). In addition, DHBB significantly improved the gut barrier function through up-regulating the levels of tight junction proteins and mucins. Furthermore, DHBB dramatically ameliorated colonic immune-inflammation state, which was related to the decrease of colonic pro-inflammatory cytokines and immunoglobulin through blocking TLR4/MyD88/NF-κB signal pathway. CONCLUSION: These results demonstrated that DHBB exerted a significant protective effect on DSS-induced experimental UC, at least partly through suppressing immune-inflammatory response and maintaining gut barrier function.",
+      "mesh_terms": [
+        "Animals",
+        "Berberine",
+        "Colitis, Ulcerative",
+        "Colon",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Isoquinolines",
+        "Mice",
+        "Myeloid Differentiation Factor 88",
+        "NF-kappa B",
+        "Phytochemicals",
+        "Protective Agents",
+        "Signal Transduction",
+        "Toll-Like Receptor 4"
+      ]
+    },
+    {
+      "pmid": "31401380",
+      "title": "Dihydroberberine, a hydrogenated derivative of berberine firstly identified in Phellodendri Chinese Cortex, exerts anti-inflammatory effect via dual modulation of NF-κB and MAPK signaling pathways.",
+      "authors": [
+        "Lihua Tan",
+        "Yongfu Wang",
+        "Gaoxiang Ai",
+        "Chaodan Luo",
+        "Hanbin Chen",
+        "Cailan Li",
+        "Huifang Zeng",
+        "Jianhui Xie",
+        "Jiannan Chen",
+        "Ziren Su"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2019-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dihydroberberine (DHB), a hydrogenated derivative of berberine (BBR), has been firstly identified in Phellodendri Chinese Cortex (PC) by HPLC-ESI-MS/MS. Nowadays most researches on PC focus on its main components like BBR, however, the role of its naturally-occurring derivatives remains poorly defined heretofore. The present work aimed to comparatively evaluate the in vivo anti-inflammatory properties and mechanisms of DHB and BBR in three typical inflammatory murine models. The results showed that DHB effectively mitigated acetic acid-induced vascular permeability, xylene-elicited ear edema and carrageenan-caused paw edema. Meanwhile, DHB markedly attenuated the inflammatory cell infiltration in pathological sections of ears and paws. DHB was also observed to significantly decrease the production and mRNA expression levels of IL-6, IL-1β, TNF-α, NO (iNOS) and PGE2 (COX-2), increase the release of IL-10, and inhibit the activation of NF-κB and MAPK signaling pathways. The anti-inflammatory effect of DHB was weaker than that of BBR. The results might further contribute to unraveling the pharmacodynamic basis of PC and support its ethnomedical use in the treatment of inflammatory diseases. DHB possesses good potential to be further developed into a promising anti-inflammatory alternative, and can serve as a lead template for novel anti-inflammatory candidate.",
+      "mesh_terms": [
+        "Acetic Acid",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Berberine",
+        "Capillary Permeability",
+        "Carrageenan",
+        "Cytokines",
+        "Edema",
+        "Female",
+        "Foot",
+        "MAP Kinase Signaling System",
+        "Male",
+        "Mice",
+        "NF-kappa B",
+        "Phellodendron",
+        "Plant Bark",
+        "Xylenes"
+      ]
+    },
+    {
+      "pmid": "29579096",
+      "title": "Comparative pharmacokinetics and safety assessment of transdermal berberine and dihydroberberine.",
+      "authors": [
+        "Beth Buchanan",
+        "Qingfang Meng",
+        "Mathieu-Marc Poulin",
+        "Jonathan Zuccolo",
+        "Chike Godwin Azike",
+        "Joseph Gabriele",
+        "David Charles Baranowski"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The natural alkaloid berberine has been ascribed numerous health benefits including lipid and cholesterol reduction and improved insulin sensitivity in diabetics. However, oral (PO) administration of berberine is hindered by poor bioavailability and increasing dose often elicits gastro-intestinal side effects. To overcome the caveats associated with oral berberine, we developed transdermal (TD) formulations of berberine (BBR) and the berberine precursor dihydroberberine (DHB). These formulations were compared to oral BBR using pharmacokinetics, metabolism, and general safety studies in vivo. To complete this work, a sensitive quantitative LC-MS/MS method was developed and validated according the FDA guidelines for bioanalytical methods to simultaneously measure berberine, simvastatin, and simvastatin hydroxy acid with relative quantification used for the berberine metabolite demethylene berberine glucuronide (DBG). Acute pharmacokinetics in Sprague-Dawley rats demonstrated a statistically relevant ranking for berberine bioavailability based upon AUC0-8 as DHB TD > BBR TD >> BBR PO with similar ranking for the metabolite DBG, indicating that transdermal administration achieves BBR levels well above oral administration. Similarly, chronic administration (14 days) resulted in significantly higher levels of circulating BBR and DBG in DHB TD treated animals. Chronically treated rats were given a single dose of simvastatin with no observed change in the drugs bioavailability compared with control, suggesting the increased presence of BBR had no effect on simvastatin metabolism. This observation was further supported by consistent CYP3A4 expression across all treatment groups. Moreover, no changes in kidney and liver biomarkers, including alanine aminotransferase and alkaline phosphatase, were observed between treatment formats, and confirming previous reports that BBR has no effect on HMG-CoA expression. This study supports the safe use of transdermal compositions that improve on the poor bioavailability of oral berberine and have the potential to be more efficacious in the treatment of dyslipidemia or hypercholesterolemia.",
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Administration, Oral",
+        "Alanine Transaminase",
+        "Alkaline Phosphatase",
+        "Animals",
+        "Berberine",
+        "Calibration",
+        "Chromatography, High Pressure Liquid",
+        "Cytochrome P-450 CYP3A",
+        "Half-Life",
+        "Kidney",
+        "Limit of Detection",
+        "Liver",
+        "Male",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Simvastatin",
+        "Tandem Mass Spectrometry"
+      ]
+    },
+    {
+      "pmid": "28444871",
+      "title": "Dihydroberberine exhibits synergistic effects with sunitinib on NSCLC NCI-H460 cells by repressing MAP kinase pathways and inflammatory mediators.",
+      "authors": [
+        "Bingling Dai",
+        "Yujiao Ma",
+        "Wenjie Wang",
+        "Yingzhuan Zhan",
+        "Dongdong Zhang",
+        "Rui Liu",
+        "Yanmin Zhang"
+      ],
+      "journal": "Journal of cellular and molecular medicine",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Highly effective and attenuated dose schedules are good regimens for drug research and development. Combination chemotherapy is a good strategy in cancer therapy. We evaluated the antitumour effects of dihydroberberine combined with sunitinib (DCS) on the human non-small cell lung cancer cell lines (NSCLC), A549, NCI-H460, and NCI-H1299 in vitro and in vivo. DCS showed synergic effects on NCI-H460 cell proliferation, colony formation and transplantable tumour growth, which suggested dihydroberberine increases the sensitivity of lung carcinoma to sunitinib. Further studies indicated that DCS down-regulated phosphorylation of JNK, p38, and NF-κB in NCI-H460 cells and tumours and suppressed the IκB and COX-2 expression. In addition, DCS reduced the secretion of the pro-inflammatory cytokine, interleukin-1 (IL-1), in tumours. Inhibition of p38 activation by DCS was a likely contributing factor in IL-1 and COX-2 down-regulation. Consistent with these results, a genomewide microarray analysis found that DCS induced the expression of cell cycle signal molecules that are known to be affected by JNK and p38. The change of cell cycle, in turn, led to down-regulation of JNK and p38, and further reduced IL-1 secretion. Collectively, these findings highlight potential molecular mechanisms of DCS chemotherapeutic activity and suggest that DCS is an efficacious strategy in NSCLC therapy.",
+      "mesh_terms": [
+        "A549 Cells",
+        "Animals",
+        "Antineoplastic Agents",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Berberine",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Drug Synergism",
+        "Humans",
+        "Indoles",
+        "Inflammation Mediators",
+        "Lung Neoplasms",
+        "MAP Kinase Signaling System",
+        "Mice, Inbred NOD",
+        "Mice, SCID",
+        "Pyrroles",
+        "Sunitinib",
+        "Tumor Burden",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "24893659",
+      "title": "Inhibition of proprotein convertase subtilisin/kexin type 9: a novel mechanism of berberine and 8-hydroxy dihydroberberine against hyperlipidemia.",
+      "authors": [
+        "De-liang Liu",
+        "Li-jun Xu",
+        "Hui Dong",
+        "Guang Chen",
+        "Zhao-yi Huang",
+        "Xin Zou",
+        "Kai-fu Wang",
+        "Yun-huan Luo",
+        "Fu-er Lu"
+      ],
+      "journal": "Chinese journal of integrative medicine",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effect and molecular mechanisms of different doses of 8-hydroxy dihydroberberine (Hdber) for the treatment of hyperlipidemia in rats. METHODS: A rat model of hyperlipidemia was established by feeding rats a high-fat diet for 4 weeks in 70 rats of 80 animals, and 10 rats were randomly selected as control group. The hyperlipidemic rats were then randomly divided into the following groups: a model group (MOD); a berberine group [BBR, 156 mg/(kg day)]; Hdber groups, which were treated with different doses of Hdber [78, 39 and 19.5 mg/(kg day)]; and a simvastatin group [SIM, 4 mg/(kg day)]. The corresponding therapy was administered to the rats of each treatment via gastric tubes. Normal animals were used as a control group. The blood levels of various lipids, including total cholesterol, triglycerides, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, free fatty acid (FFA), apolipoprotein AI(Apo-AI) and apolipoprotein B (Apo-B) were examined. The protein expressions of low-density lipoprotein receptor (LDL-R), sterol regulatory element-binding protein 2 (SREBP-2), 3-hydroxy-3-methylglutaryl coenzyme A reductase (HMGCR) and proprotein convertase subtilisin/kexin type 9 (PCSK-9) in liver tissues were determined by Western blot analysis. RESULTS: Compared with the control group of rats, the model group demonstrated a deteriorated blood lipid profile and exhibited increased expression levels of PCSK-9 protein in their liver tissues (P<0.01). In addition, the high-fat diet decreased the expression levels of LDL-R, SREBP-2 and HMGCR proteins in murine liver tissues. However, the addition of berberine or Hdber reversed the blood lipid profile changes (P<0.05 or P<0.01), decreased the expression levels of PCSK-9 proteins (P<0.01), and increased the expression levels of LDL-R proteins in the hyperlipidemic rats (P<0.01). These compounds did not significantly influence the expression levels of SREBP-2 and HMGCR proteins in the hyperlipidemic rats. CONCLUSIONS: Hdber is effective in the treatment of hyperlipidemia in rats. The therapeutic mechanisms of Hdber may be associated with increasing the expression of LDL-R protein and decreasing the expression of PCSK-9 protein in liver tissues.",
+      "mesh_terms": [
+        "Animals",
+        "Apolipoprotein A-I",
+        "Apolipoproteins B",
+        "Berberine",
+        "Hydroxymethylglutaryl CoA Reductases",
+        "Hyperlipidemias",
+        "Lipids",
+        "Liver",
+        "Male",
+        "Proprotein Convertase 9",
+        "Rats, Wistar",
+        "Receptors, LDL",
+        "Serine Endopeptidases",
+        "Sterol Regulatory Element Binding Protein 2"
+      ]
+    },
+    {
+      "pmid": "24710930",
+      "title": "Intestinal absorption of berberine and 8-hydroxy dihydroberberine and their effects on sugar absorption in rat small intestine.",
+      "authors": [
+        "Shi-Chao Wei",
+        "Su Dong",
+        "Li-Jun Xu",
+        "Chen-Yu Zhang"
+      ],
+      "journal": "Journal of Huazhong University of Science and Technology. Medical sciences = Hua zhong ke ji da xue xue bao. Yi xue Ying De wen ban = Huazhong keji daxue xuebao. Yixue Yingdewen ban",
+      "publication_date": "2014-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The intestinal absorption of berberine (Ber) and its structural modified compound 8-hydroxy dihydroberberine (Hdber) was compared, and their effects on the intestinal absorption of sugar by perfusion experiment were investigated in order to reveal the mechanism of low dose and high activity of Hdber in the treatment of hyperglycemia. The absorption of Hdber and Ber in rat small intestine was measured by in situ perfusion. High performance liquid chromatography (HPLC) was used to determine the concentrations of Hdber and Ber. In situ perfusion method was also used to study the effects of Hdber and Ber on sugar intestinal absorption. Glucose oxidase method and UV spectrophotometry were applied to examine the concentrations of glucose and sucrose in the perfusion fluid. The results showed that the absorption rate of Ber in the small intestine was lower than 10%, but that of Hdber was larger than 70%. Both Hdber and Ber inhibited the absorption of glucose and sucrose at the doses of 10 and 20 μg/mL. However, Hdber presented stronger activity than Ber (P<0.01). It is suggested that Hdber is absorbed easily in rat small intestine and that its inhibitory effect on the absorption of sugar is better than Ber.",
+      "mesh_terms": [
+        "Absorption",
+        "Animals",
+        "Berberine",
+        "Carbohydrate Metabolism",
+        "Carbohydrates",
+        "Chromatography, High Pressure Liquid",
+        "Glucose",
+        "Intestinal Absorption",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "18285556",
+      "title": "Berberine and its more biologically available derivative, dihydroberberine, inhibit mitochondrial respiratory complex I: a mechanism for the action of berberine to activate AMP-activated protein kinase and improve insulin action.",
+      "authors": [
+        "Nigel Turner",
+        "Jing-Ya Li",
+        "Alison Gosby",
+        "Sabrina W C To",
+        "Zhe Cheng",
+        "Hiroyuki Miyoshi",
+        "Makoto M Taketo",
+        "Gregory J Cooney",
+        "Edward W Kraegen",
+        "David E James",
+        "Li-Hong Hu",
+        "Jia Li",
+        "Ji-Ming Ye"
+      ],
+      "journal": "Diabetes",
+      "publication_date": "2008-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Berberine (BBR) activates AMP-activated protein kinase (AMPK) and improves insulin sensitivity in rodent models of insulin resistance. We investigated the mechanism of activation of AMPK by BBR and explored whether derivatization of BBR could improve its in vivo efficacy. RESEARCH DESIGN AND METHODS: AMPK phosphorylation was examined in L6 myotubes and LKB1(-/-) cells, with or without the Ca(2+)/calmodulin-dependent protein kinase kinase (CAMKK) inhibitor STO-609. Oxygen consumption was measured in L6 myotubes and isolated muscle mitochondria. The effect of a BBR derivative, dihydroberberine (dhBBR), on adiposity and glucose metabolism was examined in rodents fed a high-fat diet. RESULTS; We have made the following novel observations: 1) BBR dose-dependently inhibited respiration in L6 myotubes and muscle mitochondria, through a specific effect on respiratory complex I, similar to that observed with metformin and rosiglitazone; 2) activation of AMPK by BBR did not rely on the activity of either LKB1 or CAMKKbeta, consistent with major regulation at the level of the AMPK phosphatase; and 3) a novel BBR derivative, dhBBR, was identified that displayed improved in vivo efficacy in terms of counteracting increased adiposity, tissue triglyceride accumulation, and insulin resistance in high-fat-fed rodents. This effect is likely due to enhanced oral bioavailability. CONCLUSIONS: Complex I of the respiratory chain represents a major target for compounds that improve whole-body insulin sensitivity through increased AMPK activity. The identification of a novel derivative of BBR with improved in vivo efficacy highlights the potential importance of BBR as a novel therapy for the treatment of type 2 diabetes.",
+      "mesh_terms": [
+        "Adenylate Kinase",
+        "Animals",
+        "Berberine",
+        "Cyclic Nucleotide-Regulated Protein Kinases",
+        "Electron Transport Complex I",
+        "Enzyme Activation",
+        "Insulin",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mitochondria, Muscle",
+        "Phosphorylation",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    }
+  ]
+}

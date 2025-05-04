@@ -1,0 +1,61 @@
+{
+  "supplement": "Chaste tree",
+  "query": "Chaste tree[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:34:21",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "19678775",
+      "title": "Vitex agnus-castus (Chaste-Tree/Berry) in the treatment of menopause-related complaints.",
+      "authors": [
+        "Margaret Diana van Die",
+        "Henry G Burger",
+        "Helena J Teede",
+        "Kerry M Bone"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2009-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: The origin of the current practice of administering Vitex agnus-castus in menopause-related complaints is uncertain, but appears to be relatively recent. Here we review the evidence for this application of Vitex based on evidence from pharmacological studies and clinical research. METHODS: The mechanisms of potential relevance in the context of menopause are explored with reference to the current understanding of the endocrinology and neuroendocrinology of menopause and associated symptoms. CONCLUSIONS: We conclude that, while evidence from rigorous randomized controlled trials is lacking for the individual herb in this context, emerging pharmacological evidence supports a role for V. agnus-castus in the alleviation of menopausal symptoms and suggests that further investigation may be appropriate.",
+      "mesh_terms": [
+        "Female",
+        "Fruit",
+        "Hot Flashes",
+        "Humans",
+        "Menopause",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Randomized Controlled Trials as Topic",
+        "Vitex"
+      ]
+    },
+    {
+      "pmid": "15898315",
+      "title": "Chaste tree for premenstrual syndrome. An evolving therapy in the United States.",
+      "authors": [
+        "Prudence Mancho",
+        "Quannetta T Edwards"
+      ],
+      "journal": "Advance for nurse practitioners",
+      "publication_date": "2005-May",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Premenstrual Syndrome",
+        "Treatment Outcome",
+        "United States",
+        "Vitex"
+      ]
+    }
+  ]
+}

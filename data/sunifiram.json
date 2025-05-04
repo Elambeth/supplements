@@ -1,0 +1,94 @@
+{
+  "supplement": "Sunifiram",
+  "query": "Sunifiram[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:46:07",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "23733502",
+      "title": "Novel nootropic drug sunifiram enhances hippocampal synaptic efficacy via glycine-binding site of N-methyl-D-aspartate receptor.",
+      "authors": [
+        "Shigeki Moriguchi",
+        "Tomoya Tanaka",
+        "Toshio Narahashi",
+        "Kohji Fukunaga"
+      ],
+      "journal": "Hippocampus",
+      "publication_date": "2013-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Sunifiram is a novel pyrrolidone nootropic drug structurally related to piracetam, which was developed for neurodegenerative disorder like Alzheimer's disease. Sunifiram is known to enhance cognitive function in some behavioral experiments such as Morris water maze task. To address question whether sunifiram affects N-methyl-D-aspartate receptor (NMDAR)-dependent synaptic function in the hippocampal CA1 region, we assessed the effects of sunifiram on NMDAR-dependent long-term potentiation (LTP) by electrophysiology and on phosphorylation of synaptic proteins by immunoblotting analysis. In mouse hippocampal slices, sunifiram at 10-100 nM significantly enhanced LTP in a bell-shaped dose-response relationship which peaked at 10 nM. The enhancement of LTP by sunifiram treatment was inhibited by 7-chloro-kynurenic acid (7-ClKN), an antagonist for glycine-binding site of NMDAR, but not by ifenprodil, an inhibitor for polyamine site of NMDAR. The enhancement of LTP by sunifilam was associated with an increase in phosphorylation of α-amino-3-hydroxy-5-methylisozazole-4-propionate receptor (AMPAR) through activation of calcium/calmodulin-dependent protein kinase II (CaMKII) and an increase in phosphorylation of NMDAR through activation of protein kinase Cα (PKCα). Sunifiram treatments at 1-1000 nM increased the slope of field excitatory postsynaptic potentials (fEPSPs) in a dose-dependent manner. The enhancement was associated with an increase in phosphorylation of AMPAR receptor through activation of CaMKII. Interestingly, under the basal condition, sunifiram treatments increased PKCα (Ser-657) and Src family (Tyr-416) activities with the same bell-shaped dose-response curve as that of LTP peaking at 10 nM. The increase in phosphorylation of PKCα (Ser-657) and Src (Tyr-416) induced by sunifiram was inhibited by 7-ClKN treatment. The LTP enhancement by sunifiram was significantly inhibited by PP2, a Src family inhibitor. Finally, when pretreated with a high concentration of glycine (300 μM), sunifiram treatments failed to potentiate LTP in the CA1 region. Taken together, sunifiram stimulates the glycine-binding site of NMDAR with concomitant PKCα activation through Src kinase. Enhancement of PKCα activity triggers to potentiate hippocampal LTP through CaMKII activation.",
+      "mesh_terms": [
+        "Animals",
+        "CA1 Region, Hippocampal",
+        "Dose-Response Relationship, Drug",
+        "Electrodes, Implanted",
+        "Excitatory Amino Acid Antagonists",
+        "Glycine",
+        "Kynurenic Acid",
+        "Long-Term Potentiation",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Nootropic Agents",
+        "Piperazines",
+        "Piperidines",
+        "Polyamines",
+        "Protein Binding",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Synaptic Transmission"
+      ]
+    },
+    {
+      "pmid": "23295391",
+      "title": "Novel nootropic drug sunifiram improves cognitive deficits via CaM kinase II and protein kinase C activation in olfactory bulbectomized mice.",
+      "authors": [
+        "Shigeki Moriguchi",
+        "Tomoya Tanaka",
+        "Hideaki Tagashira",
+        "Toshio Narahashi",
+        "Kohji Fukunaga"
+      ],
+      "journal": "Behavioural brain research",
+      "publication_date": "2013-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Alzheimer's disease (AD) shows degeneration of the cholinergic system in the medial septum, thereby eliciting down-regulation of the olfactory function in patients. We have previously reported that olfactory bulbectomized (OBX) mice show hippocampus-dependent memory impairment as assessed by memory-related behavioral tasks and hippocampal long-term potentiation (LTP). In the present study, we focused whether novel pyrrolidone nootropic drug sunifiram improves both memory impairment and depression observed in OBX mice. OBX mice were administered once a day for 7-12 days with sunifiram (0.01-1.0mg/kg p.o.) from 10 days after operation with or without gavestinel (10mg/kg i.p.), which is glycine-binding site inhibitor of N-methyl-d-aspartate receptor (NMDAR). The spatial reference memory assessed by Y-maze and short-term memory assessed by novel object recognition task were significantly improved by sunifiram treatment in OBX mice. Sunifiram also restored hippocampal LTP injured in OBX mice without treatment with gavestinel. By contrast, sunifiram treatment did not ameliorate the depressive behaviors assessed by tail suspension task in OBX mice. Notably, sunifiram treatment restored CaMKIIα (Thr-286) autophosphorylation and GluR1 (Ser-831) phosphorylation in the hippocampal CA1 region from OBX mice to the levels of control mice. Likewise, sunifiram treatment improved PKCα (Ser-657) autophosphorylation and NR1 (Ser-896) phosphorylation to the control levels. Stimulation of CaMKII and PKC autophosphorylation by sunifiram was significantly inhibited by pre-treatment with gavestinel. However, sunifiram treatment did not affect the phosphorylation of CaMKIV (Thr-196) and ERK. Taken together, sunifiram ameliorates OBX-induced deficits of memory-related behaviors and impaired LTP in the hippocampal CA1 region via stimulation of glycine-binding site of NMDAR.",
+      "mesh_terms": [
+        "Analysis of Variance",
+        "Animals",
+        "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+        "Cognition Disorders",
+        "Dose-Response Relationship, Drug",
+        "Enzyme Activation",
+        "Excitatory Amino Acid Antagonists",
+        "Excitatory Postsynaptic Potentials",
+        "Exploratory Behavior",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Gene Expression Regulation",
+        "Hindlimb Suspension",
+        "Hippocampus",
+        "In Vitro Techniques",
+        "Indoles",
+        "Long-Term Potentiation",
+        "Male",
+        "Maze Learning",
+        "Mice",
+        "Neurons",
+        "Nootropic Agents",
+        "Olfactory Bulb",
+        "Phosphorylation",
+        "Piperazines",
+        "Protein Kinase C",
+        "Receptors, Glutamate",
+        "Recognition, Psychology",
+        "Tubulin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "supplement": "Gou-teng",
+  "query": "Gou-teng[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:40:42",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "29997503",
+      "title": "A Computational Systems Pharmacology Approach to Investigate Molecular Mechanisms of Herbal Formula Tian-Ma-Gou-Teng-Yin for Treatment of Alzheimer's Disease.",
+      "authors": [
+        "Tianduanyi Wang",
+        "Zengrui Wu",
+        "Lixia Sun",
+        "Weihua Li",
+        "Guixia Liu",
+        "Yun Tang"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Traditional Chinese medicine (TCM) is typically prescribed as formula to treat certain symptoms. A TCM formula contains hundreds of chemical components, which makes it complicated to elucidate the molecular mechanisms of TCM. Here, we proposed a computational systems pharmacology approach consisting of network link prediction, statistical analysis, and bioinformatics tools to investigate the molecular mechanisms of TCM formulae. Taking formula Tian-Ma-Gou-Teng-Yin as an example, which shows pharmacological effects on Alzheimer's disease (AD) and its mechanism is unclear, we first identified 494 formula components together with corresponding 178 known targets, and then predicted 364 potential targets for these components with our balanced substructure-drug-target network-based inference method. With Fisher's exact test and statistical analysis we identified 12 compounds to be most significantly related to AD. The target genes of these compounds were further enriched onto pathways involved in AD, such as neuroactive ligand-receptor interaction, serotonergic synapse, inflammatory mediator regulation of transient receptor potential channel and calcium signaling pathway. By regulating key target genes, such as ACHE, HTR2A, NOS2, and TRPA1, the formula could have neuroprotective and anti-neuroinflammatory effects against the progression of AD. Our approach provided a holistic perspective to study the relevance between TCM formulae and diseases, and implied possible pharmacological effects of TCM components."
+    },
+    {
+      "pmid": "28807223",
+      "title": "GTS40, an active fraction of Gou Teng-San (GTS), protects PC12 from H2O2-induced cell injury through antioxidative properties.",
+      "authors": [
+        "Lei Chen",
+        "Meng-Lin Wei",
+        "Jiao-Jiao Zhao",
+        "Hao Hong",
+        "Wei Qu",
+        "Feng Feng",
+        "Wen-Yuan Liu"
+      ],
+      "journal": "Chinese journal of natural medicines",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oxidative stress, a predominant cause of apoptosis cascades triggered in neurodegenerative disorders, has been regarded as a critical inducement in the pathogenesis of Alzheimer's disease (AD). Gou Teng-San (GTS) is a traditional Chinese herbs preparation commonly utilized to alleviate cognitive dysfunction and psychological symptoms of patients with dementia. The present study aimed to investigate the protective effects of GTS40, an active fraction of GTS, on H2O2-induced oxidative damage and identify the potential active ingredients. Our results revealed that GTS40 exhibited radical scavenging activity, elevated cell viability, decreased the levels of intracellular reactive oxygen species (ROS), and stabilized mitochondrial transmembrane potential (MMP) in H2O2-treated PC12 cells. In addition, GTS40 blocked the apoptotic cascade by reversing the imbalance of Bcl-2/Bax and inhibiting the activity of caspase-3. Furthermore, an HPLC-QTOFMS method was developed to characterize major chemical constituents in GTS40. Our results revealed twenty-seven identified or tentatively characterized compounds through comparing their retention time (tR) and MS spectra with reference standards. These results suggested that GTS40 was a promising active fraction that may be beneficial in the prevention and treatment of oxidative stress-mediated neurodegenerative disorders.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Apoptosis",
+        "Caspase 3",
+        "Drugs, Chinese Herbal",
+        "Hydrogen Peroxide",
+        "Neurons",
+        "Neuroprotective Agents",
+        "Oxidative Stress",
+        "PC12 Cells",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Rats",
+        "Reactive Oxygen Species"
+      ]
+    },
+    {
+      "pmid": "26852136",
+      "title": "Ameliorative effects of Xue-Fu-Zhu-Yu decoction, Tian-Ma-Gou-Teng-Yin and Wen-Dan decoction on myocardial fibrosis in a hypertensive rat mode.",
+      "authors": [
+        "Guohua Zhang",
+        "Guang Yang",
+        "Yan Deng",
+        "Xiangling Zhao",
+        "Yingbao Yang",
+        "Jinjun Rao",
+        "Wenya Wang",
+        "Xin Liu",
+        "Jian He",
+        "Lin Lv"
+      ],
+      "journal": "BMC complementary and alternative medicine",
+      "publication_date": "2016-Feb-06",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Xue-Fu-Zhu-Yu decoction (XFZYD), Tian-Ma-Gou-Teng-Yin (TMGTY) and Wen-Dan decoction (WDD) are Chinese herbal formulas used to treat hypertension and cardiovascular diseases in traditional Chinese medicine (TCM). The goal of our study is to determine if XFZYD, TMGTY or WDD treatment ameliorated myocardial fibrosis in spontaneously hypertensive rats (SHRs) and to identify the mechanisms underlying any beneficial effects observed during the courses of the investigation. METHODS: Forty-five 12-week-old male spontaneously hypertensive rats and five age-matched male Wistar-Kyoto control rats were studied for 16 weeks. Each day 6 g∙kg(-1) or 12 g∙kg(-1) of XFZYD, TMGTY or WDD was orally administered at the indicated dose, and the systolic blood pressure (SBP) of all rats was measured using the tail-cuff method. Collagen levels were measured via hydroxyproline content assays and histological examination. Transforming growth factor beta-1 (TGF-β1) protein levels were determined via immunhistochemical and Western blot analysis. TGF-β1 mRNA levels were assessed using real-time reverse transcription polymerase chain reaction. RESULTS: Systolic blood pressure was unaffected, but collagen and TGF-β1 levels in SHRs treated with captopril and XFZYD (12 g∙kg(-1)) were significantly reduced when compared with untreated control SHRs. Administration of 12 g∙kg(-1) XFZYD increased myocardial cell protection and decreased TGF-β1 mRNA and protein expression when compared with the other SHR treatment groups. CONCLUSIONS: XFZYD treatment demonstrated a superior ability to reverse myocardial fibrosis when compared with WDD or TMGTY treatment in SHRs. XFZYD also decreased TGF-β1 mRNA and protein expression, suggesting that the TGF-β1 signaling pathway plays a role in the therapeutic effects of XFZYD treatment.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Pressure",
+        "Collagen",
+        "Disease Models, Animal",
+        "Drugs, Chinese Herbal",
+        "Endomyocardial Fibrosis",
+        "Hydroxyproline",
+        "Hypertension",
+        "Male",
+        "Rats",
+        "Rats, Inbred WKY",
+        "Transforming Growth Factor beta"
+      ]
+    },
+    {
+      "pmid": "8208063",
+      "title": "Gou-teng (from Uncaria rhynchophylla Miquel)-induced endothelium-dependent and -independent relaxations in the isolated rat aorta.",
+      "authors": [
+        "T Kuramochi",
+        "J Chu",
+        "T Suga"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "1994",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Gou-teng is a drug used for treatment of hypertension in Chinese medicine. Its antihypertensive action has been previously confirmed in the spontaneously hypertensive rat (SHR). Here, its vasorelaxing effect and the mechanisms of actions were studied in vitro. Gou-teng extract (GTE) relaxed the norepinephrine (NE)-precontracted aortic ring preparations isolated from Wistar Kyoto rats (WKY) with and without intact endothelium; the latter was significantly less sensitive than the former. The GTE-induced endothelium-dependent relaxation was significantly inhibited by NG-monomethyl-L-arginine (NMMA) in a dose-dependent manner while indomethacin did not affect the relaxation. Atropine inhibited the acetylcholine (ACh)-induced endothelium-dependent relaxation but did not the GTE-induced one. Furthermore, once GTE was applied, the following NE-induced contraction was significantly reduced even after repeated washout. NMMA effectively reduced and rather reversed this residual effect of GTE. From these results, it is concluded that GTE relaxes the NE-precontracted rat aorta through endothelium-dependent and, to lesser extent, -independent mechanisms. The endothelium-dependent component would be mediated by EDRF/NO pathway in which the muscarinic cholinoceptors were not involved. Thus, GTE appears to be a potent and long-lasting vasodilator mainly through EDRF/NO release.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Animals",
+        "Aorta, Thoracic",
+        "Arginine",
+        "Atropine",
+        "Drugs, Chinese Herbal",
+        "Endothelium, Vascular",
+        "In Vitro Techniques",
+        "Male",
+        "Muscle Contraction",
+        "Muscle Relaxation",
+        "Muscle, Smooth, Vascular",
+        "Norepinephrine",
+        "Rats",
+        "Rats, Inbred SHR",
+        "Rats, Inbred WKY",
+        "omega-N-Methylarginine"
+      ]
+    },
+    {
+      "pmid": "2633622",
+      "title": "The herbal medicine tian ma gou teng yen alters the development of high blood pressure in the spontaneously hypertensive rat.",
+      "authors": [
+        "T X Zhang",
+        "Y F Wang",
+        "J Ciriello"
+      ],
+      "journal": "The American journal of Chinese medicine",
+      "publication_date": "1989",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In this study, the effect of the herbal prescription Tian Ma Gou Teng Yen (TGY), which is traditionally used to treat certain diseases associated with elevated arterial pressure (AP), on the general development of hypertension was investigated in the spontaneously hypertensive rat (SHR). An aqueous extract of TGY was given orally (0.5 ml/100g body weight) to 5 week old SHR twice a day for six consecutive days followed by one day without herbal therapy. The herbal prescription was administered until the SHR were 16 weeks of age. Administration of TGY significantly altered the development and prevented hypertension in SHR. On the other hand, heart rate, body weight, food and water intake, and urine volume and electrolytes were not altered. These data suggest that the effect of TGY on AP was through an action of TGY on sympathetic vasomotor activity.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Pressure",
+        "Drugs, Chinese Herbal",
+        "Hypertension",
+        "Kidney",
+        "Male",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Inbred SHR",
+        "Urodynamics"
+      ]
+    }
+  ]
+}

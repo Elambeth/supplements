@@ -1,0 +1,45 @@
+{
+  "supplement": "Japanese catnip",
+  "query": "Japanese catnip[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:50:34",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "29533838",
+      "title": "Morphology of glandular trichomes of Japanese catnip (Schizonepeta tenuifolia Briquet) and developmental dynamics of their secretory activity.",
+      "authors": [
+        "Chanchan Liu",
+        "Narayanan Srividya",
+        "Amber N Parrish",
+        "Wei Yue",
+        "Mingqiu Shan",
+        "Qinan Wu",
+        "B Markus Lange"
+      ],
+      "journal": "Phytochemistry",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Schizonepeta tenuifolia Briquet, commonly known as Japanese catnip, is used for the treatment of colds, headaches, fevers, and skin rashes in traditional Asian medicine (China, Japan and Korea). The volatile oil and its constituents have various demonstrated biological activities, but there is currently limited information regarding the site of biosynthesis. Light microscopy and scanning electron microscopy indicated the presence of three distinct glandular trichome types which, based on their morphological features, are referred to as peltate, capitate and digitiform glandular trichomes. Laser scanning microscopy and 3D reconstruction demonstrated that terpenoid-producing peltate glandular trichomes contain a disk of twelve secretory cells. The oil of peltate glandular trichomes, collected by laser microdissection or using custom-made micropipettes, was demonstrated to contain (-)-pulegone, (+)-menthone and (+)-limonene as major constituents. Digitiform and capitate glandular trichomes did not contain appreciable levels of terpenoid volatiles. The yield of distilled oil from spikes was significantly (44%) higher than that from leaves, while the composition of oils was very similar. Oils collected directly from leaf peltate glandular trichomes over the course of a growing season contained primarily (-)-pulegone (>80% at 32 days after germination) in young plants, while (+)-menthone began to accumulate later (>75% at 80 days after germination), at the expense of (-)-pulegone (the levels of (+)-limonene remained fairly stable at 3-5%). The current study establishes the morphological and chemical characteristics of glandular trichome types of S. tenuifolia, and also provides the basis for unraveling the biosynthesis of essential oil in this popular medicinal plant.",
+      "mesh_terms": [
+        "Chromatography, Gas",
+        "Cyclohexane Monoterpenes",
+        "Cyclohexenes",
+        "Japan",
+        "Limonene",
+        "Medicine, Traditional",
+        "Menthol",
+        "Monoterpenes",
+        "Nepeta",
+        "Oils, Volatile",
+        "Plant Leaves",
+        "Plants, Medicinal",
+        "Stereoisomerism",
+        "Terpenes",
+        "Trichomes"
+      ]
+    }
+  ]
+}

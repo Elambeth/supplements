@@ -1,0 +1,36 @@
+{
+  "supplement": "Turkey tail mushroom",
+  "query": "Turkey tail mushroom[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:59:49",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36827712",
+      "title": "The mycelium of the Trametes versicolor synn. Coriolus versicolor (Turkey tail mushroom) exhibit anti-melanoma activity in vitro.",
+      "authors": [
+        "Rocky Lowenthal",
+        "Megan Taylor",
+        "Jennifer A Gidden",
+        "Billie Heflin",
+        "Jackson O Lay",
+        "Nathan Avaritt",
+        "Alan J Tackett",
+        "Alicja Urbaniak"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Melanoma is one of the most aggressive forms of skin cancer and is characterized by high metastatic potential. Despite improvements in early diagnosis and treatment, the mortality rate among metastatic melanoma patients continues to represent a significant clinical challenge. Therefore, it is imperative that we search for new forms of treatment. Trametes versicolor is a mushroom commonly used in Chinese traditional medicine due to its numerous beneficial properties. In the present work, we demonstrate T. versicolor fruiting body and mycelium ethanol extracts exhibit potent cytotoxic activity towards A375 (IC50 = 663.3 and 114.5 µg/mL respectively) and SK-MEL-5 (IC50 = 358.4 and 88.6 µg/mL respectively) human melanoma cell lines. Further studies revealed that T. versicolor mycelium extract induced apoptotic cell death and poly (ADP-ribose) polymerase cleavage, upregulated the expression of autophagy-associated marker LC3-II, increased the presentation of major histocompatibility complex II and expression of programmed death-ligand receptor, and inhibited cell migration in SK-MEL-5 cells. Therefore, our present findings highlight the therapeutic potential of T. versicolor mycelium extract for the treatment of melanoma and merit further study.",
+      "mesh_terms": [
+        "Humans",
+        "Trametes",
+        "Polyporaceae",
+        "Antineoplastic Agents",
+        "Mycelium"
+      ]
+    }
+  ]
+}

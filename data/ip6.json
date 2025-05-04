@@ -1,0 +1,1282 @@
+{
+  "supplement": "IP6",
+  "query": "IP6[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:50:07",
+  "research_count": 42,
+  "count": 42,
+  "articles": [
+    {
+      "pmid": "37371552",
+      "title": "Cellular and Molecular Activities of IP6 in Disease Prevention and Therapy.",
+      "authors": [
+        "Lowell Dilworth",
+        "Dewayne Stennett",
+        "Felix Omoruyi"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2023-Jun-10",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "IP6 (phytic acid) is a naturally occurring compound in plant seeds and grains. It is a poly-phosphorylated inositol derivative that has been shown to exhibit many biological activities that accrue benefits in health and diseases (cancer, diabetes, renal lithiasis, cardiovascular diseases, etc.). IP6 has been shown to have several cellular and molecular activities associated with its potential role in disease prevention. These activities include anti-oxidant properties, chelation of metal ions, inhibition of inflammation, modulation of cell signaling pathways, and modulation of the activities of enzymes and hormones that are involved in carbohydrate and lipid metabolism. Studies have shown that IP6 has anti-oxidant properties and can scavenge free radicals known to cause cellular damage and contribute to the development of chronic diseases such as cancers and cardiovascular diseases, as well as diabetes mellitus. It has also been shown to possess anti-inflammatory properties that may modulate immune responses geared towards the prevention of inflammatory conditions. Moreover, IP6 exhibits anti-cancer properties through the induction of cell cycle arrest, promoting apoptosis and inhibiting cancer cell growth. Additionally, it has been shown to have anti-mutagenic properties, which reduce the risk of malignancies by preventing DNA damage and mutations. IP6 has also been reported to have a potential role in bone health. It inhibits bone resorption and promotes bone formation, which may help in the prevention of bone diseases such as osteoporosis. Overall, IP6's cellular and molecular activities make it a promising candidate for disease prevention. As reported in many studies, its anti-inflammatory, anti-oxidant, and anti-cancer properties support its inclusion as a dietary supplement that may protect against the development of chronic diseases. However, further studies are needed to understand the mechanisms of action of this dynamic molecule and its derivatives and determine the optimal doses and appropriate delivery methods for effective therapeutic use.",
+      "mesh_terms": [
+        "Humans",
+        "Antioxidants",
+        "Cardiovascular Diseases",
+        "Neoplasms",
+        "Phytic Acid",
+        "Apoptosis"
+      ]
+    },
+    {
+      "pmid": "36118769",
+      "title": "IP6 reduces colorectal cancer metastasis by mediating the interaction of gut microbiota with host genes.",
+      "authors": [
+        "Tong-Tong Lan",
+        "Yang Song",
+        "Xiao-Han Liu",
+        "Cui-Ping Liu",
+        "Hui-Chao Zhao",
+        "Yi-Sa Han",
+        "Chu-Hui Wang",
+        "Ning Yang",
+        "Zhen Xu",
+        "Meng Tao",
+        "Hui Li"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inositol hexaphosphate (IP6) is a phytochemical widely found in grains and legumes that plays an anti-cancer role. However, the mechanism underlying the inhibition of colorectal cancer metastasis by IP6 through host genes, gut microbiota, and their interactions remain elusive. In this study, 16S rRNA sequencing was used to study the effect of IP6 on gut microbiota in an orthotopic transplantation model of colorectal cancer mice. The transcriptome was used to study the changes of host genes in metastasis and the relationship with gut microbiota. The results showed that the gut microbiota composition of model mice was significantly different from that of normal mice. The beta diversity partly tended to return to the normal level after IP6 intervention. Especially, Lactobacillus helveticus and Lactococcus lactis were recovered after IP6-treated. Enrichment analysis showed that the enrichment score of the Cytokine-Cytokine receptor interaction signal pathway decreased after IP6 treatment compared to the model group. Further analysis of differentially expressed genes (DEGs) in this pathway showed that IP6 reduced the expression of the Tnfrsf1b gene related to the area of liver metastasis, and the Tnfrsf1b gene was negatively correlated with the relative abundance of Lactobacillus helveticus. Our results presented that host gene, microbiome and their interaction may serve as promising targets for the mechanism of IP6 intervention in colorectal cancer metastasis."
+    },
+    {
+      "pmid": "33692109",
+      "title": "A stable immature lattice packages IP6 for HIV capsid maturation.",
+      "authors": [
+        "Donna L Mallery",
+        "Alex B Kleinpeter",
+        "Nadine Renner",
+        "K M Rifat Faysal",
+        "Mariia Novikova",
+        "Leo Kiss",
+        "Miranda S C Wilson",
+        "Bilal Ahsan",
+        "Zunlong Ke",
+        "John A G Briggs",
+        "Adolfo Saiardi",
+        "Till Böcking",
+        "Eric O Freed",
+        "Leo C James"
+      ],
+      "journal": "Science advances",
+      "publication_date": "2021-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "HIV virion assembly begins with the construction of an immature lattice consisting of Gag hexamers. Upon virion release, protease-mediated Gag cleavage leads to a maturation event in which the immature lattice disassembles and the mature capsid assembles. The cellular metabolite inositiol hexakisphosphate (IP6) and maturation inhibitors (MIs) both bind and stabilize immature Gag hexamers, but whereas IP6 promotes virus maturation, MIs inhibit it. Here we show that HIV is evolutionarily constrained to maintain an immature lattice stability that ensures IP6 packaging without preventing maturation. Replication-deficient mutant viruses with reduced IP6 recruitment display increased infectivity upon treatment with the MI PF46396 (PF96) or the acquisition of second-site compensatory mutations. Both PF96 and second-site mutations stabilise the immature lattice and restore IP6 incorporation, suggesting that immature lattice stability and IP6 binding are interdependent. This IP6 dependence suggests that modifying MIs to compete with IP6 for Gag hexamer binding could substantially improve MI antiviral potency."
+    },
+    {
+      "pmid": "33333775",
+      "title": "Inositol Hexaphosphate (IP6) and Colon Cancer: From Concepts and First Experiments to Clinical Application.",
+      "authors": [
+        "Ivana Vucenik",
+        "Ana Druzijanic",
+        "Nikica Druzijanic"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2020-Dec-15",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Multiple human health-beneficial effects have been related to highly phosphorylated inositol hexaphosphate (IP6). This naturally occurring carbohydrate and its parent compound, myo-inositol (Ins), are abundantly present in plants, particularly in certain high-fiber diets, but also in mammalian cells, where they regulate important cellular functions. However, the striking and broad-spectrum anticancer activity of IP6, consistently demonstrated in different experimental models, has been in a spotlight of the scientific community dealing with the nutrition and cancer during the last several decades. First experiments were performed in colon cancer 30 years ago. Since then, it has been shown that IP6 reduces cell proliferation, induces apoptosis and differentiation of malignant cells with reversion to normal phenotype, affecting several critical molecular targets. Enhanced immunity and antioxidant properties also contribute to the tumor cell destruction. Although Ins possesses a modest anticancer potential, the best anticancer results were obtained from the combination of IP6 + Ins. Here we review the first experimental steps in colon cancer, when concepts and hypotheses were put together almost without real knowledge and present clinical studies, that were initiated in colon cancer patients. Available as a dietary supplement, IP6 + Ins has been shown to enhance the anticancer effect of conventional chemotherapy, controls cancer metastases, and improves quality of life in cancer patients. Emerging clinical and still vast amount of experimental data suggest its role either as an adjuvant or as an \"alternative\" to current chemotherapy for cancer.",
+      "mesh_terms": [
+        "Humans",
+        "Colonic Neoplasms",
+        "Phytic Acid",
+        "Animals",
+        "Cell Proliferation",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Dietary Supplements"
+      ]
+    },
+    {
+      "pmid": "32290029",
+      "title": "New Frontiers for the Use of IP6 and Inositol Combination in Treating Diabetes Mellitus: A Review.",
+      "authors": [
+        "Felix O Omoruyi",
+        "Dewayne Stennett",
+        "Shadae Foster",
+        "Lowell Dilworth"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2020-Apr-10",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inositol, or myo-inositol, and associated analog molecules, including myo-inositol hexakisphosphate, are known to possess beneficial biomedical properties and are now being widely studied. The impact of these compounds in improving diabetic indices is significant, especially in light of the high cost of treating diabetes mellitus and associated disorders globally. It is theorized that, within ten years, the global population of people with the disease will reach 578 million individuals, with the cost of care projected to be approximately 2.5 trillion dollars. Natural alternatives to pharmaceuticals are being sought, and this has led to studies involving inositol, and myo-inositol-hexakisphosphate, also referred to as IP6. It has been reported that IP6 can improve diabetic indices and regulate the activities of some metabolic enzymes involved in lipid and carbohydrate metabolism. Current research activities have been focusing on the mechanisms of action of inositol and IP6 in the amelioration of the indices of diabetes mellitus. We demonstrated that an IP6 and inositol combination supplement may regulate insulin secretion, modulate serum leptin concentrations, food intake, and associated weight gain, which may be beneficial in both prediabetic and diabetic states. The supplement attenuates vascular damage by reducing red cell distribution width. Serum HDL is increased while serum triglycerides tend to decrease with consumption of the combination supplement, perhaps due to the modulation of lipogenesis involving reduced serum lipase activity. We also noted increased fecal lipid output following combination supplement consumption. Importantly, liver function was found to be preserved. Concurrently, serum reactive oxygen species production was reduced, indicating that inositol and IP6 supplement consumption may reduce free radical damage to tissues and organs as well as serum lipids and blood glucose by preserving liver function. This review provides an overview of the findings associated with inositol and IP6 supplementation in the effective treatment of diabetes with a view to proposing the potential mechanisms of action.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Blood Cell Count",
+        "Carbohydrate Metabolism",
+        "Diabetes Mellitus",
+        "Dietary Supplements",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Inositol",
+        "Intestines",
+        "Leptin",
+        "Lipid Metabolism",
+        "Metabolic Networks and Pathways",
+        "Phytic Acid",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "31119466",
+      "title": "Effect of Inositol Hexaphosphate (IP6) on Serum Uric Acid in Hyperuricemic Subjects: a Randomized, Double-Blind, Placebo-Controlled, Crossover Study.",
+      "authors": [
+        "Takeshi Ikenaga",
+        "Keiji Kakumoto",
+        "Noriyuki Kohda",
+        "Tetsuya Yamamoto"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2019-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Inositol hexaphosphate (IP6), a food constituent with various health benefits, has been shown to suppress postprandial elevations of serum uric acid (SUA) levels in healthy adults by inhibiting purine nucleoside and base absorption. Here, we investigated the effect of repeated intake of IP6 on fasting SUA levels in hyperuricemic subjects. This randomized double-blind placebo-controlled crossover design study included 31 asymptomatic hyperuricemic subjects (fasting SUA level > 7.0 but <9.0 mg/dL). Subjects ingested placebo or IP6 drinks (600 mg twice daily) during two 2-week intervention periods with a 2-week washout period. The primary outcome was fasting SUA level; the secondary outcome was the urinary uric acid to creatinine ratio. Fasting SUA levels in the IP6 group were lower than those in the placebo group (p < 0.05). The urinary uric acid to creatinine ratio did not change between the placebo and IP6 groups (p > 0.05). This study showed that a 2-weeks supplementation period of 600 mg IP6 twice daily can improve fasting SUA levels in hyperuricemic subjects.",
+      "mesh_terms": [
+        "Adult",
+        "Asymptomatic Diseases",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Fasting",
+        "Female",
+        "Humans",
+        "Hyperuricemia",
+        "Male",
+        "Phytic Acid",
+        "Uric Acid",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31000291",
+      "title": "Reduction of β-ODAP and IP6 contents in Lathyrus sativus L. seed by high hydrostatic pressure.",
+      "authors": [
+        "Meseret Bekele Buta",
+        "Shimelis Admassu Emire",
+        "Clemens Posten",
+        "Sabine Andrée",
+        "Ralf Greiner"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Grass pea (Lathyrus sativus L.) seeds contain an endogenous neurotoxic non-proteinogenic amino acid, β-N-oxalyl-l-α,β-diaminopropionic acid (β-ODAP), a major limiting factor-for their human consumption. Furthermore, phytate (IP6), a well-known antinutrient is present in concentration capable of hindering bioavailability of iron (Fe), zinc (Zn), calcium (Ca), phosphorus (P) and other micronutrients from the seeds. Due to the reported capability of high hydrostatic pressure (HHP) to reduce the content of certain antinutritional/toxic agents in seeds and grains, the impact of HHP on the reduction of β-ODAP and IP6 were investigated. The contents of β-ODAP of accessions from different regions in Ethiopia were found to be in the range of 51.94 to 806.52 mg/100 g. Accession (GF1- Alemu, AK) exhibiting the highest β-ODAP content was selected for HHP treatment in soaked and batter forms using Central Composite Face Centered Design of experiments. The best HHP conditions in respect to β-ODAP reduction were also applied to the accession (GP-240038) with the lowest β-ODAP-content, a genetically improved variety (Wassie) and a variety from Germany (GR). The HHP treatment at 600 MPa for 25 min of seeds soaked for 6 h and 12 h exhibited the maximum reduction of β-ODAP (232.11 mg/100 g) and IP6 (21.11 mg/100 g) respectively. The combined incremental effect of pressure and soaking time resulted in a more significant (p ≤ .001) reduction in both compounds than the interaction of pressure with holding time (p ≤ .05). A reduction of β-ODAP from 36.00 to 71.22% by soaked-HHP treatment was observed. β-ODAP reductions were always higher for soaked compared to batter grass pea seeds. IP6 contents after HHP treatment ranged from 33.65 mg/100 g to nill. It can be concluded that pressure, soaking and holding time as well as the grass pea seed accession/variety had great impact on molecular structure changes, enhancement of enzyme activity and reduction in β-ODAP and IP6 content.",
+      "mesh_terms": [
+        "Amino Acids, Diamino",
+        "Biological Availability",
+        "Food Handling",
+        "Humans",
+        "Hydrostatic Pressure",
+        "Lathyrus",
+        "Micronutrients",
+        "Phytic Acid",
+        "Seeds",
+        "Water",
+        "beta-Alanine"
+      ]
+    },
+    {
+      "pmid": "29746542",
+      "title": "Depletion of mRNA export regulator DBP5/DDX19, GLE1 or IPPK that is a key enzyme for the production of IP6, resulting in differentially altered cytoplasmic mRNA expression and specific cell defect.",
+      "authors": [
+        "Masumi Okamura",
+        "Yasutaka Yamanaka",
+        "Maki Shigemoto",
+        "Yuya Kitadani",
+        "Yuhko Kobayashi",
+        "Taiho Kambe",
+        "Masaya Nagao",
+        "Issei Kobayashi",
+        "Katsuzumi Okumura",
+        "Seiji Masuda"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "DBP5, also known as DDX19, GLE1 and inositol hexakisphosphate (IP6) function in messenger RNA (mRNA) export at the cytoplasmic surface of the nuclear pore complex in eukaryotic cells. DBP5 is a DEAD-box RNA helicase, and its activity is stimulated by interactions with GLE1 and IP6. In addition, these three factors also have unique role(s). To investigate how these factors influenced the cytoplasmic mRNA expression and cell phenotype change, we performed RNA microarray analysis to detect the effect and function of DBP5, GLE1 and IP6 on the cytoplasmic mRNA expression. The expression of some cytoplasmic mRNA subsets (e.g. cell cycle, DNA replication) was commonly suppressed by the knock-down of DBP5, GLE1 and IPPK (IP6 synthetic enzyme). The GLE1 knock-down selectively reduced the cytoplasmic mRNA expression required for mitotic progression, results in an abnormal spindle phenotype and caused the delay of mitotic process. Meanwhile, G1/S cell cycle arrest was observed in DBP5 and IPPK knock-down cells. Several factors that function in immune response were also down-regulated in DBP5 or IPPK knock-down cells. Thereby, IFNβ-1 mRNA transcription evoked by poly(I:C) treatment was suppressed. These results imply that DBP5, GLE1 and IP6 have a conserved and individual function in the cytoplasmic mRNA expression. Variations in phenotype are due to the difference in each function of DBP5, GLE1 and IPPK in intracellular mRNA metabolism.",
+      "mesh_terms": [
+        "Biological Transport, Active",
+        "Cytoplasm",
+        "DEAD-box RNA Helicases",
+        "G1 Phase",
+        "HeLa Cells",
+        "Humans",
+        "Interferon-beta",
+        "Nucleocytoplasmic Transport Proteins",
+        "Phosphotransferases (Alcohol Group Acceptor)",
+        "Phytic Acid",
+        "RNA, Messenger",
+        "S Phase"
+      ]
+    },
+    {
+      "pmid": "26976604",
+      "title": "Inositol hexakisphosphate (IP6) generated by IP5K mediates cullin-COP9 signalosome interactions and CRL function.",
+      "authors": [
+        "Paul C Scherer",
+        "Yan Ding",
+        "Zhiqing Liu",
+        "Jing Xu",
+        "Haibin Mao",
+        "James C Barrow",
+        "Ning Wei",
+        "Ning Zheng",
+        "Solomon H Snyder",
+        "Feng Rao"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2016-Mar-29",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The family of cullin-RING E3 Ligases (CRLs) and the constitutive photomorphogenesis 9 (COP9) signalosome (CSN) form dynamic complexes that mediate ubiquitylation of 20% of the proteome, yet regulation of their assembly/disassembly remains poorly understood. Inositol polyphosphates are highly conserved signaling molecules implicated in diverse cellular processes. We now report that inositol hexakisphosphate (IP6) is a major physiologic determinant of the CRL-CSN interface, which includes a hitherto unidentified electrostatic interaction between the N-terminal acidic tail of CSN subunit 2 (CSN2) and a conserved basic canyon on cullins. IP6, with an EC50 of 20 nM, acts as an intermolecular \"glue,\" increasing cullin-CSN2 binding affinity by 30-fold, thereby promoting assembly of the inactive CRL-CSN complexes. The IP6 synthase, Ins(1,3,4,5,6)P5 2-kinase (IPPK/IP5K) binds to cullins. Depleting IP5K increases the percentage of neddylated, active Cul1 and Cul4A, and decreases levels of the Cul1/4A substrates p27 and p21. Besides dysregulating CRL-mediated cell proliferation and UV-induced apoptosis, IP5K depletion potentiates by 28-fold the cytotoxic effect of the neddylation inhibitor MLN4924. Thus, IP5K and IP6 are evolutionarily conserved components of the CRL-CSN system and are potential targets for cancer therapy in conjunction with MLN4924.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "COP9 Signalosome Complex",
+        "Catalytic Domain",
+        "Cullin Proteins",
+        "Enzyme Stability",
+        "Gene Knockdown Techniques",
+        "HEK293 Cells",
+        "Humans",
+        "Models, Molecular",
+        "Molecular Sequence Data",
+        "Multiprotein Complexes",
+        "Peptide Hydrolases",
+        "Phosphotransferases (Phosphate Group Acceptor)",
+        "Phytic Acid",
+        "Protein Interaction Domains and Motifs",
+        "Sequence Homology, Amino Acid",
+        "Static Electricity",
+        "Ubiquitin-Protein Ligases"
+      ]
+    },
+    {
+      "pmid": "26740131",
+      "title": "Impacts of dietary calcium, phytate, and nonphytate phosphorus concentrations in the presence or absence of phytase on inositol hexakisphosphate (IP6) degradation in different segments of broilers digestive tract.",
+      "authors": [
+        "W Li",
+        "R Angel",
+        "S-W Kim",
+        "K Brady",
+        "S Yu",
+        "P W Plumstead"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2016-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A total of 1,440 straight-run Heritage 56M × fast-feathering Cobb 500F broiler birds were fed from 11 to 13 d of age to determine the impacts of calcium (Ca), phytate phosphorus (PP), nonphytate P (NPP) and phytase concentrations on the myo-inositol hexakisphosphate (IP6) flow through the different parts of gastrointestinal tract (GIT). The experiment was a 2×2×2×3 randomized block design with 2 Ca (0.7 and 1.0%), 2 PP (0.23 and 0.34%), 2 nPP (0.28 and 0.45%) and 3 phytase (0-, 500-, and 1,000-phytase unit (FTU)/kg) concentrations. The experiment was replicated twice (block) with 3 replicates per treatment (TRT) of 10 birds per block. Concentration of IP6 in crop, proventriculus (PROV) plus (+) gizzard (GIZ) and distal ileum digesta as well as the ileal IP6 disappearance was determined at 13 d of age. In crop, higher IP6 concentration was seen with increased Ca (P < 0.05). Despite the interaction between PP and phytase, higher dietary PP led to greater IP6 concentration (P < 0.05). Similar main effects of PP and phytase were also seen in Prov+Giz and ileum (P < 0.05) without interactions. Interaction between Ca and nPP on IP6 concentration was seen in Prov+Giz (P < 0.05). Decreased ileal IP6 disappearance was found at higher Ca (62.3% at 0.7% Ca vs. 57.5% at 1.0% Ca; P < 0.05). In general, adding phytase improved IP6 degradation but the degree of impact was dependent on nPP and PP (P < 0.05). In conclusion, phytase inclusion significantly reduced IP6 concentration and IP6 disappearance in distal ileum regardless of GIT segments or diet composition, but impacts of dietary Ca, nPP, and PP differed depending on GIT segment examined.",
+      "mesh_terms": [
+        "6-Phytase",
+        "Animal Feed",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Calcium, Dietary",
+        "Chickens",
+        "Diet",
+        "Gastrointestinal Tract",
+        "Inositol Phosphates",
+        "Organ Specificity",
+        "Phosphorus, Dietary",
+        "Phytic Acid",
+        "Random Allocation"
+      ]
+    },
+    {
+      "pmid": "24218616",
+      "title": "Structural and functional insights into the regulation mechanism of CK2 by IP6 and the intrinsically disordered protein Nopp140.",
+      "authors": [
+        "Won-Kyu Lee",
+        "Sang Hyeon Son",
+        "Bong-Suk Jin",
+        "Jung-Hyun Na",
+        "Soo-Youl Kim",
+        "Kook-Han Kim",
+        "Eunice Eunkyeong Kim",
+        "Yeon Gyu Yu",
+        "Hyung Ho Lee"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2013-Nov-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Protein kinase CK2 is a ubiquitous kinase that can phosphorylate hundreds of cellular proteins and plays important roles in cell growth and development. Deregulation of CK2 is related to a variety of human cancers, and CK2 is regarded as a suppressor of apoptosis; therefore, it is a target of anticancer therapy. Nucleolar phosphoprotein 140 (Nopp140), which is an intrinsically disordered protein, interacts with CK2 and inhibits the latter's catalytic activity in vitro. Interestingly, the catalytic activity of CK2 is recovered in the presence of d-myo-inositol 1,2,3,4,5,6-hexakisphosphate (IP6). IP6 is widely distributed in animal cells, but the molecular mechanisms that govern its cellular functions in animal cells have not been completely elucidated. In this study, the crystal structure of CK2 in complex with IP6 showed that the lysine-rich cluster of CK2 plays an important role in binding to IP6. The biochemical experiments revealed that a Nopp140 fragment (residues 568-596) and IP6 competitively bind to the catalytic subunit of CK2 (CK2α), and phospho-Ser574 of Nopp140 significantly enhances its interaction with CK2α. Substitutions of K74E, K76E, and K77E in CK2α significantly reduced the interactions of CK2α with both IP6 and the Nopp140-derived peptide. Our study gives an insight into the regulation of CK2. In particular, our work suggests that CK2 activity is inhibited by Nopp140 and reactivated by IP6 by competitive binding at the substrate recognition site of CK2.",
+      "mesh_terms": [
+        "Amino Acid Substitution",
+        "Casein Kinase II",
+        "Crystallization",
+        "Gene Expression Regulation",
+        "Humans",
+        "Macromolecular Substances",
+        "Models, Molecular",
+        "Nuclear Proteins",
+        "Phosphoproteins",
+        "Phytic Acid",
+        "Protein Conformation",
+        "X-Ray Diffraction"
+      ]
+    },
+    {
+      "pmid": "23610962",
+      "title": "Role of protein tyrosine kinase in the effect of IP6 on IL-8 secretion in intestinal epithelial cells.",
+      "authors": [
+        "Joanna Wawszczyk",
+        "Arkadiusz Orchel",
+        "Małgorzata Kapral",
+        "Ludmiła Wéglarz"
+      ],
+      "journal": "Acta poloniae pharmaceutica",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Phytic acid (IP6) is a major fiber-associated component of a diet physiologically present in human intestines. Studies showed that this phytochemical can modulate immune functions of intestinal epithelium through regulation of proinflammatory cytokines secretion but mechanisms underlying these cellular response to IP6 have weakly been examined, as yet. The aim of this study was to determine the role of protein tyrosine kinase (PTK) in secretion of IL-8, a central proinflammatory cytokine, by unstimulated and IL-1beta-stimulated intestinal epithelial cells Caco-2 treated with IP6 (1 and 2.5 mM). To study the involvement of PTK signal pathway in IL-8 secretion, inhibitors of phosphotyrosine phosphatase (sodium orthovanadate, OV) and tyrosine kinase (genistein, GEN) were incubated with Caco-2 cells prior to IP6 treatment. IP6 had suppressive effect on basal and IL-1beta-stimulated IL-8 secretion by cells. The effect of OV on IL-8 release by cells treated with IP6 was different under constitutive and stimulated conditions. Secretion of IL-8 was significantly down-regulated in cells with GEN and GEN plus IP6 treatment. In addition, total PTK activity in both unstimulated and IL-1beta stimulated cells was determined in the presence of IP6. The results suggest that physiological intestinal concentrations of IP6 may have an inhibitory effect on IL-8 secretion by Caco-2 cells and one of the mechanisms of its action is the inhibition of PTK signaling cascade. The study revealed for the first time that PTKs could be one of the molecular targets for IP6 effects in the intestinal epithelial cells.",
+      "mesh_terms": [
+        "Caco-2 Cells",
+        "Enzyme Inhibitors",
+        "Genistein",
+        "Humans",
+        "Inflammation Mediators",
+        "Interleukin-1beta",
+        "Interleukin-8",
+        "Intestinal Mucosa",
+        "Phytic Acid",
+        "Protein Tyrosine Phosphatases",
+        "Protein-Tyrosine Kinases",
+        "Signal Transduction",
+        "Vanadates"
+      ]
+    },
+    {
+      "pmid": "22754949",
+      "title": "In vitro (α-glucosidase and α-amylase inhibition) and in vivo antidiabetic property of phytic acid (IP6) in streptozotocin- nicotinamide-induced type 2 diabetes mellitus (NIDDM) in rats.",
+      "authors": [
+        "Asokkumar Kuppusamy",
+        "Umamaheswari Muthusamy",
+        "Sivashanmugam Andichetiar Thirumalaisamy",
+        "Subhadradevi Varadharajan",
+        "Kalyanasubramaniam Ramasamy",
+        "Sambathkumar Ramanathan"
+      ],
+      "journal": "Journal of complementary & integrative medicine",
+      "publication_date": "2011-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Phytic acid, inositol hexaphosphate (IP6) a natural plant constituent and antioxidant exhibits protective action in carcinogenesis, Alzheimer's, hypercholesterolemia, diabetes and inflammations when taken in diet. The aim of this study is to evaluate effect of phytic acid in streptozotocin (STZ)-nicotinamide-induced type 2 diabetes in rats. The STZ-nicotinamide induced diabetic rats were orally treated with vehicle (2%w/v Tween 80), glimepiride (2.5 mg/kg) and IP6 (650 mg/kg) for 28 days. The blood glucose level, body weight, glycosylated haemoglobin (HbA1C), lipid profile, lipid peroxidation, antioxidant status (liver and small intestine) was measured and compared with control. Xanthine dehydrogenase (XDH) and xanthine (XO) activity was measured in small intestine of diabetic rats. In vitro inhibition of carbohydrate digestive enzymes (α-glucosidase and α-amylase) was also determined. IP6, significantly (P<0.01) reduced glucose level, HbA1C, lipid profile and lipid peroxidation, and increased body weight, high density lipoprotein level and antioxidant status in liver and small intestine. Decrease in XO and increase in XDH activity was observed in treatment groups compared to diabetic control. Dose dependent inhibition of α-glucosidase and (α-amylase activity was observed for phytic acid when compared to standard drug acarbose. These results clearly indicate that IP6 possess promising in vitro and in vivo antidiabetic activity.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Body Weight",
+        "Diabetes Mellitus, Experimental",
+        "Free Radical Scavengers",
+        "Glycated Hemoglobin",
+        "Glycoside Hydrolase Inhibitors",
+        "Hypoglycemic Agents",
+        "Intestine, Small",
+        "Lipid Peroxidation",
+        "Lipids",
+        "Liver",
+        "Niacinamide",
+        "Oxidative Stress",
+        "Peroxidases",
+        "Phytic Acid",
+        "Rats",
+        "Rats, Wistar",
+        "Streptozocin",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "22655245",
+      "title": "Influence of pH on the Cytotoxic Activity of Inositol Hexakisphosphate (IP6) in Prostate Cancer.",
+      "authors": [
+        "Blandine Betton",
+        "Philippe O Gannon",
+        "Ismaël Hervé Koumakpayi",
+        "Jean-Simon Diallo",
+        "Anne-Marie Mes-Masson",
+        "Fred Saad"
+      ],
+      "journal": "Frontiers in oncology",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: In the present study, we investigated whether the pH of IP6 could influence its anti-tumoral activity in vitro. METHODS: PC-3 cells were exposed to IP6 at pH 5, pH 7, and pH 12 and we evaluated the metabolic activity (WST-1 assay), cell proliferation (cell count), cell cycle distribution (FACS), and mitochondrial depolarization (JC-1 staining) in vitro. RESULTS: Our results demonstrated that IP6 at pH 5 and pH 12 were more potent at lowering the metabolic activity of PC-3 cells than IP6 at pH 7. Treatment with IP6 at pH 12 also caused the greatest inhibition in cellular proliferation and accumulation of PC-3 cells in sub-G1. Finally, IP6 at pH 12 lead to a reduction in phospho-AKT and phospho-PDK1 and upregulated phospho-ERK. CONCLUSION: Together, our data strongly suggest that the pH of IP6 effectively modulates its anti-tumoral activity and should be reported in future studies."
+    },
+    {
+      "pmid": "20152024",
+      "title": "Efficacy of IP6 + inositol in the treatment of breast cancer patients receiving chemotherapy: prospective, randomized, pilot clinical study.",
+      "authors": [
+        "Ivan Bacić",
+        "Nikica Druzijanić",
+        "Robert Karlo",
+        "Ivan Skifić",
+        "Stjepan Jagić"
+      ],
+      "journal": "Journal of experimental & clinical cancer research : CR",
+      "publication_date": "2010-Feb-12",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Prospective, randomized, pilot clinical study was conducted to evaluate the beneficial effects of inositol hexaphosphate (IP6) + Inositol in breast cancer patients treated with adjuvant therapy. PATIENTS AND METHODS: Patients with invasive ductal breast cancer where polychemotherapy was indicated were monitored in the period from 2005-2007. Fourteen patients in the same stage of ductal invasive breast cancer were involved in the study, divided in two randomized groups. One group was subjected to take IP6 + Inositol while the other group was taking placebo. In both groups of patients the same laboratory parameters were monitored. When the treatment was finished, all patients have filled questionnaires QLQ C30 and QLQ-BR23 to determine the quality of life. RESULTS: Patients receiving chemotherapy, along with IP6 + Inositol did not have cytopenia, drop in leukocyte and platelet counts. Red blood cell counts and tumor markers were unaltered in both groups. However, patients who took IP6 + Inositol had significantly better quality of life (p = 0.05) and functional status (p = 0.0003) and were able to perform their daily activities. CONCLUSION: IP6 + Inositol as an adjunctive therapy is valuable help in ameliorating the side effects and preserving quality of life among the patients treated with chemotherapy.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Breast Neoplasms",
+        "Carcinoma, Ductal",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Phytic Acid",
+        "Pilot Projects",
+        "Quality of Life",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "20368938",
+      "title": "Apoptotic effect of IP(6) was not enhanced by co-treatment with myo-inositol in prostate carcinoma PC3 cells.",
+      "authors": [
+        "Hyun-Jung Kim",
+        "Yu-Mi Jang",
+        "Harriet Kim",
+        "Young Hye Kwon"
+      ],
+      "journal": "Nutrition research and practice",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inositol hexaphosphate (IP(6)) is a major constituent of most cereals, legumes, nuts, oil seeds and soybean. Previous studies reported the anticancer effect of IP(6) and suggested that co-treatment of IP(6) with inositol may enhance anticancer effect of IP(6). Although the anticancer effect of IP(6) has been intensively studied, the combinational effect of IP(6) and inositol and involved mechanisms are not well understood so far. In the present study, we investigated the effect of IP(6) and myo-inositol (MI) on cell cycle regulation and apoptosis using PC3 prostate cancer cell lines. When cells were co-treated with IP(6) and MI, the extent of cell growth inhibition was significantly increased than that by IP(6) alone. To identify the effect of IP(6) and MI on apoptosis, the activity of caspase-3 was measured. The caspase-3 activity was significantly increased when cells were treated with either IP(6) alone or both IP(6) and MI, with no significant enhancement by co-treatment. To investigate the effect of IP(6) and MI of cell cycle arrest, we measured p21 mRNA expression in PC3 cells and observed significant increase in p21 mRNA by IP(6). But synergistic regulation by co-treatment with IP(6) and MI was not observed. In addition, there was no significant effect by co-treatment compared to IP(6) treatment on the regulation of cell cycle progression although IP(6) significantly changed cell cycle distribution in the presence of MI or not. Therefore, these findings support that IP(6) has anticancer function by induction of apoptosis and regulation of cell cycle. However, synergistic effect by MI on cell cycle regulation and apoptosis was not observed in PC3 prostate cancer cells."
+    },
+    {
+      "pmid": "17726240",
+      "title": "Molecular mechanisms for the antitumor activity of inositol hexakisphosphate (IP6).",
+      "authors": [
+        "Anikó Bozsik",
+        "Szabolcs Kökény",
+        "Edith Olah"
+      ],
+      "journal": "Cancer genomics & proteomics",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Inositol hexakisphosphate (IP6), a naturally occurring polyphosphorylated carbohydrate, has been reported to have significant in vivo and in vitro anticancer activity against numerous tumors. However, the molecular mechanism of the anticancer effect of IP6 has not been fully elucidated. MATERIALS AND METHODS: Using K-562 human leukemia cells we analysed the induction of the erythroid differentiation program, as well as modulation of the gene expression profile of K-562 leukemia cells treated with IP6. RESULTS: A single treatment with IP6 (0.75 or 5.0 mM) resulted in a time- and dose-dependent growth inhibition of K-562 cells and also activation of the erythroid differentiation program. K-562 cells expressed a concomitant differentiation after 12 hours of exposure. Possible molecular mechanisms and key signaling pathways, as well as gene expression behind this anticancer effect were examined using oligonucleotide microarrays and quantitative real-time PCR. Treatment with IP6 (750 microM, 5 mM) had a marked impact, resulting in early (60 min) and late (12 h) modulation of expression of about 1800 and 1200 transcripts (at p<0.05). Through microarray analysis, the anticancer effect of IP6 in K-562 was found to be associated with the modulation of multiple genes involved in immunity, Wnt and IGF pathways, PI3 kinase signaling and apoptosis. Using selected subsets of genes, the microarray hits could be validated by Q-PCR. A 2-fold upregulation of the apoptosis pathway, measured using the BAX/BCL-2 ratio was observed for 12 hours. IP6 (5 mM) induced up to 6-fold increases in differentiation measured by hemoglobin synthesis, yielding up to 70% of benzidine-positive cells at 120 hours. CONCLUSION: The results of this study show that IP6 is a strong inducer of differentiation (cytostatic effect) and a moderately strong inducer of apoptosis (cytotoxic effect). Evidence has been provided to show that the growth inhibitory effects of IP6 are mediated through the modulation of key signaling pathways.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Benzidines",
+        "Cell Differentiation",
+        "Cell Proliferation",
+        "Cluster Analysis",
+        "Erythroid Cells",
+        "Humans",
+        "Inhibitory Concentration 50",
+        "K562 Cells",
+        "Oligonucleotide Array Sequence Analysis",
+        "Phytic Acid",
+        "Reproducibility of Results"
+      ]
+    },
+    {
+      "pmid": "17044765",
+      "title": "Protection against cancer by dietary IP6 and inositol.",
+      "authors": [
+        "Ivana Vucenik",
+        "AbulKalam M Shamsuddin"
+      ],
+      "journal": "Nutrition and cancer",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Inositol hexaphosphate (IP(6)) is a naturally occurring polyphosphorylated carbohydrate, abundantly present in many plant sources and in certain high-fiber diets, such as cereals and legumes. In addition to being found in plants, IP(6) is contained in almost all mammalian cells, although in much smaller amounts, where it is important in regulating vital cellular functions such as signal transduction, cell proliferation, and differentiation. For a long time IP(6) has been recognized as a natural antioxidant. Recently IP(6) has received much attention for its role in cancer prevention and control of experimental tumor growth, progression, and metastasis. In addition, IP(6) possesses other significant benefits for human health, such as the ability to enhance immune system, prevent pathological calcification and kidney stone formation, lower elevated serum cholesterol, and reduce pathological platelet activity. In this review we show the efficacy and discuss some of the molecular mechanisms that govern the action of this dietary agent. Exogenously administered IP(6) is rapidly taken up into cells and dephosphorylated to lower inositol phosphates, which further affect signal transduction pathways resulting in cell cycle arrest. A striking anticancer action of IP(6) was demonstrated in different experimental models. In addition to reducing cell proliferation, IP(6) also induces differentiation of malignant cells. Enhanced immunity and antioxidant properties also contribute to tumor cell destruction. Preliminary studies in humans show that IP(6) and inositol, the precursor molecule of IP(6), appear to enhance the anticancer effect of conventional chemotherapy, control cancer metastases, and improve quality of life. Because it is abundantly present in regular diet, efficiently absorbed from the gastrointestinal tract, and safe, IP(6) + inositol holds great promise in our strategies for cancer prevention and therapy. There is clearly enough evidence to justify the initiation of full-scale clinical trials in humans.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Cell Differentiation",
+        "Cell Division",
+        "Cell Transformation, Neoplastic",
+        "Dietary Fiber",
+        "Disease Models, Animal",
+        "Humans",
+        "Inositol",
+        "Mice",
+        "Neoplasms",
+        "Neoplasms, Experimental",
+        "Phytic Acid",
+        "Rats",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "16817644",
+      "title": "Hep-2 cellular function following either a bolus administration or continuous sustained release of IP-6.",
+      "authors": [
+        "Zahra Norozy",
+        "Shadonna Jefferson",
+        "Adel Mohamed",
+        "Hamed Benghuzzi",
+        "Michelle Tucci"
+      ],
+      "journal": "Biomedical sciences instrumentation",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inositol 6-phosphate (IP-6) has demonstrated novel anti-cancer activity using several different tumor models. IP-6, or phytic acid, has antioxidant properties that directly act to inhibit cancer cell growth. In previous experiments using Hep-2 cells treated with a single treatment dose of IP-6 (1 mM) showed decreases in number only after 72 hours. The goal of this experiment was to deliver IP-6 in a sustained continuous manner for periods of 24, 48 and 72 hours to Hep-2 cancer cells and compare the changes in cell growth and morphology after a single bolus dose of IP-6. Our results indicated that IP-6 administered as a bolus dose was unable to reduce Hep-2 cell numbers after 24 hours. By 48 and 72 hours an approximate 50% increase in cell numbers were seen in the single dose treatment group. Sustained delivery of IP-6 resulted in significant reduction of cells over 48 hours. The dose of IP-6 given (1 mM) did not induce changes in cellular protein concentrations nor increase cellular membrane damage. Morphologically, the Hep-2 cell appear small, round to cuboidal in shape with dark eccentric nuclei and scant cytoplasm. After treatment with 1 mM IP-6, the cells showed evidence of degeneration with irregular cell borders and hyperchromatic nuclei. Overall, 1 mM IP-6 was unable to reduce Hep-2 cell proliferation for periods greater than 48 hours; however, further evaluation of the Hep-2 cytology revealed significant cellular degenerative changes that warrant additional studies to understand the action of IP-6.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Size",
+        "Cell Survival",
+        "Delayed-Action Preparations",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Inositol Phosphates",
+        "Laryngeal Neoplasms",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "16563438",
+      "title": "Inositol hexaphosphate (IP6) inhibits cellular proliferation in melanoma.",
+      "authors": [
+        "Irfan Rizvi",
+        "Dale R Riggs",
+        "Barbara J Jackson",
+        "Alex Ng",
+        "Cynthia Cunningham",
+        "David W McFadden"
+      ],
+      "journal": "The Journal of surgical research",
+      "publication_date": "2006-Jun-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Inositol Hexaphosphate (IP6) is a naturally occurring polyphosphorylated carbohydrate found in food sources high in fiber content. We have previously reported IP6 to have significant inhibitory effects against pancreatic cancer in vitro. We hypothesized that the IP6 would significantly inhibit cell growth of cutaneous melanoma in vitro. MATERIALS AND METHODS: The melanoma line HTB68 was cultured using standard techniques and treated with IP6 at doses ranging from 0.2 to 1.0 mM/well. Cell viability was measured by MTT at 72 h. VEGF production was measured in the cell supernatants by ELISA. Apoptosis was evaluated by Annexin V-FITC and results calculated using FACS analysis. Statistical analysis was performed by ANOVA. RESULTS: Significant reductions (P < 0.001) in cellular proliferation were observed with IP6. Overall, IP6 exhibited a mean inhibition of cell growth of 52.1 +/- 11.5% (range, 1.6-83.0%) at 72 h of incubation. VEGF production was significantly reduced (P < 0.001) by the addition of IP6 (7.5 pg/ml) compared to control (40.9 pg/ml). IP6 significantly increased (P = 0.029) late apoptosis from 5.3 to 7.0% gated events. No changes in necrosis or early apoptosis were observed. CONCLUSIONS: Adjuvant treatment of melanoma continues to challenge clinicians and patients. Our findings that IP6 significantly decreased cellular growth, VEGF production and increased late apoptosis in melanoma suggest its potential therapeutic value. Further in vivo studies are planned to evaluate safety and clinical utility of this agent.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Humans",
+        "Melanoma",
+        "Phytic Acid",
+        "Vascular Endothelial Growth Factor A"
+      ]
+    },
+    {
+      "pmid": "15919420",
+      "title": "Inositol hexaphosphate (IP6): a novel treatment for pancreatic cancer.",
+      "authors": [
+        "Ponnandai Somasundar",
+        "Dale R Riggs",
+        "Barbara J Jackson",
+        "Cynthia Cunningham",
+        "Linda Vona-Davis",
+        "David W McFadden"
+      ],
+      "journal": "The Journal of surgical research",
+      "publication_date": "2005-Jun-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Inositol hexaphosphate (IP6) is a naturally occurring polyphosphorylated carbohydrate found in food sources high in fiber content. IP6 has been reported to have significant inhibitory effects against a variety of primary tumors including breast and colon. The effects of IP6 have not been evaluated in pancreatic cancer. We hypothesized that IP6 would significantly inhibit cell growth and increase the apoptotic rate of pancreatic cancer in vitro. MATERIALS AND METHODS: Two pancreatic cancer cell lines (MIAPACA and PANC1) were cultured using standard techniques and treated with IP6 at doses of 0.5, 1.0, and 5.0 mm. Cell viability was measured by MTT at 24 and 72 h. Apoptosis was evaluated by Annexin V-FITC and results calculated using FACS analysis. Statistical analysis was performed by ANOVA. RESULTS: Significant reductions (P < 0.01) in cellular proliferation were observed with all IP6 concentrations tested in both cell lines and at both time points. Reductions in cell proliferation ranged from 37.1 to 91.5%. IP6 increased early and late apoptotic activity (P < 0.01). CONCLUSIONS: Treatment of pancreatic cancer with the common dietary polyphosphorylated carbohydrate IP6 significantly decreased cellular growth and increased apoptosis. Our findings suggest that IP6 has the potential to become an effective adjunct for pancreatic cancer treatment. Further in vivo and human studies are needed to evaluate safety and clinical utility of this agent in patients with pancreatic cancer.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Humans",
+        "Oryza",
+        "Pancreatic Neoplasms",
+        "Phytic Acid",
+        "Zea mays"
+      ]
+    },
+    {
+      "pmid": "15868430",
+      "title": "Inositol hexaphosphate (IP6) blocks proliferation of human breast cancer cells through a PKCdelta-dependent increase in p27Kip1 and decrease in retinoblastoma protein (pRb) phosphorylation.",
+      "authors": [
+        "Ivana Vucenik",
+        "Gayatri Ramakrishna",
+        "Kwanchanit Tantivejkul",
+        "Lucy M Anderson",
+        "Danica Ramljak"
+      ],
+      "journal": "Breast cancer research and treatment",
+      "publication_date": "2005-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inositol hexaphosphate (IP6) is a naturally occurring polyphosphorylated carbohydrate with demonstrated anti-proliferative and anti-cancer activity in mammary cells. We hypothesized that IP6 modulates cell cycle proteins by action on cytoplasmic signaling molecules. The effects of both pharmacological (2 mM) and physiological (100 microM) doses of IP6 on major PKC isoforms (PKCalpha, delta, epsilon, beta and zeta), PI3-K/Akt and ras/Erk1/2 were evaluated. Treatment of MCF-7 human breast cancer cells with 2 mM IP6 for 24 h caused a 3.1-fold increase in the expression of anti-proliferative PKCdelta. Similar results were observed with 100 microM IP6 at only 30-60 min post-treatment. IP6 also caused an increase in PKCdelta activity, shown by its translocation from cytosol to membrane. No changes in expression of PKC alpha, delta, epsilon, beta and zeta were detected. Additionally, IP6 caused a decrease of Erk1/2 and Akt activity. Among cell cycle control proteins, IP6 resulted in increased p27Kip1 protein levels and marked reduction of pRb phosphorylation. Specificity of the IP6 effects on p27Kip1 and pRb in MCF-7 cells (hormone-dependent) were additionally confirmed in highly invasive hormone-independent MDA-MB 231 breast cancer cells. Use of specific pharmaclogical inhibitors of PKC delta, MEK/Erk, and PI3K/Akt pathways indicated that the IP6-mediated effects on PKC delta were responsible for up-regulation of p27Kip, and pRb hypo-phosphorylation. In addition, IP6-induced apoptosis detected in MCF-7 cells appeared also to be PKC delta-dependent. Our data suggest potential usefulness of IP6 as a novel therapeutic modulator of PKC delta and p27Kip1, an important prognostic factor in human breast cancers.",
+      "mesh_terms": [
+        "Breast Neoplasms",
+        "Cell Cycle",
+        "Cell Cycle Proteins",
+        "Cell Proliferation",
+        "Cyclin-Dependent Kinase Inhibitor p27",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Humans",
+        "Inositol Phosphates",
+        "Phosphorylation",
+        "Prognosis",
+        "Protein Kinase C",
+        "Protein Kinase C-delta",
+        "Retinoblastoma Protein",
+        "Signal Transduction",
+        "Tumor Cells, Cultured",
+        "Tumor Suppressor Proteins",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "15801778",
+      "title": "Treatment of germinated wheat to increase levels of GABA and IP6 catalyzed by endogenous enzymes.",
+      "authors": [
+        "Hiroyuki Nagaoka"
+      ],
+      "journal": "Biotechnology progress",
+      "publication_date": "2005",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We found that the levels of bioactive products from wheat can be increased dramatically by manipulating germination conditions and taking advantage of the activity of endogenous enzymes. The yield of phytic acid (IP(6)) from wheat germinated in the presence of high, controlled levels of dissolved oxygen (188 +/- 28 mg/100 g wheat) was almost three times greater than that from wheat germinated with no supplemental oxygen (74 +/- 10 mg/100 g wheat). The yield of gamma-aminobutyric acid (GABA) from wheat germinated in the presence of uncontrolled levels of dissolved oxygen was 18 +/- 3 times greater than that from nonsupplemented wheat (1 mg/100 g wheat). The concentration of GABA was much greater in wheat germ than in whole wheat, and the yield of GABA from wheat germ processed with supplemental water (163 +/- 7 mg/100 g wheat germ) was notably greater than that from wheat germ processed with no supplemental water (100 +/- 2 mg/100 g wheat germ). In contrast, IP(6) was more concentrated in wheat bran, and the yield of IP(6) from wheat bran processed with supplemental water (3100 +/- 12 mg/100 g wheat bran) was notably higher than that from wheat bran processed with no supplemental water (2420 +/- 13 mg/100 g wheat bran). We conclude that the large amount of GABA extracted from wheat germ is likely due to high glutamate decarboxylase activity and low aminotransferase activity and that the large amount of IP(6) extracted from wheat bran is likely due to high levels of tyrosinase activity. Our findings indicate that bioactive molecules such as GABA and IP(6) can be successfully mass-produced by taking advantage of endogenous enzymatic activities.",
+      "mesh_terms": [
+        "Catalysis",
+        "Germination",
+        "Monophenol Monooxygenase",
+        "Phytic Acid",
+        "Prolyl Oligopeptidases",
+        "Serine Endopeptidases",
+        "Triticum",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "15297368",
+      "title": "Anti-angiogenic activity of inositol hexaphosphate (IP6).",
+      "authors": [
+        "Ivana Vucenik",
+        "Antonino Passaniti",
+        "Michele I Vitolo",
+        "Kwanchanit Tantivejkul",
+        "Paul Eggleton",
+        "Abulkalam M Shamsuddin"
+      ],
+      "journal": "Carcinogenesis",
+      "publication_date": "2004-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A significant anticancer activity of the naturally occurring carbohydrate inositol hexaphosphate (IP(6)) has been reported against numerous cancer models. Since tumors require angiogenesis for growth and metastasis, we hypothesize that IP(6) reduces tumor growth by inhibiting angiogenesis. Because angiogenesis depends on the interaction between endothelial and tumor cells, we investigated the effect of IP(6) on both. IP(6) inhibited the proliferation and induced the differentiation of endothelial cells in vitro; the growth of bovine aortic endothelial cells (BAECs) evaluated by MTT proliferation assay was inhibited in a dose-dependent manner (IC(50) = 0.74 mM). The combination of IP(6) and vasostatin, a calreticulin fragment with anti-angiogenic activity, was synergistically superior in growth inhibition than either compound. IP(6) inhibited human umbilical vein endothelial cell (HUVEC) tube formation (in vitro capillary differentiation) on a reconstituted extracellular matrix, Matrigel, and disrupted pre-formed tubes. IP(6) significantly reduced basic fibroblast growth factor (bFGF)-induced vessel formation (P < 0.01) in vivo in Matrigel plug assay. Exposure of HepG2, a human hepatoma cell line, to IP(6) for 8 h, resulted in a dose-dependent decrease in the mRNA levels of vascular endothelial growth factor (VEGF), as assessed by RT-PCR. IP(6) treatment of HepG2 cells for 24 h also significantly reduced the VEGF protein levels in conditioned medium, in a concentration-dependent manner (P = 0.012). Thus, IP(6) has an inhibitory effect on induced angiogenesis.",
+      "mesh_terms": [
+        "Angiogenesis Inhibitors",
+        "Animals",
+        "Aorta",
+        "Calreticulin",
+        "Cattle",
+        "Cell Division",
+        "Endothelium, Vascular",
+        "Humans",
+        "Neoplasms",
+        "Peptide Fragments",
+        "Phytic Acid"
+      ]
+    },
+    {
+      "pmid": "14666664",
+      "title": "Inositol hexaphosphate (IP6) inhibits key events of cancer metastasis: II. Effects on integrins and focal adhesions.",
+      "authors": [
+        "Kwanchanit Tantivejkul",
+        "Ivana Vucenik",
+        "Abulkalam M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2003",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: We have shown that inositol hexaphosphate (IP6), a natural compound and a potent anti-cancer agent, inhibited cancer cell adhesion to the extracellular matrix (ECM) proteins, thereby leading to inhibition of cell migration and invasion. Cell adhesion to ECM is mediated by specific cell surface integrins, which transduce intracellular signals through their interaction and activation of other proteins that are recruited to the focal adhesion. We hypothesize that IP6 decreases cell adhesion by suppressing the integrin receptors and their subsequent signaling pathway. MATERIALS AND METHODS: We analyzed integrin expressions of the highly invasive estrogen receptor-negative human breast cancer MDA-MB 231 cells exposed to IP6 by flow cytometry. The expression of focal adhesion proteins was investigated by immunocytochemistry and Western blotting. RESULTS: IP6 treatment caused a significant (P < 0.005) decrease in the expression of integrin heterodimers alpha 2 beta 1 (collagen receptor), alpha 5 beta 1 (fibronectin receptor) and alpha v beta 3 (vitronectin receptor); flow cytometry showed that it was the alpha 5 subunit that was down-regulated ( < 0.001). However, the expression of the alpha 2, alpha v, beta 1 and beta 3 subunits were not affected by IP6 treatment. When the expression of integrins on the cell surface was assessed, there was a dramatic 82% decrease in the expression of alpha 5 beta 1 on IP6-treated cells (P < 0.0001), indicating a decrease in cell surface expression of the heterodimers. No effect was seen when inositol hexasulfate (IS6), an analogue of IP6, was used as a control. Immunocytochemistry showed a lack of clustering of paxillin; tyrosine-phosphorylated proteins in IP6-treated cells were discontinuous and scattered around the cell periphery, whereas the patterns were more dense and localized in control cells. Consistent with these observations, focal adhesion kinase (FAK) autophosphorylation at tyrosine-397 residue was suppressed, albeit modestly, by IP6 treatment, suggesting a down-regulation in the integrin-mediated signaling pathway. CONCLUSION: The results of this study indicate that IP6-induced inhibition of cancer cell adhesion, migration and invasion may be mediated through the modulation of integrin dimerization, cell surface expression and integrin-associated signaling pathway.",
+      "mesh_terms": [
+        "Breast Neoplasms",
+        "Cell Line, Tumor",
+        "Down-Regulation",
+        "Focal Adhesion Kinase 1",
+        "Focal Adhesion Protein-Tyrosine Kinases",
+        "Focal Adhesions",
+        "Humans",
+        "Integrin alpha5beta1",
+        "Integrin alphaVbeta3",
+        "Integrins",
+        "Neoplasm Metastasis",
+        "Phytic Acid",
+        "Protein-Tyrosine Kinases",
+        "Receptors, Collagen"
+      ]
+    },
+    {
+      "pmid": "14666663",
+      "title": "Inositol hexaphosphate (IP6) inhibits key events of cancer metastasis: I. In vitro studies of adhesion, migration and invasion of MDA-MB 231 human breast cancer cells.",
+      "authors": [
+        "Kwanchanit Tantivejkul",
+        "Ivana Vucenik",
+        "Abulkalam M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2003",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The anti-cancer agent inositol hexaphosphate (IP6) is an abundant intrinsic component of both plant and mammalian cells. In addition to inducing differentiation and inhibiting growth of numerous cancer cell lines in vitro, IP6 has been demonstrated to prevent and abrogate both primary tumor and metastasis in vivo. MATERIALS AND METHODS: Using MDA-MB 231 human breast cancer cells, we studied the potential of IP6 to inhibit cell adhesion, migration and invasion, the key steps in cancer metastasis, utilizing the extracellular matrix (ECM) proteins, a culture wounding assay, modified Boyden chambers, immunocytochemistry and zymography. RESULTS: IP6 treatment caused a 65% reduction of cell adhesion to fibronection (p = 0.002) and a 37% reduction to collagen (p = 0.005). To determine whether a decrease in cell adhesion leads to a decrease in cell motility, migration assays were performed; IP6 decreased both the number of migrating cells and the distance of cell migration into the denuded area by 72% (p < 0.001). Haptotatic cell migration in a modified Boyden chambers was also reduced in a dose-dependent manner. While cell migration on fibronectin was inhibited by 65% (p < 0.001), migration on collagen and laminin was decreased by 32% (p < 0.01) and 13% (p < 0.05), respectively. Immunocytochemistry revealed the absence of lamellipodia structure in IP6-treated cells as compared to untreated cells, corresponding to a diminished ability of cancer cells to form cellular network as determined by Matrigel outgrowth assay. Likewise, cell invasion also was decreased (by 72% after IP6 treatment, p = 0.001) in a dose-dependent fashion. Additionally, IP6 significantly (p = 0.006) inhibited the secretion of matrix metalloproteinase (MMP)-9 as assessed by zymography. CONCLUSION: The results of this study show that IP6 inhibits the metastasis of human breast cancer cells in vitro through effects on cancer cell adhesion, migration and invasion.",
+      "mesh_terms": [
+        "Breast Neoplasms",
+        "Cell Adhesion",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Collagen",
+        "Dose-Response Relationship, Drug",
+        "Drug Combinations",
+        "Fibronectins",
+        "Humans",
+        "Laminin",
+        "Neoplasm Invasiveness",
+        "Neoplasm Metastasis",
+        "Phytic Acid",
+        "Proteoglycans"
+      ]
+    },
+    {
+      "pmid": "14608114",
+      "title": "Cancer inhibition by inositol hexaphosphate (IP6) and inositol: from laboratory to clinic.",
+      "authors": [
+        "Ivana Vucenik",
+        "AbulKalam M Shamsuddin"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2003-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Inositol hexaphosphate (IP6) is a naturally occurring polyphosphorylated carbohydrate that is present in substantial amounts in almost all plant and mammalian cells. It was recently recognized to possess multiple biological functions. A striking anticancer effect of IP6 was demonstrated in different experimental models. Inositol is also a natural constituent possessing moderate anticancer activity. The most consistent and best anticancer results were obtained from the combination of IP6 plus inositol. In addition to reducing cell proliferation, IP6 increases differentiation of malignant cells, often resulting in a reversion to normal phenotype. Exogenously administered IP6 is rapidly taken into the cells and dephosphorylated to lower-phosphate inositol phosphates, which further interfere with signal transduction pathways and cell cycle arrest. Enhanced immunity and antioxidant properties can also contribute to tumor cell destruction. However, the molecular mechanisms underlying this anticancer action are not fully understood. Because it is abundantly present in regular diet, efficiently absorbed from the gastrointestinal tract, and safe, IP6 holds great promise in our strategies for the prevention and treatment of cancer. IP6 plus inositol enhances the anticancer effect of conventional chemotherapy, controls cancer metastases, and improves the quality of life, as shown in a pilot clinical trial. The data strongly argue for the use of IP6 plus inositol in our strategies for cancer prevention and treatment. However, the effectiveness and safety of IP6 plus inositol at therapeutic doses needs to be determined in phase I and phase II clinical trials in humans.",
+      "mesh_terms": [
+        "1,2-Dimethylhydrazine",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Carcinogens",
+        "Colonic Neoplasms",
+        "Disease Models, Animal",
+        "Humans",
+        "Inositol",
+        "Mice",
+        "Neoplasms",
+        "Phytic Acid",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "12846414",
+      "title": "Inositol hexaphosphate (IP6) enhances the anti-proliferative effects of adriamycin and tamoxifen in breast cancer.",
+      "authors": [
+        "Kwanchanit Tantivejkul",
+        "Ivana Vucenik",
+        "Julie Eiseman",
+        "AbulKalam M Shamsuddin"
+      ],
+      "journal": "Breast cancer research and treatment",
+      "publication_date": "2003-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The current treatment of breast carcinomas recognizes the importance of combination therapy in order to increase efficacy and decrease side effects of conventional chemotherapy. Inositol hexaphosphate (IP6), a naturally occurring polyphosphorylated carbohydrate, has shown a significant anti-cancer effect in various in vivo and in vitro models, including breast cancer. In this study, we investigated the in vitro growth inhibitory activity of IP6 in combination with adriamycin or tamoxifen, against three human breast cancer cell lines: estrogen receptor (ER) alpha-positive MCF-7, ER alpha-negative MDA-MB 231 and adriamycin-resistant MCF-7 (MCF-7/Adr) using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. Much lower concentrations of IP6 were required after 96 h of treatment to inhibit the growth of MCF-7/Adr cells than MCF-7 cells; the IC50 for MCF-7/Adr cells was 1.26 mM compared to 4.18 mM for MCF-7 cells. The ER-negative MDA-MB 231 cells were also highly sensitive to IP6 with IC50 being 1.32 mM. To determine the effects of IP6 in combination with either adriamycin or tamoxifen, the median effect principle and Webb's fraction method were used to determine the combination index (CI) and the statistical differences. Growth suppression was markedly increased when IP6 was administered prior to the addition of adriamycin, especially against MCF-7 cells (CI = 0.175 and p < 0.0001). Synergism was also observed when IP6 was administered after tamoxifen in all three cell lines studied (CI = 0.343, 0.701 and 0.819; p < 0.0001, p = 0.0003 and 0.0241 for MCF-7/Adr, MCF-7 and MDA-MB 231, respectively). The growth of primary culture of breast cancer cells from patients was inhibited by IP6 with LC50 values ranging from 0.91 to 5.75 mM (n = 10). Our data not only confirm that IP6 alone inhibits the growth of breast cancer cells; but it also acts synergistically with adriamycin or tamoxifen, being particularly effective against ER alpha-negative cells and adriamycin-resistant cell lines.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Antineoplastic Agents, Hormonal",
+        "Breast Neoplasms",
+        "Cell Division",
+        "Doxorubicin",
+        "Drug Interactions",
+        "Drug Resistance, Neoplasm",
+        "Estrogen Receptor alpha",
+        "Female",
+        "Humans",
+        "Phytic Acid",
+        "Receptors, Estrogen",
+        "Tamoxifen",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "12594974",
+      "title": "Phytic acid (IP6), novel broad spectrum anti-neoplastic agent: a systematic review.",
+      "authors": [
+        "C H Fox",
+        "M Eberl"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2002-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "INTRODUCTION: Phytic acid or IP6 has been extensively studied in animals and is being promoted as an anti-cancer agent in health food stores. It is naturally found in legumes, wheat bran, and soy foods. It is believed to be the active ingredient that gives these substances their cancer fighting abilities. Proposed mechanisms of action include gene alteration, enhanced immunity, and anti-oxidant properties. METHODS: A Medline search from 1966 to May 2002 using the keywords phytic acid and cancer, and limiting the search to the subheadings of therapeutic uses, prevention, and adverse effects revealed 28 studies. These studies were included in the review. RESULTS: A great majority of the studies were done in animals and showed that phytic acid had anti-neoplastic properties in breast, colon, liver, leukemia, prostate, sarcomas, and skin cancer. There were no human studies. Side effects included chelation of multivalent cations, and an increase in bladder and renal papillomas. This increase in papilloma formation only occurred with the sodium salt of phytic acid. It did not occur with either the potassium or magnesium salts. CONCLUSIONS: There is a large body of animal evidence to show that phytic acid may have a role in both the prevention and treatment of many forms of cancer. There is clearly enough evidence to justify the initiation of Phase I and Phase II clinical trials in humans.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Phytic Acid"
+      ]
+    },
+    {
+      "pmid": "12028025",
+      "title": "Effect of inositol hexaphosphate (IP(6)) on human normal and leukaemic haematopoietic cells.",
+      "authors": [
+        "Giorgio Lambertenghi Deliliers",
+        "Federica Servida",
+        "Nicola S Fracchiolla",
+        "Clara Ricci",
+        "Chiara Borsotti",
+        "Gualtiero Colombo",
+        "Davide Soligo"
+      ],
+      "journal": "British journal of haematology",
+      "publication_date": "2002-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inositol hexaphosphate (IP(6)), a naturally polyphosphorylated carbohydrate, has been reported to have significant in vivo and in vitro anticancer activity against numerous tumours, such as colon, prostate, breast, liver and rhabdomyosarcomas. To confirm this activity in haematological malignancies and to characterize some of the mechanisms of IP(6) action, we analysed its effects on human leukaemic cell lines and fresh chronic myelogenous leukaemia (CML) progenitor cells using a combined cellular and molecular approach. IP(6) had a dose-dependent cytotoxic effect on all of the evaluated cell lines, with accumulation in the G2M phase in two out of five cell lines tested. At the molecular level, cDNA microarray analysis after IP(6) exposure showed an extensive downmodulation of genes involved in transcription and cell cycle regulation and a coherent upregulation of cell cycle inhibitors. Furthermore, IP(6) treatment of fresh leukaemic samples of bone marrow CD34+ CML progenitor cells significantly inhibited granulocyte-macrophage colony-forming unit (CFU-GM) formation (P = 0.0062) in comparison to normal bone marrow specimens, which were not affected. No differentiating effect on HL60 cells was observed. Taken together, our results confirm the antiproliferative activity of IP(6) and suggest that it may have a specific antitumour effect also in chronic myeloid leukaemias, via active gene modulation.",
+      "mesh_terms": [
+        "Cell Cycle",
+        "Cell Death",
+        "Cell Division",
+        "DNA, Neoplasm",
+        "Dose-Response Relationship, Drug",
+        "Gene Expression Regulation, Neoplastic",
+        "Hematopoietic Stem Cells",
+        "Humans",
+        "Leukemia",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Neoplastic Stem Cells",
+        "Oligonucleotide Array Sequence Analysis",
+        "Phytic Acid",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "11906566",
+      "title": "Hydrolysis of phytic acid by intrinsic plant and supplemented microbial phytase (Aspergillus niger) in the stomach and small intestine of minipigs fitted with re-entrant cannulas. 3. Hydrolysis of phytic acid (IP6) and occurrence of hydrolysis products (IP5, IP4, IP3 and IP2).",
+      "authors": [
+        "C Rapp",
+        "H J Lantzsch",
+        "W Drochner"
+      ],
+      "journal": "Journal of animal physiology and animal nutrition",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Hydrolysis of phytate in the stomach and the small intestine as influenced by intrinsic plant (wheat) and supplemented microbial phytase (Aspergillus niger) were investigated with six minipigs (40-50 kg initial body weight) fitted with re-entrant cannulas in the duodenum, 30 cm posterior to the pylorus (animals 1, 4, 5 and 6) and ileocecal re-entrant cannulas, 5 cm prior the ileocecal junction (animals 1, 2 and 3), respectively. Dietary treatments were as follows: (1) diet 1, a corn-based diet [43 U phytase/kg dry matter (DM)]; (2) diet 2, diet 1 supplemented with microbial phytase (818 U/kg DM); and (3) diet 3, a wheat-based diet (1192 U/kg DM). At 07 30 h and 19 30 h, each animal was fed 350 g diet mixed with 1050 ml de-ionized water. Digesta were collected continuously and completely during a 12-h period after feeding. Mean hydrolysis rates of IP6 in the stomach as measured at the proximal duodenum of animals 1, 4, 5 and 6 were 9.0, 77.2 and 66.2% for diet 1, 2 and 3, respectively. Microbial phytase was much more effective in phytate hydrolysis than wheat phytase. Mean IP6 hydrolysis rates of the respective diets in the stomach and small intestine as measured at the distal ileum of animals 1, 2 and 3 were 19.0, 62.6 and 64.6% and were lower than treatment means of the stomach only. Differences existed between experimental animals with respect to their ability to hydrolyse IP6 in the stomach independent of the presence and source of dietary phytase. Considerable amounts of hydrolysis products occurred in both the duodenal and ileal digesta when diets 2 and 3 were fed; however, only traces were determined after ingestion of diet 1. Independent of dietary treatment, four IP5 isomers were detected, but in different amounts.",
+      "mesh_terms": [
+        "6-Phytase",
+        "Animal Feed",
+        "Animals",
+        "Aspergillus niger",
+        "Digestion",
+        "Gastric Mucosa",
+        "Hydrolysis",
+        "Intestine, Small",
+        "Isomerism",
+        "Male",
+        "Phosphorus",
+        "Phytic Acid",
+        "Swine",
+        "Swine, Miniature"
+      ]
+    },
+    {
+      "pmid": "11724298",
+      "title": "G0/G1 arrest and S phase inhibition of human cancer cell lines by inositol hexaphosphate (IP6).",
+      "authors": [
+        "Y M El-Sherbiny",
+        "M C Cox",
+        "Z A Ismail",
+        "A M Shamsuddin",
+        "I Vucenik"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2001",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Inositol hexaphosphate (InsP6 or IP6) has shown a striking anti-cancer activity in both in vivo and in vitro models. In an attempt to elucidate the mechanism(s) underlying the anti-neoplastic potential of IP6, we investigated its effect on cell cycle progression of MCF-7 estrogen receptor (ER)-positive and MDA-MB 231 ER-negative human breast cancer cell lines and HT-29 human colon cancer cells. METHODS: The anti-proliferative effect of IP6 was evaluated using dual-parameter flow cytometric measurements of DNA content, versus the incorporation of 5-bromo-2-deoxyuridine (BrdU) to determine cells actively synthesizing DNA. Combined analysis of the expression of cell cycle-related proteins, proliferation marker Ki-67 and proliferating cell nuclear antigen (PCNA) versus DNA content were used to determine the amount of proliferating cells in each phase, engaged in cell cycle transit. RESULTS: After 3 days of treatment with 5 mM IP6, S-phase, as estimated by BrdU uptake, was significantly decreased in all three cell lines (p = 0.002). MCF-7 and HT-29 cells accumulated in the G0/G1 range of DNA contents (p = 0.002 and p = 0.001, respectively). MDA MB-231 cells transiently accumulated in G0/G1 only after 2 days (p = 0.01). There was a significant decrease in the percentage of Ki-67 expression in IP6-treated cells, from 82.8+/-3.0% to 66.8+/-4.2% in MCF-7 (p = 0.007), from 93.4+/-4.6% to 71.7+/-3.3% in MDA-MB 231 (p = 0.004), and from 95.2+/-1.2% to 73.5+/-2.5% in HT-29 cells (p = 0.002) respectively. PCNA expression levels were also significantly decreased by IP6 in all three cell lines (MCF-7 p = 0.0007; MDA-MB 231 p = 0.0006; HT-29 p = 0.0001). CONCLUSION: These results show that IP6 controls the progression of cells through the cycle by decreasing S- phase and arresting cells in the G0/G1-phase of the cell cycle. A significant decrease in the expression of proliferation markers indicated that IP6 disengaged cells from actively cycling. Further investigations of cell cycle regulators may lead us to a better understanding of the mechanism(s) of the anti-neoplastic action of IP6.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Breast Neoplasms",
+        "Cell Cycle",
+        "Cell Cycle Proteins",
+        "Flow Cytometry",
+        "G1 Phase",
+        "HT29 Cells",
+        "Humans",
+        "Ki-67 Antigen",
+        "Phytic Acid",
+        "Proliferating Cell Nuclear Antigen",
+        "Resting Phase, Cell Cycle",
+        "S Phase",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "10625952",
+      "title": "Inhibition of skin cancer by IP6 in vivo: initiation-promotion model.",
+      "authors": [
+        "T Ishikawa",
+        "Y Nakatsuru",
+        "M Zarkovic",
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1999",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A two-stage mouse skin carcinogenesis model was used to examine the effects of IP6 on initiation and promotion phases of tumorigenesis. Seven week old ICR female mice were divided into 6 groups, each consisting of 20 animals. Initiation was performed by a single application of the carcinogen 7,12-dimethyl benz(a)anthracene (DMBA) (50 micrograms) to the back skin. Three weeks later, local application of the promoter TPA was started (2.5 micrograms, 2 x/week) and continued up to the end of the experiment (22 weeks). Mice were also administered 2% IP6 in drinking water over the entire duration of the experiment, or during the initiation (initial 3 weeks) or promotion (final 19 weeks) periods only. The animals consuming IP6 during the initiation stage showed an approximately 50% reduction in the mean number of papillomas per animal, as well as in the number of tumor bearing mice. However, no such inhibition was observed when IP6 was given during the tumor promotion stage. In a separate experiment the effects of IP6 on epithelial cell growth were assessed by BrdU labeling at several time points. Statistically significant inhibition of cell proliferation was observed during the initiation stage (one week after DMBA treatment) in the group given IP6. No inhibition was evident during the promotion stage.",
+      "mesh_terms": [
+        "9,10-Dimethyl-1,2-benzanthracene",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Female",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Phytic Acid",
+        "Skin Neoplasms",
+        "Tetradecanoylphorbol Acetate"
+      ]
+    },
+    {
+      "pmid": "10625949",
+      "title": "Metabolism and cellular functions of IP6: a review.",
+      "authors": [
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1999",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inositol hexaphosphate (IP6) has a demonstrably effective anti-cancer action against a variety of experimental tumors. However, the mechanisms of its actions are yet to be completely discerned. Studies in my laboratory have shown that IP6 is rather rapidly absorbed by rats in vivo. Ion exchange chromatography demonstrates the presence of inositol and IP1-6 in gastric epithelial cells as early as within 1 h of intragastric 3H-IP6 administration. The metabolized IP6, in the form of inositol and IP1 is transported via plasma and reaches distant organs as well as tumors. In rats, the urinary metabolites of IP6 are inositol and IP1. However, in humans 1-3% of total administered IP6 is excreted in the urine as IP6; the level shows a normal oscillation between 0.5-6 mg/L [F. Grases et al]. Investigations of the uptake and metabolism by a variety of cancer cell lines in vitro also demonstrate an instantaneous absorption of IP6. The rate and pattern at which IP6 is metabolized by cancer cells varies depending on the cell type. Intracellular inositols accumulated mostly (80-97%) in the cytosol as inositol and IP1-6. IP6 treatment of all the cell lines tested so far demonstrates that it is cytostatic and not cytotoxic. Along with inhibition of cell proliferation, there is enhanced differentiation of malignant cells to a more mature phenotype, often resulting in reversion to normal. Studies of the expression of tumor suppressor gene demonstrate up-regulation of wild type p53 and down-regulation of the mutant form. Since p53-mediated cell cycle arrest may be the direct result of induction of WAF-1 gene (p21WAF-1/CIP1), our studies demonstrate that IP6 up-regulates the expression of p21WAF-1/CIP1 in a dose-dependent manner. These data strongly point towards the involvement of signal transduction pathways, cell cycle regulatory genes, differentiation genes, oncogenes and perhaps, tumor suppressor genes in bringing about the observed anti-neoplastic action of IP6.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Differentiation",
+        "Cell Division",
+        "Humans",
+        "Phytic Acid",
+        "Rats",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "10625947",
+      "title": "Anti-HIV-1 activity of myo-inositol hexaphosphoric acid (IP6) and myo-inositol hexasulfate(IS6).",
+      "authors": [
+        "T Otake",
+        "H Mori",
+        "M Morimoto",
+        "K Miyano",
+        "N Ueba",
+        "I Oishi",
+        "N Kunita",
+        "T Kurimura"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1999",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "It is known that polysulfates have some anti-HIV-1 activity. We investigated the anti-HIV-1 activity of myo-inositol hexaphosphoric acid (IP6) and myo-inositol hexasulfate(IS6), low molecular weight carbohydrates. IP6 and IS6 inhibited the replication of HIV-1 in a T cell line as well as that of a freshly isolated strain in peripheral blood mononuclear cells. Neither substance inhibited HIV-1-induced giant cell formation, but addition of IS6 when infecting cells with HIV-1 inhibited the replication of HIV-1. Neither substance inhibited HIV-1 reverse transcriptase activity in vitro and no influence on late stage replication was noted. Although the mechanisms of IP6 and IS6 action remain unclear, it can be speculated that they act on HIV-1 early replicative stage. Although it is not possible to develop IP6 and IS6 themselves as anti-AIDS drugs, studies of these anti-HIV agents might be expected to provide seed for eventual production of superior drugs for AIDS treatment.",
+      "mesh_terms": [
+        "Anti-HIV Agents",
+        "Cell Line",
+        "HIV-1",
+        "Humans",
+        "Inositol",
+        "Phytic Acid"
+      ]
+    },
+    {
+      "pmid": "10625946",
+      "title": "Phytate (IP6) is a powerful agent for preventing calcifications in biological fluids: usefulness in renal lithiasis treatment.",
+      "authors": [
+        "F Grases",
+        "A Costa-Bauzá"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1999",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "The extraordinary capacity of phytate (myo-inositol hexaphosphate), a substance present in blood, urine, interstitial and intracellular fluids, to inhibit crystallization of calcium salts (oxalate and phosphate) is discussed. Its role in preventing calcium renal stone formation is specifically presented and discussed. \"In vitro\" and \"in vivo\" experiments, as well as clinical studies clearly demonstrated that phytate plays an important role as a crystallization inhibitor of calcium salts in biological fluids and becomes a clear alternative in the treatment of calcium oxalate renal lithiasis.",
+      "mesh_terms": [
+        "Animals",
+        "Calcinosis",
+        "Humans",
+        "Kidney Calculi",
+        "Phytic Acid"
+      ]
+    },
+    {
+      "pmid": "10625943",
+      "title": "Inositol hexaphosphate (IP6) as an anti-neoplastic and lipid-lowering agent.",
+      "authors": [
+        "R J Jariwalla"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1999",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "IP6, a major dietary source of inositol phosphates, is a physiological antioxidant with potential to form complexes with cations linked to cell proliferation and hypercholesterolemia. Accordingly, we have examined the action of IP6 on dietary modulation of neoplasia and hyperlipidemia in a Fischer rat model (1, 2). Two studies were conducted on the effects of naturally-derived IP6, administered as purified phytate, a salt form of phytic acid (inositol hexaphosphoric acid). One study examined the effect on the growth of tumors promoted in syngeneic rats transplanted with a viral oncogene-transformed cell line. Increases in tumor incidence and growth rate of fibrosarcomas seen following administration of a special diet (containing 5% saturated fatty acids and 1.2% magnesium oxide) were completely mitigated by supplementation of the same diet with purified potassium-magnesium phytate (8.9% phytic acid by weight). The other study examined the IP6 effect on serum lipid and mineral levels in animals fed a cholesterol-enriched or standard diet. Elevated levels of serum total cholesterol, triglycerides and zinc/copper ratio associated with administration of the cholesterol-enriched diet were significantly lowered by supplementation of this diet with monopotassium phytate. Addition of monopotassium phytate to the standard diet also reduced serum lipid levels but did not significantly affect the zinc/copper ratio. These studies support a role for IP6 as a potential therapeutic agent in the treatment of cancer and hyperlipidemia.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Hypolipidemic Agents",
+        "Lipids",
+        "Minerals",
+        "Phytic Acid",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "9891450",
+      "title": "IP6 in treatment of liver cancer. II. Intra-tumoral injection of IP6 regresses pre-existing human liver cancer xenotransplanted in nude mice.",
+      "authors": [
+        "I Vucenik",
+        "Z S Zhang",
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1998",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hepatocellular carcinoma (HCC) is a deadly malignant disease with extremely poor prognosis. Many therapeutic modalities have been proposed, but considerable uncertainty still remains about their effectiveness. Inositol hexaphosphate (IP6), a naturally occurring polyphosphorylated carbohydrate, has novel anti-cancer function both in vitro and in vivo. We have recently demonstrated that IP6 inhibits HepG2 human liver cancer cell line. The aim of this study was to assess whether IP6 can (a) inhibit tumorigenicity, and (b) suppress or regress the growth of HepG2 cells in a transplanted nude mouse model. To test the inhibition of tumorigenicity, HepG2 cells were treated with a single exposure to 5.0 mM IP6 in vitro; 48 h later they were inoculated (1 x 10(7) cells/mouse) subcutaneously. No tumor was found in mice which had received HepG2 cells pretreated with IP6 whereas 71% of mice receiving the same number of control untreated HepG2 cells developed solid tumors at the transplantation site (p < 0.03). For a tumor suppression/regression study, when the transplanted tumors reached 8-10 mm in diameter, intra-tumoral injection of IP6 (40 mg/kg) was given for 12 consecutive days, after which the animals were sacrificed. At autopsy, the tumor weight in IP6-treated mice was 86% to 1180% (340% average) less than that in control mice (0.33 +/- 0.12 g versus 1.13 +/- 0.25 g, p = 0.016). These data show that IP6 inhibits the formation of liver cancer and regresses pre-existing human hepatic cancer xenograft; therefore, it has the potential for clinical use as a preventive and therapeutic agent for hepatocellular carcinoma as well.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Carcinoma, Hepatocellular",
+        "Humans",
+        "Liver Neoplasms",
+        "Male",
+        "Mice",
+        "Mice, Nude",
+        "Phytic Acid",
+        "Time Factors",
+        "Transplantation, Heterologous",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "9891449",
+      "title": "IP6 in treatment of liver cancer. I. IP6 inhibits growth and reverses transformed phenotype in HepG2 human liver cancer cell line.",
+      "authors": [
+        "I Vucenik",
+        "K Tantivejkul",
+        "Z S Zhang",
+        "K E Cole",
+        "I Saied",
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1998",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hepatocellular carcinoma (HCC) is a common tumor world-wide with extremely poor prognosis. Recent studies have shown that inositol hexaphosphate (IP6), a naturally occurring carbohydrate, has novel anti-cancer function in various in vitro and in vivo models. The aim of this study was to assess whether IP6 could inhibit the growth of human hepatocellular carcinoma. We treated HepG2, a human liver cancer cell line in vitro with IP6 and evaluated its effect on growth and differentiation. IP6 treatment of HepG2 cells caused a dose-dependent growth inhibition. Compared to other cancer cell lines, HepG2 cells were quite sensitive to IP6, IC50 (50% inhibition of cell growth) of IP6 being < 1.0 mM (0.338 mM). Treatment with IP6 decreased the ability of HepG2 cells to form colonies, as assessed in the plating efficiency assay. Morphological changes induced by IP6 were consistent with differentiation of HepG2 cells. Exposure of HepG2 cells to IP6 drastically decreased the rate of production of alpha-fetoprotein (AFP), a tumor marker of HCC, indicating also that IP6 treatment leads to differentiation of malignant liver cells. Further, IP6 treatment caused a decreased expression of mutant p53 protein in HepG2 cells, with no significant change in the expression of wild-type p53. The expression of p21WAF1 protein was increased by 1.5 fold, as determined by immunocytochemical staining and ELISA assay. These data demonstrate that IP6 inhibits the growth, and induces differentiation, and a less aggressive phenotype of HepG2 cells, suggesting a role of IP6 in the treatment of HCC.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Cell Differentiation",
+        "Cell Division",
+        "Cell Transformation, Neoplastic",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Cyclins",
+        "Gene Expression Regulation, Neoplastic",
+        "Genes, Tumor Suppressor",
+        "Genes, p53",
+        "Hepatoblastoma",
+        "Humans",
+        "Liver Neoplasms",
+        "Phenotype",
+        "Phytic Acid",
+        "Tumor Cells, Cultured",
+        "Tumor Suppressor Protein p53",
+        "alpha-Fetoproteins"
+      ]
+    },
+    {
+      "pmid": "9673359",
+      "title": "Up-regulation of the tumor suppressor gene p53 and WAF1 gene expression by IP6 in HT-29 human colon carcinoma cell line.",
+      "authors": [
+        "I T Saied",
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1998",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inositol hexaphosphate (InsP6 or IP6) ubiquitous in various cells has a novel anti-cancer action both in vivo and in vitro. IP6 inhibits cell growth, decreases cell proliferation and also causes differentiation of various cell lines, including HT-29 human colon carcinoma cell. We hypothesize that the tumor suppressor genes such as p53 and WAF1/CIP1 may be involved in mediating the anti-neoplastic action of IP6 p53 acts as a molecular policeman prevention of genetically damaged cells; it causes the cells to arrest in the G1 phase of cell cycle, and regulates the level of p21waf1/cip1 which acts as a growth inhibitor. We therefore investigated the effects of IP6 on the expression of p53 and WAF1/p21 in HT-29 human colon carcinoma by immunocytochemistry and quantitative ELISA. Our immunocytochemical studies with anti p53 antibodies (wild type-PAb246 and PAb1620) and anti p21waf1/cip1 (EA10) antibodies demonstrated an increased level of p53 and p21waf1/cip1 after 3 and 6 days of treatment with 3.3 and 5 mM IP6. Quantitative assay for p53 and p21waf1/cip1 by ELISA did not show detectable levels in untreated control cells, while strong expression of p53 and p21waf1/cip1 protein by 3.3 and 5 mM IP6 was seen on day 3 and day 6 of treatment. This increase was dose-dependent; however, a definite time-dependent increase was not observed. These data demonstrate that IP6 up-regulates the expression of the tumor suppressor gene p53 and p21WAF1/CIP1 gene and their modulation may be one of the mechanisms of the anti-neoplastic action of IP6. Since loss of p53 function enhances cancer cells' resistance to chemotherapeutic agents, the stimulating function of IP6 on p53 makes it an attractive adjuvant chemotherapeutic agent as well.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Cell Line",
+        "Colonic Neoplasms",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Cyclins",
+        "Enzyme Inhibitors",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Gene Expression Regulation, Neoplastic",
+        "Genes, p53",
+        "Humans",
+        "Immunohistochemistry",
+        "Kinetics",
+        "Phytic Acid",
+        "Time Factors",
+        "Tumor Cells, Cultured",
+        "Tumor Suppressor Protein p53"
+      ]
+    },
+    {
+      "pmid": "9042302",
+      "title": "Novel anti-cancer functions of IP6: growth inhibition and differentiation of human mammary cancer cell lines in vitro.",
+      "authors": [
+        "A M Shamsuddin",
+        "G Y Yang",
+        "I Vucenik"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1996",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inositol hexaphosphate (InsP6 or IP6) is an active ingredient of high fiber diet that has anti-cancer action in both in vitro and in vivo models. Recently we have demonstrated that InsP6 significantly inhibits DMBA-induced rat mammary cancer in vivo. To test the hypothesis that InsP6 mediates its function via inhibition of cell proliferation irrespective of hormonal dependence, its effect on growth inhibition and differentiation were studied in two human mammary carcinoma cell lines with different estrogen receptor status. Cell growth was measured by MTT incorporation assay, DNA synthesis by 3H-Tdr uptake and differentiation marker lactalbumin by immunocytochemistry. Dose-dependent growth inhibition was observed in both estrogen receptor-positive (MCF-7) and receptor-negative cells (MDA-MB-231). Statistically significant growth inhibition (p < 0.05) was observed starting at 1 mM InsP6 as early as after the first day of treatment and continued up to 6 days for both the cell lines. DNA synthesis in both the cell lines was suppressed by InsP6 occurring as early as 3 h after the beginning of treatment and continued up to 48 h; significant inhibition (p < 0.05) started at 1 mM InsP6 after 6 h of treatment. Compared to untreated cells, a 5-fold (p < 0.05) and 22-fold (p < 0.01) increase in expression of lactalbumin, associated with luminal cell differentiation was identified by immunocytochemistry after 48 h of treatment with 1 and 5 mM InsP6. Our data show that the inhibition of DNA synthesis and cell growth and induction of differentiation of human mammary cancer cell lines by InsP6 is independent of the estrogen receptor status of the cells. Taken together with results from in vivo studies, InsP6 may be an important candidate for the prevention and treatment of human breast cancer.",
+      "mesh_terms": [
+        "Breast Neoplasms",
+        "Cell Differentiation",
+        "Cell Division",
+        "DNA, Neoplasm",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Lactalbumin",
+        "Neoplasm Proteins",
+        "Phytic Acid",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "8669811",
+      "title": "IP6-induced growth inhibition and differentiation of HT-29 human colon cancer cells: involvement of intracellular inositol phosphates.",
+      "authors": [
+        "G Y Yang",
+        "A M Shamsuddin"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "1995",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inositol hexaphosphate (InsP6 or IP6) ubiquitous in plants and animals is not only a natural antioxidant, but may also be the precursor/storage of intracellular inositol phosphates, important for various cellular functions. A novel anti-tumor action of InsP6 was demonstrated in models of experimental colon and mammary carcinogenesis in vivo. We now show its effects on growth and differentiation of HT-29 human colon carcinoma cells in vitro. A dose- and time-dependent (0.33-20 mM InsP6 and 1-6 days treatment) growth inhibition was observed as tested by MTT- incorporation assay. The inhibition was statistically significant (p < 0.05) at 1 mM concentration as early as first day after treatment and continued up to 6 days. DNA-synthesis was also suppressed by InsP6 and significantly inhibited as early as 6 h after treatment at 1 mM concentration (p < 0.05) and continued to 48 h (p < 0.01). The expression of proliferation marker PCNA was down-regulated (p < 0.05) by InsP6 (1 and 5 mM) after 48 h of treatment. To investigate the mechanism of action of InsP6 the intracellular phosphatases (including phytase) were inhibited by F to slow down the dephosphorylation of InsP6. Ion-exchange chromatographic separation of intracellular inositol phosphates demonstrated a 84-98% decrease of Ins, InsP1 and InsP2 InsP3 was reduced by 39% and InsP4 and InsP5 by 21% and 13% respectively, whereas intracellular InsP6 was increased by 24.6% at 5 min following 3H-InsP6. Since neither the rate of uptake of 3H-InsP6 was unaffected, nor was the efficacy of growth inhibition altered by F inhibition of phytase, data suggest that contrary to the popular misconception, phytase plays no role in influencing the anti-neoplastic action of InsP6. Alkaline phosphatase activity (brush border enzyme, associated with absorptive cell differentiation), increased following 1 and 5 mM InsP6 treatment for 1-6 days. The expression of a mucin antigen associated with goblet cell differentiation and defined by the monoclonal antibody CMU10 was augmented (p < 0.0001) by InsP6. The tumor mucin marker Gal-GalNAc, expressed by precancer and cancer of colon, but not by the normal cells showed a time-dependent biphasic change by InsP6; an increased expression after 1 day of treatment followed by suppression after 2 days suggest progression of mucin synthesis and differentiation of cancer cells with reversion to normal phenotype. Because the tumor marker Gal-GalNAc is a) easily detected in rectal mucin of patients with colonic cancer and precancer with high sensitivity and specificity, and b) suppressed by InsP6 treatment, it can be used to monitor the efficacy of chemoprevention by InsP6 or other such agents. Since InsP6 a natúral dietary ingredient of cereals and legumes, inhibits growth and induces terminal differentiation of HT-29 cancer cells, it is an excellent candidate for adjuvant chemotherapy and prevention of cancer.",
+      "mesh_terms": [
+        "6-Phytase",
+        "Alkaline Phosphatase",
+        "Antigens, Neoplasm",
+        "Antineoplastic Agents",
+        "Antioxidants",
+        "Biomarkers, Tumor",
+        "Carbohydrate Sequence",
+        "Carcinoma",
+        "Cell Differentiation",
+        "Cell Division",
+        "Colonic Neoplasms",
+        "DNA Replication",
+        "DNA, Neoplasm",
+        "Dose-Response Relationship, Drug",
+        "Growth Inhibitors",
+        "Humans",
+        "Inositol Phosphates",
+        "Intracellular Fluid",
+        "Molecular Sequence Data",
+        "Mucins",
+        "Neoplasm Proteins",
+        "Phosphorylation",
+        "Phytic Acid",
+        "Proliferating Cell Nuclear Antigen",
+        "Tumor Cells, Cultured"
+      ]
+    }
+  ]
+}

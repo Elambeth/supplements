@@ -1,0 +1,719 @@
+{
+  "supplement": "Cnidium monnieri",
+  "query": "Cnidium monnieri[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:38:47",
+  "research_count": 22,
+  "count": 22,
+  "articles": [
+    {
+      "pmid": "39921044",
+      "title": "Green synthesis of zinc oxide nanoparticles using Cnidium monnieri fruit extract: Prescription optimization, Characterization and antifungal activity.",
+      "authors": [
+        "Xinyue Zhang",
+        "Minxin Zhang",
+        "Huiling Han",
+        "Zhenzhen Chen",
+        "Aiwen Huang"
+      ],
+      "journal": "Microbial pathogenesis",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Currently, the drugs employed to treat superficial fungal infections are encountering challenges, particularly the rise of drug resistance. Numerous studies have suggested that zinc oxide nanoparticles (ZnO NPs) show promise in the realm of antifungal treatment. Green synthesis makes the preparation of ZnO NPs more environmentally friendly and economical. In order to prepare antifungal active nanoparticles with low economic cost and stable performance, zinc oxide nanoparticles (CM-ZnONPs) were synthesized for the first time in this study using zinc sulfate heptahydrate (ZnSO4·7H2O) with a Cnidium monnieri (L.) Cuss. (C. monnieri) fruit extract as a reducing agent. In this study, the Box-Behnken design method was used to optimize the manufacturing process of CM-ZnONP. Various techniques, including UV-vis, Fourier Transform Infrared Spectroscopy (FTIR) and X-ray Powder Diffraction (XRD) were employed to demonstrate the successful preparation of CM-ZnONPs. The Transmission Electron Microscopy (TEM) analysis indicated that the size of CM-ZnONPs was 53.30 ± 12.89 nm. The dynamic light scattering (DLS) analysis showed the size of 157.7 ± 15.57 nm for CM-ZnONPs, along with an average polydispersity index (PDI) of 0.1791 ± 0.1394. The zone of inhibition of CM-ZnONPs against Candida albicans (C. albicans) was demonstrated to be 17.0 ± 0.8 mm by paper diffusion experiments. The minimum inhibitory concentration (MIC) of CM-ZnONPs against C. albicans was established at 58.59 μg/mL through the microdilution method. In summary, CM-ZnONPs exhibit excellent performance and antifungal activity in various properties. It is expected to be widely produced and used as an effective treatment for superficial fungal infections.",
+      "mesh_terms": [
+        "Zinc Oxide",
+        "Antifungal Agents",
+        "Plant Extracts",
+        "Fruit",
+        "Microbial Sensitivity Tests",
+        "Green Chemistry Technology",
+        "Cnidium",
+        "X-Ray Diffraction",
+        "Metal Nanoparticles",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Candida albicans",
+        "Particle Size",
+        "Microscopy, Electron, Transmission",
+        "Nanoparticles"
+      ]
+    },
+    {
+      "pmid": "38794376",
+      "title": "Anti-Melanogenic Effects of Cnidium monnieri Extract via p38 Signaling-Mediated Proteasomal Degradation of Tyrosinase.",
+      "authors": [
+        "Soon Ho Choi",
+        "Hyunggun Kim",
+        "Jeon Hwang-Bo",
+        "Kyoung Mi Kim",
+        "Jeong Eun Kwon",
+        "Sung Ryul Lee",
+        "Sun Ha Hwang",
+        "Se Chan Kang",
+        "Yeong-Geun Lee"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2024-May-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cnidium monnieri fructus is widely used in traditional Oriental medicine for treating female genital disorders, male impotence, frigidity, and skin-related conditions in East Asia. However, the role of C. monnieri fructus extract (CMFE) in melanin synthesis is not well elucidated. This study aimed to investigate the anti-melanogenesis effect and mechanism of action of CMFE in α-MSH-stimulated B16F10 cells. Intracellular melanin content and tyrosinase activity were measured in α-MSH-stimulated B16F10 cells treated with various concentrations of CMFE (0.5-5 μg/mL). mRNA and protein levels of tyrosinase and MITF were evaluated using qRT-PCR and ting. CMFE's effect on the proteasomal degradation of tyrosinase was confirmed using a proteasomal degradation inhibitor, MG132. CMFE treatment activated p38, a protein associated with proteasomal degradation. Treatment with CMFE at up to 5 μg/mL showed no significant cytotoxicity. CMFE significantly reduced α-MSH-stimulated melanin production (43.29 ± 3.55% decrease, p < 0.05) and cellular tyrosinase activity (31.14 ± 3.15% decrease, p < 0.05). Although mRNA levels of MITF and tyrosinase increased, CMFE suppressed tyrosinase protein levels. The suppressive effect of CMFE on tyrosinase protein was blocked by MG132. CMFE inhibited melanogenesis by promoting the proteasome degradation of tyrosinase through p38 activation. These findings suggest that CMFE has the potential to be a natural whitening agent for inhibiting melanogenesis."
+    },
+    {
+      "pmid": "38673809",
+      "title": "Vasorelaxant and Blood Pressure-Lowering Effects of Cnidium monnieri Fruit Ethanol Extract in Sprague Dawley and Spontaneously Hypertensive Rats.",
+      "authors": [
+        "Junkyu Park",
+        "Sujin Shin",
+        "Youngmin Bu",
+        "Ho-Young Choi",
+        "Kyungjin Lee"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-Apr-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cnidium monnieri (L.) Cusson, a member of the Apiaceae family, is rich in coumarins, such as imperatorin and osthole. Cnidium monnieri fruit (CM) has a broad range of therapeutic potential that can be used in anti-bacterial, anti-cancer, and sexual dysfunction treatments. However, its efficacy in lowering blood pressure through vasodilation remains unknown. This study aimed to assess the potential therapeutic effect of CM 50% ethanol extract (CME) on hypertension and the mechanism of its vasorelaxant effect. CME (1-30 µg/mL) showed a concentration-dependent vasorelaxation on constricted aortic rings in Sprague Dawley rats induced by phenylephrine via an endothelium-independent mechanism. The vasorelaxant effect of CME was inhibited by blockers of voltage-dependent and Ca2+-activated K+ channels. Additionally, CME inhibited the vascular contraction induced by angiotensin II and CaCl2. The main active compounds of CM, i.e., imperatorin (3-300 µM) and osthole (1-100 µM), showed a concentration-dependent vasorelaxation effect, with half-maximal effective concentration values of 9.14 ± 0.06 and 5.98 ± 0.06 µM, respectively. Orally administered CME significantly reduced the blood pressure of spontaneously hypertensive rats. Our research shows that CME is a promising treatment option for hypertension. However, further studies are required to fully elucidate its therapeutic potential.",
+      "mesh_terms": [
+        "Animals",
+        "Cnidium",
+        "Plant Extracts",
+        "Blood Pressure",
+        "Rats, Sprague-Dawley",
+        "Rats",
+        "Fruit",
+        "Vasodilator Agents",
+        "Male",
+        "Rats, Inbred SHR",
+        "Antihypertensive Agents",
+        "Ethanol",
+        "Furocoumarins",
+        "Hypertension",
+        "Vasodilation",
+        "Coumarins"
+      ]
+    },
+    {
+      "pmid": "36862182",
+      "title": "Discovery of a traditional Chinese herbal combination for the treatment of atopic dermatitis: saposhnikoviae radix, astragali radix and cnidium monnieri.",
+      "authors": [
+        "Yue Ren",
+        "Qi Wu",
+        "Chaoqun Liu",
+        "Jianing Zhang",
+        "Zian Wang",
+        "Yingying Li",
+        "Yanling Zhang"
+      ],
+      "journal": "Archives of dermatological research",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Atopic dermatitis (AD) is a skin disease characterized by pruritus. The present study aimed to discover a herbal combination with anti-allergic and anti-inflammatory activities to treat AD. First, the anti-allergic and anti-inflammatory activities of herbs were evaluated by RBL-2H3 degranulation and HaCaT inflammatory models. Subsequently, the optimal proportion of herbs was determined by uniform design-response surface methodology. The effectiveness and synergistic mechanism was further verified. Cnidium monnieri (CM) suppressed β-hexosaminidase (β-HEX) release, saposhnikoviae radix (SR), astragali radix (AR), and CM inhibited the release of IL-8 and MCP-1. The optimal proportion of herbs was SR∶AR∶CM = 1: 2: 1. The in vivo experiments results indicated that the topical application of combination at high (2 ×) and low (1 ×) doses improved dermatitis score and epidermal thickness, and attenuated mast cell infiltration. Network pharmacology and molecular biology further clarified that the combination resisted AD by regulating the MAPK, JAK signaling pathways, and the downstream cytokines such as IL-6, IL-1β, IL-8, IL-10, and MCP-1. Overall, the herbal combination could inhibit inflammation and allergy, improving AD-like symptoms. The present study discovers a promising herbal combination, worthy of further development as a therapeutic drug for AD.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Dermatitis, Atopic",
+        "Cnidium",
+        "Interleukin-8",
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Anti-Allergic Agents",
+        "Mice, Inbred BALB C",
+        "Skin"
+      ]
+    },
+    {
+      "pmid": "36003320",
+      "title": "Phytochemical Constituents and In vitro Pharmacological Response of Cnidium monnieri; A Natural Ancient Medicinal Herb.",
+      "authors": [
+        "Naveed Munir",
+        "Zahed Mehmood",
+        "Muhammad Shahid",
+        "Samina Aslam",
+        "Mazhar Abbas",
+        "Huma Mehboob",
+        "Samiah H Al-Mijallia",
+        "Muhammad Jahangeer",
+        "Qurrat Ul Ain Badar"
+      ],
+      "journal": "Dose-response : a publication of International Hormesis Society",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Natural medicines are being used for the treatment of various disorders due to pharmacological, therapeutical, and nutraceuticals characteristics. OBJECTIVES: Current research was planned to explore In vitro pharmacological response of phytochemical constituents extracted from C. monnieri' seeds using aqueous ethanol (70%). METHODS: Qualitative and quantitative measurements for phytochemical constituents were performed following reference protocols. Then In vitro antioxidant potential, cytotoxic studies, antimicrobial, and spermicidal pharmacological response of C. monnieri extract were investigated. RESULTS: The results of High Performance Liquid Chromatography (HPLC), Fourier Transform Infra-Red (FTIR) spectroscopy, and Atomic Absorption Spectrophotometer (AAS) explored the presence of wide range of bioactive compounds with significant (p<.05) antioxidant activities. Cytotoxic studies revealed significant (p<.05) protective behavior of C. monnieri evaluated using CtDNA damage protection, against Salmonella typhi TA98 and TA100, RBCs membrane stabilizing and clot lysis assay. It was also found that selected herb has antibacterial and antifungal activities. The results of spermicidal study on human (n = 30) spermatozoa revealed significant (p<.05) contraceptive per vaginal behavior of this natural medicinal plant. CONCLUSION: It could be concluded that C. monnieri showed significant pharmacological activities with non-toxic behavior, however In vivo study in animals and clinical trials are required to declare this natural herb as therapeutic agent."
+    },
+    {
+      "pmid": "34489895",
+      "title": "Preliminary Study on Antifungal Mechanism of Aqueous Extract of Cnidium monnieri Against Trichophyton rubrum.",
+      "authors": [
+        "Cao Yanyun",
+        "Tang Ying",
+        "Kong Wei",
+        "Fang Hua",
+        "Zhu Haijun",
+        "Zheng Ping",
+        "Xu Shunming",
+        "Wan Jian"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Trichoderma rubrum (T. rubrum) is one of the important pathogens because it is the cause of most dermatomycosis. The treatment of Trichophyton rubrum infection is time-consuming and very expensive; it is easy for the infections to reoccur, leading to therapeutic failures, persistence, and chronic infection. These issues have inspired researchers to study natural alternative therapies instead. Cnidium monnieri (L.), as a kind of traditional Chinese medicine, has a variety of pharmacological activities and a wide range of applications, so it has a high potential for researching and economic value. We detected the effect of aqueous extract of C. monnieri (L.) on the activity of T. rubrum by Cell Count Kit-8 assay (CCK-8), and we found that 128 and 256 μg/ml of aqueous extracts of C. monnieri (L.) co-cultured with T. rubrum for 24 h showed the inhibitory effect on T. rubrum. The results of scanning electron microscopy (SEM) and transmission electron microscopy (TEM) confirmed that aqueous extract of C. monnieri (L.) damaged the T. rubrum. At the same time, mass spectrometry screening with T. rubrum before and after the treatment of 256 μg/ml of aqueous extracts of C. monnieri (L.) showed that 966 differentially expressed proteins were detected, including 524 upregulated differentially expressed genes (DEGs) and 442 downregulated DEGs. The most significantly downregulated protein was chitin synthase (CHS); and the results of qRT-PCR and Western blotting demonstrated that the expression level of CHS was downregulated in the 256 μg/ml group compared with the control group. The study showed that the aqueous extract of C. monnieri (L.) could destroy the morphology of mycelia and the internal structure of T. rubrum, and it could inhibit the growth of T. rubrum. The antifungal effect of aqueous extract of C. monnieri (L.) may be related to the downregulation of the expression of CHS in T. rubrum, and CHS may be one of the potential targets of its antifungal mechanism. We concluded that aqueous extract from C. monnieri (L.) may be a potential candidate for antifungal agents."
+    },
+    {
+      "pmid": "34201482",
+      "title": "Inhibitory Effect of Osthole from Cnidium monnieri (L.) Cusson on Fusarium oxysporum, a Common Fungal Pathogen of Potato.",
+      "authors": [
+        "Hongli Zheng",
+        "Yahan Chen",
+        "Qiuli Guo",
+        "Hong Wei",
+        "Jianying Yue",
+        "Hongyou Zhou",
+        "Mingmin Zhao"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2021-Jun-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fusarium wilt of potato is one of the most common diseases of potato in China, and is becoming a serious threat in potato production. It has been reported that osthole from Cnidium monnieri (L.) Cusson can inhibit plant pathogens. Here, we test the anti-fungal activity of C. monnieri osthole against Fusarium oxysporum in potatoes. The results showed that at a concentration of 5 mg/mL, osthole was able to obviously inhibit mycelial growth of F. oxysporum. We found that osthole caused changes of mycelial morphology, notably hyphal swelling and darkening. Osthole significantly reduced the spore germination of Fusarium by 57.40%. In addition, osthole also inhibited the growth of other pathogens such as Fusarium moniliforme J. Sheld, Thanatephorus cucumeris Donk, and Alternaria alternata (Fr.) Keissl, but not Alternaria solani Jonesetgrout and Valsa mali Miyabe and G. Yamada. Our results suggest that osthole has considerable potential as an agent for the prevention and treatment of potato Fusarium wilt.",
+      "mesh_terms": [
+        "Alternaria",
+        "Ascomycota",
+        "Basidiomycota",
+        "Cnidium",
+        "Coumarins",
+        "Fusarium",
+        "Mycelium",
+        "Solanum tuberosum"
+      ]
+    },
+    {
+      "pmid": "30878874",
+      "title": "The in vitro and in vivo anti-inflammatory effect of osthole, the major natural coumarin from Cnidium monnieri (L.) Cuss, via the blocking of the activation of the NF-κB and MAPK/p38 pathways.",
+      "authors": [
+        "Huaying Fan",
+        "Zhenfang Gao",
+        "Kai Ji",
+        "Xin Li",
+        "Jingbao Wu",
+        "Yue Liu",
+        "Xuekai Wang",
+        "Haiyue Liang",
+        "Yanan Liu",
+        "Xiaoting Li",
+        "Pan Liu",
+        "Daquan Chen",
+        "Feng Zhao"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Ulcerative colitis (UC) is a chronic inflammatory condition of the intestines and is difficult to cure once diagnosed. The efficacy of the current clinical treatment for UC is limited. Common anti-inflammatory drugs are prone to adverse effects, while novel biological agents are expensive, although tolerated by patients. Therefore, an urgency exists to find more safe and effective drugs to treat UC. Osthole is an active constituent isolated from the fruit of Cnidium monnieri (L.) Cuss. Osthole has anti-inflammatory activities and offers certain intestinal protection. These characteristics indicate that osthole has the potential to inhibit UC. PURPOSE: The study was conducted to investigate the anti-inflammatory potential of osthole in LPS-induced RAW 264.7 cells and dextran sulphate sodium (DSS)-induced ulcerative colitis in mice. METHODS: In in vitro experiments, mouse monocyte-macrophage RAW 264.7 cells were stimulated by 1 μg/ml LPS to produce inflammatory mediators. Griess reagent was used to determine Nitric Oxide (NO) production, and ELISA kits were used to determine the levels of PGE2, TNF-α, and IL-6. The anti-inflammatory mechanisms of osthole were detected using western blot. In in vivo experiments, UC was induced via the intragastric administration of 3.5% DSS to BALB/C mice for 7 days. During the experiment, clinical signs and body weight were monitored and recorded daily to calculate the DAI score. At the end of the experiment, the colon lengths were measured. The colonic histopathological lesions were evaluated. MPO activity and TNF-α levels were determined using the corresponding kits. The protein expression of TNF-α and NF-κB pathways were analysed using western blot. RESULTS: In an in vitro study, osthole inhibited the production of NO, PGE2, TNF-α, and IL-6 in LPS-induced RAW 264.7 cells. The results of western blot showed that osthole inhibited the expression of iNOS, COX-2, p38 MAPK and IκB α in RAW 264.7 cells. On this basis, in DSS-induced UC mice, it was found that osthole relieved the symptoms of UC by inhibiting weight loss, colon shortening and the DAI score, and simultaneously alleviating colon tissue lesions. It was also found that osthole reduced the levels of TNF-α in serum and colon tissues and effectively inhibited the activity of MPO. The western blot results showed that osthole reduced the expression of NF-κB p65 and p-IκB α and increased the content of IκB α in colon tissues. CONCLUSION: Osthole exerted anti-inflammatory effects by blocking the activation of the NF-κB and MAPK/p38 pathways. Additionally, osthole possesses therapeutic potential in the treatment of UC.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cnidium",
+        "Colitis, Ulcerative",
+        "Coumarins",
+        "Dinoprostone",
+        "Disease Models, Animal",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "NF-KappaB Inhibitor alpha",
+        "NF-kappa B",
+        "Nitric Oxide",
+        "RAW 264.7 Cells",
+        "Signal Transduction",
+        "Tumor Necrosis Factor-alpha",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "30388753",
+      "title": "Effects of Osthol Isolated from Cnidium monnieri Fruit on Urate Transporter 1.",
+      "authors": [
+        "Yuusuke Tashiro",
+        "Ryo Sakai",
+        "Tomoko Hirose-Sugiura",
+        "Yukio Kato",
+        "Hirotaka Matsuo",
+        "Tappei Takada",
+        "Hiroshi Suzuki",
+        "Toshiaki Makino"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2018-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1) Background: Crude drugs used in traditional Japanese Kampo medicine or folk medicine are major sources of new chemical entities for drug discovery. We screened the inhibitory potential of these crude drugs against urate transporter 1 (URAT1) to discover new drugs for hyperuricemia. (2) Methods: We prepared the MeOH extracts of 107 different crude drugs, and screened their inhibitory effects on URAT1 by measuring the uptake of uric acid by HEK293/PDZK1 cells transiently transfected with URAT1. (3) Results: We found that the extract of the dried mature fruit of Cnidium monnieri inhibited urate uptake via URAT1. We isolated and identified osthol as the active ingredient from this extract. Osthol noncompetitively inhibited URAT1 with an IC50 of 78.8 µM. We evaluated the effects of other coumarins and found that the prenyl group, which binds at the 8-position of coumarins, plays an important role in the inhibition of URAT1. (4) Conclusions: Cnidium monnieri fruit may be useful for the treatment of hyperuricemia or gout in traditional medicine, and its active ingredient, osthol, is expected to be a leading compound for the development of new drugs for hyperuricemia.",
+      "mesh_terms": [
+        "Cell Line",
+        "Chemical Fractionation",
+        "Cnidium",
+        "Coumarins",
+        "Fruit",
+        "Humans",
+        "Kinetics",
+        "Organic Anion Transporters",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "29207130",
+      "title": "Ethanol extract from Cnidium monnieri (L.) Cusson induces cell cycle arrest and apoptosis via regulation of the p53‑independent pathway in HepG2 and Hep3B hepatocellular carcinoma cells.",
+      "authors": [
+        "Eun Gyeong Lim",
+        "Guen Tae Kim",
+        "Bo Min Kim",
+        "Eun Ji Kim",
+        "Sang-Yong Kim",
+        "Young Min Kim"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cnidium monnieri (L.) Cusson is a frequently used traditional Chinese medicine that treats gynecological diseases and carbuncles. However, the mechanism of action of C. monnieri remains to be fully elucidated. The present study examined the cell cycle arrest and apoptotic effects resulting from ethanol extract of C. monnieri (CME) in HepG2 (wild‑type p53) and Hep3B (p53‑null) hepatocellular carcinoma cells. An MTT assay was used to confirm the anti‑proliferative effect of CME. The cells were stained with Hoechst 33342 or propidium iodide. It was demonstrated that proliferation of HepG2 cells was suppressed by CME. Cell cycle arrest occurred in the G1 phase following treatment with CME and the number of apoptotic bodies was increased. The expression levels of cell cycle‑associated proteins, including protein kinase B (Akt), glycogen synthase kinase‑3β (GSK‑3β), p53, cyclin E and cyclin‑dependent kinase 2 (CDK2) were determined by western blot analysis. The protein levels of phosphorylated (p)‑Akt, p‑GSK‑3β, p‑MDM2 and cyclin E were decreased, whereas the protein levels of p53, p21 and p‑CDK2 (Thr14/Tyr15) were increased following treatment with CME. Furthermore, treatment or co‑treatment with LY294002 (phosphoinositide‑3‑kinase/Akt inhibitor) or Pifithrin‑α (p53 inhibitor) with CME resulted in CME‑induced G1 arrest which occurred through the p53‑independent signaling pathway in hepatocellular carcinoma cells. In conclusion, CME induces G1 arrest and apoptosis via the Akt/GSK‑3β signaling pathway which is regulated by MDM2‑induced degradation of p21, rather than p53.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Carcinoma, Hepatocellular",
+        "Cell Cycle Checkpoints",
+        "Cell Proliferation",
+        "Cnidium",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Glycogen Synthase Kinase 3 beta",
+        "Hep G2 Cells",
+        "Humans",
+        "Liver Neoplasms",
+        "Plant Extracts",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Tumor Suppressor Protein p53"
+      ]
+    },
+    {
+      "pmid": "28486232",
+      "title": "Osthole, a Coumadin Analog from Cnidium monnieri (L.) Cusson, Ameliorates Nucleus Pulposus-Induced Radicular Inflammatory Pain by Inhibiting the Activation of Extracellular Signal-Regulated Kinase in Rats.",
+      "authors": [
+        "Hai-Xuan Wu",
+        "Yi-Min Wang",
+        "Hui Xu",
+        "Ming Wei",
+        "Qiu-Lan He",
+        "Mei-Na Li",
+        "Lai-Bao Sun",
+        "Ming-Hui Cao"
+      ],
+      "journal": "Pharmacology",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: This study was aimed at assessing the role of extracellular signal regulated kinase (ERK) in mechanical allodynia resulting from lumbar disc herniation (LDH) and exploring the osthole's anti-nociceptive effect on ERK activation. METHODS: Radicular pain was generated by applying nucleus pulposus (NP) to the L5 dorsal root ganglion (DRG). Allodynia was measured using Von Frey filaments to calculate the mechanical pain threshold. Phosphorylated ERK and total ERK protein in the lumbar spinal dorsal horn was detected by using the Western blot technique. Cyclooxygenase 2 (COX-2) mRNA was assessed by real-time reverse-transcription polymerase chain reaction. RESULTS: The application of NP to L5 DRG induced mechanical hypersensitivity which lasted for at least 28 days, and a significant increase of ERK phosphorylation in the ipsilateral spinal dorsal horn from postoperative day (POD) 1 to POD 21. ERK inhibitor attenuated NP-induced hyperalgesia compared to the dimethyl sulfoxide-(vehicle control) administered group (p < 0.05). Epidural treatment with osthole could ameliorate NP-evoked hyperalgesia by suppressing the activation of ERK rather than decreasing the expression of ERK protein. Osthole could also inhibit the increased expression of COX-2 mRNA in spinal dorsal horn, which was a known downstream effect of ERK signaling pathway. CONCLUSIONS: Our results suggest that ERK activation in the spinal dorsal horn plays a vital role in NP-evoked hyperalgesia. Osthole exerts analgesic effect on radicular inflammatory pain in LDH rat model, by down-regulating the mRNA expression of the target gene of COX-2 via inhibiting ERK activation in the spinal dorsal horn.",
+      "mesh_terms": [
+        "Analgesics",
+        "Animals",
+        "Blotting, Western",
+        "Cnidium",
+        "Coumarins",
+        "Cyclooxygenase 2",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Hyperalgesia",
+        "Intervertebral Disc Displacement",
+        "Male",
+        "Nucleus Pulposus",
+        "Pain",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Real-Time Polymerase Chain Reaction",
+        "Reverse Transcriptase Polymerase Chain Reaction"
+      ]
+    },
+    {
+      "pmid": "27671368",
+      "title": "Potential of the Cnidium monnieri fruits as an immune enhancer in Escherichia coli infection model.",
+      "authors": [
+        "Bindu Malla",
+        "Bo Yoon Chang",
+        "Seon Beom Kim",
+        "Hyun Park",
+        "Mi Kyeong Lee",
+        "Sung Yeon Kim"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2016-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: The Cnidium monnieri fruits (CMF) were studied how they act on immune system as a novel immunostimulator against the infectious disease. METHODS: Macrophages were treated with CMF, and nitric oxide (NO) and tumour necrosis factor-α (TNF-α) were measured, and phagocytosis of macrophages was detected using FITC-labelled Escherichia coli. The protective effect of CMF against E. coli infection in mice was examined. The survival rate was monitored daily for up to 5 days. And then the viable bacteria count of serum and the immunological mediator (NO, TNF-α, interleukin (IL)-12 and IL-6) of serum, splenocyte and peritoneal macrophages were analysed. KEY FINDINGS: The CMF significantly enhanced the concentrations of NO and TNF-α and the phagocytosis activity in macrophages. The oral administration of CMF for five consecutive days before infection prolonged the survival rate. Treatment with CMF significantly stimulated the phagocytosis of peritoneal macrophages and induced the immunological mediator of serum, splenocyte and peritoneal macrophages against the E. coli infection. CONCLUSIONS: The host-protective effects of CMF might be archived by improving immune response, and CMF could act to prevent pathogenic microbial infections with immunomodulation.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Cell Proliferation",
+        "Cnidium",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Escherichia coli",
+        "Escherichia coli Infections",
+        "Fruit",
+        "Host-Pathogen Interactions",
+        "Interleukin-12",
+        "Interleukin-6",
+        "Macrophages",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Nitric Oxide",
+        "Phagocytosis",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "RAW 264.7 Cells",
+        "Spleen",
+        "Time Factors",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "27082059",
+      "title": "Apoptotic effects of extract from Cnidium monnieri (L.) Cusson by adenosine monosphosphate-activated protein kinase-independent pathway in HCT116 colon cancer cells.",
+      "authors": [
+        "Eun Gyeong Lim",
+        "Guen Tae Kim",
+        "Se Hee Lee",
+        "Sang-Yong Kim",
+        "Young Min Kim"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2016-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Colon cancer, a common malignancy, can occur due to poor eating habits and increasing age. Consequently, careful regulation of eating habits may serve as a possible method for preventing the occurrence or progression of colon cancer. Extracts of the fruit of Cnidium monnieri (L.) Cusson are well‑known as an effective herbal medicine for the treatment of pain in female genitalia and carbuncle. However, there have been no studies on the apoptotic effects of Cnidium monnieri (L.) Cusson (CME). Adenosine monophosphate‑activated protein kinase (AMPK), the major regulator of energy metabolism, is activated by metabolic stress, including hypoxia and glucose deprivation. Activation of AMPK inhibits cell proliferation and induces apoptosis through the inhibition of phosphorylated (p)‑Akt and control of B‑cell lymphoma 2 (Bcl‑2) family members. The pro‑apoptotic proteins Bcl‑2‑associated X protein (Bax) and Bcl‑2‑homologous antagonist killer (Bak), are activated by their translocation to mitochondria from the cytosol. Translocation of Bax/Bak induces outer membrane permeabilization and is likely to lead to apoptosis through cytochrome C release and caspase activity. In the present study, the apoptotic effects and influence on mitochondria‑mediated apoptotic proteins of CME in HCT116 cells were assessed. We hypothesized that CME may have an effect on the inhibition of p‑Akt in an AMPK‑independent pathway. The present study demonstrated that CME induced the release of LDH and apoptosis through its inhibition of p‑Akt to control Bcl‑2 and activate Bax and Bak. Co‑treatment with CME and AMPK inhibitors showed that CME‑induced apoptosis does not occurr through a AMPK‑dependent pathway. Therefore, the present study determined, for the first time, that CME induced apoptosis as a result of causing metabolic stresses due to directly regulation of the de‑phosphorylation of Akt, whereas it did not control the AMPK-dependent pathway in HCT116 colon cancer cells.",
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cnidium",
+        "Colon",
+        "Colonic Neoplasms",
+        "HCT116 Cells",
+        "Humans",
+        "Phosphorylation",
+        "Proto-Oncogene Proteins c-akt",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Signal Transduction",
+        "bcl-2 Homologous Antagonist-Killer Protein",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "26456364",
+      "title": "Osthole, a coumadin analog from Cnidium monnieri (L.) Cusson, stimulates corticosterone secretion by increasing steroidogenic enzyme expression in mouse Y1 adrenocortical tumor cells.",
+      "authors": [
+        "Zhiqiang Pan",
+        "Zhaoqin Fang",
+        "Wenli Lu",
+        "Xiaomei Liu",
+        "Yuanyuan Zhang"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2015-Dec-04",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Osthole is an O-methylated coumadin, which was isolated and purified from the seeds of Cnidium monnieri (L.) Cusson. Osthole is a commonly used traditional Chinese medicine to treat patients with Kidney-Yang deficiency patients, who exhibit clinical signs similar to those of glucocorticoid withdrawal. However, the mechanism of action of osthole is not fully understood. OBJECTIVE: This study was designed to reveal the effects of osthole on corticosterone production in mouse Y1 cell. MATERIALS AND METHODS: Mouse Y1 adrenocortical cells were used to evaluate corticosterone production, which was quantified by enzyme-linked immunosorbent assay (ELISA) kits. Cell viability was tested using the MTT assay, and the mRNA and protein expression of genes encoding steroidogenic enzymes and transcription factors was monitored by quantitative real-time reverse-transcription polymerase chain reaction (qRT-PCR) and western blotting, respectively. RESULTS: Osthole stimulated corticosterone secretion from mouse Y1 cells in a dose- and time-dependent manner, and osthole enhanced the effect of dibutyryl-cAMP (Bu2cAMP) on corticosterone production. Further, osthole also increased StAR and CYP11B1 mRNA expression in a dose-dependent manner and enhanced the expression of transcription factors such as HSD3B1, FDX1, POR and RXRα as well as immediate early genes such as NR4A1. Moreover, osthole significantly increased SCARB1(SRB1) mRNA and StAR protein expression in the presence or absence of Bu2cAMP; these proteins are an important for the transport of the corticosteroid precursor cholesterol transport into mitochondria. CONCLUSIONS: Our results show that the promotion of corticosterone biosynthesis and secretion is a novel effect of osthole, suggesting that this agent can be utilized for the prevention and treatment of Kidney-Yang deficiency syndrome.",
+      "mesh_terms": [
+        "3-Hydroxysteroid Dehydrogenases",
+        "Adrenal Cortex Neoplasms",
+        "Animals",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Cnidium",
+        "Corticosterone",
+        "Coumarins",
+        "Mice",
+        "Phosphoproteins",
+        "RNA, Messenger",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Scavenger Receptors, Class B",
+        "Steroid 11-beta-Hydroxylase",
+        "Steroidogenic Acute Regulatory Protein"
+      ]
+    },
+    {
+      "pmid": "26243582",
+      "title": "Cnidium monnieri: A Review of Traditional Uses, Phytochemical and Ethnopharmacological Properties.",
+      "authors": [
+        "Yi-Min Li",
+        "Min Jia",
+        "Hua-Qiang Li",
+        "Nai-Dan Zhang",
+        "Xian Wen",
+        "Khalid Rahman",
+        "Qiao-Yan Zhang",
+        "Lu-Ping Qin"
+      ],
+      "journal": "The American journal of Chinese medicine",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Cnidium monnieri (L.) Cuss., an annual plant of the Umbelliferae species is one of the most widely used traditional herbal medicines and its fruits have been used to treat a variety of diseases in China, Vietnam, and Japan. The aim of this review is to provide an up-to-date and comprehensive analysis of the botany, traditional uses, phytochemistry, pharmacology, toxicity and contraindication of Cnidium monnieri (L.) Cuss. and to provide future directions of research on this plant. To date, 350 compounds have been isolated and identified from Cnidium monnieri (L.) Cuss., including the main active constituent, coumarins. In vitro and in vivo studies suggest that osthole and other coumarin compounds possess wide range of pharmacological properties for the treatment of female genitals, male impotence, frigidity, skin-related diseases, and exhibit strong antipruritic, anti-allergic, antidermatophytic, antibacterial, antifungal, anti-osteoporotic effects. Although coumarins have been identified as the main active constituents responsible for the observed pharmacological effects, the molecular mechanisms of their actions are still unknown. Therefore, further studies are still required to reveal the structure-activity relationship of these active constituents. In addition, toxicological and clinical studies are also required to provide further data for pharmaceutical use.",
+      "mesh_terms": [
+        "Anti-Allergic Agents",
+        "Anti-Bacterial Agents",
+        "Antifungal Agents",
+        "Antipruritics",
+        "Bone Density Conservation Agents",
+        "Cnidium",
+        "Coumarins",
+        "Female",
+        "Humans",
+        "Male",
+        "Phytotherapy",
+        "Sexual Dysfunction, Physiological",
+        "Skin Diseases",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "25263974",
+      "title": "Inhibitory effects of Cnidium monnieri fruit extract on pulmonary inflammation in mice induced by cigarette smoke condensate and lipopolysaccharide.",
+      "authors": [
+        "Ho-Geun Kwak",
+        "Heung-Bin Lim"
+      ],
+      "journal": "Chinese journal of natural medicines",
+      "publication_date": "2014-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this study was to investigate the inhibitory effect of Cnidium monnieri fruit (CM) extracts on pulmonary inflammation induced in mice by cigarette smoke condensate (CSC) and lipopolysaccharide (LPS). Pulmonary inflammation was induced by intratracheal instillation of LPS and CSC five times within 12 days. CM extract was administered orally at a dose of 50 or 200 mg·kg(-1). The number of inflammatory cells in the bronchoalveolar lavage fluid was counted using a fluorescence activated cell sorter. Inflammatory mediator levels were determined by enzyme-linked immunosorbent assay. The administration of LPS and CSC exacerbated airway hyper-responsiveness (AHR) and induced an accumulation of inflammatory cells and mediators, and led to histological changes. However, these responses are modulated by treatment with CM, and the treatment with CM extract produces similar or more extensive results than the treatment with cyclosporin A (CSA). CM extract may have an inhibitory effect on pulmonary inflammation related with chronic obstructive pulmonary disease.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Bronchoalveolar Lavage Fluid",
+        "Cnidium",
+        "Female",
+        "Fruit",
+        "Lipopolysaccharides",
+        "Mice, Inbred BALB C",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Pneumonia",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Smoke",
+        "Smoking",
+        "Tobacco Products"
+      ]
+    },
+    {
+      "pmid": "24928566",
+      "title": "Subchronic safety evaluation of CMS-1 (a botanical antihypertensive product derived from Semen Cnidium monnieri) in Sprague-Dawley rats and beagle dogs.",
+      "authors": [
+        "Xue-Lian Gong",
+        "Ting-Ting Gao",
+        "Li-Jun Zhao",
+        "Hai Zhu",
+        "Zhen-Na Xia",
+        "Wen Lu",
+        "Guo-Cai Lu"
+      ],
+      "journal": "Regulatory toxicology and pharmacology : RTP",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CMS-1, mainly composed of imperatorin as its active compound, is a partially purified fraction of a Chinese herbal medicine, Semen Cnidium monnieri. CMS-1 has the potential to be further developed as a new treatment for hypertension. Thus, we studied its toxicity in both Sprague-Dawley rats and beagle dogs. Rats (0-900mg/kg/day) and dogs (0-450mg/kg/day) received CMS-1 orally for 30 consecutive days, followed by a 15-day recovery period. The major target organs of CMS-1 toxicity are the GI (inappetence), liver (hepatocellular necrosis, enzyme elevation), thymus (atrophy), cardiovascular (hypotension), changes in ECG T and P waveforms, elevation of nitrous oxide levels and hematological (RBC parameters disturbances) systems. Most treatment-induced adverse effects were reversible or showed a progressive recovery upon discontinuation of the treatment. The No Observed Adverse Effect Level (NOAEL) was 100mg/kg/day for rats and 50mg/kg/day for dogs. This non-clinical study suggests that clinical monitoring of CMS-1 in patients should focus on the gastrointestinal system, blood tests for liver functions, electrolytes, and blood homeostasis, cardiovascular functions, and immune functions.",
+      "mesh_terms": [
+        "Animals",
+        "Antihypertensive Agents",
+        "Cnidium",
+        "Dogs",
+        "Female",
+        "Hematologic Tests",
+        "Male",
+        "Nitrous Oxide",
+        "No-Observed-Adverse-Effect Level",
+        "Organs at Risk",
+        "Plants, Medicinal",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Safety"
+      ]
+    },
+    {
+      "pmid": "24879527",
+      "title": "New coumarins and anti-inflammatory constituents from the fruits of Cnidium monnieri.",
+      "authors": [
+        "Tzong-Huei Lee",
+        "Yuan-Chih Chen",
+        "Tsong-Long Hwang",
+        "Chih-Wen Shu",
+        "Ping-Jyun Sung",
+        "Yun-Ping Lim",
+        "Wen-Lung Kuo",
+        "Jih-Jung Chen"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2014-May-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The fruit of Cnidium monnieri is commercially used as healthcare products for the improvement of impotence and skin diseases. Three new coumarins, 3'-O-methylmurraol (1), rel-(1'S,2'S)-1'-O-methylphlojodicarpin (2), and (1'S,2'S)-1'-O-methylvaginol (3), have been isolated from the fruits of C. monnieri, together with 14 known compounds (4-17). The structures of these new compounds were determined through spectroscopic and MS analyses. Compounds 1, 4-12, and 14-17 exhibited inhibition (IC50 ≤ 7.31 µg/mL) of superoxide anion generation by human neutrophils in response to formyl-l-methionyl-l-leucyl-l-phenylalanine/cytochalasin B (fMLP/CB). Compounds 7, 9-11, 15, and 17 inhibited fMLP/CB-induced elastase release with IC50 values ≤7.83 µg/mL. This investigation reveals that bioactive isolates (especially 6, 7, 14, and 17) could be further developed as potential candidates for the treatment or prevention of various inflammatory diseases.",
+      "mesh_terms": [
+        "Adult",
+        "Anti-Inflammatory Agents",
+        "Cell Degranulation",
+        "Cnidium",
+        "Coumarins",
+        "Fruit",
+        "Humans",
+        "Neutrophils",
+        "Pancreatic Elastase",
+        "Superoxides",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "17154232",
+      "title": "Antitumor effects of Osthol from Cnidium monnieri: an in vitro and in vivo study.",
+      "authors": [
+        "Szu-Yuan Chou",
+        "Chun-Sen Hsu",
+        "Kun-Teng Wang",
+        "Min-Chieh Wang",
+        "Ching-Chiung Wang"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2007-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cnidium monnieri (L.) Cusson is a Chinese medicine which is used widely by traditional medicine doctors. Osthol is a major bio-activity compound of the herb. In this study, osthol was isolated from C. monnieri and its in vitro and in vivo antitumor effects studied. The results of the in vitro study showed: that osthol inhibited the growth of HeLa, in a time- and concentration-dependent manner, with IC(50) values of 77.96 and 64.94 microm for 24 and 48 h, respectively; that osthol had lower cytotoxic effects in primary cultured normal cervical fibroblasts; and that increased DNA fragmentation and activated PARP in HeLa after treatment with osthol which could induce apoptosis. The results of the in vivo model showed that the survival days of the P-388 D1 tumor-bearing CDF(1) mice were prolonged (ILS% = 37) after osthol (30 mg/kg) was given once a day for 9 days. Based on these results, it is suggested that osthol could inhibit P-388 D1 cells in vivo and induce apoptosis in HeLa cells in vitro, and that osthol is good lead compound for developing antitumor drugs. However, C. formosanum Yabe of Taiwan's endemic plants contained little osthol, with no imperatorin, and its major components were different from that of C. monnieri. Therefore, it is suggested that C. formosanum also may possess economic worth.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Cell Line, Tumor",
+        "Cnidium",
+        "Coumarins",
+        "DNA Fragmentation",
+        "Dose-Response Relationship, Drug",
+        "Fruit",
+        "HeLa Cells",
+        "Humans",
+        "Inhibitory Concentration 50",
+        "Mice",
+        "Phytotherapy"
+      ]
+    },
+    {
+      "pmid": "15776929",
+      "title": "Simultaneous separation and purification of five bioactive coumarins from the Chinese medicinal plant Cnidium monnieri by high-speed counter-current chromatography.",
+      "authors": [
+        "Hua-Bin Li",
+        "Feng Chen"
+      ],
+      "journal": "Journal of separation science",
+      "publication_date": "2005-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Cnidium monnieri (L.) Cusson is a well-known Chinese medicinal plant, which has been used for the treatment of impotence, frigidity, and skin-related diseases, and exhibits strong antipruritic, antiallergic, antidermatophytic, antibacterial, antifungal, and antiosteoporotic activities. A high-speed counter-current chromatography method was developed for the separation and purification of five bioactive coumarins from this plant. The crude coumarins were obtained by ethanol extraction from the dried fruits of Cnidium monnieri (L.) Cusson under sonication. High-speed counter-current chromatography with the two-phase solvent systems n-hexane-ethyl acetate-ethanol-water (5:5:4:6, v/v) and n-hexane-ethyl acetate-ethanol-water (5:5:6:4, v/v) was successfully performed with stepwise elution. The five relatively pure coumarins were obtained from 500 mg of the crude extract in a single run. Their purities were 90.6-98.9%, and the recoveries were 85.7-94.2%.",
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cnidium",
+        "Coumarins",
+        "Drugs, Chinese Herbal",
+        "Molecular Structure",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Solvents"
+      ]
+    },
+    {
+      "pmid": "9863099",
+      "title": "[Effects of coumarins from cnidium monnieri on the function of pituitary-adrenocortical axis in kidney yang deficiency rats].",
+      "authors": [
+        "L P Qin",
+        "J Q Zhang",
+        "H P Shi"
+      ],
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "publication_date": "1997-Apr",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To observe the effect of Cnidium monnieri in Kidney Yang Deficiency rats. METHODS: Rats were injected intraperitoneally with hydrocortisone acetate to replicate the animal model of Kidney Yang Deficiency. Osthol, total-coumarins (TCR) from the fruit of Cnidium monnieri and positive control drug (PCD) were administered orally to model rats. The plasma levels of corticosterone (B), adrenocorticotropic hormone (ACTH), renin (PRA), angiotensin-II (AT-II) and aldosterone (ALD) were determined by radioimmunoassay. RESULTS: Compared with those in normal rats, the levels of B and ACTH in the plasma of model rats lowered significantly (P < 0.01), the levels of B and ACTH of treatment groups were higher than those of model group, while the levels of PRA, AT-II and ALD had no significant difference (P > 0.05). CONCLUSION: The osthol, TCR have the effects in protecting and strengthening the function of pituitary-adrenocortex axis.",
+      "mesh_terms": [
+        "Adrenocorticotropic Hormone",
+        "Animals",
+        "Apiaceae",
+        "Corticosterone",
+        "Coumarins",
+        "Hydrocortisone",
+        "Kidney Diseases",
+        "Male",
+        "Pituitary Gland, Anterior",
+        "Pituitary-Adrenal System",
+        "Rats",
+        "Rats, Wistar",
+        "Yang Deficiency"
+      ]
+    },
+    {
+      "pmid": "8392879",
+      "title": "[Effects of total coumarins, essential oil and water extracts of Cnidium monnieri on plasma prostaglandin and cyclic nucleotide in the rats of kidney-yang insufficiency].",
+      "authors": [
+        "L P Qin",
+        "H Wu",
+        "Q H Zhou"
+      ],
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "publication_date": "1993-Feb",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "Effects of total coumarins, essential oil and water extracts of Cnidium monnieri on plasma prostaglandin (PGE2 and PGF2 alpha) and cyclic nucleotide levels in rats of Kidney-Yang insufficiency were studied. 55 rats were divided randomly into 5 groups, Group I was administered orally with saline (normal group), group II was injected with intraperitonally hydrocortison acetate to induce Kidney-Yang insufficiency (control group), group III, group IV and group V (experimental groups) were injected with hydrocortison acetate, the same as group II, and administered orally with the total coumarins, essential oil and water extracts of Fructus Cnidii respectively. The levels of plasma PGE2, PG2 alpha and plasma cAMP, cGMP were measured. In group II, in comparing with those of group I, the levels of plasma PGE2, and PGF2 alpha decreased significantly (P < 0.01), and the value of cAMP/cGMP also lowered obviously (P < 0.01) due to the significant reduction of cAMP and insignificant change of cGMP. In group III and group V, the above-mentioned indices changed significantly (P < 0.01 or 0.05) compared with those of group II, and after treatment it normalized basically in comparing with those of group I. In group IV, those indices didn't change regularly and apparently as group III and group V did, compared with group II, and could not normalize satisfactorily. It is suggested that the coumarins in the fruit of Cnidium monnieri are probably the effective ingredients to invigorate Kidney and strengthen Yang, while the efficacy of essential oil remained unconfirmed.",
+      "mesh_terms": [
+        "Animals",
+        "Coumarins",
+        "Cyclic AMP",
+        "Cyclic GMP",
+        "Dinoprost",
+        "Dinoprostone",
+        "Drugs, Chinese Herbal",
+        "Kidney Diseases",
+        "Male",
+        "Oils, Volatile",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Yang Deficiency"
+      ]
+    }
+  ]
+}

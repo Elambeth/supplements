@@ -1,0 +1,1399 @@
+{
+  "supplement": "Maitake",
+  "query": "Maitake[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:00:50",
+  "research_count": 41,
+  "count": 41,
+  "articles": [
+    {
+      "pmid": "40184926",
+      "title": "Effects of hydrothermal treatment and low pH on the fermentation characteristics of polysaccharides based water-soluble Maitake with Lactobacillus acidophilus and L. plantarum.",
+      "authors": [
+        "Mst Nushrat Yiasmin",
+        "Md Easdani",
+        "Shabbir Ahammed",
+        "Mahbuba Siddiquy",
+        "K M Maruf Hasan",
+        "Weichao Cao",
+        "Nuo Chen",
+        "Md Asaduzzaman",
+        "Cong Liu",
+        "Yaxian Liu",
+        "Xiao Hua"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2025-Jul-30",
+      "publication_types": [
+        "Journal Article",
+        "Evaluation Study"
+      ],
+      "abstract": "Maitake (Grifola frondosa) is rich in bioactive polysaccharides and is known for its health benefits. This study investigated the effects of hydrothermal treatment (HT) and low pH conditions on Maitake, revealing their effectiveness in the bioactive polysaccharide extraction and metabolite bioavailability. HT and low pH-induced significant structural changes, with WSP-HT1 showing 99.67 % degradation and yielding 41.46 % β-glucan and 0.43 % α-glucan. Sodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis demonstrated 45-10 kDa protein transformations, supported by molecular docking and dynamic simulations. FT-IR spectroscopy revealed carbohydrate spectral shifts and increased α-helix random coil association. Treated samples (WSP-LA-pH1, WSP-LA-pH4, WSP-LP-pH1, WSP-LP-pH4) exhibited enhanced optical density, antioxidant activity, fluorescence, and decried surface hydrophobicity. The metabolomic analysis highlighted significant pathway alterations, validated by Principal Component, Partial Least Squares Discriminant, Variable Importance in Projection, and Kyoto Encyclopedia of Genes and Genomes analysis. These findings confirm that hydrothermal treatment and low pH effectively extract active substances, enriching Maitake's medicinal properties.",
+      "mesh_terms": [
+        "Hydrogen-Ion Concentration",
+        "Lactobacillus plantarum",
+        "Grifola",
+        "Fermentation",
+        "Polysaccharides",
+        "Lactobacillus acidophilus",
+        "Hot Temperature",
+        "Solubility",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "38616114",
+      "title": "Maitake Beta-Glucan Enhances the Therapeutic Effect of Trastuzumab via Antibody-Dependent Cellular Cytotoxicity and Complement-Dependent Cytotoxicity.",
+      "authors": [
+        "Yuki Masuda",
+        "Shizuka Yamashita",
+        "Yoshiaki Nakayama",
+        "Ryohei Shimizu",
+        "Morichika Konishi"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Trastuzumab, an anti-HER2 monoclonal antibody, is the mainstay treatment for of HER2-positive breast cancer. However, trastuzumab resistance is often observed during treatment. Therefore, new therapeutic strategies are needed to enhance the clinical benefits of trastuzumab. Maitake β-glucan MD-Fraction, isolated from Grifola frondosa, inhibits tumor growth by enhancing immune responses. In this study, we examined the effect of MD-Fraction on trastuzumab treatment of HER2-positive breast cancer. MD-Fraction did not directly inhibit the survival of HER2-positive breast cancer cells, alone or in the presence of trastuzumab in vitro. In HER2-positive xenograft models, the combination of MD-Fraction and trastuzumab was more effective than trastuzumab alone. Peripheral blood lymphocytes and splenic natural killer cells isolated from BALB/c nu/nu mice treated with MD-Fraction showed enhanced trastuzumab-induced antibody-dependent cellular cytotoxicity (ADCC) ex vivo. MD-Fraction-treated macrophages and neutrophils did not show enhanced trastuzumab cytotoxicity in the presence of heat-inactivated serum, but they showed enhanced cytotoxicity in the presence of native serum. These results suggest that MD-Fraction-treated macrophages and neutrophils enhance trastuzumab-induced complement-dependent cellular cytotoxicity (CDCC). Treatment of HER2-positive breast cancer cells with MD-Fraction in the presence of trastuzumab and native serum increased C3a release and tumor cell lysis in a dose-dependent manner, indicating that MD-Fraction enhanced trastuzumab-induced complement-dependent cytotoxicity (CDC) by activating the complement system. This study demonstrates that the combination of trastuzumab and MD-Fraction exerts a greater antitumor effect than trastuzumab alone by enhancing ADCC, CDCC, and CDC in HER2-positive breast cancer.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Humans",
+        "Female",
+        "Trastuzumab",
+        "beta-Glucans",
+        "Grifola",
+        "Antibody-Dependent Cell Cytotoxicity",
+        "Adjuvants, Immunologic",
+        "Breast Neoplasms",
+        "Mice, Inbred BALB C"
+      ]
+    },
+    {
+      "pmid": "36749053",
+      "title": "Maitake Medicinal Mushroom, Grifola frondosa (Agaricomycetes), and Its Neurotrophic Properties: A Mini-Review.",
+      "authors": [
+        "Adrina Mohamad Naguib",
+        "Yasaaswini Apparoo",
+        "Chuan Xiong",
+        "Chia Wei Phan"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2023",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "Neurodegeneration is one of the most common manifestations in an aging population. The occurrence of oxidative stress and neuroinflammation are the main contributors to the phenomenon. Neurologic conditions such as Alzheimer's disease (AD) and Parkinson's disease (PD) are challenging to treat due to their irreversible manner as well as the lack of effective treatment. Grifola frondosa (Dicks.: Fr.) S.F. Gray, or maitake mushroom, is believed to be a potential choice as a therapeutic agent for neurodegenerative diseases. G. frondosa is known to be a functional food that has a wide variety of medicinal purposes. Thus, this review emphasizes the neuroprotective effects and the chemical composition of G. frondosa. Various studies have described that G. frondosa can protect and proliferate neuronal cells through neurogenesis, antioxidative, anti-inflammatory, and anti-β-amyloid activities. The mechanism of action behind these therapeutic findings in various in vitro and in vivo models has also been intensively studied. In this mini review, we also summarized the chemical composition of G. frondosa to provide a better understanding of the presence of nutritional compounds in G. frondosa.",
+      "mesh_terms": [
+        "Grifola",
+        "Antioxidants",
+        "Adjuvants, Immunologic",
+        "Agaricales"
+      ]
+    },
+    {
+      "pmid": "36709912",
+      "title": "Maitake α-glucan promotes differentiation of monocytic myeloid-derived suppressor cells into M1 macrophages.",
+      "authors": [
+        "Yuki Masuda",
+        "Yoshiaki Nakayama",
+        "Ryohei Shimizu",
+        "Kenta Naito",
+        "Eri Miyamoto",
+        "Akihiro Tanaka",
+        "Morichika Konishi"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2023-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Myeloid-derived suppressor cells (MDSCs) are major components of the tumor microenvironment and systemically accumulate in tumor-bearing hosts and patients with cancer, facilitating cancer progression. Maitake macromolecular α-glucan YM-2A, isolated from Grifola frondosa, inhibits tumor growth by enhancing immune responses. The present study investigated the effects of YM-2A on the immunosuppressive potential of MDSCs. MAIN METHODS: YM-2A was orally administered to CT26 tumor-bearing mice, and the number of immune cells in the spleen and tumor was measured. Splenic MDSCs isolated from the CT26 tumor-bearing mice were treated with YM-2A and co-cultured with T cells to measure their inhibitory effect on T cell proliferation. For adoptive transfer of monocytic MDSCs (M-MDSCs), YM-2A-treated M-MDSCs mixed with CT26 cells were implanted subcutaneously in the mice to measure the tumor growth rate. KEY FINDINGS: YM-2A selectively reduced the accumulation of M-MDSCs but not that of polymorphonuclear MDSCs (PMN-MDSCs) in CT26 tumor-bearing mice. In tumor tissues, YM-2A treatment induced the polarity of immunostimulatory M1-phenotype; furthermore, it increased the infiltration of dendritic, natural killer, and CD4+ and CD8+ T cells. YM-2A treatment of purified M-MDSCs from CT-26 tumor-bearing mice induced dectin-1-dependent differentiation into M1 macrophages. YM-2A-treated M-MDSCs lost their inhibitory activity against proliferation and activation of CD8+ T cells. Furthermore, adoptive transfer of M-MDSCs treated with YM-2A inhibited CT26 tumor growth. SIGNIFICANCE: YM-2A promotes the differentiation of M-MDSCs into immunostimulatory M1 macrophages, thereby enhancing the efficacy of cancer immunotherapy.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Myeloid-Derived Suppressor Cells",
+        "Grifola",
+        "Glucans",
+        "CD8-Positive T-Lymphocytes",
+        "Adjuvants, Immunologic",
+        "Macrophages",
+        "Cell Differentiation",
+        "Mice, Inbred C57BL",
+        "Tumor Microenvironment"
+      ]
+    },
+    {
+      "pmid": "36138418",
+      "title": "CD3Ɛ immune restorative ability induced by Maitake Pro4x in immunosupressed BALBc mice.",
+      "authors": [
+        "Diego Maximo Aguilera-Braico",
+        "Gabriela A Balogh"
+      ],
+      "journal": "BMC research notes",
+      "publication_date": "2022-Sep-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: The aim of this research was to determine if the rich beta glucan compound called Maitake Pro4X can recover the T cell/NK population depleted by Dexamethasone treatment in lymph nodes from cancer-free BALBc female mice. A CD3Ɛ molecular FITC labelled marker was used to measure the effect of Maitake D-Fraction Pro4X (5 mg/kg) on T cell/NK cells populations employing flow cytometry from immunosuppressed female BALBc mice in lymph nodes. There were employed other molecular markers such as CD19, CD105, Ly6G. RESULTS: Maitake Pro4X (5 mg/kg) was able to recover 42.97% of the depleted CD3Ɛ FITC cell population level in Lymph nodes from immunosuppressed female BALBc mice from 4.328 ± 6.229 to 22.646 ± 12.393 (p < 0.01) using Flow Cytometry. Maitake was also able to significantly increase the Ly6G PE cell population with p < 0.05 in lymph nodes.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Dexamethasone",
+        "Female",
+        "Fluorescein-5-isothiocyanate",
+        "Grifola",
+        "Mice",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "36070433",
+      "title": "Effect of Maitake D-fraction in advanced laryngeal and pharyngeal cancers during concurrent chemoradiotherapy: A randomized clinical trial.",
+      "authors": [
+        "Qinglei Hu",
+        "Binli Xie"
+      ],
+      "journal": "Acta biochimica Polonica",
+      "publication_date": "2022-Sep-07",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Concurrent chemo-radiotherapy (CCRT) is an ideal treatment for advanced head and neck squamous cell carcinoma (HNSCC). The performance of CCRT induces severe toxicities in HNSCC patients and decreases the quality of life (QOL). Maitake D-Fraction is proteoglycan which has anti-tumor function associated with its immunomodulatory capacity. The polysaccharides of Maitake also have anti-radiation effect in radiation therapy during cancer treatment. This research aimed to illustrate Maitake D-Fraction effects on CCRT-associated adverse events and QOL. METHODS: During CCRT, Maitake capsules were taken orally 3 times a day, each time 4 capsules, one hour before meals. QOL were analyzed by EORTC QLQ-C30-Chinese version and EORTC QLQ-HandN-35-Chinese version. 141 patients were recruited and divided into an intervention group and a placebo group. RESULTS: Frequencies of severe CCRT-associated adverse events in intervention group were less than in placebo group. Global QOL score in intervention group was higher than in placebo group 5 weeks post treatment. The proportion of patients returning to baseline global QOL score at 6-month was increased by Maitake D-Fraction administration. CONCLUSION: In conclusion, this randomized clinical trial demonstrated that in advanced laryngeal and pharyngeal cancer patients, the oral administration of Maitake D-Fraction alleviated CCRT-related adverse events and deterioration in QOL.",
+      "mesh_terms": [
+        "Chemoradiotherapy",
+        "Grifola",
+        "Head and Neck Neoplasms",
+        "Humans",
+        "Pharyngeal Neoplasms",
+        "Polysaccharides",
+        "Proteoglycans",
+        "Quality of Life",
+        "Squamous Cell Carcinoma of Head and Neck"
+      ]
+    },
+    {
+      "pmid": "34836223",
+      "title": "Grifola frondosa (Maitake) Extract Reduces Fat Accumulation and Improves Health Span in C. elegans through the DAF-16/FOXO and SKN-1/NRF2 Signalling Pathways.",
+      "authors": [
+        "Paula Aranaz",
+        "Adriana Peña",
+        "Ariane Vettorazzi",
+        "María José Fabra",
+        "Antonio Martínez-Abad",
+        "Amparo López-Rubio",
+        "Joan Pera",
+        "Javier Parladé",
+        "Massimo Castellari",
+        "Fermín I Milagro",
+        "Carlos J González-Navarro"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Nov-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In recent years, food ingredients rich in bioactive compounds have emerged as candidates to prevent excess adiposity and other metabolic complications characteristic of obesity, such as low-grade inflammation and oxidative status. Among them, fungi have gained popularity for their high polysaccharide content and other bioactive components with beneficial activities. Here, we use the C. elegans model to investigate the potential activities of a Grifola frondosa extract (GE), together with the underlying mechanisms of action. Our study revealed that GE represents an important source of polysaccharides and phenolic compounds with in vitro antioxidant activity. Treatment with our GE extract, which was found to be nongenotoxic through a SOS/umu test, significantly reduced the fat content of C. elegans, decreased the production of intracellular ROS and aging-lipofuscin pigment, and increased the lifespan of nematodes. Gene expression and mutant analyses demonstrated that the in vivo anti-obesity and antioxidant activities of GE were mediated through the daf-2/daf-16 and skn-1/nrf-2 signalling pathways, respectively. Taken together, our results suggest that our GE extract could be considered a potential functional ingredient for the prevention of obesity-related disturbances.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Aging",
+        "Animals",
+        "Anti-Obesity Agents",
+        "Antioxidants",
+        "Caenorhabditis elegans",
+        "Caenorhabditis elegans Proteins",
+        "Complex Mixtures",
+        "DNA-Binding Proteins",
+        "Dietary Supplements",
+        "Forkhead Transcription Factors",
+        "Grifola",
+        "Lipofuscin",
+        "Longevity",
+        "NF-E2-Related Factor 2",
+        "Reactive Oxygen Species",
+        "Signal Transduction",
+        "Transcription Factors"
+      ]
+    },
+    {
+      "pmid": "34800021",
+      "title": "Application of the thick extract from Maitake mushrooms for correction of metabolic disorders under the paracetamol hepatitis in rats.",
+      "authors": [
+        "Iryna Herasymets",
+        "Liudmyla Fira",
+        "Ihor Medvid"
+      ],
+      "journal": "Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego",
+      "publication_date": "2021-Oct-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: It is known that the violation of one or more functions of the liver, where the basic biochemical processes take place, is reflected in the functional state of many organs and systems, causing severe consequences. For the effective treatment of the hepatobiliary system diseases the drugs from fungi and plant materials are promising, the ingredients of which are close to natural metabolites, have different mechanisms of hepatoprotective action and, in general, can have a positive effect on liver function. AIM: The aim of the research was to investigate the hepatoprotective properties of the Maitake mushrooms thick extract in the experiment on rats with paracetamol (acetaminophen)-induced hepatitis. MATERIALS AND METHODS: The study was performed on 60 white male rats weighing 180-210 g and aged 6-6,5 months. Rats were divided into 10 groups, each of which included 6 animals. Acute hepatitis was simulated by acetaminophen intragastrically administering at a dose of 1250 mg/ kg of body weight 1 time per day as a suspension in 2% starch gel solution for 2 days. Correction of the toxic lesions was performed with a thick extract of Maitake mushrooms, which was administered intragastrically 2 hours before the introduction of acetaminophen and daily after the lesion at a dose of 150 mg/kg of body weight. \"Silibor\" (active basis - silymarin) was chosen as a comparison drug, which was administered according to the same scheme as Maitake extract at a dose of 20 mg/kg of animal body weight. On the 3rd, 7th and 10th days from the onset of the lesion, rats were euthanized using sodium barbamyl. Liver homogenate and blood serum were tested. Blood was taken from the hearts of animals. Endogenous intoxication of animals after the introduction of corrective factors was assessed by the activity of ALT, AST, GGTP, LF and the size of the thymol sample. All changes were confirmed by parametric and nonparametric methods of statistical analysis of the results of the study. RESULTS: The expressed cytolysis of hepatocytes, after administration to rats of toxicant, on the basis of research of the activity of aminotransferases, gamma-glutamyltranspeptidase, alkaline phosphatase and thymol sample size is proved. The results of the experiment were confirmed histologically. The introduction of a thick extract of Maitake mushrooms contributed to the normalization of the studied indicators. CONCLUSIONS: The application of the Maitake mushrooms thick extract as a corrective factor in the simulated acetaminophen hepatitis indicates its hepato-, cytoprotective and antioxidative properties.",
+      "mesh_terms": [
+        "Acetaminophen",
+        "Animals",
+        "Chemical and Drug Induced Liver Injury",
+        "Grifola",
+        "Hepatitis",
+        "Liver",
+        "Male",
+        "Metabolic Diseases",
+        "Plant Extracts",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "34271115",
+      "title": "Antitumor activities of Grifola frondosa (Maitake) polysaccharide: A meta-analysis based on preclinical evidence and quality assessment.",
+      "authors": [
+        "Fei Zhao",
+        "Zhong Guo",
+        "Zhong-Ren Ma",
+        "Ling-Li Ma",
+        "Jin Zhao"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2021-Nov-15",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: The antitumor effects of Grifola frondosa/maitake polysaccharide (GFP) have been reported in many preclinical studies, especially in vivo experiments. The present meta-analysis aimed to provide an in vivo evidence and theoretical basis for future clinical trials by assessing the efficacy and underlying mechanisms of GFP in tumor treatment. MATERIALS AND METHODS: English and Chinese databases were examined to include animal experiments to study the antitumor activity of GFP. Literature screening, data extraction, and meta-analysis were conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. In addition, the Systematic Review Center for Laboratory animal Experimentation (SYRCLE) risk of bias (RoB) tool was used to assess the risk of bias of the included animal studies. RESULTS: Potentially relevant studies (442) were identified, and finally 24 eligible studies (all in English) were included. The meta-analysis revealed that GFP has significant effects in inhibiting tumor growth (high dose: mean difference (MD) = -1.34, 95% confidence interval (CI) = [-1.73, -0.95]; low dose: MD = -5.68, 95% CI = [-7.27, -4.09]), improving tumor remission rate (odds ratio = 25.59, 95% CI = [9.08, 72.11]), and enhancing immune function in both cellular (CD4+ T cell percentage: MD = 3.03, 95% CI = [1.16, 4.90]; CD8+ T cell percentage: MD = 1.10, 95% CI = [-0.29, 2.49]) and humoral immunity (MD and [95% CI] of interleukin (IL)-2, IL-12 and tumor necrosis factor-α were 7.86 [6.29, 9.44], 35.95 [5.18, 66.72], and 10.03 [8.71, 11.36], respectively), and the differences between the two groups of the above indicators were statistically significant (all P < 0.01) except CD8+ T cell percentage. Additionally, the quality of the included studies was not high, and the risk of bias mainly concentrated on selection, detection, and reporting biases. CONCLUSION: GFP is a potential candidate for tumor treatment and clinical trials. TRIAL REGISTRATION: The review protocol for this study was registered with the PROSPERO database before beginning the review process (CRD42018108897).",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Dose-Response Relationship, Drug",
+        "Grifola",
+        "Humans",
+        "Neoplasms",
+        "Polysaccharides"
+      ]
+    },
+    {
+      "pmid": "35542273",
+      "title": "A Maitake (Grifola frondosa) polysaccharide ameliorates Alzheimer's disease-like pathology and cognitive impairments by enhancing microglial amyloid-β clearance.",
+      "authors": [
+        "Yao Bai",
+        "Lingling Chen",
+        "Yao Chen",
+        "Xinmeng Chen",
+        "Yilong Dong",
+        "Shangyong Zheng",
+        "Lei Zhang",
+        "Weiyuan Li",
+        "Jing Du",
+        "Hongliang Li"
+      ],
+      "journal": "RSC advances",
+      "publication_date": "2019-Nov-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease (AD) is characterized by the deposition of amyloid-β (Aβ) plaques, neuronal loss and neurofibrillary tangles. In addition, neuroinflammatory processes are thought to contribute to AD pathophysiology. Maitake (Grifola frondosa), an edible/medicinal mushroom, exhibits high nutritional value and contains a great amount of health-beneficial, bioactive compounds. It has been reported that proteo-β-glucan, a polysaccharide derived from Maitake (PGM), possesses strong immunomodulatory activities. However, whether PGM is responsible for the immunomodulatory and neuroprotection effects on APPswe/PS1ΔE9 (APP/PS1) transgenic mice, a widely used animal model of AD, remains unclear. In the present study, the results demonstrated that PGM could improve learning and memory impairment, attenuate neuron loss and histopathological abnormalities in APP/PS1 mice. In addition, PGM treatment could activate microglia and astrocytes and promote microglial recruitment to the Aβ plaques. Also, PGM could enhance Aβ phagocytosis, and thereby alleviate Aβ burden and the pathological changes in the cortex and hippocampus in APP/PS1 mice. Moreover, PGM showed no significant effect on mice body weight. In conclusion, these findings indicated that administration of PGM could improve memory impairment via immunomodulatory action, and dietary supplementation with PGM may provide potential benefits on brain aging related memory dysfunction."
+    },
+    {
+      "pmid": "32450016",
+      "title": "A Polysaccharide Extract from Maitake Culinary-Medicinal Mushroom, Grifola frondosa (Agaricomycetes) Ameliorates Learning and Memory Function in Aluminum Chloride-Induced Amnesia in Mice.",
+      "authors": [
+        "Linlin Fan",
+        "Lingling Chen",
+        "Zhi Liang",
+        "Hongkun Bao",
+        "Dan Wang",
+        "Yilong Dong",
+        "Shangyong Zheng",
+        "Chunjie Xiao",
+        "Jing Du",
+        "Hongliang Li"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Maitake (Grifola frondosa) is an edible mushroom exhibiting high nutritional value in terms of containing health-beneficial bioactive compounds. Previously, we reported that a protein-bound polysaccharide bioactive component of G. frondosa (PGM) could enhance the expression of α-amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid receptor (AMPAR), which is critical for learning and memory. However, the potential benefits of PGM on learning and memory function have never been investigated. In the current study, we aimed to explore the beneficial effect of PGM on learning and memory function in aluminum chloride (AlCl3)-induced amnesia in mice and to explore the underlying mechanisms. Mice were intraperitoneally administered with AlCl3 (60 mg/kg/d) and PGM (5, 10, or 20 mg/kg/d) for 6 weeks consecutively, and then the Morris water maze (MWM) test was conducted to assess the learning and memory function. Hematoxylin-eosin staining was performed to observe the morphology of neurons in the hippocampal dentate gyrus (DG). The expression of p-Tau (Ser396), Tau, p-GluA1 (S845), GluA1, and brain-derived neurotrophic factor (BDNF) proteins was evaluated with western blot. We found that PGM (5 and 10 mg/kg/d) significantly improved learning and memory function and attenuated histopathological abnormalities in the hippocampal DG region in the AlCl3-treated mice. Furthermore, PGM treatment significantly enhanced the level of AMPAR and BDNF in the hippocampus, while suppressing the tau protein hyperphosphorylation at the Ser396 site. These findings indicated that PGM could significantly attenuate the AlCl3-induced amnesia through the synergistic action of its active component on tau pathology, AMPAR and BDNF signaling pathway.",
+      "mesh_terms": [
+        "Aluminum Chloride",
+        "Amnesia",
+        "Animals",
+        "Dentate Gyrus",
+        "Disease Models, Animal",
+        "Grifola",
+        "Histocytochemistry",
+        "Injections, Intraperitoneal",
+        "Learning",
+        "Maze Learning",
+        "Memory",
+        "Mice",
+        "Neurons",
+        "Neuroprotective Agents",
+        "Polysaccharides",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "30586664",
+      "title": "Maturation of dendritic cells by maitake α-glucan enhances anti-cancer effect of dendritic cell vaccination.",
+      "authors": [
+        "Yuki Masuda",
+        "Yoshiaki Nakayama",
+        "Takehiro Mukae",
+        "Akihiro Tanaka",
+        "Kenta Naito",
+        "Morichika Konishi"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dendritic cells (DCs) play a primary role in antigen presentation to CD4+ and CD8+ T cells and induce acquired immune response against cancer cells. Therefore, determining positive modulators of DC activation to improve therapeutic approaches for cancer immunotherapy is greatly needed. In this study, we investigated the effect of maitake α-glucan YM-2A, isolated from Grifola frondosa, on the maturation and function of DCs and its adjuvant effect on a tumor-associated antigen (TAA)-loaded DC vaccine against murine tumor. We showed that YM-2A induced morphological changes and increased cell-surface maturation markers and cytokine production in DCs. In a mixed lymphocyte reactions assay, YM-2A-treated DCs increased proliferation and production of IFN-γ by allogeneic CD4+ and CD8+ T cells. These results indicate that YM-2A phenotypically and functionally activates DCs. Furthermore, YM-2A-treated TAA-loaded DC vaccine significantly reduced tumor growth and improved survival in two murine tumor models, CT-26 tumor-bearing BALB/c mice and B16 melanoma-bearing C57BL/6 mice. YM-2A-treated TAA-loaded DC vaccine increased splenic IFN-γ producing CD4+ and CD8+ T cells in CT-26 tumor-bearing BALB/c mice. Antibody neutralization studies indicated that YM-2A-induced DC maturation is mediated, in part, by the Dectin-1-dependent pathway. Overall, YM-2A-treatment with a TAA-loaded DC vaccine could be an excellent candidate for immunotherapy against cancer.",
+      "mesh_terms": [
+        "Animals",
+        "CD4-Positive T-Lymphocytes",
+        "CD8-Positive T-Lymphocytes",
+        "Cancer Vaccines",
+        "Dendritic Cells",
+        "Female",
+        "Glucans",
+        "Grifola",
+        "Interferon-gamma",
+        "Lectins, C-Type",
+        "Mice",
+        "Neoplasms, Experimental"
+      ]
+    },
+    {
+      "pmid": "30514871",
+      "title": "A polysaccharide-peptide with mercury clearance activity from dried fruiting bodies of maitake mushroom Grifola frondosa.",
+      "authors": [
+        "Weiwei Zhang",
+        "Xuezhen Jiang",
+        "Shuang Zhao",
+        "Xiaojie Zheng",
+        "Jin Lan",
+        "Hexiang Wang",
+        "Tzi Bun Ng"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2018-Dec-04",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Mercury is considered to be \"a global pollutant\" and raises concern worldwide. Once mercury enters the body, it will be distributed all over the body but will accumulate in the brain, kidney and liver. To date, no substance originating from edible fungi capable of adsorbing mercury has been reported. We found that the mushroom Grifola frondosa exhibited mercury adsorption capacity. A polysaccharide-peptide (GFPP), displaying the unique N-terminal amino acid sequence of APPGMHQKQQ and 7 partial sequences with high reliability obtained by LC-MS/MS, was isolated by hot-water extraction of its fruiting bodies followed by ion exchange chromatography and gel filtration chromatography. Two rat models were employed to determine the dose and the duration of HgCl2 treatment (given by acute administration or continuous treatment) to test if G. frondosa could promote mercury elimination. For rats subjected to acute treatment with HgCl2, both GFPP and G. frondosa fruiting bodies (GFFF) could accelerate the decline of blood mercury level, which fell precipitously by 50% on the second day. GFPP and GFFF also promoted elimination of the burden of mercury in the liver and kidneys. For rats receiving continuous HgCl2 treatment, G. frondosa prevented the progressive increase of blood mercury level, and kept the blood mercury level within a relatively stable range.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Chemical Analysis",
+        "Chromatography, Gel",
+        "Chromatography, Liquid",
+        "Environmental Pollutants",
+        "Fruiting Bodies, Fungal",
+        "Grifola",
+        "Mercuric Chloride",
+        "Metabolic Clearance Rate",
+        "Protein Binding",
+        "Proteoglycans",
+        "Rats",
+        "Tandem Mass Spectrometry",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "29805742",
+      "title": "Antitumoral and antimetastatic activity of Maitake D-Fraction in triple-negative breast cancer cells.",
+      "authors": [
+        "Eliana Noelia Alonso",
+        "María Julia Ferronato",
+        "María Eugenia Fermento",
+        "Norberto Ariel Gandini",
+        "Alejandro López Romero",
+        "Josefina Alejandra Guevara",
+        "María Marta Facchinetti",
+        "Alejandro Carlos Curino"
+      ],
+      "journal": "Oncotarget",
+      "publication_date": "2018-May-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Triple-negative breast cancer (TNBC) is associated with poor prognosis, high local recurrence rate and high rate of metastasis compared with other breast cancer subtypes. In addition, TNBC lacks a targeted therapy. This scenario highlights the need for novel compounds with high potential for TNBC treatment. In this regard, natural products are important sources of anticancer drugs. D-Fraction, a proteoglucan extracted from the edible and medicinal mushroom Grifola frondosa (Maitake), is a dietary supplement that has been shown to exert both immunostimulatory and immune-independent antitumoral effects on some cancer types. However, its antitumoral potential in TNBC is unknown. Therefore, we employed TNBC cells to investigate if D-Fraction is able to attenuate their aggressive phenotype. We found that D-Fraction decreases MDA-MB-231 cell viability through apoptosis induction and reduces their metastatic potential. D-Fraction increases cell-cell adhesion by increasing E-cadherin protein levels and β-catenin membrane localization, and increases cell-substrate adhesion. D-Fraction also decreases cell motility by affecting actin cytoskeleton rearrangements, and proteolytic activity of MMP-2 and MMP-9. Furthermore, D-Fraction decreases the invasive capacity of MDA-MB-231 cells. In concordance, D-Fraction retards tumor growth and reduces lung metastases in a xenograft model. Altogether, these results suggest the potential therapeutic role of D-Fraction in aggressive TNBC."
+    },
+    {
+      "pmid": "28528571",
+      "title": "Induction Effect to Apoptosis by Maitake Polysaccharide: Synergistic Effect of Its Combination With Vitamin C in Neuroglioma Cell.",
+      "authors": [
+        "Lei Duan",
+        "Xiao-Lu Wu",
+        "Fei Zhao",
+        "Rong Zeng",
+        "Ke-Hu Yang"
+      ],
+      "journal": "Journal of evidence-based complementary & alternative medicine",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Polysaccharide extracted from the Maitake mushroom (MP) is considered as a potential anticancer agent. The present study was performed to investigate the cytotoxic effects of MP and vitamin C (VC) alone and in combination on the viability of human neuroglioma M059 K cells in vitro. A combination of MP (1.0 mg/mL) and VC (0.4 mmol/L) led to a 53.10% reduction in cell viability and this treatment induced cell cycle arrest at the G2/M phase, and apoptosis occurred in 38.54% of the cells. Results of Hoechst 33258 staining and Western blot showed apoptotic cells appeared and changes in the expression of apoptosis-related proteins (upregulation of Bax and caspase-3, downregulation of Bcl-2, and activation of poly-(ADP-ribose)-polymerase). Moreover, the activities of caspase-3, caspase-8, and caspase-9 were enhanced in M059 K cells. The inhibiting effect of combined treatment with MP and VC on M059 K cells indicates the mechanism of anticancer activity involved induction of cell apoptosis.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Ascorbic Acid",
+        "Brain Neoplasms",
+        "Caspases",
+        "Cell Cycle Checkpoints",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Drug Synergism",
+        "Glioma",
+        "Grifola",
+        "Humans",
+        "Polysaccharides"
+      ]
+    },
+    {
+      "pmid": "27401257",
+      "title": "Maitake Pro4X has anti-cancer activity and prevents oncogenesis in BALBc mice.",
+      "authors": [
+        "Agustina Roldan-Deamicis",
+        "Eliana Alonso",
+        "Belén Brie",
+        "Diego Aguilera Braico",
+        "Gabriela Andrea Balogh"
+      ],
+      "journal": "Cancer medicine",
+      "publication_date": "2016-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The understanding of the molecular mechanisms of the immune tolerance induced by the tumoral microenvironment is fundamental to prevent cancer development or to treat cancer patients using immunotherapy. Actually, there are investigations about \"addressed-drugs\" against cancer cells without affecting normal cells. It could be ideal to find selective and specific compounds that only recognize and destroy tumor cells without damaging the host normal cells. For thousands of years, mushrooms have been used for medicinal purposes because of their curative properties. D-Fraction, an extract of Maitake (from the edible Grifola frondosa mushroom), rich in β-glucans, exert notable effects in the immune system. Until now, some published articles suggest that Maitake D-Fraction could have anti-tumoral activity, prevent oncogenesis and metastasis in some tumor types. However, there are no clear data about Maitake D-Fraction action on breast cancer prevention and its exact molecular mechanisms are not yet elucidated. The experiments were performed employing 25 female BALBc mice that were treated with and without Maitake D-Fraction Pro4X or Maitake Standard for 15 days by daily intraperitoneal injection. After treatment period, all mice were implanted with murine tumor cells LM3 to induce mammary tumorigenesis. Animals were checked weekly and killed after 46 days of LM3 transplant; percentage of cancer prevention, rate of tumor growing, and overall survival were determined. Under dissection, the internal organs were evaluated histologically and genetically by RT-PCR. We found that 5 mg/kg per day of Maitake D-Fraction Pro4X, administered dairy during 15 days to BALBc mice was able to block more than 60% breast cancer development. However, Maitake Standard prevents oncogenesis in 26% to respect control. In this work, we found that Maitake D-Fraction Pro4X, administered to BALBc mice, prevents breast carcinogenesis, block tumor invasiveness, reduce angiogenesis, and increase overall survival.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Biological Products",
+        "Breast Neoplasms",
+        "Cell Line, Tumor",
+        "Cell Transformation, Neoplastic",
+        "Disease Models, Animal",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Grifola",
+        "Mice",
+        "Mortality",
+        "Necrosis",
+        "Neovascularization, Pathologic",
+        "Phenotype",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "27329257",
+      "title": "The Prefrontal Dectin-1/AMPA Receptor Signaling Pathway Mediates The Robust and Prolonged Antidepressant Effect of Proteo-β-Glucan from Maitake.",
+      "authors": [
+        "Hongkun Bao",
+        "Pengzhan Ran",
+        "Ming Zhu",
+        "Lijuan Sun",
+        "Bai Li",
+        "Yangyang Hou",
+        "Jun Nie",
+        "Liping Shan",
+        "Hongliang Li",
+        "Shangyong Zheng",
+        "Xiufeng Xu",
+        "Chunjie Xiao",
+        "Jing Du"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2016-Jun-22",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Proteo-β-glucan from Maitake (PGM) is a strong immune regulator, and its receptor is called Dectin-1. Cumulative evidence suggests that AMPA receptors are important for the treatment of depression. Here, we report that PGM treatment leads to a significant antidepressant effect in the tail suspension test and forced swim test after sixty minutes of treatment in mice. After five consecutive days of PGM treatment, this antidepressant effect remained. PGM treatment did not show a hyperactive effect in the open field test. PGM significantly enhanced the expression of its receptor Dectin-1, as well as p-GluA1(S845) and GluA1, but not GluA2 or GluA3 in the prefrontal cortex (PFC) after five days of treatment. The Dectin-1 inhibitor Laminarin was able to block the antidepressant effect of PGM. At the synapses of PFC, PGM treatment significantly up-regulated the p-GluA1(S845), GluA1, GluA2, and GluA3 levels. Moreover, PGM's antidepressant effects and the increase of p-GluA1(S845)/GluA1 lasted for 3 days after stopping treatment. The AMPA-specific antagonist GYKI 52466 was able to block the antidepressant effect of PGM. This study identified PGM as a novel antidepressant with clinical potential and a new antidepressant mechanism for regulating prefrontal Dectin-1/AMPA receptor signalling.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Benzodiazepines",
+        "Depression",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Grifola",
+        "Lectins, C-Type",
+        "Male",
+        "Mice",
+        "Plant Proteins",
+        "Prefrontal Cortex",
+        "Receptors, AMPA",
+        "Signal Transduction",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "25351719",
+      "title": "Maitake mushroom extract in myelodysplastic syndromes (MDS): a phase II study.",
+      "authors": [
+        "Kathleen M Wesa",
+        "Susanna Cunningham-Rundles",
+        "Virginia M Klimek",
+        "Emily Vertosick",
+        "Marci I Coleton",
+        "K Simon Yeung",
+        "Hong Lin",
+        "Stephen Nimer",
+        "Barrie R Cassileth"
+      ],
+      "journal": "Cancer immunology, immunotherapy : CII",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Myelodysplastic syndromes (MDS) are characterized by ineffective erythropoiesis with dysplastic bone marrow leading to peripheral cytopenia, risk of infection, and progression to acute myelogenous leukemia. Maitake mushroom beta-glucan, a dietary supplement, stimulates hematopoietic progenitor cell differentiation, granulocyte colony-stimulating factor production, and recovery of peripheral blood leukocytes after bone marrow injury. This phase II trial examined the effects of Maitake on innate immune function in MDS. METHODS: Myelodysplastic syndromes patients with International Prognostic Scoring System Low- and Intermediate-1-risk disease received oral Maitake extract at 3 mg/kg twice daily for 12 weeks. Primary endpoints included neutrophil count and function tested as endogenous or stimulated neutrophil production of reactive oxygen species (ROS) by flow cytometry compared with age-matched healthy controls (HC). ROS activators were Escherichia coli, phorbol ester, and the bacterial peptide N-formylmethionyl-leucyl-phenylalanine (fMLP). Complete blood counts, chemistry panels, iron studies, and monocyte function were evaluated. RESULTS: Of 21 patients enrolled, 18 completed the study and were evaluable. Maitake increased endogenous (basal) neutrophil (p = 0.005) and monocyte function (p = 0.021). Pre-treatment monocyte response to E. coli was reduced in MDS patients compared with HC (p = 0.002) and increased (p = 0.0004) after treatment. fMLP-stimulated ROS production response also increased (p = 0.03). Asymptomatic eosinophilia occurred in 4 patients (p = 0.014). Other changes in albumin, hemoglobin, and total protein were not clinically relevant. CONCLUSIONS: Maitake was well tolerated. Enhanced in vitro neutrophil and monocyte function following treatment demonstrate that Maitake has beneficial immunomodulatory potential in MDS. Further study is warranted.",
+      "mesh_terms": [
+        "Aged",
+        "Antineoplastic Agents",
+        "Biomarkers",
+        "Bone Marrow",
+        "Bone Marrow Cells",
+        "Case-Control Studies",
+        "Complex Mixtures",
+        "Female",
+        "Grifola",
+        "Humans",
+        "Karyotype",
+        "Male",
+        "Middle Aged",
+        "Monocytes",
+        "Myelodysplastic Syndromes",
+        "Neutrophils",
+        "Reactive Oxygen Species",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "23875900",
+      "title": "Genes related to suppression of malignant phenotype induced by Maitake D-Fraction in breast cancer cells.",
+      "authors": [
+        "Eliana Noelia Alonso",
+        "Manuela Orozco",
+        "Alvaro Eloy Nieto",
+        "Gabriela Andrea Balogh"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2013-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "It is already known that the Maitake (D-Fraction) mushroom is involved in stimulating the immune system and activating certain cells that attack cancer, including macrophages, T-cells, and natural killer cells. According to the U.S. National Cancer Institute, polysaccharide complexes present in Maitake mushrooms appear to have significant anticancer activity. However, the exact molecular mechanism of the Maitake antitumoral effect is still unclear. Previously, we have reported that Maitake (D-Fraction) induces apoptosis in breast cancer cells by activation of BCL2-antagonist/killer 1 (BAK1) gene expression. At the present work, we are identifying which genes are responsible for the suppression of the tumoral phenotype mechanism induced by Maitake (D-Fraction) in breast cancer cells. Human breast cancer MCF-7 cells were treated with and without increased concentrations of Maitake D-Fraction (36, 91, 183, 367 μg/mL) for 24 h. Total RNA were isolated and cDNA microarrays were hybridized containing 25,000 human genes. Employing the cDNA microarray analysis, we found that Maitake D-Fraction modified the expression of 4068 genes (2420 were upmodulated and 1648 were downmodulated) in MCF-7 breast cancer cells in a dose-dependent manner during 24 h of treatment. The present data shows that Maitake D-Fraction suppresses the breast tumoral phenotype through a putative molecular mechanism modifying the expression of certain genes (such as IGFBP-7, ITGA2, ICAM3, SOD2, CAV-1, Cul-3, NRF2, Cycline E, ST7, and SPARC) that are involved in apoptosis stimulation, inhibition of cell growth and proliferation, cell cycle arrest, blocking migration and metastasis of tumoral cells, and inducing multidrug sensitivity. Altogether, these results suggest that Maitake D-Fraction could be a potential new target for breast cancer chemoprevention and treatment.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Breast Neoplasms",
+        "Cell Cycle",
+        "Cell Proliferation",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Grifola",
+        "Humans",
+        "MCF-7 Cells",
+        "Phenotype",
+        "Polysaccharides"
+      ]
+    },
+    {
+      "pmid": "23796219",
+      "title": "MT-α-glucan from the fruit body of the maitake medicinal mushroom Grifola frondosa (higher Basidiomyetes) shows protective effects for hypoglycemic pancreatic β-cells.",
+      "authors": [
+        "Hong Lei",
+        "Minmin Zhang",
+        "Qin Wang",
+        "Shuzhen Guo",
+        "Juncheng Han",
+        "Hanju Sun",
+        "Wutong Wu"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The hypoglycemic effect of an α-glucan (designated here as MT-α-glucan) from the fruit body of the Maitake medicinal mushroom, Grifola frondosa, on a murine type 2 diabetes mellitus (T2DM) model was evaluated. Body weight and levels of fasting plasma glucose, glycosylated hemoglobin, triglycerides, cholesterol, free fatty acid, nitric oxide (NO), NO synthase, inducible NO synthase, and hepatic malondialdehyde content decreased significantly when MT-α-glucan was administered to T2DM mice. The content of serum insulin, hepatic glycogen, and reduced glutathione and the activity of superoxide dismutase and glutathione peroxidase increased significantly when MT-α-glucan was administered to T2DM mice. Histopathological changes of the pancreas were ameliorated in the treatment group. These data suggest that MT-α-glucan has a hypoglycemic effect on T2DM mice, which might be related to its protective effect of pancreatic β-cells exerted by decreasing levels of factors that destroy β-cells, such as oxidative stress and NO synthesis.",
+      "mesh_terms": [
+        "Animals",
+        "Fruiting Bodies, Fungal",
+        "Gene Expression Regulation",
+        "Glutathione",
+        "Glutathione Transferase",
+        "Grifola",
+        "Hypoglycemia",
+        "Insulin-Secreting Cells",
+        "Lipids",
+        "Male",
+        "Malondialdehyde",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "22873755",
+      "title": "Fraction SX of maitake mushroom favorably influences blood glucose levels and blood pressure in streptozotocin-induced diabetic rats.",
+      "authors": [
+        "Harry G Preuss",
+        "Bobby Echard",
+        "Jia Fu",
+        "Nicholas V Perricone",
+        "Debasis Bagchi",
+        "Mark Kaylor",
+        "Cun Zhuang"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2012-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We assessed whether fraction SX derived from maitake mushroom could play a beneficial role in the treatment of a laboratory model of type-1 diabetes by decreasing circulating glucose levels and lowering blood pressure (BP). We injected 50 mg/kg body weight (BW) streptozotocin (STZ) intraperitoneally (i.p.) into 48 male Sprague-Dawley rats (SD) to produce a laboratory model of type-1 diabetes. SD were divided into four groups of 12 SD. A control group ate straight pulverized rat chow. To three treatment groups, we added into the pulverized rat chow: gliclazide (10 mg/kg), pioglitazone (10-30 mg/kg), or maitake SX (2.5 g/kg). In addition to measuring BW, circulating glucose level, and BP, the following procedures were also carried out: insulin challenge (insulin sensitivity), losartan challenge (renin-angiotensin system activity), Nw-nitro-L arginine-methyl ester hydrochloride (LNAME) challenge (nitric oxide [NO] system activity), and evaluation of serum angiotensin converting enzyme (ACE) activity. All treatments compared with control generally decreased circulating glucose levels, but only the maitake SX consistently enhanced measured insulin sensitivity. We found that maitake SX could significantly lower systolic blood pressure (SBP) in diabetic SD. In general, only SD receiving maitake SX, not the two drugs, showed decreased activity of the renin-angiotensin system and increased NO system activity compared with control under the conditions examined. Our results suggest that maitake SX may be useful for treating perturbations in glucose-insulin metabolism and elevated BP in type-1 diabetes.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Body Weight",
+        "Diabetes Mellitus, Experimental",
+        "Grifola",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Insulin Resistance",
+        "Losartan",
+        "Male",
+        "Pioglitazone",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Renin-Angiotensin System",
+        "Thiazolidinediones"
+      ]
+    },
+    {
+      "pmid": "23510175",
+      "title": "Immunomodulating activities of cultivated maitake medicinal mushroom Grifola frondosa (Dicks.: Fr.) S.F. Gray (higher Basidiomycetes) on peripheral blood mononuclear cells.",
+      "authors": [
+        "Mirjan Svagelj",
+        "Marin Berovic",
+        "Andrej Gregori",
+        "Branka Wraber",
+        "Sasa Simcic",
+        "Bojana Boh"
+      ],
+      "journal": "International journal of medicinal mushrooms",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Grifola frondosa is a culinary-medicinal mushroom that contains several physiologically active compounds, of which polysaccharides, specifically β-glucans, are known to possess immunomodulating properties. Its extracts are studied for application as adjuncts for chemotherapy, and experiments in animal models support the use of this mushroom for cancer treatment. The effect of extracts obtained from mushrooms cultivated on different substrates and their capacity of inducing the secretion of cytokines from human peripheral blood mononuclear cells were studied. The activity of extracts at concentrations 12.5, 100, and 200 μg/mL on induction of TNF-α, IFN-γ, and IL-12 was screened. Two extracts from substrates fortified with olive oil press cakes showed appreciable activity and induced the secretion of TNF-α, IL-12, and INF-γ. The extracts differed from the others in the amount of sugar, protein, and β-glucans, which can explain their higher activity. Present results show that different substrates and different source materials can reasonably modify the bioactivity of cultivated G. frondosa.",
+      "mesh_terms": [
+        "Cells, Cultured",
+        "Cytokines",
+        "Food Industry",
+        "Fruiting Bodies, Fungal",
+        "Gene Expression Regulation",
+        "Grifola",
+        "Humans",
+        "Industrial Waste",
+        "Leukocytes, Mononuclear",
+        "Olive Oil",
+        "Plant Oils",
+        "Waste Products"
+      ]
+    },
+    {
+      "pmid": "21034160",
+      "title": "Maitake mushroom (Grifola frondosa) extract induces ovulation in patients with polycystic ovary syndrome: a possible monotherapy and a combination therapy after failure with first-line clomiphene citrate.",
+      "authors": [
+        "Jui-Tung Chen",
+        "Kunihiko Tominaga",
+        "Yoshiaki Sato",
+        "Hideo Anzai",
+        "Ryo Matsuoka"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2010-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Insulin resistance is a prominent feature of polycystic ovary syndrome (PCOS), and insulin-sensitizing drugs are used to induce ovulation. Recently, it was reported that an extract from Maitake mushroom (Grifola frondosa) improves insulin resistance. OBJECTIVES: The objective was to explore the effects of Maitake extract (SX-fraction: MSX) to induce ovulation in patients with PCOS in comparison with and in combination with clomiphene citrate (CC). DESIGN: We conducted an open trial with 80 patients with PCOS at three clinics in Japan. Seventy-two (72) new patients were randomly assigned to receive MSX or CC monotherapy for up to 12 weeks. Eighteen (18) patients who did not respond to MSX or CC were subjected to combination therapy of MSX and CC for up to 16 weeks. Eight (8) patients with documented history of failure to CC received combination therapy from the beginning. Ovulation was assessed by ultrasonography. RESULTS: Twenty-six (26) patients in the MSX group and 31 in the CC group were evaluated for ovulation. The ovulation rates for MSX and CC were as follows: 76.9% (20/26) and 93.5% (29/31), respectively by the patients (NS), and 41.7% (30/72) and 69.9% (58/83), respectively, by the cycles (p = 0.0006). In the combination therapy, 7 of 7 patients who failed in MSX monotherapy and 6 of 8 patients who failed in CC monotherapy showed ovulation. CONCLUSIONS: The present study suggests that MSX alone may induce ovulation in PCOS patients and may be useful as an adjunct therapy for patients who failed first-line CC treatment.",
+      "mesh_terms": [
+        "Adult",
+        "Biological Products",
+        "Clomiphene",
+        "Drug Therapy, Combination",
+        "Female",
+        "Fertility Agents, Female",
+        "Grifola",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Infertility, Female",
+        "Insulin Resistance",
+        "Ovulation",
+        "Polycystic Ovary Syndrome",
+        "Treatment Failure",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "20567593",
+      "title": "Maitake mushroom extracts ameliorate progressive hypertension and other chronic metabolic perturbations in aging female rats.",
+      "authors": [
+        "Harry G Preuss",
+        "Bobby Echard",
+        "Debasis Bagchi",
+        "Nicholas V Perricone"
+      ],
+      "journal": "International journal of medical sciences",
+      "publication_date": "2010-Jun-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: We assessed the ability of two commercially-available fractions labeled SX and D derived from the edible maitake mushroom to overcome many age-associated metabolic perturbations such as progressive, age-related elevation of blood pressure, over activity of the renin-angiotensin system (RAS), decreased insulin sensitivity, and inflammation in an in vivo laboratory model. DESIGN AND METHOD: We divided forty mature, female Sprague-Dawley rats (SD) into five groups of eight. SD ingested regular rat chow containing added sucrose (20% w/w). The groups received baseline diet alone (control) or baseline diet containing captopril, niacin-bound chromium, maitake fraction SX, or maitake fraction D. In addition to blood pressure readings, the following procedures were implemented: losartan and insulin challenges, evaluation of serum ACE activity, glucose tolerance testing, blood chemistries, LNAME challenge, and measurement of various circulating cytokines. RESULTS: We found that implementation of all test conditions stopped the gradual elevation of systolic blood pressure (SBP) in the SD over the four months of study, even reversing some of the previous elevation that occurred over time. In general, the treatment groups showed decreased activity of the RAS estimated by less lowering of SBP after losartan challenge and decreased serum ACE activity and were more sensitive to exogenous insulin challenge. TNFa levels decreased in all four test groups suggesting a lessening of the inflammatory state. CONCLUSIONS: We believe our data suggest that maitake mushroom fractions lessen age-related hypertension, at least in part, via effects on the RAS; enhance insulin sensitivity; and reduce some aspects of inflammation--actions that should lead to a longer, healthier life span.",
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Body Weight",
+        "Eating",
+        "Female",
+        "Glucose Tolerance Test",
+        "Grifola",
+        "Hypertension",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "20140432",
+      "title": "Maitake beta-glucan promotes recovery of leukocytes and myeloid cell function in peripheral blood from paclitaxel hematotoxicity.",
+      "authors": [
+        "Hong Lin",
+        "Elisa de Stanchina",
+        "Xi Kathy Zhou",
+        "Feng Hong",
+        "Andrew Seidman",
+        "Monica Fornier",
+        "Wei-Lie Xiao",
+        "Edward J Kennelly",
+        "Kathleen Wesa",
+        "Barrie R Cassileth",
+        "Susanna Cunningham-Rundles"
+      ],
+      "journal": "Cancer immunology, immunotherapy : CII",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Bone marrow myelotoxicity is a major limitation of chemotherapy. While granulocyte colony stimulating factor (G-CSF) treatment is effective, alternative approaches to support hematopoietic recovery are sought. We previously found that a beta-glucan extract from maitake mushroom Grifola frondosa (MBG) enhanced colony forming unit-granulocyte monocyte (CFU-GM) activity of mouse bone marrow and human hematopoietic progenitor cells (HPC), stimulated G-CSF production and spared HPC from doxorubicin toxicity in vitro. This investigation assessed the effects of MBG on leukocyte recovery and granulocyte/monocyte function in vivo after dose intensive paclitaxel (Ptx) in a normal mouse. After a cumulative dose of Ptx (90-120 mg/kg) given to B6D2F1mice, daily oral MBG (4 or 6 mg/kg), intravenous G-CSF (80 microg/kg) or Ptx alone were compared for effects on the dynamics of leukocyte recovery in blood, CFU-GM activity in bone marrow and spleen, and granulocyte/monocyte production of reactive oxygen species (ROS). Leukocyte counts declined less in Ptx + MBG mice compared to Ptx-alone (p = 0.024) or Ptx + G-CSF treatment (p = 0.031). Lymphocyte levels were higher after Ptx + MBG but not Ptx + G-CSF treatment compared to Ptx alone (p < 0.01). MBG increased CFU-GM activity in bone marrow and spleen (p < 0.001, p = 0.002) 2 days after Ptx. After two additional days (Ptx post-day 4), MBG restored granulocyte/monocyte ROS response to normal levels compared to Ptx-alone and increased ROS response compared to Ptx-alone or Ptx + G-CSF (p < 0.01, both). The studies indicate that oral MBG promoted maturation of HPC to become functionally active myeloid cells and enhanced peripheral blood leukocyte recovery after chemotoxic bone marrow injury.",
+      "mesh_terms": [
+        "Animals",
+        "Bone Marrow",
+        "Cell Line, Tumor",
+        "Dietary Carbohydrates",
+        "Drug Antagonism",
+        "Drug Therapy, Combination",
+        "Granulocyte-Macrophage Colony-Stimulating Factor",
+        "Granulocyte-Macrophage Progenitor Cells",
+        "Grifola",
+        "Humans",
+        "Leukocytes",
+        "Leukopoiesis",
+        "Mice",
+        "Oxidation-Reduction",
+        "Paclitaxel",
+        "Reactive Oxygen Species",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "19639212",
+      "title": "Antitumor effects of a water-soluble extract from Maitake (Grifola frondosa) on human gastric cancer cell lines.",
+      "authors": [
+        "Kohei Shomori",
+        "Mako Yamamoto",
+        "Ichiro Arifuku",
+        "Kazuki Teramachi",
+        "Hisao Ito"
+      ],
+      "journal": "Oncology reports",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We investigated the effects of a water-soluble extract of Maitake (Grifola frondosa), a Japanese edible mushroom, on the proliferation and cell death of four human gastric cancer cell lines (TMK-1, MKN28, MKN45 and MKN74). The Maitake extract (ME) inhibited the proliferation of all four cell lines in a time-dependent manner. The inhibition was most pronounced in TMK-1 cells, which exhibited up to 90% inhibition after treatment with 10% ME for 3 days. Staining of ME-treated TMK-1 cells with Hoechst 33258 revealed increased numbers of nuclear condensations and apoptotic bodies. Induction of apoptosis was confirmed by fluorescence-activated cell sorting analyses. Western blot analyses of TMK-1 cells after ME treatment revealed increases in intracytoplasmic cytochrome c and cleavage of caspase-3 and poly(ADP-ribose) polymerase, but no expression of p21 or Bax. The caspase-3 protease activities in lysates of TMK-1 cells treated with 1% or 10% ME were about three times higher than those in control cells. The proliferation of TMK-1 cells was hardly affected by the caspase-3 inhibitor z-DEVD-fmk. Taken together, these results suggest that ME induces apoptosis of TMK-1 cells by caspase-3-dependent and -independent pathways, resulting in potential antitumor effects on gastric cancer.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Cytochromes c",
+        "Grifola",
+        "Humans",
+        "Stomach Neoplasms"
+      ]
+    },
+    {
+      "pmid": "19253021",
+      "title": "A phase I/II trial of a polysaccharide extract from Grifola frondosa (Maitake mushroom) in breast cancer patients: immunological effects.",
+      "authors": [
+        "Gary Deng",
+        "Hong Lin",
+        "Andrew Seidman",
+        "Monica Fornier",
+        "Gabriella D'Andrea",
+        "Kathleen Wesa",
+        "Simon Yeung",
+        "Susanna Cunningham-Rundles",
+        "Andrew J Vickers",
+        "Barrie Cassileth"
+      ],
+      "journal": "Journal of cancer research and clinical oncology",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Clinical Trial, Phase I",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Cancer patients commonly use dietary supplements to \"boost immune function\". A polysaccharide extract from Grifola frondosa (Maitake extract) showed immunomodulatory effects in preclinical studies and therefore the potential for clinical use. Whether oral administration in human produces measurable immunologic effects, however, is unknown. METHODS: In a phase I/II dose escalation trial, 34 postmenopausal breast cancer patients, free of disease after initial treatment, were enrolled sequentially in five cohorts. Maitake liquid extract was taken orally at 0.1, 0.5, 1.5, 3, or 5 mg/kg twice daily for 3 weeks. Peripheral blood was collected at days -7, 0 (prior to the first dosing), 7, 14, and 21 for ex vivo analyses. The primary endpoints were safety and tolerability. RESULTS: No dose-limiting toxicity was encountered. Two patients withdrew prior to completion of the study due to grade I possibly related side effects: nausea and joint swelling in one patient; rash and pruritus in the second. There was a statistically significant association between Maitake and immunologic function (p < 0.0005). Increasing doses of Maitake increased some immunologic parameters and depressed others; the dose-response curves for many endpoints were non-monotonic with intermediate doses having either immune enhancing or immune suppressant effects compared with both high and low doses. CONCLUSIONS: Oral administration of a polysaccharide extract from Maitake mushroom is associated with both immunologically stimulatory and inhibitory measurable effects in peripheral blood. Cancer patients should be made aware of the fact that botanical agents produce more complex effects than assumed, and may depress as well as enhance immune function.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Aged",
+        "Breast Neoplasms",
+        "Cohort Studies",
+        "Cytokines",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Schedule",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Female",
+        "Grifola",
+        "Humans",
+        "Maximum Tolerated Dose",
+        "Middle Aged",
+        "Neoplasm Staging",
+        "Polysaccharides"
+      ]
+    },
+    {
+      "pmid": "19249389",
+      "title": "Maitake beta-glucan enhances therapeutic effect and reduces myelosupression and nephrotoxicity of cisplatin in mice.",
+      "authors": [
+        "Yuki Masuda",
+        "Munechika Inoue",
+        "Ayu Miyata",
+        "Shigeto Mizuno",
+        "Hiroaki Nanba"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2009-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cisplatin is broadly used clinically as an anticancer drug. Despite its significant anticancer activity, cisplatin-induced nephrotoxicity and myelosuppression limit its use. MD-Fraction is glucan purified from maitake (Grifola frondosa), which has beta-1, 6-main chain with beta-1, 3-branches, has been reported to exhibit antitumor and antimetastatic activities by enhancing the immune system. In this study, we demonstrate that MD-Fraction in combination with cisplatin significantly enhanced antitumor and antimetastatic activity compared to cisplatin alone. MD-Fraction reduced decreases in body weight, spleen weight and the number of immunocompetent cells such as macrophages, DCs and NK cells in cisplatin-treated mice. MD-Fraction also induced IL-12p70 production by splenocytes, resulting in increased NK cell activity in cisplatin-treated mice. MD-Fraction significantly increased the mRNA expression of GM-CSF, G-CSF, M-CSF, IFN-gamma, IL-12 p40 in splenocytes and reduced the decrease in the number of CFU-GM colonies in cisplatin-treated bone marrow. These facts suggest that MD-Fraction can reduce cisplatin-induced myelosuppression. Moreover, treatment with MD-Fraction significantly reduced cisplatin-induced nephrotoxicity accompanied by increases in serum creatinine level, necrosis and apoptosis of renal tubular cells. These results suggest that MD-Fraction in combination with cisplatin cannot only enhance antitumor and antimentastatic acitivity, but also reduce cisplatin-induced myelotoxicity and nephrotoxicity.",
+      "mesh_terms": [
+        "Animals",
+        "Antigens, Fungal",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Bone Marrow",
+        "Cell Line, Tumor",
+        "Cisplatin",
+        "Colony-Forming Units Assay",
+        "Colorectal Neoplasms",
+        "Creatinine",
+        "Drug Synergism",
+        "Female",
+        "Grifola",
+        "Interferon-gamma",
+        "Interleukin-12",
+        "Kidney",
+        "Killer Cells, Natural",
+        "Lung Neoplasms",
+        "Lymphocyte Activation",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Neoplasm Transplantation",
+        "Organ Size",
+        "Phytotherapy",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "19228191",
+      "title": "Augmentation of sebaceous lipogenesis by an ethanol extract of Grifola frondosa (Maitake mushroom) in hamsters in vivo and in vitro.",
+      "authors": [
+        "Mie Nagao",
+        "Takashi Sato",
+        "Noriko Akimoto",
+        "Yuya Kato",
+        "Masao Takahashi",
+        "Akira Ito"
+      ],
+      "journal": "Experimental dermatology",
+      "publication_date": "2009-Aug",
+      "publication_types": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Grifola frondosa (Maitake mushroom) is an edible and medicinal mushroom with versatile effects such as antitumor and immunomodulating actions. Here, we demonstrated that an ethanol extract of G. frondosa fruiting body (Maitake extract) augmented intracellular lipid droplet formation and the production of triacylglycerols (TG), a major component of sebum, along with the activation of diacylglycerol acyltransferase, a rate-limiting enzyme of TG synthesis in cultured hamster sebocytes. The topical treatment of Maitake extract on the skin of hamster auricles augmented sebum accumulation in sebaceous glands and ducts. However, in comparison with the Maitake extract, another ethanol extract prepared from Agaricus blazei Murill showed less activity in sebaceous lipogenesis in hamsters in vivo and in vitro. These results provide novel evidence that Maitake extract augments sebaceous lipogenesis in hamsters in vivo and in vitro. Thus, Maitake extract is likely to be a unique agent leading to the remission of dry skin.",
+      "mesh_terms": [
+        "Animals",
+        "Cricetinae",
+        "Ethanol",
+        "Grifola",
+        "Humans",
+        "Ichthyosis",
+        "Lipids",
+        "Lipogenesis",
+        "Plant Extracts",
+        "Sebaceous Glands",
+        "Skin Diseases",
+        "Treatment Outcome",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "19053855",
+      "title": "Grifola frondosa (maitake mushroom) water extract inhibits vascular endothelial growth factor-induced angiogenesis through inhibition of reactive oxygen species and extracellular signal-regulated kinase phosphorylation.",
+      "authors": [
+        "Jong-Suk Lee",
+        "Byung Chul Park",
+        "Yu Jin Ko",
+        "Mi Kyoung Choi",
+        "Han Gon Choi",
+        "Chul Soon Yong",
+        "Jae-Sung Lee",
+        "Jung-Ae Kim"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2008-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Grifola frondosa, a large edible mushroom also known as maitake, has been used as a health food for centuries in China and Japan. In the present study, we examined anti-angiogenic activity of a water extract of the fruiting body of G. frondosa (GFW). An in vivo angiogenesis assay using chick chorioallantoic membrane revealed that GFW (1-100 microg/mL) dose-dependently inhibited vascular endothelial growth factor (VEGF)-induced angiogenesis. In addition, GFW inhibited VEGF-induced proliferation, chemotactic migration, and capillary-like tube formation of human umbilical vein endothelial cells (HUVECs) in a concentration-dependent manner. Upon stimulation by VEGF, HUVECs rapidly increased reactive oxygen species production, which was significantly blocked by the treatment with GFW. Moreover, phosphorylation of extracellular signal-regulated kinase 1/2, a downstream signaling molecule following VEGF receptor activation, was also inhibited by GFW. The results indicate that GFW effectively inhibit angiogenesis by blocking VEGF signaling and suggest that G. frondosa fruiting body may be a valuable medicinal food for treatment of angiogenesis-associated human diseases.",
+      "mesh_terms": [
+        "Angiogenesis Inhibitors",
+        "Animals",
+        "Antioxidants",
+        "Cell Culture Techniques",
+        "Chick Embryo",
+        "Dose-Response Relationship, Drug",
+        "Endothelial Cells",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Fruiting Bodies, Fungal",
+        "Grifola",
+        "Humans",
+        "Neovascularization, Pathologic",
+        "Phosphorylation",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Reactive Oxygen Species",
+        "Signal Transduction",
+        "Umbilical Veins",
+        "Vascular Endothelial Growth Factor A"
+      ]
+    },
+    {
+      "pmid": "18196755",
+      "title": "Mushroom-derived maitake PETfraction as single agent for the treatment of lymphoma in dogs.",
+      "authors": [
+        "P C Griessmayr",
+        "M Gauthier",
+        "L G Barber",
+        "S M Cotter"
+      ],
+      "journal": "Journal of veterinary internal medicine",
+      "publication_date": "2007",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Maitake PETfraction is a standardized essence extracted from the mushroom Maitake (Grifola frondosa) that has antitumor activity in tumor-bearing mice. In addition, PETfraction induces apoptosis in human prostate and bladder cancer cells and suppresses the proliferation in vitro of several canine tumor cell lines, such as lymphoma (Cl-1), mammary gland (CF33), and connective tissue (CF21). HYPOTHESIS: Maitake PETfraction is effective as a single agent in dogs with lymphoma. ANIMALS: Fifteen dogs with confirmed intermediate or high-grade lymphoma were enrolled into this prospective, noncontrolled, clinical trial. Inclusion criteria were an expected survival time of at least 2 weeks and no major organ dysfunction. METHODS: Maitake PETfraction was administered at a dose of 3 drops/kg/day divided into 2 doses given 1 hour before feeding. Dogs were evaluated by physical examination with tumor measurement, body weight, CBC, and chemistry profile before treatment and after 2, 4, 8, and 12 weeks. At each visit, owners completed a questionnaire addressing overall quality of life, appetite, and any adverse effects noted. RESULTS: A decrease in lymph node size of greater than 50% (objective response) was not seen in any of the dogs. Thirteen dogs developed progressive disease before the 4th week. The median treatment duration was 27 days (range, 9-228). PETfraction was well accepted, and minimal adverse effects were observed. Two dogs developed hyphema. It was not known if this was related to progressive lymphoma or was an adverse effect of treatment. CONCLUSIONS: No objective responses were observed to administration of Maitake PETfraction, and the drug was well tolerated in these dogs.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Dog Diseases",
+        "Dogs",
+        "Female",
+        "Grifola",
+        "Lymphoma",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "17430642",
+      "title": "Anti-diabetic effect of an alpha-glucan from fruit body of maitake (Grifola frondosa) on KK-Ay mice.",
+      "authors": [
+        "Lei Hong",
+        "Ma Xun",
+        "Wu Wutong"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2007-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We have evaluated the anti-diabetic effect of a alpha-glucan (MT-alpha-glucan) from the fruit body of maitake mushrooms (Grifola frondosa) on KK-Ay mice (a kind of genetical type 2 diabetes animal model). The effects of MT-alpha-glucan (450 or 150 mg kg (-1)) on diabetic mice were investigated by observing the changes in body weight, the level of fasting plasma glucose, glycosylated serum protein (GSP), hepatic glycogen, serum insulin, triglycerides, cholesterol, free fatty acid, liver superoxide dismutase (SOD), glutathione peroxidase (GSHpx), reduced glutathione (GSH) and malondialdehyde (MDA). Moreover, the binding capacity of insulin receptors on liver crude plasma membranes was assayed and histopathological changes in the pancreas were observed. Treatment with MT-alpha-glucan significantly decreased the body weight, level of fasting plasma glucose, GSP, serum insulin, triglycerides, cholesterol, free fatty acid and MDA content in livers. Treatment with MT-alpha-glucan significantly increased the content of hepatic glycogen, GSH and the activity of SOD and GSHpx. Moreover, the insulin binding capacity to liver crude plasma membranes increased and histopathological changes in the pancreas were ameliorated in the treatment group. These data suggest that MT-alpha-glucan has an anti-diabetic effect on KK-Ay mice, which might be related to its effect on insulin receptors (i.e., increasing insulin sensitivity and ameliorating insulin resistance of peripheral target tissues).",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Blood Proteins",
+        "Body Weight",
+        "Cell Membrane",
+        "Cholesterol",
+        "Diabetes Mellitus, Type 2",
+        "Disease Models, Animal",
+        "Fatty Acids, Nonesterified",
+        "Female",
+        "Fruit",
+        "Glucans",
+        "Glutathione",
+        "Glutathione Peroxidase",
+        "Glycoproteins",
+        "Grifola",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Liver",
+        "Liver Glycogen",
+        "Malondialdehyde",
+        "Mice",
+        "Pancreas",
+        "Receptor, Insulin",
+        "Superoxide Dismutase",
+        "Triglycerides",
+        "Glycated Serum Proteins"
+      ]
+    },
+    {
+      "pmid": "17093103",
+      "title": "Enhancement of umbilical cord blood cell hematopoiesis by maitake beta-glucan is mediated by granulocyte colony-stimulating factor production.",
+      "authors": [
+        "Hong Lin",
+        "Sandy W Y Cheung",
+        "Mirjana Nesin",
+        "Barrie R Cassileth",
+        "Susanna Cunningham-Rundles"
+      ],
+      "journal": "Clinical and vaccine immunology : CVI",
+      "publication_date": "2007-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Maitake beta-glucan (MBG) is an extract from the fruit body of the Grifola frondosa mushroom that is being widely used to treat cancer in Asia. We have previously reported that MBG enhances mouse bone marrow cell (BMC) hematopoiesis in vitro and protects BMC from doxorubicin (DOX) toxicity. In the current study, we investigated the ability of MBG to enhance hematopoiesis and to reduce the toxic effects of DOX on fresh human umbilical cord blood (CB) cells. MBG treatment significantly enhanced the colony formation unit (CFU) response of granulocytes-macrophages (CFU-GM response) over the whole dose range of 12.5 to 100 microg/ml (P < 0.05). The addition of MBG to DOX-treated CB cells significantly protected granulocyte-macrophage colony formation from the toxicity of DOX, which otherwise produced strong hematopoietic repression. MBG also partially replaced recombinant human granulocyte colony-stimulating factor (rhG-CSF), as shown by a significant augmentation of the CFU-GM response in the absence of rhG-CSF. We found that MBG induces granulocyte colony-stimulating factor (G-CSF) production in CB CD33+ monocytes, as detected by intracellular cytokine flow cytometric assessment. In contrast, we found that adult peripheral blood monocytes did not produce a significant G-CSF response to MBG, whereas both adult and CB monocytes produced G-CSF in response to lipopolysaccharide. These studies provide the first evidence that MBG induces hematopoietic stem cell proliferation and differentiation of CFU-GM in umbilical CB cells and acts directly to induce G-CSF.",
+      "mesh_terms": [
+        "Fetal Blood",
+        "Granulocyte Colony-Stimulating Factor",
+        "Grifola",
+        "Hematopoiesis",
+        "Hematopoietic Stem Cells",
+        "Humans",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "15468977",
+      "title": "Successful treatment of hypersensitivity pneumonitis caused by Grifola frondosa (Maitake) mushroom using a HFA-BDP extra-fine aerosol.",
+      "authors": [
+        "Hiroshi Tanaka",
+        "Kazunori Tsunematsu",
+        "Naohito Nakamura",
+        "Kazuhiko Suzuki",
+        "Nobuyuki Tanaka",
+        "Isao Takeya",
+        "Toyohiro Saikai",
+        "Shosaku Abe"
+      ],
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "publication_date": "2004-Aug",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "We successfully treated a patient with occupational hypersensitivity pneumonitis (HP) caused by Grifola frondosa (Maitake) mushroom spore with an extra-fine aerosol corticosteroid; beclomethasone dipropionate (BDP) dissolved in hydrofluoroalkane-134a (HFA). A 49-year-old woman developed respiratory symptoms 3 months after beginning work on a mushroom farm. She was diagnosed as HP based on radiological and serological findings. Oral prednisolone therapy improved her HP and she returned to the same farm. Her HP relapsed after 5 months, and daily 400 microg of HFA-BDP was administered with gradual improvement. An extra-fine particle inhaled corticosteroid might reach appropriate alveoli to be effective therapy for mild HP.",
+      "mesh_terms": [
+        "Administration, Inhalation",
+        "Aerosol Propellants",
+        "Agaricales",
+        "Agricultural Workers' Diseases",
+        "Alveolitis, Extrinsic Allergic",
+        "Beclomethasone",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "Hydrocarbons, Fluorinated",
+        "Middle Aged",
+        "Spores, Fungal"
+      ]
+    },
+    {
+      "pmid": "14975363",
+      "title": "Maitake beta-glucan MD-fraction enhances bone marrow colony formation and reduces doxorubicin toxicity in vitro.",
+      "authors": [
+        "Hong Lin",
+        "Yu-Hong She",
+        "Barrie R Cassileth",
+        "Frank Sirotnak",
+        "Susanna Cunningham Rundles"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2004-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Previous studies have indicated that MD-fraction (MDF), in which the active component is beta 1,6-glucan with beta 1,3-branches, has anti-tumor activity as an oral agent and acts as an immune adjuvant. Since some other beta glucans appear to promote mobilization of hematopoietic stem cells, the effects of a beta glucan extract from the Maitake mushroom \"MD-fraction\" on hematopoietic stem cells were examined in a colony forming assay. Here we report for the first time that MDF has a dose response effect on mouse bone marrow cells (BMC) hematopoiesis in vitro. Using the Colony Forming Unit (CFU) assay to detect formation of granulocyte-macrophage (CFU-GM) colonies, and the XTT cytotoxicitiy assay to measure BMC viability, the data showed that the addition of MDF significantly enhanced the development of CFU-GM in a dose range of 50-100 microg/ml (p<0.004). The mechanism of action included significant increase of nonadherent BMC viability, which was observed at MDF doses of 12.5-100 microg/ml (p<0.005). In the presence of Doxorubicin (DOX), MDF promoted BMC viability and protected CFU-GM from DOX induced toxicity. In addition, MDF treatment promoted the recovery of CFU-GM colony formation after BMC were pretreated with DOX. These studies provided the first evidence that MDF acts directly in a dose dependent manner on hematopoietic BMC and enhances BMC growth and differentiation into colony forming cells.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Animals",
+        "Antibiotics, Antineoplastic",
+        "Cell Survival",
+        "Cells, Cultured",
+        "Colony-Forming Units Assay",
+        "Dose-Response Relationship, Drug",
+        "Doxorubicin",
+        "Female",
+        "Grifola",
+        "Hematopoietic Stem Cells",
+        "Mice",
+        "Tetrazolium Salts",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "14577612",
+      "title": "Effects of niacin-bound chromium, Maitake mushroom fraction SX and (-)-hydroxycitric acid on the metabolic syndrome in aged diabetic Zucker fatty rats.",
+      "authors": [
+        "Nadeem Talpur",
+        "Bobby W Echard",
+        "Taharat Yasmin",
+        "Debasis Bagchi",
+        "Harry G Preuss"
+      ],
+      "journal": "Molecular and cellular biochemistry",
+      "publication_date": "2003-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previous studies in our laboratories have demonstrated that niacin-bound chromium (NBC), Maitake mushroom and (-)-hydroxycitric acid (HCA-SX) can ameliorate hypertension, dyslipidemias and diabetes mellitus, and therefore may be useful in weight management. In the present study, we used aged, diabetic Zucker fatty rats (ZFR) (70-75 weeks) in order to determine whether NBC, fraction SX of Maitake mushroom (MSX) and 60% (-)-hydroxycitric acid (HCA-SX) from Garcinia cambogia, alone or in combination, can affect certain aspects of the metabolic syndrome. Syndrome X or metabolic syndrome has been described as a concurrence of disturbed glucose and insulin metabolism, overweight and abdominal fat distribution, mild dyslipidemia, and hypertension, which are associated with subsequent development of type 2 diabetes mellitus and cardiovascular disease. Four groups of eight ZFR were gavaged daily with different supplements. For the initial three weeks, the control group of ZFR received only water, the second group received NBC 40 mcg elemental chromium/day, the third group received MSX 100 mg/day and the last group received HCA-SX 200 mg/day. During weeks 4-6, the doses of each treatment were doubled. The control animals lost approximately 50 g body weight (BW) per rat over 6 weeks of treatment, which is characteristic of these animals in declining health. In contrast, eight ZFR receiving NBC lost approximately 9 g BW per rat, while rats consuming MSX lost 16 g BW per rat. However, ZFR receiving HCA-SX simulated the pattern in the control group because these animals lost approximately 46 g BW per rat. The wide individual variations resulted in a lack of statistical significance among groups. Nevertheless, 75% of the ZFR in the control group lost more than 50 g BW over the 6 weeks duration, whereas none of the ZFR receiving NBC, 25% of the ZFR receiving MSX and 57% of the ZFR receiving HCA-SX lost over 50 g BW over the 6 weeks of the study. ZFR in all 3 treatment groups showed significantly lower blood pressures as compared to control, which seemed to be dose related. The general trend was for renal and liver blood parameters, hepatic and renal lipid peroxidation and DNA fragmentation to improve due to the supplementation of these natural products. Treatment of animals with a combination of these three novel supplements resulted in a lower SBP and maintenance of BW compared to control animals. These results demonstrate that elderly diabetics and even aging individuals might benefit from a similar regimen.",
+      "mesh_terms": [
+        "Agaricales",
+        "Aging",
+        "Animals",
+        "Blood Pressure",
+        "Body Weight",
+        "Chromium",
+        "Citrates",
+        "DNA Fragmentation",
+        "Drinking Behavior",
+        "Feeding Behavior",
+        "Kidney",
+        "Lipid Peroxidation",
+        "Liver",
+        "Metabolic Syndrome",
+        "Niacin",
+        "Rats",
+        "Rats, Zucker"
+      ]
+    },
+    {
+      "pmid": "12470438",
+      "title": "Chemosensitization of carmustine with maitake beta-glucan on androgen-independent prostatic cancer cells: involvement of glyoxalase I.",
+      "authors": [
+        "Michael P Finkelstein",
+        "Shahrad Aynehchi",
+        "Albert A Samadi",
+        "Sophia Drinis",
+        "Muhammad S Choudhury",
+        "Hiroshi Tazaki",
+        "Sensuke Konno"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2002-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To improve the poor efficacy (< 10%) of chemotherapy for patients with hormone-refractory prostate cancer, we investigated a possible cytotoxic effect of carmustine/beta-glucan combination on prostatic cancer PC-3 cells, focusing on a glutathione-dependent detoxifying enzyme, glyoxalase I (Gly-I). METHODS: Carmustine (BCNU) is an anticancer agent and a putative inhibitor of Gly-I, while beta-glucan is a unique, nontoxic polysaccharide extracted from maitake mushrooms. The cytotoxic effects of BCNU or other anticancer agents with beta-glucan on PC-3 cells were assessed by cell-viability testing and Gly-I activity was measured using the spectrophotometric method. RESULTS: BCNU, 5-fluorouracil (5-FU), and methotrexate (MTX) were capable of inducing approximately a 50% reduction in cell viability at 72 hours, while etoposide, cisplatin, and mitomycin C were all ineffective. Only the combination of BCNU (50 micro ;mol) and beta-glucan (60 micro g/mL) exhibited an enhanced cytotoxicity with an approximate 90% cell viability reduction, but little improvement was seen with any combinations of 5-FU, MTX, or beta-glucon. Gly-I assays revealed that such a profound (approximately 90%) cell death was accompanied by an approximate 80% reduction in Gly-I activity by 6 hours. CONCLUSION: This study demonstrates a sensitized cytotoxic effect of BCNU with beta-glucan in PC-3 cells, which was associated with a drastic (approximately 80%) inactivation of Gly-I. Therefore, the BCNU/beta-glucan combination may help to improve current treatment efficacy by targeting Gly-I, which appears to be critically involved in prostate cancer viability.",
+      "mesh_terms": [
+        "Agaricales",
+        "Androgens",
+        "Antineoplastic Agents, Alkylating",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carmustine",
+        "Cell Survival",
+        "Dose-Response Relationship, Drug",
+        "Fluorouracil",
+        "Glucans",
+        "Humans",
+        "In Vitro Techniques",
+        "Lactoylglutathione Lyase",
+        "Male",
+        "Methotrexate",
+        "Prostatic Neoplasms",
+        "Tumor Cells, Cultured",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "11829152",
+      "title": "Addition of Maitake D-fraction reduces the effective dosage of vancomycin for the treatment of Listeria-infected mice.",
+      "authors": [
+        "N Kodama",
+        "M Yamada",
+        "H Nanba"
+      ],
+      "journal": "Japanese journal of pharmacology",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Maitake D-fraction, beta1,6-glucan having beta1,3-branches, has been reported to activate the immune system of the host. To elucidate whether the D-fraction can reduce the clinical effective dosage of antibiotics in the treatment of opportunistic bacterial infection, we examined the effects of D-fraction on the treatment of Listeria monocytogenes-infected mice in combination with vancomycine (VCM), the only antibiotic used for methicillin-resistant Staphylococcus aureus (MRSA). Listeria-infection was introduced by its inoculation into the abdominal cavity of mice. Without treatment, all inoculated mice died within 3 days after the inoculation. In contrast, in the mice treated with combined therapy of D-faction (10 mg/kg per day) and VCM (10 mg/kg per day), the survival rate was maintained at 60% on the 10th day after the inoculation, which was superior to that of mice treated with VCM alone (10 mg/kg per day). To investigate the mechanism underlying the reinforcement of VCM treatment by the D-fraction, the activities of macrophages and splenic T cells of Listeria-infected mice were evaluated. In mice administered with both D-fraction and VCM, macrophages produced 2.7 times as much interleukin-1 as that of non-treated control mice. The bactericidal activity of splenic T cells was also enhanced by 2.6 times of that of non-treated control mice. These results indicate that D-fraction activates immuno-competent cells, induced cytokine production, and consequently enhanced the bactericidal activities of the splenic T cells against Listeria monocytogenes, suggesting the clinical benefit of D-fraction in the case of anti-bacterial treatment for patients with high risks.",
+      "mesh_terms": [
+        "Abdomen",
+        "Adjuvants, Immunologic",
+        "Agaricales",
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Blood Bactericidal Activity",
+        "Immunotherapy",
+        "Interleukin-1",
+        "Listeriosis",
+        "Macrophages, Peritoneal",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Peritoneal Cavity",
+        "Survival Analysis",
+        "T-Lymphocytes",
+        "Vancomycin"
+      ]
+    },
+    {
+      "pmid": "11207456",
+      "title": "Maitake extracts and their therapeutic potential.",
+      "authors": [
+        "M Mayell"
+      ],
+      "journal": "Alternative medicine review : a journal of clinical therapeutic",
+      "publication_date": "2001-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Maitake (Grifola frondosa) is the Japanese name for an edible fungus with a large fruiting body characterized by overlapping caps. It is a premier culinary as well as medicinal mushroom. Maitake is increasingly being recognized as a potent source of polysaccharide compounds with dramatic health-promoting potential. The most recent development is the MD-fraction, a proprietary maitake extract its Japanese inventors consider to be a notable advance upon the preceding D-fraction. The D-fraction, the MD-fraction, and other extracts, often in combination with whole maitake powder, have shown particular promise as immunomodulating agents, and as an adjunct to cancer and HIV therapy. They may also provide some benefit in the treatment of hyperlipidemia, hypertension, and hepatitis.",
+      "mesh_terms": [
+        "Adjuvants, Immunologic",
+        "Administration, Oral",
+        "Animals",
+        "Anti-HIV Agents",
+        "Antibiotics, Antineoplastic",
+        "Body Weight",
+        "Drug Administration Schedule",
+        "Glucans",
+        "HIV Infections",
+        "Humans",
+        "Hyperlipidemias",
+        "Hypertension",
+        "Hypolipidemic Agents",
+        "Liver Diseases",
+        "Neoplasms",
+        "Polyporaceae",
+        "beta-Glucans"
+      ]
+    },
+    {
+      "pmid": "10851301",
+      "title": "Induction of apoptosis in human prostatic cancer cells with beta-glucan (Maitake mushroom polysaccharide).",
+      "authors": [
+        "S A Fullerton",
+        "A A Samadi",
+        "D G Tortorelis",
+        "M S Choudhury",
+        "C Mallouh",
+        "H Tazaki",
+        "S Konno"
+      ],
+      "journal": "Molecular urology",
+      "publication_date": "2000",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: To explore more effective treatment for hormone-refractory prostate cancer, we investigated the potential antitumor effect of beta-glucan, a polysaccharide of the Maitake mushroom, on prostatic cancer cells in vitro. MATERIALS AND METHODS: Human prostate cancer PC-3 cells were treated with various concentrations of the highly purified beta-glucan preparation Grifron-D(R) (GD), and viability was determined at 24 h. Lipid peroxidation (LPO) assay and in situ hybridization (ISH) were performed to unravel the antitumor mechanism of GD. RESULTS: A dose-response study showed that almost complete (>95%) cell death was attained in 24 h with GD > or = 480 microg/mL. Combinations of GD in a concentration as low as 30 to 60 microg/mL with 200 microM vitamin C were as effective as GD alone at 480 microg/mL, inducing >90% cytotoxic cell death. Simultaneous use with various anticancer drugs showed little potentiation of their efficacy except for the carmustine/GD combination (approximately 90% reduction in cell viability). The significantly (twofold) elevated LPO level and positive ISH staining of GD-treated cells indicated oxidative membrane damage resulting in apoptotic cell death. CONCLUSION: A bioactive beta-glucan from the Maitake mushroom has a cytotoxic effect, presumably through oxidative stress, on prostatic cancer cells in vitro, leading to apoptosis. Potentiation of GD action by vitamin C and the chemosensitizing effect of GD on carmustine may also have clinical implications. Therefore, this unique mushroom polysaccharide may have great a potential as an alternative therapeutic modality for prostate cancer.",
+      "mesh_terms": [
+        "Agaricales",
+        "Androgens",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Ascorbic Acid",
+        "Cell Division",
+        "Cell Survival",
+        "Dose-Response Relationship, Drug",
+        "Glucans",
+        "Humans",
+        "Lipid Peroxidation",
+        "Male",
+        "Prostatic Neoplasms",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "9255420",
+      "title": "Anti-hyperliposis effect of maitake fruit body (Grifola frondosa). I.",
+      "authors": [
+        "K Kubo",
+        "H Nanba"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "1997-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Experimental rat models (5-week-old Sprague-Dawley rats) with hyperlipemia were prepared by feeding high-cholesterol feed containing sodium cholate and casein as a protein source. Dried maitake (Grifola frondosa) powder was mixed with the basic high-cholesterol feed and the serum lipids were periodically measured. Values of cholesterol, triglyceride and phospholipid in serum of rats in the maitake-feed group were suppressed by 0.3-0.8 times those in animals fed the basic feed, the latter values being close to those in rats given normal feed. The value of high density lipoprotein (HDL)-cholesterol in serum which is generally reduced by the ingestion of high-cholesterol feed remained the level it was at the beginning of the experiment. Weights of extirpated liver and epididymal fat-pads were significantly less (0.6-0.7 times) than those in the basic feed group, indicating that maitake inhibits lipid accumulation in the body. Liver lipids were also measured and the values were found to be decreased by maitake administration as true of serum lipid, suggesting maitake has an anti-liver lipid activity. Measurement of the amount of total cholesterol and bile acid in feces showed, the ratio of cholesterol-excretion had increased 1.8 times and bile acid-excretion 3 fold by maitake treatment. From these results, it is believed that maitake helps to improve the lipid metabolism as it inhibits both liver lipid and serum lipid which are increased by the ingestion of high-fat feed.",
+      "mesh_terms": [
+        "Animals",
+        "Basidiomycota",
+        "Bile Acids and Salts",
+        "Body Weight",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Feces",
+        "Hyperlipidemias",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Organ Size",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    }
+  ]
+}

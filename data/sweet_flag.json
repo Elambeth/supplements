@@ -1,0 +1,111 @@
+{
+  "supplement": "Sweet Flag",
+  "query": "Sweet Flag[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:46:34",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "34394980",
+      "title": "In Vitro and In Vivo Survey of Ethyl Acetate Extract of Acorus calamus (Sweet Flag) Rhizome on Toxoplasma gondii.",
+      "authors": [
+        "Maryam Nikkhoo",
+        "Qasem Asgari",
+        "Mahmood Reza Moein",
+        "Kambiz Yaghoobi",
+        "Abbas Gholipour"
+      ],
+      "journal": "Journal of parasitology research",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Toxoplasmosis is a zoonosis disease that can cause a variety range of manifestations in human specially fetus duration and immunodeficiency conditions. Due to toxicity and side effects of current treatment, we evaluated in vivo and in vitro effects of ethyl acetate extract of Acorus calamus rhizomes (rootstocks) on Toxoplasma gondii. METHODS: The plant, Acorus calamus, was collected from Sari, North of Iran in spring season. Ethyl acetate extract was provided from plant rhizomes using Soxhlet apparatus. The total phenolic and flavonoid contents of the extract were measured by the Folin-Ciocalteu method. The mortality effect of different concentrations (1-256 μg/ml) of the extract on Toxoplasma tachyzoites was assessed by flowcytometry and propidium iodide staining. For the therapeutic effect assessment, the tachyzoites were inoculated intraperitoneally to mice, and then these mice were orally and intraperitoneally administered different concentrations (32, 64, 128, and 256 mg/kg) of the extract. Also, an infected group received PBS including DMSO 1% as negative control, and an infected group administered sulfadiazine as positive control. For toxicity evaluation of this extract, a group only received dose 256 mg/kg. RESULTS: The plant extract was rich of phenolic compounds (41.27 ± 0.21 mg/g), whereas it contained fewer amounts of flavonoids (4.79 ± 0.01 mg/g). Results of in vitro experiments showed that there is an inverse relationship between the concentrations and the mortality of the parasites (IC50 = 200.01 ± 7.74 μg/ml). The highest percentage (62%) of dead tachyzoites was seen at maximum concentration of the extract. A significant longevity (8.9 days) was belonged to mice orally administered extract dose (256 mg/kg/day). CONCLUSION: The ethyl acetate extract of A. calamus rhizomes had significant anti-Toxoplasma activities either in vitro or in vivo. It may be connected to high amount of phenolic compounds. We suggest that the effects of different fractions and the admin types of the extract will be evaluated on the parasite."
+    },
+    {
+      "pmid": "24200497",
+      "title": "An overview on traditional uses and pharmacological profile of Acorus calamus Linn. (Sweet flag) and other Acorus species.",
+      "authors": [
+        "Sandeep B Rajput",
+        "Madan B Tonge",
+        "S Mohan Karuppayil"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2014-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Acorus calamus (Sweet flag) has a long history of use and has numerous traditional and ethnomedicinal applications. Since ancient times, it has been used in various systems of medicines such as Ayurveda, Unani, Siddha, Chinese medicine, etc. for the treatment of various aliments like nervous disorders, appetite loss, bronchitis, chest pain, colic, cramps, diarrhea, digestive disorders, flatulence, gas, indigestion, rheumatism, sedative, cough, fever, bronchitis, inflammation, depression, tumors, hemorrhoids, skin diseases, numbness, general debility and vascular disorders. Various therapeutic potentials of this plant have been attributed to its rhizome. A number of active constituents from leaves, rhizomes and essential oils of A. calamus have been isolated and characterized. Of the constituents, alpha and beta-asarone are the predominant bioactive components. Various pharmacological activities of A. calamus rhizome such as sedative, CNS depressant, anticonvulsant, antispasmodic, cardiovascular, hypolipidemic, immunosuppressive, anti-inflammatory, cryoprotective, antioxidant, antidiarrheal, antimicrobial, anticancer and antidiabetic has been reported. Genotoxicity and mutagenecity of beta and alpha-asarone is reported, which limits their use at high dosage. Though A. calamus has been used since ancient times, many of its uses are yet to be scientifically validated. In the present review an attempt has been made to explore traditional uses and pharmacological properties of A. calamus.",
+      "mesh_terms": [
+        "Acorus",
+        "Allylbenzene Derivatives",
+        "Anisoles",
+        "Humans",
+        "Medicine, Traditional",
+        "Oils, Volatile",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rhizome"
+      ]
+    },
+    {
+      "pmid": "19321203",
+      "title": "Supplemental ultraviolet-B induced changes in essential oil composition and total phenolics of Acorus calamus L. (sweet flag).",
+      "authors": [
+        "Rima Kumari",
+        "S B Agrawal",
+        "Suruchi Singh",
+        "N K Dubey"
+      ],
+      "journal": "Ecotoxicology and environmental safety",
+      "publication_date": "2009-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effect of supplemental UV-B radiation (sUV-B) was evaluated on the essential oil contents of sweet flag (Acorus calamus L.), a medicinal plant grown under natural field conditions. After the emergence of two leaves, plants were exposed to sUV-B radiation of 1.8 kJ m(-2) above the ambient level of UV-B. The level of essential oil and phenol contents increased with exposure to sUV-B. Exposure of sUV-B resulted in significant increase in p-cymene and carvacrol contents of essential oil. Decrease in the level of major component beta-asarone due to sUV-B treatment is of prime importance, because of its toxicological concern to human health.",
+      "mesh_terms": [
+        "Acorus",
+        "Allylbenzene Derivatives",
+        "Anisoles",
+        "Gas Chromatography-Mass Spectrometry",
+        "Oils, Volatile",
+        "Phenols",
+        "Plant Leaves",
+        "Plants, Medicinal",
+        "Ultraviolet Rays"
+      ]
+    },
+    {
+      "pmid": "17826115",
+      "title": "Effect of sweet flag rhizome oil (Acorus calamus) on hemogram and ultrastructure of hemocytes of the tobacco armyworm, Spodoptera litura (Lepidoptera: Noctuidae).",
+      "authors": [
+        "Parduman R Sharma",
+        "Om P Sharma",
+        "Bhaskar P Saxena"
+      ],
+      "journal": "Micron (Oxford, England : 1993)",
+      "publication_date": "2008-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Effect of the essential oil of Acorus calamus L. rhizomes, was studied on hemocytes of the tobacco armyworm, Spodoptera litura. The oil was administered in oral application at concentration of 500 and 1000 ppm to last instar larvae of S. litura and its effect on ultrastructure of hemocytes and hemogram was evaluated. The oil was administered in topical application at 250 microg dose to pupae to ascertain its effect on total and differential hemocyte counts. At both scanning (SEM) and transmission electron microscopic (TEM) levels, the major effect of oil treatment was observed on plasmatocytes (PLs) and granular hemocytes (GRs). SEM study revealed that the cytoplasmic projections of granular hemocytes were reduced, while the filopods of plasmatocytes remained unaffected. The vacuolization in the cytoplasm and degeneration of the organelles in both plasmatocytes and granular hemocytes was observed by TEM. However, no such deformities were observed in prohemocytes (PRs), spherulocytes (SPs), and oenocytoids (OEs). A concentration-dependent decrease has been observed in the larval body weight and hemolymph volume (HV), 24-72 h after treatment. In comparison to the controls, the maximum percentage growth inhibition (GI) was recorded to be 58.28 and 66.48, respectively at 500 and 1000 ppm after 72 h treatment. Similarly after 72 h treatment, the percentage reduction in hemolymph volume was 61.38 and 69.05, respectively at 500 and 1000 ppm. Total hemocyte count (THC), in larvae computed from five recorded hemocyte types viz. PRs, PLs, GRs, SPs and OEs, decreased only after 48-72 h of treatment. The maximum decrease in THC was recorded to be 29.15 and 49.05% at 500 and 1000 ppm, respectively, after 72 h of treatment. There was continuous decline in THC in pupae after 24-72 h treatment. DHC study revealed that both the concentrations of oil in 6th instar larvae of S. litura caused a decrease in PRs, PLs and SPs and increase in GRs and OEs after 24-72 h of treatment. Since A. calamus oil treatment causes the injury to both PLs and GRs and also affects the hemogram, it can be inferred that cellular defence reactions of S. litura are impaired.",
+      "mesh_terms": [
+        "Acorus",
+        "Animals",
+        "Hemocytes",
+        "Hemolymph",
+        "Insecticides",
+        "Larva",
+        "Microscopy, Electron, Scanning",
+        "Microscopy, Electron, Transmission",
+        "Plant Oils",
+        "Spodoptera",
+        "Nicotiana"
+      ]
+    }
+  ]
+}

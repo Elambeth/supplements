@@ -1,0 +1,214 @@
+{
+  "supplement": "Genetically Modified Organisms",
+  "query": "Genetically Modified Organisms[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:38:35",
+  "research_count": 8,
+  "count": 8,
+  "articles": [
+    {
+      "pmid": "35620726",
+      "title": "20 Years of Legislation - How Australia Has Responded to the Challenge of Regulating Genetically Modified Organisms in the Clinic.",
+      "authors": [
+        "Gabrielle M O'Sullivan",
+        "Joshua G Philips",
+        "Heidi J Mitchell",
+        "Michael Dornbusch",
+        "John E J Rasko"
+      ],
+      "journal": "Frontiers in medicine",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "•In contrast to the prior voluntary system, since 2001, gene technology in Australia has been regulated under a legislated national Gene Technology Regulatory Scheme which is administered by the Gene Technology Regulator.•The Scheme provides science-based assessment of the potential risks of gene technology to the health and safety of people and the environment.•It complements the role of the Australian Therapeutic Goods Administration which regulates all therapeutic products in Australia to ensure they are safe and effective.•Recent reforms to the Scheme contribute to, and anticipate, the continued safe development and delivery of gene-based human therapeutics in Australia as a successful model for other jurisdictions."
+    },
+    {
+      "pmid": "33843251",
+      "title": "Call for More Effective Regulation of Clinical Trials with Advanced Therapy Medicinal Products Consisting of or Containing Genetically Modified Organisms in the European Union.",
+      "authors": [
+        "Stuart Beattie"
+      ],
+      "journal": "Human gene therapy",
+      "publication_date": "2021-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Advanced therapy medicinal products (ATMPs), such as gene therapies that consist of or contain genetically modified organisms (GMOs) need to comply with the European Union (EU) GMO legislation, as implemented in each EU Member State, before a clinical trial can commence. Complying with GMO requirements is complex, varies significantly across EU Member States and is leading to delays to clinical trials with ATMPs. Such delays and varying implementation of the GMO legislation makes the EU less attractive as a region to conduct clinical trials with investigational gene therapies. This is detrimental to EU patients, since their timely access to these transformative potentially curative medicines is delayed. Despite recent initiatives coordinated by the European Commission (EC) to facilitate and reduce discrepancies across the EU regarding the application of the GMO requirements, it remains particularly difficult to conduct multicenter clinical trials with ATMPs containing or consisting of GMOs involving several EU Member States. The recent decision for the EC to temporarily derogate potential coronavirus disease 2019 treatments and vaccines from some provisions of the GMO requirements was made on the basis of a clear recognition of such complexities and resulting delays to clinical development. The Alliance for Regenerative Medicine, the European Federation of Pharmaceutical Industries and Associations, and the European Association for Bioindustries call upon the EC, together with national competent authorities, to exempt ATMPs containing or consisting of GMOs from the GMO legislation. Such a simplification will eliminate the delays currently reported to occur when submitting environmental risk assessments and GMO applications to the national competent authorities. An exemption from GMO requirements will make the EU a more attractive region for clinical development of gene therapies and could accelerate European patients' access to these potentially life-saving medicines. Maintaining a system for GMO assessment that is different across countries may also prevent ATMPs from realizing the full benefits of a harmonized clinical trial approval process under the Clinical Trials Regulation. The undersigned organizations to this publication urge the EC to use its right of initiative to put forward a legislative proposal to exempt ATMPs in clinical development from the EU GMO legislation, within the timeframe proposed in the 2020 EU Pharmaceutical Strategy (by 2022). Implementation of a GMO exemption scheme before the end of the transition period for the Clinical Trial Regulation (the end of 2023) is important to avoid new Clinical Trial Application submissions for ATMPs under the Clinical Trial Regulation having to conduct the whole GMO assessment process in parallel. It is considered that ATMPs pose negligible risk to the environment. Such ATMPs include the following: human somatic cells modified ex vivo; recombinant virus-based vectors, including those containing genome editing nucleic acid sequences (which may also be delivered nonvirally); and bacterial vectors. Outside of controlled storage conditions, gene therapies cannot survive for any appreciable length of time. Upon clinical administration, any recombinant gene therapy viral vector particles that do not enter host cells are diluted within the body and if excreted are in such low multiplicity to no longer be viable or considered infectious to persons, animals, or living organisms within the environment. Any nucleic acids released into the environment are rapidly degraded.",
+      "mesh_terms": [
+        "COVID-19",
+        "European Union",
+        "Food, Genetically Modified",
+        "Humans",
+        "Legislation, Medical",
+        "Multicenter Studies as Topic",
+        "Organisms, Genetically Modified",
+        "SARS-CoV-2"
+      ]
+    },
+    {
+      "pmid": "33600022",
+      "title": "Environmental risk assessment of advanced therapies containing genetically modified organisms in the EU.",
+      "authors": [
+        "Rhys Whomsley",
+        "Victoria Palmi Reig",
+        "Ana Hidalgo-Simon"
+      ],
+      "journal": "British journal of clinical pharmacology",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Gene therapy medicinal products have the potential to provide curative treatment for many diseases with current limited therapeutic options. As advanced therapy medicinal products (ATMPs), these therapies undergo a centralised, single European Union authorisation by the European Medicines Agency (EMA), but the risks and potential harm to the environment and population at large are weighted in each application, and different interpretations at national level exist. A streamlined procedure is now in place to facilitate a consistent approach for the assessment of the environmental risks of medicines containing genetically modified organisms for both clinical trial applications and marketing authorisation applications. This article provides an overview of basic requirements across the EU, an overview of the new streamlined process and discusses available guidance for developers with particular emphasis on marketing authorisation applications. All these initiatives are aimed to remove hurdles for ATMP developers and facilitate faster access to patients.",
+      "mesh_terms": [
+        "European Union",
+        "Genetic Therapy",
+        "Humans",
+        "Organisms, Genetically Modified",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "pmid": "30753116",
+      "title": "Epigenetic consequences of genome manipulations: caveats for human germline therapy and genetically modified organisms.",
+      "authors": [
+        "Walter Doerfler"
+      ],
+      "journal": "Epigenomics",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "DNA Methylation",
+        "Epigenesis, Genetic",
+        "Epigenomics",
+        "Genetic Engineering",
+        "Genetic Therapy",
+        "Genome",
+        "Germ Cells",
+        "Humans",
+        "Organisms, Genetically Modified"
+      ]
+    },
+    {
+      "pmid": "24860575",
+      "title": "Genetically modified organisms and visceral leishmaniasis.",
+      "authors": [
+        "Rudra Chhajer",
+        "Nahid Ali"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Vaccination is the most effective method of preventing infectious diseases. Since the eradication of small pox in 1976, many other potentially life compromising if not threatening diseases have been dealt with subsequently. This event was a major leap not only in the scientific world already burdened with many diseases but also in the mindset of the common man who became more receptive to novel treatment options. Among the many protozoan diseases, the leishmaniases have emerged as one of the largest parasite killers of the world, second only to malaria. There are three types of leishmaniasis namely cutaneous (CL), mucocutaneous (ML), and visceral (VL), caused by a group of more than 20 species of Leishmania parasites. Visceral leishmaniasis, also known as kala-azar is the most severe form and almost fatal if untreated. Since the first attempts at leishmanization, we have killed parasite vaccines, subunit protein, or DNA vaccines, and now we have live recombinant carrier vaccines and live attenuated parasite vaccines under various stages of development. Although some research has shown promising results, many more potential genes need to be evaluated as live attenuated vaccine candidates. This mini-review attempts to summarize the success and failures of genetically modified organisms used in vaccination against some of major parasitic diseases for their application in leishmaniasis."
+    },
+    {
+      "pmid": "19940966",
+      "title": "Environmental risk assessment for medicinal products containing genetically modified organisms.",
+      "authors": [
+        "B Anliker",
+        "S Longhurst",
+        "C J Buchholz"
+      ],
+      "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+      "publication_date": "2010-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Many gene therapy medicinal products and also some vaccines consist of, or contain, genetically modified organisms (GMOs), which require specific consideration in the environmental risk assessment (ERA) before marketing authorisation or clinical trial applications. The ERA is performed in order to identify the potential risks for public health and the environment, which may arise due to the clinical use of these medicinal products. If such environmental risks are identified and considered as not acceptable, the ERA should go on to propose appropriate risk management strategies capable to reduce these risks. This article will provide an overview of the legal basis and requirements for the ERA of GMO-containing medicinal products in the context of marketing authorisation in the EU and clinical trials in Germany. Furthermore, the scientific principles and methodology that generally need to be followed when preparing an ERA for GMOs are discussed.",
+      "mesh_terms": [
+        "Biological Therapy",
+        "Cell Transplantation",
+        "Clinical Trials as Topic",
+        "Conservation of Natural Resources",
+        "Genetic Engineering",
+        "Genetic Therapy",
+        "Marketing of Health Services",
+        "Organisms, Genetically Modified",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "pmid": "15769135",
+      "title": "Applicability of the quantification of genetically modified organisms to foods processed from maize and soy.",
+      "authors": [
+        "Tomoaki Yoshimura",
+        "Hideo Kuribara",
+        "Takeshi Matsuoka",
+        "Takashi Kodama",
+        "Mayu Iida",
+        "Takahiro Watanabe",
+        "Hiroshi Akiyama",
+        "Tamio Maitani",
+        "Satoshi Furui",
+        "Akihiro Hino"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2005-Mar-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The applicability of quantifying genetically modified (GM) maize and soy to processed foods was investigated using heat treatment processing models. The detection methods were based on real-time quantitative polymerase chain reaction (PCR) analysis. Ground seeds of insect resistant GM maize (MON810) and glyphosate tolerant Roundup Ready (RR) soy were dissolved in water and were heat treated by autoclaving for various time intervals. The calculated copy numbers of the recombinant and taxon specific deoxyribonucleic acid (DNA) sequences in the extracted DNA solution were found to decrease with time. This decrease was influenced by the PCR-amplified size. The conversion factor (Cf), which is the ratio of the recombinant DNA sequence to the taxon specific DNA sequence and is used as a constant number for calculating GM% at each event, tended to be stable when the sizes of PCR products of two DNA sequences were nearly equal. The results suggested that the size of the PCR product plays a key role in the quantification of GM organisms in processed foods. It is believed that the Cf of the endosperm (3n) is influenced by whether the GM originated from a paternal or maternal source. The embryos and endosperms were separated from the F1 generation seeds of five GM maize events, and their Cf values were measured. Both paternal and maternal GM events were identified. In these, the endosperm Cf was lower than that of the embryo, and the embryo Cf was lower than that of the endosperm. These results demonstrate the difficulties encountered in the determination of GM% in maize grains (F2 generation) and in processed foods from maize and soy.",
+      "mesh_terms": [
+        "Animals",
+        "DNA, Plant",
+        "DNA, Recombinant",
+        "Drug Resistance",
+        "Food Handling",
+        "Glycine",
+        "Hot Temperature",
+        "Insecta",
+        "Plants, Genetically Modified",
+        "Polymerase Chain Reaction",
+        "Seeds",
+        "Glycine max",
+        "Zea mays",
+        "Glyphosate"
+      ]
+    },
+    {
+      "pmid": "15184117",
+      "title": "Metabolism of zearalenone by genetically modified organisms expressing the detoxification gene from Clonostachys rosea.",
+      "authors": [
+        "Naoko Takahashi-Ando",
+        "Shuichi Ohsato",
+        "Takehiko Shibata",
+        "Hiroshi Hamamoto",
+        "Isamu Yamaguchi",
+        "Makoto Kimura"
+      ],
+      "journal": "Applied and environmental microbiology",
+      "publication_date": "2004-Jun",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Zearalenone (ZEN) is converted to a nontoxic product by a lactonohydololase encoded by zhd101. An enhanced green fluorescent protein (EGFP) gene was fused to zhd101 (i.e., egfp::zhd101) and expressed in Escherichia coli. Both recombinant ZHD101 and EGFP::ZHD101 were purified to homogeneity and characterized. Maximal activity of ZHD101 toward ZEN was measured at approximately 37 to 45 degrees C and pH 10.5 (k(cat) at 30 degrees C, 0.51 s(-1)). The enzyme was irreversibly inactivated at pH values below 4.5 or by treatment with serine protease inhibitors. ZHD101 was also active against five ZEN cognates, although the efficiencies were generally low; e.g., the k(cat) was highest with zearalanone (1.5 s(-1)) and lowest with beta-zearalenol (0.075 s(-1)). EGFP::ZHD101 had properties similar to those of the individual proteins with regard to the EGFP fluorescence and lactonohydrolase activity. Fortuitously, EGFP::ZHD101 exhibited a good correlation between the fluorescence intensity and reaction velocity under various pH conditions. We therefore used egfp::zhd101 to visually monitor the lactonohydrolase activity in genetically modified organisms and evaluated the usefulness of zhd101 for in vivo detoxification of ZEN. While recombinant E. coli and transgenic rice calluses exhibited strong EGFP fluorescence and completely degraded ZEN in liquid media, recombinant Saccharomyces cerevisiae gave poor fluorescence and did not eliminate all the toxicity of the mycotoxin in the medium; i.e., the rest of ZEN was transformed into an unfavorable substrate, beta-zearalenol, by an as-yet-unidentified reductase and remained in the medium. Even so, as much as 75% of ZEN was detoxified by the yeast transformant, which is better than the detoxification system in which food-grade Lactobacillus strains are used (H. El-Nezami, N. Polychronaki, S. Salminen, and H. Mykkuäne, Appl. Environ. Microbiol. 68:3545-3549, 2002). An appropriate combination of a candidate host microbe and the codon-optimized synthetic gene may contribute significantly to establishing a mycotoxin detoxification system for food and feed.",
+      "mesh_terms": [
+        "Escherichia coli",
+        "Estrogens, Non-Steroidal",
+        "Fungal Proteins",
+        "Green Fluorescent Proteins",
+        "Hydrogen-Ion Concentration",
+        "Hydrolases",
+        "Hypocreales",
+        "Luminescent Proteins",
+        "Organisms, Genetically Modified",
+        "Oryza",
+        "Plants, Genetically Modified",
+        "Recombinant Fusion Proteins",
+        "Saccharomyces cerevisiae",
+        "Zearalenone"
+      ]
+    }
+  ]
+}

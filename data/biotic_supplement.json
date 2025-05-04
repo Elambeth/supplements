@@ -1,0 +1,52 @@
+{
+  "supplement": "Biotic Supplement",
+  "query": "Biotic Supplement[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:18:34",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39859617",
+      "title": "A Field Trial to Demonstrate the Potential of a Vitamin B Diet Supplement in Reducing Oxidative Stress and Improving Hygienic and Grooming Behaviors in Honey Bees.",
+      "authors": [
+        "Nemanja M Jovanovic",
+        "Uros Glavinic",
+        "Jevrosima Stevanovic",
+        "Marko Ristanic",
+        "Branislav Vejnovic",
+        "Slobodan Dolasevic",
+        "Zoran Stanimirovic"
+      ],
+      "journal": "Insects",
+      "publication_date": "2025-Jan-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The honey bee is an important insect pollinator that provides critical pollination services for natural and agricultural systems worldwide. However, inadequate food weakens honey bee colonies, making them vulnerable to various biotic and abiotic factors. In this study, we examined the impact of supplementary feeding on bees' genes for antioxidative enzymes and vitellogenin, oxidative stress parameters, and the hygienic and grooming behavior. The colonies were divided into two experimental groups (with ten hives each): a treatment group that received the plant-based supplement and a control group. The experiment was conducted in two seasons, spring and summer. After the treatment, in both seasons, all the monitored parameters in the treatment group differed from those in the control group. The expression levels of genes for antioxidative enzymes were significantly lower, but the vitellogenin gene transcript level was significantly higher. Values of oxidative stress parameters were significantly lower. The levels of hygienic and grooming behavior were significantly higher. Therefore, our field study indicates that the tested supplement exerted beneficial effects on bees, reflected in reduced oxidative stress and enhanced hygienic and grooming behavior."
+    },
+    {
+      "pmid": "37466413",
+      "title": "Biotics: An emerging food supplement for health improvement in the era of immune modulation.",
+      "authors": [
+        "Neelam A Revankar",
+        "Pradeep S Negi"
+      ],
+      "journal": "Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The involvement of the commensal microbiota in immune function is a multifold process. Biotics, such as probiotics, prebiotics, synbiotics, and paraprobiotics, have been subjected to animal and human trials demonstrating the association between gut microbes and immunity biomarkers leading to improvement in overall health. In recent years, studies on human microbiome interaction have established the multifarious role of biotics in maintaining overall health. The consumption of biotics has been extensively reported to help in maintaining microbial diversity, enhancing gut-associated mucosal immune homeostasis, and providing protection against a wide range of lifestyle disorders. However, the establishment of biotics as an alternative therapy for a range of health conditions is yet to be ascertained. Despite the fact that scientific literature has demonstrated the correlation between biotics and immune modulation, most in vivo and in vitro reports are inconclusive on the dosage required. This review provides valuable insights into the immunomodulatory effects of biotics consumption based on evidence obtained from animal models and clinical trials. Furthermore, we highlight the optimal dosages of biotics that have been reported to deliver maximum health benefits. By identifying critical research gaps, we have suggested a roadmap for future investigations to advance our understanding of the intricate crosstalk between biotics and immune homeostasis.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Prebiotics",
+        "Probiotics",
+        "Synbiotics",
+        "Immunity"
+      ]
+    }
+  ]
+}

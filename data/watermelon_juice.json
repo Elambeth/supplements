@@ -1,0 +1,539 @@
+{
+  "supplement": "Watermelon Juice",
+  "query": "Watermelon Juice[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:04:43",
+  "research_count": 20,
+  "count": 20,
+  "articles": [
+    {
+      "pmid": "36839167",
+      "title": "The Effect of Watermelon Juice Supplementation on Heart Rate Variability and Metabolic Response during an Oral Glucose Challenge: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
+      "authors": [
+        "Rachel Matthews",
+        "Kate S Early",
+        "Cullen M Vincellette",
+        "Jack Losso",
+        "Guillaume Spielmann",
+        "Brian A Irving",
+        "Timothy D Allerton"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Feb-04",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "Heart rate variability (HRV) provides a simple method to evaluate autonomic function in health and disease. A reduction in HRV may indicate autonomic dysfunction and is strongly associated with aspects of cardiometabolic disease, including hyperglycemia. Reduced nitric oxide (NO) bioavailability is also implicated in the development of cardiometabolic disease and autonomic dysfunction. Watermelons are natural sources of L-arginine and L-citrulline, substrates used for NO synthesis. Watermelon consumption can improve NO bioavailability. We conducted a randomized, double-blind, placebo-controlled crossover trial to test the effects of 2 weeks of daily watermelon juice (WMJ) supplementation on HRV in response to an oral glucose challenge (OGC) in healthy young adults. We also performed indirect calorimetry to assess if our intervention altered the metabolic response to the OGC. WMJ supplementation preserved high-frequency power (HF) (treatment effect, p = 0.03) and the percentage of successive differences that differ by more than 50 ms (pNN50) (treatment effect, p = 0.009) when compared to the placebo treatment. There was no difference in resting energy expenditure or substate oxidation according to treatment. We report that WMJ supplementation attenuates OGC-induced reductions in HRV. Future work should emphasize the importance of NO bioavailability in autonomic dysfunction in cardiometabolic disease.",
+      "mesh_terms": [
+        "Young Adult",
+        "Humans",
+        "Heart Rate",
+        "Dietary Supplements",
+        "Citrullus",
+        "Cross-Over Studies",
+        "Cardiovascular Diseases",
+        "Glucose",
+        "Double-Blind Method"
+      ]
+    },
+    {
+      "pmid": "36436485",
+      "title": "Low-frequency ultrasonic treatment: A potential strategy to improve the flavor of fresh watermelon juice.",
+      "authors": [
+        "Fan Yang",
+        "Chunhe Shi",
+        "Lichang Yan",
+        "Ying Xu",
+        "Yixin Dai",
+        "Shuang Bi",
+        "Ye Liu"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A molecular sensory science approach was used to explore the effects of ultrasonic treatment on aroma compounds of watermelon juice. Watermelon juice was submitted to ultrasonic power at 325 W for 20 min. Ultrasonic treatment reduced odor related to cucumber and green descriptors, whilst significantly improved odors related to sweet, floral, and fruity descriptors, thus contributing to the overall flavor of watermelon juice. Compared with untreated watermelon juice, the amount and concentration of volatile compounds in ultrasonicated watermelon juice increased by 82.50% and 111.84%, respectively. Notably, 22 alkene compounds were newly formed in ultrasonicated watermelon juice, which contributed to sweet and fruity aroma of watermelon juice. The findings of the present study suggest that ultrasonic treatment may be a potential method to improve the overall flavor of watermelon juice.",
+      "mesh_terms": [
+        "Citrullus",
+        "Ultrasonics"
+      ]
+    },
+    {
+      "pmid": "35185203",
+      "title": "Impact of ozone treatment on the physico-chemical properties, bioactive compounds, pectin methylesterase activity and microbiological properties of watermelon juice.",
+      "authors": [
+        "Boon Jen Lee",
+        "Adeline Su Yien Ting",
+        "Yin Yin Thoo"
+      ],
+      "journal": "Journal of food science and technology",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The increasing consumer demand for higher quality fruit juices has encouraged the use of non-thermal processing to extend the shelf life of perishable juice, watermelon juice. Ozone with its high oxidizing effect serve as an effective non-thermal processing treatment. The aim of this study was to investigate the impact of ozone treatment on the physico-chemical, bioactive compounds, pectin methylesterase (PME) activity and microbiological properties of unclarified and clarified watermelon juice. The ozone gas was pumped into watermelon juice for up to 25 min in a closed chamber. The microorganism inactivation in unclarified and clarified watermelon juices improved across the increasing processing time. Among these juices, the microorganism inactivation efficiency of ozone was found higher on clarified juice (3.466 log) than unclarified juice (3.150 log). It was found that °Brix value and PME activity were not altered by ozone treatment. The other physico-chemical properties (titratable acidity, pH, total colour difference, non-enzymatic browning, cloudiness) and bioactive compounds reduced across processing time. This study demonstrated that ozone treatment is an effective non-thermal processing technique to reduce the microorganism in watermelon juice. Further study is required to optimise the processing parameters of ozone treatment to maintain the overall quality of the watermelon juice."
+    },
+    {
+      "pmid": "34644233",
+      "title": "100% Watermelon Juice as a Food-First Intervention to Improve Cognitive Function: Ancillary Findings from a Randomized Controlled Trial.",
+      "authors": [
+        "Kristi M Crowe-White",
+        "Vinoth Aryan Nagabooshanam",
+        "Tanja Dudenbostel",
+        "Julie L Locher",
+        "Tinsley P Chavers",
+        "Amy C Ellis"
+      ],
+      "journal": "Journal of nutrition in gerontology and geriatrics",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Lycopene exhibits neuroprotective properties due to its antioxidant and anti-inflammatory functionality. As watermelon is a rich source of lycopene, pasteurized watermelon juice provides lycopene in its most bioavailable form. This study examined relationships between circulating lycopene, cognitive performance, and biomarkers of oxidative stress and inflammation in response to pasteurized 100% watermelon juice supplementation. A placebo-controlled, randomized, double-blind, crossover trial was conducted with postmenopausal women (n = 16, 60 + 4.1 years). Participants consumed two 360 mL servings of pasteurized 100% watermelon juice or a placebo beverage for 4 weeks. Fasting blood samples were collected, and cognitive tests were administered to assess various neurocognitive domains. Statistical analyses included mixed models and Spearman correlations. Serum lycopene exhibited a significant treatment effect (p = 0.002) with a mean increase of 81%. However, this increase was not associated with changes in oxidative stress, inflammation, or cognitive function. Additional research is warranted to determine dose-durational effects for promoting cognition.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Citrullus",
+        "Cognition",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Lycopene",
+        "Oxidative Stress"
+      ]
+    },
+    {
+      "pmid": "34510203",
+      "title": "Supplemental Watermelon Juice Attenuates Acute Hyperglycemia-Induced Macro-and Microvascular Dysfunction in Healthy Adults.",
+      "authors": [
+        "Cullen M Vincellette",
+        "Jack Losso",
+        "Kate Early",
+        "Guillaume Spielmann",
+        "Brian A Irving",
+        "Timothy D Allerton"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2021-Nov-02",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Acute hyperglycemia reduces NO bioavailability and causes macro- and microvascular dysfunction. Watermelon juice (WMJ) is a natural source of the amino acid citrulline, which is metabolized to form arginine for the NO cycle and may improve vascular function. OBJECTIVES: We examined the effects of 2 weeks of WMJ compared to a calorie-matched placebo (PLA) to attenuate acute hyperglycemia-induced vascular dysfunction. METHODS: In a randomized, placebo-controlled, double-blind, crossover trial, 6 men and 11 women (aged 21-25; BMI, 23.5 ± 3.2 kg/m2) received 2 weeks of daily WMJ (500 mL) or a PLA drink followed by an oral-glucose-tolerance test. Postprandial flow-mediated dilation (FMD) was measured by ultrasound (primary outcome), while postprandial microvascular blood flow (MVBF) and ischemic reperfusion were measured by near-infrared spectroscopy (NIRS) vascular occlusion test (VOT). RESULTS: The postprandial FMD area AUC was higher after WMJ supplementation compared to PLA supplementation (838 ± 459% · 90 min compared with 539 ± 278% · 90 min; P = 0.03). The postprandial MVBF (AUC) was higher (P = 0.01) following WMJ supplementation (51.0 ± 29.1 mL blood · 100 mL tissue-1 · min-1 · 90 min) compared to the PLA (36.0 ± 20.5 mL blood · 100 mL tissue-1 · min-1 · 90 min; P = 0.01). There was a significant treatment effect (P = 0.048) for WMJ supplementation (71.2 ± 1.5%) to increase baseline tissue oxygen saturation (StO2%) when compared to PLA (65.9 ± 1.7%). The ischemic-reperfusion slope was not affected by WMJ treatment (P = 0.83). CONCLUSIONS: Two weeks of daily WMJ supplementation improved FMD and some aspects of microvascular function (NIRS-VOT) during experimentally induced acute hyperglycemia in healthy adults. Preserved postprandial endothelial function and enhanced skeletal muscle StO2% are likely partially mediated by increased NO production (via citrulline conversion into arginine) and by the potential antioxidant effect of other bioactive compounds in WMJ.",
+      "mesh_terms": [
+        "Adult",
+        "Citrullus",
+        "Female",
+        "Humans",
+        "Hyperglycemia",
+        "Male",
+        "Microcirculation",
+        "Postprandial Period",
+        "Spectroscopy, Near-Infrared",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "34344546",
+      "title": "Daily 100% watermelon juice consumption and vascular function among postmenopausal women: A randomized controlled trial.",
+      "authors": [
+        "Amy C Ellis",
+        "Tapan Mehta",
+        "Vinoth A Nagabooshanam",
+        "Tanja Dudenbostel",
+        "Julie L Locher",
+        "Kristi M Crowe-White"
+      ],
+      "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "publication_date": "2021-Sep-22",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Watermelon juice is a rich food source of cardioprotective compounds such as arginine, citrulline, and lycopene. Preventative interventions are warranted as risk of cardiovascular disease increases among women after menopause, and age alone is an independent risk factor for vascular dysfunction. Thus, this study evaluated the effects of 100% watermelon juice on measures of vascular function. METHODS AND RESULTS: In this randomized, double-blind, placebo-controlled, crossover trial, 21 healthy postmenopausal women were randomized to consume two 360 mL servings of 100% watermelon juice per day or an isocaloric placebo for four weeks. Following a two-week washout period, they consumed the other beverage for an additional four weeks. Before and after each treatment arm, a fasting blood sample was taken for measurement of serum arginine, citrulline, lycopene, glucose, and insulin. Assessments of vascular function included pulse pressure, pulse wave velocity, 24-h ambulatory blood pressure, and flow-mediated dilation. General linear mixed models with intent-to-treat analyses were used to examine the effects of the intervention. Despite a significant treatment effect for circulating lycopene (p = 0.002), no changes in arginine, citrulline, or any vascular measures were observed. Although the juice intervention resulted in a slight but significant increase in fasting serum glucose (p = 0.001), changes in glucose homeostasis were not clinically significant. CONCLUSION: In contrast to findings from previous studies in younger adults and those with pre-existing hypertension, measures of vascular function in this cohort of healthy postmenopausal women were not impacted by supplemental watermelon juice. CLINICALTRIALS. GOV IDENTIFIER: NCT03626168.",
+      "mesh_terms": [
+        "Aged",
+        "Alabama",
+        "Biomarkers",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Citrullus",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Homeostasis",
+        "Humans",
+        "Lycopene",
+        "Middle Aged",
+        "Postmenopause",
+        "Time Factors",
+        "Vascular Stiffness"
+      ]
+    },
+    {
+      "pmid": "32695957",
+      "title": "Variation of Serum Lycopene in Response to 100% Watermelon Juice: An Exploratory Analysis of Genetic Variants in a Randomized Controlled Crossover Study.",
+      "authors": [
+        "Kristi M Crowe-White",
+        "Venkata S Voruganti",
+        "Valentina Talevi",
+        "Tanja Dudenbostel",
+        "Vinoth A Nagabooshanam",
+        "Julie L Locher",
+        "Amy C Ellis"
+      ],
+      "journal": "Current developments in nutrition",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Watermelon, a rich source of lycopene, has garnered attention for cardioprotective effects including cholesterol reduction and promotion of redox balance. It is unknown whether 100% watermelon juice may represent a food-first approach to confer cardioprotective benefits of lycopene. OBJECTIVES: This study examined influences of 100% watermelon juice on serum lycopene, lipids, and antioxidant capacity. Secondly, the study explored genetic influences on lycopene metabolism and bioavailability. METHODS: A placebo-controlled, randomized, double-blind, crossover trial with postmenopausal women (n = 16, mean ± SD age: 60 ± 4.1 y) assessed effects of 100% watermelon juice on mechanistic and clinical outcomes influencing vascular function. Participants maintained low-lycopene diets for a 1-wk run-in period and throughout the study. Morning and evening consumption of 100% watermelon juice provided a daily dose of 14.4 ± 0.34 mg lycopene. Study arms of 4 wk were separated by a 2-wk washout period. Saliva was collected for genetic analysis of single nucleotide polymorphisms, and fasting blood samples were taken pre- and post-study arms. Statistical analyses included mixed models, linear regression, and nonparametric tests. RESULTS: Serum lycopene exhibited a significant treatment effect (P = 0.002) along with notable interindividual responses; however, significant improvements in serum lipids or antioxidant capacity were not observed. Genetic variant rs6564851 in the β-carotene 15,15'-oxygenase-1 (BCO1) gene was associated with changes in lycopene such that TT homozygotes exhibited a significantly greater increase (β ± SE: 13.4 ± 1.6, P = 1.4 × 10-06). CONCLUSIONS: Watermelon juice supplementation did not result in improvements in serum lipids or antioxidant capacity; however, results support findings in which watermelon juice significantly, yet differentially, increased circulating lycopene. Genetics appears to explain some of the variability. Given that dose has been shown to overcome individual responsiveness to lycopene interventions, future investigations with varying doses of lycopene-rich foods would be strengthened by genotyping so as to establish personalized nutrition recommendations.This trial was registered at clinicaltrials.gov as NCT03626168."
+    },
+    {
+      "pmid": "32603648",
+      "title": "Changes of volatile flavor compounds of watermelon juice by heat treatment.",
+      "authors": [
+        "Takako Aboshi",
+        "Saiki Musya",
+        "Hiroto Sato",
+        "Tomoya Ohta",
+        "Tetsuya Murayama"
+      ],
+      "journal": "Bioscience, biotechnology, and biochemistry",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Changes of volatile flavor compounds of watermelon juice by heat treatment were investigated by gas chromatography-olfactometry-mass spectrometry. Although the major volatile compounds in watermelon juice, three aldehydes, three alcohols, and one ketone, did not increase significantly by heat treatment, dimethylsulfide and methional increased in heated juice. These two sulfides were suggested to contribute to the off-flavors in heated watermelon juice.",
+      "mesh_terms": [
+        "Citrullus",
+        "Food Handling",
+        "Fruit and Vegetable Juices",
+        "Hot Temperature",
+        "Taste",
+        "Volatile Organic Compounds"
+      ]
+    },
+    {
+      "pmid": "32093373",
+      "title": "Identification of Key Off-Flavor Compounds in Thermally Treated Watermelon Juice via Gas Chromatography-Olfactometry-Mass Spectrometry, Aroma Recombination, and Omission Experiments.",
+      "authors": [
+        "Xiao Yang",
+        "Fan Yang",
+        "Ye Liu",
+        "Jian Li",
+        "Huan-Lu Song"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2020-Feb-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thermally treated watermelon juice (TW) presents a strong unpleasant smell, resulting in poor consumer acceptance. It is necessary to identify the key off-flavor compounds in TW. Solid-phase microextraction (SPME) and solvent-assisted flavor evaporation (SAFE) coupled with gas chromatography-olfactometry-mass spectrometry (GC-O-MS) were applied to the extraction and analysis of the volatile compounds in TW. Five aroma-active compounds and seven off-flavor compounds were quantitatively analyzed by the standard curve method. Based on the flavor dilution factor (FD), odor attribute, odor activity value (OAV) of volatile compounds, and partial least-squares regression (PLSR) analysis, seven key off-flavor compounds were preliminarily identified as follows: (E)-2-heptenal, decanal, octanol, diisopropyl disulfide, hexanol, (E)-2-decenal, and (E)-2-octenol. Aroma recombination proved that these off-flavor compounds above had a negative impact on the overall flavor in TW. Omission experiments were taken to confirm them further. Finally, octanol, diisopropyl disulfide, and (E)-2-decenal were identified as the most potent off-flavor compounds in TW."
+    },
+    {
+      "pmid": "30756297",
+      "title": "Watermelon Juice: a Novel Functional Food to Increase Circulating Lycopene in Older Adult Women.",
+      "authors": [
+        "Amy C Ellis",
+        "Tanja Dudenbostel",
+        "Kristi Crowe-White"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Because of accruing oxidative stress with advancing age, older adults may benefit from increased dietary intake of lycopene, a lipophilic carotenoid with potent antioxidant properties. Yet, intake of dietary lycopene as well as circulating lycopene levels are known to decrease with aging. Watermelon is one of the few food sources of dietary lycopene. Because heat treatment increases lycopene bioavailability, ingestion of watermelon in pasteurized juice form may be an optimal delivery vehicle to increase lycopene levels in older adults. However, due to its lipophilic nature, there are concerns that co-ingestion of dietary fat may be necessary for efficient intestinal absorption of lycopene. Thus, this feasibility study aimed to examine the effects of a one-time dose of 100% pasteurized watermelon juice on circulating lycopene concentrations of postmenopausal women after a 10-h overnight fast. Blood was sampled from eight women before and 2 h after ingestion of 360 ml of juice, and serum lycopene was measured by ultra-high performance liquid chromatography. Circulating lycopene levels increased by three-fold (p < 0.001) with increases observed for every participant. Results demonstrate that 100% watermelon juice is a palatable, effective means of increasing serum lycopene in older adult women, a group at risk for low carotenoid intake. Trial registration: Clinicaltrials.gov identifier: NCT03608254 .",
+      "mesh_terms": [
+        "Aged",
+        "Antioxidants",
+        "Biological Availability",
+        "Chromatography, High Pressure Liquid",
+        "Citrullus",
+        "Eating",
+        "Feasibility Studies",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Functional Food",
+        "Humans",
+        "Intestinal Absorption",
+        "Lycopene",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Postmenopause"
+      ]
+    },
+    {
+      "pmid": "29876110",
+      "title": "Effect of ultrahigh temperature treatment on qualities of watermelon juice.",
+      "authors": [
+        "Yubin Wang",
+        "Xiaofei Guo",
+        "Yue Ma",
+        "Xiaoyan Zhao",
+        "Chao Zhang"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2018-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The watermelon juice was pasteurized by the ultrahigh temperature (UHT) treatment, and the qualities of the pasteurized juice were compared to screen the optimal UHT. The UHT of 120 and 135°C inactivated the microbial colonies and maintained the original color of the watermelon juice. The temperature of 120 and 135°C was also maintained the phenolic content by reducing the polyphenoloxidase activity. Moreover, the C9 aldehydes, especially the (E,Z)-2,6-nonadienal, presented the main aroma of the watermelon juice. The C9 aldehydes were formed as the results of the heat reduction and enzymatic metabolism. The temperature of 120 and 135°C reduced the alcohol dehydrogenase activity and well maintained the C9 aldehyde content of the watermelon juice. Hence, the temperature of 120°C of the UHT treatment was the optimal temperature for the production of the watermelon juice."
+    },
+    {
+      "pmid": "29781785",
+      "title": "Intention of Older Women to Consume 100% Watermelon Juice for Vascular Health: An Application of Theory of Planned Behavior.",
+      "authors": [
+        "Seung Eun Jung",
+        "Amy C Ellis",
+        "Kristi Crowe-White"
+      ],
+      "journal": "Journal of nutrition in gerontology and geriatrics",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "To strengthen randomized controlled trials (RCT) evaluating the efficacy of 100% watermelon juice on vascular function of older women, theory-driven behavioral analysis as well as comparative sensory analysis of the intervention and placebo were conducted. The Theory of Planned Behavior was adopted to assess psychosocial determinants of intention to consume watermelon juice. Sensory attributes were assessed utilizing hedonic scales. Analysis included Structural Equation Modeling with maximum likelihood. The measurement model provided a good fit (x2 = 70.22, df = 38; RMSEA = 0.07, CFI = 0.98; NFI = 0.95). Attitude (γ = 0.36), subjective norm (γ = 0.43), and perceived behavioral control (γ = 0.21,) were significant predictors (p < 0.001) of intention. Participants identified no significant differences in sensorial attributes between beverages, thereby minimizing sensory bias and discrimination. Similar approaches may help other RCT investigating novel foods and bioactive compounds bridge gaps between efficacy and effectiveness.",
+      "mesh_terms": [
+        "Aged",
+        "Alabama",
+        "Citrullus",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Health Behavior",
+        "Health Promotion",
+        "Humans",
+        "Intention",
+        "Middle Aged",
+        "Placebos",
+        "Randomized Controlled Trials as Topic",
+        "Reproducibility of Results",
+        "Sensation",
+        "Surveys and Questionnaires",
+        "Vascular Diseases"
+      ]
+    },
+    {
+      "pmid": "27378312",
+      "title": "Two weeks of watermelon juice supplementation improves nitric oxide bioavailability but not endurance exercise performance in humans.",
+      "authors": [
+        "Stephen J Bailey",
+        "Jamie R Blackwell",
+        "Ewan Williams",
+        "Anni Vanhatalo",
+        "Lee J Wylie",
+        "Paul G Winyard",
+        "Andrew M Jones"
+      ],
+      "journal": "Nitric oxide : biology and chemistry",
+      "publication_date": "2016-Sep-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study tested the hypothesis that watermelon juice supplementation would improve nitric oxide bioavailability and exercise performance. Eight healthy recreationally-active adult males reported to the laboratory on two occasions for initial testing without dietary supplementation (control condition). Thereafter, participants were randomly assigned, in a cross-over experimental design, to receive 16 days of supplementation with 300 mL·day(-1) of a watermelon juice concentrate, which provided ∼3.4 g l-citrulline·day(-1) and an apple juice concentrate as a placebo. Participants reported to the laboratory on days 14 and 16 of supplementation to assess the effects of the interventions on blood pressure, plasma [l-citrulline], plasma [l-arginine], plasma [nitrite], muscle oxygenation and time-to-exhaustion during severe-intensity exercise. Compared to control and placebo, plasma [l-citrulline] (29 ± 4, 22 ± 6 and 101 ± 23 μM), [l-arginine] (74 ± 9, 67 ± 13 and 116 ± 9 μM) and [nitrite] (102 ± 29, 106 ± 21 and 201 ± 106 nM) were higher after watermelon juice supplementation (P < 0.01). However, systolic blood pressure was higher in the watermelon juice (130 ± 11) and placebo (131 ± 9) conditions compared to the control condition (124 ± 8 mmHg; P < 0.05). The skeletal muscle oxygenation index during moderate-intensity exercise was greater in the watermelon juice condition than the placebo and control conditions (P < 0.05), but time-to-exhaustion during the severe-intensity exercise test (control: 478 ± 80, placebo: 539 ± 108, watermelon juice: 550 ± 143 s) was not significantly different between conditions (P < 0.05). In conclusion, while watermelon juice supplementation increased baseline plasma [nitrite] and improved muscle oxygenation during moderate-intensity exercise, it increased resting blood pressure and did not improve time-to-exhaustion during severe-intensity exercise. These findings do not support the use of watermelon juice supplementation as a nutritional intervention to lower blood pressure or improve endurance exercise performance in healthy adults.",
+      "mesh_terms": [
+        "Arginine",
+        "Arterial Pressure",
+        "Blood Glucose",
+        "Citrulline",
+        "Citrullus",
+        "Dietary Supplements",
+        "Fruit and Vegetable Juices",
+        "Heart Rate",
+        "Humans",
+        "Lactic Acid",
+        "Male",
+        "Malus",
+        "Nitric Oxide",
+        "Nitrites",
+        "Oxygen Consumption",
+        "Physical Endurance",
+        "Pulmonary Gas Exchange",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28959549",
+      "title": "Hepato- and neuro-protective effects of watermelon juice on acute ethanol-induced oxidative stress in rats.",
+      "authors": [
+        "Omolola R Oyenihi",
+        "Blessing A Afolabi",
+        "Ayodeji B Oyenihi",
+        "Olusegun J Ogunmokun",
+        "Oluwafemi O Oguntibeju"
+      ],
+      "journal": "Toxicology reports",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic and acute alcohol exposure has been extensively reported to cause oxidative stress in hepatic and extra-hepatic tissues. Watermelon (Citrullus lanatus) is known to possess various beneficial properties including; antioxidant, anti-inflammatory, analgesic, anti-diabetic, anti-ulcerogenic effects. However, there is a lack of pertinent information on its importance in acute alcohol-induced hepato- and neuro-toxicity. The present study evaluated the potential protective effects of watermelon juice on ethanol-induced oxidative stress in the liver and brain of male Wistar rats. Rats were pre-treated with the watermelon juice at a dose of 4 ml/kg body weight for a period of fifteen days prior to a single dose of ethanol (50%; 12 ml/kg body weight). Ethanol treatment reduced body weight gain and significantly altered antioxidant status in the liver and brain. This is evidenced by the significant elevation of malondialdehyde (MDA) concentration; depletion in reduced glutathione (GSH) levels and an increased catalase (CAT) activity in the brain and liver. There was no significant difference in the activity of glutathione peroxidase (GPX) in the liver and brain. Oral administration of watermelon juice for fifteen (15) days prior to ethanol intoxication, significantly reduced the concentration of MDA in the liver and brain of rats. In addition, water melon pre-treatment increased the concentration of GSH and normalized catalase activity in both tissues in comparison to the ethanol control group. Phytochemical analysis revealed the presence of phenol, alkaloids, saponins, tannins and steroids in watermelon juice. Our findings indicate that watermelon juice demonstrate anti-oxidative effects in ethanol-induced oxidation in the liver and brain of rats; which could be associated with the plethora of antioxidant phyto-constituents present there-in."
+    },
+    {
+      "pmid": "25328188",
+      "title": "Process optimization for enzyme aided clarification of watermelon juice.",
+      "authors": [
+        "Deepali Saxena",
+        "Latha Sabikhi",
+        "Subir Kumar Chakraborty",
+        "Dheer Singh"
+      ],
+      "journal": "Journal of food science and technology",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Watermelon juice was exposed to the enzyme masazyme at varying enzyme concentrations (0.01-0.1 % w/w) and different time (20-120 min) and temperature (30-50 °C) combinations. The effects of the treatments on selected responses (juice recovery, total dissolved solids (TDS), viscosity, turbidity, cloud stability and L value) were determined employing a second order Box Behnken Design in combination with Response Surface Methodology. Enzymatic treatment effectively degraded polysaccharides, resulting in reduced viscosity, turbidity and absorbance value and increased juice recovery, total dissolved solids and lightness. R(2) value for all models for the dependent variables were greater than 90 %. The maximum juice recovery (86.27 %), TDS (8.7°Brix) and L value (17.57) while minimum viscosity (0.0020 Pa.s.), turbidity (39.37 NTU) and cloud stability (0.033 abs) were obtained when enzyme treatment was set up with 0.09 % w/w enzyme concentration at 46.90 °C and 117.45 min."
+    },
+    {
+      "pmid": "24425922",
+      "title": "Inactivation of polyphenol oxidase from watermelon juice by high pressure carbon dioxide treatment.",
+      "authors": [
+        "Ye Liu",
+        "Xiao Song Hu",
+        "Xiao Yan Zhao",
+        "Chao Zhang"
+      ],
+      "journal": "Journal of food science and technology",
+      "publication_date": "2013-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The inactivation of polyphenol oxidase from watermelon juice with high pressure carbon dioxide (HPCD) treatment was investigated. The maximum reduction of polyphenol oxidase (PPO) activity inactivated by HPCD treatment was 95.8% at 30 MPa and 50 °C for 30 min, which was far higher than 50.9% of control treatment at 50 °C for 30 min. The inactivation of PPO was adequately described by a two-fraction model, which indicated that a labile and stable fraction might present in PPO from watermelon juice. The kinetic rate constants kL and kS of labile and stable fractions were 1.976 and 0.041 min(-1) by HPCD treatment of 30 MPa and 50 °C. And the labile fraction was easier to be inactivated by kinetic analysis. HPCD treatment with the combined effects of pressure, temperature, pH reduction, and time was stronger to inactivate PPO from watermelon juice than control treatment at the same temperature."
+    },
+    {
+      "pmid": "23862566",
+      "title": "Watermelon juice: potential functional drink for sore muscle relief in athletes.",
+      "authors": [
+        "Martha P Tarazona-Díaz",
+        "Fernando Alacid",
+        "María Carrasco",
+        "Ignacio Martínez",
+        "Encarna Aguayo"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2013-Aug-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "l-Citrulline is an excellent candidate to reduce muscle soreness, and watermelon is a fruit rich in this amino acid. This study investigated the potential of watermelon juice as a functional drink for athletes. An in vitro study of intestinal absorption of l-citrulline in Caco-2 cells was performed using unpasteurized (NW), pasteurized (80 °C for 40 s) watermelon juice (PW) and, as control, a standard of l-citrulline. l-citrulline bioavailability was greater when it was contained in a matrix of watermelon and when no heat treatment was applied. In the in vivo experiment (maximum effort test in a cycloergometer), seven athletes were supplied with 500 mL of natural watermelon juice (1.17 g of l-citrulline), enriched watermelon juice (4.83 g of l-citrulline plus 1.17 g from watermelon), and placebo. Both watermelon juices helped to reduce the recovery heart rate and muscle soreness after 24 h.",
+      "mesh_terms": [
+        "Athletes",
+        "Beverages",
+        "Biological Availability",
+        "Caco-2 Cells",
+        "Citrulline",
+        "Citrullus",
+        "Fruit",
+        "Functional Food",
+        "Humans",
+        "Male",
+        "Muscles",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23493787",
+      "title": "Effect of high hydrostatic pressure on overall quality parameters of watermelon juice.",
+      "authors": [
+        "Y Liu",
+        "X Y Zhao",
+        "L Zou",
+        "X S Hu"
+      ],
+      "journal": "Food science and technology international = Ciencia y tecnologia de los alimentos internacional",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "High hydrostatic pressure as a kind of non-thermal processing might maintain the quality of thermo-sensitive watermelon juice. So, the effect of high hydrostatic pressure treatment on enzymes and quality of watermelon juice was investigated. After high hydrostatic pressure treatment, the activities of polyphenol oxidase, peroxidase, and pectin methylesterase of juice decreased significantly with the pressure (P < 0.05). Inactivation of polyphenol oxidase and peroxidase could be fitted by two-fraction model and that of pectin methylesterase could be described by first-order reaction model. Titratable acidity, pH, and total soluble solid of juice did not change significantly (P > 0.05). No significant difference was observed in lycopene and total phenolics after high hydrostatic pressure treatment when compared to the control (P > 0.05). Cloudiness and viscosity increased with pressure (P < 0.05) but did not change significantly with treatment time (P > 0.05). a*- and b*-value both unchanged after high hydrostatic pressure treatment (P > 0.05) while L*-value increased but the values had no significant difference among treated juices. Browning degree after high hydrostatic pressure treatment decreased with increase in pressure and treatment time (P < 0.05). Through the comparison of total color difference values, high hydrostatic pressure had little effect on color of juice. The results of this study demonstrated the efficacy of high hydrostatic pressure in inactivating enzymes and maintaining the quality of watermelon juice.",
+      "mesh_terms": [
+        "Carotenoids",
+        "Citrullus",
+        "Food Handling",
+        "Fruit",
+        "Hydrogen-Ion Concentration",
+        "Lycopene",
+        "Pressure",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "21740951",
+      "title": "Protective effect of Diyarbakır watermelon juice on carbon tetrachloride-induced toxicity in rats.",
+      "authors": [
+        "Sevcan Altaş",
+        "Göksel Kızıl",
+        "Murat Kızıl",
+        "Aydın Ketani",
+        "Parvez I Haris"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2011-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study was designed to evaluate the effect of Diyarbakır watermelon (Citrullus lanatus cv. Sürme) juice on lipid peroxidation states in rat liver, kidney and brain. In vivo administration of carbon tetrachloride (CCl(4)) once a week for 28 days caused a significant elevation of serum markers of liver damage, aspartate aminotransferase (AST), alanine aminotransferase (ALT), total bilirubin (TB) and decrease in albumin when compared to the control group. However, administration of carbon tetrachloride along with watermelon juice or ursodeoxycolic acid (UDCA) significantly reduces these changes. Increased lipid peroxide (LPO) level was observed in the liver, kidney and brain tissues after CCl(4) administration. However, watermelon juice and UDCA treatment prevented the increase in LPO. The results indicated that watermelon juice protects the liver, kidney and brain tissues from experimental CCl(4) toxicity in rats and that the protective effect of watermelon juice may be due to its antioxidant activity and inhibition of lipid peroxide formation. In conclusion, present study reveals biological evidence that supports the use of watermelon juice in the treatment of chemical-induced hepatotoxicity.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Animals",
+        "Aspartate Aminotransferases",
+        "Bilirubin",
+        "Brain",
+        "Carbon Tetrachloride",
+        "Citrullus",
+        "Kidney",
+        "Lipid Peroxidation",
+        "Liver",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "12672916",
+      "title": "Consumption of watermelon juice increases plasma concentrations of lycopene and beta-carotene in humans.",
+      "authors": [
+        "Alison J Edwards",
+        "Bryan T Vinyard",
+        "Eugene R Wiley",
+        "Ellen D Brown",
+        "Julie K Collins",
+        "Penelope Perkins-Veazie",
+        "Robert A Baker",
+        "Beverly A Clevidence"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2003-Apr",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Watermelon is a rich natural source of lycopene, a carotenoid of great interest because of its antioxidant capacity and potential health benefits. Assessment of bioavailability of lycopene from foods has been limited to tomato products, in which heat processing promotes lycopene bioavailability. We examined the bioavailability of lycopene from fresh-frozen watermelon juice in a 19-wk crossover study. Healthy, nonsmoking adults (36-69 y) completed three 3-wk treatment periods, each with a controlled, weight-maintenance diet. Treatment periods were preceded by \"washout\" periods of 2-4 wk during which lycopene-rich foods were restricted. All 23 subjects consumed the W-20 (20.1 mg/d lycopene, 2.5 mg/d beta-carotene from watermelon juice) and C-0 treatments (controlled diet, no juice). As a third treatment, subjects consumed either the W-40 (40.2 mg/d lycopene, 5.0 mg/d beta-carotene from watermelon juice, n = 12) or T-20 treatment (18.4 mg/d lycopene, 0.6 mg/d beta-carotene from tomato juice, n = 10). After 3 wk of treatment, plasma lycopene concentrations for the W-20, W-40, T-20 and C-0 treatments were (least squares means +/- SEM) 1078 +/- 106, 1183 +/- 139, 960 +/- 117 and 272 +/- 27 nmol/L, respectively. Plasma concentrations of beta-carotene were significantly greater after W-20 (574 +/- 49 nmol/L) and W-40 (694 +/- 73 nmol/L) treatments than after the C-0 treatment (313 +/- 27 nmol/L). Plasma lycopene concentrations did not differ at wk 3 after W-20, W-40 and T-20 treatments, indicating that lycopene was bioavailable from both fresh-frozen watermelon juice and canned tomato juice, and that a dose-response effect was not apparent in plasma when the watermelon dose was doubled.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Biological Availability",
+        "Carotenoids",
+        "Citrullus",
+        "Cross-Over Studies",
+        "Female",
+        "Humans",
+        "Lycopene",
+        "Male",
+        "Middle Aged",
+        "beta Carotene"
+      ]
+    }
+  ]
+}

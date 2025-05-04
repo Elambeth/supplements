@@ -1,0 +1,367 @@
+{
+  "supplement": "Lettuce Seed",
+  "query": "Lettuce Seed[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:57:02",
+  "research_count": 18,
+  "count": 18,
+  "articles": [
+    {
+      "pmid": "39465980",
+      "title": "Characterization of four Acidovorax phages and their potential in phage biocontrol for lamb's lettuce seed decontamination.",
+      "authors": [
+        "Dominique Holtappels",
+        "Francisca G Vieira",
+        "Marleen Voet",
+        "Marta Vallino",
+        "Johan Van Vaerenbergh",
+        "Rob Lavigne",
+        "Jeroen Wagemans"
+      ],
+      "journal": "Microbiology spectrum",
+      "publication_date": "2024-Oct-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Bacterial black spot, caused by Acidovorax valerianellae, is responsible for significant yield losses in lamb's lettuce (Valerianella locusta) in many producing countries, especially Europe. Currently, no resistant varieties of V. locusta are available that effectively control the disease under field conditions. Bacteriophage-based biocontrol has been suggested as a sustainable and natural alternative strategy to combat bacterial pathogens. In this study, novel phages infecting A. valerianellae and Acidovorax cattleyae, Alfacinha1, Alfacinha3, Acica, and Aval, were isolated and characterized. Based on comparative genomics, these phages represent three new phage genera. Aval and Acica phages revealed genomic features characteristic of temperate lifestyle, encoding toxins likely associated with lysogenic conversion, which contrasts with Alfacinha1 and Alfacinha3. The latter was selected for application as a biocontrol agent during seed steeping. This phage reaches an 87% reduction in the A. valerianellae concentration on artificially infested seeds. Importantly, this reduction results in an increased germination rate from 58.9% to 93.3%. Moreover, the infected seedlings had a dramatic reduction in vigor index after 22 days of growth, whereas the phage-treated ones had a vigor index similar to the negative control, reinforcing the ability of bacteriophages to effectively reduce disease progression. We further evaluated the impact of lipopolysaccharides in phage suspensions on the development of seedlings. Here, we demonstrated that the presence of lipopolysaccharides do have an impact on seedling development, significantly reducing the number of roots developed. This study shows how genomic analyses and tailored bioassays represent an essential route to ensure safe phage application and demonstrates the potential of a phage-based biocontrol strategy against A. valerianellae.IMPORTANCEBacteria continue to globally cause serious damage to a variety of crops. One example is a bacterial black spot of lamb's lettuce caused by Acidovorax valerianellae. It has spread across Europe, resulting in economic losses of at least 10% in tonnage annually. Faced with the inefficiency of conventional control methods, an alternative and sustainable strategy based on the use of bacteriophages was pursued in this study. We present for the first time the isolation and characterization of A. valerianellae-specific phages. Moreover, we assessed their biocontrol potential in seed decontamination since the disease primarily spreads from seeds to seedlings. Interestingly, seed treatment with one of our phages reaches an 87% reduction in bacterial concentration. More importantly, this reduction results in an increased germination rate from 58.9% to 93.3%. Finally, our study demonstrated for the first time the need for removing endotoxins from phage suspensions as they impact plant development when used as a biocontrol agent."
+    },
+    {
+      "pmid": "39116456",
+      "title": "Lettuce seed pelleting with Pseudomonas sp. 31-12: plant growth promotion under laboratory and greenhouse conditions.",
+      "authors": [
+        "Jakkrapong Kangsopa",
+        "Russell K Hynes",
+        "Boonmee Siri"
+      ],
+      "journal": "Canadian journal of microbiology",
+      "publication_date": "2024-Dec-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Plant growth promotion by Pseudomonas sp. 31-12 incorporated into a lettuce seed pelleting matrix was studied. We examined (1) the effect of five rhizosphere derived bacterial strains on green oak lettuce (Lactuca sativa L.) seed germination, root and shoot growth, as a strain selection step for seed coating and seed pelletizing studies, (2) population stability of Pseudomonas sp. 31-12 incorporated into a pelleting matrix on lettuce seed stored three months at 4 °C, and (3) lettuce growth promotion in the laboratory and greenhouse by Pseudomonas sp. 31-12 coated and pelletized seed. A spontaneous streptomycin mutant of Pseudomonas sp. 31-12 (str) was used to determine population size on seed and roots of 15- and 30-day-old lettuce. The population of Pseudomonas sp. 31-12str on coated and pelleted seed decreased from 104 cfu/seed to 103 cfu/seed after 3 months storage at 4 °C. However, the population exceeded 104 cfu/g root dry mass and 105/g root dry mass after 15 days and 30 days in the greenhouse. Leaf fresh mass was significantly increased (P ≤ 0.05) with Pseudomonas sp. 31-12 seed treatment as compared to noninoculated seed. In conclusion, pelletized lettuce seed with Pseudomonas sp. 31-12 promoted growth and yield in the greenhouse.",
+      "mesh_terms": [
+        "Lactuca",
+        "Pseudomonas",
+        "Seeds",
+        "Germination",
+        "Plant Roots",
+        "Rhizosphere",
+        "Soil Microbiology"
+      ]
+    },
+    {
+      "pmid": "39001015",
+      "title": "The Use of Imaging to Quantify the Impact of Seed Aging on Lettuce Seed Germination and Seedling Vigor.",
+      "authors": [
+        "Mark Iradukunda",
+        "Marc W van Iersel",
+        "Lynne Seymour",
+        "Guoyu Lu",
+        "Rhuanito Soranz Ferrarezi"
+      ],
+      "journal": "Sensors (Basel, Switzerland)",
+      "publication_date": "2024-Jun-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The decline in seed quality over time due to natural aging or mishandling requires assessing seed vigor for resilience in adverse conditions. Accelerated aging (AA) methods simulate seed deterioration by subjecting seeds to high temperatures and humidity. Saturated salt accelerated aging (SSAA) is an AA method adopted for small seeds like lettuce (Lactuca sativa). In this study, we subjected seeds of two lettuce cultivars ('Muir' and 'Bauer') to SSAA by sealing them in a box containing 40 g/100 mL of a sodium chloride (NaCl) solution in a dark growth chamber at 41 °C for 24, 48, and 72 h with a control. We monitored their vigor using embedded computer cameras, tracking the projected canopy size (PCS) daily from sowing to harvest. The cultivar 'Muir' exhibited consistent PCS values across the treatments, while 'Bauer' showed PCS variations, with notable declines after prolonged aging. The germination rates dropped significantly after 48 and 72 h of SSAA. A nonlinear regression model revealed a strong relationship between PCS and shoot dry weight across harvests and cultivars (R2 = 0.93, RMSE = 0.15, p < 0.001). The research found that the projected canopy size and shoot dry weight increased over time with significant differences in treatments for the cultivar 'Bauer' but not for 'Muir,' with the canopy size being a strong predictor of dry weight and no significant impact from the SSAA treatments. This study highlights cultivar-specific responses to aging and demonstrates the efficacy of our imaging tool in predicting lettuce dry weight despite treatment variations. Understanding how aging affects different lettuce varieties is crucial for seed management and crop sustainability.",
+      "mesh_terms": [
+        "Lactuca",
+        "Germination",
+        "Seeds",
+        "Seedlings"
+      ]
+    },
+    {
+      "pmid": "34685801",
+      "title": "Metabolomics and Physiological Approach to Understand Allelopathic Effect of Horseradish Extract on Onion Root and Lettuce Seed as Model Organism.",
+      "authors": [
+        "Tyler Simpson",
+        "Kang-Mo Ku"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2021-Sep-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In the present study, we assessed the allelopathic effects of various concentrations (0%, 0.1%, 0.2%, and 0.3%) of horseradish root extract (HRE) on onion root. The average growth of onion root tips during the 0% HRE treatment (deionized water treatment) was 0.9 cm/day, which was the highest among the growth rates obtained with all HRE treatments. Moreover, the average growth during 0.3% HRE treatment was 0.1 cm/day. During cell cycle analysis, the mitotic phase fraction of the control (deionized water treatment) cells was 6.5% of all dividing cells, with this percentage being the highest among the values obtained for all treatment groups. In the control group, all cell cycle phases were identified; however, in the 0.1%, 0.2%, and 0.3% treatment groups, telophase was not identified. The ROS accumulation area of the onion root decreased, as the HRE treatment concentration increased. In the control root, the area of dead tissue was 0%; however, in the 0.1% and 0.2% HRE treatment roots, the ratio was 5% and 50%, respectively. These findings indicate that the allelopathic effect of HRE depends on the concentration of HRE applied to the onion root."
+    },
+    {
+      "pmid": "34455726",
+      "title": "Efficacy of lettuce seed syrup on insomnia in patients with breast cancer: a pilot double blind randomized placebo controlled clinical trial.",
+      "authors": [
+        "Seyed Hamdollah Mosavat",
+        "Hamid Reza Mirzaei",
+        "Bahram Mofid",
+        "Reyhaneh Gharehgozlou",
+        "Mohammad Mahdi Parvizi",
+        "Ryan Bradley",
+        "Mehdi Pasalar",
+        "Ghazaleh Heydarirad"
+      ],
+      "journal": "Journal of complementary & integrative medicine",
+      "publication_date": "2022-Dec-01",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Insomnia and sleep disorders are common and can be severe amongst patients with cancer, especially during chemotherapy. The aim of this study was to evaluate the efficacy of lettuce seed syrup in breast cancer patients who suffer from insomnia or disordered sleep. METHODS: This pilot study was a double-blinded randomized controlled clinical trial conducted in Shoha-e-Tajrish Hospital (Tehran, Iran) from September 2018 to June 2019. 50 adult patients with breast cancer with insomnia or sleep disorders were enrolled. Participants were randomly allocated to lettuce seed syrup (5 mL twice daily), or placebo syrup at the same dose for four weeks. The Pittsburgh Sleep Quality Index (PSQI) was used to evaluate sleep quality before and after the intervention. RESULTS: Compared to placebo, the mean of the total PSQI score decreased significantly in participants who received lettuce seed syrup (p=0.014). In addition, there were statistically significant reductions in the mean scores of subject quality sleep (p=0.002), sleep duration (p=0.038), habitual sleep efficacy (p=0.029) and sleep disturbance (p=0.032) in patients who received lettuce seed syrup. CONCLUSIONS: Lettuce seed syrup may improve self-reported sleep quality in participants with breast cancer. Larger trials are indicated in diverse samples of participants with caner to learn if these finds are generalizable.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Lactuca",
+        "Breast Neoplasms",
+        "Pilot Projects",
+        "Iran",
+        "Seeds",
+        "Sleep Wake Disorders"
+      ]
+    },
+    {
+      "pmid": "30748072",
+      "title": "Demonstration of allelopathy of horseradish root extract on lettuce seed.",
+      "authors": [
+        "Tyler Simpson",
+        "Yu-Chun Chiu",
+        "Michelle Richards-Babb",
+        "Jessica M Blythe",
+        "Kang-Mo Ku"
+      ],
+      "journal": "Biochemistry and molecular biology education : a bimonthly publication of the International Union of Biochemistry and Molecular Biology",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Allelopathy plays crucial roles in invasive plant viability and agricultural production systems. However, there is no well-established hands-on learning activity to teach the concept of allelopathy. Nor is there an activity which allows students to gain knowledge about glucosinolates and their corresponding enzyme, myrosinase, which are present in almost all Brassica crops. Lettuce germination was counted by the students from three different treatments including water treated with Parafilm sealing, horseradish treated with Parafilm sealing, and horseradish treated without Parafilm sealing. Additionally, lettuce root length was measured by students using ImageJ software from each treatment using pictures captured by students' smartphones. Students took an identical quiz as a pre-laboratory and a post-laboratory assignment. Their average scores on the pre-laboratory and post-laboratory quizzes were 3.14 and 6.56 out of 10, respectively, indicating the lab activity significantly improved students' understanding of allelopathy and glucosinolate-myrosinase system. In addition, students (n = 76) completed a survey post-laboratory to assess their self-efficacy. This simple and cost-effective laboratory activity improved students' knowledge and skill development as it made learning more inviting, meaningful, and fun. © 2019 International Union of Biochemistry and Molecular Biology, 47(3):333-340, 2019.",
+      "mesh_terms": [
+        "Allelopathy",
+        "Armoracia",
+        "Glucosinolates",
+        "Glycoside Hydrolases",
+        "Humans",
+        "Laboratories",
+        "Learning",
+        "Lactuca",
+        "Plant Extracts",
+        "Plant Roots",
+        "Seeds",
+        "Students"
+      ]
+    },
+    {
+      "pmid": "25736209",
+      "title": "Proteomic analysis of lettuce seed germination and thermoinhibition by sampling of individual seeds at germination and removal of storage proteins by polyethylene glycol fractionation.",
+      "authors": [
+        "Wei-Qing Wang",
+        "Bin-Yan Song",
+        "Zhi-Jun Deng",
+        "Yue Wang",
+        "Shu-Jun Liu",
+        "Ian Max Møller",
+        "Song-Quan Song"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Germination and thermoinhibition in lettuce (Lactuca sativa 'Jianyexianfeng No. 1') seeds were investigated by a proteomic comparison among dry seeds, germinated seeds at 15°C, at 15°C after imbibition at 25°C for 48 h, or at 25°C in KNO3 (all sampled individually at germination), and ungerminated seeds at 25°C, a thermoinhibitory temperature. Before two-dimensional gel electrophoresis analysis, storage proteins (greater than 50% of total extractable protein) were removed by polyethylene glycol precipitation, which significantly improved the detection of less abundant proteins on two-dimensional gels. A total of 108 protein spots were identified to change more than 2-fold (P<0.05) in abundance in at least one germination treatment. Nineteen proteins increasing and one protein decreasing in abundance during germination had higher abundance in germinated 15°C, 15°C after imbibition at 25°C for 48 h, and 25°C in KNO3 seeds than in ungerminated 25°C seeds. Gene expression of 12 of those proteins correlated well with the protein accumulation. Methionine metabolism, ethylene production, lipid mobilization, cell elongation, and detoxification of aldehydes were revealed to be potentially related to lettuce seed germination and thermoinhibition. Accumulation of three proteins and expression of five genes participating in the mevalonate (MVA) pathway of isoprenoid biosynthesis correlated positively with seed germinability. Inhibition of this pathway by lovastatin delayed seed germination and increased the sensitivity of germination to abscisic acid. MVA pathway-derived products, cytokinins, partially reversed the lovastatin inhibition of germination and released seed thermoinhibition at 25°C. We conclude that the MVA pathway for isoprenoid biosynthesis is involved in lettuce seed germination and thermoinhibition.",
+      "mesh_terms": [
+        "Abscisic Acid",
+        "Biosynthetic Pathways",
+        "Chemical Fractionation",
+        "Ethylenes",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Lactuca",
+        "Mevalonic Acid",
+        "Plant Growth Regulators",
+        "Plant Proteins",
+        "Polyethylene Glycols",
+        "Proteomics",
+        "Seed Storage Proteins",
+        "Seeds",
+        "Temperature",
+        "Terpenes"
+      ]
+    },
+    {
+      "pmid": "21731897",
+      "title": "Pilot study of the efficacy and safety of lettuce seed oil in patients with sleep disorders.",
+      "authors": [
+        "Mostafa Yakoot",
+        "Sherine Helmy",
+        "Kamal Fawal"
+      ],
+      "journal": "International journal of general medicine",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Lactuca sativa (garden lettuce) is a popular salad herb. It has been in use in folk medicine since ancient times as both an appetite stimulant and as an aid to sleep. L. sativa seed oil (Sedan(®)) has demonstrated a pronounced sedative effect and potentiated the hypnotic effect of barbiturates in animal models. It also exhibited significant analgesic and anti-inflammatory activities. In this study, we evaluated the sedative and hypnotic effects of L. sativa in patients suffering from insomnia. METHODS: Sixty patients suffering from insomnia with or without anxiety were randomized to receive capsules containing L. sativa seed oil 1000 mg (n = 30) or placebo (n = 30). All patients were asked to complete a verbal questionnaire before the start of the trial and 1 week after starting treatment. RESULTS: Improvements in the modified State-Trait Anxiety Inventory and the Sleep rating scale scores were significantly greater in patients receiving L. sativa seed oil compared with those on placebo (P < 0.05). No side effects were found to be attributable to L. sativa seed oil at the given dosage. CONCLUSION: L. sativa seed oil was found to be a useful sleeping aid and may be a hazard-free line of treatment, especially in geriatric patients suffering from mild-to-moderate forms of anxiety and sleeping difficulties."
+    },
+    {
+      "pmid": "16664963",
+      "title": "Requirement for Ethylene Synthesis and Action during Relief of Thermoinhibition of Lettuce Seed Germination by Combinations of Gibberellic Acid, Kinetin, and Carbon Dioxide.",
+      "authors": [
+        "H S Saini",
+        "E D Consolacion",
+        "P K Bassi",
+        "M S Spencer"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1986-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Application of exogenous ethylene in combination with gibberellic acid (GA(3)), kinetin (KIN), and/or CO(2) has been reported to induce germination of lettuce seeds at supraoptimal temperatures. However, it is not clear whether endogenous ethylene also plays a mediatory role when germination under these conditions is induced by treatment regimes that do not include ethylene. Therefore, possible involvement of endogenous ethylene during the relief of thermoinhibition of lettuce (Lactuca sativa L. cv Grand Rapids) seed germination at 32 degrees C was investigated. Combinations of GA(3) (0.5 millimolar), KIN (0.05 millimolar), and CO(2) (10%) were used to induce germination. Little germination occurred in controls or upon treatment with ethylene, KIN, or CO(2). Neither KIN nor CO(2) affected the rate of ethylene production by seeds. Both germination and ethylene production were slightly promoted by GA(3). Treatments with GA(3)+CO(2), GA(3)+KIN, or GA(3)+CO(2)+KIN resulted in approximately 10-to 40-fold increases in ethylene production and 50 to 100% promotion of germination as compared to controls. Initial ethylene evolution from the treated seeds was greater than from the controls and a major surge in ethylene evolution occurred at the time of visible germination. Application of 1 millimolar 2-aminoethoxyvinyl glycine (AVG), an inhibitor of ethylene synthesis, in combination with any of above three treatments inhibited the ethylene production to below control levels. This was accompanied by a marked decline in germination percentage. Germination was also inhibited by 2,5-norbornadiene (0.25-2 milliliters per liter), a competitive inhibitor of ethylene action. Application of exogenous ethylene (1-100 microliters per liter) overcame the inhibitory effects of AVG and 2,5-norbornadiene on germination. The results demonstrate that endogenous ethylene synthesis and action are essential for the alleviation of thermoinhibition of lettuce seeds by combinations of GA(3), KIN, and CO(2). It also appears that these treatment combinations do not act exclusively via promotion of ethylene evolution as the application of exogenous ethylene alone did not promote germination."
+    },
+    {
+      "pmid": "11540836",
+      "title": "Salicylhydroxamic acid potentiates germination of 'Waldmann's Green' lettuce seed.",
+      "authors": [
+        "C A Brooks",
+        "K S Yu",
+        "C A Mitchell"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1985",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A combination of salicylhydroxamic acid (SHAM) + cyanide (CN) is known to stimulate dark germination of Lactuca sativa L. seeds. Further studies were done to characterize SHAM and CN action in stimulating dark germination of lettuce seed. Germination was stimulated slightly by either SHAM or CN, whereas when SHAM and CN were combined germination was greatly enhanced. Treatment of seeds with SHAM + CN only during the first 8 hours of hydration stimulated germination as much as did treatment for 72 hours. During the first 8 hours of incubation in SHAM + CN, potentiation (i.e. domancy-breaking) of germination occurs. SHAM alone stimulated potentiation nearly to the level of SHAM + CN but inhibited subsequent radicle elongation, thereby decreasing germination when present for 72 hours. Oxygen must be present for SHAM or SHAM + CN to potentiate dark germination. The ability of SHAM and SHAM + CN to potentiate germination is influenced by O2 concentration and the timing of chemical treatment.",
+      "mesh_terms": [
+        "Cell Respiration",
+        "Cyanides",
+        "Germination",
+        "Infrared Rays",
+        "Lactuca",
+        "Light",
+        "Malonates",
+        "Oxygen",
+        "Oxygen Consumption",
+        "Salicylamides",
+        "Seeds",
+        "Thallium",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "16660140",
+      "title": "Mode of action of gibberellic Acid and light on lettuce seed germination.",
+      "authors": [
+        "S Lewak",
+        "A A Khan"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1977-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The seeds of lettuce (Lactuca sativa L. cv. Grand Rapids) germinate in darkness at 25 C when treated by gibberellic acid (GA(3)) for 1 hour following 2 hours of imbibition. The time of GA(3) application influences the rate and the final percentage of seeds that germinate. In contrast, red light illumination given at different times affects only the rate and not the final germination percentage. The early process(es) of germination initiated by GA(3) or light treatment can be arrested by subjecting the treated seeds to a nongerminative temperature of 35 C. The results suggest differences in the mode of action of light and GA(3) during germination. They indicate that different kinds of processes are involved in the biochemical control of germination."
+    },
+    {
+      "pmid": "16659537",
+      "title": "Effects of 35 C heat treatments on photosensitive grand rapids lettuce seed germination.",
+      "authors": [
+        "N C Carpita",
+        "M W Nabors"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1976-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Grand Rapids lettuce (Lactuca sativa L.) seeds were given 35 C heat treatments to increase photodormancy in a subsequent 20 C dark period. Short heat treatments (1-5 hours) induced a significant germination percentage increase of from 16% to over 50% depending on seed lot. With longer heat treatments dark germination percentage was gradually reduced to zero. If given at the end of 35 C, far red or red followed by far red further increased the amount of dark germination.Thermodormancy also delayed red-stimulated germination by 10 hours or more when red was given following a long 35 C treatment. The presence of Pfr was required during this time since far red light remained effective in reversing at least 50% of the red stimulation for up to 16 hours compared to only 4 hours in nonheat-treated seeds."
+    },
+    {
+      "pmid": "24499841",
+      "title": "Electrostatic sensitivity of the photo-receptive mechanism in germinating \"Grand Rapids\" lettuce seed.",
+      "authors": [
+        "G H Sidaway"
+      ],
+      "journal": "Planta",
+      "publication_date": "1970-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Germination of \"Grand Rapids\" lettuce seed can be influenced by a 2-minute exposure to artificial electrostatic fields of 75 V cm(-I). To a limited extent, electrostatic treatment can substitute for red light by raising the dark germination level. Significant increases in germination, averaging up to 10%, were also observed following electrostatic treatment during, or after, short periods of red irradiation. In contrast, pre-irradiation treatment repressed germination slightly but significantly. An interaction with the phytochrome system is implied by the lack of any significant electrostatic influence after longer periods of red irradiation."
+    },
+    {
+      "pmid": "16657056",
+      "title": "Stimulation of lettuce seed germination by ethylene.",
+      "authors": [
+        "F B Abeles",
+        "J Lonski"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1969-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ethylene increased the germination of freshly imbibed lettuce (Lactuca sativa L. var. Grand Rapids) seeds. Seeds receiving either red or far-red light or darkness all showed a positive response to the gas. However, ethylene was apparently without effect on dormant seeds, those which failed to germinate after an initial red or far-red treatment. Carbon dioxide, which often acts as a competitive inhibitor of ethylene, failed to clearly reverse ethylene-enhanced seed germination. While light doubled ethylene production from the lettuce seeds, its effect was not mediated by the phytochrome system since both red and far-red light had a similar effect."
+    },
+    {
+      "pmid": "5776771",
+      "title": "Lettuce seed germination: effects of high temperature and of repeated far-red treatment in relation to phytochrome.",
+      "authors": [
+        "J Scheibe",
+        "A Lang"
+      ],
+      "journal": "Photochemistry and photobiology",
+      "publication_date": "1969-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Hot Temperature",
+        "Plant Growth Regulators",
+        "Radiation Effects",
+        "Seeds",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "24522734",
+      "title": "Interactions between ethylene-bis-nitrourethane and Gibberellic acid during the germination of lettuce seed.",
+      "authors": [
+        "D G Morgan"
+      ],
+      "journal": "Planta",
+      "publication_date": "1968-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Exposing lettuce seed (variety Grand Rapids) to temperatures from 30°-42° C inhibits subsequent germination at 25° C. This inhibition can be overcome by the addition of gibberellic acid (GA) either during or after the heat treatment. Ethylene-bis-nitrourethane (EBNU) and ethylene dinitramine (EDNA), although without effect when applied alone, have been shown to increase the activity of GA when present in admixture during the heat treatment. The compounds act synergistically only when the seeds are kept at 30° and 35° C for 72 hours or longer.EBNU and EDNA do not increase the effectiveness of GA in breaking natural or heat induced dormancy in lettuce seeds."
+    },
+    {
+      "pmid": "16656362",
+      "title": "Mediation of phytochrome in the inductive action of low temperature on dark germination of lettuce seed at supra-optimal temperature.",
+      "authors": [
+        "N Roth-Bejerano",
+        "D Koller",
+        "M Negbi"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1966-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The induction of dark germination in light-requiring lettuce (Lactuca sativa) seed at supraoptimal temperatures by cold treatment (in darkness) was partly reversed by a brief far-red irradiation made at time of transfer, and even more so when the irradiation was made at the beginning of the cold pretreatment. When the inhibitory far-red irradiation was followed by additional cold treatment, the promotion was greatly restored. The promotive effects of brief irradiations with red light were further enhanced by a following cold period, before transfer to the supraoptimal temperature. These results are interpreted as indicating that the active (far-red absorbing) form of phytochrome is pre-existing in the dry seed, and interacts with a co-factor which is built-up during imbibition. The rate of build-up of this co-factor, as well as of the dark inactivation of active phytochrome increase with temperature. The products of the interaction pass through a photo-labile thermo-stable phase, before becoming photo-stable as well."
+    },
+    {
+      "pmid": "17813232",
+      "title": "THE GERMINATION OF LETTUCE SEED STIMULATED BY CHEMICAL TREATMENT.",
+      "authors": [
+        "R C Thompson",
+        "W F Kosar"
+      ],
+      "journal": "Science (New York, N.Y.)",
+      "publication_date": "1938-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

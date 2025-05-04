@@ -1,0 +1,111 @@
+{
+  "supplement": "1,3-Dimethylamylamine",
+  "query": "1,3-Dimethylamylamine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:01:07",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "24090077",
+      "title": "Physiological and pharmacokinetic effects of oral 1,3-dimethylamylamine administration in men.",
+      "authors": [
+        "Brian K Schilling",
+        "Kelley G Hammond",
+        "Richard J Bloomer",
+        "Chaela S Presley",
+        "Charles R Yates"
+      ],
+      "journal": "BMC pharmacology & toxicology",
+      "publication_date": "2013-Oct-04",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: 1,3-dimethylamylamine (DMAA) has been a component of dietary supplements and is also used within \"party pills,\" often in conjunction with alcohol and other drugs. Ingestion of higher than recommended doses results in untoward effects including cerebral hemorrhage. To our knowledge, no studies have been conducted to determine both the pharmacokinetic profile and physiologic responses of DMAA. METHODS: Eight men reported to the lab in the morning following an overnight fast and received a single 25 mg oral dose of DMAA. Blood samples were collected before and through 24 hours post-DMAA ingestion and analyzed for plasma DMAA concentration using high-performance liquid chromatography-mass spectrometry. Resting heart rate, blood pressure, and body temperature was also measured. RESULTS: One subject was excluded from the data analysis due to abnormal DMAA levels. Analysis of the remaining seven participants showed DMAA had an oral clearance of 20.02 ± 5 L∙hr⁻¹, an oral volume of distribution of 236 ± 38 L, and terminal half-life of 8.45 ± 1.9 hr. Lag time, the delay in appearance of DMAA in the circulation following extravascular administration, varied among participants but averaged approximately 8 minutes (0.14 ± 0.13 hr). The peak DMAA concentration for all subjects was observed within 3-5 hours following ingestion and was very similar across subjects, with a mean of ~70 ng∙mL⁻¹. Heart rate, blood pressure, and body temperature were largely unaffected by DMAA treatment. CONCLUSIONS: These are the first data to characterize the oral pharmacokinetic profile of DMAA. These findings indicate a consistent pattern of increase across subjects with regards to peak DMAA concentration, with peak values approximately 15-30 times lower than those reported in case studies linking DMAA intake with adverse events. Finally, a single 25 mg dose of DMAA does not meaningfully impact resting heart rate, blood pressure, or body temperature. TRIAL REGISTRATION: NCT01765933.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Amines",
+        "Blood Pressure",
+        "Chromatography, Liquid",
+        "Dietary Supplements",
+        "Heart Rate",
+        "Humans",
+        "Limit of Detection",
+        "Male",
+        "Tandem Mass Spectrometry",
+        "Time Factors",
+        "Tissue Distribution",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23882146",
+      "title": "Impact of a dietary supplement containing 1,3-dimethylamylamine on blood pressure and bloodborne markers of health: a 10-week intervention study.",
+      "authors": [
+        "Paul N Whitehead",
+        "Brian K Schilling",
+        "Tyler M Farney",
+        "Richard J Bloomer"
+      ],
+      "journal": "Nutrition and metabolic insights",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: 1,3-dimethylamylamine is a commonly used ingredient within dietary supplements. Our prior work with this agent indicates a transient increase in blood pressure (systolic in particular) following oral ingestion of a single dosage, but no significant increase in resting blood pressure following chronic ingestion. Moreover, intervention studies involving both two and eight weeks of treatment with finished products containing 1,3-dimethylamylamine indicate minimal or no change in bloodborne markers of health. The present study sought to extend these findings by using a 10-week intervention trial to determine the change in selected markers of health in a sample of men. METHODS: 25 healthy men were randomly assigned to either a placebo (n = 13) or to a supplement containing 1,3-dimethylamylamine (n = 12) for a period of 10 weeks. Before and after the intervention, resting blood pressure and heart rate were measured, and blood samples were collected for determination of complete blood count, metabolic panel, and lipid panel. RESULTS: No significant differences were noted between conditions for blood pressure (P > 0.05), although systolic blood pressure increased approximately 6 mmHg with the supplement (diastolic blood pressure decreased approximately 4 mmHg). A main effect for time was noted for heart rate (P = 0.016), with values decreasing from pre to post intervention. There were significant main effects for time for creatinine (increased from pre to post intervention; P = 0.043) and alkaline phosphatase (decreased from pre to post intervention; P = 0.009), with no condition differences noted (P > 0.05). There was a significant interaction noted for low density lipoprotein cholesterol (LDL-C) (P = 0.043), with values decreasing in the supplement group from pre to post intervention approximately 7 mg · dL(-1) (P = 0.034). No other effects of significance were noted for bloodborne variables. CONCLUSION: These data indicate that a dietary supplement containing 1,3-dimethylamylamine does not result in a statistically significant increase in resting heart rate or blood pressure (although systolic blood pressure is increased ∼6 mmHg with supplement use). The supplement does not negatively impact bloodborne markers of health. Further study is needed involving a longer intervention period, a larger sample size, and additional measures of health and safety."
+    },
+    {
+      "pmid": "23882143",
+      "title": "Hemodynamic and hematologic profile of healthy adults ingesting dietary supplements containing 1,3-dimethylamylamine and caffeine.",
+      "authors": [
+        "Tyler M Farney",
+        "Cameron G McCarthy",
+        "Robert E Canale",
+        "Rick J Allman",
+        "Richard J Bloomer"
+      ],
+      "journal": "Nutrition and metabolic insights",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: 1,3-dimethylamylamine (a constituent of geranium), alone and in combination with caffeine, is widely used within dietary supplements. We have recently determined the hemodynamic effects of 1,3-dimethylamylamine and caffeine alone and in combination, using a single ingestion study. However, no study has determined the hemodynamic effects of these ingredients following chronic use. Moreover, no study has determined the effects of these ingredients on bloodborne variables related to health and safety. Therefore, the purpose of this investigation was to assess the hemodynamic and hematologic profile of two different dietary supplements containing 1,3-dimethylamylamine and caffeine (in addition to other ingredients), before and after two weeks of daily intake. METHODS: 7 men (24.9 ± 4.2 yrs) ingested the dietary supplement Jack3d™, while 4 men and 2 women (22.5 ± 1.8 yrs) ingested the dietary supplement OxyELITE Pro™ once per day for two weeks. On days 1 and 15, resting heart rate (HR), systolic (SBP), and diastolic (DBP) blood pressure were measured and rate pressure product (RPP) was calculated. Fasting blood samples were analyzed for complete blood counts, comprehensive metabolic panel, and lipid panel. These tests were done prior to ingestion of supplement. On days 1 and 15 following blood collection, subjects ingested the assigned supplement (2 servings) and HR, SBP, DBP, and RPP were recorded at 30, 60, 90, and 120 minutes post-ingestion. RESULTS: After 14 days of treatment, resting HR, SBP, DBP, and RPP were not increased (P > 0.05). No significant changes were noted in any measured bloodborne variable, with the exception of an increase in fasting blood glucose with ingestion of Jack3d™ (P = 0.02). In response to acute intake of the supplements, HR, DBP, and RPP were not increased statistically (P > 0.05). SBP was increased with OxyELITE Pro™ (P = 0.03), but not with Jack3d™ (P = 0.09). Compared to pre-ingestion and in general, both supplements resulted in an increase in SBP, DBP, and RPP from 5%-15%, with a peak occurring at the 60 or 90 minute post-ingestion time. CONCLUSION: Acute ingestion of OxyELITE Pro™, but not Jack3d™, results in an increase in SBP. Chronic intake of two servings per day of OxyELITE Pro™ or Jack3d™ over a 14 day period does not result in an elevation in resting HR, SBP, DBP, or RPP. No significant changes are noted in any measured bloodborne variable following 14 days of ingestion, with the exception of blood glucose with Jack3d™. Longer term intervention studies inclusive of larger sample sizes are needed to extend these findings."
+    },
+    {
+      "pmid": "22030947",
+      "title": "Effects of 1,3-dimethylamylamine and caffeine alone or in combination on heart rate and blood pressure in healthy men and women.",
+      "authors": [
+        "Richard J Bloomer",
+        "Innocence C Harvey",
+        "Tyler M Farney",
+        "Zach W Bell",
+        "Robert E Canale"
+      ],
+      "journal": "The Physician and sportsmedicine",
+      "publication_date": "2011-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The use of 1,3-dimethylamylamine (geranamine), alone and in combination with caffeine, is becoming widespread within the dietary supplement industry. To our knowledge, no data are available concerning the effects of oral geranamine intake on heart rate (HR) and blood pressure in individuals. METHODS: Ten young healthy men and women ingested 1 of 5 conditions on different days using a double-blind, randomized, crossover design. The following were ingested after a 10-hour overnight fast: 250 mg caffeine (C), 50 mg geranamine (G 50 mg), 75 mg geranamine (G 75 mg), 250 mg caffeine + 50 mg geranamine (C + G 50 mg), and 250 mg caffeine + 75 mg geranamine (C + G 75 mg). Heart rate, systolic blood pressure (SBP), diastolic blood pressure (DBP), and rate pressure product (RPP) were measured pre-ingestion and at 30, 60, 90, and 120 minutes post-ingestion. Plasma norepinephrine (NE) and epinephrine (EPI) were measured pre-ingestion and at 60 and 120 minutes post-ingestion. RESULTS: Heart rate was unaffected by treatment, but blood pressure and RPP were higher with geranamine, generally in a dose-dependent manner. The peak percent change from pre-ingestion in SBP (~20%), DBP (~17%), and RPP (~9%) was noted with C + G 75 mg at 60 minutes post-ingestion. Plasma NE and EPI were relatively unaffected by treatment. CONCLUSION: We report for the first time that acute ingestion of 1,3-dimethylamylamine alone and in combination with caffeine results in an increase in SBP, DBP, and RPP without an increase in HR. The largest increase is observed at 60 minutes post-ingestion of C + G 75 mg. These changes cannot be explained by circulating NE and EPI.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Analysis of Variance",
+        "Blood Pressure",
+        "Caffeine",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Geranium",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Plant Extracts"
+      ]
+    }
+  ]
+}

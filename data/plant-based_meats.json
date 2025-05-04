@@ -1,0 +1,37 @@
+{
+  "supplement": "Plant-Based Meats",
+  "query": "Plant-Based Meats[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:20:37",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36304815",
+      "title": "Assessing the effects of alternative plant-based meats v. animal meats on biomarkers of inflammation: a secondary analysis of the SWAP-MEAT randomized crossover trial.",
+      "authors": [
+        "Anthony Crimarco",
+        "Matthew J Landry",
+        "Matthew M Carter",
+        "Christopher D Gardner"
+      ],
+      "journal": "Journal of nutritional science",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Alternative plant-based meats have grown in popularity with consumers recently and researchers are examining the potential health effects, or risks, from consuming these products. Because there have been no studies to date that have specifically assessed the health effects of plant-based meats on biomarkers of inflammation, the purpose of this work was to conduct a secondary analysis of the Study With Appetizing Plantfood - Meat Eating Alternatives Trial (SWAP-MEAT). SWAP-MEAT was a randomised crossover trial that involved generally healthy adults eating 2 or more servings of plant-based meats per day for 8 weeks (i.e. Plant phase) followed by 2 or more servings of animal meats per day for 8 weeks (i.e. Animal phase). Results of linear mixed-effects models indicated only 4 out of 92 biomarkers reached statistical significance. The results were contrary to our hypothesis, since we expected relative improvements in biomarkers of inflammation from the plant-based meats.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Cross-Over Studies",
+        "Inflammation",
+        "Meat",
+        "Humans",
+        "Adult"
+      ]
+    }
+  ]
+}

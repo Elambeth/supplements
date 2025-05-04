@@ -1,0 +1,679 @@
+{
+  "supplement": "Oleamide",
+  "query": "Oleamide[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:11:45",
+  "research_count": 20,
+  "count": 20,
+  "articles": [
+    {
+      "pmid": "40244247",
+      "title": "Anti-Fibrotic Effect of Oleamide Identified from the Moringa oleifera Lam. Leaves via Inhibition of TGF-β1-Induced SMAD2/3 Signaling Pathway.",
+      "authors": [
+        "Chavisa Khongpiroon",
+        "Watunyoo Buakaew",
+        "Paul J Brindley",
+        "Saranyapin Potikanond",
+        "Krai Daowtak",
+        "Yordhathai Thongsri",
+        "Pachuen Potup",
+        "Kanchana Usuwanthim"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2025-Apr-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Moringa oleifera (MO) is a prominent plant in traditional medicine, widely recognized for its phytochemicals with anti-inflammatory properties. Liver fibrosis characterized by chronic inflammation and excessive extracellular matrix deposition may benefit from the therapeutic properties of MO. This report focuses on the potential of oleamide (OLA), a bioactive compound identified from MO, in mitigating liver fibrosis. The anti-fibrotic effects of OLA were evaluated by assessing the production of pro-inflammatory cytokines, gelatinase activity and the expression of genes and proteins associated with the TGF-β/SMAD2/3 pathway. The LX-2 human hepatic stellate cell line, in conjunction with TGF-β1, was employed to model fibrotic conditions. OLA treatment significantly reduced the production of pro-fibrotic effectors in the activated LX-2 cells. Molecular docking analysis demonstrated a high binding affinity of OLA to key proteins in the TGF-β/SMAD2/3 pathway, while qRT-PCR and Western blotting revealed that OLA suppressed the expression of COL1A1, COL4A1, SMAD2, SMAD3, SMAD4, MMP2, MMP9, ACTA2 and TIMP1. These findings indicate that OLA effectively attenuates the pro-inflammatory responses induced by TGF-β1 and inhibits the activation of LX-2 cells. Collectively, OLA holds significant potential as a therapeutic agent for the prevention and treatment of liver fibrosis via the modulation of the TGF-β/SMAD2/3 signaling pathway.",
+      "mesh_terms": [
+        "Humans",
+        "Transforming Growth Factor beta1",
+        "Signal Transduction",
+        "Smad2 Protein",
+        "Hepatic Stellate Cells",
+        "Smad3 Protein",
+        "Moringa oleifera",
+        "Cell Line",
+        "Molecular Docking Simulation",
+        "Liver Cirrhosis",
+        "Plant Leaves",
+        "Antifibrotic Agents"
+      ]
+    },
+    {
+      "pmid": "40169058",
+      "title": "The inhibition effect of oleamide for acetylcholinesterase and α-glucosidase from edible wild mushroom by in vitro, in silico and fluorescence analysis.",
+      "authors": [
+        "Sukrit Wattanalaorsomboon",
+        "Preecha Mansalai",
+        "Apirak Payaka",
+        "Supaporn Baiya",
+        "Sompong Sansenya"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2025-Mar-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lipid compounds from edible wild mushrooms have been reported for their biological activities related to Alzheimer's disease (AD) and diabetes mellitus (DM) treatment. This research investigated purified oleamide (PEWM) from edible wide mushroom and determined its antioxidant activity and inhibition potential against acetylcholinesterase (AChE) and α-glucosidase. The PEWM was purified by preparative thin-layer chromatography (PTLC) with methanol: chloroform: water (6:6:1 v/v). The antioxidant activity against ABTS·+ and DPPH· radical of crude extracts (CEWM) had higher potent than PEWM. On the other hand, the inhibition potential of PEWM against AChE and α-glucosidase had higher potency than CEWM. Moreover, the inhibition potency of PEWM and oleamide against AChE was higher than α-glucosidase. The inhibition mode of CEWM, PEWM and oleamide exhibited mixed-type inhibition on AChE and α-glucosidase. Inhibition constant (Ki) also supported that CEWM, PEWM and oleamide have the highest potent on AChE. CEWM, PEWM and oleamide showed fluorescence quenching by increasing the inhibitors' concentration against AChE and α-glucosidase. Docking analysis revealed that oleamide was located in peripheral anionic sites of AChE. The results suggest that edible wild mushrooms as the source of lipids related to AChE and α-glucosidase inhibitory activity might be applied for AD and DM management."
+    },
+    {
+      "pmid": "39860203",
+      "title": "Anticonvulsant Effects of Synthetic N-(3-Methoxybenzyl)oleamide and N-(3-Methoxybenzyl)linoleamide Macamides: An In Silico and In Vivo Study.",
+      "authors": [
+        "Karin Jannet Vera-López",
+        "Jorge Alberto Aguilar-Pineda",
+        "Rodrigo Martín Moscoso-Palacios",
+        "Gonzalo Davila-Del-Carpio",
+        "José Luis Manrique-Murillo",
+        "Badhin Gómez",
+        "Minerva González-Melchor",
+        "Rita Nieto-Montesinos"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2025-Jan-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Epilepsy is a chronic neurological disorder that affects nearly 50 million people worldwide. Experimental evidence suggests that epileptic neurons are linked to the endocannabinoid system and that inhibition of the FAAH enzyme could have neuroprotective effects by increasing the levels of endogenous endocannabinoid anandamide. In this context, the use of macamides as therapeutic agents in neurological diseases has increased in recent years. With a similar structure to anandamide, several theories point to the FAAH-macamide interaction as a possible cause of FAAH enzymatic inhibition. In this work, we used in silico and in vivo techniques to analyze the potential therapeutic effect of three synthetic macamides in the treatment of epilepsy: N-3-methoxybenzyl-oleamide (3-MBO), N-3-methoxybenzyl-linoleamide (3-MBL), and N-3-methoxybenzyl-linolenamide (3-MBN). In the first stage, an in silico analysis was conducted to explore the energetic affinity of these macamides with rFAAH and their potential inhibitory effect. MD simulations, molecular docking, and MM/PBSA calculations were used for these purposes. Based on our results, we selected the two best macamides and performed an in vivo study to analyze their therapeutic effect in male Sprague Dawley rat models. Rats were subjected to an in vivo induction of epileptic status by the intraperitoneal injection of pilocarpine and analyzed according to the Racine scale. In silico results showed an energetic affinity of three macamides and a possible \"plugging\" effect of the membrane access channel to the active site as a potential cause of FAAH inhibition. On the other hand, the in vivo results showed an anticonvulsant effect of both macamides, with 3-MBL being the most active, resulting in a higher survival probability in the rats. This work represents one of the first studies on the use of macamides for the treatment of epilepsy.",
+      "mesh_terms": [
+        "Animals",
+        "Anticonvulsants",
+        "Molecular Docking Simulation",
+        "Rats",
+        "Epilepsy",
+        "Male",
+        "Molecular Dynamics Simulation",
+        "Amidohydrolases",
+        "Computer Simulation",
+        "Polyunsaturated Alkamides",
+        "Disease Models, Animal",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "38600994",
+      "title": "Milk-based culture of Penicillium camemberti and its component oleamide affect cognitive function in healthy elderly Japanese individuals: a multi-arm randomized, double-blind, placebo-controlled study.",
+      "authors": [
+        "Mayuki Sasaki",
+        "Chisato Oba",
+        "Kentaro Nakamura",
+        "Hiroki Takeo",
+        "Hidemasa Toya",
+        "Keisuke Furuichi"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dairy products and fermented foods have a reported association with maintained cognitive function. Camembert cheese, a dairy product fermented by the white mold Penicillium camemberti, has also been shown to enhance cognitive function in vivo. Oleamide, derived from the fermentation of the white mold, is a candidate for an active component, and expected to improve both cognitive function and sleep conditions. Thus, this study investigated whether the milk-based culture of white mold (MCW), and oleamide, could improve cognitive function and sleep state clinically. A multi-arm randomized, double-blind, placebo-controlled trial was conducted in Tokyo, Japan. 60 healthy Japanese individuals aged 50-75 who were aware of their cognitive decline were randomly and equally divided into three groups of 20 participants using computer-generated random numbers. Participants took either MCW (equivalent to 60 μg/day of oleamide), 60 μg/day of oleamide, or placebo capsules for 12 weeks. Serum BDNF, cognitive function by Cognitrax as primary and MCI Screen as secondary outcome, and sleep status using the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) were assessed before and after intervention. The participants, outcome assessors and analysts, and research assistants were blinded to the group assignment. Of the 60 participants, 58 completed the study and were analyzed. No adverse events related to test foods were observed. The placebo group showed a negative rate of change in serum BDNF (-10.5% ± 19.7%), whereas the MCW and oleamide groups showed positive changes (2.0% ± 27.1% and 1.3% ± 13.5%, respectively). Cognitrax scores increased after 12 weeks in all groups. Conversely, the MPI score of the MCI Screen demonstrated a significant improvement in the MCW and oleamide groups compared to the placebo group (p = 0.013 and p < 0.001, respectively). The subscales, immediate free recall and delayed free recall, also significantly increased in them compared to the placebo group. Although PSQI-J revealed no significant differences among groups, the MCW and oleamide groups showed significant improvement after intervention in overall score, subjective sleep quality, and sleep latency. Our results suggest that MCW and its component, oleamide, are safe and contribute to maintaining cognitive functions, particularly short-term and working memory, and improving sleep state. Clinical trial registration: https://center6.umin.ac.jp/cgi-open-bin/ctr/ctr_view.cgi?recptno=R000054792, identifier UMIN-CTR UMIN000048084."
+    },
+    {
+      "pmid": "36069981",
+      "title": "Oleamide Reduces Mitochondrial Dysfunction and Toxicity in Rat Cortical Slices Through the Combined Action of Cannabinoid Receptors Activation and Induction of Antioxidant Activity.",
+      "authors": [
+        "Carolina Y Reyes-Soto",
+        "Mariana Villaseca-Flores",
+        "Enid A Ovalle-Noguez",
+        "Jade Nava-Osorio",
+        "Sonia Galván-Arzate",
+        "Edgar Rangel-López",
+        "Marisol Maya-López",
+        "Socorro Retana-Márquez",
+        "Isaac Túnez",
+        "Alexey A Tinkov",
+        "Tao Ke",
+        "Michael Aschner",
+        "Abel Santamaría"
+      ],
+      "journal": "Neurotoxicity research",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The potential treatment of neurodegenerative disorders requires the development of novel pharmacological strategies at the experimental level, such as the endocannabinoid-based therapies. The effects of oleamide (OEA), a fatty acid primary amide with activity on cannabinoid receptors, was tested against mitochondrial toxicity induced by the electron transport chain complex II inhibitor, 3-nitropropionic acid (3-NP), in rat cortical slices. OEA prevented the 3-NP-induced loss of mitochondrial function/cell viability at a concentration range of 5 nM-25 µM, and this protective effect was observed only when the amide was administered as pretreatment, but not as post-treatment. The preservation of mitochondrial function/cell viability induced by OEA in the toxic model induced by 3-NP was lost when the slices were pre-incubated with the cannabinoid receptor 1 (CB1R) selective inhibitor, AM281, or the cannabinoid receptor 2 (CB2R) selective inhibitor, JTE-907. The 3-NP-induced inhibition of succinate dehydrogenase (mitochondrial Complex II) activity was recovered by 25 nM OEA. The amide also prevented the increased lipid peroxidation and the changes in reduced/oxidized glutathione (GSH/GSSG) ratio induced by 3-NP. The cell damage induced by 3-NP, assessed as incorporation of cellular propidium iodide, was mitigated by OEA. Our novel findings suggest that the neuroprotective properties displayed by OEA during the early stages of damage to cortical cells involve the converging activation of CB1R and CB2R and the increase in antioxidant activity, which combined may emerge from the preservation of the functional integrity of mitochondria.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Antioxidants",
+        "Receptors, Cannabinoid",
+        "Oxidative Stress",
+        "Glutathione",
+        "Mitochondria",
+        "Amides",
+        "Nitro Compounds",
+        "Neuroprotective Agents"
+      ]
+    },
+    {
+      "pmid": "35514993",
+      "title": "Oleamide-Mediated Polarization of M1 Macrophages and IL-1β Production by Regulating NLRP3-Inflammasome Activation in Primary Human Monocyte-Derived Macrophages.",
+      "authors": [
+        "Prapakorn Wisitpongpun",
+        "Pachuen Potup",
+        "Kanchana Usuwanthim"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Macrophages are a type of innate immune cell that activates the NLRP3 inflammasome, causing the release of the cytokine IL-1β, which is a crucial mediator of the inflammatory response. NLRP3 activation that is dysregulated worsens a variety of inflammatory and autoimmune diseases, as well as neurodegenerative diseases. Oleamide is an endogenous fatty acid amide that was first determined as a sleep-inducing molecule and later shown to have wide-ranging beneficial effects on the central nervous system. How oleamide influences human macrophage polarization and NLRP3-inflammasome activation remains unclear. The effect of oleamide on macrophage polarization was explored using an in vitro culture of primary human monocyte-derived macrophages (MDMs) supplemented with human serum-containing media. Cellular and molecular mechanisms of oleamide-regulated MDMs polarization were also investigated. Results showed that oleamide promoted naïve macrophages (M0) toward the M1 phenotype by upregulating M1-associated genes (IL-1β, iNOS, CXCL10), along with downregulation of M2-associated genes (Arg-1, CD206, CCL22). Cell surface expression indicated that oleamide enhanced CD80 expression in M0 naïve macrophages and hider CD206 and CD163 expression in M2 macrophages. Higher production of IL-1β cytokine was observed but with no alteration in IL-6 and TNF-α levels by MDMs and differentiated THP-1 models. Whether oleamide functioned as a second signal that activated the NLRP3 inflammasome and mediated IL-1β production was further investigated using LPS-primed MDMs followed by oleamide treatment that induced activation of inflammasome-related proteins including NLRP3, ASC, cleaved casp-1, and cleaved IL-1β. These findings suggested that oleamide promoted M1 macrophage polarization and increased IL-1β production by activating the NLRP3 inflammasome in primary MDMs. This research reveals a new function for oleamide as well as prospective targets for treating NLRP3-related inflammatory disorders.",
+      "mesh_terms": [
+        "Cytokines",
+        "Humans",
+        "Inflammasomes",
+        "Macrophages",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Oleic Acids",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "34744082",
+      "title": "Oleamide, a Sleep-Inducing Supplement, Upregulates Doublecortin in Hippocampal Progenitor Cells via PPARα.",
+      "authors": [
+        "Avik Roy",
+        "Madhuchhanda Kundu",
+        "Sudipta Chakrabarti",
+        "Dhruv R Patel",
+        "Kalipada Pahan"
+      ],
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "BACKGROUND: Doublecortin (DCX), a microtubule associated protein, has emerged as a central biomarker of hippocampal neurogenesis. However, molecular mechanisms by which DCX is regulated are poorly understood. OBJECTIVE: Since sleep is involved with the acquisition of memory and oleamide or 9-Octadecenamide (OCT) is a sleep-inducing supplement in human, we examined whether OCT could upregulate DCX in hippocampal progenitor cells (HPCs). METHODS: We employed real-time PCR, western blot, immunostaining, chromatin immunoprecipitation, lentiviral transduction in HPCs, and the calcium influx assay. RESULTS: OCT directly upregulated the transcription of Dcx in HPCs via activation of peroxisome proliferator-activated receptor α (PPARα), a lipid-lowering transcription factor. We observed that, HPCs of Ppara-null mice displayed significant impairment in DCX expression and neuronal differentiation as compared to that of wild-type mice. Interestingly, treatment with OCT stimulated the differentiation process of HPCs in wild-type, but not Ppara-null mice. Reconstruction of PPARα in mouse Ppara-null HPCs restored the expression of DCX, which was further stimulated with OCT treatment. In contrast, a dominant-negative mutant of PPARα significantly attenuated the stimulatory effect of OCT on DCX expression and suppressed neuronal differentiation of human neural progenitor cells. Furthermore, RNA microarray, STRING, chromatin immunoprecipitation, site-directed mutagenesis, and promoter reporter assay have identified DCX as a new target of PPARα. CONCLUSION: These results indicate that OCT, a sleep supplement, directly controls the expression of DCX and suggest that OCT may be repurposed for stimulating the hippocampal neurogenesis.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Differentiation",
+        "Doublecortin Domain Proteins",
+        "Food Additives",
+        "Gene Expression Regulation",
+        "Hippocampus",
+        "Humans",
+        "Mice",
+        "Mice, Knockout",
+        "Oleic Acids",
+        "PPAR alpha",
+        "Promoter Regions, Genetic",
+        "Sleep",
+        "Sleep Aids, Pharmaceutical",
+        "Transcription Factors",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "33143796",
+      "title": "Oleamide rescues tibialis anterior muscle atrophy of mice housed in small cages.",
+      "authors": [
+        "Yasuyuki Kobayashi",
+        "Natsumi Watanabe",
+        "Tomoya Kitakaze",
+        "Keiichiro Sugimoto",
+        "Takeshi Izawa",
+        "Kenji Kai",
+        "Naoki Harada",
+        "Ryoichi Yamaji"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2021-Aug-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Skeletal muscle atrophy causes decreased physical activity and increased risk of metabolic diseases. We investigated the effects of oleamide (cis-9,10-octadecanamide) treatment on skeletal muscle health. The plasma concentration of endogenous oleamide was approximately 30 nm in male ddY mice under normal physiological conditions. When the stable isotope-labelled oleamide was orally administered to male ddY mice (50 mg/kg), the plasma concentration of exogenous oleamide reached approximately 170 nm after 1 h. Male ddY mice were housed in small cages (one-sixth of normal size) to enforce sedentary behaviour and orally administered oleamide (50 mg/kg per d) for 4 weeks. Housing in small cages decreased tibialis anterior (TA) muscle mass and the cross-sectional area of the myofibres in TA muscle. Dietary oleamide alleviated the decreases in TA muscle and resulted in plasma oleamide concentration of approximately 120 nm in mice housed in small cages. Housing in small cages had no influence on the phosphorylation levels of Akt serine/threonine kinase (Akt), mechanistic target of rapamycin (mTOR) and ribosomal protein S6 kinase (p70S6K) in TA muscle; nevertheless, oleamide increased the phosphorylation levels of the proteins. Housing in small cages increased the expression of microtubule-associated protein 1 light chain 3 (LC3)-II and sequestosome 1 (p62), but not LC3-I, in TA muscle, and oleamide reduced LC3-I, LC3-II and p62 expression levels. In C2C12 myotubes, oleamide increased myotube diameter at ≥100 nm. Furthermore, the mTOR inhibitor, Torin 1, suppressed oleamide-induced increases in myotube diameter and protein synthesis. These results indicate that dietary oleamide rescued TA muscle atrophy in mice housed in small cages, possibly by activating the phosphoinositide 3-kinase/Akt/mTOR signalling pathway and restoring autophagy flux.",
+      "mesh_terms": [
+        "Animals",
+        "Autophagy",
+        "Housing, Animal",
+        "Male",
+        "Mice",
+        "Muscle Fibers, Skeletal",
+        "Muscle, Skeletal",
+        "Muscular Atrophy",
+        "Oleic Acids",
+        "Phosphatidylinositol 3-Kinases",
+        "Phosphorylation",
+        "Proto-Oncogene Proteins c-akt",
+        "TOR Serine-Threonine Kinases"
+      ]
+    },
+    {
+      "pmid": "32038247",
+      "title": "Chinese Herbal Medicine (MaZiRenWan) Improves Bowel Movement in Functional Constipation Through Down-Regulating Oleamide.",
+      "authors": [
+        "Tao Huang",
+        "Ling Zhao",
+        "Cheng-Yuan Lin",
+        "Lin Lu",
+        "Zi-Wan Ning",
+        "Dong-Dong Hu",
+        "Linda L D Zhong",
+        "Zhi-Jun Yang",
+        "Zhao-Xiang Bian"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In a prospective, randomized, three-arms, controlled clinical study, Chinese Herbal Medicine MaZiRenWan (MZRW, also known as Hemp Seed Pill) demonstrates comparable efficacy with Senna for functional constipation (FC) during an 8-week treatment period. Both MZRW and Senna are better than a placebo; relative to Senna and a placebo, MZRW displayed a more sustained effect during the 8-week follow-up period. The characteristic pharmacological mechanism responsible for this observation is still unclear. To explore this, we collected pre- and post-treatment serum samples of 85 FC patients from MZRW/Senna/placebo treatment groups for pharmacometabolomic analysis. An ultrahigh-performance liquid chromatography-mass spectrometer (UPLC-MS) was used for metabolic profiling and quantification. In vivo studies were conducted in constipated C57BL/6J mice to verify the effects and corresponding mechanism(s) of the action of MZRW. Pearson correlation analysis, paired t-test, one-way ANOVA analysis, χ2 test, and Student t-test were used to interpret the clinical and preclinical data. Changes in levels of circulating oleamide and its derivatives negatively correlate with improvement in complete spontaneous bowel movement (CSBM) in the MZRW group (Pearson r = -0.59, p = 0.00057). The same did not hold true for either Senna or placebo groups. Oleamide is a known regulator of intestinal motility. MZRW treatment resulted in reduced levels of circulating oleamide in FC patients. Experimental verification showed that MZRW attenuated oleamide-induced slow intestinal motility in mice. MZRW decreased oleamide levels in serum, ileum, and colon in normal mice, but increased expression of colonic fatty acid amide hydrolase (FAAH). In conclusion, MZRW improved bowel movement in FC by down-regulating oleamide, possibly by enhancing FAAH-mediated degradation. Our findings suggest a novel therapeutic strategy for FC."
+    },
+    {
+      "pmid": "29414648",
+      "title": "Oleamide suppresses inflammatory responses in LPS-induced RAW264.7 murine macrophages and alleviates paw edema in a carrageenan-induced inflammatory rat model.",
+      "authors": [
+        "Sung-Min Moon",
+        "Seul Ah Lee",
+        "Joon Ho Hong",
+        "Jae-Sung Kim",
+        "Do Kyung Kim",
+        "Chun Sung Kim"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oleamide compounds purified from green algae have been used for the prevention and treatment of atherosclerosis, thrombosis, arthritis, and cancer. They function through their metabolic conversion into prostaglandins, thromboxanes, and leukotrienes. However, the actual mechanism of action has not been well characterized. To investigate the underlying anti-inflammatory activity and associated mechanisms, oleamide purified from Codium fragile was studied using RAW264.7 murine macrophages and a carrageenan-induced inflammatory rat model. Our results indicate that pre-treatment of RAW264.7 cells with oleamide significantly suppressed LPS-induced nitrite production and PGE2 secretion. Oleamide inhibited LPS-induced iNOS and COX-2 mRNA and protein expression. It also inhibited the LPS-induced production of inflammatory cytokines such as tumor necrosis factor-α (TNF-α), interleukin (IL)-1β, and IL-6. In addition, oleamide prevented the nuclear translocation of NF-κB by suppressing the phosphorylation of the inhibitor of kappa B (IκB)-α. Oleamide also suppressed the phosphorylation of mitogen-activated protein kinases such as ERK1/2 and JNK. Furthermore, inhibition of paw swelling (%) was suppressed 2 h after the intraperitoneal injection of oleamide (20 mg/kg, body weight) in a carrageen-induced rat model. Therefore, our results suggest that oleamide can be used as a single ingredient treatment for inflammatory diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Carrageenan",
+        "Cyclooxygenase 2",
+        "Cytokines",
+        "Dinoprostone",
+        "Edema",
+        "Humans",
+        "Inflammation Mediators",
+        "Lipopolysaccharides",
+        "MAP Kinase Signaling System",
+        "Macrophages",
+        "Mice",
+        "NF-kappa B",
+        "Nitric Oxide Synthase Type II",
+        "Nitrites",
+        "Oleic Acids",
+        "Protein Transport",
+        "RAW 264.7 Cells",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "26547872",
+      "title": "Growth inhibition and possible mechanism of oleamide against the toxin-producing cyanobacterium Microcystis aeruginosa NIES-843.",
+      "authors": [
+        "Jihai Shao",
+        "Yaxian He",
+        "Fan Li",
+        "Huiling Zhang",
+        "Anwei Chen",
+        "Si Luo",
+        "Ji-Dong Gu"
+      ],
+      "journal": "Ecotoxicology (London, England)",
+      "publication_date": "2016-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Oleamide, a fatty acid derivative, shows inhibitory effect against the bloom-forming cyanobacterium Microcystis aeruginosa. The EC50 of oleamide on the growth of M. aeruginosa NIES-843 was 8.60 ± 1.20 mg/L. In order to elucidate the possible mechanism of toxicity of oleamide against M. aeruginosa, chlorophyll fluorescence transient, cellular ultrastructure, fatty acids composition and the transcription of the mcyB gene involved in microcystins synthesis were studied. The results of chlorophyll fluorescence transient showed that oleamide could destruct the electron accepting side of the photosystem II of M. aeruginosa NIES-843. Cellular ultrastructure examination indicated that the destruction of fatty acid constituents, the distortion of thylakoid membrane and the loss of integrity of cell membrane were associated with oleamide treatment and concentration. The damage of cellular membrane increased the release of microcystins from intact cells into the medium. Results presented in this study provide new information on the possible mechanisms involved and potential utilization of oleamide as an algicide in cyanobacterial bloom control.",
+      "mesh_terms": [
+        "Cell Membrane",
+        "Microcystins",
+        "Microcystis",
+        "Oleic Acids",
+        "Pest Control",
+        "Photosystem II Protein Complex",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "25641667",
+      "title": "Differential proteomic analysis of the anti-depressive effects of oleamide in a rat chronic mild stress model of depression.",
+      "authors": [
+        "Lin Ge",
+        "Ming-Ming Zhu",
+        "Jing-Yu Yang",
+        "Fang Wang",
+        "Rong Zhang",
+        "Jing-Hai Zhang",
+        "Jing Shen",
+        "Hui-Fang Tian",
+        "Chun-Fu Wu"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Depression is a complex psychiatric disorder, and its etiology and pathophysiology are not completely understood. Depression involves changes in many biogenic amine, neuropeptide, and oxidative systems, as well as alterations in neuroendocrine function and immune-inflammatory pathways. Oleamide is a fatty amide which exhibits pharmacological effects leading to hypnosis, sedation, and anti-anxiety effects. In the present study, the chronic mild stress (CMS) model was used to investigate the antidepressant-like activity of oleamide. Rats were exposed to 10weeks of CMS or control conditions and were then subsequently treated with 2weeks of daily oleamide (5mg/kg, i.p.), fluoxetine (10mg/kg, i.p.), or vehicle. Protein extracts from the hippocampus were then collected, and hippocampal maps were generated by way of two-dimensional gel electrophoresis (2-DE). Altered proteins induced by CMS and oleamide were identified through mass spectrometry and database searches. Compared to the control group, the CMS rats exhibited significantly less body weight gain and decreased sucrose consumption. Treatment with oleamide caused a reversal of the CMS-induced deficit in sucrose consumption. In the proteomic analysis, 12 protein spots were selected and identified. CMS increased the levels of adenylate kinase isoenzyme 1 (AK1), nucleoside diphosphate kinase B (NDKB), histidine triad nucleotide-binding protein 1 (HINT1), acyl-protein thioesterase 2 (APT-2), and glutathione S-transferase A4 (GSTA4). Compared to the CMS samples, seven spots changed significantly following treatment with oleamide, including GSTA4, glutathione S-transferase A6 (GSTA6), GTP-binding nuclear protein Ran (Ran-GTP), ATP synthase subunit d, transgelin-3, small ubiquitin-related modifier 2 (SUMO2), and eukaryotic translation initiation factor 5A-1 (eIF5A1). Of these seven proteins, the level of eIF5A1 was up-regulated, whereas the remaining proteins were down-regulated. In conclusion, oleamide has antidepressant-like properties in the CMS rat model. The identification of proteins altered by CMS and oleamide treatment provides support for targeting these proteins in the development of novel therapies for depression.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Biomarkers",
+        "Depression",
+        "Disease Models, Animal",
+        "Electrophoresis, Gel, Two-Dimensional",
+        "Fluoxetine",
+        "Hippocampus",
+        "Male",
+        "Nerve Tissue Proteins",
+        "Oleic Acids",
+        "Proteomics",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Stress, Psychological"
+      ]
+    },
+    {
+      "pmid": "22465182",
+      "title": "Enhanced vasorelaxant effects of the endocannabinoid-like mediator, oleamide, in hypertension.",
+      "authors": [
+        "Jamie J Hopps",
+        "William R Dunn",
+        "Michael D Randall"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2012-Jun-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Oleamide is an endocannabinoid-like, fatty acid amide with structural similarities to anandamide. The cardiovascular effects of anandamide are enhanced in hypertension and we have now examined how hypertension affects responses to oleamide. Vasorelaxant responses to oleamide were significantly (P<0.001) enhanced in aortic rings from spontaneously hypertensive rats (SHRs), such that the maximal relaxation to oleamide was 40.3 ± 3.5%, compared to 15.7 ± 3.9% in normotensive Wistar Kyoto (WKY) controls. The augmented responses to oleamide in SHR arteries were unaffected by either inhibition of nitric oxide synthase (300 μM l-NAME) or fatty acid amide hydrolase (1 μM URB597) and independent of cannabinoid CB(1) receptors or the endothelium. The enhanced responses to oleamide were opposed by pre-treatment with capsaicin (such that R(max) was reduced to 9.8 ± 1.5%) and this occurred independently of TRPV1 receptor and sensory nerve activity, as the TRPV1 antagonist capsazepine (1-5 μM) and the cation channel inhibitor ruthenium red (10 μM) had no effect on the responses to oleamide. However, inhibition of cyclooxygenase (10 μM indomethacin) enhanced the responses in the WKY aortae, such that the responses were comparable to those in the SHR. The results suggest that the cyclooxygenase pathway has a role in modulating vasorelaxation caused by oleamide in normotensive aortae and that this is lost in hypertension, possibly as an adaptation to the increase in blood pressure.",
+      "mesh_terms": [
+        "Amidohydrolases",
+        "Animals",
+        "Aorta",
+        "Benzamides",
+        "Biomimetic Materials",
+        "Cannabinoid Receptor Modulators",
+        "Capsaicin",
+        "Carbamates",
+        "Cyclooxygenase Inhibitors",
+        "Endocannabinoids",
+        "Endothelium, Vascular",
+        "Hypertension",
+        "In Vitro Techniques",
+        "Male",
+        "NG-Nitroarginine Methyl Ester",
+        "Oleic Acids",
+        "Rats",
+        "Receptor, Cannabinoid, CB1",
+        "TRPV Cation Channels",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "21567357",
+      "title": "Identification of oleamide in Guatteria recurvisepala by LC/MS-based Plasmodium falciparum thioredoxin reductase ligand binding method.",
+      "authors": [
+        "Ranjith Munigunti",
+        "Nicholas Nelson",
+        "Vanisree Mulabagal",
+        "Mahabir P Gupta",
+        "Reto Brun",
+        "Angela I Calderón"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2011-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Our current research on applications of mass spectrometry to natural product drug discovery against malaria aims to screen plant extracts for new ligands to Plasmodium falciparum thioredoxin reductase (PfTrxR) followed by their identification and structure elucidation. PfTrxR is involved in the antioxidant defense and redox regulation of the parasite and is validated as a promising target for therapeutic intervention against malaria. In the present study, detannified methanol extracts from Guatteria recurvisepala, Licania kallunkiae, and Topobea watsonii were screened for ligands to PfTrxR using ultrafiltration and liquid chromatography/mass spectrometry-based binding experiments. The PfTrxR ligand identified in the extract of Guatteria recurvisepala displayed a relative binding affinity of 3.5-fold when incubated with 1 μM PfTrxR. The ligand corresponding to the protonated molecule m/z 282.2792 [M+ H]+ was eluted at a retention time of 17.95 min in a 20-min gradient of 95% B consisting of (A) 0.1%formic acid in 95% H₂O-5% ACN, and (B) 0.1% formic acid in 95% ACN-5% H₂O in an LC-QTOF-MS.Tandem MS of the protonated molecule m/z 282.2792 [M + H]+, C₁₈H₃₆NO (DBE: 2; error: 1.13 ppm) resulted in two daughter ions m/z 265.2516[M + H-NH₃]+ (DBE: 3; error: 0.35 ppm) and m/z 247.2405 [M + H-NH₃-H₂O] +, (DBE: 4; error:2.26 ppm). The PfTrxR ligand was identified as oleamide and confirmed by comparison of the retention time, molecular formula, accurate mass,and double bond equivalence with the standard oleamide. This is the first report on the identification of oleamide as a PfTrxR ligand from Guatteria recurvisepala R. E. Fr. and the corresponding in vitro activity against P. falciparum strain K1 (IC₅₀ 4.29 μg/mL).",
+      "mesh_terms": [
+        "Animals",
+        "Antimalarials",
+        "Cell Line",
+        "Cell Survival",
+        "Chromatography, Liquid",
+        "Chrysobalanaceae",
+        "Drug Discovery",
+        "Guatteria",
+        "Inhibitory Concentration 50",
+        "Ligands",
+        "Mass Spectrometry",
+        "Melastomataceae",
+        "Oleic Acids",
+        "Panama",
+        "Plant Extracts",
+        "Plasmodium falciparum",
+        "Rats",
+        "Reference Standards",
+        "Thioredoxin-Disulfide Reductase",
+        "Ultrafiltration"
+      ]
+    },
+    {
+      "pmid": "16580498",
+      "title": "Enhanced radiosensitization of p53 mutant cells by oleamide.",
+      "authors": [
+        "Yoon-Jin Lee",
+        "Da Yeon Chung",
+        "Su-Jae Lee",
+        "Gil Ja Jhon",
+        "Yun-Sil Lee"
+      ],
+      "journal": "International journal of radiation oncology, biology, physics",
+      "publication_date": "2006-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: Effect of oleamide, an endogenous fatty-acid primary amide, on tumor cells exposed to ionizing radiation (IR) has never before been explored. METHODS AND MATERIALS: NCI H460, human lung cancer cells, and human astrocytoma cell lines, U87 and U251, were used. The cytotoxicity of oleamide alone or in combination with IR was determined by clonogenic survival assay, and induction of apoptosis was estimated by FACS analysis. Protein expressions were confirmed by Western blotting, and immunofluorescence analysis of Bax by use of confocal microscopy was also performed. The combined effect of IR and oleamide to suppress tumor growth was studied by use of xenografts in the thighs of nude mice. RESULTS: Oleamide in combination with IR had a synergistic effect that decreased clonogenic survival of lung-carcinoma cell lines and also sensitized xenografts in nude mice. Enhanced induction of apoptosis of the cells by the combined treatment was mediated by loss of mitochondrial membrane potential, which resulted in the activation of caspase-8, caspase-9, and caspase-3 accompanied by cytochrome c release and Bid cleavage. The synergistic effects of the combined treatment were more enhanced in p53 mutant cells than in p53 wild-type cells. In p53 wild-type cells, both oleamide and radiation induced Bax translocation to mitochondria. On the other hand, in p53 mutant cells, radiation alone slightly induced Bax translocation to mitochondria, whereas oleamide induced a larger translocation. CONCLUSIONS: Oleamide may exhibit synergistic radiosensitization in p53 mutant cells through p53-independent Bax translocation to mitochondria.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Astrocytoma",
+        "Cell Line, Tumor",
+        "DNA Fragmentation",
+        "Drug Screening Assays, Antitumor",
+        "Genes, p53",
+        "Humans",
+        "Lung Neoplasms",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Mitochondria",
+        "Mitochondrial Membranes",
+        "Mutation",
+        "Oleic Acids",
+        "Paclitaxel",
+        "Permeability",
+        "Radiation-Sensitizing Agents",
+        "Transplantation, Heterologous",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "16136230",
+      "title": "QM/MM modelling of oleamide hydrolysis in fatty acid amide hydrolase (FAAH) reveals a new mechanism of nucleophile activation.",
+      "authors": [
+        "Alessio Lodola",
+        "Marco Mor",
+        "Johannes C Hermann",
+        "Giorgio Tarzia",
+        "Daniele Piomelli",
+        "Adrian J Mulholland"
+      ],
+      "journal": "Chemical communications (Cambridge, England)",
+      "publication_date": "2005-Sep-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Fatty acid amide hydrolase (FAAH), a promising target for the treatment of several central and peripheral nervous system disorders, such as anxiety, pain and hypertension, has an unusual catalytic site, and its mechanism has been uncertain; hybrid quantum mechanics/molecular mechanics (QM/MM) calculations reveal a new mechanism of nucleophile activation (involving a Lys-Ser-Ser catalytic triad), with potentially crucial insights for the design of potent and selective inhibitors.",
+      "mesh_terms": [
+        "Amidohydrolases",
+        "Catalysis",
+        "Enzyme Inhibitors",
+        "Kinetics",
+        "Models, Molecular"
+      ]
+    },
+    {
+      "pmid": "11709196",
+      "title": "Effect of oleamide on Ca(2+) signaling in human bladder cancer cells.",
+      "authors": [
+        "Y K Lo",
+        "K Y Tang",
+        "W N Chang",
+        "C H Lu",
+        "J S Cheng",
+        "K C Lee",
+        "K J Chou",
+        "C P Liu",
+        "W C Chen",
+        "W Su",
+        "Y P Law",
+        "C R Jan"
+      ],
+      "journal": "Biochemical pharmacology",
+      "publication_date": "2001-Nov-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effect of oleamide, a sleep-inducing endogenous lipid in animal models, on intracellular free levels of Ca(2+) ([Ca(2+)](i)) in non-excitable and excitable cells was examined by using fura-2 as a fluorescent dye. [Ca(2+)](i) in pheochromocytoma cells, renal tubular cells, osteoblast-like cells, and bladder cancer cells were increased on stimulation of 50 microM oleamide. The response in human bladder cancer cells (T24) was the greatest and was further explored. Oleamide (10-100 microM) increased [Ca(2+)](i) in a concentration-dependent fashion with an EC(50) of 50 microM. The [Ca(2+)](i) signal comprised an initial rise and a sustained plateau and was reduced by removing extracellular Ca(2+) by 85 +/- 5%. After pre-treatment with 10-100 microM oleamide in Ca(2+)-free medium, addition of 3 mM Ca(2+) increased [Ca(2+)](i) in a manner dependent on the concentration of oleamide. The [Ca(2+)](i) increase induced by 50 microM oleamide was reduced by 100 microM La(3+) by 40%, but was not altered by 10 microM nifedipine, 10 microM verapamil, and 50 microM Ni(2+). In Ca(2+)-free medium, pre-treatment with thapsigargin (1 microM), an endoplasmic reticulum Ca(2+) pump inhibitor, abolished 50 microM oleamide-induced [Ca(2+)](i) increases; conversely, pretreatment with 50 microM oleamide reduced 1 microM thapsigargin-induced [Ca(2+)](i) increases by 50 +/- 3%. Suppression of the activity of phospholipase C with 2 microM U73122 failed to alter 50 microM oleamide-induced Ca(2+) release. Linoleamide (10-100 microM), another sleep-inducing lipid with a structure similar to that of oleamide, also induced an increase in [Ca(2+)](i). Together, it was shown that oleamide induced significant [Ca(2+)](i) increases in cells by a phospholipase C-independent release of Ca(2+) from thapsigargin-sensitive stores and by inducing Ca(2+) entry.",
+      "mesh_terms": [
+        "Animals",
+        "Calcium",
+        "Calcium Signaling",
+        "Cell Line",
+        "Dogs",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Hypnotics and Sedatives",
+        "Oleic Acids",
+        "Rats",
+        "Tumor Cells, Cultured",
+        "Urinary Bladder Neoplasms"
+      ]
+    },
+    {
+      "pmid": "11585048",
+      "title": "Fatty acid amide hydrolase: biochemistry, pharmacology, and therapeutic possibilities for an enzyme hydrolyzing anandamide, 2-arachidonoylglycerol, palmitoylethanolamide, and oleamide.",
+      "authors": [
+        "C J Fowler",
+        "K O Jonsson",
+        "G Tiger"
+      ],
+      "journal": "Biochemical pharmacology",
+      "publication_date": "2001-Sep-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Fatty acid amide hydrolase (FAAH) is responsible for the hydrolysis of a number of important endogenous fatty acid amides, including the endogenous cannabimimetic agent anandamide (AEA), the sleep-inducing compound oleamide, and the putative anti-inflammatory agent palmitoylethanolamide (PEA). In recent years, there have been great advances in our understanding of the biochemical and pharmacological properties of the enzyme. In this commentary, the structure and biochemical properties of FAAH and the development of potent and selective FAAH inhibitors are reviewed, together with a brief discussion on the therapeutic possibilities for such compounds in the treatment of inflammatory pain and ischaemic states.",
+      "mesh_terms": [
+        "Amides",
+        "Amidohydrolases",
+        "Animals",
+        "Arachidonic Acids",
+        "Endocannabinoids",
+        "Enzyme Inhibitors",
+        "Ethanolamines",
+        "Glycerides",
+        "Humans",
+        "Oleic Acids",
+        "Palmitic Acids",
+        "Polyunsaturated Alkamides"
+      ]
+    },
+    {
+      "pmid": "10805767",
+      "title": "Exceptionally potent inhibitors of fatty acid amide hydrolase: the enzyme responsible for degradation of endogenous oleamide and anandamide.",
+      "authors": [
+        "D L Boger",
+        "H Sato",
+        "A E Lerner",
+        "M P Hedrick",
+        "R A Fecik",
+        "H Miyauchi",
+        "G D Wilkie",
+        "B J Austin",
+        "M P Patricelli",
+        "B F Cravatt"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2000-May-09",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The development of exceptionally potent inhibitors of fatty acid amide hydrolase (FAAH), the enzyme responsible for the degradation of oleamide (an endogenous sleep-inducing lipid), and anandamide (an endogenous ligand for cannabinoid receptors) is detailed. The inhibitors may serve as useful tools to clarify the role of endogenous oleamide and anandamide and may prove to be useful therapeutic agents for the treatment of sleep disorders or pain. The combination of several features-an optimal C12-C8 chain length, pi-unsaturation introduction at the corresponding arachidonoyl Delta(8,9)/Delta(11,12) and oleoyl Delta(9,10) location, and an alpha-keto N4 oxazolopyridine with incorporation of a second weakly basic nitrogen provided FAAH inhibitors with K(i)s that drop below 200 pM and are 10(2)-10(3) times more potent than the corresponding trifluoromethyl ketones.",
+      "mesh_terms": [
+        "Amidohydrolases",
+        "Animals",
+        "Arachidonic Acids",
+        "COS Cells",
+        "Cannabinoids",
+        "Cell Membrane",
+        "Cerebrosides",
+        "Drug Design",
+        "Endocannabinoids",
+        "Enzyme Inhibitors",
+        "Heterocyclic Compounds",
+        "Kinetics",
+        "Liver",
+        "Oleic Acids",
+        "Polyunsaturated Alkamides",
+        "Rats",
+        "Recombinant Proteins",
+        "Structure-Activity Relationship",
+        "Transfection"
+      ]
+    },
+    {
+      "pmid": "10221757",
+      "title": "Modification of 5-HT2 receptor mediated behaviour in the rat by oleamide and the role of cannabinoid receptors.",
+      "authors": [
+        "J F Cheer",
+        "A K Cadogan",
+        "C A Marsden",
+        "K C Fone",
+        "D A Kendall"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "1999-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oleamide (cis-9,10-octadecenoamide) is an endogenous brain lipid which has been suggested to induce sleep in experimental animals. The mechanism of action is unclear but shares many of the characteristics of endogenous cannabinoids such as anandamide and has been shown to enhance in vitro responses to 5-HT and GABA. In the present study we investigated the effects of oleamide on two motor behaviours, back muscle contractions (BMC) and wet-dog shakes (WDS) induced in rats by treatment with the 5-HT2 receptor agonist DOI ((+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane hydrochloride). We then examined the potential involvement of CB1 cannabinoid receptors in the responses to oleamide and the mechanism of interaction between CB1 and 5-HT2 receptors. Oleamide and the cannabinoid receptor agonist HU210 (6aR)-trans-3-(1,1-dimethylheptyl)6a,7,10,10a-tetrahydro-1-h ydroxy-6,6-dimethyl-6H-dibenzo[b,d]pyran-9-methanol) produced a hypolocomotion which was prevented by the CB1 antagonist SR141716A (N-(piperidin-1-yl)-5-(4-chlorophenyl)-1-(2,4-dichlorophenyl)-4-me thyl-1H-pyrazole-3-carboxamide hydrochloride). Despite having no effect alone, oleamide and HU210 potentiated BMC induced by treatment with DOI. SR141716A alone did not affect the response to DOI but it blocked the potentiations caused by oleamide or HU210. WDS were unaffected by oleamide and slightly reduced by HU210. In vitro, oleamide and HU210 enhanced the high affinity binding of 5-HT to 5-HT2 receptors on rat cerebral cortex membranes labelled with 3H-ketanserin. Neither agent, however, altered 5-HT-stimulated phosphoinositide hydrolysis in rat cerebral cortex slices. Oleamide occupied CB1 cannabinoid receptors on rat brain membranes labelled with 3H-CP55940 with an IC50 of 10 microM. The data presented are consistent with oleamide acting via a cannabinoid recognition site to enhance 5-HT2 receptor function in vivo. The mechanism of the modulation is still unclear but it does not appear to involve a potentiation of 5-HT2 receptor-stimulated phosphoinositide hydrolysis.",
+      "mesh_terms": [
+        "Amphetamines",
+        "Animals",
+        "Behavior, Animal",
+        "Cannabinoids",
+        "Cerebral Cortex",
+        "Cyclohexanols",
+        "Dronabinol",
+        "Excitatory Amino Acid Antagonists",
+        "Hypnotics and Sedatives",
+        "Male",
+        "Motor Activity",
+        "Muscle Contraction",
+        "Oleic Acids",
+        "Phosphatidylinositols",
+        "Rats",
+        "Rats, Wistar",
+        "Receptor, Serotonin, 5-HT2A",
+        "Receptors, Cannabinoid",
+        "Receptors, Drug",
+        "Receptors, Serotonin",
+        "Reflex",
+        "Serotonin",
+        "Serotonin Receptor Agonists"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "supplement": "High-Protein Breakfast",
+  "query": "High-Protein Breakfast[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:45:43",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "33421203",
+      "title": "For a high fat, high protein breakfast, preprandial administration of 125% of the insulin dose improves postprandial glycaemic excursions in people with type 1 diabetes using multiple daily injections: A cross-over trial.",
+      "authors": [
+        "Tenele A Smith",
+        "Carmel E Smart",
+        "Peter P Howley",
+        "Prudence E Lopez",
+        "Bruce R King"
+      ],
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To determine the glycaemic impact of an increased insulin dose, split insulin dose and regular insulin for a high fat, high protein breakfast in people with type 1 diabetes using multiple daily injections (≥4/day). METHODS: In this cross-over trial, participants received the same high fat, high protein breakfast (carbohydrate:30 g, fat:40 g, protein:50 g) for 4 days. Four different insulin strategies were randomly allocated and tested; 100% of the insulin-to-carbohydrate ratio (ICR) given in a single dose using aspart insulin (100Asp), 125% ICR given in a single dose using aspart (125Asp) or regular insulin (125Reg) and 125% ICR given in a split dose using aspart insulin (100:25Asp). Insulin was given 0.25 hr pre-meal and for 100:25Asp, also 1 hr post-meal. Postprandial sensor glucose was measured for 5 hr. RESULTS: In all, 24 children and adults were participated. The 5-hr incremental area under the curves for 100Asp, 125Asp, 125Reg and 100:25Asp were 620 mmol/L.min [95% CI: 451,788], 341 mmol/L.min [169,512], 675 mmol/L.min [504,847] and 434 mmol/L.min [259,608], respectively. The 5-hr incremental area under the curve for 125Asp was significantly lower than for 100Asp (p = 0.016) and for 125Reg (p = 0.002). There was one episode of hypoglycaemia in 125Reg. CONCLUSIONS: For a high fat, high protein breakfast, giving 125% ICR preprandially, using aspart insulin significantly improved postprandial glycaemia without hypoglycaemia. There was no additional glycaemic benefit from giving insulin in a split dose (100:25%) or replacing aspart with regular insulin.",
+      "mesh_terms": [
+        "Adolescent",
+        "Blood Glucose",
+        "Breakfast",
+        "Child",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 1",
+        "Diet, High-Fat",
+        "Diet, High-Protein",
+        "Female",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Insulin Infusion Systems",
+        "Male",
+        "Postprandial Period",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "33405297",
+      "title": "In children and young people with type 1 diabetes using Pump therapy, an additional 40% of the insulin dose for a high-fat, high-protein breakfast improves postprandial glycaemic excursions: A cross-over trial.",
+      "authors": [
+        "Tenele A Smith",
+        "Carmel E Smart",
+        "Michelle E J Fuery",
+        "Peter P Howley",
+        "Brigid A Knight",
+        "Mark Harris",
+        "Bruce R King"
+      ],
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To determine the insulin requirement for a high-fat, high-protein breakfast to optimise postprandial glycaemic excursions in children and young people with type 1 diabetes using insulin pumps. METHODS: In all, 27 participants aged 10-23 years, BMI <95th percentile (2-18 years) or BMI <30 kg/m2 (19-25 years) and HbA1c ≤64 mmol/mol (≤8.0%) consumed a high-fat, high-protein breakfast (carbohydrate: 30 g, fat: 40 g and protein: 50 g) for 4 days. In this cross-over trial, insulin was administered, based on the insulin-to-carbohydrate ratio (ICR) of 100% (control), 120%, 140% and 160%, in an order defined by a randomisation sequence and delivered in a combination bolus, 60% ¼ hr pre-meal and 40% over 3 hr. Postprandial sensor glucose was assessed for 6 hr. RESULTS: Comparing 100% ICR, 140% ICR and 160% ICR resulted in significantly lower 6-hr areas under the glucose curves: mean (95%CI) (822 mmol/L.min [605,1039] and 567 [350,784] vs 1249 [1042,1457], p ≤ 0.001) and peak glucose excursions (4.0 mmol/L [3.0,4.9] and 2.7 [1.7,3.6] vs 6.0 [5.0,6.9],p < 0.001). Rates of hypoglycaemia for 100%-160% ICR were 7.7%, 7.7%, 12% and 19% respectively (p ≥ 0.139). With increasing insulin dose, a step-wise reduction in mean glucose excursion was observed from 1 to 6 hr (p = 0.008). CONCLUSIONS: Incrementally increasing the insulin dose for a high-fat, high-protein breakfast resulted in a predictable, dose-dependent reduction in postprandial glycaemia: 140% ICR improved postprandial glycaemic excursions without a statistically significant increase in hypoglycaemia. These findings support a safe, practical method for insulin adjustment for high-fat, high-protein meals that can be readily implemented in practice to improve postprandial glycaemia.",
+      "mesh_terms": [
+        "Adolescent",
+        "Blood Glucose",
+        "Breakfast",
+        "Child",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 1",
+        "Diet, High-Fat",
+        "Diet, High-Protein",
+        "Female",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Insulin Infusion Systems",
+        "Male",
+        "Postprandial Period",
+        "Young Adult"
+      ]
+    }
+  ]
+}

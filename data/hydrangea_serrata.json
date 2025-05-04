@@ -1,0 +1,174 @@
+{
+  "supplement": "Hydrangea Serrata",
+  "query": "Hydrangea Serrata[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:47:18",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "39408700",
+      "title": "Hair Growth-Promoting Effect of Hydrangea serrata (Thunb.) Ser. Extract and Its Active Component Hydrangenol: In Vitro and In Vivo Study.",
+      "authors": [
+        "Soyoon Park",
+        "Hyunjae Kim",
+        "Hye Shin Ahn",
+        "Changseon Na",
+        "Yu-Kyong Shin"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-Sep-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "With the escalating prevalence of hair loss, the demand for effective hair loss treatment has surged. This study evaluated the effects of hot water extract of Hydrangea serrata (Thunb.) Ser. leaf (WHS) on hair growth, employing cell cultures, mice, and human skin organoid models. Both WHS and hydrangenol were found to enhance 5α-reductase inhibitory activity. WHS and hydrangenol have been shown to stimulate dermal papilla cell (DPC) growth, potentially through factors like keratinocyte growth factor (KGF), fibroblast growth factor 10 (FGF10), and transforming growth factor-β1 (TGF-β1). They also elevated the expression levels of keratin genes (K31 and K85) and the ceramide synthase (CerS3) gene, crucial clinical indicators of hair health. Furthermore, they exhibited notable anti-inflammatory and anti-androgenic properties by reducing the levels of tumor necrosis factor-α (TNF-α) and androgen signaling molecules, including androgen receptor (AR) and dickkopf-1 (DKK-1) gene expression. Oral administration of WHS to C57BL/6 mice for 3 weeks confirmed its hair growth-promoting effects, improving hair growth parameters and gene expression without significant changes in hair weight. Additionally, in a human skin organoid model, WHS was found to stimulate hair formation and augment the expression of follicle markers. These findings position WHS as a promising nutraceutical for promoting hair health, as evidenced by its efficacy in both in vitro and in vivo models.",
+      "mesh_terms": [
+        "Animals",
+        "Plant Extracts",
+        "Mice",
+        "Humans",
+        "Hydrangea",
+        "Hair",
+        "Hair Follicle",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Alopecia"
+      ]
+    },
+    {
+      "pmid": "39290728",
+      "title": "Differential gene expression in leaves and roots of Hydrangea serrata treated with aluminium chloride.",
+      "authors": [
+        "Anna-Catharina Scholpp",
+        "Hanna Marie Schilbert",
+        "Prisca Viehöver",
+        "Bernd Weisshaar",
+        "Michael Beckstette",
+        "Judith Martha Neumann",
+        "Hanna Bednarz",
+        "Karsten Niehaus"
+      ],
+      "journal": "Frontiers in plant science",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hydrangea serrata, also knowen as the Japanese tea hortensia, is known for its sweet taste and health properties of bevarages produced from this plant. The H. serrata 3,4-dihydroisocoumarins, hydrangenol and phyllodulcin harbour a variety of biological activities and pharmacological properties. Therefore, a detailed understanding of dihydroisocoumarin biosynthesis in H. serrata is of major interest. Their biosynthesis is assumed to be enhanced by elicitors and mediated by polyketide synthases like in cases of phenylpropanoid derived phytoalexins. A de-novo transcriptome assembly of leaves and roots from the aluminium chloride treatment group versus the control group alongside with annotation was generated. Secondary plant metabolites were analysed by LC-MS. It revealed that a terpene synthase and a triterpenoid synthase gene as well as lignin biosynthesis encoding genes were upregulated in roots. Many genes for transporters, glycosyl, and other transferases as well as glycosylases were found to be differentially expressed in both organs. As no differentially expressed polyketide synthase gene homolog was found, the relative leaf and root 3,4-dihydroisocoumarin content was analysed by LC-MS measurement. Although Hydrangea species are known for their aluminium detoxification using phenylpropanoid-derived compounds, the levels of 3,4- dihydroisocoumarins were not enhanced. In this metabolite analysis, an organ- specific accumulation profile of hydrangenol, phyllodulcin, hydrangeic acid and their mono- and di-glycosides was figured out."
+    },
+    {
+      "pmid": "38794745",
+      "title": "Lipidomic Assessment of the Inhibitory Effect of Standardized Water Extract of Hydrangea serrata (Thunb.) Ser. Leaves during Adipogenesis.",
+      "authors": [
+        "Jae Sik Yu",
+        "Hee Ju Kim",
+        "Yeo Eun Kim",
+        "Hyun Ok Yang",
+        "Yu-Kyong Shin",
+        "Hyunjae Kim",
+        "Soyoon Park",
+        "Gakyung Lee"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-May-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity is primarily exacerbated by excessive lipid accumulation during adipogenesis, with triacylglycerol (TG) as a major lipid marker. However, as the association between numerous lipid markers and various health conditions has recently been revealed, investigating the lipid metabolism in detail has become necessary. This study investigates the lipid metabolic effects of Hydrangea serrata (Thunb.) Ser. hot water leaf extract (WHS) on adipogenesis using LC-MS-based lipidomics analysis of undifferentiated, differentiated, and WHS-treated differentiated 3T3-L1 cells. WHS treatment effectively suppressed the elevation of glycerolipids, including TG and DG, and prevented a molecular shift in fatty acyl composition towards long-chain unsaturated fatty acids. This shift also impacted glycerophospholipid metabolism. Additionally, WHS stabilized significant lipid markers such as the PC/PE and LPC/PE ratios, SM, and Cer, which are associated with obesity and related comorbidities. This study suggests that WHS could reduce obesity-related risk factors by regulating lipid markers during adipogenesis. This study is the first to assess the underlying lipidomic mechanisms of the adipogenesis-inhibitory effect of WHS, highlighting its potential in developing natural products for treating obesity and related conditions. Our study provides a new strategy for the development of natural products for the treatment of obesity and related diseases.",
+      "mesh_terms": [
+        "Adipogenesis",
+        "Plant Extracts",
+        "Plant Leaves",
+        "3T3-L1 Cells",
+        "Animals",
+        "Mice",
+        "Hydrangea",
+        "Lipidomics",
+        "Lipid Metabolism",
+        "Water",
+        "Adipocytes",
+        "Triglycerides",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "37435675",
+      "title": "Hydrangenol, an active constituent of Hydrangea serrata (Thunb.) Ser., ameliorates colitis through suppression of macrophage-mediated inflammation in dextran sulfate sodium-treated mice.",
+      "authors": [
+        "Su-Yeon Kim",
+        "Kyung-Sook Chung",
+        "Seo-Yun Jang",
+        "Hee-Soo Han",
+        "So-Won Heo",
+        "Jong Kil Lee",
+        "Hyoung Ja Kim",
+        "Yu-Kyong Shin",
+        "Hye Shin Ahn",
+        "Sun Hee Lee",
+        "Kyung-Tae Lee"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2023-Jul-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ulcerative colitis (UC) is a chronic disease of the colon characterized by mucosal damage and relapsing gastrointestinal inflammation. Hydrangea serrata (Thunb.) Ser. and its bioactive compound, hydrangenol, are reported to have anti-inflammatory effects, but few studies have investigated the effects of hydrangenol in colitis. In the present study, we evaluated for the first time the anti-colitic effects and molecular mechanisms of hydrangenol in a dextran sodium sulfate (DSS)-induced mouse colitis model. To investigate the anti-colitic effects of hydrangenol, DSS-induced colitis mice, HT-29 colonic epithelial cells treated with supernatant from LPS-inflamed THP-1 macrophages, and LPS-induced RAW264.7 macrophages were used. In addition, to clarify the molecular mechanisms of this study, quantitative real time-PCR, western blot analysis, TUNEL assay, and annexin V-FITC/PI double staining analysis were conducted. Oral administration of hydrangenol (15 or 30 mg kg-1) significantly alleviated DSS-induced colitis by preventing DAI scores, shortening colon length, and colonic structural damage. F4/80+ macrophage numbers in mesenteric lymph nodes and macrophage infiltration in colonic tissues were significantly suppressed following hydrangenol treatment in DSS-exposed mice. Hydrangenol significantly attenuated DSS-induced destruction of the colonic epithelial cell layer through regulation of pro-caspase-3, occludin, and claudin-1 protein expression. Moreover, hydrangenol ameliorated abnormal tight junction protein expression and apoptosis in HT-29 colonic epithelial cells treated with supernatant from LPS-inflamed THP-1 macrophages. Hydrangenol suppressed the expression of pro-inflammatory mediators, such as iNOS, COX-2, TNF-α, IL-6, and IL-1β through NF-κB, AP-1, and STAT1/3 inactivation in DSS-induced colon tissue and LPS-induced RAW264.7 macrophages. Taken together, our findings suggest that hydrangenol recovers the tight junction proteins and down-regulates the expression of the pro-inflammatory mediators by interfering with the macrophage infiltration in DSS-induced colitis. Our study provides compelling evidence that hydrangenol may be a candidate for inflammatory bowel disease therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Dextran Sulfate",
+        "Hydrangea",
+        "Lipopolysaccharides",
+        "Signal Transduction",
+        "Colitis",
+        "Inflammation",
+        "Colitis, Ulcerative",
+        "Colon",
+        "Macrophages",
+        "NF-kappa B",
+        "Inflammation Mediators",
+        "Disease Models, Animal",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "34684625",
+      "title": "Standardized Hydrangea serrata (Thunb.) Ser. Extract Ameliorates Obesity in db/db Mice.",
+      "authors": [
+        "Hee-Soo Han",
+        "Kyung-Sook Chung",
+        "Yu-Kyoung Shin",
+        "Sun Hee Lee",
+        "Kyung-Tae Lee"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Oct-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We previously reported the potential anti-obesity effects of the water extract of Hydrangea serrata (Thunb.) Ser. leaves (WHS) in high-fat diet-induced obese mice. As an extension of our previous study, we investigated the anti-adipogenic and anti-obesity effects of WHS and its underlying molecular mechanisms in 3T3-L1 preadipocytes and genetically obese db/db mice. WHS attenuated the gene expression of adipogenic transcription factors, CCAAT/enhancer binding protein (C/EBP)α, peroxisome proliferator-activated receptor (PPAR)γ, and sterol regulatory element binding protein (SREBP)-1. Moreover, WHS inhibited the mitotic clonal expansion of preadipocytes by inducing G1 cell cycle arrest. Oral administration of WHS alleviated body weight gain and body fat accumulation in vivo. In addition, adipocyte hypertrophy and liver steatosis were ameliorated by WHS treatment. WHS reduced C/EBPα, PPARγ, and SREBP-1 expression and activated AMPKα phosphorylation in both white adipose tissue (WAT) and liver tissue. WHS also mildly upregulated the expression of thermogenic proteins, including uncoupling protein-1, PPARs, PPARγ coactivator-1α, and sirtuin-1, in brown adipose tissue (BAT). Furthermore, WHS altered the gut microbiota composition to resemble that of wild-type mice. Taken together, our findings suggest that WHS could alleviate adiposity by inhibiting adipogenesis in WAT and the liver and modulating the gut microbiota.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipocytes",
+        "Adipogenesis",
+        "Adipose Tissue, Brown",
+        "Adipose Tissue, White",
+        "Adiposity",
+        "Animals",
+        "Anti-Obesity Agents",
+        "CCAAT-Enhancer-Binding Protein-alpha",
+        "Diet, High-Fat",
+        "Gastrointestinal Microbiome",
+        "Hydrangea",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Obese",
+        "Obesity",
+        "PPAR gamma",
+        "Plant Extracts",
+        "Sterol Regulatory Element Binding Protein 1",
+        "Thermogenesis",
+        "Weight Gain"
+      ]
+    }
+  ]
+}

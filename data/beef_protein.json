@@ -1,0 +1,91 @@
+{
+  "supplement": "Beef Protein",
+  "query": "Beef Protein[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:16:13",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "32186977",
+      "title": "Effects of Beef Protein Supplementation in Male Elite Triathletes: A Randomized, Controlled, Double-Blind, Cross-Over Study.",
+      "authors": [
+        "Pedro L Valenzuela",
+        "Zigor Montalvo",
+        "Fernando Mata",
+        "Manuela González",
+        "Eneko Larumbe-Zabala",
+        "Fernando Naclerio"
+      ],
+      "journal": "Journal of the American College of Nutrition",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Beef protein extracts are growing in popularity in recent years due to their purported anabolic effects as well as to their potential benefits on hematological variables. The present randomized, controlled, double-blind, cross-over study aimed to analyze the effects of beef protein supplementation on a group of male elite triathletes (Spanish National Team). METHODS: Six elite triathletes (age, 21 ± 3 years; VO2max, 71.5 ± 3.0 ml·kg·min-1) were randomly assigned to consume daily either 25 g of a beef supplement (BEEF) or an isoenergetic carbohydrates (CHO) supplement for 8 weeks, with both conditions being separated by a 5-week washout period. Outcomes, including blood analyses and anthropometrical measurements, were assessed before and after each 8-week intervention. RESULTS: No effects of supplement condition were observed on body mass nor on skinfold thicknesses, but BEEF induced significant and large benefits over CHO in the thigh cross-sectional area (3.02%, 95%CI = 1.33 to 4.71%; p = 0.028, d = 1.22). Contrary to CHO, BEEF presented a significant increase in vastus lateralis muscle thickness (p = 0.046), but differences between conditions were not significant (p = 0.173, d = 0.87). Although a significantly more favorable testosterone-to-cortisol ratio (TCR) was observed for BEEF over CHO (37%, 95% CI = 5 to 68%; p = 0.028, d = 1.29), no significant differences were found for the hematological variables (i.e., iron, ferritin, red blood cell count, hemoglobin or hematocrit). CONCLUSION: Beef protein supplementation seems to facilitate a more favorable anabolic environment (i.e., increased TCR and muscle mass) in male elite triathletes, with no impact on hematological variables.",
+      "mesh_terms": [
+        "Animals",
+        "Cattle",
+        "Humans",
+        "Male",
+        "Anabolic Agents",
+        "Athletes",
+        "Body Composition",
+        "Cross-Over Studies",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Erythrocyte Count",
+        "Ferritins",
+        "Hematocrit",
+        "Hemoglobins",
+        "Iron",
+        "Red Meat",
+        "Adolescent",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31242624",
+      "title": "Does Beef Protein Supplementation Improve Body Composition and Exercise Performance? A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "authors": [
+        "Pedro L Valenzuela",
+        "Fernando Mata",
+        "Javier S Morales",
+        "Adrián Castillo-García",
+        "Alejandro Lucia"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2019-Jun-25",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Protein supplementation might improve body composition and exercise performance. Supplements containing whey protein (WP) have received the most attention, but other protein sources such as beef protein (BP) are gaining popularity. We conducted a systematic review and meta-analysis of randomized controlled trials that compared the effects of exercise training combined with BP, WP or no protein supplementation (NP), on body composition or exercise performance. Secondary endpoints included intervention effects on total protein intake and hematological parameters. Seven studies (n = 270 participants) were included. No differences were found between BP and WP for total protein intake (standardized mean difference (SMD) = 0.04, p = 0.892), lean body mass (LBM) (SMD = -0.01, p = 0.970) or fat mass (SMD = 0.07, p = 0.760). BP significantly increased total daily protein intake (SMD = 0.68, p < 0.001), LBM (SMD = 0.34, p = 0.049) and lower-limb muscle strength (SMD = 0.40, p = 0.014) compared to NP, but no significant differences were found between both conditions for fat mass (SMD = 0.15, p = 0.256), upper-limb muscle strength (SMD = 0.16, p = 0.536) or total iron intake (SMD = 0.29, p = 0.089). In summary, BP provides similar effects to WP on protein intake and body composition and, compared to NP, might be an effective intervention to increase total daily protein intake, LBM and lower-limb muscle strength.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Body Composition",
+        "Dietary Supplements",
+        "Exercise Therapy",
+        "Female",
+        "Humans",
+        "Male",
+        "Meat Proteins",
+        "Middle Aged",
+        "Muscle Strength",
+        "Physical Conditioning, Human",
+        "Physical Fitness",
+        "Randomized Controlled Trials as Topic",
+        "Red Meat",
+        "Time Factors",
+        "Treatment Outcome",
+        "Whey Proteins",
+        "Young Adult"
+      ]
+    }
+  ]
+}

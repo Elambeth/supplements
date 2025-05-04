@@ -1,0 +1,50 @@
+{
+  "supplement": "Silk amino acid (SAA)",
+  "query": "Silk amino acid (SAA)[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:34:31",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "20118552",
+      "title": "Silk amino acids improve physical stamina and male reproductive function of mice.",
+      "authors": [
+        "Sunhee Shin",
+        "Seongho Yeon",
+        "Dongsun Park",
+        "Jiyoung Oh",
+        "Hyomin Kang",
+        "Sunghyun Kim",
+        "Seong Soo Joo",
+        "Woo-Taek Lim",
+        "Jeong-Yong Lee",
+        "Kyung-Chul Choi",
+        "Ki Yon Kim",
+        "Seung Up Kim",
+        "Jong-Choon Kim",
+        "Yun-Bae Kim"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "2010",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of a silk amino acid (SAA) preparation on the physical stamina and male reproductive function of mice were investigated. Eight-week-old male ICR mice (29-31 g) were orally administered SAA (50, 160 or 500 mg/kg) for 44 d during 30-min daily swimming exercise. The mice were subjected to a weight-loaded (5% of body weight) forced swimming on the 14th, 28th and 42nd day to determine maximum swimming time, and after a 2-d recovery period (treated with SAA without swimming exercise), parameters related to fatigue and reproductive function were analyzed from blood, muscles and reproductive organs. Repeated swimming exercise increased the maximum swimming time to some extent, in spite of a marked reduction in body weight gain, and SAA further enhanced the stamina in a dose-dependent manner. Forced swimming exercises increased blood parameters of tissue injury, but depleted blood glucose and tissue glycogen, which were substantially prevented by SAA treatment. In addition, SAA significantly reduced the muscular thiobarbituric acid-reactive substances and blood corticosterone content increased by forced swimming. Swimming exercise decreased the blood testosterone level, which was recovered by SAA, leading to enhanced sperm counts. These combined results indicate that SAA not only enhances physical stamina by minimizing damage to tissues, including muscles, as well as preventing energy depletion caused by swimming stress, but also improves male reproductive function by increasing testosterone and sperm counts.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Fertility",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Physical Endurance",
+        "Sericins",
+        "Silk",
+        "Sperm Motility",
+        "Swimming"
+      ]
+    }
+  ]
+}

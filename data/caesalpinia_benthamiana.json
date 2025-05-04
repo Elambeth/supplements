@@ -1,0 +1,25 @@
+{
+  "supplement": "Caesalpinia benthamiana",
+  "query": "Caesalpinia benthamiana[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:28:53",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "33707973",
+      "title": "Assessment of Reproductive Toxicity of Hydroethanolic Root Extracts of Caesalpinia benthamiana, Sphenocentrum jollyanum, and Paullinia pinnata.",
+      "authors": [
+        "Mavis Baffoe",
+        "George Koffuor",
+        "Agyapong Baffour-Awuah",
+        "Lorraine Sallah"
+      ],
+      "journal": "Journal of experimental pharmacology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Male sexual dysfunction negatively affects an individual's quality of life and thus its of prime public concern, hence the need to boost reproductive abilities in such individuals. This study assessed the effect of hydroethanolic root extracts of Caesalpinia benthamiana (CBRE), Sphenocentrum jollyanum (SJRE), and Paullinia pinnata (PPRE), commonly used as aphrodisiacs in Ghana, using male Sprague-Dawley rats. METHODS: Plasma testosterone, follicle-stimulating hormone, and luteinizing hormone were assayed in grouped rats treated orally with 1 mL/kg normal saline, 50 mg/kg monosodium glutamate (MSG), and 100, 300, or 1000 mg/kg CBRE, SJRE, and PPRE, respectively, for 60 days. Epididymis and testis weights were determined. Semen was assessed on spermatozoa count, motility, and morphology. Malonyladehyde formation in lipid-peroxidation assay and histological examinations were performed to assess pathological changes in testes. Testicular testosterone was also assayed. RESULTS: While MSG, CBRE, SJRE, and PPRE treatments did not result in significant reduction (p>0.05) in plasma testosterone, there was significant reduction (p≤0.05 -0.0001) in plasma luteinizing hormone, and follicle-stimulating hormone. The combined mean wet weights of epididymides and testes of all treated groups did not vary significantly (p>0.05) from the control. There was significant reduction (p≤0.0001) in sperm motility and count, with significant morphological changes (p≤0.05-0.001), ie, bent necks, tails, and midpieces, and multiple anomalies in the spermatozoa in extract and MSG-treated groups. There was also significant (p≤0.0001) reduction in testicular testosterone among all treatment groups. CONCLUSION: Hydroethanolic CBRE, SJRE, and PPRE were found to have detrimental effects on reproductive function with prolonged usage and thus may not be safe to use in healthy males who intend to reproduce."
+    }
+  ]
+}

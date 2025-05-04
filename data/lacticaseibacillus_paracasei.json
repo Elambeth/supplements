@@ -1,0 +1,1975 @@
+{
+  "supplement": "Lacticaseibacillus paracasei",
+  "query": "Lacticaseibacillus paracasei[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:55:08",
+  "research_count": 68,
+  "count": 68,
+  "articles": [
+    {
+      "pmid": "40312034",
+      "title": "Probiotic Lacticaseibacillus paracasei from human gut microbiome against colistin-resistant Klebsiella pneumoniae: in vitro, in vivo and probiogenomic approaches.",
+      "authors": [
+        "Devika J Das",
+        "Vishnu Sunil Jaikumar",
+        "Karthika Suryaletha",
+        "Merin Paul",
+        "Aparna Shankar",
+        "Swapna R Nath",
+        "Sabu Thomas"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2025-Apr-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Antibiotic treatment regimens fail to address Klebsiella pneumoniae exhibiting resistance to multiple drugs, including the last resort antibiotic, colistin. The use of probiotics as candidates for alternative antimicrobial therapy or as a source of new antibiotics is considered as an emerging trend in therapeutics. Rejuvenating the human gut with probiotics offers an intriguing therapeutic approach in various enteric diseases. However, the precise role of probiotics in non-enteric infections, particularly those caused by colistin-resistant Klebsiella pneumoniae remains unresolved, prompting further comprehensive research. Therefore, we propose an innovative prophylactic approach using Lacticaseibacilli of human gut origin against this pathogen. Probiotic characterisation like tolerance to acid, bile and sodium chloride were performed to evaluate its gastric survival. In vitro experiments revealed that non-neutralised cell-free supernatant (CFS) of Lacticaseibacillus has the potential to inhibit pathogenic K. pneumoniae. The observed growth reduction is suggestive of the cumulative effect of organic acids and other antimicrobial substances in CFS. The two Lacticaseibacillus paracasei isolates exhibited promising activity (with suspected proteinaceous heat labile molecules) against K. pneumoniae and those with better adhesion to CaCo-2 cell lines were selected for downstream studies. Scanning electron microscopic analysis of CFS treated pathogen cells revealed cell surface distortions and pore formations. The prophylactic potential of Lacticaseibacillus (live and heat-inactivated forms) in Balb/c mice model showed a reduction in histopathological and microbiological alterations caused by K. pneumoniae, when compared with untreated pathogen control. Whole genome analysis of the potential probiotic isolate revealed the genome is devoid of any antibiotic resistance genes and other virulence markers indicating its safety in vivo. Furthermore, the in vitro pathogen inhibition results were reinforced by antiSMASH and BAGEL analysis, which predicted the presence of putative bacteriocin genes. Hence, this multiapproach research study has revealed a promising prophylactic probiotic from human gut microbiome against multi-drug resistant K. pneumoniae."
+    },
+    {
+      "pmid": "40308595",
+      "title": "Modulation of the gut-bone axis: Lacticaseibacillus paracasei LC86 improves bone health via anti-inflammatory metabolic pathways in zebrafish models of osteoporosis and cartilage damage.",
+      "authors": [
+        "Yao Dong",
+        "Yukun Sun",
+        "Zhipeng Zhou",
+        "Zhonghui Gai",
+        "Yihui Cai",
+        "Mei Han",
+        "Kang Zou"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: Osteoporosis and cartilage injury are major health concerns with limited treatment options. This study investigates the therapeutic effects of Lacticaseibacillus paracasei LC86 (LC86) on osteoporosis and cartilage damage in a zebrafish (Danio rerio) model, focusing on its modulation of the gut-bone axis and its potential mechanisms for enhancing bone health. METHODS: A Dexamethasone-induced zebrafish model was used to mimic osteoporosis and cartilage injury. Zebrafish were divided into control, model, and LC86 treatment groups (3×107 CFU/mL). Bone and cartilage health were assessed using Alizarin red staining and fluorescence microscopy. Bone marker expression (sp7, runx2a, bmp2a, bmp4, and col2a1a) was quantified via qPCR. Metabolic alterations were analyzed using untargeted metabolomics, and changes in gut microbiota were examined through 16S rRNA gene sequencing. RESULTS: LC86 treatment significantly improved bone and cartilage health, as evidenced by increased fluorescence intensity in the skull, hard bone, and cartilage (p < 0.01, p < 0.05). qPCR results showed upregulation of key bone-related genes (sp7, runx2a, bmp2a, bmp4, and col2a1a), indicating enhanced bone and cartilage structure. Metabolomics analysis revealed alterations in over 300 metabolites, with changes in anti-inflammatory and energy pathways. Gut microbiota analysis demonstrated an increase in beneficial bacteria and a decrease in pathogenic genera. CONCLUSIONS: LC86 significantly improved bone health, cartilage structure, and gut microbiota composition in a Dexamethasone-induced zebrafish model, supporting its potential as a therapeutic strategy for osteoporosis and cartilage injury via modulation of the gut-bone axis.",
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Osteoporosis",
+        "Disease Models, Animal",
+        "Gastrointestinal Microbiome",
+        "Bone and Bones",
+        "Cartilage",
+        "Probiotics",
+        "Dexamethasone",
+        "Metabolic Networks and Pathways",
+        "Anti-Inflammatory Agents"
+      ]
+    },
+    {
+      "pmid": "40250564",
+      "title": "Impact of probiotic Lacticaseibacillus paracasei strain Shirota (LcS) on aflatoxin exposure among healthy Malaysian adults: a randomized, double-blind, placebo-controlled intervention study.",
+      "authors": [
+        "Wei Lin Chang",
+        "Takuya Akiyama",
+        "Jia-Sheng Wang",
+        "Heng Yaw Yong",
+        "Faezah Hassan",
+        "Hazizi Abu Saad",
+        "Rosita Jamaluddin",
+        "Mohd Redzwan Sabran"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2025-Apr-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Limited evidence suggests that probiotic Lacticaseibacillus paracasei strain Shirota (LcS) may reduce aflatoxin exposure in Malaysians, though individual factors influencing aflatoxin exposure remain unclear. OBJECTIVES: This study evaluated the effect of LcS on aflatoxin biomarker levels over a 12-week intervention among healthy Malaysian adults. A secondary objective was to explore the individual factors associated with aflatoxin exposure using baseline data. METHODS: A randomized, double-blind, placebo-controlled intervention involved healthy Malaysian adults (aged 20-60) of Chinese, Malay, or Indian ethnicities with elevated urinary aflatoxin M1 (AFM1) and serum aflatoxin B1 (AFB1)-albumin levels. Hundred and seventy-four (n=174) subjects were randomly and equally assigned (n=87/group) to consume either fermented milk with LcS (Probiotic) (3 x 1010 CFU/80 ml/bottle) or milk without LcS (Placebo) twice/day for 12 weeks, with a 4-week follow-up. Baseline data included socio-demographic characteristics, knowledge, attitude, and practice related to aflatoxin contamination, dietary intake, body weight and physical activity status. Urine and fasting blood samples were collected every two and four weeks for AFM1 and AFB1-lysine adduct analyses, respectively. RESULTS: Eighty-five (n=85) and eighty-two (n=82) subjects in the Probiotic and Placebo groups completed the intervention, respectively. After adjusting for covariates, a significant effect was observed at post-intervention in the Probiotic group with a 23% reduction in urinary AFM1 levels compared to the Placebo group (B=-0.26; Exp(B)= 0.77; p=0.04). Serum AFB1-lysine adduct levels remained lower in the Probiotic group throughout the study. Both aflatoxin biomarkers significantly differed by ethnicity (AFM1: p=0.001; AFB1: p=0.01). Subjects with lower aflatoxin knowledge had significantly higher AFB1-lysine levels (mean rank=95.99) than those with higher knowledge (mean rank=73.57) (p=0.04). Urinary AFM1 levels were higher with cereal intake (ρ=0.17, p=0.03) but lower with protein intake (ρ=-0.18, p=0.02). CONCLUSION: Ethnicity, knowledge level, and dietary intake influenced aflatoxin exposure. The benefits of consuming LcS to reduce aflatoxin exposure deserve further attention. TRIAL REGISTRATION: This trial is registered in the National Medical Research Register (NMRR-16-2693-3230) and ClinicalTrials.gov (NCT03882294)."
+    },
+    {
+      "pmid": "40241731",
+      "title": "Evaluating the safety and efficacy of Lacticaseibacillus paracasei TISTR 2593 as a therapeutic probiotic for obesity prevention.",
+      "authors": [
+        "Jaruwan Sitdhipol",
+        "Kanidta Niwasabutra",
+        "Neungnut Chaiyawan",
+        "Kamonsri Nuankham",
+        "Thanaphol Thanagornyothin",
+        "Somboon Tanasupawat",
+        "Wasaporn Preteseille Chanput",
+        "Pongsathon Phapugrangkul",
+        "Chaivarakun Chaipanya",
+        "Sukanya Phuengjayaem",
+        "Saranporn Poothong",
+        "Engkarat Kingkaew"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Several recent studies have reported the potential of probiotics in reducing body weight and fat mass and improving glucose and lipid metabolism. Therefore, probiotic administration is considered an alternative approach for treating obesity. The objective of this study was to evaluate the probiotic properties and antiadipogenic potential of the strain TISTR 2593. Through whole-genome sequence analysis, the strain TISTR 2593 was identified as Lacticaseibacillus paracasei. L. paracasei TISTR 2593 exhibited γ-hemolytic activity (nonhemolysis) and demonstrated susceptibility to antibiotics, indicating that it is generally safe for consumption. Additionally, this strain displayed desirable probiotic properties, including tolerance to artificial gastric juice and bile salts, adhesion to Caco-2 cells, and the ability to inhibit pathogens. Furthermore, L. paracasei TISTR 2593 exhibited cholesterol-reducing capability and demonstrated antiadipogenic activity. In 3T3-L1 adipocytes, treatment with 10% (w/v) heated L. paracasei TISTR 2593 cells resulted in an approximately 50% reduction in lipid accumulation, similar to the positive control (quercetin). Moreover, L. paracasei TISTR 2593 heat-killed cells dose-dependently decreased the expression levels of CCAAT/enhancer-binding protein-α and peroxisome proliferator-activated receptor-γ, two vital transcription factors involved in the early stage of adipocyte differentiation. These findings suggest that L. paracasei TISTR 2593 possesses probiotic and functional properties, including antiadipogenic activity, supporting its potential as a therapeutic probiotic supplement for preventing obesity. Overall, the results of this study indicate that L. paracasei TISTR 2593 exhibits promising probiotic characteristics and beneficial effects on adipogenesis modulation, reinforcing its potential as a therapeutic option in obesity prevention."
+    },
+    {
+      "pmid": "40193036",
+      "title": "Assessing the Efficacy of Ligilactobacillus salivarius CLS0420 and Lacticaseibacillus paracasei CLPC0603 on Vaginal Well-Being in Healthy Women: A Pilot, Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "authors": [
+        "Se-Young Kim",
+        "Donghyeok Seol",
+        "Misun Jung",
+        "Woori Kwak",
+        "Heebal Kim",
+        "Seoae Cho",
+        "Tae-Hyun Kim"
+      ],
+      "journal": "Probiotics and antimicrobial proteins",
+      "publication_date": "2025-Apr-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Despite the growing development of probiotics for preventing bacterial vaginosis (BV), their effectiveness in women without BV has not been thoroughly investigated. This pilot, randomized, double-blind, placebo-controlled study aims to assess the impact of orally administered probiotic strains, exhibiting in vitro antimicrobial activity against Gardnerella vaginalis and Candida albicans, on vaginal well-being in women without preexisting health conditions. Healthy women (n = 30, aged 19-50) were enrolled and randomly assigned using simple randomization to receive either probiotic or placebo capsules. After excluding dropouts, 26 participants (15 in the probiotic group, 11 in the placebo group) completed the study, undergoing a 3-week intervention. Vaginal well-being was assessed before and after the intervention using self-assessed health on a 5-point Likert scale, along with analysis of the vaginal microbiome by targeting the 16S-ITS-23S rRNA operon region with the Nanopore sequencing platform and MIrROR database. Notably, only the probiotic group exhibited a significant improvement in self-assessed overall gut and vaginal health following the intervention (p = 0.009 and p = 0.003, respectively). Nevertheless, no significant changes were observed in the vaginal bacterial community following the intervention and confirming the vaginal colonization of orally ingested probiotic strains through metagenome sequencing proved challenging. In summary, these findings suggest that while oral probiotics may improve perceived vaginal well-being, their role in modulating the vaginal microbiome in healthy women remains inconclusive. Additional research with a larger sample size is necessary to substantiate the endorsement of oral probiotic consumption for preventing BV or maintaining vaginal health in healthy women. This study was retrospectively registered at Clinical Research Information Service (CRIS) (KCT0008957, November 15, 2023)."
+    },
+    {
+      "pmid": "40144570",
+      "title": "Effects of Lacticaseibacillus paracasei K56 on perceived stress among pregraduate students: a double-blind, randomized, placebo-controlled trial.",
+      "authors": [
+        "Yiran Guan",
+        "Ruixin Zhu",
+        "Wen Zhao",
+        "Langrun Wang",
+        "Li You",
+        "Zhaozhong Zeng",
+        "Qiuyue Jiang",
+        "Zeyang Zhu",
+        "Jiayu Gou",
+        "Qi Zhang",
+        "Jie Guo",
+        "Keji Li",
+        "Liang Zhao",
+        "Yixuan Li",
+        "Pengjie Wang",
+        "Bing Fang",
+        "Weilian Hung",
+        "Jian He",
+        "Liwei Zhang",
+        "Ran Wang",
+        "Jingjing He"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Globally, master's and doctoral students, especially pregraduate students, are under great pressure. Probiotics are emerging as a promising intervention to improve mental health via gut-brain axis. OBJECTIVE: The aim of this study was to explore the impact of Lacticaseibacillus paracasei K56 supplementation on perceived stress among pregraduate students. METHODS: We conducted a double-blind, randomized, placebo-controlled trial in 120 healthy master's and doctoral students who faced graduation. Participants were randomly assigned to either probiotics (containing Lacticaseibacillus paracasei K56 6 × 1010 CFU / d) or placebo group for 2 weeks intervention. The main outcome was perceived stress assessed using Cohen's Perceived Stress Scale-10 (PSS-10). The secondary outcomes were stress, depression, and anxiety assessed by Depression, Anxiety and Stress Scales (DASS), gastrointestinal symptoms, and sleep evaluated by corresponding scales. These outcomes were assessed at baseline, 1, and 2 weeks. Pre- and post-treatment serum biomarkers, gut microbiota composition and metabolites were also detected. RESULTS: There was no difference in changes of PSS-10 scores from baseline to 2 weeks between the K56 groups and the placebo [mean (standard error): -1.68 (0.48) vs. -0.39 (0.46), p = 0.055]. Furthermore, the K56 group exhibited superior reductions in both stress [-2.15 (0.38) vs. -0.96 (0.49), p = 0.035] and anxiety symptoms [-1.54 (0.32) vs. 0.53 (0.43), p = 0.003] via DASS compared with the placebo group. Additionally, those receiving K56 also experienced improved sleep quality (p = 0.010) and elevated levels of serotonin (5-HT) (p = 0.038) compare to placebo group. Moreover, taking probiotics K56 could modulate the pressure-induced changes in gut microbiota composition, particularly by increasing the beneficial bacteria (Lacticaseibacillus and Lacticaseibacillus paracasei), while suppressing suspected pathogenic bacteria (Shieglla and Escherichia_coli). Metabolomic analysis revealed an increased in metabolites, especially butyric acid in the K56 group (p = 0.035). Notably, there was a significant negative correlation between relative abundance of lactobacillus and stress-related symptoms, whereas butyric acid showed a significant positive correlation with lactobacillus abundance level. CONCLUSION: This study suggested the potential benefits of K56 supplementation in alleviating stress and significant effect in reducing anxiety and insomnia among master's and doctoral students, which may be attributed to K56-induced changes in microbial composition and butanoate metabolism. CLINICAL TRIAL REGISTRATION: Chictr.org.cn, identifier ChiCTR2300078447."
+    },
+    {
+      "pmid": "40031977",
+      "title": "[Lacticaseibacillus paracasei E6 improves vinorelbine-induced immunosuppression in zebrafish through its metabolites acetic acid and propionic acid].",
+      "authors": [
+        "X U Xinzhu",
+        "Lina Guo",
+        "Kangdi Zheng",
+        "Yan Ma",
+        "Shuxian Lin",
+        "Yingxi He",
+        "Wen Sheng",
+        "Suhua Xu",
+        "Feng Qiu"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2025-Feb-20",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To explore the mechanism of Lacticaseibacillus paracasei E6 for improving vinorelbine-induced immunosuppression in zebrafish. METHODS: The intestinal colonization of L. paracasei E6 labeled by fluorescein isothiocyanate (FITC) in zebrafish was observed under fluorescence microscope. In a zebrafish model of vinorelbine-induced immunosuppression, the immunomodulatory activity of L. paracasei E6 was assessed by analyzing macrophage and neutrophil counts in the caudal hematopoietic tissue (CHT), the number of T-lymphocyte, and the expressions of interleukin-12 (IL-12) and interferon-γ (IFN-γ). The contents of short-chain fatty acids (SCFAs) in L. paracasei E6 fermentation supernatant and the metabolites of L. paracasei E6 in zebrafish were detected by LC-MS/MS-based targeted metabolomics. The immunomodulatory effects of the SCFAs including sodium acetate, sodium propionate and sodium butyrate were evaluated in the zebrafish model of immunosuppression. RESULTS: After inoculation, green fluorescence of FITC-labeled L. paracasei E6 was clearly observed in the intestinal ball, midgut and posterior gut regions of zebrafish. In the immunocompromised zebrafish model, L. paracasei E6 significantly alleviated the reduction of macrophage and neutrophil counts in the CHT, increased the fluorescence intensity of T-lymphocytes, and promoted the expressions of IL-12 and IFN-γ. Compared with MRS medium, L. paracasei E6 fermentation supernatant showed significantly higher levels of acetic acid, propionic acid and butyric acid, which were also detected in immunocompromised zebrafish following treatment with L. paracasei E6. Treatment of the zebrafish model with sodium acetate and sodium propionate significantly increased macrophage and neutrophil counts in the CHT and effectively inhibited vinorelbine-induced reduction of thymus T cells. CONCLUSIONS: L. paracasei E6 can improve vinorelbine-induced immunosuppression in zebrafish through its SCFA metabolites acetic acid and propionic acid.",
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Acetic Acid",
+        "Propionates",
+        "Lacticaseibacillus paracasei",
+        "Fatty Acids, Volatile",
+        "Immunosuppression Therapy",
+        "Interferon-gamma",
+        "Interleukin-12",
+        "Probiotics",
+        "Macrophages"
+      ]
+    },
+    {
+      "pmid": "40024315",
+      "title": "Effect of Daily Consumption of a Fermented Milk Containing Lacticaseibacillus paracasei Strain Shirota (LcS) on Stool Consistency in United States Adults with Hard or Lumpy Stools: A Randomized Controlled Trial.",
+      "authors": [
+        "Chad M Cook",
+        "Takuya Akiyama",
+        "Traci Blonquist",
+        "Eunice Mah",
+        "Linda Derrig",
+        "Hideyuki Shibata"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Lacticaseibacillus paracasei strain Shirota (LcS) has shown benefits for stool consistency in populations with certain bowel complaints (e.g., constipation), but data in a United States population are limited. OBJECTIVES: This study evaluated the effects of LcS on hard or lumpy stools (HLS) in an otherwise healthy population that generally represents the United States adult demographic. METHODS: In this randomized, controlled, open-label study, 50 participants (41 females, 9 males) with HLS in ≥25% of bowel movements (BMs) during a 14-d run-in period were randomly assigned to receive either 80 mL fermented milk containing 8.0 × 109 colony forming units LcS/mL for 28 d (active group) or no intervention (control group) followed by a 14-d postintervention period. Bowel habits were recorded daily using a novel smartphone application. The primary endpoint was the presence of HLS in ≥25% of the participant-rated BMs using the Bristol Stool Form Scale over the 28-d intervention. Secondary endpoints included the presence of reduced frequency of BMs with HLS from baseline, stool frequency, straining, incomplete evacuation, artificial intelligence-derived stool image scores, and Patient Assessment of Constipation Quality of Life (PAC-QOL) scores. RESULTS: The active group showed a significantly lower proportion of participants with HLS in ≥25% of BMs [odds ratio: 0.34; 95% confidence interval (CI): 0.14, 0.80; P = 0.014] along with a higher proportion of participants with a reduced frequency of BMs with HLS from baseline (odds ratio: 2.86; 95% CI: 1.03, 7.92; P = 0.043). The active group also demonstrated positive improvements in total PAC-QOL scores (P = 0.003). CONCLUSIONS: Daily consumption of LcS-containing fermented milk significantly reduced constipation symptoms and improved quality of life in an otherwise generally healthy United States adult population with a history of intermittent BMs producing HLS. The intervention was well tolerated, with no serious adverse events related to the product, suggesting its safety and potential as a dietary strategy for managing constipation. TRIAL REGISTRATION NUMBER: This trial was registered at clinicaltrials.gov as NCT06014008 (https://clinicaltrials.gov/study/NCT06014008).",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Feces",
+        "Adult",
+        "Middle Aged",
+        "Constipation",
+        "United States",
+        "Lacticaseibacillus paracasei",
+        "Cultured Milk Products",
+        "Animals",
+        "Defecation",
+        "Probiotics",
+        "Aged",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "39792908",
+      "title": "The efficacy of Lacticaseibacillus paracasei MSMC39-1 and Bifidobacterium animalis TA-1 probiotics in modulating gut microbiota and reducing the risk of the characteristics of metabolic syndrome: A randomized, double-blinded, placebo-controlled study.",
+      "authors": [
+        "Wongsakorn Luangphiphat",
+        "Pinidphon Prombutara",
+        "Praewpannarai Jamjuree",
+        "Chantanapa Chantarangkul",
+        "Porntipha Vitheejongjaroen",
+        "Chantaluck Muennarong",
+        "Krittapat Fukfon",
+        "Manasvin Onwan",
+        "Malai Taweechotipatr"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Modern treatment, a healthy diet, and physical activity routines lower the risk factors for metabolic syndrome; however, this condition is associated with all-cause and cardiovascular mortality worldwide. This investigation involved a randomized controlled trial, double-blind, parallel study. Fifty-eight participants with risk factors of metabolic syndrome according to the inclusion criteria were randomized into two groups and given probiotics (Lacticaseibacillus paracasei MSMC39-1 and Bifidobacterium animalis TA-1) (n = 31) or a placebo (n = 27). The participants had a mean age of 42.29 ± 7.39 and 43.89 ± 7.54 years in the probiotics and placebo groups, respectively. Stool samples, anthropometric data, and blood chemistries were taken at baseline and at 12 weeks. The primary outcome was achieved by the probiotics group as their low-density lipoprotein-cholesterol level dramatically lowered compared to the placebo group (the difference was 39.97 ± 26.83 mg/dl, p-value <0.001). Moreover, significant reductions in body weight, body mass index, waist circumference, systolic blood pressure, and total cholesterol were observed in the volunteers treated with probiotics compared to the placebo. In the gut microbiome analysis, the results showed statistically significant differences in the beta diversity in the post-intervention probiotics group. Blautia, Roseburia, Collinsella, and Ruminococcus were among the gut microbiomes that were more prevalent in the post-intervention probiotics group. In addition, this group exhibited increases in the predicted functional changes in ATP-binding cassette (ABC) transporters, as well as ribonucleic acid transport, the biosynthesis of unsaturated fatty acids, glycerophospholipid metabolism, and pyruvate metabolism. In conclusion, this research demonstrated that the probiotics L. paracasei MSMC39-1 and B. animalis TA-1 have the efficacy to lower risk factors associated with metabolic syndrome.",
+      "mesh_terms": [
+        "Humans",
+        "Metabolic Syndrome",
+        "Probiotics",
+        "Gastrointestinal Microbiome",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Adult",
+        "Bifidobacterium animalis",
+        "Middle Aged",
+        "Lacticaseibacillus paracasei"
+      ]
+    },
+    {
+      "pmid": "39684929",
+      "title": "The Probiotics Lacticaseibacillus paracasei, Lacticaseibacillus rhamnosus, and Limosilactobacillus fermentum Enhance Spermatozoa Motility Through Mitochondrial Function-Related Factors.",
+      "authors": [
+        "Eun Hye Lee",
+        "Yu Jin Kim",
+        "Il Seon Jung",
+        "Dae Keun Kim",
+        "Jae Ho Lee"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-Dec-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Idiopathic male infertility is characterized by increased mortality or reduced motility and vitality of sperm. There are several reports on probiotics in the male reproductive tract, but the effects of these probiotics on sperm motility remain to be elucidated. In this study, we investigated the impact and mechanism of probiotics on the vitality and motility of mouse sperm. We collected mature sperm from the caudal vas deferens of mice and prepared three probiotics donated by HEM Pharma Inc.: Lacticaseibacillus rhamnosus, Limosilactobacillus fermentum, and Lacticaseibacillus paracasei. We analyzed the vitality and motility of sperm according to the concentration and duration of probiotic treatment. The probiotics increased the motility and vitality of sperm. Specifically, they enhanced sperm motility by 30-40% compared with untreated sperms. The probiotics enhanced mitochondrial activity in sperm through specific factors like AMPK and SIRT1. All three probiotics enhanced the activities of mitochondrial function-related proteins in sperm. In conclusion, we found that the probiotics improved the vitality and motility of mouse sperm and increased mitochondrial function in mature sperm. These findings suggest that probiotics can be utilized to enhance sperm motility and treat male infertility.",
+      "mesh_terms": [
+        "Animals",
+        "Probiotics",
+        "Male",
+        "Sperm Motility",
+        "Mitochondria",
+        "Mice",
+        "Lacticaseibacillus rhamnosus",
+        "Limosilactobacillus fermentum",
+        "Spermatozoa",
+        "Lacticaseibacillus paracasei",
+        "Sirtuin 1"
+      ]
+    },
+    {
+      "pmid": "39589428",
+      "title": "From Biofilm to Breath: The Role of Lacticaseibacillus paracasei ET-22 Postbiotics in Combating Oral Malodor.",
+      "authors": [
+        "Yue Liu",
+        "Bing Fang",
+        "Guna Wuri",
+        "Hanglian Lan",
+        "Ran Wang",
+        "Yuhang Sun",
+        "Wen Zhao",
+        "Wei-Lian Hung",
+        "Ming Zhang"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Dec-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previous studies demonstrated that sufferers with halitosis can be significantly improved with Lacticaseibacillus paracasei ET-22 (ET-22) postbiotics intervention. The objectives of this investigation were to identify the primary components responsible for inhibiting oral malodor. This study demonstrated that cell-free supernatants (CFSs) were more effective in inhibiting production of volatile sulfur compounds (VSCs). Untargeted metabolomics identified CFSs as primarily consisting of organic acids, lipids, peptides, and nucleotides. Among the potential active components, phenyllactic acid (PLA) and peptide GP(Hyp)GAG significantly inhibited microbial-induced VSCs production, with VSC concentrations reduced by 42.7% and 44.6%, respectively. Given the correlation between biofilms and halitosis, microstructural changes in biofilms were examined. PLA suppressed the biomass of the biofilm by 41.7%, while the biofilm thickness was reduced from 202.3 to 70.0 μm. GP(Hyp)GAG intervention reduced the abundance of Fusobacterium nucleatum and Streptococcus mutans within the biofilm, and the expression of biofilm-forming genes FadA and Gtfb were also suppressed by 41.8% and 59.4%. Additionally, the VSC production capacities were reduced due to the decrease in VSC producing bacteria (F. nucleatum, Prevotella intermedia, and Solobacterium moorei) and down-regulation of Cdl and Mgl genes. Collectively, the current study proved that PLA and GP(Hyp)GAG may be the main contributors to halitosis inhibition by ET-22 postbiotics.",
+      "mesh_terms": [
+        "Biofilms",
+        "Halitosis",
+        "Humans",
+        "Lacticaseibacillus paracasei",
+        "Probiotics",
+        "Volatile Organic Compounds",
+        "Streptococcus mutans",
+        "Fusobacterium nucleatum",
+        "Sulfur Compounds"
+      ]
+    },
+    {
+      "pmid": "39569739",
+      "title": "Heat-killed Lacticaseibacillus paracasei 6235 is more effective than live on DSS-induced colitis via modulation of intestinal microbiota and MAPK/NF-κB signaling pathways.",
+      "authors": [
+        "Yucong Wang",
+        "Zhixin Xie",
+        "Lei Du",
+        "Qi Wang",
+        "Lili Zhang",
+        "Yunzhou Wu",
+        "Jianchun Han"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2025-Mar-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study compared the protective effects of both live Lacticaseibacillus paracasei 6235 (LLP 6235) and heat-killed Lacticaseibacillus paracasei 6235 (HK-LP 6235) on ulcerative colitis. Using a dextran sulfate sodium (DSS)-induced colitis mouse model, we evaluated physiological state, colon tissue integrity, inflammatory factors, tight junction (TJ) proteins, and intestinal microbiota variations. The findings demonstrated that both LLP 6235 and HK-LP 6235 have the capacity to mitigate colitis damage, enhance TJ protein levels, and restore colon morphology. In addition, these interventions modulated the intestinal inflammatory response by inhibiting pro-inflammatory factors and upregulating anti-inflammatory factors through the mitogen-activated protein kinase (MAPK) and nuclear factor kappa B (NF-κB) signaling pathways. Moreover, treatment with LLP 6235 and HK-LP 6235 significantly altered intestinal microbiota diversity, increased the relative abundance of beneficial bacteria, and regulated the short-chain fatty acid (SCFA) levels. Spearman correlation analysis revealed a strong association between TJ proteins, SCFAs, intestinal microbiota, and inflammatory response, suggesting that LLP 6235 and HK-LP 6235 may provide an effective approach to colitis prevention. In conclusion, LLP 6235 and HK-LP 6235 have similar abilities; furthermore, HK-LP 6235 modulated the intestinal microbiota through lipid metabolic pathways, resulting in a greater improvement. Moreover, considering the high stability and safety of prebiotics and their wide applicability, HK-LP 6235 is recommended for use as a modulator of intestinal inflammatory diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "Mice",
+        "Dextran Sulfate",
+        "NF-kappa B",
+        "Lacticaseibacillus paracasei",
+        "Colitis",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Probiotics",
+        "Disease Models, Animal",
+        "Signal Transduction",
+        "Hot Temperature",
+        "Colitis, Ulcerative",
+        "MAP Kinase Signaling System",
+        "Colon"
+      ]
+    },
+    {
+      "pmid": "39507971",
+      "title": "[Macrophage-Activated Products of Lacticaseibacillus paracasei N1115 Promote the Development of Primary Hippocampal Neurons].",
+      "authors": [
+        "Zhimo Zhou",
+        "Wen Jia",
+        "Fei Chen",
+        "Meixun Liu",
+        "Kai Wang",
+        "Jianxiu Liu",
+        "Xi Shen",
+        "Fang He",
+        "Ruyue Cheng"
+      ],
+      "journal": "Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition",
+      "publication_date": "2024-Sep-20",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To make a preliminary investigation of the effect of the immune pathway mediated by live Lacticaseibacillus paracasei N1115 on the development of primary hippocampal neurons cultured in vitro. METHODS: Live Lacticaseibacillus paracasei N1115 suspension of an appropriate concentration was used as the experimental group. Peptidoglycan (PGN) and lipopolysaccharide (LPS) were used as positive controls, and RPMI1640 medium served as the blank control. These were co-cultured with RAW264.7 cells to obtain the co-culture mediums and the total cellular RNA, and to measure the expression and secretion of cytokines. After centrifugation, the supernatants were co-cultured with primary hippocampal neurons at appropriate ratios. The co-culture mediums were collected, and the total cellular RNA was extracted to measure the expression of genes related to synaptic development in neurons. Following immunofluorescence staining of the primary hippocampal neurons, the presynaptic and presynaptic membrane-associated proteins, including synaptophysin (SYP) and the postsynaptic density protein 95 (PSD95), and neuronal cell maturation markers, including microtubule-associated protein 2 (MAP-2), and doublecortin (DCX) were quantitatively analyzed. Additionally, the morphological development of the neurons were measured. RESULTS: Compared with the blank control, the mRNA expression levels of interleukin (IL)-6 and tumor necrosis factor- α (TNF-α) increased by 7471% and 926%, respectively, after the RAW264.7 cells were treated with live Lacticaseibacillus paracasei N1115, while their secretion levels increased by 184.16 pg/mL and 12320.76 pg/mL, respectively, all showing statistically significant differences (P<0.05). The activation ability of N1115 live bacteria was stronger than that of PGN but weaker than that of LPS, showing statistically significant differences (P<0.05). Compared with the blank control, following the intervention with the supernatant from the co-culture of N1115 live bacteria and RAW264.7 cells, the viability of primary hippocampal neurons in the 10% supernatant intervention group increased by 19.25%, showing statistically significant differences (P<0.05), and the mRNA expression of SYP and PSD95 increased by 137% and 159%, respectively, showing statistically significant differences (P<0.05). The total neurite length (489.88 μm) of the neurons of the group intervened with the supernatant of N1115 live bacteria was increased compared to that of the blank control group (381.51 μm), and the cell body area (2092.22 μm2), maximum neurite length (184.78 μm), total neurite length, average neurite length (108.38 μm), and branching points (4.84 s) were higher than those in the two positive control groups, showing statistically significant differences (P<0.05). CONCLUSION: Lacticaseibacillus paracasei N1115 can significantly activate the immune regulatory function of macrophages, thereby promoting the morphological development and synaptic function of nerve cells.",
+      "mesh_terms": [
+        "Animals",
+        "Hippocampus",
+        "Neurons",
+        "Mice",
+        "RAW 264.7 Cells",
+        "Tumor Necrosis Factor-alpha",
+        "Lacticaseibacillus paracasei",
+        "Coculture Techniques",
+        "Doublecortin Protein",
+        "Interleukin-6",
+        "Macrophages",
+        "Disks Large Homolog 4 Protein",
+        "Synaptophysin",
+        "Cells, Cultured",
+        "Lipopolysaccharides"
+      ]
+    },
+    {
+      "pmid": "39503979",
+      "title": "Synbiotic Effects of Lacticaseibacillus paracasei K56 and Prebiotics on the Intestinal Microecology of Children with Obesity.",
+      "authors": [
+        "Pengwei Zhang",
+        "Xianhui Dong",
+        "Yijun Zeng",
+        "Junkui Chen",
+        "Sijia Yang",
+        "Peipei Yu",
+        "Chunhong Ye",
+        "Wei-Lian Hung",
+        "Qiuyue Jiang",
+        "Wen Zhao",
+        "Zhaozhong Zeng",
+        "Jinjun Li",
+        "Li Li"
+      ],
+      "journal": "Probiotics and antimicrobial proteins",
+      "publication_date": "2024-Nov-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lacticaseibacillus paracasei K56 (L. paracasei K56) is a probiotic with weight-loss effects. However, symbiosis research on the combined effects of Lacticaseibacillus paracasei K56 and prebiotics is lacking. Therefore, the aim of this study was to investigate the effects of L. paracasei K56, xylooligosaccharide (XOS), galactooligosaccharide (GOS), polyglucose (PG), and their synbiotic combinations (XOS + K56, GOS + K56, and PG + K56) on metabolism and gut composition in children with obesity, using an in vitro fermentation model. Fecal samples were collected from 14 children with obesity for in vitro fermentation, and the effects of the various treatments in gas production and short chain fatty acid synthesis (SCFAs) were assessed. Treatment with probiotics, prebiotics, and synbiotics regulated gut microbiota and metabolites in children with obesity. GOS and XOS had higher degradation rates than PG + K56 synbiotics in the gut microbiota of children with obesity. Moreover, treatment with XOS, GOS, and their synbiotic combinations, (XOS + K56) and (GOS + K56), significantly reduced the production of gas, propionic acid, and butyric acid compared with PG + K56 treatment. Treatments with GOS + K56 and XOS + K56 altered the composition of the gut microbiota, improved the abundance of Bifidobacteria and Lactobacilli, and reduced the abundance of Escherichia/Shigella. Overall, this study provides a theoretical foundation for the use of K56-based synbiotics."
+    },
+    {
+      "pmid": "39429918",
+      "title": "Lacticaseibacillus paracasei NCU-04 relieves constipation and the depressive-like behaviors induced by loperamide in mice through the microbiome-gut-brain axis.",
+      "authors": [
+        "Shengjie Li",
+        "Yi Li",
+        "Yujie Cai",
+        "Zizhou Yan",
+        "Jing Wei",
+        "Hongyan Zhang",
+        "Fenfang Yue",
+        "Tingtao Chen"
+      ],
+      "journal": "Current research in food science",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Constipation is a prevalent gastrointestinal condition that significantly affects patients' physical and mental well-being, yet current treatments often lack safety and efficacy. Emerging evidence highlights the critical role of the microbiota-gut-brain axis (MBGA) in managing constipation, paving the way for probiotics as an adjuvant treatment to improve constipation symptoms. In this study, we isolated a gut probiotic strain, Lacticaseibacillus paracasei NCU-04, and investigated its improvement effects on loperamide-induced constipation in mice. We demonstrated that L. paracasei NCU-04 exhibited excellent probiotic properties, including robust growth, strong antibacterial and antioxidant capacities, and a lack of hemolytic activity in vitro. The administration of L. paracasei NCU-04 effectively improved the defecation-related indicators such as the fecal water content, time to the first black stool defecation, and intestine transit rate, suggesting enhanced gut immobility in constipated mice. Additionally, L. paracasei NCU-04 significantly reduced colon inflammation induced by loperamide. Further, L. paracasei NCU-04 increased levels of colonic motilin, 5-hydroxytryptamine (5-HT), and c-kit, while decreased that of aquaporin 3, vasoactive intestinal peptide, and peptide YY. Notably, L. paracasei NCU-04 effectively upregulated the expression of 5-HT and its receptor (i.e., 5-HT4R) in the brains of constipated mice. High-throughput sequencing revealed that L. paracasei NCU-04 restored the diversity and composition of the gut microbiota disturbed by loperamide, and significantly increased the relative abundance of Prevotella and Lactobacillus genera in the stool, while decreased that of Odoribacter, Rikenella, and Parabacteroides. Importantly, L. paracasei NCU-04 also effectively improved the depression-like behaviors associated with constipation, possibly through 5-HT mediated MGBA. These results suggest that L. paracasei NCU-04 may offer a promising approach for treating constipation and its related depressive symptoms, supporting its potential as a functional food or adjuvant therapy for human health."
+    },
+    {
+      "pmid": "39410163",
+      "title": "Effects of a Sorghum Beverage with Lacticaseibacillus paracasei on Body Composition, Lipid Profiles, and Intestinal Health in Overweight and Obese Adults: A Randomized Single-Blind Pilot Study.",
+      "authors": [
+        "Lucimar Aguiar da Silva",
+        "Vinícius Parzanini Brilhante de São José",
+        "Larissa Arruda Rodrigues",
+        "Pietra Vidal Cardoso do Prado",
+        "Renata Celi Lopes Toledo",
+        "Frederico Augusto Ribeiro de Barros",
+        "Andressa Moreira de Souza",
+        "Rosemar Antoniassi",
+        "Carlos Wanderlei Piler de Carvalho",
+        "Valéria Aparecida Vieira Queiroz",
+        "Karina Maria Olbrich Dos Santos",
+        "Joseph Francis Pierre",
+        "Bárbara Pereira da Silva",
+        "Hércia Stampini Duarte Martino"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2024-Sep-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1) Background: This study aimed to evaluate the effect of an extruded whole-grain sorghum beverage containing L. paracasei on body composition, lipid profiles, and intestinal health in overweight and obese adults. (2) Methods: A chronic, single-blind randomized controlled pilot study was conducted with 30 volunteers allocated to three groups (n = 10/group): extruded sorghum beverage (ESB), extruded sorghum beverage with L. paracasei (ESPB), and control beverage (CB) (waxy maize starch). The chemical composition of the beverages was analyzed. Volunteers consumed the beverages for ten weeks at breakfast, along with individual dietary prescriptions. Body composition, biochemical markers, gastrointestinal symptoms, stool consistency, intestinal permeability, short-chain fatty acids, fecal pH, and stool L. paracasei DNA concentration were analyzed at the beginning and end of the intervention period. (3) Results: The ESB showed better composition than the CB, particularly in terms of resistant starch content, total phenolic compounds, condensed tannins, and antioxidant capacity. Both the ESB and the ESPB had an effect on body composition (estimated total visceral fat and waist volume), biochemical markers (Castelli index I), and intestinal health (Bristol scale, diarrhea score, valeric acid, and L. paracasei DNA concentration). No changes were observed in the CB group after the intervention. (4) Conclusions: Whole-grain sorghum beverages demonstrated good nutritional value, and consumption of these beverages, with or without L. paracasei, provided health benefits, including improvements in body composition, Castelli index I scores, and intestinal health, in overweight and obese adults."
+    },
+    {
+      "pmid": "39408038",
+      "title": "The Effect of Lacticaseibacillus paracasei LPC100 and Lactiplantibacillus plantarum LP140 on Bone Mineral Density in Postmenopausal Women: A Multicenter, Randomized, Placebo-Controlled Study.",
+      "authors": [
+        "Joanna Głogowska-Szeląg",
+        "Ilona Palka-Kisielowska",
+        "Wiesława Porawska",
+        "Joanna B Bierła",
+        "Agnieszka K Szczepankowska",
+        "Tamara Aleksandrzak-Piekarczyk",
+        "Bożena Cukrowska"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2024-Oct-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objectives: modulation of gut microbiota by probiotics has been proposed as a target for intervention to reduce bone mineral density (BMD) loss in the postmenopausal period. This study aims to evaluate the effect of Lacticaseibacillus (L.) paracasei LPC100 and Lactiplantibacillus (L.) plantarum LP140 on BMD in postmenopausal women in a multicenter, randomized, double-blind, placebo-controlled trial. Methods: the primary outcome was the change in T-score of the lumbar spine measured by dual-energy X-ray absorptiometry assessed after twelve-month probiotic supplementation. Secondary outcomes included changes in serological markers of inflammation and calcium-phosphate metabolism, body mass index, gastrointestinal symptoms, and satisfaction with the intervention. Results: a decrease in T-score indicating the progressive bone demineralization reached a statistically significant difference in the placebo group (from mean values of 0.06 ± 1.04 to -0.28 ± 1.12, p = 0.041) but not in the probiotic group (0.19 ± 0.99 and -0.08 ± 1.05, respectively, p = 0.125) with a p-value = 0.089 between the groups. No significant differences were found in secondary outcomes with the exception of vitamin D concentration and a significant reduction in some gastrointestinal symptoms in the probiotic group. A significant decrease in vitamin D level was observed only in the placebo group (p = 0.014). Probiotics were safe and well tolerated. Conclusions: this study suggests that the oral administration of L. paracasei LPC100 and L. plantarum LP140 may be a viable strategy to prevent BMD loss and vitamin D deficiency in postmenopausal women, but further research is necessary to confirm clinical benefits and to know the mechanism of action [ClinicalTrial.gov NCT06375668]."
+    },
+    {
+      "pmid": "39403377",
+      "title": "Prevention and alleviation of allergic rhinitis by oral administration of Lacticaseibacillus paracasei GOLDGUT-Lpc969.",
+      "authors": [
+        "Xiaoli Zhou",
+        "Xizi Song",
+        "Ting Shu",
+        "Silu Zhang",
+        "Zhizhu Zhang",
+        "Canying Hu",
+        "Jie Pan",
+        "Xiaoshuang Dai",
+        "Huaijie Hao",
+        "Guoxun Xiao",
+        "Pengfei Wang",
+        "Kai Liu"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Allergic rhinitis (AR) is a widespread upper airway disorder characterized by inflammation of the nasal passages. It is immunologically mediated via the hypersensitivity type I mechanism, which is primarily elicited by the immunoglobulin E (IgE)-linking allergen-induced imbalance of the Th2/Th1 immune response. Owing to the limited efficacy of current medications, probiotics have received attention for their potential in preventing and ameliorating AR. METHODS: In this study, a Lacticaseibacillus paracasei strain, GOLDGUTLpc969 (Lpc969), isolated from the feces of healthy adults, was proven to be effective in preventing AR by LPA-induced RBL-2H3 in-vitro and OVA-induced AR mice in-vivo evaluation. RESULTS: The strain significantly attenuated the release of histamine and degranulation in LPS-induced RBL-2H3 cells. In the OVA-induced AR mice, L. paracasei GOLDGUT-Lpc969 also exhibited a significant decrease in disease indicators such as the disease activity index (DAI score), serum IgE, and serum histamine. Treatment with L. paracasei GOLDGUT-Lpc969 led to significant suppression of the Th2-related cytokines IL-4, IL-5, IL-6, IL-13, and TNF-α in the serum of mice. DISCUSSION: Furthermore, a comparison of the genomes of three previously reported AR-effective L. paracasei strains (including GOLDGUTLpc969) and one non-effective L. paracasei strain revealed that the gene K03671 may play a key role in alleviating AR symptoms. In conclusion, this study highlights the efficacy of L. paracasei GOLDGUT-Lpc969 in AR prevention by suppressing the Th2 immune response and proposes the potential involvement of the functional gene K03671 in ameliorating AR symptoms. Therefore, L. paracasei GOLDGUT-Lpc969 shows promise as a probiotic for preventing AR.",
+      "mesh_terms": [
+        "Animals",
+        "Rhinitis, Allergic",
+        "Mice",
+        "Probiotics",
+        "Lacticaseibacillus paracasei",
+        "Administration, Oral",
+        "Cytokines",
+        "Immunoglobulin E",
+        "Humans",
+        "Disease Models, Animal",
+        "Female",
+        "Rats",
+        "Mice, Inbred BALB C",
+        "Th2 Cells",
+        "Cell Line",
+        "Male",
+        "Allergens"
+      ]
+    },
+    {
+      "pmid": "39385735",
+      "title": "Lacticaseibacillus paracasei 207-27 alters the microbiota-gut-brain axis to improve wearable device-measured sleep duration in healthy adults: a randomized, double-blind, placebo-controlled trial.",
+      "authors": [
+        "Jinxing Li",
+        "Jincheng Zhao",
+        "Xiaolei Ze",
+        "Liang Li",
+        "Yapeng Li",
+        "Zhimo Zhou",
+        "Simou Wu",
+        "Wen Jia",
+        "Meixun Liu",
+        "Yun Li",
+        "Xi Shen",
+        "Fang He",
+        "Ruyue Cheng"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2024-Oct-28",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Objective: Probiotics have been reported to exert beneficial effects on sleep through the gut-brain axis. Therefore, this randomized, double-blind, placebo-controlled trial assessed the effects of Lacticaseibacillus paracasei 207-27 supplementation on sleep quality and its safety and potential mechanisms. Method and study design: Healthy adults under mild stress aged 18-35 years consumed low or high doses of L. paracasei 207-27 or a placebo for 28 days. Fecal samples, blood samples, and questionnaires were collected at the baseline and the end of the intervention. Sleep quality was measured using wearable devices and Pittsburgh sleep quality index (PSQI) questionnaire. Serum inflammatory markers, corticotropin-releasing hormone, adrenocorticotropic hormone (ACTH), cortisol (COR), γ-aminobutyric acid, and 5-hydroxytryptamine levels were detected using enzyme-linked immunosorbent assay. The gut microbiota was analyzed using 16S rRNA sequencing and bioinformatics. Short-chain fatty acids levels were detected using gas chromatography-mass spectrometry. Results: Both the low-dose and high-dose groups exhibited significant improvements in wearable device- measured sleep duration compared to the placebo group. The global scores of PSQI in three groups significantly decreased after intervention without statistical difference between groups. At the phylum level, the low-dose group exhibited a higher relative abundance of Bacteroidota and a lower Firmicutes-to-Bacteroidetes (F/B) ratio. At the genus level, two treatment groups had higher relative abundance of Bacteroides and Megamonas, alongside lower levels of Escherichia-Shigella. Furthermore, the low-dose group exhibited significant increases in acetic acid, propionic acid, butyric acid, and valeric acid levels, while two treatment groups exhibited a significant decrease in COR levels. Correlation analysis revealed that the increased levels of acetic acid and butyric acid in the low-dose group may be associated with decreased ACTH. Conclusion: L. paracasei 207-27 administration in healthy adults resulted in improvements in gut microbiota community and sleep duration. The mechanisms might involve modulation of the gut microbiota structure to regulate the function of the gut-brain axis, including increases in SCFA levels and decreases in hypothalamic-pituitary-adrenal axis activity. The Chinese clinical trial registry number is ChiCTR2300069453 (https://www.chictr.org.cn/showproj.html?proj=191193, registered 16 May 2023 - retrospectively registered).",
+      "mesh_terms": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Adult",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Probiotics",
+        "Young Adult",
+        "Lacticaseibacillus paracasei",
+        "Wearable Electronic Devices",
+        "Brain-Gut Axis",
+        "Sleep",
+        "Adolescent",
+        "Healthy Volunteers",
+        "Fatty Acids, Volatile",
+        "Sleep Quality",
+        "Sleep Duration"
+      ]
+    },
+    {
+      "pmid": "39259865",
+      "title": "Lacticaseibacillus paracasei Bacteremia Associated With Probiotic Use in a Child With Hypoganglionosis: Case Report and Literature Review.",
+      "authors": [
+        "Kohei Ukai",
+        "Koh Okamoto",
+        "Akinori Ichinose",
+        "Mariko Yoshida",
+        "Yoshimi Higurashi",
+        "Ryu Yoneda",
+        "Shuta Yamamoto",
+        "Takashi Asahara"
+      ],
+      "journal": "The Pediatric infectious disease journal",
+      "publication_date": "2025-Feb-01",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "abstract": "Probiotics are generally considered safe and used to improve intestinal function. Here, we report a Lacticaseibacillus paracasei bacteremia case in an 8-month-old girl administered probiotics containing L. paracasei after jejunostomy for hypoganglionosis. The patient had persistent bacteremia with L. paracasei and was treated with antimicrobial therapy. The isolate from the blood culture was genetically indistinguishable to the strain contained in probiotics. Bacteremia risk should be considered before probiotic use in patients with underlying compromised immune systems or intestinal integrity.",
+      "mesh_terms": [
+        "Humans",
+        "Probiotics",
+        "Infant",
+        "Bacteremia",
+        "Female",
+        "Lacticaseibacillus paracasei",
+        "Gram-Positive Bacterial Infections",
+        "Anti-Bacterial Agents",
+        "Hirschsprung Disease"
+      ]
+    },
+    {
+      "pmid": "39171269",
+      "title": "Development and validation of a PMA-qPCR method for accurate quantification of viable Lacticaseibacillus paracasei in probiotics.",
+      "authors": [
+        "Lizheng Guo",
+        "Xiaolei Ze",
+        "Yingxin Jiao",
+        "Chengyu Song",
+        "Xi Zhao",
+        "Zhiquan Song",
+        "Shuaicheng Mu",
+        "Yiru Liu",
+        "Yuanyuan Ge",
+        "Yu Jing",
+        "Su Yao"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effectiveness of probiotic products hinges on the viability and precise quantification of probiotic strains. This study addresses this crucial requirement by developing and validating a precise propidium monoazide combination with quantitative polymerase chain reaction (PMA-qPCR) method for quantifying viable Lacticaseibacillus paracasei in probiotic formulations. Initially, species-specific primers were meticulously designed based on core genes from the whole-genome sequence (WGS) of L. paracasei, and they underwent rigorous validation against 462 WGSs, 25 target strains, and 37 non-target strains across various taxonomic levels, ensuring extensive inclusivity and exclusivity. Subsequently, optimal PMA treatment conditions were established using 25 different L. paracasei strains to effectively inhibit dead cell DNA amplification while preserving viable cells. The developed method exhibited a robust linear relationship (R 2 = 0.994) between cycle threshold (Cq) values and viable cell numbers ranging from 103 to 108 CFU/mL, with an impressive amplification efficiency of 104.48% and a quantification limit of 7.30 × 103 CFU/mL. Accuracy assessments revealed biases within ±0.5 Log10 units, while Bland-Altman analysis demonstrated a mean bias of 0.058 Log10, with 95% confidence limits of -0.366 to 0.482 Log10. Furthermore, statistical analysis (p = 0.76) indicated no significant differences between theoretical and measured values. This validated PMA-qPCR method serves as a robust and accurate tool for quantifying viable L. paracasei in various sample matrices, including pure cultures, probiotics as food ingredients, and composite probiotic products, thereby enhancing probiotic product quality assurance and contributing to consumer safety and regulatory compliance."
+    },
+    {
+      "pmid": "39018886",
+      "title": "Cell wall polysaccharide enhances Lacticaseibacillus paracasei strain Shirota growth in milk and contributes to acid and bile tolerance.",
+      "authors": [
+        "Kosuke Kato",
+        "Masaki Serata",
+        "Madoka Nakamura",
+        "Minoru Ando",
+        "Tomo Suzuki",
+        "Takekazu Okumura"
+      ],
+      "journal": "International journal of food microbiology",
+      "publication_date": "2024-Sep-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "LCPS-1, a cell wall polysaccharide (CWPS), is bound to the cell wall of the probiotic Lacticaseibacillus paracasei (formerly known as Lactobacillus casei) strain Shirota (LcS). Generally, the role of CWPS in the viability and survivability of bacteria is yet to be fully understood. This study aimed to elucidate the role of LCPS-1 in the viability and survivability of LcS. A mutant strain completely lacking LCPS-1 was constructed and evaluated for growth in bovine and soy milk and susceptibility to acid and bile. The growth of the mutant in bovine and soy milk temporarily stalled after the late logarithmic phase while wild-type LcS continued growing, resulting in a significantly lower number of viable cells for the mutant strain (p < 0.01). Significantly higher cell death relative to that of the wild-type strain was observed for the mutant strain following acid treatment at pH 3.0 (p < 0.01), with 60 and 92 % survival, respectively. The absence of LCPS-1 also reduced the survival rate of LcS cells from 3.3 to 0.8 % following 0.2 % bile treatment. The survival rate of the mutant after consecutive treatment with acid and bile was 19 %, while 73 % of the wild-type LcS survived. These results indicate that LCPS-1 leads to higher LcS growth in milk and improves tolerance to acid and bile. This study reveals the contribution of probiotic bacterial CWPS to acidic and gastrointestinal stress tolerance. Based on these findings, characterizing and modifying CWPS in probiotic strains could enhance manufacturing yields and improve gastrointestinal stress tolerance after consumption by hosts, ultimately advancing the development of more effective probiotics.",
+      "mesh_terms": [
+        "Animals",
+        "Milk",
+        "Cattle",
+        "Cell Wall",
+        "Lacticaseibacillus paracasei",
+        "Probiotics",
+        "Bile Acids and Salts",
+        "Polysaccharides",
+        "Hydrogen-Ion Concentration",
+        "Bile",
+        "Microbial Viability",
+        "Soy Milk",
+        "Acids"
+      ]
+    },
+    {
+      "pmid": "38938030",
+      "title": "Inclusion of Lacticaseibacillus paracasei NSMJ15 in broiler diets induces changes in jejunal immune cell population and cecal microbiota.",
+      "authors": [
+        "June Hyeok Yoon",
+        "Sang Seok Joo",
+        "Su Hyun An",
+        "Byeong Cheol Ban",
+        "Moongyeong Jung",
+        "Woonhak Ji",
+        "Ji Young Jung",
+        "Myunghoo Kim",
+        "Changsu Kong"
+      ],
+      "journal": "Animal bioscience",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The objective was to investigate growth performance, antioxidant enzyme activity, intestinal morphology, immune cell distribution, short chain fatty acid (SCFA) profile, and microbiota in broiler chickens fed a diet containing Lacticaseibacillus paracasei NSMJ15. METHODS: A total of 120 1-day-old Ross 308 male broilers were allocated to 2 dietary treatments in a randomized complete block design. A control group was fed a corn-soybean meal control diet, and an NSMJ15-supplemented group was fed a control diet supplemented with 1 g/kg L. paracasei NSMJ15 at the expense of cornstarch. Each dietary treatment had 6 replicates with 10 birds per cage. Growth performance was recorded on day 9. On day 10, one bird representing median body weight was selected to collect serum for antioxidant enzyme activity, jejunal tissue for immune cell isolation and morphometric analysis, and cecal digesta for 16S rRNA gene sequencing and SCFA analysis. RESULTS: Supplementation of L. paracasei NSMJ15 did not affect growth performance, serum antioxidant enzyme activity, and jejunal histomorphology compared to the control group. In the NSMJ15-supplemented group, the population of CD3+CD4+CD8- T cells increased (p = 0.010), while the population of CD3+CD8+TCRγδ+ T cells decreased (p = 0.022) compared to the control group. The L. paracasei NSMJ15 supplementation decreased (p = 0.022) acetate concentration in the cecal digesta compared to the control group. The 16S rRNA gene sequencing analysis showed that NSMJ15-supplemented group differentially expressed (p<0.05) 10 more amplicon sequence variants compared to control group without affecting alpha and beta diversity indices of the cecal microbiota. Genera Mediterraneibacter and Negativibacillus were positively (p<0.05) correlated with CD4+ T cells, while genera Gemmiger, Coprococcus, Sellimonas, Massilimicrobiota, and Blautia were negatively (p<0.05) correlated with SCFA concentration. CONCLUSION: The results of the present study suggest dietary L. paracasei NSMJ15 supplementation may increase percentage of CD4+ T cells and decrease acetate concentration in broiler chickens by increasing the differential expression of specific microbial genera."
+    },
+    {
+      "pmid": "38744435",
+      "title": "Post-milking application of a Lacticaseibacillus paracasei strain impacts bovine teat microbiota while preserving the mammary gland physiology and immunity.",
+      "authors": [
+        "C Goetz",
+        "L Rault",
+        "J Cuffel",
+        "P Poton",
+        "L Finot",
+        "G Boullet",
+        "M Boutinaud",
+        "S Even"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2024-May-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Bovine mastitis (BM) is a major disease in dairy industry. The current approaches - mainly antibiotic treatments - are not entirely effective and may contribute to antimicrobial resistance dissemination, rising the need for alternative treatment. The present study aims to evaluate the impact of post-milking application of Lacticaseibacillus paracasei CIRM BIA 1542 (Lp1542) on the teat skin (TS) of 20 Holstein cows in mid lactation, in order to reinforce the barrier effect of the microbiota naturally present on the teat. Treatment (Lp1542, iodine or no treatment) was applied post-milking twice a day on the 4 teats of healthy animals for 15 days. Blood and milk samples, and TS swabs were collected at day (D)1, D8, D15 and D26 before morning milking and at D15 before evening milking (D15E) to evaluate Lp1542 impact at the microbial, immune and physiological levels. Lp1542 treatment resulted in a higher lactic acid bacteria and total microbial populations on TS and in foremilk (FM) at D15(E) compared with iodine treatment. Metabarcoding analysis revealed changes in the composition of TS and FM microbiota, beyond a higher Lacticaseibacillus abundance. This included a higher abundance of Actinobacteriota, including Bifidobacterium, and a lower abundance of Pseudomonadota on TS of Lp1542 compared with iodine-treated quarters. In addition, Lp1542 treatment did not trigger any major inflammatory response in the mammary gland, except interleukin 8 production and expression which tended to be slightly higher in Lp1542-treated cows compared with the others. Finally, Lp1542 treatment had no impact on the mammary epithelium functionality (milk yield and composition) and integrity (epithelial cell exfoliation into milk and milk Na+/K+ ratio). Altogether, these results indicate that a topical treatment with Lp1542 is safe with regard to mammary gland physiology and immune system, while impacting its microbiota, inviting us to further explore its effectiveness for mastitis prevention.",
+      "mesh_terms": [
+        "Female",
+        "Animals",
+        "Cattle",
+        "Lactobacillus",
+        "Mastitis, Bovine",
+        "Skin",
+        "Milk",
+        "Dairying",
+        "Mammary Glands, Animal",
+        "Animal Welfare"
+      ]
+    },
+    {
+      "pmid": "38731742",
+      "title": "Lacticaseibacillus paracasei JS-3 Isolated from \"Jiangshui\" Ameliorates Hyperuricemia by Regulating Gut Microbiota and iTS Metabolism.",
+      "authors": [
+        "Jiahui Wu",
+        "Lvbu Aga",
+        "Leimengyuan Tang",
+        "Houxier Li",
+        "Nan Wang",
+        "Li Yang",
+        "Nan Zhang",
+        "Xiang Wang",
+        "Xueyong Wang"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2024-Apr-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: A diet high in purines can impair the function of the gut microbiota and disrupt purine metabolism, which is closely associated with the onset of hyperuricemia. Dietary regulation and intestinal health maintenance are key approaches for controlling uric acid (UA) levels. Investigating the impacts of fermented foods offers potential dietary interventions for managing hyperuricemia. Methods: In this study, we isolated a strain with potent UA-degrading capabilities from \"Jiangshui\", a fermented food product from Gansu, China. We performed strain identification and assessed its probiotic potential. Hyperuricemic quails, induced by a high-purine diet, were used to assess the UA degradation capability of strain JS-3 by measuring UA levels in serum and feces. Additionally, the UA degradation pathways were elucidated through analyses of the gut microbiome and fecal metabolomics. Results: JS-3, identified as Lacticaseibacillus paracasei, was capable of eliminating 16.11% of uric acid (UA) within 72 h, rapidly proliferating and producing acid within 12 h, and surviving in the gastrointestinal tract. Using hyperuricemic quail models, we assessed JS-3's UA degradation capacity. Two weeks after the administration of JS-3 (2 × 108 cfu/d per quail), serum uric acid (SUA) levels significantly decreased to normal levels, and renal damage in quails was markedly improved. Concurrently, feces from the JS-3 group demonstrated a significant degradation of UA, achieving up to 49% within 24 h. 16S rRNA sequencing revealed JS-3's role in gut microbiota restoration by augmenting the probiotic community (Bifidobacterium, Bacteroides unclassified_f-Lachnospiraceae, and norank_fynorank_o-Clostridia_UCG-014) and diminishing the pathogenic bacteria (Macrococus and Lactococcus). Corresponding with the rise in short-chain fatty acid (SCFA)-producing bacteria, JS-3 significantly increased SCFA levels (p < 0.05, 0.01). Additionally, JS-3 ameliorated metabolic disturbances in hyperuricemic quails, influencing 26 abnormal metabolites predominantly linked to purine, tryptophan, and bile acid metabolism, thereby enhancing UA degradation and renal protection. Conclusions: For the first time, we isolated and identified an active probiotic strain, JS-3, from the \"Jiangshui\" in Gansu, used for the treatment of hyperuricemia. It modulates host-microbiome interactions, impacts the metabolome, enhances intestinal UA degradation, reduces levels of SUA and fecal UA, alleviates renal damage, and effectively treats hyperuricemia without causing gastrointestinal damage. In summary, JS-3 can serve as a probiotic with potential therapeutic value for the treatment of hyperuricemia."
+    },
+    {
+      "pmid": "38591132",
+      "title": "Milk and Lacticaseibacillus paracasei BL23 effects on intestinal responses in a murine model of colitis.",
+      "authors": [
+        "Glory Bui",
+        "Cristina Torres-Fuentes",
+        "Matteo M Pusceddu",
+        "Mélanie G Gareau",
+        "Maria L Marco"
+      ],
+      "journal": "American journal of physiology. Gastrointestinal and liver physiology",
+      "publication_date": "2024-Jun-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Probiotic-containing fermented dairy foods have the potential to benefit human health, but the importance of the dairy matrix for efficacy remains unclear. We investigated the capacity of Lacticaseibacillus paracasei BL23 in phosphate-buffered saline (BL23-PBS), BL23-fermented milk (BL23-milk), and milk to modify intestinal and behavioral responses in a dextran sodium sulfate (DSS, 3% wt/vol) mouse model of colitis. Significant sex-dependent differences were found such that female mice exhibited more severe colitis, greater weight loss, and higher mortality rates. Sex differences were also found for ion transport ex vivo, colonic cytokine and tight junction gene expression, and fecal microbiota composition. Measurements of milk and BL23 effects showed BL23-PBS consumption improved weight recovery in females, whereas milk resulted in better body weight recovery in males. Occludin and Claudin-2 gene transcript levels indicated barrier function was impaired in males, but BL23-milk was still found to improve colonic ion transport in those mice. Proinflammatory and anti-inflammatory gene expression levels were increased in both male and female mice fed BL23, and to a more variable extent, milk, compared with controls. The female mouse fecal microbiota contained high proportions of Akkermansia (average of 18.1%) at baseline, and females exhibited more changes in gut microbiota composition following BL23 and milk intake. Male fecal microbiota harbored significantly more Parasutterella and less Blautia and Roseburia after DSS treatment, independent of BL23 or milk consumption. These findings show the complex interplay between dietary components and sex-dependent responses in mitigating inflammation in the digestive tract.NEW & NOTEWORTHY Sex-dependent responses to probiotic Lacticaseibacillus paracasei and milk and the potential of the dairy matrix to enhance probiotic protection against colitis in this context have not been previously explored. Female mice were more sensitive than males to colonic injury, and neither treatment effectively alleviated inflammation in both sexes. These sex-dependent responses may result from differences in the higher baseline proportions of Akkermansia in the gut microbiome of female mice.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Probiotics",
+        "Male",
+        "Colitis",
+        "Mice",
+        "Milk",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Gastrointestinal Microbiome",
+        "Mice, Inbred C57BL",
+        "Colon",
+        "Sex Factors",
+        "Intestinal Mucosa"
+      ]
+    },
+    {
+      "pmid": "38514909",
+      "title": "Postbiotics of Lacticaseibacillus paracasei CECT 9610 and Lactiplantibacillus plantarum CECT 9608 attenuates store-operated calcium entry and FAK phosphorylation in colorectal cancer cells.",
+      "authors": [
+        "Alvaro Macias-Diaz",
+        "Jose J Lopez",
+        "Maria Bravo",
+        "Isaac Jardín",
+        "Waldo Luis Garcia-Jimenez",
+        "Francisco J Blanco-Blanco",
+        "Rosario Cerrato",
+        "Juan A Rosado"
+      ],
+      "journal": "Molecular oncology",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Store-operated Ca2+ entry (SOCE) is a major mechanism for Ca2+ influx in colorectal cancer (CRC) cells. This mechanism, regulated by the filling state of the intracellular Ca2+ stores, is mediated by the endoplasmic reticulum Ca2+ sensors of the stromal interaction molecules (STIM) family [stromal interaction molecule 1 (STIM1) and STIM2] and the Ca2+-release-activated Ca2+ channels constituted by Orai family members, with predominance of calcium release-activated calcium channel protein 1 (Orai1). CRC cells exhibit enhanced SOCE due to remodeling of the expression of the key SOCE molecular components. The enhanced SOCE supports a variety of cancer hallmarks. Here, we show that treatment of the colorectal adenocarcinoma cell lines HT-29 and Caco-2 with inanimate Lacticaseibacillus paracasei (CECT9610) and Lactiplantibacillus plantarum (CECT9608) attenuates SOCE, although no detectable effect is seen on SOCE in normal colon mucosa cells. The effect of Lacticaseibacillus paracasei and Lactiplantibacillus plantarum postbiotics was mediated by downregulation of Orai1 and STIM1, while the expression levels of Orai3 and STIM2 remained unaltered. Treatment of HT-29 and Caco-2 cells with inanimate Lacticaseibacillus paracasei and Lactiplantibacillus plantarum impairs in vitro migration by a mechanism likely involving attenuation of focal adhesion kinase (FAK) tyrosine phosphorylation. Cell treatment with the Orai1 inhibitor synta-66 attenuates SOCE and prevents any further effect of Lacticaseibacillus paracasei and Lactiplantibacillus plantarum postbiotics. Together, our results indicate for the first time that Lacticaseibacillus paracasei and Lactiplantibacillus plantarum postbiotics selectively exert negative effects on Ca2+ influx through SOCE in colorectal adenocarcinoma cell lines, providing evidence for an attractive strategy against CRC.",
+      "mesh_terms": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Calcium",
+        "Phosphorylation",
+        "HT29 Cells",
+        "Caco-2 Cells",
+        "Focal Adhesion Kinase 1",
+        "Probiotics",
+        "Stromal Interaction Molecule 1"
+      ]
+    },
+    {
+      "pmid": "38376820",
+      "title": "Lacticaseibacillus paracasei CCFM1222 Ameliorated the Intestinal Barrier and Regulated Gut Microbiota in Mice with Dextran Sulfate Sodium-Induced Colitis.",
+      "authors": [
+        "Weiling Guo",
+        "Xin Tang",
+        "Qiuxiang Zhang",
+        "Feifei Xiong",
+        "Yongqiu Yan",
+        "Jianxin Zhao",
+        "Bingyong Mao",
+        "Hao Zhang",
+        "Shumao Cui"
+      ],
+      "journal": "Probiotics and antimicrobial proteins",
+      "publication_date": "2024-Feb-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lacticaseibacillus paracasei has been regarded as a probiotic bacterium because of its role in anti-inflammatory properties and maintenance of intestinal barrier permeability. Here, we explored the anticolitic effects and mechanism of L. paracasei CCFM1222. The results showed that L. paracasei CCFM1222 supplementation could suppress the disease activity index (DAI) and colon length shortening in colitis mice, accompanied by a moderate increase in colonic tight junction proteins (ZO-1, occludin and claudin-1). L. paracasei CCFM1222 intervention significantly suppressed the levels of inflammatory cytokines (TNF-α, IL-1β, and IL-6) and significantly elevated the activities of antioxidant enzymes (including SOD, GSH-Px, and CAT) in the colon by regulating the TLR4/MyD88/NF-κB and Nrf2 signaling pathways in colitis mice. In addition, L. paracasei CCFM1222 significantly shifted the gut microbiota, including elevating the abundance of Catabacter, Ruminiclostridium 9, Alistipes, and Faecalibaculum, as well as reducing the abundance of Mucispirillum, Escherichia-Shigella, and Salmonella, which was associated with the improvement of colonic barrier damage. Overall, these results suggest that L. paracasei CCFM1222 is a good candidate for probiotic of improving colonic barrier damage and associated diseases."
+    },
+    {
+      "pmid": "38319685",
+      "title": "Effect of Lacticaseibacillus paracasei K56 with galactooligosaccharide synbiotics on obese individuals: an in vitro fermentation model.",
+      "authors": [
+        "Qi Zhang",
+        "Wen Zhao",
+        "Jingjing He",
+        "Jian He",
+        "Shaoqi Shi",
+        "Meiwen Sun",
+        "Xiaokang Niu",
+        "Zhaozhong Zeng",
+        "Yuyang Zhao",
+        "Yongxiang Zhang",
+        "Pengjie Wang",
+        "Yixuan Li",
+        "Chao Zhang",
+        "Sufang Duan",
+        "Wei-Lian Hung",
+        "Ran Wang"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The use of synbiotics is emerging as a promising intervention strategy for regulating the gut microbiota and for preventing or reducing obesity, in comparison with the use of probiotics or prebiotics alone. A previous in vivo study revealed that Lacticaseibacillus paracasei K56 (L. paracasei K56) could alleviate obesity induced in high-fat-diet mice; however, the effect of the synbiotic combination of L. paracasei K56 and prebiotics in obese individuals has not been explored fully. RESULTS: The effect of prebiotics on the proliferation of L. paracasei K56 was determined by spectrophotometry. The results showed that polydextrose (PG), xylooligosaccharide (XOS), and galactooligosaccharide (GOS) had a greater potential to be used as substrates for L. paracasei K56 than three other prebiotics (melitose, stachyose, and mannan-oligosaccharide). An in vitro fermentation model based on the feces of ten obese female volunteers was then established. The results revealed that K56_GOS showed a significant increase in GOS degradation rate and short-chain fatty acid (SCFA) content, and a decrease in gas levels, compared with PG, XOS, GOS, K56_PG, and K56_XOS. Changes in these microbial biomarkers, including a significant increase in Bacteroidota, Bifidobacterium, Lactobacillus, Faecalibacterium, and Blautia and a decrease in the Firmicutes/Bacteroidota ratio and Escherichia-Shigella in the K56_GOS group, were associated with increased SCFA content and decreased gas levels. CONCLUSION: This study demonstrates the effect of the synbiotic combination of L. paracasei K56 and GOS on obese individuals and indicates its potential therapeutic role in obesity treatment. © 2024 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Humans",
+        "Obesity",
+        "Synbiotics",
+        "Oligosaccharides",
+        "Female",
+        "Fermentation",
+        "Adult",
+        "Gastrointestinal Microbiome",
+        "Lacticaseibacillus paracasei",
+        "Feces",
+        "Prebiotics",
+        "Probiotics",
+        "Young Adult",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "38270125",
+      "title": "Extracellular vesicles from Lacticaseibacillus paracasei PC-H1 inhibit HIF-1α-mediated glycolysis of colon cancer.",
+      "authors": [
+        "Yangqian Shi",
+        "Chunliang Zhang",
+        "Wanyu Cao",
+        "Luyi Li",
+        "Kaili Liu",
+        "Hanyue Zhu",
+        "Fikadu Balcha",
+        "Yong Fang"
+      ],
+      "journal": "Future microbiology",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Aims: Extracellular vesicles from Lacticaseibacillus paracasei PC-H1 have antiproliferative activity of colon cells, but the effect on glycolytic metabolism of cancer cell remains enigmatic. The authors investigated how Lacticaseibacillus paracasei extracellular vesicles (LpEVs) inhibit the growth of colon cancer cells by affecting tumor metabolism. Materials & methods: HCT116 cells were treated with LpEVs and then differentially expressed genes were analyzed by transcriptome sequencing, the sequencing results were confirmed in vivo and in vitro. Results: LpEVs entered colon cancer cells and inhibited their growth. Transcriptome sequencing revealed differentially expressed genes were related to glycolysis. Lactate production, glucose uptake and lactate dehydrogenase activity were significantly reduced after treatment. LpEVs also reduced HIF-1α, GLUT1 and LDHA expression. Conclusion: LpEVs exert their antiproliferative activity of colon cancer cells by decreasing HIF-1α-mediated glycolysis.",
+      "mesh_terms": [
+        "Humans",
+        "Lacticaseibacillus paracasei",
+        "Glycolysis",
+        "Colonic Neoplasms",
+        "Lactic Acid",
+        "Extracellular Vesicles",
+        "Cell Line, Tumor"
+      ]
+    },
+    {
+      "pmid": "38184108",
+      "title": "Catheter-related bloodstream infection caused by Lacticaseibacillus paracasei: A case report and literature review.",
+      "authors": [
+        "Yuto Fukuda",
+        "Hiroshi Morioka",
+        "Shuta Yamamoto",
+        "Mitsutaka Iguchi",
+        "Shinichi Umeda",
+        "Takashi Asahara",
+        "Kohei Kanda",
+        "Keisuke Oka",
+        "Goro Nakayama",
+        "Tetsuya Yagi"
+      ],
+      "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Catheter-related bloodstream infections (CRBSIs) caused by Lactobacillus spp. and Lacticaseibacillus spp. are rare, and their clinical course and optimal treatment remain uncertain. In this report, we present a 46-year-old male patient who experienced clinically diagnosed Lacticaseibacillus paracasei CRBSI on four separate occasions, despite receiving systemic administration of antibiotics and antimicrobial lock therapy. The patient did not develop L. paracasei bacteremia after catheter removal. This case report furthers our knowledge of CRBSI caused by Lactobacillus and related genera and highlights the need for further research.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Catheter-Related Infections",
+        "Bacteremia",
+        "Anti-Bacterial Agents",
+        "Lacticaseibacillus paracasei"
+      ]
+    },
+    {
+      "pmid": "38140378",
+      "title": "Effects of Lacticaseibacillus paracasei Strain Shirota on Daytime Performance in Healthy Office Workers: A Double-Blind, Randomized, Crossover, Placebo-Controlled Trial.",
+      "authors": [
+        "Hiroko Kikuchi-Hayakawa",
+        "Hiroshi Ishikawa",
+        "Kazunori Suda",
+        "Yusuke Gondo",
+        "Genki Hirasawa",
+        "Hayato Nakamura",
+        "Mai Takada",
+        "Mitsuhisa Kawai",
+        "Kazunori Matsuda"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Dec-15",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "Lacticaseibacillus paracasei strain Shirota (LcS) modulates psychological homeostasis via the gut-brain axis. To explore the possible efficacy of LcS for improving daytime performance, we conducted a double-blind, randomized, crossover, placebo-controlled study of 12 healthy office workers with sleep complaints. The participants received fermented milk containing viable LcS (daily intake of 1 × 1011 colony-forming units) and non-fermented placebo milk, each for a 4-week period. In the last week of each period, the participants underwent assessments of their subjective mood and measurements of physiological state indicators via an electroencephalogram (EEG) and heart rate variability in the morning and afternoon. The attention score in the afternoon as assessed by the visual analog scale was higher in the LcS intake period than in the placebo intake period (p = 0.041). Theta power on EEG measured at rest or during an auditory oddball task in the afternoon was significantly lower in the LcS period than in the placebo period (p = 0.025 and 0.009, respectively). The change rate of theta power was associated with the change in attention score. Treatment-associated changes were also observed in heart rate and the sympathetic nerve activity index. These results indicate that LcS has possible efficacy for improving daytime performance, supported by observations of the related physiological state indicators.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Double-Blind Method",
+        "Electroencephalography",
+        "Lacticaseibacillus casei",
+        "Lacticaseibacillus paracasei",
+        "Milk",
+        "Probiotics",
+        "Cross-Over Studies"
+      ]
+    },
+    {
+      "pmid": "38136901",
+      "title": "Effects of Dietary Limosilactobacillus fermentum and Lacticaseibacillus paracasei Supplementation on the Intestinal Stem Cell Proliferation, Immunity, and Ileal Microbiota of Broiler Chickens Challenged by Coccidia and Clostridium perfringens.",
+      "authors": [
+        "Shuangshuang Guo",
+        "Wenfei Tong",
+        "Ya Qi",
+        "Meihan Jiang",
+        "Peng Li",
+        "Zhengfan Zhang",
+        "Qunbing Hu",
+        "Zhuan Song",
+        "Binying Ding"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2023-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study was conducted to investigate effects of dietary Limosilactobacillus fermentum and Lacticaseibacillus paracasei supplementation on the intestinal stem cell proliferation, immunity, and ileal microbiota of broiler chickens challenged by coccidia and Clostridium perfringens. A total of 336 one-day-old Ross 308 chickens were randomly assigned into four groups. Chickens in the control (CTR) group were fed basal diet, and chickens in the three challenged groups were fed basal diets supplemented with nothing (CCP group), 1.0 × 109 CFU/kg L. fermentum (LF_CCP group), and 1.0 × 109 CFU/kg L. paracasei (LP_CCP group), respectively. All challenged birds were infected with coccildia on day 9 and Clostridium perfringens during days 13-18. The serum and intestinal samples were collected on days 13 and 19. The results showed that L. fermentum significantly increased jejunal gene expression of cdxB (one of the intestinal stem cell marker genes) on day 13. Additionally, L. fermentum significantly up-regulated mRNA levels of JAK3 and TYK2 and tended to increase STAT6 mRNA expression in jejunum on day 19. In the cecal tonsil, both L. fermentum and L. paracasei decreased mRNA expression of JAK2 on day 13, and L. fermentum down-regulated JAK1-2, STAT1, and STAT5-6 gene expressions on day 19. Ileal microbiological analysis showed that coccidial infection increased the Escherichia-Shigella, Lactobacillus, and Romboutsia abundance and decreased Candidatus_Arthromitus richness on day 13, which were reversed by Lactobacillus intervention. Moreover, Lactobacilli increased ileal Lactobacillus richness on day 19. In conclusion, Lactobacilli alleviated the impairment of intestinal stem cell proliferation and immunity in coccidia- and C. perfringens-challenged birds via modulating JAK/STAT signaling and reshaping intestinal microflora."
+    },
+    {
+      "pmid": "38129062",
+      "title": "Effects of Lacticaseibacillus paracasei SNB-derived postbiotic components on intestinal barrier dysfunction and composition of gut microbiota.",
+      "authors": [
+        "Luyao Xiao",
+        "Changliang Zhang",
+        "Xueliang Zhang",
+        "Xiaogan Zhao",
+        "Ghahvechi Chaeipeima Mahsa",
+        "Kai Ma",
+        "Feng Ji",
+        "Elham Azarpazhooh",
+        "Marjan Ajami",
+        "Xin Rui",
+        "Wei Li"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The bacterial surface components are considered as effector molecules and show the potential to support intestinal health, but the detailed mechanism of how the gut microbiota changes after the intervention of surface molecules is still unknown. In the present study, capsular polysaccharide (B-CPS) and surface layer protein (B-SLP) were extracted from Lacticaseibacillus paracasei S-NB. The protective effect of direct administration of B-CPS (100 μg/mL) and B-SLP (100 μg/mL) on intestinal epithelial barrier dysfunction was verified based on the LPS-induced Caco-2 cell model. Additionally, the B-CPS and B-SLP could be utilized as carbon source and nitrogen source for the growth of several Lactobacillus strains, respectively. The postbiotic potential of B-CPS and B-SLP was further evaluated by in vitro fermentation with fecal cultures. The B-CPS and a combination of B-CPS and B-SLP regulated the composition of gut microbiota by increasing the relative abundances of Bacteroides, Bifidobacterium, Phascolarctobacterium, Parabacteroides, Subdoligranulum and Collinsella and decreasing the abundance of pathogenic bacteria like Escherichia-Shigella, Blautia, Citrobacter and Fusobacterium. Meanwhile, the total short-chain fatty acid production markedly increased after fermentation with either B-CPS individually or in combination with B-SLP. These results provided an important basis for the application of B-CPS and B-SLP as postbiotics to improve human intestinal health.",
+      "mesh_terms": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Lacticaseibacillus paracasei",
+        "Caco-2 Cells",
+        "Bacteria",
+        "Polysaccharides"
+      ]
+    },
+    {
+      "pmid": "38099933",
+      "title": "Combination of Lacticaseibacillus paracasei BEPC22 and Lactiplantibacillus plantarum BELP53 attenuates fat accumulation and alters the metabolome and gut microbiota in mice with high-fat diet-induced obesity.",
+      "authors": [
+        "Na-Rae Lee",
+        "Tae-Jun Kwon",
+        "Eui-Chun Chung",
+        "Jaewoong Bae",
+        "Song-Hui Soung",
+        "Hyun-Ji Tak",
+        "Jun-Young Choi",
+        "Young-Eun Lee",
+        "Nak Won Hwang",
+        "Jong Seo Lee",
+        "Kum-Joo Shin",
+        "Choong Hwan Lee",
+        "KilSoo Kim",
+        "Seokjin Kim"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2024-Jan-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study evaluated the effects of formulations with Lacticaseibacillus paracasei BEPC22 and Lactiplantibacillus plantarum BELP53 on adiposity, the alteration of microbiota, and the metabolome in high-fat diet-fed mice. The strains were selected based on their fat and glucose absorption inhibitory activities and potential metabolic interactions. The optimal ratio of the two strains in the probiotic formulation was determined based on their adipocyte differentiation inhibitory activities. Treatment of formulations with BEPC22 and BELP53 for 10 weeks decreased body weight gain at 6 weeks; it also decreased the food efficiency ratio, white adipose tissue volume, and adipocyte size. Moreover, it decreased the expression of the lipogenic gene Ppar-γ in the liver, while significantly increasing the expression of the fat oxidation gene Ppar-α in the white adipose tissue. Notably, treatment with a combination of the two strains significantly reduced the plasma levels of the obesity hormone leptin and altered the microbiota and metabolome. The omics data also indicated the alteration of anti-obesity microbes and metabolites such as Akkermansia and indolelactic acid, respectively. These findings suggest that treatment with a combination of BEPC22 and BELP53 exerts synergistic beneficial effects against obesity.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Diet, High-Fat",
+        "Lacticaseibacillus paracasei",
+        "Gastrointestinal Microbiome",
+        "Peroxisome Proliferator-Activated Receptors",
+        "Obesity",
+        "Metabolome",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "37946274",
+      "title": "Effects of Lactiplantibacillus plantarum and Lacticaseibacillus paracasei supplementation on the single-cell fecal parasitome in children with celiac disease autoimmunity: a randomized, double-blind placebo-controlled clinical trial.",
+      "authors": [
+        "Jakub Hurych",
+        "Elin Oscarsson",
+        "Åsa Håkanson",
+        "Kateřina Jirků-Pomajbíková",
+        "Milan Jirků",
+        "Carin Andrén Aronson",
+        "Ondřej Cinek",
+        "Daniel Agardh"
+      ],
+      "journal": "Parasites & vectors",
+      "publication_date": "2023-Nov-09",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Lactiplantibacillus plantarum HEAL9 and Lacticaseibacillus paracasei 8700:2 positively affect the fecal bacteriome in children with celiac disease autoimmunity after 6 months of supplementation. The aim of the present investigation was to study the effects of Lactiplantibacillus plantarum HEAL9 and Lacticaseibacillus paracasei 8700:2 on the single-cell parasitome, with a primary focus on Blastocystis. METHODS: Stool samples were collected from 78 Swedish children with celiac disease autoimmunity participating in a randomized, double-blind, placebo-controlled clinical trial to either receive a mixture of supplementation with L. plantarum HEAL9 and L. paracasei 8700:2 (n = 38) or placebo (n = 40). A total of 227 stool samples collected at baseline and after 3 and 6 months of intervention, respectively, were retrospectively analyzed for Blastocystis by quantitative real-time PCR and subtyped by massively parallel amplicon sequencing. Other single-cell parasites were detected by untargeted 18S rDNA amplicon sequencing and verified by real-time PCR. The relation between the parasites and the bacteriome community was characterized by using 16S rDNA profiling of the V3-V4 region. RESULTS: Three different single-cell protists were identified, of which the highest prevalence was found for Dientamoeba fragilis (23.1%, 18/78 children), followed by Blastocystis (15.4%, 12/78) and Entamoeba spp. (2.6%, 2/78). The quantity of the protists was stable over time and not affected by probiotic intervention (P = 0.14 for Blastocystis, P = 0.10 for D. fragilis). The positivity of the protists was associated with increased bacteriome diversity (measured by multiple indices, P < 0.03). Bacterial composition was influenced by the presence of the protists: positivity of Blastocystis was inversely associated with Akkermansia (at the levels of the genus as well as its family, order, class and phylum); P < 0.002), Faecalibacterium (P = 0.003) and Romboutsia (P = 0.029); positivity of D. fragilis was inversely associated with families Enterobacteriaceae (P = 0.016) and Coriobacteriaceae (P = 0.022) and genera Flavonifractor (P < 0.001), Faecalibacterium (P = 0.009), Lachnoclostridium (P = 0.029), Ruminococcus (P < 0.001) and Granulicatella (P = 0.018). CONCLUSIONS: The prevalence of single-cell protists is low in children with celiac disease autoimmunity. The colonization was stable regardless of the probiotic intervention and associated with increased diversity of the fecal bacteriome but inversely associated with some beneficial bacteria.",
+      "mesh_terms": [
+        "Humans",
+        "Child",
+        "Lacticaseibacillus",
+        "Lacticaseibacillus paracasei",
+        "Autoimmunity",
+        "Celiac Disease",
+        "Retrospective Studies",
+        "Feces",
+        "Blastocystis",
+        "Bacteria",
+        "Probiotics",
+        "Double-Blind Method",
+        "DNA, Ribosomal"
+      ]
+    },
+    {
+      "pmid": "37923200",
+      "title": "The probiotic fermented milk of Lacticaseibacillus paracasei JY062 and Lactobacillus gasseri JM1 alleviates constipation via improving gastrointestinal motility and gut microbiota.",
+      "authors": [
+        "Shasha Cheng",
+        "Baolei Li",
+        "Yixin Ding",
+        "Baochao Hou",
+        "Weilian Hung",
+        "Jian He",
+        "Yujun Jiang",
+        "Yu Zhang",
+        "Chaoxin Man"
+      ],
+      "journal": "Journal of dairy science",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Constipation is directly related to the intestinal microenvironment, in which the promotion of gastrointestinal (GI) motility and improvement of gut microbiota distribution are important for alleviating symptoms. Herein, after the intervention of probiotic fermented milk (FMMIX) containing Lacticaseibacillus paracasei JY062 and Lactobacillus gasseri JM1 for 14 d in Kunming mice with loperamide-induced constipation, the results indicated that FMMIX significantly increased the secretion of serum motilin, gastrin and 5-hydroxytryptamine, as well as decreased the secretion of peptide YY, vasoactive intestinal peptide, and nitric oxide in mice. As determined by immunohistochemical analysis, FMMIX promoted an augmentation in the quantity of Cajal interstitial cells. In addition, the mRNA and protein expression of c-kit and stem cell factor (SCF) were upregulated to facilitate intestinal motility. High-throughput sequencing and gas chromatography techniques revealed that FMMIX led to an increase in the relative abundance of beneficial bacteria (Lactobacillus, Oscillospira, Ruminococcus, Coprococcus, and Akkermansia), reduced the presence of harmful bacteria (Prevotella), and resulted in elevated levels of short-chain fatty acids (SCFA) with a superior improvement compared with unfermented milk. Untargeted metabolomics revealed significant upregulation of functional metabolites such as l-pipecolinic acid, dl-phenylalanine, and naringenin in FMMIX, presumably playing a potential role in constipation relief. Overall, our results showed that FMMIX had the potential to alleviate constipation symptoms in mice by improving the secretion of serum GI regulatory peptides and neurotransmitters, increasing the expression of c-kit and SCF proteins, and modulating the gut microbiota structure and SCFA levels, and may be associated with an increase in these functional metabolites. This suggested that FMMIX could be a promising adjunctive strategy for managing constipation symptoms and could contribute to the development of functional foods aimed at improving gut health.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "Milk",
+        "Lacticaseibacillus paracasei",
+        "Lactobacillus gasseri",
+        "Constipation",
+        "Gastrointestinal Motility",
+        "Probiotics"
+      ]
+    },
+    {
+      "pmid": "37705572",
+      "title": "Gut microbial change after administration of Lacticaseibacillus paracasei AO356 is associated with anti-obesity in a mouse model.",
+      "authors": [
+        "Eun-Ji Song",
+        "Eun-Sook Lee",
+        "Young In Kim",
+        "Dong-Uk Shin",
+        "Ji-Eun Eom",
+        "Hee Soon Shin",
+        "So-Young Lee",
+        "Young-Do Nam"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: The status of an impaired gut microbial community, known as dysbiosis, is associated with metabolic diseases such as obesity and insulin resistance. The use of probiotics has been considered an effective approach for the treatment and prevention of obesity and related gut microbial dysbiosis. The anti-obesity effect of Lacticaseibacillus paracasei AO356 was recently reported. However, the effect of L. paracasei AO356 on the gut microbiota has not yet been identified. This study aimed to elucidate the effect of L. paracasei AO356 on gut microbiota and ensure its safety for use as a probiotic. METHODS: Oral administration of L. paracasei AO356 (107 colony-forming units [CFU]/mg per day, 5 days a week, for 10 weeks) to mice fed a high-fat diet significantly suppressed weight gain and fat mass. We investigated the composition of gut microbiota and explored its association with obesity-related markers. RESULTS: Oral administration of L. paracasei AO356 significantly changed the gut microbiota and modified the relative abundance of Lactobacillus, Bacteroides, and Oscillospira. Bacteroides and Oscillospira were significantly related to the lipid metabolism pathway and obesity-related markers. We also confirmed the safety of L. paracasei AO356 using antibiotics resistance, hemolysis activity, bile salt hydrolase activity, lactate production, and toxicity tests following the safety assessment guidelines of the Ministry of Food and Drug Safety (MFDS). DISCUSSION: This study demonstrated that L. paracasei AO356 is not only associated with an anti-obesity effect but also with changes in the gut microbiota and metabolic pathways related to obesity. Furthermore, the overall safety assessment seen in this study could increase the potential use of new probiotic materials with anti-obesity effects.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Lacticaseibacillus paracasei",
+        "Gastrointestinal Microbiome",
+        "Lacticaseibacillus",
+        "Dysbiosis",
+        "Obesity",
+        "Disease Models, Animal",
+        "Lactic Acid"
+      ]
+    },
+    {
+      "pmid": "37507931",
+      "title": "The Radical Scavenging Activities and Anti-Wrinkle Effects of Soymilk Fractions Fermented with Lacticaseibacillus paracasei MK1 and Their Derived Peptides.",
+      "authors": [
+        "Sulhee Lee",
+        "Sang-Pil Choi",
+        "Huijin Jeong",
+        "Won Kyu Yu",
+        "Sang Won Kim",
+        "Young-Seo Park"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2023-Jul-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Soybean-derived peptides exert several beneficial effects in various experimental models. However, only a few studies have focused on the radical scavenging and anti-wrinkle effects of soymilk-derived peptides produced via different processes, such as fermentation, enzymatic treatment, and ultrafiltration. Therefore, in this study, we investigated the radical scavenging and antiwrinkle effects of soymilk fractions produced using these processes. We found that 50SFMKUF5, a 5 kDa ultrafiltration fraction fermented with Lacticaseibacillus paracasei MK1 after flavourzyme treatment, exhibited the highest radical scavenging activity using the 2,2-diphenyl-1-picrylhydrazyl radical scavenging assay as well as potent anti-wrinkle effects assessed by type 1 procollagen production and tumor necrosis factor-α production in ultraviolet B (UVB)-treated human dermal fibroblasts and HaCaT keratinocytes. To identify potential bioactive peptides, candidate peptides were synthesized, and their anti-wrinkle effects were assessed. APEFLKEAFGVN (APE), palmitoyl-APE, and QIVTVEGGLSVISPK peptides were synthesized and used to treat UVB-irradiated fibroblasts, HaCaT keratinocytes, and α-melanocyte-stimulating hormone-induced B16F1 melanoma cells. Among these peptides, Pal-APE exerted the strongest effect. Our results highlight the potential of soymilk peptides as anti-aging substances."
+    },
+    {
+      "pmid": "37506599",
+      "title": "Cardiometabolic benefits of Lacticaseibacillus paracasei 8700:2: A randomized double-blind placebo-controlled trial.",
+      "authors": [
+        "Jialu Yang",
+        "Jingyi Huang",
+        "Zhihao Huang",
+        "Yingxi Xu",
+        "Wenkang Li",
+        "Shanshan Zhu",
+        "Yawen Zhao",
+        "Bingqi Ye",
+        "Ludi Liu",
+        "Jiangyuan Zhu",
+        "Min Xia",
+        "Yan Liu"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Modulating microbial metabolism via probiotic supplementation has been proposed as an attractive strategy for the prevention of cardiometabolic diseases. Recently, Lacticaseibacillus paracasei (L. paracasei) was reported to alleviate metabolic disorders in murine models, however, its beneficial effects in humans remain to be determined. This study evaluated whether L. paracasei supplementation could improve endothelial function and cardiometabolic health in subjects with metabolic syndrome (MetS). METHODS: In this randomized, double-blind and placebo-controlled trial among 130 participants with MetS, subjects were randomly assigned to placebo or L. paracasei 8700: 2 (10 billion CFU) daily for 12 weeks. Endothelial function was measured by flow-mediated slowing, and cardiometabolic health was determined by both components and severity of MetS. Ideal compliance was defined as consumption no less than 70% of the capsules. RESULTS: 130 individuals (mean [SD] age, 45.97 [7.11] years; 95 men [73.1%]) were enrolled and randomized to L. paracasei (n = 66) or placebo control (n = 64). Compared to placebo, L. paracasei supplementation led to a greater reduction in remnant cholesterol (-0.16 mmol/L, 95%CI: -0.29 mmol/L to -0.02 mmol/L; P = 0.024). Such a reduction in remnant cholesterol was significantly associated with improvement in endothelial function (r = -0.23, P = 0.027). In subjects with an ideal compliance with trial protocol, L. paracasei treatment additionally lowered triglycerides, alleviated MetS severity and delayed weight gain. On the contrary, no obvious effect on insulin sensitivity or pancreatic beta-cell function was observed after L. paracasei intervention. Moreover, regarding safety and tolerability, no significant between-group difference in protocol-specified adverse events of interest was observed. CONCLUSIONS: L. paracasei supplementation enhanced endothelial function potentially through downregulating remnant cholesterol levels. Our study provides a feasible and safe strategy for the prevention of cardiometabolic diseases in subjects with severe dyslipidemia and endothelial dysfunction. REGISTERED: Under ClinicalTrails.gov identifier NCT05005754.",
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Middle Aged",
+        "Lacticaseibacillus paracasei",
+        "Lacticaseibacillus",
+        "Double-Blind Method",
+        "Probiotics",
+        "Metabolic Syndrome",
+        "Cardiovascular Diseases"
+      ]
+    },
+    {
+      "pmid": "37485388",
+      "title": "Effects of Lactiplantibacillus plantarum and Lacticaseibacillus paracasei supplementation on the faecal metabolome in children with coeliac disease autoimmunity: a randomised, double-blinded placebo-controlled clinical trial.",
+      "authors": [
+        "Eliska Jenickova",
+        "Carin Andrén Aronsson",
+        "Anna Mascellani Bergo",
+        "Ondrej Cinek",
+        "Jaroslav Havlik",
+        "Daniel Agardh"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Coeliac disease is a lifelong immune-mediated enteropathy manifested as gluten intolerance in individuals carrying specific human leukocyte antigen (HLA) molecules. Other factors than genetics and gluten intake, however, may play a role in triggering the disease. The gut internal environment is thought to be one of these potential contributing factors, and it can be influenced throughout life. METHODS: We examine the impact of Lactiplantibacillus plantarum HEAL9 and Lacticaseibacillus paracasei 8700:2 supplementation on the faecal metabolome in genetically predisposed children having tissue transglutaminase autoantibodies, i.e., coeliac disease autoimmunity. Probiotic strains were selected based on their beneficial properties, including mucosal permeability and immune modulation effects. The intervention group (n = 40) and control group (n = 38) took the probiotics or placebo daily for 6 months in a double-blinded randomised trial. Faecal samples were collected at baseline and after 3 and 6 months and analysed using the 1H NMR for metabolome. The incorporation of 16S rRNA sequencing as a supportive dataset complemented the analysis of the metabolome data. RESULTS: During the 6 months of intervention, the stool concentrations of 4-hydroxyphenylacetate increased in the intervention group as compared to controls, whereas concentrations of threonine, valine, leucine, isoleucine, methionine, phenylalanine, aspartate, and fumarate decreased. Additionally, a noteworthy effect on the glycine, serine, and threonine metabolic pathway has been observed. CONCLUSION: The findings suggest a modest yet significant impact of the probiotics on the faecal metabolome, primarily influencing proteolytic processes in the gut. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, NCT03176095."
+    },
+    {
+      "pmid": "37471174",
+      "title": "Lacticaseibacillus paracasei K71 Alleviates UVB-Induced Skin Barrier Dysfunction by Attenuating Inflammation via Increased IL-10 Production in Mice.",
+      "authors": [
+        "Shigeru Katayama",
+        "Rio Yamazaki",
+        "Hikaru Umise",
+        "Hsu Pei Han",
+        "Toshihiro Mihara",
+        "Kimiko Uchiyama",
+        "Hajime Takahashi",
+        "Soichiro Nakamura"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "SCOPE: Ultraviolet B (UVB) radiation causes skin barrier dysfunction, leading to decreased water-holding capacity, impaired epidermal barrier function, and increased skin thickness. This study investigates the protective effects of oral administration of Lacticaseibacillus paracasei K71 against skin barrier dysfunction in UVB-irradiated mice. METHODS AND RESULTS: Mice are fed diets with or without K71 and irradiated with UVB three times a week for 12 weeks. Oral administration of K71 suppresses UVB-induced decrease in stratum corneum water content, mitigates the increase of transepidermal water loss, and decreases epidermal thickness of the dorsal skin. Treatment with K71 reverses the upregulation of inflammatory cytokines and the activation of nuclear factor-κB induced by UVB irradiation and upregulates the expression of anti-inflammatory IL-10 in the dorsal skin. Notable upregulation of IL-10 is observed in the spleens of K71-treated mice. K71 treatment enhances IL-10 production in J774.1 macrophages; however, this enhancement is diminished by inhibiting K71 phagocytosis and TLR3. Furthermore, transfection using K71 RNAs significantly increases IL-10 production. CONCLUSION: These results indicate that K71 may alleviate UVB-induced skin barrier dysfunction by attenuating inflammation via increasing IL-10 production and that K71 RNAs may induce IL-10 production in macrophages. Therefore, K71 may be beneficial for preventing skin barrier dysfunction.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Lacticaseibacillus",
+        "Interleukin-10",
+        "Skin",
+        "Water",
+        "Inflammation",
+        "Ultraviolet Rays",
+        "Mice, Hairless"
+      ]
+    },
+    {
+      "pmid": "37470081",
+      "title": "Effect of Lacticaseibacillus paracasei strain Shirota supplementation on clinical responses and gut microbiome in Parkinson's disease.",
+      "authors": [
+        "Xiaodong Yang",
+        "Xiaoqin He",
+        "Shaoqing Xu",
+        "Yi Zhang",
+        "Chengjun Mo",
+        "Yiqiu Lai",
+        "Yanyan Song",
+        "Zheng Yan",
+        "Penghui Ai",
+        "Yiwei Qian",
+        "Qin Xiao"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2023-Jul-31",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "Parkinson's disease (PD) is a common neurodegenerative disease characterized by motor issues and a range of non-motor symptoms. Microbial therapy may be a useful approach for the treatment of PD. However, comprehensive analyses of the impact of probiotic supplementation on motor and non-motor symptoms are still lacking and the mechanisms whereby the treatment works remain unclear. This study investigated Lacticaseibacillus paracasei strain Shirota (LcS) supplementation on clinical responses, gut microbiota and faecal metabolites in PD patients. Patients (n = 128) were randomised to receive either probiotics (LcS-fermented milk, containing 1 × 1010 living LcS cells) or placebo for 12 weeks. All participants were examined and the basic clinical features were recorded using questionnaires. Fecal and blood samples were collected at the baseline and after 12 weeks for further omics analysis. We found that LcS intervention significantly alleviated patients' constipation-related symptoms and non-motor symptoms. We found no significant shifts in the composition of gut microbiota or faecal metabolites. Several taxa were differentially abundant between the groups, especially with regard to LcS intake, which increased the abundance of the genus Lacticaseibacillus in the probiotic group compared with those at the baseline and in the placebo group. The faecal concentration of L-tyrosine was significantly decreased and the plasma concentration of L-tyrosine was increased in the probiotic group compared with the placebo group. Our study demonstrated that although supplementation with LcS did not induce major changes in the global gut microbiome, the probiotic had favorable effects in managing constipation and other non-motor symptoms in PD patients. This study was registered at the Chinese Clinical Trial Registry: ChiCTR1800016795.",
+      "mesh_terms": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Lacticaseibacillus",
+        "Lacticaseibacillus paracasei",
+        "Parkinson Disease",
+        "Neurodegenerative Diseases",
+        "Lacticaseibacillus casei",
+        "Constipation",
+        "Probiotics",
+        "Tyrosine"
+      ]
+    },
+    {
+      "pmid": "37467812",
+      "title": "Lacticaseibacillus paracasei fermentation broth identified peptide, Y2Fr, and its antibacterial activity on Vibrio parahaemolyticus.",
+      "authors": [
+        "Shen Yang",
+        "Yufan Xing",
+        "Jialong Gao",
+        "Ritian Jin",
+        "Rong Lin",
+        "Wuyin Weng",
+        "Yuanhong Xie",
+        "Jude Juventus Aweya"
+      ],
+      "journal": "Microbial pathogenesis",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Although Vibrio parahaemolyticus infections cause severe diseases of large yellow croaker (Larimichthys crocea), using antibiotics and other chemical agents to treat these infections could result in antimicrobial resistance, environmental pollution, and other associated problems. This study identified seven peptides from Lacticaseibacillus paracasei fermentation broth using ultra-high-performance liquid chromatography-mass spectrometry and screened antimicrobial peptide Y2Fr (VEIKNGLLKLNGKPLLIR) through its net charge, hydrophobicity and predicted secondary structure. Antibacterial activity analysis revealed that Y2Fr had a minimum inhibitory concentration (MIC) of 125 μg/mL, minimum bactericidal concentration (MBC) of 250 μg/mL against V. parahaemolyticus and a time-kill of 3 h. In a bacterial membrane environment, the secondary structure of peptide Y2Fr changed from a random coil to a β-sheet to enhance its membrane permeability and binding to bacteria DNA to exert its antibacterial effect. Further molecular docking analysis revealed that peptide Y2Fr could bind to the membrane protein KKI11460.1 and DNA polymerase A0A0L8TVA4 of V. parahaemolyticus through hydrogen bonds. Meanwhile, treatment of Y2Fr with mammalian red blood cells and plasma revealed that it was noncytotoxic, nonhemolytic, and stable under physiological conditions. Thus, peptide Y2Fr has great potential use in treating and preventing infections caused by V. parahaemolyticus or similar bacteria in aquatic animals.",
+      "mesh_terms": [
+        "Animals",
+        "Vibrio parahaemolyticus",
+        "Lacticaseibacillus",
+        "Fermentation",
+        "Molecular Docking Simulation",
+        "Anti-Bacterial Agents",
+        "Peptides",
+        "Perciformes",
+        "Bacteria",
+        "Mammals"
+      ]
+    },
+    {
+      "pmid": "37172300",
+      "title": "Effect of the Lacticaseibacillus paracasei JLM Strain Against Brucella abortus Strains in Ripened Cheese.",
+      "authors": [
+        "Juan Carlos Benítez-Serrano",
+        "Rigoberto Hernández-Castro",
+        "Laura Martínez-Pérez",
+        "Gabriela Palomares-Resendiz",
+        "Efrén Díaz-Aparicio",
+        "Francisco Suárez-Güemes",
+        "Beatriz Arellano-Reynoso"
+      ],
+      "journal": "Foodborne pathogens and disease",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study evaluated the antagonistic effect of the Lacticaseibacillus paracasei JLM strain isolated from aguamiel, against Brucella abortus RB51, S19, and 2308 strains, during the manufacture of soft-ripened cheese. First, the tolerance of Lc. paracasei JLM was tested with pH values and bile salt concentrations for 3 h to simulate digestive tract conditions. The antagonistic effect against B. abortus strains was evaluated through double-layer diffusion and agar well diffusion assays. In addition, the stability of the cell-free supernatant (CFS) was tested with the agar well diffusion method under different conditions of temperature, pH, and treatment with digestive enzymes. Finally, the antagonistic effect against B. abortus strains was observed during the manufacture of ripened cheese for 31 days at 4°C and 25°C using the Lc. paracasei JLM strain as starter culture. The results showed that the Lc. paracasei JLM strain remains viable after exposure to different pH values (from 3.00 to 7.00) and concentrations of bile salts (from 0.5% to 7%). Moreover, the results demonstrate that the growth of the three B. abortus strains was inhibited in both antagonism tests and that CFS maintained 86% activity after heat treatment at 100°C, 121°C, or enzymatic digestion (proteinase K, trypsin, chymotrypsin), but it was inactivated at pH levels above 6. Finally, Lc. paracasei JLM completely inhibited the growth of B. abortus in ripened cheese at 25°C from day 17 and showed greater inhibition on the B. abortus RB51 strain in the ripened cheese at 4°C, showing statistical differences for the B. abortus S19 and B. abortus 2308 strains. The current research concluded that the Lc. paracasei JLM strain has an antagonistic effect on B. abortus, enhancing the potential of its use in the future as a probiotic.",
+      "mesh_terms": [
+        "Brucella abortus",
+        "Lacticaseibacillus",
+        "Lacticaseibacillus paracasei",
+        "Cheese",
+        "Agar"
+      ]
+    },
+    {
+      "pmid": "37120517",
+      "title": "Heat-killed Lacticaseibacillus paracasei GMNL-653 ameliorates human scalp health by regulating scalp microbiome.",
+      "authors": [
+        "Wen-Hua Tsai",
+        "Yi-Ting Fang",
+        "Tsuei-Yin Huang",
+        "Ying-Ju Chiang",
+        "Ching-Gong Lin",
+        "Wen-Wei Chang"
+      ],
+      "journal": "BMC microbiology",
+      "publication_date": "2023-Apr-29",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The equilibrium of the scalp microbiome is important for maintaining healthy scalp conditions, including sebum secretion, dandruff, and hair growth. Many different strategies to improve scalp health have been reported; however, the effect of postbiotics, such as heat-killed probiotics, on scalp health remains unclear. We examined the beneficial effects of heat-killed probiotics consisting of Lacticaseibacillus paracasei, GMNL-653, on scalp health. RESULTS: Heat-killed GMNL-653 could co-aggregate with scalp commensal fungi, Malassezia furfur, in vitro, and the GMNL-653-derived lipoteichoic acid inhibited the biofilm formation of M. furfur on Hs68 fibroblast cells. The mRNA of hair follicle growth factors, including insulin-like growth factor-1 receptor (IGF-1R), vascular endothelial growth factor, IGF-1, and keratinocyte growth factor was up-regulated in skin-related human cell lines Hs68 and HaCaT after treatment with heat-killed GMNL-653. For clinical observations, we recruited 22 volunteer participants to use the shampoo containing the heat-killed GMNL-653 for 5 months and subsequently measured their scalp conditions, including sebum secretion, dandruff formation, and hair growth. We applied polymerase chain reaction (PCR) to detect the scalp microbiota of M. restricta, M. globosa, Cutibacterium acnes, and Staphylococcus epidermidis. A decrease in dandruff and oil secretion and an increase in hair growth in the human scalp were observed after the use of heat-killed GMNL-653-containing shampoo. The increased abundance of M. globosa and the decreased abundance of M. restricta and C. acnes were also observed. We further found that accumulated L. paracasei abundance was positively correlated with M. globosa abundance and negatively correlated with C. acnes abundance. S. epidermidis and C. acnes abundance was negatively correlated with M. globosa abundance and positively correlated with M. restricta. Meanwhile, M. globosa and M. restricta abundances were negatively associated with each other. C. acnes and S. epidermidis abundances were statistically positively correlated with sebum secretion and dandruff, respectively, in our shampoo clinical trial. CONCLUSION: Our study provides a new strategy for human scalp health care using the heat-killed probiotics GMNL-653-containing shampoo. The mechanism may be correlated with the microbiota shift.",
+      "mesh_terms": [
+        "Humans",
+        "Scalp",
+        "Dandruff",
+        "Lacticaseibacillus",
+        "Lacticaseibacillus paracasei",
+        "Hot Temperature",
+        "Vascular Endothelial Growth Factor A",
+        "Microbiota"
+      ]
+    },
+    {
+      "pmid": "37114144",
+      "title": "Antiobesity Effect of Lacticaseibacillus paracasei LM-141 on High-Fat Diet-Induced Rats through Alleviation of Inflammation and Insulin Resistance.",
+      "authors": [
+        "Ching-Shuang Wu",
+        "Chih-Chieh Lin",
+        "Feng-Ching Hsieh",
+        "Tai-Yun Wu",
+        "Ai-Hui Fang"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this study, we set out to evaluate the antiobesity activities of our newly isolated Lacticaseibacillus paracasei LM-141 (LPLM141) using a high-fat diet (HFD)-fed rat model. Male Sprague-Dawley rats were fed with a HFD with or without low-dosage (2 × 107 CFU/day per rat) or high-dosage (2 × 109 CFU/day per rat) LPLM141 for 14 weeks. The results showed that administration of LPLM141 significantly decreased body weight gain, liver weight, adipose tissue weight, and epididymal white adipocyte size increased by HFD feeding. The abnormal serum lipid profile induced by HFD feeding was normalized by administration of LPLM141. The enhanced chronic low-grade inflammation in HFD-fed rats was reduced by LPLM141 supplementation, as reflected by decreased serum lipopolysaccharide (LPS) and monocyte chemoattractant protein-1 (MCP-1) levels, reduced macrophage infiltration in adipose tissue, and increased serum adiponectin concentration. In addition, the elevations of proinflammatory cytokine genes and suppression of PPAR-γ mRNA in adipose tissues of rats fed with a HFD were markedly reversed by LPLM141 administration. Oral administration of LPLM141 induced browning of epididymal white adipose tissue (eWAT) and activation of interscapular brown adipose tissue (iBAT) in rats fed with HFD. Consumption of LPLM141 exhibited a significant amelioration in insulin resistance, which were mechanistically caused by downregulation of the serum leptin level and upregulation of hepatic IRS-1 and p-Akt protein expressions, in HFD treated rats. LPLM141 consumption significantly decreased hepatic lipogenic gene expressions and preserved liver function stimulated by HFD treatment. Administration of LPLM141 obviously mitigated hepatic steatosis observed in HFD feeding rats. Our current findings shed light on LPLM141 supplementation that exhibited an antiobesity effect in HFD-fed rats by alleviating inflammation and insulin resistance, which further highlighted the potential of utilizing LPLM141 as a preventive/therapeutic probiotic agent for obesity."
+    },
+    {
+      "pmid": "37111189",
+      "title": "Effect of Lacticaseibacillus paracasei N1115 on Immunomodulatory and Gut Microbial Composition in Young Children: A Randomized, Placebo-Controlled Study.",
+      "authors": [
+        "Pin Li",
+        "Zhongxia Ren",
+        "Junxiu Zhou",
+        "Ai Zhao",
+        "Shijie Wang",
+        "Yiping Xun",
+        "Hua Jiang",
+        "Peiyu Wang",
+        "Qingbin Yuan",
+        "Yumei Zhang"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Apr-19",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "Lactobacillus paracasei N1115 (Lp N1115) was isolated from fermented milk products. The administration of Lp N1115 is safe and well tolerated in Chinese children, but its effectiveness among young Chinese children is still unclear. To investigate the efficacy of Lp N1115 as a probiotic to enhance gut development in Chinese infants and toddlers born by cesarean section, 109 healthy and cesarean-delivered infants aged 6-24 months were recruited for a 12-week randomized, placebo-controlled trial, with 101 finally completing the study. Saliva and stool samples were collected and detected at weeks 0, 4, 8, and 12 of the intervention. Statistical analyses were performed by using a per-protocol (PP) approach. After 12 weeks of intervention, the fecal pH in the control group increased (p = 0.003), while the fecal pH in the experimental group did not change. Salivary cortisol decreased from baseline in the experimental group (p = 0.023), while the control group showed little change. In addition, Lp N1115 increased the fecal sIgA content of infants aged 6-12 months (p = 0.044) but had no obvious effect on fecal calprotectin and saliva sIgA. At week 4, the increase in Lactobacillus relative to baseline was higher in the experimental group than in the control group (p = 0.019). Further analysis showed a trend toward a higher detection rate of Lactobacillus in the experimental group than in the control group (p = 0.039). In conclusion, Lp N1115 was able to enhance the content of Lactobacillus and maintain fecal pH levels. Its beneficial effects on gut development were more obvious in 6-12-month-old infants.",
+      "mesh_terms": [
+        "Pregnancy",
+        "Infant",
+        "Humans",
+        "Female",
+        "Child, Preschool",
+        "Lacticaseibacillus paracasei",
+        "Lacticaseibacillus",
+        "Gastrointestinal Microbiome",
+        "Cesarean Section",
+        "Lactobacillus",
+        "Probiotics",
+        "Immunoglobulin A, Secretory",
+        "Double-Blind Method"
+      ]
+    },
+    {
+      "pmid": "37040355",
+      "title": "Probiotics of Lacticaseibacillus paracasei SD1 and Lacticaseibacillus rhamnosus SD11 attenuate inflammation and β-cell death in streptozotocin-induced type 1 diabetic mice.",
+      "authors": [
+        "Jongdee Nopparat",
+        "Pissared Khuituan",
+        "Saranya Peerakietkhajorn",
+        "Rawee Teanpaisan"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Probiotics provide health benefits in various aspects and are believed to modulate the immune system by balancing gut microbiota homeostasis, termed the \"microbiota-immune axis\". Recent evidence supports that several Lactobacillus strains possess glucose-lowering and anti-inflammatory effects in an animal model of type 1 diabetes (T1D). Although probiotics of Lacticaseibacillus paracasei SD1 (SD1) and Lacticaseibacillus rhamnosus SD11 (SD11) exert human oral health benefits by reducing harmful bacterial populations, their clinical application regarding hypoglycemic-related traits as well as the underlying mechanisms are still lacking. In this report, we used multiple low doses of streptozotocin (STZ)-induced diabetic BALB/c mice to explore the effects of SD1 and SD11 supplementation on the regulation of markers related to T1D. Experimental mice were randomly assigned into five groups, non-STZ + V, STZ + V, STZ + SD1, STZ + SD11, and STZ + SDM (mixture of SD1 and SD11), and physiological data were measured every week. Blood and pancreas samples were collected at 4- and 8-weeks. Our results indicate that supplementation with SD1, SD11, or SDM for 8 weeks significantly improved body weights, glycemic levels, glucose tolerance, insulin levels, and lipid profiles. Probiotic administration also preserved islet integrity and increased β-cell mass in STZ-injected mice, as well as prevented infiltration of macrophages, CD4+, and CD8+ T cells into the islets. Significantly, SD1 and SD11 suppressed the levels of IL1-β, TNF-α and IFN-γ and increased IL-10, which is concomitant with the inhibition of cleaved caspase 3, caspase 9, caspase 8, proapoptotic Bax, NF-κBp65, pSTAT1, and iNOS. Additionally, the survival ability of β-cells was mediated by upregulated anti-apoptotic Bcl2. We conclude that SD1 and SD11 attenuate STZ-induced diabetic mice by stabilizing glycemic levels and reducing inflammation, thereby protecting β-cells. Among the probiotic treatment groups, SD11 revealed the best results in almost all parameters, indicating its potential use for alleviating hyperglycemia-associated symptoms.",
+      "mesh_terms": [
+        "Diabetes Mellitus, Type 1",
+        "Inflammation",
+        "Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Humans",
+        "Cell Death",
+        "Syndactyly",
+        "Streptozocin",
+        "Probiotics",
+        "Lacticaseibacillus",
+        "Mice",
+        "Lacticaseibacillus rhamnosus",
+        "Lacticaseibacillus paracasei",
+        "Animals"
+      ]
+    },
+    {
+      "pmid": "36944956",
+      "title": "Effect of different doses of Lacticaseibacillus paracasei K56 on body fat and metabolic parameters in adult individuals with obesity: a pilot study.",
+      "authors": [
+        "Guzailinuer Kadeer",
+        "Wanrui Fu",
+        "Yaqi He",
+        "Ying Feng",
+        "Wei-Hsein Liu",
+        "Wei-Lian Hung",
+        "Haotian Feng",
+        "Wen Zhao"
+      ],
+      "journal": "Nutrition & metabolism",
+      "publication_date": "2023-Mar-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Studies have shown that probiotics have an effect on reducing body fat on a strain-specific and dose-response bases. The purpose of this study was to evaluate the effect of a novel probiotic strain Lacticaseibacillus paracasei K56 on body fat and metabolic biomarkers in adult individuals with obesity. METHODS: 74 adult subjects with obesity (body mass index ≥ 30 kg/m2, or percent body fat > 25% for men, percent body fat > 30% for women) were randomized into 5 groups and supplemented with different doses of K56 (groups VL_K56, L_K56, H_K56, and VH_K56: K56 capsules, 2 × 107 CFU/day, 2 × 109 CFU/day, 2 × 1010 CFU/day, 2 × 1011 CFU/day, respectively) or placebo (group Pla: placebo capsule) for 60 days. Subjects were advised to maintain their original dietary intake and physical activity. Anthropometric measurements, body composition assessment, and metabolic parameters were measured at baseline and after 60 days of intervention. RESULTS: The results showed that the L_K56 group had significant decreases in percent body fat (p = 0.004), visceral fat area (p = 0.0007), total body fat mass (p = 0.018), trunk body fat mass (p = 0.003), waist circumference (p = 0.003), glycosylated hemoglobin(p = 0.002) at the end of the study compared with baseline. There were non-significant reductions in Body weight and BMI in the L_K56, H_K56, VL_K56 groups, whereas increases were observed in the placebo and VH_K56 groups compared with baseline values. In addition, K56 supplementation modulated gut microbiota characteristics and diversity indices in the L-K56 group. However, mean changes in body fat mass, visceral fat area, weight, body mass index, waist circumference and hip circumference were not significantly different between groups. CONCLUSIONS: The results suggest that supplementation with different doses of Lacticaseibacillus paracasei K56 has certain effect on reducing body fat and glycosylated hemoglobin, especially at a dose of 109 CFU/day. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT04980599."
+    },
+    {
+      "pmid": "36839197",
+      "title": "The Probiotic Combination of Lacticaseibacillus paracasei JY062 and Lactobacillus gasseri JM1 Alleviates Gastrointestinal Motility Disorder via Improving Gut Microbiota.",
+      "authors": [
+        "Shasha Cheng",
+        "Hongxuan Li",
+        "Yixin Ding",
+        "Jiacheng Huo",
+        "Yaping Zheng",
+        "Yujun Jiang",
+        "Yu Zhang",
+        "Chaoxin Man"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Feb-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Probiotics have received wide attention as a potential way to alleviate gastrointestinal (GI) motility disorders. Herein, we investigated the effects of Lacticaseibacillus paracasei JY062, Lactobacillus gasseri JM1, and the probiotic combination at 5 × 109 CFU/mL on mice induced by loperamide and explored the possible underlying mechanisms in GI motility disorder. After two weeks of probiotic intervention, the results indicated that the probiotic combination alleviated GI motility disorder better. It increased the secretion of excitatory GI regulators motilin, gastrin, and 5-hydroxytryptamine (5-HT) and decreased the secretion of the inhibitory GI regulators peptide YY and nitric oxide (NO), except vasoactive intestinal peptide. 5-HT and NO were related to the mRNA expression of 5-HT4 receptor and nitric oxide synthase, respectively. The intervention of probiotic combination also increased the number of interstitial cells of Cajal and the expression of SCF/c-kit protein. In addition, it also increased the abundance of beneficial bacteria (Lactobacillus, Rikenellaceae, and Clostridiaceae_Clostridium) and improved the contents of short-chain fatty acids in cecum contents of mice. In conclusion, the probiotic combination of L. paracasei JY062 and L. gasseri JM1 has the potential to alleviate GI motility disorders by balancing intestinal homeostasis.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Lactobacillus gasseri",
+        "Lacticaseibacillus paracasei",
+        "Lacticaseibacillus",
+        "Gastrointestinal Microbiome",
+        "Serotonin",
+        "Probiotics",
+        "Gastrointestinal Diseases",
+        "Gastrointestinal Motility"
+      ]
+    },
+    {
+      "pmid": "36741903",
+      "title": "Real-time polymerase chain reaction methods for strain specific identification and enumeration of strain Lacticaseibacillus paracasei 8700:2.",
+      "authors": [
+        "Hanan R Shehata",
+        "Basma Hassane",
+        "Steven G Newmaster"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Reliable and accurate methods for probiotic identification and enumeration, at the strain level plays a major role in confirming product efficacy since probiotic health benefits are strain-specific and dose-dependent. In this study, real-time PCR methods were developed for strain specific identification and enumeration of L. paracasei 8700:2, a probiotic strain that plays a role in fighting the common cold. METHODS: The assay was designed to target a unique region in L. paracasei 8700:2 genome sequence to achieve strain level specificity. The identification assay was evaluated for specificity and sensitivity. The enumeration viability real-time PCR (v-qPCR) method was first optimized for the viability treatment, then the method was evaluated for efficiency, limit of quantification, precision, and its performance was compared to plate count (PC) and viability droplet digital PCR (v-ddPCR) methods. RESULTS: The identification method proved to be strain specific and highly sensitive with a limit of detection of 0.5 pg of DNA. The optimal viability dye (PMAxx) concentration was 50 μM. The method was efficient (> 90% with R 2 values > 0.99), with a linear dynamic range between 6*102 and 6*105 copies. The method was highly precise with a relative standard deviation below 5%. The Pearson correlation coefficient (r) was 0.707 for PC and v-qPCR methods, and 0.922 for v-qPCR and v-ddPCR. Bland-Altman method comparison showed that v-qPCR always gave higher values compared to PC method (relative difference ranging from 119% to 184%) and showed no consistent trend (relative difference ranging from -20% to 22%) when comparing v-qPCR and v-ddPCR methods. DISCUSSION: The difference between PC and v-PCR methods can potentially be attributed to the proportion of cells that exist in a viable but non culturable (VBNC) state, which can be count by v-PCR but not with PC. The developed v-qPCR method was confirmed to be strain specific, sensitive, efficient, with low variance, able to count VBNC cells, and has shorter time to results compared to plate count methods. Thus, the identification and enumeration methods developed for L. paracasei 8700:2 will be of great importance to achieve high quality and efficacious probiotic products."
+    },
+    {
+      "pmid": "36564972",
+      "title": "Bactericidal and non-cytotoxic activity of bacteriocin produced by Lacticaseibacillus paracasei F9-02 and evaluation of its tolerance to various physico-chemical conditions.",
+      "authors": [
+        "Senbagam Duraisamy",
+        "Aswathy Sathyan",
+        "Senthilkumar Balakrishnan",
+        "Prabhu Subramani",
+        "Chidhambaram Prahalathan",
+        "Anbarasu Kumarasamy"
+      ],
+      "journal": "Environmental microbiology",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aims to explore novel lactic acid bacteria (LAB) from breast-fed infants' faeces towards characterizing their antimicrobial compound, bacteriocin. The LAB, Lacticaseibacillus paracasei F9-02 showed strong antimicrobial activity against clinical pathogens. Their proteinaceous nature was confirmed as the activity was completely abolished when treated with proteinaceous enzymes and retained during neutral pH and catalase treatment. The purified bacteriocin showed antimicrobial activity at the minimum inhibitory concentration (MIC) value of 7.56 μg/ml against vancomycin-resistant Enterococcus sp. [vancomycin-resistant enterococcal (VRE)], and methicillin-resistant Staphylococcus aureus (MRSA), 15.13 μg/ml against Klebsiella pneumoniae, Pseudomonas aeruginosa, Salmonella enterica subsp. enterica serotype typhi and 30.25 μg/ml against Shigella flexneri. Present study also proved the bactericidal, non-cytotoxic and non-hemolytic nature of bacteriocin. Additionally, bacteriocin retained their stability under various physico-chemical conditions, broad range of pH (2-10), temperature (40-121°C), enzymes (amylase, lipase and lysozyme), surfactants [Tween-20, 80, 100 and sodium dodecyl sulfate (SDS)], metal ions (CaCl2 , FeSO4 , ZnSO4 , MgSO4 , MnSO4 , CuCl2 ) and NaCl (2%-8%). The molecular weight of bacteriocin (~28 kDa) was determined by sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE), functional and active groups were assessed by Fourier Transform-Infrared (FT-IR). To our knowledge, this is the first study reporting L. paracasei from breast-fed infants' faeces and assessing their antimicrobial compound, bacteriocin. The study results furnish the essential features to confirm the therapeutic potential of L. paracasei F9-02 bacteriocin.",
+      "mesh_terms": [
+        "Infant",
+        "Humans",
+        "Bacteriocins",
+        "Lacticaseibacillus paracasei",
+        "Methicillin-Resistant Staphylococcus aureus",
+        "Sodium Dodecyl Sulfate",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Vancomycin",
+        "Lactobacillus",
+        "Anti-Bacterial Agents",
+        "Hydrogen-Ion Concentration"
+      ]
+    },
+    {
+      "pmid": "36557684",
+      "title": "Potential Probiotic Properties of Exopolysaccharide-Producing Lacticaseibacillus paracasei EPS DA-BACS and Prebiotic Activity of Its Exopolysaccharide.",
+      "authors": [
+        "Min-Gyu Lee",
+        "Huijin Joeng",
+        "Jaein Shin",
+        "Suin Kim",
+        "Chaeeun Lee",
+        "Youngbo Song",
+        "Byung-Hoo Lee",
+        "Hyoung-Geun Park",
+        "Tae-Ho Lee",
+        "Hai-Hua Jiang",
+        "Young-Sun Han",
+        "Bong-Gyeong Lee",
+        "Ho-Jin Lee",
+        "Min-Ju Park",
+        "Yun-Ju Jun",
+        "Young-Seo Park"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2022-Dec-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Exopolysaccharide (EPS)-producing Lacticaseibacillus paracasei EPS DA-BACS was isolated from healthy human feces and its probiotic properties, as well as the structure and prebiotic activity of the EPS from this strain were examined. EPS from L. paracasei EPS DA-BACS had a ropy phenotype, which is known to have potential health benefits and is identified as loosely cell-bounded glucomannan-type EPS with a molecular size of 3.7 × 106 Da. EPS promoted the acid tolerance of L. paracasei EPS DA-BACS and provided cells with tolerance to gastrointestinal stress. The purified EPS showed growth inhibitory activity against Clostridium difficile. L. paracasei EPS DA-BACS cells completely inhibited the growth of Bacillus subtilis, Pseudomonas aeruginosa, and Aspergillus brasiliensis, as well as showed high growth inhibitory activity against Staphylococcus aureus and Escherichia coli. Treatment of lipopolysaccharide-stimulated RAW 264.7 cells with heat-killed L. paracasei EPS DA-BACS cells led to a decrease in the production of nitric oxide, indicating the anti-inflammatory activity of L. paracasei EPS DA-BACS. Purified EPS promoted the growth of Lactobacillus gasseri, Bifidobacterium bifidum, B. animalis, and B. faecale which showed high prebiotic activity. L. paracasei EPS DA-BACS harbors no antibiotic resistance genes or virulence factors. Therefore, L. paracasei EPS DA-BACS exhibits anti-inflammatory and antimicrobial activities with high gut adhesion ability and gastrointestinal tolerance and can be used as a potential probiotic."
+    },
+    {
+      "pmid": "36496934",
+      "title": "The Modulatory Effects of Lacticaseibacillus paracasei Strain NSMJ56 on Gut Immunity and Microbiome in Early-Age Broiler Chickens.",
+      "authors": [
+        "Sang Seok Joo",
+        "June Hyeok Yoon",
+        "Ji Young Jung",
+        "Sung Yong Joo",
+        "Su Hyun An",
+        "Byeong Cheol Ban",
+        "Changsu Kong",
+        "Myunghoo Kim"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2022-Dec-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Gut health has been attracting attention in the livestock industry as several studies suggest that it is a crucial factor for growth performance and general health status in domestic animals, including broiler chickens. Previously, antibiotics were widely used to improve livestock growth, but their use is now prohibited due to serious problems related to antibiotic resistance. Thus, finding new feed additives to replace antibiotics is drawing attention. Probiotics are representative feed additives and many beneficial effects on broiler chickens have been reported. However, many probiotic studies are focused on productivity only, and there are insufficient studies related to the gut environment, especially gut immunity and gut microbiome. In this study, we conducted an animal experiment using Lacticaseibacillus paracasei NSMJ56 to determine whether it has beneficial effects on gut immunity and microbiome. To evaluate the effects of NSMJ56 supplementation, newly hatched Ross 308 broiler chickens were fed an NSMJ56-containing diet for 10 days, and growth performance, antioxidant indicators, gut morphology, gut immunity-related parameters, and gut microbiome were analyzed. Flow cytometry analysis results revealed that NSMJ56 treatment increased CD4+ T cells and decreased CD8+ T cells in small intestine lamina propria and decreased IL1b and IL10 gene expression in small intestine tissue. In the microbiome analysis, NSMJ56 treatment increased the alpha diversity indices and led to three enriched genera: Massilimicrobiota, Anaerotignum, and Coprococcus. This study suggests that NSMJ56 supplementation has regulatory effects on gut immunity and microbiome in early-age broiler chickens."
+    },
+    {
+      "pmid": "36239668",
+      "title": "Long-term use of Lacticaseibacillus paracasei N1115 from early life alleviates high-fat-diet-induced obesity and dysmetabolism in mice.",
+      "authors": [
+        "Z H Miao",
+        "J N Wang",
+        "X Shen",
+        "Q Q Zhou",
+        "Y T Luo",
+        "H J Liang",
+        "S J Wang",
+        "S H Qi",
+        "R Y Cheng",
+        "F He"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2022-Nov-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity has become one of the most serious public health problems worldwide, and an increasing number of studies indicate that the gut microbiota can affect host metabolism. Therefore, the present study was conducted to evaluate whether long-term use of probiotics can alleviate host obesity and metabolism by altering gut microbiota. The high-fat diet (HFD) starting from weaned period led to higher levels of visceral fat and a significantly heavier liver in male mice. Moreover, HFD resulted in disorders of glucose and lipid metabolism, changes in insulin-resistance indices (IR), and an increase in serum insulin and leptin in mice. Of note, 15 weeks use of Lacticaseibacillus paracasei N1115 decreased visceral fat, liver weight, serum levels of insulin and leptin, and IR and alleviated lipid dysmetabolism. HFD resulted in a significant increase in the relative abundance of Bilophila, Lachnoclostridium, and Blautia and may decrease the faecal short-chain fatty acid (SCFA) levels in mice; in turn, treatment with the potential probiotic strain L. paracasei N1115 protected mice from these negative effects. HFD significant impaired the physiology of the host especially in male mice and dramatically changed the composition of host gut microbiota. However, the use of potential probiotic strain, such as L. paracasei N1115, may prevent these impairments due to HFD via effecting the host gut microbiota and SCFA.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Diet, High-Fat",
+        "Fatty Acids, Volatile",
+        "Insulins",
+        "Lacticaseibacillus paracasei",
+        "Leptin",
+        "Mice, Inbred C57BL",
+        "Obesity",
+        "Probiotics"
+      ]
+    },
+    {
+      "pmid": "35300564",
+      "title": "Safety and tolerance of Lacticaseibacillus paracasei N1115 in caesarean-born young children: a randomised, placebo-controlled trial.",
+      "authors": [
+        "Z Ren",
+        "A Zhao",
+        "J Zhang",
+        "C Yang",
+        "W Zhong",
+        "S Mao",
+        "S Wang",
+        "Q Yuan",
+        "P Wang",
+        "Y Zhang"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2022-Aug-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The administration of probiotics may help to improve dysbiosis and related health problems in children delivered by caesarean section. However, the effects are strain specific, and safety combined tolerance are considered a priority. The aim of this study was to evaluate the safety and tolerance of Lacticaseibacillus paracasei N1115 in caesarean-born children aged 6-24 months via a randomised, placebo-controlled intervention study. In total, 101 children were included and randomised to receive either a sachet of L. paracasei N1115 (2×1010 cfu/g, 2 g/day) or placebo (maltodextrin, 2 g/day) per day for 12 weeks. Anthropometric parameters were measured by trained nurses, and defecation characteristics, gastrointestinal symptoms, (serious) adverse events ((s)AEs), crying patterns and lifestyle behaviours were recorded by parents or guardians. Neurocognitive development was assessed by the Ages and Stages Questionnaires-3 (ASQ-3) before and after the intervention. The only difference between groups regarding defecation characteristics was a significant treatment × time effect on stool frequency (P=0.007), as the number of defecations was significantly higher in the probiotic group (around 1.2-1.3 times/day) than in the placebo group (around 1.0 times/day) in the later intervention period (P=0.035 at week 9; P=0.048 at week 10; P=0.026 at week 12). The use of L. paracasei N1115 also reduced the incidence rate of constipation (Incidence rate ratio (IRR): 0.120; 95% confidence interval (CI): 0.015, 0.967; P=0.046) and abdominal pain (IRR: 0.562; 95% CI: 0.358, 0.882; P=0.012). Changes in anthropometric parameters, including weight, height and head circumference, did not differ significantly between groups, nor did measures of crying, sleep, outdoor activity, temper, appetite or the ASQ-3 scores. No adverse events associated with consumption of the probiotic were reported. Thus, the administration of L. paracasei N1115 is safe and well-tolerated in caesarean-born children aged 6-24 months. Furthermore, it may ameliorate gastrointestinal function to some extent.",
+      "mesh_terms": [
+        "Cesarean Section",
+        "Child",
+        "Child, Preschool",
+        "Constipation",
+        "Feces",
+        "Female",
+        "Humans",
+        "Lacticaseibacillus paracasei",
+        "Pregnancy",
+        "Probiotics"
+      ]
+    },
+    {
+      "pmid": "35187034",
+      "title": "Heat-Killed Lacticaseibacillus paracasei GMNL-653 Exerts Antiosteoporotic Effects by Restoring the Gut Microbiota Dysbiosis in Ovariectomized Mice.",
+      "authors": [
+        "Jhih-Hua Jhong",
+        "Wan-Hua Tsai",
+        "Li-Chan Yang",
+        "Chia-Hsuan Chou",
+        "Tzong-Yi Lee",
+        "Yao-Tsung Yeh",
+        "Cheng-Hsieh Huang",
+        "Yueh-Hsia Luo"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Osteoporosis is a metabolic inflammatory disease, an imbalance occurs between bone resorption and formation, leading to bone loss. Anti-inflammatory diet is considered having the potential to ameliorate osteoporosis. Heat-killed probiotics exhibit health benefits in relation to their immunomodulatory effects, but the detail mechanism involved in gut microbiota balance, host metabolism, immunity, and bone homeostasis remains unclear. In this study, we evaluated the antiosteoporotic effects of heat-killed Lacticaseibacillus paracasei GMNL-653 in vitro and in ovariectomized (OVX) mice. Furthermore, whole-genome sequencing and comparative genomics analysis demonstrated potentially genes involved in antiosteoporotic activity. The GMNL-653 exerts anti-inflammatory activity which restored gut microbiota dysbiosis and maintained intestinal barrier integrity in the OVX mice. The levels of IL-17 and LPS in the sera decreased following GMNL-653 treatment compared with those of the vehicle control; mRNA levels of RANKL were reduced and TGF-β and IL-10 enhanced in OVX-tibia tissue after treatment. The levels of IL-17 were significantly associated with gut microbiota dysbiosis. Gut microbial metagenomes were further analyzed by PICRUSt functional prediction, which reveal that GMNL-653 intervention influence in several host metabolic pathways. The analysis of whole-genome sequencing accompanied by comparative genomics on three L. paracasei strains revealed a set of GMNL-653 genes that are potentially involved in antiosteoporotic activity. Our findings validated antiosteoporotic activity of heat-killed GMNL-653 using in vitro and in vivo models, to whole-genome sequencing and identifying genes potentially involved in this gut microbiota-bone axis."
+    },
+    {
+      "pmid": "35067214",
+      "title": "Supplementation with heat-inactivated Lacticaseibacillus paracasei K47 ameliorates allergic asthma in mice by regulating the Th1/Th2 balance.",
+      "authors": [
+        "C-M Chen",
+        "S-H Cheng",
+        "Y-H Chen",
+        "C-C Wu",
+        "C-C Hsu",
+        "C-T Lin",
+        "Y-C Tsai"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2022-Feb-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Asthma is a chronic inflammatory disease related to the immune response of type 2 T helper cells (Th2), which affects all age groups. The incidence of asthma is increasing worldwide, and it has become a significant public health problem. This study aimed to investigate the immunomodulatory effects of Lacticaseibacillus (formerly Lactobacillus) paracasei K47 on mice with ovalbumin (OVA)-induced allergy. The consequences of orally administered heat-inactivated K47 in OVA-sensitised/challenged BALB/c mice were evaluated by assessing the serum levels of immunoglobulins (Igs), airway hyperresponsiveness (AHR), and bronchoalveolar lavage fluid (BALF) cytokine. In addition, the effect of K47 on type 1 T helper cells (Th1)/Th2 cytokine production in splenocytes from OVA-sensitised mice was evaluated. The results revealed that supplementation with K47 remarkably reduced serum levels of total IgE, OVA-specific IgE, and OVA-specific IgG1 in OVA-sensitised/challenged mice. In addition, K47 intervention ameliorated AHR and suppressed the accumulation of inflammatory cells in the BALF of OVA-sensitised/challenged mice. Furthermore, the immunomodulatory ability of K47 was mediated by regulation of the cytokine profile toward the Th1 response in the BALF, and splenocytes of OVA-sensitised mice. Taken together, these results suggested that K47 can modulate the host immune response to ameliorate AHR and inflammation in allergic asthma.",
+      "mesh_terms": [
+        "Animals",
+        "Asthma",
+        "Bronchoalveolar Lavage Fluid",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Hot Temperature",
+        "Lung",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Ovalbumin",
+        "Probiotics",
+        "Th2 Cells"
+      ]
+    },
+    {
+      "pmid": "34849766",
+      "title": "Detection of viable Lacticaseibacillus paracasei in fermented milk using propidium monoazide combined with quantitative loop-mediated isothermal amplification.",
+      "authors": [
+        "Lianxia Hu",
+        "Yuling Xue",
+        "Liru Cui",
+        "Dong Zhang",
+        "Lili Feng",
+        "Wei Zhang",
+        "Shijie Wang"
+      ],
+      "journal": "FEMS microbiology letters",
+      "publication_date": "2021-Dec-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To quantify viable probiotic Lacticaseibacillus paracasei (L. paracasei) in fermented milk accurately and quickly, propidium monoazide combined with quantitative loop-mediated isothermal amplification (PMA-qLAMP) was applied. The optimal PMA treatment conditions for treating a L. paracasei suspension were determined using an orthogonal test to eliminate the DNA amplification of 108 CFU/mL of dead L. paracasei. Primers were designed based on the species-specific gyrB gene of L. paracasei. A phylogenetic tree based on the gyrB gene showed that L. paracasei clustered on the same branch with 91% support. Compared with the 16 strains commonly found in fermented milk, three strains of L. paracasei showed positive PMA-qLAMP results, and the melting temperature was approximately 82.4°C. There was a linear relationship (R2 = 0.9983) between the Ct values and the logarithm of the concentration of viable bacteria. The PMA-qLAMP detection limit for the L. paracasei artificially added to fermented milk was 7.3 × 102 CFU/mL. There was no significant difference between the logarithm values of the concentration of viable L. paracasei of 50 fermented milk samples within shelf life using the PMA-qLAMP and plate count methods (P > 0.01). PMA-qLAMP is specific and accurate for obtaining reliable results faster than when using plate counts.",
+      "mesh_terms": [
+        "Animals",
+        "Azides",
+        "Cultured Milk Products",
+        "DNA Gyrase",
+        "Lacticaseibacillus paracasei",
+        "Microbial Viability",
+        "Milk",
+        "Molecular Diagnostic Techniques",
+        "Nucleic Acid Amplification Techniques",
+        "Phylogeny",
+        "Propidium"
+      ]
+    },
+    {
+      "pmid": "34839170",
+      "title": "Extracellular vesicles of Lacticaseibacillus paracasei PC-H1 induce colorectal cancer cells apoptosis via PDK1/AKT/Bcl-2 signaling pathway.",
+      "authors": [
+        "Yangqian Shi",
+        "Lingyu Meng",
+        "Chunliang Zhang",
+        "Fengmin Zhang",
+        "Yong Fang"
+      ],
+      "journal": "Microbiological research",
+      "publication_date": "2021-Nov-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Colorectal cancer (CRC) is the third most common malignant tumor in the world. Previous research has shown that Lacticaseibacillus paracasei strains and its cultures have anti-colon cancer effects, but the study of L. paracasei-derived extracellular vesicles (LpEVs) as intercellular communication molecule against colon cancer has not been previously reported. Our research showed LpEVs were taken in by colorectal cancer cells. Subsequently, LpEVs inhibited the proliferation, migration, invasion and promote apoptosis of colorectal cancer cells. LpEVs inhibited the growth of CRC xenograft in nude mice and promoted tumor apoptosis in vivo. Transcriptome sequencing analysis revealed that differentially expressed genes were involved in the regulation of apoptosis. LpEVs significantly inhibited the phosphorylation level of 3-phosphoinositide-dependent protein kinase-1 (PDK1) and AKT in colorectal cancer cells and reduced the expression of Bcl-2 protein. In conclusion, extracellular vesicles of Lacticaseibacillus paracasei PC-H1 can inhibit the growth of colorectal cancer cells in vivo and vitro and induce apoptosis through PDK1/AKT/Bcl-2 signaling pathway. This research not only provides a new mechanism for the anti-tumor effects of probiotics, but also opens up new opportunity for the treatment of colon cancer."
+    },
+    {
+      "pmid": "34833122",
+      "title": "Lacticaseibacillus paracasei: Occurrence in the Human Gut Microbiota and K-Mer-Based Assessment of Intraspecies Diversity.",
+      "authors": [
+        "Maria Frolova",
+        "Sergey Yudin",
+        "Valentin Makarov",
+        "Olga Glazunova",
+        "Olga Alikina",
+        "Natalia Markelova",
+        "Nikolay Kolzhetsov",
+        "Timur Dzhelyadin",
+        "Viktoria Shcherbakova",
+        "Vladimir Trubitsyn",
+        "Valery Panyukov",
+        "Alexandr Zaitsev",
+        "Sergey Kiselev",
+        "Konstantin Shavkunov",
+        "Olga Ozoline"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2021-Nov-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alignment-free approaches employing short k-mers as barcodes for individual genomes have created a new strategy for taxonomic analysis and paved a way for high-resolution phylogeny. Here, we introduce this strategy for the Lacticaseibacillus paracasei species as a taxon requiring barcoding support for precise systematics. Using this approach for phylotyping of L. paracasei VKM B-1144 at the genus level, we identified four L. paracasei phylogroups and found that L. casei 12A belongs to one of them, rather than to the L. casei clade. Therefore, we propose to change the specification of this strain. At the genus level we found only one relative of L. paracasei VKM B-1144 among 221 genomes, complete or available in contigs, and showed that the coding potential of the genome of this \"rare\" strain allows its consideration as a potential probiotic component. Four sets of published metagenomes were used to assess the dependence of L. paracasei presence in the human gut microbiome on chronic diseases, dietary changes and antibiotic treatment. Only antibiotics significantly affected their presence, and strain-specific barcoding allowed the identification of the main scenarios of the adaptive response. Thus, suggesting bacteria of this species for compensatory therapy, we also propose strain-specific barcoding for selecting optimal strains for target microbiomes."
+    },
+    {
+      "pmid": "34511050",
+      "title": "Lacticaseibacillus paracasei NK112 mitigates Escherichia coli-induced depression and cognitive impairment in mice by regulating IL-6 expression and gut microbiota.",
+      "authors": [
+        "S-W Yun",
+        "J-K Kim",
+        "M J Han",
+        "D-H Kim"
+      ],
+      "journal": "Beneficial microbes",
+      "publication_date": "2021-Nov-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The gut microbiota communicates with the brain through microbiota-gut-brain (MGB) and hypothalamus-pituitary-adrenal (HPA) axes and other pathways. Excessive expression of interleukin (IL)-6 is closely associated with the occurrence of the psychiatric disorders depression and dementia. Therefore, to understand whether IL-6 expression-suppressing probiotics could alleviate psychiatric disorders, we isolated IL-6 expression-inhibiting Lacticaseibacillus paracasei (formerly Lactobacillus paracasei) NK112 from the human faecal bacteria strain collection (Neurobiota Research Center, Seoul, Korea) and examined its therapeutic effect for the depression and cognitive impairment in mice. C57 BL/6J mice with depression and cognitive impairment were prepared by exposure to Escherichia coli K1. Oral gavage of NK112 significantly alleviated K1-induced anxious, depressive, and memory-impaired behaviours in the elevated plus maze, tail-suspension and Y-maze tasks, IL-1β, IL-6, and tumour necrosis factor (TNF)-α expression, and nuclear factor kappa beta (NF-κB) activation in the hippocampus, while K1-suppressed brain-derived neurotrophic factor (BDNF) expression increased. Treatment with NK112 also improved K1-induced myeloperoxidase activity, IL-6 and TNF-α expression, and NF-κB activation in the colon and reduced K1-induced Proteobacteria population in the gut microbiota. Heat-killed NK112 and its lysate supernatant, and precipitate fractions also improved anxiety/depression, cognitive impairment, and colitis in mice. In conclusion, NK112, even if heat-killed or lysed, alleviated K1 stress-induced colitis, anxiety/depression, and cognitive impairment by suppressing IL-6, TNF-α, and BDNF expression through the regulation of gut microbiota and NF-κB activation.",
+      "mesh_terms": [
+        "Animals",
+        "Brain-Derived Neurotrophic Factor",
+        "Cognitive Dysfunction",
+        "Colitis",
+        "Depression",
+        "Escherichia coli",
+        "Gastrointestinal Microbiome",
+        "Interleukin-1beta",
+        "Interleukin-6",
+        "Lacticaseibacillus paracasei",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "NF-kappa B",
+        "Probiotics",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "34209804",
+      "title": "Effects of Fermented Milk Containing Lacticaseibacillus paracasei Strain Shirota on Constipation in Patients with Depression: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "authors": [
+        "Xiaomei Zhang",
+        "Shanbin Chen",
+        "Ming Zhang",
+        "Fazheng Ren",
+        "Yimei Ren",
+        "Yixuan Li",
+        "Ning Liu",
+        "Yan Zhang",
+        "Qi Zhang",
+        "Ran Wang"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Jun-29",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Probiotics have been shown to benefit patients with constipation and depression, but whether they specifically alleviate constipation in patients with depression remains unclear. The aim of this study was to investigate the effect of Lacticaseibacillus paracasei strain Shirota (LcS), formerly Lactobacillus casei strain Shirota, on constipation in patients with depression with specific etiology and gut microbiota and on depressive regimens. Eighty-two patients with constipation were recruited. The subjects consumed 100 mL of a LcS beverage (108 CFU/mL) or placebo every day for 9 weeks. After ingesting beverages for this period, we observed no significant differences in the total patient constipation-symptom (PAC-SYM) scores in the LcS group when compared with the placebo group. However, symptoms/scores in item 7 (rectal tearing or bleeding after a bowel movement) and items 8-12 (stool symptom subscale) were more alleviated in the LcS group than in the placebo group. The Beck Depression Index (BDI) and Hamilton Depression Rating Scale (HAMD) scores were all significantly decreased, and the degree of depression was significantly improved in both the placebo and LcS groups (p < 0.05), but there was no significant difference between the groups. The LcS intervention increased the beneficial Adlercreutzia, Megasphaera and Veillonella levels and decreased the bacterial levels related to mental illness, such as Rikenellaceae_RC9_gut_group, Sutterella and Oscillibacter. Additionally, the interleukin (IL)-1β, IL-6, and tumor necrosis factor-α (TNF-α) levels were significantly decreased in both the placebo and LcS groups (p < 0.05). In particular, the IL-6 levels were significantly lower in the LcS group than the placebo group after the ingestion period (p < 0.05). In conclusion, the daily consumption of LcS for 9 weeks appeared to relieve constipation and improve the potentially depressive symptoms in patients with depression and significantly decrease the IL-6 levels. In addition, the LcS supplementation also appeared to regulate the intestinal microbiota related to mental illness.",
+      "mesh_terms": [
+        "Adult",
+        "Animals",
+        "Constipation",
+        "Cultured Milk Products",
+        "Depression",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Lacticaseibacillus paracasei",
+        "Male",
+        "Middle Aged",
+        "Probiotics",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "34070604",
+      "title": "Lactiplantibacillus plantarum MG4296 and Lacticaseibacillus paracasei MG5012 Ameliorates Insulin Resistance in Palmitic Acid-Induced HepG2 Cells and High Fat Diet-Induced Mice.",
+      "authors": [
+        "Gayeong Won",
+        "Soo-Im Choi",
+        "Chang-Ho Kang",
+        "Gun-Hee Kim"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2021-May-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The purpose of this study was to evaluate the capacity of Lactiplantibacillus plantarum MG4296 (MG4296) and Lacticaseibacillus paracasei MG5012 (MG5012) on insulin resistance (IR) and diabetes-related metabolic changes in palmitic acid (PA)-induced HepG2 cells and high-fat diet-induced mice. In vitro, cell-free extracts of MG4296 and MG5012 alleviated IR by increasing glucose uptake and glycogen content in PA-induced insulin-resistant HepG2 cells. In vivo, MG4296 and MG5012 supplementation markedly decreased body weight and glucose tolerance. Administration of both strains also improved serum glucose, glycated hemoglobin, insulin, triglyceride, LDL/HDL ratio, and homeostatic model assessment of IR (HOMA-IR). Histopathological analysis of liver tissue demonstrated a significant reduction in lipid accumulation and glycogen content. Moreover, MG4296 and MG5012 treatment enhanced phosphoinositide-3 kinase (PI3K)/protein kinase B (Akt) expression in the liver. Overall, MG4296 and MG5012 could prevent HFD-induced glucose tolerance and hyperglycemia by improving IR. Therefore, L. plantarum MG4296 and L. paracasei MG5012 could be useful as new probiotics candidates to improve T2DM."
+    },
+    {
+      "pmid": "34068832",
+      "title": "Effect of Lacticaseibacillus paracasei Strain Shirota on Improvement in Depressive Symptoms, and Its Association with Abundance of Actinobacteria in Gut Microbiota.",
+      "authors": [
+        "Machiko Otaka",
+        "Hiroko Kikuchi-Hayakawa",
+        "Jun Ogura",
+        "Hiroshi Ishikawa",
+        "Yukihito Yomogida",
+        "Miho Ota",
+        "Shinsuke Hidese",
+        "Ikki Ishida",
+        "Masanori Aida",
+        "Kazunori Matsuda",
+        "Mitsuhisa Kawai",
+        "Sumiko Yoshida",
+        "Hiroshi Kunugi"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2021-May-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We previously reported lower counts of lactobacilli and Bifidobacterium in the gut microbiota of patients with major depressive disorder (MDD), compared with healthy controls. This prompted us to investigate the possible efficacy of a probiotic strain, Lacticaseibacillus paracasei strain Shirota (LcS; basonym, Lactobacillus casei strain Shirota; daily intake of 8.0 × 1010 colony-forming units), in alleviating depressive symptoms. A single-arm trial was conducted on 18 eligible patients with MDD or bipolar disorder (BD) (14 females and 4 males; 15 MDD and 3 BD), assessing changes in psychiatric symptoms, the gut microbiota, and biological markers for intestinal permeability and inflammation, over a 12-week intervention period. Depression severity, evaluated by the Hamilton Depression Rating Scale, was significantly alleviated after LcS treatment. The intervention-associated reduction of depressive symptoms was associated with the gut microbiota, and more pronounced when Bifidobacterium and the Atopobium clusters of the Actinobacteria phylum were maintained at higher counts. No significant changes were observed in the intestinal permeability or inflammation markers. Although it was difficult to estimate the extent of the effect of LcS treatment alone, the results indicated that it was beneficial to alleviate depressive symptoms, partly through its association with abundance of Actinobacteria in the gut microbiota."
+    },
+    {
+      "pmid": "33385020",
+      "title": "Lacticaseibacillus paracasei Lpc-37® improves psychological and physiological markers of stress and anxiety in healthy adults: a randomized, double-blind, placebo-controlled and parallel clinical trial (the Sisu study).",
+      "authors": [
+        "Elaine Patterson",
+        "Síle M Griffin",
+        "Alvin Ibarra",
+        "Emilia Ellsiepen",
+        "Juliane Hellhammer"
+      ],
+      "journal": "Neurobiology of stress",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic stress is a risk-factor for the development of mood and stress-related disorders. Clinical evidence indicates that probiotics can influence the stress response and mood. The Sisu study investigated whether Lacticaseibacillus paracasei Lpc-37® (Lpc-37®) could modulate stress, mood and well-being. Prior to a two-week run-in period, 120 healthy adults (18-45 y) were stratified for sex and chronic stress and randomized to either 1.75 × 1010 colony forming units (CFU) of Lpc-37 or placebo (1:1) per day for 5 weeks. The primary objective was the effect of Lpc-37 on heart rate (HR) in response to the Trier Social Stress Test (TSST). Secondary objectives were assessed by biomarkers and self-report scales over the study. The primary hypothesis was not met in either the Intention-to-Treat (ITT) or Per Protocol (PP) population, but Lpc-37 reduced the increase in HR in participants with low chronic stress (LCS) and increased HR in participants with high chronic stress (HCS) during the TSST. Supporting significant efficacy in the PP population (n = 113), Lpc-37 reduced perceived stress following intervention. More significant effects were identified within the subgroups where Lpc-37 reduced exhaustion during the TSST and normalized cortisol levels at 8pm in participants with LCS, reduced perceived stress also in females, and increased perceived health and sleep-related recovery in participants with HCS. Adverse events (AEs) were similar between groups, there were no severe AEs, and vital signs remained unchanged. Overall, Lpc-37 reduced perceived stress compared to placebo. Other beneficial effects within biomarkers related to stress indicate that the effects of Lpc-37 may be differentially dependent on sex and chronic stress. (ClinicalTrials.gov: NCT03494725)."
+    },
+    {
+      "pmid": "33212803",
+      "title": "New Bacteriocins from Lacticaseibacillus paracasei CNCM I-5369 Adsorbed on Alginate Nanoparticles Are Very Active against Escherichia coli.",
+      "authors": [
+        "Yanath Belguesmia",
+        "Noura Hazime",
+        "Isabelle Kempf",
+        "Rabah Boukherroub",
+        "Djamel Drider"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2020-Nov-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lacticaseibacillus paracasei CNCM I-5369, formerly Lactobacillus paracasei CNCM I-5369, produces bacteriocins that are remarkably active against Gram-negative bacteria, among which is the Escherichia coli-carrying mcr-1 gene that is involved in resistance to colistin. These bacteriocins present in the culture supernatant of the producing strain were extracted and semi-purified. The fraction containing these active bacteriocins was designated as E20. Further, E20 was loaded onto alginate nanoparticles (Alg NPs), leading to a highly active nano-antibiotics formulation named hereafter Alg NPs/E20. The amount of E20 adsorbed on the alginate nanoparticles was 12 wt.%, according to high-performance liquid chromatography (HPLC) analysis. The minimal inhibitory concentration (MIC) values obtained with E20 ranged from 250 to 2000 μg/mL, whilst those recorded for Alg NPs/E20 were comprised between 2 and 4 μg/mL, which allowed them to gain up to 500-fold in the anti-E. coli activity. The damages caused by E20 and/or Alg NPs/E20 on the cytology of the target bacteria were characterized by transmission electron microscopy (TEM) imaging and the quantification of intracellular proteins released following treatment of the target bacteria with these antimicrobials. Thus, loading these bacteriocins on Alg NPs appeared to improve their activity, and the resulting nano-antibiotics stand as a promising drug delivery system.",
+      "mesh_terms": [
+        "Alginates",
+        "Anti-Bacterial Agents",
+        "Bacteriocins",
+        "Escherichia coli",
+        "Lactobacillaceae",
+        "Nanoparticles"
+      ]
+    }
+  ]
+}

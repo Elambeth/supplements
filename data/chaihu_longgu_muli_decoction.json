@@ -1,0 +1,192 @@
+{
+  "supplement": "Chaihu Longgu Muli Decoction",
+  "query": "Chaihu Longgu Muli Decoction[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:33:53",
+  "research_count": 6,
+  "count": 6,
+  "articles": [
+    {
+      "pmid": "37479071",
+      "title": "Plasma exosomes proteome profiling discovers protein markers associated with the therapeutic effect of Chaihu-Longgu-Muli decoction on temporal lobe epilepsy.",
+      "authors": [
+        "Ping Yang",
+        "Yahui Huang",
+        "Yong Zhu",
+        "Qiang Wang",
+        "Yan Guo",
+        "Liang Li"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2024-Jan-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Traditional Chinese medicine (TCM) uses Chaihu-Longgu-Muli decoction (CLMD) to alleviate disease, clear away heat, calm the mind, and temper excitation. It has been widely used for the therapy of neuropsychiatric disorders including epilepsy, dementia, anxiety, insomnia, and depression for several centuries in China. AIM OF THE STUDY: This study aims to analyze differentially expressed proteins (DEPs) in the plasma exosomes of patients with temporal lobe epilepsy (TLE) and after the Chaihu-Longgu-Muli Decoction (CLMD) therapy and to explore the biomarkers of TLE and the potential targets of CLMD in treating TLE. MATERIALS AND METHODS: The plasma exosomes of normal people and patients with TLE before the treatment of oxcarbazepine (OXC) and combined treatment of OXC and CLMD (OXC.CLMD) were harvested. The exosomes were separated from plasma through ultracentrifugation and then identified by transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), and flow cytometry. The DEPs were analyzed by proteomics and then subjected to gene ontology (GO) functional enrichment and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis. The protein level of key genes was detected using Western blot. A lithium chloride-pilocarpine-induced epilepsy rat model was established and treated with OXC alone, OXC. CLMD, and CLMD alone (low dose and high dose). Neuronal injury in the hippocampal dentate gyrus and ribosomal protein L6 (RPL6) expression in the brain tissues were detected using H&E staining, Nissl staining, and Western blot. RESULTS: The proteomic analysis showed several DEPs were present among plasma exosomes in the four groups; DEPs were enriched in epilepsy-related function and pathway. Four key proteins were screened, including RPL6, Nucleolin (NCL), Apolipoprotein A1 (APOA1), and Lactate Dehydrogenase A (LDHA). Among them, RPL6, NCL, and LDHA protein levels were downregulated and APOA1 protein level was upregulated in the plasma exosomes of TLE patients. After OXC and OXC. CLMD treatment, the protein level of RPL6, NCL, and LDHA was increased, and the APOA1 protein level was decreased. Moreover, the RPL6 protein level was further elevated after OXC. CLMD treatment than that after OXC treatment. In the TLE rat model, neuronal degeneration and necrosis in the hippocampal dentate gyrus increased and RPL6 expression level decreased. After the treatment with OXC, OXC. CLMD, and CLMD alone, the degeneration and necrosis of neurons decreased, and the RPL6 expression level was increased; RPL6 upregulation was remarkably obvious after CLMD treatment. CONCLUSIONS: RPL6, NCL, LDHA and APOA1 are the DEPs in the plasma exosomes of patients with TLE before and after therapy. RPL6 might be a potential biomarker of CLMD in treating TLE.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Epilepsy, Temporal Lobe",
+        "Proteome",
+        "Exosomes",
+        "Proteomics",
+        "Epilepsy",
+        "Necrosis",
+        "Hippocampus"
+      ]
+    },
+    {
+      "pmid": "37441503",
+      "title": "Chaihu-Longgu-Muli decoction improves sleep disorders by restoring orexin-A function in CKD mice.",
+      "authors": [
+        "Xin-Li Cao",
+        "Xue-Mei Peng",
+        "Gong-Bo Li",
+        "Wei-Sen Ding",
+        "Kai-Zhen Wang",
+        "Xiao-Lei Wang",
+        "Yan-Ying Xiong",
+        "Wei-Jian Xiong",
+        "Fan Li",
+        "Min Song"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Chaihu-Longgu-Muli decoction (CLMD) is a well-used ancient formula originally recorded in the \"Treatise on Febrile Diseases\" written by the founding theorist of Traditional Chinese Medicine, Doctor Zhang Zhongjing. While it has been used extensively as a therapeutic treatment for neuropsychiatric disorders, such as insomnia, anxiety and dementia, its mechanisms remain unclear. METHODS: In order to analyze the therapeutic mechanism of CLMD in chronic renal failure and insomnia, An adenine diet-induced chronic kidney disease (CKD) model was established in mice, Furthermore, we analyzed the impact of CLMD on sleep behavior and cognitive function in CKD mice, as well as the production of insomnia related regulatory proteins and inflammatory factors. RESULTS: CLMD significantly improved circadian rhythm and sleep disturbance in CKD mice. The insomnia related regulatory proteins, Orexin, Orexin R1, and Orexin R2 in the hypothalamus of CKD mice decreased significantly, while Orexin and its receptors increased remarkably after CLMD intervention. Following administration of CLMD, reduced neuron loss and improved learning as well as memory ability were observed in CKD mice. And CLMD intervention effectively improved the chronic inflflammatory state of CKD mice. DISCUSSION: Our results showed that CLMD could improve sleep and cognitive levels in CKD mice. The mechanism may be related to the up-regulation of Orexin-A and increased phosphorylation level of CaMKK2/AMPK, which further inhibits NF-κB downstream signaling pathways, thereby improving the disordered inflammatory state in the central and peripheral system. However, More research is required to confirm the clinical significance of the study.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Orexins",
+        "Sleep Initiation and Maintenance Disorders",
+        "Drugs, Chinese Herbal",
+        "Renal Insufficiency, Chronic"
+      ]
+    },
+    {
+      "pmid": "37058036",
+      "title": "Chaihu Longgu Muli Decoction for post-stroke insomnia: A protocol for systematic review and meta-analysis.",
+      "authors": [
+        "Xuedi Huang",
+        "Yue Xiong",
+        "Sichen Jiang",
+        "Lihua Tang",
+        "Xingzhen Lin",
+        "Xinyue Fang",
+        "Yuzhen Shi",
+        "Wanning Lan",
+        "Yaying Xie",
+        "Tianzhong Peng"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2023-Apr-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Poststroke insomnia (PSI) is a frequent complication of stroke usually as a comorbidity of poststroke depression and mainly occurs within the first 6 months after stroke.[1] Addressing PSI to improve stroke prognosis is of great value. Herbal medicine like Chaihu Longgu Muli Decoction (CLMD), which is commonly considered to be a good treatment for depression and epilepsy, has the therapeutic potential on PSI; however, insufficient systematic reviews were conducted to testify its efficacy. Therefore, the objective of this paper is to provide reliable evidence of the efficacy and safety of CLMD on PSI and a foundation for further investigation. METHODS: The literature of clinical randomized controlled trials (RCTs) regarding CLMD for PSI published before June of 2021 will be retrieved in the databases, and 2 investigators will be asked to collect and crosscheck the data independently. For the including studies, the quality evaluation on methodology will be assessed in the light of the Cochrane Handbook for Systematic Review of Interventions V.5.1.0 as well as the quality of evidence will be evaluated by the Grading of Recommendations Assessment, Development, and Evaluation. Besides, the assessment of heterogeneity and reporting bias, the sensitivity analysis and the subgroup analysis will be conducted. Stata 15 will be applied to analyze the above data. RESULTS: The review will conduct a high-quality synthesis on present evidence of CLMD for PSI. CONCLUSION: The conclusion of the study will indicate whether CLMD is effective and safe for PSI.",
+      "mesh_terms": [
+        "Humans",
+        "Sleep Initiation and Maintenance Disorders",
+        "Systematic Reviews as Topic",
+        "Meta-Analysis as Topic",
+        "Drugs, Chinese Herbal",
+        "Stroke"
+      ]
+    },
+    {
+      "pmid": "33019437",
+      "title": "Chaihu Longgu Muli decoction, a Chinese herbal formula, for the treatment of insomnia: A systematic review and meta-analysis.",
+      "authors": [
+        "Xinyi Wang",
+        "Jianqing Ju",
+        "Jingen Li",
+        "Yixuan Fan",
+        "Hao Xu"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2020-Oct-02",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "PURPOSE: To review the literature on the efficacy and safety of Chaihu Longgu Muli decoction (CLMD) for insomnia. METHODS: A systematic literature search was performed for five databases up to May of 2019 to identify randomized control trials involving CLMD for patients with insomnia. The experimental group was CLMD monotherapy or CLMD plus conventional treatment. Comparators were placebo, no treatment, or conventional medicine. The main comparison was CLMD against conventional drugs. The primary outcome was sleep quality (assessed using the Pittsburgh Sleep Quality Index, PSQI). The secondary outcomes were clinical effectiveness rate, total sleep time, and adverse event rate. RevMan 5.3 software was used for meta-analysis with effect estimate presented as relative risk (RR) and mean difference (MD) with 95% confidence interval (CI). RESULTS: A total of 22 studies involving 2029 patients were included. All the included studies presented some risk of bias, especially risks of performance, and detection bias. The main meta-analysis showed that CLMD alone was more effective than conventional medications by reducing PSQI (MD = -2.80, 95% CI [-5.48, -0.13], P = .04), improving the clinical effectiveness rate (RR = 1.23, 95% CI [1.16, 1.31], P < .00001), and prolonging total sleep time (MD = 1.01, 95% CI [0.19, 1.83], P = .002). The adverse event rate in the CLMD group was lower than that of the control group (RR = 0.22, 95% CI [0.09, 0.51], P = .0005). CLMD also improved sleep quality better than conventional medications as an adjunct therapy (P < .05). The funnel plot was symmetrical, representing a low risk of publication bias. CONCLUSION: CLMD presented better efficacy and safety than conventional medications and had the potential to become an alternative to conventional medications for the treatment of insomnia. However, as the included studies showed significant risks of bias, these results will need to be confirmed by future double-blind randomized controlled trials. PROSPERO REGISTRATION NUMBER: CRD42019133103.",
+      "mesh_terms": [
+        "Drugs, Chinese Herbal",
+        "Humans",
+        "Sleep Initiation and Maintenance Disorders"
+      ]
+    },
+    {
+      "pmid": "32442588",
+      "title": "Chaihu-Longgu-Muli decoction relieves epileptic symptoms by improving autophagy in hippocampal neurons.",
+      "authors": [
+        "Ping Yang",
+        "You Qin",
+        "Yong Zhu",
+        "Feng Li",
+        "Shuai-Shuai Xia",
+        "Bin Zhou",
+        "Qin Wang",
+        "Jun Lu",
+        "Liang Li",
+        "Hui-Yong Huang"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2020-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Chaihu-Longgu-Muli decoction (CLMD) is a well-known ancient formula in traditional Chinese medicine (TCM) to relieve disorder, clear away heat, tranquilize the mind and allay excitement. It has been used for the therapy of neuropsychiatric disorders such as epilepsy, dementia, insomnia, anxiety, and depression for several centuries in China. AIM OF THE STUDY: This paper is based on the assumption that the mechanism by which CLMD relieves epileptic symptoms in rats is associated with improving autophagy. Several experimental methods are designed to testify the hypothesis. MATERIALS AND METHODS: The lithium-pilocarpine-induced epilepsy model was established in rats. The seizure frequency was recorded. Morphology and number of autophagosomes in hippocampal dentate gyrus was detected with a transmission electron microscope (TEM). Expression of Beclin-1, microtubule-associated proteins 1A/1B light chain 3 (LC3), and mammalian target of rapamycin (mTOR) in dentate gyrus was measured by immunofluorescence assay, quantitative reverse transcription polymerase chain reaction (qRT-PCR) and Western-blotting. RESULTS: CLMD could significantly relieve the seizure frequency and improve autophagy in hippocampal dentate gyrus. Meanwhile, the level of Beclin-1 and LC3B decreased significantly, while mTOR increased remarkably after medical intervention. CONCLUSIONS: CLMD could improve autophagy in hippocampal dentate gyrus due to epilepsy, especially at high dose. The mechanism may be related to upregulated expression of mTOR and downregulated expression of Beclin-1 and LC3B.",
+      "mesh_terms": [
+        "Animals",
+        "Anticonvulsants",
+        "Autophagosomes",
+        "Autophagy",
+        "Autophagy-Related Proteins",
+        "Behavior, Animal",
+        "Disease Models, Animal",
+        "Drugs, Chinese Herbal",
+        "Epilepsy",
+        "Hippocampus",
+        "Lithium Chloride",
+        "Male",
+        "Neurons",
+        "Pilocarpine",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "29354956",
+      "title": "[Chaihu Longgu Muli decoction combined with acupuncture at back-shu points for chronic fatigue syndrome].",
+      "authors": [
+        "Yuangang Qi",
+        "Shoujiang Song",
+        "Zhiqiang Dou",
+        "Jin Chen",
+        "Guiying He",
+        "Lijun Zhang",
+        "Jincheng Yao"
+      ],
+      "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+      "publication_date": "2017-Nov-12",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: To observe the effect difference between Chaihu Longgu Muli decoction combined with acupuncture at back-shu points and simple Chaihu Longgu Muli decoction for chronic fatigue syndrome. METHODS: Sixty patients were randomly assigned into an herbal group and a combination group, 30 cases in each one. Simple Chaihu Longgu Muli decoction was used in the herbal group for continuous one month, one decoction a day. Based on that in the herbal group, 30 min acupuncture was used in the combination group at bilateral Xinshu (BL 15), Feishu (BL 13), Pishu (BL 20), Ganshu (BL 18) and Shenshu (BL 23), with acupoints according to syndrome differentiation. Acupuncture was given for 3 courses, 10 times as a course with 3 days between two courses, once a day. Fatigue status was evaluated before and after treatment by fatigue scale 14 (FS-14) and self-rating anxiety scale (SAS). RESULTS: The FS-14 scores, including body fatigue scores, mental fatigue scores and total scores, and SAS scores after treatment were lower than those before treatment in the two groups (all P<0.01), with better improvements in the combination group (all P<0.01). CONCLUSION: Chaihu Longgu Muli decoction combined with acupuncture at back-shu points can improve chronic fatigue syndrome, which are better than simple Chaihu Longgu Muli decoction.",
+      "mesh_terms": [
+        "Acupuncture Points",
+        "Acupuncture Therapy",
+        "Back",
+        "Combined Modality Therapy",
+        "Drugs, Chinese Herbal",
+        "Fatigue Syndrome, Chronic",
+        "Humans"
+      ]
+    }
+  ]
+}

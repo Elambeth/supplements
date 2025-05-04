@@ -1,0 +1,52 @@
+{
+  "supplement": "Lactase Enzyme",
+  "query": "Lactase Enzyme[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:54:59",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "30504935",
+      "title": "Clinical Efficacy Of Lactase Enzyme Supplement In Infant Colic: A Randomised Controlled Trial.",
+      "authors": [
+        "Mubashir Ahmed",
+        "Abdul Gaffar Billoo",
+        "Khalid Iqbal",
+        "Ashraf Memon"
+      ],
+      "journal": "JPMA. The Journal of the Pakistan Medical Association",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: To determine the efficacy of lactase enzyme supplement in infant colic. METHODS: The double-blind randomised clinical trial was conducted from November 2014 to June 2017 at Kharadar General Hospital, Karachi, and comprised infants aged 0-6 months with infant colic, excessive crying lasting at least 3 hours a day on at least 3 days a week for at least 3 weeks. The subjects were randomised into intervention group A which received lactase enzyme Colibid, and placebo group B. Five drops of intervention preparation were received by all the infants before each feed for two weeks. Confidentiality of active agent and placebo was maintained through drug codes. The duration of crying was recorded at baseline then after first and second weeks of intervention. The two groups were compared with level of significance set at p<0.05. RESULTS: There were 104 subjects with 52(50%) in each of the two groups Overall, 50(48.1%) were boys. At baseline, all (100%) the subjects had infant colic or excessive crying. After two-week intervention, significant improvement was seen in the duration of crying in group A 45(86.5%) compared to group B 31(59.6%) (p<0.05). CONCLUSIONS: Significant improvement was seen in the duration of crying in infants who received lactase enzyme supplement..",
+      "mesh_terms": [
+        "Colic",
+        "Crying",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Lactase",
+        "Lactose Intolerance",
+        "Male"
+      ]
+    },
+    {
+      "pmid": "27999602",
+      "title": "Anaphylaxis to supplemental oral lactase enzyme.",
+      "authors": [
+        "M R Voisin",
+        "R Borici-Mazi"
+      ],
+      "journal": "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Anaphylactic reactions involving IgE mediated hypersensitivity have been frequently reported for a number of uncommon foods. However, cases of anaphylaxis to over the counter vitamins and oral supplements have been rarely published. Lactose intolerance affects approximately 20% of Canadians and roughly 70% of the world's population of any age. Lactose intolerance develops primarily due to the absence of the enzyme lactase and treatment involves avoidance of lactose-containing foods or ingestion of commercially available lactase enzyme preparations prior to their consumption. This case report represents the first documented evidence of anaphylaxis after exposure to supplemental lactase enzyme preparation. CASE PRESENTATION: A 38 years old Caucasian female presented with a history of self-diagnosed adult-onset lactose intolerance and a suspected allergy to lactase containing tablets. She reported an episode of bilateral orbital swelling, shortness of breath, and throat constriction after oral ingestion of a supplemental lactase enzyme tablet. Her symptoms slowly resolved with the administration of inhaled salbutamol and oral diphenhydramine. She handled lactase tablets for years to her children who were lactose intolerant, but had never ingested the tablets herself prior to the reported episode. In clinic, physical examination was benign, and skin prick testing to a slurry of the lactase tablet revealed a strongly positive reaction wheal size of 10 mm and flare of 60 mm with normal controls. The patient reported throat tightness and constriction after skin prick testing and required cetirizine treatment and observation in clinic. Subsequent skin testing was performed with individual ingredients of the lactase tablet provided by the manufacturer and Aspergillus niger, a common bacteria used in lactase preparations. Only concentrated lactase enzyme elicited a positive response. The patient was diagnosed with lactase tablet induced anaphylaxis due to synthetic lactase enzyme IgE mediated allergy, and was advised to avoid all products containing lactase enzymes as an ingredient and to carry an epinephrine auto-injector. CONCLUSION: This is the first documented case report of an anaphylactic reaction to supplemental lactase enzyme. This case report reinforces the importance of thorough allergy assessment, education on avoidance of triggers, in particular with uncommon allergens."
+    }
+  ]
+}

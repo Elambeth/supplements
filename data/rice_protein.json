@@ -1,0 +1,1116 @@
+{
+  "supplement": "Rice Protein",
+  "query": "Rice Protein[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:29:12",
+  "research_count": 36,
+  "count": 36,
+  "articles": [
+    {
+      "pmid": "39406388",
+      "title": "Rice Protein Peptides Alleviate Alcoholic Liver Disease via the PPARγ Signaling Pathway: Through Liver Metabolomics and Gut Microbiota Analysis.",
+      "authors": [
+        "Yue Tian",
+        "Yangzheng He",
+        "Hua Xiong",
+        "Yong Sun"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Oct-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alcoholic liver disease (ALD) is the predominant type of liver disease worldwide, resulting in significant mortality and a high disease burden. ALD damages multiple organs, including the liver, gut, and brain, causing inflammation, oxidative stress, and fat deposition. In this study, we investigated the effects of rice protein peptides (RPP) on ALD in mice with a primary focus on the gut microbiota and liver metabolites. The results showed that administration of RPP significantly alleviated the symptoms of ALD in mice including adiposity, oxidative stress, and inflammation. The KEGG pathway shows that RPP downregulates the liver metabolite of capric acid and the metabolism of fatty acid biosynthesis compared with the MOD group. Mechanistically, RPP downregulated the PPARγ signaling pathway and suppressed the expression of fatty acid biosynthesis genes (FASN, ACC1, ACSL1, and ACSL3). Furthermore, two active peptides (YLPTKQ and PKLPR) with potential therapeutic functions for ALD were screened by Caco-2 cell modeling and molecular docking techniques. In addition, RPP treatment alleviates gut microbiota dysbiosis by reversing the F/B ratio, increasing the relative abundance of Alloprevotella and Alistipes, and upregulating the level of short-chain fatty acids. In conclusion, RPP alleviates ALD steatosis through the PPARγ signaling pathway by YLPTKQ and PKLPR and regulates gut microbiota.",
+      "mesh_terms": [
+        "PPAR gamma",
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "Mice",
+        "Humans",
+        "Male",
+        "Oryza",
+        "Signal Transduction",
+        "Liver",
+        "Peptides",
+        "Mice, Inbred C57BL",
+        "Liver Diseases, Alcoholic",
+        "Plant Proteins",
+        "Metabolomics",
+        "Bacteria",
+        "Caco-2 Cells"
+      ]
+    },
+    {
+      "pmid": "39244125",
+      "title": "Effects of enzyme hydrolysis-assisted fibrillation treatment on the solubility, emulsifying properties and antioxidant activity of rice protein.",
+      "authors": [
+        "Xin Qi",
+        "Yi Luo",
+        "Weiqi Fei",
+        "Mingyue Shen",
+        "Yi Chen",
+        "Qiang Yu",
+        "Jianhua Xie"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2024-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This work aimed to explore the changes of rice protein (RP) in solubility, emulsifying properties, and antioxidant activity after the enzyme hydrolysis-assisted fibrillation dual modification. Results showed that enzyme hydrolysis by papain and fibrillation treatments significantly affected the secondary and tertiary structures of RP. The modified proteins, including RP hydrolysate (RPH), RP nanofibrils (RPN), and RPH nanofibrils (RPHN), demonstrated enhanced solubility and antioxidant activity compared to RP, with RPHN exhibiting the superior performance. The emulsifying capacity of RPH, RPN, and RPHN increased by 9.55 %, 22.86 %, and 26.57 %, respectively, compared to that of RP. Furthermore, RPHN displayed the highest emulsion stability index. Nanoemulsion stabilized by RPHN showed enhanced centrifugal, storage, and oxidative stabilities. Neither RPHN nor RPN exhibited cytotoxicity to human cell lines, and could provide nutrients for cells. Overall, the functional properties and antioxidant activity of RP were significantly improved by enzyme hydrolysis-assisted fibrillation dual modification. This study may provide reference for the development and utilization of nanofibrils from plant proteins.",
+      "mesh_terms": [
+        "Oryza",
+        "Hydrolysis",
+        "Antioxidants",
+        "Solubility",
+        "Plant Proteins",
+        "Emulsions",
+        "Humans",
+        "Papain",
+        "Nanofibers",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "39208363",
+      "title": "Rice Protein Peptides Ameliorate DSS-Induced Cognitive Impairment and Depressive Behavior in Mice by Modulating Phenylalanine Metabolism and the BDNF/TRKB/CREB Pathway.",
+      "authors": [
+        "Yangzheng He",
+        "Yue Tian",
+        "Hua Xiong",
+        "Zeyuan Deng",
+        "Hua Zhang",
+        "Fanghua Guo",
+        "Yong Sun"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Sep-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rice protein peptide (RPP) has been reported to alleviate the symptoms of dextran sulfate sodium (DSS)-induced colitis, but its potential protective effect and fundamental neurobiological mechanisms against DSS-induced inflammatory bowel disease (IBD), coupled with depression and cognitive impairment, remain unclear. In this study, RPP treatment in DSS-induced mice inhibited decreases in body weight and colon length and improved intestinal barrier function and behavioral performance. RPP treatment enhanced phenylalanine and tyrosine metabolism in the brains of mice, and it upregulated metabolites such as l-dopa, phenylethylamine, and 3,4-dihydroxyphenylacetate. Additionally, RPP treatment enhanced the brain-derived neurotrophic factor (BDNF) by upregulating the BDNF/TrkB/CREB signaling pathway. Spearman's correlation analysis revealed that the phenylalanine and tyrosine contents in the brain were significantly negatively correlated with the BDNF/TrkB/CREB signaling pathway and behavioral performance. In conclusion, this study suggested that RPP may serve as a unique nutritional strategy for preventing IBD and its associated cognitive impairment and depression symptoms.",
+      "mesh_terms": [
+        "Animals",
+        "Brain-Derived Neurotrophic Factor",
+        "Mice",
+        "Cognitive Dysfunction",
+        "Male",
+        "Phenylalanine",
+        "Cyclic AMP Response Element-Binding Protein",
+        "Depression",
+        "Signal Transduction",
+        "Peptides",
+        "Humans",
+        "Oryza",
+        "Dextran Sulfate",
+        "Plant Proteins",
+        "Mice, Inbred C57BL",
+        "Receptor, trkB",
+        "Colitis",
+        "Behavior, Animal"
+      ]
+    },
+    {
+      "pmid": "37820920",
+      "title": "Mechanisms of rice protein hydrolysate regulating the in vitro digestibility of rice starch under extrusion treatment in terms of structure, physicochemical properties and interactions.",
+      "authors": [
+        "Yueyue Yang",
+        "Huiyi Bao",
+        "Yihui Wang",
+        "Aiquan Jiao",
+        "Zhengyu Jin"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2023-Dec-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effect of protein hydrolysates on starch digestibility has been observed in other heat treatments but has yet to be extensively researched under extrusion. This study aimed to analyze the physicochemical properties, structure, and starch digestibility of extruded rice starch-protein hydrolysate (ERS-RPH) complexes prepared by extrusion treatment. The resistant starch contents of ERS-RPH (12.30 %-19.36 %) were higher than those of extruded starch alone (6.33 %). The interaction forces, physical barrier effects, and enzyme inhibition indicated that RPHs at varying hydrolysis degrees hindered starch digestibility by reducing its contact with enzyme and via adhesion and hydrogen bonding with starch. RPHs with higher hydrolysis exhibited greater inhibition of starch digestibility, limiting the swelling power of starch and the leaching of amylose, thereby improving the thermal stability of starch. Fourier transform infrared spectroscopy results revealed the presence of hydrogen bonding interactions between RPHs and starch in complexes, intensifying the ordered structure of starch. Extrusion caused an increase of 6.8 %-10.8 % in the relative crystallinity of ERS-RPH compared to extruded starch alone. Moreover, the strength of V-type structure was reinforced after extrusion. These results enhanced comprehension of how PRHs regulate starch digestibility under extrusion, and offer direction for producing slow-digesting foods.",
+      "mesh_terms": [
+        "Protein Hydrolysates",
+        "Oryza",
+        "X-Ray Diffraction",
+        "Starch",
+        "Amylose"
+      ]
+    },
+    {
+      "pmid": "37683482",
+      "title": "Combination of pH-shifting, ultrasound, and heat treatments to enhance solubility and emulsifying stability of rice protein isolate.",
+      "authors": [
+        "Daniela E Igartúa",
+        "M Celeste Dichano",
+        "Sofia B Ferrari",
+        "Gonzalo G Palazolo",
+        "Dario M Cabezas"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2024-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rice protein isolates (RPI) are promising plant-protein sources but present low solubility and poor surface activity in neutral conditions. Improving these characteristics is a crucial challenge to capitalize on them. This is the first work performing pH-shifting, ultrasound, and heat treatments on a commercial RPI. The combined approaches increased the protein solubility (from ∼2.7% to ∼91.8%) and surface hydrophobicity (up to ∼283%) and induced the formation of less compact and more dispersed protein aggregates. The pH-shifting induced the unfolding of protein molecules and aggregates making them available for modification by both ultrasound and heating, which are supposed to induce further protein unfolding, exposure of buried hydrophobic amino acid, and protein hydrolysis. Also, the combined approaches generated modified RPI able to form oil-in-water emulsions with reduced particle size and enhanced stability than the untreated RPI. Therefore, this work presents an effective combined approach to enhance the techno-functional properties of rice proteins."
+    },
+    {
+      "pmid": "37326347",
+      "title": "Effect of gluconic acid rinsing on cadmium decontamination from rice protein.",
+      "authors": [
+        "Dianying Shen",
+        "Ge Song",
+        "Xinyang Sun",
+        "Fengjiao Fan",
+        "Jian Ding",
+        "Yong Fang",
+        "Peng Li"
+      ],
+      "journal": "Journal of food science",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cadmium (Cd) accumulation in rice protein has long been considered a significant threat to human health. In the present study, a costless and effective method based on gluconic acid (GA) rinsing of rice protein was developed to reduce Cd contamination in rice protein. Moreover, the effect of GA on the structural and functional properties of rice protein was evaluated. With liquid-solid ratio of 30 mL/g and oscillation time of 120 min, 96.0% and 93.6% of Cd were eliminated from rice protein-H and rice protein-L, respectively. In addition, the results of scanning electron microscopy, Fourier transform infrared, and sodium dodecyl sulfate polyacrylamide gel electrophoresis analyses showed that GA treatment did not significantly change the structural properties of rice protein. However, GA treatment increased foaming properties, water holding capacity, and oil holding capacity of the rice protein, without affecting its further applicability. Thus, the proposed GA rinsing method can be considered a green and efficient strategy to solve the issue brought by Cd residual contamination in rice protein. PRACTICAL APPLICATION: Given the advantages of green and efficient agriculture, gluconic acid (GA) has emerged as a powerful strategy for removing the Cd from rice protein. The method developed herein showed great potentials for applications in the manufacture of rice-based products.",
+      "mesh_terms": [
+        "Humans",
+        "Cadmium",
+        "Soil",
+        "Oryza",
+        "Decontamination",
+        "Soil Pollutants"
+      ]
+    },
+    {
+      "pmid": "36737901",
+      "title": "Effects of pH-shifting treatments on the emulsifying properties of rice protein isolates: Quantitative analysis of interfacial protein layer.",
+      "authors": [
+        "Qian Shen",
+        "Hongmin Dai",
+        "Luming Wen",
+        "Wei Zheng",
+        "Beixi Li",
+        "Jun Dai",
+        "Bin Li",
+        "Yijie Chen"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "For the limitation of poor solubility and interfacial adsorption capacity of rice protein isolates (RPI), in this work the effects of pH-shifting treatments on the emulsifying properties of RPI were investigated. The results showed that the particle size of the emulsion stabilized by alkaline pH-shifting treated RPI was smaller than that stabilized by acid pH-shifting treated RPI. In addition, the RPI-10 stabilized emulsion showed a more uniform particle size distribution, which was explained by its high emulsifying activity and stability (EAI: 49.5 m2/g, ESI: 59.5 min). The interface rheology results showed that the alkaline pH-shifting treatment could promote the protein rearrangement and subsequently formed interface film with higher rate of protein penetration and rearrangement. The quantitative analysis of adsorbed proteins in the RPI-10 stabilized emulsion showed that glutelin-type isoforms as major proteins in RPI were increased at the oil-water interface for their balanced distribution of the hydrophilic and hydrophobic amino acid group. These quantitative and interfacial rheology analysis could improve deep understanding of the interfacial properties of pH-shifting treated RPI, and promote the development of application in grain protein stabilized emulsion.",
+      "mesh_terms": [
+        "Emulsions",
+        "Oryza",
+        "Proteins",
+        "Adsorption",
+        "Hydrogen-Ion Concentration"
+      ]
+    },
+    {
+      "pmid": "36192870",
+      "title": "Preparation of high-solubility rice protein using an ultrasound-assisted glycation reaction.",
+      "authors": [
+        "Xiuwen Chen",
+        "Hongqing Zhao",
+        "Hong Wang",
+        "Pinji Xu",
+        "Maolong Chen",
+        "Zhou Xu",
+        "Li Wen",
+        "Bo Cui",
+        "Bin Yu",
+        "Haibo Zhao",
+        "Ye Jiao",
+        "Yunhui Cheng"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To date, the poor solubility of rice protein (RP) has limited its industrial application in food products. This study aimed to prepare high-solubility RP conjugates using ultrasound-assisted glycation between RP and dextran. The conditions of glycation, treatment at 82 °C for 22 min under 600 W ultrasonic power, were optimized using single-factor experiments and response surface analysis. The solubility of the conjugates reached 90.6 %. Compared with traditional wet-heating glycation, ultrasound-assisted treatment brought more high-molecular-weight components, higher degree of graft, and less contents of arginine and lysine, indicating that ultrasound accelerated the glycation reaction. Ultrasound also resulted in a looser and more flexible structure of RP, manifesting in a 10 % reduction in β-sheets and 10.6 % increase in random coils of conjugates. The analysis of fluorescence and surface hydrophobicity indicated that ultrasound increased the exposure of hydrophobic residues towards aqueous environment. Besides solubility, the foaming and emulsifying properties of RP were improved through conformational changes. In summary, ultrasound-assisted glycation was found to be an efficient and green method for preparing high-solubility RP conjugates.",
+      "mesh_terms": [
+        "Arginine",
+        "Dextrans",
+        "Lysine",
+        "Oryza",
+        "Solubility"
+      ]
+    },
+    {
+      "pmid": "36148996",
+      "title": "Rice Protein Peptides Alleviate Dextran Sulfate Sodium-Induced Colitis via the Keap1-Nrf2 Signaling Pathway and Regulating Gut Microbiota.",
+      "authors": [
+        "Wenting Yang",
+        "Zhenghua Huang",
+        "Hua Xiong",
+        "Jiaqi Wang",
+        "Hua Zhang",
+        "Fanghua Guo",
+        "Chaoping Wang",
+        "Yong Sun"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2022-Oct-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inflammatory bowel disease (IBD), with increasing incidence, causes a range of gastrointestinal symptoms and brings distress and impact on the health and lives of patients. The aim of this study was to explore the protective effects of industrially produced rice protein peptides (RPP) on dextran sulfate sodium (DSS)-induced acute colitis in mice and the potential mechanisms. The results showed that RPP treatment alleviated the symptoms of colitis in mice, including weight loss, colon shortening, and injury, decreased the level of disease activity index (DAI), regulated the balance of inflammatory factors and oxidation, activated Kelch-like ECH-associating protein 1 (Keap1)-nuclear factor E2-related factor 2 (Nrf2) signaling pathway, regulated the expression of related antioxidant proteases, and promoted the expression of intestinal tight junction proteins. In addition, RPP maintained intestinal mucosal barrier function and alleviated acute colitis caused by DSS treatment in mice by increasing the value of F/B, increasing the relative abundance of beneficial bacteria such as Akkermansia, and regulating the level of short-chain fatty acids. In conclusion, RPP alleviated colitis symptoms through the Keap1-Nrf2 signaling pathway and regulating gut microbiota, which had the potential as dietary supplements or functional foods.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Colitis",
+        "Colon",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Fatty Acids, Volatile",
+        "Gastrointestinal Microbiome",
+        "Kelch-Like ECH-Associated Protein 1",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "NF-E2-Related Factor 2",
+        "Oryza",
+        "Peptide Hydrolases",
+        "Peptides",
+        "Signal Transduction",
+        "Tight Junction Proteins"
+      ]
+    },
+    {
+      "pmid": "35412826",
+      "title": "Industrially Produced Rice Protein Ameliorates Dextran Sulfate Sodium-Induced Colitis via Protecting the Intestinal Barrier, Mitigating Oxidative Stress, and Regulating Gut Microbiota.",
+      "authors": [
+        "Zhenghua Huang",
+        "Wenting Yang",
+        "Xiaoya Wang",
+        "Fanghua Guo",
+        "Yibin Cheng",
+        "Leipeng Cao",
+        "Wenting Zhu",
+        "Yong Sun",
+        "Hua Xiong"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2022-Apr-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inflammatory bowel disease (IBD) poses a threat to health and compromises the immune system and gut microflora. The present study aimed to explore the effects of rice protein (RP) purified from rice dregs (RD) on acute colitis induced by dextran sulfate sodium (DSS) and the underlying mechanisms. Results showed that RP treatment could alleviate the loss of body weight, colon shortening and injury, and the level of disease activity index, repair colonic function (claudin-1, ZO-1 and occludin), regulate inflammatory factors, and restore oxidative balance (malondialdehyde (MDA), catalase (CAT), superoxide dismutase (SOD), and total antioxidant capability (T-AOC)) in mice. Also, RP treatment could activate the Kelch-like ECH-associating protein 1 (Keap1)-nuclear factor E2-related factor 2 (Nrf2) signaling pathway, mediate the expression of downstream antioxidant protease (NQO-1, HO-1, and Gclc), regulate gut microbiota by enhancing the relative abundance of Akkermansia and increasing the value of F/B, and adjust short-chain fatty acid levels to alleviate DSS-induced colitis in mice. Thus, RP may be an effective therapeutic dietary resource for ulcerative colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Colitis",
+        "Colon",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Gastrointestinal Microbiome",
+        "Kelch-Like ECH-Associated Protein 1",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "NF-E2-Related Factor 2",
+        "Oryza",
+        "Oxidative Stress"
+      ]
+    },
+    {
+      "pmid": "34369549",
+      "title": "Effect of heat treatment on the digestion behavior of pea and rice protein dispersions and their blends, studied using the semi-dynamic INFOGEST digestion method.",
+      "authors": [
+        "L Jiménez-Munoz",
+        "A Brodkorb",
+        "L G Gómez-Mascaraque",
+        "M Corredig"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2021-Sep-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In the present study, the structuring and breakdown of a 5% protein dispersion prepared with commercial fractions of pea and rice isolates (PPI and RPI, respectively) were monitored by in vitro digestion. These proteins were blended in a 2 : 1 ratio of pea and rice, respectively, as this would deliver a high amino acid score. The effect of heating at 90 °C for 15 min on the digestion behavior was evaluated not only for the blend, but also for the respective protein isolate fractions, using the INFOGEST international consensus, semi-dynamic in vitro gastric model. Digesta were characterized by gel electrophoresis, light scattering, confocal laser scanning microscopy and size exclusion HPLC. Heating increased the solubility of PPI from 15.7% to 26.6% at pH 7.4. RPI showed low solubility (a maximum of 2.6% at pH 2), regardless of the treatment. Confocal microscopy observations evidenced major differences in the aggregates formed during digestion, with larger aggregates for heated PPI. While the unheated pea protein dispersions precipitated near the isoelectric pH, the heated counterpart formed macro-aggregates under the same conditions. In the case of RPI, there were no differences in structuring behaviour between unheated and heat treated reconstituted powder, due to their low solubility. Rice prolamins showed resistance to hydrolysis by pepsin and pancreatic enzymes. In the heated blend, macro-aggregates formed, but with a smaller size compared to heated pea protein alone, suggesting that pea protein aggregation was hindered by the presence of rice proteins. These results demonstrate how the composition of protein isolates can affect their in vitro digestion. However, pre-treatment of plant protein blends, such as heating, can modulate the rate and mechanism of digestion.",
+      "mesh_terms": [
+        "Digestion",
+        "Gastric Emptying",
+        "Hot Temperature",
+        "In Vitro Techniques",
+        "Oryza",
+        "Particle Size",
+        "Pea Proteins",
+        "Pisum sativum",
+        "Pepsin A",
+        "Plant Proteins, Dietary",
+        "Protein Stability",
+        "Proteolysis",
+        "Solubility"
+      ]
+    },
+    {
+      "pmid": "33746265",
+      "title": "Heat-induced changes in the physicochemical properties and in vitro digestibility of rice protein fractions.",
+      "authors": [
+        "Kunlun Liu",
+        "Jiabao Zheng",
+        "Fusheng Chen"
+      ],
+      "journal": "Journal of food science and technology",
+      "publication_date": "2021-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of heat treatment on protein interaction, surface hydrophobicity, protein profile, amino acid composition, and in vitro digestibility of individual rice protein fractions were investigated. Heat treatment at 100 °C for 20 min had no negative effect on essential amino acids in rice protein. Surface hydrophobicity increased significantly with the increased heat treatment temperature. Moreover, free-thiol content decreased significantly with increased temperature and time extension. Hydrophobic interactions contributed to the heat-induced interaction of glutelin and prolamin. Intramolecular disulfide linkages participated in the heat-induced interaction of all rice-protein fractions. Heat treatment had no effects on the in vitro digestibility of glutelin, globulin, and albumin. Thus, the heat-induced interactions of glutelin, globulin, and albumin were not related to their digestibility. By contrast, the formation of intramolecular disulfide bonds and hydrophobic interactions in prolamin may reduce its digestibility by strengthening protein bodies-Is."
+    },
+    {
+      "pmid": "32416847",
+      "title": "Effects of rice protein coating enriched with essential oils on internal quality and shelf life of eggs during room temperature storage.",
+      "authors": [
+        "P G S Pires",
+        "A F R Leuven",
+        "C H Franceschi",
+        "G S Machado",
+        "P D S Pires",
+        "P O Moraes",
+        "L Kindlein",
+        "I Andretta"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2020-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effectiveness of rice protein coatings enriched with essential oils on maintaining interior quality of fresh eggs was evaluated during storage at 20°C for 6 wk. Egg quality was assessed by weight loss, Haugh unit (HU), albumen pH, and yolk index (YI) in uncoated eggs (control treatment) and eggs coated with rice protein concentrate at 8% enriched or not with different essential oils (1%): tea tree (Melaleuca alternifolia), copaíba (Copaifera langsdorffii), or thymo (Thymus vulgaris). The HU and YI were higher in coated eggs (P < 0.001). Data were submitted to variance analysis, and the statistical models included the effects of treatments (coating types), storage periods (weeks), and interaction (treatments by storage periods). Weight loss increased (P < 0.001) during long-term storage. Uncoated eggs showed the highest weight loss (5.43%), whereas coatings of rice protein alone (4.23%) or enriched with tea tree (4.10%), copaíba (3.90%), and thymo (4.08%) solutions were effective in preventing weight lost (P < 0.001). The coating use preserved the internal quality of the eggs for up to 3 wk longer than uncoated eggs in terms of HU, YI, and pH. Uncoated eggs had the worst (P < 0.001) HU (58.46), albumen pH (9.48), and YI (0.33) after 6 wk of storage. In conclusion, the use of coatings based on rice protein concentrate enriched with different essential oils influences the internal quality of eggs during storage and may be an effective alternative for increasing the shelf life of commercial eggs.",
+      "mesh_terms": [
+        "Animals",
+        "Chickens",
+        "Eggs",
+        "Food Storage",
+        "Oils, Volatile",
+        "Oryza",
+        "Plant Proteins, Dietary"
+      ]
+    },
+    {
+      "pmid": "32203919",
+      "title": "Effect of ultrasonic power on properties of edible composite films based on rice protein hydrolysates and chitosan.",
+      "authors": [
+        "Lingling Wang",
+        "Jian Ding",
+        "Yong Fang",
+        "Xin Pan",
+        "Fengjiao Fan",
+        "Peng Li",
+        "Qiuhui Hu"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Rice protein hydrolysates (RPH) are incapable of film formation by self-crosslinking due to low molecular mass. Hence, we used chitosan (CS) as a modifier and developed rice protein hydrolysates/chitosan (RPH/CS) edible composite films by means of ultrasound. Results showed that ultrasound treatment decreased the particle size and the viscosity of film-forming solutions. The value of elongation at break of composite films was increased by 125% at 400 W compared with untreated film. The peroxide value of soybean oil was significantly reduced from 16.99 ± 0.78 meq/kg to 2.23 ± 0.09 meq/kg with the increase of ultrasonic power. Ultrasound treatment was efficient in keeping smooth on surface, and the films at ultrasound treatment of 200 W had better compatibility. Moreover, hydrogen bonds and covalent interactions were probably the main forces between RPH and CS and contributed to film formation under ultrasound treatment, which supported by analyses of Fourier transform infrared spectroscopy and X-ray diffraction. These results suggested that ultrasound was an effective method to improve the properties of edible composite films.",
+      "mesh_terms": [
+        "Chitosan",
+        "Food Packaging",
+        "Hydrogen Bonding",
+        "Oryza",
+        "Particle Size",
+        "Plant Proteins, Dietary",
+        "Powders",
+        "Protein Hydrolysates",
+        "Sonication",
+        "Surface Properties",
+        "Tensile Strength",
+        "Viscosity"
+      ]
+    },
+    {
+      "pmid": "32151899",
+      "title": "Stability of the antioxidant peptide SeMet-Pro-Ser identified from selenized brown rice protein hydrolysates.",
+      "authors": [
+        "Kunlun Liu",
+        "Runfeng Du",
+        "Fusheng Chen"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2020-Jul-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "SeMet-Pro-Ser (Se-MPS) is an antioxidant selenopeptide derived from selenized brown rice protein hydrolysates. In this study, the stability of glutathione (GSH), Met-Pro-Ser (MPS), and Se-MPS under different processing conditions, namely, temperature, pH, NaCl, citric acid, light, and gastrointestinal proteases, were evaluated by measuring ABTS+ scavenging and Cr(VI) reduction capacities. The ABTS+ scavenging capacity of GSH under thermal treatment, high salt density, and long-term storage was significantly decreased, while its Cr(VI) reduction activity was relatively stable. No significant change of Se-MPS antioxidant activity was observed under different conditions, except under citric acid. Meanwhile, its Cr(VI) reduction activity was partially or mostly retained under different treatment conditions. However, it displayed negligible ABTS+ scavenging capacity. Se-MPS was superior to GSH and MPS in terms of stability and antioxidant activity and could be a candidate for development of nutraceuticals or functional food.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Dipeptides",
+        "Glutathione",
+        "Oryza",
+        "Peptides",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "31229800",
+      "title": "Cadmium removal from rice protein via synergistic treatment of rhamnolipids and F127/PAA hydrogels.",
+      "authors": [
+        "Chong Shen",
+        "Shi Tang",
+        "Qin Meng"
+      ],
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publication_date": "2019-Sep-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Heavy metal ions can accumulate in the area's crop harvest, such as rice, via a tight binding with protein. Such binding paves great difficulties to remove heavy metal ions. This study aims to remove cadmium from contaminated rice protein using rhamnolipid biosurfactant together with Pluronic F127/poly (acrylic acid) (i.e., F127/PAA) hydrogels. The two-step consequential washing removed 92% of cadmium in rice protein, making the residual cadmium content below the safety level (<0.2 mg/kg) without impairing the main components and structure of rice protein. Interestingly, the washing by either rhamnolipids or hydrogels failed to effectively remove cadmium, indicating the synergistic effect of the two materials. Mechanistically, rhamnolipids with higher Cd2+ binding constant compete with protein on binding with cadmium and then deliver it to F127/PAA hydrogels that present highest Cd2+ adsorptive capability for immobilization. In considering that the F127/PAA hydrogels are reusable, this treatment is low-cost, safe and effective for removal of cadmium from polluted rice products.",
+      "mesh_terms": [
+        "Acrylates",
+        "Cadmium",
+        "Glycolipids",
+        "Hydrogels",
+        "Oryza",
+        "Particle Size",
+        "Plant Proteins",
+        "Surface Properties"
+      ]
+    },
+    {
+      "pmid": "31041444",
+      "title": "Effects of rice protein coatings combined or not with propolis on shelf life of eggs.",
+      "authors": [
+        "P G S Pires",
+        "P D S Pires",
+        "K M Cardinal",
+        "A F R Leuven",
+        "L Kindlein",
+        "I Andretta"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2019-Sep-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Although eggs are an excellent protein source, they are a perishable product. Many methods exist to extend shelf life of food and one of them is the use of protein coatings that may be combined with antimicrobial substances, as propolis. The effectiveness of rice protein coatings plus propolis on maintaining interior quality and eggshell breaking strength of fresh eggs was evaluated during storage at 20°C for 6 wk. Egg quality was assessed by weight loss, Haugh unit (HU), albumen pH, yolk index (YI), shell strength, and scanning electron microscopy in uncoated eggs (control treatment) and eggs coated with rice protein concentrate and propolis at 5 or 10%. The HU and YI were higher in coated eggs (P < 0.001). Weight loss increased (P < 0.001) during long-term storage. Uncoated eggs showed the highest weight loss (5.39%), whereas rice protein (4.27%) and rice protein plus propolis at 5% (4.11%) and 10% (4.40%) solutions were effective in preventing weight lost (P < 0.001). Uncoated eggs had the worst (P < 0.001) HU (58.47), albumen pH (9.48), and YI (0.33) after 6 wk of storage. The eggs coated with rice protein and rice protein plus propolis presented results with similar intern quality between them during all the storage period. Scanning electron microscopy demonstrated a lower surface porosity in coated eggshell, indicating that the use of the coating may provide a protective barrier against the transfer of gases and moisture. In conclusion rice protein and propolis treatments helped to maintain egg quality for a longer time compared to uncoated eggs. These could be a viable alternative for maintaining the internal quality of fresh eggs during long-term storage at room temperature.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Infective Agents",
+        "Chickens",
+        "Eggs",
+        "Food Preservation",
+        "Food Storage",
+        "Oryza",
+        "Plant Proteins",
+        "Propolis"
+      ]
+    },
+    {
+      "pmid": "30979632",
+      "title": "Efficacy and safety of hydrolyzed rice-protein formulas for the treatment of cow's milk protein allergy.",
+      "authors": [
+        "A Bocquet",
+        "C Dupont",
+        "J-P Chouraqui",
+        "D Darmaun",
+        "F Feillet",
+        "M-L Frelut",
+        "J-P Girardet",
+        "R Hankard",
+        "A Lapillonne",
+        "J-C Rozé",
+        "U Simeoni",
+        "D Turck",
+        "A Briend"
+      ],
+      "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Foods for special medical purposes (FSMPs) with a protein fraction made of hydrolyzed rice protein (HRPs) have been on the market in Europe since the 2000s for the treatment of cow's milk protein allergy (CMPA). HRP formulas (HRPFs) are proposed as a plant-based alternative to cow's milk protein-based extensively hydrolyzed formulas (CMP-eHF) beside the soy protein formulas whose use in CMPA is controversial. HRPFs do not contain phytoestrogens and are derived from non-genetically modified rice. HRPFs are strictly plant-based apart from the addition of vitamin D3 (cholecalciferol). As the amino acid content of rice proteins differs from that of human milk proteins, the protein quality of these formulas is improved by supplementation with free lysine, threonine, and tryptophan. The consumption of HRPFs has risen: for example, in France HRPFs account for 4.9% in volume of all formulas for children aged 0-3 years. Several studies have shown the adequacy of HRPFs in treating CMPA. They ensure satisfactory growth from the 1st weeks of life for infants and toddlers, both in healthy children and in those with CMPA. HRPFs can be used to treat children with CMPA either straightaway or in second intention in cases of poor tolerance to CMP-eHF for organoleptic reasons or for lack of efficacy. In France, the cost of HRPFs is close to that of regular infant or follow-on formulas.",
+      "mesh_terms": [
+        "Dietary Carbohydrates",
+        "Humans",
+        "Infant",
+        "Infant Formula",
+        "Lipids",
+        "Milk Hypersensitivity",
+        "Milk Proteins",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "30428090",
+      "title": "Rice protein coating in extending the shelf-life of conventional eggs.",
+      "authors": [
+        "P G S Pires",
+        "G S Machado",
+        "C H Franceschi",
+        "L Kindlein",
+        "I Andretta"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2019-Apr-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effectiveness of rice protein coatings or mineral oil on maintaining interior quality and eggshell breaking strength of fresh eggs was evaluated during storage at 20°C for 8 wk. Egg quality was assessed by weight loss, Haugh unit (HU), albumen pH, yolk index (YI), shell strength, and scanning electron microscopy in uncoated eggs (control treatment) and eggs coated with mineral oil or rice protein concentrate at 5, 10, or 15%. The HU and YI were higher in coated eggs (P < 0.001). Weight loss increased (P < 0.001) during long-term storage. Uncoated eggs showed the highest weight loss (8.28%), whereas mineral oil (0.87%) and rice protein at 5% (5.60%), 10% (5.45%), 15% (5.54%) solutions were effective in preventing weight lost (P < 0.001). The use of the coatings preserved the internal quality of the eggs for up to 4 wk longer than uncoated eggs (HU, YI, and pH). Uncoated eggs had the worst (P < 0.001) HU (54.45), albumen pH (9.18), and YI (0.28) after 8 wk of storage. Among the coated eggs, the mineral oil had the best values of HU (70.54), pH (8.48), and YI (0.35) after storage. The eggs coated with 5, 10, and 15% of rice protein presented results with similar intern quality between them and intermediary quality in relation to the others treatments during all the storage period. Scanning electron microscopy demonstrated a lower surface porosity in coated eggshell, indicating that the use of the coating may provide a protective barrier against the transfer of gases and moisture. In conclusion, the use of coatings based on rice protein concentrate or mineral oil influences the internal quality of eggs during storage and may be an effective alternative for increasing the shelf-life of commercial eggs.",
+      "mesh_terms": [
+        "Animals",
+        "Chickens",
+        "Egg Shell",
+        "Eggs",
+        "Food Preservation",
+        "Food Storage",
+        "Oryza",
+        "Plant Proteins"
+      ]
+    },
+    {
+      "pmid": "29730709",
+      "title": "Lysine supplement benefits the growth performance, protein synthesis, and muscle development of Megalobrama amblycephala fed diets with fish meal replaced by rice protein concentrate.",
+      "authors": [
+        "Wan-Cun Cai",
+        "Wen-Bin Liu",
+        "Guang-Zhen Jiang",
+        "Kai-Zhou Wang",
+        "Cun-Xin Sun",
+        "Xiang-Fei Li"
+      ],
+      "journal": "Fish physiology and biochemistry",
+      "publication_date": "2018-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to investigate the effects of lysine supplement on the growth performance of blunt snout bream Megalobrama amblycephala fed diets with fish meal (FM) replaced by rice protein concentrate (RPC) with the potential mechanisms characterized. Fish were fed three diets, including the FM diet (containing FM), the RPC diet (FM replaced by RPC), and the MRPC diet (the RPC diet supplemented with lysine) for 8 weeks. Weight gain, protein efficiency ratio, and nitrogen and energy utilization of fish fed the FM diet were all significantly higher than those of the RPC treatment, but they showed no statistical difference with those of the MRPC group. Fish fed the RPC diet showed shorter villi length of the distal intestine than that of the other treatments. No significance was found in whole-body composition and intestinal and hepatic cell proliferation among all the treatments. However, fish fed the RPC diet obtained relatively low transcriptions of growth hormone (GH), GH receptor, insulin-like growth factor-I (IGF-I), target of rapamycin (TOR), ribosomal protein S6 kinase 1, myoblast determination protein, myogenic factor 5, and myostatin a (MSTNa) but high levels of eukaryotic translation initiation factor 4E-binding protein 2 (4E-BP2) than those of the other groups. Furthermore, little difference was found in the transcriptions of 4E-BP2, myogenin, muscle-specific regulatory 4, and MSTNb in muscle. Overall, these results showed that dietary supplement of lysine benefits the growth performance of blunt snout bream fed FM-free diets through the mediation of the GH-IGF-I axis, TOR signaling pathway, myogenic regulatory factors, and MSTN.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Cyprinidae",
+        "Diet",
+        "Dietary Supplements",
+        "Fish Proteins",
+        "Lysine",
+        "Muscle Development",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Protein Biosynthesis"
+      ]
+    },
+    {
+      "pmid": "29684610",
+      "title": "Fishmeal replacement by rice protein concentrate with xylooligosaccharides supplement benefits the growth performance, antioxidant capability and immune responses against Aeromonas hydrophila in blunt snout bream (Megalobrama amblycephala).",
+      "authors": [
+        "Kenneth Prudence Abasubong",
+        "Wen-Bin Liu",
+        "Ding-Dong Zhang",
+        "Xiang-Yang Yuan",
+        "Si-Lei Xia",
+        "Chao Xu",
+        "Xiang-Fei Li"
+      ],
+      "journal": "Fish & shellfish immunology",
+      "publication_date": "2018-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to investigate the effects of fishmeal (FM) replacement by rice protein concentrate (RPC) with a xylooligosaccharides supplement on the growth performance, antioxidant capability and immune response against Aeromonas hydrophila in blunt snout bream (Megalobrama amblycephala). Fish (46.85 ± 0.34 g) were randomly assigned to one of 6 diets, namely the control diet (containing FM), the RPC diet (FM replaced by RPC) and RPC diet supplemented with 0.5, 1.5, 2.3 and 3% XOS respectively, for 8 weeks. After the feeding trial, fish were challenged by Aeromonas hydrophila for 96 h with the blood and liver sample obtained at 48 and 96 h respectively. The results showed that the final weight, weight gain and protein efficiency ratio of fish fed RPC diet were significantly (P < 0.05) lower than that of the control group, whereas the opposite was true for FCR. However, the supplement of 1.5% XOS remarkably (P < 0.05) improved these parameters compared to the control diet. Plasma total iron binding capacity of fish fed the RPC diet showed little difference (P > 0.05) with that of the control group, but it enhanced significantly (P < 0.05) with the supplement of 1.5% XOS compared to the control group. After bacterial infection, plasma lysozyme (LYM), complement 3, complement 4, myeloperoxidase (MPO), acid phosphatase (ACP) and alkaline phosphatase activities, as well as immunoglobulin M, levels all increased significantly (P < 0.05) with the maximum value is attained at 48 h, then they decreased significantly (P < 0.05) with further increasing time at 96 h. Similar results were also observed in liver superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPX) activities as well as malondialdehyde (MDA) content. Regarding dietary treatment, these parameters of fish fed RPC diet showed little difference (P > 0.05) with those fed the control diet but were significantly enhanced (P < 0.05) when RPC diet was supplemented with 1.5-2.3% XOS, except for hepatic (MDA) content which showed an opposite trend compared to the control group. After 96 h of challenge, the relative percentage survival (RPS) of fish fed XOS was significantly higher (P < 0.05) than that of fish offered the control and RPC diet. In addition, significant (P < 0.05) interactions between dietary XOS and sampling time were also observed in plasma LYM, MPO, ACP, and hepatic SOD, CAT, GPX, MDA, as well as RPS. In conclusion, this study indicated that dietary supplementation of 1.5%XOS could significantly improve the growth performance, antioxidant capability, innate immunity and A. hydrophila resistance of blunt snout bream fed diets with FM replaced by RPC.",
+      "mesh_terms": [
+        "Aeromonas hydrophila",
+        "Animal Feed",
+        "Animals",
+        "Antioxidants",
+        "Cyprinidae",
+        "Diet",
+        "Dietary Supplements",
+        "Disease Resistance",
+        "Fish Diseases",
+        "Glucuronates",
+        "Gram-Negative Bacterial Infections",
+        "Oligosaccharides",
+        "Oryza",
+        "Plant Proteins",
+        "Random Allocation"
+      ]
+    },
+    {
+      "pmid": "29322620",
+      "title": "Rice Protein Matrix Enhances Circulating Levels of Xanthohumol Following Acute Oral Intake of Spent Hops in Humans.",
+      "authors": [
+        "Annalouise O'Connor",
+        "Veera Konda",
+        "Ralph L Reed",
+        "J Mark Christensen",
+        "Jan F Stevens",
+        "Nikhat Contractor"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "SCOPE: Xanthohumol (XN), a prenylated flavonoid found in hops, exhibits anti-inflammatory and antioxidant properties. However, poor bioavailability may limit therapeutic applications. As food components are known to modulate polyphenol absorption, the objective is to determine whether a protein matrix could enhance the bioavailability of XN post oral consumption in humans. METHODS AND RESULTS: This is a randomized, double-blind, crossover study in healthy participants (n = 6) evaluating XN and its major metabolites (isoxanthohumol [IX], 6- and 8-prenylnaringenin [6-PN, 8-PN]) for 6 h following consumption of 12.4 mg of XN delivered via a spent hops-rice protein matrix preparation or a control spent hops preparation. Plasma XN and metabolites are measured by LC-MS/MS. Cmax , Tmax , and area-under-the-curve (AUC) values were determined. Circulating XN and metabolite response to each treatment was not bioequivalent. Plasma concentrations of XN and XN + metabolites (AUC) are greater with consumption of the spent hops-rice protein matrix preparation. CONCLUSION: Compared to a standard spent hops powder, a protein-rich spent hops matrix demonstrates enhanced plasma levels of XN and metabolites following acute oral intake.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Humulus",
+        "Male",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Propiophenones"
+      ]
+    },
+    {
+      "pmid": "29146346",
+      "title": "Enhanced functionality of pea-rice protein isolate blends through direct steam injection processing.",
+      "authors": [
+        "Ewa Pietrysiak",
+        "Denise M Smith",
+        "Brennan M Smith",
+        "Girish M Ganjyal"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2018-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Direct steam injection (DSI) processing with pH adjustment was investigated to enhance the functionality of pea-rice protein isolate blends (PR). Protein slurries at concentration of 5%(w/w) of commercial pea and rice protein isolates in the ratio of 2:1(w/w) across a range of steam temperatures (66-107°C) and pH values (2-11) were studied. After DSI treatment, the PR were freeze-dried to obtain the final dry protein powder. Based on protein solubility profiles, the optimal DSI processing conditions were 107°C and pH 11. Available lysine was not reduced (P>0.05) in the blend. Solubility (from 3 to 41%, at pH 7), emulsifying activity index (from 5.9 to 52.5m2/g), foam stability (from 68.2 to 82.8%), and oil holding capacity (from 1.8 to 4.9g/g) values increased (P<0.05) compared to the untreated PR. DSI can modify the functionality of PR without affecting the essential amino acid composition.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Food Handling",
+        "Freeze Drying",
+        "Hydrogen-Ion Concentration",
+        "Oryza",
+        "Pisum sativum",
+        "Plant Proteins",
+        "Solubility",
+        "Steam"
+      ]
+    },
+    {
+      "pmid": "28947358",
+      "title": "Rice protein prolamin promotes anti-leukemia immunity and inhibits leukemia growth in vivo.",
+      "authors": [
+        "Chien-Kuo Liu",
+        "Chien-An Chen",
+        "Tzung-Yan Lee",
+        "Hen-Hong Chang",
+        "Hui-Fen Liao",
+        "Yu-Jen Chen"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Prolamin is a heat-stable storage protein of rice (Oryza sativa). This study aimed to examine the effect of prolamin on anti-tumor immune response in vitro and leukemia growth in vivo. The prolamin-enriched rice fractions were prepared to stimulate peripheral blood mononuclear cells (MNC) from mice spleen. The MNC-conditioned medium (MNC-CM) was collected to treat leukemia L1210 cells. Human MNC-CM was prepared to treat Jurkat acute T cell leukemia cells. Purified prolamin was orally administered to syngeneic L1210-bearing DBA/2 mice to assess weights of tumor, liver and spleen, liver histopathology, peripheral blood neutrophil count and cytokine levels. Prolamin-prepared MNC-CM inhibited the viability of murine leukemia L1210 cells and human leukemia Jurkat cells, indicating an immunomodulatory effect. In syngeneic L1210-bearing DBA/2 mice, oral administration of purified prolamin dose-dependently decreased the tumor weight and attenuated the leukemia-induced reduction of liver and spleen weights. Prolamin inhibited the increase of peripheral blood leukocyte count. The levels of tumor necrosis factor-α and interferon-γ in MNC-CM and mice serum were significantly increased by prolamin treatment. No significant change in body weight, serum alanine aminotransferase and creatinine levels was noted by prolamin treatment. Rice prolamin could effectively promote anti-tumor immunity and inhibit leukemia growth without significant toxicity.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Animals",
+        "Cell Proliferation",
+        "Creatinine",
+        "Culture Media, Conditioned",
+        "Humans",
+        "Interferon-gamma",
+        "Jurkat Cells",
+        "Leukemia L1210",
+        "Leukocyte Count",
+        "Liver",
+        "Mice, Inbred DBA",
+        "Neutrophils",
+        "Organ Size",
+        "Oryza",
+        "Plant Proteins",
+        "Prolamins",
+        "Reproducibility of Results",
+        "Spleen",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "28946500",
+      "title": "Effects of ultrasound-assisted α-amylase degradation treatment with multiple modes on the extraction of rice protein.",
+      "authors": [
+        "Xue Yang",
+        "Yunliang Li",
+        "Suyun Li",
+        "Ayobami Olayemi Oladejo",
+        "Yucheng Wang",
+        "Shanfen Huang",
+        "Cunshan Zhou",
+        "Xiaofei Ye",
+        "Haile Ma",
+        "Yuqing Duan"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of ultrasound-assisted α-amylase degradation (UAD) treatment with multiple modes on the extraction of rice protein (RP) from rice dreg powder were studied. The results showed that UAD treatment increased protein extraction rate significantly (p<0.05) compared to that of α-amylase degradation treatment and control. Among all the ultrasound mode treatments researched in this paper, sequential frequency ultrasound treatment presented higher protein extraction rate compared to that of simultaneous or single frequency ultrasound treatment. The highest protein extraction rate was obtained under 20/35kHz of sequential frequency UAD treatment with the protein extraction rate of 89.58% and protein purity of 92.99%. The test and analysis of fourier transform infrared spectroscopy, ultraviolet-visible spectroscopy, starch content, non-protein nitrogen content, SH and SS content, surface hydrophobicity, amino acids content and proteins characteristics were studied to reveal the mechanism of UAD on the protein extraction effect. After treated with UAD, the starch-protein agglomerates disintegrated completely, moreover, protein advanced structure was changed to some extent and the disulfide bond was partially broken, but the main chain structure (peptide chain), specificity of protein and amino acid composition were not obviously changed. Consequently, the structure modified RP extracted by UAD treatment presented higher solubility, emulsifying activity and foaming capacity, which was beneficial for the application of RP. In conclusion, UAD treatment is an effective method for maximizing extraction rate, purity and modifying properties of extracted protein.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Chemical Fractionation",
+        "Enzyme Stability",
+        "Hydrophobic and Hydrophilic Interactions",
+        "Oryza",
+        "Plant Proteins",
+        "Proteolysis",
+        "Ultrasonic Waves",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "28946469",
+      "title": "A new kinetic model of ultrasound-assisted pretreatment on rice protein.",
+      "authors": [
+        "Suyun Li",
+        "Haile Ma",
+        "Yiting Guo",
+        "Ayobami Olayemi Oladejo",
+        "Xue Yang",
+        "Qiufang Liang",
+        "Yuqing Duan"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this study was to establish a new model to reflect the real ultrasound pretreatment process on rice protein (RP). In this study, ultrasound treatment affected the yield of soluble protein of RP significantly and also improved the enzymatic hydrolysis efficiently. However, the aggregation of soluble protein occurred when ultrasonic power density and temperature reached a high level. The traditional model cannot reflect the real pretreatment process on RP due to the aggregation of protein. In this paper, a modified kinetic model was thus established by introducing a parameter of aggregation coefficient based on the Fick's second law, suggesting the two coefficients were highly dependent on the ultrasonic power density and temperature. Besides, the results of scanning electron microscope (SEM) both the untreated and samples pretreated by ultrasound indicated that the enzymatic hydrolysis efficiency was influenced by changing the structure of RP. Thereto, ultrasound treatment at proper conditions can shorten the enzymolysis time of RP and improve the efficiency of hydrolysis.",
+      "mesh_terms": [
+        "Kinetics",
+        "Models, Chemical",
+        "Oryza",
+        "Plant Proteins",
+        "Solubility",
+        "Sonication",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "27376465",
+      "title": "In vitro antioxidant activity of rice protein affected by alkaline degree and gastrointestinal protease digestion.",
+      "authors": [
+        "Ye Liu",
+        "Zhengxuan Wang",
+        "Hui Li",
+        "Mingcai Liang",
+        "Lin Yang"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2016-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: To elucidate whether and how alkali treatment, which is a common process for rice protein (RP) extraction, affects antioxidant activity of RP, the different degree of alkali (from 0.1% to 0.4% of NaOH) was used to extract RP (RP-1, RP-2, RP-3, RP-4). RESULTS: The antioxidant capacities of scavenging free radicals [2,2'-azinobis(3-ethylbenzothiazoline-6-sulfonic acid] diammonium salt, ABTS; 1,1-diphenyl-2-picrylhydrazyl, DPPH), chelating metals (iron, copper) and reducing power investigated in the hydrolysates of RPs (RP-1, RP-2, RP-3, RP-4) during in vitro pepsin-pancreatin digestion were effectively affected by alkali treatment. The present study demonstrated that the weakest antioxidant responses to ABTS radical-scavenging activity, DPPH radical-scavenging activity, iron chelating activity, copper chelating activity and reducing power were produced by RP-4 extracted by the highest alkali proportion (0.4% NaOH). CONCULSION: The present study indicates that antioxidant capacity of RP could be more readily depressed by strict alkali degree and affected by gastrointestinal proteases. Results suggest that alkali extraction is a vital process to regulate the antioxidant activity of RP through modifying the compositions of amino acids, which are dependent on alkali magnitude. © 2016 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Antioxidants",
+        "Chelating Agents",
+        "Copper",
+        "Free Radical Scavengers",
+        "Gastrointestinal Tract",
+        "Hydrogen-Ion Concentration",
+        "Iron Chelating Agents",
+        "Oryza",
+        "Pancreatin",
+        "Pepsin A",
+        "Peptide Hydrolases",
+        "Plant Proteins",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "25715660",
+      "title": "Hepatoprotective effects of soluble rice protein in primary hepatocytes and in mice.",
+      "authors": [
+        "Bok-Kyung Han",
+        "Yooheon Park",
+        "Hyeon-Son Choi",
+        "Hyung Joo Suh"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2016-Jan-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The production of rice-derived by-products has increased owing to the growing use of processed rice products. The objective of this study was to isolate highly purified proteins from a rice by-product, rice syrup meal, and to examine their hepatoprotective effects in vitro and in vivo. RESULTS: Soluble rice protein (SRP70) was obtained via enzymatic processing of rice syrup meal using Termamyl SC and Alcalase. Mass spectrometry analysis showed that SRP70 contained low-molecular-weight (<600 Da) peptides. SRP70 did not affect the viability of rat primary hepatocytes and ameliorated tert-butyl hydroperoxide (t-BHP)-induced cytotoxicity. t-BHP-induced elevations in hepatocyte alanine aminotransferase, aspartate aminotransferase and lactate dehydrogenase activities were reduced by SRP70 in a dose-dependent manner. In addition, t-BHP exposure increased the level of malondialdehyde, a toxic reactive aldehyde, which was dose-dependently decreased by SRP70 treatment. These SRP70-induced decreases in biochemical parameters were also observed in vivo in mice. In particular, SRP70 increased the activities of liver antioxidant enzymes in t-BHP-treated mice, including catalase and glutathione peroxidase, as well as increasing the level of glutathione, an antioxidant peptide. SRP70-mediated activation of antioxidant enzymes was shown to be due to the up-regulation in their gene expressions, while nicotinamide adenine dinucleotide phosphate hydrogen (NADPH) oxidase 4 (NOX4), a pro-oxidant enzyme, was down-regulated by SRP70. Hematoxylin and eosin staining also showed that SRP70 protected the liver from histopathological changes induced by t-BHP. CONCLUSION: Taken together, these data showed that SRP70, which is derived from a rice-processing by-product, had hepatoprotective effects in vitro and in vivo.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Catalase",
+        "Cell Survival",
+        "Cells, Cultured",
+        "Chemical and Drug Induced Liver Injury",
+        "Glutathione Peroxidase",
+        "Hepatocytes",
+        "Liver",
+        "Liver Diseases",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Oryza",
+        "Plant Extracts",
+        "Plant Proteins",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Solubility",
+        "tert-Butylhydroperoxide"
+      ]
+    },
+    {
+      "pmid": "25704687",
+      "title": "Mechanistic insights into solubilization of rice protein isolates by freeze-milling combined with alkali pretreatment.",
+      "authors": [
+        "Tao Wang",
+        "Hao Zhang",
+        "Li Wang",
+        "Ren Wang",
+        "Zhengxing Chen"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2015-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The solubilization of rice protein isolates (RPIs) has been regarded as one of the critical and challenging processes affecting commercial availability. Simultaneous treatment with freezing and milling (freeze-milling) combined with alkali pretreatment can remarkably increase the maximum achievable amounts of soluble RPIs by up to 42 times. This study investigates the mechanism of solubilization of RPIs by freeze-milling (RPI(fm)). Structural analyses reveal that milling causes proteins to unfold with ice crystals formed inside protein bodies. Fluorescent and Fourier transform infrared spectra show that RPI(fm) possesses disrupted hydrophobic surface and exposed hydrophilic inner groups. Size exclusion chromatography results reveal that RPI(fm) exhibits disaggregation and strong water-protein interactions. These results indicate that freeze-milling may be a promising manufacturing technique in food industry.",
+      "mesh_terms": [
+        "Alkalies",
+        "Freezing",
+        "Hydrophobic and Hydrophilic Interactions",
+        "Molecular Weight",
+        "Oryza",
+        "Plant Proteins",
+        "Protein Conformation",
+        "Protein Folding",
+        "Solubility"
+      ]
+    },
+    {
+      "pmid": "25174654",
+      "title": "Simultaneous recovery and purification of rice protein and phosphorus compounds from full-fat and defatted rice bran with organic solvent-free process.",
+      "authors": [
+        "Masanori Watanabe",
+        "Isamu Maeda",
+        "Masahiro Koyama",
+        "Kozo Nakamura",
+        "Kazuo Sasano"
+      ],
+      "journal": "Journal of bioscience and bioengineering",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We studied a process that enables simultaneous recovery of protein and phosphorus compounds from rice bran. Phosphorus substances in full-fat and defatted rice bran such as phytic acid and inorganic ions were solubilized under acidic conditions in the first step. After that, inorganic and/or organic phosphate salts were recovered in insoluble form under weak alkaline conditions. Furthermore, protein fractions obtained after phosphorus compounds had been removed were solubilized under alkaline conditions. After solubilization, protein fractions with high content were recovered by isoelectric precipitation (IP) followed by electrolyzed water treatment (EWT). The highest protein content (52.3 w/w%) was attained when machine defatted rice bran was treated through the process. Energy-dispersive X-ray spectroscopy (EDX) and inductively coupled plasma atomic emission spectrometry (ICP-AES) analyses demonstrated efficient desalting from the protein fractions by EWT and higher phosphorus contents (15.1-16.4 w/w% P) in the phosphorus fractions compared with commercial phosphate rock. In addition, no heavy metal ions in either protein or phosphorus fractions were detected. These results suggest that the newly developed process is suitable for practical recovery of highly concentrated protein and phosphorus compounds from rice bran without enzymes or chemicals such as organic solvents, buffering agents, and surfactants.",
+      "mesh_terms": [
+        "Electrolysis",
+        "Organic Chemicals",
+        "Oryza",
+        "Phosphorus Compounds",
+        "Plant Proteins",
+        "Sodium Hydroxide",
+        "Solubility",
+        "Solvents",
+        "Time Factors",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "24914098",
+      "title": "An extensively hydrolysed rice protein-based formula in the management of infants with cow's milk protein allergy: preliminary results after 1 month.",
+      "authors": [
+        "Yvan Vandenplas",
+        "Elisabeth De Greef",
+        "Bruno Hauser"
+      ],
+      "journal": "Archives of disease in childhood",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "abstract": "BACKGROUND: Guidelines recommend extensively hydrolysed cow's milk protein formulas (eHF) in the treatment of infants diagnosed with cow's milk protein allergy (CMPA). Extensively hydrolysed rice protein infant formulas (eRHFs) have recently become available, and could offer a valid alternative. METHODS: A prospective trial was performed to evaluate the clinical tolerance of a new eRHF in infants with a confirmed CMPA. Patients were followed for 1 month. Clinical tolerance of the eRHF was evaluated with a symptom-based score (SBS) and growth (weight and length) was monitored. RESULTS: Thirty-nine infants (mean age 3.4 months, range 0.5-6 months) diagnosed with CMPA were enrolled. All infants tolerated the eRHF and experienced a normal growth. CONCLUSIONS: In accordance with current guidelines, this eRHF is tolerated by more than 90% of children with proven CMPA with a 95% CI, and is an adequate alternative to cow's milk-based eHF. TRIAL REGISTRATION NUMBER: ClinicalTrials.gov NCT01998074.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Immune Tolerance",
+        "Infant",
+        "Infant Formula",
+        "Infant, Newborn",
+        "Male",
+        "Milk Hypersensitivity",
+        "Milk Proteins",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Prospective Studies",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "24723091",
+      "title": "Safety and tolerance of a new extensively hydrolyzed rice protein-based formula in the management of infants with cow's milk protein allergy.",
+      "authors": [
+        "Yvan Vandenplas",
+        "Elisabeth De Greef",
+        "Bruno Hauser"
+      ],
+      "journal": "European journal of pediatrics",
+      "publication_date": "2014-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "UNLABELLED: Guidelines recommend the use of extensively hydrolyzed cow's milk protein-based formulas (eHF) in the treatment of infants with cow's milk protein allergy (CMPA). Extensively hydrolyzed rice protein infant formula (eRHF) has recently become available and could offer a valid alternative. A prospective trial was performed to evaluate the hypo-allergenicity and safety of a new eRHF in infants with a confirmed CMPA. Patients were fed the study formula for 6 months. Clinical tolerance of the eRHF was evaluated with a symptom-based score (SBS) and growth (weight and length) was monitored. Forty infants (mean age, 3.4 months; range, 1-6 months) with CMPA confirmed by a food challenge were enrolled. All infants tolerated the eRHF and the SBS significantly decreased as of the first month of intervention. Moreover, the eRHF allowed a catch-up to normal weight gain as of the first month as well as a normalization of the weight-for-age, weight-for length, and BMI z-scores within the 6-month study period. CONCLUSION: In accordance with current guidelines, this eRHF was tolerated by more than 90 % of children with proven CMPA with a 95 % confidence interval. This eRHF is an adequate and safe alternative to cow milk-based eHF.",
+      "mesh_terms": [
+        "Animals",
+        "Belgium",
+        "Body Height",
+        "Body Weight",
+        "Cattle",
+        "Female",
+        "Follow-Up Studies",
+        "Growth",
+        "Guidelines as Topic",
+        "Humans",
+        "Immune Tolerance",
+        "Infant",
+        "Infant Formula",
+        "Infant, Newborn",
+        "Male",
+        "Milk Hypersensitivity",
+        "Milk Proteins",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Prospective Studies",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "24128496",
+      "title": "Quality improvement of rice noodle restructured with rice protein isolate and transglutaminase.",
+      "authors": [
+        "Yang Kim",
+        "Jun Ill Kee",
+        "Suyong Lee",
+        "Sang-Ho Yoo"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2014-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In an effort to improve the properties of rice dough and quality of gluten-free rice noodle, transglutaminase (TGase) and rice protein isolate (RPI) were applied to rice noodle making process. The storage and loss moduli of rice dough increased by TGase treatment, whereas they decreased with RPI supplementation. The combined treatment of RPI+TGase on rice dough fully recovered the reduced moduli caused by RPI only supplementation to control level, and increased most of viscosity parameters of rice noodle in RVA analysis. This additional treatment of TGase also increased development time, and maximum and peak torques of RPI-supplemented rice dough in Mixolab® analysis. Cooking loss and water turbidity of rice noodle decreased by 54.8% and 66.6%, respectively, after TGase+RPI treatment. Scanning electron micrographs showed cracked noodle surface became smoothed with TGase treatment, which was more obvious with RPI+TGase treatment. These results suggest RPI+TGase treatment could improve the quality of rice noodle without the use of gluten-like ingredients.",
+      "mesh_terms": [
+        "Cooking",
+        "Dietary Proteins",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Food Handling",
+        "Oryza",
+        "Quality Improvement",
+        "Transglutaminases"
+      ]
+    },
+    {
+      "pmid": "20337976",
+      "title": "The effect of a partially hydrolysed formula based on rice protein in the treatment of infants with cow's milk protein allergy.",
+      "authors": [
+        "M Reche",
+        "C Pascual",
+        "A Fiandor",
+        "I Polanco",
+        "M Rivero-Urgell",
+        "R Chifre",
+        "S Johnston",
+        "M Martín-Esteban"
+      ],
+      "journal": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Infants diagnosed with allergy to cow's milk protein (CMP) are fed extensively hydrolysed cow's milk formulas, modified soy formulas or even amino acid-based formulas. Hydrolysed rice protein infant formulas have become available and have been shown to be well tolerated by these infants. A prospective open, randomized clinical study to compare the clinical tolerance of a new hydrolysed rice protein formula (HRPF) with an extensively hydrolysed CMP formula (EHF) in the feeding of infants with IgE-mediated cow's milk allergy. Ninety-two infants (46 boys and 46 girls, mean age 4.3 months, range 1.1-10.1 months) diagnosed with IgE-mediated cow's milk allergy were enrolled in the study. Clinical tolerance to the formula products was tested. Clinical evaluation included skin prick tests with whole cow's milk, soya and rice as well as antigens of CMP (beta-lactoglobulin, alpha-lactalbumin, casein and bovine seroalbumin), HRPF and EHF and specific IgE determinations to CMP using CAP technology. Patients were randomized to receive either an EHF based on CMP or a new HRPF. Follow-up was at 3, 6, 12, 18 and 24 months. Growth parameters were measured at each visit. One infant showed immediate allergic reaction to EHF, but no reaction was shown by any infant in the HRPF group. The number of infants who did not become tolerant to CMP during the study was not statistically different between the two groups. Measurement of IgE levels of infants allergic to CMP during the study showed no significant differences between the two formula groups. Growth parameters were in the normal range and similar between groups. In this study, the HRPF was well tolerated by infants with moderate to severe symptoms of IgE-mediated CMP allergy. Children receiving this formula showed similar growth and development of clinical tolerance to those receiving an EHF. In accordance with current guidelines, this HRPF was tolerated by more than 90% of children with CMP allergy and therefore could provide an adequate and safe alternative to CMP-hydrolysed formulas for these infants.",
+      "mesh_terms": [
+        "Allergens",
+        "Animals",
+        "Cattle",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Immune Tolerance",
+        "Immunoglobulin E",
+        "Infant",
+        "Infant Formula",
+        "Male",
+        "Milk Hypersensitivity",
+        "Milk Proteins",
+        "Oryza",
+        "Plant Proteins, Dietary",
+        "Prospective Studies",
+        "Protein Hydrolysates",
+        "Skin Tests"
+      ]
+    },
+    {
+      "pmid": "17330511",
+      "title": "Production of rice protein by alkaline extraction improves its digestibility.",
+      "authors": [
+        "Takehisa Kumagai",
+        "Hiroyuki Kawamura",
+        "Takao Fuse",
+        "Toshiyuki Watanabe",
+        "Yuhi Saito",
+        "Takehiro Masumura",
+        "Reiko Watanabe",
+        "Motoni Kadowaki"
+      ],
+      "journal": "Journal of nutritional science and vitaminology",
+      "publication_date": "2006-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rice seed endosperm has two types of protein bodies (PB). Type I protein body (PB-I) accumulates prolamin and is hard to digest, while type II protein body (PB-II) mainly consists of glutelin, an easily digestible protein. A simple method to process rice protein and improve its digestibility was tested from the viewpoint of its application to food manufacturing. Rice protein prepared by alkaline extraction followed by neutralization sedimentation (AE-RP) was compared with that prepared by starch degradation by alpha-amylase (SD-RP). The crude protein content of AE-RP and SD-RP was 84.7% and 78.2%, respectively. There were no major differences in protein composition among AE-RP, SD-RP and rice flour by SDS-PAGE, except 16 kDa polypeptide. With respect to amino acids, all the groups showed quite similar compositions, although cysteine and methionine were lower in AE-RP. In an in vitro digestion study with pepsin and pancreatin, both the SDS-PAGE analysis of protein pattern and the crude protein content of undigested residue clearly demonstrated that AE-RP has a higher digestibility than SD-RP. To find the cause of the difference in digestibility, the structural property of protein bodies by two production methods was compared using electron microscopy. PB-II of AE-RP was transformed into small, amorphous granules, while that of SD-RP was still kept partial protein body structures. PB-I of AE-RP kept its protein body structure, but produced double layers. From the finding that glutelin-gold was detected by immunochemistry not only in small, amorphous granules but also in PB-I, mainly the cortex layer, in AE-RP, it became clear that PB-I was swollen and fragile as a result of alkali treatment. These results strongly indicate that the improvement in digestibility of AE-RP is a result of the structural change of PB-I and -II caused by alkaline extraction.",
+      "mesh_terms": [
+        "Caustics",
+        "Dietary Proteins",
+        "Digestion",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Humans",
+        "Microscopy, Immunoelectron",
+        "Oryza",
+        "Pancreatin",
+        "Pepsin A",
+        "Plant Proteins",
+        "Sodium Hydroxide",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "24194000",
+      "title": "A rice protein library: a data-file of rice proteins separated by two-dimensional electrophoresis.",
+      "authors": [
+        "S Komatsu",
+        "H Kajiwara",
+        "H Hirano"
+      ],
+      "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+      "publication_date": "1993-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Proteins extracted from embryos, endosperms and leaves of rice were separated by two-dimensional electrophoresis and relative molecular weights and isoelectric points were determined. The separated proteins were electroblotted onto a polyvinylidene difluoride membrane and 85 electroblotted proteins were analyzed by a gas-phase protein sequencer. The N-terminal amino-acid sequences of 27 out of 85 proteins were determined in this manner. The N-terminal regions of the remaining proteins could not be sequenced and they were inferred to have a blocking group at the N-terminus. Among proteins, 11 could be sequenced after deblocking by in situ treatment with pyroglutamyl peptidase. The internal amino-acid sequences of 23 proteins were determined by sequence analysis of peptides obtained by Cleveland peptide mapping. The amino-acid sequences determined here were compared with those of known plant and animal proteins. The concanavalin A-peroxidase method was used to determine whether the 85 proteins were glycosylated and the diagonal electrophoresis method was used to determine whether they contained disulphide bonding. Finally, we constructed a data-file of rice proteins including information on relative molecular weight, isoelectric point, amino-acid sequence, sequence homology, glycosylation, and the presence of disulphide bonding."
+    }
+  ]
+}

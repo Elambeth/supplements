@@ -1,0 +1,146 @@
+{
+  "supplement": "Increased Nonexercise Activity",
+  "query": "Increased Nonexercise Activity[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:48:21",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "39244381",
+      "title": "Relationship between nonexercise activity and mood in patients with eating disorders.",
+      "authors": [
+        "Robin Olfermann",
+        "Sabine Schlegel",
+        "Anna Vogelsang",
+        "Ulrich Ebner-Priemer",
+        "Almut Zeeck",
+        "Markus Reichert"
+      ],
+      "journal": "Acta psychiatrica Scandinavica",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Many patients with eating disorders (EDs) engage in excessive and compulsive physical activity (pathological exercise, PE) to regulate negative mood or to \"burn calories.\" PE can lead to negative health consequences. Non-exercise activity (NEA) bears the potential to serve as intervention target to counteract PE and problematic eating behaviors since it has been associated with positive mood effects. However, to date, there is no investigation on whether the positive link between NEA and mood seen in the healthy translates to patients with ED. MATERIAL AND METHODS: To study potential associations of NEA and mood in ED, we subjected 29 ED-patients and 35 healthy controls (HCs) to an ambulatory assessment study across 7 days. We measured NEA via accelerometers and repeatedly assessed mood on electronic smartphone diaries via a mixed sampling strategy based on events, activity and time. Within- and between-subject effects of NEA on mood, PE as moderator, and the temporal course of effects were analyzed via multilevel modeling. RESULTS: NEA increased valence (β = 2.12, p < 0.001) and energetic arousal (β = 4.02, p < 0.001) but showed no significant effect on calmness. The effects of NEA on energetic arousal where significantly stronger for HCs (β HC = 6.26, p < 0.001) than for EDs (β ED = 4.02, p < 0.001; β interaction = 2.24, p = 0.0135). Effects of NEA were robust across most timeframes of NEA and significantly moderated by PE, that is, Lower PE levels exhibited stronger NEA effects on energetic arousal. CONCLUSION: Patients with ED and HC show an affective benefit from NEA, partly depending on the level of PE. If replicated in experimental daily life studies, this evidence may pave the way towards expedient NEA interventions to cope with negative mood. Interventions could be especially promising if delivered as Just-in-time adaptive interventions (JITAIs) and should be tailored according to the PE level."
+    },
+    {
+      "pmid": "32867156",
+      "title": "Nonexercise Activity Thermogenesis-Induced Energy Shortage Improves Postprandial Lipemia and Fat Oxidation.",
+      "authors": [
+        "Chih-Hui Chiu",
+        "Che-Hsiu Chen",
+        "Min-Huan Wu",
+        "Yin-Fu Ding"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2020-Aug-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1) Background: This study investigated the effect of nonexercise activity thermogenesis on postprandial triglyceride (TG) concentrations; (2) Methods: Ten healthy males completed a sedentary trial (ST) and a physical activity trial (PA) in a random order separated by at least 7 days. After each intervention on day 1, the participants consumed a high-fat test meal on the next day. The blood samples and gas sample were observed in the fasted state and for 4 h after consuming the oral fat tolerance test; (3) Results: The postprandial TG concentrations of total (AUC) (p = 0.008) and incremental area under the curve (IAUC) (p = 0.023) in the plasma of participants in the PA trial were significantly lower than those in the plasma of participants in the ST trial. The postprandial fat oxidation rate AUC of the PA trial was significantly higher than that of the ST trial (p = 0.009); (4) Conclusions: The results of this study indicated that nonexercise energy expenditure decrease the postprandial TG concentration and increase the fat oxidation the next day."
+    },
+    {
+      "pmid": "28363838",
+      "title": "Orexin activation counteracts decreases in nonexercise activity thermogenesis (NEAT) caused by high-fat diet.",
+      "authors": [
+        "P E Bunney",
+        "A N Zink",
+        "A A Holm",
+        "C J Billington",
+        "C M Kotz"
+      ],
+      "journal": "Physiology & behavior",
+      "publication_date": "2017-Jul-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Overweight and obesity result from an imbalance between caloric intake and energy expenditure, including expenditure from spontaneous physical activity (SPA). Changes in SPA and resulting changes in non-exercise activity thermogenesis (NEAT) likely interact with diet to influence risk for obesity. However, previous research on the relationship between diet, physical activity, and energy expenditure has been mixed. The neuropeptide orexin is a driver of SPA, and orexin neuron activity can be manipulated using DREADDs (Designer Receptors Exclusively Activated by Designer Drugs). We hypothesized that HFD decreases SPA and NEAT, and that DREADD-mediated activation of orexin neuron signaling would abolish this decrease and produce an increase in NEAT instead. To test these ideas, we characterized behaviors to determine the extent to which access to a high-fat diet (HFD) influences the proportion and probability of engaging in food intake and activity. We then measured NEAT following access to HFD and following a DREADD intervention targeting orexin neurons. Two cohorts of orexin-cre male mice were injected with an excitatory DREADD virus into the caudal hypothalamus, where orexin neurons are concentrated. Mice were then housed in continuous metabolic phenotyping cages (Sable Promethion). Food intake, indirect calorimetry, and SPA were automatically measured every second. For cohort 1 (n=8), animals were given access to chow, then switched to HFD. For cohort 2 (n=4/group), half of the animals were given access to HFD, the other access to chow. Then, among animals on HFD, orexin neurons were activated following injections of clozapine n-oxide (CNO). Mice on HFD spent significantly less time eating (p<0.01) and more time inactive compared to mice on chow (p<0.01). Following a meal, mice on HFD were significantly more likely to engage in periods of inactivity compared to those on chow (p<0.05). NEAT was decreased in animals on HFD, and was increased to the NEAT level of control animals following activation of orexin neurons with DREADDs. Food intake (kilocalories) was not significantly different between mice on chow and HFD, yet mice on chow expended more energy per unit of SPA, relative to that in mice consuming HFD. These results suggest that HFD consumption reduces SPA and NEAT, and increases inactivity following a meal. Together, the data suggest a change in the efficiency of energy expenditure based upon diet, such that SPA during HFD burns fewer calories compared to SPA on a standard chow diet.",
+      "mesh_terms": [
+        "Analysis of Variance",
+        "Animals",
+        "Antipsychotic Agents",
+        "Calorimetry",
+        "Clozapine",
+        "Designer Drugs",
+        "Diet, High-Fat",
+        "Eating",
+        "Luminescent Proteins",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Transgenic",
+        "Orexins",
+        "Physical Conditioning, Animal",
+        "Receptors, Cell Surface",
+        "Thermogenesis",
+        "Time Factors",
+        "Transduction, Genetic",
+        "Red Fluorescent Protein"
+      ]
+    },
+    {
+      "pmid": "27824691",
+      "title": "Exercise versus Nonexercise Activity: E-diaries Unravel Distinct Effects on Mood.",
+      "authors": [
+        "Markus Reichert",
+        "Heike Tost",
+        "Iris Reinhard",
+        "Wolff Schlotz",
+        "Alexander Zipf",
+        "Hans-Joachim Salize",
+        "Andreas Meyer-Lindenberg",
+        "Ulrich W Ebner-Priemer"
+      ],
+      "journal": "Medicine and science in sports and exercise",
+      "publication_date": "2017-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: The association between physical activity and mood is of major importance to increase physical activity as a prevention strategy for noncommunicable diseases and to improve mental health. Unfortunately, existing studies examining how physical activity and mood wax and wane within persons over time in everyday life do show ambiguous findings. Taking a closer look at these studies reveals that the aggregation levels differ tremendously. Whereas mood is conceptualized as a three-dimensional construct, physical activity is treated as a global construct not taking into account its distinct components like exercise (such as jogging) and nonexercise activity (NEA; such as climbing stairs). METHODS: To overcome these limitations, we conducted an ambulatory assessment study on the everyday life of 106 adults over 7 d continuously measuring NEA via accelerometers and repeatedly querying for mood in real time via GPS-triggered e-diaries. We used multilevel modeling to derive differential within-subject effects of exercise versus NEA on mood and to conduct analyses on the temporal course of effects. RESULTS: Analyses revealed that exercise increased valence (beta = 0.023; P < 0.05) and calmness (beta = 0.022; P < 0.05). A tendency of decreasing energetic arousal (beta = -0.029) lacked significance. NEA, parameterized as 15-min episodes of physical activity intensity in everyday life, increased energetic arousal (beta = 0.135; P < 0.001) and decreased calmness (stand. beta = -0.080; P < 0.001). A tendency of increasing valence (beta = 0.014) lacked significance. Using longer time intervals for NEA revealed similar findings, thus confirming our findings. CONCLUSION: Exercise and NEA differed regarding their within-subject effects on mood, whereas exercise increased valence and calmness, NEA increased energetic arousal and decreased calmness. Therefore, it appears necessary to clearly differentiate between exercise and NEA regarding their within-subject effects on mood dimensions in both research and treatment.",
+      "mesh_terms": [
+        "Accelerometry",
+        "Activities of Daily Living",
+        "Adult",
+        "Affect",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Male",
+        "Self Report",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "21412111",
+      "title": "Exercise intensity influences nonexercise activity thermogenesis in overweight and obese adults.",
+      "authors": [
+        "Mohammad A Alahmadi",
+        "Andrew P Hills",
+        "Neil A King",
+        "Nuala M Byrne"
+      ],
+      "journal": "Medicine and science in sports and exercise",
+      "publication_date": "2011-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: The purpose of this study was to determine the effect of acute bouts of moderate- and high-intensity walking exercise on nonexercise activity thermogenesis (NEAT) in overweight and obese adults. METHODS: Sixteen participants performed a single bout of either moderate-intensity walking exercise (MIE) or high-intensity walking exercise (HIE) on two separate occasions. The MIE consisted of walking for 60 min on a motorized treadmill at 6 km·h(-1). The 60-min HIE session consisted of walking in 5-min intervals at 6 km·h(-1) and 10% grade followed by 5 min at 0% grade. NEAT was assessed by accelerometer 3 d before, on the day of, and 3 d after the exercise sessions. RESULTS: There was no significant difference in NEAT vector magnitude (counts per minute) between the preexercise period (days 1-3) and the exercise day (day 4) for either the MIE or the HIE protocol. In addition, there was no change in NEAT during the 3 d after the MIE session; however, NEAT increased by 16% on day 7 (postexercise) compared with the exercise day (P = 0.32). However, during the postexercise period after the HIE session, NEAT was increased by 25% on day 7 compared with the exercise day (P = 0.08) and by 30%-33% compared with the preexercise period (days 1, 2, and 3; P = 0.03, 0.03, and 0.02, respectively). CONCLUSION: A single bout of either MIE or HIE did not alter NEAT on the exercise day or on the first 2 d after the exercise session. However, monitoring NEAT on a third day allowed the detection of a 48-h delay in increased NEAT after performing HIE. A longer-term intervention is needed to determine the effect of accumulated exercise sessions over a week on NEAT.",
+      "mesh_terms": [
+        "Actigraphy",
+        "Adult",
+        "Cross-Over Studies",
+        "Exercise Test",
+        "Humans",
+        "Male",
+        "Obesity",
+        "Overweight",
+        "Physical Exertion",
+        "Thermogenesis",
+        "Walking",
+        "Young Adult"
+      ]
+    }
+  ]
+}
