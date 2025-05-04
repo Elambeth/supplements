@@ -1,0 +1,41 @@
+{
+  "supplement": "Intermittent dieting",
+  "query": "Intermittent dieting[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:48:53",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "38193357",
+      "title": "Effects of intermittent dieting with break periods on body composition and metabolic adaptation: a systematic review and meta-analysis.",
+      "authors": [
+        "Eric Tsz-Chun Poon",
+        "Jaclyn Hei Tsang",
+        "Fenghua Sun",
+        "Chen Zheng",
+        "Stephen Heung-Sang Wong"
+      ],
+      "journal": "Nutrition reviews",
+      "publication_date": "2025-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "abstract": "CONTEXT: Intermittent dieting incorporated with break periods (INT-B) has recently been promoted as an alternative dietary approach for optimal weight management. OBJECTIVE: This study assessed the effectiveness of INT-B compared with that of conventional continuous energy restriction (CER) for improving body composition and attenuating metabolic adaptation. DATA SOURCES: A systematic search was conducted on 6 databases using all available records until July 2023. DATA EXTRACTION: The extracted data included the lead author, year of publication, population characteristics, intervention protocols, duration, and adherence. DATA ANALYSIS: Random-effects meta-analyses were conducted for within-group and between-group comparisons of anthropometric and metabolic outcomes. Subgroup moderator analysis was performed for the types of INT-B, intervention duration, and population characteristics. RESULTS: Of the 1469 records, 12 randomized trials (with 881 participants) were included. Within-group analyses demonstrated significant improvements in body mass, fat mass, body mass index, body fat percentage, and waist circumference following both INT-B and CER, with no significant group differences. However, resting metabolic rate (RMR) was significantly reduced following CER only. The compensatory reduction in RMR was significantly smaller following INT-B compared with CER, suggesting a lesser degree of metabolic adaptation. INT-B had a more significant effect on RMR retention in individuals with overweight/obesity compared with resistance-trained individuals. CONCLUSION: This review provides up-to-date evidence for INT-B as a viable dietary strategy to improve body composition and attenuate metabolic adaptation. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42023448959.",
+      "mesh_terms": [
+        "Humans",
+        "Body Composition",
+        "Diet, Reducing",
+        "Adaptation, Physiological",
+        "Weight Loss",
+        "Obesity",
+        "Basal Metabolism",
+        "Caloric Restriction",
+        "Body Mass Index",
+        "Overweight",
+        "Randomized Controlled Trials as Topic"
+      ]
+    }
+  ]
+}

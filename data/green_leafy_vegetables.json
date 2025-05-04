@@ -1,0 +1,474 @@
+{
+  "supplement": "Green Leafy Vegetables",
+  "query": "Green Leafy Vegetables[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:41:41",
+  "research_count": 16,
+  "count": 16,
+  "articles": [
+    {
+      "pmid": "38576886",
+      "title": "Antidiabetic Property Optimization from Green Leafy Vegetables Using Ultrasound-Assisted Extraction to Improve Cracker Production.",
+      "authors": [
+        "Wahyu Haryati Maser",
+        "Nur Maiyah",
+        "Supatra Karnjanapratum",
+        "Pikunthong Nukthamna",
+        "Anthony Keith Thompson",
+        "Nurul Huda",
+        "Ali Muhammed Moula Ali",
+        "Sri Charan Bindu Bavisetty"
+      ],
+      "journal": "Preventive nutrition and food science",
+      "publication_date": "2024-Mar-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Here we test a method of incorporating of plant extracts into popular snack foods to help control diabetes. Since some fresh vegetables contain antidiabetic compounds, ultrasound-assisted extraction was used to optimize their extraction of from spring onions, bunching onions, and celery for later incorporation into crackers. We compared various concentrations of ethanol used during extraction, after which they were exposed to an ultrasound processor whose amplitude and sonication time were also varied. The optimal extraction conditions were found to be an ethanol concentration of 44.08%, an amplitude of 80%, and a sonication time of 30 min. This resulted in the highest level of α-glucosidase inhibitory activity (i.e., 1,449.73 mmol ACE/g) and the highest extraction yield (i.e., 24.16%). The extract produced from these optimum conditions was then used as a constituent component of crackers at 0.625%, 1.25%, or 2.5% w/w. These biscuits were then produced at baking temperatures of 140°C, 150°C, or 160°C. We then measured the physical characteristics and bioactivities of sample biscuits from each treatment. We found that biscuits containing 2.5% vegetable combination extract and baked at 140°C had the highest total phenolic content, the strongest antioxidant performance, and showed the most substantial antidiabetic and antiobesity effects. Here we establish conditions for the effective extraction of antidiabetic functional ingredients via ultrasound from green leafy vegetables. We also provide a method of using these ingredients to prepare crackers with the aim of developing a functional antidiabetic snack food."
+    },
+    {
+      "pmid": "37242172",
+      "title": "The Replacement of Only One Portion of Starchy Carbohydrates with Green Leafy Vegetables Regresses Mid and Advanced Stages of NAFLD: Results from a Prospective Pilot Study.",
+      "authors": [
+        "Sara De Nucci",
+        "Roberta Rinaldi",
+        "Martina Di Chito",
+        "Rossella Donghia",
+        "Vito Giannuzzi",
+        "Endrit Shahini",
+        "Raffaele Cozzolongo",
+        "Pasqua Letizia Pesole",
+        "Sergio Coletta",
+        "Giovanni De Pergola",
+        "Gianluigi Giannelli"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-May-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The gold standard treatment for NAFLD is weight loss and lifestyle interventions, which require a diet enriched in fiber and reduced in sugars and saturated fats. Fibres may be advantageous for NAFLD patients since they reduce and slow the absorption of carbohydrates, lipids, and proteins, lowering the energy density of the meal and increasing their sense of satiety. Furthermore, the polyphenol content and other bioactive compounds of vegetables have antioxidant and anti-inflammatory properties preventing disease progression. The aim of this study is to ascertain the effects of a diet enriched by green leafy vegetables and with a moderate restriction of carbohydrate intake in patients with NAFLD over a three month period. Among the forty patients screened, twenty four patients completed the clinical trial consisting of swapping one portion of carbohydrate-rich food for one portion of green leafy vegetables, and liver and metabolic markers of NAFLD were evaluated. All patients underwent routine blood tests, anthropometric measurements, bioelectrical impedance analysis, fibroscan, and fatty liver index (FLI) evaluation before and at the end of the study. The population under study (n = 24) had a median age of 47.5 (41.5-52.5) years and included mainly women (70.8%). We found that FLI, which is used to predict fatty liver (73 (33-89) vs. 85 (54-95), p < 0.0001) and the FAST score, which is a fibroscan-derived parameter identifying patients at risk of progressive NASH (0.03 (0.02-0.09) vs. 0.05 (0.02-0.15), p = 0.007), were both improved after changes in diet. The BMI (33.3 (28.6-37.3) vs. 35.3 (31.2-39.0), p < 0.0001), WC (106.5 (95.0-112.5) vs. 110.0 (103.0-124.0), p < 0.0001), neck circumference (38.0 (35.0-41.5) vs. 39.5 (38.0-42.5), p < 0.0001), fat mass (32.3 (23.4-40.7) vs. 37.9 (27.7-43.5), p < 0.0001), and extracellular water (17.3 (15.2-20.8) vs. 18.3 (15.9-22.7), p = 0.03) were also all significantly lower after three months of diet. Metabolic parameters linked to NAFLD decreased: HbA1c (36.0 (33.5-39.0) vs. 38.0 (34.0-40.5), p = 0.01), triglycerides (72 (62-90) vs. 90 (64-132), p = 0.03), and the liver markers AST (17 (14-19) vs. 18 (15-27), p = 0.01) and γGT (16 (13-20) vs. 16 (14-27), p = 0.02). In conclusion, replacing only one portion of starchy carbohydrates with one portion of vegetables for a three month period is sufficient to regress, at least in part, both mid and advanced stages of NAFLD. This moderate adjustment of lifestyle habits is easily achievable.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Male",
+        "Non-alcoholic Fatty Liver Disease",
+        "Vegetables",
+        "Pilot Projects",
+        "Prospective Studies",
+        "Starch"
+      ]
+    },
+    {
+      "pmid": "35905648",
+      "title": "Survey of the occurrence of Giardia duodenalis cysts and Cryptosporidium spp. oocysts in green leafy vegetables marketed in the city of Valencia (Spain).",
+      "authors": [
+        "María Trelis",
+        "Sandra Sáez-Durán",
+        "Pablo Puchades",
+        "Nicole Castro",
+        "Ana Miquel",
+        "Mónica Gozalbo",
+        "Màrius Vicent Fuentes"
+      ],
+      "journal": "International journal of food microbiology",
+      "publication_date": "2022-Oct-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The role of vegetables usually consumed without prior culinary treatment is known to contribute to the prevalence of foodborne diseases. Cysts and oocysts can contaminate food, which can then be the source of infection in humans. The aim of the study was to assess the occurrence of Giardia duodenalis and Cryptosporidium spp. (oo)cysts in green leafy vegetables marketed in the city of Valencia (Spain) combining parasitological methods, two real-time qPCRs and light microscopy. An experimental field study was conducted on 129 vegetable samples, 64 from conventional farms and 65 from ecological (organic) farms. The samples were washed with water, and the resulting solution after removing the vegetables, was subjected to 24-hour sedimentation. The concentrated sediment was used for the search for protozoa. A positive result by both real-time PCRs, or a positive result by one qPCR and confirmation by microscopy was established as a positivity criterion. Giardia duodenalis was detected in 23.0 % of the samples, and Cryptosporidium spp. in 7.8 %. G. duodenalis (41.5 %) and Cryptosporidium spp. (20.0 %) were more frequent in ecological crops. The high level of contamination detected in organic vegetables may be due to the type of fertilizers and the quality of the water used for their irrigation and reinforces the need to take extreme hygiene measures in vegetables that are consumed raw.",
+      "mesh_terms": [
+        "Animals",
+        "Cryptosporidiosis",
+        "Cryptosporidium",
+        "Giardia",
+        "Giardia lamblia",
+        "Giardiasis",
+        "Humans",
+        "Oocysts",
+        "Spain",
+        "Vegetables",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "33917165",
+      "title": "A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial.",
+      "authors": [
+        "Andrew D Frugé",
+        "Kristen S Smith",
+        "Aaron J Riviere",
+        "Rachel Tenpenny-Chigas",
+        "Wendy Demark-Wahnefried",
+        "Anna E Arthur",
+        "William M Murrah",
+        "William J van der Pol",
+        "Shanese L Jasper",
+        "Casey D Morrow",
+        "Robert D Arnold",
+        "Kimberly Braxton-Lloyd"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Apr-07",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Green leafy vegetables (GLV) may reduce the risk of red meat (RM)-induced colonic DNA damage and colorectal cancer (CRC). We previously reported the primary outcomes (feasibility) of a 12-week randomized controlled crossover trial in adults with habitual high RM and low GLV intake with body mass index (BMI) > 30 kg/m2 (NCT03582306). Herein, our objective was to report a priori secondary outcomes. Participants were recruited and enrolled in 2018, stratified by gender, and randomized to two arms: immediate intervention group (IG, n = 26) or delayed intervention group (DG, n = 24). During the 4 week intervention period, participants were provided with frozen GLV and counseled to consume 1 cooked cup equivalent daily. Participants consumed their normal diet for the remaining 8 weeks. At each of four study visits, anthropometrics, stool, and blood were taken. Overall, plasma Vitamin K1 (0.50 ± 1.18 ng/mL, p < 0.001) increased, while circulating 8OHdG (-8.52 ± 19.05 ng/mL, p < 0.001), fecal 8OHdG (-6.78 ± 34.86 ng/mL, p < 0.001), and TNFα (-16.95 ± 60.82 pg/mL, p < 0.001) decreased during the GLV intervention compared to control periods. Alpha diversity of fecal microbiota and relative abundance of major taxa did not differ systematically across study periods. Further investigation of the effects of increased GLV intake on CRC risk is warranted.",
+      "mesh_terms": [
+        "Adult",
+        "Biodiversity",
+        "Biomarkers",
+        "Colorectal Neoplasms",
+        "Cross-Over Studies",
+        "Feasibility Studies",
+        "Feces",
+        "Humans",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Phylogeny",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "32455149",
+      "title": "The effects of vitamin K-rich green leafy vegetables on bone metabolism: A 4-week randomised controlled trial in middle-aged and older individuals.",
+      "authors": [
+        "Marc Sim",
+        "Joshua R Lewis",
+        "Richard L Prince",
+        "Itamar Levinger",
+        "Tara C Brennan-Speranza",
+        "Claire Palmer",
+        "Catherine P Bondonno",
+        "Nicola P Bondonno",
+        "Amanda Devine",
+        "Natalie C Ward",
+        "Elizabeth Byrnes",
+        "Carl J Schultz",
+        "Richard Woodman",
+        "Kevin Croft",
+        "Jonathan M Hodgson",
+        "Lauren C Blekkenhorst"
+      ],
+      "journal": "Bone reports",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: High vegetable intake is associated with beneficial effects on bone. However, the mechanisms remain uncertain. Green leafy vegetables are a rich source of vitamin K1, which is known to have large effects on osteoblasts and osteocalcin (OC) metabolism. OBJECTIVE: To examine the effects of consumption of two to three extra serves of green leafy vegetables daily on bone metabolism. METHODS: Thirty individuals (mean age 61.8 ± 9.9 years, 67% male) completed three experimental phases in a randomised controlled crossover design, each lasting four weeks, with a washout period of four weeks between phases (clinical trial registration: ACTRN12615000194561). The three experimental phases were: (i) increased dietary vitamin K1 by consuming green leafy vegetables (H-K; ~200 g/d containing 164.3 [99.5-384.7] μg/d of vitamin K1); (ii) low vitamin K1 by consuming vitamin K1-poor vegetables (L-K; ~200 g/d containing 9.4 [7.7-11.6] μg/d of vitamin K1); and (iii) control (CON) where participants consumed an energy-matched non-vegetable control. OC forms, total OC (tOC), carboxylated OC (cOC) and undercarboxylated OC (ucOC), were measured in serum pre- and post-intervention for each experimental phase using a sandwich-electrochemiluminescence immunoassay. RESULTS: Pre-intervention tOC, ucOC and ucOC:tOC levels were similar between phases (P > .05). Following H-K, but not L-K, tOC, ucOC and ucOC:tOC levels were significantly lower compared to pre-intervention levels (P ≤ .001) and compared to CON (~14%, 31% and 19%, respectively, all P < .05), while cOC remained unchanged. CONCLUSIONS: In middle-aged healthy men and women, an easily achieved increase in dietary intake of vitamin K1-rich green leafy vegetables substantially reduces serum tOC and ucOC suggesting increased entry of OC into bone matrix, where it may improve the material property of bone. In conjunction with previous epidemiological and randomised controlled trial data, these findings suggest that interventions to increase vegetable intake over extended periods should include bone end points including fracture risk."
+    },
+    {
+      "pmid": "30045425",
+      "title": "Effect of a daily snack containing green leafy vegetables on women's fatty acid status: a randomized controlled trial in Mumbai, India.",
+      "authors": [
+        "Harsha V Chopra",
+        "Sarah H Kehoe",
+        "Sirazul A Sahariah",
+        "Harshad N Sane",
+        "Vanessa A Cox",
+        "Dnyaneshwar V Tarwade",
+        "Barrie M Margetts",
+        "Ramesh D Potdar",
+        "Caroline Hd Fall",
+        "Sadhana R Joshi"
+      ],
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVES: There are few data on the fatty acid status of non-pregnant Indian women. Our objective was to investigate the effect of a snack containing green leafy vegetables (GLVs) on women's erythrocyte long chain polyunsaturated fatty acid status (LCPUFA). METHODS AND STUDY DESIGN: Non-pregnant women (n=222) aged 14-35 years from Mumbai slums were randomized to consume a snack containing GLVs, fruit and milk (treatment) or a control snack containing foods of low micronutrient content such as potato and onion, daily under observation. One treatment snack contained a mean (SD) of 54.1 (33.7) mg alpha-linolenic acid (ALA) and one control snack contained 4.1 (3.4) mg ALA. Blood was collected at baseline (0 weeks) and after 12 weeks of supplementation. Erythrocyte fatty acids were analyzed using gas chromatography and expressed as g/100g fatty acids. Plasma malondialdehyde, homocysteine, and erythrocyte superoxide dismutase and glutathione peroxidase were measured. The effect of the treatment on 12 week LCPUFA was assessed using ANCOVA models. RESULTS: Median (IQR) erythrocyte DHA in the treatment group increased from 1.50 (1.11, 2.03) at baseline to 1.86 (1.50, 2.43) (p<0.001) at 12 weeks, and fell in controls from 1.78 (1.37, 2.32) to 1.60 (1.32, 2.04) (p<0.001). The total n-3 fatty acids increased in the treatment group. There was no effect on malondialdehyde and antioxidant enzyme levels. Plasma homocysteine at 0 and 12 weeks was inversely associated with erythrocyte DHA at 12 weeks. CONCLUSION: Daily consumption of a snack containing GLV improved women's erythrocyte DHA levels without increasing oxidative stress.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Diet",
+        "Erythrocytes",
+        "Fatty Acids",
+        "Female",
+        "Homocysteine",
+        "Humans",
+        "India",
+        "Snacks",
+        "Vegetables",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32153888",
+      "title": "Effect of green leafy vegetables powder on anaemia and vitamin-A status of Ghanaian school children.",
+      "authors": [
+        "Godfred Egbi",
+        "Samuel Gbogbo",
+        "George Ekow Mensah",
+        "Mary Glover-Amengor",
+        "Matilda Steiner-Asiedu"
+      ],
+      "journal": "BMC nutrition",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Nutritional anaemia and vitamin-A deficiency are public health issues confronting Ghanaian children. Their adverse effects are likely pronounced during the dry season when green leafy vegetables, rich-sources of iron and provitamin-A are scarce. This study assessed the effect of dried green leafy vegetables on anaemia and vitamin-A status of Ghanaian school children. METHOD: This was 3 months pretest, posttest nutrition intervention study. Children 4-9 years were randomized to receive or not receive supplement. High Performance Liquid Chromatography and Haemocue hemoglobinometer were used to determine vitamin-A and haemoglobin concentrations respectively. Malaria-parasitaemia and helminthes were examined by Giemsa-staining and Kato-Katz respectively. Nutritional status was assessed by anthropometry. Student's t-test was used to establish significant differences between groups. RESULTS: At baseline, the mean haemoglobin concentrations of control and supplemental were 116.9 ± 9.9 g/l and 117.6 ± 12.7 g/l respectively. At end-line, it was 121.9 ± 13.5 g/l for supplemental and 113.4 ± 8.5 g/l for control, significant at p = 0.001. At baseline prevalence of anaemia was 37.3 and 41.5% in control and supplemental respectively. At end-line it was 33.3% in supplemental against 57.5% in control, significant at p = 0.024. At baseline mean retinol concentrations were 16.79 ± 8.74 μg/dl and 16.97 ± 7.74 μg/dl for control and supplemental respectively. Mean retinol concentrations for control and supplemental were 24.35 ± 5.50 μg/dl and 26.96 ± 6.86 μg/dl respectively at end-line. At end-line 60% of control against 64.0% of supplemental had low vitamin-A status. At end-line, anaemic-control had mean retinol concentration of 23.78 ± 5.23 μg/dl and anaemic-supplemental had 27.46 ± 7.28 μg/dl. Prevalence of low vitamin-A status was 64.3 and 84.2% in anaemic-control and anaemic-supplemental respectively at baseline but it became 23.1 and 21.1% respectively, at end-line. The mean haemoglobin concentrations of anaemic-control and supplemental were 105.7 ± 7.5 g/l and 113.6 ± 13.6 g/l respectively at end-line. The change in prevalence of anaemia between the anaemic groups was 12.2%, significant at p = 0.042. CONCLUSION: Consumption of green leafy vegetables powder increased mean haemoglobin and retinol concentrations of the study participants. It had the potential to minimize prevalence of anaemia and low vitamin-A status of study participants."
+    },
+    {
+      "pmid": "29404060",
+      "title": "Application of HPLC and ESI-MS techniques in the analysis of phenolic acids and flavonoids from green leafy vegetables (GLVs).",
+      "authors": [
+        "B Ramesh Kumar"
+      ],
+      "journal": "Journal of pharmaceutical analysis",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Diets containing high proportions of fruits and vegetables reduce the risk of onset of chronic diseases. The role of herbal medicines in improving human health is gaining popularity over the years, which also increases the need for safety and efficiency of these products. Green leafy vegetables (GLVs) are the richest source of phenolic compounds with excellent antioxidant properties. Increased consumption of diets containing phenolic compounds may give positive and better results to human health and significantly improves the immune system. Highly selective, susceptible and versatile analytical techniques are necessary for extraction, identification, and quantification of phenolic compounds from plant extracts, which helps to utilize their important biological properties. Recent advances in the pre-treatment procedures, separation techniques and spectrometry methods are used for qualitative and quantitative analysis of phenolic compounds. The online coupling of liquid chromatography with mass spectrometry (LC-MS) has become a useful tool in the metabolic profiling of plant samples. In this review, the separation and identification of phenolic acids and flavonoids from GLVs by LC-MS have been discussed along with the general extraction procedures and other sources of mass spectrometer used. The review is devoted to the understanding of the structural configuration, nature and accumulation pattern of phenolic acids and flavonoids in plants and to highlighting the recent developments in the chemical investigation of these compounds by chromatographic and spectroscopic techniques. It concludes with the advantages of the combination of these two methods and prospects."
+    },
+    {
+      "pmid": "25261227",
+      "title": "Short-term effects of nitrate-rich green leafy vegetables on blood pressure and arterial stiffness in individuals with high-normal blood pressure.",
+      "authors": [
+        "Catherine P Bondonno",
+        "Alex H Liu",
+        "Kevin D Croft",
+        "Natalie C Ward",
+        "Xingbin Yang",
+        "Michael J Considine",
+        "Ian B Puddey",
+        "Richard J Woodman",
+        "Jonathan M Hodgson"
+      ],
+      "journal": "Free radical biology & medicine",
+      "publication_date": "2014-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Evidence for a beneficial effect of dietary nitrate, through the nitrate-nitrite-NO pathway, on measures of cardiovascular function in healthy individuals is accumulating. It is less clear whether increased dietary nitrate intake from green leafy vegetables would have similar beneficial vascular effects in those at increased risk of developing hypertension. Our aim was to assess the effects of short-term regular consumption of increased nitrate from green leafy vegetables on blood pressure and arterial stiffness in individuals with high-normal blood pressure. Thirty-eight men and women ages 30-70 years with systolic blood pressure 120 to 139 mm Hg were recruited to a randomized controlled crossover trial. The effects of a 7-day high-nitrate diet intervention (increased nitrate intake by at least 300 mg/day from green leafy vegetables) were compared to a 7-day low-nitrate diet intervention. Outcome measures included pre- and postintervention salivary and plasma nitrate and nitrite concentrations; ambulatory, home, and office blood pressure; augmentation index; and carotid-femoral pulse wave velocity. The high-nitrate diet intervention resulted in at least a fourfold increase in salivary and plasma nitrate and nitrite (P<0.001). Ambulatory, home, and office blood pressure and arterial stiffness were not different between the high-nitrate diet and the low-nitrate diet. Increasing dietary nitrate intake in those with high-normal blood pressure and at increased risk of hypertension may not be an effective short-term strategy to lower blood pressure.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Pressure",
+        "Creatinine",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Male",
+        "Middle Aged",
+        "Potassium",
+        "Sodium",
+        "Spinacia oleracea",
+        "Treatment Outcome",
+        "Vascular Stiffness"
+      ]
+    },
+    {
+      "pmid": "25182436",
+      "title": "Phytochemical constituents and antibacterial activity of some green leafy vegetables.",
+      "authors": [
+        "Ramesa Shafi Bhat",
+        "Sooad Al-Daihan"
+      ],
+      "journal": "Asian Pacific journal of tropical biomedicine",
+      "publication_date": "2014-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To investigate the antibacterial activity and photochemicals of five green leafy vegetables against a panel of five bacteria strains. METHODS: Disc diffusion method was used to determine the antibacterial activity, while kanamycin was used as a reference antibiotic. The phytochemical screening of the extracts was performed using standard methods. RESULTS: All methanol extracts were found active against all the test bacterial strains. Overall maximum extracts shows antibacterial activity which range from 6 to 15 mm. Proteins and carbohydrates was found in all the green leaves, whereas alkaloid, steroids, saponins, flavonoids, tannins were found in most of the test samples. CONCLUSIONS: The obtain result suggests that green leafy vegetables have moderate antibacterial activity and contain various pharmacologically active compounds and thus provide the scientific basis for the traditional uses of the studied vegetables in the treatment of bacterial infections."
+    },
+    {
+      "pmid": "20412609",
+      "title": "Small quantities of carotenoid-rich tropical green leafy vegetables indigenous to Africa maintain vitamin A status in Mongolian gerbils ( Meriones unguiculatus).",
+      "authors": [
+        "Richard A Ejoh",
+        "Joseph T Dever",
+        "Jordan P Mills",
+        "Sherry A Tanumihardjo"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Leafy vegetables are important sources of provitamin A carotenoids. Information on their ability to provide vitamin A is often misleading because of the methodology used to assess bioefficacy. Mongolian gerbils were used to evaluate the bioefficacy of provitamin A carotenoids in tropical leafy vegetables (i.e. Solanum nigrum, Moringa oleifera, Vernonia calvoana and Hibiscus cannabinus) that are indigenous to Africa. Gerbils (n 67) were vitamin A-depleted for 5 weeks. After a baseline kill (n 7), the gerbils were weight-matched and assigned to six treatment groups (n 10; four vegetable groups; negative and positive controls). For 4 weeks, the treatments included 35 nmol vitamin A (theoretical concentrations based on 100 % bioefficacy) in the form of vegetables or retinyl acetate. In addition to their diets, the control and vegetable groups received daily doses of oil, while the vitamin A group received retinyl acetate in oil matched to prior day intake. Serum and livers were analysed for vitamin A using HPLC. Serum retinol concentrations did not differ among groups, but total liver vitamin A of the vitamin A and vegetable groups were higher than that of the negative control group (P < 0.0001). Liver beta-carotene 15,15'-monooxygenase-1 expression levels were determined for two vegetable groups and were similar to the positive and negative controls. Conversion factors for the different leafy vegetables were between 1.9 and 2.3 microg beta-carotene equivalents to 1 microg retinol. Small quantities of these vegetables maintained vitamin A status in gerbils through efficient bioconversion of beta-carotene to retinol.",
+      "mesh_terms": [
+        "Africa",
+        "Animals",
+        "Carotenoids",
+        "Diet",
+        "Diterpenes",
+        "Gerbillinae",
+        "Hibiscus",
+        "Liver",
+        "Male",
+        "Moringa oleifera",
+        "Nutritional Status",
+        "Retinyl Esters",
+        "Solanum nigrum",
+        "Vegetables",
+        "Vernonia",
+        "Vitamin A",
+        "beta Carotene",
+        "beta-Carotene 15,15'-Monooxygenase"
+      ]
+    },
+    {
+      "pmid": "20384339",
+      "title": "Development of a cost-effective method for nitrate and nitrite determination in leafy plants and nitrate and nitrite contents of some green leafy vegetables grown in the Aegean region of Turkey.",
+      "authors": [
+        "Ozgül Ozdestan",
+        "Ali Uren"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2010-May-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "An accurate, fast, easily applicable, and cost-effective method for the determination of nitrate and nitrite was developed. This method was much more reliable than the cadmium column reduction method, which is a tedious and time-consuming procedure and not easily applicable. The principle of the method was reduction of nitrate to nitrite with cadmium acetate solution and zinc powder and then treatment with Griess reagent. Recovery of the method changed from 92.9 to 102.8%, and detection limit was found as 31.4 mg/kg. Coefficient of variation was 3.16% for intraday precision. Nitrate and nitrite contents of 10 types of leafy vegetables native to the Aegean region of Turkey were determined. Wild radish, chicory, fennel, blessed thistle, blue mallow, and chard were analyzed for the first time. Nitrate contents were found between 354.8 mg/kg for iceberg lettuce and 4653 mg/kg for wild radish. Tested vegetables contained <26.33 mg/kg nitrite.",
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Cost-Benefit Analysis",
+        "Crops, Agricultural",
+        "Nitrates",
+        "Nitrites",
+        "Turkey",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "20113188",
+      "title": "Recipes and nutritional value of dishes prepared from green-leafy vegetables in an urban district of Antananarivo (Madagascar).",
+      "authors": [
+        "Verohanitra Annie Randrianatoandro",
+        "Sylvie Avallone",
+        "Christian Picq",
+        "Charlotte Ralison",
+        "Serge Trèche"
+      ],
+      "journal": "International journal of food sciences and nutrition",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The recipes of 50 multi-ingredient dishes consumed by the population in an urban district were noted down. The nutritional value was determined as well as the cook value of the dishes in order to evaluate the severity of the thermal treatment. The recipes were simple and involved steps such as boiling, mixing, and cutting. Fibre contents were rather low except when the leaf stems were included. All the dishes had very high beta-carotene content (15.8-25.0 mg/100 g dry matter) and retinol activity equivalent (RAE) (1.3-2.3 mg RAE/100 g dry matter) because of the high proportion of fresh leafy vegetables (from 41.2% to 58.8% of the total dry matter of the ingredients). When meat was added to the preparation, the micronutrient content (iron, zinc, and retinol) was not increased significantly. In three dishes, a positive correlation was found between the thermal treatment severity and the 13-cis-beta-carotene amount.",
+      "mesh_terms": [
+        "Child, Preschool",
+        "Cooking",
+        "Diet",
+        "Dietary Fiber",
+        "Humans",
+        "Infant",
+        "Madagascar",
+        "Meat",
+        "Micronutrients",
+        "Nutritive Value",
+        "Plant Leaves",
+        "Urban Population",
+        "Vegetables",
+        "Vitamin A",
+        "beta Carotene"
+      ]
+    },
+    {
+      "pmid": "17201643",
+      "title": "Tropical green leafy vegetables prevent garlic-induced hepatotoxicity in the rat.",
+      "authors": [
+        "Ganiyu Oboh"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Garlic (Allium sativum) is popularly consumed because of its role in the treatment and management of several diseases. However, unregulated and chronic intake of garlic can cause damage to cells through the production of free radicals. This study was carried out in order to assess the ability of some tropical green leafy vegetables (Telfairia occidentalis, Solanum macrocapon, Corchorus olitorius, Baselia alba, Cnidoscolus acontifolus, Amarantus cruentus, and Ocimum gratissimum) to prevent garlic-induced hepatotoxicity in rats. Wistar strain albino rats were fed diet containing 4% garlic along with or without 40% green leafy vegetable supplement for 14 days. Thereafter, the feeding trial was terminated, the serum of the blood was prepared, and the liver, spleen, intestine, and organ were isolated for gross pathological investigation. The results of the study revealed that there was a significant increase (P < .05) in serum glutamate-oxaloacetate transaminase (SGOT) and glutamate-pyruvate transaminase (SGPT) of the albino rats fed diet containing 4% garlic supplement when compared with the rats fed the basal diet without garlic and vegetable (40%) supplement. However, there was a significant decrease (P < .05) in the serum total protein and albumin levels in those rats. Conversely, there was a consistent significant decrease (P < .05) in the SGOT and SGPT of the rats fed diet containing garlic (4%) and T. occidentalis (40%) and C. acontifolus (40%) supplement compared with those rats fed diet containing garlic (4%) supplement, while there were no consistent significant decrease in those rats fed diet with garlic (4%) alongside with 40% of other leafy vegetables (S. macrocanum, C. olitorius, B. alba, A. cruentus, and O. gratissimum). An increase in serum level of total protein and albumin was also observed in the rats fed T. occidentalis and C. acontifolus. Thus, T. occidentalis and C. acontifolus proved to be better vegetables in preventing garlic-induced hepatotoxicity compared with the other vegetables used in this study.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Animals",
+        "Antioxidants",
+        "Aspartate Aminotransferases",
+        "Blood Proteins",
+        "Cucurbitaceae",
+        "Euphorbiaceae",
+        "Food Preservation",
+        "Garlic",
+        "Liver Diseases",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rats",
+        "Rats, Wistar",
+        "Serum Albumin",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "15671698",
+      "title": "Prevention of garlic-induced hemolytic anemia using some tropical green leafy vegetables.",
+      "authors": [
+        "Ganiyu Oboh"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Garlic (Allium sativum) is popularly consumed in Nigeria because of its health benefit in treatment and management of several disease conditions. However, excessive intake of garlic may cause hemolytic anemia. This project sought to investigate the ability of some commonly consumed tropical green leafy vegetables-namely, Amaranthus cruentus, Baselia alba, Solanum macrocarpon, Ocimum gratissimum, and Corchorus olitorius-to prevent garlic-induced hemolytic anemia. Wister strain albino rats were fed diet containing 4% garlic with or without 40% vegetable supplement. The study showed that there was a decrease in daily feed intake (6.7-7.2 g/rat/day), daily weight gain (0.7-1.5 g/rat/day), and digestibility (70.4-91.5%) of rats fed diet with garlic (4%), with or without vegetable (40%) supplement, compared with those rats fed the basal diet without garlic (4%) and vegetable (40%) supplement (digestibility, 95.5%; daily feed intake, 7.5 g/rat/day; and daily weight gain, 2.0 g/rat/day). However, there was a significant decrease (P < .05) in the packed cell volume (PCV) (31.0%), hemoglobin (Hb) (10.2 g/dL), red blood cells (RBCs) (4.3 x 10(6)/microL), and white blood cells (WBCs) (3.5 x 10(6)/microL) of rats fed diet with garlic (4%) but without vegetable compared with those rats fed diet without garlic (4%) and vegetable (40%) supplements (PCV, 38.2%; Hb, 13.0 g/dL; RBCs, 5.5 x 10(6)/microL; and WBCs, 4.0 x 10(6)/microL). Conversely, there was a significant increase in the PCV (33.5-35.6%), Hb (12.0-12.5 g/dL), and RBCs (4.9-5.3 x 10(6)/microL) of rats fed diet with garlic (4%) and vegetable (40%) supplement compared with rats fed diet with 4% garlic supplement (except S. macrocarpon and C. olitorius). Furthermore, there was a significant decrease (P < .05) in mean corpuscular volume (69.2-72.0 fL) of rats fed the basal and those fed diet with garlic and vegetable (except C. olitorus and S. macrocarpon) supplement compared with the rats fed diet with garlic but without vegetable supplement (74.5 fL). This therefore implies that garlic could induce hemolytic anemia in rats. However, such anemia could be prevented by some tropical green leafy vegetables such as A. cruentus, B. alba, and O. gratissimum.",
+      "mesh_terms": [
+        "Anemia, Hemolytic",
+        "Animals",
+        "Digestion",
+        "Eating",
+        "Erythrocyte Count",
+        "Garlic",
+        "Hematocrit",
+        "Hemoglobins",
+        "Leukocyte Count",
+        "Plant Extracts",
+        "Random Allocation",
+        "Rats",
+        "Rats, Wistar",
+        "Vegetables",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "8036264",
+      "title": "Impact of health education on the feeding of green leafy vegetables at home to children of the urban poor mothers of Bangladesh.",
+      "authors": [
+        "M M Rahman",
+        "M A Islam",
+        "D Mahalanabis",
+        "S Chowdhury",
+        "E Biswas"
+      ],
+      "journal": "Public health",
+      "publication_date": "1994-May",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To evaluate the impact of health education on mothers, on the feeding of their children green leafy vegetables (GLV) at home, we studied 160 children aged 6 to 35 months and their mothers in two intervention groups and one comparison group. The mothers of the first intervention group (n = 44) were given health education including a feeding demonstration, by offering a single meal of cooked GLV to their children. The mothers in the second intervention group (n = 36) received health education only. Mothers of both the intervention groups were visited at home after eight weeks of intervention without prior notice, and for each of them an immediate neighbourhood mother having a child in the same age range was selected as a comparison mother (n = 80). During this visit, mothers were asked whether they had cooked GLV that day and fed these to their children; this was confirmed by spot-checking. Also, mothers were interviewed to elicit their perceptions about GLV. The percentages of mothers who thought that GLV are good for health were 88.7%, 86.1% and 76.2% in groups 1, 2 and comparison respectively (P = 0.06). However, the percentages of mothers who actually fed their children GLV were 57%, 64% and 26% in groups 1, 2 and comparison group respectively (P < 0.001). The influence of health education on GLV feeding persisted after controlling for the effect of maternal literacy (Mantel Haenszel chi-square = 16.99; P < 0.0001) and family income (Mantel Haenszel chi-square = 17.36; P < 0.0001).(ABSTRACT TRUNCATED AT 250 WORDS)",
+      "mesh_terms": [
+        "Bangladesh",
+        "Child Nutritional Physiological Phenomena",
+        "Child, Preschool",
+        "Female",
+        "Health Education",
+        "Humans",
+        "Infant",
+        "Infant Nutritional Physiological Phenomena",
+        "Male",
+        "Mothers",
+        "Poverty",
+        "Urban Population",
+        "Vegetables"
+      ]
+    }
+  ]
+}

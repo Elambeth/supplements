@@ -1,0 +1,43 @@
+{
+  "supplement": "High-Glycemic-Index Foods",
+  "query": "High-Glycemic-Index Foods[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:45:26",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "25064307",
+      "title": "Problematic intake of high-sugar/low-fat and high glycemic index foods by bariatric patients is associated with development of post-surgical new onset substance use disorders.",
+      "authors": [
+        "Lauren Fowler",
+        "Valentina Ivezaj",
+        "Karen K Saules"
+      ],
+      "journal": "Eating behaviors",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Bariatric or weight loss surgery (WLS) patients are overrepresented in substance abuse treatment, constituting about 3% of admissions; about 2/3 of such patients deny problematic substance use prior to WLS. It is important to advance our understanding of the emergence of substance use disorders (SUDs) - particularly the New Onset variant - after WLS. Burgeoning research with both animal models and humans suggests that \"food addiction\" may play a role in certain forms of obesity, with particular risk conferred by foods high in sugar but low in fat. Therefore, we hypothesized that WLS patients who reported pre-WLS problems with High-Sugar/Low-Fat foods and those high on the glycemic index (GI) would be those most likely to evidence New Onset SUDs after surgery. Secondary data analyses were conducted using a de-identified database from 154 bariatric surgery patients (88% female, Mage=48.7 yrs, SD=10.8, Mtime since surgery=2.7 yrs, SD=2.2 yrs). Participants who endorsed pre-surgical problems with High-Sugar/Low-Fat foods and High GI foods were at greater risk for New Onset SUD in the post-surgical period. These findings remained significant after controlling for other predictors of post-surgical SUD. Our findings provide evidence for the possibility of addiction transfer among certain bariatric patients.",
+      "mesh_terms": [
+        "Adult",
+        "Bariatric Surgery",
+        "Behavior, Addictive",
+        "Databases, Factual",
+        "Dietary Fats",
+        "Dietary Sucrose",
+        "Eating",
+        "Female",
+        "Glycemic Index",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Postoperative Period",
+        "Risk Assessment",
+        "Substance-Related Disorders",
+        "Time Factors"
+      ]
+    }
+  ]
+}

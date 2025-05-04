@@ -1,0 +1,992 @@
+{
+  "supplement": "Yacon",
+  "query": "Yacon[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:06:32",
+  "research_count": 31,
+  "count": 31,
+  "articles": [
+    {
+      "pmid": "40035703",
+      "title": "Synbiotic yacon juice fermented by Lactiplantibacillus plantarum QS7T attenuates dextran sodium sulfate-induced ulcerative colitis in mice.",
+      "authors": [
+        "Gui Zhen Gong",
+        "Rui Tong Li",
+        "Shuang Shuang Cui",
+        "Yuan Ting Zhu",
+        "Zhen Zhen Duan",
+        "Jian Xia Yang",
+        "Yi Xin Wang",
+        "Lan Yue Chen",
+        "Qi Huan Xiao"
+      ],
+      "journal": "Journal of food science",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ulcerative colitis (UC) is a prevalent inflammatory bowel disease associated with abnormal immune responses to commensal bacteria. The study investigated the effects of synbiotic yacon juice fermented by Lactiplantibacillus plantarum QS7T (FYJ) on ameliorating UC and modulating gut microbiota in a dextran sodium sulfate (DSS)-induced colitis mouse model. FYJ intervention significantly improved body weight and colon length, reduced the disease activity index and histopathological scores, and effectively alleviated colon tissue damage compared with treatments with L. plantarum QS7T suspension or yacon juice alone. Additionally, DSS-induced colitis led to a significant decrease in occludin mRNA expression and an upregulation of genes encoding pro-inflammatory cytokines, which were normalized by FYJ treatment. These effects were accompanied by a significant inhibition of the TLR4/MyD88/NF-κB signaling pathway. Moreover, FYJ treatment reversed DSS-induced alternations in gut community beta diversity and composition. In conclusion, FYJ could reduce intestinal mucosal inflammation, repair colonic mucosa, and improve the physiological status of DSS-induced UC mice, possibly through the regulation of the TLR4/MyD88/NF-κB signaling pathway and gut microbiota composition. PRACTICAL APPLICATION: The synbiotic yacon juice significantly restores the DSS-induced imbalance in the intestinal microbiota in mice, thereby preserving mucosal immunity and intestinal barrier integrity. The insights derived from this study are expected to provide a novel perspective on the potential application of synbiotic yacon juice as a functional food agent for treating UC.",
+      "mesh_terms": [
+        "Animals",
+        "Dextran Sulfate",
+        "Mice",
+        "Colitis, Ulcerative",
+        "Gastrointestinal Microbiome",
+        "Fermentation",
+        "Male",
+        "Synbiotics",
+        "Toll-Like Receptor 4",
+        "Lactobacillus plantarum",
+        "Disease Models, Animal",
+        "NF-kappa B",
+        "Colon",
+        "Mice, Inbred C57BL",
+        "Fruit and Vegetable Juices",
+        "Intestinal Mucosa",
+        "Myeloid Differentiation Factor 88",
+        "Signal Transduction",
+        "Lactobacillaceae"
+      ]
+    },
+    {
+      "pmid": "39925358",
+      "title": "Effects of yacon on carbohydrates and lipid metabolism, oxidative-nitrative stress markers changes in rats with experimental metabolic syndrome.",
+      "authors": [
+        "Mariia Nagalievska",
+        "Khrystyna Vilkiv",
+        "Lidiya Mishchenko",
+        "Nataliia Sybirna"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2025-Jan-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND AIM: Smallanthus sonchifolius (Poepp. and Hendl.) H. Robinson, commonly known as yacon, is a medicinal species recognized for its therapeutic properties. The hypoglycemic and hypolipidemic effects of yacon root tubers have been well-documented across various models of metabolic syndrome. However, research on the effects of biologically active compounds derived from yacon leaves remains limited. The aim of the study was to evaluate the hypoglycemic, hypolipidemic and antioxidant effects of an aqueous extract of yacon leaves under the fructose-induced experimental metabolic syndrome. EXPERIMENTAL PROCEDURE: In the study were used male Wistar white rats, in which metabolic syndrome was induced by consuming a 10 % fructose solution. Animals were given an aqueous extract of yacon leaves at a dose of 500 mg per kilogram of body weight for seven and fourteen days following the establishment of metabolic syndrome. Hypoglycemic (glucose and glycosylate hemoglobin concentrations) and hypolipidemic (plasma cholesterol, triglycerides, low-density lipoproteins and high-density lipoproteins levels) effects and antioxidant activity (activity of superoxide dismutase, catalase, glutathione peroxidase, NO-synthase, the content of nitrite anion (NO₂‾) and nitrate anion (NO₃‾), content of carbonyl groups and thiobarbituric acid reactive substances) of extract were then evaluated. RESULTS: The 14 days use of aqueous extract of yacon for the treatment of fructose-induced metabolic syndrome leads to a decrease of animals' body weight (59.94 %), glucose concentration (10.33 %), glycosylated hemoglobin content (61.58 %), blood plasma triglycerides (50.35 %), cholesterol (24.46 %), low-density lipoproteins (21.56 %), as well as to increase in high-density lipoproteins concentration (29.29 %), paraoxonase activity (56.03 %). In animals with experimental MetS yacon cause oxidative-nitrative stress indicators normalization: increase in SOD (47.85 %) and GPO activity (16.55 %); decrease in TBARS content (23.77 %) and proteins oxidative modification products of neutral character (52.56 %); decrease in NOS activity (12.30 %), which was accompanied by a decrease in nitrate content (10.44 %). CONCLUSIONS: The aqueous extract of yacon demonstrates significant hypoglycemic and hypolipidemic effects in a fructose-induced model of experimental metabolic syndrome, contributing to the normalization of both prooxidant and antioxidant states in rat erythrocytes."
+    },
+    {
+      "pmid": "38754846",
+      "title": "Yacon (Smallanthus sonchifolius) root extracts affect laying performance, egg quality, serum biochemical parameters and intestinal microbiota in hens.",
+      "authors": [
+        "Zhiwei Wu",
+        "Qunli Liu",
+        "Zhenting Ruan",
+        "Liuchao Wang",
+        "Jinghui Fan",
+        "Fei Chen",
+        "Zhangguo Liu",
+        "Lizhi Lu"
+      ],
+      "journal": "Animal bioscience",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The objective of this study was to investigate the influence of yacon root extracts (YREs) on productive performance and health of laying hens. METHODS: Six hundred 30-week-old Xiaoshan Chicken layers were divided into 5 groups, control group, antibiotic positive control group, and 3 YREs treatment groups. In a 9-wk feeding experiment, at the end of wk 3, 6, and 9, twenty eggs were collected from each replicate to measure egg qualities. At the end of wk 9, three hen serum samples, and 5 hen cecal content samples were collected from each replicate. RESULTS: Compared to the control group, 0.8%, 1.6%, and 2.4% YREs treatments could increase hens' daily feed intake, and YREs supplementation affected daily feed intake in linear manner. YREs did not change egg size, but 0.8% and 2.4% YREs changed egg shape by decreasing the egg shape index and sphericity, and 0.8% YREs tended to improve the eggshell breaking strength. Diet supplemented with 1.6% YREs might decrease yolk color grade but optimize the pH of thick egg white in fresh egg; moreover, 1.6% and 2.4% YREs might be helpful for eggs to inhibit water loss during storage, and YREs supplementation affected water loss rate in linear manner. 2.4% YREs could decrease the serum lactate dehydrogenases (LDH) level, and YREs supplemental levels linearly affected serum LDH content. Finally, YREs could enrich the diversity of intestinal microbiota of hens fed with 0.8% and be beneficial for the relative abundance of phylum Bacteroidota and Halobacterota; 2.4% YREs might increase the abundance of phylum Actinobacteriota and genus Bifidobacterium, while decrease genus Bacteroides; YREs supplemental levels affected the abundance of phylum Actinobacteriota, and genera Bifidobacterium and Bacteroides in linear manner. CONCLUSION: Dietary supplementation with YREs could affect egg quality, protect the health of organs and exhibit prebiotic activity."
+    },
+    {
+      "pmid": "38163679",
+      "title": "Process and quality parameters of convective dried yacon: Influence of ethanol treatment.",
+      "authors": [
+        "P G Silveira",
+        "C R de P Silva",
+        "J L G Corrêa",
+        "I J Petri",
+        "S V Borges"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yacon is a highly perishable tuberous root, rich in fructooligosaccharides (FOS). Convective drying preceded by ethanol treatment (ET) is an alternative for increasing shelf life in a shorter process. The aim of this study was to investigate the impact of ET and temperature (50 °C and 70 °C) on quality parameters (fructan retention, total phenolic content, antioxidant capacity, shrinkage, color and microstructural parameters) and process parameters (drying time, drying kinetics, and energy consumption) in the convective drying of yacon slices. The ET induced structural alterations in the tissues and cells that aids in the reduction of drying time up to 28.00 %. ET resulted in an increase in effective diffusivity and leaded to noteworthy reduction in energy consumption (up to 22.72 %). The quality parameters such as color, shrinkage, and total phenolic content showed no significant differences among the treatments. The use of ethanol promoted highest preservation of antioxidant activity; however, it caused degradation of FOS. The ethanol pretreated drying at 50 °C was the better condition for lower consumption and preservation of quality parameters as total phenolic content, antioxidant capacity and fructan retention, but the samples dried at 50 °C were the ones with the highest fructan retention (55.11 ± 2.19 %).",
+      "mesh_terms": [
+        "Antioxidants",
+        "Ethanol",
+        "Phenols",
+        "Desiccation",
+        "Fructans"
+      ]
+    },
+    {
+      "pmid": "38081618",
+      "title": "[Yacon root extract improves lipid metabolism in hyperlipidemic rats by inhibiting HMGCR expression and activating the PPARα/CYP7A1/CPT-1 pathway].",
+      "authors": [
+        "S Gong",
+        "J Yang",
+        "J Zhang",
+        "X Wu",
+        "S Jiang",
+        "Y Zhang",
+        "G Gong",
+        "N Wu",
+        "J Sun",
+        "Z Wu"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2023-Nov-20",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effect of yacon root extract on lipid metabolism in rats with hyperlipidemia (HLP) and its underlying mechanisms. METHODS: SD rat models of HLP induced by high- fat diet feeding for 8 weeks were randomized into the model group, fenofibrate treatment group (27 mg/kg), and yacon extract treatment groups at doses of 5, 2.5 and 1.25 g/kg (n=10). The rats were given corresponding drug treatments via gavage for 8 weeks. After the treatments, the rats were observed for body weight changes, liver coefficient, liver pathology, and serum levels of triglycerides (TG), total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C) and high-density lipoprotein cholesterol (HDL-C). The mRNA and protein expressions of HMGCR, PPARα, CYP7A1, and CPT-1 in the liver were detected using RT-qPCR and Western blotting. RESULTS: Compared with those in the model group, the rats treated with fenofibrate and 5 g/kg yacon root extract showed significantly slower body weight gain and lower liver coefficient (P < 0.05) with lower serum levels of TG, TC, and LDL- C (P < 0.05) but higher HDL- C level (P < 0.05). The HLP rat models showed obvious fatty degeneration and vacuolar changes in the liver, which were significantly alleviated by fenofibrate treatment and by treatment with yacon root extract in a dose-dependent manner. Both fenofibrate and 5 g/kg yacon root extract significantly lowered the mRNA and protein expression levels of HMGCR (P < 0.001) and increased the expressions of PPARα, CYP7A1, and CPT-1 in the liver of HLP rats (P < 0.001). CONCLUSION: Yacon root extract can reduce serum TG and TC levels in HLP rats possibly by inhibiting HMGCR expression and activating the PPARα/CYP7A1/CPT-1 signaling pathway, thereby promoting fatty acid β oxidation and bile acid metabolism.",
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Body Weight",
+        "Cholesterol 7-alpha-Hydroxylase",
+        "Cholesterol, LDL",
+        "Diet, High-Fat",
+        "Fenofibrate",
+        "Hyperlipidemias",
+        "Lipid Metabolism",
+        "Liver",
+        "PPAR alpha",
+        "Rats, Sprague-Dawley",
+        "RNA, Messenger",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "37603903",
+      "title": "Yacon (Smallanthus sonchifolius) and kefir improved intestinal and bone health but without symbiotic benefits in rats.",
+      "authors": [
+        "Anamares Ferreira Gomes",
+        "Mirelle Lomar Viana",
+        "Maria das Graças Vaz-Tostes",
+        "Neuza Maria Brunoro Costa"
+      ],
+      "journal": "Nutrition research (New York, N.Y.)",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Kefir is a natural source of probiotics, and yacon (Smallanthus sonchifolius) is a tuberous root rich in fructooligosaccharides, with prebiotic properties. We hypothesized that kefir and yacon can improve bone and intestinal health and that their synbiotic effects will enhance these benefits. The properties of yacon and kefir and their association were evaluated in the intestinal and bone health in rats. Forty Wistar male rats were divided into 4 groups (n = 10): control (C), kefir (K), yacon (Y), and yacon + kefir (YK) and received an AIN-93 M diet containing 50% of the daily recommendation of calcium for 42 days. Group K received 1 mL/day of kefir containing 10⁸ CFU/mL; group Y received yacon flour (5% fructooligosaccharides); and the YK group received the same treatment as the Y and K groups. Urine and feces were collected to determine the calcium balance. Serum biomarkers of bone formation and resorption, osteocalcin, N telopeptides of collagen type I and C-telopeptide of collagen type I, intraluminal pH, intestinal permeability, and secretory immunoglobulin A were evaluated. Yacon reduced intraluminal pH alone or in association with kefir (groups Y and YK). Yacon also improved intestinal permeability (lowered lactulose and mannitol excretion) and increased calcium balance and osteocalcin, a biomarker of bone formation. In turn, K improved immunity by increasing secretory immunoglobulin A secretion and reducing bone resorption biomarkers (C-telopeptide of collagen type I and N telopeptides of collagen type I). Thus, yacon and kefir had beneficial effects on intestinal and bone health; however, the association between them did not demonstrate a synbiotic effect.",
+      "mesh_terms": [
+        "Rats",
+        "Male",
+        "Animals",
+        "Rats, Wistar",
+        "Collagen Type I",
+        "Bone Density",
+        "Calcium",
+        "Kefir",
+        "Osteocalcin",
+        "Immunoglobulin A, Secretory",
+        "Biomarkers",
+        "Asteraceae"
+      ]
+    },
+    {
+      "pmid": "37593160",
+      "title": "Protective effect of yacon leaves extract (Smallanthus sonchifolius (Poepp.) H. Rob) through antifibrosis, anti-inflammatory, and antioxidant mechanisms toward diabetic nephropathy.",
+      "authors": [
+        "Wahyu Widowati",
+        "Rita Tjokropranoto",
+        "Philips Onggowidjaja",
+        "Hanna Sari Widya Kusuma",
+        "Cahyaning Riski Wijayanti",
+        "Meganita Marthania",
+        "Afif Yati",
+        "Rizal Rizal"
+      ],
+      "journal": "Research in pharmaceutical sciences",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: Diabetic nephropathy (DN) is a chronic kidney failure, which may lead to fatality. Mesangial cell proliferation, renal inflammation, stress oxidative, and fibrosis are involved in DN progression. Yacon leaves (Smallanthus sonchifolius (Poepp.) H. Rob.) contains large amounts of phenolic compounds and it has the ability to inhibit oxidative stress, inflammation, and fibrosis. Considering the potential of yacon leaves extract (YLE), it may be used for DN treatment. This research aimed to elucidate YLE's potential as anti-DN through anti-inflammatory, antioxidant, and antifibrosis mechanisms. EXPERIMENTAL APPROACH: Mesangial cells were induced by glucose 20 mM for 5 days and treated with YLE concentrations as much as 5, 10, and 50 µg/mL. TGF-β1, TNF-α, and MDA levels were measured using the ELISA method. SMAD2, SMAD3, SMAD4, and SMAD7 gene expressions were analyzed using the qRT-PCR method. FINDINGS/RESULTS: YLE at 5, 10, and 50 µg/mL could reduce the levels of TGF-β1, TNF-α, and MDA compared with the DN cells model. YLE could reduce gene expressions of SMAD2, SMAD3, and SMAD4 and increase SMAD7 expression. CONCLUSION AND IMPLICATIONS: YLE potentially mitigated diabetic nephropathy through antifibrosis, anti-inflammatory, and antioxidant capacities."
+    },
+    {
+      "pmid": "37513699",
+      "title": "Yacon (Smallanthus sonchifolius) Flour Reduces Inflammation and Had No Effects on Oxidative Stress and Endotoxemia in Wistar Rats with Induced Colorectal Carcinogenesis.",
+      "authors": [
+        "Mariana Grancieri",
+        "Mirelle Lomar Viana",
+        "Daniela Furtado de Oliveira",
+        "Maria das Graças Vaz Tostes",
+        "Mariana Drummond Costa Ignacchiti",
+        "André Gustavo Vasconcelos Costa",
+        "Neuza Maria Brunoro Costa"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Jul-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Colorectal cancer has a high worldwide incidence. The aim of this study was to determine the effect of yacon flour (YF) on oxidative stress, inflammation, and endotoxemia in rats with induced colorectal cancer (CRC). The Wistar male rats were divided and kept for 8 weeks in four groups: S (basal diet, n = 10), Y (YF flour + basal diet, n = 10), C (CRC-induced control + basal diet, n = 12), CY (CRC-induced animals + YF, n = 12). CRC was induced by intraperitoneal injections of 1,2-dimethylhydrazine (25 mg/kg body weight). Groups Y and CY received 7.5% of the prebiotic FOS from YF. The treatment with YF increased fecal secretory immunoglobulin A levels and decreased lipopolysaccharides, tumor necrosis factor alpha and interleukin-12. However, no effect was observed on the oxidative stress by the total antioxidant capacity of plasma, anion superoxide, and nitric oxide analysis of the animals (p < 0.05). The short-chain fatty acids acetate, propionate, and butyrate showed interactions with NF-κB, TLR4, iNOS, and NADPH oxidase by in silico analysis and had a correlation (by the Person analysis) with CRC markers. The yacon flour treatment reduced the inflammation in rats with induced CRC, and could be a promising food to reduce the damages caused by colorectal cancer.",
+      "mesh_terms": [
+        "Rats",
+        "Male",
+        "Animals",
+        "Rats, Wistar",
+        "Flour",
+        "Endotoxemia",
+        "Oxidative Stress",
+        "Carcinogenesis",
+        "Colorectal Neoplasms",
+        "Asteraceae"
+      ]
+    },
+    {
+      "pmid": "36736091",
+      "title": "Previous gut microbiota has an effect on postprandial insulin response after intervention with yacon syrup as a source of fructooligosaccharides: a randomized, crossover, double-blind clinical trial.",
+      "authors": [
+        "Suiani da Silva Sales",
+        "Ana Paula Dionísio",
+        "Lia Silveira Adriano",
+        "Bárbara Rebeca Cordeiro de Melo",
+        "Fernando Antônio Pinto de Abreu",
+        "Helena Alves de Carvalho Sampaio",
+        "Ismael Dale Cotrim Guerreiro da Silva",
+        "Antonio Augusto Ferreira Carioca"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: The use of prebiotics has an effect on postprandial glucose and insulin concentrations; however, the interaction between the previous profile of the intestinal microbiota and the effect of supplementation with prebiotics is not clear. Our objective was to evaluate the effect of previous intestinal microbiota profile on the postprandial insulin response to yacon syrup, used as a source of fructooligosaccharides (FOSs), in young women. The product presents high levels of FOS. METHODS: In this double-blind, crossover, randomized clinical trial, 40 adult women were allocated to receive a breakfast containing 40 g of yacon syrup (14 g FOS, intervention A) or a breakfast containing 40 g of placebo (intervention B). On each intervention day, after 12 h of fasting, an aliquot of blood was collected for insulin analysis at 0, 15, 30, 45, 60, 90, and 120 min. The fecal sample was collected before the beginning of the interventions, and the DNA was extracted and quantified, with subsequent amplification of the 16S region, next-generation sequencing, and analysis of sequencing data. RESULTS: The glucose and insulin concentrations were reduced after ingestion of yacon syrup compared with placebo, specifically at the 30 min to insulin. After the receiver operating characteristic analysis, six volunteers who did not respond to the yacon consumption intervention were identified. The abundance of the phylum Actinobacteria (P = 0.021) and the order Bifidobacteriales (P = 0.013) were positively associated with better insulin response. Other main phyla were not associated with intervention response. CONCLUSIONS: The previous profile of the intestinal microbiota has an effect on the postprandial insulin response to FOSs, mainly in the phylum Actinobacteria and Bifidobacteriales order.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Female",
+        "Insulin",
+        "Gastrointestinal Microbiome",
+        "Glucose",
+        "Double-Blind Method",
+        "Cross-Over Studies",
+        "Blood Glucose"
+      ]
+    },
+    {
+      "pmid": "36613290",
+      "title": "A Comprehensive Chemical and Nutritional Analysis of New Zealand Yacon Concentrate.",
+      "authors": [
+        "Keegan Chessum",
+        "Tony Chen",
+        "Rothman Kam",
+        "Mary Yan"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2022-Dec-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Global interest in yacon (Smallanthus sonchifolius) is growing due to its potential as a functional food, attributable to its unique profile of bioactives and high fructooligosaccharide (FOS) content, which vary between cultivars. Our objective was to conduct a comprehensive chemical and nutritional analysis of New Zealand yacon concentrate (NZYC)-a sweet syrup derived from the roots of cultivar 'New Zealand', which was first grown in the 1980s. The major minerals in NZYC were potassium, phosphorus, and calcium. The FOS content ranged from 17.6 to 52.7 g/100g. Total phenolic content ranged from 565 to 785 mg gallic acid equivalents per 100 g; chlorogenic acid and caffeic acid were the major phenolic compounds. The major amino acids were L-arginine, L-glutamic acid, L-proline, L-aspartic acid, and asparagine. The major organic acids were citric, malic, quinic, and fumaric acids. Antioxidant activity ranged from 1084.14 to 3085.78 mg Trolox equivalents per 100 g depending on the assay used. The glycaemic index (GI) value was 40 ± 0.22, classifying it as a low-GI food. These results support the classification of NZYC as a nutraceutical food product for future diet therapy applications."
+    },
+    {
+      "pmid": "36048356",
+      "title": "Daily Intake of Smallanthus sonchifolius (Yacon) Roots Reduces the Progression of Non-alcoholic Fatty Liver in Rats Fed a High Fructose Diet.",
+      "authors": [
+        "Mariano Nicolás Alemán",
+        "Sara Serafina Sánchez",
+        "Stella Maris Honoré"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "High-fructose diet is associated with an increased risk of dyslipidemia, metabolic syndrome, and the development of non-alcoholic fatty liver disease (NAFLD) through chronic inflammation. The present study aimed to elucidate the potential benefit of daily consumption of Smallanthus sonchifolius (yacon) roots, rich in fructooligosaccharides (FOS), on the progression to liver fibrosis, in a rat model of NAFLD induced by a high-fructose diet. Male Wistar rats were fed a standard diet (CD, n = 6) or a standard diet plus 10% fructose solution (FD; n = 18). After 20 weeks, FD rats were randomly separated into the following groups (n = 6, each): FD; FD treated with yacon flour (340 mg FOS/body weight; FD + Y) and FD treated with fenofibrate (30 mg/kg body weight; FD + F), for 16 weeks. Daily intake of yacon flour significantly reduced body weight gain, plasma lipid levels, transaminase activities, and improved systemic insulin response in FD rats. In the liver, yacon treatment decreased fructose-induced steatosis and inflammation, and reduced total collagen deposition (64%). Also, yacon decreased TGF-β1 mRNA expression (78%), followed by decreased nuclear localization of p-Smad2/3 in liver tissue. Yacon significantly reduced the expression of α-smooth muscle actin (α-SMA), Col1α1, and Col3α1 mRNAs (85, 44, and 47%, respectively), inhibiting the activation of resident hepatic stellate cells (HSCs). These results suggested that yacon roots have the potential to ameliorate liver damage caused by long-term consumption of a high-fructose diet, being a promising nutritional strategy in NAFLD management.",
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Actins",
+        "Asteraceae",
+        "Diet",
+        "Fenofibrate",
+        "Fructose",
+        "Inflammation",
+        "Insulin",
+        "Lipids",
+        "Liver",
+        "Non-alcoholic Fatty Liver Disease",
+        "Rats, Wistar",
+        "RNA, Messenger",
+        "Transaminases",
+        "Transforming Growth Factor beta1",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "34857989",
+      "title": "Dietary intake of yacon roots (Smallanthus sonchifolius) affects gut microbiota and fecal mucin and prevents intestinal inflammation in mice.",
+      "authors": [
+        "Yasuki Higashimura",
+        "Misaki Hirabayashi",
+        "Hitomi Nishikawa",
+        "Ryo Inoue",
+        "Emiko Nagai",
+        "Kenji Matsumoto",
+        "Toshiki Enomoto",
+        "Katsura Mizushima",
+        "Tomohisa Takagi",
+        "Yuji Naito"
+      ],
+      "journal": "Journal of clinical biochemistry and nutrition",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Consumption of yacon (Smallanthus sonchifolius) is associated with beneficial effects such as prevention of metabolic diseases. Yacon root is known to contain various bioactive components including indigestible carbohydrates, but the alteration of intestinal environment after treatment with yacon has not been fully investigated. This study investigated yacon-containing diet effects on the intestinal environment in mice, including microbial composition, short-chain fatty acid levels, and mucus content. After mice were administered yacon-containing diet for 4 weeks, 16S rRNA gene sequencing analyses revealed their fecal microbiota profiles. Organic acid concentrations in cecal contents were measured using an HPLC system. Compared to the control group, yacon-containing diet-received mice had significantly higher the concentrations of succinic acid, lactic acid, acetic acid, and propionic acid. The fecal mucin content was also higher in yacon-containing diet-received mice. Results of 16S rRNA gene sequencing analyses showed that the relative abundances of 27 taxa differed significantly in yacon-containing diet-received mice. Furthermore, results show effects of yacon administration on intestinal inflammation using 2,4,6-trinitrobenzene sulfonic acid induced colitis model in mice. Increased colonic damage and myeloperoxidase activity after 2,4,6-trinitrobenzene sulfonic acid treatment were suppressed in yacon-containing diet-received mice. Results suggest that oral intake of yacon root modulates the intestinal environment, thereby inhibiting intestinal inflammation."
+    },
+    {
+      "pmid": "33295550",
+      "title": "Hypoglycemic effect of Moringa oleifera (moringa) compared with Smallanthus sonchifolius (yacon) on Rattus norvegicus with induced diabetes mellitus.",
+      "authors": [
+        "Otto W Vargas-Tineo",
+        "Dina M Segura-Muñoz",
+        "Lizzie K Becerra-Gutiérrez",
+        "José P Amado-Tineo",
+        "Heber Silva-Díaz"
+      ],
+      "journal": "Revista peruana de medicina experimental y salud publica",
+      "publication_date": "2020-Dec-02",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To compare the hypoglycemic effect of the aqueous extract of Moringa oleifera (moringa), Smallanthus sonchifolius (yacon) and metformin on Rattus norvegicus, albino variety, with induced diabetes mellitus. MATERIALS AND METHODS: Preclinical, experimental, controlled and randomized study. Diabetes was induced intraperitoneally with a dose of alloxan at 130 mg/kg. A total of 24 male Rattus norvegicus, albino variety, Holfzman strain (6 per group) were used. They were divided as follows: control group (no treatment), metformin group (14 mg/kg), M. oleifera group (200 mg/kg), and S. sonchifolius group (140 mg/kg), treatments were administered via orogastric tube for 15 days. Glycemia levels were determined using an Accu-Chek® Instant electronic glycometer (Roche). RESULTS: Decreased glycemia was observed in the treatment groups: M. oleifera (p = 0.009), S. sonchifolius (p = 0.002) and metformin (p = 0.002), by 313 mg/dL, 281.5 mg/dL and 415 mg/dL, respectively. When comparing glycemia in the treated and control groups, no difference was observed (P > 0.05) at 24 hours and four days of treatment; while at the eighth (P < 0.05) and fifteenth day (P < 0.01) the treated groups had lower glycemia than the control group, but it was similar among them. CONCLUSION: The aqueous extract of S. sonchifolius, M. oleifera, and metformin presented similar hypoglycemic effect in experimental rats with induced diabetes.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Diabetes Mellitus, Experimental",
+        "Hypoglycemic Agents",
+        "Male",
+        "Moringa oleifera",
+        "Plant Extracts",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "33233227",
+      "title": "Acute postprandial effect of yacon syrup ingestion on appetite: A double blind randomized crossover clinical trial.",
+      "authors": [
+        "Lia Silveira Adriano",
+        "Ana Paula Dionísio",
+        "Fernando Antônio Pinto de Abreu",
+        "Nedio Jair Wurlitzer",
+        "Bárbara Rebeca Cordeiro de Melo",
+        "Antônio Augusto Ferreira Carioca",
+        "Helena Alves de Carvalho Sampaio"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yacon syrup is a rich source of fructooligosaccharides (FOS); however, its diet supplementation effect on subjective sensation and appetite biomarkers in human is still unknown. This study aimed to evaluate the acute postprandial effect of yacon syrup ingestion on appetite. The double-blind crossover clinical trial was carried out with 40 adult women: 20 eutrophic and 20 obese grade I. On each day, the first blood collection was performed after a 12-h fast. Then, the volunteers ingested either intervention A (breakfast + 40 g of placebo) or intervention B (breakfast + 40 g of yacon syrup, containing 14 g of FOS). New aliquots of blood were collected at 45, 60, 90, 120, and 180 min. Appetite was assessed by estimating ghrelin and glucagon-like peptide-1 (GLP-1) levels and by assessing subjective appetite sensation. Analysis was performed using two-way ANOVA, followed by Bonferroni's multiple comparison test. No effect of yacon syrup was observed on postprandial ghrelin and GLP-1 levels at all times evaluated. Similar observations were made after stratifying the analysis by BMI (body mass index) (eutrophic and obese). The effect of yacon syrup on postprandial subjective sensations of hunger, satiety, fullness, and desire to eat was not evident in the total group of women evaluated and even after BMI stratification. We concluded that yacon syrup had no effect on postprandial ghrelin and GLP-1 levels and on the subjective appetite sensation in young adult women.",
+      "mesh_terms": [
+        "Appetite",
+        "Eating",
+        "Female",
+        "Humans",
+        "Plant Extracts",
+        "Postprandial Period",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32567144",
+      "title": "Yacón (Smallanthus sonchifolius) prevented inflammation, oxidative stress, and intestinal alterations in an animal model of colorectal carcinogenesis.",
+      "authors": [
+        "Thaísa A Verediano",
+        "Mirelle L Viana",
+        "Maria das Graças Vaz Tostes",
+        "Daniela S de Oliveira",
+        "Louisiane de Carvalho Nunes",
+        "Neuza Mb Costa"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2020-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Yacón (Smallanthus sonchifolius) roots store carbohydrate in the form of prebiotic fructooligosaccharides (FOS), which improve intestinal health. Yacon has the potential to prevent the intestinal barrier alterations associated with colorectal cancer (CRC). This study aimed to investigate the preventive effects of yacón flour (YF) on alterations promoted by CRC induced by 1,2-dimethylhydrazine in rats. RESULTS: CRC increased tumor necrosis factor alpha levels (group CY = 10.2 ± 0.72; group C = 9.6 ± 1.0; group Y = 5.8 ± 0.54; group S = 5.95 ± 0.6 pg mL-1 ) and short-chain fatty acid production, and decreased total antioxidant capacity (group CY = 4.7 ± 0.72; group C = 3.3 ± 0.3; group Y = 4.1 ± 0.47; group S = 6.7 ± 0.78 U mL-1 ). Furthermore, YF treatment reduced intraluminal pH (group CY = 6.45 ± 0.47; group C = 7.65 ± 0.44; group Y = 6.75 ± 0.46; group S = 8.13 ± 0.2), lactulose/mannitol ratio, tumor necrosis factor-alpha (TNF-α)/interleukin (IL)-10 ratio, and increased secretory immunoglobulin A (group CY = 9.48 ± 1.46; group C = 10.95 ± 3.87; group Y = 15.95 ± 7.36; group S = 9.19 ± 1.52), but did not affect IL-10, IL-12, and TNF-α levels nor the IL-12/IL-10 ratio. CONCLUSION: YF as a source of fructooligosaccharides may help to maintain the integrity of intestinal health, which is altered in induced CRC in rats. © 2020 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Carcinogenesis",
+        "Colorectal Neoplasms",
+        "Disease Models, Animal",
+        "Fatty Acids, Volatile",
+        "Humans",
+        "Interleukin-10",
+        "Intestines",
+        "Male",
+        "Oligosaccharides",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Roots",
+        "Prebiotics",
+        "Rats",
+        "Rats, Wistar",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "31732062",
+      "title": "Yacon syrup reduces postprandial glycemic response to breakfast: A randomized, crossover, double-blind clinical trial.",
+      "authors": [
+        "Lia Silveira Adriano",
+        "Ana Paula Dionísio",
+        "Fernando Antônio Pinto de Abreu",
+        "Antônio Augusto Ferreira Carioca",
+        "Guilherme Julião Zocolo",
+        "Nedio Jair Wurlitzer",
+        "Claudia de Oliveira Pinto",
+        "Ariclécio Cunha de Oliveira",
+        "Helena Alves de Carvalho Sampaio"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Yacon is a root rich in fructooligosaccharides (FOS), which act as prebiotics. Numerous studies have shown promising results in the technological aspects of producing yacon syrup. However, uncertainties exist concerning whether yacon syrup can modulate postprandial glucose and lipid profiles. In order to assess the effect of yacon syrup on postprandial glucose, insulin and triglyceride (TG) responses, a randomized, crossover, double-blind clinical intervention with 40 women (20 normal weight and 20 grade I obese) was performed. Participants underwent two-arms of intervention with at least a one-week wash-out period between visits. On each intervention day, after 12 h of fasting, an aliquot of blood was collected. For intervention A, volunteers consumed breakfast +40 g of placebo, whereas for intervention B, participants consumed breakfast +40 g of yacon syrup (14 g of FOS). Blood samples were drawn at 15, 30, 45, 60, 90, and 120 min. Glucose and insulin concentrations were lowered after yacon syrup intake as compared to placebo at following times: 30 min for glucose and 15, 30 and 45 min for insulin. In conclusion, yacon syrup has a postprandial decreasing effect glucose and insulin concentrations in adult women. This effect was not evident for triglyceride concentration. Clinical trial registry: RBR-33wf46. Available in: http://www.ensaiosclinicos.gov.br/rg/RBR-33wf46/.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Breakfast",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Insulin",
+        "Oligosaccharides",
+        "Plant Extracts",
+        "Postprandial Period",
+        "Prebiotics",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31374950",
+      "title": "High Hydrostatic Pressure and Co-Fermentation by Lactobacillus rhamnosus and Gluconacetobacter xylinus Improve Flavor of Yacon-Litchi-Longan Juice.",
+      "authors": [
+        "Huali Chen",
+        "Gengsheng Xiao",
+        "Yujuan Xu",
+        "Yuanshan Yu",
+        "Jijun Wu",
+        "Bo Zou"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2019-Aug-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this study was to evaluate the effect of high hydrostatic pressure (HHP) and co-fermentation by Lactobacillus rhamnosus and Gluconacetobacter xylinus on the quality of yacon-litchi-longan (YLL) juice. The carbohydrates, organic acids, free amino acids (FAAs), and volatile compounds in YLL juice were analyzed. Thermal processing (TP) increased the content of total carbohydrates, organic acids and FAAs, and destroyed the aroma components, whereas HHP treatment had a negligible effect. Carbohydrate content was lower, and content of lactic acid, acetic acid, and exopolysaccharide (EPS) were higher in co-fermented juice than in unfermented juice. Furthermore, the content of bitter FAAs in fermented TP and HHP-treated YLL juices decreased by 88.7% and 86.9%, respectively. Co-fermentation also increased ketones and the sum of individual volatile constituents, and improved the overall flavor of juice. Taken together, HHP treatment prior to co-fermentation can be used to improve the quality of YLL juice, especially the flavor thereof."
+    },
+    {
+      "pmid": "30057670",
+      "title": "Recovery of Cardiac Remodeling and Dysmetabolism by Pancreatic Islet Injury Improvement in Diabetic Rats after Yacon Leaf Extract Treatment.",
+      "authors": [
+        "Klinsmann Carolo Dos Santos",
+        "Sarah Santiloni Cury",
+        "Ana Paula Costa Rodrigues Ferraz",
+        "José Eduardo Corrente",
+        "Bianca Mariani Gonçalves",
+        "Luiz Henrique de Araújo Machado",
+        "Robson Francisco Carvalho",
+        "Ana Cláudia de Melo Stevanato Nakamune",
+        "Alexandre Todorovic Fabro",
+        "Paula Paccielli Freire",
+        "Camila Renata Corrêa"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yacon (Smallanthus sonchifolius) is a native Andean plant rich in phenolic compounds, and its effects on dysmetabolism and cardiomyopathy in diabetic rats was evaluated. The rats (10/group) were allocated as follows: C, controls; C + Y, controls treated with Yacon leaf extract (YLE); DM, diabetic controls; and DM + Y, diabetic rats treated with YLE. Type 1 diabetes (T1DM) was induced by the administration of streptozotocin (STZ; 40 mg-1/kg body weight, single dose, i.p.), and treated groups received 100 mg/kg body weight YLE daily via gavage for 30 d. The YLE group shows an improvement in dysmetabolism and cardiomyopathy in the diabetic condition (DM versus DM + Y) promoting a significant reduction of glycemia by 63.39%, an increase in insulin concentration by 49.30%, and a decrease in serum triacylglycerol and fatty acid contents by 0.39- and 0.43-fold, respectively, by ameliorating the pancreatic islet injury, as well as increasing the activity of the antioxidant enzymes (catalase, superoxide dismutase, and glutathione peroxidase) and decreasing the fibrosis and cellular disorganization in cardiac tissue. The apparent benefits of YLE seem to be mediated by ameliorating dysmetabolism and oxidative stress in pancreatic and cardiac tissues.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Asteraceae",
+        "Atrial Remodeling",
+        "Blood Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Immunohistochemistry",
+        "Islets of Langerhans",
+        "Male",
+        "Malondialdehyde",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rats",
+        "Rats, Wistar",
+        "Superoxide Dismutase",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "28873709",
+      "title": "Yacon syrup: Food applications and impact on satiety in healthy volunteers.",
+      "authors": [
+        "Maria de Fátima Gomes da Silva",
+        "Ana Paula Dionísio",
+        "Antônio Augusto Ferreira Carioca",
+        "Lia Silveira Adriano",
+        "Claudia Oliveira Pinto",
+        "Fernando Antonio Pinto de Abreu",
+        "Nedio Jair Wurlitzer",
+        "Idila Maria Araújo",
+        "Deborah Dos Santos Garruti",
+        "Dorasilvia Ferreira Pontes"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Syrup obtained from yacon roots could be well positioned as a nutritional product due to its high fructooligosaccharides (FOS) content. Considering this, we examined the potential food applications of yacon syrup, using the focal group methodology, and its sensorial acceptability when incorporated in yogurt. The beneficial effects of the consumption of yacon syrup were studied over a 2-week period in a double-blind placebo-controlled experiment (namely Test A) and other consistent of only one day of yacon syrup consumption (namely Test B) were also evaluated. The doses of yacon syrup for both experiments were 8.74g of FOS/day. Energy intake, hunger, satiety, fullness and prospective food consumption were assessed with analogue scales at the end of each test. The results indicate that the yogurt was the food most suggested by the focus group, and the average of the scores given to the attributes when the yacon syrup was incorporated into a yogurt were: 7.78 for appearance; 7.72 for aroma; 7.02 for flavor and 6.96 for overall acceptability, corresponding to \"like very much\" and \"like moderately\". Furthermore, the results indicate that yacon syrup has a positive effect on appetite and its effect was dependent on gender and period of intervention, being statistically significant (P<0.05) in women, after 2-week period. These findings suggested that increasing FOS intake could help to increase satiety, and consequently, be helpful in the management of type 2-diabetes or control of the current high prevalence of overweight or obesity.",
+      "mesh_terms": [
+        "Adult",
+        "Eating",
+        "Female",
+        "Humans",
+        "Hunger",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects",
+        "Plant Extracts",
+        "Satiation",
+        "Yogurt"
+      ]
+    },
+    {
+      "pmid": "28808475",
+      "title": "Yacon (Smallanthus sonchifolius) Leaf Extract Attenuates Hyperglycemia and Skeletal Muscle Oxidative Stress and Inflammation in Diabetic Rats.",
+      "authors": [
+        "Klinsmann Carolo Dos Santos",
+        "Bianca Guerra Bueno",
+        "Luana Ferreira Pereira",
+        "Fabiane Valentini Francisqueti",
+        "Mariana Gobbo Braz",
+        "Lahis Fernandes Bincoleto",
+        "Lilian Xavier da Silva",
+        "Ana Lúcia A Ferreira",
+        "Ana Cláudia de Melo Stevanato Nakamune",
+        "C-Y Oliver Chen",
+        "Jeffrey B Blumberg",
+        "Camila Renata Corrêa"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of hydroethanolic extract of Yacon leaves (HEYL) on antioxidant, glycemic, and inflammatory biomarkers were tested in diabetic rats. Outcome parameters included glucose, insulin, interleukin-6 (IL-6), and hydrophilic antioxidant capacity (HAC) in serum and IL-6, HAC, malondialdehyde (MDA), superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx) in soleus. The rats (10/group) were divided as follows: C, controls; C + Y, HEYL treated; DM, diabetic controls; and DM + Y, diabetic rats treated with HEYL. Diabetes mellitus was induced by administration of streptozotocin. C + Y and DM + Y groups received 100 mg/kg HEYL daily via gavage for 30 d. Hyperglycemia was improved in the DM + Y versus DM group. Insulin was reduced in DM versus C group. DM rats had higher IL-6 and MDA and lower HAC in the soleus muscle. HEYL treatment decreased IL-6 and MDA and increased HAC in DM rats. DM + Y rats had the highest CAT activity versus the other groups; GPx was higher in C + Y and DM + Y versus their respective controls. The apparent benefit of HEYL may be mediated via improving glucoregulation and ameliorating oxidative stress and inflammation, particularly in diabetic rats."
+    },
+    {
+      "pmid": "27539187",
+      "title": "Inulin-Type Oligosaccharides Extracted from Yacon Produce Antidepressant-Like Effects in Behavioral Models of Depression.",
+      "authors": [
+        "Lei An",
+        "Ji-Chu Yang",
+        "Hang Yin",
+        "Rui Xue",
+        "Qiong Wang",
+        "Yu Chen Sun",
+        "You-Zhi Zhang",
+        "Ming Yang"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2016-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yacon (Smallanthus sonchifolius), a traditional food in the Andean diet, is attracting global attention for its medicinal properties, which are mainly because of its high content of non-digestible oligosaccharides. The purpose of this study is to evaluate the antidepressant-like effects of inulin-type oligosaccharides extracted from yacon (YOs) in behavioral models of depression. Behavioral despair models in mice including the tail suspension test (TST) and the forced swimming test (FST) were used to determine the effects of acute YOs administration. The locomotor activity was also explored to eliminate any false-positive activity. In addition, to further investigate the antidepressant-like effects of subchronic YOs administration, the learned helplessness (LH) paradigm in rats was performed. The results demonstrated that YOs (25, 50, or 100 mg/kg, p.o.) treatment significantly reduced the immobility time in the mouse TST and FST in a U-shaped, dose-dependent manner, and showed no stimulatory effect on the locomotor activity. Furthermore, subchronic YOs (25, 50, or 100 mg/kg, p.o.) treatment significantly reversed the escape deficits in LH rats, including an increased number of escape failures and prolonged escape latency. These findings suggest that the inulin-type oligosaccharides extracted from yacon may be a prospective natural source for antidepressants. Copyright © 2016 John Wiley & Sons, Ltd.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Asteraceae",
+        "Depressive Disorder",
+        "Disease Models, Animal",
+        "Hindlimb Suspension",
+        "Inulin",
+        "Male",
+        "Mice",
+        "Oligosaccharides",
+        "Plant Extracts",
+        "Prospective Studies",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "25853966",
+      "title": "Yacon roots (Smallanthus sonchifolius) improve oxidative stress in diabetic rats.",
+      "authors": [
+        "Natalia C Habib",
+        "Carolina Serra-Barcellona",
+        "Stella M Honoré",
+        "Susana B Genta",
+        "Sara S Sánchez"
+      ],
+      "journal": "Pharmaceutical biology",
+      "publication_date": "2015-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: Smallanthus sonchifolius (Poepp. and Endl.) H. Robinson, Asteraceae (yacon) roots are a natural product recognized by the traditional medicine to treat diabetes-related problems. There are no reports concerning the potential of yacon roots to reduce oxidative stress and ameliorate diabetes complications in diabetic animals. OBJECTIVE: This work analyzes the in vivo antioxidant activity and beneficial effects of yacon roots, using a model of streptozotocin-induced diabetes in rats. MATERIALS AND METHODS: Lipid peroxidation and other indicators of oxidative stress were determined in liver and kidney homogenates from non-diabetic rats, untreated diabetic rats, and diabetic rats treated orally with yacon flour (340 mg fructooligosaccharide/kg/d) as a diet supplement for 90 d. Biochemical parameters were determined in liver, kidney, and blood at the end of the experimental period. RESULTS: Yacon supplementation to diabetic rats produced a significant decrease in malondialdehyde levels in both liver (-30.97%) and kidney (-19.15%). Hepatic superoxide dismutase and catalase activities were significantly lower in diabetic-treated rats (-13.46 and -64.33%, respectively) compared with diabetic controls. Similar results were observed in kidney. The treatment of diabetic rats produced an increase of glutathione peroxidase and glutathione levels in liver (172.50 and 35.91%, respectively) and kidney (177.78 and 57.76%, respectively). Plasma cholesterol and triacylglycerol levels and liver fatty acid composition, which were altered in diabetic rats, reverted back to nearly normal with yacon treatment. CONCLUSIONS: These results indicate that yacon root flour is a potential diet supplement with high in vivo antioxidant activity.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Asteraceae",
+        "Diabetes Mellitus, Experimental",
+        "Male",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Roots",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "25692980",
+      "title": "Yacon-Based Product in the Modulation of Intestinal Constipation.",
+      "authors": [
+        "Mônica de Souza Lima Sant'Anna",
+        "Vivian Carolina Rodrigues",
+        "Tatiane Ferreira Araújo",
+        "Tânia Toledo de Oliveira",
+        "Maria do Carmo Gouveia Peluzio",
+        "Célia Lúcia de Luces Fortes Ferreira"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2015-Sep",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to assess the effects of a yacon-based product (YBP) on constipation in adults, including the elderly. Forty-eight individuals were recruited and divided into equal intervention groups named the test and control groups. The YBP (test) and the control (maltodextrin) were dissolved in commercial orange juice. The volunteers for the YBP/test group consumed, on a daily basis, orange juice containing 10 g fructooligosaccharide (FOS)/inulin per day. The control group consumed, on a daily basis, orange juice containing 25 g of maltodextrin. The study had a span of 30 days. We evaluated the participants' frequency of evacuation, consistency of the feces, constipation score, abdominal symptoms (flatulence, pain, and abdominal strain), and effects upon the microbiota, pH, lactate, and short-chain fatty acids (SCFAs) of the feces. The study showed an increased number of evacuations after the consumption of the YBP as well as an improvement in the consistency of the feces and a reduction in the constipation score. After 30 days of intervention, the group that consumed the YBP showed higher counts of Bifidobacterium, lower Clostridium and enterobacteria counts, and lower fecal pH. In relation to SCFAs, no significant change was found after the intervention. However, the lactate concentration was higher in the test group when compared to the post-treatment control group. The YBP was effective in improving constipation symptoms; not only was its functional characteristic in reducing constipation symptoms evident but it also demonstrated usefulness as a potential therapy.",
+      "mesh_terms": [
+        "Adult",
+        "Asteraceae",
+        "Bifidobacterium",
+        "Clostridium",
+        "Constipation",
+        "Defecation",
+        "Enterobacteriaceae",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Humans",
+        "Hydrogen-Ion Concentration",
+        "Intestines",
+        "Inulin",
+        "Lactic Acid",
+        "Male",
+        "Microbiota",
+        "Middle Aged",
+        "Oligosaccharides",
+        "Plant Extracts",
+        "Prebiotics",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "30703993",
+      "title": "First Report of Sclerotium Rot Caused by Sclerotium rolfsii on Yacón in South Korea.",
+      "authors": [
+        "J-H Kwon",
+        "D-W Kang",
+        "S-D Lee",
+        "J Kim"
+      ],
+      "journal": "Plant disease",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Yacón, or ground apple (Smallanthus sonchifolius), is a perennial plant grown in the northern and central Andes from Colombia to northern Argentina for its crisp, sweet, and tuberous roots. In 2012, yacóns cultivated in the research field of the Gyeongsangnam-do Agriculture and Extension Services, Jinju, South Korea, suddenly died. The characteristic symptoms consisted of rotting, wilting, and blighting. Initial symptoms included water-soaked lesions on lower stem tissue near the soil line. Infected plants gradually withered, and white mycelial mats and sclerotia appeared on the surface of roots and stems at the soil line. The sclerotia were collected and disinfested by immersion in 1% sodium hypochlorite solution for 30 s and in sterilized distilled water for 1 min. Then, the sclerotia were placed on potato dextrose agar (PDA) and incubated at 30°C. Numerous globoid sclerotia were formed on PDA after 18 days of growth. The sclerotia (1 to 3 mm in diameter) were white at first and then gradually turned dark brown. Aerial mycelia usually formed many narrow hyphal strands 4 to 9 μm wide. The white mycelium formed a typical clamp connection after 5 days of growth. To fulfill Koch's postulates, 50-day-old healthy seedlings were transplanted individually into pots (10 × 10 × 9 cm) containing autoclaved soil. After 7 days, five seedlings were inoculated with colonized agar discs (6 mm in diameter) directly on the base of the plant, and five yacón seedlings were inoculated similarly with PDA discs as the control treatment. The inoculated and non-inoculated plants were incubated in a humid growth chamber at 28°C for 24 h and then maintained in a greenhouse. Eight days after inoculation, the yacón seedlings inoculated with the fungus died, whereas those treated with PDA discs were symptomless. The fungus was re-isolated from the artificially inoculated plants. To confirm the identity of the causal fungus, the complete internal transcribed spacer (ITS) rDNA region of the fungus was amplified using the primers ITS1 (5'-TCCGTAGGTGAACCTGCGG-3') and ITS4 (5'-TCCTCCGCTTATTGATATGC-3') (2), and the PCR amplicons were cloned into the pGEM-T Easy vector. The resulting plasmid (pOR119) was sequenced in both directions with the primers M13F and M13R. The resulting 684 bp of ITS rDNA sequence was deposited in GenBank (Accession No. KJ944395). A DNA analysis revealed that it was 100% identical to Sclerotium rolfsii (HM355751). Cultures of S. rolfsii have been deposited with the Korean Agricultural Culture Collection (KACC 47750), National Academy of Agricultural Science, Suwon, South Korea. On the basis of symptoms, fungal colonies, the ITS sequence, and pathogenicity to the host, this fungus was identified as S. rolfsii Saccardo (1). This is the first report of sclerotium rot on yacón caused by S. rolfsii in South Korea. References: (1) J. E. M. Mordue. CMI Descriptions of Pathogenic Fungi and Bacteria, No. 410, 1974. (2) T. J. White et al. Page 315 in: PCR Protocols: A Guide to Methods and Applications. M. A. Innis et al., eds. Academic Press, San Diego, 1990."
+    },
+    {
+      "pmid": "24631386",
+      "title": "Yacon effects in immune response and nutritional status of iron and zinc in preschool children.",
+      "authors": [
+        "Maria das Graças Vaz-Tostes",
+        "Mirelle Lomar Viana",
+        "Mariana Grancieri",
+        "Tereza Cecília dos Santos Luz",
+        "Heberth de Paula",
+        "Rogério Graça Pedrosa",
+        "Neuza Maria Brunoro Costa"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2014-Jun",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The aim of this study was to evaluate the effect of yacon flour on iron and zinc nutritional status and immune response biomarkers in preschool children. METHODS: Preschool children ages 2 to 5 y were selected from two nurseries and were placed into a control group (n = 58) or a yacon group (n = 59). The yacon group received yacon flour in preparations for 18 wk at a quantity to provide 0.14 g of fructooligosaccharides/kg of body weight daily. Anthropometric parameters were measured before and after the intervention and dietary intake was measured during the intervention. To assess iron and zinc status, erythrograms, serum iron, ferritin, and plasma, and erythrocyte zinc were evaluated. Systemic immune response was assessed by the biomarkers interleukin IL-4, IL-10, IL-6, and tumor necrosis factor-alfa (TNF-α). Intestinal immune response was analyzed by secretory IgA (sIgA) levels before and after the intervention. Statistical significance was evaluated using the paired t test (α = 5%). RESULTS: Before and after the study, the children presented a high prevalence of overweight and an inadequate dietary intake of zinc and fiber. The yacon group presented with lower hemoglobin, mean corpuscular hemoglobin, and mean corpuscular hemoglobin concentration at the end of the study (P < 0.05). Erythrocyte zinc was reduced in both groups at the end of the study (P < 0.05). Yacon intake increased the serum levels of IL-4 and fecal sIgA (P < 0.05). The control group had lower serum TNF-α after the study period (P < 0.05). CONCLUSION: Yacon improved intestinal immune response but demonstrated no effect on the nutritional status of iron and zinc in preschool children.",
+      "mesh_terms": [
+        "Asteraceae",
+        "Biomarkers",
+        "Body Height",
+        "Body Mass Index",
+        "Body Weight",
+        "Child, Preschool",
+        "Cytokines",
+        "Erythrocytes",
+        "Female",
+        "Ferritins",
+        "Flour",
+        "Hemoglobins",
+        "Humans",
+        "Immunoglobulin A, Secretory",
+        "Intestinal Mucosa",
+        "Iron, Dietary",
+        "Male",
+        "Nutrition Assessment",
+        "Nutritional Status",
+        "Oligosaccharides",
+        "Overweight",
+        "Prebiotics",
+        "Prevalence",
+        "Zinc"
+      ]
+    },
+    {
+      "pmid": "23770327",
+      "title": "Improvement of biochemical parameters in type 1 diabetic rats after the roots aqueous extract of yacon [Smallanthus sonchifolius (Poepp.& Endl.)] treatment.",
+      "authors": [
+        "Gilberto Ornelas Oliveira",
+        "Camila Pereira Braga",
+        "Ana Angélica Henrique Fernandes"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of this study was to evaluate the effect of yacon (Smallanthus sonchifolius) (Poepp.& Endl.) on clinical parameters under diabetic conditions. The aqueous extract of yacon tuberous roots (YRAE; 0.76 g fructan kg⁻¹ body weight) was prepared at the moment of each administration. Thirty-two male rats were divided into four groups (n=8): control group (C); group that received YRAE (Y); untreated diabetic group (DM1); and diabetic group treated with YRAE (Y-DM1). The diabetes mellitus was induced by streptozotocin (60 mg kg⁻¹ body weight). The animals from Y2 and Y-DM1 received YRAE by gavage, at 7-day intervals, for 30 days. The aqueous extract of yacon roots decreased (p<0.05) the water and food intake in diabetic rats (Y-DM1). YRAE treatment reduced (p<0.05) glycaemia, total cholesterol, VLDL-c, LDL-c and triacylglycerol levels in diabetic rats (YRAE). HDL, urea and creatinine levels did not differ (p>0.05) between the Y and Y-DM1 groups. YRAE normalised alanine aminotransferase (ALT) activity, when comparing DM1 and Y-DM1 rats, but had no effect on lactate dehydrogenase activity (LDH). In conclusion, YRAE was sufficient for controlling water and food consumption, hyperglycaemia and dyslipidaemia, and promote the reduction of the ALT, suggesting a hepatoprotective effect in rats with STZ-induced DM1.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Brazil",
+        "Diabetes Mellitus, Type 1",
+        "Dyslipidemias",
+        "Energy Intake",
+        "Ethnopharmacology",
+        "Fructans",
+        "Hepatic Insufficiency",
+        "Hyperglycemia",
+        "Hypoglycemic Agents",
+        "Hypolipidemic Agents",
+        "Liver",
+        "Male",
+        "Medicine, Traditional",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Random Allocation",
+        "Rats",
+        "Rats, Wistar",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "23137694",
+      "title": "Study of the effect exerted by fructo-oligosaccharides from yacon (Smallanthus sonchifolius) root flour in an intestinal infection model with Salmonella Typhimurium.",
+      "authors": [
+        "Eva Velez",
+        "Natalia Castillo",
+        "Oscar Mesón",
+        "Alfredo Grau",
+        "María E Bibas Bonet",
+        "Gabriela Perdigón"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Beneficial effects of prebiotics like inulin and fructo-oligosaccharides (FOS) have been proven in health and nutrition. Yacon (Smallanthus sonchifolius), an Andean crop, contains FOS (50–70% of its dry weight) and, therefore, is considered a prebiotic. Commercial FOS can upregulate total secretory IgA (S-IgA) in infant mice, prevent infection with Salmonella in swine or enhance immune response for Salmonella vaccine in a mouse model. Previously, we found that administration of yacon root flour regulates gut microbiota balance and has immunomodulatory effects without inflammatory responses. The aim of the present paper is to analyse if yacon prevents enteric infection caused by a strain of Salmonella enteritidis serovar Typhimurium (S. Typhimurium) in a mouse model. BALB/c mice were supplemented with yacon flour (45 d), challenged with S. Typhimurium and killed to study pathogen translocation, total and specific IgA production by ELISA, presence of IgA and other cytokines and Toll-like receptor 4 (TLR4) and clustor of differentiation 206 (CD206) receptors positive cells by immunofluorescence and histological changes. Yacon flour administration had a protective effect from 15 to 30 d of treatment. We found a peak of total S-IgA production without translocation of the pathogen for these periods. At 30 d, there was an increase in IL-6 and macrophage inflammatory proteins-1aþ cells and expression of the receptors CD206 and TLR4. Yacon flour did not have incidence in pathogen-specific S-IgA production. Longer periods (45 d) of administration had no protective effect. Therefore, yacon can prevent enteric infection caused by S. Typhimurium when given up to 30 d; this effect would be mediated by enhancing non-specific immunity, such as total S-IgA, that improves the immunological intestinal barrier.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Body Fluids",
+        "Fluorescent Antibody Technique, Indirect",
+        "Immunoglobulin A",
+        "Intestine, Small",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Oligosaccharides",
+        "Plant Roots",
+        "Prebiotics",
+        "Salmonella Infections, Animal",
+        "Salmonella typhimurium",
+        "Spleen"
+      ]
+    },
+    {
+      "pmid": "21907189",
+      "title": "Hypolipidemic effect of Smallanthus sonchifolius (yacon) roots on diabetic rats: biochemical approach.",
+      "authors": [
+        "Natalia C Habib",
+        "Stella Maris Honoré",
+        "Susana B Genta",
+        "Sara S Sánchez"
+      ],
+      "journal": "Chemico-biological interactions",
+      "publication_date": "2011-Oct-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Fructooligosaccharides (FOS) are sugars found naturally at high concentrations in the storage roots of yacon. This study was designed to analyze the beneficial effects of subchronic oral consumption of yacon root flour as a diet supplement in Streptozotocin-induced diabetic Wistar rats. The experiments were carried out using yacon flour tablets containing the desired level of FOS (340 or 6800mg FOS/kg body weight/day). Yacon flour is a natural product obtained by a simple process of dehydration of yacon roots without added preservatives or chemicals. The administration of FOS-rich yacon flour to diabetic rats for 90days did not significantly alter the body weight of animals throughout the experimental period. Interestingly, a significant decrease in fasting plasma triacylglycerol and very low-density lipoprotein levels were observed. In addition, the treatment was able to protect the diabetic rats of the postprandial peak of plasma triacylglycerol. Yacon-supplemented rats showed an increased insulin-positive pancreatic cell mass distributed in small cell clusters within the exocrine parenchyma, but can only observe a slight increase in fasting plasma insulin levels. Glucagon like peptide-1 content in the cecum was significantly higher in diabetic rats treated with a diet supplemented with yacon flour compared with untreated diabetic animals, accompanied by an important cecal tissue enlargement. All these findings lead us to suggest that this incretin could be an effective mediator of the lipid lowering effects of FOS present in yacon flour. In conclusion, yacon root flour is a natural product rich in FOS that could be well positioned as a nutraceutical product since the present results demonstrate its beneficial effects on diabetes-associated hyperlipidemia.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Blood Glucose",
+        "Diabetes Mellitus, Experimental",
+        "Glucagon-Like Peptide 1",
+        "Hypolipidemic Agents",
+        "Insulin",
+        "Lipoproteins, VLDL",
+        "Male",
+        "Oligosaccharides",
+        "Plant Roots",
+        "Rats",
+        "Rats, Wistar",
+        "Time Factors",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "20951787",
+      "title": "Renal toxicity caused by oral use of medicinal plants: the yacon example.",
+      "authors": [
+        "Rejane Barbosa de Oliveira",
+        "Daniela Aparecida Chagas de Paula",
+        "Bruno Alves Rocha",
+        "João José Franco",
+        "Leonardo Gobbo-Neto",
+        "Sérgio Akira Uyemura",
+        "Wagner Ferreira dos Santos",
+        "Fernando Batista Da Costa"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2011-Jan-27",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM OF THE STUDY: Yacon [Smallanthus sonchifolius (Poepp. & Endl.) H. Robinson, Asteraceae] is an Andean species that has traditionally been used as an anti-diabetic herb in several countries around the world, including Brazil. Its hypoglycaemic action has recently been demonstrated in normal and diabetic rats. However, studies about the safety of prolonged oral consumption of yacon leaf extracts are lacking. Thus, this work was undertaken to evaluate the repeated-dose toxicity of three extracts from yacon leaves: the aqueous extract (AE) prepared as a tea infusion; the leaf-rinse extract (LRE), which is rich in sesquiterpene lactones (STLs); and a polar extract from leaves without trichomes, or polar extract (PE), which lacks STLs but is rich in chlorogenic acids (CGAs). MATERIALS AND METHODS: The major classes of the compounds were confirmed in each extract by IR spectra and HPLC-UV-DAD profiling as well as comparison to standard compounds. The toxicity of each extract was evaluated in a repeated-dose toxicity study in Wistar rats for 90 days. RESULTS: The PE was rich in CGAs, but we did not detect any STLs. The AE and LRE showed the presence of STLs. The polar extract caused alterations in some biochemical parameters, but the animals did not show signs of behavioural toxicity or serious lesions in organs. Alterations of specific biochemical parameters in the blood (creatinine 7.0 mg/dL, glucose 212.0 mg/dL, albumin 2.8 g/dL) of rats treated with AE (10, 50 and 100 mg/kg) and LRE (10 and 100 mg/kg) pointed to renal damage, which was confirmed by histological analysis of the kidneys. CONCLUSIONS: The renal damage was associated with increased blood glucose levels after prolonged oral administration of the AE. This observation suggested that the hypoglycaemic effect observed after treatment for 30 days in an earlier study is reversible and was likely the result of renal injury caused by the toxicity of yacon. Because STLs were detected in both AE and LRE, there is strong evidence that these terpenoids are the main toxic compounds in the leaves of the yacon. Based on our results, we do not recommend the oral use of yacon leaves to treat diabetes.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Asteraceae",
+        "Blood Glucose",
+        "Brazil",
+        "Chlorogenic Acid",
+        "Ethnopharmacology",
+        "Female",
+        "Hypoglycemic Agents",
+        "Kidney",
+        "Lactones",
+        "Male",
+        "Medicine, Traditional",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Plants, Medicinal",
+        "Rats",
+        "Rats, Wistar",
+        "Sesquiterpenes"
+      ]
+    },
+    {
+      "pmid": "19254816",
+      "title": "Yacon syrup: beneficial effects on obesity and insulin resistance in humans.",
+      "authors": [
+        "Susana Genta",
+        "Wilfredo Cabrera",
+        "Natalia Habib",
+        "Juan Pons",
+        "Iván Manrique Carillo",
+        "Alfredo Grau",
+        "Sara Sánchez"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2009-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Syrup obtained from yacon roots could be well positioned as a nutraceutical product due to its high fructooligosaccharides content. We examined the beneficial effects and tolerance of yacon syrup on human health. METHODS: Obese and slightly dyslipidemic pre-menopausal women were studied over a 120-day period in a double-blind placebo-controlled experiment. We used two doses of yacon syrup, 0.29 g and 0.14 g fructooligosaccharides/kg/day. At the start and end of the study, anthropometric measurements, blood glucose, calcium, lipid and insulin concentrations and Homeostasis Model Assessment index were determined. RESULTS: The recommended daily consumption of yacon syrup with no undesirable gastrointestinal effects is 0.14 g fructooligosaccharides/kg. Daily intake of yacon syrup produced a significant decrease in body weight, waist circumference and body mass index. Additionally, decrease in fasting serum insulin and Homeostasis Model Assessment index was observed. The consumption of yacon syrup increased defecation frequency and satiety sensation. Fasting glucose and serum lipids were not affected by syrup treatment and the only positive effect was found in serum LDL-cholesterol levels. CONCLUSIONS: Yacon syrup is a good source of fructooligosaccharides and its long-term consumption produced beneficial health effects on obese pre-menopausal women with insulin resistance.",
+      "mesh_terms": [
+        "Adult",
+        "Anthropometry",
+        "Blood Glucose",
+        "Body Mass Index",
+        "Body Weight",
+        "Calcium",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Dyslipidemias",
+        "Female",
+        "Humans",
+        "Insulin",
+        "Insulin Resistance",
+        "Lipids",
+        "Middle Aged",
+        "Obesity",
+        "Plant Extracts",
+        "Plant Preparations",
+        "Satiety Response"
+      ]
+    },
+    {
+      "pmid": "18781073",
+      "title": "Effect of yacon (Smallanthus sonchifolius) on colonic transit time in healthy volunteers.",
+      "authors": [
+        "M Geyer",
+        "I Manrique",
+        "L Degen",
+        "C Beglinger"
+      ],
+      "journal": "Digestion",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Yacon is a root crop which contains high amounts of fructooligosaccharides (FOS). The aim of this study was to investigate the effects of yacon syrup on colon transit time in healthy volunteers. METHODS: In a placebo-controlled, double-blind study yacon was administered to 16 healthy individuals (8 males, 8 females) in a dose of 20 g daily (equal to 6.4 g FOS) in a 2-week crossover design. Each period was interrupted by a 2-week wash-out phase. Transit time was assessed by a radio-opaque marker technique. RESULTS: Transit time (mean +/- SEM) through the gastrointestinal tract was significantly decreased from 59.7 +/- 4.3 to 38.4 +/- 4.2 h (p < 0.001). Yacon was well tolerated with an excellent side effect profile. Bloating is not an uncommon side effect observed with FOS, but bloating-related disturbances were not significantly more often reported with yacon compared to placebo. Stool frequency increased from 1.1 +/- 0.1 to 1.3 +/- 0.2 times per day and the consistency showed a tendency for softer stools as assessed by a numerical depicted stool protocol. Neither parameter did, however, reach statistical significance. CONCLUSION: Yacon markedly accelerates colonic transit in healthy individuals. Further studies are needed in constipated patients to confirm these preliminary data. Due to the low caloric content of yacon, the root could be a useful treatment in constipated diabetics or obese patients.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Asteraceae",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Gastrointestinal Motility",
+        "Gastrointestinal Transit",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Plant Extracts",
+        "Plant Preparations",
+        "Young Adult"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "supplement": "Purple Nutsedge",
+  "query": "Purple Nutsedge[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:25:19",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "34184407",
+      "title": "Sorghum cover crop and repeated soil fumigation for purple nutsedge management in tomato production.",
+      "authors": [
+        "Jialin Yu",
+        "Shaun M Sharpe",
+        "Nathan S Boyd"
+      ],
+      "journal": "Pest management science",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Purple nutsedge (Cyperus rotundus L.) is one of the most common and troublesome weeds. Field research trials were conducted in Florida to evaluate the effects of repeated fumigation and a sorghum sudangrass [Sorghum bicolor S. bicolor var. sudanense (Piper) Stapf.] cover crop on purple nutsedge (Cyperus rotundus L.) populations over time in tomato (Solanum lycopersicum L.) production. RESULTS: Among the soil fumigants, DMDS + metam potassium was consistently the most effective treatment in terms of in-crop purple nutsedge control. Plots with a sorghum cover crop during the fallow period exhibited higher purple nutsedge density during the tomato growing season as well as higher purple nutsedge shoot and tuber densities during the fallow period compared to the chemical fallow. CONCLUSION: DMDS + metam potassium was the most effective fumigant for purple nutsedge control. Unexpectedly, a sorghum cover crop during the fallow period was less effective than chemical fallow for purple nutsedge management, and therefore we do not recommend the use of sorghum cover crops for weed management in fields where purple nutsedge is the major weed species.",
+      "mesh_terms": [
+        "Crops, Agricultural",
+        "Fumigation",
+        "Solanum lycopersicum",
+        "Soil",
+        "Sorghum"
+      ]
+    },
+    {
+      "pmid": "25653664",
+      "title": "Control of yellow and purple nutsedge in elevated CO2 environments with glyphosate and halosulfuron.",
+      "authors": [
+        "S Christopher Marble",
+        "Stephen A Prior",
+        "G Brett Runion",
+        "H Allen Torbert"
+      ],
+      "journal": "Frontiers in plant science",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Atmospheric concentrations of carbon dioxide (CO2) have significantly increased over the past century and are expected to continue rising in the future. While elevated levels of CO2 will likely result in higher crop yields, weed growth is also highly likely to increase, which could increase the incidence of herbicide resistant biotypes. An experiment was conducted in 2012 to determine the effects of an elevated CO2 environment on glyphosate and halosulfuron efficacy for postemergence control of purple and yellow nutsedge (Cyperus rotundus L. and C. esculentus L.). Both species of nutsedge where grown in 3.0-L containers under either ambient or elevated (ambient + 200 μmol mol(-1)) CO2 in open-top field chambers and treated with either 0.5×, 1.0×, or 1.5× of the manufacturer's labeled rate of halosulfuron, glyphosate, or a tank mix of the two herbicides. The growth of both nutsedge species responded positively to elevated CO2, purple nutsedge had increased shoot and root dry weights and yellow nutsedge had increased shoot, root, and tuber dry weights and counts. Few treatment differences were observed among the herbicides at any of the rates tested. At 3 weeks following herbicide application, both purple and yellow nutsedge were adequately controlled by both herbicides and combinations at all rates tested, regardless of CO2 concentration. Based on this study, it is likely that predicted future CO2 levels will have little impact on the efficacy of single applications of halosulfuron or glyphosate for control of purple and yellow nutsedge at the growth stages described here, although scenarios demanding more persistent control efforts remain a question."
+    },
+    {
+      "pmid": "16659181",
+      "title": "Differential cold tolerance, starch, sugar, protein, and lipid of yellow and purple nutsedge tubers.",
+      "authors": [
+        "E W Stoller",
+        "E J Weber"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1975-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "From measurements of viability after exposure of tubers to natural overwintering in the soil and 6 weeks exposure at 2 C, species cold tolerance of the tubers was ranked in decreasing order: yellow nutsedge ;I' (Cyperus esculentus L.), an ecotype originating in Illinois; yellow nutsedge ;G', an ecotype originating in Georgia; and purple nutsedge (Cyperus rotundus L.). The ratios of unsaturated-saturated fatty acids in tuber triglycerides, tuber polar lipids, and leaf polar lipids followed the same order as the cold tolerance rankings, with the most cold-hardy species having the highest ratios. Lipid content was less than 1% of dry weight in purple nutsedge tubers, but was from 5 to 7% in both yellow nutsedge tubers. Starch, sugar, and lipid contents increased significantly in the hardy yellow nutsedge ;I' tubers during a 6-week exposure to 2 C, but did not change in the susceptible purple nutsedge tubers; only sugar increased in yellow nutsedge ;G' tubers after this treatment. Protein content was not altered by the 2 C treatment in any of the tubers. Apparently, several factors involving starch, sugar, lipids, and fatty acids are related to the differences in tolerance to cold in these species."
+    }
+  ]
+}

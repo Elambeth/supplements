@@ -1,0 +1,45 @@
+{
+  "supplement": "Microbiota Accessible Carbohydrates",
+  "query": "Microbiota Accessible Carbohydrates[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:03:43",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "32127019",
+      "title": "Supplement of microbiota-accessible carbohydrates prevents neuroinflammation and cognitive decline by improving the gut microbiota-brain axis in diet-induced obese mice.",
+      "authors": [
+        "Hongli Shi",
+        "Qiao Wang",
+        "Mingxuan Zheng",
+        "Shanshan Hao",
+        "Jeremy S Lum",
+        "Xi Chen",
+        "Xu-Feng Huang",
+        "Yinghua Yu",
+        "Kuiyang Zheng"
+      ],
+      "journal": "Journal of neuroinflammation",
+      "publication_date": "2020-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Western pattern diets induce neuroinflammation and impair cognitive behavior in humans and animals. Neuroinflammation and cognitive impairment have been associated with microbiota dysbiosis, through the gut-brain axis. Furthermore, microbiota-accessible carbohydrates (MACs) found in dietary fiber are important in shaping the microbial ecosystem and have the potential to improve the gut-brain-axis. However, the effects of MACs on neuroinflammation and cognition in an obese condition have not yet been investigated. The present study aimed to evaluate the effect of MACs on the microbiota-gut-brain axis and cognitive function in obese mice induced by a high-fat and fiber deficient (HF-FD) diet. METHODS: C57Bl/6 J male mice were fed with either a control HF-FD or a HF-MAC diet for 15 weeks. Moreover, an additional group was fed with the HF-MAC diet in combination with an antibiotic cocktail (HF-MAC + AB). Following the 15-week treatment, cognitive behavior was investigated; blood, cecum content, colon, and brain samples were collected to determine metabolic parameters, endotoxin, gut microbiota, colon, and brain pathology. RESULTS: We report MACs supplementation prevented HF-FD-induced cognitive impairment in nesting building and temporal order memory tests. MACs prevented gut microbiota dysbiosis, including increasing richness, α-diversity and composition shift, especially in Bacteroidetes and its lower taxa. Furthermore, MACs increased colonic mucus thickness, tight junction protein expression, reduced endotoxemia, and decreased colonic and systemic inflammation. In the hippocampus, MACs suppressed HF-FD-induced neuroglia activation and inflammation, improved insulin IRS-pAKT-pGSK3β-pTau synapse signaling, in addition to the synaptic ultrastructure and associated proteins. Furthermore, MACs' effects on improving colon-cognitive parameters were eliminated by wide spectrum antibiotic microbiota ablation. CONCLUSIONS: These results suggest that MACs improve cognitive impairments via the gut microbiota-brain axis induced by the consumption of an HF-FD. Supplemental MACs to combat obesity-related gut and brain dysfunction offer a promising approach to prevent neurodegenerative diseases associated with Westernized dietary patterns and obesity.",
+      "mesh_terms": [
+        "Animals",
+        "Carbohydrate Metabolism",
+        "Carbohydrates",
+        "Cognitive Dysfunction",
+        "Diet, High-Fat",
+        "Dietary Fiber",
+        "Dietary Supplements",
+        "Gastrointestinal Microbiome",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Neuroimmunomodulation",
+        "Obesity"
+      ]
+    }
+  ]
+}

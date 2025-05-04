@@ -1,0 +1,2381 @@
+{
+  "supplement": "Vegetable Oil",
+  "query": "Vegetable Oil[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:01:59",
+  "research_count": 82,
+  "count": 82,
+  "articles": [
+    {
+      "pmid": "39961953",
+      "title": "Exploring Mechanistic Insights Into Coagulation-flocculation-aided Adsorption Design: a Comprehensive Study On the Removal of Toxic Metals and Organic Pollutants From Vegetable Oil Processing Wastewater.",
+      "authors": [
+        "Prosper Eguono Ovuoraye",
+        "Victor Ifeanyi Ugonabo",
+        "Christian Ebere Enyoh",
+        "Chinenye Adaobi Igwegbe",
+        "Titus Chinedu Egbosiuba",
+        "Ismaila Ibrahim"
+      ],
+      "journal": "Environmental monitoring and assessment",
+      "publication_date": "2025-Feb-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Industrial wastewater treatment is crucial for environmental protection and public health. This study aimed to investigate the efficiency of the coagulation-flocculation-aided adsorption (C/F-A) system utilizing aluminum salt (AS) coagulant and characterized acid-activated kaolin clay adsorbent (KC) for the removal of pollutants from vegetable oil processing industrial wastewater (VOPIW). The objectives were to optimize the operational parameters of the C/F-A system, evaluate the adsorption capacity of KC, analyze the removal mechanisms, and assess the feasibility of scale-up for industrial applications. Batch experiments were conducted at 25 °C and pH 6-8 to determine optimal conditions for turbidity and total suspended solids (TSS) removal. The Smoluchoski kinetic model and various isotherms (Redlich-Peterson, Elovich, and Dubinin-Radushkevich) were employed for mechanistic analysis. Optimal conditions of 0.2 g/L dosage, pH 6, and 12 min settling time resulted in 96% turbidity and 97% TSS removals. Significant reductions were achieved for various pollutants, including Cu (84%), Fe (80%), Mn (85%), Pb (71%), and Al (98%). The sorption capacities of KC for various pollutants were determined, with the highest recorded for Cu at 35.47 mg/g C. Scale-up analysis was conducted to meet WHO effluent discharge requirements resulting in organic loading corresponding to TDS (2.94 × 109 mg/day), DO (5.1 × 108 mg/day), BOD (4.33 × 108 mg/day), and COD (3.99 × 108 mg/day). The mechanistic parameters confirmed an optimum sweep-flocculation constant, 6.2 × 10-3 L/g·min, and half-life, 101 min-1. The study highlighted the effectiveness of the C/F-A system using KC for removing contaminants from VOPIW, suggesting its potential as a cost-effective and sustainable method for industrial wastewater treatment, thereby aiding environmental protection.",
+      "mesh_terms": [
+        "Wastewater",
+        "Water Pollutants, Chemical",
+        "Adsorption",
+        "Flocculation",
+        "Waste Disposal, Fluid",
+        "Plant Oils",
+        "Metals, Heavy",
+        "Industrial Waste",
+        "Kinetics"
+      ]
+    },
+    {
+      "pmid": "39654771",
+      "title": "Nano-pumice derived from pumice mine waste as a low-cost electrode catalyst for microbial fuel cell treating edible vegetable oil refinery wastewater for bioenergy generation and reuse.",
+      "authors": [
+        "Fatemeh Eslami",
+        "Kamyar Yaghmaeian",
+        "Reza Shokoohi",
+        "Roohallah Sajjadipoya",
+        "Alireza Rahmani",
+        "Hedieh Askarpur",
+        "Abbas Norouzian Baghani",
+        "Hossein Jafari Mansoorian",
+        "Farshid Jaberi Ansari"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2024-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to assess nano-pumice (NP) from pumice mining waste as a local, cost-effective anode catalyst in microbial fuel cells (MFCs) for treating edible vegetable oil refinery wastewater (EVORW) and generating bioenergy. Pumice mining waste was converted into nano in three stages: crushing up to ≤3 cm, reducing the size of the previous step particles to 150 μm and converting the previous step particles to <100 nm. Nano-pumice prepared was coated on the carbon cloth (CC) to increase anode surface area of MFC. Two MFCs were utilized, with MFC-1 serving as a control and MFC-2 incorporating a CC electrode coated with nano-pumice. The surface morphology, elemental and chemical composition, and textural characterization of CC, pumice, NP, and CC coated with NP were analyzed using FE-SEM, EDX, XRF, and BET techniques. MFC-2 achieved a maximum power density of 30±4W/m³ at a current density of 55±5A/m³. The MFC-1 reached a maximum power density of 18±4W/m³ at a current density of 35±6A/m³. In MFC-2, the EVORW treatment achieved maximum removals of COD (94 ± 2 %), NH4 +-N (85 ± 4 %), TP (76 ± 5 %), SO4 2- (68 ± 6 %), TSS (81 ± 2 %), and TDS (73 ± 1 %). MFC-1 achieved removal efficiencies of 66 ± 3 % for COD, 57 ± 6 % for NH4 +-N, 48 ± 3 % for TP, 45 ± 3 % for SO4 2-, 65 ± 3 % for TSS, and 61 ± 1 % for TDS. MFC-2 power density rose significantly, reaching 61 ± 3 % (1.6 times) higher than MFC-1and it also demonstrated a superior ability to improve raw wastewater quality compared to MFC-1. The MFC with the CC/NP anode exhibited both excellent power production and high COD removal efficiency, making nano-pumice a suitable anode catalyst for MFC applications."
+    },
+    {
+      "pmid": "39630659",
+      "title": "Effect of vegetable oil on ovarian steroidogenesis- A transcriptome approach to understand molecular mechanisms of hypothalamus pituitary and gonad axis (HPG) in Ompok bimaculatus.",
+      "authors": [
+        "Sagar Chandra Mandal",
+        "Partha Sarathi Tripathy",
+        "Ananya Khatei",
+        "Ningthoujam Chaoba Devi",
+        "Pradyut Biswas",
+        "Jitendra Kumar Sundaray",
+        "Farhana Hoque",
+        "Janmejay Parhi"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ompok bimaculatus is a commercially important food fish of Northeast India. For higher production of this species, the molecular mechanisms underlying its reproductive physiology is an important aspect to study. Vegetable oils are rich in ω3 and ω6 fatty acids and fat-soluble vitamins, that enhance reproductive performances. In the present study, O. bimaculatus were first fed with vegetable oil at 3, 5, 7 and 9% in the diet. The best treatment was determined by the analysis of relative fecundity, fertilisation rate, Gonadosomatic Index (GSI) and Hepatosomatic Index (HIS). Comparative transcriptomics analysis of gonadal tissues between control and best treatment was done using Illumina NextSeq500. The bioinformatics analysis by Trinity v2.11.0 and edgeR v3.32.1 identified 36 DEGs related to reproduction, those were later validated by qPCR analysis. The Differentially Expressed Genes (DEGs) revealed, regulation of Hypothalamic-pituitary-gonadal axis (HPG) axis through retinoid signalling pathway, IGF pathway and folliculogenesis pathway, including inhibitory effects of dietary vegetable oil on fish gonadal maturation.",
+      "mesh_terms": [
+        "Animals",
+        "Plant Oils",
+        "Female",
+        "Ovary",
+        "Transcriptome",
+        "Hypothalamo-Hypophyseal System",
+        "Gene Expression Profiling",
+        "Gonads",
+        "Hypothalamus"
+      ]
+    },
+    {
+      "pmid": "39434438",
+      "title": "An investigation into the performance and perikinetics of Brassica nigra meal in the treatment of real vegetable oil refinery condensate effluent.",
+      "authors": [
+        "Kavithakani Annamalaisamy",
+        "Chithra Kumaran"
+      ],
+      "journal": "Water environment research : a research publication of the Water Environment Federation",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this study, the treatment of vegetable oil refinery plant condensate effluent (VORCE) having high total suspended solids (TSS) and chemical oxygen demand (COD) generated from acid oil unit was focused. The utilization of waste Brassica nigra meal (BNM) as protein flocculant in treating VORCE was explored. The B. nigra meal flocculant (BNMF) exhibited a crystalline nature, with the presence of amino and carboxyl functional groups, rendering it highly efficient (89.69% efficiency) in floc formation. Zeta potential and particle size (-5.6 mV and 240.68 nm, respectively) indicate BNMF's effectiveness in initiating floc formation. The interactive effects of pH, dosage, settling time on COD, and TSS removal were investigated using the Box-Behnken design. At an optimal pH of 6.9 and BNMF dosage of 0.77 g/L, a maximum removal of 85.38% COD and 72.56% TSS was obtained. The perikinetic theory for the coagulation-flocculation followed a second-order rate reaction with high Kc (0.0001 L/mg min), low settling time (37.04 min), and high collision efficiency (2.703 × 1017), indicating the model's significance in achieving maximum COD and TSS removal. These findings highlight the potential use of BNMF in the treatment of VORCE, leading to circular economy by valorizing waste from mustard oil extraction and zero discharge. PRACTITIONER POINTS: Valorization of waste Brassica nigra meal (BNM) as a potent protein flocculant Optimization for vegetable oil refinery condensate effluent (VORCE) treatment was done. Interactive effects of the process parameters were analyzed using Design expert. Perikinetic theory for VORCE treatment follows second-order reaction rate with high Kc.",
+      "mesh_terms": [
+        "Plant Oils",
+        "Mustard Plant",
+        "Waste Disposal, Fluid",
+        "Industrial Waste",
+        "Kinetics",
+        "Flocculation",
+        "Biological Oxygen Demand Analysis",
+        "Hydrogen-Ion Concentration",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "39151619",
+      "title": "Use of isotopic (C, Cl) and molecular biology tools to assess biodegradation in a source area of chlorinated ethenes after biostimulation with Emulsified Vegetable Oil (EVO).",
+      "authors": [
+        "Sergio Gil-Villalba",
+        "Jordi Palau",
+        "Jesica M Soder-Walz",
+        "Miguel A Vallecillo",
+        "Jordi Corregidor",
+        "Andrea Tirado",
+        "Orfan Shouakar-Stash",
+        "Miriam Guivernau",
+        "Marc Viñas",
+        "Albert Soler",
+        "Monica Rosell"
+      ],
+      "journal": "The Science of the total environment",
+      "publication_date": "2024-Nov-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Enhanced In Situ Bioremediation (EISB) using Emulsified Vegetable Oil (EVO) as a long-term electron donor has gained prominence for the treatment of groundwater contaminated with chlorinated ethenes (CEs). This study explores the potential of isotopic and molecular biology tools (MBT) to investigate the CEs (PCE, TCE and cis-DCE) bioremediation using EVO in a contaminated site. A multiple approach using C and Cl-CSIA, quantification of Dehalococcoides (Dhc) and specific reductive dechlorination (RD) gene population, and hydrochemical data in microcosm experiments and field samples was applied. Despite the high partitioning of CEs into the EVO phase, the carbon isotopic values of the remaining CEs fraction in the aqueous phase did not exhibit significant changes caused by phase partitioning in laboratory experiments. Both microcosm experiments and field data revealed a rapid RD of PCE and TCE, resulting in the transient accumulation of cis-DCE, which was slowly degraded to vinyl chloride (VC). These results agreed with the presence of Dhc populations and a shift to stronger reducing conditions in the field: i) RD functional genes (tceA, vcrA and bvcA) exhibited a trend to higher values and ii) a substantial increase in Dhc populations (up to 30% of the total bacterial populations) was observed over time. The dual-element isotope slope ΛC-Cl for RD of cis-DCE obtained from field data (ΛC - Cl = 5 ± 3) was similar to the one determined from the microcosm experiments under controlled anoxic conditions (ΛC - Cl = 4.9 ± 0.8). However, ΛC-Cl values differ from those reported so far for laboratory studies with Dhc strains and mixed cultures containing Dhc, i.e., between 8.3 and 17.8. This observation underscores the potential variety of reductive dehalogenases involved during cis-DCE RD and the importance of determining site-specific Λ and ɛ values in order to improve the identification and quantification of transformation processes in the field.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Water Pollutants, Chemical",
+        "Plant Oils",
+        "Groundwater"
+      ]
+    },
+    {
+      "pmid": "38200640",
+      "title": "Response surface methodology optimization of the effect of pH, contact time, and microbial concentration on chemical oxygen removal potential of vegetable oil industrial effluents.",
+      "authors": [
+        "Abiodun Onadeji",
+        "Badruddeen Saulawa Sani",
+        "Umar Alfa Abubakar"
+      ],
+      "journal": "Water environment research : a research publication of the Water Environment Federation",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The vegetable oil refinery industry generates highly polluted effluents during oil production, necessitating proper treatment before discharge to prevent environmental hazards. Treating such wastewater has become a major environmental concern in developing countries. Chemical oxygen demand (COD) is a key parameter in assessing the wastewater's organic pollutant load. High COD levels can lead to reduced dissolved oxygen in water bodies, negatively affecting aquatic life. Various technologies have been employed to treat oily wastewater, but microbial degradation has gained attention due to its potential to remove organic pollutants efficiently. This study aims to optimize the biodegradation treatment process for vegetable oil industrial effluent using response surface methodology (RSM). The wastewater's physicochemical properties were characterized to achieve this, and COD removal was analyzed. Furthermore, RSM was used to investigate the combined effects of pH, contact duration, and microbial concentration on COD removal efficiency. The result showed that the microbial strain used recorded a maximum COD removal of 92%. Furthermore, a quadratic model was developed to predict COD removal based on the experimental variables. From the analysis of variance (ANOVA) analysis, the model was found to be significant at p < 0.0004 and accurately predicted COD removal rates within the experimental region, with an R2 value of 90.99% and adjusted R2 value of 82.89%. Contour plots and statistical analysis revealed the importance of contact duration and microbial concentration on COD removal. PRACTITIONER POINTS: Response surface methodology (RSM) optimization achieved a significant chemical oxygen demand (COD) removal efficiency of 92% in vegetable oil industrial effluents. The study's success in optimizing COD removal using RSM highlights the potential for efficient and environmentally friendly wastewater treatment. Practitioners can benefit from the identified factors (pH, contact time, and microbial concentration) to enhance the operation of treatment systems. The developed predictive model offers a practical tool for plant operators and engineers to tailor wastewater treatment processes. This research underscores the importance of sustainable practices in wastewater treatment, emphasizing the role of microbial degradation in addressing organic pollutant loads.",
+      "mesh_terms": [
+        "Plant Oils",
+        "Wastewater",
+        "Environmental Pollutants",
+        "Oxygen",
+        "Hydrogen-Ion Concentration"
+      ]
+    },
+    {
+      "pmid": "37747357",
+      "title": "A lateral flow immunoassay method for the rapid detection of acetochlor and alachlor in vegetable oil by sensitivity enhancement by using dimethyl-β-cyclodextrin.",
+      "authors": [
+        "Zepeng Li",
+        "Yuxiang Wu",
+        "Zijing Li",
+        "Binger Yu",
+        "Xinyi Mao",
+        "Guoqing Shi"
+      ],
+      "journal": "Analytical methods : advancing methods and applications",
+      "publication_date": "2023-Oct-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acetochlor is an endocrine disruptor. The acetochlor residue is strongly lipophilic and can be enriched into products during the manufacturing process. In this study, we found that dimethyl-β-cyclodextrin (DM-β-CD) solution could decrease the apparent oil/water partition coefficient (Koil-w) of acetochlor and increase the sensitivity of fluorescence lateral flow immunoassay (LFIA) for acetochlor simultaneously. Based on this, a simple LFIA method for the determination of acetochlor and alachlor residues in vegetable oil was established. The detection process only involves vortex mixing of an oil sample and dimethyl-β-cyclodextrin solution in a 1 : 3 (V/V) ratio, loading the water phase onto the immunoassay strips and reading the results. Under optimized conditions, the LOD for acetochlor in oil was 3.53 ng g-1, and the working range was 12.03-2000.00 ng g-1. The recoveries of spiked samples ranged from 91.69% ± 1.12% to 112.23% ± 2.20%. Meanwhile, the cross reactivity for alachlor was 108.22%, while for other investigated acetochlor analogues it was less than 1%, and the recoveries of alachlor were from 92.90% ± 8.03% to 113.53% ± 3.40%, which indicate that this method can detect acetochlor and alachlor simultaneously. Compared with the traditional detection method, the pre-treatment process of the proposed method is \"green\" and simple, and can be applied to the on-site rapid detection of acetochlor and alachlor in vegetable oil and can provide inspiration for the detection of other lipophilic pollutants."
+    },
+    {
+      "pmid": "37514094",
+      "title": "Environmentally Friendly Strategies for Formulating Vegetable Oil-Based Nanoparticles for Anticancer Medicine.",
+      "authors": [
+        "Nathália Freire",
+        "Raquel de Melo Barbosa",
+        "Fátima García-Villén",
+        "César Viseras",
+        "Luana Perioli",
+        "Rosana Fialho",
+        "Elaine Albuquerque"
+      ],
+      "journal": "Pharmaceutics",
+      "publication_date": "2023-Jul-08",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The development of green synthesized polymeric nanoparticles with anticancer studies has been an emerging field in academia and the pharmaceutical and chemical industries. Vegetable oils are potential substitutes for petroleum derivatives, as they present a clean and environmentally friendly alternative and are available in abundance at relatively low prices. Biomass-derived chemicals can be converted into monomers with a unique structure, generating materials with new properties for the synthesis of sustainable monomers and polymers. The production of bio-based polymeric nanoparticles is a promising application of green chemistry for biomedical uses. There is an increasing demand for biocompatible and biodegradable materials for specific applications in the biomedical area, such as cancer therapy. This is encouraging scientists to work on research toward designing polymers with enhanced properties and clean processes, containing oncology active pharmaceutical ingredients (APIs). The nanoencapsulation of these APIs in bio-based polymeric nanoparticles can control the release of the substances, increase bioavailability, reduce problems of volatility and degradation, reduce side effects, and increase treatment efficiency. This review discusses the use of green chemistry for bio-based nanoparticle production and its application in anticancer medicine. The use of castor oil for the production of renewable monomers and polymers is proposed as an ideal candidate for such applications, as well as more suitable methods for the production of bio-based nanoparticles and some oncology APIs available for anticancer application."
+    },
+    {
+      "pmid": "37311343",
+      "title": "Treatment vegetable oil refinery wastewater by sequential electrocoagulation-electrooxidation process.",
+      "authors": [
+        "Osama F Saeed",
+        "Khalid W Hameed",
+        "Ali H Abbar"
+      ],
+      "journal": "Journal of environmental management",
+      "publication_date": "2023-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In the present study a sequential process composed of electrocoagulation (EC) followed by electrooxidation (EO) was utilized at the laboratory scale to remove the chemical oxygen demand (COD) from wastewater generated in Iraqi vegetable oil refinery plant.in the EC, impacts of operating variables such as current density (10-30 mA cm-2) and pH (4-10),and EC time (30-90 min) on the COD removal (RE%) were investigated using response surface methodology (RSM) based on Box- Behnken design(BBD). a mathematical correlation that relates the operating factors with RE% was developed and its regression coefficient was 99.02% confirming the significant of the model. Response surface plots showed that RE% increased with increasing current density and time while it decreased with increasing pH. The optimum removal with a lower cost for EC process were achieved at current density of 30mA/cm2, pH of 4, and electrolysis time of 90 min in which RE% of 69.19% was obtained with requirement of 0.513kWh/kg COD as specific energy consumption (SEC). The effluent exit from EC was treated by EO for a period of 240min at a current density of 30mA/cm2 and an initial pH value of 4 to obtain RE% of 96% at SEC of 1.554 kWh/kg COD. Combining EC with EO resulted in a total RE% of 98.72% and a total SEC of 2.067 kWh/kg COD. Based on the results of present study, the applicability of a sequential electrocoagulation-electrooxidation process for treatment vegetable oil wastewaters is feasible.",
+      "mesh_terms": [
+        "Wastewater",
+        "Waste Disposal, Fluid",
+        "Vegetables",
+        "Electrocoagulation",
+        "Plant Oils"
+      ]
+    },
+    {
+      "pmid": "37258213",
+      "title": "The Effects of Heat Treatment on the Oxidation Resistance and Fatty Acid Composition of the Vegetable Oil Blend.",
+      "authors": [
+        "Almas Mukhametov",
+        "Dina Dautkanova",
+        "Assemay Kazhymurat",
+        "Moldir Yerbulekova",
+        "Gulsim Aitkhozhayeva"
+      ],
+      "journal": "Journal of oleo science",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The purpose is to elucidate the effects of the duration of heat treatment on the resistance of vegetable oils to oxidative processes. Iodine and acid values were analyzed before and after heat exposure. Rapeseed oil, sunflower oil, and a blend of rapeseed and sunflower oils (ratio 55:45) were used as samples. Sunflower oil heated at a temperature of 40°C for 80 minutes had its peroxide value increased by 3.0 times (p ≤ 0.05) as compared to rapeseed oil and the blend. At 75°C, the peroxide value increased by 4.0 times for sunflower oil (p ≤ 0.05), by 3.0 and 3.3 times for rapeseed oil (p ≤ 0.05), and by 3.1 and 3.4 times for the blend (p ≤ 0.05). At 40°C, no peroxide values were obtained that exceeded the threshold limits. The concentration of fatty acids in oils depends on the plant variety, growth conditions and maturity of seeds or fruits. Therefore, the concentration of fatty acids in the oil should be measured before oil blending.",
+      "mesh_terms": [
+        "Plant Oils",
+        "Fatty Acids",
+        "Rapeseed Oil",
+        "Sunflower Oil",
+        "Hot Temperature"
+      ]
+    },
+    {
+      "pmid": "37051513",
+      "title": "Betaine and nano-emulsified vegetable oil supplementation for improving carcass and meat quality characteristics of broiler chickens under heat stress conditions.",
+      "authors": [
+        "Gamaleldin M Suliman",
+        "Elsayed O S Hussein",
+        "Abdullah N Al-Owaimer",
+        "Rashed A Alhotan",
+        "Maged A Al-Garadi",
+        "Jameel M H Mahdi",
+        "Hani A Ba-Awadh",
+        "Mohammed M Qaid",
+        "Ayman Abdel-Aziz Swelum"
+      ],
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: This research aimed to examine the effects of water-added betaine (BET) and/or nano-emulsified vegetable oil (MAGO) on carcass and meat quality characteristics of broilers raised under thermoneutral (TN) and heat stress (HS) conditions. METHODS: On day 21, 640 birds (Ross 308) were randomly assigned to one of two thermal conditions (thermoneutral 22 ± 1°C and heat stress 32 ± 1°C) each containing four treatment groups: Control, BET, MAGO, and a mixture of both (BETMAGO) in a 2 × 4 factorial arrangement (eight groups). Each group has eight replicates, with ten birds each. The birds' carcass and meat quality characteristics were evaluated at 35 days. RESULTS AND DISCUSSION: The dressing percentage, breast, leg, wing, heart, initial pH, color change, cooking loss (CL), water-holding capacity (WHC), shear force (SF), and texture profile with exception of springiness significantly affected by the treatments. The results showed that HS had negative effects on carcass weight and relative weights of the breast, spleen, and heart. Moreover, HS increased dressing percentage, wing, initial pH, final core temperature, initial lightness, WHC, and hardness. Significant differences in interactions between treatments and temperature were observed in the spleen, WHC, and SF. CONCLUSION: Water supplemented with BET effectively improved carcass dressing percentage, breast weight, and meat quality in terms of water-holding capacity and tenderness under HS conditions. More studies on the use of BET and/or MAGO at different levels were recommended."
+    },
+    {
+      "pmid": "36295495",
+      "title": "Cutaneous Permeation of a Percutaneously Applied Glucocorticoid Using Plant-Based Anionic Phospholipids in Hydrogenated Vegetable Oil: A Preliminary Study.",
+      "authors": [
+        "Jack V Greiner",
+        "Hridaya N Bhargava",
+        "Thomas Glonek",
+        "Donald R Korb",
+        "Michael E Lindsay",
+        "Paula J Oliver"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "publication_date": "2022-Sep-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Purpose: It is important that, when corticosteroids are used therapeutically, concentrations be reduced as much as possible to mitigate potential adverse events and side effects. This preliminary study compares the permeation for the delivery of a corticosteroid in a 1% hydrocortisone-supplemented topical cream containing anionic polar phospholipids (APP) in hydrogenated vegetable oil (triglyceride) versus a market-leading 1% hydrocortisone in a mineral hydrocarbon-based skin cream. Methods: Using the Franz diffusion cell method with cadaveric skin, the permeation of a 1% hydrocortisone-supplemented cream containing APP (test preparation) was compared with a commercially available 1% hydrocortisone cream (control preparation). The principal APP in the test preparation were phosphatidylinositol, phosphatidylserine and phosphatidylglycerol. Permeation was determined at 4 and 8 h time intervals. Results: The permeation values for the 1% hydrocortisone supplemental APP cream (test preparation) were comparatively very high 1180 ng/cm2 at 4 h and 2173 ng/cm2 at 8 h, in contrast to the 1% hydrocortisone cream (control preparation) values of 13 ng/cm2 at 4 h and 98 ng/cm2 at 8 h. Permeation of skin cream increased significantly from 0 to 4 and 8 h, when comparing the APP test preparation with the control preparation (p < 0.001). This translates, respectively, into the 90-fold greater and a 20-fold greater penetration of the test preparation APP cream over the 1% hydrocortisone cream at 4 h and 8 h time points. Conclusions: This preliminary study demonstrates the enhanced permeation of 1% hydrocortisone when applied topically to the skin in an APP skin cream vehicle. This enhanced permeation suggests the potential use of APP technology to deliver therapeutically effective hydrocortisone treatment to the skin at markedly reduced concentrations of steroid. As such, APP technology may offer an improved approach to the treatment of dermatoses associated with inflammatory diseases and conditions requiring prolonged topical corticosteroid therapy.",
+      "mesh_terms": [
+        "Humans",
+        "Glucocorticoids",
+        "Hydrocortisone",
+        "Phospholipids",
+        "Phosphatidylserines",
+        "Administration, Cutaneous",
+        "Adrenal Cortex Hormones",
+        "Phosphatidylglycerols",
+        "Phosphatidylinositols",
+        "Triglycerides",
+        "Plant Oils"
+      ]
+    },
+    {
+      "pmid": "36267373",
+      "title": "Oil removal from spent bleaching earth of vegetable oil refinery plant using supercritical carbon dioxide.",
+      "authors": [
+        "Siti Machmudah",
+        "Nabil Apta Maulana",
+        "Andhika Shafian Maindo Norman",
+        "Valencia Marchilia Nyoto",
+        "Irji Amrullah",
+        "Wahyudiono",
+        "Sugeng Winardi",
+        "I Gede Wenten",
+        "Motonobu Goto"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2022-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The oil in the spent bleaching earth (SBE) matrix was successfully removed by applying the supercritical carbon dioxide (SCCO2) extraction technique in a semi-continuous flow-type system. The SCCO2 extraction process was conducted at 40-80 °C and 20-30 MPa with extraction time of ∼180 min. The color of SBE matrix changes from the dark to dark-pale color after the SCCO2 extraction treatment exhibiting the substances including oil in the SBE matrix were successfully removed. The extracted oil yield was around 95% when the SCCO2 extraction process was performed at 40 °C and 30 MPa with 10% ethanol addition as a co-solvent. The GC analysis showed that the prominent fatty acid constituents in the extracted oil are palmitic and oleic acids, furthermore it can be fed as a feedstock to produce biodiesel fuel. Next, it can be proposed that SCCO2 extraction system is a viable way to extract oil from the SBE matrix."
+    },
+    {
+      "pmid": "35881537",
+      "title": "Long-Term Lacticaseibacillus rhamnosus GG Storage at Ambient Temperature in Vegetable Oil: Viability and Functional Assessments.",
+      "authors": [
+        "Seyed Mohammad Davachi",
+        "Belgin Dogan",
+        "Leila Khazdooz",
+        "Shiying Zhang",
+        "Anahita Khojastegi",
+        "Zhangjun Fei",
+        "Honghe Sun",
+        "Gopinathan Meletharayil",
+        "Rohit Kapoor",
+        "Kenneth W Simpson",
+        "Alireza Abbaspourrad"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2022-Aug-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Vegetable oils with varying saturated fat levels were inoculated with Lacticaseibacillus rhamnosus GG (LGG), subjected to different heat treatments in the absence and presence of inulin and stored for 12 months at room temperature. After storage, the heat-treated probiotics actively grew to high concentrations after removal of the oils and reculturing. The bacterial samples, regardless of aerobic or anaerobic conditions and treatment methods, showed no changes in their growth behavior. The random amplified polymorphic DNA-polymerase chain reaction, antimicrobial, morphology, and motility tests also showed no major differences. Samples of LGG treated with a higher antioxidant content (Gal400) showed reduced inflammatory and anti-inflammatory properties. These findings have been confirmed by metabolite and genome sequencing studies, indicating that Gal400 showed lower concentrations and secretion percentages and the highest number of single nucleotide polymorphisms. We have shown proof of concept that LGG can be stored in oil with minimum impact on probiotic in vitro viability.",
+      "mesh_terms": [
+        "Inulin",
+        "Lacticaseibacillus rhamnosus",
+        "Plant Oils",
+        "Probiotics",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "35779298",
+      "title": "The advantages of co-digestion of vegetable oil industry by-products and sewage sludge: Biogas production potential, kinetic analysis and digestate valorisation.",
+      "authors": [
+        "Aleksandra Petrovič",
+        "Klavdija Zirngast",
+        "Tjaša Cenčič Predikaka",
+        "Marjana Simonič",
+        "Lidija Čuček"
+      ],
+      "journal": "Journal of environmental management",
+      "publication_date": "2022-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The production of edible vegetable oils generates considerable amounts of energy-rich waste, which is usually not utilised fully. Besides, inefficient management of such wastes can have a negative impact on the environment. On the other hand, this waste can also serve as a raw material for the production of high value-added products, such is biogas. The mono-digestion of seven different by-products and wastes from the vegetable oil industry was investigated in this study: Pumpkin seeds press cake (PSPC), grape seeds press cake (GSPC), olive mill pomace (OMP), coconut oil cake (CC), filtration additive (FA), spent bleaching earth (SBE) and sludge from a vegetable oil industry (SOI) wastewater treatment plant. In addition, co-digestion of these substrates was performed with municipal sewage sludge (SS). Besides inoculum, rumen fluid was added to the reactors to enhance biogas production. The biogas production potential of the tested substrates was monitored by measuring various parameters. A kinetic analysis was later carried out and a growth test was performed on the digestates to evaluate their potential for agricultural use. The highest biogas yields in the mono-digestion test were obtained with the substrates with the highest fat content: 1402, 1288, 830 and 750 mL of biogas/gVS for SOI, FA, PSPC and CC substrate, respectively. Co-digestion of SS with by-products of vegetable oil industry such as FA, SBE, CC, SOI and PSPC increased the biogas yields by 94.9%, 74.1%, 30.8%, 27.4% and 23.6% compared to SS mono-digestion. Furthermore, the data for mono-digestion of PSPC, GSPC, and FA, and co-digestion of SS with these substrates, CC and SBE, have not been found in the literature to date. The maximum methane content ranged from 61 to 74 vol%, while the chemical oxygen demand removal efficiency ranged from 42 to 78%. Relatively high fatty acids contents and ammonium concentrations were measured in the reactors. Kinetic analysis showed the best fit to the experimental data for the Cone kinetic model (R2 > 0.98). The First order kinetic model, Monod, and the modified Gompertz model also exhibited high R2 values. The digestates obtained from co-digestion proved to be excellent in the cress seeds growth test at digestate concentrations of 5-10 wt%, while higher concentrations had a toxic effect.",
+      "mesh_terms": [
+        "Anaerobiosis",
+        "Animals",
+        "Biofuels",
+        "Bioreactors",
+        "Kinetics",
+        "Methane",
+        "Plant Oils",
+        "Sewage"
+      ]
+    },
+    {
+      "pmid": "35631895",
+      "title": "Repeatable Self-Healing of a Protective Coating Based on Vegetable-Oil-Loaded Microcapsules.",
+      "authors": [
+        "Young-Kyu Song",
+        "Hyun-Woo Kim",
+        "Chan-Moon Chung"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2022-May-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Generally, microcapsule-based self-healing materials have the limitation of single local self-healing. A few studies have reported repeatable self-healing in these microcapsular materials, but there is a challenge to develop multi-cycle self-healing materials that have the advantages of easier preparation and a more efficient operation. In this work, a mixture of two vegetable oils, soybean and olive oil, was used as a healing agent. The atmospheric oxygen-induced reaction behavior (in the presence of a catalyst) was investigated for various compositions of the vegetable oil mixtures; infrared spectroscopy, recovery testing, and viscoelasticity measurement were performed to find an optimum composition of the healing agent. Microcapsules loaded with soybean oil and catalyst-containing olive oil were separately prepared and used to prepare a dual-capsule self-healing coating. It was demonstrated through optical and scanning electron microscopy that, upon scribing the self-healing coating, the vegetable oils flowed out from microcapsules to self-heal the damaged area. When the healed area of the self-healing coating was re-scribed, self-healing was repeated, which was confirmed by scanning electron microscopy (SEM) and anticorrosion and electrochemical testing. Our new repeatable self-healing coating provides the merits of easy preparation, no need for external intervention such as light irradiation, and an environmentally-friendly nature."
+    },
+    {
+      "pmid": "35569655",
+      "title": "Pyrolysis of vegetable oil soapstock in fluidized bed: Characteristics of thermal decomposition and analysis of pyrolysis products.",
+      "authors": [
+        "Mengyan Yu",
+        "Changfa Zhang",
+        "Xiangtong Li",
+        "Yang Liu",
+        "Xueguang Li",
+        "Junshen Qu",
+        "Jianjun Dai",
+        "Chunbao Zhou",
+        "Yanxin Yuan",
+        "Yajie Jin",
+        "Yingwen Zhang",
+        "Jie Fu",
+        "Hejie Yu",
+        "Long Wang",
+        "Chenglong Liu",
+        "Yan Li"
+      ],
+      "journal": "The Science of the total environment",
+      "publication_date": "2022-Sep-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study investigated the effect of temperature on pyrolysis of soapstock in a fluidized bed reactor, and the characterization of soapstock chars (SCs) and pyrolysis oils (POs) were analyzed. TGA, TG-FTIR, TG-MS, and Py-GCMS were employed to investigate characteristics of SS pyrolysis. Experimental results indicated that the yield of SC decreased with increasing temperature. Pyrolysis oil (PO) yield reached the maximum of 21.05 wt% at 600 °C and the yield of non-condensable gas varied with temperatures. The content of carbon, hydrogen and nitrogen distributed in the SC decreased with the increasing temperature, and sulfur tended to be retained in SC during pyrolysis with the distribution ratio of 0.55-0.62. Ketones, alcohols and hydrocarbons were the dominate substances in PO, and higher temperature promoted the production of short-chain alkanes and the conversion of alkenes to benzene derivatives. SS pyrolysis can be divided into three stages. Stage I was mainly the evaporation of free water and light organics in the raw material. Decomposition and conversion of organics mainly occurred at stage II. Stage III was the decomposition of CaCO3 and secondary cracking of residual organics. Ca2+ delayed the pyrolysis reaction of fatty acids and promoted decarboxylation which was the main deoxygenation pathway, and alkene production. This study provided a theoretical basis for the application of soapstock thermochemical treatment. It is of great significance for the quality improvement of PO and pollution control for pyrolysis processes.",
+      "mesh_terms": [
+        "Biofuels",
+        "Hot Temperature",
+        "Plant Oils",
+        "Pyrolysis",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "35468275",
+      "title": "Exogenous emulsifiers and multi-enzyme combination improves growth performance of the young broiler chickens fed low energy diets containing vegetable oil.",
+      "authors": [
+        "Samiru Sudharaka Wickramasuriya",
+        "Shemil Priyan Macelline",
+        "Eunjoo Kim",
+        "Taeg Kyun Shin",
+        "Hyun Min Cho",
+        "Dinesh D Jayasena",
+        "Jung Min Heo"
+      ],
+      "journal": "Animal bioscience",
+      "publication_date": "2022-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The present study examined the effects of exogenous emulsifiers and multi-enzyme supplementation into a low energy density diet on growth performance, visceral organ parameters, blood metabolites, ileal morphology, and nutrient digestibility in broiler chickens from hatch to 21 days. METHODS: One hundred and sixty-eight one-day-old Ross 308 broiler chickens were allocated in a completely randomized design to 24 pens and each pen was assigned to one of four dietary treatments to give six replications with seven chickens in a cage. Dietary treatments were: i) positive control with standard energy level (PC); ii) negative control with 100 kcal/kg lower energy of the standard level (NC); iii) NC diet supplemented 0.05% calcium stearoyl-2 lactylate as an emulsifier (NC+E); and iv) NC diet supplemented with both 0.05% calcium stearoyl-2 lactylate and 0.05% multi-enzyme (NC+E+M). Corn and soybean meal-based control diets containing vegetable oil were formulated to meet the Ross 308 nutrition specification. Chickens were fed ad-libitum with the treatment diets and sampling was conducted on day 21. RESULTS: Our results revealed that emulsifier and multi-enzyme supplementation into NC diets improved (p<0.05) feed efficiency of the broiler chickens compared to the broiler chickens fed NC diets from hatch to 21 days. Supplementation of emulsifier and multi-enzyme into NC diet improved (p<0.05) nutrient digestibility of the broiler chickens. However, emulsifier and multi-enzymesupplementation into diet did not influence (p>0.05) visceral organ weight, blood metabolites, and intestinal morphology in broiler chickens fed NC diets. CONCLUSION: Supplementation of emulsifier and multi-enzyme in the NC diet would support improving growth performance in young broiler chickens with improved feed efficiency and increased nutrient digestibility thereby curtailing the negative impact of energy reduction in the diets."
+    },
+    {
+      "pmid": "35400244",
+      "title": "Vegetable oil-based nanoemulsions for the preservation of muscle foods: A systematic review and meta-analysis.",
+      "authors": [
+        "Aziz A Fallah",
+        "Elham Sarmast",
+        "Tina Jafari",
+        "Amin Mousavi Khaneghah"
+      ],
+      "journal": "Critical reviews in food science and nutrition",
+      "publication_date": "2023",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "This systematic review and meta-analysis quantified the effects of various vegetable oil-based nanoemulsion (NE) formulations on muscle foods' microbial and chemical quality by estimating the weighted overall response ratio (R*). Treatment of muscle foods with NE formulations reduced the growth rates of total mesophilic bacteria, total psychrophilic bacteria, lactic acid bacteria, and Enterobacteriaceae by 26.2% (R*=0.738), 19% (R*=0.810), 44.7% (R*=0.553), and 31.8% (R*=0.682) during the storage period, respectively. Moreover, the NE formulations retarded the increasing rates of volatile basic-nitrogen content, lipid and protein oxidation, and lipid hydrolysis by 41.4% (R*=0.586), 34% (R*=0.660), 55% (R*=0.450), and 37.1% (R*=0.629), respectively. The NE formulations prepared from safflower, olive, canola, and sunflower oil were more effective than the other vegetable oils to control microbial growth and slow down chemical changes in muscle foods. The combination of nanoemulsions (NEs) and essential oils (EOs) was more efficient than NEs to preserve muscle foods. Packaging NE-treated muscle foods under anaerobic conditions provided better control of microbial growth and chemical changes than packaging under aerobic conditions. Consequently, a combination of vegetable oil-based NEs and EOs followed by anaerobic packaging is the most effective treatment to improve the quality of muscle foods.Supplemental data for this article is available online at https://doi.org/10.1080/10408398.2022.2057415 .",
+      "mesh_terms": [
+        "Plant Oils",
+        "Oils, Volatile",
+        "Muscles",
+        "Food",
+        "Food Preservation"
+      ]
+    },
+    {
+      "pmid": "35187750",
+      "title": "Treatment of vegetable oil wastewater by a conventional activated sludge process coupled with electrocoagulation process.",
+      "authors": [
+        "Ceyhun Akarsu",
+        "Zeynep Bilici",
+        "Nadir Dizge"
+      ],
+      "journal": "Water environment research : a research publication of the Water Environment Federation",
+      "publication_date": "2022-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present work aims to study chemical oxygen demand (COD), oil-grease, and color removal from vegetable oil wastewater by combined electrocoagulation and activated sludge processes. For this purpose, the sample was pretreated using electrocoagulation by various optimization parameters such as electrode type (Al-Al and Fe-Fe), current density (100-400 A/m2 ), pH (2-8), and electrolysis time (15-180 min). The results showed that 89.3% of COD, 100% of oil-grease, and 66.2% of color were removed by electrocoagulation under the conditions of 300-A/m2 current density, pH 2, and 180-min reaction time with Al-Al electrode pairs. Then, the effluent of electrocoagulation was treated by an activated sludge process. The results depicted that the activated sludge process was also effective for vegetable oil wastewater treatment and it enhanced 98.9% COD and 79.2% color removal efficiency. The effluent of the combined process was very clear, and its quality exceeded the direct discharge standard of the water pollution control regulation. The laboratory-scale test results indicate that the combined electrocoagulation and activated sludge process is feasible for the treatment of vegetable oil wastewater. PRACTITIONER POINTS: Vegetable oil wastewater was treated by combination of electrocoagulation and activated sludge processes. The combined electrocoagulation and activated sludge processes supplied 99.9% COD, 100% oil-grease, and 93.0% color removal efficiency. The laboratory-scale test results indicate that the combined EC-SBR processes were feasible for the treatment of vegetable oil wastewater.",
+      "mesh_terms": [
+        "Electrocoagulation",
+        "Electrodes",
+        "Industrial Waste",
+        "Plant Oils",
+        "Sewage",
+        "Waste Disposal, Fluid",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "34829215",
+      "title": "Addition of Vegetable Oil to Improve Triterpenoids Production in Liquid Fermentation of Medicinal Fungus Antrodia cinnamomea.",
+      "authors": [
+        "Linghui Meng",
+        "Biaobiao Luo",
+        "Yang Yang",
+        "Mohammad Omar Faruque",
+        "Jiuliang Zhang",
+        "Xiaohua Li",
+        "Xuebo Hu"
+      ],
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "publication_date": "2021-Oct-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The liquid fermentation of Antrodia cinnamomea is a promising alternative source for fungus production compared to the wildly grown fruiting body. Elicitation is a strong tool to enhance the productivity in microbial cells to obtain more compounds of interest. In this study, in order to improve the fungus growth and its terpenoids production, various vegetable oils were added in the fermentation broth of A. cinnamomea. It was found that corn oil from a group of vegetable oils exhibited the best effect on the biomass and triterpenoid content. After optimization, the initial addition of 1% (v/v) corn oil plus the inoculation of 10% (v/v) mycelia led to a maximum triterpenoid yield (532.3 mg L-1), which was increased as much as fourfold compared to the blank control. Differential transcriptome analysis demonstrated that corn oil significantly enriched several metabolic pathways including glycolysis/gluconeogenesis, propanoate metabolism and transmembrane hydrophobins. The enriched pathways interacted with deferentially expressed genes (DEGs) induced by corn oil treatment. Our research provides a potential strategy for the large production of triterpenoids by the improved fermentation of A. cinnamomea."
+    },
+    {
+      "pmid": "34759113",
+      "title": "Friction Dynamics of Wood Coated with Vegetable Oil.",
+      "authors": [
+        "Yoshimune Nonomura",
+        "Momoka Sano",
+        "Ryota Sekine",
+        "Yoshiyuki Daikoku"
+      ],
+      "journal": "Journal of oleo science",
+      "publication_date": "2021-Dec-03",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Surface treatment of wood surface is an effective method to improve the physical properties. The friction dynamics of wood coated with vegetable oil were evaluated and compared to wood treated with polyurethane and untreated wood. The kinetic friction coefficient, µ k , was 0.39±0.01, which was smaller than the values for polyurethane-treated wood and untreated oak. The effect of the surface treatment was also observed in the dependence of velocity on the friction coefficient. The friction profile of the wood surface treated with vegetable oil was similar to that of untreated wood, and the friction coefficient was nearly constant, except in the static friction region of sliding out. These results suggest that wood treated with vegetable oil is suitable for inducing a smooth feel.",
+      "mesh_terms": [
+        "Friction",
+        "Plant Oils",
+        "Polyurethanes",
+        "Surface Properties",
+        "Wood"
+      ]
+    },
+    {
+      "pmid": "34145544",
+      "title": "Levels of polycyclic aromatic hydrocarbons in edible and fried vegetable oil: a health risk assessment study.",
+      "authors": [
+        "Jin-Kui Ma",
+        "Ke Li",
+        "Xiang Li",
+        "Seham Elbadry",
+        "Amal A Raslan",
+        "Yan Li",
+        "Zohair S Mulla",
+        "Asmaa B M B Tahoun",
+        "Waleed Rizk El-Ghareeb",
+        "Xiao-Chen Huang"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Polycyclic aromatic hydrocarbons (PAHs) are environmental chemicals that are formed due to incomplete combustion of the organic matters, or during heat treatment of the food. The objectives of the present study were first to estimate levels of the 15-priority PAHs in the edible vegetable oil (corn oil, sunflower oil, olive oil, and canola oil) collected from Egypt. Furthermore, the effect of heat treatment on the formation of PAHs in the canola oil was further examined. In addition, dietary intakes and cancer risk among Egyptian consumers were additionally calculated. The achieved results indicated presence of 15-priority PAHs in all examined oil samples. Canola oil had the highest residual concentrations of PAHs compared with the other tested oil species. Heat treatment of canola oil led to a drastic increase in the formed B[a]P (316.55%), total 2-PAHs (322.47%), total 4-PAHs (297.42%), total 8-PAHs (285.26%), and total 15-PAHs (443.32%), respectively. The incremental lifetime cancer risk among the Egyptian population is considered safe when was calculated for all examined oil samples.",
+      "mesh_terms": [
+        "Environmental Monitoring",
+        "Plant Oils",
+        "Polycyclic Aromatic Hydrocarbons",
+        "Rapeseed Oil",
+        "Risk Assessment",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "33934094",
+      "title": "Impact of an Infant Formula Containing a Novel Fat Blend (Cow's Milk Fat, Fish and Vegetable Oil) and Prebiotics on Stool Fatty Acid Soaps and Erythrocyte Fatty Acid Profiles in Full-Term Healthy Newborns.",
+      "authors": [
+        "Maroula Lambidou",
+        "Birgit Alteheld",
+        "Rolf Fimmers",
+        "Frank Jochum",
+        "Antonia Nomayo",
+        "Peter Stehle"
+      ],
+      "journal": "Annals of nutrition & metabolism",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Recently, new commercial infant formulas have been composed considering novel fat blends and oligosaccharides to better resemble the fatty acid (FA) composition and stereospecific distribution (e.g., increased amount of ß-palmitate) as well as probiotics content of human breast milk. We hypothesized that these newly composed infant formulas may decrease fecal FA soap excretion and may positively affect erythrocyte FA profiles compared with regular formulas. METHODS: Healthy infants were randomly assigned to receive a high-sn-2-palmitate formula (>25% of the PA is esterified to the sn-2 position of the glycerol backbone, verum: n = 30) or a \"standard\" formula containing <10% of PA in sn-2 position and no oligosaccharides (control: n = 27); a non-randomized group of breast-fed infants served as control. Anthropometric data of the infants (body weight, recumbent length, and head circumference) were recorded at inclusion (visit 1) and 6 and 12 weeks after onset of intervention (visits 2 and 3). Blood samples for erythrocyte FA analysis (gas chromatography) were taken at visits 1 and 2; stool samples were collected at visit 2. RESULTS: Quantitative formula intake (mL/kg body weight × day) at visit 2 (verum: 155 ± 30, control: 164 ± 30) and visit 3 (verum: 134 ± 26, control: 134 ± 21) was comparable. Six weeks after onset of intervention, stool total FA soaps, palmitate soaps, and total FAs were similar in both formula-fed groups but significantly higher than in breast-fed infants. During the 6-week intervention, erythrocyte palmitate decreased significantly from baseline in all 3 groups with no group differences (verum: 29.20 ± 1.17 to 27.12 ± 0.66, control: 29.88 ± 2.00 to 27.01 ± 0.94, breast-fed: 30.20 ± 0.86 to 26.84 ± 0.98). For selected FAs, significant changes over time in verum and control group were obvious but without formula effects. Some variations in the FA profile of breast-fed infants compared to both verum and control groups were observed. CONCLUSIONS: In contrast to our hypothesis, feeding a newly composed infant formula based on a fat blend with 25% of PA in the sn-2 position of triacylglycerols and supplemented with a prebiotic could not decrease insoluble FA soap excretion compared with a standard product; in this respect, breastfeeding is obviously the best choice. Surprisingly, erythrocyte FA profiles were comparable in formula-fed and breast-fed infants; obvious alterations in FA composition of the respective fat sources and structure did not affect FA incorporation into membranes. Caution should be, however, exercised in drawing robust conclusions in the absence of larger, adequately powered intervention studies.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Cattle",
+        "Double-Blind Method",
+        "Erythrocytes",
+        "Fatty Acids",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant Formula",
+        "Infant, Newborn",
+        "Milk",
+        "Milk, Human",
+        "Oligosaccharides",
+        "Palmitates",
+        "Plant Oils",
+        "Prebiotics",
+        "Soaps"
+      ]
+    },
+    {
+      "pmid": "33809044",
+      "title": "Vegetable Oil-Based Thiol-Ene/Thiol-Epoxy Resins for Laser Direct Writing 3D Micro-/Nano-Lithography.",
+      "authors": [
+        "Sigita Grauzeliene",
+        "Aukse Navaruckiene",
+        "Edvinas Skliutas",
+        "Mangirdas Malinauskas",
+        "Angels Serra",
+        "Jolita Ostrauskaite"
+      ],
+      "journal": "Polymers",
+      "publication_date": "2021-Mar-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The use of renewable sources for optical 3D printing instead of petroleum-based materials is increasingly growing. Combinations of photo- and thermal polymerization in dual curing processes can enhance the thermal and mechanical properties of the synthesized thermosets. Consequently, thiol-ene/thiol-epoxy polymers were obtained by combining UV and thermal curing of acrylated epoxidized soybean oil and epoxidized linseed oil with thiols, benzene-1,3-dithiol and pentaerythritol tetra(3-mercaptopropionate). Thiol-epoxy reaction was studied by calorimetry. The changes of rheological properties were examined during UV, thermal and dual curing to select the most suitable formulations for laser direct writing (LDW). The obtained polymers were characterized by dynamic-mechanical thermal analysis, thermogravimetry, and mechanical testing. The selected dual curable mixture was tested in LDW 3D lithography for validating its potential in optical micro- and nano-additive manufacturing. The obtained results demonstrated the suitability of epoxidized linseed oil as a biobased alternative to bisphenol A diglycidyl ether in thiol-epoxy thermal curing reactions. Dual cured thermosets showed higher rigidity, tensile strength, and Young's modulus values compared with UV-cured thiol-ene polymers and the highest thermal stability from all prepared polymers. LDW results proved their suitability for high resolution 3D printing-individual features reaching an unprecedented 100 nm for plant-based materials. Finally, the biobased resin was tested for thermal post-treatment and 50% feature downscaling was achieved."
+    },
+    {
+      "pmid": "33655477",
+      "title": "Pretreatment of industrial wastewater by natural flotation: application to pollution reduction from vegetable oil refinery wastewaters.",
+      "authors": [
+        "Malika Kastali",
+        "Latifa Mouhir",
+        "Laila Saafadi",
+        "Levent Yilmaz",
+        "Salah Souabi"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of this study is to evaluate the effectiveness of the natural flotation process in reducing pollution with reasonable investment and operating costs of an industrial effluent of refining vegetable oils. Flotation tests were carried out in separating funnels and in drums of 30 l. The results obtained have shown that the volume of sludge produced during flotation is related to the pollutant load of the wastewater studied (process wastewater and acidic wastewater). The sludge volume is respectively 600, 12, and 120 ml/l for heavy, light, and medium loads respectively. Therefore, it is essential to find an effective way to remove oils and greases from polluted waters. Natural flotation eliminates on average 88% of COD for acid wastewater and 50% for process wastewater. However, the reduction of BOD5 showed 28 and 43% respectively for acid wastewater and process wastewater. In addition, the yield of fats and oils, TSS, and turbidity varies around 85%, 45%, and 88% respectively for acidic wastewater, while for process wastewater, elimination yields vary around 58%, 46%, and 46% respectively for the grease and oil parameters, the MES, and the turbidity. Flotation allows the elimination of 10659 Kg/day of greases and oils for process wastewater while it eliminates 5765 Kg/day for acidic wastewater. This reduces the cost of treatment related to chemicals and energy. Reducing pollution of wastewater by natural flotation could therefore help reduce the costs of treating wastewater, and recycling would then be more attractive for this purpose for the company.",
+      "mesh_terms": [
+        "Plant Oils",
+        "Sewage",
+        "Vegetables",
+        "Waste Disposal, Fluid",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "33204239",
+      "title": "A vegetable oil-based biopesticide with ovicidal activity against the two-spotted spider mite, Tetranychus urticae Koch.",
+      "authors": [
+        "Naoki Takeda",
+        "Ayumi Takata",
+        "Yuka Arai",
+        "Kazuhiro Sasaya",
+        "Shimpei Noyama",
+        "Shigekazu Wakisaka",
+        "Noureldin Abuelfadl Ghazy",
+        "Dagmar Voigt",
+        "Takeshi Suzuki"
+      ],
+      "journal": "Engineering in life sciences",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A recently developed biopesticide made of safflower and cottonseed oils has excellent ovicidal activity against the hard-to-control spider mite Tetranychus urticae Koch (Acari: Tetranychidae). It has attracted attention as a sustainable treatment for controlling T. urticae because it has low potential for promoting resistance and little effect on the predatory mite Neoseiulus californicus (McGregor) (Acari: Phytoseiidae), which is an important natural enemy of spider mites. Here, we investigated the mechanism of its ovicidal activity against T. urticae. The oil droplets in the oil-in-water emulsion of the biopesticide strongly adhered to T. urticae eggs, seeped through the chorion being cut during hatching, and inhibited the embryonic rotational movement necessary for cutting and hatching. No adverse effect was observed on N. californicus eggs even in undiluted biopesticide. We conclude that this biopesticide and N. californicus can be used simultaneously in the integrated management of T. urticae in oily biopesticide-tolerant plant species."
+    },
+    {
+      "pmid": "32599957",
+      "title": "Nutraceutical Vegetable Oil Nanoformulations for Prevention and Management of Diseases.",
+      "authors": [
+        "Cristian Vergallo"
+      ],
+      "journal": "Nanomaterials (Basel, Switzerland)",
+      "publication_date": "2020-Jun-24",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The scientific community is becoming increasingly interested in identifying, characterizing, and delivering nutraceuticals, which constitutes a multi-billion-dollar business. These bioactive agents are claimed to exhibit several health benefits, including the prevention and treatment of diseases such as arthritis, cancer, osteoporosis, cataracts, Alzheimer's, and Huntington's diseases, heart, brain and metabolic disorders, etc. Nutraceuticals are typically consumed as part of a regular human diet and are usually present within foods, comprising vegetable oil, although at low levels and variable composition. Thus, it is difficult to control the type, amount and frequency of their ingestion by individuals. Nanoformulations about vegetable oil-based bioactive compounds with nutraceutical properties are useful for overcoming these issues, while improving the uptake, absorption, and bioavailability in the body. The purpose of this current study is to review papers on such nanoformulations, particularly those relevant for health benefits and the prevention and management of diseases, as well as bioactives extracted from vegetable oils enhancing the drug effectiveness, retrieved through bibliographic databases by setting a timespan from January 2000 to April 2020 (about 1758 records)."
+    },
+    {
+      "pmid": "32565747",
+      "title": "Seeds of Zizyphus lotus: In Vivo Healing Properties of the Vegetable Oil.",
+      "authors": [
+        "C Rais",
+        "C Slimani",
+        "M Benidir",
+        "L Elhanafi",
+        "I Zeouk",
+        "F Errachidi",
+        "L El Ghadraoui",
+        "S Louahlia"
+      ],
+      "journal": "TheScientificWorldJournal",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study has been undertaken in order to highlight the healing effect of Zizyphus lotus vegetable oil. The seeds of this plant contain an oil rate of 30%. The obtained results on the main elements composing the vegetable oil have shown that Zizyphus lotus vegetable oil has a low value of acidity index and it presents a not negligible degree of unsaturation. The value of the peroxide index of Zizyphus lotus vegetable oil is less than 10 which characterizes the most of conventional oils. Furthermore, the spectral analysis by gas chromatography has shown the presence of 53 majority and minority molecules. Thus, the evaluation of the healing activity of Z. lotus seed vegetable oil has demonstrated a highly significant effect against the negative control and silver sulfadiazine was used as conventional treatment for burns. Based on the obtained results, we can suggest that the oil extracted from the seeds of the studied plant could be used to cure wounds.",
+      "mesh_terms": [
+        "Animals",
+        "Burns",
+        "Chromatography, Gas",
+        "Hot Temperature",
+        "Mice",
+        "Plant Oils",
+        "Seeds",
+        "Wound Healing",
+        "Ziziphus"
+      ]
+    },
+    {
+      "pmid": "31993797",
+      "title": "Considering a membrane bioreactor for the treatment of vegetable oil refinery wastewaters at industrially relevant organic loading rates.",
+      "authors": [
+        "Elham Abdollahzadeh Sharghi",
+        "Azadeh Shourgashti",
+        "Babak Bonakdarpour"
+      ],
+      "journal": "Bioprocess and biosystems engineering",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study aims to shed more light on the use of membrane bioreactors (MBRs) for the treatment of vegetable oil refinery wastewaters (VORWs). A MBR was operated for 157 days in which it was fed with real VORW of varying composition at a range of organic loading rates (0.20 ± 0.05-3.79 ± 0.29 kg COD m-3 day-1). The hitherto unconsidered fate of VORW constituents through the biological process was followed using gas chromatography/mass spectrometry analysis. This analysis revealed that only 19% of the identified feed constituents remained in the MBR effluent whereas ten new compounds were formed. Linear correlation analysis attributed the effluent residual COD to soluble microbial products (SMP) and non-readily biodegradable recalcitrant oily compounds. Trend of change of MLSS, mixed liquor viscosity and SMP with increasing OLR suggested that when MBR is operated under industrial conditions for the VORW treatment, the mixed liquor fouling propensity potentially increases with increasing OLR in the range studied.",
+      "mesh_terms": [
+        "Bioreactors",
+        "Plant Oils",
+        "Waste Disposal, Fluid",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "31540163",
+      "title": "Long-Term Effects of Dietary Olive Oil and Hydrogenated Vegetable Oil on Expression of Lipogenic Genes in Subcutaneous Adipose Tissue of Dairy Cows.",
+      "authors": [
+        "Einar Vargas-Bello-Pérez",
+        "Massimo Bionaz",
+        "Pietro Sciarresi-Arechabala",
+        "Nathaly Cancino-Padilla",
+        "María Sol Morales",
+        "Jaime Romero",
+        "Heidi Leskinen",
+        "Philip C Garnsworthy",
+        "Juan J Loor"
+      ],
+      "journal": "Veterinary sciences",
+      "publication_date": "2019-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of this study was to characterize the long-term transcriptomic effects of lipogenic genes in subcutaneous adipose tissue (SAT) of dairy cows supplemented with unsaturated (olive oil; OO) and saturated (hydrogenated vegetable oil; HVO) lipids. Cows were fed a control diet with no added lipid, or diets containing OO or HVO (n = 5 cows/group) for 63 days. SAT was obtained from the tail-head area at the onset of the study and after 21, 42, and 63 days of supplementation. Treatments had minor effects on expression of measured genes. Both fat supplements reduced expression of PPARG, HVO decreased transcription of the desaturase FADS2 and lipid droplet formation PLIN2, and OO increased transcription of FABP3. Both lipid treatments decreased expression of the transcription regulator SREBF1 and its chaperone (SCAP) during the first 21 days of treatment. Our data indicated that long-term feeding of OO and HVO have a relatively mild effect on expression of lipogenic genes in SAT of mid-lactating cows."
+    },
+    {
+      "pmid": "31416004",
+      "title": "Effects of plasma treatment on the oxidative stability of vegetable oil containing antioxidants.",
+      "authors": [
+        "HeeSun Na",
+        "ChulKyoon Mok",
+        "JaeHwan Lee"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2020-Jan-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Plasma, the fourth stage of matter, is a partially or wholly ionized state of gas. Degree of lipid oxidation and effects of antioxidants were evaluated in bulk oils at plasma treatment. Significant changes in the conjugated dienoic acid were induced after 10 min of plasma treatment, which corresponded to treatment for 2.5 h at 100 °C and 48 h at 60 °C. Tocopherol stability in the stripped corn oil was significantly higher than that in medium-chain triacylglycerol after the plasma treatment. The antioxidant capacities of 10 μM of α-tocopherol and sesamol were higher than that of β-carotene, and synergistic effects among α-tocopherol, sesamol, and β-carotene were not observed. Added α-tocopherol and sesamol decreased CDA formation by 33 and 30% compared to control samples after plasma treatment. Moisture content in oils decreased significantly about 20% moisture after 6 min plasma treatment. Lipid oxidation could be an important issue in plasma-treated lipid-rich products.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Benzodioxoles",
+        "Corn Oil",
+        "Food-Processing Industry",
+        "Hot Temperature",
+        "Lipids",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Phenols",
+        "Tocopherols",
+        "Triglycerides",
+        "alpha-Tocopherol",
+        "beta Carotene"
+      ]
+    },
+    {
+      "pmid": "31402394",
+      "title": "Soil physicochemical and hydraulic properties of petroleum-derived and vegetable oil-contaminated Haplic Lixisol and Rhodic Nitisol in southwest Nigeria.",
+      "authors": [
+        "S A Ganiyu",
+        "M K Atoyebi",
+        "K S Are",
+        "O T Olurin",
+        "B S Badmus"
+      ],
+      "journal": "Environmental monitoring and assessment",
+      "publication_date": "2019-Aug-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Various daily human activities can result in the release of pollutants of different chemical constituents and specific gravities into natural soils. Pollution of natural soils is a recurring occurrence in the environment and it contributes greatly to the alteration of soils properties. The results of an assessment of the effects of selected petroleum-derived and vegetable oils on soil physicochemical and hydraulic properties are presented in this work. Topsoil samples at a depth of 0-20 cm of the same textural class were collected from the order Lixisols and Nitisol within Ogun State, southwest Nigeria. Surface soil samples were collected and treated with petrol, diesel and palm oil at two different volumes (50 and 100 ml). Investigated soil properties include particle size distribution, soil pH, bulk density (BD), total porosity (TP), saturated hydraulic conductivity (Ksat), available water capacity (AWC), total carbon (TC), total nitrogen (TN), organic matter (OM) content, cation exchange capacity (CEC), potassium, sodium, and soil resistivity. Analysis of variance and Pearson's correlation were used to study the variations of the relationship of analyzed soil properties under different soil types and treatments. The regression analysis shows that all the generated models for predicting Ksat values under different soil treatments had R2 values ranging from 0.999 to 1.000. Results showed that treatment with either petroleum-derived or lipids has no effects on soil pH and textural class. Results further revealed that palm oil contamination at 50 ml recorded least values of Ksat in the two soil types. In all cases, BD and Ksat of the contaminated soils of the two sampling locations were reduced compared with their control values. Correlation coefficient showed expected strong negative correlation between TP and BD as well as between any two of organic parameters (TC, TN, and OM) and soil resistivity, TC, and TN at 1% level in both soil types. Two-way ANOVA showed that there were significant differences at 5% level between the two locations with respects to BD, TP, and CEC while significant differences in Ksat, pH, TC, TN, and OM occur between soils from the two locations under various treatments at 5% level.",
+      "mesh_terms": [
+        "Carbon",
+        "Environmental Monitoring",
+        "Humans",
+        "Nigeria",
+        "Nitrogen",
+        "Petroleum",
+        "Plant Oils",
+        "Soil",
+        "Soil Pollutants",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "31150961",
+      "title": "Transport and release of electron donors and alkalinity during reductive dechlorination by combined emulsified vegetable oil and colloidal Mg(OH)2: Laboratory sand column and microcosm tests.",
+      "authors": [
+        "Jun Dong",
+        "Dongxue Yu",
+        "Yan Li",
+        "Bowen Li",
+        "Qiburi Bao"
+      ],
+      "journal": "Journal of contaminant hydrology",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Emulsified vegetable oil combined with colloidal Mg(OH)2 (EVO-CM) can slowly release electron donors and OH- into groundwater and is therefore regarded as a promising amendment for enhanced in situ treatment of chlorinated solvents, such as tetrachloroethene (PCE) and trichloroethene (TCE). However, its migration ability in different porous media and the simultaneous release of electron donor and pH buffer during enhanced reductive dechlorination (ERD) have never been evaluated in detail. In this study, EVO-CM with uniform drop size and desirable stability was prepared. Laboratory-scale column tests were conducted to investigate the transport and spatial distribution of the EVO-CM in different porous media. Batch microcosm experiments were carried out to study the dechlorination efficiency under different EVO:Mg(OH)2 ratios. Experimental results indicate that prepared EVO-CM emulsions can be transported effectively through different porous media with grain size ranging from 0.1-1.0 mm. The emulsified vegetable oil (EVO) and colloidal Mg(OH)2 showed synchronous movement through the porous media column systems, providing both electron donor and alkalinity at the same location. The retention degree of EVO-CM is greater in the finer grained media and decreases with increasing distance from the inlet. The injection of EVO-CM lead to a significant mobilization of TCE in the column. The reductive dechlorination of TCE in the microcosms was remarkably enhanced in the presence of EVO-CM. The coaddition of sufficient colloidal Mg(OH)2 effectively limits the deleterious pH decline caused by acid release. The microcosm achieves an optimum dechlorination efficiency when the EVO:Mg(OH)2 ratio is 1:1.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Electrons",
+        "Halogenation",
+        "Oxidation-Reduction",
+        "Plant Oils",
+        "Trichloroethylene"
+      ]
+    },
+    {
+      "pmid": "30955618",
+      "title": "Simultaneous determination of tocopherols, carotenoids and phytosterols in edible vegetable oil by ultrasound-assisted saponification, LLE and LC-MS/MS.",
+      "authors": [
+        "Liangxiao Zhang",
+        "Sujun Wang",
+        "Ruinan Yang",
+        "Jin Mao",
+        "Jun Jiang",
+        "Xiupin Wang",
+        "Wen Zhang",
+        "Qi Zhang",
+        "Peiwu Li"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2019-Aug-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A method was developed to simultaneously determine eight bioactive compounds in edible oil based on ultrasound-assisted saponification, liquid-liquid extraction and liquid chromatography coupled with tandem mass spectrometry. Central composite design was employed to optimize ultrasonic temperature and time of saponification. Sample treatment was conducted by ultrasound-assisted saponification at temperature of 75 °C for 40 min. Limits of detection and limits of quantification ranged from 2.0 to 3.2 and from 6.1 to 10.0 ng/mL, respectively. Linear correlations were obtained (R2 > 0.99) and the recoveries at three spiked levels were between 81.7% and 112.0%. This method was employed to determine eight compounds in camellia oils and olive oils. As results, the contents of stigmasterol, δ-tocopherol, γ-tocopherol, β-carotene and lutein in camellia oils were significantly higher than those in olive oils (p < 0.05). The proposed method can be successfully used to determination of these eight active compounds in camellia oil and other edible oils.",
+      "mesh_terms": [
+        "Camellia",
+        "Carotenoids",
+        "Chromatography, High Pressure Liquid",
+        "Limit of Detection",
+        "Liquid-Liquid Extraction",
+        "Phytosterols",
+        "Plant Oils",
+        "Sonication",
+        "Stigmasterol",
+        "Tandem Mass Spectrometry",
+        "Tocopherols"
+      ]
+    },
+    {
+      "pmid": "33336948",
+      "title": "Mitigation Strategies for the Reduction of 2- and 3-MCPD Esters and Glycidyl Esters in the Vegetable Oil Processing Industry.",
+      "authors": [
+        "Sergio B Oey",
+        "H J van der Fels-Klerx",
+        "Vincenzo Fogliano",
+        "Stefan P J van Leeuwen"
+      ],
+      "journal": "Comprehensive reviews in food science and food safety",
+      "publication_date": "2019-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The refining of vegetable oils leads to the formation of 2- and 3-monochloropropane-1,2-diol esters (2- and 3-MCPD-E), and glycidyl esters (Gly-E). A literature review was performed aiming to provide up-to-date knowledge on mitigation strategies during oil refining that can reduce the formation of these three processing contaminants. The review used the database Scopus and covered the period from 2009 to 2017. Most of the 18 papers dealt with palm oil and two papers with vegetable oil. Most studies focused on 3-MCPD-E, some on Gly-E, and none on 2-MCPD-E. Water degumming was able to reduce the concentrations of 3-MCPD-E by 84% and Gly-E by 26%. Neutralization of the oil reduced concentrations of 3-MCPD-E by 81% and Gly-E by 84%. Bleaching with synthetic magnesium silicate reduced the 3-MCPD-E concentration by 67%. For the deodorization step, several mitigation strategies, such as double-deodorization, the addition of various antioxidants, or a longer deodorization time, can reduce the formations of 3-MCPD-E by 82% and Gly-E by 78%. Postrefining mitigation, including the use of absorbents, enzymes, or rebleaching of the oil, has also been reported to produce desirable contaminant reduction. Postrefining treatment with calcinated zeolite was able to reduce the 3-MCPD-E concentration by 19% and the Gly-E concentration by 77%. Applying combined mitigation strategies to multiple steps of oil refining is likely crucial in order to adequately reduce levels of 3-MCPD-E and Gly-E."
+    },
+    {
+      "pmid": "30251767",
+      "title": "Potential immunomodulatory and antioxidant effects of walnut Juglans regia vegetable oil against lead-mediated hepatic damage and their interaction with lipase activity in rats.",
+      "authors": [
+        "Ahlem Soussi",
+        "Manel Gargouri",
+        "Abdelfattah El Feki"
+      ],
+      "journal": "Environmental toxicology",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Environmental pollutants, particularly lead, pose a serious threat to human and animal health that causes disturbances of several functions, including hepatotoxicity. Therefore, the search for a new treatment that could safely and effectively block or reverse liver injuries remains a challenge. This study was carried out to investigate the protective efficacy of Juglans regia vegetable oil (JRVO) against the hepatotoxicity induced by lead. To achieve this aim, adults male rats were treated for 10 days with Pb (0.344 g/kg bw) associated or not with JRVO (0.9 g/kg bw). The rats intoxicated by lead exhibited oxidative stress determined by TBARS, protein carbonyls, liver tumor necrosis factor-α (TNF-α), caspase-3, and antioxidant status: SOD, CAT, GPx, and GSH. Administration of lead increased the levels of plasma hepatic markers (AST, ALT, LDH) and bilirubin, the lipid profiles (total cholesterol, triglycerides, VLDL-Ch, LDL-Ch levels, TBARS, NOx, and PCO), the plasmatic lipase activity and the inflammatory markers, while the plasmatic ALP decreased. Coadministration of JRVO restored all the hepatic markers, the lipid profiles and the antioxidants to near-normal values and lowered the plasmatic lipase activity as well as the elevated thiobarbituric acid reactive substances. Hepatic histological studies confirmed the beneficial role of JRVO through the amelioration of all biochemical parameters. Our results suggest that Juglans regia vegetable oil contains promising substances to counteract the lead intoxication and may be efficient in the prevention of hepatotoxicity complications.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Chemical and Drug Induced Liver Injury",
+        "Immunomodulation",
+        "Juglans",
+        "Lead",
+        "Lipase",
+        "Liver",
+        "Male",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Oils",
+        "Rats",
+        "Rats, Wistar",
+        "Thiobarbituric Acid Reactive Substances"
+      ]
+    },
+    {
+      "pmid": "30216735",
+      "title": "Effects of citrus leaf extract on aortic vascular reactivity in hypertensive rats fed repeatedly heated vegetable oil.",
+      "authors": [
+        "Hawa Nordin Siti",
+        "Yusof Kamisah",
+        "Suhaila Mohamed",
+        "Kamsiah Jaarin"
+      ],
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "publication_date": "2019-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The prolonged intake of diet containing repeatedly heated vegetable oil can cause hypertension in the long run. In this study, the effects of citrus leaf extract (CLE) supplementation on vascular reactivity, plasma nitrite, and aortic structure in hypertensive rats were investigated by the consumption of repeatedly heated vegetable oil [corrected]. Male Sprague Dawley rats (n = 56) were divided into 7 groups corresponding to the respective diets. For 16 weeks, 1 group was given standard rat chow (control) while other groups were given diets containing 15% w/w of palm oil, fresh palm oil (FPO), palm oil heated 5 times (5HPO), and palm oil heated 10 times (10HPO), with or without the incorporation of 0.15% w/w CLE (FPO+CLE, 5HPO+CLE, or 10HPO+CLE). Plasma nitrite levels were measured before and at 16 weeks of treatment. After 16 weeks, the rats were sacrificed and aortae were harvested for measuring vascular reactivity and for microscopic study. CLE supplementation had significantly reduced the loss of plasma nitrite and attenuated the vasoconstriction response to phenylephrine in the 5HPO group but not in the 10HPO group. However, CLE had no significant effect on the vasorelaxation response to acetylcholine and sodium nitroprusside. The elastic lamellae of tunica media in 5HPO, 10HPO, and 10HPO+CLE groups appeared disorganised and disrupted. Obtained findings suggested that CLE was able to enhance nitric oxide bioavailability that might dampen the vasoconstriction effect of phenylephrine.",
+      "mesh_terms": [
+        "Animals",
+        "Antihypertensive Agents",
+        "Aorta",
+        "Blood Pressure",
+        "Citrus",
+        "Cooking",
+        "Disease Models, Animal",
+        "Hot Temperature",
+        "Hypertension",
+        "Male",
+        "Nitric Oxide",
+        "Nitrites",
+        "Palm Oil",
+        "Phenylephrine",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rats, Sprague-Dawley",
+        "Vasoconstriction",
+        "Vasoconstrictor Agents"
+      ]
+    },
+    {
+      "pmid": "30034312",
+      "title": "Antioxidant and nephro-protective effect of Juglans regia vegetable oil against lead-induced nephrotoxicity in rats and its characterization by GC-MS.",
+      "authors": [
+        "Ahlem Soussi",
+        "Manel Gargouri",
+        "Amel Akrouti",
+        "Abdelfattah El Feki"
+      ],
+      "journal": "EXCLI journal",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lead (Pb) intoxication remains a major health hazard causing various deleterious effects especially on renal and hematologic system. The current study elucidated the potential protective effect of JRVO against nephrotoxicity induced by lead. Male rats were randomly divided into three groups: group one (control) received ad libitum distilled water and 1 mL of saline solution (0.9 %) given by intra-peritoneal (i.p) injection, group two (Pb) was kept on tap distilled water and animals were i.p, injected daily with lead every two days from day five until day ten, namely the sacrifice day, and group three (Pb+J) was administered by intra-peritoneal injection of Pb with the same dose and same way with Group two, while JRVO extract was administered daily by gavage during ten days. The exposure of lead reduced the number of red and white blood cells. Besides, plasma biomarkers (urea, uric acid, creatinine, LDH and ALP) levels were reduced. Lipid and protein per-oxidations increased and objectified by high TBARS and PCOs levels, while glutathione peroxidase, superoxide dismutase and catalase activities showed a significant decline after ten-day treatment. Conversely, the JRVO prevented kidney biomarker changes by improving hepatotoxicity induced by lead as evidenced by restoring the biochemical markers cited above to near normal levels. Kidney histoarchitecture confirmed the biochemical parameters and the beneficial role of JRVO. It can be concluded that the administration of JRVO alleviates Pb-induced toxicity, thus demonstrating its potent antioxidant efficacy."
+    },
+    {
+      "pmid": "29987464",
+      "title": "Process optimization via response surface methodology in the physico-chemical treatment of vegetable oil refinery wastewater.",
+      "authors": [
+        "Ghofrane Louhıchı",
+        "Latifa Bousselmı",
+        "Ahmed Ghrabı",
+        "Imen Khounı"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2019-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present paper investigates the efficiency of coagulation/flocculation process using aluminum sulfate as coagulant and CHT industrial flocculent as coagulant aid/flocculent in the treatment of vegetable oil refinery wastewater (VORW). The process optimization was conducted in two steps, jar test experiments for preliminary evaluation to identify the most influencing factors and response surface methodology using Box-Behnken design to investigate the effects of three major factors and their interactions. The variables involved were the coagulant concentration (X1), flocculent dosage (X2), and initial pH (X3) of water samples, while the responses were COD removal (Y1) and residual turbidity (Y2). The optimal conditions obtained by solving the quadratic regression models, as well as by analyzing the response surface contour plots, were as follows: 2.4 g/L of coagulant (aluminum sulfate), 60.05 mg/L of flocculent, and about 9.23 as initial pH. Under these conditions, the coagulation/flocculation treatment was able to achieve 99% of COD removal with total turbidity elimination (100% removal). Analysis of variance showed high variance coefficient (R2) values of 0.929 and 0.836 for COD and turbidity removals, respectively, thus ensuring a satisfactory adjustment of the second-order regression model with the experimental data. This statistical design methodology was demonstrated as an efficient and feasible approach for the optimization of coagulation/flocculation treatment.",
+      "mesh_terms": [
+        "Alum Compounds",
+        "Flocculation",
+        "Food Industry",
+        "Industrial Waste",
+        "Plant Oils",
+        "Wastewater",
+        "Water Purification"
+      ]
+    },
+    {
+      "pmid": "28942185",
+      "title": "Removal of estrogenic hormones from manure-containing water by vegetable oil capture.",
+      "authors": [
+        "Laurel K Dodgen",
+        "Kelsey N Wiles",
+        "Jennifer Deluhery",
+        "Nandakishore Rajagopalan",
+        "Nancy Holm",
+        "Wei Zheng"
+      ],
+      "journal": "Journal of hazardous materials",
+      "publication_date": "2018-Feb-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Manure-containing water (MCW) is frequently used for agricultural amendment, a practice that introduces natural and synthetic hormones to the environment. Advanced treatment processes are not practical for most animal operations, so inexpensively removing hormones from MCW by capture with vegetable oils was evaluated. Estrone (E1) and 17β-estradiol (E2) were used as model hormones due to their high biological activity and prevalence in MCW. Eight vegetable-based oils were able to remove >94% of E1 and >87% of E2 from nanopure water (NPW), and tested oils had log10Koil-water values of 1.96-2.66 for E1 and 1.51-2.47 for E2. System parameters were optimized at 3min of shaking time and 1:10 corn oil:water (v/v). Removal from real MCW and NPW was assessed at several initial concentrations of E1 and E2. While E1 removal was comparable across all initial concentrations and both water types (>93%), E2 removal exhibited concentration-dependent interaction with MCW matrix. Treatment capacity was assessed by using the same oil for multiple batches of NPW or MCW. After 18 cycles, removal dropped to 50-64% of E1 and 35-37% for E2. Treating MCW with vegetable oils may be a promising approach to inexpensively remove microcontaminants before MCW is used for land application.",
+      "mesh_terms": [
+        "Animals",
+        "Estradiol",
+        "Estrogens",
+        "Estrone",
+        "Manure",
+        "Plant Oils",
+        "Swine",
+        "Waste Disposal, Fluid",
+        "Water Pollutants, Chemical",
+        "Water Purification"
+      ]
+    },
+    {
+      "pmid": "27026232",
+      "title": "Effects of crude glycerin from waste vegetable oil supplementation on feed intake, ruminal fermentation characteristics, and nitrogen utilization of goats.",
+      "authors": [
+        "Pin Chanjula",
+        "Sahutaya Pongprayoon",
+        "Sirichai Kongpan",
+        "Anusorn Cherdthong"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2016-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This experiment was evaluation of the effects of increasing concentrations of crude glycerin from waste vegetable oil (CGWVO) in diets on feed intake, digestibility, ruminal fermentation characteristics, and nitrogen balance of goats. Four crossbred male (Thai Native × Anglo Nubian) goats, with an average initial body weight (BW) of 31.5 ± 1.90 kg, were randomly assigned according to a 4 × 4 Latin square design. The dietary treatments contained 0, 2, 4, and 6 % of dietary dry matter (DM) of CGWVO. Based on this experiment, there were significantly different (P > 0.05) among treatment groups regarding DM intake and digestion coefficients of nutrients (DM, OM, CP, EE, NDF, and ADF), which goats receiving 6 % of CGWVO had lower daily DMI and nutrient intake than those fed on 0, 2, and 4 % of CGWVO. Ruminal pH, NH3-N, and blood urea nitrogen (BUN) concentration were unchanged by dietary treatments, except that for 6 % of CGWVO supplementation, NH3-N, and BUN were lower (P < 0.05) than for the diets 0 % of CGWVO, while the differences between the diets 0, 2, and 4 % of CGWVO were not significant. The amounts of N absorption and retention were similar among treatments, except that for 6 % of CGWVO which N absorption was lower (P < 0.05) than among treatments while the difference between the diets 0, 2, and 4 % of CGWVO were not significant. Based on this study, CGWVO levels up to 4 % in total mixed ration could be efficiently utilized for goats. This study was a good approach in exploiting the use of biodiesel production from waste vegetable oil for goat production.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Diet",
+        "Dietary Supplements",
+        "Digestion",
+        "Feeding Behavior",
+        "Fermentation",
+        "Glycerol",
+        "Goats",
+        "Male",
+        "Nitrogen",
+        "Plant Oils",
+        "Rumen"
+      ]
+    },
+    {
+      "pmid": "26567193",
+      "title": "A systematic review of high-oleic vegetable oil substitutions for other fats and oils on cardiovascular disease risk factors: implications for novel high-oleic soybean oils.",
+      "authors": [
+        "Peter J Huth",
+        "Victor L Fulgoni",
+        "Brian T Larson"
+      ],
+      "journal": "Advances in nutrition (Bethesda, Md.)",
+      "publication_date": "2015-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "High-oleic acid soybean oil (H-OSBO) is a trait-enhanced vegetable oil containing >70% oleic acid. Developed as an alternative for trans-FA (TFA)-containing vegetable oils, H-OSBO is predicted to replace large amounts of soybean oil in the US diet. However, there is little evidence concerning the effects of H-OSBO on coronary heart disease (CHD)(6) risk factors and CHD risk. We examined and quantified the effects of substituting high-oleic acid (HO) oils for fats and oils rich in saturated FAs (SFAs), TFAs, or n-6 (ω-6) polyunsaturated FAs (PUFAs) on blood lipids in controlled clinical trials. Searches of online databases through June 2014 were used to select studies that defined subject characteristics; described control and intervention diets; substituted HO oils compositionally similar to H-OSBO (i.e., ≥70% oleic acid) for equivalent amounts of oils high in SFAs, TFAs, or n-6 PUFAs for ≥3 wk; and reported changes in blood lipids. Studies that replaced saturated fats or oils with HO oils showed significant reductions in total cholesterol (TC), LDL cholesterol, and apolipoprotein B (apoB) (P < 0.05; mean percentage of change: -8.0%, -10.9%, -7.9%, respectively), whereas most showed no changes in HDL cholesterol, triglycerides (TGs), the ratio of TC to HDL cholesterol (TC:HDL cholesterol), and apolipoprotein A-1 (apoA-1). Replacing TFA-containing oil sources with HO oils showed significant reductions in TC, LDL cholesterol, apoB, TGs, TC:HDL cholesterol and increased HDL cholesterol and apoA-1 (mean percentage of change: -5.7%, -9.2%, -7.3%, -11.7%, -12.1%, 5.6%, 3.7%, respectively; P < 0.05). In most studies that replaced oils high in n-6 PUFAs with equivalent amounts of HO oils, TC, LDL cholesterol, TGs, HDL cholesterol, apoA-1, and TC:HDL cholesterol did not change. These findings suggest that replacing fats and oils high in SFAs or TFAs with either H-OSBO or oils high in n-6 PUFAs would have favorable and comparable effects on plasma lipid risk factors and overall CHD risk.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Apolipoproteins B",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Dietary Fats",
+        "Dietary Fats, Unsaturated",
+        "Fatty Acids, Omega-6",
+        "Female",
+        "Humans",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Oleic Acid",
+        "Risk Factors",
+        "Soybean Oil",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "25528233",
+      "title": "Remediation of trichloroethylene-contaminated soils by star technology using vegetable oil smoldering.",
+      "authors": [
+        "Madiha Salman",
+        "Jason I Gerhard",
+        "David W Major",
+        "Paolo Pironi",
+        "Rory Hadden"
+      ],
+      "journal": "Journal of hazardous materials",
+      "publication_date": "2015-Mar-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Self-sustaining treatment for active remediation (STAR) is an innovative soil remediation approach based on smoldering combustion that has been demonstrated to effectively destroy complex hydrocarbon nonaqueous phase liquids (NAPLs) with minimal energy input. This is the first study to explore the smoldering remediation of sand contaminated by a volatile NAPL (trichloroethylene, TCE) and the first to consider utilizing vegetable oil as supplemental fuel for STAR. Thirty laboratory-scale experiments were conducted to evaluate the relationship between key outcomes (TCE destruction, rate of remediation) to initial conditions (vegetable oil type, oil: TCE mass ratio, neat versus emulsified oils). Several vegetable oils and emulsified vegetable oil formulations were shown to support remediation of TCE via self-sustaining smoldering. A minimum concentration of 14,000 mg/kg canola oil was found to treat sand exhibiting up to 80,000 mg/kg TCE. On average, 75% of the TCE mass was removed due to volatilization. This proof-of-concept study suggests that injection and smoldering of vegetable oil may provide a new alternative for driving volatile contaminants to traditional vapour extraction systems without supplying substantial external energy.",
+      "mesh_terms": [
+        "Environmental Restoration and Remediation",
+        "Hot Temperature",
+        "Plant Oils",
+        "Soil Pollutants",
+        "Trichloroethylene",
+        "Volatilization"
+      ]
+    },
+    {
+      "pmid": "25417608",
+      "title": "Comparison of efficacies of vegetable oil based and polyethylene glycol based bisacodyl suppositories in treating patients with neurogenic bowel dysfunction after spinal cord injury: a meta-analysis.",
+      "authors": [
+        "Zhu Yi",
+        "Cheng Jie",
+        "Zhang Wenyi",
+        "Xie Bin",
+        "Jin Hongzhu"
+      ],
+      "journal": "The Turkish journal of gastroenterology : the official journal of Turkish Society of Gastroenterology",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "BACKGROUND/AIMS: We performed a meta-analysis to compare the efficacies of vegetable oil based bisacodyl (VOB) and polyethylene glycol based bisacodyl (PGB) suppositories in treating patients with neurogenic bowel dysfunction (NBD) after spinal cord injury (SCI). MATERIALS AND METHODS: Relevant clinical studies (up to February 2014) were retrieved through the following databases: PubMed, MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CCTR), Chinese National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature Database (CBM), Wanfang, and VIP database for Chinese Technical Periodicals. Data were analyzed using the standardized weighted mean difference (SMD) and its 95% confidence interval (CI). P-values <0.05 were considered statistically significant. RESULTS: A total of 3 studies were included in the meta-analysis. The SMD and its 95% CI were not calculated owing to unreported standard deviations in the individual studies. The average and p-values of statistical difference indicated that the total bowel care time (p<0.05), time to flatus (p<0.05), and defecation period (p<0.05) were shorter in patients treated with PGB than in patients treated with VOB. No significant difference was observed in time to clean up (p>0.05) between patients in the PGB and VOB groups. CONCLUSION: Based on the results, we conclude that the PGB suppository could act faster than the VOB suppository in the treatment of NBD in patients with SCI.",
+      "mesh_terms": [
+        "Bisacodyl",
+        "Cathartics",
+        "Defecation",
+        "Humans",
+        "Hygiene",
+        "Neurogenic Bowel",
+        "Pharmaceutical Vehicles",
+        "Plant Oils",
+        "Polyethylene Glycols",
+        "Solvents",
+        "Spinal Cord Injuries",
+        "Suppositories",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "24762782",
+      "title": "Estimating the impact of vitamin A-fortified vegetable oil in Bangladesh in the absence of dietary assessment data.",
+      "authors": [
+        "John L Fiedler",
+        "Keith Lividini",
+        "Odilia I Bermudez"
+      ],
+      "journal": "Public health nutrition",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "OBJECTIVE: Vitamin A deficiency is a serious health problem in Bangladesh. The 2011-12 Bangladesh Micronutrient Survey found 76·8% of children of pre-school age were vitamin A deficient. In the absence of nationally representative, individual dietary assessment data, we use an alternative--household income and expenditure survey data--to estimate the potential impact of the introduction of vitamin A-fortified vegetable oil in Bangladesh. DESIGN: Items in the household income and expenditure survey were matched to food composition tables to estimate households' usual vitamin A intakes. Then, assuming (i) the intra-household distribution of food is in direct proportion to household members' share of the household's total adult male consumption equivalents, (ii) all vegetable oil that is made from other-than mustard seed and that is purchased is fortifiable and (iii) oil fortification standards are implemented, we modelled the additional vitamin A intake due to the new fortification initiative. SETTING: Nationwide in Bangladesh. SUBJECTS: A weighted sample of 12,240 households comprised of 55,580 individuals. RESULTS: Ninety-nine per cent of the Bangladesh population consumes vegetable oil. The quantities consumed are sufficiently large and, varying little by socio-economic status, are able to provide an important, large-scale impact. At full implementation, vegetable oil fortification will reduce the number of persons with inadequate vitamin A intake from 115 million to 86 million and decrease the prevalence of inadequate vitamin A intake from 80% to 60%. CONCLUSIONS: Vegetable oil is an ideal fortification vehicle in Bangladesh. Its fortification with vitamin A is an important public health intervention.",
+      "mesh_terms": [
+        "Adult",
+        "Bangladesh",
+        "Computer Simulation",
+        "Databases, Factual",
+        "Diet",
+        "Diet Surveys",
+        "Dietary Fats, Unsaturated",
+        "Family Characteristics",
+        "Feasibility Studies",
+        "Female",
+        "Food, Fortified",
+        "Health Impact Assessment",
+        "Humans",
+        "Male",
+        "Models, Biological",
+        "Nutrition Policy",
+        "Plant Oils",
+        "Prevalence",
+        "Vitamin A",
+        "Vitamin A Deficiency"
+      ]
+    },
+    {
+      "pmid": "24204075",
+      "title": "Five-year trend in hydrogenated vegetable oil consumption among northern Iranian families.",
+      "authors": [
+        "Gholamreza Veghari",
+        "Mehdi Sedaghat",
+        "Siavash Maghsodlo",
+        "Samieh Banihashem",
+        "Pooneh Moharloei",
+        "Abdolhamid Angizeh",
+        "Ebrahim Tazik",
+        "Abbas Moghaddami"
+      ],
+      "journal": "Journal of the American Board of Family Medicine : JABFM",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: The main aim of this study was to assess the trends in hydrogenated vegetable oil (HVO) consumption and some related factors among northern Iranian families from 2006 to 2010. METHODS: A cross-sectional, population-based study was conducted with 6497 subjects, 15 to 65 years old, who were chosen by multistage cluster random sampling. The subjects were randomly chosen by 325 clusters with an equal size (n = 20 subjects). A multidimensional questionnaire including sociodemographic questions and type of cooking oil used were administered by interviewers. RESULTS: The percentages of the sample reporting HVO consumption across the 5 years are as follows: 2006, 85.2%; 2007, 79.7%; 2008, 75.9%; 2009, 59.3%; and 2010, 55.7%. Consumption decreased 29.5% during the 5 years of study and an average of 5.9% per year (P < .05). The estimated odds ratio of HVO consumption in rural areas verus urban areas was 2.59 (95% confidence interval [CI], 2.31-2.90); for poor compared with good economic level the odds ratio was 3.99 (95% CI, 3.13-5.10 for; for the uneducated versus college-educated sample it was 5.75 (95% CI, 4.10-8.17); and the odds ratio was 3.34(95% CI, 2.51-4.45) for Sisstani compared with Fars-native ethnic group. CONCLUSION: HVO consumption decreased during the 5-year study (2006 to 2010), but HVO is still used extensively in northern Iran. Preventive early intervention strategies are needed to target uneducated and poor families, with an emphasis on the Sisstanish ethnic group, to increase awareness about the negative consequences of HVO consumption.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Cardiovascular Diseases",
+        "Confidence Intervals",
+        "Cross-Sectional Studies",
+        "Ethnicity",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Hydrogenation",
+        "Iran",
+        "Male",
+        "Middle Aged",
+        "Nutrition Surveys",
+        "Odds Ratio",
+        "Plant Oils",
+        "Retrospective Studies",
+        "Surveys and Questionnaires",
+        "Time Factors",
+        "Vegetables",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "24049998",
+      "title": "Vitamin A--fortified vegetable oil exported from Malaysia and Indonesia can significantly contribute to vitamin A intake worldwide.",
+      "authors": [
+        "Arnaud Laillou",
+        "Dora Panagides",
+        "Greg S Garrett",
+        "Regina Moench-Pfanner"
+      ],
+      "journal": "Food and nutrition bulletin",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Vitamin A deficiency is a public health problem worldwide, affecting approximately 190 million preschool-aged children and 19.1 million pregnant women. Fortification of vegetable oils with vitamin A is an effective, low-cost technology to improve vitamin A intake. OBJECTIVE: To examine the potential contribution of fortification of vegetable oils with vitamin A in Indonesia and Malaysia to increasing vitamin A consumption in these two countries and in countries to which oil is exported. METHODS: Detailed interviews were administered and a desk review was conducted. We also estimated potential vitamin A intakes from fortified vegetable oil. RESULTS: Malaysia and Indonesia are two of the largest producers and exporters of vegetable oil. Fortification of vegetable oil in both countries has the potential to be used as a tool for control of vitamin A deficiency. Both countries have the capacity to export fortified vegetable oil. Vegetable oil fortified at a level of 45 IU/g could provide 18.8% of the Estimated Average Requirement (EAR) for an Ethiopian woman, 30.9% and 46.9% of the EAR for a Bangladeshi child and woman, respectively, and 17.5% of the EAR for a Cambodian woman. Although concerns about obesity are valid, fortification of existing vegetable oil supplies does not promote overconsumption of oil but rather promotes consumption of vegetable oil of higher nutrient quality. CONCLUSIONS: Fortifying vegetable oil on a large scale in Malaysia and Indonesia can reach millions of people globally, including children less than 5 years old. The levels of fortification used are far from reaching the Tolerable Upper Intake Level (UL). Vegetable oil fortification has the potential to become a global public health intervention strategy.",
+      "mesh_terms": [
+        "Child, Preschool",
+        "Commerce",
+        "Female",
+        "Food Industry",
+        "Food, Fortified",
+        "Humans",
+        "Indonesia",
+        "Infant",
+        "Malaysia",
+        "Nutritional Requirements",
+        "Plant Oils",
+        "Pregnancy",
+        "Vitamin A",
+        "Vitamin A Deficiency"
+      ]
+    },
+    {
+      "pmid": "23438796",
+      "title": "U(VI) bioreduction with emulsified vegetable oil as the electron donor--model application to a field test.",
+      "authors": [
+        "Guoping Tang",
+        "David B Watson",
+        "Wei-Min Wu",
+        "Christopher W Schadt",
+        "Jack C Parker",
+        "Scott C Brooks"
+      ],
+      "journal": "Environmental science & technology",
+      "publication_date": "2013-Apr-02",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "We amended a shallow fast-flowing uranium (U) contaminated aquifer with emulsified vegetable oil (EVO) and subsequently monitored the biogeochemical responses for over a year. Using a biogeochemical model developed in a companion article (Tang et al., Environ. Sci. Technol.2013, doi: 10.1021/es304641b) based on microcosm tests, we simulated geochemical and microbial dynamics in the field test during and after the 2-h EVO injection. When the lab-determined parameters were applied in the field-scale simulation, the estimated rate coefficient for EVO hydrolysis in the field was about 1 order of magnitude greater than that in the microcosms. Model results suggested that precipitation of long-chain fatty acids, produced from EVO hydrolysis, with Ca in the aquifer created a secondary long-term electron donor source. The model predicted substantial accumulation of denitrifying and sulfate-reducing bacteria, and U(IV) precipitates. The accumulation was greatest near the injection wells and along the lateral boundaries of the treatment zone where electron donors mixed with electron acceptors in the groundwater. While electron acceptors such as sulfate were generally considered to compete with U(VI) for electrons, this work highlighted their role in providing electron acceptors for microorganisms to degrade complex substrates thereby enhancing U(VI) reduction and immobilization.",
+      "mesh_terms": [
+        "Acetates",
+        "Bacteria",
+        "Biodegradation, Environmental",
+        "Biomass",
+        "Electrons",
+        "Emulsions",
+        "Fatty Acids",
+        "Fermentation",
+        "Glycerol",
+        "Hydrolysis",
+        "Iron",
+        "Methane",
+        "Models, Biological",
+        "Nitrates",
+        "Oxidation-Reduction",
+        "Plant Oils",
+        "Sulfates",
+        "Uranium"
+      ]
+    },
+    {
+      "pmid": "22725649",
+      "title": "Rapid quantitative method for total brominated vegetable oil in soft drinks using ion chromatography.",
+      "authors": [
+        "Ashraf A Yousef",
+        "Alaa B Abbas",
+        "Bassam Sh Badawi",
+        "Wafaa Y Al-Jowhar",
+        "Esam A Zain",
+        "Seham A El-Mufti"
+      ],
+      "journal": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "abstract": "A simple, quantitative and rapid method for total brominated vegetable oil (BVO) using ion chromatography (IC) with suppressed conductivity detection was developed and successfully applied to soft drinks with results expressed as inorganic bromide anion. The procedure involves extraction of BVO with diethyl ether and treatment with zinc dust in a solution of acetic acid, giving recoveries ranging between 92.5 and 98.5%. The calibration curves obtained were linear with correlation coefficients (r²) of 0.998, a coefficient of variation (CV) of less than 5% and limit of detection (LOD) and limit of quantification (LOQ) of 250 and 750 µg l⁻¹, respectively. The method was successfully applied to the determination of BVO in several commercial soft drinks which were found to contain BVO in the range 1.8-14.510 mg l⁻¹. The method has less sources of error compared to previously published methods.",
+      "mesh_terms": [
+        "Beverages",
+        "Carbonated Beverages",
+        "Chromatography, High Pressure Liquid",
+        "Chromatography, Ion Exchange",
+        "Emulsifying Agents",
+        "European Union",
+        "Food Additives",
+        "Food Contamination",
+        "Food Inspection",
+        "Food, Preserved",
+        "Fruit",
+        "Halogenation",
+        "Kuwait",
+        "Limit of Detection",
+        "Plant Oils",
+        "Reproducibility of Results",
+        "Sesame Oil"
+      ]
+    },
+    {
+      "pmid": "22113061",
+      "title": "Ultrasonic cavitation induced water in vegetable oil emulsion droplets--a simple and easy technique to synthesize manganese zinc ferrite nanocrystals with improved magnetization.",
+      "authors": [
+        "Manickam Sivakumar",
+        "Atsuya Towata",
+        "Kyuichi Yasui",
+        "Toru Tuziuti",
+        "Teruyuki Kozuka",
+        "Yasuo Iida",
+        "Michail M Maiorov",
+        "Elmars Blums",
+        "Dipten Bhattacharya",
+        "Neelagesi Sivakumar",
+        "M Ashok"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2012-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In the present investigation, synthesis of manganese zinc ferrite (Mn(0.5)Zn(0.5)Fe(2)O(4)) nanoparticles with narrow size distribution have been prepared using ultrasound assisted emulsion (consisting of rapeseed oil as an oil phase and aqueous solution of Mn(2+), Zn(2+) and Fe(2+) acetates) and evaporation processes. The as-prepared ferrite was nanocrystalline. In order to remove the small amount of oil present on the surface of the ferrite, it was subjected to heat treatment at 300 °C for 3h. Both the as-prepared and heat treated ferrites have been characterized by X-ray diffraction (XRD), infrared spectroscopy (IR), TGA/DTA, transmission electron microscopy (TEM) and energy dispersion X-ray spectroscopy (EDS) techniques. As-prepared ferrite is of 20 nm, whereas the heat treated ferrite shows the size of 33 nm. In addition, magnetic properties of the as-prepared as well as the heat treated ferrites have also been carried out and the results of which show that the spontaneous magnetization (σ(s)) of the heat treated sample (24.1 emu/g) is significantly higher than that of the as-synthesized sample (1.81 emu/g). The key features of this method are avoiding (a) the cumbersome conditions that exist in the conventional methods; (b) usage of necessary additive components (stabilizers or surfactants, precipitants) and (c) calcination requirements. In addition, rapeseed oil as an oil phase has been used for the first time, replacing the toxic and troublesome organic nonpolar solvents. As a whole, this simple straightforward sonochemical approach results in more phase pure system with improved magnetization.",
+      "mesh_terms": [
+        "Crystallization",
+        "Emulsions",
+        "Ferric Compounds",
+        "High-Energy Shock Waves",
+        "Magnetics",
+        "Manganese Compounds",
+        "Nanostructures",
+        "Plant Oils",
+        "Radiation Dosage",
+        "Sonication",
+        "Water",
+        "Zinc"
+      ]
+    },
+    {
+      "pmid": "21468715",
+      "title": "Impacts of cell surface characteristics on population dynamics in a sequencing batch yeast reactor treating vegetable oil-containing wastewater.",
+      "authors": [
+        "Wenzhou Lv",
+        "Abd El-Latif Hesham",
+        "Yu Zhang",
+        "Xinchun Liu",
+        "Min Yang"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Ten yeast strains acquired from different sources and capable of utilizing vegetable oil or related compounds (fatty acid or oleic acid) as sole carbon sources were inoculated into a sequencing batch reactor (SBR) for the treatment of high-strength vegetable oil-containing wastewater. The SBR system stably removed >89% of chemical oxygen demand (COD) and >99% of oil when fed with wastewater containing 15 g/L COD and 10 g/L oil in average. Denaturing gradient gel electrophoresis of polymerase chain reaction-amplified 26S rRNA genes showed that among the ten yeast strains, only Candida lipolytica, Candida tropicalis, and Candida halophila were dominant in the system. To elucidate the major factors affecting the selection of yeast strains in the SBR system, the three dominant strains were compared with two non-dominant strains in terms of COD removal performance, biomass yield, cell settleability, cell flocculation ability, cell emulsification ability, and surface hydrophobicity. Results showed that hydrophobicity and emulsification ability of yeast cells were the two most important factors determining the selection of yeast strains in the treatment of high-strength oil-containing wastewater.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Bioreactors",
+        "Hydrophobic and Hydrophilic Interactions",
+        "Molecular Sequence Data",
+        "Phylogeny",
+        "Plant Oils",
+        "Sewage",
+        "Surface Properties",
+        "Waste Disposal, Fluid",
+        "Yeasts"
+      ]
+    },
+    {
+      "pmid": "21447117",
+      "title": "Review and meta-analysis of the short-term effects of a vegetable oil emulsion on food intake.",
+      "authors": [
+        "K M Appleton",
+        "H J Smit",
+        "P J Rogers"
+      ],
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "publication_date": "2011-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Several short-term studies have investigated the effects of a vegetable oil emulsion on subsequent food intake, although findings have been inconsistent. This work aimed to review all studies, and investigate differences in study outcomes based on methodology. All known studies were identified. Data were abstracted from published studies (n = 7). Details of unpublished studies were gained from investigators/sponsors (n = 5), or were unavailable for reasons of confidentiality (n = 4). Available data were combined using meta-analyses. A combined appetite suppressant effect of the emulsion compared with control was found for test meal intake at approximately 4, 12 and 36 h post-treatment: smallest combined mean difference (random effects model) = 0.53 MJ (95% confidence interval 0.20, 0.86), P < 0.01. However, considerable heterogeneity (variability) between study results was also found (smallest I(2) = 94%, P < 0.01), questioning the predictive validity of the above findings. Meta-regression suggested this heterogeneity to be related to differences in the processed nature of the product, treatment dose and in particular year of study (smallest B = 0.54, 95% confidence interval 0.06, 1.03, P = 0.04), although again heterogeneity was found. The only consistent finding was a lack of effect on food intake 4 h post-preload in studies conducted after 2003. These results suggest a small but inconsistent appetite suppressant effect of the vegetable oil emulsion. However, due to the large heterogeneity, no definitive conclusions can be drawn.",
+      "mesh_terms": [
+        "Appetite",
+        "Appetite Depressants",
+        "Eating",
+        "Emulsions",
+        "Energy Intake",
+        "Humans",
+        "Plant Oils",
+        "Regression Analysis"
+      ]
+    },
+    {
+      "pmid": "20820791",
+      "title": "Effect of a vegetable-oil emulsion on body composition; a 12-week study in overweight women on a meal replacement therapy after an initial weight loss: a randomized controlled trial.",
+      "authors": [
+        "Johan Olsson",
+        "Birgitta Sundberg",
+        "Annika Viberg",
+        "Arvo Haenni"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: The maintenance of an obtained lower weight level is often found to be difficult. The aim of this study was to determine weight maintenance after an initial weight loss by consumption of a meal replacement with a vegetable-oil emulsion associated with prolonged satiety. METHODS: After a 6-week weight loss period with very low calorie diet (VLCD), subjects with >5% body weight (BW) loss were randomized to a 12-week weight maintenance follow-up period, comparing a partial meal replacement diet containing a vegetable-oil emulsion (test) or dairy fat (control). Anthropometric data and safety variables were collected at baseline and after 4, 8 and 12 weeks. RESULTS: A significant weight loss was observed during the 12-week weight maintenance diet in the test and control group, respectively; 1.0 ± 2.1 kg (p < 0.05) versus 1.3 ± 2.1 kg (p < 0.05) with no significant difference between the groups. Body fat mass (BFM) decreased significantly (p < 0.05) in the test group (--1.7%) compared to the control group (--0.8%). CONCLUSIONS: Addition of a vegetable-oil emulsion to a meal replacement weight maintenance program after an initial weight loss using VLCD was associated with decreased BFM by 0.9% without any change in BW between the two groups.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Body Composition",
+        "Body Mass Index",
+        "Body Weight",
+        "Diet, Reducing",
+        "Double-Blind Method",
+        "Emulsions",
+        "Energy Metabolism",
+        "Female",
+        "Food, Formulated",
+        "Humans",
+        "Middle Aged",
+        "Overweight",
+        "Patient Compliance",
+        "Plant Oils",
+        "Satiety Response",
+        "Time Factors",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "20685468",
+      "title": "Determination of esters in glycerol phase after transesterification of vegetable oil.",
+      "authors": [
+        "Martin Hájek",
+        "Frantisek Skopal",
+        "Jirí Kwiecien",
+        "Michal Cernoch"
+      ],
+      "journal": "Talanta",
+      "publication_date": "2010-Jun-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In biodiesel production, glycerol is formed as a side product and it is contained in the glycerol phase. This phase contains (besides glycerol): water, soaps, alcohol, traces of catalyst and glycerides and the remaining esters. In this paper, a new method for the determination of esters in the glycerol phase is introduced. The determination enables the minimization of the losses of biodiesel within the production process. It is based on the gradient RP-LC method (water and acetonitrile) with refractometric detection. The analysis is easy and the samples do not need any treatment (only dilution by water) and has a low detection limit. The results of this method were compared with the results of two other published methods: isocratic HPLC and GC. The disadvantage of these two methods is that they need extensive treatment of the sample, which takes many hours, and they are able to determine only the sum of esters. The new method is reliable, much faster and able to differentiate esters of almost each higher fatty acid (e.g. linoleic, linolenic, strearic alkyl ester) in the glycerol phase.",
+      "mesh_terms": [
+        "Chromatography, Gas",
+        "Chromatography, High Pressure Liquid",
+        "Esterification",
+        "Esters",
+        "Glycerol",
+        "Plant Oils"
+      ]
+    },
+    {
+      "pmid": "20573259",
+      "title": "Association of elevated blood pressure and impaired vasorelaxation in experimental Sprague-Dawley rats fed with heated vegetable oil.",
+      "authors": [
+        "Xin-Fang Leong",
+        "Mohd Rais Mustafa",
+        "Srijit Das",
+        "Kamsiah Jaarin"
+      ],
+      "journal": "Lipids in health and disease",
+      "publication_date": "2010-Jun-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Poor control of blood pressure leads to hypertension which is a major risk factor for development of cardiovascular disease. The present study aimed to explore possible mechanisms of elevation in blood pressure following consumption of heated vegetable oil. METHODS: Forty-two male Sprague-Dawley rats were equally divided into six groups: Group I (control)--normal rat chow, Group II--fresh soy oil, Group III--soy oil heated once, Group IV--soy oil heated twice, Group V--soy oil heated five times, Group VI--soy oil heated ten times. Blood pressure was measured at the baseline level and at a monthly interval for six months. Plasma nitric oxide, heme oxygenase and angiotensin-converting enzyme levels were measured prior to treatment, at month-three and month-six later. At the end of treatment, the rats were sacrificed and thoracic aortas were taken for measurement of vascular reactivity. RESULTS: Blood pressure increased significantly (p<0.01) in the repeatedly heated oil groups compared to the control and fresh soy oil groups. Consumption of diet containing repeatedly heated oil resulted higher plasma angiotensin-converting enzyme level and lower nitric oxide content and heme oxygenase concentration. Reheated soy oil groups exhibited attenuated relaxation in response to acetylcholine or sodium nitroprusside, and greater contraction to phenylephrine. CONCLUSION: As a result of consumption of repeatedly heated soy oil, an elevation in blood pressure was observed which may be due to the quantitative changes in endothelium dependent and independent factors including enzymes directly involved in the regulation of blood pressure.",
+      "mesh_terms": [
+        "Animals",
+        "Aorta, Thoracic",
+        "Blood Pressure",
+        "Cardiovascular Diseases",
+        "Diet",
+        "Dose-Response Relationship, Drug",
+        "Food Handling",
+        "Heme Oxygenase (Decyclizing)",
+        "Hot Temperature",
+        "Hypertension",
+        "In Vitro Techniques",
+        "Lipid Peroxides",
+        "Male",
+        "Nitric Oxide",
+        "Oxidants",
+        "Peptidyl-Dipeptidase A",
+        "Random Allocation",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Soybean Oil",
+        "Time Factors",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "20524063",
+      "title": "Effects of urea treatment of straw and dietary level of vegetable oil on lactating dairy cows.",
+      "authors": [
+        "Chaowarit Mapato",
+        "Metha Wanapat",
+        "Anusorn Cherdthong"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2010-Dec",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Four crossbreds (75% Holstein Friesian) lactating dairy cows were used to evaluate the effects of sunflower oil (SFO) levels and roughage source on feed intake, nutrient digestibility, ruminal fermentation, milk yield, and milk composition. Four milking cows with average liveweight of 410 ± 25 kg and 18 ± 11 days in milk were randomly assigned according to a 4 × 4 Latin square design, in a 2 × 2 factorial arrangement, with SFO levels (3% or 6%) in the concentrate and the roughage source [rice straw (RS) or urea-treated RS (UTRS)] being the main factors. Four dietary treatments as (1) 3% SFO + RS, (2) 6% SFO + RS, (3) 3% SFO + UTRS, and (4) 6% SFO + UTRS were offered ad libitum total mixed ration, with a concentrate/roughage ratio of 60:40. The results were found that UTRS as a roughage source significantly increased feed intake, digestibility, concentration of acetic acid in rumen fluid, rumen ammonia-nitrogen, blood-urea nitrogen, milk urea-nitrogen, and milk yield (3.5% fat-corrected milk) compared with cows fed on untreated RS. Supplementation of SFO at 3% in the concentrate-supplemented group having increased dry matter intake, milk fat percentage, and milk yield (3.5% fat-corrected milk) compared with 6% SFO supplementation. However, there were no interaction effects between level of SFO in the concentrate and roughage source in any of the factors studied.",
+      "mesh_terms": [
+        "Acetic Acid",
+        "Ammonia",
+        "Analysis of Variance",
+        "Animal Feed",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Blood Urea Nitrogen",
+        "Cattle",
+        "Diet",
+        "Eating",
+        "Female",
+        "Lactation",
+        "Milk",
+        "Plant Oils",
+        "Plant Stems",
+        "Rumen",
+        "Sunflower Oil",
+        "Urea"
+      ]
+    },
+    {
+      "pmid": "19106329",
+      "title": "Individual trans octadecenoic acids and partially hydrogenated vegetable oil differentially affect hepatic lipid and lipoprotein metabolism in golden Syrian hamsters.",
+      "authors": [
+        "Cynthia Tyburczy",
+        "Catherine Major",
+        "Adam L Lock",
+        "Frederic Destaillats",
+        "Peter Lawrence",
+        "J Thomas Brenna",
+        "Andrew M Salter",
+        "Dale E Bauman"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2009-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Trans fatty acids (TFA) from industrial sources [i.e. partially hydrogenated vegetable oil (PHVO)] have been associated with several chronic human diseases, especially coronary heart disease (CHD). The possible contribution of individual TFA to overall CHD risk remains largely unknown. The objective of the present study was to investigate the effects of 2 major trans 18:1 isomers, trans-9 18:1 [elaidic acid (EA)] and trans-11 18:1 [vaccenic acid (VA)] on plasma lipid biomarkers of CHD risk. Thirty-two male Golden Syrian hamsters were randomly assigned to 1 of 4 dietary treatments: 1) control \"Western\" diet; 2) PHVO supplement; 3) EA supplement; and 4) VA supplement. Fat supplements were incorporated into the respective treatment diets at 2.5 g/100 g of diet. Compared with the control diet, the PHVO diet increased the plasma ratios of total:HDL-cholesterol and nonHDL:HDL-cholesterol by 17 and 23%, respectively. In contrast, these values decreased by 27 and 46% after the EA treatment and 8 and 14% after the VA treatment, respectively, indicating an improvement (reduction) in CHD risk. With regard to liver lipids, the EA diet reduced the content of (n-3) and (n-6) PUFA relative to the other treatments, suggesting an inhibition of enzymes common to the 2 biosynthesis pathways. Overall, results demonstrate that the hypercholesterolemic effects of PHVO are not dependent on the presence of EA or VA and that other bioactive components in PHVO must be responsible for its associated adverse health effects.",
+      "mesh_terms": [
+        "Animals",
+        "Chromatography, Gas",
+        "Cricetinae",
+        "Fatty Acids",
+        "Lipid Metabolism",
+        "Lipoproteins",
+        "Liver",
+        "Male",
+        "Mass Spectrometry",
+        "Mesocricetus",
+        "Plant Oils",
+        "Stearic Acids"
+      ]
+    },
+    {
+      "pmid": "18592993",
+      "title": "[Vegetable oil-induced acute respiratory distress syndrome (ARDS) in near drowning: evaluation based on extravascular lung water index].",
+      "authors": [
+        "Takeshi Yoshida",
+        "Hiroshi Rinka",
+        "Arito Kaji"
+      ],
+      "journal": "Nihon Kokyuki Gakkai zasshi = the journal of the Japanese Respiratory Society",
+      "publication_date": "2008-Jun",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Lipoid pneumonia usually presents after chronic recurrent ingestion of oily substances or accidental aspiration during \"fire-eating\" demonstrations. Massive exposure by near drowning extremely rare and potentially fatal. We present here a case of survival after total immersion in oil in her workplace. A 66-year-old woman who nearly drowned in a vat of vegetable oil was admitted as an emergency case with severe hypoxia after rescue. Chest computed tomography (CT) findings showed bilateral ground-glass opacity, consolidation, and the case fulfilled the criteria for acute respiratory distress syndrome (ARDS). Bronchoscopy and bronchoalveolar lavage performed on admission indicated oil droplets and marked neutrophilia (67%), which made us diagnose ARDS induced by lipoid pneumonia. We commenced treatment with pulsed steroids and strictly managed fluid balance under mechanical ventilation. Despite immediate improvement in oxygenation, the value of extravascular lung water index (EVLWI) measured by the PiCCO system consistently remained over 30 ml/Kg through her clinical course. We concluded that lipoid pneumonia is characterized by prolonged elevatation of pulmonary vascular permeability.",
+      "mesh_terms": [
+        "Aged",
+        "Capillary Permeability",
+        "Extravascular Lung Water",
+        "Female",
+        "Fluid Therapy",
+        "Humans",
+        "Lung",
+        "Near Drowning",
+        "Plant Oils",
+        "Pneumonia, Lipid",
+        "Respiration, Artificial",
+        "Respiratory Distress Syndrome",
+        "Tomography, X-Ray Computed",
+        "Viral Proteins"
+      ]
+    },
+    {
+      "pmid": "18490157",
+      "title": "Aerobic biodegradation of sludge from the effluent of a vegetable oil processing plant mixed with household waste: physical-chemical, microbiological, and spectroscopic analysis.",
+      "authors": [
+        "Rajae Abouelwafa",
+        "Ghita Ait Baddi",
+        "Salah Souabi",
+        "Peter Winterton",
+        "Juan Cegarra",
+        "Mohamed Hafidi"
+      ],
+      "journal": "Bioresource technology",
+      "publication_date": "2008-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sludge from a sewage treatment plant dealing with the effluent produced during the processing of crude vegetable oil (Lesieur-Cristal, Morocco) was composted in two mixtures (M1 and M2) with household waste obtained from landfill. The different physico-chemical characteristics of the final composts after 5 months of composting were, for M1 and M2, respectively: pH: 8.5 and 7.08; C/N: 10 and 16; proportion of decomposition: 78% and 55%, NH(4)(+)/NO(3)(-): 0.78 and 1.02. Monitoring the levels of lipid and total polyphenols showed a reduction of 81% and 72% for lipids and of 75% and 76% for polyphenols in M1 and M2, respectively. These reductions were paralleled by a rise in the humic acid content to reach 22 and 36mg/g, respectively. Overall, these results were confirmed by the FTIR spectroscopy study of the two mixtures. For M1, the FTIR spectra taken at different stages showed that during composting, biodegradation of the aliphatic compounds occurred as the proportion of aromatic structures increased. The transformations observed qualitatively were then confirmed quantitatively by the changes occurring in the various absorption ratios during composting. Mixture M2, however, presented strong absorbance of aliphatic compounds. These results were statistically confirmed by correlation tests and principal components analysis, which confirmed the maturity of the two composts, M1 having matured more than M2.",
+      "mesh_terms": [
+        "Aerobiosis",
+        "Bacteria",
+        "Biodegradation, Environmental",
+        "Humic Substances",
+        "Industrial Waste",
+        "Plant Oils",
+        "Principal Component Analysis",
+        "Sewage",
+        "Soil",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Temperature",
+        "Time Factors",
+        "Waste Products"
+      ]
+    },
+    {
+      "pmid": "18230415",
+      "title": "The fulvic acid fraction as it changes in the mature phase of vegetable oil-mill sludge and domestic waste composting.",
+      "authors": [
+        "Rajae Abouelwafa",
+        "Soumia Amir",
+        "Salah Souabi",
+        "Peter Winterton",
+        "Victor Ndira",
+        "Jean-Claude Revel",
+        "Mohamed Hafidi"
+      ],
+      "journal": "Bioresource technology",
+      "publication_date": "2008-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sludge resulting from the treatment of effluent from a vegetable oil mill, was composted mixed with domestic waste in a pile for five months. Different proportions of sludge and dry waste were mixed: M1 (1v/2v) and M2 (1v/1v). Monitoring different physical-chemical parameters showed the effect of the substrate on the microbiological activity and on the formation of fulvic acids, affecting the maturity of the final compost. Elemental analysis revealed that the fulvic acids of mixes M1 and M2 presented very low concentrations of carbon, hydrogen, and oxygen and a high level of nitrogen. The FTIR spectroscopy results showed a decrease during composting of the intensity of absorbance of the easily assimilable compounds that are predominant in the initial mixtures i.e. the carbohydrates (1170-1080 cm(-1)) in M1 and long aliphatic chains (2920 cm(-1)) in M2. For mix M1 there was enrichment in compounds bearing oxygen-containing moieties. In M2 it was the nitrogen-containing compounds (in the form of stable amides) which predominated at the end of composting. The first component of PCA analysis, PC1, accounted for 83% of the difference between two distinct groups of parameters governing degradation and restructuration of the fulvic acids during composting. PC2 (17%) explained the variance due to the level of free or less polycondensed compounds in the two mixtures. Oxidised polyphenolic and polysaccharide structures were the least free, or most polycondensed, in the fulvic structures of M1. In M2 fulvic acids however, it was the polyphenols and peptide structures that were involved in the bonding, most likely of the polyphenol-peptide type.",
+      "mesh_terms": [
+        "Benzopyrans",
+        "Industrial Waste",
+        "Plant Oils",
+        "Sewage",
+        "Soil",
+        "Spectroscopy, Fourier Transform Infrared"
+      ]
+    },
+    {
+      "pmid": "16517957",
+      "title": "Phospholipid fatty acid composition and diamine oxidase activity of intestinal mucosa from rats treated with irinotecan hydrochloride (CPT-11) under vegetable oil-enriched diets: comparison between perilla oil and corn oil.",
+      "authors": [
+        "Makoto Usami",
+        "Atsushi Ohata",
+        "Kazunori Kishimoto",
+        "Keiko Ohmae",
+        "Michiko Aoyama",
+        "Makoto Miyoshi",
+        "Yuri Fueda"
+      ],
+      "journal": "JPEN. Journal of parenteral and enteral nutrition",
+      "publication_date": "2006",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Irinotecan hydrochloride (CPT-11), a topoisomerase I inhibitor highly effective for various cancers, has its dosage limited by diffuse mucosal damage with increased prostaglandin (PG) E(2). However, an analysis of intestinal phospholipid fatty acid composition after CPT-11 treatment has not been reported. This study aimed to evaluate intestinal phospholipid fatty acid composition in relation to intestinal mucosal integrity and plasma and mucosal PGE(2) levels after CPT-11 treatment. The effect of dietary vegetable oil supplementation, perilla oil vs corn oil, was also evaluated. METHODS: Intestinal phospholipid fatty acid composition, PGE(2) level, mucosal diamine oxidase (DAO) activity, diarrhea, and blood tests were evaluated in rats injected with CPT-11 under a conventional diet. The same parameters were compared among 3 different dietary vegetable oil supplementations: perilla oil, corn oil, and a 1:3, respectively, mixture with a semisynthetic diet during 14 days. RESULTS: CPT-11 treatment caused severe diarrhea, and intestinal mucosal fatty acid composition changed with increased PGE(2) level and decreased DAO activity. Decreases in eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA), and EPA/arachidonic acid (AA) ratio in colonic mucosa were observed. Perilla oil increased omega-3 polyunsaturated fatty acids, alpha-linolenic acid, EPA, and EPA/AA ratio and decreased plasma PGE(2). But the amounts used were not enough to attenuate intestinal damage from CPT-11 treatment. CONCLUSIONS: CPT-11 induced changes of intestinal mucosal fatty acid composition with increased PGE(2) level and decreased intestinal integrity; perilla oil shows the possibility of being able to attenuate those changes.",
+      "mesh_terms": [
+        "Amine Oxidase (Copper-Containing)",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Arachidonic Acid",
+        "Camptothecin",
+        "Corn Oil",
+        "Diet",
+        "Dietary Fats, Unsaturated",
+        "Dinoprostone",
+        "Docosahexaenoic Acids",
+        "Eicosapentaenoic Acid",
+        "Fatty Acids",
+        "Fatty Acids, Omega-3",
+        "Intestinal Mucosa",
+        "Irinotecan",
+        "Male",
+        "Phospholipids",
+        "Plant Oils",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "alpha-Linolenic Acid"
+      ]
+    },
+    {
+      "pmid": "16032174",
+      "title": "Stimulation of calcium absorption and reduction in susceptibility to fasting-induced hypocalcaemia in pregnant ewes fed vegetable oil.",
+      "authors": [
+        "G F Wilson"
+      ],
+      "journal": "New Zealand veterinary journal",
+      "publication_date": "2001-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: To test the hypothesis that susceptibility to fasting-induced hypocalcaemia could be reduced by prior stimulation of the ability of late-pregnant ewes to absorb calcium (Ca) from the gastrointestinal tract (GIT) by feeding a vegetable oil supplement. The supplement was expected to decrease the availability of the Ca supplied from a pasture diet, and stimulate the animals' homeostatic system. METHODS: Mature ewes pregnant with twins (n=28) and grazing at pasture, were randomly allocated to Treated or Control groups, 6 weeks prior to their expected date of parturition (Day 0). Treated ewes (n=14) were drenched with 25 ml soya bean oil twice daily for 3 weeks. Plasma Ca concentrations were determined on Days 0, 8, and immediately before and after a 20-hour fast that began on Day 21, which was intended to simulate the reduced feed intakes that occur on the day of parturition. An index of the ewes' ability to absorb Ca from the GIT was obtained using orally dosed strontium (Sr) as a tracer and the extent of Ca mobilisation from bone was assessed by measuring hydroxyproline concentrations in plasma before fasting on Day 21. RESULTS: Plasma Ca concentrations were significantly higher in Treated than Control ewes after fasting (p0.001). The Ca absorption index was also higher in Treated than Control ewes at the end of the 3-week treatment period (p=0.014), but degree of bone mobilisation assessed by concentration of hydroxyproline in plasma did not differ significantly between groups. CONCLUSION: Susceptibility of late-pregnant ewes to fasting-induced hypocalcaemia was reduced using a soya bean oil supplement. The inclusion of one or more dietary ingredients capable of binding or forming complexes specifically with Ca in the diet of late pregnant ruminants may provide a novel, practical method of reducing periparturient hypocalcaemia."
+    },
+    {
+      "pmid": "15380976",
+      "title": "Effects of ferric hydroxide on the anaerobic biodegradation kinetics and toxicity of vegetable oil in freshwater sediments.",
+      "authors": [
+        "Zhengkai Li",
+        "Brian A Wrenn"
+      ],
+      "journal": "Water research",
+      "publication_date": "2004-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Biodegradation of vegetable oil in freshwater sediments exhibits self-inhibitory characteristics when it occurs under methanogenic conditions but not under iron-reducing conditions. The basis of the protective effect of iron was investigated by comparing its effects on oil biodegradation rate and the toxicity of oil-amended sediments to those of clay and calcium, which reduce the toxicity of oil-derived long-chain fatty acids by adsorption and precipitation, respectively. Kinetic parameters for an integrated mixed-second-order model were estimated by nonlinear regression using cumulative methane production as the response variable and used to compare the effects of the three treatment factors on the rate of oil biodegradation. Ferric hydroxide was the only factor that significantly (P<0.05) increased the rate of methane production from canola oil, whereas calcium significantly reduced the oil biodegradation rate. Measurement of sediment toxicity using the Microtox Solid-Phase Test showed that inhibitory products formed within 5 days of oil addition, but the sediment toxicity decreased over time as the extent of oil mineralization increased. None of the other amendments significantly reduced the toxicity of oil-containing sediments. Since ferric hydroxide stimulated the rate of oil biodegradation without affecting the toxicity of oiled sediments, it must operate through a mechanism that is different from those previously described for clay and calcium.",
+      "mesh_terms": [
+        "Bacteria, Anaerobic",
+        "Biodegradation, Environmental",
+        "Ferric Compounds",
+        "Fresh Water",
+        "Geologic Sediments",
+        "Kinetics",
+        "Plant Oils",
+        "Water Pollutants"
+      ]
+    },
+    {
+      "pmid": "15259701",
+      "title": "Photodegradation of polychlorinated dibenzo-p-dioxins and dibenzofurans in soil with vegetable oil.",
+      "authors": [
+        "Pirjo Isosaari",
+        "Tuula Tuhkanen",
+        "Terttu Vartiainen"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "GOAL, SCOPE AND BACKGROUND: This study was carried out to investigate the effect of olive oil on the photodegradation of polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/Fs) in contaminated sawmill soil. Previous studies had shown that the solubility of PCDD/Fs in olive oil is high and a rapid photodegradation of PCDD/Fs takes place in olive oil when irradiated with ultraviolet (blacklight) lamps. The efficiency of this treatment method was evaluated under more practical conditions. These included the use of sunlight irradiation and a lower-grade olive oil, without a preliminary extraction of soil with olive oil. METHODS: A 1-cm layer of contaminated sawmill soil was blended with 20 weight-% of olive oil and exposed to sunlight for four weeks. In another experiment, a new dose of olive oil was added at the middle of the exposure period. The PCDD/F concentrations of the soils were monitored periodically. RESULTS AND DISCUSSION: A reduction in the concentration of 2,3,7,8-chlorinated PCDD/Fs by 59% and in WHO-TEQ in contaminated sawmill soil by 48% was attained after blending the soil with two doses (20 + 20%) of olive oil and exposing the mixture to sunlight for four weeks. Photodegradation with only one dose of olive oil was less efficient. This suggests that periodical additions of olive oil would be needed to maintain a proper degradation rate. After the oil additions, the WHO-TEQ content of the soil declined with first order reaction half-lives of 19.2 to 19.7 d. The overall half-life during the four-week treatment, however, was 30 d. CONCLUSION: A significant reduction in the PCDD/F concentration of aged sawmill soil can be achieved with a relatively simple olive oil-sunlight treatment. RECOMMENDATIONS AND OUTLOOK: Some theoretical and technological questions need to be solved before using the investigated soil decontamination method in larger-scale applications. The functions of vegetable oils in photodegradation processes should be studied in more detail. The amount of oil that is needed for a proper solubilisation and photodegradation of PCDD/Fs should be minimised. Moreover, special care should be taken to prevent mobilisation of PCDD/Fs to the surrounding environment and to avoid leaving bioavailable residuals of PCDD/Fs in soil.",
+      "mesh_terms": [
+        "Benzofurans",
+        "Dibenzofurans, Polychlorinated",
+        "Dose-Response Relationship, Drug",
+        "Half-Life",
+        "Olive Oil",
+        "Photochemistry",
+        "Photolysis",
+        "Plant Oils",
+        "Polychlorinated Dibenzodioxins",
+        "Soil Pollutants",
+        "Solubility",
+        "Sunlight",
+        "Ultraviolet Rays"
+      ]
+    },
+    {
+      "pmid": "15176752",
+      "title": "The use of waterworks sludge for the treatment of vegetable oil refinery industry wastewater.",
+      "authors": [
+        "M Basibuyuk",
+        "D G Kalat"
+      ],
+      "journal": "Environmental technology",
+      "publication_date": "2004-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Water treatment works using coagulation/flocculation in the process stream will generate a waste sludge. This sludge is termed as ferric, alum, or lime sludge based on which coagulant was primarily used. The works in Adana, Turkey uses ferric chloride. The potential for using this sludge for the treatment of vegetable oil refinery industry wastewater by coagulation has been investigated. The sludge acted as a coagulant and excellent oil and grease, COD and TSS removal efficiencies were obtained. The optimum conditions were a pH of 6 and a sludge dose of 1100 mg SS l(-1). The efficiency of sludge was also compared with alum and ferric chloride for the vegetable oil refinery wastewater. At doses of 1300-1900 mg SS l(-1), the sludge was as effective as ferric chloride and alum at removing oil and grease, COD, and TSS. In addition, various combinations of ferric chloride and waterworks sludge were also examined. Under the condition of 12.5 mg l(-1) fresh ferric chloride and 1000 mg SS l(-1) sludge dose, 99% oil and grease 99% TSS and 83% COD removal efficiencies were obtained.",
+      "mesh_terms": [
+        "Alum Compounds",
+        "Calcium Compounds",
+        "Chlorides",
+        "Ferric Compounds",
+        "Food Industry",
+        "Hydrogen-Ion Concentration",
+        "Industrial Waste",
+        "Oxides",
+        "Plant Oils",
+        "Sewage",
+        "Waste Management",
+        "Water Pollutants, Chemical"
+      ]
+    },
+    {
+      "pmid": "15054233",
+      "title": "Biodiesel fuel from vegetable oil by various supercritical alcohols.",
+      "authors": [
+        "Yuichiro Warabi",
+        "Dadan Kusdiana",
+        "Shiro Saka"
+      ],
+      "journal": "Applied biochemistry and biotechnology",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Biodiesel was prepared in various supercritical alcohol treatments with methanol, ethanol, 1-propanol, 1-butanol, or 1-octanol to study transesterification of rapeseed oil and alkyl esterification of fatty acid at temperatures of 300 and 350 degrees C. The results showed that in transesterification, the reactivity was greatly correlated to the alcohol: the longer the alkyl chain of alcohol, the longer the reaction treatment. In alkyl esterification of fatty acids, the conversion did not depend on the alcohol type because they had a similar reactivity. Therefore, the selection of alcohol in biodiesel production should be based on consideration of its performance of properties and economics.",
+      "mesh_terms": [
+        "Alcohols",
+        "Biotechnology",
+        "Catalysis",
+        "Chromatography, High Pressure Liquid",
+        "Energy-Generating Resources",
+        "Esters",
+        "Fatty Acids",
+        "Fatty Acids, Monounsaturated",
+        "Plant Oils",
+        "Pressure",
+        "Rapeseed Oil",
+        "Temperature",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "15030246",
+      "title": "Time trend investigation of PCBs, PBDEs, and organochlorine pesticides in selected n-3 polyunsaturated fatty acid rich dietary fish oil and vegetable oil supplements; nutritional relevance for human essential n-3 fatty acid requirements.",
+      "authors": [
+        "Miriam N Jacobs",
+        "Adrian Covaci",
+        "Adriana Gheorghe",
+        "Paul Schepens"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2004-Mar-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In addition to being used in the food and animal feed industry, fish oils have also been used traditionally as dietary supplements. Due to the presence of long-chain n-3 fatty acids, fish oils have therapeutic benefits in the prevention and treatment of cardiovascular, immunological, and arthritic diseases, as well as childhood deficiency diseases such as rickets, because of a high content of vitamin D. However, fish oils are also susceptible to contamination with lipophilic organic chemicals that are now ubiquitous contaminants of marine ecosystems. Many vegetable oils are sources of the shorter chain precursor forms of n-3 fatty acids, and in recent years the specialist dietary supplement market has expanded to include these oils in a variety of different formulations. This paper reports analytical results of selected contaminants, including polychlorinated biphenyls, organochlorine pesticides, and polybrominated diphenyl ethers, for a range of commercially available n-3 fatty acid rich fish and vegetable oil dietary supplements. Using principal component analysis, the values are compared with historic samples to elucidate time trends in contamination profiles. Levels of contaminants are discussed in relation to the nutritional benefits to the consumer of long- and short-chain forms of n-3 fatty acids.",
+      "mesh_terms": [
+        "Dietary Supplements",
+        "Fatty Acids, Omega-3",
+        "Fish Oils",
+        "Food Contamination",
+        "Halogenated Diphenyl Ethers",
+        "Humans",
+        "Hydrocarbons, Brominated",
+        "Insecticides",
+        "Nutritional Physiological Phenomena",
+        "Nutritional Requirements",
+        "Phenyl Ethers",
+        "Plant Oils",
+        "Polybrominated Biphenyls",
+        "Polychlorinated Biphenyls"
+      ]
+    },
+    {
+      "pmid": "15017801",
+      "title": "Vegetable oil sprinkling as a dust reduction method in swine confinement.",
+      "authors": [
+        "M W Nonnenmann",
+        "K J Donham",
+        "R H Rautiainen",
+        "P T O'Shaughnessy",
+        "L F Burmeister",
+        "S J Reynolds"
+      ],
+      "journal": "Journal of agricultural safety and health",
+      "publication_date": "2004-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The aim of this project was evaluate the effectiveness of an oil sprinkling system as a dust-reduction method for swine production facilities. This article presents the results of the second-year experiment of a multi-year study. The first-year experiment demonstrated that a 5% oil-water emulsion automatically applied at the rate of 3 and 5 g/pig/day achieved a 23% to 34% reduction in total dust. The modifications for the second year experiment included: (1) increasing oil application rate to 7 and 8 g/pig/day, (2) replacing sprinkler heads to achieve a smaller droplet size and a more direct spray pattern on pen-floor surfaces, and (3) more closely matching the treatment and control rooms by stage in the pig production cycle. Four swine finishing rooms were used for this study; two were treatment rooms (soybean oil at 7 g/pig/day, and canola oil 8 g/pig/day) and two were control rooms. The treatment rooms had a low-pressure oil-sprinkling system, which sprinkled 5% oil-to-water mixture 12 times per day, 12 s each time. Concentrations of several environmental contaminants were measured. The average total dust concentration in the control rooms was 1.39 mg/m3. The average total dust concentration in the treatment rooms was 0.65 mg/m3. The treatment reduced dust by an average of 52%, (p = 0.0001). There was no difference in the degree of dust control between soybean oil and canola oil. The respirable dust concentrations were very low in all rooms, and there were no significant differences between rooms in ammonia, carbon dioxide, temperature, or humidity.",
+      "mesh_terms": [
+        "Agricultural Workers' Diseases",
+        "Air Pollution, Indoor",
+        "Animal Husbandry",
+        "Animals",
+        "Dose-Response Relationship, Drug",
+        "Dust",
+        "Housing, Animal",
+        "Humans",
+        "Longitudinal Studies",
+        "Particle Size",
+        "Plant Oils",
+        "Random Allocation",
+        "Swine"
+      ]
+    },
+    {
+      "pmid": "12428175",
+      "title": "The effect of vegetable oil-based cheese on serum total and lipoprotein lipids.",
+      "authors": [
+        "H M Karvonen",
+        "N S Tapola",
+        "M I Uusitupa",
+        "E S Sarkkinen"
+      ],
+      "journal": "European journal of clinical nutrition",
+      "publication_date": "2002-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effect of rapeseed oil-based cheese (milk-fat substituted by rapeseed oil) on serum total and lipoprotein lipid concentrations and blood pressure in reference to ordinary, milk-fat-based cheese in subjects with mildly to moderately elevated serum cholesterol concentration. DESIGN: Randomized, controlled, single-blind, cross-over clinical trial. SETTINGS: Outpatient dietary intervention with free-living subjects in Eastern Finland. INTERVENTIONS: The study began with a 2 week pre-trial period followed by two 4 week intervention periods. During the intervention study subjects replaced their ordinary cheese or cold cuts with 65 g of rapeseed oil-based or milk-fat-based control cheese. The type of test cheese was switched at 4 weeks of intervention. Altogether 31 subjects completed the study. RESULTS: Compared with the control cheese period the mean serum total cholesterol concentration was 6.7% (95% Cl -9.9 to -3.5%) lower after 2 weeks and 5.0% (95% Cl -7.5 to -2.5%) lower after 4 weeks of use of rapeseed oil-based cheese. Respectively, LDL cholesterol concentration was 7.0% (95% Cl -11.7 to -2.6%) lower after 2 weeks use and 6.4% (95% Cl -10.0 to -2.8%) lower after 4 weeks' use of rapeseed oil-based cheese. CONCLUSIONS: The present study showed that the rapeseed oil-based cheese reduces serum total and LDL cholesterol concentrations in mildly to moderately hypercholesterolemic subjects when replacing ordinary milk-fat-based cheese in the diet. SPONSORSHIP: Mildola Ltd, Tuusula, Finland and Kyrönmaan Juustomestarit Ltd, lsokyrö, Finland.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Pressure",
+        "Cheese",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Fatty Acids, Monounsaturated",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Plant Oils",
+        "Rapeseed Oil"
+      ]
+    },
+    {
+      "pmid": "11816990",
+      "title": "Use of vegetable oil in a pilot-scale denitrifying barrier.",
+      "authors": [
+        "W J Hunter"
+      ],
+      "journal": "Journal of contaminant hydrology",
+      "publication_date": "2001-Dec-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nitrate in drinking water is a hazard to both humans and animals. Contaminated water can cause methemoglobinemia and may pose a cancer risk. Permeable barriers containing innocuous oils, which stimulate denitrification, can remove nitrate from flowing groundwater. For this study, a sand tank (1.1 x 2.0 x 0.085 m in size) containing sand was used as a one-dimensional open-top scale model of an aquifer. A meter-long area near the center of the tank contained sand coated with soybean oil. This region served as a permeable denitrifying barrier. Water containing 20 mg l(-1) nitrate-N was pumped through the barrier at a high flow rate, 1112 l week(-1), for 30 weeks. During the 30-week study, the barrier removed 39% of the total nitrate-N present in the water. The barrier was most efficient during the first 10 weeks of the study when almost all of the nitrate and nitrogen was removed. Efficiency declined with time so that by week 30 almost no nitrate was removed by the system. Nitrite levels in the effluent water remained low throughout the study. Barriers could be used to protect groundwater from nitrate contamination or for the in situ treatment of contaminated water. At the low flow rates that exist in most aquifers, such barriers should be effective at removing nitrate from groundwater for a much longer period of time.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Nitrates",
+        "Permeability",
+        "Plant Oils",
+        "Silicon Dioxide",
+        "Temperature",
+        "Water Movements",
+        "Water Purification",
+        "Water Supply"
+      ]
+    },
+    {
+      "pmid": "11472737",
+      "title": "Dietary vegetable oil and wood derived plant stanol esters reduce atherosclerotic lesion size and severity in apoE*3-Leiden transgenic mice.",
+      "authors": [
+        "O L Volger",
+        "R P Mensink",
+        "J Plat",
+        "G Hornstra",
+        "L M Havekes",
+        "H M Princen"
+      ],
+      "journal": "Atherosclerosis",
+      "publication_date": "2001-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The hypolipidemic and anti-atherosclerotic effects of vegetable oil- and wood-based dietary plant stanol esters were compared in female apoE*3-Leiden transgenic mice at relevant plasma cholesterol levels. The plant stanol esters derived from vegetable oil (sitostanol 65.7%, campestanol 30.1%) had different contents of sitostanol and campestanol than the plant stanol esters derived from wood (sitostanol 87.6%, campestanol 9.5%) or from a mixture of vegetable oil and wood (sitostanol 73.0%, campestanol 24.7%). The mice (10 per group) received for 38 weeks a control diet or diets containing 1.0% (w/w) plant stanol esters derived from either vegetable oil, wood or a mixture of both. Vegetable oil (-46%), wood (-42%) and vegetable oil/wood (-51%) plant stanol esters decreased the plasma cholesterol levels (P<0.0001) by reducing the cholesterol content in plasma very low density-, intermediate density- and to a lesser extent in low density-lipoprotein. Plant stanol ester feeding did not change plasma triglyceride levels. Dietary plant stanol esters reduced the atherosclerotic lesion area by 91+/-13% (vegetable oil), 97+/-4% (wood) and 78+/-34% (vegetable oil/wood) (P<0.0001) and the severity from regular intimal fatty streaks/mild plaques (on average type 2--3 lesions) in controls to individual intimal foam cells (<type 1 lesions) in the treatment groups (P<0.0001). Plant stanol esters had no effect on adherence of monocytes to the vessel wall. Feeding of plant stanol esters dramatically reduced, independent of its sources, the extent and severity of atherosclerotic lesions, by decreasing VLDL-, IDL- and to a lesser extent LDL-cholesterol in apoE*3-Leiden transgenic mice.",
+      "mesh_terms": [
+        "Animals",
+        "Apolipoprotein E3",
+        "Apolipoproteins E",
+        "Arteriosclerosis",
+        "Cholesterol",
+        "Dietary Fats, Unsaturated",
+        "Female",
+        "Mice",
+        "Mice, Transgenic",
+        "Mutation",
+        "Plant Oils",
+        "Severity of Illness Index",
+        "Sitosterols",
+        "Triglycerides",
+        "Wood"
+      ]
+    },
+    {
+      "pmid": "11395029",
+      "title": "Randomised controlled trial of use by hypercholesterolaemic patients of a vegetable oil sterol-enriched fat spread.",
+      "authors": [
+        "H A Neil",
+        "G W Meijer",
+        "L S Roe"
+      ],
+      "journal": "Atherosclerosis",
+      "publication_date": "2001-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Plant sterols may be a useful additive therapy in the treatment of hypercholesterolaemic patients. The purpose of this study was to determine the effect of a fat spread enriched with vegetable oil sterols on plasma lipid, lipoprotein and apolipoprotein concentrations. A randomised double blind placebo-controlled crossover trial with two consecutive periods of 8 weeks was conducted. 30 patients with heterozygous familial hypercholesterolaemia treated concurrently with an HMG-CoA reductase inhibitor (statin) and 32 patients with type IIa primary hypercholesterolaemia with a total cholesterol concentration >6.5 mmol/l not taking lipid-lowering drug therapy were recruited from a hospital lipid clinic. The active treatment was a fortified fat spread (25 g/day) providing 2.5 g of plant sterols. The control spread was indistinguishable in taste and appearance. Comparison at the end of the two 8-week trial periods showed a statistically significant reduction in total and LDL-cholesterol with use of the fortified spread but the results were confounded by a carry-over effect, which was partly explained by changes in the background diet. Because a carry-over effect was present, further analyses were restricted to the parallel arms of the first treatment period and were conducted on an intention to treat basis. After 4 weeks, LDL-cholesterol had decreased by 0.04 mmol/l ([0.8%] 95% confidence interval -0.44-0.37 NS) in the placebo group and decreased by -0.76 mmol/l ([15.0%] 95% CI -1.03--0.48, P<0.0001) in the active treatment group. After 8 weeks, the corresponding results were 0.0 mmol/l ([0.0%] 95% CI -0.26-0.24 NS) and -0.51 mmol/l ([10.0%] 95% CI -0.73--0.29 P<0.0001). There were no significant changes in apolipoprotein AI or B concentrations in the placebo group, but there was a small but statistically significant increase in apolipoprotein AI and a decrease in apolipoprotein B in the active treatment group. HDL cholesterol and triglyceride concentrations were unchanged. There was no difference in response between patients with statin-treated familial hypercholesterolaemia and patients with type IIa hyperlipoproteinaemia. We conclude that a fortified fat spread enriched with vegetable oil sterols reduces LDL-cholesterol by 10-15% with no difference in response between hypercholesterolaemic patients prescribed statins and those not taking lipid-lowering drug therapy.",
+      "mesh_terms": [
+        "Adult",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Chromatography, Gas",
+        "Confidence Intervals",
+        "Cross-Over Studies",
+        "Diet",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Hyperlipoproteinemia Type II",
+        "Hypolipidemic Agents",
+        "Male",
+        "Margarine",
+        "Middle Aged",
+        "Plant Oils",
+        "Probability"
+      ]
+    },
+    {
+      "pmid": "11045835",
+      "title": "Cutaneous application of vegetable oil as a coadjutant in the nutritional management of preterm infants.",
+      "authors": [
+        "C R Soriano",
+        "F E Martinez",
+        "S M Jorge"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2000-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The cutaneous application of vegetable oil as a therapeutic practice and dietary coadjuvant has been described mainly in adult patients at risk for essential fatty acid deficiency. In the current study, the effects of cutaneous soybean oil application on somatic growth and plasma linoleic and arachidonic acid levels were examined in enterally fed preterm newborns. METHODS: Sixty consecutive preterm infants were chosen from patients admitted to the nursery. Infants were randomly assigned to one of two groups: the oil group, which was treated cutaneously with soybean oil, or the control group, which received no cutaneous treatment. RESULTS: After 30 days, a significant increase in anthropometric parameters was observed in infants who received cutaneous oil, mainly in infants small for gestational age. An increase in linoleic acid level and a decrease in arachidonic acid level were seen in both groups but do not justify the difference found in growth rates in the control and oil groups. CONCLUSIONS: Preterm infants treated cutaneously with soy oil showed better somatic growth than the control group. The factors leading to the present results, especially the response of the infants who were small for gestational age merit further evaluation.",
+      "mesh_terms": [
+        "Administration, Cutaneous",
+        "Anthropometry",
+        "Arachidonic Acid",
+        "Enteral Nutrition",
+        "Fatty Acids, Essential",
+        "Female",
+        "Gestational Age",
+        "Humans",
+        "Infant, Low Birth Weight",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Linoleic Acid",
+        "Male",
+        "Soybean Oil"
+      ]
+    },
+    {
+      "pmid": "10659301",
+      "title": "Effect of feeding thoroughbred horses a high unsaturated or saturated vegetable oil supplemented diet for 6 months following a 10 month fat acclimation.",
+      "authors": [
+        "P A Harris",
+        "J D Pagan",
+        "K G Crandell",
+        "N Davidson"
+      ],
+      "journal": "Equine veterinary journal. Supplement",
+      "publication_date": "1999-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study looked at the effect of feeding diets supplemented with either a predominantly saturated or unsaturated vegetable oil over a prolonged period to exercising horses. Eight Thoroughbred horses were assigned to 2 diet treatments and for 10 months were fed Timothy hay and oats, together with a fortified sweet feed supplemented with either a predominantly unsaturated (Un) or a saturated (S) vegetable oil so that approximately 19% DE (Digestible Energy) came from dietary fat and approximately 12% from either the Un or S source (AC). An increased amount of Un or S fortified sweet feed, replacing the oats, was then fed for a further 6 months (HF) so that approximately 27% DE came from fat and approximately 20% from the Un or S vegetable oil. Standardised incremental treadmill exercise (8-12 m/s) tests (STEP) and duplicate oral glucose tolerance tests (TOL) were carried out after 3, 6 and 9 months of the AC diet and after 3 and 6 months on the HF diet. There was no significant effect of dietary treatment or when the tests were undertaken (time) on the insulin or lactate responses to the STEP tests. Overall there was a significant (P < 0.05) effect of time and treatment on the glucose response, but there was no difference between treatments at the first and last tests or between the results for these tests or between the endAC and endHF tests. No significant effect of treatment or time was seen on the TOL glucose response (% change from Time '0') although there was a trend for the glucose concentrations to be lower and the insulin responses higher (nonsignificant) in the S treatment group. No significant effect of treatment on haematological parameters, monitored monthly, was found. Total protein and gamma glutamyl transferase remained within the normal range throughout. There was a significant effect of treatment (P < 0.05) on cholesterol and triglycerides with higher concentrations in the S group from the first (1 month) sample. Linoleic acid was the main fatty acid in all the 4 plasma lipid classes with slightly, but significant (P < 0.05), higher concentrations in Un for the cholesterol ester and phospholipid classes. There was no effect of time. Overall, the total resting plasma fatty acid content was significantly higher (P < 0.05) with S at the sample points (endAC and endHF). No adverse effects of feeding either diet on apparent coat condition or hoof appearance were seen apart from an apparent increase in the grease score. Many of the parameters assessed showed significant improvements with time (P < 0.05). In conclusion, no apparent adverse effects of feeding a diet supplemented with either an unsaturated or saturated vegetable oil for 6 months at approximately 20% DE after 10 months at approximately 12% DE were identified and there were no apparent disadvantages of feeding a saturated vegetable oil supplemented diet compared with an unsaturated one.",
+      "mesh_terms": [
+        "Adaptation, Physiological",
+        "Animal Feed",
+        "Animals",
+        "Dietary Fats",
+        "Dietary Supplements",
+        "Exercise Test",
+        "Fatty Acids",
+        "Fatty Acids, Unsaturated",
+        "Female",
+        "Glucose Tolerance Test",
+        "Hair",
+        "Hoof and Claw",
+        "Horses",
+        "Male",
+        "Physical Conditioning, Animal",
+        "Plant Oils",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "10341155",
+      "title": "Developmental toxicity study of vegetable oil-derived stanol fatty acid esters.",
+      "authors": [
+        "R S Slesinski",
+        "D Turnbull",
+        "V H Frankos",
+        "A P Wolterbeek",
+        "D H Waalkens-Berendsen"
+      ],
+      "journal": "Regulatory toxicology and pharmacology : RTP",
+      "publication_date": "1999-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In a standard developmental toxicity study, a mixture of vegetable oil-derived stanol fatty acid esters was administered in the diet to groups of 28 mated female HsdCpb:WU Wistar rats at concentrations that provided 0, 1, 2.5, and 5% total stanols (equivalent to 0, 1.75, 4.38, and 8.76% plant stanol esters). Test diets were adjusted with rapeseed oil to maintain an equivalent caloric content of fatty acids at each of the treatment levels. The treatment period extended from day 0 to 21 of gestation. No compound-related toxicity or clinical effects were seen in any of the treated groups. No statistically significant differences were seen in body weights or body weight gain in the low- or mid-dose groups, although slight but statistically significant decreases in mean body weight relative to controls were seen at gestation days 7 and 14 in the high-dose group. The decreases in body weight in the high-dose group may be attributable to the virtual lack of absorption of the dietary stanols. Body weight gains were equivalent to controls throughout the study except for a statistically significant decrease seen only in the 0- to 7-day gestation period in the high-dose group. No significant effects were seen on food consumption in terms of g/rat/day, but a slight, statistically significant increase was seen in the mid-dose group during gestation days 7-14. A significant increase was seen in the high-dose group during the 7- to 21-day period of gestation. Reproductive performance was not affected by the treatment. There were no statistically significant differences in uterine weight, placental weight, fetal weight, number of fetuses, number of implantation sites, number of corpora lutea, and early/late resorptions between the treated and control groups. In addition, there was no biologically meaningful effect on fetal sex ratio. Visceral and skeletal examinations did not show any significant increases in the incidence of malformations, anomalies, or variations that were considered to be treatment related. Dietary plant (8.76% plant stanol esters) stanol esters at concentrations up to 5% total stanols were concluded to have no adverse effects on reproduction or development.",
+      "mesh_terms": [
+        "Animals",
+        "Esters",
+        "Fatty Acids",
+        "Female",
+        "Fetus",
+        "Male",
+        "Phytosterols",
+        "Plant Oils",
+        "Rats",
+        "Rats, Wistar",
+        "Reproduction",
+        "Viscera"
+      ]
+    },
+    {
+      "pmid": "9042145",
+      "title": "Topical vegetable oil therapy for premature infants.",
+      "authors": [
+        "M Yurdakök",
+        "K Yurdakök"
+      ],
+      "journal": "The Journal of pediatrics",
+      "publication_date": "1997-Feb",
+      "publication_types": [
+        "Comment",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Administration, Topical",
+        "Deficiency Diseases",
+        "Fatty Acids, Essential",
+        "Humans",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Infant, Premature, Diseases",
+        "Ointments",
+        "Plant Oils"
+      ]
+    },
+    {
+      "pmid": "7942578",
+      "title": "Effects of a fish-oil and vegetable-oil formula on aggregation and ethanolamine-containing lysophospholipid generation in activated human platelets and on leukotriene production in stimulated neutrophils.",
+      "authors": [
+        "M E Turini",
+        "W S Powell",
+        "S R Behr",
+        "B J Holub"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1994-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The effects of consuming a liquid formula containing either fish oil enriched in omega-3 fatty acids or vegetable oil enriched in oleic acid was evaluated in 20 male subjects randomly allocated into two groups over a 42-d period. A decrease in collagen-induced aggregation by using washed platelet suspensions was found in both groups after nutritional supplementation. A considerable rise in omega-3 and a decrease in omega-6 fatty acids occurred in the platelet phospholipid with fish-oil consumption. The degree of eicosapentaenoic acid (EPA, 20:5n-3) enrichment (fish-oil group) was dramatically greater in the ether-containing plasmenylethanolamine (13.5 mol% of fatty acids; mol% of fatty acids = moles per 100 moles of total fatty acids) than in phosphatidylethanolamine (2.8 mol%) or phosphatidylcholine (2.9 mol%). Neither treatment significantly influenced the agonist-induced accumulation of lysoplasmenylethanolamine as derived via phospholipase A2 hydrolysis of plasmenylethanolamine. HPLC measurements of eicosanoid production in A23187-stimulated neutrophils revealed a considerable decrease in the formation of arachidonic acid-derived leukotriene B4 (LTB4), by 41%, and 5-HETE (5-hydroxyeicosatetraenoic acid), by 30%, in the fish-oil group along with the appearance of the corresponding EPA-derived products [LTB5 and 5-HEPE (5-hydroxyeicosapentaenoic acid)]. No such alterations in the formation of lipoxygenase products were found with the vegetable oil treatment.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Cells",
+        "Blood Platelets",
+        "Ethanolamine",
+        "Ethanolamines",
+        "Fish Oils",
+        "Food, Formulated",
+        "Humans",
+        "Leukotrienes",
+        "Lysophospholipids",
+        "Male",
+        "Neutrophil Activation",
+        "Neutrophils",
+        "Plant Oils",
+        "Platelet Activation",
+        "Platelet Aggregation"
+      ]
+    },
+    {
+      "pmid": "7910999",
+      "title": "Dietary substitution with an alpha-linolenic acid-rich vegetable oil increases eicosapentaenoic acid concentrations in tissues.",
+      "authors": [
+        "E Mantzioris",
+        "M J James",
+        "R A Gibson",
+        "L G Cleland"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1994-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thirty healthy male volunteers were randomly allocated into two dietary treatment groups. The flaxseed group (n = 15) maintained a diet high in alpha-linolenic acid (alpha-LA; 18:3n-3) and low in linoleic acid (LA; 18:2n-6) by using a flaxseed oil and spread that are high in alpha-LA. The control group (n = 15) maintained a diet high in LA and low in alpha-LA, typifying a Western diet. Both groups maintained their diets for 4 wk, followed by another 4-wk period in which they supplemented the diets with fish oil [1.62 g eicosapentaenoic acid (EPA, 20:5n-3) daily and 1.08 g docosahexaenoic acid (DHA, 22:6n-3) daily] in a triglyceride form. The flaxseed oil-containing diet resulted in significant increases in alpha-LA concentrations in the plasma phospholipid, cholesteryl ester, and triglyceride fractions (eightfold increase) and neutrophil phospholipids (50% increase). EPA concentrations increased by 2.5-fold in the plasma lipid fractions and neutrophil phospholipids. After fish-oil supplementation EPA concentrations increased in parallel in both dietary groups, remaining higher in the flaxseed group for both the plasma lipid fractions and neutrophil phospholipids. The results indicate that alpha-LA-rich vegetable oils can be used in a domestic setting (in conjunction with a background diet low in LA) to elevate EPA in tissues to concentrations comparable with those associated with fish-oil supplementation.",
+      "mesh_terms": [
+        "Adult",
+        "Anthropometry",
+        "Cholesterol Esters",
+        "Dietary Fats",
+        "Eicosapentaenoic Acid",
+        "Energy Intake",
+        "Fatty Acids",
+        "Fish Oils",
+        "Humans",
+        "Male",
+        "Phospholipids",
+        "Plant Oils",
+        "alpha-Linolenic Acid"
+      ]
+    },
+    {
+      "pmid": "2099602",
+      "title": "The effect of animal fat and vegetable oil supplementation of feeds of different energy concentration upon the digestibility of nutrients and some blood parameters in rabbits.",
+      "authors": [
+        "S Fekete",
+        "I Hullár",
+        "H Fébel",
+        "J Bokori"
+      ],
+      "journal": "Acta veterinaria Hungarica",
+      "publication_date": "1990",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effect of mixed animal fat and sunflower oil supplementation (5%) of a feed of medium (12.02 MJ DE/kg) and low (8.54 MJ DE/kg) energy concentration upon the digestibility of nutrients and on some blood parameters was investigated. The ether-extractable content of feed and faecal samples was determined by diethyl ether extraction (after Soxhlet) and the total (true) fat level was measured by the method of Stoldt (1952), viz. petroleum ether extraction of samples pretreated with 4 N HCl. In the majority of cases the voluntary feed intake decreased after the addition of animal fat or vegetable oil. Mixed animal fat supplementation significantly (by 5 and 11 units) improved the digestibility of the ether extract if added to either of the basal diets. The digestibility of crude fibre and N-free extract increased only in the case of the basal diet of low energy concentration (by 4 and 7 units, respectively). Sunflower oil addition produced changes of the same tendency (9, 9, 28 and 5 units). The digestibility of the crude protein was practically not altered by either supplementation. The total fat content of feed and faecal samples proved to be higher than that of the ether extract, on an average by 27 and 100%, respectively. Consequently, the digestibility coefficients of the total fat are by 10 units lower than those of the ether extract. The DE concentrations, calculated by means of the digestible ether extract or the total fat content, differed significantly only between the basal diets. The addition of mixed animal fat to either of the basal diets increased the blood concentration of total lipids (by 18 and 32%, respectively), while that of sunflower oil did not cause such an alteration. Neither fat nor oil supplementation had an effect on the cholesterol level of the blood plasma. Both the animal fat and the vegetable oil surplus modified the fatty acid composition of blood lipids. It was characteristic of each treatment that the proportion of polyunsaturated fatty acids increased.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Dietary Fats",
+        "Digestion",
+        "Energy Intake",
+        "Female",
+        "Helianthus",
+        "Plant Oils",
+        "Rabbits",
+        "Sunflower Oil"
+      ]
+    },
+    {
+      "pmid": "147923",
+      "title": "[Treatment of sequelae of radiotherapy in ORL with various vegetable oil unsaponifiable fractions].",
+      "authors": [
+        "J Desnos",
+        "G Bertrand"
+      ],
+      "journal": "Journal francais d'oto-rhino-laryngologie; audiophonologie, chirurgie maxillo-faciale",
+      "publication_date": "1978-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Drug Combinations",
+        "Drug Evaluation",
+        "Fruit",
+        "Humans",
+        "Neoplasms",
+        "Otorhinolaryngologic Diseases",
+        "Phytosterols",
+        "Plant Extracts",
+        "Radiation Injuries",
+        "Radiodermatitis",
+        "Radiotherapy",
+        "Glycine max",
+        "Vitamin E"
+      ]
+    },
+    {
+      "pmid": "6076037",
+      "title": "Treatment of effluents from the manufacture of soap and hydrogenated vegetable oil.",
+      "authors": [
+        "A K Basu"
+      ],
+      "journal": "Journal - Water Pollution Control Federation",
+      "publication_date": "1967-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Hydrogen",
+        "India",
+        "Industrial Waste",
+        "Oils",
+        "Sewage",
+        "Soaps",
+        "Vegetables"
+      ]
+    }
+  ]
+}

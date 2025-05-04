@@ -1,0 +1,1183 @@
+{
+  "supplement": "Prolonged Fasting",
+  "query": "Prolonged Fasting[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:23:34",
+  "research_count": 42,
+  "count": 42,
+  "articles": [
+    {
+      "pmid": "40268190",
+      "title": "Prolonged fasting promotes systemic inflammation and platelet activation in humans: A medically supervised, water-only fasting and refeeding study.",
+      "authors": [
+        "Serena Commissati",
+        "Maria Lastra Cagigas",
+        "Andrius Masedunskas",
+        "Giovanna Petrucci",
+        "Valeria Tosti",
+        "Isabella De Ciutiis",
+        "Gayathiri Rajakumar",
+        "Kristopher M Kirmess",
+        "Matthew R Meyer",
+        "Alan Goldhamer",
+        "Brian K Kennedy",
+        "Duaa Hatem",
+        "Bianca Rocca",
+        "Giovanni Fiorito",
+        "Luigi Fontana"
+      ],
+      "journal": "Molecular metabolism",
+      "publication_date": "2025-Apr-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Prolonged fasting (PF), defined as abstaining from energy intake for ≥4 consecutive days, has gained interest as a potential health intervention. However, the biological effects of PF on the plasma proteome are not well understood. METHODS: In this study, we investigated the effects of a medically supervised water-only fast (mean duration: 9.8 ± 3.1 days), followed by 5.3 ± 2.4 days of guided refeeding, in 20 middle-aged volunteers (mean age: 52.2 ± 11.8 years; BMI: 28.8 ± 6.4 kg/m2). RESULTS: Fasting resulted in a 7.7% mean weight loss and significant increases in serum beta-hydroxybutyrate (BHB), confirming adherence. Untargeted high-dimensional plasma proteomics (SOMAScan, 1,317 proteins) revealed multiple adaptations to PF, including preservation of skeletal muscle and bone, enhanced lysosomal biogenesis, increased lipid metabolism via PPARα signaling, and reduced amyloid fiber formation. Notably, PF significantly reduced circulating amyloid beta proteins Aβ40 and Aβ42, key components of brain amyloid plaques. In addition, PF induced an acute inflammatory response, characterized by elevated plasma C-reactive protein (CRP), hepcidin, midkine, and interleukin 8 (IL-8), among others. A retrospective cohort analysis of 1,422 individuals undergoing modified fasting confirmed increased CRP levels (from 2.8 ± 0.1 to 4.3 ± 0.2 mg/L). The acute phase response, associated with transforming growth factor (TGF)-β signaling, was accompanied by increased platelet degranulation and upregulation of the complement and coagulation cascade, validated by ELISAs in blood and urine. CONCLUSIONS: While the acute inflammatory response during PF may serve as a transient adaptive mechanism, it raises concerns regarding potential cardiometabolic effects that could persist after refeeding. Further investigation is warranted to elucidate the long-term molecular and clinical implications of PF across diverse populations."
+    },
+    {
+      "pmid": "40096968",
+      "title": "Effects of prolonged fasting on substrate metabolism in female Japanese quails.",
+      "authors": [
+        "Chong-Xiang Xu",
+        "Jun-Kun Pan",
+        "Lan-Hua Wu",
+        "Zi-Fan Jin",
+        "Shan-Shan Chen",
+        "Jin-Wen Liu",
+        "Jin-Song Liu",
+        "Ming Li"
+      ],
+      "journal": "Comparative biochemistry and physiology. Part A, Molecular & integrative physiology",
+      "publication_date": "2025-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Food stands as a pivotal environmental element that exerts a profound influence on the survival of animals. Faced with food shortages, animals need to develop morphological, physiological, and behavioral strategies to improve their survival adaptability. Animals undergoing fasting tend to mobilize the reserved substances in the body to meet the energy needs for metabolism. In the present investigation, we assessed the influence of prolonged fasting on various physiological parameters related to fat catabolism, carbohydrate metabolism, and protein catabolism in female Japanese quails (Coturnix japonica). The treatment of Japanese quails was divided into four stages: the pre-fasting stage, Phase I (fasting for 1 day), Phase II (fasting for 4 days), and Phase III (fasting for 6-11 days). Compared with the pre-fasting stage, the following indicators changed significantly during prolonged fasting. (1) Fat catabolism: In the liver, the level of lipid droplets and free fatty acids (FFA), the activity of triacylglycerol lipase (TGL), the activity and mRNA level of hydroxymethylglutaryl-CoA synthetase (HMGCS), and the level of β-hydroxybutyric acid (BHBA) in the serum increased significantly, while the activity and mRNA level of carnitine acyltransferase I (CPTI) and carnitine acyltransferase II (CPT-II) decreased significantly. (2) Carbohydrate metabolism: The activity and mRNA levels of the pyruvate carboxylase (PC) and phosphoenolpyruvate carboxykinase (PEPCK) genes, and that of the glucose-6-phosphatase (G6Pase) in the liver increased significantly, while the mRNA level of the hexokinase domain containing 1 (HKDC1) and pyruvate kinase (PK) genes in the liver decreased significantly. (3) Protein catabolism: free amino acid levels in the liver and pectoral muscle increased significantly, whereas the mRNA levels of the asparagine synthetase (ASNS) and glutamate dehydrogenase (GLUD) genes in the liver decreased significantly, while the mRNA level of the nuclear factor-kappa B (NF-kB1 and NF-kB2) in the pectoral muscle increased significantly. Additionally, glucocorticoid levels significantly rose in Phase III compared with Phases I and II. Therefore, for prolonged fasting female Japanese quails, the mobilization of fat, fat decomposition, and generation of ketone bodies increased significantly, and gluconeogenesis in the liver also increased significantly, while glycolysis decreased significantly; protein decomposition, particularly in pectoral muscle, increased significantly. These results indicate that enhanced fat catabolism, protein catabolism, and gluconeogenesis, along with reduced glycolysis, could play an important role in the tolerance of female Japanese quails to prolonged fasting. These mechanisms might be significant for the birds to establish a temporary balance to maintain homeostasis under conditions of restricted exogenous energy supply.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Coturnix",
+        "Fasting",
+        "Liver",
+        "Lipid Metabolism",
+        "Carbohydrate Metabolism",
+        "Fatty Acids, Nonesterified"
+      ]
+    },
+    {
+      "pmid": "37854337",
+      "title": "Dynamics and ecological reassembly of the human gut microbiome and the host metabolome in response to prolonged fasting.",
+      "authors": [
+        "Xiaopu Sang",
+        "Shenghui Li",
+        "Ruochun Guo",
+        "Qiulong Yan",
+        "Changxi Liu",
+        "Yue Zhang",
+        "Qingbo Lv",
+        "Lili Wu",
+        "Jie Ma",
+        "Wei You",
+        "Ling Feng",
+        "Wen Sun"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Prolonged fasting is an intervention approach with potential benefits for individuals with obesity or metabolic disorders. Changes in gut microbiota during and after fasting may also have significant effects on the human body. METHODS: Here we conducted a 7-days medically supervised water-only fasting for 46 obese volunteers and characterized their gut microbiota based on whole-metagenome sequencing of feces at five timepoints. RESULTS: Substantial changes in the gut microbial diversity and composition were observed during fasting, with rapid restoration after fasting. The ecological pattern of the microbiota was also reassembled during fasting, reflecting the reduced metabolic capacity of diet-derived carbohydrates, while other metabolic abilities such as degradation of glycoproteins, amino acids, lipids, and organic acid metabolism, were enhanced. We identified a group of species that responded significantly to fasting, including 130 fasting-resistant (consisting of a variety of members of Bacteroidetes, Proteobacteria, and Fusobacteria) and 140 fasting-sensitive bacteria (mainly consisting of Firmicutes members). Functional comparison of the fasting-responded bacteria untangled the associations of taxon-specific functions (e.g., pentose phosphate pathway modules, glycosaminoglycan degradation, and folate biosynthesis) with fasting. Furthermore, we found that the serum and urine metabolomes of individuals were also substantially changed across the fasting procedure, and particularly, these changes were largely affected by the fasting-responded bacteria in the gut microbiota. DISCUSSION: Overall, our findings delineated the patterns of gut microbiota alterations under prolonged fasting, which will boost future mechanistic and clinical intervention studies."
+    },
+    {
+      "pmid": "37541691",
+      "title": "Reducing prolonged fasting for abdominal ultrasound scans.",
+      "authors": [
+        "Rajan Singh Sondh",
+        "Rajnish Mankotia"
+      ],
+      "journal": "BMJ open quality",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "This project aimed to address the issue of patients experiencing prolonged fasting periods before undergoing abdominal ultrasound scans in a busy surgical service at our hospital. A review of in-patient data revealed that 78% of patients were not following the recommended 6 hours fast before the scan. This led to poor patient experiences, prolonged diagnosis and management, and increased costs due to rescheduling of scans. To address this problem, a series of plan-do-study-act (PDSA) cycles were implemented to test different interventions aimed at improving staff awareness and compliance with fasting guidelines. The first PDSA cycle involved displaying a poster with fasting instructions in the doctors and nursing offices. This was followed by increasing awareness of guidelines during meetings and presenting the findings at a teaching session. Each PDSA cycle was followed by data collection to assess the impact of the intervention. The project resulted in an improvement in patient experiences, with 88% of patients being appropriately fasted by the end of the project. The study highlights the importance of using PDSA cycles to test and refine interventions and the positive impact of simple interventions on patient outcomes and clinical workflow.",
+      "mesh_terms": [
+        "Humans",
+        "Hospitals",
+        "Ultrasonography",
+        "Data Collection",
+        "Fasting"
+      ]
+    },
+    {
+      "pmid": "37375597",
+      "title": "Effects of Prolonged Fasting during Inpatient Multimodal Treatment on Pain and Functional Parameters in Knee and Hip Osteoarthritis: A Prospective Exploratory Observational Study.",
+      "authors": [
+        "Daniela A Koppold",
+        "Farid I Kandil",
+        "Oliver Güttler",
+        "Anna Müller",
+        "Nico Steckhan",
+        "Sara Meiß",
+        "Carolin Breinlinger",
+        "Esther Nelle",
+        "Anika M Hartmann",
+        "Michael Jeitler",
+        "Etienne Hanslian",
+        "Jan Moritz Fischer",
+        "Andreas Michalsen",
+        "Christian S Kessler"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Jun-09",
+      "publication_types": [
+        "Observational Study",
+        "Journal Article"
+      ],
+      "abstract": "Preliminary clinical data suggest that pain reduction through fasting may be effective for different diagnoses. This uncontrolled observational clinical study examined the effects of prolonged modified fasting on pain and functional parameters in hip and knee osteoarthritis. Patients admitted to the inpatient department of Internal Medicine and Nature-based Therapies of the Immanuel Hospital Berlin between February 2018 and December 2020 answered questionnaires at the beginning and end of inpatient treatment, as well as at 3, 6, and 12 months after discharge. Additionally, selected blood and anthropometric parameters, as well as subjective pain ratings, were routinely assessed during the inpatient stay. Fasting was the only common intervention for all patients, being performed as part of a multimodal integrative treatment program, with a daily caloric intake of <600 kcal for 7.7 ± 1.7 days. N = 125 consecutive patients were included. The results revealed an amelioration of overall symptomatology (WOMAC Index score: -14.8 ± 13.31; p < 0.001; d = 0.78) and pain alleviation (NRS Pain: -2.7 ± 1.98, p < 0.001, d = 1.48). Pain medication was reduced, stopped, or replaced by herbal remedies in 36% of patients. Improvements were also observed in secondary outcome parameters, including increased quality of life (WHO-5: +4.5 ± 4.94, p < 0.001, d = 0.94), reduced anxiety (HADS-A: -2.1 ± 2.91, p < 0001, d = 0.55) and depression (HADS-D: -2.3 ± 3.01, p < 0.001, d = 0.65), and decreases in body weight (-3.6 kg ± 1.65, p < 0.001, d = 0.21) and blood pressure (systolic: -6.2 ± 15.93, p < 0.001, d = 0.43; diastolic: -3.7 ± 10.55, p < 0.001, d = 0.43). The results suggest that patients with osteoarthritis of the lower extremities may benefit from prolonged fasting as part of a multimodal integrative treatment to improve quality of life, pain, and disease-specific functional parameters. Confirmatory randomized controlled trials are warranted to further investigate these hypotheses.",
+      "mesh_terms": [
+        "Humans",
+        "Osteoarthritis, Hip",
+        "Osteoarthritis, Knee",
+        "Prospective Studies",
+        "Quality of Life",
+        "Inpatients",
+        "Pain",
+        "Knee",
+        "Fasting",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "36325269",
+      "title": "Effect of Medically Supervised Prolonged Fasting Therapy on Vitamin D, B12, Body Weight, Body Mass Index, Vitality and Quality of Life: A Randomized Control Trial.",
+      "authors": [
+        "Gulab Rai Tewani",
+        "Karishma Silwal",
+        "Gita Sharma",
+        "Dinesh Yadav",
+        "Aarfa Siddiqui",
+        "Sucheta Kriplani",
+        "Varsha Vijay Nathani",
+        "Neha Sharma",
+        "Jyoti Keswani",
+        "Hemanshu Sharma",
+        "Pradeep Mk Nair"
+      ],
+      "journal": "Nutrition and metabolic insights",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Recent research indicates prolonged fasting for more than 7 days is beneficial in priming the vitamin D metabolism. However, methodological limitations in previous studies, such as insufficient sample size and a lack of control group, limits its generalizability. The present study evaluated the impact of prolonged fasting (10 days) on vitamin D, vitamin B12, body mass index (BMI), weight, hemoglobin, vitality and quality of life (QoL) compared to a normal diet. METHODS: This randomized control trial was conducted in an in-patient private yoga and naturopathy setting between February and April 2022. A total of 52 participants (mean age 51.57 ± 13.67 years) with varying medical conditions were randomized into a fasting group (FG) or a normal diet group (NDG) with 26 participants in each group. The FG was on a fasting diet (500 kCal/day) which included holy basil herbal tea, lemon honey water, and water (3 L). The NDG (1500 kCal/day) consumed a routine diet that included Indian bread, pulses, steamed rice, vegetable salads, and beverages. RESULTS: The FG has shown significant increase in the Vitamin D levels (P = .003, d = 0.475), vitality (P = .006, d = 0.425), physical QoL (P < .001, d = 0.549), psychological QoL (P = .002, d = 0.488), and environmental QoL (P = .004, d = 0.457) compared to NDG. No significant changes were observed in vitamin B12, weight, BMI, haemoglobin, and social QoL. A weak to moderate (ρ = 0.330-0.483) positive correlation was observed between vitality scores and QoL domains, whereas BMI scores showed an inverse correlation (ρ = -.280) with vitamin D levels. CONCLUSION: The results suggest that prolonged fasting for 10 days can improve vitamin D levels, improve vitality, and promote quality of life compared to a normal diet. Unlike previous studies, the FG does not differ from the NDG concerning weight and BMI. Nevertheless, fasting may be utilized as an effective tool to tackle vitamin D deficiency and associated health insufficiencies."
+    },
+    {
+      "pmid": "35346357",
+      "title": "Euglycemic diabetic ketoacidosis induced by sodium-glucose cotransporter 2 inhibitor in the setting of prolonged fasting: a case report.",
+      "authors": [
+        "Abrar Alkatheeri",
+        "Eiman Alseddeeqi"
+      ],
+      "journal": "Journal of medical case reports",
+      "publication_date": "2022-Mar-29",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: We describe a case report of a patient with type 2 diabetes on sodium-glucose cotransporter 2 inhibitor and metformin therapy fasting for Ramadan (a holy month observed in the Islamic nation) diagnosed with euglycemic diabetic ketoacidosis. CASE PRESENTATION: The patient was a 51-year-old Moroccan male with history of type 2 diabetes mellitus on dapagliflozin and metformin. He presented with abdominal pain, vomiting, loss of appetite, and shortness of breath. He observed Ramadan month by fasting an average of 14 hours daily for 30 days. The patient was admitted with severe metabolic acidosis with a high anion gap and positive ketonuria in the setting of serum glucose of 13.5 mmol/L (243 mg/dL). The patient was rehydrated and started on insulin infusion according to the diabetic ketoacidosis protocol following the diagnosis of euglycemic diabetic ketoacidosis. CONCLUSION: Dapagliflozin is associated with euglycemic diabetic ketoacidosis in the setting of prolonged fasting. Counseling and possible medication adjustment should be added to clinical practice in those planning to decrease caloric intake through dedicated fasting including Ramadan or weight-loss-directed behavioral modifications, especially if taking sodium-glucose cotransporter 2 inhibitors.",
+      "mesh_terms": [
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Ketoacidosis",
+        "Fasting",
+        "Glucose",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Sodium"
+      ]
+    },
+    {
+      "pmid": "35075416",
+      "title": "The Effects of Intravenous Vitamin C on Stress Response Severity in Abdominal Hysterectomy Following Prolonged Fasting Time.",
+      "authors": [
+        "Vali Imantalab",
+        "Mandana Mansour Ghanaie",
+        "Zahra Rafiei Sorouri",
+        "Ali Mohammadzadeh Jouryabi",
+        "Samaneh Ghazanfar Tehran",
+        "Haniyeh Sadat Fayazi",
+        "Gelareh Biazar",
+        "Mehdi Noroozshamsi"
+      ],
+      "journal": "Anesthesiology and pain medicine",
+      "publication_date": "2021-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Inevitable prolonged fasting time before surgery leads to inflammatory reactions, surgery-related stress response, and consequently unfavorable outcomes; thus, developing strategies to mitigate these consequences is crucial. OBJECTIVES: In this study, we evaluated the effect of ascorbic acid on stress response reduction in abdominal hysterectomy following prolonged fasting time. METHODS: Eligible women candidates for abdominal hysterectomy following prolonged fasting time were enrolled in the study and divided into 2 groups of vitamin C [group C; 1 g intravenously (IV) before surgery] and placebo (group P). Before induction of anesthesia, C-reactive protein (CRP), mean arterial pressure (MAP), heart rate (HR), and blood sugar (BS) were measured and compared between the 2 groups at 4-point times, 24 and 48 hours immediately after extubation. RESULTS: Finally, the data of 80 patients were included for the final analysis. A statistically significant difference was observed between the 2 groups in terms of CRP and BS values in T1 CRP serum levels; at the end of the study, CRP values were 0.5 ± 0.55 and 0.92 ± 0.69 in groups C and P, respectively (P = 0.012), and BS levels were 124.12 ± 18.11 and 152.0 ± 17.36 in groups C and P, respectively (P = 0.0001). However, this significant difference was not observed at T2 regarding CRP (P = 0.145) and BS (P = 0.135), as well as at T3 regarding CRP (P = 0.282) and BS (P = 0.213). However, according to both CRP and BS values, the trend of changes from T0 to T3 was significant in the 2 groups (P < 0.0001). Hemodynamic parameters were not significantly different between the 2 groups. No adverse event was reported in the 2 groups. CONCLUSIONS: We found that ascorbic acid could induce short-term positive effects in abdominal hysterectomy following prolonged fasting time. Obviously, the optimal dosage, timing, and specific cases that benefit the most from this intervention should be investigated."
+    },
+    {
+      "pmid": "33496364",
+      "title": "Catalase deficiency induces reactive oxygen species mediated pexophagy and cell death in the liver during prolonged fasting.",
+      "authors": [
+        "Raghbendra Kumar Dutta",
+        "Yunash Maharjan",
+        "Joon No Lee",
+        "Channy Park",
+        "Ye-Shih Ho",
+        "Raekil Park"
+      ],
+      "journal": "BioFactors (Oxford, England)",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Peroxisomes are dynamic organelles that participate in a diverse array of cellular processes, including β-oxidation, which produces a considerable amount of reactive oxygen species (ROS). Although we showed that catalase depletion induces ROS-mediated pexophagy in cells, the effect of catalase deficiency during conditions that favor ROS generation remains elusive in mice. In this study, we reported that prolonged fasting in catalase-knockout (KO) mice drastically increased ROS production, which induced liver-specific pexophagy, an autophagic degradation of peroxisomes. In addition, increased ROS generation induced the production of pro-inflammatory cytokines in the liver tissues of catalase-KO mice. Furthermore, there was a significant increase in the levels of aspartate transaminase and alanine transaminase as well as apparent cell death in the liver of catalase-KO mice during prolonged fasting. However, an intra-peritoneal injection of the antioxidant N-acetyl-l-cysteine (NAC) and autophagy inhibitor chloroquine inhibited the inflammatory response, liver damage, and pexophagy in the liver of catalase-KO mice during prolonged fasting. Consistently, genetic ablation of autophagy, Atg5 led to suppression of pexophagy during catalase inhibition by 3-aminotriazole (3AT). Moreover, treatment with chloroquine also ameliorated the inflammatory response and cell death in embryonic fibroblast cells from catalase-KO mice. Taken together, our data suggest that ROS-mediated liver-specific pexophagy observed during prolonged fasting in catalase-KO mice may be responsible for the process associated with hepatic cell death.",
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Animals",
+        "Catalase",
+        "Cells, Cultured",
+        "Food Deprivation",
+        "Hepatitis",
+        "Liver",
+        "Macroautophagy",
+        "Mice, Knockout",
+        "Peroxisomes",
+        "Reactive Oxygen Species",
+        "Mice"
+      ]
+    },
+    {
+      "pmid": "31724339",
+      "title": "Redundancy in regulation of lipid accumulation in skeletal muscle during prolonged fasting in obese men.",
+      "authors": [
+        "Morten L Høgild",
+        "Anders Gudiksen",
+        "Henriette Pilegaard",
+        "Hans Stødkilde-Jørgensen",
+        "Steen Bønløkke Pedersen",
+        "Niels Møller",
+        "Jens O L Jørgensen",
+        "Niels Jessen"
+      ],
+      "journal": "Physiological reports",
+      "publication_date": "2019-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Fasting in human subjects shifts skeletal muscle metabolism toward lipid utilization and accumulation, including intramyocellular lipid (IMCL) deposition. Growth hormone (GH) secretion amplifies during fasting and promotes lipolysis and lipid oxidation, but it is unknown to which degree lipid deposition and metabolism in skeletal muscle during fasting depends on GH action. To test this, we studied nine obese but otherwise healthy men thrice: (a) in the postabsorptive state (\"CTRL\"), (b) during 72-hr fasting (\"FAST\"), and (c) during 72-hr fasting and treatment with a GH antagonist (GHA) (\"FAST + GHA\"). IMCL was assessed by magnetic resonance spectroscopy (MRS) and blood samples were drawn for plasma metabolomics assessment while muscle biopsies were obtained for measurements of regulators of substrate metabolism. Prolonged fasting was associated with elevated GH levels and a pronounced GHA-independent increase in circulating medium- and long-chain fatty acids, glycerol, and ketone bodies indicating increased supply of lipid intermediates to skeletal muscle. Additionally, fasting was associated with a release of short-, medium-, and long-chain acylcarnitines to the circulation from an increased β-oxidation. This was consistent with a ≈55%-60% decrease in pyruvate dehydrogenase (PDHa) activity. Opposite, IMCL content increased ≈75% with prolonged fasting without an effect of GHA. We suggest that prolonged fasting increases lipid uptake in skeletal muscle and saturates lipid oxidation, both favoring IMCL deposition. This occurs without a detectable effect of GHA on skeletal muscle lipid metabolism.",
+      "mesh_terms": [
+        "Fasting",
+        "Glucose",
+        "Human Growth Hormone",
+        "Humans",
+        "Lipid Metabolism",
+        "Magnetic Resonance Spectroscopy",
+        "Male",
+        "Metabolome",
+        "Mitochondrial Proteins",
+        "Muscle, Skeletal",
+        "Obesity",
+        "Oxidation-Reduction",
+        "Peroxisome Proliferator-Activated Receptors"
+      ]
+    },
+    {
+      "pmid": "31593098",
+      "title": "Preoperative prolonged fasting causes severe metabolic acidosis: A case report.",
+      "authors": [
+        "WenQin Zhou",
+        "LinLi Luo"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2019-Oct",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "RATIONALE: Preoperative prolonged fasting may cause starvation ketoacidosis. Herein, we report of a case of starvation ketoacidosis due to long-term fasting before surgery. PATIENT CONCERNS: We report of a case of metabolic acidosis due to prolonged fasting in a previously healthy 44-year-old woman during a total laparoscopic hysterectomy. Hyperventilation was observed to occur when the surgery was completed. Metabolic acidosis and hypoglycemia were demonstrated by blood gas analysis of the radial artery. DIAGNOSIS: Metabolic acidosis. INTERVENTIONS: The patient received sodium bicarbonate and 5% glucose fluid at the end of the surgery. OUTCOMES: The tracheal tube was successfully removed when the tidal volume of the patient returned to normal after the therapy. However, the patient suffered pulmonary edema when she was transferred to the intensive care unit (ICU). With treatments with furosemide and sodium bicarbonate, acidosis and pulmonary edema were completely corrected at 8 hours after the surgery. On the second day after the surgery, the patient suffered nausea and vomiting. Nausea and vomiting were not completely relieved on the sixth day after the operation; therefore, the patient was transferred to the Department of Gastroenterology for further therapy. LESSONS: This case suggests that although the concept of enhanced recovery after surgery (ERAS) has been adopted by most physicians because of its positive outcomes, the issue of prolonged fasting still exists, and such patients may be exposed to the risk of starvation ketoacidosis.",
+      "mesh_terms": [
+        "Acidosis",
+        "Adult",
+        "Fasting",
+        "Female",
+        "Humans",
+        "Hysterectomy",
+        "Preoperative Period",
+        "Starvation"
+      ]
+    },
+    {
+      "pmid": "30236569",
+      "title": "Early Rehydration in Surgical Patients With Prolonged Fasting Decreases Postoperative Nausea and Vomiting.",
+      "authors": [
+        "Carol Munsterman",
+        "Penelope Strauss"
+      ],
+      "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+      "publication_date": "2018-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: The purpose of the project was to reduce the incidence of postoperative nausea and vomiting (PONV) in adult surgical patients who fasted for more than 12 hours with the administration of a preinduction intravenous fluid (IVF) bolus. DESIGN: This interdisciplinary project used the Plan-Do-Study-Act model for quality improvement. METHODS: After institutional approval, 381 consecutive adult surgical patients were evaluated for participation; 148 patients fasted more than 12 hours and met inclusion criteria to receive a 1 liter, IV fluid bolus before anesthesia induction. All patients received general inhalational anesthesia and prophylactic doses of dexamethasone and ondansetron, along with peripheral nerve blocks appropriate for surgical case type. FINDINGS: Only 96 (64%) qualified patients received the complete bolus before anesthesia induction. In this group, the incidence of PONV was 4.25%. CONCLUSION: The use of a simple rehydration protocol reduced the incidence of PONV in patients with prolonged fasting times. Time and personnel constraints were identified as barriers that prevented full compliance with the protocol.",
+      "mesh_terms": [
+        "Adult",
+        "Anesthesia, General",
+        "Antiemetics",
+        "Dexamethasone",
+        "Fasting",
+        "Female",
+        "Fluid Therapy",
+        "Humans",
+        "Incidence",
+        "Infusions, Intravenous",
+        "Male",
+        "Middle Aged",
+        "Ondansetron",
+        "Postoperative Nausea and Vomiting",
+        "Time Factors",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "29159461",
+      "title": "Severe Hyperammonemic Encephalopathy Requiring Dialysis Aggravated by Prolonged Fasting and Intermittent High Fat Load in a Ramadan Fasting Month in a Patient with CPTII Homozygous Mutation.",
+      "authors": [
+        "P Phowthongkum",
+        "C Ittiwut",
+        "V Shotelersuk"
+      ],
+      "journal": "JIMD reports",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Carnitine palmitoyltransferase II (CPTII) deficiency is a mitochondrial fatty acid oxidation disorder that can present antenatally as congenital brain malformations, or postnatally with lethal neonatal, severe infantile, or the most common adult myopathic forms. No case of severe hyperammonemia without liver dysfunction has been reported. CASE PRESENTATION: We described a 23-year-old man who presented to the emergency department with seizures and was found to have markedly elevation of serum ammonia. Continuous renal replacement therapy was initiated with successfully decreased ammonia to a safety level. He had a prolonged history of epilepsies and encephalopathic attacks that was associated with high ammonia level. Molecular diagnosis revealed a homozygous mutation in CPTII. The plasma acylcarnitine profile was consistent with the diagnosis. Failure to produce acetyl-CoA, the precursor of urea cycle from fatty acid in prolonged fasting state in Ramadan month, worsening mitochondrial functions from circulating long chain fatty acid and valproate toxicities were believed to contribute to this critical metabolic decompensation. CONCLUSION: Fatty acid oxidation disorders should be considered in the differential diagnosis of hyperammonemia even without liver dysfunction. To our knowledge, this is the first case of CPTII deficiency presented with severe hyperammonemic encephalopathy required dialysis after prolonged religious related fasting."
+    },
+    {
+      "pmid": "28160263",
+      "title": "Effect of prolonged fasting and low molecular weight heparin or warfarin therapies on 2-deoxy-2-[18F]-fluoro-D-glucose PET cardiac uptake.",
+      "authors": [
+        "Assuero Giorgetti",
+        "Gavino Marras",
+        "Dario Genovesi",
+        "Elena Filidei",
+        "Antonio Bottoni",
+        "Maurizio Mangione",
+        "Michele Emdin",
+        "Paolo Marzullo"
+      ],
+      "journal": "Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology",
+      "publication_date": "2018-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Whether anticoagulants other than unfractionated heparin are able to suppress cardiac PET uptake of 2-deoxy-2-[18F]-fluoro-D-glucose (18F-FDG) is unknown. METHODS: One-hundred-seventy-four patients without history and clinical evidence of cardiac dysfunction and/or coronary heart disease underwent a 18F-FDG PET/CT study. All patients were studied with a >12-hours fasting and divided into 2 groups: group-1 without anticoagulant therapy (n:75); group-2 patients on low molecular weight heparin (n:60) or warfarin therapy (n:39). Cardiac 18F-FDG uptake was estimated qualitatively using a 4-point scale and semiquantitatively as total LV glycolysis (LVG) and metabolic volume (MV), drawing isocontour volume of interest (VOI) including the whole LV. RESULTS: Qualitatively, LV 18-FDG uptake was scored 0 or 1, indicating a good suppression, in 10/75 (13%) patients of group-1 and 77/99 (78%) of group-2 (p < .001). Semiquantitatively, patients of group-1 showed higher values of 18-FDG uptake than patients of group-2, assessed as LVG (802,649 ± 468,442 vs 198,989 ± 261,439, p < .0001) or MV (219 ± 77 vs 57 ± 48 cm3, p < .0001). Subanalysis for anticoagulant drugs showed similar results. CONCLUSIONS: Prolonged fasting combined to anticoagulants other than unfractionated heparin is able to minimize glucose cardiac metabolism. Our data confirm previous observation on the possibility to influence the metabolic pattern of the heart before the PET scan and broadens the spectrum of pharmacological options.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Anticoagulants",
+        "Fasting",
+        "Female",
+        "Fluorodeoxyglucose F18",
+        "Heparin, Low-Molecular-Weight",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Myocardium",
+        "Positron Emission Tomography Computed Tomography",
+        "Warfarin"
+      ]
+    },
+    {
+      "pmid": "27846126",
+      "title": "Implementation of the American Society of Anesthesiology's guidelines to reduce prolonged fasting times in pediatric preoperative patients: a best practice implementation project.",
+      "authors": [
+        "Carol M Costello"
+      ],
+      "journal": "JBI database of systematic reviews and implementation reports",
+      "publication_date": "2016-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The American Society of Anesthesiology (ASA) guidelines for pediatric preoperative fasting have been a standard for well over a decade. However, use of protocols involving an excessive fasting duration exposes patients to the physiological impacts of fluid volume loss. OBJECTIVES: The current project aimed to improve fluid supplementation during presurgical fasting in pediatric patients at an academic medical center. Specific objectives were to increase clinical staff knowledge regarding ASA fasting standards and implement them in specific pediatric patient populations. METHODS: The Joanna Briggs Institute Practical Application of Clinical Evidence System and Getting Research into Practice tools were used. A baseline audit assessed compliance with best practice criteria regarding staff education, patient/family instruction and preoperative fasting times. Intervention outcomes were evaluated in a post implementation criteria audit. RESULTS: Although compliance with fasting less than 12 hours more than doubled, only half of these patients/parents adhered to the guidelines. No excessive fasting events were attributed to a language barrier. There were no insufficient fasting events. CONCLUSION: Moderate success with fasting compliance was demonstrated when patients/parents were taught the multi-step ASA non per os (nothing by mouth) instructions. This complexity may have contributed to non-compliance and pointed to the need for enhanced teaching strategies. No operative start delays related to insufficient fasting indicated surgical scheduling flexibility was not at risk, and anesthesia providers had adopted the guidelines. Interdisciplinary engagement in this project was significantly impacted by director level communication which will be a key strategy for future implementations.",
+      "mesh_terms": [
+        "Adolescent",
+        "Anesthesia",
+        "Anesthesiology",
+        "Child",
+        "Child, Preschool",
+        "Fasting",
+        "General Surgery",
+        "Guideline Adherence",
+        "Guidelines as Topic",
+        "Humans",
+        "Infant",
+        "Medical Audit",
+        "Parents",
+        "Patient Education as Topic",
+        "Practice Guidelines as Topic",
+        "Preoperative Care",
+        "United States"
+      ]
+    },
+    {
+      "pmid": "25072352",
+      "title": "Prolonged fasting/refeeding promotes hematopoietic stem cell regeneration and rejuvenation.",
+      "authors": [
+        "Andrew R Mendelsohn",
+        "James W Larrick"
+      ],
+      "journal": "Rejuvenation research",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Comment"
+      ],
+      "abstract": "The sensitivity of hematopoietic stem cells (HSCs) to toxic effects of cancer chemotherapy is one of the major roadblocks in cancer therapy. Moreover, the loss of HSC function in the elderly (\"immunosenescence\") is a major source of morbidity and mortality. Until recently, it was believed that HSCs were irreversibly damaged by the aging process. Recent work in mice shows that cycles of prolonged fasting (PF) of greater than 72 hr followed by refeeding can protect HSCs from the toxicity associated with chemotherapy and stimulate the proliferation of and rejuvenate old HSCs. A preliminary phase I trial in humans suggests that PF may confer benefit to people undergoing chemotherapy. These effects are at least partially mediated by lowered insulin-like growth factor-1 levels in the blood and stem cell microenvironment, which leads to lowered protein kinase A (PKA) activity. Reducing PKA levels or activity can replicate at least some of the effects of PF on HSCs. Shorter periods of fasting were not effective. PF represents a potentially profound, low-tech means to enhance cancer treatment and reverse aging of the immune system in the elderly. Because PF is likely to be stressful to the old and fragile, the development of PF mimetics may be warranted.",
+      "mesh_terms": [
+        "Animals",
+        "Cyclic AMP-Dependent Protein Kinases",
+        "Fasting",
+        "Hematopoietic Stem Cells",
+        "Immunosuppression Therapy",
+        "Insulin-Like Growth Factor I",
+        "Regeneration"
+      ]
+    },
+    {
+      "pmid": "24160237",
+      "title": "Prolonged fasting with fluid therapy is related to poorer outcomes in medical patients.",
+      "authors": [
+        "Georgios Kyriakos",
+        "Alicia Calleja-Fernández",
+        "Dalia Ávila-Turcios",
+        "Isidoro Cano-Rodríguez",
+        "María D Ballesteros Pomar",
+        "Alfonso Vidal-Casariego"
+      ],
+      "journal": "Nutricion hospitalaria",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND OBJECTIVE: An inadequate fluid therapy can worsen the outcomes of surgical patients, but there are no data in medical patients. The aim of this study was to determine the adequacy of fluid therapy in hospitalised patients of medical wards, and its influence on outcomes. METHODS: Cross-sectional study including nil-per-os patients admitted in medical wards of the Complejo Asistencial Universitario de León. The administered fluid therapy was compared with the standardised requirements. Nutritional status was evaluated with Subjective Global Assessment. Fasting was considered inappropriate if it lasted > 7 days in well-nourished, and >5 days in malnourished patients if nutritional support had not been provided. RESULTS: Fluid therapy lasted 4 (IQR = 2) days, and fasting was inadequately maintained in 27% of patients. Fluid requirements were correctly fulfilled, but patients received an excess of sodium (+58.4%) and chloride (+62.2%), and potassium administration was insufficient (-35.1%). Glucose supply was 68.8 (29.2) g/d, and 99% received < 130 g/d. Patients with an inadequate duration of fasting had a longer hospital stay after adjusting for sex, age, nutritional status, infused volume, electrolytes, glucose and diseases. Only malnutrition predicted mortality during hospitalisation (OR 10.5; 95%CI 1.3 to 83.2), when multivariate analysis was performed. CONCLUSIONS: Fasting medical patients receive an inadequate supply of glucose and electrolytes. Prolonged fluid therapy and malnutrition may worsen the outcomes of these patients, independently of other conditions like age or diseases.",
+      "mesh_terms": [
+        "Aged",
+        "Cross-Sectional Studies",
+        "Fasting",
+        "Female",
+        "Fluid Therapy",
+        "Hospitalization",
+        "Humans",
+        "Male",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "23988480",
+      "title": "Targeted 13C enrichment of lipid and protein pools in the body reveals circadian changes in oxidative fuel mixture during prolonged fasting: a case study using Japanese quail.",
+      "authors": [
+        "Marshall D McCue",
+        "James A Amaya",
+        "Alice S Yang",
+        "Erik B Erhardt",
+        "Blair O Wolf",
+        "David T Hanson"
+      ],
+      "journal": "Comparative biochemistry and physiology. Part A, Molecular & integrative physiology",
+      "publication_date": "2013-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Many animals undergo extended periods of fasting. During these fasts, animals oxidize a ratio of macronutrients dependent on the nutritional, energetic, and hydric requirements of the fasting period. In this study, we use Japanese quail (Coturnix coturnix japonica), a bird with natural intermediate fasting periods, to examine macronutrient use during a 6d fast. We raised groups of quail on isotopically labeled materials ((13)C-1-leucine, (13)C-U-glucose, or (13)C-1-palmitic acid) with the intent of labeling specific macronutrient/tissue pools in each treatment, and then traced their use as fuels by measuring the δ(13)C values of breath CO2. Based on changes in δ(13)C values during the fast, it appears that the carbohydrate label,(13)C-U-glucose, was largely incorporated into the lipid pool and thus breath samples ultimately reflected lipid use rather than carbohydrate use. In the lipid treatment, the (13)C-1-palmitic acid faithfully labeled the lipid pool and was reflected in the kinetics δ(13)C values in breath CO2 during the fast. Endogenous lipid oxidation peaked after 24h of fasting and remained constantly elevated thereafter. The protein label,(13)C-1-leucine, showed clear diurnal periods of protein sparing and degradation, with maximal rates of protein oxidation occurring at night and the lowest rates occurring during the day time. This stable isotope tracer method provides a noninvasive approach to study the nutrient dynamics of fasting animals and should provide new insights into how different types of animals use specific nutrient pools during fasting and possibly other non-steady physiological states.",
+      "mesh_terms": [
+        "Animals",
+        "Body Temperature",
+        "Carbon Isotopes",
+        "Circadian Rhythm",
+        "Coturnix",
+        "Fasting",
+        "Leucine",
+        "Lipid Metabolism",
+        "Oxidation-Reduction",
+        "Palmitic Acid"
+      ]
+    },
+    {
+      "pmid": "20425196",
+      "title": "Prolonged fasting as a method of mood enhancement in chronic pain syndromes: a review of clinical evidence and mechanisms.",
+      "authors": [
+        "Andreas Michalsen"
+      ],
+      "journal": "Current pain and headache reports",
+      "publication_date": "2010-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Periods of deliberate fasting with restriction to intake of solid food are practiced worldwide, mostly based on a traditional, cultural, or religious background. Recent evidence from clinical trials shows that medically supervised modified fasting (200-500 kcal nutritional intake/day) with periods from 7 to 21 days is efficacious in the treatment of rheumatic diseases and chronic pain syndromes. Here, fasting is frequently accompanied by increased alertness and mood enhancement. The beneficial claims of fasting are supported by experimental research, which has found fasting to be associated with increased brain availability of serotonin, endogenous opioids, and endocannabinoids. Fasting-induced neuroendocrine activation and mild cellular stress response with increased production of neurotrophic factors may also contribute to the mood enhancement of fasting. Fasting treatments may be useful as an adjunctive therapeutic approach in chronic pain patients. The mood-enhancing and pain-relieving effect of therapeutic fasting should be further evaluated in randomized clinical trials.",
+      "mesh_terms": [
+        "Affect",
+        "Caloric Restriction",
+        "Chronic Disease",
+        "Evidence-Based Medicine",
+        "Fasting",
+        "Humans",
+        "Somatoform Disorders"
+      ]
+    },
+    {
+      "pmid": "19106250",
+      "title": "Effects of prolonged fasting and sustained lipolysis on insulin secretion and insulin sensitivity in normal subjects.",
+      "authors": [
+        "B Salgin",
+        "M L Marcovecchio",
+        "S M Humphreys",
+        "N Hill",
+        "L J Chassin",
+        "D J Lunn",
+        "R Hovorka",
+        "D B Dunger"
+      ],
+      "journal": "American journal of physiology. Endocrinology and metabolism",
+      "publication_date": "2009-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Normal beta-cells adjust their function to compensate for any decrease in insulin sensitivity. Our aim was to explore whether a prolonged fast would allow a study of the effects of changes in circulating free fatty acid (FFA) levels on insulin secretion and insulin sensitivity and whether any potential effects could be reversed by the antilipolytic agent acipimox. Fourteen (8 female, 6 male) healthy young adults (aged 22.8-26.9 yr) without a family history of diabetes and a body mass index of 22.6 +/- 3.2 kg/m(2) were studied on three occasions in random order. Growth hormone and FFA levels were regularly measured overnight (2200-0759), and subjects underwent an intravenous glucose tolerance test in the morning (0800-1100) on each visit. Treatment A was an overnight fast, treatment B was a 24-h fast with regular administrations of a placebo, and treatment C was a 24-h fast with regular ingestions of 250 mg of acipimox. The 24-h fast increased overnight FFA levels (as measured by the area under the curve) 2.8-fold [51.3 (45.6-56.9) vs. 18.4 (14.4-22.5) *10(4) micromol/l*min, P < 0.0001], and it led to decreases in insulin sensitivity [5.7 (3.6-8.9) vs. 2.6 (1.3-4.7) *10(-4) min(-1) per mU/l, P < 0.0001] and the acute insulin response [16.3 (10.9-21.6) vs. 12.7 (8.7-16.6) *10(2) pmol/l*min, P = 0.02], and therefore a reduction in the disposition index [93.1 (64.8-121.4) vs. 35.5 (21.6-49.4) *10(2) pmol/mU, P < 0.0001]. Administration of acipimox during the 24-h fast lowered FFA levels by an average of 20% (range: -62 to +49%; P = 0.03), resulting in a mean increase in the disposition index of 31% (P = 0.03). In conclusion, the 24-h fast was accompanied by substantial increases in fasting FFA levels and induced reductions in the acute glucose-simulated insulin response and insulin sensitivity. The use of acipimox during the prolonged fast increased the disposition index, suggesting a partial reversal of the effects of fasting on the acute insulin response and insulin sensitivity.",
+      "mesh_terms": [
+        "Adult",
+        "Fasting",
+        "Fatty Acids, Nonesterified",
+        "Female",
+        "Glucose Tolerance Test",
+        "Human Growth Hormone",
+        "Humans",
+        "Hypolipidemic Agents",
+        "Insulin",
+        "Insulin Resistance",
+        "Insulin Secretion",
+        "Lipolysis",
+        "Male",
+        "Pyrazines",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "18680716",
+      "title": "The circulating metabolic regulator FGF21 is induced by prolonged fasting and PPARalpha activation in man.",
+      "authors": [
+        "Cecilia Gälman",
+        "Tomas Lundåsen",
+        "Alexei Kharitonenkov",
+        "Holly A Bina",
+        "Mats Eriksson",
+        "Ingiäld Hafström",
+        "Maria Dahlin",
+        "Per Amark",
+        "Bo Angelin",
+        "Mats Rudling"
+      ],
+      "journal": "Cell metabolism",
+      "publication_date": "2008-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "FGF21 is a critical metabolic regulator, pivotal for fasting adaptation and directly regulated by PPARalpha in rodents. However, the physiological role of FGF21 in man is not yet defined and was investigated in our study. Serum FGF21 varied 250-fold among 76 healthy individuals and did not relate to age, gender, body mass index (BMI), serum lipids, or plasma glucose. FGF21 levels had no diurnal variation and were unrelated to bile acid or cholesterol synthesis. Ketosis induced by a 2 day fast or feeding a ketogenic diet (KD) did not influence FGF21 levels, whereas a 74% increase occurred after 7 days of fasting. Hypertriglyceridemic nondiabetic patients had 2-fold elevated FGF21 levels, which were further increased by 28% during fenofibrate treatment. FGF21 circulates in human plasma and increases by extreme fasting and PPARalpha activation. The wide interindividual variation and the induction of ketogenesis independent of FGF21 levels indicate that the physiological role of FGF21 in humans may differ from that in mice.",
+      "mesh_terms": [
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Blood Glucose",
+        "Body Mass Index",
+        "Caloric Restriction",
+        "Energy Intake",
+        "Energy Metabolism",
+        "Fasting",
+        "Female",
+        "Fibroblast Growth Factors",
+        "Food Deprivation",
+        "Humans",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Ketones",
+        "Ketosis",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "PPAR alpha",
+        "Sex Factors",
+        "Species Specificity",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "18056775",
+      "title": "Prolonged fasting induces peripheral insulin resistance, which is not ameliorated by high-dose salicylate.",
+      "authors": [
+        "Saskia N van der Crabben",
+        "Gideon Allick",
+        "Mariette T Ackermans",
+        "Erik Endert",
+        "Johannes A Romijn",
+        "Hans P Sauerwein"
+      ],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "publication_date": "2008-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: Elevated plasma free fatty acids, excess reactive oxygen species, inflammation, and gluco-counterregulatory hormones induce insulin resistance (IR) through activation of Jun NH(2)-terminal kinase and nuclear factor-kappaB inhibitor kappaB kinase, which leads to hyperphosphorylation of the insulin receptor substrate type 1. Aspirin blocks nuclear factor-kappaB inhibitor kappaB kinase and improves IR in type 2 diabetes mellitus. OBJECTIVE: We hypothesized that high-dose aspirin would also attenuate fasting-induced IR in healthy lean subjects. DESIGN: Glucose and glutathione (GHS) metabolism was studied after 12 and 60 h of fasting on two occasions: with and without aspirin (6 g/d). SETTING: The study took place at the Academic Medical Center, Metabolic Research Unit. PARTICIPANTS: Six healthy lean men participated. INTERVENTION: Intervention included 60 h of fasting with or without aspirin ( approximately 6 g/d). MAIN OUTCOME MEASURE: Main outcome measures included glucose and GSH metabolism. RESULTS: Fasting decreased insulin-mediated peripheral glucose uptake by 46% after 60 h (P = 0.03). Aspirin did not alter this effect of 60 h of fasting on insulin sensitivity (P = 0.03). GSH concentration decreased during fasting, but the fractional synthetic rate of GSH was unaffected either with or without aspirin. Fasting did not affect inflammatory parameters, although aspirin increased soluble TNF receptors I and II. CONCLUSION: Prolonged fasting induces profound peripheral IR. In contrast to type 2 diabetes mellitus, high-dose salicylate does not affect fasting-induced peripheral IR.",
+      "mesh_terms": [
+        "Adult",
+        "Aspirin",
+        "Enzyme Inhibitors",
+        "Fasting",
+        "Glucose",
+        "Glucose Clamp Technique",
+        "Glutathione",
+        "Humans",
+        "Insulin",
+        "Insulin Resistance",
+        "Male",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "9753300",
+      "title": "Circulating fatty acids are essential for efficient glucose-stimulated insulin secretion after prolonged fasting in humans.",
+      "authors": [
+        "R L Dobbins",
+        "M W Chester",
+        "M B Daniels",
+        "J D McGarry",
+        "D T Stein"
+      ],
+      "journal": "Diabetes",
+      "publication_date": "1998-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "In the fasted rat, efficient glucose-stimulated insulin secretion (GSIS) is absolutely dependent on an elevated level of circulating free fatty acids (FFAs). To determine if this is also true in humans, nonobese volunteers were fasted for 24 h (n = 5) or 48 h (n = 5), after which they received an infusion of either saline or nicotinic acid (NA) to deplete their plasma FFA pool, followed by an intravenous bolus of glucose. NA treatment resulted in a fall in basal insulin concentrations of 35 and 45% and in the area under the insulin response curve (area under the curve [AUC]) to glucose of 47 and 42% in the 24- and 48-h fasted individuals, respectively. The 48-h fasted subjects underwent the same procedure with the addition of a coinfusion of Intralipid plus heparin (together with NA) to maintain a high concentration of plasma FFAs throughout the study. The basal level and AUC for insulin were now completely normalized (C-peptide profiles paralleled those for insulin). To assess the effect of an overnight fast, nonobese (n = 6) and obese (n = 6) subjects received an infusion of either saline or NA, followed by a hyperglycemic clamp (200 mg/dl). The insulin AUC in response to glucose was unaffected by lowering of the FFA level in nonobese subjects, but fell by 29% in the obese group. The data clearly demonstrate that in humans, the rise in circulating FFA levels after 24 and 48 h of food deprivation is critically important for pancreatic beta-cell function both basally and during subsequent glucose loading. They also suggest that the enhancement of GSIS by FFAs in obese individuals is more prominent than that seen in their nonobese counterparts.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "C-Peptide",
+        "Fasting",
+        "Fat Emulsions, Intravenous",
+        "Fatty Acids, Nonesterified",
+        "Female",
+        "Glucose",
+        "Glucose Clamp Technique",
+        "Heparin",
+        "Humans",
+        "Insulin",
+        "Insulin Secretion",
+        "Islets of Langerhans",
+        "Male",
+        "Niacin",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "9116919",
+      "title": "Influence of prolonged fasting and thyroid hormone on the alpha 2-adrenergic response in isolated epididymal adipocytes of Wistar rats.",
+      "authors": [
+        "R Ben Cheikh",
+        "P Chomard",
+        "J L Beltramo",
+        "N Autissier",
+        "P Dumas"
+      ],
+      "journal": "European journal of endocrinology",
+      "publication_date": "1997-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fasting and thyroid hormone have been reported to modulate the beta-adrenergic pathway of lipolysis in rat, but their effects on the alpha 2-adrenergic response are not well known. The purpose of the present study was to investigate this point. Male Wistar rats, 3 weeks old, were thyroidectomized surgically, kept for 1 month at 25 degrees C and then fasted or not fasted for 3 days with or without daily intraperitoneal injection of 3,5,3'-tri-iodo-L-thyronine (T3; 4.6 nmol/100 g body weight). Age-matched, sham-operated, fed and fasted euthyroid rats were used as controls. The experiments were carried out using isolated epididymal adipocytes. The alpha 2-adrenergic agonist UK 14304 (UK) inhibited the stimulated lipolysis more in fed than in fasted euthyroid rats whereas it had no effect in hypothyroid or T3-treated hypothyroid rats. The alpha 2-adrenergic antagonist idazoxan reversed the antilipolytic effect of UK more in fasted than in fed euthyroid rats. The alpha 2-adrenergic antagonist RX 821002 (RX) did so, but at lower concentrations than those of idazoxan. Idazoxan slightly increased the glycerol release in hypothyroid and especially T3-treated hypothyroid rats. RX had practically no effect on the production of glycerol in these animals. The findings suggest that (a) fasting and probably hypothyroidism decrease the alpha 2-adrenergic response in adipocytes from rats, (b) T3 treatment of hypothyroid rats has no effect on the alpha 2 response, and (c) thyroid hormone does not directly modulate the alpha 2-adrenergic response in rat adipocytes.",
+      "mesh_terms": [
+        "Adipocytes",
+        "Adipose Tissue",
+        "Adrenergic alpha-Antagonists",
+        "Animals",
+        "Brimonidine Tartrate",
+        "Cell Separation",
+        "Epididymis",
+        "Fasting",
+        "Idazoxan",
+        "Male",
+        "Quinoxalines",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, Adrenergic, alpha",
+        "Time Factors",
+        "Triiodothyronine"
+      ]
+    },
+    {
+      "pmid": "1282477",
+      "title": "Differential expression of rat pancreatic islet beta-cell glucose transporter (GLUT 2), proinsulin and islet amyloid polypeptide genes after prolonged fasting, insulin-induced hypoglycaemia and dexamethasone treatment.",
+      "authors": [
+        "L Koranyi",
+        "R Bourey",
+        "J Turk",
+        "M Mueckler",
+        "M A Permutt"
+      ],
+      "journal": "Diabetologia",
+      "publication_date": "1992-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The question posed by these studies was whether chronic adaptive changes in glucose-stimulated insulin secretion are accompanied by comparable changes in islet Beta-cell glucose transporter (GLUT 2) gene expression. Control, fasted (3-day), insulin-injected hypoglycaemic (5-day), and dexamethasone-treated (4-day) rats (n = 5 for each condition), were studied. After fasting significant decrements in proinsulin mRNA/microgram RNA (-32%, p < 0.05) and islet amyloid polypeptide mRNA/microgram RNA (-44%, p < 0.05) were observed, while there was no change in GLUT 2 mRNA/microgram RNA (-13%, p > 0.05). After insulin-induced hypoglycaemia, decrements in proinsulin mRNA/microgram RNA (-49%, p < 0.01) and islet amyloid polypeptide mRNA/microgram RNA (-44%, p < 0.01) were also observed, with no change in islet GLUT 2 mRNA/microgram RNA (-18%, p > 0.05). Dexamethasone treatment resulted in a marked stimulatory effect on proinsulin mRNA/microgram RNA (+236%, p < 0.001) and islet amyloid polypeptide mRNA/microgram RNA (+221%, p < 0.01), while again there was no change in islet GLUT 2 mRNA/microgram RNA (+0.3%, p > 0.05). Quantitative immunoblot analysis with a GLUT 2 specific antibody revealed no change in islet GLUT 2 protein with fasting, but a small decrease (-39 +/- 11%) in islet GLUT 2/microgram protein after insulin-induced hypoglycaemia. These results do not support the hypothesis that chronic changes in glucose-stimulated insulin secretion are accompanied by changes in GLUT 2 expression. In contrast to the lack of correlation with GLUT 2, there was a striking correlation between proinsulin and islet amyloid polypeptide mRNAs for all experimental conditions (r = 0.974, p < 0.001).(ABSTRACT TRUNCATED AT 250 WORDS)",
+      "mesh_terms": [
+        "Amyloid",
+        "Animals",
+        "Blood Glucose",
+        "Blotting, Northern",
+        "Body Weight",
+        "Cells, Cultured",
+        "Dexamethasone",
+        "Fasting",
+        "Gene Expression",
+        "Hypoglycemia",
+        "Insulin",
+        "Islet Amyloid Polypeptide",
+        "Islets of Langerhans",
+        "Liver",
+        "Male",
+        "Monosaccharide Transport Proteins",
+        "Poly A",
+        "Proinsulin",
+        "RNA",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "1661647",
+      "title": "Whole-body and tissue protein synthesis during brief and prolonged fasting in the rat.",
+      "authors": [
+        "Y Cherel",
+        "D Attaix",
+        "D Rosolowska-Huszcz",
+        "R Belkhou",
+        "J P Robin",
+        "M Arnal",
+        "Y Le Maho"
+      ],
+      "journal": "Clinical science (London, England : 1979)",
+      "publication_date": "1991-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "1. Little information is currently available on protein turnover during chronic protein loss situations. We have thus measured the whole-body and tissue protein fractional synthesis rates (ks), the whole-body fractional protein degradation rate (kd), the capacity for protein synthesis (Cs) and the efficiency of protein synthesis (kRNA) in vivo in fed and fasted (1, 5 and about 9 days) 400 g rats. 2. One day of starvation resulted in a reduced ks and an increased kd in the whole body. ks was selectively depressed in skeletal muscles, mainly owing to a reduced kRNA, and was not modified in heart, liver and skin. The contribution of skin to whole-body protein synthesis increased by 39%. 3. During the phase of protein sparing (5 days of fasting), kd in the whole body decreased below the control fed level. ks in skeletal muscles was sustained because kRNA was restored to 82-98% of the control value. 4. Rats were in a protein-wasting phase after 9 days of starvation. kd in the whole body did not increase and was actually 78% of the value observed in fed animals. By contrast, ks in the whole body and tissues decreased to 14-34% of the control values, owing to reductions in both Cs and kRNA. Whatever the duration of the fast, the contribution of the skin to whole-body protein synthesis largely exceeded that of skeletal muscle. 5. The present findings suggest that the main goal in the treatment of chronic protein loss should be to sustain protein synthesis.(ABSTRACT TRUNCATED AT 250 WORDS)",
+      "mesh_terms": [
+        "Animals",
+        "Body Composition",
+        "Body Mass Index",
+        "Fasting",
+        "Male",
+        "Nitrogen",
+        "Protein Biosynthesis",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Time Factors",
+        "Valine"
+      ]
+    },
+    {
+      "pmid": "3582076",
+      "title": "Prolonged fasting hypoglycemia due to insulin antibodies in patient with non-insulin-dependent diabetes mellitus: effect of insulin withdrawal on insulin-antibody-binding kinetics.",
+      "authors": [
+        "T W Van Haeften",
+        "B A Krom",
+        "J E Gerich"
+      ],
+      "journal": "Diabetes care",
+      "publication_date": "1987",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Fasting hypoglycemia, which persisted for 3 days after insulin treatment was stopped, occurred in a patient with non-insulin-dependent diabetes mellitus who had inappropriate plasma free-insulin levels (18-25 microU/ml) and extremely high antibody-bound insulin (greater than 20,000 microU/ml) but normal counter-regulatory hormone secretion and plasma C-peptide levels. The amount of antibody-bound insulin decreased in a biphasic pattern over 13 mo of observation with an initial half-life of 35 days and a more gradual decrease with a half-life of 160 days. The number of high-affinity antibody binding sites was virtually identical to the amount of antibody-bound insulin in the patient's plasma. We conclude that the patient's fasting hyperinsulinemia and hypoglycemia were due to release of antibody-bound insulin.",
+      "mesh_terms": [
+        "Aged",
+        "Diabetes Mellitus, Type 2",
+        "Fasting",
+        "Female",
+        "Half-Life",
+        "Humans",
+        "Hypoglycemia",
+        "Insulin Antibodies",
+        "Kinetics"
+      ]
+    },
+    {
+      "pmid": "6287864",
+      "title": "Protein wasting due to acidosis of prolonged fasting.",
+      "authors": [
+        "M C Hannaford",
+        "L A Leiter",
+        "R G Josse",
+        "M B Goldstein",
+        "E B Marliss",
+        "M L Halperin"
+      ],
+      "journal": "The American journal of physiology",
+      "publication_date": "1982-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "During a total fast in obese subjects, the daily rate of nitrogen excretion undergoes only a small further decline after 2 wk, the excretion rate being about 5 g N/day. At this time, ammonium and urea each constitute about one-half of this excretion. The purpose of this study was to consider two alternative hypotheses: first, that the near plateau in nitrogen excretion represents an irreducible minimum rate of net protein breakdown in order to supply essential organs with calories in the form of glucose; second, that protein breakdown could be further reduced by minimizing the requirement to provide nitrogen for ammonium excretion during the ketoacidosis of fasting. Because ammonium excretion is largely controlled by acid-base balance, 150 mmol of sodium bicarbonate plus 60 mmol of potassium chloride were administered daily to decrease ammonium excretion in eight obese subjects who were totally fasting for more than 14 days. Urine ammonium nitrogen fell with this treatment (from 3.8 +/- 0.4 to 2.0 +/- 0.4 g N/g creatinine). In addition, there was a smaller fall in the rate of urea excretion (from 2.5 +/- 0.2 to 2.1 +/- 0.3 g N/g creatinine) together with a fall in the blood urea nitrogen. Therefore, it appears that ammonium excretion contributes to the negative nitrogen balance of a prolonged total fast, as assessed over a 3-day period of observation, is responsible for about one-third of the net lean body mass loss.",
+      "mesh_terms": [
+        "Acidosis",
+        "Adult",
+        "Bicarbonates",
+        "Blood Urea Nitrogen",
+        "Fasting",
+        "Female",
+        "Humans",
+        "Ketone Bodies",
+        "Ketosis",
+        "Male",
+        "Middle Aged",
+        "Nitrogen",
+        "Obesity",
+        "Potassium Chloride",
+        "Proteinuria",
+        "Sodium Bicarbonate"
+      ]
+    },
+    {
+      "pmid": "6760286",
+      "title": "Influence of diet and prolonged fasting on blood lipids, ketone bodies, glucose and insulin in adult sheep.",
+      "authors": [
+        "J C Bouchat",
+        "F Doizé",
+        "R Paquay"
+      ],
+      "journal": "Reproduction, nutrition, developpement",
+      "publication_date": "1981",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In order to study changes in blood composition during feeding and prolonged fasting, six adult Suffolk ewes received three different diets during three periods of four weeks. Two intake levels (one and three times maintenance) and two roughage/concentrate ratios (100 and 14 p. 100 roughage) were compared according to a twofold latin square. Afterwards the animals were fasted for an 11-day period. The concentration of free fatty acids in the blood decreased when concentrate was added to the diet and when energy intake level, insufficient to meet maintenance requirements, was increased to just sufficient and then to excessive. Blood lipid and lipoprotein composition was not influenced by a change in diet. Supplying concentrate instead of roughage produced increases in the proportions of stearic acid in the triglycerides and free fatty acids and of linoleic acid in the phospholipids and cholesteryl esters and decreases in the proportions of oleic acid in the free fatty acids and of oleic and palmitic acids in the triglycerides and cholesteryl esters. When increasing intake level, the proportion of linoleic acid in the phospholipids and cholesteryl esters was further increased. Increased insulinemia was also observed with concentrate intake, particularly when the concentrate was fed ad libitum. Differences in blood composition resulting from the dietary treatments rapidly disappeared with fasting. After an initial decrease, blood ketone bodies increased and the beta-hydroxybutyrate/acetoacetate (BHB/AA) ratio decreased. Glycemia decreased initially and then stabilized; the concentration of free fatty acids increased from the first day onwards and the proportion of free fatty acids in total blood lipids also increased. An increased proportion of oleic acid in the free fatty acids and triglycerides was compensated for by a decrease of saturated acids. A decrease in the level of polyunsaturated fatty acids in the phospholipids and cholesteryl esters was balanced by increased levels of saturated and oleic acids. The high density lipoprotein/low density lipoprotein ratio (HDL/LDL) decreased and insulinemia showed a strong decrease during the first day. Blood composition seemed to stabilize after-5-6 days of fasting, except for the ketone bodies which increased again after 10 days of the fast and for glycemia which increased after 5-6 days of the fast. The influence of previous dietary treatment on changes in blood composition during fasting clearly depended on the body conformation of the animal. When animals showed similar body conformation, no differences in the blood changes were observed during fasting. But when lean and fat animals were compared, extensive differences were found in the blood composition after the food was removed.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Blood Glucose",
+        "Body Constitution",
+        "Diet",
+        "Fasting",
+        "Female",
+        "Insulin",
+        "Ketone Bodies",
+        "Lipids",
+        "Sheep",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "231064",
+      "title": "Insulinoma: clinical manifestations, diagnosis and treatment. The significance of the prolonged fasting test and of the fasting blood glucose-insulin relationship.",
+      "authors": [
+        "K Johansen"
+      ],
+      "journal": "Journal of endocrinological investigation",
+      "publication_date": "1979",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This paper describes the clinical manifestations and the significance of the fasting blood glucose-insulin relationship and the prolonged fasting test in the diagnosis of insulinoma. Pre-and postoperative results are reported. In addition, a description is given of the angiographic demonstration and the results of the surgical removal of the insulinomas.",
+      "mesh_terms": [
+        "Adenoma, Islet Cell",
+        "Adult",
+        "Aged",
+        "Blood Glucose",
+        "Fasting",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Insulin",
+        "Male",
+        "Middle Aged",
+        "Pancreatic Neoplasms",
+        "Tolbutamide"
+      ]
+    },
+    {
+      "pmid": "5039600",
+      "title": "[Physiopathology of obesity and its treatment with prolonged fasting].",
+      "authors": [
+        "H Ditschuneit"
+      ],
+      "journal": "La Clinica terapeutica",
+      "publication_date": "1972-Apr-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Acid-Base Equilibrium",
+        "Ammonia",
+        "Basal Metabolism",
+        "Diet, Reducing",
+        "Electrolytes",
+        "Fasting",
+        "Fatty Acids, Nonesterified",
+        "Female",
+        "Glycerides",
+        "Humans",
+        "Lipid Metabolism",
+        "Liver Function Tests",
+        "Male",
+        "Nitrogen",
+        "Obesity",
+        "Proteins",
+        "Time Factors",
+        "Urea"
+      ]
+    },
+    {
+      "pmid": "14052075",
+      "title": "[USE OF PROLONGED FASTING IN THE TREATMENT OF OBESITY].",
+      "authors": [
+        "R C CATELLIER"
+      ],
+      "journal": "Laval medical",
+      "publication_date": "1963-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Diabetes Mellitus",
+        "Fasting",
+        "Humans",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "13763674",
+      "title": "[Effects of prolonged fasting and other factors on gastric acidity].",
+      "authors": [
+        "K D LOUFTY"
+      ],
+      "journal": "Minerva medica",
+      "publication_date": "1961-May-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Fasting",
+        "Gastric Juice",
+        "Humans",
+        "Peptic Ulcer"
+      ]
+    },
+    {
+      "pmid": "13793866",
+      "title": "[Behavior of the blood protein picture in cardiac patients with congestive decompensation after treatment with prolonged fasting].",
+      "authors": [
+        "B L ANTONACI",
+        "L DEL GIOVANE",
+        "G MACAGNINO"
+      ],
+      "journal": "Minerva cardioangiologica",
+      "publication_date": "1959-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Blood Proteins",
+        "Clothing",
+        "Fasting",
+        "Heart Failure",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "13793871",
+      "title": "[Behavior of the blood protein picture in heart patients in congestive failure, after treatment with prolonged fasting].",
+      "authors": [
+        "B L ANTONACI",
+        "G MACAGNINO",
+        "L DEL GIOVANE"
+      ],
+      "journal": "Atti della Societa italiana di cardiologia",
+      "publication_date": "1959",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Blood Proteins",
+        "Fasting",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "13609996",
+      "title": "[Behavior of creatine metabolism in decompensated heart patients subjected to prolonged fasting treatment].",
+      "authors": [
+        "G FERUGLIO",
+        "M TOSO"
+      ],
+      "journal": "Giornale di clinica medica",
+      "publication_date": "1958-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Biochemical Phenomena",
+        "Creatine",
+        "Fasting",
+        "Heart Failure",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "13427426",
+      "title": "[Renal hemodynamics in cardiocirculatory insufficiency before and after treatment with prolonged fasting].",
+      "authors": [
+        "M CRISTINI",
+        "G PETRIN"
+      ],
+      "journal": "Cuore e circolazione",
+      "publication_date": "1957-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cardiovascular System",
+        "Fasting",
+        "Heart Failure",
+        "Hemodynamics",
+        "Humans",
+        "Kidney"
+      ]
+    },
+    {
+      "pmid": "13183207",
+      "title": "[Ascorbic acid variations in blood and urine during prolonged fasting therapy of cardiocirculatory insufficiency].",
+      "authors": [
+        "A BENEDETTI",
+        "C PICONE"
+      ],
+      "journal": "Folia cardiologica",
+      "publication_date": "1954-Apr-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Blood",
+        "Body Fluids",
+        "Fasting",
+        "Heart Failure",
+        "Humans",
+        "Urine",
+        "Vitamins"
+      ]
+    },
+    {
+      "pmid": "13139909",
+      "title": "[Blood coagulation in congestive heart failure treated with prolonged fasting].",
+      "authors": [
+        "R CAZZOLA",
+        "CO C DAL",
+        "A GIOVANNINI"
+      ],
+      "journal": "Archivio di patologia e clinica medica",
+      "publication_date": "1954",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Blood Coagulation",
+        "Fasting",
+        "Heart Failure",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "13127938",
+      "title": "[Variations in the circulating blood volume, the venous pressure and circulation rate in chronic cardiac insufficiency subjected to prolonged fasting].",
+      "authors": [
+        "A BASEVI",
+        "G DAGNINI"
+      ],
+      "journal": "Folia cardiologica",
+      "publication_date": "1953-Oct-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Blood Circulation",
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Blood Volume",
+        "Fasting",
+        "Heart Failure",
+        "Humans",
+        "Venous Pressure"
+      ]
+    },
+    {
+      "pmid": "24540041",
+      "title": "[Behavior of plasma proteins in decompensated heart disease during treatment by prolonged fasting].",
+      "authors": [
+        "B ALESSANDRO",
+        "D GIORGIO"
+      ],
+      "journal": "Folia cardiologica",
+      "publication_date": "1950-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Blood Proteins",
+        "Fasting",
+        "Heart Diseases",
+        "Heart Failure",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "14775553",
+      "title": "[Prolonged fasting therapy in cardiac insufficiency].",
+      "authors": [
+        "G MAURO",
+        "M T BORELLO"
+      ],
+      "journal": "Minerva medica",
+      "publication_date": "1950",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Dietetics",
+        "Fasting",
+        "Heart Failure",
+        "Humans",
+        "Nutritional Sciences"
+      ]
+    }
+  ]
+}

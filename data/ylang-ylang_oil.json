@@ -1,0 +1,40 @@
+{
+  "supplement": "Ylang-ylang oil",
+  "query": "Ylang-ylang oil[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:07:05",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "37176099",
+      "title": "Co-Delivery of Ylang Ylang Oil of Cananga odorata and Oxaliplatin Using Intelligent pH-Sensitive Lipid-Based Nanovesicles for the Effective Treatment of Triple-Negative Breast Cancer.",
+      "authors": [
+        "Nada K Sedky",
+        "Nour M Abdel-Kader",
+        "Marwa Y Issa",
+        "Manal M M Abdelhady",
+        "Samir N Shamma",
+        "Udo Bakowsky",
+        "Sherif Ashraf Fahmy"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-May-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Smart pH-responsive niosomes loaded with either Oxaliplatin (Ox), Ylang ylang essential oil (Y-oil), or co-loaded with both compounds (Ox-Y) (Ox@NSs, Y@NSs, and Ox-Y@NSs, respectively) were formulated utilizing the thin film method. The developed nanocontainers had a spherical morphology with mean particle sizes lower than 170 nm and showed negative surface charges, high entrapment efficiencies, and a pH-dependent release over 24 h. The prepared pH-responsive niosomes' cytotoxicity was tested against the invasive triple-negative breast cancer (MDA-MB-231) cells, compared to free OX and Y-oil. All niosomal formulations loaded with Ox and/or Y-oil significantly improved cytotoxic activity relative to their free counterparts. The Ox-Y@NSs demonstrated the lowest IC50 (0.0002 µg/mL) when compared to Ox@NSs (0.006 µg/mL) and Y@NSs (18.39 µg/mL) or unloaded Ox (0.05 µg/mL) and Y-oil (29.01 µg/mL). In addition, the percentages of the MDA-MB-231 cell population in the late apoptotic and necrotic quartiles were profoundly higher in cells treated with the smart Ox-Y@NSs (8.38% and 5.06%) than those exposed to free Ox (7.33% and 1.93%) or Y-oil (2.3% and 2.13%) treatments. Gene expression analysis and protein assays were performed to provide extra elucidation regarding the molecular mechanism by which the prepared pH-sensitive niosomes induce apoptosis. Ox-Y@NSs significantly induced the gene expression of the apoptotic markers Tp53, Bax, and Caspase-7, while downregulating the antiapoptotic Bcl2. As such, Ox-Y@NSs are shown to activate the intrinsic pathway of apoptosis. Moreover, the protein assay ascertained the apoptotic effects of Ox-Y@NSs, generating a 4-fold increase in the relative protein quantity of the late apoptotic marker Caspase-7. Our findings suggest that combining natural essential oil with synthetic platinum-based drugs in pH-responsive nanovesicles is a promising approach to breast cancer therapy.",
+      "mesh_terms": [
+        "Humans",
+        "Cananga",
+        "Oxaliplatin",
+        "Caspase 7",
+        "Triple Negative Breast Neoplasms",
+        "Liposomes",
+        "Oils, Volatile",
+        "Plant Oils",
+        "Antineoplastic Agents",
+        "Hydrogen-Ion Concentration"
+      ]
+    }
+  ]
+}

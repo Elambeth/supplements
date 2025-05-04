@@ -1,0 +1,76 @@
+{
+  "supplement": "Eleuthero",
+  "query": "Eleuthero[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:31:08",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "28214940",
+      "title": "Transcriptional and Biochemical Alterations in Zebrafish Eleuthero-Embryos (Danio rerio) After Exposure to Synthetic Progestogen Dydrogesterone.",
+      "authors": [
+        "Wen-Jun Shi",
+        "Guang-Guo Ying",
+        "Guo-Yong Huang",
+        "Yan-Qiu Liang",
+        "Li-Xin Hu",
+        "Jian-Liang Zhao",
+        "Jin-Na Zhang"
+      ],
+      "journal": "Bulletin of environmental contamination and toxicology",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Little information has so far been known on the effects of synthetic progestogen dydrogesterone (DDG) in organisms like fish. This study aimed to investigate the effects of DDG on the transcriptional and biochemical alterations in zebrafish eleuthero-embryos. Zebrafish eleuthero-embryos were analyzed for the transcriptional alterations by real-time quantitative PCR (RT-qPCR) and biochemical changes by attenuated total reflection Fourier-transform infrared spectroscopy (ATR-FITR) after 144 h exposure to DDG. The results of qPCR analysis showed that DDG exposure significantly suppressed the transcriptions of target genes involved in hypothalamic-pituitary-thyroid (HPT) axis, while it induced the expression of target genes mRNA belonging to hypothalamic-pituitary-gonad (HPG) axis. In addition, ATR-FTIR spectroscopy analysis showed that the biochemical alterations of protein, nucleic acid and lipid were observed following DDG treatment. The finding from this study suggests that DDG exposure could have potential multiple effects in fish.",
+      "mesh_terms": [
+        "Animals",
+        "Dydrogesterone",
+        "Eleutherococcus",
+        "Embryo, Nonmammalian",
+        "Endocrine Disruptors",
+        "Endocrine System",
+        "Progesterone Congeners",
+        "Water Pollutants, Chemical",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "20980353",
+      "title": "Effects of the protein kinase inhibitor PKC412 on gene expression and link to physiological effects in zebrafish Danio rerio eleuthero-embryos.",
+      "authors": [
+        "Daniela M Oggier",
+        "Anna Lenard",
+        "Michael Küry",
+        "Birgit Hoeger",
+        "Markus Affolter",
+        "Karl Fent"
+      ],
+      "journal": "Toxicological sciences : an official journal of the Society of Toxicology",
+      "publication_date": "2011-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To identify molecular effects of the antineoplastic agent protein kinase C inhibitor 412 (PKC412) (midostaurin), we applied gene expression profiling in zebrafish using whole-genome microarrays. Behavioral, developmental, and physiological effects were investigated in order to analyze for correlations between altered gene expression profiles with effects on development and physiology. Zebrafish blastula-stage embryos were exposed for 6 days postfertilization to nominal levels of 2 and 40 μg/l PKC412. Among the 259 and 511 altered transcripts at both concentrations, respectively, the expressions of genes involved in the circadian rhythm were further investigated. Alteration of swimming behavior was not observed. Pathways of interest affected by PKC412 were angiogenesis, apoptosis, DNA damage response, and response to oxidative stress. Angiogenesis was analyzed in double-transgenic zebrafish embryos Tg(fli1a:EGFP)y1;Tg(gata1:dsRed)sd2; no major defects were induced by PKC412 treatment at both concentrations. Apoptosis occurred in olfactory placodes of embryos exposed to 40 μg/l, and DNA damage was induced at both PKC412 concentrations. However, there were no significant effects on reactive oxygen species formation. This study leads to the conclusion that PKC412-induced alterations of gene transcripts are partly paralleled by physiological effects at high, but not at low PKC412 concentrations expected to be of environmental relevance.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Circadian Rhythm",
+        "Comet Assay",
+        "Embryo, Nonmammalian",
+        "Gene Expression",
+        "Gene Expression Profiling",
+        "In Situ Nick-End Labeling",
+        "Motor Activity",
+        "Neovascularization, Physiologic",
+        "Protein Kinase Inhibitors",
+        "Reactive Oxygen Species",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Staurosporine",
+        "Zebrafish"
+      ]
+    }
+  ]
+}

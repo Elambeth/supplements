@@ -1,0 +1,1401 @@
+{
+  "supplement": "Specific Carbohydrate Diet (SCD)",
+  "query": "Specific Carbohydrate Diet (SCD)[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:43:01",
+  "research_count": 46,
+  "count": 44,
+  "articles": [
+    {
+      "pmid": "40172812",
+      "title": "One-year follow-up of a short specific carbohydrate diet intervention in children with juvenile idiopathic arthritis: A retrospectively controlled study with focus on medical burden.",
+      "authors": [
+        "Naima Hagström",
+        "Anders Öman",
+        "Afsaneh Koochek",
+        "Henrik Arnell",
+        "Lillemor Berntson"
+      ],
+      "journal": "Clinical rheumatology",
+      "publication_date": "2025-Apr-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Studies on diet as a complementary treatment in children with juvenile idiopathic arthritis (JIA) are limited. We have previously reported initial findings from a study exploring the potential anti-inflammatory effects of a 1-month specific carbohydrate diet (SCD) in children with JIA. This paper presents the full-year follow-up results, primarily focusing on changes in medication needs before and after the intervention. METHODS: Twenty-eight patients with JIA, with low disease activity, were included. The results of disease activity, physical function, pain, morning stiffness, and inflamed joints from the 1-month intervention, as well as long-term effects, were evaluated. The medical burden during the year before and 1 year after the dietary intervention was compared with three times as many retrospective patients with JIA. RESULTS: Despite adherence challenges, twenty-one children completed at least 1 month on the diet with a significant improvement in clinical variables that appeared to persist for several months. Sixteen children completed a 1-year follow-up, and the medical burden was compared with that of 48 matched retrospective controls. We observed no significant group-level changes in medication use from the dietary intervention. In six participants, the need for medical escalation was eliminated following the dietary intervention, and this effect was maintained for 1 year. CONCLUSION: The SCD shows promise in alleviating symptoms in children with JIA, both in the short and long-term. While no significant group-level changes were observed, some participants avoided treatment escalations, suggesting individual benefits. However, larger-scale studies using a less complicated diet are necessary to draw definitive conclusions. Clinical Trials Identifier NCT04205500, 2019/12/17, retrospectively registered. URL: https://register. CLINICALTRIALS: gov . Key Points • The specific carbohydrate diet (SCD) allowed some participants to avoid planned medication escalations, indicating its potential role in managing JIA symptoms. • Most participants faced difficulties with long-term adherence to the restrictive SCD, highlighting the need for more sustainable dietary strategies. • Further studies are needed to identify specific dietary components that drive benefits and to explore underlying mechanisms for effective dietary recommendations in pediatric rheumatology."
+    },
+    {
+      "pmid": "39943929",
+      "title": "Exploring nutritional risks of the specific carbohydrate diet: food and nutrient intake in children with juvenile idiopathic arthritis.",
+      "authors": [
+        "Naima Hagström",
+        "Afsaneh Koochek",
+        "Eva Warensjö Lemming",
+        "Anders Öman",
+        "Henrik Arnell",
+        "Lillemor Berntson"
+      ],
+      "journal": "Journal of nutritional science",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diet is considered a key research priority for juvenile idiopathic arthritis (JIA), garnering considerable interest from affected families. Despite this, research studies focusing on dietary interventions remain scarce. The specific carbohydrate diet (SCD) has shown potential, however, its nutritional consequences and risks are not well understood. This study aims to describe and evaluate food and nutrient intakes in children with JIA adhering to the SCD and contextualize the results relative to recommendations and intakes in the general population. In a secondary analysis, food and nutrient intakes from three-day dietary records of ten children, following a four-week SCD intervention, were evaluated against the Nordic Nutrition Recommendations 2023 and Riksmaten Adolescents data (RMA) (n = 1282). All children following the SCD met the recommended minimum intake of fruit and vegetables of 500g/day, a stark contrast to the 6% in RMA. Median dietary fibre intake for the SCD was 26g/d, (IQR 21-33), compared to 16g/d (IQR 12-22) in RMA. Elevated saturated fatty acid (SFA) intake was observed in both groups, with the SCD group also consuming high amounts of red meat. Calcium was the sole nutrient for which the standard diet surpassed the SCD, as 9 out of 10 participants had inadequate intake. While children on the SCD showed a lower likelihood of nutrient inadequacy compared to the general population, inadequate calcium intake and elevated SFA and red meat consumption are concerning given known comorbidities in JIA. These results highlight the importance of disease-specific dietary guidance to ensure optimal support for patients and parents.",
+      "mesh_terms": [
+        "Humans",
+        "Arthritis, Juvenile",
+        "Child",
+        "Female",
+        "Male",
+        "Dietary Carbohydrates",
+        "Adolescent",
+        "Dietary Fiber",
+        "Diet",
+        "Energy Intake",
+        "Diet Records",
+        "Vegetables",
+        "Fruit",
+        "Nutrients",
+        "Calcium, Dietary"
+      ]
+    },
+    {
+      "pmid": "39770916",
+      "title": "Pathway Analysis of Allulose as a Sugar Substitute in Mitigating Thrombotic Risks in Sickle Cell Disease Patients.",
+      "authors": [
+        "Seong Su Choi",
+        "Eun Ji Kim",
+        "Su-Kyung Shin",
+        "Ji-Yoon Lee",
+        "Ji Won Han",
+        "Eun-Young Kwon",
+        "Heekyong R Bae"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-Dec-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Long-term consumption of erythritol, a widely used sugar substitute, has been associated with increased risks of thrombosis and cardiometabolic diseases. In this study, we investigated the effects and mechanisms of allulose in mitigating these risks compared to erythritol using the clusterProfiler tool in R (version 4.12.6). Since a high-fat diet (HFD) is known to enhance platelet aggregation, we compared the pathways related to these processes between groups of mice treated with allulose and those treated with erythritol. While erythritol exacerbated HFD-induced increased platelet aggregation, allulose treatment significantly reduced it. Further analysis of platelet gene expression in sickle cell disease (SCD) patients to explore the potential of using sugar substitutes revealed that platelet coagulation mechanisms could be exacerbated by HFD. Additionally, the top up- and downregulated pathways in SCD were significantly reduced in the allulose-treated group compared to the erythritol group. Specific mechanisms related to this include the mitochondrial complex I and mitochondrial translational process as potential pathological factors in platelet coagulation related to SCD. Therefore, this study demonstrates that allulose may offer a safer alternative to erythritol in dietary applications, especially in individuals susceptible to thrombotic events, by modulating critical pathways associated with platelet function and mitochondrial activity.",
+      "mesh_terms": [
+        "Anemia, Sickle Cell",
+        "Thrombosis",
+        "Humans",
+        "Animals",
+        "Erythritol",
+        "Mice",
+        "Platelet Aggregation",
+        "Diet, High-Fat",
+        "Blood Platelets",
+        "Male",
+        "Fructose",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "39690249",
+      "title": "Gain of pancreatic beta cell-specific SCD1 improves glucose homeostasis by maintaining functional beta cell mass under metabolic stress.",
+      "authors": [
+        "Wenyue Yin",
+        "Suyun Zou",
+        "Min Sha",
+        "Liangjun Sun",
+        "Haoqiang Gong",
+        "Can Xiong",
+        "Xinyue Huang",
+        "Jianan Wang",
+        "Yuhan Zhang",
+        "Xirui Li",
+        "Jin Liang",
+        "Xiaoai Chang",
+        "Shusen Wang",
+        "Dongming Su",
+        "Wanhua Guo",
+        "Yaqin Zhang",
+        "Tijun Wu",
+        "Fang Chen"
+      ],
+      "journal": "Diabetologia",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS/HYPOTHESIS: The key pancreatic beta cell transcription factor v-maf musculoaponeurotic fibrosarcoma oncogene homologue A (MafA) is critical for the maintenance of mature beta cell function and phenotype. The expression levels and/or activities of MafA are reduced when beta cells are chronically exposed to diabetogenic stress, such as hyperglycaemia (i.e. glucotoxicity). Interventional targets and adjuvant therapies to abate MafA loss in beta cells may provide evidence to support the effective treatment of diabetes. In this study, we aimed to investigate the function of stearoyl-CoA desaturase 1 (SCD1) in the stabilisation of MafA expression and activity in order to maintain functional beta cell mass, with a view to suppressing the development of type 2 diabetes. METHODS: SCD1 expression levels were analysed in islets obtained from humans with type 2 diabetes, hyperglycaemic db/db mice, and a high-fat diet (HFD)-induced mouse model of diabetes. Pancreatic beta cell-specific Scd1 knockin (βSCD1KI) mice were generated to study the role of SCD1 in beta cell function and identity. The protein-to-protein interactions between SCD1 and MafA were detected in MIN6 and HEK293A cells. We used experiments including chromatin immunoprecipitation, cell-based ubiquitination assay and fatty acid composition analysis to investigate the specific molecular mechanism underlying the effect of SCD1 on the restoration of MafA and beta cell function under glucotoxic conditions. RESULTS: SCD1 expression was reduced in beta cells of humans with type 2 diabetes and in HFD-fed and db/db mice compared with healthy controls, which was attributed to glucotoxicity-induced Scd1 promoter histone deacetylation. Gain-of-function of SCD1 in beta cells improved insulin deficiency, glucose intolerance and beta cell dedifferentiation/transdifferentiation in the HFD-induced mouse model of diabetes. Mechanistically, SCD1 directly bound to the E3 ubiquitin ligase HMG-CoA reductase degradation 1 (HRD1) and stabilised nuclear MafA through interrupting MafA-HRD1 interactions in mouse islets and MIN6 cells, which inhibited the ubiquitination-mediated degradation of MafA. Moreover, the products of SCD enzyme reactions (mainly oleic acid) also alleviated glucotoxicity-mediated oxidative stress in MIN6 cells. CONCLUSIONS/INTERPRETATION: Our findings indicate that SCD1 stabilises beta cell MafA both in desaturase-dependent and -independent manners, thus improving glucose homeostasis under metabolic stress. This provides a potential novel target for precision medicine for the treatment of diabetes.",
+      "mesh_terms": [
+        "Animals",
+        "Insulin-Secreting Cells",
+        "Humans",
+        "Stearoyl-CoA Desaturase",
+        "Mice",
+        "Diabetes Mellitus, Type 2",
+        "Homeostasis",
+        "Male",
+        "Maf Transcription Factors, Large",
+        "Glucose",
+        "Hyperglycemia",
+        "Stress, Physiological",
+        "Diet, High-Fat",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "38940099",
+      "title": "Role of diet in primary and secondary prevention of periodontitis and non-specific inflammatory bowel diseases. Part II.",
+      "authors": [
+        "Małgorzata Goździewska",
+        "Aleksandra Łyszczarz",
+        "Monika Kaczoruk",
+        "Emilia Kolarzyk"
+      ],
+      "journal": "Annals of agricultural and environmental medicine : AAEM",
+      "publication_date": "2024-Jun-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "INTRODUCTION AND OBJECTIVE: Both periodontitis and non-specific bowel diseases (IBD) are complex chronic diseases, and the elements connecting them are the dysregulated microbiota and abnormal immune response of the host. In turn, in the etiology of these diseases, the common environmental risk factor is improper mode of nutrition. The aim of the study is to review nutritional interventions and effective nutritional protocols applied in periodontitis and IBD. The result of the review will be identification of dietary recommendations exerting a beneficial effect on the reduction of the risk of development and alleviation of the severity of both diseases. At the same time, non-recommended dietary choices will be indicated. REVIEW METHODS: A review of literature was carried out using the databases PubMed, Google Scholar, and Web of Science. Publications were analyzed by a non-systematic literature review aimed at making a brief synthesis of the collected information. BRIEF DESCRIPTION OF THE STATE OF KNOWLEDGE: Diets recommended to patients with both periodontitis and IBD included the Mediterranean diet, DASH diet and vegetarian diet; excluding veganism, raw foodism and fruitarianism. For patients with IBD, special dietary recommendations were elaborated on the recommendations of the International Organization for Research into Inflammatory Bowel Diseases (IOIBD), and specific diets, i.e. specific carbohydrate diet (SCD), and Groningen anti-inflammatory diet (GrAID). In the process of treatment of oral and intestinal dysbiosis, probiotic therapy is beneficial in both diseases, specified as the Western diet. Non-conventional diets are not recommended. SUMMARY: Diet therapy for inflammatory periodontal diseases and IBD requires extensive individualization; nevertheless, a universal principle is avoidance of highly processed food, and implementation of easily digestible meals based on natural, ecological products. Proper nutrition plays a crucial role in primary prevention of both diseases analyzed, whereas in secondary prevention, diet therapy is a valuable supplementation of pharmacotherapy.",
+      "mesh_terms": [
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Periodontitis",
+        "Diet",
+        "Secondary Prevention",
+        "Primary Prevention"
+      ]
+    },
+    {
+      "pmid": "37858222",
+      "title": "A qualitative evaluation of the specific carbohydrate diet for juvenile idiopathic arthritis based on children's and parents' experiences.",
+      "authors": [
+        "Naima Hagström",
+        "Elin Lövestam",
+        "Afsaneh Koochek",
+        "Lillemor Berntson"
+      ],
+      "journal": "Pediatric rheumatology online journal",
+      "publication_date": "2023-Oct-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Insights into the immunological role of the gastrointestinal tract in autoimmune conditions have led to the investigation of diet as a potential adjunctive treatment option for juvenile idiopathic arthritis (JIA). The specific carbohydrate diet (SCD) has shown promising results. However, studies on participants' experiences of dietary interventions in JIA are rare. In this study we investigated the experiences of children and parents' who had participated in a four-week intervention with SCD aiming to examine the potential anti-inflammatory effects. OBJECTIVES: To conduct a qualitative evaluation exploring children's and parents' experiences of the dietary intervention, how they navigated challenges, and their support requirements. METHODS: Semi-structured interviews were conducted with 12 children and 15 parents from 13 families, who were interviewed individually and together. The transcripts were analysed using systematic text condensation. RESULTS: Most participants interviewed found the intervention beneficial, with 12 out of 13 reporting positive effects, such as reduced pain and morning stiffness, and improved gastrointestinal function. Many participants reported being willing to repeat the intervention in the current form. Despite facing challenges, all children followed the diet for one to three months, with some continuing to follow a modified version. Facing the socio-emotional consequences of adhering to the diet was challenging for children. These were handled by focusing on the positive aspects and by relying on the supportive environment available. Parents struggled with practical issues since the diet required hard work, time, and money. Areas identified as requiring additional support include finding simple, quick, and child-friendly solutions, strengthening organizational food skills such as meal planning, and preparation prior to starting the intervention regarding socio-emotional aspects. CONCLUSION: Navigating the dietary treatment was considered challenging, practically for the parents and socio-emotionally for the children. Based on the reported challenges and participants' suggestions the intervention could be optimised by providing support and solutions in relation to the practical issues and better preparation regarding dealing with the socio-emotional consequences. Despite the difficulties, the participants reported overall positive experiences of, and attitudes towards, the current setup. Consequently, dietary interventions, such as the SCD, may be regarded as suitable targets for further research.",
+      "mesh_terms": [
+        "Humans",
+        "Arthritis, Juvenile",
+        "Parents",
+        "Diet",
+        "Emotions",
+        "Carbohydrates",
+        "Qualitative Research"
+      ]
+    },
+    {
+      "pmid": "37601990",
+      "title": "Diet as an Optional Treatment in Adults With Inflammatory Bowel Disease: A Systematic Review of the Literature.",
+      "authors": [
+        "Arturo P Jaramillo",
+        "Abdelrahman Abaza",
+        "Faten Sid Idris",
+        "Humna Anis",
+        "Ilma Vahora",
+        "Kiran Prasad Moparthi",
+        "Majdah T Al Rushaidi",
+        "MeghanaReddy Muddam",
+        "Omobolanle A Obajeun"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2023-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "While the exact cause of IBD is unknown, there are a number of factors that are thought to contribute to its development, including environmental and genetic factors. While exclusive enteral nutrition (EEN) is a promising therapy for Crohn's disease (CD), it is not yet considered a first-line treatment. Additionally, the efficacy of EEN compared to corticosteroid treatment is still being investigated. EEN is suggested as a first-line therapy by which guidelines and in which age groups, as it may differ in pediatric and adult recommendations. Another finding was that dietary changes involving an increase in anti-inflammatory foods and decreased intake of foods high in inflammatory compounds are linked to a beneficial outcome both metabolically and microbiologically in patients with ulcerative colitis (UC) in remission. For relevant medical literature, we examined PubMed/Medline, the Cochrane Library, and Google Scholar as examples of medical databases. The articles were identified, evaluated, and eligibility applied, and nine publications were found. The finished articles investigated the role of several diet alternatives for patients with IBD. Some others have shown that following a normal low-fat diet may be effective in reducing the occurrence of subclinical colitis. The EEN and partial enteral nutrition (PEN) indicated no significant differences between both regimens, but both had good outcomes during active IBD. Other strict diets, such as the specific carbohydrate diet (SCD) versus the Mediterranean diet (MD), demonstrate excellent outcomes in patients with IBD. Fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) dietary counseling improves gastrointestinal symptoms and quality of life in IBD patients. Based on the above, we concluded that more studies determining which component of the diet is not clear (proteins, carbs balanced) or diet types are required to establish a particular diet employed as a treatment intervention in these individuals."
+    },
+    {
+      "pmid": "37600622",
+      "title": "Food for Thought: Remission of Perianal Pediatric Crohn's Disease on Specific Carbohydrate Diet Monotherapy.",
+      "authors": [
+        "David Simon",
+        "Kalyani Patel",
+        "Prakash Masand",
+        "Richard Kellermayer"
+      ],
+      "journal": "JPGN reports",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "There is growing interest among patients about the specific carbohydrate diet (SCD) as a treatment for Crohn's disease. In the meantime, deep remission in patients using SCD as their sole treatment has not been documented. We report a case with perianal and ileocolonic Crohn's disease in whom SCD monotherapy successfully induced and maintained not only clinical, but also endoscopic, radiographic and histologic (ie, deep mucosal remission) remission as well."
+    },
+    {
+      "pmid": "37168638",
+      "title": "Assessing Barriers to use of the Specific Carbohydrate Diet in Pediatric Inflammatory Bowel Disease: A Qualitative Study.",
+      "authors": [
+        "Naomi R M Schwartz",
+        "Savannah R McNichol",
+        "Beth Devine",
+        "Amanda I Phipps",
+        "Joshua A Roth",
+        "David L Suskind"
+      ],
+      "journal": "JPGN reports",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: Because of the high cost and associated toxicities of pharmacotherapy treatment for inflammatory bowel disease (IBD), there has been growing interest in dietary therapy. The objective of this study is to assess barriers to initiating or maintaining the specific carbohydrate diet (SCD) to inform strategies for improving access and adherence to the diet. METHODS: We conducted semistructured interviews with parents of 10 children with IBD receiving care at a single academic treatment center. Parents were eligible if their child with IBD was either currently on the SCD, previously on the SCD, or opted not to initiate the SCD. Core questions were developed in conjunction with IBD clinical experts. Interviews were transcribed and analyzed using an inductive approach. RESULTS: Parents of children diagnosed with IBD primarily chose to try the SCD because of concerns about medication safety. Three major barriers to utilizing the SCD emerged: cost, time commitment, and psychosocial impact. Many parents also expressed that following the SCD got easier over time and some parents experienced spillover effects of improved personal health and understanding of nutrition. All parents were strong proponents of the importance of diet in managing IBD and expressed desire for more research into the SCD and other forms of dietary therapy. CONCLUSIONS: These findings provide important insight into factors affecting utilization of the SCD in pediatric IBD. Further research is needed to develop interventions or strategies to diminish these barriers and enable more patients to benefit from the SCD."
+    },
+    {
+      "pmid": "36771373",
+      "title": "Current Nutritional Therapies in Inflammatory Bowel Disease: Improving Clinical Remission Rates and Sustainability of Long-Term Dietary Therapies.",
+      "authors": [
+        "Elizabeth A Reznikov",
+        "David L Suskind"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Jan-28",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inflammatory Bowel Disease (IBD) includes a spectrum of chronic immune-mediated intestinal diseases thought to be related to the complex interaction between the host immune system and the intestinal microbiome. Research supports the use of nutritional therapy in IBD; however, it is not routinely used in clinical practice. This literature review seeks to advance the understanding of diet and its effect in IBD with a focus on both Crohn's Disease (CD) and Ulcerative Colitis (UC). The contribution of diet to the development and treatment of IBD cannot be overstated. In both pediatric as well as adult IBD, nutritional interventions have been shown to improve clinical symptoms as well as inflammatory burden. The impact of dietary intervention is best exemplified through the use of Exclusive Enteral Nutrition (EEN) in CD. EEN and clinical research on exclusionary whole food diets-Crohn's Disease Exclusion Diet (CDED), Specific Carbohydrate Diet (SCD), low fermentable oligosaccharides, disaccharides, monosaccharides and polyols (FODMAP) diet, and Mediterranean Diet-are discussed within this review. Current clinical literature supports the elimination of detrimental components and the incorporation of low processed whole foods in the diet. Additional prospective and longitudinal dietary studies on sustainable and long-term dietary options, along with a deeper understanding of the mechanism, are needed to further advance the role of nutritional interventions in IBD.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Child",
+        "Crohn Disease",
+        "Prospective Studies",
+        "Inflammatory Bowel Diseases",
+        "Diet",
+        "Colitis, Ulcerative",
+        "Diet, Mediterranean"
+      ]
+    },
+    {
+      "pmid": "36735556",
+      "title": "Working to Answer the Effectiveness of Nutrition in IBD: Still a Ways to Go.",
+      "authors": [
+        "Anthony Otley",
+        "Zubin Grover",
+        "Paul Moayyedi"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "publication_date": "2023-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The Specific Carbohydrate diet (SCD) is an exclusion diet widely popular among patients with IBD, which restricts carbohydrates and processed foods. Two recently concluded controlled studies PRODUCE (Personalized Research on Diet in Ulcerative Colitis (UC) and Crohn's Disease) and DINE-CD (The Diet to Induce Remission in Crohn's disease) confirm efficacy of SCD on symptom control but fail to demonstrate a sustained anti-inflammatory response. These dietary studies are a welcome addition to a poorly understood field of dietary management of IBD, we explore some practical challenges including trial designs, recruitment, and retention in long term dietary intervention studies. Future dietary intervention studies should, therefore, incorporate endoscopic end points to establish a true anti-inflammatory response to elimination diets, preferably with detailed multi-omics analysis to understand mechanism of action.",
+      "mesh_terms": [
+        "Humans",
+        "Crohn Disease",
+        "Colitis, Ulcerative",
+        "Nutritional Status",
+        "Diet",
+        "Anti-Inflammatory Agents",
+        "Inflammatory Bowel Diseases"
+      ]
+    },
+    {
+      "pmid": "36569124",
+      "title": "Global attitudes on and the status of enteral nutrition therapy for pediatric inflammatory bowel disease.",
+      "authors": [
+        "Juan Luo",
+        "Yong-Mei Xie",
+        "Mei Wu",
+        "Jin-Gui Zhao",
+        "Liang-Liang Hu"
+      ],
+      "journal": "Frontiers in medicine",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Enteral nutrition (EN) is a diet-remission therapy for inflammatory bowel disease (IBD) that plays a more important role in children than adults. EN includes exclusive enteral nutrition (EEN), partial enteral nutrition (PEN), and maintenance enteral nutrition (MEN). However, EEN remains an unstandardized treatment for pediatric IBD. The types and methods of EN differ around the world. The current study reviewed the EN literature on children with IBD. A total of 12 survey studies were identified that analyzed the current state of EN use, including clinical opinions, implementation methods, treatment course, EEN formula, IBD classification, progress, dietary reintroduction, and patient feedback. The findings revealed that EEN has a strong effect on mild to moderate Crohn's disease (CD). The usage rates of this treatment in different sites were ileum/colon (Paris classification L3) > ileum (L1) > upper digestive tract (L4) > colon (L2) > perianal disease (P) > ulcerative colitis (UC) > extraintestinal lesions. The polymeric formula was the most used EN formulation. New EN diets include a CD exclusion diet (CDED), a specific carbohydrate diet (SCD), and a CD treatment-with-eating (CD-TREAT) diet. Children with IBD responded similarly to EEN administered orally or using a feeding tube. Most guidelines recommended 6-8 weeks of EEN treatment to induce remission. Many clinicians preferred to combine drug medications during EEN and recommended that MEN accounts for at least 25-35% of daily caloric intake. EN remains an unstandardized therapy that requires teamwork across disciplines."
+    },
+    {
+      "pmid": "35762695",
+      "title": "Diet as a treatment for inflammatory bowel disease: is it ready for prime time?",
+      "authors": [
+        "Frank A Cusimano",
+        "Oriana M Damas"
+      ],
+      "journal": "Current opinion in gastroenterology",
+      "publication_date": "2022-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "PURPOSE OF REVIEW: Diet remains an important topic for patients with inflammatory bowel disease (IBD), yet few guidelines for dietary recommendations exist. There is a growing interest in the use of diet as treatment or adjuvant therapy for both ulcerative colitis and Crohn's disease. Here, we highlight the latest evidence on the use of diet for treatment of symptoms, active disease and maintenance of remission in ulcerative colitis and Crohn's disease. RECENT FINDINGS: The Crohn's Disease Exclusion Diet (CDED) and the Specific Carbohydrate Diet (SCD) are studied diets that have gained popularity, but there is growing interest in the use and efficacy of less restrictive diets such as the Mediterranean diet. Recent data suggest healthful dietary patterns alone, with an emphasis on whole foods that are high in vegetable fibre and that promote less consumption of ultra-processed foods may also help achieve remission in patients with ulcerative colitis and Crohn's disease. SUMMARY: In this review, we summarize the literature on diet as treatment for IBD. We highlight the latest clinical dietary studies, randomized clinical trials, as well as new and emerging diets for the treatment of IBD.",
+      "mesh_terms": [
+        "Chronic Disease",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet",
+        "Humans",
+        "Inflammatory Bowel Diseases"
+      ]
+    },
+    {
+      "pmid": "35672613",
+      "title": "A Pilot Study Investigating Faecal Microbiota After Two Dietary Interventions in Children with Juvenile Idiopathic Arthritis.",
+      "authors": [
+        "Lillemor Berntson",
+        "Anders Öman",
+        "Lars Engstrand",
+        "Johan Dicksved"
+      ],
+      "journal": "Current microbiology",
+      "publication_date": "2022-Jun-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "There is evidence for an impact of the gut microbiota on the immune system, which has consequences for inflammatory diseases. Exclusive enteral nutrition (EEN) and the specific carbohydrate diet (SCD) have been demonstrated as effective anti-inflammatory treatments for children with Crohn's disease. We have previously shown an anti-inflammatory effect from these nutritional treatments in children with juvenile idiopathic arthritis (JIA). The aim of this study was to investigate if improved clinical symptoms after EEN or SCD treatment in children with JIA could be linked to changes in faecal microbiota. We included sixteen patients with JIA (age 7-17 years), six for treatment with EEN and ten with SCD. EEN was given for 3-5 weeks and SCD for 4-5 weeks, with clinical and laboratory status assessed before and after treatment. Faecal samples were analysed for microbiota diversity and composition using 16S rRNA gene sequencing. Analyses of the faecal microbiota showed an effect on the overall composition with both interventions; the most striking result was a decreased relative abundance of the genus Faecalibacterium from EEN and of Bifidobacterium from SCD. The α-diversity decreased significantly from SCD (P = 0.04), but not from EEN (P = 0.22). Despite the study cohorts being small, both EEN and SCD were shown to impact the faecal microbiota. Future larger studies with a focus on metagenomics or metabolomics could possibly reveal a link and clarify the clinical effects of those nutritional regimens.",
+      "mesh_terms": [
+        "Adolescent",
+        "Arthritis, Juvenile",
+        "Child",
+        "Feces",
+        "Humans",
+        "Microbiota",
+        "Pilot Projects",
+        "RNA, Ribosomal, 16S"
+      ]
+    },
+    {
+      "pmid": "35442220",
+      "title": "Personalized Research on Diet in Ulcerative Colitis and Crohn's Disease: A Series of N-of-1 Diet Trials.",
+      "authors": [
+        "Heather C Kaplan",
+        "Lisa Opipari-Arrigan",
+        "Jiabei Yang",
+        "Christopher H Schmid",
+        "Christine L Schuler",
+        "Shehzad A Saeed",
+        "Kimberly L Braly",
+        "Fandi Chang",
+        "Lauren Murphy",
+        "Cassandra M Dodds",
+        "Mason Nuding",
+        "Hao Liu",
+        "Sheri Pilley",
+        "Julie Stone",
+        "Gisele Woodward",
+        "Nancy Yokois",
+        "Alka Goyal",
+        "Dale Lee",
+        "Ann Ming Yeh",
+        "Peter Lee",
+        "Benjamin D Gold",
+        "Zarela Molle-Rios",
+        "R Jeff Zwiener",
+        "Sabina Ali",
+        "Mallory Chavannes",
+        "Tiffany Linville",
+        "Ashish Patel",
+        "Travis Ayers",
+        "Mikelle Bassett",
+        "Brendan Boyle",
+        "Pablo Palomo",
+        "Sofia Verstraete",
+        "Jill Dorsey",
+        "Jess L Kaplan",
+        "Steven J Steiner",
+        "Kaylie Nguyen",
+        "Jennifer Burgis",
+        "David L Suskind"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "publication_date": "2022-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Evidence about specific carbohydrate diet (SCD) for inflammatory bowel disease (IBD) is limited. We conducted 54 single-subject, double-crossover N-of-1 trials comparing SCD with a modified SCD (MSCD) and comparing each with the participant's baseline, usual diet (UD). METHODS: Across 19 sites, we recruited patients aged 7-18 years with IBD and active inflammation. Following a 2-week baseline (UD), patients were randomized to 1 of 2 sequences of 4 alternating 8-week SCD and MSCD periods. Outcomes included fecal calprotectin and patient-reported symptoms. We report posterior probabilities from Bayesian models comparing diets. RESULTS: Twenty-one (39%) participants completed the trial, 9 (17%) completed a single crossover, and 24 (44%) withdrew. Withdrawal or early completion occurred commonly (lack of response [n = 11], adverse events [n = 11], and not desiring to continue [n = 6]). SCD and MSCD performed similarly for most individuals. On average, there was <1% probability of a clinically meaningful difference in IBD symptoms between SCD and MSCD. The average treatment difference was -0.3 (95% credible interval -1.2, 0.75). There was no significant difference in the ratio of fecal calprotectin geometric means comparing SCD and MSCD (0.77, 95% credible interval 0.51, 1.10). Some individuals had improvement in symptoms and fecal calprotectin compared with their UD, whereas others did not. DISCUSSION: SCD and MSCD did not consistently improve symptoms or inflammation, although some individuals may have benefited. However, there are inherent difficulties in examining dietary changes that complicate study design and ultimately conclusions regarding effectiveness.",
+      "mesh_terms": [
+        "Adolescent",
+        "Bayes Theorem",
+        "Child",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet",
+        "Feces",
+        "Humans",
+        "Inflammation",
+        "Inflammatory Bowel Diseases",
+        "Leukocyte L1 Antigen Complex",
+        "Precision Medicine"
+      ]
+    },
+    {
+      "pmid": "35340483",
+      "title": "Clinical and Histologic Remission in an Adult Crohn's Disease Patient Following the Specific Carbohydrate Diet and Its Impact on Healthcare Costs.",
+      "authors": [
+        "Ali Arjomand",
+        "David L Suskind"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2022-Feb",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Crohn's disease (CD) is an immune-mediated inflammatory disorder of the gastrointestinal tract. While the etiology is not fully elucidated, the intestinal microbiome is believed to initiate and maintain immune activation in CD. The intestinal microbiome is highly responsive to its environment, including host dietary patterns. As such, dietary interventions have the potential to modulate intestinal microbiome composition and function and improve disease outcomes. We present a retrospective chart review of an adult male with complicated Crohn's disease who was non-responsive to medical management. The patient began the specific carbohydrate diet (SCD) in February 2017 and maintained it for 42 months. The patient tolerated the SCD well and has been asymptomatic for 40 months on the SCD. Stool fecal calprotectin (FCP) decreased from 493 ug/g at baseline to 70 ug/g at month three and remained in the normal range thereafter. Endoscopy with biopsy at month 12 showed normal histology in the colon and terminal ileum. Magnetic resonance enterography (MRE) showed resolution of prior jejunal inflammation. Inflammatory bowel disease (IBD) associated healthcare costs were $42,688 in the 12 months preceding the intervention and $2,797/year with SCD. This represented a 94% reduction in healthcare insurance costs and a 91% reduction in out-of-pocket patient expenses. This case highlights the rapid and sustainable benefits of the SCD intervention in Crohn's disease from both a clinical and economic standpoint."
+    },
+    {
+      "pmid": "34557396",
+      "title": "Differences in Nutrient Intake with Homemade versus Chef-Prepared Specific Carbohydrate Diet Therapy in Inflammatory Bowel Disease: Insights into Dietary Research.",
+      "authors": [
+        "Alex Morrison",
+        "Kimberly Braly",
+        "Namita Singh",
+        "David L Suskind",
+        "Dale Lee"
+      ],
+      "journal": "Pediatric gastroenterology, hepatology & nutrition",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: The aim of this study was to evaluate the nutrient content consumed by children and adolescents on home-prepared versus chef-prepared specific carbohydrate diets (SCD) as therapy for inflammatory bowel disease (IBD). METHODS: Dietary intake of two cohorts with active IBD initiating the SCD over 12 weeks was assessed. The home-prepared cohort received detailed guidance from dietitians on implementation of the SCD. The chef in the other cohort was knowledgeable in the SCD and prepared meals from a fixed set of recipes. Data from 3-day diet diaries at 4 different time points were collected. US Recommended Daily Allowances (RDA) were calculated for macronutrients, vitamins, and minerals. RESULTS: Eight participants on the homemade SCD and 5 participants on the chef-prepared SCD were included in analysis. Mean % RDA for energy intake was 115% and 87% for homemade and chef-prepared groups (p<0.01). Mean % RDA for protein intake was 337% for homemade SCD and 216% for chef-prepared SCD (p<0.01). The homemade SCD group had higher mean % RDA values for vitamin A and iron, while the chef-prepared SCD group had higher intake of vitamins B1, B2, D, phosphorus and zinc (p<0.01 for all). CONCLUSION: The SCD implemented homemade versus chef-prepared can result in significantly different intake of nutrients and this may influence efficacy of this dietary therapy. Meal preparation dynamics and the motivation of families who pursue dietary treatment may play an important role on the foods consumed and the outcomes on dietary therapy with the SCD."
+    },
+    {
+      "pmid": "34052278",
+      "title": "A Randomized Trial Comparing the Specific Carbohydrate Diet to a Mediterranean Diet in Adults With Crohn's Disease.",
+      "authors": [
+        "James D Lewis",
+        "Robert S Sandler",
+        "Carol Brotherton",
+        "Colleen Brensinger",
+        "Hongzhe Li",
+        "Michael D Kappelman",
+        "Scott G Daniel",
+        "Kyle Bittinger",
+        "Lindsey Albenberg",
+        "John F Valentine",
+        "John S Hanson",
+        "David L Suskind",
+        "Andrea Meyer",
+        "Charlene W Compher",
+        "Meenakshi Bewtra",
+        "Akriti Saxena",
+        "Angela Dobes",
+        "Benjamin L Cohen",
+        "Ann D Flynn",
+        "Monika Fischer",
+        "Sumona Saha",
+        "Arun Swaminath",
+        "Bruce Yacyshyn",
+        "Ellen Scherl",
+        "Sara Horst",
+        "Jeffrey R Curtis",
+        "Kimberly Braly",
+        "Lisa Nessel",
+        "Maureen McCauley",
+        "Liam McKeever",
+        "Hans Herfarth"
+      ],
+      "journal": "Gastroenterology",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: This study compared the effectiveness of the Specific Carbohydrate Diet (SCD) to the Mediterranean diet (MD) as treatment for Crohn's disease (CD) with mild to moderate symptoms. METHODS: Adult patients with CD and with mild-to-moderate symptoms were randomly assigned 1:1 to consume the MD or SCD for 12 weeks. For the first 6 weeks, participants received prepared meals and snacks according to their assigned diet. After 6 weeks, participants were instructed to follow the diet independently. The primary outcome was symptomatic remission at week 6. Key secondary outcomes at week 6 included fecal calprotectin (FC) response (FC <250 μg/g and reduction by >50% among those with baseline FC >250 μg/g) and C-reactive protein (CRP) response (high-sensitivity CRP <5 mg/L and >50% reduction from baseline among those with high-sensitivity CRP >5 mg/L). RESULTS: The study randomized 194 patients, and 191 were included in the efficacy analyses. The percentage of participants who achieved symptomatic remission at week 6 was not superior with the SCD (SCD, 46.5%; MD, 43.5%; P = .77). FC response was achieved in 8 of 23 participants (34.8%) with the SCD and in 4 of 13 participants (30.8%) with the MD (P = .83). CRP response was achieved in 2 of 37 participants (5.4%) with the SCD and in 1 of 28 participants (3.6%) with the MD (P = .68). CONCLUSIONS: The SCD was not superior to the MD to achieve symptomatic remission, FC response, and CRP response. CRP response was uncommon. Given these results, the greater ease of following the MD and other health benefits associated with the MD, the MD may be preferred to the SCD for most patients with CD with mild to moderate symptoms. ClinicalTrials.gov Identifier: NCT03058679.",
+      "mesh_terms": [
+        "Adult",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Comparative Effectiveness Research",
+        "Crohn Disease",
+        "Diet, Mediterranean",
+        "Dietary Carbohydrates",
+        "Feces",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inflammation Mediators",
+        "Leukocyte L1 Antigen Complex",
+        "Male",
+        "Middle Aged",
+        "Remission Induction",
+        "Severity of Illness Index",
+        "Time Factors",
+        "Treatment Outcome",
+        "United States"
+      ]
+    },
+    {
+      "pmid": "33291229",
+      "title": "The Specific Carbohydrate Diet and Diet Modification as Induction Therapy for Pediatric Crohn's Disease: A Randomized Diet Controlled Trial.",
+      "authors": [
+        "David L Suskind",
+        "Dale Lee",
+        "Young-Mo Kim",
+        "Ghassan Wahbeh",
+        "Namita Singh",
+        "Kimberly Braly",
+        "Mason Nuding",
+        "Carrie D Nicora",
+        "Samuel O Purvine",
+        "Mary S Lipton",
+        "Janet K Jansson",
+        "William C Nelson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2020-Dec-06",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Crohn's disease (CD) is a chronic inflammatory intestinal disorder associated with intestinal dysbiosis. Diet modulates the intestinal microbiome and therefore has a therapeutic potential. The aim of this study is to determine the potential efficacy of three versions of the specific carbohydrate diet (SCD) in active Crohn's Disease. METHODS: 18 patients with mild/moderate CD (PCDAI 15-45) aged 7 to 18 years were enrolled. Patients were randomized to either SCD, modified SCD(MSCD) or whole foods (WF) diet. Patients were evaluated at baseline, 2, 4, 8 and 12 weeks. PCDAI, inflammatory labs and multi-omics evaluations were assessed. RESULTS: Mean age was 14.3 ± 2.9 years. At week 12, all participants (n = 10) who completed the study achieved clinical remission. The C-reactive protein decreased from 1.3 ± 0.7 at enrollment to 0.9 ± 0.5 at 12 weeks in the SCD group. In the MSCD group, the CRP decreased from 1.6 ± 1.1 at enrollment to 0.7 ± 0.1 at 12 weeks. In the WF group, the CRP decreased from 3.9 ± 4.3 at enrollment to 1.6 ± 1.3 at 12 weeks. In addition, the microbiome composition shifted in all patients across the study period. While the nature of the changes was largely patient specific, the predicted metabolic mode of the organisms increasing and decreasing in activity was consistent across patients. CONCLUSIONS: This study emphasizes the impact of diet in CD. Each diet had a positive effect on symptoms and inflammatory burden; the more exclusionary diets were associated with a better resolution of inflammation.",
+      "mesh_terms": [
+        "Adolescent",
+        "C-Reactive Protein",
+        "Carbohydrates",
+        "Child",
+        "Crohn Disease",
+        "Diet",
+        "Dietary Carbohydrates",
+        "Double-Blind Method",
+        "Dysbiosis",
+        "Female",
+        "Humans",
+        "Induction Chemotherapy",
+        "Inflammatory Bowel Diseases",
+        "Male",
+        "Metabolomics",
+        "Metagenomics",
+        "Microbiota",
+        "Proteomics"
+      ]
+    },
+    {
+      "pmid": "32581019",
+      "title": "Durable Clinical and Biochemical but Not Endoscopic Remission in Pediatric Crohn's Disease on Specific Carbohydrate Diet Monotherapy.",
+      "authors": [
+        "Savini Lanka Britto",
+        "Richard Kellermayer"
+      ],
+      "journal": "Annals of clinical and laboratory science",
+      "publication_date": "2020-May",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "The specific carbohydrate diet (SCD) is an exclusion diet that has gained increasing public attention as a treatment option for inflammatory bowel diseases (IBDs: Crohn's Disease (CD) and Ulcerative Colitis (UC)). Studies have demonstrated SCD leads to clinical and biochemical remission. Additional observations had controversial results when mucosal healing, or endoscopic remission was assessed in pediatric CD patients on partial SCD therapy, or SCD as adjunct treatment. There is currently a lack of mucosa-based assessments for pediatric IBD patients on SCD monotherapy. We report three pediatric CD patients who achieved clinical remission on SCD monotherapy, but failed to demonstrate complete mucosal healing with a minimum of one year follow up. This case report highlights that SCD monotherapy in male pediatric CD patients can sustain durable clinical and biochemical remission, but not full mucosal healing.",
+      "mesh_terms": [
+        "Adolescent",
+        "Carbohydrate Metabolism",
+        "Carbohydrates",
+        "Child",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet",
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Male",
+        "Remission Induction",
+        "Wound Healing"
+      ]
+    },
+    {
+      "pmid": "32520298",
+      "title": "ORAL AND ENTERAL NUTRITION THERAPY IN INFLAMMATORY BOWEL DISEASES AMONG THE PEDIATRIC POPULATION: A LITERATURE REVIEW.",
+      "authors": [
+        "Gabriela Neves de Souza",
+        "Patrícia Ferrante Draghi",
+        "Glauce Hiromi Yonamine"
+      ],
+      "journal": "Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "OBJECTIVES: To review the literature on oral and enteral nutrition therapy and investigate the evidence of its efficacy as a treatment, as well as in preventing relapses and reducing symptoms of inflammatory bowel diseases in the pediatric population. DATA SOURCE: We performed a bibliographic search in the PubMed, Web of Science, and Latin American and Caribbean Health Sciences Literature (Literatura Latino-Americana e do Caribe em Ciências da Saúde - Lilacs) databases, using the keywords \"inflammatory bowel disease,\" \"diet,\" and \"diet therapy\" in English and Portuguese, with filters for pediatric studies published in the previous five years. DATA SUMMARY: We selected 16 articles for this study, nine on exclusive and/or partial enteral nutrition and seven on modified oral diets, such as the specific carbohydrate diet (SCD) and the Crohn's Disease exclusion diet (CDED). The studies found evaluated the anthropometric profile of patients and the inflammatory profile of diseases in children before and after the introduction of each specific nutrition therapy. All interventions presented positive changes in these parameters; however, the results were inconclusive regarding the efficacy of SCD and CDED in the treatment and prevention of relapses. CONCLUSIONS: Exclusive enteral nutrition has proven to be effective in inducing remission of Crohn's Disease, and the use of partial enteral nutrition for maintenance treatment has shown promising results. Other modified oral diets are inconclusive concerning their effectiveness, requiring further randomized controlled clinical trials.",
+      "mesh_terms": [
+        "Child",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet Therapy",
+        "Disease Progression",
+        "Enteral Nutrition",
+        "Humans",
+        "Severity of Illness Index",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "31803252",
+      "title": "Nutritional interventions for the treatment of IBD: current evidence and controversies.",
+      "authors": [
+        "Bénédicte Pigneur",
+        "Frank M Ruemmele"
+      ],
+      "journal": "Therapeutic advances in gastroenterology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Environmental factors, particularly diet, are the focus of current research as potential triggers of inflammatory bowel disease (IBD). Epidemiological cohort data showing a rapid increase of IBD in western countries and the emergence of IBD in developing countries paralleling the introduction of a western diet are indirect arguments linking food and food behaviour to intestinal inflammation. The successful use of exclusive enteral nutrition (EEN), now considered as first-line induction therapy for paediatric Crohn's disease (CD), is the strongest argument for a link between diet and IBD. Mechanistic studies revealed that EEN impacts intestinal microbiota composition and together with the exclusion of potentially harmful food ingredients this allows the control of intestinal inflammation and induces mucosal healing. However, the exclusivity character of EEN is a major drawback. Based on the data of EEN, the search for more tolerable and still effective diets has begun. Recent reports on the new CD exclusion diet (CDED), CD-TREAT, as well as the specific carbohydrate diet (SCD) provide the first promising results, further underlining the potential of diet to control inflammation in patients with CD by excluding certain food components. Ongoing research is trying to combine nutritional interventions with analyses of intestinal microbiota and their metabolic functions with the aim of correcting the intestinal dysbiosis that characterizes IBD. This research is promising and gives new hope to patients that have been looking for decades for nutritional interventions with the aim of stabilizing their disease course. There might even be potential for disease prevention in high-risk patients by excluding potentially harmful food components."
+    },
+    {
+      "pmid": "31683925",
+      "title": "Evaluating the Comparative Effectiveness of Two Diets in Pediatric Inflammatory Bowel Disease: A Study Protocol for a Series of N-of-1 Trials.",
+      "authors": [
+        "Heather C Kaplan",
+        "Lisa Opipari-Arrigan",
+        "Christopher H Schmid",
+        "Christine L Schuler",
+        "Shehzad Saeed",
+        "Kimberly L Braly",
+        "Jennifer C Burgis",
+        "Kaylie Nguyen",
+        "Sheri Pilley",
+        "Julie Stone",
+        "Gisele Woodward",
+        "David L Suskind"
+      ],
+      "journal": "Healthcare (Basel, Switzerland)",
+      "publication_date": "2019-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inflammatory bowel disease (IBD) affects 3 million children and adults in the US. Treatment involves medications with considerable risk profiles. Dietary modification, such as the specific carbohydrate diet (SCD), may be helpful in treating IBD, but there is insufficient evidence of its effectiveness. N-of-1 trials are ideal for addressing this important research question. The Personalized Research on Diet in Ulcerative Colitis and Crohn's Disease (PRODUCE) study employs a series of 50 individual N-of-1 trials that compare the SCD to a modified SCD. Treatment periods are assigned in blocks of two, with each patient completing two balanced treatment blocks. Patients are randomized to start with the SCD or modified SCD and alternate between conditions for four eight-week periods. A mobile app guides collecting and viewing data, transitioning diets, and reviewing personal results. Primary outcomes include patient reported outcomes (PROs) of stool frequency, stool consistency, pain interference, and gastrointestinal (GI) symptom severity. We examine changes in inflammation via fecal calprotectin. Participants will receive a personalized answer regarding comparative effectiveness between the SCD and a less restrictive diet option (modified SCD), as well as compared to their baseline diet. We will aggregate the results of completed N-of-1 trials across patients to estimate population level comparative effectiveness of these treatments and the effectiveness of each diet."
+    },
+    {
+      "pmid": "30968340",
+      "title": "Diet as Adjunctive Treatment for Inflammatory Bowel Disease: Review and Update of the Latest Literature.",
+      "authors": [
+        "Oriana M Damas",
+        "Luis Garces",
+        "Maria T Abreu"
+      ],
+      "journal": "Current treatment options in gastroenterology",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "PURPOSE OF REVIEW: Diet plays an integral role in development of inflammatory bowel disease (IBD) and continues to act as a mediator of intestinal inflammation once disease sets in. Most clinicians provide little dietary guidance to IBD patients, in part due to lack of knowledge in nutrition and lack of available nutritional resources. The purpose of this review is to provide clinicians with a brief summary of the latest evidence behind diets popular among IBD patients, to highlight diets with known efficacy, and to provide guidance that may help busy practitioners. RECENT FINDINGS: The latest studies show that exclusive enteral nutrition (EEN) remains the most effective diet for induction of remission in Crohn's disease (CD), either in the form of elemental, semi-elemental, or polymeric formulas. Recent studies also show that EEN can be useful in complicated CD including in enterocutaneous fistulas closure and to optimize nutrition in the pre-operative setting. Although new studies suggest that partial enteral nutrition supplemented with elimination diets may be beneficial in ulcerative colitis (UC) and CD, larger controlled studies are needed to support their use. The autoimmune diet also shows promise but lacks larger studies. Recent uncontrolled clinical studies evaluating the specific carbohydrate diet (SCD) suggest that this diet may improve biochemical markers of inflammation and induce mucosal healing, although larger studies are needed to support its use, especially because the SCD is very restrictive. Short-term use of the low FODMAP diet is appropriate when in the setting of an acute flare up and/or in stricturing disease, but long-term restriction of FODMAPs is not recommended given long-term changes observed in the microbiome. Recent studies suggest that avoidance of processed foods, packaged with preservatives and emulsifiers, may be important in decreasing intestinal inflammation; many of the recent popular diets share a common concept, avoidance of processed foods. In this review of the latest literature, we highlight that dietary studies are still in a rudimentary stage. Large prospective randomized control studies are underway evaluating head to head comparisons on the efficacy of some of these diets. We offer general guiding principles that may help gastroenterologists in the meantime."
+    },
+    {
+      "pmid": "30715243",
+      "title": "Carbohydrate Monotony as Protection and Treatment for Inflammatory Bowel Disease.",
+      "authors": [
+        "Savini Britto",
+        "Richard Kellermayer"
+      ],
+      "journal": "Journal of Crohn's & colitis",
+      "publication_date": "2019-Jul-25",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The nutritional developmental origins of inflammatory bowel disease[s] (IBDs: Crohn's disease or Crohn disease [CD] and ulcerative colitis [UC]) and their diet-based treatments continue to receive increasing attention. There is growing evidence for the success of nutrition-based treatments, such as exclusive enteral nutrition [EEN] and the specific carbohydrate diet [SCD], in both paediatric and adult patients. Beyond these two dietary interventions, symptomatic benefit in IBD has also been shown from a gluten-free diet [GFD] and paleolithic diet [PALEO], among others. These nutritional therapies may point to critical factors in not only the pathology, but also the pathogenesis of the disease group. It is difficult, however, to discern a common element within the large number of diet-based causation theories [e.g. emulsifiers, processed foods, refrigeration, increased total fat intake, low fibre intake, carbohydrate dominant food, etc.] and the varied dietary treatments of IBD. This Viewpoint article highlights that carbohydrate variation links diet-based causation theories, and that carbohydrate monotony or persistence is the commonly shared characteristic of diet-based IBD therapy. Further research directed towards carbohydrate monotony may critically advance the prevention and treatment of these highly morbid conditions.",
+      "mesh_terms": [
+        "Dietary Carbohydrates",
+        "Enteral Nutrition",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Remission Induction"
+      ]
+    },
+    {
+      "pmid": "30642871",
+      "title": "Liver-specific insulin receptor isoform A expression enhances hepatic glucose uptake and ameliorates liver steatosis in a mouse model of diet-induced obesity.",
+      "authors": [
+        "Andrea Raposo Lopez-Pastor",
+        "Almudena Gomez-Hernandez",
+        "Sabela Diaz-Castroverde",
+        "Gloria Gonzalez-Aseguinolaza",
+        "Agueda Gonzalez-Rodriguez",
+        "Gema Garcia",
+        "Silvia Fernandez",
+        "Oscar Escribano",
+        "Manuel Benito"
+      ],
+      "journal": "Disease models & mechanisms",
+      "publication_date": "2019-Feb-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Among the main complications associated with obesity are insulin resistance and altered glucose and lipid metabolism within the liver. It has previously been described that insulin receptor isoform A (IRA) favors glucose uptake and glycogen storage in hepatocytes compared with isoform B (IRB), improving glucose homeostasis in mice lacking liver insulin receptor. Thus, we hypothesized that IRA could also improve glucose and lipid metabolism in a mouse model of high-fat-diet-induced obesity. We addressed the role of insulin receptor isoforms in glucose and lipid metabolism in vivo We expressed IRA or IRB specifically in the liver by using adeno-associated viruses (AAVs) in a mouse model of diet-induced insulin resistance and obesity. IRA, but not IRB, expression induced increased glucose uptake in the liver and muscle, improving insulin tolerance. Regarding lipid metabolism, we found that AAV-mediated IRA expression also ameliorated hepatic steatosis by decreasing the expression of Fasn, Pgc1a, Acaca and Dgat2 and increasing Scd-1 expression. Taken together, our results further unravel the role of insulin receptor isoforms in hepatic glucose and lipid metabolism in an insulin-resistant scenario. Our data strongly suggest that IRA is more efficient than IRB at favoring hepatic glucose uptake, improving insulin tolerance and ameliorating hepatic steatosis. Therefore, we conclude that a gene therapy approach for hepatic IRA expression could be a safe and promising tool for the regulation of hepatic glucose consumption and lipid metabolism, two key processes in the development of non-alcoholic fatty liver disease associated with obesity.This article has an associated First Person interview with the first author of the paper.",
+      "mesh_terms": [
+        "Animals",
+        "Dependovirus",
+        "Diet, High-Fat",
+        "Disease Models, Animal",
+        "Fatty Liver",
+        "Gene Expression Regulation",
+        "Glucose",
+        "Insulin Resistance",
+        "Insulin Secretion",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Muscles",
+        "Obesity",
+        "Organ Specificity",
+        "Protein Isoforms",
+        "Receptor, Insulin"
+      ]
+    },
+    {
+      "pmid": "30076499",
+      "title": "Brief Report: Implementation of a Specific Carbohydrate Diet for a Child with Autism Spectrum Disorder and Fragile X Syndrome.",
+      "authors": [
+        "Kelly Barnhill",
+        "Morgan Devlin",
+        "Hannah Taylor Moreno",
+        "Amy Potts",
+        "Wendy Richardson",
+        "Claire Schutte",
+        "Laura Hewitson"
+      ],
+      "journal": "Journal of autism and developmental disorders",
+      "publication_date": "2020-May",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "This brief report examines the implementation of dietary intervention utilizing the specific carbohydrate diet (SCD) for the management of gastrointestinal issues in a 4 year old boy diagnosed with Autism Spectrum Disorder (ASD) and Fragile X Syndrome (FXS). Data relating to anthropometrics, dietary intake, blood markers, gastrointestinal (GI) symptoms, sleep issues, and behavioral concerns were gathered at baseline and after 4 months of dietary intervention. The dietary intervention was well tolerated. Improvements in nutrient status, GI symptoms, and behavioral domains were reported. The use of the SCD protocol in children with ASD/FXS and GI symptoms warrants further investigation.",
+      "mesh_terms": [
+        "Autism Spectrum Disorder",
+        "Child, Preschool",
+        "Diet, Carbohydrate-Restricted",
+        "Fragile X Syndrome",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Male",
+        "Nutritional Status",
+        "Sleep Wake Disorders"
+      ]
+    },
+    {
+      "pmid": "29651370",
+      "title": "Effect of the Specific Carbohydrate Diet on the Microbiome of a Primary Sclerosing Cholangitis and Ulcerative Colitis Patient.",
+      "authors": [
+        "Alanna Dubrovsky",
+        "Christopher L Kitts"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2018-Feb-09",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "A 20-year-old female was diagnosed with ulcerative colitis (UC) at age 14 and primary sclerosing cholangitis (PSC) at age 16. The PSC was successfully treated with high doses of oral vancomycin; however, the UC was more difficult to manage. After many drug treatments failed to treat the UC, the patient began following the specific carbohydrate diet (SCD). This report documents fecal microbiome changes resulting from following the SCD for two weeks. The DNA extracted from fecal samples was subjected to 16S rRNA gene sequencing to quantify bacterial species abundance. Not only were substantial changes in the fecal bacterial composition detectable within two weeks, but all UC symptoms were also controlled as early as one week following the start of the diet. The patient's fecal microbiota was dramatically different from those of three healthy control subjects and showed remarkable loss of bacterial diversity in terms of species richness, evenness, and overall diversity measures. Other specific changes in bacterial composition included an increase in Enterobacteriaceae, including Escherichia and Enterobacter species. A two- to three-fold decrease was observed in the prevalence of the most dominant fecal bacterial species, Fusobacterium ulcerans, after two weeks on the SCD. Overall species diversity and evenness increased to levels near the controls, although species richness remained low. These findings provide information on the fecal bacteria from a patient with PSC and UC, following prolonged oral vancomycin treatment, and identifies a potentially specific microbial effect for the SCD."
+    },
+    {
+      "pmid": "28867793",
+      "title": "Diet, Gut Microbiome and Epigenetics: Emerging Links with Inflammatory Bowel Diseases and Prospects for Management and Prevention.",
+      "authors": [
+        "Krasimira Aleksandrova",
+        "Beatriz Romero-Mosquera",
+        "Vicent Hernandez"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2017-Aug-30",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inflammatory bowel diseases (IBD) represent a growing public health concern due to increasing incidence worldwide. The current notion on the pathogenesis of IBD is that genetically susceptible individuals develop intolerance to dysregulated gut microflora (dysbiosis) and chronic inflammation develops as a result of environmental triggers. Among the environmental factors associated with IBD, diet plays an important role in modulating the gut microbiome, influencing epigenetic changes, and, therefore, could be applied as a therapeutic tool to improve the disease course. Nevertheless, the current dietary recommendations for disease prevention and management are scarce and have weak evidence. This review summarises the current knowledge on the complex interactions between diet, microbiome and epigenetics in IBD. Whereas an overabundance of calories and some macronutrients increase gut inflammation, several micronutrients have the potential to modulate it. Immunonutrition has emerged as a new concept putting forward the importance of vitamins such as vitamins A, C, E, and D, folic acid, beta carotene and trace elements such as zinc, selenium, manganese and iron. However, when assessed in clinical trials, specific micronutrients exerted a limited benefit. Beyond nutrients, an anti-inflammatory dietary pattern as a complex intervention approach has become popular in recent years. Hence, exclusive enteral nutrition in paediatric Crohn's disease is the only nutritional intervention currently recommended as a first-line therapy. Other nutritional interventions or specific diets including the Specific Carbohydrate Diet (SCD), the low fermentable oligosaccharides, disaccharides, monosaccharides, and polyol (FODMAP) diet and, most recently, the Mediterranean diet have shown strong anti-inflammatory properties and show promise for improving disease symptoms. More work is required to evaluate the role of individual food compounds and complex nutritional interventions with the potential to decrease inflammation as a means of prevention and management of IBD.",
+      "mesh_terms": [
+        "Diet",
+        "Epigenomics",
+        "Gastrointestinal Microbiome",
+        "Genetic Predisposition to Disease",
+        "Humans",
+        "Inflammatory Bowel Diseases"
+      ]
+    },
+    {
+      "pmid": "28825776",
+      "title": "Lack of Mucosal Healing From Modified Specific Carbohydrate Diet in Pediatric Patients With Crohn Disease.",
+      "authors": [
+        "Ghassan T Wahbeh",
+        "Brian T Ward",
+        "Dale Y Lee",
+        "Matthew J Giefer",
+        "David L Suskind"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2017-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Exclusive enteral nutrition is effective in pediatric Crohn disease but challenging as maintenance therapy. There is interest in food-based therapies such as the specific carbohydrate diet (SCD) but paucity of data on efficacy and effect on mucosal healing, an evolving target of IBD therapy. We conducted a retrospective review of the mucosal healing effect of the SCD in pediatric Crohn disease (CD). The endoscopic findings for children younger than 18 years with CD treated exclusively with the SCD or modified SCD (mSCD; SCD + addition of \"illegal foods\") were reviewed before and after the diet. Ileocolonoscopic examinations were scored according to the Simple Endoscopic Score for CD and findings on upper endoscopy were described. Seven subjects were identified, all on mSCD. The average age at starting the SCD was 11 ± 3.4 years and median duration of SCD/mSCD therapy was 26 months. All subjects reported no active symptoms before repeat endoscopic evaluation on mSCD, the majority had consistently normal C-reactive protein, albumin and hematocrit assessments, and mildly elevated fecal calprotectin (>50 μg/g, median 201, range 65-312) at any point within 3 months before the repeat endoscopy. One patient showed complete ileocolonic healing but persistent upper gastrointestinal tract ulceration. Complete macroscopic mucosal healing of both the ileocolon and upper gastrointestinal tract was not seen in any patient.",
+      "mesh_terms": [
+        "Adolescent",
+        "Child",
+        "Colon",
+        "Colonoscopy",
+        "Crohn Disease",
+        "Diet, Carbohydrate-Restricted",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Ileum",
+        "Intestinal Mucosa",
+        "Male",
+        "Retrospective Studies",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "28825603",
+      "title": "Nutritional Adequacy of the Specific Carbohydrate Diet in Pediatric Inflammatory Bowel Disease.",
+      "authors": [
+        "Kimberly Braly",
+        "Nila Williamson",
+        "Michele L Shaffer",
+        "Dale Lee",
+        "Ghassan Wahbeh",
+        "Jani Klein",
+        "Matthew Giefer",
+        "David L Suskind"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2017-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: The specific carbohydrate diet (SCD) is an exclusion diet used as a therapy in inflammatory bowel disease. The aim of this study was to evaluate the nutritional adequacy of the SCD. METHODS: Prospective dietary data for 12 weeks were analyzed for pediatric patients on the SCD. Intake of 20 key nutrients was compared to dietary recommended intake levels and nutrient intake data from similarly aged children from The National Health and Nutrition Examination Survey National Youth Fitness Survey in 2012. RESULTS: Nine patients enrolled, with 8 patients completing the study. Six of 8 individuals completing the study had gained weight, 1 individual had weight loss, and 1 had no change in weight. Energy intake was significantly greater than 100% of the recommended daily allowance (RDA)/adequate intake for 64% of daily intakes completed for this study. The majority of participants' daily intakes met or exceeded the RDA for vitamins B2, B3, B5, B6, B7, B12, C, A, and E. One hundred percent of participants' intakes were below the RDA for vitamin D. Seventy-five percent of daily intakes were less than the RDA for calcium. The upper limit was met or exceeded for magnesium in 42% of daily intakes. Average vitamin A intake was significantly greater than the upper limit (P = 0.01). CONCLUSIONS: Nutrient intake of pediatric inflammatory bowel disease patients on the SCD was adequate when compared with a healthy peer reference population, but adequacy was variable when compared with the dietary recommended intakes. Close monitoring with a multidisciplinary team for patients using the SCD as an alternative or adjunct therapy is recommend to ensure positive outcomes for overall patient health.",
+      "mesh_terms": [
+        "Adolescent",
+        "Case-Control Studies",
+        "Child",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet Surveys",
+        "Diet, Carbohydrate-Restricted",
+        "Energy Intake",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Nutrition Assessment",
+        "Nutritional Status",
+        "Prospective Studies",
+        "Recommended Dietary Allowances",
+        "Treatment Outcome",
+        "Weight Gain",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "28030510",
+      "title": "Clinical and Fecal Microbial Changes With Diet Therapy in Active Inflammatory Bowel Disease.",
+      "authors": [
+        "David L Suskind",
+        "Stanley A Cohen",
+        "Mitchell J Brittnacher",
+        "Ghassan Wahbeh",
+        "Dale Lee",
+        "Michele L Shaffer",
+        "Kimberly Braly",
+        "Hillary S Hayden",
+        "Jani Klein",
+        "Benjamin Gold",
+        "Matthew Giefer",
+        "Angela Stallworth",
+        "Samuel I Miller"
+      ],
+      "journal": "Journal of clinical gastroenterology",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "GOAL: To determine the effect of the specific carbohydrate diet (SCD) on active inflammatory bowel disease (IBD). BACKGROUND: IBD is a chronic idiopathic inflammatory intestinal disorder associated with fecal dysbiosis. Diet is a potential therapeutic option for IBD based on the hypothesis that changing the fecal dysbiosis could decrease intestinal inflammation. STUDY: Pediatric patients with mild to moderate IBD defined by pediatric Crohn's disease activity index (PCDAI 10-45) or pediatric ulcerative colitis activity index (PUCAI 10-65) were enrolled into a prospective study of the SCD. Patients started SCD with follow-up evaluations at 2, 4, 8, and 12 weeks. PCDAI/PUCAI, laboratory studies were assessed. RESULTS: Twelve patients, ages 10 to 17 years, were enrolled. Mean PCDAI decreased from 28.1±8.8 to 4.6±10.3 at 12 weeks. Mean PUCAI decreased from 28.3±23.1 to 6.7±11.6 at 12 weeks. Dietary therapy was ineffective for 2 patients while 2 individuals were unable to maintain the diet. Mean C-reactive protein decreased from 24.1±22.3 to 7.1±0.4 mg/L at 12 weeks in Seattle Cohort (nL<8.0 mg/L) and decreased from 20.7±10.9 to 4.8±4.5 mg/L at 12 weeks in Atlanta Cohort (nL<4.9 mg/L). Stool microbiome analysis showed a distinctive dysbiosis for each individual in most prediet microbiomes with significant changes in microbial composition after dietary change. CONCLUSIONS: SCD therapy in IBD is associated with clinical and laboratory improvements as well as concomitant changes in the fecal microbiome. Further prospective studies are required to fully assess the safety and efficacy of dietary therapy in patients with IBD.",
+      "mesh_terms": [
+        "Adolescent",
+        "C-Reactive Protein",
+        "Child",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Dietary Carbohydrates",
+        "Dysbiosis",
+        "Feces",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Prospective Studies",
+        "Severity of Illness Index",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "27638834",
+      "title": "Patients Perceive Clinical Benefit with the Specific Carbohydrate Diet for Inflammatory Bowel Disease.",
+      "authors": [
+        "David L Suskind",
+        "Ghassan Wahbeh",
+        "Stanley A Cohen",
+        "Christopher J Damman",
+        "Jani Klein",
+        "Kim Braly",
+        "Michele Shaffer",
+        "Dale Lee"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "publication_date": "2016-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Recent studies suggest that dietary therapy may be effective for patients with inflammatory bowel disease (IBD), but limited published data exist on the usage and efficacy of dietary therapy. AIM: To evaluate the perspective of IBD patients using the specific carbohydrate diet (SCD). METHODS: An anonymous online survey was conducted using REDCap, a Web-based survey tool. Survey links were sent to known Web sites as well as support groups in an attempt to characterize patient utilization of the SCD and perception of efficacy of the SCD. RESULTS: There were 417 respondents of the online survey on the SCD with IBD. Mean age for individuals on the SCD was 34.9 ± 16.4 years. Seventy percent were female. Forty-seven percent had Crohn's disease, 43 % had ulcerative colitis, and 10 % had indeterminate colitis. Individuals perceived clinical improvement on the SCD. Four percent reported clinical remission prior to the SCD, while 33 % reported remission at 2 months after initiation of the SCD, and 42 % at both 6 and 12 months. For those reporting clinical remission, 13 % reported time to achieve remission of less than 2 weeks, 17 % reported 2 weeks to a month, 36 % reported 1-3 months, and 34 % reported greater than 3 months. For individuals who reported reaching remission, 47 % of individuals reported associated improvement in abnormal laboratory values. CONCLUSIONS: The SCD is utilized by many patients as a primary and adjunct therapy for IBD. Most patients perceive clinical benefit to use of the SCD.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Child, Preschool",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Dietary Carbohydrates",
+        "Female",
+        "Humans",
+        "Infant",
+        "Inflammatory Bowel Diseases",
+        "Male",
+        "Middle Aged",
+        "Perception",
+        "Surveys and Questionnaires",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26877615",
+      "title": "Response to strict and liberalized specific carbohydrate diet in pediatric Crohn's disease.",
+      "authors": [
+        "Jennifer C Burgis",
+        "Kaylie Nguyen",
+        "K T Park",
+        "Kenneth Cox"
+      ],
+      "journal": "World journal of gastroenterology",
+      "publication_date": "2016-Feb-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To investigate the specific carbohydrate diet (SCD) as nutritional therapy for maintenance of remission in pediatric Crohn's disease (CD). METHODS: Retrospective chart review was conducted in 11 pediatric patients with CD who initiated the SCD as therapy at time of diagnosis or flare. Two groups defined as SCD simple (diet alone, antibiotics or 5-ASA) or SCD with immunomodulators (corticosteroids and/or stable thiopurine dosing) were followed for one year and compared on disease characteristics, laboratory values and anthropometrics. RESULTS: The mean age at start of the SCD was 11.8 ± 3.0 years (range 6.6-17.6 years) with five patients starting the SCD within 5 wk of diagnosis. Three patients maintained a strict SCD diet for the study period and the mean time for liberalization was 7.7 ± 4.0 mo (range 1-12) for the remaining patients. In both groups, hematocrit, albumin and ESR values improved while on strict SCD and appeared stable after liberalization (P-value 0.006, 0.002, 0.002 respectively). The majority of children gained in weight and height percentile while on strict SCD, with small loss in weight percentile documented with liberalization. CONCLUSION: Disease control may be attainable with the SCD in pediatric CD. Further studies are needed to assess adherence, impact on mucosal healing and growth.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adolescent Development",
+        "Anti-Bacterial Agents",
+        "Child",
+        "Child Development",
+        "Combined Modality Therapy",
+        "Crohn Disease",
+        "Diet, Carbohydrate-Restricted",
+        "Dietary Carbohydrates",
+        "Female",
+        "Fermentation",
+        "Humans",
+        "Immunologic Factors",
+        "Male",
+        "Patient Compliance",
+        "Remission Induction",
+        "Retrospective Studies",
+        "Time Factors",
+        "Treatment Outcome",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "26655069",
+      "title": "Specific carbohydrate diet for pediatric inflammatory bowel disease in clinical practice within an academic IBD center.",
+      "authors": [
+        "Chinonyelum Obih",
+        "Ghassan Wahbeh",
+        "Dale Lee",
+        "Kim Braly",
+        "Matthew Giefer",
+        "Michele L Shaffer",
+        "Heather Nielson",
+        "David L Suskind"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2016-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Despite dietary factors being implicated in the pathogenesis of inflammatory bowel disease (IBD), nutritional therapy, outside of exclusive enteral nutrition (EEN), has not had a defined role within the treatment paradigm of pediatric IBD within IBD centers. Based on emerging data, Seattle Children's Hospital IBD Center has developed an integrated dietary program incorporating the specific carbohydrate diet (SCD) into its treatment paradigm. This treatment paradigm uses the SCD as primary therapy as well as adjunctive therapy for the treatment of IBD. The aim of this study was to evaluate the potential effects of the SCD on clinical outcomes and laboratory studies of pediatric patients with Crohn's disease (CD) and ulcerative colitis (UC). METHODS: In this retrospective study, we reviewed the medical records of patients with IBD on SCD. RESULTS: We analyzed 26 children on the SCD: 20 with CD and 6 with UC. Duration of the dietary therapy ranged from 3 to 48 mo. In patients with active CD (Pediatric Crohn's Disease activity index [PCDAI] >10), PCDAI dropped from 32.8 ± 13.2 at baseline to 20.8 ± 16.6 by 4 ± 2 wk, and to 8.8 ± 8.5 by 6 mo. The mean Pediatric Ulcerative Colitis Activity Index for patients with active UC decreased from a baseline of 28.3 ± 10.3 to 20.0 ± 17.3 at 4 ± 2 wk, to 18.3 ± 31.7 at 6 mo. CONCLUSION: This retrospective review provides evidence that the SCD can be integrated into a tertiary care center and may improve clinical and laboratory parameters for pediatric patients with nonstructuring, nonpenetrating CD as well as UC. Further prospective studies are needed to fully assess the safety and efficacy of the SCD in pediatric patients with IBD.",
+      "mesh_terms": [
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Diet",
+        "Dietary Carbohydrates",
+        "Female",
+        "Humans",
+        "Infant",
+        "Male",
+        "Retrospective Studies",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26351419",
+      "title": "Resolution of Severe Ulcerative Colitis with the Specific Carbohydrate Diet.",
+      "authors": [
+        "Birgit N Khandalavala",
+        "Maya C Nirmalraj"
+      ],
+      "journal": "Case reports in gastroenterology",
+      "publication_date": "2015",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "A 73-year-old female of Asian origin was diagnosed with ulcerative colitis (UC) after initial gastrointestinal symptoms of abdominal pain and bloody diarrhea. She had a relatively benign course over the subsequent 12 years. In 2009, she had increased left-sided abdominal pain, bloody diarrhea and progressive weight loss, due to a severe exacerbation. In spite of a variety of standard treatments, her condition continued to decline with a significant impact on normal life and functioning. In December of 2010, repeat colonoscopy and microscopy confirmed pancolitis, without diverticulitis. The Specific Carbohydrate Diet (SCD) was initiated due to failure of conventional therapies. Following this highly restricted diet, within a period of 3-6 months, improvement was noted, and within a year, no abdominal pain or diarrhea were present, and she returned to her baseline functioning and career. Two years later, repeat colonoscopy showed resolution of the pancolitis, confirmed with microscopic evaluation. Successful use of the SCD in children with UC has been documented. We describe previously unreported, highly beneficial results with both symptomatic and clinical improvement and complete remission of UC in an adult female with the SCD."
+    },
+    {
+      "pmid": "25620042",
+      "title": "Hypoglycemic and hypolipidemic effects of neohesperidin derived from Citrus aurantium L. in diabetic KK-A(y) mice.",
+      "authors": [
+        "Sheng Jia",
+        "Ying Hu",
+        "Wenna Zhang",
+        "Xiaoyong Zhao",
+        "Yanhong Chen",
+        "Chongde Sun",
+        "Xian Li",
+        "Kunsong Chen"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2015-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present study is to investigate the possible hypoglycemic and hypolipidemic effects of neohesperidin (NHP) derived from Citrus aurantium L. in vivo. KK-A(y) mice were used as the diabetic experimental model, whereas C57BL/6 mice were used as normal control for a 6-week study. Treatment of NHP significantly decreased fasting glucose, serum glucose, and glycosylated serum protein (GSP) in KK-A(y) mice. It significantly elevated oral glucose tolerance and insulin sensitivity and decreased insulin resistance in the diabetic mice. In addition, NHP significantly decreased serum triglycerides (TG), total cholesterol (TCH), leptin level, and liver index in the KK-A(y) mice. NHP also inhibited lipid accumulation in the liver and decreased the size of epididymal adipocyte in the KK-A(y) mice. Gene expression of stearoyl-CoA desaturase 1 (SCD-1) and fatty acid synthase (FAS) were significantly inhibited, whereas the expression of acyl-CoA oxidase (ACOX) was significantly induced by NHP treatment in the liver of KK-A(y) mice. In addition, elevated level of phosphorylation of hepatic AMPK was observed in NHP-treated mice. Therefore, the activation of the AMPK pathway and regulation of its target genes, including SCD-1, FAS, and ACOX, may play important roles in the hypoglycemic and hypolipidemic effects of NHP in vivo, and NHP may have great potential in the prevention of diabetes and its complications.",
+      "mesh_terms": [
+        "Adipose Tissue, White",
+        "Adiposity",
+        "Animals",
+        "Blood Proteins",
+        "Citrus",
+        "Diabetes Mellitus, Type 2",
+        "Diet, Diabetic",
+        "Dietary Supplements",
+        "Gene Expression Regulation, Enzymologic",
+        "Glycoproteins",
+        "Hesperidin",
+        "Hyperglycemia",
+        "Hyperlipidemias",
+        "Hypoglycemic Agents",
+        "Hypolipidemic Agents",
+        "Insulin Resistance",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Mice, Mutant Strains",
+        "Random Allocation",
+        "Specific Pathogen-Free Organisms",
+        "Glycated Serum Proteins"
+      ]
+    },
+    {
+      "pmid": "24897165",
+      "title": "Clinical and mucosal improvement with specific carbohydrate diet in pediatric Crohn disease.",
+      "authors": [
+        "Stanley A Cohen",
+        "Benjamin D Gold",
+        "Salvatore Oliva",
+        "Jeffery Lewis",
+        "Angela Stallworth",
+        "Bailey Koch",
+        "Laura Eshee",
+        "David Mason"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The aim of the study was to prospectively evaluate clinical and mucosal responses to the specific carbohydrate diet (SCD) in children with Crohn disease (CD). METHODS: Eligible patients with active CD (Pediatric Crohn's Disease Activity Index [PCDAI] ≥ 15) underwent a patency capsule and, if passed intact, capsule endoscopy (CE) was performed. Patients taking SCD were monitored for 52 weeks while maintaining all prescribed medications. Demographic, dietary, and clinical information, PCDAI, Harvey-Bradshaw Index (HBI), and Lewis score (LS) were collected at 0, 12, and 52 weeks. CEs were evaluated by an experienced reader blinded to patient clinical information and timing. RESULTS: Sixteen patients were screened; 10 enrolled; and 9 completed the initial 12-week trial-receiving 85% of estimated caloric needs before, and 101% on the SCD. HB significantly decreased from 3.3 ± 2.0 to 0.6 ± 1.3 (P = 0.007) as did PCDAI (21.1 ± 5.9 to 7.8 ± 7.1, P = 0.011). LS declined significantly from 2153 ± 732 to 960  ± 433 (P = 0.012). Seven patients continued the SCD up to 52 weeks; HB (0.1 ± 0.4) and PCDAI (5.4 ± 5.5) remained improved (P = 0.016 and 0.027 compared to baseline), with mean LS at 1046 ± 372 and 2 patients showed sustained mucosal healing. CONCLUSIONS: Clinical and mucosal improvements were seen in children with CD, who used SCD for 12 and 52 weeks. In addition, CE can monitor mucosal improvement in treatment trials for pediatric CD. Further studies are critically needed to understand the mechanisms underlying SCD's effectiveness in children with CD.",
+      "mesh_terms": [
+        "Adolescent",
+        "Capsule Endoscopy",
+        "Child",
+        "Crohn Disease",
+        "Dietary Carbohydrates",
+        "Energy Intake",
+        "Female",
+        "Humans",
+        "Intestinal Mucosa",
+        "Male",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "24048168",
+      "title": "Nutritional therapy in pediatric Crohn disease: the specific carbohydrate diet.",
+      "authors": [
+        "David L Suskind",
+        "Ghassan Wahbeh",
+        "Nila Gregory",
+        "Heather Vendettuoli",
+        "Dennis Christie"
+      ],
+      "journal": "Journal of pediatric gastroenterology and nutrition",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Crohn disease is characterized by chronic intestinal inflammation in the absence of a recognized etiology. Nutritional therapy in the form of exclusive enteral nutrition (EEN) has an established role within pediatric Crohn disease. Following exclusive enteral nutrition's success, many dietary therapies focusing on the elimination of specific complex carbohydrates have been anecdotally reported to be successful. METHODS: Many of these therapies have not been evaluated scientifically; therefore, we reviewed the medical records of our patients with Crohn disease on the specific carbohydrate diet (SCD). RESULTS: Seven children with Crohn disease receiving the SCD and no immunosuppressive medications were retrospectively evaluated. Duration of the dietary therapy ranged from 5 to 30 months, with an average of 14.6±10.8 months. Although the exact time of symptom resolution could not be determined through chart review, all symptoms were notably resolved at a routine clinic visit 3 months after initiating the diet. Each patient's laboratory indices, including serum albumin, C-reactive protein, hematocrit, and stool calprotectin, either normalized or significantly, improved during follow-up clinic visits. CONCLUSIONS: This chart review suggests that the SCD and other low complex carbohydrate diets may be possible therapeutic options for pediatric Crohn disease. Further prospective studies are required to fully assess the safety and efficacy of the SCD, or any other low complex SCDs in pediatric patients with Crohn disease.",
+      "mesh_terms": [
+        "Adolescent",
+        "C-Reactive Protein",
+        "Child",
+        "Crohn Disease",
+        "Dietary Carbohydrates",
+        "Edible Grain",
+        "Enteral Nutrition",
+        "Female",
+        "Hematocrit",
+        "Humans",
+        "Leukocyte L1 Antigen Complex",
+        "Male",
+        "Retrospective Studies",
+        "Serum Albumin"
+      ]
+    },
+    {
+      "pmid": "23401056",
+      "title": "Effects of developmental deltamethrin exposure on white adipose tissue gene expression.",
+      "authors": [
+        "Laura E Armstrong",
+        "Maureen V Driscoll",
+        "Ajay C Donepudi",
+        "Jialin Xu",
+        "Angela Baker",
+        "Lauren M Aleksunes",
+        "Jason R Richardson",
+        "Angela L Slitt"
+      ],
+      "journal": "Journal of biochemical and molecular toxicology",
+      "publication_date": "2013-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Deltamethrin, a type II pyrethroid, is a widely used insecticide. The purpose of this study was to determine whether perinatal deltamethrin exposure altered the expression of adipogenic and lipogenic genes in white adipose tissue (WAT) in adult pups. C57BL/6 pregnant mice were administered 0, 1, or 3 mg/kg of deltamethrin orally every 3 days throughout gestation and lactation. Offspring were weaned on postnatal day 25, and WAT was collected from 5-month-old male mice. Perinatal deltamethrin exposure decreased the mRNA expression of adipogenesis-related transcription factors Pparγ, Cebpα, and lipogenic genes Srebp1c, Acc-1, Cd36, Lpl, Scd-1; along with Nrf2 and target genes Nqo1 and Gclc at the 1 mg/kg treatment. Cytokine expression of Fas/Tnf-R and Cd209e at the 1 mg/kg treatment was significantly decreased, and expression of Tnf, Cd11c, and Fas/Tnf-R was decreased at the 3 mg/kg treatment. Developmental deltamethrin exposure did not overtly affect body weight or adipose weight, but decreased mRNA expression of specific genes that may potentially disrupt normal adipogenesis and lipid and glucose metabolism if the offspring are challenged by changes in diet or environment.",
+      "mesh_terms": [
+        "Adipogenesis",
+        "Adipose Tissue, White",
+        "Animals",
+        "Female",
+        "Gene Expression Regulation",
+        "Glucose",
+        "Insecticides",
+        "Lipid Metabolism",
+        "Male",
+        "Mice",
+        "Nitriles",
+        "Pregnancy",
+        "Prenatal Exposure Delayed Effects",
+        "Pyrethrins"
+      ]
+    },
+    {
+      "pmid": "18400702",
+      "title": "Parallel activation of de novo lipogenesis and stearoyl-CoA desaturase activity after 3 d of high-carbohydrate feeding.",
+      "authors": [
+        "Mary F-F Chong",
+        "Leanne Hodson",
+        "Alex S Bickerton",
+        "Rachel Roberts",
+        "Matt Neville",
+        "Fredrik Karpe",
+        "Keith N Frayn",
+        "Barbara A Fielding"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2008-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: High-carbohydrate (HC) diets increase de novo lipogenesis (DNL), but effects on stearoyl-CoA desaturase (SCD) are not so well studied. OBJECTIVE: The objective was to investigate DNL and SCD in liver and adipose tissue by using fatty acid ratios after short-term dietary intervention. DESIGN: Eight subjects consumed isoenergetic 3-d HC (10% fat; 75% carbohydrates) or higher fat (HF; 40% fat; 45% carbohydrates) diets (sugar to starch ratio: 60:40 for both) in a crossover study. Blood was taken from an artery and a vein draining subcutaneous adipose tissue. DNL and SCD activity were investigated by using the ratios of 16:0 to 18:2n-6 and of 16:1n-7 to 16:0, respectively. A test meal, including [U-(13)C]palmitate was given to trace dietary fatty acid incorporation into VLDL-triacylglycerol (TG). The conversion of intravenously infused [(2)H(2)]palmitic acid to [(2)H(2)]palmitoleic acid in VLDL-TG was quantified as a specific marker of hepatic SCD activity. RESULTS: The VLDL-TG 16:0/18:2n-6 ratio, which reflects hepatic DNL, was greater after the HC diet than after the HF diet (P = 0.02). With the HC diet, increased plasma TG concentrations correlated with 16:0/18:2n-6 ratios (r = 0.76, P = 0.028). Plasma VLDL-TG and adipose venous nonesterified fatty acid (NEFA) 16:1n-7/16:0 ratios were higher after the HC diet (fasting: P = 0.01 and P = 0.05, respectively; postprandial: P = 0.03 and P = 0.05, respectively). Changes in fasting VLDL-TG 16:0/18:2n-6 and 16:1n-7/16:0 ratios were associated (P = 0.06). The contribution of total fatty acids from splanchnic sources (including DNL) was higher after the HC diet (P = 0.02). Expression of lipogenic genes in subcutaneous adipose tissue was not significantly affected by diet. CONCLUSION: Parallel activation of DNL and SCD was found after a short period of HC feeding.",
+      "mesh_terms": [
+        "Adult",
+        "Carbon Isotopes",
+        "Cross-Over Studies",
+        "Deuterium",
+        "Dietary Carbohydrates",
+        "Dietary Fats",
+        "Fatty Acids",
+        "Female",
+        "Humans",
+        "Lipogenesis",
+        "Lipoproteins, VLDL",
+        "Liver",
+        "Male",
+        "Middle Aged",
+        "Stearoyl-CoA Desaturase",
+        "Subcutaneous Fat",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "16741579",
+      "title": "Critical role of stearoyl-CoA desaturase-1 (SCD1) in the onset of diet-induced hepatic insulin resistance.",
+      "authors": [
+        "Roger Gutiérrez-Juárez",
+        "Alessandro Pocai",
+        "Claudia Mulas",
+        "Hiraku Ono",
+        "Sanjay Bhanot",
+        "Brett P Monia",
+        "Luciano Rossetti"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "publication_date": "2006-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Stearoyl-CoA desaturase-1 (SCD1) catalyzes the synthesis of monounsaturated fatty acids from saturated fatty acids. Mice with a targeted disruption of Scd1 gene locus are lean and display increased insulin sensitivity. To examine whether Scd1 activity is required for the development of diet-induced hepatic insulin resistance, we used a sequence-specific antisense oligodeoxynucleotide (ASO) to lower hepatic Scd1 expression in rats and mice with diet-induced insulin resistance. Treatment of rats with Scd1 ASO markedly decreased liver Scd1 expression (approximately 80%) and total Scd activity (approximately 50%) compared with that in rats treated with scrambled ASO (control). Insulin clamp studies revealed severe hepatic insulin resistance in high-fat-fed rats and mice that was completely reversed by 5 days of treatment with Scd1 ASO. The latter treatment decreased glucose production (by approximately 75%), gluconeogenesis, and glycogenolysis. Downregulation of Scd1 also led to increased Akt phosphorylation and marked decreases in the expression of glucose-6-phosphatase (Glc-6-Pase) and phosphoenolpyruvate carboxykinase (PEPCK). Thus, Scd1 is required for the onset of diet-induced hepatic insulin resistance.",
+      "mesh_terms": [
+        "Animals",
+        "Diet",
+        "Dietary Fats",
+        "Glucose",
+        "Glucose-6-Phosphatase",
+        "Humans",
+        "Insulin",
+        "Insulin Resistance",
+        "Isoenzymes",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oligonucleotides, Antisense",
+        "Phosphoenolpyruvate Carboxykinase (GTP)",
+        "Proto-Oncogene Proteins c-akt",
+        "Random Allocation",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction",
+        "Stearoyl-CoA Desaturase"
+      ]
+    },
+    {
+      "pmid": "12815040",
+      "title": "Identification and characterization of murine SCD4, a novel heart-specific stearoyl-CoA desaturase isoform regulated by leptin and dietary factors.",
+      "authors": [
+        "Makoto Miyazaki",
+        "Mark J Jacobson",
+        "Weng Chi Man",
+        "Paul Cohen",
+        "Esra Asilmaz",
+        "Jeffrey M Friedman",
+        "James M Ntambi"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "2003-Sep-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Stearoyl-CoA desaturase (SCD) is the rate-limiting enzyme in the biosynthesis of monounsaturated fatty acids. Thus far, three isoforms of SCD (SCD1, SCD2, and SCD3) have been identified and characterized. Regulation of the SCD1 isoform has been shown to be an important component of the metabolic actions of leptin in liver, but the effects of leptin on SCD isoforms in other tissues have not been investigated. We found that although the mRNA levels of SCD1 and SCD2 were not affected by leptin deficiency in the hearts of ob/ob mice, the SCD activity and levels of monounsaturated fatty acids were increased, implying the existence of another SCD isoform. This observation has led to the cDNA cloning and characterization of a fourth SCD isoform (SCD4) that is expressed exclusively in the heart. SCD4 encodes a 352-amino acid protein that shares 79% sequence identity with the SCD1, SCD2, and SCD3 isoforms. Liver X receptor alpha (LXR alpha) agonists and a high carbohydrate fat-free diet induced SCD4 expression, but unlike SCD1, SCD4 expression was not repressed by dietary polyunsaturated fatty acids. SCD4 mRNA levels were elevated 5-fold in the hearts of leptin-deficient ob/ob mice relative to wild type controls. Treatment of ob/ob mice with leptin decreased mRNA levels of SCD4, whereas levels of SCD1 and SCD2 were not affected. Furthermore, in the hearts of SCD1-deficient mice, SCD4 mRNA levels were induced 3-fold, whereas the levels of SCD2 were not altered. The current studies identify a novel heart-specific SCD isoform that demonstrates tissue-specific regulation by leptin and dietary factors.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Blotting, Northern",
+        "Carbohydrate Metabolism",
+        "Cell Line",
+        "DNA, Complementary",
+        "DNA-Binding Proteins",
+        "Diet",
+        "Fatty Acids",
+        "Fatty Acids, Unsaturated",
+        "Heart",
+        "Humans",
+        "Leptin",
+        "Liver",
+        "Liver X Receptors",
+        "Mice",
+        "Mice, Obese",
+        "Microsomes",
+        "Models, Genetic",
+        "Molecular Sequence Data",
+        "Myocardium",
+        "Orphan Nuclear Receptors",
+        "Protein Isoforms",
+        "Protein Structure, Tertiary",
+        "RNA, Messenger",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Sequence Homology, Amino Acid",
+        "Stearoyl-CoA Desaturase",
+        "Tissue Distribution"
+      ]
+    },
+    {
+      "pmid": "11203877",
+      "title": "Recent advances in diabetes mellitus of interest to dentistry.",
+      "authors": [
+        "J W Little"
+      ],
+      "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+      "publication_date": "2000",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Significant changes were made in 1997 by The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus of the American Association of Diabetes regarding the diagnosis and classification of diabetes mellitus. The terms \"insulin-dependent diabetes mellitus\" (IDDM) and \"non-insulin-dependent diabetes mellitus\" (NIDDM) were dropped. The new classification is, in general, based on etiology rather than on treatment and includes four groups: Type I (autoimmune), Type 2 (non-autoimmune), Other specific types, and Gestational diabetes. The fasting blood glucose level for diagnosis was lowered from 140 mg/dL to 126 mg/dL. A random blood glucose of 200 mg/dL or greater in a patient with symptoms of diabetes is diagnostic. Each of these diagnostic tests needs to be repeated on a separate day. The glucose tolerance test is no longer recommended for routine diagnostic use. Recommendations for the screening of diabetes mellitus in presumably healthy individuals are presented. New advances in insulin and its delivery to the diabetic patient are discussed. The impact of diabetes mellitus on the oral cavity is updated.",
+      "mesh_terms": [
+        "Autoimmune Diseases",
+        "Blood Glucose",
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Diabetes, Gestational",
+        "Fasting",
+        "Female",
+        "Glucose Tolerance Test",
+        "Humans",
+        "Insulin",
+        "Mass Screening",
+        "Mouth Diseases",
+        "Practice Guidelines as Topic",
+        "Pregnancy",
+        "Terminology as Topic"
+      ]
+    }
+  ]
+}

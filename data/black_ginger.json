@@ -1,0 +1,153 @@
+{
+  "supplement": "Black Ginger",
+  "query": "Black Ginger[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:19:44",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "39202650",
+      "title": "Evaluating the Diverse Anticancer Effects of Laos Kaempferia parviflora (Black Ginger) on Human Melanoma Cell Lines.",
+      "authors": [
+        "Gyun Seok Park",
+        "Juhyun Shin",
+        "Seongwoo Hong",
+        "Ramesh Kumar Saini",
+        "Judy Gopal",
+        "Jae-Wook Oh"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "publication_date": "2024-Aug-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cancer has become a consistent concern globally and increasingly fatal. Malignant melanoma is a rising concern, with its increased mortality. Kaempferia parviflora Wall. ex Baker (K. parviflora (KP)), commonly known as black ginger, is well known for its medicinal contributions. For the first time, in the following study we investigated the antimelanoma potential of Laos KP extracts in human cell lines. KP extracts (KPE) in methanol, DCM, and ethyl acetate showed strong cell inhibition in both melanomas, with KPE-DCM being particularly effective in inhibiting melanoma cell migration, invasion, and proliferation by inducing cell cycle arrest and apoptosis, while KPE-Hexane exhibited a low cell inhibition rate and a more limited effect. KPE affected the increased expression of caspase-3, PARP andBax and the decreased expression of the BcL-2, Mu-2-related death-inducing gene (MUDENG, MuD) protein. Furthermore, KPE enhanced apoptotic cells in the absence and presence of the pancaspase inhibitor Z-VAD-FMK. Interestingly, these apoptotic cells were significantly suppressed by the caspase inhibitor. Moreover, elevated mitochondrial membrane potential (MMP) and intracellular reactive oxygen species (ROS) levels, suggestive of KPE's mitochondrial-mediated apoptosis in melanoma cells, were also confirmed. KPE treatment increased MMP levels, and upregulated the generation of ROS in A375 cells but not in A2058 cells. However, pretreatment with an ROS scavenger (NAC) suppressed KPE-induced cell death and ROS generation. These results clearly pointed out KPE-induced mitochondrial-mediated apoptotic cell death as the mechanism behind the inhibition of the human melanoma cells. Future studies exploring the role of specific ROS sources and their interaction with mitochondrial dynamics could deepen the existing understanding on KPE-induced apoptosis.",
+      "mesh_terms": [
+        "Humans",
+        "Melanoma",
+        "Cell Line, Tumor",
+        "Apoptosis",
+        "Plant Extracts",
+        "Zingiberaceae",
+        "Cell Proliferation",
+        "Laos",
+        "Cell Movement",
+        "Reactive Oxygen Species",
+        "Membrane Potential, Mitochondrial",
+        "Zingiber officinale",
+        "Antineoplastic Agents"
+      ]
+    },
+    {
+      "pmid": "37345122",
+      "title": "Cytotoxic Activity, Anti-Migration and In Silico Study of Black Ginger (Kaempferia parviflora) Extract against Breast Cancer Cell.",
+      "authors": [
+        "Indah Hairunisa",
+        "Mohd Fadzelly Abu Bakar",
+        "Muhammad Da'i",
+        "Fazleen Izzany Abu Bakar",
+        "Eka Siswanto Syamsul"
+      ],
+      "journal": "Cancers",
+      "publication_date": "2023-May-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Metastatic breast cancer remains the leading cause of death in women worldwide. This condition necessitates extensive research to find an effective treatment, one of which is the natural medicine approach. Kaempferia parviflora (KP) is a plant believed to possess anticancer properties. Therefore, this study aims to determine KP's bioactive compound, cytotoxic, and anti-migration activity in the highly metastatic breast cancer cell line model 4T1, also in the breast cancer cell model MCF-7 and noncancerous cell line NIH-3T3. Maceration with ethanol (EEKP) and infusion with distilled water (EWKP) was used for extraction. The MTT assay was used to test for cytotoxicity, and the scratch wound healing assay was used to test for the inhibition of migration. Phytochemical profiling of EEKP was performed using UHPLC-MS, and the results were studied for in silico molecular docking. Result showed that EEKP had a better cytotoxic activity than EWKP with an IC50 value of 128.33 µg/mL (24 h) and 115.09 µg/mL (48 h) on 4T1 cell line, and 138.43 µg/mL (24 h) and 124.81 µg/mL (48 h) on MCF-7 cell line. Meanwhile, no cytotoxic activity was observed at concentrations ranging from 3-250 µg/mL in NIH-3T3. EEKP also showed anti-migration activity in a concentration of 65 µg/mL. Mass Spectrophotometer (MS) structures from EEKP are 5-Hydroxy-7,4'-dimethoxyflavanone (HDMF), 5-Hydro-7,8,2'-trimethoxyflavanone (HTMF), Retusine, and Denbinobin. The in silico docking was investigated for receptors Bcl-2, Bcl-XL, ERK2, and FAK, as well as their activities. In silico result indicates that HTMF and denbinobin are bioactive compounds responsible for EEKP's cytotoxic and anti-migration activity. These two compounds and standardized plant extract can be further studied as potential breast cancer treatment candidates."
+    },
+    {
+      "pmid": "36209164",
+      "title": "Biologically synthesized black ginger-selenium nanoparticle induces apoptosis and autophagy of AGS gastric cancer cells by suppressing the PI3K/Akt/mTOR signaling pathway.",
+      "authors": [
+        "Rongbo Wang",
+        "Keum-Yun Ha",
+        "Sanjeevram Dhandapani",
+        "Yeon-Ju Kim"
+      ],
+      "journal": "Journal of nanobiotechnology",
+      "publication_date": "2022-Oct-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Despite being a promising strategy, current chemotherapy for gastric cancer (GC) is limited due to adverse side effects and poor survival rates. Therefore, new drug-delivery platforms with good biocompatibility are needed. Recent studies have shown that nanoparticle-based drug delivery can be safe, eco-friendly, and nontoxic making them attractive candidates. Here, we develop a novel selenium-nanoparticle based drug-delivery agent for cancer treatment from plant extracts and selenium salts. RESULTS: Selenium cations were reduced to selenium nanoparticles using Kaempferia parviflora (black ginger) root extract and named KP-SeNP. Transmission electron microscopy, selected area electron diffraction, X-ray diffraction, energy dispersive X-ray, dynamic light scattering, and Fourier-transform infrared spectrum were utilized to confirm the physicochemical features of the nanoparticles. The KP-SeNPs showed significant cytotoxicity in human gastric adenocarcinoma cell (AGS cells) but not in normal cells. We determined that the intracellular signaling pathway mechanisms associated with the anticancer effects of KP-SeNPs involve the upregulation of intrinsic apoptotic signaling markers, such as B-cell lymphoma 2, Bcl-associated X protein, and caspase 3 in AGS cells. KP-SeNPs also caused autophagy of AGS by increasing the autophagic flux-marker protein, LC3B-II, whilst inhibiting autophagic cargo protein, p62. Additionally, phosphorylation of PI3K/Akt/mTOR pathway markers and downstream targets was decreased in KP-SeNP-treated AGS cells. AGS-cell xenograft model results further validated our in vitro findings, showing that KP-SeNPs are biologically safe and exert anticancer effects via autophagy and apoptosis. CONCLUSIONS: These results show that KP-SeNPs treatment of AGS cells induces apoptosis and autophagic cell death through the PI3K/Akt/mTOR pathway, suppressing GC progression. Thus, our research strongly suggests that KP-SeNPs could act as a novel potential therapeutic agent for GC.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Autophagy",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Zingiber officinale",
+        "Humans",
+        "Nanoparticles",
+        "Phosphatidylinositol 3-Kinases",
+        "Plant Extracts",
+        "Proto-Oncogene Proteins c-akt",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Pyruvates",
+        "Salts",
+        "Selenium",
+        "Signal Transduction",
+        "Stomach Neoplasms",
+        "TOR Serine-Threonine Kinases"
+      ]
+    },
+    {
+      "pmid": "36145222",
+      "title": "Black Ginger (Kaempferia parviflora) Extract Enhances Endurance Capacity by Improving Energy Metabolism and Substrate Utilization in Mice.",
+      "authors": [
+        "Jiapeng Huang",
+        "Takashi Tagawa",
+        "Sihui Ma",
+        "Katsuhiko Suzuki"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-Sep-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Black ginger (Kaempferia parviflora) extract (KPE), extracted from KP, a member of the ginger family that grows in Thailand, has a good promotion effect on cellular energy metabolism and therefore has been used to enhance exercise performance and treatment of obesity in previous studies. However, the effect of single-dose administration of KPE on endurance capacity has not been thoroughly studied, and whether the positive effect of KPE on cellular energy metabolism can have a positive effect on exercise capacity in a single dose is unknown. In the present study, we used a mouse model to study the effects of acute KPE administration 1 h before exercise on endurance capacity and the underlying mechanisms. The purpose of our study was to determine whether a single administration of KPE could affect endurance performance in mice and whether the effect was produced through a pro-cellular energy metabolic pathway. We found that a single administration of KPE (62.5 mg/kg·bodyweight) can significantly prolong the exercise time to exhaustion. By measuring the mRNA expression of Hk2, Slc2a4 (Glut4), Mct1, Ldh, Cd36, Cpt1β, Cpt2, Lpl, Pnpla2 (Atgl), Aco, Acadm (Mcad), Hadh, Acacb (Acc2), Mlycd (Mcd), Pparg, Ppargc1a (Pgc-1α), Tfam, Gp, Gs, Pfkm, Pck1 (Pepck), G6pc (G6pase), Cs, and Pfkl in skeletal muscle and liver, we found that acute high-concentration KPE administration significantly changed the soleus muscle gene expression levels (p < 0.05) related to lipid, lactate, and glycogen metabolism and mitochondrial function. In gastrocnemius muscle and liver, glycogen metabolism-related gene expression is significantly changed by a single-dose administration of KPE. These results suggest that KPE has the potential to improve endurance capacity by enhancing energy metabolism and substrate utilization in muscles and liver.",
+      "mesh_terms": [
+        "Animals",
+        "Energy Metabolism",
+        "Zingiber officinale",
+        "Glycogen",
+        "Lactates",
+        "Lipids",
+        "Mice",
+        "Muscle, Skeletal",
+        "PPAR gamma",
+        "Physical Conditioning, Animal",
+        "Physical Endurance",
+        "Plant Extracts",
+        "RNA, Messenger",
+        "Zingiberaceae"
+      ]
+    },
+    {
+      "pmid": "29849904",
+      "title": "Antiskin Inflammatory Activity of Black Ginger (Kaempferia parviflora) through Antioxidative Activity.",
+      "authors": [
+        "Myung-Hee Lee",
+        "Ah-Ram Han",
+        "Mi Jang",
+        "Hyo-Kyoung Choi",
+        "Sung-Young Lee",
+        "Kyung-Tack Kim",
+        "Tae-Gyu Lim"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Kaempferia parviflora (Krachaidum (KD)) is a traditional herbal medicine and has properties that are beneficial for human health. In the current study, we sought to investigate the anti-inflammatory properties of KD extract (KPE). In mouse skin tissue, UV light representing solar wavelengths (sUV) increased COX-2 expression, while treatment with KPE reduced this effect. The anti-inflammatory activity of KPE was confirmed in in vitro models. MAPK signaling pathways were activated by sUV irradiation, and this was also repressed in the presence of KPE treatment. It is assumed that the anti-inflammatory activity of KPE is caused by the antioxidative effect. Furthermore, we confirmed the critical role of oxidative stress in sUV-induced COX-2 expression. We analyzed the polyphenol composition of KPE. Of the polyphenols identified, gallic acid, apigenin, and tangeretin were identified as the major polyphenols (at 9.31 ± 1.27, 2.37 ± 0.14, and 2.15 ± 0.19 μg/mg dry weight, resp.). Collectively, these findings show that in the presence of sUV irradiation, KD has anti-inflammatory properties and antioxidative effects in the skin.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Zingiber officinale",
+        "Herbal Medicine",
+        "Humans",
+        "Mice"
+      ]
+    }
+  ]
+}

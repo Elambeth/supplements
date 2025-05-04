@@ -1,0 +1,1317 @@
+{
+  "supplement": "Kudzu",
+  "query": "Kudzu[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:53:58",
+  "research_count": 44,
+  "count": 44,
+  "articles": [
+    {
+      "pmid": "39977991",
+      "title": "Nondestructive prediction and classification of gel strength in ethanol-treated kudzu starch gels using near-infrared spectroscopy.",
+      "authors": [
+        "John-Nelson Ekumah",
+        "Selorm Yao-Say Solomon Adade",
+        "Xorlali Nunekpeku",
+        "Mingming Zhong",
+        "Yufan Sun",
+        "Qiufang Liang",
+        "Muhammad Safiullah Virk",
+        "Nana Adwoa Nkuma Johnson",
+        "Bridget Ama Kwadzokpui",
+        "Xiaofeng Ren"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2025-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Evaluation Study"
+      ],
+      "abstract": "This study investigates the effects of ethanol treatment on kudzu starch gels using microstructural analysis, near-infrared (NIR) spectroscopy, and advanced data analytics to develop a nondestructive method for predicting gel strength and classifying treatment levels. Scanning electron microscopy revealed network densification with increasing ethanol concentration. NIR spectroscopy, combined with various variable selection methods and modeling algorithms, developed predictive models for gel strength. The Uninformative Variable Elimination - Support Vector Machine (UVE-SVM) model performed exceptionally with the highest R2 values (Rc = 0.9786, Rp = 0.9688) and lowest error rates (RMSEC = 6.1340, RMSEP = 6.0283). Pattern recognition algorithms successfully classified gels based on ethanol treatment levels. This integrated approach provided a multiscale perspective on ethanol-induced starch gel modification. Our findings demonstrate NIR spectroscopy's potential, coupled with advanced data analysis, for rapid, nondestructive quality assessment in starch gel production, contributing to starch modification research and industrial applications.",
+      "mesh_terms": [
+        "Spectroscopy, Near-Infrared",
+        "Starch",
+        "Gels",
+        "Ethanol",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "39409728",
+      "title": "Insight into the Gut-Brain Axis and the Productive Performance and Egg Quality Response to Kudzu Leaf Flavonoid Supplementation in Late-Laying Hens.",
+      "authors": [
+        "Shi Tang",
+        "Yaodong Hu",
+        "Jiahui Luo",
+        "Meijun Hu",
+        "Maolin Chen",
+        "Dehan Ye",
+        "Jingsong Ye",
+        "Fuguang Xue"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2024-Sep-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1) Background: Improving feed efficiency and the vitality of the reproductive system in the late stage of the egg-laying period is of great significance for prolonging the egg-laying cycle and improving egg quality. In the present study, a new flavonoid, which was extracted from kudzu leaf, was chosen to investigate its effects on the productive performance and egg quality of late-laying hens. (2) Methods: A total of 360 500-day-old Hy-Line Brown layer hens were randomly divided into a control treatment group (no KLF supplementation), and groups that received 0.2%, 0.4%, 0.6%, 0.8%, and 1.0% KLF supplement treatments. Each treatment contained 6 replicates, with 10 hens in each replicate. Productive performance metrics, including the daily egg production, egg weight, the number of deformed eggs, egg quality, egg density, egg shape index, eggshell strength, yolk color, and the Haugh unit, were meticulously recorded for each replicate. Furthermore, microbial communities and hypothalamus gene expressions were investigated based on the results of the productive performance and egg quality. (3) Results: KLF supplementation significantly decreased the deformity rate while significantly increasing the eggshell strength in the finishing phase afterward (p < 0.05). Specifically, hens supplemented with 0.6% KLF possessed the lowest deformed egg rate. KLF supplementation significantly increased the relative abundances of Bifidobacterium sp., Blautia sp., Lactococcus sp., and Lactobacillus sp., while significantly decreasing Parasutterella sp. and Escherichia-Shigella sp. (p < 0.05). Furthermore, the interactive analysis showed the hypothalamus gene expression mainly interacted with probiotics, such as Bifidobacterium sp. and Lactobacillus sp., through ribosome biogenesis, nucleocytoplasmic transport, and cAMP signaling pathways. (4) Conclusions: The findings of the present study indicate that KLF supplementation significantly proliferated probiotics, such as Bifidobacterium and Lactobacillus, which may have further interacted with hypothalamus genes, thus decreasing the deformity rate while increasing eggshell strength in the finishing phase."
+    },
+    {
+      "pmid": "39388850",
+      "title": "Improving complexation of puerarin with kudzu starch by various ultrasonic pretreatment: Interaction mechanism analysis.",
+      "authors": [
+        "Yuheng Li",
+        "Chao Zhang",
+        "Shuyi Li",
+        "Zhenzhou Zhu",
+        "Xuehua Wang",
+        "Giancarlo Cravotto"
+      ],
+      "journal": "Ultrasonics sonochemistry",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The industrial preparation of kudzu starch (KS) significantly reduces the remaining of flavonoids like puerarin (PU) in the product, weakening its biological activity and making pre-treatments on kudzu crucial. Ultrasonic technique, widely used for modifying biomolecules, can enhance nutrient interactions like those between starch and polyphenols in foods. Thus, a puerarin-kudzu starch (PKS) complex was prepared with the introduction of ultrasonic pretreatment. The results indicated that sonication increased the binding of PU to KS from 0.399 ± 0.01 to 0.609 ± 0.05 mg/g. Particle size analysis and SEM revealed that the particles of the ultrasonic puerarin-kudzu starch complex (UPKS) were larger than those of the untreated complexes. XRD, UV-vis, and FT-IR spectroscopic analyses indicated that hydrogen bonding primarily governs the interaction between PU and KS. Additionally, incorporating PU decreased the starch structure's orderliness, while ultrasonic treatment altered the helical configuration of straight-chain starch, leading to the formation of a new, ordered structure through the creation of new hydrogen bonds. Additionally, gels formed from UPKS exhibited higher viscosity, elasticity, and shear stress, suggesting that ultrasound significantly altered the intermolecular interactions between PKS. In conclusion, the use of ultrasound under optimal conditions has demonstrated its effectiveness in preparing PKS complexes, highlighting its significant potential to produce high value-added kudzu-based products.",
+      "mesh_terms": [
+        "Isoflavones",
+        "Pueraria",
+        "Starch",
+        "Ultrasonic Waves",
+        "Sonication",
+        "Particle Size"
+      ]
+    },
+    {
+      "pmid": "38428777",
+      "title": "Comparative analysis of multi-angle structural alterations and cold-water solubility of kudzu starch modifications using different methods.",
+      "authors": [
+        "Ruidi He",
+        "Mingmei Li",
+        "Biao Huang",
+        "Xiaochen Zou",
+        "Songnan Li",
+        "Xiaoyu Sang",
+        "Liping Yang"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Kudzu, a plant known for its medicinal value and health benefits, is typically consumed in the form of starch. However, the use of native kudzu starch is limited by its high pasting temperature and low solubility, leading to a poor consumer experience. In this study, kudzu starch was treated using six modification techniques: ball milling, extrusion puffing, alcoholic-alkaline, urea-alkaline, pullulanase, and extrusion puffing-pullulanase. The results of the Fourier transform infrared spectrum showed that the intensity ratio of 1047/1022 cm-1 for the modified starches (1.02-1.21) was lower than that of the native kudzu starch (1.22). The relative crystallinity of modified kudzu starch significantly decreased, especially after ball milling, extrusion puffing, and alcoholic-alkaline treatment. Furthermore, scanning electron microscopy and confocal laser scanning microscopy revealed significant changes in the granular structures of the modified starches. After modification, the pasting temperature of kudzu starch decreased (except for the urea-alkaline treatment), and the apparent viscosity of kudzu starch decreased from 517.95 Pa·s to 0.47 Pa·s. The cold-water solubility of extrusion-puffing and extrusion puffing-pullulanase modified kudzu starch was >70 %, which was significantly higher than that of the native starch (0.11 %). These findings establish a theoretical basis for the potential development of instant kudzu powder.",
+      "mesh_terms": [
+        "Starch",
+        "Solubility",
+        "Pueraria",
+        "Viscosity",
+        "Water",
+        "Urea"
+      ]
+    },
+    {
+      "pmid": "36330645",
+      "title": "Research on the Material Basis and Mechanism of Kudzu Root in Preventing and Treating Cerebral Ischemia based on Network Pharmacology.",
+      "authors": [
+        "Wei Yao",
+        "Xiaopeng Qiu",
+        "Bingtao Li",
+        "Feixia Yan",
+        "Song Wang",
+        "Xudong Zhu",
+        "Longhui Lu",
+        "Jingjing Wang",
+        "Na Zhu",
+        "Shuaikang Wang",
+        "Yongyan Xie",
+        "Ziwei Xu",
+        "Weifeng Zhu",
+        "Ronghua Liu",
+        "Liping Huang"
+      ],
+      "journal": "Combinatorial chemistry & high throughput screening",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: It has been shown that Kudzu root has significant pharmacological effects such as improving microcirculation, dilating coronary arteries, and increasing cerebral and coronary blood flow, but its material basis and mechanism of action are not clear. OBJECTIVE: The aim of this study was to investigate the mechanism of action of Kudzu root in the prevention and treatment of cerebral ischemia (CI) through network pharmacology combined with animal experiments. METHODS: The components of kudzu root were screened by using the Chemistry Database, Chinese Academy of Science. Linpinski's five rules were used to perform pharmacophore-like analysis to obtain the active ingredients of Kudzu root. The Swiss Target Prediction Service database was used to predict the potential protein targets of kudzu root components associated with CI. An active ingredient-target network was constructed by using Cytoscape 3.6.0. A rat model of middle cerebral artery occlusion (MCAO) was established, then the main targets and signaling pathways predicted were verified by observing the area of cerebral infarction and Western blot experiments. RESULTS: In total, 84 major active compounds and 34 targets included gerberoside, belonging to the isoflavone class, gallic acid, amino acid class, 4-Methylphenol, phenolic class, and quercetin, and flavonoid class (Flavonoids). The targets covered were proteins related to excitatory amino acids and calcium overload, including Excitatory amino acid transporter 2 (SLC1A2), Glutamate receptor ionotropic, kainate 1 (GRIK1), Glutamate receptor ionotropic, NMDA 1 (GRIN1), Glutamate receptor 2(GRIA2), Calcium/calmodulin-dependent protein kinase II (CaMKII), Neuronal nitric oxide synthase(nNOS). Glutamatergic energy is prominent, and calcium transport across the membrane is central to the network and occupies an important position. CONCLUSION: Kudzu root can significantly reduce neurological damage in rats with CI, and also significantly reduce the rate of cerebral infarction. It is worth noting that Kudzu root can prevent and treat CI by reducing excitatory amino acid toxicity and improving calcium overload.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Pueraria",
+        "Network Pharmacology",
+        "Calcium",
+        "Brain Ischemia",
+        "Drugs, Chinese Herbal",
+        "Flavonoids",
+        "Cerebral Infarction",
+        "Receptors, Glutamate",
+        "Molecular Docking Simulation"
+      ]
+    },
+    {
+      "pmid": "36089399",
+      "title": "Pueraria montana (Kudzu vine) Ameliorate the Inflammation and Oxidative Stress against Fe-NTA Induced Renal Cancer.",
+      "authors": [
+        "Fan Yang",
+        "Xiaoqiang Shi",
+        "Weidong Yang",
+        "Chao Gao",
+        "Zhenyu Cui",
+        "Wentao Wang"
+      ],
+      "journal": "Journal of oleo science",
+      "publication_date": "2022-Sep-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Renal tissue plays a crucial function in maintaining homeostasis, making it vulnerable to xenobiotic toxicity. Pueraria montana has more beneficial potential against the various diseases and has long history used as a traditional Chinese medicine. But its effect against the renal cancer not scrutinize. The goal of this study is to see if Pueraria montana can protect rats from developing kidney tumors caused by diethylnitrosamine (DEN) and ferric nitrite (Fe-NTA). Wistar rats was selected for the current study and DEN (use as an inducer) and Fe-NTA (promoter) for induction the renal cancer. For 22 weeks, the rats were given orally Pueraria montana (12.5, 25, and 50 mg/kg) treatment. At regular intervals, the body weight and food intake were calculated. The rats were macroscopically evaluated for identification of cancer in the renal tissue. The renal tumor makers, renal parameters, antioxidant enzymes, phase I and II enzymes, inflammatory cytokines and mediators were estimated at end of the experimental study. Pueraria montana treated rats displayed the suppression of renal tumors, incidence of the tumors along with suppression of tumor percentage. Pueraria montana treated rats significantly (p < 0.001) increased body weight and suppressed the renal weight and food intake. It also reduced the level of renal tumor marker ornithine decarboxylase (ODC) and [3H] thymidine incorporation along with suppression of renal parameter such as uric acid, blood urea nitrogen (BUN), urea and creatinine. Pueraria montana treatment significantly (p < 0.001) altered the level of phase enzymes and antioxidant. Pueraria montana treatment significantly (p < 0.001) repressed the level of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), interleukin-6 (IL-6) and improved the level of interleukin-10 (IL-10). Pueraria montana treatment suppressed the level of prostaglandin (PGE2), cyclooxygenase-2 (COX-2), nuclear kappa B factor (NF-κB) and transforming growth factor beta 1 (TGF-β1). Pueraria montana suppressed the inflammatory necrosis, size the bowman capsules in the renal histopathology. Pueraria montana exhibited the chemoprotective effect via dual mechanism such as suppression of inflammatory reaction and oxidative stress.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Biomarkers, Tumor",
+        "Body Weight",
+        "Creatinine",
+        "Cyclooxygenase 2",
+        "Diethylnitrosamine",
+        "Ferric Compounds",
+        "Inflammation",
+        "Interleukin-10",
+        "Interleukin-1beta",
+        "Interleukin-6",
+        "Kidney Neoplasms",
+        "NF-kappa B",
+        "Nitrilotriacetic Acid",
+        "Nitrites",
+        "Ornithine Decarboxylase",
+        "Oxidative Stress",
+        "Prostaglandins",
+        "Prostaglandins E",
+        "Pueraria",
+        "Rats",
+        "Rats, Wistar",
+        "Thymidine",
+        "Transforming Growth Factor beta1",
+        "Tumor Necrosis Factor-alpha",
+        "Urea",
+        "Uric Acid",
+        "Xenobiotics"
+      ]
+    },
+    {
+      "pmid": "35571240",
+      "title": "Kudzu Celery Decoction Exerts Protection against Sepsis-Induced Myocardial Injury.",
+      "authors": [
+        "Lin Zhao",
+        "Huadong Zhao",
+        "Meng Sun",
+        "Mengfan Chen",
+        "Xue Wu",
+        "Chao Deng",
+        "Wenwen Yang",
+        "Ye Tian",
+        "Qibing Wang",
+        "Zhenxing Liang",
+        "Xuezeng Xu",
+        "Yang Yang"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Myocardial dysfunction is well-recognized manifestations of organ dysfunction in sepsis, which is the leading cause of death in critically ill patients. The underlying mechanisms associated with sepsis-induced myocardial injury (SIMI) include cardiac contractility, inflammatory response, oxidative stress, and apoptosis. Kudzu celery decoction (KCD) is composed of a variety of traditional Chinese medicine (TCM) such as kudzu and celery. The previous study found that the main ingredients in kudzu and celery have also been proved to have anti-inflammatory, antioxidative, and other biological activities. In this study, the therapeutic effects of KCD were evaluated in the cecal ligation and puncture (CLP) model of BALB/c mice. The effects of KCD on cardiac function, myocardium damage, inflammation, and fibrosis in CLP-injured mice were analyzed with echocardiography, histological staining, and quantitative real-time PCR. The results showed that KCD treatment improved the anal temperature, sepsis score, blood routine parameters, and blood biochemical parameters in CLP-injured mice. Then, we observed that KCD could remarkably alleviate cardiac dysfunction, myocardial fibrosis, oxidative stress, and inflammation in CLP-injured mice. In this study, we confirmed that KCD has a significant protective effect on SIMI, which may favor KCD a potential cardioprotective drug candidate to alleviate SIMI and further amplify the application of TCM prescription in clinic.",
+      "mesh_terms": [
+        "Animals",
+        "Apium",
+        "Disease Models, Animal",
+        "Heart Injuries",
+        "Humans",
+        "Inflammation",
+        "Mice",
+        "Pueraria",
+        "Sepsis"
+      ]
+    },
+    {
+      "pmid": "35366635",
+      "title": "Prevents kudzu starch from agglomeration during rapid pasting with hot water by a non-destructive superheated steam treatment.",
+      "authors": [
+        "Jianyong Wu",
+        "Shunqian Xu",
+        "Ying Huang",
+        "Xuan Zhang",
+        "Yunfei Liu",
+        "Haoqiang Wang",
+        "Yejun Zhong",
+        "Long Bai",
+        "Chengmei Liu"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2022-Aug-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Superheated steam (SST) at different moisture contents (10% ∼ 30%) was used to prevent the agglomeration of kudzu starch during rapid pasting with hot water. Changes in pasting-related properties and multi-scale structures were investigated. At moisture content of 20%, SST dramatically reduced the agglomeration rate from 42.20% to 2.97% without destroying the microstructure of kudzu starch or deteriorating the rheological properties of kudzu starch paste, which was superior to the conventional pre-gelatinization treatment. The agglomeration was prevented mainly by decreasing the swelling power and increasing the pasting temperature of kudzu starch. The slight disruption of multi-scale structures may facilitate faster water absorption by kudzu starch, but it was not the primary prevention mechanism. Moreover, the solubility of kudzu starch was not related to the agglomeration, since it was significantly decreased by SST. Our findings could provide new insights into the rapid pasting of starchy powders or flours with hot water.",
+      "mesh_terms": [
+        "Hot Temperature",
+        "Pueraria",
+        "Starch",
+        "Steam",
+        "Viscosity",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "34744740",
+      "title": "The Efficacy and Safety of Multiple Dose Regimens of Kudzu (Pueraria lobata) Root Extract on Bone and Cartilage Turnover and Menopausal Symptoms.",
+      "authors": [
+        "Asger Reinstrup Bihlet",
+        "Inger Byrjalsen",
+        "Jeppe Ragnar Andersen",
+        "Simone Faurholt Simonsen",
+        "Kamilla Mundbjerg",
+        "Betina Helmer",
+        "Bente Juel Riis",
+        "Morten Asser Karsdal",
+        "Claus Christiansen"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Menopause is associated with detrimental changes in turnover of bone and cartilage and a variety of symptoms with negative impact on the quality of life. Naturally occurring isoflavones from Radix Pueraria lobata, Kudzu root, may possess chondroprotective and symptom-relieving properties, but efficacy and safety of dosing and dose frequencies required for pharmacological action is unclear. Purpose: This clinical trial evaluates the efficacy on bone and cartilage turnover, menopausal symptoms, and safety of five dose regimens of Kudzu root extract administered either once, twice or three times daily in women with at least mild menopausal symptoms. Materials and Methods: Fifty postmenopausal women were randomized equally into five different dose regimen groups of Kudzu root extract in a four-week, parallel group, open-label, single-center, exploratory study design. Biomarkers CTX-I and CTX-II reflecting bone and cartilage degradation, respectively, were assessed in blood samples and 24-h urine samples. Change from baseline in the Menopause Rating Scale (MRS) and subscales was evaluated. Safety endpoints were frequency of adverse events, changes in hematology and safety chemistry data, vital signs and electrocardiogram. Results: Fifty women (Age 54.2 years, SD: 2.9) were randomized. After 4 weeks of treatment, biomarkers of bone resorption and cartilage degradation were statistically significantly reduced from baseline levels in the group receiving two capsules three times a day, serum/urine CTX-I (-18.4%, 95% CI: -8.1 to -27.5, p = 0.001/-34.2%, 95% CI: -21.6 to -44.7, p < 0.0001), urine CTX-II (-17.4% 95% CI: -2.5 to -30.0, p = 0.02). The observed effects were consistent across study groups but appeared to favour three times daily dosing. Four weeks of treatment led to statistically significant reductions in the MRS Total Score (p < 0.0001-0.03) in four out of five treatment groups. Kudzu root extract was well tolerated in all dose regimens, and no serious adverse events were reported. Conclusion: The results indicate that Kudzu extract may possess beneficial effects on bone and cartilage health and may be a promising natural alternative to existing treatments for menopausal symptoms. Kudzu root extract was well tolerated for short-term treatment of mild to severe menopausal symptoms in women in all tested doses and dose frequencies."
+    },
+    {
+      "pmid": "34691353",
+      "title": "Kudzu Resistant Starch: An Effective Regulator of Type 2 Diabetes Mellitus.",
+      "authors": [
+        "Xinqi Song",
+        "Huanhuan Dong",
+        "Zhenzhong Zang",
+        "Wenting Wu",
+        "Weifeng Zhu",
+        "Hua Zhang",
+        "Yongmei Guan"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Kudzu is a traditional medicinal dietary supplement, and recent research has shown its significant benefits in the prevention/treatment of type 2 diabetes mellitus (T2DM). Starch is one of the main substances in Kudzu that contribute decisively to the treatment of T2DM. However, the underlying mechanism of the hypoglycemic activity is not clear. In this study, the effect of Kudzu resistant starch supplementation on the insulin resistance, gut physical barrier, and gut microbiota was investigated in T2DM mice. The result showed that Kudzu resistant starch could significantly decrease the value of fasting blood glucose and the levels of total cholesterol, total triglyceride, and high-density lipoprotein, as well as low-density lipoprotein, in the blood of T2DM mice. The insulin signaling sensitivity in liver tissue was analyzed; the result indicated that intake of different doses of Kudzu resistant starch can help restore the expression of IRS-1, p-PI3K, p-Akt, and Glut4 and thus enhance the efficiency of insulin synthesis. Furthermore, the intestinal microorganism changes before and after ingestion of Kudzu resistant starch were also analyzed; the result revealed that supplementation of KRS helps to alleviate and improve the dysbiosis of the gut microbiota caused by T2DM. These results validated that Kudzu resistant starch could improve the glucose sensitivity of T2DM mice by modulating IRS-1/PI3K/AKT/Glut4 signaling transduction. Kudzu resistant starch can be used as a promising prebiotic, and it also has beneficial effects on the gut microbiota structure of T2DM mice.",
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Medicine, Chinese Traditional",
+        "Mice",
+        "Pueraria",
+        "Resistant Starch"
+      ]
+    },
+    {
+      "pmid": "34480270",
+      "title": "Growth performances, gastrointestinal epithelium and bacteria responses of Yellow-feathered chickens to kudzu-leaf flavonoids supplement.",
+      "authors": [
+        "Fuguang Xue",
+        "Gen Wan",
+        "Yunsen Xiao",
+        "Chuanbin Chen",
+        "Mingren Qu",
+        "Lanjiao Xu"
+      ],
+      "journal": "AMB Express",
+      "publication_date": "2021-Sep-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of this study was to investigate the effects of replacing antibiotics with Kudzu-leaf flavonoids (KLF) on the growth performances, gut epithelial development, and gastrointestinal bacteria diversities of Yellow-feathered broilers. For this purpose, total of 216 1-day-old male Yellow-feathered chickens with the similar birth weight (31.0  ±  1.0 g) were randomly divided into 3 treatments: the control treatment (CON), the kudzu-leaf flavonoids supplement treatment (KLF), and the antibiotics supplement treatment (AGP). All birds were provided with a 56 d-feeding procedure, followed by the measurement of production performances, immune organs, blood anti-oxidant parameters, intestine epithelium development, and cecal microbiota. Results showed the feed conversion ratio significantly decreased after KLF supplement compared with CON (P  <  0.05). KLF supplement partly promoted the anti-oxidant capacity on account of the increased activity of Superoxide dismutase (SOD) and the decrease content of malondialdehyde (MDA). Further, as referred to the gastrointestinal development and bacteria, ratio of villus/crypt significantly increased of ileum in KLF treatment (P  <  0.05) while a significant promition of bacterial diversity and partial representative probiotic bacteria (P  <  0.05) after KLF supplementation. Moreover, correlation analysis indicated that probitics including Bifidobacterium, Butyricimonas, Lactobacillus and Streptococcus positively correlated with production performances. In conclusion, KLF supplement may promote feed efficiency and benefit the gastrointestinal health through improving gut bacterial diversity and probiotic bacteria. The KLF might be applied as a proper antibiotic alternative."
+    },
+    {
+      "pmid": "34201165",
+      "title": "Thermal Inactivation Kinetics of Kudzu (Pueraria lobata) Polyphenol Oxidase and the Influence of Food Constituents.",
+      "authors": [
+        "Junping Liu",
+        "Jiayan Zhang",
+        "Tao Liao",
+        "Lei Zhou",
+        "Liqiang Zou",
+        "Yafei Liu",
+        "Li Zhang",
+        "Wei Liu"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2021-Jun-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The thermal inactivation kinetics of kudzu (Pueraria lobata) polyphenol oxidase (PPO) were investigated in model and food systems. PPO in kudzu tissue (tPPO) showed a higher thermostability than that of PPO in crude extract (cPPO) and purification fractions (pPPO). The PPO inactivation rate constant (k) increased with an increase in temperature, and tPPO showed the lowest k value, followed by that of cPPO and pPPO at the same temperature, indicating that PPO in the food system was more resistant to thermal treatment. Food constituents (pectin, starch, sucrose, and bovine serum albumin) in the food system decreased the activity of PPO but increased the thermostability of PPO, among which pectin exhibited the strongest protective effect against thermal inactivation, and the influence of sucrose was much slighter than that of other macromolecules. Fluorescence emission spectra indicated that pPPO exhibited stronger interactions with pectin than sucrose, and pPPO with pectin showed a more stable conformation under thermal treatment."
+    },
+    {
+      "pmid": "33338525",
+      "title": "Structural and functional modification of kudzu starch using α-amylase and transglucosidase.",
+      "authors": [
+        "Li Guo",
+        "Jiahao Li",
+        "Yuhan Yuan",
+        "Yifan Gui",
+        "Feixue Zou",
+        "Lu Lu",
+        "Bo Cui"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2021-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The large agglomeration of starch paste in hot water, and fast retrogradation tendency and low transparency of starch gel restrict widespread application of kudzu starch. To improve the above defects, kudzu starch was modified with sequentially α-amylase (AA) and transglucosidase (TG), the latter for varying times. The results indicated that, compared to kudzu starch, amylose content and molecular weight of AA/TG-treated starches reduced by 20.07% and 69.50%, respectively. The proportion of A chain increased by 68.68%, whereas B1, B2 and B3 chains decreased by 14.28%, 48.29% and 23.44%, respectively. The degree of branching dramatically increased by 128.3%. After AA→TG treatment, the changes of starch structure enhanced the functional properties of kudzu starch. The solubility, paste clarity and gelatinization temperature increased, whereas the relative crystallinity, viscosity, storage and loss moduli decreased. Overall, the AA→TG modification would be desirable to improve the functional properties of kudzu starch to expand more large-scale application.",
+      "mesh_terms": [
+        "Amylases",
+        "Amylose",
+        "Glucosidases",
+        "Molecular Weight",
+        "Pueraria",
+        "Solubility",
+        "Starch",
+        "Temperature",
+        "Viscosity",
+        "X-Ray Diffraction",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "32862298",
+      "title": "Solid-state fermentation with Pleurotus ostreatus improves the nutritive value of corn stover-kudzu biomass.",
+      "authors": [
+        "Uchenna Y Anele",
+        "Felicia N Anike",
+        "Alexia Davis-Mitchell",
+        "Omoanghe S Isikhuemhen"
+      ],
+      "journal": "Folia microbiologica",
+      "publication_date": "2021-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A batch culture technique was used to evaluate dry matter (DM) digestibility of corn stover (Zea mays L.) and kudzu, Pueraria montana (Lour.) Merr. after solid-state fermentation (SSF) with a white-rot fungus, Pleurotus ostreatus (Jacq. ex Fr.) P. Kumm. Five dietary treatments consisting of mixtures of corn stover (C) and kudzu (K) in varying ratios, (1) 100C:0K, (2) 75C:25K, (3) 50C:50K, (4) 25C:75K, and (5) 0C:100K, were inoculated with P. ostreatus (MBFBL 400) and subjected to SSF for 0, 35, and 77 days. The study was arranged as a 5 × 3 factorial design with 3 replicates. Grass hay was included in the study as a control. Interactions (P < 0.05) between treatments and fermentation time were noted for the fermentation kinetics. Asymptotic gas was the highest (P < 0.05) for 0C:100K and 100C:0K on day 77. Treatment effect (P < 0.001) and treatment × fermentation time interaction (P < 0.001) were noted for in vitro dry matter digestibility (IVDMD). On day 77, treatment 4 had the highest (P < 0.001) IVDMD value, while treatment 1 had the lowest (P < 0.001) IVDMD. There was no difference (P > 0.05) between treatments 3, 5, and control. Numerically, the ranking of their IVDMD values from the highest to the lowest is 4 > 2 > 5 > control >3 > 1. The results show that the treated corn stover and kudzu mixes were comparable with the control, which is good quality hay. This is the first report that demonstrates the potential use of a combined mixture of corn stover and kudzu in ruminant animal feed development.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Biomass",
+        "Fermentation",
+        "Gases",
+        "Kinetics",
+        "Nutritive Value",
+        "Pleurotus",
+        "Pueraria",
+        "Zea mays"
+      ]
+    },
+    {
+      "pmid": "31963195",
+      "title": "Comparison of Dietary Kudzu Leaf Meal (Pueraria montana Var. lobata) and Alfalfa Meal Supplementation Effect on Broiler (Gallus gallus domesticus) Performance, Carcass Characteristics, and Organ Parameters.",
+      "authors": [
+        "Joseph P Gulizia",
+        "Kevin M Downs"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2020-Jan-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This research study was conducted to determine the effects of dietary supplementation of kudzu leaf meal (KLM) and alfalfa meal (AM) on broiler performance, carcass characteristics, and organ parameters. Kudzu leaf meal and AM were added at rates of 6% and 7.3%, respectively, to a complete broiler starter diet. Three treatments (control (complete broiler starter diet), KLM supplementation; and AM supplementation) with four replicates were fed to 217 male broilers over a 21 d battery cage grow out. Data were analyzed as a completely randomized design with battery cage representing the experimental unit. Birds on KLM and AM had a lower average body weight, lower cumulative feed consumption, and a higher adjusted feed conversion than control (p < 0.05). Additionally, there were observed treatment effects on whole breast weight (p = 0.0010), with control being higher than both treated diets. Minimal treatment effects were observed for organ parameters. Furthermore, there were no observed treatment differences for mortality (p > 0.05). Although broilers on KLM did not perform as well as those in the control group, these results are indicative that kudzu is safe to use in poultry production and has a high potential as a protein supplement in tropical regions with a low availability of commercial protein feedstuffs."
+    },
+    {
+      "pmid": "31212773",
+      "title": "Safety and Efficacy Assessment of Isoflavones from Pueraria (Kudzu) Flower Extract in Ovariectomised Mice: A Comparison with Soy Isoflavones.",
+      "authors": [
+        "Yuko Tousen",
+        "Jun Takebayashi",
+        "Takashi Kondo",
+        "Hiroyuki Fuchino",
+        "Noriaki Kawano",
+        "Takayuki Inui",
+        "Kayo Yoshimatsu",
+        "Nobuo Kawahara",
+        "Yoshiko Ishimi"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2019-Jun-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Numerous Foods with Function Claims that contain the extract of Pueraria flower (kudzu) isoflavones (PFI) are available in the Japanese market. These are labelled with function claims of reducing visceral fat. However, these foods have not undergone proper safety assessment such as the evaluation of their oestrogenic activity and effects on drug-metabolising enzymes (cytochrome P-450: CYP) in the liver. This study evaluated the estrogenic effect and the hepatic CYP activity and mRNA expression in normal female mice as a safety assessment of PFI (Experiment 1). In addition, the bone mineral density and visceral fat weight in ovariectomised mice (OVX) compared to soy isoflavones (SI) was evaluated to assess the efficacy of PFI (Experiment 2). OVX control fed a control diet, OVX fed a PFI diet (the recommended human intake of PFI), OVX fed a PFI20 diet (20- times the recommended PFI), OVX fed an SI diet (the recommended human intake of SI), and OVX fed an SI20 diet (20 -times the recommended intake of SI) for 28 days in Experiment 2. Body, liver, and visceral fat weights were not affected by the PFI, PFI20, SI, or SI20 diets. The hepatic CYP1A and CYP3A activities were elevated by the SI20 treatment. Ovariectomy-induced bone loss was inhibited by the SI20 treatment, but not by the PFI20 treatment. These results suggest that (1) PFI intake in human doses had no oestrogenic properties and did not affect CYP activity in the liver; (2) there was no evidence that PFI affects the amount of visceral fat in OVX mice.",
+      "mesh_terms": [
+        "Abdominal Fat",
+        "Animals",
+        "Biomarkers",
+        "Bone Density",
+        "Cytochrome P-450 Enzyme System",
+        "Enzyme Activation",
+        "Female",
+        "Flowers",
+        "Gene Expression Regulation",
+        "Isoflavones",
+        "Liver",
+        "Mice",
+        "Models, Animal",
+        "Osteogenesis",
+        "Ovariectomy",
+        "Plant Extracts",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "30236131",
+      "title": "Potent suppression of HIV-1 cell attachment by Kudzu root extract.",
+      "authors": [
+        "S Mediouni",
+        "J A Jablonski",
+        "S Tsuda",
+        "A Richard",
+        "C Kessing",
+        "M V Andrade",
+        "A Biswas",
+        "Y Even",
+        "T Tellinghuisen",
+        "H Choe",
+        "M Cameron",
+        "M Stevenson",
+        "S T Valente"
+      ],
+      "journal": "Retrovirology",
+      "publication_date": "2018-Sep-20",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "There is a constant need to improve antiretrovirals against HIV since therapy is limited by cost, side effects and the emergence of drug resistance. Kudzu is a climbing vine from which the root extract (Pueraria lobata), rich in isoflavones and saponins, has long been used in traditional Chinese medicine for a variety of purposes, from weight loss to alcoholism prevention. Here we show that Kudzu root extract significantly inhibits HIV-1 entry into cell lines, primary human CD4+T lymphocytes and macrophages, without cell-associated toxicity. Specifically, Kudzu inhibits the initial attachment of the viral particle to the cell surface, a mechanism that depends on the envelope glycoprotein gp120 but is independent from the HIV-1 cell receptor CD4 and co-receptors CXCR4/CCR5. This activity seems selective to lentiviruses since Kudzu inhibits HIV-2 and simian immunodeficiency virus, but does not interfere with Hepatitis C, Influenza, Zika Brazil and adenovirus infection. Importantly, depending on the dose, Kudzu can act synergistically or additively with the current antiretroviral cocktails against HIV-1 and can block   viruses resistant to the fusion inhibitor Enfuvirtide. Together our results highlight Kudzu's root extract value as a supplement to current antiretroviral therapy against HIV.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-HIV Agents",
+        "Cells, Cultured",
+        "Drug Synergism",
+        "Enfuvirtide",
+        "HIV Envelope Protein gp120",
+        "HIV-1",
+        "Humans",
+        "Plant Extracts",
+        "Plant Roots",
+        "Pueraria",
+        "Virus Attachment",
+        "Virus Replication"
+      ]
+    },
+    {
+      "pmid": "29029301",
+      "title": "Attractiveness of Host Plants at Different Growth Stage to Kudzu Bug, Megacopta cribraria (Heteroptera: Plataspidae): Behavioral Responses to Whole Plant and Constitutive Volatiles.",
+      "authors": [
+        "L Yang",
+        "X P Hu",
+        "E van Santen",
+        "X N Zeng"
+      ],
+      "journal": "Journal of economic entomology",
+      "publication_date": "2017-Dec-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "The kudzu bug, Megacopta cribraria (Fabricius), is an invasive pest of soybeans, Glycine max (L.) Merr., that has recently been detected in the United States. This study investigated whether there was a differential attraction of adult bugs to soybean growth stages, and whether the attraction was related to soybean constitutive volatiles. Greenhouse choice assays examined the behavioral orientation preference of adult bugs exposed to four growth stages of whole soybean plants: vegetative (V2), flowering (R1), pod (R3), and seed (R5). Results show that significantly more adults landed on plants in the early reproductive stage R1 than in other stages. Laboratory olfactometer assays also demonstrate that significantly more adult bugs were attracted to R1 plants, with females responding more strongly than males. Both greenhouse and olfactometer assays indicate that the differential attraction of adult bugs to soybean growth stages was mediated by plant constitutive volatiles. These results offer an insight into kudzu bug chemical and behavioral ecology and thus are of great significance for optimizing the timing of field scouting and treatment as well as the development of soybean pest management programs.",
+      "mesh_terms": [
+        "Animals",
+        "Chemotaxis",
+        "Female",
+        "Herbivory",
+        "Heteroptera",
+        "Male",
+        "Nymph",
+        "Pest Control, Biological",
+        "Glycine max",
+        "Volatile Organic Compounds"
+      ]
+    },
+    {
+      "pmid": "28804568",
+      "title": "Preventive effects of kudzu root on bone loss and cartilage degradation in ovariectomized rats [corrected].",
+      "authors": [
+        "Yunyun Luo",
+        "Shuang Zheng",
+        "Yujia Ding",
+        "Yueqin Dai",
+        "Yi Zhou",
+        "Ruifeng Xiang",
+        "Anne C Bay-Jensen",
+        "Morten A Karsdal",
+        "Per Qvist",
+        "Qinlong Zheng"
+      ],
+      "journal": "American journal of translational research",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The clinical utility of Traditional Chinese Medicine (TCM) herbs/roots extracts in osteoporosis (OP) and osteoarthritis (OA) has been described in multiple reports, but there have been few studies of TCM for preventing bone loss and cartilage degradation simultaneously. Six-month-old female Sprague-Dawley rats each were subjected to ovariectomized (OVX) or sham surgery and treated orally once daily with herbal extracts or vehicle. Body weight was recorded weekly, and blood samples were collected from fasting animals at different time points. Biochemical markers of bone resorption and cartilage degradation were analyzed. Changes in bone mineral density and calcium content were determined in the femoral center and femoral telocentric end of rats. Out of 56 TCM herbs/roots extracts, only kudzu root demonstrated consistent joint protective effects. OVX resulted in a marked increase in bone resorption and cartilage degradation, which could be significantly reversed by kudzu after three weeks of treatment. Compared to vehicle, kudzu induced a significant increase in bone mineral density in the femoral center and femoral telocentric end, and calcium content. The results show that kudzu exerts direct effects on articular cartilage in the OVX rat and can effectively prevent the acceleration of cartilage degradation induced by ovariectomy. Moreover, kudzu has demonstrated positive effects on metabolic health (cause a weight reduction) and may represent a possible treatment for OP and OA with high body mass index. Further studies are needed to investigate the potential effects of kudzu root in postmenopausal women."
+    },
+    {
+      "pmid": "27717903",
+      "title": "An isoflavonoid-enriched extract from Pueraria lobata (kudzu) root protects human umbilical vein endothelial cells against oxidative stress induced apoptosis.",
+      "authors": [
+        "Ying Gao",
+        "Xu Wang",
+        "Chunnian He"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2016-Dec-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Reactive oxygen species (ROS) mediate vascular cell dysfunction and lead to atherosclerosis and other chronic cardiovascular diseases. The root of Pueraria lobata (Willd.) Ohwi, also known as kudzu or Gegen (Chinese name), is one of the most important herbs in traditional Chinese medicine and has been widely used in the treatment of cardiovascular diseases, diabetes, osteonecrosis and neurodegradation diseases. In this study, an ethanol extract from kudzu root was prepared and the in vitro protective effect of the kudzu root extract (KUD) on human umbilical vein endothelial cells (HUVECs) was investigated. MATERIAL AND METHODS: An ethanol extract of dried kudzu root was purified with an AB-8 resin column, and the concentrations of puerarin, daidzin and daidzein in the KUD were determined using UV spectroscopy. HUVECs were pretreated with various concentrations of the KUD with or without rotenone and the viability was assessed by AlamarBlue cell viability assay. Next, HUVECs were pretreated with the KUD and then treated with rotenone, and the levels of ROS generation, apoptosis, and changes of the mitochondrial membrane potential (ΔΨm) in HUVECs were measured using fluorescent staining assay and high-content analysis. RESULTS: The contents of three major isoflavonoids (puerarin, daidzin and daidzein) were enriched by 7.75-27.51 fold in the extract. The KUD enhanced the proliferation of HUVECs, and protected HUVECs against rotenone-induced oxidative stress and apoptosis. Additionally, the KUD prevented the loss of ΔΨm in HUVECs stimulated by oxidative stress. CONCLUSION: We demonstrated that an isoflavonoid-rich extract prepared from kudzu root has the potential to act as a protector for vascular endothelial cells against intracellular ROS mediated apoptosis and mitochondrial damage.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Apoptosis",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Cytoprotection",
+        "Dose-Response Relationship, Drug",
+        "Ethanol",
+        "Human Umbilical Vein Endothelial Cells",
+        "Humans",
+        "Isoflavones",
+        "Membrane Potential, Mitochondrial",
+        "Mitochondria",
+        "Oxidative Stress",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Pueraria",
+        "Reactive Oxygen Species",
+        "Rotenone",
+        "Solvents",
+        "Spectrophotometry, Ultraviolet"
+      ]
+    },
+    {
+      "pmid": "28905607",
+      "title": "[Kudzu root (Ge-Gen) regulates on glucose and lipid metabolism to ameliorating insulin resistance on 3T3-L1 adipocytes].",
+      "authors": [
+        "Xin-Xin Luo",
+        "Guo-Liang Xu",
+        "Yu Li",
+        "Bing-Tao Li",
+        "Jun Tu"
+      ],
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publication_date": "2016-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to explore the mechanism of Chinese traditional medicine, Kudzu root(Chinese name：Ge-Gen; Latin name： Puerariae Lobatae Radix) how to improving insulin resistance (IR) through the regulation of the glucose and lipid metabolism in the IR-3T3-L1 adipocytes. After the 3T3-L1 mouse preadipocytes were differentiated into mature adipocytes, IR model(IR-3T3-L1) was built with 1 μmol•L-1 dexamethasone treatment for 96 h. IR adipocytes were treated with different concentrations (5%,10% and 15%) of Ge-Gen containing serum (GG-CS)for 12 h or 24 h, whereas rosiglitazone group as positive control in this study. The glucose contents in cell culture supernatants were detected by glucose oxidase assay and the intracellular triglyceride (TG) contents were measured by glycerol phosphate oxidase assay respectively.The mRNA expression levels of PPARγ, ADPN, GLUT4, LPL, FABP4 and FASn gene were determined by real-time quantitative PCR(qPCR).Results showed that IR-3T3-L1 adipocytes significantly increased glucose consumption (P<0.01)and decreased TG contents (P<0.01) as compared with the normal control group, the glucose consumption significantly increased with the treatment of GG-CS (P<0.01) by dose-dependent and time-dependent manners,whereas the intracellular TG content was sigificantly decreased (P<0.01) by dose-dependent manner.qPCR analysis revealed that 10% and 15% GG-CS significantly up-regulated the mRNA expression level of PPARγ, ADPN and GLUT4 (P<0.01) with the same dose-dependent manner,whereas the GLUT4 mRNA expression was showed similar expression pattern with the treatment of 10% and 15% GG-CS (P<0.01).We also detected the mRNA expression levels of several important lipid-metabolizing enzymes such as LPL, FASn and FABP4 by PPARγ regulation. 15% GG-CS elevated LPL mRNA expression (P<0.05);10% and 15% GG-CS enhanced the FASn mRNA expression (P<0.01), whereas 5%,10% and 15% GG-CS down-regulated FABP4 mRNA expression (P<0.01). Together, our results indicated that GG could regulate the glucose and lipid metabolism to ameliorate IR with multi-target manners in 3T3-L1 adipocytes.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipocytes",
+        "Animals",
+        "Drugs, Chinese Herbal",
+        "Glucose",
+        "Insulin Resistance",
+        "Lipid Metabolism",
+        "Mice",
+        "Plant Roots",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "26825303",
+      "title": "Protective activity of kudzu (Pueraria thunbergiana) vine on chemically-induced hepatotoxicity: in vitro and in vivo studies.",
+      "authors": [
+        "Bo Yoon Chang",
+        "Dong-Sung Lee",
+        "Jun-Kyoung Lee",
+        "Youn-Chul Kim",
+        "Hyoung-Kwon Cho",
+        "Sung Yeon Kim"
+      ],
+      "journal": "BMC complementary and alternative medicine",
+      "publication_date": "2016-Jan-29",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Kudzu (Pueraria thunbergiana) root has long been used in Traditional Chinese Medicine. However, the vine of the kudzu plant has been considered waste material. This study aimed to investigate the hepatoprotective properties of the kudzu vine. METHODS: We created 0 %, 30 %, 70 %, and 95 % ethanolic kudzu vine extracts. The isoflavone contents of kudzu vine extract were quantified by high-performance liquid chromatography. Tertiary-butylhydroperoxide (t-BHP) was added to human liver-derived HepG2 cells, and the production of reactive oxygen species was measured in the presence and absence of kudzu vine extract. Antioxidant activity was evaluated in all kudzu vine extracts using a hydroxyradical scavenging assay. Thirty-five male Sprague-Dawley rats were divided into seven groups (n = 5); two groups were not given any extract or drug, one group was treated with 50 mg/kg silymarin orally for 5 days, and the remaining four groups were respectively treated with 100 mg/kg of 0%, 30%, 70%, or 95% ethanolic extract of kudzu vine orally once daily for 5 days. On day 5 the treatment groups and one untreated group were fed 0.75 ml/kg carbon tetrachloride (CCl4) to induce liver damage. Blood and liver tissue samples were collected 24 h after CCl4 administration for measurement of plasma alanine aminotransferase and aspartate aminotransferase, and concentration of malondialdehyde and glutathione in liver tissue. RESULTS: Puerarin was the most abundant isoflavone in kudzu vine extract. Kudzu vine extract significantly reduced the cytotoxicity and production of reactive oxygen species induced by t-BHP in a dose-dependent manner. Treatment with 0 % and 30 % ethanolic extracts of kudzu vine significantly lowered the plasma levels of alanine aminotransferase and aspartate aminotransferase in a CCl4-induced hepatotoxicity rat model (P < 0.05). Glutathione was significantly elevated in the 30 % ethanolic extract-treated group (P < 0.05), while the malondialdehyde level in liver tissue was significantly decreased in the 0 % and 30 % ethanolic extract-treated groups (P < 0.05). CONCLUSIONS: The kudzu vine is potentially highly beneficial in treating liver damage, as it scavenges reactive free radicals and boosts the endogenous antioxidant system.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Carbon Tetrachloride",
+        "Chemical and Drug Induced Liver Injury",
+        "Drugs, Chinese Herbal",
+        "Free Radical Scavengers",
+        "Hep G2 Cells",
+        "Humans",
+        "Isoflavones",
+        "Liver",
+        "Male",
+        "Protective Agents",
+        "Pueraria",
+        "Rats, Sprague-Dawley",
+        "tert-Butylhydroperoxide"
+      ]
+    },
+    {
+      "pmid": "26545459",
+      "title": "Evaluation of kudzu root extract-induced hepatotoxicity.",
+      "authors": [
+        "Dengyuan Wang",
+        "Liang Qiu",
+        "Xiaoli Wu",
+        "Hua Wei",
+        "Feng Xu"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2015-Dec-24",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Kudzu root, the root of Pueraria lobata (Willd.) Ohwi, has been used as food and medicine for centuries, but few studies indicate that kudzu root may cause liver damage. AIM OF STUDY: We studied the hepatotoxicity of kudzu root extract in mice, HepG2 cells and mice hepatocytes. MATERIALS AND METHODS: Mice were administrated with kudzu root extract (10mg/day) for 4 weeks, and then the biochemical analysis and histopathological changes were carried out. To explore the potential mechanism by which kudzu root extract-induced hepatotoxicity, HepG2 cells and mice hepatocytes were co-cultured with kudzu root extract or puerarin, which is a kudzu root isoflavone, for 2h. RESULTS: The increase of serum ALT and AST and histopathological changes in treated mice revealed that kudzu root extract was hepatotoxic. The increase of LDH leakage for HepG2 cells and mice hepatocytes further confirmed hepatotoxicity of kudzu root extract. Kudzu root extract and puerarin significantly up-regulated Mt1 mRNA involved in the acute phase response and Bax which is crucial for apoptosis. Gclc, Nrf2 and Ho-1 mRNA expressions did not change in treatment group. CONCLUSIONS: Kudzu root extract may be hepatotoxic and caution may be required for its use.",
+      "mesh_terms": [
+        "Alanine Transaminase",
+        "Animals",
+        "Aspartate Aminotransferases",
+        "Cells, Cultured",
+        "Chemical and Drug Induced Liver Injury",
+        "Female",
+        "Hep G2 Cells",
+        "Hepatocytes",
+        "Humans",
+        "Isoflavones",
+        "L-Lactate Dehydrogenase",
+        "Liver",
+        "Matrix Metalloproteinase 14",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Plant Extracts",
+        "Plant Roots",
+        "Pueraria",
+        "RNA, Messenger",
+        "Sterol O-Acyltransferase",
+        "bcl-2-Associated X Protein",
+        "Sterol O-Acyltransferase 2"
+      ]
+    },
+    {
+      "pmid": "26048637",
+      "title": "A single dose of kudzu extract reduces alcohol consumption in a binge drinking paradigm.",
+      "authors": [
+        "David M Penetar",
+        "Lindsay H Toto",
+        "David Y-W Lee",
+        "Scott E Lukas"
+      ],
+      "journal": "Drug and alcohol dependence",
+      "publication_date": "2015-Aug-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND: Overconsumption of alcohol has significant negative effects on an individual's health and contributes to an enormous economic impact on society as a whole. Pharmacotherapies to curb excessive drinking are important for treating alcohol use disorders. METHODS: Twenty (20) men participated in a placebo-controlled, double-blind, between subjects design experiment (n=10/group) that tested the effects of kudzu extract (Alkontrol-Herbal™) for its ability to alter alcohol consumption in a natural settings laboratory. A single dose of kudzu extract (2g total with an active isoflavone content of 520mg) or placebo was administered 2.5h before the onset of a 90min afternoon drinking session during which participants had the opportunity to drink up to 6 beers ad libitum; water and juice were always available as alternative beverages. RESULTS: During the baseline session, the placebo-randomized group consumed 2.7±0.78 beers before treatment and increased consumption to 3.4±1.1 beers after treatment. The kudzu group significantly reduced consumption from 3.0±1.7 at baseline to 1.9±1.3 beers after treatment. The placebo-treated group opened 33 beers during baseline conditions and 38 following treatment whereas the kudzu-treated group opened 32 beers during baseline conditions and only 21 following treatment. Additionally, kudzu-treated participants drank slower. CONCLUSION: This is the first demonstration that a single dose of kudzu extract quickly reduces alcohol consumption in a binge drinking paradigm. These data add to the mounting clinical evidence that kudzu extract may be a safe and effective adjunctive pharmacotherapy for alcohol abuse and dependence.",
+      "mesh_terms": [
+        "Adult",
+        "Alcohol Drinking",
+        "Beer",
+        "Binge Drinking",
+        "Double-Blind Method",
+        "Humans",
+        "Isoflavones",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Pueraria",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28255552",
+      "title": "Acute and Chronic Kudzu Improves Plasma Glucose Tolerance in Non-Diabetic CD-1 Mice.",
+      "authors": [
+        "Scott Carlson",
+        "Jeevan K Prasain",
+        "Ning Peng",
+        "Yanying Dai",
+        "J Michael Wyss"
+      ],
+      "journal": "Journal of endocrinology and diabetes mellitus",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previous studies demonstrate that kudzu root extract and its major isoflavone (puerarin) improve glucose metabolism in animal models of insulin resistance and type 2 diabetes; however, these beneficial effects have not been investigated in normal glycemic mice. The present study investigates the effect of acute and chronic kudzu root extract supplementation on glucose tolerance in normoglycemic CD-1 mice. Male, adult CD-1 mice were fed a phytoestrogen-free diet containing 0.2% or 0.0% kudzu root extract for 6 weeks. Thereafter, they were acutely administered kudzu root extract (75 mg/kg BW; oral) or vehicle followed by a glucose challenge (2 g/kg BW; oral). In control fed mice, the acute glucose challenge increased blood glucose ~300% after 30 minutes, and acute kudzu root extract administration significantly blunted this response by ~50%. In mice chronically fed a kudzu-supplemented diet, glucose tolerance was improved, and acute treatment caused no additional improvement. Irrespective of treatment, all mice were normoglycemic at the start of each glucose challenge. Administration of insulin resulted in a larger decrease in blood glucose in chronic kudzu-supplemented compared to control mice. Co-administration of phloridzin (a specific inhibitor of SGLT-mediated glucose uptake), improved glucose tolerance in acutely kudzu-treated mice but had no significant effect on glucose tolerance in chronically treated mice. These results indicate that both acute and chronic administration of kudzu root extract improves glucose tolerance in a normal glycemic mouse strain and that the effects of chronic kudzu feeding may be mediated, in part, by enhanced insulin sensitivity (chronic) and inhibition of sodium dependent glucose transport."
+    },
+    {
+      "pmid": "24273684",
+      "title": "Declinol, a Complex Containing Kudzu, Bitter Herbs (Gentian, Tangerine Peel) and Bupleurum, Significantly Reduced Alcohol Use Disorders Identification Test (AUDIT) Scores in Moderate to Heavy Drinkers: A Pilot Study.",
+      "authors": [
+        "Steven Kushner",
+        "David Han",
+        "Marlene Oscar-Berman",
+        "B William Downs",
+        "Margaret A Madigan",
+        "John Giordano",
+        "Thomas Beley",
+        "Scott Jones",
+        "Debmayla Barh",
+        "Thomas Simpatico",
+        "Kristina Dushaj",
+        "Raquel Lohmann",
+        "Eric R Braverman",
+        "Stephen Schoenthaler",
+        "David Ellison",
+        "Kenneth Blum"
+      ],
+      "journal": "Journal of addiction research & therapy",
+      "publication_date": "2013-Jul-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "It is well established that inherited human aldehyde dehydrogenase 2 (ALDH-2) deficiency reduces the risk for alcoholism. Kudzu plants and extracts have been used for 1,000 years in traditional Chinese medicine to treat alcoholism. Kudzu contains daidzin, which inhibits ALDH-2 and suppresses heavy drinking in rodents. Decreased drinking due to ALDH-2 inhibition is attributed to aversive properties of acetaldehyde accumulated during alcohol consumption. However not all of the anti-alcohol properties of diadzin are due to inhibition of ALDH-2. This is in agreement with our earlier work showing significant interaction effects of both pyrozole (ALDH-2 inhibitor) and methyl-pyrozole (non-inhibitor) and ethanol's depressant effects. Moreover, it has been suggested that selective ALDH 2 inhibitors reduce craving for alcohol by increasing dopamine in the nucleus accumbens (NAc). In addition there is significant evidence related to the role of the genetics of bitter receptors (TAS2R) and its stimulation as an aversive mechanism against alcohol intake. The inclusion of bitters such as Gentian & Tangerine Peel in Declinol provides stimulation of gut TAS2R receptors which is potentially synergistic with the effects of Kudzu. Finally the addition of Radix Bupleuri in the Declinol formula may have some protective benefits not only in terms of ethanol induced liver toxicity but neurochemical actions involving endorphins, dopamine and epinephrine. With this information as a rationale, we report herein that this combination significantly reduced Alcohol Use Disorders Identification Test (AUDIT) scores administered to ten heavy drinkers (M=8, F=2; 43.2 ± 14.6 years) attending a recovery program. Specifically, from the pre-post comparison of the AUD scores, it was found that the score of every participant decreased after the intervention which ranged from 1 to 31. The decrease in the scores was found to be statistically significant with the p-value of 0.00298 (two-sided paired test; p-value = 0.00149 for one-sided test). Albeit this being a small pilot, we are encouraged about these significant results, and caution any interpretation until larger controlled studies are executed."
+    },
+    {
+      "pmid": "24060140",
+      "title": "Acute interstitial nephritis following kudzu root juice ingestion.",
+      "authors": [
+        "Jae Myun Jung",
+        "Soon Hyo Kwon",
+        "Hyunjin Noh",
+        "Dong Cheol Han",
+        "Jin Seok Jeon",
+        "So Young Jin"
+      ],
+      "journal": "Clinical nephrology",
+      "publication_date": "2013-Oct",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Recently, the use of herbal remedies and complementary and alternative medicine has increased globally. Kudzu root (Pueraria lobata) is a plant commonly used in traditional medicine to promote health. A middle-aged woman consumed kudzu root juice to promote health and well-being for 10 days. Subsequently, she developed anorexia, epigastric discomfort and azotemia. These symptoms improved rapidly within several days after discontinuation of the suspected offending agent and conservative treatment. Acute interstitial nephritis was diagnosed by renal biopsy. To our knowledge, this is the first case report describing acute interstitial nephritis following the ingestion of kudzu root juice.",
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Biopsy",
+        "Diagnosis, Differential",
+        "Eating",
+        "Female",
+        "Humans",
+        "Kidney",
+        "Nephritis, Interstitial",
+        "Plant Roots",
+        "Pueraria",
+        "Ultrasonography"
+      ]
+    },
+    {
+      "pmid": "23751897",
+      "title": "Puerarin, isolated from Kudzu root (Willd.), attenuates hepatocellular cytotoxicity and regulates the GSK-3β/NF-κB pathway for exerting the hepatoprotection against chronic alcohol-induced liver injury in rats.",
+      "authors": [
+        "Rong Li",
+        "Tao Liang",
+        "Qiaoling He",
+        "Chao Guo",
+        "Lingyuan Xu",
+        "Kefeng Zhang",
+        "Xiaoqun Duan"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Puerarin (PR) has been utilized as a phytomedicine to managing liver disease in China. Thus, this study aimed to evaluate the potential PR-mediated hepatoprotective role against chronic alcohol-induced liver injury in rats. The results indicated that serum levels of alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP) and pro-inflammatory cytokines were significantly reduced following PR treatment, while the albumin (ALB) level was increased. Meanwhile, intrahepatic contents of alcohol dehydrogenase (ADH), aldehyde dehydrogenase (ALDH) were elevated. Pathological examination showed that alcohol-lesioned hepatocytes were mitigated through the PR treatment. In addition, the endogenous levels of glycogen synthase kinase-3β (GSK-3β) at the protein level and β-catenin expression at the mRNA level were notably down-regulated, whereas the tumor necrosis factor alpha (TNF-α) and nuclear factor-kappa B (NF-κB) proteins in the liver tissue were effectively decreased following the PR treatment. Together, these findings demonstrate that PR mediates hepatoprotection against alcohol-induced liver injury. The mechanisms underlying the cytoprotective effects of PR are associated with inhibiting immunotoxicity in hepatocytes and regulating the GSK-3β/NF-κB pathway, thereby maintaining metabolic homeostasis in the liver tissue.",
+      "mesh_terms": [
+        "Animals",
+        "Glycogen Synthase Kinase 3",
+        "Glycogen Synthase Kinase 3 beta",
+        "Hepatitis, Alcoholic",
+        "Isoflavones",
+        "Male",
+        "Molecular Structure",
+        "NF-kappa B",
+        "Plant Roots",
+        "Pueraria",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "23070022",
+      "title": "A standardized kudzu extract (NPI-031) reduces alcohol consumption in nontreatment-seeking male heavy drinkers.",
+      "authors": [
+        "Scott E Lukas",
+        "David Penetar",
+        "Zhaohui Su",
+        "Thomas Geaghan",
+        "Melissa Maywalt",
+        "Michael Tracy",
+        "John Rodolico",
+        "Christopher Palmer",
+        "Zhongze Ma",
+        "David Y-W Lee"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "2013-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "OBJECTIVE: We previously demonstrated that short-term treatment with a standardized kudzu extract (NPI-031) reduced alcohol drinking by men and women in a natural setting. The present study was conducted in nontreatment-seeking heavy drinkers to assess the safety and efficacy of 4 weeks of kudzu extract in an outpatient setting. METHOD: This randomized between-subject, double-blind, placebo-controlled study involved 2 weeks of baseline, 4 weeks of treatment, and 2 weeks of follow-up. Seventeen men (21-33 years) who reported drinking 27.6 ± 6.5 drinks/week with a diagnosis of alcohol abuse/dependence took either kudzu extract (250 mg isoflavones, t.i.d.) or matched placebo on a daily basis. They reported alcohol consumption and desire to use alcohol using a wrist actigraphy device; twice weekly laboratory visits were scheduled to monitor medication adherence and adverse events. RESULTS: Medication adherence was excellent and there were no adverse events and changes in vital signs, blood chemistry, and renal or liver function. There was no effect on alcohol craving, but kudzu extract significantly reduced the number of drinks consumed each week by 34-57 %, reduced the number of heavy drinking days, and significantly increased the percent of days abstinent and the number of consecutive days of abstinence. CONCLUSIONS: A standardized formulation of kudzu extract produced minimal side effects, was well-tolerated, and resulted in a modest reduction in alcohol consumption in young nontreatment-seeking heavy drinkers. Additional studies using treatment-seeking alcohol-dependent persons will be necessary to determine the usefulness of this herbal preparation in reducing alcohol use in other populations.",
+      "mesh_terms": [
+        "Adult",
+        "Alcohol Deterrents",
+        "Alcohol Drinking",
+        "Alcoholism",
+        "Double-Blind Method",
+        "Drug-Seeking Behavior",
+        "Ethanol",
+        "Humans",
+        "Male",
+        "Medication Adherence",
+        "Plant Extracts",
+        "Pueraria",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "22010780",
+      "title": "Kudzu root extract does not perturb the sleep/wake cycle of moderate drinkers.",
+      "authors": [
+        "Bethany K Bracken",
+        "David M Penetar",
+        "Robert Ross Maclean",
+        "Scott E Lukas"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2011-Oct",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "OBJECTIVES: According to ancient Chinese medicine, kudzu root has been used as an ingredient to treat alcohol intoxication for centuries. Kudzu root extract is effective at reducing alcohol intake in animals and in humans, both in a natural-settings laboratory environment and on an outpatient basis. In dependent populations, withdrawal from alcohol is associated with disturbed sleep. These disturbances to the quantity and quality of sleep likely impact relapse to drinking. Many medications used to treat alcohol dependence also affect sleep. Therefore, as a possible treatment for alcohol dependence, the impact of kudzu root extract on the sleep/wake cycle is an important aspect of its effectiveness. DESIGN: This double-blind, placebo-controlled, crossover trial tested the effects of kudzu root extract on the sleep/wake cycles of moderate drinkers. RESULTS: Kudzu extract had no effect on any of the sleep parameters measured, including sleep efficiency, sleep latency, total time asleep per night, number of waking episodes, time awake per episode, number of moving minutes, number of sleep episodes, time asleep per episode, and number of immobile minutes. CONCLUSIONS: These data suggest that the administration of kudzu root extract does not disturb sleep/wake cycles of moderate drinkers, and as such its utility as an adjunct treatment for alcohol dependence remains free of any potential side-effects on sleep.",
+      "mesh_terms": [
+        "Adult",
+        "Alcoholism",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Pueraria",
+        "Recurrence",
+        "Sleep",
+        "Sleep Wake Disorders",
+        "Substance Withdrawal Syndrome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "21315814",
+      "title": "Kudzu root: traditional uses and potential medicinal benefits in diabetes and cardiovascular diseases.",
+      "authors": [
+        "Ka H Wong",
+        "George Q Li",
+        "Kong M Li",
+        "Valentina Razmovski-Naumovski",
+        "Kelvin Chan"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2011-Apr-12",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Kudzu root (Gegen in Chinese) is the dried root of Pueraria lobata (Willd.) Ohwi, a semi-woody, perennial and leguminous vine native to South East Asia. It is often used interchangeably in traditional Chinese medicine with thomson kudzu root (Fengen in Chinese), the dried root of P. thomsonii, although the Chinese Pharmacopoeia has separated them into two monographs since the 2005 edition. For more than 2000 years, kudzu root has been used as a herbal medicine for the treatment of fever, acute dysentery, diarrhoea, diabetes and cardiovascular diseases. Both English and Chinese literatures on the traditional applications, phytochemistry, pharmacological activities, toxicology, quality control and potential interactions with conventional drugs of both species have been included in the present review. Over seventy phytochemicals have been identified in kudzu root, with isoflavonoids and triterpenoids as the major constituents. Isoflavonoids, in particular puerarin, have been used in most of the pharmacological studies. Animal and cellular studies have provided support for the traditional uses of kudzu root on cardiovascular, cerebrovascular and endocrine systems, including diabetes and its complications. Further studies to define the active phytochemical compositions, quality standards and clinical efficacy are warranted. Strong interdisciplinary collaboration to bridge the gap between traditional medicine and modern biomedical medicine is therefore needed for the development of kudzu root as an effective medicine for the management of diabetes and cardiovascular diseases.",
+      "mesh_terms": [
+        "Cardiovascular Diseases",
+        "Diabetes Mellitus",
+        "Humans",
+        "Phytotherapy",
+        "Plant Roots",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "21244439",
+      "title": "Kudzu extract treatment does not increase the intoxicating effects of acute alcohol in human volunteers.",
+      "authors": [
+        "David M Penetar",
+        "Robert R Maclean",
+        "Jane F McNeil",
+        "Scott E Lukas"
+      ],
+      "journal": "Alcoholism, clinical and experimental research",
+      "publication_date": "2011-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND: Isoflavone administration in the form of a purified extract from the herbal medication kudzu root has been shown to reduce, but not eliminate, alcohol consumption in alcohol-abusing and alcohol-dependent men. The precise mechanism of this action is unknown, but 1 possible explanation for these results is that the isoflavones in kudzu might actually increase the intensity or duration of alcohol's effects and thus delay the desire for subsequent drinks. This study was designed to test this hypothesis. METHODS: Twelve (12) healthy adult men and women (27.5 ± 1.89 years old) who consumed moderate amounts of alcohol (7.8 ± 0.63 drinks/wk) participated in a double-blinded, placebo-controlled crossover study in which they were treated with either kudzu extract (total isoflavone dose of 750 mg/d) or matched placebo for 9 days. On days 8 and 9, participants received an acute challenge of ethyl alcohol (either 0.35 or 0.7 g/kg alcohol). During the challenges, the following measures were collected: subjective effects, psychomotor (body sway), cognitive performance (vigilance/reaction time), physiological measures (heart rate and skin temperature), and plasma ethanol concentration. RESULTS: Alcohol resulted in a dose-related alteration in subjective measures of intoxication, impairment of stance stability, and vigilance/reaction time. Kudzu extract did not alter participants' subjective responses to the alcohol challenge or to alcohol's effects on stance stability or vigilance/reaction time. However, individuals treated with kudzu extract experienced a slightly more rapid rise in plasma ethanol levels, but only after the 0.7 g/kg dose. This transient effect during the first 30 minutes of the ascending plasma alcohol curve lasted only 10-15 minutes; there were no differences in peak plasma alcohol levels or alcohol elimination kinetics. Additionally, kudzu pretreatment enhanced the effects of the 0.7 g/kg dose of alcohol on heart rate and skin temperature. CONCLUSIONS: These data suggest that individuals who drink alcohol while being treated with kudzu extract experience no adverse consequences, and furthermore the reported reductions in alcohol intake after kudzu extract treatment are not related to an alteration in alcohol's subjective or psychomotor effects.",
+      "mesh_terms": [
+        "Adult",
+        "Alcohol Drinking",
+        "Alcoholic Intoxication",
+        "Central Nervous System Depressants",
+        "Cognition",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Drugs, Chinese Herbal",
+        "Ethanol",
+        "Female",
+        "Humans",
+        "Isoflavones",
+        "Male",
+        "Motor Activity",
+        "Phytotherapy",
+        "Plant Roots",
+        "Psychiatric Status Rating Scales",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "19822105",
+      "title": "Influence of an extract from kudzu symbiosomes containing leghemoglobin on in vitro cutaneous procollagen production.",
+      "authors": [
+        "James V Gruber",
+        "Robert Holtz"
+      ],
+      "journal": "Journal of cosmetic science",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cytoglobin is a hexacoordinate globin protein that was recently discovered in mammals. Interestingly, of the four human globin proteins that are now known, hemoglobin, myoglobin, neuroglobin and cytoglobin, the latter appears to have the closest resemblance to strikingly similar proteins expressed in plants. In legumes, these proteins accumulate in symbiosomes (root nodules) of various legumes and are called leghemoglobin. The paper will discuss the ability of an aqueous extract from Pueraria lobata (kudzu) symbiosomes that contains leghemoglobin to stimulate procollagen production in human dermal fibroblasts. This effect may be partly due to the possibility that leghemoglobin may mimic the function of cytoglobin by shuttling oxygen to prolyl-4-hydroxylase, the enzyme responsible for oxidizing proline residues in procollagen bundles. This hypothesis is supported by DNA microarray sequencing data that demonstrate that treatment of normal human dermal fibroblasts (NHDF) with highly purified cytoglobin or leghemoglobin upregulates a number of key collagen-related genes including COL1A1 and COL1A2.",
+      "mesh_terms": [
+        "Cells, Cultured",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Humans",
+        "In Vitro Techniques",
+        "Leghemoglobin",
+        "Plant Extracts",
+        "Procollagen",
+        "Pueraria",
+        "RNA, Messenger",
+        "Skin"
+      ]
+    },
+    {
+      "pmid": "19125878",
+      "title": "Response of cluster headache to kudzu.",
+      "authors": [
+        "R Andrew Sewell"
+      ],
+      "journal": "Headache",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "OBJECTIVE: To describe the self-treatment of cluster headache with kudzu. BACKGROUND: Many cluster headache patients take over-the-counter (OTC) kudzu extract in the belief that it helps their cluster attacks. Kudzu's actual efficacy has not been studied. METHODS: A database of cluster headache patients was questioned about their use of various alternative remedies to treat their cluster headache. Of 235 patients identified, 16 had used kudzu, consented to interviews, and provided medical records. RESULTS: In total, 11 (69%) experienced decreased intensity of attacks, 9 (56%) decreased frequency, and 5 (31%) decreased duration, with minimal side effects. CONCLUSION: Anecdotal evidence suggests that a component in OTC products labeled as kudzu may prove useful in managing cluster headache. This hypothesis should be tested with a randomized clinical trial.",
+      "mesh_terms": [
+        "Adult",
+        "Cluster Headache",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "20145773",
+      "title": "Objective versus Subjective: Kudzu Terminology.",
+      "authors": [
+        "Jules M Rothstein"
+      ],
+      "journal": "Physiotherapy Canada. Physiotherapie Canada",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "17980785",
+      "title": "Pueraria lobata (Kudzu root) hangover remedies and acetaldehyde-associated neoplasm risk.",
+      "authors": [
+        "Neil R McGregor"
+      ],
+      "journal": "Alcohol (Fayetteville, N.Y.)",
+      "publication_date": "2007-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Recent introduction of several commercial Kudzu root (Pueraria lobata) containing hangover remedies has occurred in western countries. The available data is reviewed to assess if there are any potential concerns in relationship to the development of neoplasm if these products are used chronically. The herb Pueraria has two components that are used as traditional therapies; Pueraria lobata, the root based herb and Pueraria flos, the flower based herb. Both of these herbal components have different traditional claims and constituents. Pueraria flos, which enhances acetaldehyde removal, is the traditional hangover remedy. Conversely, Pueraria lobata is a known inhibitor of mitochondrial aldehyde dehydrogenase (ALDH2) and increases acetaldehyde. Pueraria lobata is being investigated for use as an aversion therapy for alcoholics due to these characteristics. Pueraria lobata is not a traditional hangover therapy yet has been accepted as the registered active component in many of these hangover products. The risk of development of acetaldehyde pathology, including neoplasms, is associated with genetic polymorphism with enhanced alcohol dehydrogenase (ADH) or reduced ALDH activity leading to increased acetaldehyde levels in the tissues. The chronic usage of Pueraria lobata at times of high ethanol consumption, such as in hangover remedies, may predispose subjects to an increased risk of acetaldehyde-related neoplasm and pathology. The guidelines for Disulfiram, an ALDH2 inhibitor, provide a set of guidelines for use with the herb Pueraria lobata. Pueraria lobata appears to be an inappropriate herb for use in herbal hangover remedies as it is an inhibitor of ALDH2. The recommendations for its use should be similar to those for the ALDH2 inhibitor, Disulfiram.",
+      "mesh_terms": [
+        "Acetaldehyde",
+        "Alcohol Dehydrogenase",
+        "Alcohol Deterrents",
+        "Alcoholic Intoxication",
+        "Alcoholism",
+        "Aldehyde Dehydrogenase",
+        "Animals",
+        "Disulfiram",
+        "Ethanol",
+        "Female",
+        "Head and Neck Neoplasms",
+        "Humans",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Practice Guidelines as Topic",
+        "Pueraria",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "17017159",
+      "title": "[Optimization of high performance liquid chromatographic method for analysis of kudzu root crude extract].",
+      "authors": [
+        "Yan Zhang",
+        "Xingya Xue",
+        "Qing Xu",
+        "Feifang Zhang",
+        "Xinmiao Liang"
+      ],
+      "journal": "Se pu = Chinese journal of chromatography",
+      "publication_date": "2006-Jul",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "Kudzu root is an important traditional Chinese herb. Its crude extract has been used in the treatment of hypertension and angina pectoris in China. Several parameters for high performance liquid chromatography (HPLC) analytical method for kudzu root extract, including HPLC model, mobile phase, additive and gradient conditions have been optimized. The HPLC retention parameters a and c, and the peak shape parameters sigma and tau of 25 chromatographic peaks were obtained accurately and rapidly using five linear gradients and were calculated using CSASS software. The CSASS software was then used to simulate the gradient conditions in the experiments, and the optimized condition was obtained. The comparison of the simulated and real chromatogram profiles showed that the potential of simulation using the CSSASS software as compared to that of the real experimental conditions was precise. Reversed-phase HPLC model and the mobile phase of (A) acetonitrile containing 0.1% (v/v) acetic acid and (B) water containing 0.1% (v/v) acetic acid were used. The optimized gradient profile showed a linear increase as follows: from 5% A to 35% A at 0 - 33 min; from 35% A to 100% A at 33 - 50 min, and then the HPLC system was held for 5 min. The reproducibility and precision of the method were investigated. The relative standard deviations (RSDs) of retention time, peak height, and peak area were less than 0.25%, 11%, and 4.9%, respectively, which showed that the method was stable, reliable, and reproducible.",
+      "mesh_terms": [
+        "Chromatography, High Pressure Liquid",
+        "Flowers",
+        "Plant Extracts",
+        "Plant Roots",
+        "Pueraria",
+        "Spectrophotometry, Ultraviolet"
+      ]
+    },
+    {
+      "pmid": "16841218",
+      "title": "Regulation of isoflavone production in hydroponically grown Pueraria montana (kudzu) by cork pieces, XAD-4, and methyl jasmonate.",
+      "authors": [
+        "Ara Kirakosyan",
+        "Peter B Kaufman",
+        "Soo Chul Chang",
+        "Sara Warber",
+        "Steven Bolling",
+        "Hrachik Vardapetyan"
+      ],
+      "journal": "Plant cell reports",
+      "publication_date": "2006-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "A mini-hydroponic growing system was employed for seedlings of kudzu vine (Pueraria montana) and contents of isoflavones (daidzein, genistein, daidzin, genistin, and puerarin) from shoot and root parts of seedlings were analyzed quantitatively. In addition, exogenous cork pieces, polymeric adsorbent, XAD-4, and universal elicitor, methyl jasmonate (MeJA), were used to regulate the production of these isoflavones. It was shown that cork pieces up-regulate the production of daidzein and genistein up to seven- and eight-fold greater than the levels obtained for control roots. In contrast, levels of glucosyl conjugates, daidzin and genistin, decrease up to five- and eight-fold, respectively. Cork treatment also induces the excretion of the root isoflavone constituents into the growth medium. Minimal levels of isoflavones are absorbed by the cork pieces. XAD-4 stimulates the production of glucosyl conjugates, daidzin and genistin, in root parts about 1.5-fold greater than that obtained in control roots. These are the highest amounts of daidzin and genistin that are observed (5.101 and 6.759 mg g(-1) dry weight, respectively). In contrast to these two adsorbents, MeJA increases the accumulation of isoflavones in shoot rather than in root parts of seedlings, about three- to four-fold over control levels, with the exception of genistein. These studies reveal new observations on the regulation of isoflavone production in hydroponically grown Pueraria montana plants by two adsorbents (cork pieces and XAD-4) and MeJA elicitor.",
+      "mesh_terms": [
+        "Acetates",
+        "Cyclopentanes",
+        "Flavonoids",
+        "Genistein",
+        "Glycoconjugates",
+        "Hydroponics",
+        "Isoflavones",
+        "Oxylipins",
+        "Plant Roots",
+        "Plant Shoots",
+        "Polystyrenes",
+        "Polyvinyls",
+        "Pueraria",
+        "Seedlings",
+        "Wood"
+      ]
+    },
+    {
+      "pmid": "15897719",
+      "title": "An extract of the Chinese herbal root kudzu reduces alcohol drinking by heavy drinkers in a naturalistic setting.",
+      "authors": [
+        "Scott E Lukas",
+        "David Penetar",
+        "Jeff Berko",
+        "Luke Vicens",
+        "Christopher Palmer",
+        "Gopinath Mallya",
+        "Eric A Macklin",
+        "David Y-W Lee"
+      ],
+      "journal": "Alcoholism, clinical and experimental research",
+      "publication_date": "2005-May",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "BACKGROUND: Of the available medications for treating alcohol-related problems, none are universally effective, and all have side effects that may limit their use. Extracts of kudzu containing a variety of isoflavones have been shown to reduce alcohol drinking in rats and hamsters. METHODS: The present study was designed to test the efficacy of a kudzu extract in a clinical population. Male and female \"heavy\" alcohol drinkers were treated with either placebo or a kudzu extract for 7 days and then given an opportunity to drink their preferred brand of beer while in a naturalistic laboratory setting. Participants served as their own controls, and order of treatment exposure was counterbalanced. Drinking behavior was monitored by a digital scale that was located in the top of an end table. RESULTS: Kudzu treatment resulted in significant reduction in the number of beers consumed that was paralleled by an increase in the number of sips and the time to consume each beer and a decrease in the volume of each sip. These changes occurred in the absence of a significant effect on the urge to drink alcohol. There were no reported side effects of kudzu treatment. CONCLUSION: These data suggest that an extract of this leguminous plant may be a useful adjunct in reducing alcohol intake in a naturalistic setting.",
+      "mesh_terms": [
+        "Adult",
+        "Alcohol Deterrents",
+        "Alcoholism",
+        "Beer",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Psychiatric Status Rating Scales",
+        "Pueraria"
+      ]
+    },
+    {
+      "pmid": "15857757",
+      "title": "Analysis of the estrogenic components in kudzu root by bioassay and high performance liquid chromatography.",
+      "authors": [
+        "Yan Zhang",
+        "Jiping Chen",
+        "Chunzhi Zhang",
+        "Wenzhong Wu",
+        "Xinmiao Liang"
+      ],
+      "journal": "The Journal of steroid biochemistry and molecular biology",
+      "publication_date": "2005-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The estrogenic activity of the Chinese herb kudzu root was investigated by a recombinant yeast screening assay (YES). Isoflavones are the main components in the plant, of which puerarin is the most abundant one. The kudzu root extract was separated into four fractions according to the polarity. The crude extract and its sub-fractions, except the water fraction, showed clear estrogenic activity and the potencies were in the range of 10(-3) to 10(-1)g/l. The ligand potency was used to compare the estrogenic activity of these fractions. The crude extract and its sub-fractions were further analyzed by high performance liquid chromatography (HPLC) to correlate the activity and the active components. Bioassay and chemical analysis showed that theoretical estrogenic activity expressed as equivalent 17beta-estradiol concentration or the cumulative effects are comparable to that experimentally determined by YES. The results showed that the high content of isoflavones as well as the high estrogenic activity could make kudzu root extract an interesting candidate for hormone replacement therapy.",
+      "mesh_terms": [
+        "Biological Assay",
+        "Chromatography, High Pressure Liquid",
+        "Isoflavones",
+        "Phytoestrogens",
+        "Plant Roots",
+        "Pueraria",
+        "Saccharomyces cerevisiae",
+        "beta-Galactosidase"
+      ]
+    },
+    {
+      "pmid": "11551550",
+      "title": "Macrocyclic trichothecenes are undetectable in kudzu (Pueraria montana) plants treated with a high-producing isolate of Myrothecium verrucaria.",
+      "authors": [
+        "H K Abbas",
+        "H Tak",
+        "C D Boyette",
+        "W T Shier",
+        "B B Jarvis"
+      ],
+      "journal": "Phytochemistry",
+      "publication_date": "2001-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Myrothecium verrucaria was found to be an effective pathogen against kudzu grown in the greenhouse and the field. M. verrucaria produced large amounts of macrocyclic trichothecenes when cultured on solid rice medium, including epiroridin E (16.8 mg/g crude extract), epiisororidin E (1 mg/g), roridin E (8.7 mg/g), roridin H (31.3 mg/g), trichoverrin A (0.6 mg/g), trichoverrin B (0.1 mg/g), verrucarin A (37.4 mg/g), and verrucarin J (2.2 mg/g). Most of these toxins were also isolated from M. verrucaria spores and mycelia grown on potato dextrose agar medium, including epiroridin E (32.3 mg/g), epiisororidin E (28.6 mg/g), roridin E (0 mg/g), roridin H (60 mg/g), trichoverrin A (1.3 mg/g), trichoverrin B (1.8 mg/g), verrucarin A (13.8 mg/g), and verrucarin J (131 mg/g). When M. verrucaria was cultured on liquid media, the numbers but not the amounts of toxins decreased. Only epiroridin E (28.3 mg/g), epiisororidin E (29.6 mg/g), verrucarin B (195 mg/g) and verrucarin J (52.6 mg/g) were measured when the fungus was cultured on cornsteep medium. On soyflour-cornmeal broth M. verrucaria produced several toxins, including epiroridin E (58.1 mg/g), epiisororidin E (5.8 mg/g), verrucarin B (29.9 mg/g) and verrucarin J (32 mg/g). In contrast, no macrocyclic trichothecenes were detected by HPLC analysis of plant tissues of kudzu, sicklepod, and soybean treated with aqueous suspensions of M. verrucaria spores formulated with a surfactant. Chloroform-methanol extracts of kudzu leaves and stems treated with M. verrucaria spores were less cytotoxic to four cultured mammalian cell lines than the corresponding extracts from control plants. Purified macrocyclic trichothecenes (verrucarin A and T-2 toxin) were very cytotoxic to the same cell lines (< or = 2 ng/ml). These results show that neither intact macrocyclic trichothecenes nor toxic metabolites could be detected in plant tissues after treatment with M. verrucaria spores. These results argue for both safety and efficacy for the use of M. verrucaria in biological control of kudzu and other noxious weeds, and support proceeding to animal feeding trials for further evaluation of safety.",
+      "mesh_terms": [
+        "Ascomycota",
+        "Cell Line",
+        "Chromatography, High Pressure Liquid",
+        "Pest Control, Biological",
+        "Pueraria",
+        "Trichothecenes"
+      ]
+    },
+    {
+      "pmid": "11333041",
+      "title": "The application of kudzu as a medium for the adsorption of heavy metals from dilute aqueous wastestreams.",
+      "authors": [
+        "P A Brown",
+        "J M Brown",
+        "S J Allen"
+      ],
+      "journal": "Bioresource technology",
+      "publication_date": "2001-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study assessed the use of kudzu (Pueraria lobata ohwi) as a medium for the capture of copper, cadmium, and zinc from low concentration solutions. The rate and extent of uptake was studied using a system of standardized batch adsorbers under steady-state and transient-rate conditions. All plant components were tested. Residual metals analyses were performed on an ICP-AES/OES (Optima 3000 DV). The Langmuir, Freundlich, and Redlich-Peterson isotherms were determined; the Langmuir isotherm was found to best represent the data for copper and cadmium uptake. The Redlich-Peterson best represented the data for zinc. Kudzu was determined to be an effective adsorbent for removal of heavy metals. Though its capacity for metals removal is less than commercial grade ion exchange resins, it could be used at much lower cost, and may find application in the treatment of dilute mixed-matrix metal wastestreams, such as urban runoff, where the application of resins would be expensive and subject to premature poisoning by interfering contaminants.",
+      "mesh_terms": [
+        "Adsorption",
+        "Bioreactors",
+        "Cadmium",
+        "Copper",
+        "Metals, Heavy",
+        "Models, Theoretical",
+        "Rosales",
+        "Waste Disposal, Fluid",
+        "Water Pollutants, Chemical",
+        "Zinc"
+      ]
+    },
+    {
+      "pmid": "10706235",
+      "title": "A pilot study exploring the effect of kudzu root on the drinking habits of patients with chronic alcoholism.",
+      "authors": [
+        "J Shebek",
+        "J P Rindone"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2000-Feb",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: The objective of this study was to assess if kudzu root extract influences the drinking habits of veterans who entered a substance abuse treatment program. DESIGN: Prospective, randomized double-blind controlled clinical trial. SETTING: A nonacademic Veteran Affairs Medical Center. METHODS: Patients with the diagnosis of alcoholism were randomly assigned to receive either kudzu root extract 1.2 g twice daily or a matching placebo. Patients completed questionnaires that focused on craving for alcohol and sobriety status on a monthly basis. OUTCOME MEASURES: Sobriety level and craving for ethanol were assessed on a visual analogue scale from 0 to 10. RESULTS: Thirty-eight patients completed 1 month of the study; 21 randomly assigned kudzu, 17 to placebo. No statistically significance difference in craving and sobriety scores were noted after 1 month between kudzu and placebo, or at later stages with smaller numbers (15-19) of patients. CONCLUSION: In this small patient population, kudzu root appeared to be no better than placebo in reducing the craving for alcohol or promoting sobriety.",
+      "mesh_terms": [
+        "Alcohol Deterrents",
+        "Alcohol Drinking",
+        "Alcoholism",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Phytotherapy",
+        "Pilot Projects",
+        "Plant Extracts",
+        "Plant Roots",
+        "Plants, Medicinal",
+        "Prospective Studies",
+        "Rosales",
+        "Surveys and Questionnaires",
+        "Veterans"
+      ]
+    },
+    {
+      "pmid": "28314006",
+      "title": "Water stress, temperature, and light effects on the capacity for isoprene emission and photosynthesis of kudzu leaves.",
+      "authors": [
+        "Thomas D Sharkey",
+        "Francesco Loreto"
+      ],
+      "journal": "Oecologia",
+      "publication_date": "1993-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Kudzu (Pueraria lobata (Willd) Ohwi.) is a vine which forms large, monospecific stands in disturbed areas of the southeastern United States. Kudzu also emits isoprene, a hydrocarbon which can significantly affect atmospheric chemistry including reactions leading to tropospheric ozone. We have studied physiological aspects of isoprene emission from kudzu so the ecological consequences of isoprene emission can be better understood. We examined: (a) the development of isoprene emission as leaves developed, (b) the interaction between photon flux density and temperature effects on isoprene emission, (c) isoprene emission during and after water stress, and (d) the induction of isoprene emission from leaves grown at low temperature by water stress or elevated temperature. Isoprene emission under standard conditions of 1000 μmol photons·m-2·s-1 and 30°C developed only after the leaf had reached full expansion, and was not complete until up to two weeks past the point of full expansion of the leaf. The effect of temperature on isoprene emission was much greater than found for other species, with a 10°C increase in temperature causing a eight-fold increase in the rate of isoprene emission. Isoprene emission from kudzu was stimulated by increases in photon flux density up to 3000 μmol photons·m-2·s-1. In contrast, photosynthesis of kudzu was saturated at less than 1000 μmol·m-2·s-1 photon flux density and was reduced at high temperature, so that up to 20% of the carbon fixed in photosynthesis was reemitted as isoprene gas at 1000 μmol photons·m-2·s-1 and 35°C. Withholding water caused photosynthesis to decline nearly to zero after several days but had a much smaller effect on isoprene emission. Following the relief of water stress, photosynthesis recovered to the prestress level but isoprene emission increased to about five times the prestress rate. At 1000 μmol photons·m-2·s-1 and 35°C as much as 67% of the carbon fixed in photosynthesis was reemitted as isoprene eight days after water stress. Leaves grown at less than 20°C did not make isoprene until an inductive treatment was given. Inductive treatments included growth at 24°C, leaf temperature of 30°C for 5 h, or witholding water from plants. With the new information on temperature and water stress effects on isoprene emission, we speculate that isoprene emission may help plants cope with stressful conditions."
+    }
+  ]
+}

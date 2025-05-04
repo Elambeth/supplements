@@ -1,0 +1,553 @@
+{
+  "supplement": "Cat's claw",
+  "query": "Cat's claw[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:32:42",
+  "research_count": 17,
+  "count": 16,
+  "articles": [
+    {
+      "pmid": "38543735",
+      "title": "Antiviral and Virucidal Activities of Uncaria tomentosa (Cat's Claw) against the Chikungunya Virus.",
+      "authors": [
+        "Raquel Curtinhas de Lima",
+        "Ligia Maria Marino Valente",
+        "Débora Familiar Macedo",
+        "Luzia Maria de-Oliveira-Pinto",
+        "Flavia Barreto Dos Santos",
+        "José Luiz Mazzei",
+        "Antonio Carlos Siani",
+        "Priscila Conrado Guerra Nunes",
+        "Elzinandes Leal de Azeredo"
+      ],
+      "journal": "Viruses",
+      "publication_date": "2024-Feb-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Uncaria tomentosa (UT) is a medicinal plant popularly known as cat's claw belonging to the Rubiaceae family that has been reported to display antiviral and anti-inflammatory activities. The chikungunya virus (CHIKV) outbreaks constitute a Brazilian public health concern. CHIKV infection develops an abrupt onset of fever, usually accompanied by a skin rash, besides incapacitating polyarthralgia. There is no vaccine available or treatment for CHIKV infection. The present study evaluates the hydroalcoholic extract of UT bark as a potential antiviral against CHIKV. The in vitro antiviral activity of the UT extract against the Brazilian CHIKV strain was assessed using quantitative reverse transcription polymerase chain reaction, flow cytometry, and plaque assay. Results obtained demonstrated that UT inhibits CHIKV infection in a dose-dependent manner. At the non-cytotoxic concentration of 100 µg/mL, UT exhibited antiviral activity above 90% as determined by plaque reduction assay, and it reduced the viral cytopathic effect. Similarly, a significant virucidal effect of 100 µg/mL UT was observed after 24 and 48 h post-infection. This is the first report on the antiviral activity of UT against CHIKV infection, and the data presented here suggests UT as a potential antiviral to treat CHIKV infection.",
+      "mesh_terms": [
+        "Cat's Claw",
+        "Chikungunya virus",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Antiviral Agents",
+        "Chikungunya Fever"
+      ]
+    },
+    {
+      "pmid": "33680061",
+      "title": "The Hydroalcoholic Extract of Uncaria tomentosa (Cat's Claw) Inhibits the Infection of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) In Vitro.",
+      "authors": [
+        "Andres F Yepes-Perez",
+        "Oscar Herrera-Calderón",
+        "Cristian A Oliveros",
+        "Lizdany Flórez-Álvarez",
+        "María I Zapata-Cardona",
+        "Lina Yepes",
+        "Wbeimar Aguilar-Jimenez",
+        "María T Rugeles",
+        "Wildeman Zapata"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The coronavirus disease 2019 (COVID-19) has become a serious problem for public health since it was identified in the province of Wuhan (China) and spread around the world producing high mortality rates and economic losses. Nowadays, the WHO recognizes traditional, complementary, and alternative medicine for treating COVID-19 symptoms. Therefore, we investigated the antiviral potential of the hydroalcoholic extract of Uncaria tomentosa stem bark from Peru against SARS-CoV-2 in vitro. The antiviral activity of U. tomentosa against SARS-CoV-2 in vitro was assessed in Vero E6 cells using cytopathic effect (CPE) and plaque reduction assay. After 48 h of treatment, U. tomentosa showed an inhibition of 92.7% of SARS-CoV-2 at 25.0 μg/mL (p < 0.0001) by plaque reduction assay on Vero E6 cells. In addition, U. tomentosa induced a reduction of 98.6% (p=0.02) and 92.7% (p=0.03) in the CPE caused by SARS-CoV-2 on Vero E6 cells at 25 μg/mL and 12.5 μg/mL, respectively. The EC50 calculated for the U. tomentosa extract by plaque reduction assay was 6.6 μg/mL (4.89-8.85 μg/mL) for a selectivity index of 4.1. The EC50 calculated for the U. tomentosa extract by TCID50 assay was 2.57 μg/mL (1.05-3.75 μg/mL) for a selectivity index of 10.54. These results showed that U. tomentosa, known as cat's claw, has an antiviral effect against SARS-CoV-2, which was observed as a reduction in the viral titer and CPE after 48 h of treatment on Vero E6 cells. Therefore, we hypothesized that U. tomentosa stem bark could be promising in the development of new therapeutic strategies against SARS-CoV-2."
+    },
+    {
+      "pmid": "33118480",
+      "title": "Uncaria tomentosa (cat's claw): a promising herbal medicine against SARS-CoV-2/ACE-2 junction and SARS-CoV-2 spike protein based on molecular modeling.",
+      "authors": [
+        "Andres F Yepes-Pérez",
+        "Oscar Herrera-Calderon",
+        "Jorge Quintero-Saumeth"
+      ],
+      "journal": "Journal of biomolecular structure & dynamics",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "COVID-19 is a novel severe acute respiratory syndrome coronavirus. Currently, there is no effective treatment and vaccines seem to be the solution in the future. Virtual screening of potential drugs against the S protein of severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) has provided small molecular compounds with a high binding affinity. Unfortunately, most of these drugs do not attach with the binding interface of the receptor-binding domain (RBD)-angiotensin-converting enzyme-2 (ACE-2) complex in host cells. Molecular modeling was carried out to evaluate the potential antiviral properties of the components of the medicinal herb Uncaria tomentosa (cat's claw) focusing on the binding interface of the RBD-ACE-2 and the viral spike protein. The in silico approach starts with protein-ligand docking of 26 Cat's claw key components followed by molecular dynamics simulations and re-docked calculations. Finally, we carried out drug-likeness calculations for the most qualified cat's claw components. The structural bioinformatics approaches led to the identification of several bioactive compounds of U. tomentosa with potential therapeutic effect by dual strong interaction with interface of the RBD-ACE-2 and the ACE-2 binding site on SARS-CoV-2 RBD viral spike. In addition, in silico drug-likeness indices for these components were calculated and showed good predicted therapeutic profiles of these phytochemicals found in U. tomentosa (cat's claw). Our findings suggest the potential effectiveness of cat's claw as complementary and/or alternative medicine for COVID-19 treatment.Communicated by Ramaswamy H. Sarma.",
+      "mesh_terms": [
+        "Cat's Claw",
+        "Herbal Medicine",
+        "Humans",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "SARS-CoV-2",
+        "Spike Glycoprotein, Coronavirus",
+        "COVID-19 Drug Treatment"
+      ]
+    },
+    {
+      "pmid": "33029165",
+      "title": "Investigating Potential Inhibitory Effect of Uncaria tomentosa (Cat's Claw) against the Main Protease 3CLpro of SARS-CoV-2 by Molecular Modeling.",
+      "authors": [
+        "Andres F Yepes-Pérez",
+        "Oscar Herrera-Calderon",
+        "José-Emilio Sánchez-Aparicio",
+        "Laura Tiessler-Sala",
+        "Jean-Didier Maréchal",
+        "Wilson Cardona-G"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "COVID-19 is a disease caused by severe acute respiratory syndrome coronavirus 2. Presently, there is no effective treatment for COVID-19. As part of the worldwide efforts to find efficient therapies and preventions, it has been reported the crystalline structure of the SARS-CoV-2 main protease Mpro (also called 3CLpro) bound to a synthetic inhibitor, which represents a major druggable target. The druggability of Mpro could be used for discovering drugs to treat COVID-19. A multilevel computational study was carried out to evaluate the potential antiviral properties of the components of the medicinal herb Uncaria tomentosa (Cat's claw), focusing on the inhibition of Mpro. The in silico approach starts with protein-ligand docking of 26 Cat's claw key components, followed by ligand pathway calculations, molecular dynamics simulations, and MM-GBSA calculation of the free energy of binding for the best docked candidates. The structural bioinformatics approaches led to identification of three bioactive compounds of Uncaria tomentosa (speciophylline, cadambine, and proanthocyanidin B2) with potential therapeutic effects by strong interaction with 3CLpro. Additionally, in silico drug-likeness indices for these components were calculated and showed good predicted therapeutic profiles of these phytochemicals. Our findings suggest the potential effectiveness of Cat's claw as complementary and/or alternative medicine for COVID-19 treatment."
+    },
+    {
+      "pmid": "30728442",
+      "title": "The Amazon rain forest plant Uncaria tomentosa (cat's claw) and its specific proanthocyanidin constituents are potent inhibitors and reducers of both brain plaques and tangles.",
+      "authors": [
+        "Alan D Snow",
+        "Gerardo M Castillo",
+        "Beth P Nguyen",
+        "Paula Y Choi",
+        "Joel A Cummings",
+        "Judy Cam",
+        "Qubai Hu",
+        "Thomas Lake",
+        "Weihong Pan",
+        "Abba J Kastin",
+        "Daniel A Kirschner",
+        "Steven G Wood",
+        "Edward Rockenstein",
+        "Eliezer Masliah",
+        "Stephen Lorimer",
+        "Rudolph E Tanzi",
+        "Lesley Larsen"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2019-Feb-06",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Brain aging and Alzheimer's disease both demonstrate the accumulation of beta-amyloid protein containing \"plaques\" and tau protein containing \"tangles\" that contribute to accelerated memory loss and cognitive decline. In the present investigation we identified a specific plant extract and its constituents as a potential alternative natural solution for preventing and reducing both brain \"plaques and tangles\". PTI-00703 cat's claw (Uncaria tomentosa from a specific Peruvian source), a specific and natural plant extract from the Amazon rain forest, was identified as a potent inhibitor and reducer of both beta-amyloid fibrils (the main component of \"plaques\") and tau protein paired helical filaments/fibrils (the main component of \"tangles\"). PTI-00703 cat's claw demonstrated both the ability to prevent formation/aggregation and disaggregate preformed Aβ fibrils (1-42 and 1-40) and tau protein tangles/filaments. The disaggregation/dissolution of Aβ fibrils occurred nearly instantly when PTI-00703 cat's claw and Aβ fibrils were mixed together as shown by a variety of methods including Thioflavin T fluorometry, Congo red staining, Thioflavin S fluorescence and electron microscopy. Sophisticated structural elucidation studies identified the major fractions and specific constituents within PTI-00703 cat's claw responsible for both the observed \"plaque\" and \"tangle\" inhibitory and reducing activity. Specific proanthocyanidins (i.e. epicatechin dimers and variants thereof) are newly identified polyphenolic components within Uncaria tomentosa that possess both \"plaque and tangle\" reducing and inhibitory activity. One major identified specific polyphenol within PTI-00703 cat's claw was epicatechin-4β-8-epicatechin (i.e. an epicatechin dimer known as proanthocyanidin B2) that markedly reduced brain plaque load and improved short-term memory in younger and older APP \"plaque-producing\" (TASD-41) transgenic mice (bearing London and Swedish mutations). Proanthocyanidin B2 was also a potent inhibitor of brain inflammation as shown by reduction in astrocytosis and gliosis in TASD-41 transgenic mice. Blood-brain-barrier studies in Sprague-Dawley rats and CD-1 mice indicated that the major components of PTI-00703 cat's claw crossed the blood-brain-barrier and entered the brain parenchyma within 2 minutes of being in the blood. The discovery of a natural plant extract from the Amazon rain forest plant (i.e. Uncaria tomentosa or cat's claw) as both a potent \"plaque and tangle\" inhibitor and disaggregator is postulated to represent a potential breakthrough for the natural treatment of both normal brain aging and Alzheimer's disease.",
+      "mesh_terms": [
+        "Amyloid",
+        "Animals",
+        "Brain",
+        "Cat's Claw",
+        "Female",
+        "Male",
+        "Mice",
+        "Mice, Transgenic",
+        "Neurofibrillary Tangles",
+        "Plant Extracts",
+        "Plaque, Amyloid",
+        "Proanthocyanidins",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "tau Proteins"
+      ]
+    },
+    {
+      "pmid": "27180878",
+      "title": "Genotoxicity and cytotoxicity of oxindole alkaloids from Uncaria tomentosa (cat's claw): Chemotype relevance.",
+      "authors": [
+        "Samuel Kaiser",
+        "Ânderson Ramos Carvalho",
+        "Vanessa Pittol",
+        "Fabrícia Dietrich",
+        "Fabiana Manica",
+        "Michel Mansur Machado",
+        "Luis Flávio Souza de Oliveira",
+        "Ana Maria Oliveira Battastini",
+        "George González Ortega"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2016-Aug-02",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Uncaria tomentosa (Willdenow ex Roemer & Schultes) DC. (Rubiaceae) or cat's claw is a climber vine from the South American rainforest used in folk medicine for cancer treatment. Its antitumor activity has been mostly ascribed to pentacyclic oxindole alkaloids (POA) from stem bark and leaves while the activity of tetracyclic oxindole alkaloids (TOA) remains unknown. In recent times, the occurrence of three chemotypes based on its oxindole alkaloid profile was noticed in U. tomentosa, namely, chemotype I (POA cis D/E ring junction); chemotype II (POA trans D/E ring junction) or chemotype III (TOA). Consequently, the relationship between the chemotype and cytotoxic and genotoxic activities deserves attention. AIM OF THE STUDY: To evaluate the influence of cat's claw chemotypes on genotoxicity and cytotoxicity against non malignant and malignant human cell line models. MATERIAL AND METHODS: Four authentic stem bark cat's claw samples (SI-SIV) and two leaf samples (LII and LIII) were analyzed by HPLC-PDA, properly extracted and fractioned by ion-exchange to obtain oxindole alkaloid purified fractions (OAPFs). The freeze-dried fractions were assayed for genotoxicity and cytotoxicity against human leukocytes (non malignant cell line) by the micronuclei frequency method and the alkaline comet DNA assay, and the trypan blue method, respectively. Moreover, the cytotoxicity of each OAPF was evaluated against a human bladder cancer cell line (T24) and human glioblastoma cell line (U-251-MG) by MTT method (malignant cell lines). Additionally, the isomerization of oxindole alkaloids throughout the course of cell incubation was monitored by HPLC-PDA. RESULTS: Based on HPLC-PDA analyses, sample SI was characterized as chemotype I, while samples SII and LII were characterized as chemotype II, and samples SIII, SIV and LIII as chemotype III. The chemotypes showed comparable cytotoxic activity toward malignant cell lines (T24 and U-251-MG) unlike human leukocytes (non malignant cell line), where this activity was clearly distinct. Chemotype II (POA trans D/E ring junction) showed a higher selectivity index (SI) against malignant cells (SI=1.11-3.04) than chemotype I (SI=0.10-0.19) and III (SI=0.21-0.57). No important genotoxic potential was found by micronuclei frequency and alkaline comet DNA assays. Despite the isomerization of oxindole alkaloids during the cell incubation, the chemotype of the cat's claw samples remained unchanged. CONCLUSION: Cat's claw chemotypes showed different selectivity against human malignant cells, so that the correct identification of each chemotype seems to be important to better understand its antitumor potential.",
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Cat's Claw",
+        "Cell Survival",
+        "Chromatography, High Pressure Liquid",
+        "Chromatography, Ion Exchange",
+        "Comet Assay",
+        "DNA Damage",
+        "Dose-Response Relationship, Drug",
+        "Humans",
+        "Indole Alkaloids",
+        "Indoles",
+        "Inhibitory Concentration 50",
+        "Leukocytes",
+        "Male",
+        "Micronuclei, Chromosome-Defective",
+        "Micronucleus Tests",
+        "Molecular Structure",
+        "Neoplasms",
+        "Oxindoles",
+        "Phytotherapy",
+        "Plant Bark",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Plants, Medicinal",
+        "Risk Assessment",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "25495394",
+      "title": "Uncaria tomentosa (cat's claw) improves quality of life in patients with advanced solid tumors.",
+      "authors": [
+        "Larissa Carvalho Lopes de Paula",
+        "Fernando Fonseca",
+        "Fabio Perazzo",
+        "Felipe Melo Cruz",
+        "Daniel Cubero",
+        "Damila Cristina Trufelli",
+        "Suelen Patrícia Dos Santos Martins",
+        "Patrícia Xavier Santi",
+        "Eliana Araújo da Silva",
+        "Auro Del Giglio"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Cat's claw (Uncaria tomentosa) is a native Amazon plant that exhibits anti-inflammatory and antitumor properties. We wanted to assess its activity for symptom management of terminal cancer patients. METHODS: This prospective phase II study assessed the effects of a 100-mg dose of a dry extract of U. tomentosa three times per day in patients with advanced solid tumors who had no further therapeutic options and a life expectancy of at least 2 months. The European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ C30) and Functional Assessment of Chronic Illness Therapy - Fatigue questionnaires were used to assess the participants' quality of life, the Hospital Anxiety and Depression Scale questionnaire was used to assess anxiety and depression, and the Pittsburgh Sleep Quality Index was used to assess sleep quality. In addition, several biochemical and inflammatory parameters were analyzed. RESULTS: Fifty-one volunteers were recruited. Their median age was 64 (range, 33-85) years, and 47% of patients were female. More than 65% of patients had scores on the Karnofsky Performance Scale of 80% or less. Treatment improved the patients' overall quality of life (p=0.0411) and social functioning (p=0.0341), as assessed by the EORTC QLQ C-30, and reduced fatigue (p=0.0496) according to the Chalder Fatigue Questionnaire. None of the biochemical or inflammatory parameters assessed (interleukin-1 and -6, C-reactive protein, tumor necrosis factor-α, erythrocyte sedimentation rate, and α-1-acid glycoprotein) changed significantly. No tumor response was detected according to the Response Evaluation Criteria In Solid Tumors; however, the disease stabilized for more than 8 months in four participants. The medication was well tolerated by most patients. CONCLUSION: Use of cat's claw might be beneficial in patients with advanced cancer by improving their quality of life and reducing fatigue. The mechanism of action does not seem to be related to the anti-inflammatory properties of this plant.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Agents",
+        "Cat's Claw",
+        "Disease-Free Survival",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Neoplasms",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "24447975",
+      "title": "Antimutagenic and antiherpetic activities of different preparations from Uncaria tomentosa (cat's claw).",
+      "authors": [
+        "Thiago Caon",
+        "Samuel Kaiser",
+        "Clarissa Feltrin",
+        "Annelise de Carvalho",
+        "Thaís Cristine Marques Sincero",
+        "George González Ortega",
+        "Cláudia Maria Oliveira Simões"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2014-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Uncaria tomentosa have been used to treat viral diseases such as herpes due to multiple pharmacological effects, but its therapeutic efficacy against this virus have not been reported yet. Thus, in vitro antiherpetic activity of hydroethanolic extract from barks, purified fractions of quinovic acid glycosides and oxindole alkaloids was evaluated by plaque reduction assay, including mechanistic studies (virucidal, attachment and penetration action). Once exposure to physical agents might lead to reactivation of the herpetic infection, antimutagenic effect (pre-, simultaneous and post-treatment protocols) was also evaluated by Comet assay. The antiherpetic activity from the samples under investigation seemed to be associated with the presence of polyphenols or their synergistic effect with oxindole alkaloids or quinovic acid glycosides, once both purified fractions did not present activity when evaluated alone. Inhibition of viral attachment in the host cells was the main mechanism of antiviral activity. Although both purified fractions displayed the lowest antimutagenic activity in pre and simultaneous treatment, they provided a similar effect to that of cat's claw hydroethanolic extract in post-treatment. Given that purified fractions may result in a reduced antiherpetic activity, the use of cat's claw hydroethanolic extract from barks should be prioritized in order to obtain a synergistic effect.",
+      "mesh_terms": [
+        "Animals",
+        "Antimutagenic Agents",
+        "Antiviral Agents",
+        "Cat's Claw",
+        "Chlorocebus aethiops",
+        "Herpesviridae",
+        "Plant Extracts",
+        "Vero Cells",
+        "Viral Plaque Assay"
+      ]
+    },
+    {
+      "pmid": "22030809",
+      "title": "Contraceptive effect of Uncaria tomentosa (cat's claw) in rats with experimental endometriosis.",
+      "authors": [
+        "João Nogueira Neto",
+        "Frederico Lucas Lima Paiva Cavalcante",
+        "Rafael Antonio Freire Carvalho",
+        "Taciana Gabrielle Pinheiro de Moura Rodrigues",
+        "Mariana Santana Xavier",
+        "Pablo Gustavo Ribeiro Furtado",
+        "Eduardo Schor"
+      ],
+      "journal": "Acta cirurgica brasileira",
+      "publication_date": "2011",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Evaluate the histological changes in parenchyma's epithelial layer of the uterus and ovarian of rats with induced endometriosis, treated with Uncaria tomentosa extract. METHODS: 29 rats with experimental endometriosis, were selected and divided in three groups: The uncaria group received 32 mg/ml of Uncaria tomentosa extract, 1 ml administered daily and the placebo group received 1 ml of saline 0.9% per day, during for 14 days (both groups); the leuprolide group received leuprolide acetate 1mg/kg body weight applied single subcutaneous dose. In the 15th day of treatment the uterine horn and ovaries were removed for histopathological analysis. RESULTS: The uncaria group presented nine samples (90%) with immature ovarian follicles, whereas the placebo group did not present any case and in the leuprolide group there were eight rats (88%) with the same change. The placebo group showed mature corpus luteum in all animals, occurring less frequent in uncaria (10%) and leuprolide (22%) groups. The uterine epithelium showed weak proliferative in nine (90%) samples of the uncaria group, in two (20%) animals in the placebo group and seven (77.8%) rats in the leuprolide group. CONCLUSIONS: The findings suggest that Uncaria tomentosa has contraceptive effect.",
+      "mesh_terms": [
+        "Animals",
+        "Cat's Claw",
+        "Contraceptive Agents",
+        "Disease Models, Animal",
+        "Endometriosis",
+        "Female",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Random Allocation",
+        "Rats",
+        "Rats, Wistar",
+        "Treatment Outcome",
+        "Uterus"
+      ]
+    },
+    {
+      "pmid": "21030132",
+      "title": "Experimental endometriosis reduction in rats treated with Uncaria tomentosa (cat's claw) extract.",
+      "authors": [
+        "João Nogueira Neto",
+        "Tarcísio Mota Coelho",
+        "Guilherme Carneiro Aguiar",
+        "Laura Rosa Carvalho",
+        "Ana Gisélia Portela de Araújo",
+        "Manuel João B C Girão",
+        "Eduardo Schor"
+      ],
+      "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+      "publication_date": "2011-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The aim of this study was to analyze the macroscopic and histological changes that occur in experimental endometriosis after treatment with Uncaria tomentosa. STUDY DESIGN: Experimental endometriosis was induced in twenty-five female Wistar rats. After three weeks, 24 animals developed grade III experimental endometriosis and were divided into two groups. Group \"U\" received U. tomentosa extract orally (32 mg/day), and group \"C\" (control group) received a 0.9% sodium chloride solution orally (1 ml/100g of body weight/day). Both groups were treated with gavage for 14 days. At the surgical intervention and after the animal was euthanized, the implant volume was calculated with the following formula: [4π (length/2)×(width/2)×(height/2)/3]. The autotransplants were removed, dyed with hematoxylin-eosin, and analyzed by light microscopy. The Mann-Whitney test was used for the independent samples, and the Wilcoxon test analyzed the related samples, with a significance level of 5%. RESULTS: The difference between the initial average volumes of the autotransplants was not significant between the groups (p = 0.18). However, the final average volumes were significantly different between the groups (p = 0.001). There was a significant increase (p = 0.01) between the initial and final average volumes in the control group, and treatment with the U. tomentosa caused a marked reduction in the growth over time (p = 0.009). Histologically, in the experimental group (n = 10) six rats had a well-preserved epithelial layer, three had mildly preserved epithelium, and one had poorly preserved epithelium. The epithelial layer occasionally presented sporadic epithelial cells. The control group (n = 12) presented seven cases (58.3%) of well-preserved epithelial cells and five cases (41.7%) of mildly preserved epithelial cells. CONCLUSIONS: Cat's claw extract appears to be a promising alternative for treating endometriosis.",
+      "mesh_terms": [
+        "Animals",
+        "Cat's Claw",
+        "Disease Models, Animal",
+        "Endometriosis",
+        "Female",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "20435132",
+      "title": "Antitumoral and antioxidant effects of a hydroalcoholic extract of cat's claw (Uncaria tomentosa) (Willd. Ex Roem. & Schult) in an in vivo carcinosarcoma model.",
+      "authors": [
+        "Arturo Alejandro Dreifuss",
+        "Amanda Leite Bastos-Pereira",
+        "Thiago Vinicius Avila",
+        "Bruna da Silva Soley",
+        "Armando J Rivero",
+        "José Luis Aguilar",
+        "Alexandra Acco"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2010-Jul-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM OF THE STUDY: The present work intended to study the antitumoral and antioxidant effects of Uncaria tomentosa (UT) hydroalcoholic extract in the Walker-256 cancer model. METHODS AND MATERIALS: Walker-256 cells were subcutaneously inoculated in the pelvic limb of male Wistar rats. Daily gavage with UT extract (10, 50 or 100 mg kg(-1), Groups UT) or saline solution (Control, Group C) was subsequently initiated, until 14 days afterwards. For some parameters, a group of healthy rats (Baseline, Group B) was added. At the end of treatment the following parameters were evaluated: (a) tumor volume and mass; (b) plasmatic concentration of urea, alanine aminotransferase (ALT), aspartate aminotransferase (AST), gamma-glutamyltransferase (GGT) and lactate dehydrogenase (LDH); (c) hepatic and tumoral activity of catalase (CAT) and superoxide dismutase (SOD), as well as the rate of lipid peroxidation (LPO) and gluthatione (GSH); and (d) hepatic glutathione-S-transferase (GST) activity. The reactivity of UT extract with the stable free radical 2,2-diphenyl-1-picrylhydrazyl (DPPH) was assessed in parallel. RESULTS: UT hydroalcoholic extract successfully reduced the tumor growth. In addition, treatment with UT reduced the activity of AST, which had been increased as a result of tumor inoculation, thus attempting to return it to normal levels. UT did not reverse the increase of LDH and GGT plasma levels, although all doses were remarkably effective in reducing urea plasma levels. An important in vitro free radical-scavenging activity was detected at various concentrations of UT extract (1-300 microg mL(-1)). Treatment also resulted in increased CAT activity in liver, while decreasing it in tumor tissue. SOD activity was reduced in liver as well as in tumor, compared to Group C. No statistical significance concerning ALT, GST, LPO or GSH were observed. CONCLUSIONS: This data represent an in vivo demonstration of both antitumoral and antioxidant effects of UT hydroalcoholic extract. The antineoplastic activity may result, partially at least, from the ability of UT to regulate redox and metabolism homeostasis.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Antioxidants",
+        "Carcinoma 256, Walker",
+        "Cat's Claw",
+        "Male",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "18836348",
+      "title": "Reversible worsening of Parkinson disease motor symptoms after oral intake of Uncaria tomentosa (cat's claw).",
+      "authors": [
+        "Carlos Cosentino",
+        "Luis Torres"
+      ],
+      "journal": "Clinical neuropharmacology",
+      "publication_date": "2008",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Uncaria tomentosa (UT), also known as cat's claw, isa Peruvian Rubiaceae species widely used in traditional medicine for the treatment of a wide range of health problems. There is no report about the use, safety, and efficacy of UT in neurological disorders. We describe reversible worsening of motor signs in a patient with Parkinson disease after oral intake of UT, and some possible explanations are discussed.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Beverages",
+        "Cat's Claw",
+        "Humans",
+        "Male",
+        "Motor Skills Disorders",
+        "Parkinson Disease",
+        "Phytotherapy",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "17210508",
+      "title": "Cat's claw: an Amazonian vine decreases inflammation in osteoarthritis.",
+      "authors": [
+        "Sonya R Hardin"
+      ],
+      "journal": "Complementary therapies in clinical practice",
+      "publication_date": "2007-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Cat's claw (Uncaria tomentosa and Uncaria guianesis) is a medicinal plant from the Amazon commonly used to treat disorders such as arthritis, gastritis and osteoarthritis. The mechanism of cat's claw appears to be as an inhibitor of TNFalpha and antioxidant. Understanding the processes in osteoarthritis may facilitate and clarify the potential role of cat's claw as a complementary therapy to assist in the reduction of pro-inflammatory mediators and effectors. The clinical relevance of this therapy as a viable modality of intervention will be discussed.",
+      "mesh_terms": [
+        "Cat's Claw",
+        "Free Radical Scavengers",
+        "Humans",
+        "Inflammation",
+        "NF-kappa B",
+        "Osteoarthritis",
+        "Phytotherapy",
+        "Plant Preparations"
+      ]
+    },
+    {
+      "pmid": "15619581",
+      "title": "An active ingredient of Cat's Claw water extracts identification and efficacy of quinic acid.",
+      "authors": [
+        "Yezhou Sheng",
+        "Christina Akesson",
+        "Kristin Holmgren",
+        "Carl Bryngelsson",
+        "Vincent Giamapa",
+        "Ronald W Pero"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2005-Jan-15",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Historic medicinal practice has defined Cat's Claw, also known as Una de Gato or Uncaria tomentosa, as an effective treatment for several health disorders including chronic inflammation, gastrointestinal dysfunction such as ulcers, tumors and infections. The efficacy of Cat's Claw was originally believed, as early as the 1960s, to be due to the presence of oxindole alkaloids. However, more recently water-soluble Cat's Claw extracts were shown not to contain significant amounts of alkaloids (<0.05%), and yet still were shown to be very efficacious. Here we characterize the active ingredients of a water-soluble Cat's Claw extract called C-Med-100 as inhibiting cell growth without cell death thus providing enhanced opportunities for DNA repair, and the consequences thereof, such as immune stimulation, anti-inflammation and cancer prevention. The active ingredients were chemically defined as quinic acid esters and could also be shown to be bioactive in vivo as quinic acid.",
+      "mesh_terms": [
+        "Animals",
+        "Antibiotics, Antineoplastic",
+        "Body Weight",
+        "Cat's Claw",
+        "Cell Proliferation",
+        "Doxorubicin",
+        "Female",
+        "HL-60 Cells",
+        "Humans",
+        "Hydrolysis",
+        "In Vitro Techniques",
+        "Leukocytes, Mononuclear",
+        "Leukopenia",
+        "Organ Size",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Quinic Acid",
+        "Rats",
+        "Rats, Wistar",
+        "Uncaria",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "11603848",
+      "title": "Efficacy and safety of freeze-dried cat's claw in osteoarthritis of the knee: mechanisms of action of the species Uncaria guianensis.",
+      "authors": [
+        "J Piscoya",
+        "Z Rodriguez",
+        "S A Bustamante",
+        "N N Okuhama",
+        "M J Miller",
+        "M Sandoval"
+      ],
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "publication_date": "2001-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "AIM: The purpose of this investigation was to evaluate the ability of cat's claw, an Amazonian medicinal plant, to treat osteoarthritis of the knee, collect safety and tolerance information and compare the antioxidant, and anti-inflammatory actions of Uncaria guianensis and Uncaria tomentosa in vitro. MATERIALS AND METHODS: Forty-five patients with osteoarthritis of the knee were recruited, 30 were treated with freeze-dried U guianensis, and 15 with placebo. Hematological parameters were assessed on entry and exit of the four-week trial. Pain, medical and subject assessment scores and adverse effects were collected at weeks 1, 2 and 4. The antioxidant and anti-inflammatory activity of the cat's claw species was determined by the alpha,alpha-diphenyl-beta-picrylhydrazyl (DPPH) free radical scavenging method. Inhibition of TNFalpha and prostaglandin E2 (PGE2) production was determined in RAW 264.7 cells by ELISA. RESULTS: Cat's claw had no deleterious effects on blood or liver function or other significant side-effects compared to placebo. Pain associated with activity, medical and patient assessment scores were all significantly reduced, with benefits occurring within the first week of therapy. Knee pain at rest or at night, and knee circumference were not significantly reduced by cat's claw during this brief trial. In vitro tests indicated that U guianensis and U. tomentosa were equivalent at quenching DPPH radicals (EC50, 13.6-21.7 microg/ml) as well as inhibiting TNFalpha production. However, the latter action was registered at much lower concentrations (EC50, 10.2-10.9 ng/ml). Cat's claw (10 microg/ml) had no effect on basal PGE2 production, but reduced LPS-induced PGE2 release (P < 0.05), but at higher concentrations than that required for TNFalpha inhibition. CONCLUSION: Cat's claw is an effective treatment for osteoarthritis. The species, U guianensis and U tomentosa are equiactive. They are effective antioxidants, but their anti-inflammatory properties may result from their ability to inhibit TNFalpha and to a lesser extent PGE2 production.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Cat's Claw",
+        "Dinoprostone",
+        "Double-Blind Method",
+        "Free Radical Scavengers",
+        "Freeze Drying",
+        "Humans",
+        "Knee Joint",
+        "Male",
+        "Middle Aged",
+        "Osteoarthritis",
+        "Pain Measurement",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Prospective Studies",
+        "Prostaglandin Antagonists",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "9882039",
+      "title": "Antiinflammatory actions of cat's claw: the role of NF-kappaB.",
+      "authors": [
+        "M Sandoval-Chacón",
+        "J H Thompson",
+        "X J Zhang",
+        "X Liu",
+        "E E Mannick",
+        "H Sadowska-Krowicka",
+        "R M Charbonnet",
+        "D A Clark",
+        "M J Miller"
+      ],
+      "journal": "Alimentary pharmacology & therapeutics",
+      "publication_date": "1998-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "BACKGROUND: Uncaria tomentosa is a vine commonly known as cat's claw or 'uña de gato' (UG) and is used in traditional Peruvian medicine for the treatment of a wide range of health problems, particularly digestive complaints and arthritis. PURPOSE: The aim of this study was to determine the proposed anti-inflammatory properties of cat's claw. Specifically: (i) does a bark extract of cat's claw protect against oxidant-induced stress in vitro, and (ii) to determine if UG modifies transcriptionally regulated events. METHODS: Cell death was determined in two cell lines, RAW 264.7 and HT29 in response to peroxynitrite (PN, 300 microM). Gene expression of inducible nitric oxide synthase (iNOS) in HT29 cells, direct effects on nitric oxide and peroxynitrite levels, and activation of NF-kappaB in RAW 264.7 cells as influenced by UG were assessed. Chronic intestinal inflammation was induced in rats with indomethacin (7.5 mg/kg), with UG administered orally in the drinking water (5 mg/mL). RESULTS: The administration of UG (100 microg/mL) attenuated (P < 0.05) peroxynitrite-induced apoptosis in HT29 (epithelial) and RAW 264.7 cells (macrophage). Cat's claw inhibited lipopolysaccharide-induced iNOS gene expression, nitrite formation, cell death and inhibited the activation of NF-kappaB. Cat's claw markedly attenuated indomethacin-enteritis as evident by reduced myeloperoxidase activity, morphometric damage and liver metallothionein expression. CONCLUSIONS: Cat's claw protects cells against oxidative stress and negated the activation of NF-kappaB. These studies provide a mechanistic evidence for the widely held belief that cat's claw is an effective anti-inflammatory agent.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Apoptosis",
+        "Cell Survival",
+        "Cells, Cultured",
+        "Electrophoresis",
+        "Enzyme Activation",
+        "Gene Expression Regulation",
+        "HT29 Cells",
+        "Humans",
+        "Indomethacin",
+        "Inflammation",
+        "Male",
+        "Metallothionein",
+        "NF-kappa B",
+        "Nitrates",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase",
+        "Nitric Oxide Synthase Type II",
+        "Oxidative Stress",
+        "Peroxidase",
+        "Plant Extracts",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    }
+  ]
+}

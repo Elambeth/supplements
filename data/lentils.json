@@ -1,0 +1,779 @@
+{
+  "supplement": "Lentils",
+  "query": "Lentils[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:56:54",
+  "research_count": 26,
+  "count": 26,
+  "articles": [
+    {
+      "pmid": "39203806",
+      "title": "Postprandial Blood Glucose and Insulin Response in Healthy Adults When Lentils Replace High-Glycemic Index Food Ingredients in Muffins, Chilies and Soups.",
+      "authors": [
+        "Dita Chamoun",
+        "Alison M Duncan",
+        "Patricia K Lukus",
+        "Michael D Loreto",
+        "Frances Pals-Horne",
+        "Aileen Hawke",
+        "D Dan Ramdath"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-Aug-13",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: This study aimed to assess postprandial blood glucose response (PBGR), relative glycemic response (RGR) and insulin response when 25 g available carbohydrates (AC) is replaced with cooked lentils in the formulation of muffins, chilies and soups. METHODS: In randomized, crossover studies, healthy adults consumed foods containing 25 g AC from green lentils, red lentils or a control (wheat muffin, n = 24; rice chili, n = 24; potato soup, n = 20). Blood collected at fasting and at 15, 30, 45, 60, 90 and 120 min was analyzed to derive the incremental area under the response curve (iAUC) for glucose, insulin, RGR and maximum concentration (CMAX). Treatment effects were assessed with repeated measures ANOVA. RESULTS: A replacement of 25 g AC with green lentils significantly decreased glucose iAUC compared to chili and soup (p < 0.0001), but not muffin (p = 0.07) controls, while also eliciting a significantly lower insulin iAUC for all three foods (muffin p = 0.03; chili p = 0.0002; soup p < 0.0001). Red lentil foods significantly decreased glucose iAUC (muffin p = 0.02; chili p < 0.0001; soup p < 0.0001) compared to controls, with a significantly lower insulin iAUC for chili and soup (p < 0.0001) but not muffins (p = 0.09). The RGR for muffins, chilies and soups was 88, 58 and 61%, respectively, for green lentils, and 84, 48 and 49%, respectively, for red lentils. CONCLUSIONS: PBGR, insulin and RGR are decreased when lentils are incorporated into food products, providing credible evidence to promote carbohydrate replacement with lentil-based foods.",
+      "mesh_terms": [
+        "Humans",
+        "Blood Glucose",
+        "Lens Plant",
+        "Postprandial Period",
+        "Adult",
+        "Insulin",
+        "Male",
+        "Glycemic Index",
+        "Cross-Over Studies",
+        "Female",
+        "Young Adult",
+        "Dietary Carbohydrates",
+        "Food Ingredients",
+        "Middle Aged",
+        "Healthy Volunteers",
+        "Oryza"
+      ]
+    },
+    {
+      "pmid": "38578119",
+      "title": "The effect of germinated black lentils on cookie quality by applying ultraviolet radiation and ultrasound technology.",
+      "authors": [
+        "Hacer Levent",
+        "Kübra Aktaş"
+      ],
+      "journal": "Journal of food science",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Black lentils contain protein, carbohydrates, dietary fiber, minerals, and vitamins, as well as phytochemicals and various bioactive compounds. Ultraviolet (UV) radiation and ultrasound (US) methods are innovative technologies that can be used to increase the efficiency of the germination process in grains and legumes. To improve the nutritional value and bioactive compounds of the cookies, black lentils germinated by applying UV radiation and US technology were used in the cookie formulation. Before the germination process, UV, US, and their combination (UV+US) were applied, and pretreated and unpretreated germinated black lentil flours were used at a level of 20% in the cookie formulation. The results revealed that pretreatment application increased the total phenolic content and antioxidant activity more than the lentil sample germinated without any treatment. In addition, the pretreatments applied further reduced the amount of phytic acid in black lentils and the lowest phytic acid content was obtained with the UV-US combination. Compared to cookies containing unpretreated germinated black lentil flour, higher L* values and lower a* values were obtained in the cookie samples containing pretreated germinated black lentil flour. Cookies containing all pretreated germinated lentils generally exhibited higher Ca and K content. This study demonstrated that UV radiation and US improved the nutritional value and bioactive components of the germinated black lentil flour and the cookies in which it was used, compared to the black lentils germinated without any treatment. PRACTICAL APPLICATION: Pretreatment of black lentils with UV/US application before germination resulted in a greater increase in total phenolic content and antioxidant activity compared to the control sample. The applied pretreatments caused a further decrease in the amount of phytic acid in black lentil samples. Black lentils germinated with the UV+US combination revealed higher Ca, Fe, K, and Mg content compared to the sample germinated without any treatment.",
+      "mesh_terms": [
+        "Lens Plant",
+        "Germination",
+        "Ultraviolet Rays",
+        "Nutritive Value",
+        "Antioxidants",
+        "Phytic Acid",
+        "Seeds",
+        "Phenols",
+        "Food Handling",
+        "Flour",
+        "Ultrasonics"
+      ]
+    },
+    {
+      "pmid": "38458577",
+      "title": "Consumption of Iron-Fortified Lentils Is Protective against Declining Iron Status among Adolescent Girls in Bangladesh: Evidence from a Community-Based Double-Blind, Cluster-Randomized Controlled Trial.",
+      "authors": [
+        "Fakir Md Yunus",
+        "Chowdhury Jalal",
+        "Anupom Das",
+        "Kaosar Afsana",
+        "Rajib Podder",
+        "Albert Vandenberg",
+        "Diane M DellaValle"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: In many low-income countries, iron deficiency (ID) and its anemia (IDA) pose significant health challenges, particularly among females and girls. Finding sustainable and effective solutions to address this issue is critical. OBJECTIVES: This study aimed to evaluate the efficacy of incorporating iron-fortified lentils (IFLs) into the diets of rural Bangladeshi adolescent girls on their body iron (Fe) status. METHODS: A community-based, double-blind, cluster-randomized controlled trial involved n = 1195 girls aged 10-17 y. A total of 48 adolescent clubs (n = ∼27 girls each) were randomized into 3 groups: 1) 200 g cooked IFLs, 2) 200 g cooked noniron-fortified lentils (NIFLs), and 3) a control group with no lentils (usual dietary intake). The intervention, administered 5 days a week for 85 feeding days, provided ∼8.625 mg Fe from each serving of IFLs and 2.625 mg from NIFLs. Blood samples collected at baseline, midpoint (42 feeding days), and endpoint (85 feeding days) assessed key Fe and inflammation biomarkers. Statistical analyses were filtered for inflammation. RESULTS: Although all groups experienced a decline in Fe status over time, the IFL group exhibited a significantly reduced decline in serum ferritin (sFer -7.2 μg/L), and total body iron (TBI -0.48 mg/kg) level compared with NIFL (sFer -14.3 μg/L and TBI -1.36 mg/kg) and usual intake group (sFer -12.8 μg/L and TBI -1.33 mg/kg). Additionally, those in the IFL group had a 57% reduced risk of developing clinical ID (sFer <15 μg/L) compared with the usual intake group. CONCLUSIONS: Our findings suggest that incorporating IFLs into the diet can help mitigate a decline in sFer, indicating a positive impact on the body Fe status of adolescent girls. This research underscores the potential role of fortified foods in addressing ID and IDA in vulnerable populations, emphasizing the significance of food-based interventions in public health. TRIAL REGISTRATION NUMBER: This trial was registered at the clinicaltrials.gov on May 24, 2018 (https://clinicaltrials.gov/study/NCT03516734?locStr=Bangladesh&country=Bangladesh&distance=50&cond=Anemia&intr=Iron%20fortified%20lentils&rank=1) as NCT03516734.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Adolescent",
+        "Bangladesh",
+        "Double-Blind Method",
+        "Food, Fortified",
+        "Child",
+        "Anemia, Iron-Deficiency",
+        "Lens Plant",
+        "Iron",
+        "Nutritional Status",
+        "Ferritins",
+        "Diet",
+        "Iron, Dietary"
+      ]
+    },
+    {
+      "pmid": "37241860",
+      "title": "Effect of Instant Controlled Pressure Drop (DIC) on Polyphenols, Flavonoids and Antioxidant Capacity of Green Lentils (Lens culinaris).",
+      "authors": [
+        "Mario Adrian Tienda-Vazquez",
+        "Rocío Daniela Soto-Castro",
+        "Oscar Carrasco-Morales",
+        "Carmen Téllez-Pérez",
+        "Roberto Parra-Saldívar",
+        "Maritza Alonzo-Macías",
+        "Anaberta Cardador-Martínez"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2023-May-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Instant controlled pressure drop (DIC) is one of the emerging technologies in food processing; it can be used for drying, freezing and the extraction of bioactive molecules without damaging their properties. Legumes, such as lentils, are one of the most consumed foods in the world; however, they are mainly cooked by boiling, which causes the loss of antioxidant compounds. This work evaluated the effect of 13 different DIC treatments (with pressure ranges of 0.1-0.7 MPa and times of 30-240 s) on the content of polyphenols (Folin-Ciocalteu and High Performance Liquid Chromatography HPLC) and flavonoids (2-aminoethyl diphenylborinate) as well as the antioxidant activity (DPPH and TEAC) of green lentils. The DIC 11 treatment (0.1 MPa, 135 s) obtained the best release of polyphenols, which in turn are related to antioxidant capacity. The abiotic stress generated by DIC could lead to the breakdown of the cell wall structure, which favors the availability of antioxidant compounds. Finally, the most efficient conditions for DIC to promote the release of phenolic compounds and maintain antioxidant capacity were found under low pressures (<0.1 MPa) and short times (<160 s).",
+      "mesh_terms": [
+        "Antioxidants",
+        "Polyphenols",
+        "Flavonoids",
+        "Lens Plant",
+        "Phenols",
+        "Chromatography, High Pressure Liquid"
+      ]
+    },
+    {
+      "pmid": "37107516",
+      "title": "Generating Multi-Functional Pulse Ingredients for Processed Meat Products-Scientific Evaluation of Infrared-Treated Lentils.",
+      "authors": [
+        "Darshika Pathiraje",
+        "Janelle Carlin",
+        "Tanya Der",
+        "Janitha P D Wanasundara",
+        "Phyllis J Shand"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2023-Apr-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "In the last decade, various foods have been reformulated with plant protein ingredients to enhance plant-based food intake in our diet. Pulses are in the forefront as protein-rich sources to aid in providing sufficient daily protein intake and may be used as binders to reduce meat protein in product formulations. Pulses are seen as clean-label ingredients that bring benefits to meat products beyond protein content. Pulse flours may need pre-treatments because their endogenous bioactive components may not always be beneficial to meat products. Infrared (IR) treatment is a highly energy-efficient and environmentally friendly method of heating foods, creating diversity in plant-based ingredient functionality. This review discusses using IR-heating technology to modify the properties of pulses and their usefulness in comminuted meat products, with a major emphasis on lentils. IR heating enhances liquid-binding and emulsifying properties, inactivates oxidative enzymes, reduces antinutritional factors, and protects antioxidative properties of pulses. Meat products benefit from IR-treated pulse ingredients, showing improvements in product yields, oxidative stability, and nutrient availability while maintaining desired texture. IR-treated lentil-based ingredients, in particular, also enhance the raw color stability of beef burgers. Therefore, developing pulse-enriched meat products will be a viable approach toward the sustainable production of meat products."
+    },
+    {
+      "pmid": "36553780",
+      "title": "Pasta from Red Lentils (Lens culinaris): The Effect of Pasta-Making Process on Starch and Protein Features, and Cooking Behavior.",
+      "authors": [
+        "Andrea Bresciani",
+        "Daniela Erba",
+        "Maria Cristina Casiraghi",
+        "Stefania Iametti",
+        "Alessandra Marti",
+        "Alberto Barbiroli"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2022-Dec-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effect of pasta-making processes on starch and protein features, as well as cooking behavior, and nutritional properties (i.e., resistant starch and starch in vitro digestibility) were assessed. Pasta from raw red lentils (R) was prepared by conventional extrusion (C_R) and extrusion-cooking (EC_R), whereas heat-treated red lentils (HT) were processed into pasta by conventional extrusion (C_HT). A \"high protein\" and \"high fiber\" pasta was prepared. Using HT was effective in increasing the luminosity (that was about 88, 91, and 96 for EC_R, C_R, and C_HT, respectively), and decreasing the presence of defects on the pasta surface (heterogeneity was 5%, 36%, and 45% for C_HT, EC_R, and C_R, respectively). Heat treatment on grains or flour significantly increased starch susceptibility to α-amylase (6.6, 7.4, and 8.6% for C_R, C_HT, and EC_R, respectively) and decreased the final viscosity (from 335 BU in C_R to 287 and 291 BU in EC_R and C_HT), resulting in a significant increase in starch digestibility (slowly digestible starch was about 41, 27, and 26% in C_R, C_HT, and EC_R, respectively). As regards proteins, the main effect on their structure was observed in C_HT, where the cooking behavior was much improved and cooking losses were lowest (5.7%). On the other hand, protein and starch organization in EC_R might have accounted for pasta resistance in overcooking."
+    },
+    {
+      "pmid": "35921686",
+      "title": "Modeling the Thermal Denaturation of the Protein-Water System in Pulses (Lentils, Beans, and Chickpeas).",
+      "authors": [
+        "Charlotte Lefèvre",
+        "Philippe Bohuon",
+        "Valérie Lullien-Pellerin",
+        "Christian Mestres"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2022-Aug-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thermal treatment applied during the cooking of pulses leads to denaturation and even aggregation of the proteins, which may impact protein digestibility. Thermal transitions of lentil, chickpea, and bean proteins were studied using differential scanning calorimetry (DSC). Protein-enriched samples were obtained by dry air classification of dehulled seeds and were heated to 160 °C, with water contents ranging from 0.2 to 4 kg/kg on a dry basis. The DSC peaks of the resulting endotherms were successfully modeled as overlapping Gaussian functions. The denaturation temperatures were modeled as a function of the temperature according to the Flory-Huggins theory. The modeling allows for the calculation of the degree of protein transition for any temperature and moisture condition. The denaturation diagrams reflect the different protein compositions of lentil, chickpea, and bean (particularly the 11S/7S globulin ratio). Chickpea proteins were more thermally stable than those from lentil and bean. Proteins underwent an irreversible transition, suggesting that unfolding and aggregation were coupled.",
+      "mesh_terms": [
+        "Calorimetry, Differential Scanning",
+        "Cicer",
+        "Fabaceae",
+        "Lens Plant",
+        "Protein Denaturation",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "35368749",
+      "title": "A Novel Formula Comprising Wolfberry, Figs, White Lentils, Raspberries, and Maca (WFWRM) Induced Antifatigue Effects in a Forced Exercise Mouse Model.",
+      "authors": [
+        "Caixia Yang",
+        "Jingyan Yang",
+        "Li Tan",
+        "Pan Tang",
+        "Ting Pen",
+        "Tinghui Gao",
+        "Sijing Liu",
+        "Jinlin Guo"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Long-term body fatigue poses a threat to human health. To explore novel sources of antifatigue medicine and food, we developed a novel formula composed of wolfberry, figs, white lentils, raspberries, and maca (WFWRM) according to the theory of traditional Chinese medicine. In this study, we explored whether the administration of the WFWRM relieves fatigue. Thirty male Kunming mice were divided into three groups, which received either intragastric administration of saline, vitamin C (100 mg/kg), or WFWRM (1.00 g/kg) every day. After 30 days of treatment, all mice exhaustively performed weight-bearing swimming. Another ten mice that did not perform swimming were treated with saline for 30 days and used as sedentary control. The antifatigue effect and biochemical oxidation phenomena were assessed in the exercise-exhausted model and sedentary controls. The histopathological changes in the liver and kidney tissues of mice were observed by performing hematoxylin-eosin (HE) staining. After 30 days of oral administration, the liver and kidney tissues of mice were healthy and show no pathological changes. Compared to the fatigue model group, WFWRM significantly increased the rota-rod time of the mice. Also, the concentrations of lactic acid (LA), blood urea nitrogen (BUN), creatine kinase (CK), and lactate dehydrogenase (LDH) in the WFWRM group significantly reduced. On the contrary, the levels of hepatic glycogen (LG), muscle glycogen (MG), and serum glucose (GLU) increased in the WFWRM group. Besides, WFWRM markedly reduced the levels of malondialdehyde (MDA) but increased the levels of glutathione peroxidase (GSH-PX) and superoxide dismutase (SOD). Pearson correlation analysis indicated that the concentrations of the sources of energy (LG, MG, and GLU) significantly correlated with those of metabolites (BLA, BUN, CK, and LDH) and antioxidant levels (SOD, GSH-PX, and MDA). Overall, our results suggested that the supplementation of WFWRM could improve exercise capacity and relieve fatigue probably by normalizing energy metabolism and attenuating oxidation."
+    },
+    {
+      "pmid": "35209055",
+      "title": "Impact of Thermal Treatment on the Starch-Protein Interplay in Red Lentils: Connecting Molecular Features and Rheological Properties.",
+      "authors": [
+        "Andrea Bresciani",
+        "Davide Emide",
+        "Francesca Saitta",
+        "Dimitrios Fessas",
+        "Stefania Iametti",
+        "Alberto Barbiroli",
+        "Alessandra Marti"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2022-Feb-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thermal treatments are widely applied to gluten-free (GF) flours to change their functionality. Despite the interest in using pulses in GF formulations, the effects of thermal treatment at the molecular level and their relationship with dough rheology have not been fully addressed. Raw and heat-treated red lentils were tested for starch and protein features. Interactions with water were assessed by thermogravimetric analysis and water-holding capacity. Finally, mixing properties were investigated. The thermal treatment of red lentils induced a structural modification of both starch and proteins. In the case of starch, such changes consequently affected the kinetics of gelatinization. Flour treatment increased the temperature required for gelatinization, and led to an increased viscosity during both gelatinization and retrogradation. Regarding proteins, heat treatment promoted the formation of aggregates, mainly stabilized by hydrophobic interactions between (partially) unfolded proteins. Overall, the structural modifications of starch and proteins enhanced the hydration properties of the dough, resulting in increased consistency during mixing.",
+      "mesh_terms": [
+        "Cooking",
+        "Dietary Proteins",
+        "Flour",
+        "Hot Temperature",
+        "Hydrolysis",
+        "Hydrophobic and Hydrophilic Interactions",
+        "Lens Plant",
+        "Rheology",
+        "Spectrum Analysis",
+        "Starch",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "32420683",
+      "title": "Discovery of Intake Biomarkers of Lentils, Chickpeas, and White Beans by Untargeted LC-MS Metabolomics in Serum and Urine.",
+      "authors": [
+        "Mar Garcia-Aloy",
+        "Marynka Ulaszewska",
+        "Pietro Franceschi",
+        "Sheila Estruel-Amades",
+        "Christoph H Weinert",
+        "Alba Tor-Roca",
+        "Mireia Urpi-Sarda",
+        "Fulvio Mattivi",
+        "Cristina Andres-Lacueva"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "SCOPE: To identify reliable biomarkers of food intake (BFIs) of pulses. METHODS AND RESULTS: A randomized crossover postprandial intervention study is conducted on 11 volunteers who consumed lentils, chickpeas, and white beans. Urine and serum samples are collected at distinct postprandial time points up to 48 h, and analyzed by LC-HR-MS untargeted metabolomics. Hypaphorine, trigonelline, several small peptides, and polyphenol-derived metabolites prove to be the most discriminating urinary metabolites. Two arginine-related compounds, dopamine sulfate and epicatechin metabolites, with their microbial derivatives, are identified only after intake of lentils, whereas protocatechuic acid is identified only after consumption of chickpeas. Urinary hydroxyjasmonic and hydroxydihydrojasmonic acids, as well as serum pipecolic acid and methylcysteine, are found after white bean consumption. Most of the metabolites identified in the postprandial study are replicated as discriminants in 24 h urine samples, demonstrating that in this case the use of a single, noninvasive sample is suitable for revealing the consumption of pulses. CONCLUSIONS: The results of the present untargeted metabolomics work reveals a broad list of metabolites that are candidates for use as biomarkers of pulse intake. Further studies are needed to validate these BFIs and to find the best combinations of them to boost their specificity.",
+      "mesh_terms": [
+        "Adult",
+        "Alkaloids",
+        "Biomarkers",
+        "Chromatography, Liquid",
+        "Cicer",
+        "Eating",
+        "Female",
+        "Humans",
+        "Indoles",
+        "Lens Plant",
+        "Male",
+        "Mass Spectrometry",
+        "Phaseolus",
+        "Pipecolic Acids",
+        "Postprandial Period",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31299617",
+      "title": "Food as medicine: Selenium enriched lentils offer relief against chronic arsenic poisoning in Bangladesh.",
+      "authors": [
+        "Judit E Smits",
+        "Regina M Krohn",
+        "Evana Akhtar",
+        "Samar Kumar Hore",
+        "Md Yunus",
+        "Albert Vandenberg",
+        "Rubhana Raqib"
+      ],
+      "journal": "Environmental research",
+      "publication_date": "2019-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Chronic arsenic (As) exposure is a major environmental threat to human health affecting >100 million people worldwide. Low blood selenium (Se) increases the risk of As-induced health problems. Our aim was to reduce As toxicity through a naturally Se-rich lentil diet. In a randomized, double-blind, placebo-control trial in Bangladesh, 405 participants chronically exposed to As were enrolled. The intervention arm (Se-group) consumed Se-rich lentils (55 μg Se/day); the control arm received lentils of similar nutrient profile except with low Se (1.5 μg Se/day). Anthropometric measurements, blood, urine and stool samples, were taken at baseline, 3 and 6 months; hair at baseline and 6 months after intervention. Morbidity data were collected fortnightly. Measurements included total As in all biological samples, As metabolites in urine, and total Se in blood and urine. Intervention with Se-rich lentils resulted in higher urinary As excretion (p = 0.001); increased body mass index (p ≤ 0.01), and lower incidence of asthma (p = 0.05) and allergy (p = 0.02) compared to the control group. The Se-group demonstrated increased excretion of urinary As metabolite, dimethylarsinic acid (DMA) at 6 months compared to control group (p = 0.008). Consuming Se-rich lentils can increase As excretion and improve the health indicators in the presence of continued As exposure.",
+      "mesh_terms": [
+        "Arsenic",
+        "Arsenic Poisoning",
+        "Bangladesh",
+        "Diet",
+        "Double-Blind Method",
+        "Humans",
+        "Lens Plant",
+        "Selenium"
+      ]
+    },
+    {
+      "pmid": "31152672",
+      "title": "Food Type and Lentil Variety Affect Satiety Responses but Not Food Intake in Healthy Adults When Lentils Are Substituted for Commonly Consumed Carbohydrates.",
+      "authors": [
+        "Sandra L Clark",
+        "D Dan Ramdath",
+        "Brittany V King",
+        "Katherine E O'Connor",
+        "Michel Aliani",
+        "Aileen Hawke",
+        "Alison M Duncan"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2019-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Lentils have potential to increase satiety and may contribute to a body weight management strategy; however, the effects on satiety of replacing common food ingredients with lentils within food products remain largely unknown. OBJECTIVE: The aim of this study was to determine the effects of replacing wheat and rice with 2 lentil varieties within muffins and chilies on satiety, test-meal food intake, and 24-h energy intake. METHODS: Healthy adults consumed muffins or chilies in which wheat or rice was substituted with green (61.8 g) or red (54 g) lentils in 2 randomized crossover studies (muffin study: n = 24, mean ± SE age: 25.4 ± 0.9 y, BMI (in kg/m2): 23.2 ± 0.5; chili study: n = 24, age: 25.7 ± 1.0 y, BMI: 23.2 ± 0.5), with ≥1-wk washout periods between study visits and studies. Subjective appetite sensations measured over 180 min were summarized with total area under the curve (AUC), food intake was measured at an ad libitum test meal, and 24-h energy intake was measured using weighed food records. Treatment effects were compared within each study using repeated-measures ANCOVA (subjective appetite sensations) and ANOVA (food intake, 24-h energy intake). RESULTS: Green, but not red, lentil chili significantly increased fullness AUC (17.5%, P = 0.02) and decreased desire to eat AUC (20.1%, P = 0.02) and prospective food consumption AUC (16.7%, P = 0.04) compared with rice chili, with no significant differences between chili treatments for test-meal food intake or 24-h energy intake. Muffin treatments did not significantly differ for any outcomes. CONCLUSIONS: Replacing rice with green, but not red lentils within chili increases satiety but does not decrease food intake, whereas replacing wheat with lentils within muffins does not increase satiety or decrease food intake in healthy adults. Further study of the role of lentil replacement in food products in body weight management is warranted. This trial was registered at clinicaltrials.gov as NCT03128684.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Cross-Over Studies",
+        "Dietary Carbohydrates",
+        "Energy Intake",
+        "Female",
+        "Humans",
+        "Lens Plant",
+        "Male",
+        "Satiety Response",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31046819",
+      "title": "Iron-fortified lentils to improve iron (Fe) status among adolescent girls in Bangladesh - study protocol for a double-blind community-based randomized controlled trial.",
+      "authors": [
+        "Fakir Md Yunus",
+        "Chowdhury Jalal",
+        "Kaosar Afsana",
+        "Rajib Podder",
+        "Albert Vandenberg",
+        "Diane M DellaValle"
+      ],
+      "journal": "Trials",
+      "publication_date": "2019-May-02",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Lentils are generally considered to be a nutrient-dense food, and a good source of iron (Fe). This study aims to establish novel evidence of the effectiveness of the consumption of Fe-fortified lentils in improving the body Fe status and thus cognitive performance in non-pregnant adolescent girls in rural Bangladesh, compared to consumption of ordinary lentils. METHODS: We have designed a double-blind (both trial participants and outcome assessors), community-based, cluster-randomized controlled trial among 1260 Bangladeshi adolescent girls between the ages of 10-17 years who are non-smoking, not married, not pregnant, not breastfeeding, and generally healthy at the time of enrollment. The intervention will include three arms who will receive: (1) Fe-fortified lentils; (2) unfortified lentils; or (3) usual intake. Participants will be served a thick preparation of cooked Fe-fortified lentils (37.5 g raw lentils, approximately 200 g cooked lentils) 5 days per week for 85 feeding days (around 4 months) using a locally acceptable recipe. Lentils were fortified with Fe in the laboratory at the Department of Plant Sciences at the University of Saskatchewan in Canada. A subsample of participants (n = 360) will be randomly invited to be included in cognitive testing. DISCUSSION: Data on socio-demographic characteristics, household food security status, adolescent food habits and cognitive testing will be collected at baseline and endline (4 months). Venous blood samples will be collected at baseline, midline (2 months) and endline to measure adolescents' Fe status. Computerized cognitive testing will include five common measures of attentional (three of attention) and mnemonic functioning (two of memory) carried out using DMDX software. The results of this study will be used to garner support for and to substantiate large-scale production and market expansion of Fe-fortified lentils, and will contribute to knowledge about how to enhance Fe status in adolescents worldwide in resource-poor settings, using staple food crops. TRIAL REGISTRATION: ClinicalTrials.gov NCT03516734 . Registered on 24 May 2018.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adolescent Nutritional Physiological Phenomena",
+        "Age Factors",
+        "Anemia, Iron-Deficiency",
+        "Bangladesh",
+        "Child",
+        "Child Nutritional Physiological Phenomena",
+        "Double-Blind Method",
+        "Female",
+        "Food, Fortified",
+        "Humans",
+        "Iron",
+        "Iron Deficiencies",
+        "Lens Plant",
+        "Nutritional Status",
+        "Nutritive Value",
+        "Randomized Controlled Trials as Topic",
+        "Recommended Dietary Allowances",
+        "Seeds",
+        "Sex Factors"
+      ]
+    },
+    {
+      "pmid": "29982566",
+      "title": "Deriving Economic Models for Pea Aphid (Hemiptera: Aphididae) as a Direct-Pest and a Virus-Vector on Commercial Lentils.",
+      "authors": [
+        "Sunil Paudel",
+        "Edward J Bechinski",
+        "Bradley S Stokes",
+        "Hanu R Pappu",
+        "Sanford D Eigenbrode"
+      ],
+      "journal": "Journal of economic entomology",
+      "publication_date": "2018-Sep-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The pea aphid, Acyrthosiphon pisum (Harris) (Hemiptera: Aphididae), presents a dual threat to commercial pulse growers because it can inflict direct injury through feeding and indirect injury as a vector of two important viruses, Pea enation mosaic virus (PEMV) and Bean leafroll virus (BLRV). A decision support system is needed to help producers manage both of these threats in pulses. To address these gaps in lentil, Lens culinaris (Medikus) (Fabales: Fabaceae), we conducted field experiments near Moscow, Idaho in 2011 and 2012 with three objectives: 1) determine economic injury levels (EILs) for pea aphid in lentil based on the direct effects of their feeding on yield, 2) develop economic guidelines for treating aphids carrying PEMV or BLRV based on the impact on yield of virus inoculation at different times after crop emergence, and 3) provide a framework for using both of these decision tools as part of a comprehensive approach to pea aphid management in lentil. EILs were determined based on data from replicated field cage trials over 2 yr. Windows of economic vulnerability to viruses were determined based on artificial inoculation with viruses at different days after crop emergence over 2 yr. Both direct and indirect injury support tools can be parameterized with potential yields, market prices, and the costs of insecticide applications to guide treatment decisions. Together, the two tools comprise a decision support system for managing pea aphid acting as both a direct pest and as a vector of the viruses in lentils in the Palouse region of northern Idaho and southeastern Washington State.",
+      "mesh_terms": [
+        "Animals",
+        "Aphids",
+        "Crops, Agricultural",
+        "Insect Vectors",
+        "Lens Plant",
+        "Models, Economic",
+        "Plant Viruses"
+      ]
+    },
+    {
+      "pmid": "29659967",
+      "title": "Carbohydrate Replacement of Rice or Potato with Lentils Reduces the Postprandial Glycemic Response in Healthy Adults in an Acute, Randomized, Crossover Trial.",
+      "authors": [
+        "Dita Moravek",
+        "Alison M Duncan",
+        "Laura B VanderSluis",
+        "Sarah J Turkstra",
+        "Erica J Rogers",
+        "Jessica M Wilson",
+        "Aileen Hawke",
+        "D Dan Ramdath"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2018-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The postprandial blood glucose response (PBGR) following carbohydrate replacement of high-glycemic index (GI) foods with pulses, in a mixed meal, has not been accurately defined. OBJECTIVE: We aimed to determine the extent to which PBGR and relative glycemic response (RGR) are lowered when half of the available carbohydrate (AC) from rice or potato is replaced with cooked lentils. METHODS: Using a crossover design, 2 groups of 24 healthy adults randomly consumed 50 g AC from control white rice alone [mean ± SD body mass index (BMI, in kg/m2): 24.3 ± 0.5; mean ± SD age: 27.7 ± 1.2 y], instant potato alone (BMI: 24.0 ± 0.5; age: 27.4 ± 1.2 y), or the same starch source in a 50:50 AC combination with each of 3 types of commercially available lentils (large green, small green, split red). Fasting and postprandial blood samples were analyzed for glucose and insulin, and used to derive incremental area under the curve (iAUC), RGR, and maximum concentration (Cmax). Treatment effects were assessed with the use of repeated-measures ANOVA within the rice and potato treatments. RESULTS: In comparison to rice alone, blood glucose iAUC and Cmax (P < 0.001) were lowered after consumption of rice with large green (P = 0.057), small green (P = 0.002), and split red (P = 0.006) lentils. Blood glucose iAUC and Cmax were also significantly lowered (P < 0.0001) after consumption of potato combined with each lentil, compared to potato alone. Plasma insulin iAUC and Cmax were significantly (P < 0.001) decreased when lentils were combined with potato, but not with rice. The RGRs of rice and potato were lowered by ∼20% and 35%, respectively, when half of their AC was replaced with lentils. CONCLUSIONS: Replacing half of the AC from high-GI foods with lentils significantly attenuates PBGR in healthy adults; this can contribute to defining a health claim for pulses and blood glucose lowering. This trial was registered at clinicaltrials.gov as NCT02426606.",
+      "mesh_terms": [
+        "Adult",
+        "Analysis of Variance",
+        "Area Under Curve",
+        "Blood Glucose",
+        "Cross-Over Studies",
+        "Dietary Carbohydrates",
+        "Fasting",
+        "Female",
+        "Glycemic Index",
+        "Glycemic Load",
+        "Humans",
+        "Lens Plant",
+        "Male",
+        "Meals",
+        "Oryza",
+        "Plant Tubers",
+        "Postprandial Period",
+        "Reference Values",
+        "Seeds",
+        "Solanum tuberosum",
+        "Starch"
+      ]
+    },
+    {
+      "pmid": "26521554",
+      "title": "Ethyl methane sulphonate induced genetic variability and heritability in macrosperma and microsperma lentils.",
+      "authors": [
+        "Aman Rana",
+        "I S Solanki"
+      ],
+      "journal": "Journal of environmental biology",
+      "publication_date": "2015-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Dry and healthy seeds of two lentil cultivars, LH90-54 (macrosperma) and LH89-48 (microsperma) were treated with three doses of ethyl methane sulphonate (0.1, 0.2 and 0.4 %). In both the cultivars, all the M, plants with sufficient seed from each treatment and control were taken to raise independent M2 plant progenies. Wider range of means in both positive and negative directions along with overall positive shift in mean for all the polygenic traits, except pod-initiation height and 100-seed weight, were observed in different treatments in M2 generation. In both the cultivars, medium dose induced highest amount of variation. The estimates of variance, GCV and PCV for different polygenic traits increased significantly over control values in all the treatments of both the cultivars. Higher estimates of heritability and genetic advance in M2 population indicated tremendous scope for the improvement of seed yield and its component traits through selection in the mutagenized material.",
+      "mesh_terms": [
+        "Animals",
+        "Ethyl Methanesulfonate",
+        "Gene Expression Regulation, Plant",
+        "Genetic Variation",
+        "Lens Plant",
+        "Selection, Genetic"
+      ]
+    },
+    {
+      "pmid": "26139886",
+      "title": "A Novel cooked extruded lentils analog: physical and chemical properties.",
+      "authors": [
+        "Mahmoud Abu-Ghoush",
+        "Sajid Alavi",
+        "Abdulaziz Al-Shathri"
+      ],
+      "journal": "Journal of food science and technology",
+      "publication_date": "2015-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Developing an extruded lentil analog is our aim. Lentil analog with six formulations were produced using a pilot-scale single (SS) and twin screw (TS) extruders. Texture analysis of lentil analogs prepared for consumption revealed that the products formulated with 60:40 and 70:30 soy: wheat ratios exhibited a significantly higher hardness, adhesiveness and lower springiness as compared to all other treatments. Differential Scanning Calorimeter (DSC) results indicated that all starches in dry blend are completely 100 % gelatinized by extrusion for all treatments at 100 °C. The maximum peak of viscosity for TS was formed after 5.58 min. from the run at 89.9 °C for the best treatment. However, this lentil analog product can provide a high quality lentil which can be used as a substitute for regular lentils."
+    },
+    {
+      "pmid": "19555818",
+      "title": "Chemopreventive effect of raw and cooked lentils (Lens culinaris L) and soybeans (Glycine max) against azoxymethane-induced aberrant crypt foci.",
+      "authors": [
+        "Mo'ez Al-Islam E Faris",
+        "Hamed R Takruri",
+        "Maha S Shomaf",
+        "Yasser K Bustanji"
+      ],
+      "journal": "Nutrition research (New York, N.Y.)",
+      "publication_date": "2009-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Although lentils (Lens culinaris L) contain several bioactive compounds that have been linked to the prevention of cancer, the in vivo chemopreventive ability of lentils against chemically induced colorectal cancer has not been examined. Our present study examined the hypothesis that lentils could suppress the early carcinogenesis in vivo by virtue of their bioactive micro- and macroconstituents and that culinary thermal treatment could affect their chemopreventive potential. To accomplish this goal, we used raw whole lentils (RWL), raw split lentils (RSL), cooked whole lentils (CWL), and cooked split lentils (CSL). Raw soybeans (RSB; Glycine max) were used for the purpose of comparison with a well-studied chemopreventive agent. Sixty weanling Fischer 344 male rats, 4 to 5 weeks of age, were randomly assigned to 6 groups (10 rats/group): the control group (C) received AIN-93G diet, and treatment leguminous groups of RWL, CWL, RSL, CSL, and RSB received the treatment diets containing AIN-93G+5% of the above-mentioned legumes. After acclimatization for 1 week (at 5th to 6th week of age), all animals were put on the control and treatment diets separately for 5 weeks (from 6th to 11th week of age). At the end of the 5th week of feeding (end of 11th week of age), all rats received 2 subcutaneous injections of azoxymethane carcinogen at 15 mg/kg rat body weight per dose once a week for 2 consecutive weeks. After 17 weeks of the last azoxymethane injection (from 12th to 29th week of age), all rats were euthanized. Chemopreventive ability was assessed using colonic aberrant crypt foci and activity of hepatic glutathione-S-transferases. Significant reductions (P < .05) were found in total aberrant crypt foci number (mean +/- SEM) for RSB (27.33 +/- 4.32), CWL (33.44 +/- 4.56), and RSL (37.00 +/- 6.02) in comparison with the C group (58.33 +/- 8.46). Hepatic glutathione-S-transferases activities increased significantly (P < .05) in rats fed all treatment diets (from 51.38 +/- 3.66 to 67.94 +/- 2.01 micromol mg(-1) min(-1)) when compared with control (C) diet (26.13 +/- 1.01 micromol mg(-1) min(-1)). Our findings indicate that consumption of lentils might be protective against colon carcinogenesis and that hydrothermal treatment resulted in an improvement in the chemopreventive potential for the whole lentils.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Azoxymethane",
+        "Colon",
+        "Colonic Neoplasms",
+        "Cooking",
+        "Glutathione Transferase",
+        "Lens Plant",
+        "Liver",
+        "Male",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Random Allocation",
+        "Rats",
+        "Rats, Inbred F344",
+        "Seeds",
+        "Glycine max"
+      ]
+    },
+    {
+      "pmid": "17591715",
+      "title": "Effect of field peas, chickpeas, and lentils on rumen fermentation, digestion, microbial protein synthesis, and feedlot performance in receiving diets for beef cattle.",
+      "authors": [
+        "T C Gilbery",
+        "G P Lardy",
+        "S A Soto-Navarro",
+        "M L Bauer",
+        "V L Anderson"
+      ],
+      "journal": "Journal of animal science",
+      "publication_date": "2007-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Two experiments were conducted to evaluate the use of pulse grains in receiving diets for cattle. In Exp. 1, 8 Holstein (615 +/- 97 kg of initial BW) and 8 Angus-crossbred steers (403 +/- 73 kg of initial BW) fitted with ruminal and duodenal cannulas were blocked by breed and used in a randomized complete block design to assess the effects of pulse grain inclusion in receiving diets on intake, ruminal fermentation, and site of digestion. Experiment 2 was a 39-d feedlot receiving trial in which 176 mixed-breed steers (254 +/- 19 kg of initial BW) were used in a randomized complete block design to determine the effects of pulse grains on DMI, ADG, and G:F in newly received feedlot cattle. In both studies, pulse grains (field peas, lentils, or chickpea) replaced corn and canola meal as the grain component in diets fed as a total mixed ration. Treatments included 1) corn and canola meal (control); 2) field pea; 3) lentil; and 4) chickpea. Preplanned orthogonal contrasts were conducted between control vs. chickpea, control vs. field pea, and control vs. lentil. In Exp. 1, there were no differences among treatments for DMI (11.63 kg/d, 2.32% of BW daily, P = 0.63) or OM intake (P = 0.63). No treatment effects for apparent ruminal (P = 0.10) and total tract OM digestibilities (P = 0.40) were detected when pulse grains replaced corn and canola meal. Crude protein intake (P = 0.78), microbial CP flow (P = 0.46), total tract CP digestibility (P = 0.45), and microbial efficiency (P = 0.18) were also not influenced by treatment. Total-tract ADF (P = 0.004) and NDF (P = 0.04) digestibilities were greater with field pea vs. control. Total VFA concentrations were lower for field pea (P = 0.009) and lentil (P < 0.001) compared with control. Chickpea, field pea, and lentil had lower (P < or = 0.03) acetate molar proportion than control. Ruminal pH (P = 0.18) and NH3 (P = 0.14) were not different among treatments. In Exp. 2, calves fed chickpea, field pea, and lentil had greater overall DMI (7.59 vs. 6.98 kg/d; P < or = 0.07) and final BW (332 vs. 323 kg; P < or = 0.04), whereas chickpea and lentil had greater ADG (1.90 vs. 1.71 kg/d; P < or = 0.04) than control. Gain efficiency (P = 0.18) did not differ among treatments. Steers fed pulse grains had similar CP and OM digestibilities compared with a combination of corn and canola meal in receiving diets. Pulse grains are a viable alternative for replacement of protein supplements in receiving diets for beef cattle.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Bacterial Proteins",
+        "Breeding",
+        "Cattle",
+        "Cicer",
+        "Crosses, Genetic",
+        "Dietary Proteins",
+        "Digestion",
+        "Duodenum",
+        "Eating",
+        "Energy Intake",
+        "Fatty Acids, Volatile",
+        "Fermentation",
+        "Lens Plant",
+        "Male",
+        "Pisum sativum",
+        "Random Allocation",
+        "Rumen",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "15325690",
+      "title": "Bioavailability of phytic acid-phosphorus and magnesium from lentils (Lens culinaris m.) in growing rats: influence of thermal treatment and vitamin-mineral supplementation.",
+      "authors": [
+        "Jesús M Porres",
+        "María López-Jurado",
+        "Pilar Aranda",
+        "Gloria Urbano"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2004-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: We sought to improve the nutritive utilization of Lens culinaris M. variety vulgaris cultivar Magda-20 in growing rats by autoclaving the lentil seeds at 120 degrees C for 30 min at an internal pressure of 1 atm and by supplementing the rats with a vitamin-mineral premix. METHODS: Nutritional assessment was based on chemical analysis of total phosphorus, free phosphorus, phytate, magnesium, neutral detergent fiber, and acid detergent fiber contents of the lentils and the digestive and metabolic use of phosphorus and magnesium by the growing rats. RESULTS: The net absorption of phosphorus was greater than the amount of non-phytate phosphorus ingested by the animals fed diets of raw and autoclaved lentil flours. Vitamin-mineral supplementation of raw and autoclaved lentil flour resulted in a significant increase in dietary intake and net absorption of phosphorus and magnesium. For all of the experimental diets tested, there was a direct correlation between phosphorus or magnesium balance and weight gain (r = 0.91 and 0.80, respectively) and between phosphorus or magnesium balance and nitrogen balance (r = 0.91 and 0.87, respectively). CONCLUSIONS: Part of the phytate-phosphorus from raw and autoclaved lentil flour was available during digestion, and hardly any phytate was detected in the feces. Supplementation of raw lentil flour with a vitamin-mineral premix was the most effective treatment for increasing daily food intake, body weight gain, and nutritive use of phosphorus and magnesium.",
+      "mesh_terms": [
+        "Animals",
+        "Biological Availability",
+        "Dietary Supplements",
+        "Female",
+        "Food Handling",
+        "Hot Temperature",
+        "Lens Plant",
+        "Magnesium",
+        "Male",
+        "Minerals",
+        "Nutritive Value",
+        "Phosphorus",
+        "Phytic Acid",
+        "Rats",
+        "Rats, Wistar",
+        "Vitamins",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "30812368",
+      "title": "First Report of Pythium irregulare on Lentils in the United States.",
+      "authors": [
+        "T C Paulitz",
+        "F Dugan",
+        "W Chen",
+        "N J Grünwald"
+      ],
+      "journal": "Plant disease",
+      "publication_date": "2004-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In late June and early July 2002, stunted, chlorotic, and partially defoliated lentils (Lens culinaris Medik.) were observed throughout the lentil-growing areas of eastern Washington. These symptoms were investigated in two fields near Garfield, WA and one field near Genesee, ID. Cv. Mason was more affected than cv. Brewer. Roots were dry and brittle with black discoloration in some cases. Isolates of Fusarium oxysporum and F. solani were obtained from washed roots plated on water agar, but they were nonpathogenic in greenhouse testing in pasteurized field soil and peat-based growing mixes. On 21 April 2003, volunteer lentils growing in the same fields showed symptoms of root rot, and Pythium oospores were observed in the roots. Pythium spp. were isolated by using a selective medium (2). Oospores were aplerotic, intercalary, 12.6 to 21 μm long × 11.2 to 18.2 μm wide, mostly smooth, and often formed in chains. Isolates resembled P. paroecandrum Drechs. and P. irregulare Buisman on the basis of morphological characters (3), but DNA sequences of the internal transcribed spacer region were closer to P. irregulare on the basis of a comparison with a worldwide database of Pythium sequences (C. A. Lévesque, personal communication). Isolates were deposited with the USDA-ARS Western Regional Plant Introduction Station, Pullman, WA. Four hyphal-tip isolates were tested in the greenhouse with inoculum grown in autoclaved sandy loam amended with 1% ground rolled oats. Experiments were performed twice in Thatuna silt loam, first in pasteurized and then in nonpasteurized soil. Inoculum was added to the soil at 500 CFU/g, and seeds were planted on the same day. Each isolate was tested on cvs. Brewer and Mason, with five replicates per treatment. Plants were grown in 4- × 20.5-cm plastic tubes (two plants per tube) for 1 month at 16 to 22°C and supplemented with 14 h of light per day. P. irregulare was reisolated from infected roots in both experiments. Damping-off, stunting, chlorosis, and root rot were observed in the Pythium-inoculated treatments, which corresponded to symptoms observed in the field in 2002. In pasteurized soil, only one isolate reduced the whole, dry, plant weight of Brewer, but the other three isolates reduced the dry weight of Mason. All isolates reduced the root dry weight of Mason in natural soil, but only two isolates reduced the root dry weight of Brewer. To our knowledge, Pythium spp., but not P. irregulare, have been reported previously from lentils (1). P. irregulare also causes root rot on winter wheat, which is rotated with lentils, and this pathogen likely causes yield reduction in both crops. References: (1) D. F. Farr et al. Fungi on Plants and Plant Products in the United States. The American Phytopathological Society, St. Paul, MN, 1989. (2) S. M. Mircetich and J. M. Kraft. Mycopathol. Mycol. Appl. 50:151, 1973. (3) A. J. van der Plaats-Niterink. Stud. Mycol. 21:1, 1981."
+    },
+    {
+      "pmid": "12714100",
+      "title": "Effect of heat treatment and mineral and vitamin supplementation on the nutritive use of protein and calcium from lentils (Lens culinaris M.) in growing rats.",
+      "authors": [
+        "Jesús M Porres",
+        "María López-Jurado",
+        "Pilar Aranda",
+        "Gloria Urbano"
+      ],
+      "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "publication_date": "2003-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The effects of heat treatment, supplementation of a mineral and vitamin premix, and 4% olive oil on the bioavailability of protein and calcium from Lens culinaris M., var vulgaris, cultivar. magda-20 were studied in growing rats. METHODS: Nutrition assessment was based on chemical analysis of lentil protein, energy, total and available starch, lipid and calcium composition, and the digestive and metabolic use of nitrogen and calcium by rats. Lentils used for the present study had crude protein and calcium contents of 25.5% and 0.07%, respectively. Heating lentils to 120 degrees C at 1 atm for 30 min decreased trypsin inhibitor activity, phytate, and tannin content by 76%, 8%, and 12%, respectively, but did not improve dietary intake or digestive use of protein compared with untreated raw control lentils. RESULTS: Mineral, vitamin, and olive oil supplementation of raw or autoclaved lentils significantly improved daily food intake and nutritive use of nitrogen and calcium. The best results were obtained for the rats fed with a diet of raw lentils supplemented with a premix of minerals and vitamins. CONCLUSIONS: There was a direct correlation between calcium balance and weight gain in animals (r = 0.89) and between the calcium balance and nitrogen balance (r = 0.86).",
+      "mesh_terms": [
+        "Animals",
+        "Biological Availability",
+        "Calcium, Dietary",
+        "Dietary Supplements",
+        "Female",
+        "Hot Temperature",
+        "Intestinal Absorption",
+        "Lens Plant",
+        "Male",
+        "Minerals",
+        "Nitrogen",
+        "Nutritive Value",
+        "Olive Oil",
+        "Plant Oils",
+        "Plant Proteins",
+        "Rats",
+        "Rats, Wistar",
+        "Vitamins",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "11710352",
+      "title": "Candidate foods in the asia-pacific region for cardiovascular protection: nuts, soy, lentils and tempe.",
+      "authors": [
+        "W Lukito"
+      ],
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "publication_date": "2001",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Cross-cultural and intervention studies increasingly point the way to seeds like nuts, soy and lentils, and products of them like tempe being cardioprotective. Soy and its products (like tofu, tempe, soy drinks and soy desserts) are historically and currently some of the most important foods in the Asian region where diets remain predominantly plant-based. The mechanisms by which these seeds may protect populations against cardiovascular disease are several. They include the minimisation of classical risk factors like positive energy balance leading to obesity, hypertension. dyslipidemia and insulin resistance with hyperglycaemia. However, in addition, they provide compounds like n-3 fatty acids, isoflavones and arginine which are only now recognised for their ability to optimise other pathways which connect lifestyle to cardiovascular disease--like oxidant status, vascular reactivity and myocardial electrical stability and proneness to dysrhythmia. Thus, once an Asian food culture changes on its emphasis on these plant foods, it may place its consumers at cardiovascular risk.",
+      "mesh_terms": [
+        "Asia",
+        "Coronary Disease",
+        "Humans",
+        "Lens Plant",
+        "Lipids",
+        "Nuts",
+        "Pacific Islands",
+        "Glycine max"
+      ]
+    },
+    {
+      "pmid": "11080720",
+      "title": "Isolation and characterization of relevant allergens from boiled lentils.",
+      "authors": [
+        "R Sánchez-Monge",
+        "C Y Pascual",
+        "A Díaz-Perales",
+        "J Fernández-Crespo",
+        "M Martín-Esteban",
+        "G Salcedo"
+      ],
+      "journal": "The Journal of allergy and clinical immunology",
+      "publication_date": "2000-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Lentils seem to be the most common legume implicated in pediatric allergic patients in the Mediterranean area. However, no lentil allergen has been isolated and characterized. OBJECTIVE: We sought to purify and characterize relevant IgE-binding proteins from boiled lentil extracts. METHODS: IgE-binding proteins from crude and boiled lentil extracts were detected with a pool of sera from patients with lentil allergy. Allergens were isolated by gel-filtration chromatography followed by cation- and anion-exchange chromatography or by reverse-phase HPLC. Their characterization included N-terminal amino acid sequencing, complex asparagine-linked glycan detection, specific IgE immunodetection with 22 individual sera from allergic patients, and immunoblot and CAP inhibition assays. RESULTS: Heat treatment of lentils produced substantial changes in the SDS-PAGE patterns of whole extracts, mainly a strong increase of 12- to 16-kd bands and a decrease of 25- to 45-kd components. Major IgE-binding proteins from the boiled lentil extract were located in the 12- to 16-kd and 45- to 70-kd ranges. Two allergens of 16 kd, proteins L1 and L2, and another one of 12 kd, protein L3, were purified. N-terminal sequencing indicated that all 3 were related and allowed their identification as gamma-vicilin subunits. Protein L1 was recognized by 68% of the individual sera tested and inhibited 64% of the IgE binding by commercial lentil CAPs. A second type of allergen of 66 kd, named protein H, was also isolated and identified as a seed-specific biotinylated protein. Protein H reacted with 41% of the individual sera and produced 45% inhibition in CAP inhibition assays. CONCLUSIONS: Two different types of allergens have been identified in boiled lentils. Those of 12 to 16 kd, called Len c 1, correspond to gamma-vicilin subunits, and those of 66 kd, designated Len c 2, correspond to seed-specific biotinylated protein. Homology with proteins from other legume species can explain potential cross-reactions among these foods.",
+      "mesh_terms": [
+        "Allergens",
+        "Amino Acid Sequence",
+        "Child",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Fabaceae",
+        "Heating",
+        "Humans",
+        "Immunoglobulin E",
+        "Molecular Sequence Data",
+        "Plant Extracts",
+        "Plant Proteins",
+        "Plants, Medicinal",
+        "Seed Storage Proteins",
+        "Sequence Analysis, Protein"
+      ]
+    },
+    {
+      "pmid": "6171849",
+      "title": "Purification and characterization of an alpha-amylase from the cotyledons of germinating lentils.",
+      "authors": [
+        "J Fernández-Tárrago",
+        "G Nicolás"
+      ],
+      "journal": "Revista espanola de fisiologia",
+      "publication_date": "1981-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "alpha-Amylase from the cotyledons of lentils germinated for 6 days (Lens culinaris, Medik) was purified by heat treatment, complexing with glycogen, Sephadex G-75 filtration and electrofocusing. Although three bands with alpha-amylase activity were separated in the purified extract from Sephadex G-75 filtration by polyacrylamide gel electrophoresis, only one alpha-amylase fraction was obtained by electrofocusing, which appeared free of contaminating proteins in the electrophoretic pattern. The purified enzyme had maximum activity at pH 5.4, an activation energy of 5.8 kcal/mol, a km for soluble starch of 3.4 X 10(-4) g/ml, an isoelectric point of 4.8 and a molecular weight of 43,000. The pH and temperature stability of the enzyme and the effect of calcium and mercuric ions on the enzyme activity and stability were also studied.",
+      "mesh_terms": [
+        "Amylases",
+        "Calcium Chloride",
+        "Chromatography, Gel",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Fabaceae",
+        "Hydrogen-Ion Concentration",
+        "Isoelectric Focusing",
+        "Molecular Weight",
+        "Plants",
+        "Plants, Medicinal",
+        "Temperature",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "14370998",
+      "title": "Hand re-education with lentils.",
+      "authors": [
+        "E R TANNER"
+      ],
+      "journal": "Physiotherapy",
+      "publication_date": "1955-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Disease",
+        "Exercise Therapy",
+        "Hand",
+        "Humans",
+        "Lens Plant"
+      ]
+    }
+  ]
+}

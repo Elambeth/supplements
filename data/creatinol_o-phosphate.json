@@ -1,0 +1,163 @@
+{
+  "supplement": "Creatinol O-Phosphate",
+  "query": "Creatinol O-Phosphate[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:24:12",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "395958",
+      "title": "Creatinol O-phosphate therapy in patients with inadequate coronary circulation. Double-blind clinical trial.",
+      "authors": [
+        "M Barlattani",
+        "G Guglielmi",
+        "A Mammarella"
+      ],
+      "journal": "Arzneimittel-Forschung",
+      "publication_date": "1979",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "N-Methyl-N-(beta-hydroxyethyl) guanidine O-phosphate (creatinol O-phosphate, COP) was checked on patients suffering from inadequate coronary circulation (12 patients had a recent myocardial infarction and 13 were suffering from angina pectoris) versus a reference substance (solvent of COP) in a double blind study. COP improved rhythm disturbances, chest pains and symptoms of contractility failure to a statistically significant degree.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Pressure",
+        "Clinical Trials as Topic",
+        "Coronary Disease",
+        "Creatine",
+        "Double-Blind Method",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "94266",
+      "title": "Antiarrhythmic effectiveness of creatinol O-phosphate in man.",
+      "authors": [
+        "A Cadel",
+        "A Palumbo",
+        "G Zerilli",
+        "R Pria",
+        "R Fanciulli",
+        "S Conversano",
+        "R Galbiati"
+      ],
+      "journal": "Arzneimittel-Forschung",
+      "publication_date": "1979",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Antiarrhythmic effectiveness of N-methyl-N-(beta-hydroxyethyl) guanidine O-phosphate (creatinol O-phosphate, COP) has been investigated in 10 patients with ischemic heart disease and frequent premature ventricular contractions (PVCs). Each patient received a random succession of treatment with the drug (1020 mg) and with a reference substance (solvent of COP) both administered i.m. twice a day over a 3-day period. In each patient a Holter ECG was recorded in the basal state and during the last 24 h of each treatment. Heart rate, PQ and QTc showed no changes. On the contrary, PVCs were significantly lower (P less than 0.01) with COP than with the reference substance. The drug showed a prevailing effect during daytime. Results are discussed in view of experimental observations suggesting that COP has a \"membrane effect\".",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anti-Arrhythmia Agents",
+        "Arrhythmias, Cardiac",
+        "Cardiac Complexes, Premature",
+        "Clinical Trials as Topic",
+        "Creatine",
+        "Electrocardiography",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "792963",
+      "title": "[Treatment of antihiasthenic syndromes (with creatinol-O-phosphate)].",
+      "authors": [
+        "J Madrid Arráu",
+        "P López Onega",
+        "M Arroyo",
+        "A Cacho Rodero"
+      ],
+      "journal": "Revista clinica espanola",
+      "publication_date": "1976-Sep-30",
+      "publication_types": [
+        "Clinical Trial",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Asthenia",
+        "Clinical Trials as Topic",
+        "Creatine",
+        "Dose-Response Relationship, Drug",
+        "Drug Evaluation",
+        "Fatigue",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "4642455",
+      "title": "[Clinical study on the effects of creatinol-O-phosphate in patients with heart diseases under digitalis treatment].",
+      "authors": [
+        "A Fontana",
+        "S Lusena"
+      ],
+      "journal": "Minerva medica",
+      "publication_date": "1972-Nov-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Aged",
+        "Alcohols",
+        "Arrhythmias, Cardiac",
+        "Coronary Disease",
+        "Creatine",
+        "Drug Synergism",
+        "Drug Tolerance",
+        "Female",
+        "Hallucinations",
+        "Heart Diseases",
+        "Heart Failure",
+        "Humans",
+        "Lanatosides",
+        "Male",
+        "Middle Aged",
+        "Nausea",
+        "Nystagmus, Pathologic",
+        "Organophosphorus Compounds",
+        "Vertigo"
+      ]
+    },
+    {
+      "pmid": "5648218",
+      "title": "[Treatment of patients with coronary insufficiency with creatinol-o-phosphate].",
+      "authors": [
+        "L Natale"
+      ],
+      "journal": "Minerva medica",
+      "publication_date": "1968-Apr-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Coronary Disease",
+        "Creatine",
+        "Female",
+        "Humans",
+        "Male",
+        "Phosphates"
+      ]
+    }
+  ]
+}

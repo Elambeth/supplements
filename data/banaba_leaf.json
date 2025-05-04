@@ -1,0 +1,74 @@
+{
+  "supplement": "Banaba Leaf",
+  "query": "Banaba Leaf[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:15:12",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "40143139",
+      "title": "Synergistic Efficacy of Policosanol (Raydel®) and Banaba Leaf Extract to Treat Hyperglycemia and Dyslipidemia in Streptozotocin-Induced Diabetic and Hyperlipidemic Zebrafish (Danio rerio): Protection of Liver and Kidney with Enhanced Tissue Regeneration.",
+      "authors": [
+        "Kyung-Hyun Cho",
+        "Sang Hyuk Lee",
+        "Yunki Lee",
+        "Ashutosh Bahuguna",
+        "Ji-Eun Kim"
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "publication_date": "2025-Mar-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: The efficacy of banaba leaf extract was tested against carboxymethyllysine (CML)-induced toxicity in embryos and adult zebrafish. Additionally, the individual and combined effects of banaba (BNB) and policosanol (PCO) were analyzed to alleviate dyslipidemia, hyperglycemia, and associated effects in streptozotocin (STZ)-induced hyperlipidemic diabetic zebrafish. Methodology: The high cholesterol diet (HCD, final 4%, w/w)-fed zebrafish were injected with STZ to develop diabetes and were subsequently fed with either HCD or HCD+BNB (final 0.1% w/w) or HCD+PCO (final 0.1% w/w) or HCD+BNB+PCO (each final 0.1%, w/w) each for 14 days. The zebrafish tail fin was amputated to assess tissue regeneration, while the organs and blood were collected for histological and biochemical analysis. Results: Severely compromised embryo survivability and developmental defects were noticed in the CML-injected group that significantly improved following BNB exposure. Similarly, CML-induced acute paralysis and mortality of adult zebrafish were effectively mitigated by the treatment with BNB. In the hyperlipidemic diabetic zebrafish, both BNB and PCO supplementation displayed the hypoglycemic effect; however, a remarkable reduction (p < 0.05) in blood glucose levels was observed in the BNB+PCO group, around 14% and 16% less than the BNB group and PCO group, respectively. Likewise, higher tail fin regeneration was noticed in response to BNB+PCO supplementation. Both BNB and PCO have a substantial counter-effect against HCD+STZ-induced dyslipidemia. However, the combined supplementation (BNB+PCO) displayed a significantly better effect than that of BNB and PCO alone to alleviate total cholesterol (TC), triglycerides (TGs), and low-density lipoprotein cholesterol (LDL-C). The most impressive impact of BNB+PCO was noticed in the elevation of high-density lipoprotein cholesterol (HDL-C), which was ~1.5 times higher than the HDL-C level in response to BNB and PCO. Also, BNB+PCO effectively reduced the malondialdehyde (MDA) and elevated the plasma sulfhydryl content, paraoxonase (PON), and ferric ion reduction (FRA) activity. Histological analyses revealed a significant effect of BNB+PCO in preventing inflammatory infiltration, fatty liver changes, and interleukin-6 production. Similarly, a notably better effect of BNB+PCO compared to their individual effect was noticed in preventing kidney damage and mitigation of ROS generation, apoptosis, and cellular senescence. Conclusions: The finding establishes the substantial effect of BNB and PCO in countering hyperglycemia, dyslipidemia, and associated disorders, which synergistically improved following the combined supplementation with BNB+PCO."
+    },
+    {
+      "pmid": "26000287",
+      "title": "Inhibitory effects of eucalyptus and banaba leaf extracts on nonalcoholic steatohepatitis induced by a high-fructose/high-glucose diet in rats.",
+      "authors": [
+        "Yoshihisa Takahashi",
+        "Keiichiro Sugimoto",
+        "Yurie Soejima",
+        "Arisa Kumagai",
+        "Tatsuki Koeda",
+        "Aiko Shojo",
+        "Kazuya Nakagawa",
+        "Naoki Harada",
+        "Ryoichi Yamaji",
+        "Hiroshi Inui",
+        "Toshikazu Yamanouchi",
+        "Toshio Fukusato"
+      ],
+      "journal": "BioMed research international",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Nonalcoholic steatohepatitis (NASH) is a liver disease associated with metabolic syndrome. The aim of this work was to examine whether eucalyptus (Eucalyptus globulus) leaf extract (ELE) and banaba (Lagerstroemia speciosa L.) leaf extract (BLE) inhibited NASH induced by excessive ingestion of fructose in rats. Wistar rats were divided into four groups according to four distinct diets: starch diet (ST), high-fructose/high-glucose diet (FG), FG diet supplemented with ELE, or FG diet supplemented with BLE. All rats were killed after 5 weeks of treatment. Serum alanine aminotransferase and total cholesterol levels were significantly lower in the BLE group than in the FG group. Liver histopathology, including steatosis, lipogranulomas, and perisinusoidal fibrosis, was significantly attenuated in the ELE and BLE groups compared with the FG group. Levels of 2-thiobarbituric acid reactive substances (TBARS), which reflect oxidative injury to the liver, were significantly suppressed by ELE and BLE. Western blotting analysis indicated that interleukin-6 expression levels were significantly lower in the ELE and BLE groups than in the FG group. These results suggest that ELE and BLE reduced lipogenesis, oxidative stress, and inflammatory cytokine expression and thus inhibited NASH induced by excessive ingestion of fructose in rats.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Cytokines",
+        "Diet",
+        "Eucalyptus",
+        "Feeding Behavior",
+        "Fructose",
+        "Glucose",
+        "Glucosephosphate Dehydrogenase",
+        "Inflammation Mediators",
+        "Lagerstroemia",
+        "Liver",
+        "Male",
+        "Non-alcoholic Fatty Liver Disease",
+        "Organ Size",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Rats, Wistar",
+        "Receptors, Cytokine",
+        "Thiobarbituric Acid Reactive Substances",
+        "Triglycerides"
+      ]
+    }
+  ]
+}

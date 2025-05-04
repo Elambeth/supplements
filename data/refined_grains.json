@@ -1,0 +1,123 @@
+{
+  "supplement": "Refined Grains",
+  "query": "Refined Grains[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:27:29",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "37931243",
+      "title": "Assessing the potential for healthier consumer food substitutions in Canada: population-level differences in dietary intakes of whole grains, refined grains, red meats, and legumes.",
+      "authors": [
+        "Gabriella Luongo",
+        "Emily Jago",
+        "Catherine L Mah"
+      ],
+      "journal": "Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme",
+      "publication_date": "2024-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The potential for healthier consumer food substitutions is an important factor in the study of food environments, dietary choices, and population nutrition promotion. The burden of diet-related non-communicable diseases is unevenly distributed across Canada and variation in the food environment sub-nationally may be an important explanation. We used population-based 24 h dietary recall data from the 2015 Canadian Community Health Survey-Nutrition for Canadian adults (n = 13 919) to examine dietary intakes of two food group pairings (whole grains/refined grains and legumes/red meats) where consumer substitutions have been recognized to be of importance in promoting healthy and sustainable population diet. We used an ANOVA followed by pairwise comparisons with Bonferroni correction to estimate differences in intakes between provinces for daily weight and proportion of total energy consumed. Based on the Global Burden of Disease Study, Canadians consumed below the average daily requirements of legumes and whole grains and well above the required range of red meat, suggesting room for broad improvements to population diet. Findings also demonstrate that there is potential for targeted shifts in dietary intakes among non-consumers of certain foods (e.g., legumes). This study may inform intervention development for the consumer nutrition environment including food accessibility and affordability to reduce non-communicable disease risk.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Canada",
+        "Fabaceae",
+        "North American People",
+        "Red Meat",
+        "Vegetables",
+        "Whole Grains",
+        "Diet"
+      ]
+    },
+    {
+      "pmid": "32933853",
+      "title": "The Effect of Replacing Refined Grains with Whole Grains on Cardiovascular Risk Factors: A Systematic Review and Meta-Analysis of Randomized Controlled Trials with GRADE Clinical Recommendation.",
+      "authors": [
+        "Skye Marshall",
+        "Peter Petocz",
+        "Emily Duve",
+        "Kylie Abbott",
+        "Tim Cassettari",
+        "Michelle Blumfield",
+        "Flavia Fayet-Moore"
+      ],
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Observational data have established a link between the consumption of whole grains and reduced risk of cardiovascular disease (CVD); however, there is a need to review interventional research. OBJECTIVE: Our aim was to determine whether interventions providing whole grain or whole pseudo-grain for dietary consumption improved CVD-related outcomes compared with refined grain or placebo in adults with or without chronic disease and/or associated risk factors. METHODS: A systematic review and meta-analysis of randomized controlled trials that compared whole-grain vs refined-grain or placebo consumption by human adults was conducted. PubMed, CINAHL, Embase, Web of Science, and Cochrane CENTRAL were searched for studies of 12 weeks (or 2 weeks for inflammatory outcomes) duration until 21 February 2020. Data were extracted for 14 types of CVD risk factors (40 outcomes in total). Risk of bias was assessed using the Cochrane Risk-of-Bias tool. Meta-analysis was performed using Comprehensive Meta-Analysis software. The Grading of Recommendations Assessment, Development and Evaluation method was used to determine confidence in the pooled effects and to inform a clinical recommendation. RESULTS: Twenty-five randomized controlled trials were included and 22 were meta-analyzed. Interventions ranged from 2 to 16 weeks; most samples were healthy (n = 13 studies) and used mixed whole grains (n = 11 studies). Meta-analysis found that whole-grain oats improved total cholesterol (standardized mean difference [SMD] = -0.54, 95% CI -0.95 to -0.12) and low-density lipoprotein cholesterol (SMD = -0.57, 95% CI -0.84 to -0.31), whole-grain rice improved triglycerides (SMD = 0.22, 95% CI -0.44 to -0.01), and whole grains (all types) improved hemoglobin A1c (SMD = -0.33, 95% CI -0.61 to -0.04) and C-reactive protein (SMD = -0.22, 95% CI -0.44 to -0.00). CONCLUSIONS: For adults with or without CVD risk factors, consuming whole grains as opposed to refined grains can improve total cholesterol, low-density lipoprotein cholesterol, hemoglobin A1c, and C-reactive protein. There is insufficient evidence to recommend the whole grains as opposed to refined grains for the prevention and treatment of CVD. Further interventional research is needed to better understand the preventive and treatment potential of whole-grain and whole pseudo-grain dietary intake for cardiovascular disease, particularly among those with existing CVD risk factors.",
+      "mesh_terms": [
+        "Adult",
+        "C-Reactive Protein",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Cholesterol, LDL",
+        "Diet, Healthy",
+        "Edible Grain",
+        "Female",
+        "Glycated Hemoglobin",
+        "Heart Disease Risk Factors",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Randomized Controlled Trials as Topic",
+        "Triglycerides",
+        "Whole Grains"
+      ]
+    },
+    {
+      "pmid": "24944054",
+      "title": "Effects of whole and refined grains in a weight-loss diet on markers of metabolic syndrome in individuals with increased waist circumference: a randomized controlled-feeding trial.",
+      "authors": [
+        "Kristina Harris Jackson",
+        "Sheila G West",
+        "John P Vanden Heuvel",
+        "Satya S Jonnalagadda",
+        "Alastair B Ross",
+        "Alison M Hill",
+        "Jessica A Grieger",
+        "Susan K Lemieux",
+        "Penny M Kris-Etherton"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Higher whole-grain (WG) intake is associated with a lower prevalence of metabolic syndrome (MetS); however, there is inconsistent clinical evidence with regard to the benefit of WGs compared with refined grains (RGs) on MetS. OBJECTIVE: We hypothesized that consuming WGs in the place of RGs would improve MetS criteria in individuals with or at risk of MetS. DESIGN: A randomized, controlled, open-label parallel study was conducted in 50 overweight and obese individuals with increased waist circumference and one or more other MetS criteria. Participants consumed a controlled weight-loss diet containing either WG or RG (control) products for 12 wk. Body composition, MetS criteria and related markers, and plasma alkylresorcinols (compliance marker of WG intake) were measured at baseline and at 6 and 12 wk. A subgroup (n = 28) underwent magnetic resonance imaging to quantify subcutaneous and visceral adipose tissue (AT). RESULTS: Baseline variables were not significantly different between groups; however, the RG group tended to have higher triglycerides and lower high-density lipoprotein (HDL) cholesterol (P = 0.06). Alkylresorcinols increased with consumption of the WG diet and did not change with consumption of the RG diet (time × treatment, P < 0.0001), which showed dietary compliance. There were no differences in anthropometric changes between groups; however, weight, body mass index, and percentage of body AT decreased at both 6 and 12 wk (P < 0.05), and reductions in percentage of abdominal AT occurred by 6 wk and did not change between 6 and 12 wk (P = 0.09). Both glucose (P = 0.02) and HDL cholesterol (P = 0.04) were lower with the consumption of the WG compared with the RG diet. However, when noncompliant individuals (n = 3) were removed, the glucose effect was stronger (P = 0.01) and the HDL-cholesterol effect was no longer significant (P = 0.14). CONCLUSIONS: Replacing RGs with WGs within a weight-loss diet does not beneficially affect abdominal AT loss and has modest effects on markers of MetS. WGs appear to be effective at normalizing blood glucose concentrations, especially in those individuals with prediabetes.",
+      "mesh_terms": [
+        "Adiposity",
+        "Adult",
+        "Biomarkers",
+        "Body Mass Index",
+        "Cholesterol, HDL",
+        "Diet, Reducing",
+        "Edible Grain",
+        "Female",
+        "Food Handling",
+        "Humans",
+        "Hypertriglyceridemia",
+        "Male",
+        "Metabolic Syndrome",
+        "Middle Aged",
+        "Obesity",
+        "Overweight",
+        "Patient Compliance",
+        "Prediabetic State",
+        "Resorcinols",
+        "Seeds",
+        "Waist Circumference",
+        "Weight Loss"
+      ]
+    }
+  ]
+}

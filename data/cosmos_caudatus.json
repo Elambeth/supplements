@@ -1,0 +1,187 @@
+{
+  "supplement": "Cosmos Caudatus",
+  "query": "Cosmos Caudatus[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:41:59",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "36623444",
+      "title": "Development on potential skin anti-aging agents of Cosmos caudatus Kunth via inhibition of collagenase, MMP-1 and MMP-3 activities.",
+      "authors": [
+        "Yen Chi Loo",
+        "Hao-Chun Hu",
+        "Szu-Yin Yu",
+        "Yi-Hong Tsai",
+        "Michal Korinek",
+        "Yang-Chang Wu",
+        "Fang-Rong Chang",
+        "Ying-Jung Chen"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Skin aging is associated with degradation of collagen by matrix metalloproteinases (MMPs), which leads to loss of skin elasticity and formation of wrinkles. Cosmos caudatus Kunth (CC) has been traditionally claimed as an anti-aging agent in Malaysia. Despite its well-known antioxidant activity, the anti-aging properties of CC was not validated. PURPOSE: This study aimed to investigate the anti-aging potential of CC extracts and fractions, particularly their inhibition of collagenase, MMP-1 and MMP-3 activities in human dermal fibroblasts CCD-966SK, followed by isolation, identification and analysis of their bioactive constituents. STUDY DESIGN AND METHODS: DPPH assay was firstly used to evaluate the antioxidant activity throughout the bioactivity-guided fractionation. Cell viability was determined using MTS assay. Collagenase activity was examined, while MMP-1 and MMP-3 expression were measured using qRT-PCR and western blotting. Then, chemical identification of pure compounds isolated from CC fractions was done by using ESIMS, 1H and 13C NMR spectroscopies. HPLC analyses were carried out for bioactive fractions to quantify the major components. RESULTS: Throughout the antioxidant activity-guided fractionation, fractions CC-E2 and CC-E3 with antioxidant activity and no toxicity towards CCD-966SK cells were obtained from CC 75% ethanol partitioned layer (CC-E). Both fractions inhibited collagenase activity, MMP-1 and MMP-3 mRNA and protein expression, as well as NF-κB activation induced by TNF-α in CCD-966SK cells. 14 compounds, which mainly consists of flavonoids and their glycosides, were isolated. Quercitrin (14.79% w/w) and quercetin (11.20% w/w) were major compounds in CC-E2 and CC-E3, respectively, as quantified by HPLC. Interestingly, both fractions also inhibited the MMP-3 protein expression synergistically, compared with treatment alone. CONCLUSION: The quantified CC fractions rich in flavonoid glycosides exhibited skin anti-aging effects via the inhibition of collagenase, MMP-1 and MMP-3 activities, probably through NF-κB pathway. This is the first study reported on MMP-1 and MMP-3 inhibitory activity of CC with its chemical profile, which revealed its potential to be developed as anti-aging products in the future.",
+      "mesh_terms": [
+        "Humans",
+        "Matrix Metalloproteinase 1",
+        "Antioxidants",
+        "NF-kappa B",
+        "Matrix Metalloproteinase 3",
+        "Collagenases",
+        "Skin",
+        "Flavonoids",
+        "Aging",
+        "Glycosides",
+        "Fibroblasts",
+        "Skin Aging"
+      ]
+    },
+    {
+      "pmid": "34080265",
+      "title": "Neuroimaging Functional Magnetic Resonance Imaging Task-Based Dorsolateral Prefrontal Cortex Activation Following 12 Weeks of Cosmos caudatus Supplementation Among Older Adults With Mild Cognitive Impairment.",
+      "authors": [
+        "Yee Xing You",
+        "Suzana Shahar",
+        "Mazlyfarina Mohamad",
+        "Nor Fadilah Rajab",
+        "Hasnah Haron",
+        "Normah Che Din",
+        "Hamzaini Abdul Hamid"
+      ],
+      "journal": "Journal of magnetic resonance imaging : JMRI",
+      "publication_date": "2021-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Cosmos caudatus (CC) is traditional Asian vegetable, commonly consumed among the Southeast Asian population. It has been reported to be high in flavonoids and might potentially improve brain activity among older adults with mild cognitive impairment (MCI). The effect of CC in brain activation improvement using neuroimaging is yet to be discovered. PURPOSE: To investigate the effects of CC supplement on brain activity using functional magnetic resonance imaging (fMRI) among older adults with MCI. STUDY TYPE: Prospective, randomized, double-blind, placebo-controlled trial. POPULATION/SUBJECTS: Twenty older adults with mild cognitive impairment (60-75 years old), 14 of them (70%) were female subjects. FIELD STRENGTH/SEQUENCE: A 3.0-T, T1-weighted anatomical images, T2*-weighted imaging data, A single shot, gradient echo-echo planar imaging (EPI) sequence. ASSESSMENT: All subjects were asked to consume two 500 mg capsules of either CC supplement or placebo (maltodextrin) daily for 12 weeks. Cognitive function was measured using validated neuropsychological tests (i.e. Mini-mental State Examination and Digit Span) and task-based fMRI (N-back and Stroop Color Word Test) at baseline and 12th week. Brodmann's area 9, 46 and anterior cingulate cortex were selected as the regions of interest to define dorsolateral prefrontal cortex (DLPFC) in fMRI analysis. STATISTICAL TESTS: Normality test was performed with the Shapiro-Wilk test. Two-way repeated ANOVA determined the intervention effects of the CC supplementation on brain activity after adjustments for covariates. Significance level at P < 0.05 for independent-t test and Chi square test; adjusted P < 0.0042 for two-way repeated ANOVA after Bonferroni correction. RESULTS: Findings showed significant improvements in digit span (partial η2  = 0.559), increment in right DLPFC activation while performing 1-back task (partial η2  = 0.586) and left DLPFC activation while performing Stroop Color Word Test (SCWT) (congruent) task (partial η2  = 0.432) at 12th week of CC supplementation. CONCLUSION: CC supplementation might have the ability to improve DLPFC activation, potentially leading to improved working memory among older adults with MCI after 12 weeks of administration. LEVEL OF EVIDENCE: 1 TECHNICAL EFFICACY: Stage 4.",
+      "mesh_terms": [
+        "Aged",
+        "Cognition",
+        "Cognitive Dysfunction",
+        "Dietary Supplements",
+        "Dorsolateral Prefrontal Cortex",
+        "Female",
+        "Humans",
+        "Magnetic Resonance Imaging",
+        "Middle Aged",
+        "Neuroimaging",
+        "Neuropsychological Tests",
+        "Prefrontal Cortex",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "33572715",
+      "title": "Effects of 12 Weeks Cosmos caudatus Supplement among Older Adults with Mild Cognitive Impairment: A Randomized, Double-Blind and Placebo-Controlled Trial.",
+      "authors": [
+        "Yee Xing You",
+        "Suzana Shahar",
+        "Nor Fadilah Rajab",
+        "Hasnah Haron",
+        "Hanis Mastura Yahya",
+        "Mazlyfarina Mohamad",
+        "Normah Che Din",
+        "Mohamad Yusof Maskat"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Jan-29",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Cosmos caudatus (CC) contains high flavonoids and might be beneficial in neuroprotection. It has the potential to prevent neurodegenerative diseases. Therefore, we aimed to investigate the effects of 12 weeks of Cosmos caudatus supplement on cognitive function, mood status, blood biochemical profiles and biomarkers among older adults with mild cognitive impairment (MCI) through a double-blind, placebo-controlled trial. The subjects were randomized into CC supplement (n = 24) and placebo group (n = 24). Each of them consumed one capsule of CC supplement (250 mg of CC/capsule) or placebo (500 mg maltodextrin/capsule) twice daily for 12 weeks. Cognitive function and mood status were assessed at baseline, 6th week, and 12th week using validated neuropsychological tests. Blood biochemical profiles and biomarkers were measured at baseline and 12th week. Two-way mixed analysis of variance (ANOVA) analysis showed significant improvements in mini mental state examination (MMSE) (partial η2 = 0.150, p = 0.049), tension (partial η2 = 0.191, p = 0.018), total mood disturbance (partial η2 = 0.171, p = 0.028) and malondialdehyde (MDA) (partial η2 = 0.097, p = 0.047) following CC supplementation. In conclusion, 12 weeks CC supplementation potentially improved global cognition, tension, total mood disturbance, and oxidative stress among older adults with MCI. Larger sample size and longer period of intervention with incorporation of metabolomic approach should be conducted to further investigate the underlying mechanism of CC supplementation in neuroprotection.",
+      "mesh_terms": [
+        "Affect",
+        "Aged",
+        "Analysis of Variance",
+        "Asteraceae",
+        "Cognition",
+        "Cognitive Dysfunction",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Male",
+        "Mental Status and Dementia Tests",
+        "Middle Aged",
+        "Neuropsychological Tests",
+        "Plant Extracts",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "24035963",
+      "title": "The effects of Cosmos caudatus (Ulam Raja) supplementation on bone biochemical parameters in ovariectomized rats.",
+      "authors": [
+        "Norazlina Mohamed",
+        "Chai Mei Yin",
+        "Ahmad Nazrun Shuid",
+        "Norliza Muhammad",
+        "Abdul Salam Babji",
+        "Ima Nirwana Soelaiman"
+      ],
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Cosmos caudatus (ulam raja) contains high mineral content and possesses high antioxidant activity which may be beneficial in bone disorder such as postmenopausal osteoporosis. The effects of C. caudatus on bone metabolism biomarkers in ovariectomized rats were studied. 48 Sprague-Dawley rats aged three months were divided into 6 groups. One group of rats was sham-operated while the remaining rats were ovariectomized. The ovariectomized rats were further divided into 5 groups: the control, three groups force-fed with C. caudatus at the doses of 100mg/kg, 200mg/kg or 300mg/kg and another group supplemented with calcium 1% ad libitum. Treatments were given 6 days per week for a period of eight weeks. Blood samples were collected twice; before and after treatment. Parameters measured were bone resorbing cytokine; interleukin-1 and the bone biomarkers; osteocalcin and pyridinoline. Serum IL-1 and pyridinoline levels were significantly increased in ovariectomized rats. Supplementation of C. caudatus was able to prevent the increase of IL-1 and pyridinoline in ovariectomized rats. Besides that, C. caudatus showed the same effect as calcium 1% on biochemical parameters of bone metabolism in ovariectomized rats. In conclusion, Cosmos caudatus was as effective as calcium in preventing the increase in bone resorption in ovariectomized rats.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Asteraceae",
+        "Biomarkers",
+        "Bone Remodeling",
+        "Bone and Bones",
+        "Calcium",
+        "Dietary Supplements",
+        "Disease Models, Animal",
+        "Female",
+        "Interleukin-1",
+        "Osteocalcin",
+        "Osteoporosis",
+        "Ovariectomy",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "23800238",
+      "title": "The effects of Cosmos caudatus (ulam raja) on dynamic and cellular bone histomorphometry in ovariectomized rats.",
+      "authors": [
+        "Norazlina Mohamed",
+        "Zulaikha Sahhugi",
+        "Elvy Suhana Mohd Ramli",
+        "Norliza Muhammad"
+      ],
+      "journal": "BMC research notes",
+      "publication_date": "2013-Jun-24",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Cosmos caudatus is a local plant which has antioxidant properties and contains high calcium. It is also reported to be able to strengthen the bone. This report is an extension to previously published article in Evidence Based Complementary and Alternative Medicine (doi:10.1155/2012/817814). In this study, we determined the effectiveness of C. caudatus as an alternative treatment for osteoporosis due to post-menopause by looking at the dynamic and cellular paramaters of bone histomorphometry. METHODS: Forty female Wistar rats were divided into four groups i.e. sham operated, ovariectomized, ovariectomized treated with calcium 1% ad libitum and ovariectomized force-fed with 500 mg/kg C. caudatus extract. Treatment was given six days a week for eight weeks. RESULTS: Dynamic and cellular histomorphometry parameters were measured. C. caudatus increased double-labeled surface (dLS/BS), mineral appositional rate (MAR), osteoid volume (OV/BV) and osteoblast surface (Ob.S/BS). C. caudatus also gave better results compared to calcium 1% in the osteoid volume (OV/BV) parameter. CONCLUSIONS: C. caudatus at the 500 mg/kg dose may be an alternative treatment in restoring bone damage that may occur in post-menopausal women.",
+      "mesh_terms": [
+        "Animals",
+        "Asteraceae",
+        "Bone and Bones",
+        "Female",
+        "Ovariectomy",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar"
+      ]
+    }
+  ]
+}

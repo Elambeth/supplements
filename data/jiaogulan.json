@@ -1,0 +1,74 @@
+{
+  "supplement": "Jiaogulan",
+  "query": "Jiaogulan[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:50:50",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "36611616",
+      "title": "Effect of Qiling Jiaogulan Powder on Pulmonary Fibrosis and Pulmonary Arteriole Remodeling in Low-Temperature-Exposed Broilers.",
+      "authors": [
+        "Juan Yu",
+        "Peng Li",
+        "Zhibian Duan",
+        "Xingyou Liu"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2022-Dec-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chinese herbal medicine plays an important role in regulating the nutritional metabolism of poultry and maintaining or improving normal physiological functions and animal health. The present study investigated the effects of dietary supplementation with Qiling Jiaogulan Powder (QLJP) on pulmonary fibrosis and pulmonary arteriole remodeling in low temperature-exposed broilers. Seven-day-old Ross 308 broilers (n = 240) were reared adaptively to 14 days of age. The broilers were randomly divided into six groups: A control group (basal diet and normal feeding temperature); model group (basal diet); low-, medium- and high-dose QLJP groups (basal diet supplemented with 1 g/kg, 2 g/kg, 4 g/kg QLJP); and L-Arg group (basal diet supplemented with 10 g/kg L-arginine). Additionally, all the broilers, except the broilers in the control group, from the age of 14 days old, had a house temperature continuously lowered by 2 °C each day until it reached 12 °C at 21 days of age, and the low temperature was maintained until the end of the experiment. There were four replicates per group and 10 birds per replicate. The results showed that the structure of the lung tissue was clearer and basically intact in the broilers in the QLJP groups, with a small number of collagen fibers formed, and the content of hydroxyproline (HYP) was significantly reduced. QLJP improved pulmonary arteriole lesions, such as tunica media thickening, intimal hyperplasia, arterial wall hypertrophy, and lumen narrowing. QLJP reduced the relative media thickness (%) and relative medial area (%) of the pulmonary arteriole, and significantly decreased the expression level of the alpha-smooth muscle actin (α-SMA) protein in pulmonary arteriole, which alleviated pulmonary arteriole remodeling. The quantitative real-time PCR (qPCR) and enzyme-linked immunosorbent assay (ELISA) results showed that QLJP treatment significantly reduced the gene and protein levels of transforming growth factor-beta l (TGF-β1) and Smad2 in the lung and downregulated the gene and protein levels of collagen type I alpha 1 (COL1A1) and matrix metalloproteinase 2 (MMP2). In conclusion, the results of our study suggested that dietary supplementation with QLJP improved pulmonary fibrosis and pulmonary arteriole remodeling by inhibiting the expression of genes related to the TGF-β1/Smad2 signaling pathway and inhibited the occurrence and development of pulmonary arterial hypertension in low-temperature-exposed broilers."
+    },
+    {
+      "pmid": "36334473",
+      "title": "Underlying mechanism of Qiling Jiaogulan Powder in the treatment of broiler ascites syndrome.",
+      "authors": [
+        "Juan Yu",
+        "Xingyou Liu",
+        "Keyao Wang",
+        "Huimin Wang",
+        "Yufeng Han",
+        "Jie Kang",
+        "Ruiqiang Deng",
+        "Huaijun Zhou",
+        "Zhibian Duan"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Broiler ascites syndrome (AS), is a nutritional and metabolic disease that occurs in fast-growing commercial broiler chickens. AS can cause poor growth and a significant increase in the rate of broiler deaths, which has resulted in serious economic losses to the poultry industry. The classic traditional Chinese medicine Qiling Jiaogulan Powder (QLJP) has been demonstrated to have a certain therapeutic effect on broiler AS. However, its pharmacological mechanism remains to be elucidated. This study was performed to investigate the multitarget action mechanism of QLJP in the treatment of broiler AS based on network pharmacology analysis using a broiler AS model. First, all chemical components and targets of QLJP were obtained from the Traditional Chinese Medicine System Pharmacology Analysis Platform (TCMSP). Targets related to broiler AS were further obtained through the GeneCards database and the NCBI Gene sub-database. A protein-protein interaction (PPI) network was constructed. Then, enrichment analyses were performed to predict the potential mechanisms of QLJP in the treatment of broiler AS. Finally, the treatment effect of QLJP on AS was verified in a broiler AS model. Network pharmacology analysis generated 49 active ingredients and 167 core targets of QLJP, and a QLJP-single drug-target-disease network was successfully constructed. Gene enrichment analysis indicated that the core targets have played major roles in the Cell cycle, FOXO signaling pathways, etc. We demonstrated that QLJP improved clinical and organ damage symptoms and significantly reduced the ascites heart index in broilers with AS induced by administration of high-energy, high-protein diets and high-sodium drinking water in a low-temperature environment. QLJP may regulate lung oxidative stress, the cell cycle and apoptosis by activating the FOXO3a signaling pathway to interfere with the occurrence and development of AS in broilers. QLJP administration may be a good clinical strategy for the prevention and treatment of broiler AS.",
+      "mesh_terms": [
+        "Animals",
+        "Ascites",
+        "Chickens",
+        "Powders",
+        "Cell Cycle",
+        "Apoptosis",
+        "Medicine, Chinese Traditional",
+        "Syndrome"
+      ]
+    },
+    {
+      "pmid": "27708693",
+      "title": "Anti-cancer effects of Gynostemma pentaphyllum (Thunb.) Makino (Jiaogulan).",
+      "authors": [
+        "Yantao Li",
+        "Wanjun Lin",
+        "Jiajun Huang",
+        "Ying Xie",
+        "Wenzhe Ma"
+      ],
+      "journal": "Chinese medicine",
+      "publication_date": "2016",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "Gynostemma pentaphyllum (Thunb.) Makino (GpM) (Jiaogulan) has been widely used in Chinese medicine for the treatment of several diseases, including hepatitis, diabetes and cardiovascular disease. Furthermore, GpM has recently been shown to exhibit potent anti-cancer activities. In this review, we have summarized recent research progress on the anti-cancer activities and mechanisms of action of GpM, as well as determining the material basis for the anti-cancer effects of GpM by searching the PubMed, Web of Science and China National Knowledge Infrastructure databases. The content of this review is based on studies reported in the literature pertaining to the chemical components or anti-cancer effects of GpM up until the beginning of August, 2016. This search of the literature revealed that more than 230 compounds have been isolated from GpM, and that most of these compounds (189) were saponins, which are also known as gypenosides. All of the remaining compounds were classified as sterols, flavonoids or polysaccharides. Various extracts and fractions of GpM, as well as numerous pure compounds isolated from this herb exhibited inhibitory activity towards the proliferation of cancer cells in vitro and in vivo. Furthermore, the results of several clinical studies have shown that GpM formula could have potential curative effects on cancer. Multiple mechanisms of action have been proposed regarding the anti-cancer activities of GpM, including cell cycle arrest, apoptosis, inhibition of invasion and metastasis, inhibition of glycolysis and immunomodulating activities."
+    }
+  ]
+}

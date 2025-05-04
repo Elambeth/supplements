@@ -1,0 +1,37 @@
+{
+  "supplement": "Common Mallow",
+  "query": "Common Mallow[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:41:00",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "38686920",
+      "title": "Effectiveness of a natural coagulant based on common mallow (Malva sylvestris) in urban wastewater treatment.",
+      "authors": [
+        "Miguel Mauricio Aguilera Flores",
+        "Oswaldo Emmanuel Robles Miranda",
+        "Verónica Ávila Vázquez",
+        "Nahum Andrés Medellín Castillo",
+        "Omar Sánchez Mata",
+        "Raudel Medina Leaños",
+        "Lázaro Adrián González Fernández"
+      ],
+      "journal": "Environmental technology",
+      "publication_date": "2025-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study evaluated the effectiveness of a natural coagulant based on common mallow (Malva sylvestris) to remove turbidity in urban wastewater. A 22 factorial design was selected to determine the optimal dose and the working pH of the natural coagulant. Its potential was studied in 50.0-450 mg/L and 4.00-10.0 ranges of doses and pH, respectively. A simplex lattice mixture evaluated its effectiveness as a coagulant aid combined with aluminum sulfate (conventional coagulant). Mixture proportions 0.000-1.00 were studied for each component, finding the proportion more effective. Results showed that the coagulation treatment could be feasible since a turbidity removal efficiency of 73.7% can be achieved under optimal conditions (50.0 mg/L and pH of 10.0). Likewise, a turbidity removal of 58.9% is obtained using 250 mg/L and maintaining wastewater pH (7.45). This efficiency can be increased using 31.0% natural coagulant mixed with 69.0% aluminum sulfate at 250 mg/L without modifying the wastewater pH. This improvement was associated with the natural coagulant's high molecular weight and long-chained structure since these properties enhance settling time, floc size and strength, and low sludge production. These results support using common mallow as a natural coagulant, making its use more feasible in alkaline water pH or as a coagulant aid combined with aluminum sulfate for urban wastewater treatment. A cost of USD 370/Kg of natural coagulant was estimated, which is higher than conventional coagulants. However, a cost-effectiveness analysis of its implementation should be performed since process scaling costs could significantly reduce its price.",
+      "mesh_terms": [
+        "Wastewater",
+        "Flocculation",
+        "Water Purification",
+        "Waste Disposal, Fluid",
+        "Alum Compounds",
+        "Water Pollutants, Chemical",
+        "Hydrogen-Ion Concentration"
+      ]
+    }
+  ]
+}

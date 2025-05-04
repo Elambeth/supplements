@@ -1,0 +1,23 @@
+{
+  "supplement": "Clubmoss",
+  "query": "Clubmoss[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:38:39",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "37744113",
+      "title": "Production, Optimization, Characterization and Drought Stress Resistance by β-Glucan-Rich Heteropolysaccharide From an Endophytic Fungi Colletotrichum alatae LCS1 Isolated From Clubmoss (Lycopodium clavatum).",
+      "authors": [
+        "Hiran Kanti Santra",
+        "Debdulal Banerjee"
+      ],
+      "journal": "Frontiers in fungal biology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Endophytic entities are ubiquitous in nature with all-square bioactivity ranging from therapeutic effects toward animals to growth promoting attributes and stress tolerance activities in case of green plants. In the present study, the club moss Lycopodium clavatum for the first time has been subjected for the isolation of endophytic fungi. An exopolysaccharide (EPS) extracted from Colletotrichum alatae LCS1, an endophytic fungi isolated from L. clavatum Linn., was characterized as a β-glucan heteropolymer (composed of mannose, rhamnose, arabinose, glucose, galactose, and fucose) which plays a pivotal role in obliterating the drought stress in rice seedlings (Oryza sativa) when applied at an amount of 20, 50, and 100 ppm. The fresh weight contents of rice tissue (39%), total chlorophyll (33%), proline (41%), soluble sugar content (26%) along with antioxidant enzymes such as catalase, peroxidase, and super-oxide dismutase increased (in comparison to control of non-EPS treated seedlings) while malondialdehyde content had reduced markedly after 30 days of regular treatment. The drought resistance of rice seedling was observed at peak when applied at 50 ppm dosage. Vital parameters for EPS production like fermentation duration (5 days), medium pH (6), nutrient (carbon (glucose-7 g%/l), nitrogen (yeast extract-0.4 g%/l), and mineral (NaCl-0.10 g%/l) sources, oxygen requirements (O2 vector or liquid alkane-n-hexane, n-heptane, n-hexadecane), and headspace volume (250 ml Erlenmeyer flask- 50 ml medium, 200 ml-headspace volume) were optimized to obtain an enhanced EPS yield of 17.38 g/L-59% higher than the preoptimized one. The present study, for the first time, reported the β-glucan rich heteropolysaccharide from Colletotrichum origin which is unique in structure and potent in its function of drought stress tolerance and could enhance the sustainable yield of rice cultivation in areas facing severe drought stress."
+    }
+  ]
+}

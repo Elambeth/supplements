@@ -1,0 +1,603 @@
+{
+  "supplement": "Tart Cherry Juice",
+  "query": "Tart Cherry Juice[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:47:13",
+  "research_count": 18,
+  "count": 18,
+  "articles": [
+    {
+      "pmid": "40003718",
+      "title": "Health Benefits of Montmorency Tart Cherry Juice Supplementation in Adults with Mild to Moderate Ulcerative Colitis; A Placebo Randomized Controlled Trial.",
+      "authors": [
+        "Jonathan Sinclair",
+        "Graham McLaughlin",
+        "Robert Allan",
+        "Johanne Brooks-Warburton",
+        "Charlotte Lawson",
+        "Shan Goh",
+        "Terun Desai",
+        "Lindsay Bottoms"
+      ],
+      "journal": "Life (Basel, Switzerland)",
+      "publication_date": "2025-Feb-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Ulcerative colitis (UC) significantly impacts individuals' self-perception, body image, and overall quality of life, while also imposing considerable economic costs. These challenges highlight the necessity for complementary therapeutic strategies with reduced adverse effects to support conventional pharmacological treatments. Among natural interventions, Montmorency tart cherries, noted for their high anthocyanin content have emerged as a natural anti-inflammatory agent for UC. The current trial aimed to investigate the effects of Montmorency tart cherries compared to placebo in patients with mild to moderate UC. MATERIALS AND METHODS: Thirty-five patients with UC were randomly assigned to receive either placebo or Montmorency tart cherry juice, of which they drank 60 mL per day for 6 weeks. The primary outcomes and health-related quality of life, measured via the Inflammatory Bowel Disease Quality of Life Questionnaire (IBDQ), and the secondary measures, including other health-related questionnaires, blood biomarkers, and faecal samples, were measured before and after the intervention. Linear mixed-effects models were adopted to contrast the changes from baseline to 6 weeks between trial arms. Effect sizes were calculated using Cohen's d. RESULTS: There were significantly greater improvements in the IBDQ (22.61 (95% CI = 5.24 to 39.99) d = 0.90) and simple clinical colitis activity index (-3.98 (95% CI = -6.69 to -1.28) d = -1.01) in the tart cherry trial arm compared to placebo. In addition, reductions in faecal calprotectin levels were significantly greater in the tart cherry trial arm compared to placebo (-136.17 µg/g (95% CI = -258.06 to -4.28) d = -1.14). Loss to follow-up (N = 1) and adverse events (N = 1) were low and compliance was very high in the tart cherry (95.8%) trial arm. CONCLUSIONS: Given the profoundly negative effects of UC on health-related quality of life and its fiscal implications for global healthcare systems, this trial indicates that twice-daily tart cherry supplementation can improve IBD-related quality of life as well as the severity of symptoms and therefore may be important in the management of UC."
+    },
+    {
+      "pmid": "37736959",
+      "title": "Health Benefits of Montmorency Tart Cherry Juice Supplementation in Adults with Mild to Moderate Ulcerative Colitis: A Protocol for a Placebo Randomized Controlled Trial.",
+      "authors": [
+        "Jonathan Sinclair",
+        "Stephanie Dillon",
+        "Robert Allan",
+        "Johanne Brooks-Warburton",
+        "Terun Desai",
+        "Charlotte Lawson",
+        "Lindsay Bottoms"
+      ],
+      "journal": "Methods and protocols",
+      "publication_date": "2023-Aug-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ulcerative colitis, characterized by its relapsing and remissive nature, negatively affects perception, body image, and overall quality of life. The associated financial burden underscores the need for alternative treatment approaches with fewer side effects, alongside pharmaceutical interventions. Montmorency tart cherries, rich in anthocyanins, have emerged as a potential natural anti-inflammatory agent for ulcerative colitis. This manuscript outlines the study protocol for a randomized placebo-controlled trial investigating the effects of Montmorency tart cherry in individuals with ulcerative colitis. The trial aims to recruit 40 participants with mild to moderate disease activity randomly assign them to either a Montmorency tart cherry or placebo group. The intervention will span 6 weeks, with baseline and 6-week assessments. The primary outcome measure is the Inflammatory Bowel Disease Quality of Life Questionnaire. Secondary outcomes include other health-related questionnaires and biological indices. Statistical analysis will adhere to an intention-to-treat approach using linear mixed effect models. Ethical approval has been obtained from the University of Hertfordshire (cLMS/SF/UH/05240), and the trial has been registered as a clinical trial (NCT05486507). The trial findings will be disseminated through a peer-reviewed publication in a scientific journal."
+    },
+    {
+      "pmid": "36038032",
+      "title": "Effects of tart cherry juice consumption on cardio-metabolic risk factors: A systematic review and meta-analysis of randomized-controlled trials.",
+      "authors": [
+        "Seyedeh Parisa Moosavian",
+        "Maryam Maharat",
+        "Mahla Chambari",
+        "Fateme Moradi",
+        "Mehran Rahimlou"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: Tart cherries are rich in bioactive compounds, such as anthocyanins and other phytochemicals known to have antioxidant properties and exert cardiovascular protective effects. However, there is no definitive consensus on this context. The present systematic review and meta-analysis aimed to investigate the effect of tart cherry juice consumption on cardio-metabolic risk factors. METHODS: A systematic search was conducted on electronic databases, including PubMed, Web of Science, Scopus, and Google Scholar from inception up to December 2021 to identify eligible RCT studies. A random-effect model was utilized to estimate the weighted mean difference (WMD) and 95% confidence (95% CI). RESULTS: Ten RCTs were included in the present meta-analysis. The pooled analysis revealed that tart cherry juice consumption led to a significant reduction in the fasting blood sugar (FBS) levels (WMD = -0.51 mg/dl [95% CI: -0.98, -0.06]). This lowering effect of FBS was robust in subgroups with cross-over studies, participants with age range ≥ 40, duration of follow-up ≤ 4 weeks, and baseline BMI ≥ 30. In contrast, tart cherry juice had no effect on total cholesterol (TC), triglycerides (TG), high density lipoprotein cholesterol (HDL-C), low density lipoprotein cholesterol (LDL-C), insulin, body mass index (BMI), fat mass, systolic and diastolic blood pressure. However, in the subgroup analysis, some significant effects were observed for insulin, TG, TC, LDL-C, and HDL-C. CONCLUSION: In summary, this meta-analysis showed that tart cherry juice mostly had a favorable effect on FBG levels. However, further RCTs with long-term intervention with different doses of administration are needed.",
+      "mesh_terms": [
+        "Humans",
+        "Infant",
+        "Cholesterol, LDL",
+        "Anthocyanins",
+        "Fruit and Vegetable Juices",
+        "Cholesterol, HDL",
+        "Triglycerides",
+        "Insulin",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "33562341",
+      "title": "U.S. Montmorency Tart Cherry Juice Decreases Bone Resorption in Women Aged 65-80 Years.",
+      "authors": [
+        "Tiffany Dodier",
+        "Kendall L Anderson",
+        "James Bothwell",
+        "Janice Hermann",
+        "Edralin A Lucas",
+        "Brenda J Smith"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Feb-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pre-clinical studies have demonstrated that tart cherries, rich in hydroxycinnamic acids and anthocyanins, protect against age-related and inflammation-induced bone loss. This study examined how daily consumption of Montmorency tart cherry juice (TC) alters biomarkers of bone metabolism in older women. Healthy women, aged 65-80 years (n = 27), were randomly assigned to consume ~240 mL (8 fl. oz.) of juice once (TC1X) or twice (TC2X) per day for 90 d. Dual-energy x-ray absorptiometry (DXA) scans were performed to determine bone density at baseline, and pre- and post-treatment serum biomarkers of bone formation and resorption, vitamin D, inflammation, and oxidative stress were assessed. Irrespective of osteoporosis risk, the bone resorption marker, tartrate resistant acid phosphatase type 5b, was significantly reduced with the TC2X dose compared to baseline, but not with the TC1X dose. In terms of indicators of bone formation and turnover, neither serum bone-specific alkaline phosphatase nor osteocalcin were altered. No changes in thiobarbituric acid reactive substances or high sensitivity C-reactive protein were observed in response to either TC1X or TC2X. We conclude that short-term supplementation with the higher dose of tart cherry juice decreased bone resorption from baseline without altering bone formation and turnover biomarkers in this cohort.",
+      "mesh_terms": [
+        "Age Factors",
+        "Aged",
+        "Aged, 80 and over",
+        "Aging",
+        "Alkaline Phosphatase",
+        "Anthocyanins",
+        "Biomarkers",
+        "Bone Density",
+        "Bone Remodeling",
+        "Bone Resorption",
+        "Coumaric Acids",
+        "Dietary Supplements",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Humans",
+        "Inflammation",
+        "Osteocalcin",
+        "Osteogenesis",
+        "Osteoporosis",
+        "Oxidative Stress",
+        "Prunus avium"
+      ]
+    },
+    {
+      "pmid": "32179562",
+      "title": "Effect of tart cherry juice on risk of gout attacks: protocol for a randomised controlled trial.",
+      "authors": [
+        "Kirstie Louise Lamb",
+        "Anthony Lynn",
+        "Jean Russell",
+        "Margo E Barker"
+      ],
+      "journal": "BMJ open",
+      "publication_date": "2020-Mar-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Gout is a painful form of inflammatory arthritis associated with several comorbidities, particularly cardiovascular disease. Cherries, which are rich in anti-inflammatory and antioxidative bioactive compounds, are proposed to be efficacious in preventing and treating gout, but recommendations to patients are conflicting. Cherry consumption has been demonstrated to lower serum urate levels and inflammation in several small studies. One observational case cross-over study reported that cherry consumption was associated with reduced risk of recurrent gout attacks. This preliminary evidence requires substantiation. The proposed randomised clinical trial aims to test the effect of consumption of tart cherry juice on risk of gout attacks. METHODS AND ANALYSIS: This 12-month, parallel, double-blind, randomised, placebo-controlled trial will recruit 120 individuals (aged 18-80 years) with a clinical diagnosis of gout who have self-reported a gout flare in the previous year. Participants will be randomly assigned to an intervention group, which will receive Montmorency tart cherry juice daily for a 12-month period, or a corresponding placebo group, which will receive a cherry-flavoured placebo drink. The primary study outcome is change in frequency of self-reported gout attacks. Secondary outcome measures include attack intensity, serum urate concentration, fractional excretion of uric acid, biomarkers of inflammation, blood lipids and other markers of cardiovascular risk. Other secondary outcome measures will be changes in physical activity and functional status. Statistical analysis will be conducted on an intention-to-treat basis. ETHICS AND DISSEMINATION: This study has been granted ethical approval by the National Research Ethics Service, Yorkshire and The Humber-Leeds West Research Ethics Committee (ref: 18/SW/0262). Results of the trial will be submitted for publication in a peer-reviewed journal. TRIAL REGISTRATION NUMBER: NCT03621215.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Blood Pressure",
+        "Fruit and Vegetable Juices",
+        "Gout",
+        "Humans",
+        "Middle Aged",
+        "Prunus avium",
+        "Randomized Controlled Trials as Topic",
+        "Risk Assessment",
+        "Uric Acid",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31337122",
+      "title": "No Effect of Tart Cherry Juice or Pomegranate Juice on Recovery from Exercise-Induced Muscle Damage in Non-Resistance Trained Men.",
+      "authors": [
+        "Kirstie L Lamb",
+        "Mayur K Ranchordas",
+        "Elizabeth Johnson",
+        "Jessica Denning",
+        "Faye Downing",
+        "Anthony Lynn"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2019-Jul-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Tart cherry juice (TC) and pomegranate juice (POM) have been demonstrated to reduce symptoms of exercise-induced muscle damage (EIMD), but their effectiveness has not been compared. This randomized, double-blind, parallel study compared the effects of TC and POM on markers of EIMD. Thirty-six non-resistance trained men (age 24.0 (Interquartile Range (IQR) 22.0, 33.0) years, body mass index (BMI) 25.6 ± 4.0 kg·m-2) were randomly allocated to consume 2 × 250 mL of: TC, POM, or an energy-matched fruit-flavored placebo drink twice daily for nine days. On day 5, participants undertook eccentric exercise of the elbow flexors of their non-dominant arm. Pre-exercise, immediately post-exercise, and at 24 h, 48 h, 72 h and 96 h post-exercise, maximal isometric voluntary contraction (MIVC), delayed onset muscle soreness (DOMS), creatine kinase (CK), and range of motion (ROM) were measured. The exercise protocol induced significant decreases in MIVC (p < 0.001; max decrease of 26.8%, 24 h post-exercise) and ROM (p = 0.001; max decrease of 6.8%, 72 h post-exercise) and significant increases in CK (p = 0.03; max increase 1385 U·L-1, 96 h post-exercise) and DOMS (p < 0.001; max increase of 26.9 mm, 48 h post-exercise). However, there were no statistically significant differences between treatment groups (main effect of group p > 0.05 or group x time interaction p > 0.05). These data suggest that in non-resistance trained men, neither TC nor POM enhance recovery from high-force eccentric exercise of the elbow flexors.",
+      "mesh_terms": [
+        "Adult",
+        "Double-Blind Method",
+        "Exercise",
+        "Fruit and Vegetable Juices",
+        "Humans",
+        "Male",
+        "Muscle, Skeletal",
+        "Myalgia",
+        "Pomegranate",
+        "Prunus avium",
+        "Recovery of Function",
+        "Resistance Training",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31287117",
+      "title": "Effect of Montmorency tart cherry juice on cognitive performance in older adults: a randomized controlled trial.",
+      "authors": [
+        "Sheau C Chai",
+        "Jessica Jerusik",
+        "Kristina Davis",
+        "Regina S Wright",
+        "Zugui Zhang"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2019-Jul-17",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Hypertension, inflammation and oxidative stress are important factors in the development of cognitive impairment. Our previous study demonstrated that tart cherry juice can lower systolic blood pressure (BP) and improve inflammatory and oxidative stress status in older adults. As part of our previous trial, we explored whether daily consumption of tart cherry juice would improve cognitive abilities. In this randomized controlled trial, 37 adults between the ages of 65-80 with normal cognitive function were recruited and randomly assigned to consume two cups of Montmorency tart cherry juice for 12 weeks. Subjective memory and objective cognitive performance were assessed at baseline and after the 12-week juice supplementation using a validated subjective memory questionnaire and a standardized battery of tests. Daily caloric intake and physical activity levels were assessed throughout the study period. After the intervention, participants in the tart cherry group had higher contentment with memory scores (mean difference of 2.7; 95% CI: 1.2 to 4.2; p = 0.02), lowered their scores of movement time (mean difference of -10.4; 95% CI: -13.4 to -7.5; p = 0.03) as well as performed better on the paired associates learning task (mean difference of -8.5; 95% CI: -12.5 to -4.5; p = 0.02) compared to the control group. The within-group analysis showed that the visual sustained attention (p < 0.0001) and spatial working memory (p = 0.06) improved after the 12-week consumption of tart cherry juice compared with corresponding baseline values. Daily tart cherry juice consumption may improve cognitive abilities. This may be through anti-oxidative and anti-inflammatory properties of tart cherry and its ability to lower BP. Further research is needed to confirm these findings.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Cognition",
+        "Cognitive Dysfunction",
+        "Female",
+        "Food, Fortified",
+        "Fruit and Vegetable Juices",
+        "Humans",
+        "Male",
+        "Memory, Short-Term",
+        "Oxidation-Reduction",
+        "Plant Extracts",
+        "Prunus",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "31037275",
+      "title": "Consumption of 100% Tart Cherry Juice Reduces Serum Urate in Overweight and Obese Adults.",
+      "authors": [
+        "Keith R Martin",
+        "Katie M Coles"
+      ],
+      "journal": "Current developments in nutrition",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Gout is a frequently occurring, complex rheumatologic form of inflammatory arthritis caused by the accumulation of serum uric acid (sUA) and deposition of uric acid crystals in the joints and tissues of the body. Hyperuricemia is also a significant independent risk factor for all-cause and cardiovascular morbidity and mortality and is associated with hypertension, diabetes, obesity, and osteoarthritis. However, patient adherence to prescribed urate-lowering therapies ranges from 20% to 70%, suggesting that other additional strategies, such as dietary intervention with specific, efficacious foods or beverages, may be necessary to mitigate the risk of arthritis, as well as other comorbidities. Tart cherry juice (TCJ) has been used for decades by some for gout based largely on anecdotal evidence of its efficacy and its antioxidant and anti-inflammatory properties. OBJECTIVES: We designed this study to test the effect of TCJ on uricemia, lipidemia, glycemia, and inflammation in at-risk overweight and obese humans with a specific hypothesis that TCJ consumption would reduce sUA concentrations. METHODS: In this randomized, placebo-controlled crossover study, we recruited overweight and obese participants with body mass index (BMI) >25.0 kg/m2 (n = 26, 18 women/8 men, 41 ±11 y; BMI 31.3 ± 6.0; 12 obese, 14 overweight) to consume 240 mL/d (8 oz/d) of either TCJ or placebo beverage, for 4 wk each with a 4-wk intervening washout period followed by 4 wk of the alternate beverage. RESULTS: TCJ significantly reduced sUA concentration by 19.2% (P < 0.05) and reduced by 19.4% (P = 0.09) and 6.3% (P = 0.08) proinflammatory high-sensitivity C-reactive protein and monocyte chemoattractant protein-1, respectively. The participants in this study displayed risk ratios indicating increased cardiovascular disease risk and insulin resistance but no differences in the pre- and postintervention groups of either placebo or TCJ groups. CONCLUSION: Collectively, the data suggest that 100% TCJ reduces sUA concentrations, mitigating hyperuricemia associated with gouty arthritis. This trial was registered at clinicaltrials.gov as NCT03636529."
+    },
+    {
+      "pmid": "30678193",
+      "title": "Effects of Tart Cherry Juice on Biomarkers of Inflammation and Oxidative Stress in Older Adults.",
+      "authors": [
+        "Sheau C Chai",
+        "Kristina Davis",
+        "Zugui Zhang",
+        "Longying Zha",
+        "Kenneth F Kirschner"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2019-Jan-22",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Inflammation and oxidative stress are important factors in the development of cardiovascular disease and atherosclerosis. The findings of our previous study suggest that 12 weeks consumption of tart cherry juice lowers the levels of systolic blood pressure (BP) and low-density lipoprotein (LDL) cholesterol in older adults. The present study investigated the effects of tart cherry juice on blood biomarkers of inflammation and oxidative stress. In this randomized-controlled clinical trial, a total of 37 men and women between the ages of 65⁻80 were randomly assigned to consume 480 mL of tart cherry juice or control drink daily for 12 weeks. Several blood biomarkers of inflammation and oxidative stress were assessed at baseline and after 12 weeks intervention. After the 12 weeks intervention, tart cherry juice significantly increased the plasma levels of DNA repair activity of 8-oxoguanine glycosylase (p < 0.0001) and lowered (p = 0.03) the mean c-reactive protein (CRP) level compared to the control group. There was a significant group effect observed for plasma CRP (p = 0.03) and malondialdehyde (MDA) (p = 0.03), and a borderline significant group effect observed for plasma oxidized low-density lipoprotein (OxLDL) (p = 0.07). Within group analysis showed that the plasma levels of CRP, MDA, and OxLDL decreased numerically by 25%, 3%, and 11%, respectively after 12 weeks of tart cherry juice consumption compared with corresponding baseline values. The present study suggests that the ability of tart cherry juice to reduce systolic BP and LDL cholesterol, in part, may be due to its anti-oxidative and anti-inflammatory properties. Larger and longer follow-up studies are needed to confirm these findings.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Biomarkers",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Gene Expression Regulation",
+        "Humans",
+        "Inflammation",
+        "Male",
+        "Oxidative Stress",
+        "Prunus avium",
+        "Random Allocation"
+      ]
+    },
+    {
+      "pmid": "29862410",
+      "title": "Impact of tart cherry juice on systolic blood pressure and low-density lipoprotein cholesterol in older adults: a randomized controlled trial.",
+      "authors": [
+        "Sheau C Chai",
+        "Kristina Davis",
+        "Regina S Wright",
+        "Marie F Kuczmarski",
+        "Zugui Zhang"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2018-Jun-20",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Hypertension and dyslipidemia are major risk factors for cardiovascular disease (CVD). Common treatments for high blood pressure (BP) and dyslipidemia include medications, but there is question as to whether natural sources may be adequate to reduce CVD risk factors. We examined the effects of tart cherry juice on lipid profiles, BP, glucose, insulin, and homeostatic model assessment-insulin resistance (HOMA-IR) in older adults. In this randomized-controlled clinical trial, 17 men and 20 women between the ages of 65-80 years were randomly assigned to consume 480 ml of tart cherry juice or control drink daily for 12 weeks. Control beverages were matched for energy and sugar content. Outcome variables were assessed at baseline and after 12 weeks of tart cherry juice or control drink. Systolic BP and low-density lipoprotein cholesterol (LDL) exhibited treatment × time interaction effects. At the end of the study, participants in the tart cherry group had lower levels of LDL cholesterol (difference of -20.6 with P = 0.001) and total cholesterol (difference of -19.11 with P = 0.01), and higher levels of glucose (difference of 7.94 with P = 0.001), triglycerides (difference of 6.66 with P = 0.01) and BMI (difference of 1.06 with P = 0.02) than in the control group. Neither tart cherry juice nor control significantly altered body weight, high-density lipoprotein cholesterol, diastolic BP, insulin and HOMA-IR. Our findings show that tart cherry juice can lower the levels of systolic BP and LDL cholesterol. However, larger and longer follow-up studies are needed to further assess cardio-protective effects of tart cherry juice.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Blood Pressure",
+        "Cholesterol",
+        "Cholesterol, LDL",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Humans",
+        "Hypertension",
+        "Male",
+        "Middle Aged",
+        "Prunus avium"
+      ]
+    },
+    {
+      "pmid": "28901958",
+      "title": "Pilot Study of the Tart Cherry Juice for the Treatment of Insomnia and Investigation of Mechanisms.",
+      "authors": [
+        "Jack N Losso",
+        "John W Finley",
+        "Namrata Karki",
+        "Ann G Liu",
+        "Alfredo Prudente",
+        "Russell Tipton",
+        "Ying Yu",
+        "Frank L Greenway"
+      ],
+      "journal": "American journal of therapeutics",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Insomnia is common in the elderly and is associated with chronic disease, but use of hypnotics increases the incidence of falls. Montmorency tart cherry juice has improved insomnia by self-report questionnaire. STUDY QUESTION: Is insomnia confirmed by polysomnography and is tryptophan availability a potential mechanism for treating insomnia? STUDY DESIGN: A placebo-controlled balanced crossover study with subjects older than 50 years and insomnia were randomized to placebo (2 weeks) or cherry juice (2 weeks) (240 mL 2 times/d) separated by a 2-week washout. MEASURES AND OUTCOMES: Sleep was evaluated by polysomnography and 5 validated questionnaires. Serum indoleamine 2,3-dioxygenase (IDO), the kynurenine-to-tryptophan ratio, and prostaglandin E2 were measured. In vitro, Caco-2 cells were stimulated with interferon-gamma, and the ability of cherry juice procyanidin to inhibit IDO which degrades tryptophan and stimulates inflammation was measured. The content of procyanidin B-2 and other major anthocyanins in cherry juice were determined. RESULTS: Eleven subjects were randomized; 3 with sleep apnea were excluded and referred. The 8 completers with insomnia increased sleep time by 84 minutes on polysomnography (P = 0.0182) and sleep efficiency increased on the Pittsburgh Sleep Quality Index (P = 0.03). Other questionnaires showed no significant differences. The serum kynurenine-to-tryptophan ratio decreased, as did the level of prostaglandin E2 (both P < 0.05). In vitro, cherry juice procyanidin B-2 dose-dependently inhibited IDO. CONCLUSIONS: Cherry juice increased sleep time and sleep efficiency. Cherry juice procyanidin B-2 inhibited IDO, increased tryptophan availability, reduced inflammation, and may be partially responsible for improvement in insomnia.",
+      "mesh_terms": [
+        "Aged",
+        "Antioxidants",
+        "Biflavonoids",
+        "Caco-2 Cells",
+        "Catechin",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Fruit and Vegetable Juices",
+        "Humans",
+        "Indoleamine-Pyrrole 2,3,-Dioxygenase",
+        "Kynurenine",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects",
+        "Placebos",
+        "Polysomnography",
+        "Proanthocyanidins",
+        "Prunus avium",
+        "Sleep",
+        "Sleep Initiation and Maintenance Disorders",
+        "Surveys and Questionnaires",
+        "Time Factors",
+        "Tryptophan"
+      ]
+    },
+    {
+      "pmid": "24570273",
+      "title": "Effect of a tart cherry juice supplement on arterial stiffness and inflammation in healthy adults: a randomised controlled trial.",
+      "authors": [
+        "Anthony Lynn",
+        "Shilpa Mathew",
+        "Chris T Moore",
+        "Jean Russell",
+        "Emma Robinson",
+        "Vithleem Soumpasi",
+        "Margo E Barker"
+      ],
+      "journal": "Plant foods for human nutrition (Dordrecht, Netherlands)",
+      "publication_date": "2014-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Tart cherries are a particularly rich source of anthocyanins. Evidence indicates that dietary intake of anthocyanins is inversely associated with arterial stiffness. We conducted an open-label randomised placebo controlled study to determine whether a tart cherry juice concentrate (Cherry Active) reduced arterial stiffness, inflammation and risk markers for cardiovascular disease in 47 healthy adults (30-50 years). Participants consumed 30 ml of cherry concentrate diluted to a volume of 250 ml with water or the same volume of an energy matched control drink daily for six weeks. Measurements were taken at baseline and at the end of the intervention. There was no effect of the intervention on arterial stiffness (P = 0.218), c-reactive protein (P = 0.220), systolic blood pressure (P = 0.163), diastolic blood pressure (P = 0.121), total cholesterol (P = 0.342) and high density lipoprotein cholesterol (P = 0.127). At the end of the intervention, plasma antioxidant capacity (measured as the ferric reducing ability of plasma (FRAP)) was significantly higher in the intervention group than the control group (P = 0.012). We conclude that a tart cherry juice concentrate rich in anthocyanins has no effect on arterial stiffness, c-reactive protein and risk markers for cardiovascular disease, but evokes a minor increase in antioxidant status in healthy adults.",
+      "mesh_terms": [
+        "Adult",
+        "Antioxidants",
+        "Beverages",
+        "Blood Pressure",
+        "C-Reactive Protein",
+        "Cholesterol",
+        "Dietary Supplements",
+        "Female",
+        "Humans",
+        "Inflammation",
+        "Male",
+        "Middle Aged",
+        "Prunus",
+        "Vascular Stiffness"
+      ]
+    },
+    {
+      "pmid": "23727631",
+      "title": "Randomized double-blind crossover study of the efficacy of a tart cherry juice blend in treatment of osteoarthritis (OA) of the knee.",
+      "authors": [
+        "H R Schumacher",
+        "S Pullman-Mooar",
+        "S R Gupta",
+        "J E Dinnella",
+        "R Kim",
+        "M P McHugh"
+      ],
+      "journal": "Osteoarthritis and cartilage",
+      "publication_date": "2013-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To assess the efficacy of tart cherry juice in treating pain and other features of knee osteoarthritis (OA). METHODS: 58 non-diabetic patients with Kellgren grade 2-3 OA were randomized to begin treatment with cherry juice or placebo. Two 8 oz bottles of tart cherry juice or placebo were consumed daily for 6 weeks with a 1 week washout period before switching treatments (crossover design). Western Ontario McMaster Osteoarthritis Index (WOMAC) scores and walking times were recorded prior to and after each treatment period. Additionally, plasma urate, creatinine and high sensitivity C-reactive protein (hsCRP) were recorded at baseline, after the first treatment period and after the second treatment period. Acetaminophen was allowed as a rescue drug and self reported after each treatment period. Treatment effect was examined with repeated measures analysis of variance (ANOVA) using an intention-to-treat (ITT) analysis. RESULTS: There were five withdrawals during the cherry juice treatment (four adverse events (AEs)) and seven withdrawals during the placebo treatment (three AEs). WOMAC scores decreased significantly (P < 0.01) after the cherry juice treatment but not after the placebo treatment (P = 0.46); differences between treatments were not significant (P = 0.16). hsCRP declined during the cherry juice treatment vs placebo (P < 0.01). The decline in hsCRP was associated with WOMAC improvement (P < 0.01). Walking time, acetaminophen use, plasma urate and creatinine were unaffected by treatments. CONCLUSIONS: Tart cherry juice provided symptom relief for patients with mild to moderate knee OA, but this effect was not significantly greater than placebo. Tart cherry juice lowered hsCRP levels and this effect was associated with improved WOMAC scores.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Beverages",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Creatinine",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Osteoarthritis, Knee",
+        "Pain Measurement",
+        "Patient Compliance",
+        "Prunus",
+        "Severity of Illness Index",
+        "Treatment Outcome",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "23057779",
+      "title": "Tart cherry juice induces differential dose-dependent effects on apoptosis, but not cellular proliferation, in MCF-7 human breast cancer cells.",
+      "authors": [
+        "Keith R Martin",
+        "Alissa Wooden"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2012-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Consumption of polyphenol-rich fruits, for example, tart cherries, is associated with a lower risk of cardiovascular disease and cancer. This is due, in large part, to the diverse myriad bioactive agents, that is, polyphenol anthocyanins, present in fruits. Anthocyanin-rich tart cherries purportedly modulate numerous cellular processes associated with oncogenesis such as apoptosis, cellular proliferation (CP), and cell cycle progression, although the effective concentrations eliciting these effects are unclear. We hypothesized that several dose-dependent effects over a large concentration range of 100% tart cherry juice (TCJ) would exist and affect these processes differentially with the potential for cellular protection and cellular death either by apoptosis or by necrosis. In this in vitro study, we tested the dose response of TCJ on CP and cell death in MCF-7 human breast cancer cells. TCJ was added at 0.03-30% (v/v) to cells and incubated overnight with the medium alone or with increasing TCJ. Bromodeoxyuridine incorporation was significantly reduced by 20% at ≥10% (v/v) TCJ and associated with necrosis, but was not different between the control and treatment groups at <10% TCJ. MTT reduction was also significantly reduced by 27% and 80% at 10% and 30% TCJ, respectively, and associated with necrosis. Apoptosis, but not necrosis, was increased ∼63% at 3% TCJ (∼307 nM monomeric anthocyanins), yet significantly decreased (P<.05) by 20% at 1% TCJ (920 nM) both of which were physiologically relevant concentrations of anthocyanins. The data support a biphasic effect on apoptosis and no effect on proliferation.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Apoptosis",
+        "Beverages",
+        "Breast Neoplasms",
+        "Bromodeoxyuridine",
+        "Cell Division",
+        "Cell Proliferation",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Fruit",
+        "Humans",
+        "L-Lactate Dehydrogenase",
+        "MCF-7 Cells",
+        "Mitochondria",
+        "Necrosis",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Polyphenols",
+        "Prunus"
+      ]
+    },
+    {
+      "pmid": "20438325",
+      "title": "Effects of a tart cherry juice beverage on the sleep of older adults with insomnia: a pilot study.",
+      "authors": [
+        "Wilfred R Pigeon",
+        "Michelle Carr",
+        "Colin Gorman",
+        "Michael L Perlis"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study ascertained whether a proprietary tart cherry juice blend (CherryPharm, Inc., Geneva, NY, USA) associated with anecdotal reports of sleep enhancement improves subjective reports of insomnia compared to a placebo beverage. The pilot study used a randomized, double-blind, crossover design where each participant received both treatment and placebo for 2 weeks with an intervening 2-week washout period. Sleep continuity (sleep onset, wake after sleep onset, total sleep time, and sleep efficiency) was assessed by 2-week mean values from daily sleep diaries and disease severity by the Insomnia Severity Index in a cohort of 15 older adults with chronic insomnia who were otherwise healthy. The tart cherry juice beverage was associated with statistically significant pre- to post-treatment improvements on all sleep variables. When compared to placebo, the study beverage produced significant reductions in insomnia severity (minutes awake after sleep onset); no such improvements were observed for sleep latency, total sleep time, or sleep efficiency compared to placebo. Effect sizes were moderate and in some cases negligible. The results of this pilot study suggest that CherryPharm, a tart cherry juice blend, has modest beneficial effects on sleep in older adults with insomnia with effect sizes equal to or exceeding those observed in studies of valerian and in some, but not all, studies of melatonin, the two most studied natural products for insomnia. These effects, however, were considerably less than those for evidence-based treatments of insomnia: hypnotic agents and cognitive-behavioral therapies for insomnia.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Beverages",
+        "Cross-Over Studies",
+        "Female",
+        "Humans",
+        "Male",
+        "Pilot Projects",
+        "Prunus",
+        "Sleep",
+        "Sleep Initiation and Maintenance Disorders"
+      ]
+    },
+    {
+      "pmid": "19692530",
+      "title": "Tart cherry juice decreases oxidative stress in healthy older men and women.",
+      "authors": [
+        "Tinna Traustadóttir",
+        "Sean S Davies",
+        "Anthoney A Stock",
+        "Yali Su",
+        "Christopher B Heward",
+        "L Jackson Roberts",
+        "S Mitchell Harman"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2009-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Compared with young adults, older adults have significantly impaired capacities to resist oxidative damage when faced with acute stress such as ischemia/reperfusion. This impairment likely contributes to increased morbidity and mortality in older adults in response to acute trauma, infections, and the susceptibility to diseases such as atherosclerosis, cancer, diabetes, and Alzheimer's disease. Consumption of foods high in polyphenols, particularly anthocyanins, have been associated with improved health, but the mechanisms contributing to these salutary effects remain to be fully established. This study tested the hypothesis that consumption of tart cherry juice containing high levels of anthocyanins improves the capacity of older adults to resist oxidative damage during acute oxidative stress. In a double-blind, placebo-controlled, crossover design, 12 volunteers [6 men and 6 women; age 69 +/- 4 y (61-75 y)] consumed in random order either tart cherry juice or placebo (240 mL twice daily for 14 d) separated by a 4-wk washout period. The capacity to resist oxidative damage was measured as the changes in plasma F(2)-isoprostane levels in response to forearm ischemia-reperfusion (I/R) before and after each treatment. The tart cherry juice intervention reduced the I/R-induced F(2)-isoprostane response (P < 0.05), whereas placebo had no significant effect. The tart cherry juice intervention also reduced basal urinary excretion of oxidized nucleic acids (8-hydroxy-2'-deoxyguanosine, 8-hydroxyguanosine) (P < 0.05) but not urinary excretion of isoprostanes. These data suggest that consumption of tart cherry juice improves antioxidant defenses in vivo in older adults as shown by an increased capacity to constrain an oxidative challenge and reduced oxidative damage to nucleic acids.",
+      "mesh_terms": [
+        "Aged",
+        "Beverages",
+        "Cross-Over Studies",
+        "Fatty Acids, Unsaturated",
+        "Female",
+        "Fruit",
+        "Humans",
+        "Isoprostanes",
+        "Male",
+        "Middle Aged",
+        "Nucleic Acids",
+        "Oxidative Stress",
+        "Prunus"
+      ]
+    },
+    {
+      "pmid": "19496666",
+      "title": "Effect of a tart cherry juice blend on exercise-induced muscle damage in horses.",
+      "authors": [
+        "Normand G Ducharme",
+        "Lisa A Fortier",
+        "Marc S Kraus",
+        "Seiji Hobo",
+        "Hussni O Mohammed",
+        "Malachy P McHugh",
+        "Richard P Hackett",
+        "Leo V Soderholm",
+        "Lisa M Mitchell"
+      ],
+      "journal": "American journal of veterinary research",
+      "publication_date": "2009-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To evaluate whether administering a tart cherry juice blend (TCJB) prior to exercise would reduce skeletal and cardiac muscle damage by decreasing the inflammatory and oxidative stress response to exercise in horses. ANIMALS: 6 horses. PROCEDURES: Horses were randomly allocated into 2 groups in a crossover study with a 2-week washout period and orally administered either TCJB or a placebo solution (1.42 L, twice daily) in a double-masked protocol for 2 weeks prior to a stepwise incremental exercise protocol. Horses were tested for serum activities of creatine kinase and aspartate aminotransferase (AST) and concentrations of cardiac troponin I (cTnI), thiobarbituric acid reactive substances (TBARS; an indicator of oxidative stress), and serum amyloid A (SAA; an indicator of inflammation). To ensure that treatment would not result in positive results of an equine drug-screening protocol, serum samples obtained from each horse prior to and after 2 weeks of administration of TCJB or the placebo solution were tested. RESULTS: All horses had negative results of drug screening at both sample times. The exercise protocol resulted in a significant increase in TBARS concentration, SAA concentration, and serum AST activity in all horses. Administration of TCJB or placebo solution was not associated with an effect on malondialdehyde or SAA concentrations. However, administration of TCJB was associated with less serum activity of AST, compared with administration of placebo solution. CONCLUSIONS AND CLINICAL RELEVANCE: Administration of TCJB may diminish muscle damage induced by exercise.",
+      "mesh_terms": [
+        "Animals",
+        "Aspartate Aminotransferases",
+        "Creatine Kinase",
+        "Cross-Over Studies",
+        "Dietary Supplements",
+        "Female",
+        "Fruit",
+        "Horses",
+        "Muscle, Skeletal",
+        "Physical Conditioning, Animal",
+        "Plant Preparations",
+        "Prunus",
+        "Thiobarbituric Acid Reactive Substances",
+        "Troponin I"
+      ]
+    },
+    {
+      "pmid": "16790484",
+      "title": "Efficacy of a tart cherry juice blend in preventing the symptoms of muscle damage.",
+      "authors": [
+        "D A J Connolly",
+        "M P McHugh",
+        "O I Padilla-Zakour",
+        "L Carlson",
+        "S P Sayers"
+      ],
+      "journal": "British journal of sports medicine",
+      "publication_date": "2006-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Numerous antioxidant and anti-inflammatory agents have been identified in tart cherries. OBJECTIVE: To test the efficacy of a tart cherry juice blend in preventing the symptoms of exercise induced muscle damage. METHODS: This was a randomised, placebo controlled, crossover design. Fourteen male college students drank 12 fl oz of a cherry juice blend or a placebo twice a day for eight consecutive days. A bout of eccentric elbow flexion contractions (2 x 20 maximum contractions) was performed on the fourth day of supplementation. Isometric elbow flexion strength, pain, muscle tenderness, and relaxed elbow angle were recorded before and for four days after the eccentric exercise. The protocol was repeated two weeks later with subjects who took the placebo initially, now taking the cherry juice (and vice versa). The opposite arm performed the eccentric exercise for the second bout to avoid the repeated bout protective effect. RESULTS: Strength loss and pain were significantly less in the cherry juice trial versus placebo (time by treatment: strength p<0.0001, pain p = 0.017). Relaxed elbow angle (time by treatment p = 0.85) and muscle tenderness (time by treatment p = 0.81) were not different between trials. CONCLUSIONS: These data show efficacy for this cherry juice in decreasing some of the symptoms of exercise induced muscle damage. Most notably, strength loss averaged over the four days after eccentric exercise was 22% with the placebo but only 4% with the cherry juice.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Biomechanical Phenomena",
+        "Cross-Over Studies",
+        "Elbow",
+        "Exercise",
+        "Fruit",
+        "Humans",
+        "Male",
+        "Muscle Contraction",
+        "Muscle, Skeletal",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Prunus",
+        "Elbow Injuries"
+      ]
+    }
+  ]
+}

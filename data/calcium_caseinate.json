@@ -1,0 +1,121 @@
+{
+  "supplement": "Calcium Caseinate",
+  "query": "Calcium Caseinate[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:29:22",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "17090140",
+      "title": "Gamma-irradiation influence on the structure and properties of calcium caseinate-whey protein isolate based films. Part 2. Influence of polysaccharide addition and radiation treatment on the structure and functional properties of the films.",
+      "authors": [
+        "Krystyna Cieśla",
+        "Stephane Salmieri",
+        "Monique Lacroix"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2006-Nov-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The influence of gamma-irradiation (32 kGy) followed by the addition of polysaccharides (potato starch, soluble potato starch, and sodium alginate) and heating on the properties of the films based on calcium caseinate (CC)-whey proteins isolate (WPI) and the gels formed with CaCl(2) was evaluated. Radiation induced an improvement of the mechanical and barrier properties of all films. The polysaccharides' effect on the irradiated and non-irradiated CC-WPI gels could be predicted as the sum of their separate effects on CC and on WPI, apart from the alginate interaction with the irradiated CC-WPI. The better properties of the films achieved after admixing polysaccharides to the formerly irradiated protein solution correspond to the smaller strength of gels. Properties of the films and gels prepared using the irradiated proteins and alginate differed depending on whether alginate was admixed before or after irradiation. Results were related to the protein structure, interaction with polysaccharides, and the film's microstructure.",
+      "mesh_terms": [
+        "Caseins",
+        "Gamma Rays",
+        "Gels",
+        "Microscopy, Electron, Transmission",
+        "Milk Proteins",
+        "Polysaccharides",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Structure-Activity Relationship",
+        "Whey Proteins"
+      ]
+    },
+    {
+      "pmid": "12358479",
+      "title": "Isothermal calorimetry study of calcium caseinate and whey protein isolate edible films cross-linked by heating and gamma-irradiation.",
+      "authors": [
+        "M Letendre",
+        "G D'Aprano",
+        "G Delmas-Patterson",
+        "M Lacroix"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2002-Oct-09",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The contribution of thermal and radiative treatments as well as the presence of some excipients, namely glycerol, carboxymethylcellulose (CMC), pectin, and agar, on the formation of protein-protein interactions as well as the formation and loss of protein-water interactions was investigated by means of differential scanning calorimetry in an isothermal mode. Protein-water interactions were assessed through measurement of the heat of the wetting parameter. Isothermal calorimetry measurements pointed out that gamma-irradiation does not favor protein-water interactions, as reflected by its endothermic contribution (P < or = 0.05) to the heat of wetting values. Although significant (P < or = 0.05), the effect of the thermal treatment on endothermic responses using isothermal calorimetry was found to be somewhat lower. Among excipients added to biofilm formulations, glycerol generated the most important losses of protein-water interactions, as inferred by its significant (P < or = 0.05) endothermic impact on the heat of wetting values.",
+      "mesh_terms": [
+        "Agar",
+        "Biodegradation, Environmental",
+        "Calcium",
+        "Calorimetry, Differential Scanning",
+        "Carboxymethylcellulose Sodium",
+        "Caseins",
+        "Cross-Linking Reagents",
+        "Disulfides",
+        "Drug Interactions",
+        "Food Packaging",
+        "Food Preservation",
+        "Gamma Rays",
+        "Glycerol",
+        "Hot Temperature",
+        "Milk Proteins",
+        "Pectins",
+        "Thermodynamics",
+        "Water",
+        "Whey Proteins"
+      ]
+    },
+    {
+      "pmid": "13887337",
+      "title": "Use of calcium caseinate in the treatment of protein malnutrition in children.",
+      "authors": [
+        "T R DORAISWAMY",
+        "I KRIPANIDHI",
+        "K JOSEPH",
+        "M SRINIVASAN",
+        "M SWAMINATHAN",
+        "A SREENIVASAN",
+        "V SUBRAHMANYAN"
+      ],
+      "journal": "Indian journal of pediatrics",
+      "publication_date": "1962-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Caseins",
+        "Child",
+        "Child Nutrition Disorders",
+        "Humans",
+        "Infant",
+        "Nutrition Disorders",
+        "Protein Deficiency"
+      ]
+    },
+    {
+      "pmid": "13185006",
+      "title": "[The treatment of ulcus cruris with alkaline calcium caseinate (dressal)].",
+      "authors": [
+        "K BUHLER"
+      ],
+      "journal": "Die Medizinische",
+      "publication_date": "1954-Jun-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Calcium",
+        "Caseins",
+        "Ulcer",
+        "Varicose Ulcer",
+        "Varicose Veins",
+        "Veins"
+      ]
+    }
+  ]
+}

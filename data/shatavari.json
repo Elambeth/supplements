@@ -1,0 +1,56 @@
+{
+  "supplement": "Shatavari",
+  "query": "Shatavari[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:33:51",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "38725785",
+      "title": "Efficacy and Safety of Shatavari Root Extract for the Management of Menopausal Symptoms: A Double-Blind, Multicenter, Randomized Controlled Trial.",
+      "authors": [
+        "Vani S Gudise",
+        "Meenakshi P Dasari",
+        "Siva Sai K Kuricheti"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background Menopause is a physiological state that occurs in all women and refers to the halt of the reproductive phase. The cessation of the reproductive phase occurs through various stages and presents different symptoms such as hot flashes, night sweats, insomnia, anxiety, depression, and irritability. Such pre- and post-menopausal symptoms may affect the daily activities and production capacities of women, impacting the quality of life (QoL) of women. Hormone replacement therapy (HRT) is primarily used to manage menopausal symptoms. However, various side effects have been reported related to HRT. Therefore, women are choosing alternative medicine such as Ayurveda that can benefit them with less or no adverse effects. Shatavari (Asparagus racemosus) is known in Ayurveda as an effective medicinal plant source for various women's health remedies since ancient times. This study aimed to evaluate the safety and efficacy of the Ayurvedic Shatavari formulation on menopausal symptoms compared to the placebo. Methodology This is a randomized, double-blinded, multicenter, placebo-controlled, clinical study. Altogether, 70 patients were randomized to two groups, i.e., the test group (active group) and the placebo group (microcrystalline cellulose), with 35 participants in each group. Results The study outcomes showed a positive and significant effect of the active test ingredient over the placebo in terms of reduction in hot flashes, night sweats, insomnia, anxiety, nervousness, vaginal dryness, and loss of libido. The Utian QoL improved significantly in the test group compared to the placebo group. No significant adverse events were recorded in the test group, suggesting the safety of this formulation. Conclusions The test compound could be a safe alternative to modern drugs. The findings of this study support the traditional use of Shatavari. Further clinical and pharmacological studies with longer duration and larger and more diverse sample sizes are required to understand the generalized effect of Shatavari root extract in menopausal women."
+    },
+    {
+      "pmid": "30580607",
+      "title": "Asparagus racemosus (Shatavari) targeting estrogen receptor α: - An in-vitro and in-silico mechanistic study.",
+      "authors": [
+        "Ram Sharma",
+        "Vikas Jaitak"
+      ],
+      "journal": "Natural product research",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Breast cancer is a disease where cells in the tissue of the breast, grow and divide without normal control. Breast cancer is second major cause for death in world wide. Importance of natural product increase due to adverse effect of existing synthetic drugs. Asparagus racemosus comprises phytoestrogens which can be used for the treatment of breast cancer. In the current study, In vitro antiproliferative activity of the extracts of A. racemosus is performed in T47D cancer cell lines. Outcomes of the result indicated that aqueous methanol and methanol extract showed excellent antiproliferative activity as compared to bazedoxifene (standard), ethyl acetate and petroleum ether extract. In silico study of reported phytochemical constituents of A. racemosus was performed for understand the molecular mechanism and prospect pharmacophore development. Furthermore, compound 26 (rutin) which has been earlier reported and isolated from alcoholic extract exhibited the remarkable binding profile with estrogen receptor α. For that reason, our study proposed that A. racemosus could be used as a new source for the treatment of breast cancer.",
+      "mesh_terms": [
+        "Acetates",
+        "Antineoplastic Agents, Phytogenic",
+        "Asparagus Plant",
+        "Breast Neoplasms",
+        "Cell Line, Tumor",
+        "Computer Simulation",
+        "Drug Screening Assays, Antitumor",
+        "Estrogen Receptor alpha",
+        "Female",
+        "Humans",
+        "Molecular Docking Simulation",
+        "Phytoestrogens",
+        "Plant Extracts",
+        "Protein Conformation",
+        "Rutin",
+        "Solvents"
+      ]
+    }
+  ]
+}

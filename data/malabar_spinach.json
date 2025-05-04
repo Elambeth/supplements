@@ -1,0 +1,52 @@
+{
+  "supplement": "Malabar Spinach",
+  "query": "Malabar Spinach[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:00:57",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39578694",
+      "title": "Biosorption potential of basella Alba (Malabar spinach) for removal of fluoride in aqueous solutions based on its phytoremediation applications; a review.",
+      "authors": [
+        "Beatrice C Langat",
+        "Okoti P Aluora"
+      ],
+      "journal": "International journal of phytoremediation",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "This review article explores the applications of Basella alba (Malabar spinach), a fast-growing vine plant known for its numerous health benefits, culinary uses, and potential in dye and oil production. Fluoride contamination in water poses a significant global health and environmental challenge, particularly in regions where natural and industrial activities lead to elevated fluoride levels. Among its varied applications, B. alba has shown significant promise in the phytoremediation of contaminants in both water and soil, owing to its hyper accumulating capacities. The plant has a transfer factor value of more than 1 which means that there is higher accumulation of contaminants in parts of the plant than in soil. The objective of this review is to assess the feasibility of B. alba in contributing to sustainable water management solutions for fluoride contamination, while offering a comprehensive evaluation of its environmental remediation potential. The article examines the biosorption capabilities of B. alba based on its established use in phytoremediation, offering insights into its suitability for addressing fluoride contamination in water. This article is organized into sections starting with an introduction, which brings explains the global challenge of fluoride, and different treatment techniques justifying why biosorption needs to be considered, cases of application of phytoremediation using B. Alba, and finally exploring the success factors for plants that have been applied for both biosorption and phytoremediation.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Fluorides",
+        "Water Pollutants, Chemical",
+        "Spinacia oleracea"
+      ]
+    },
+    {
+      "pmid": "39335872",
+      "title": "Anti-Melanogenic Potential of Malabar Spinach (Basella alba) in Human Melanoma Cells with Oxidative Stress Suppression and Anti-Inflammatory Activities.",
+      "authors": [
+        "Pichchapa Linsaenkart",
+        "Warintorn Ruksiriwanich",
+        "Korawan Sringarm",
+        "Chaiwat Arjin",
+        "Pornchai Rachtanapun",
+        "Chuda Chittasupho",
+        "Juan M Castagnini",
+        "Romchat Chutoprapat",
+        "Anja Mueller",
+        "Korawinwich Boonpisuttinant"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2024-Sep-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Basella alba has been used in Thai remedies to treat skin disorders, but scientific evidence supporting its efficacy is currently limited. In this study, we investigated the inhibitory effects of B. alba extracts on melanin production using melanoma cells, as well as their impact on oxidative stress and inflammation in keratinocytes. The results demonstrate that B. alba extracts inhibited melanin content and cellular tyrosinase activity in 3-isobutyl-1-methylxanthine (IBMX)-induced melanoma cells by downregulating MITF and the pigmentary genes TYR, TRP-1, and DCT. Interestingly, the MITF regulator gene was inhibited by both the 50% and 95% ethanolic extracts of B. alba with levels of 0.97 ± 0.19 and 0.92 ± 0.09 of the control, respectively, which are comparable to those observed in the arbutin treatment group at 0.84 ± 0.05 of the control. Moreover, after hydrogen peroxide (H2O2) exposure, pretreatment with B. alba reduced lipid peroxidation byproducts and increased the levels of antioxidant-related genes, including SOD-1, GPX-1, and NRF2. Notably, the suppression of the POMC promoter gene in keratinocytes was observed, which may disrupt melanogenesis in melanocytes involving the MC1R signaling pathway. MC1R mRNA expression decreased in the treatments with 50% and 95% ethanolic extracts of B. alba, with relative levels of 0.97 ± 0.18 and 0.90 ± 0.10 of the control, respectively, similar to the arbutin-treated group (0.88 ± 0.25 of control). A significant reduction in nitric oxide was also observed in the B. alba-treated groups, along with a decrease in genes associated with pro-inflammatory cytokines, including IL-1β, IL-6, and COX-2. These findings suggest that B. alba has potential in the prevention of skin-related problems."
+    }
+  ]
+}

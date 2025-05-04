@@ -1,0 +1,97 @@
+{
+  "supplement": "Sleep Hygiene Training",
+  "query": "Sleep Hygiene Training[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:34:58",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "40162739",
+      "title": "\"Investigation of the Effect of Sleep Hygiene Training on Obstructive Sleep Apnea Symptoms, Fatigue, and Sleep Quality In Patients With Atrial Fibrillation\".",
+      "authors": [
+        "Besey Ören",
+        "Busra Zehra Buyukkilic",
+        "Semiha Akin Eroglu",
+        "Ahmet Lutfullah Orhan"
+      ],
+      "journal": "Clinical cardiology",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: Sleep hygiene education is widely used as a coping strategy for sleep disorders and is known to be an effective, and side-effect-free approach. To improve sleep quality by reducing the symptoms and fatigue level experienced by patients with OSAS with sleep hygiene education. METHOD: The study was a single-center, randomized controlled research. A structured training program was applied face-to-face to the intervention group. Received inpatient treatment for atrial fibrillation in the Cardiology Service of a Training and Research Hospital between June 2023 and December 2023. RESULTS: No significant difference was found between the MOS Sleep Scale scores of the control group and the intervention group at 1 month in terms of sleep disturbance, sleep adequacy, shortness of breath, sleepiness, snoring, and sleep duration subscales. Fatigue, concentration, motivation, and physical activity scores of the intervention group patients were lower at the end of the 1st month. CONCLUSION: Sleep hygiene education has a positive effect on sleep duration in patients with Atrial Fibrillation, however it is ineffective in ensuring high quality sleep.",
+      "mesh_terms": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Male",
+        "Female",
+        "Sleep Hygiene",
+        "Fatigue",
+        "Sleep Apnea, Obstructive",
+        "Middle Aged",
+        "Patient Education as Topic",
+        "Sleep Quality",
+        "Aged",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "38554532",
+      "title": "A randomized controlled trial of effects of sleep hygiene training and progressive muscle relaxation training in children with ADHD.",
+      "authors": [
+        "Gaye Türkmen Noyan",
+        "Gizem Berna Direk",
+        "Abdurrahman Cahid Örengül"
+      ],
+      "journal": "Sleep medicine",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "OBJECT: Sleep problems often accompany ADHD and negatively affect ADHD symptoms, however, there are not enough intervention studies on sleep interventions in children with ADHD. The present study investigated the effects of sleep hygiene training (SH) and progressive muscle relaxation exercises (PMR) in children with ADHD. METHOD: 57 children aged 6-12 years with ADHD were randomly assigned to the SH and SH + PMR groups and completed the intervention consisting of group training and eight weeks of telephone interviews. The effects of both intervenitons were evaluated via parent, child and clinician report scales and neuropsychological tests. RESULTS: Both interventions resulted in significant positive changes in child sleep, ADHD symptoms, functioning, neuropsychological tests and parental sleep quality. Significant differences were found between the interventions in selective attention, peer problems and anxiety scores in favor of the SH + PMR group. CONCLUSION: SH may have positive effects on various clinical parameters as well as sleep problems in children with ADHD. Addition of PMR to SH may lead to further improvements in anxiety, peer problems and selective attention. SH and PMR may be a useful tool in the clinical management of children with ADHD with sleep problems.",
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Sleep Hygiene",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Autogenic Training",
+        "Parents",
+        "Sleep Wake Disorders"
+      ]
+    },
+    {
+      "pmid": "24413724",
+      "title": "Sleep hygiene training program for patients on hemodialysis.",
+      "authors": [
+        "Maryam Saeedi",
+        "Soheila Shamsikhani",
+        "Poran Varvani Farahani",
+        "Farshid Haghverdi"
+      ],
+      "journal": "Iranian journal of kidney diseases",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: The high prevalence of sleep disorders highlights the importance of its treatment in hemodialysis patients. Due to complications of hypnotic medications, considering effective nonpharmacological methods to improve sleep quality is important. This study has conducted to determine the effect of a sleep hygiene training program on sleep quality of hemodialysis patients. MATERIALS AND METHODS: In a randomized controlled clinical trial, 82 hemodialysis patients were randomly selected and allocated to the intervention (n = 41) and control (n = 41) groups. A 1-month sleep hygiene program was provided to the intervention group within 6 sessions, and the sleep quality was assessed by the Pittsburgh Sleep Quality Index before and after the intervention. The global and components scores were compared between the two groups. RESULTS: The mean global scores and component scores of sleep quality were not significantly different between the two groups before the intervention. The mean global score of sleep quality of the intervention group significantly reduced after sleep hygiene education, as compared to the baseline values. The mean global score of the intervention group was significantly lower than that of the control group after the intervention (intervention, 9.92 +/- 3.80 versus control, 13.05 +/- 4.28). Also, the mean scores subjective sleep quality, sleep latency, sleep disturbances, and daytime dysfunction were significantly lower in the intervention group. CONCLUSIONS: The findings of this study suggest that nursing and physicians team should consider reducing sleep problems of hemodialysis patients by training sleep hygiene.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Patient Education as Topic",
+        "Renal Dialysis",
+        "Sleep",
+        "Sleep Wake Disorders",
+        "Surveys and Questionnaires",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

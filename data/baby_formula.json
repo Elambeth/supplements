@@ -1,0 +1,36 @@
+{
+  "supplement": "Baby Formula",
+  "query": "Baby Formula[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:14:24",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "39847254",
+      "title": "Development and Validation of a Decision Support Tool for Baby Formula Prescription.",
+      "authors": [
+        "Leonara Carla de Araújo Pereira",
+        "Gabrielle Mahara Martins Azevêdo Castro",
+        "Anna Cecília Queiroz de Medeiros"
+      ],
+      "journal": "Maternal and child health journal",
+      "publication_date": "2025-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Although there are acceptable medical reasons for the use of food supplements, most prescriptions for newborns do not comply with current recommendations, putting continued breastfeeding at risk. This study aimed to create and validate a flowchart for newborn supplement prescription. METHODS: The flowchart was created and submitted to two rounds of assessments by a panel of judges, who calculated the content validity index (CVI) (acceptable > 0.80). Flowchart use in clinical practice (applicability) was validated by professional prescribers through the resolution of 3 clinical cases. Data were analyzed using Pearson`s chi-squared test (p < 0.05). RESULTS: The flowchart was assessed by 17 judges and validated regarding its content (CVI = 0.84). Took part in validating the applicability of this study 169 doctors and nutritionists who work in maternal and child health. There was a statistical association between correct case resolution and flowchart utilization in two of the three clinical cases (p < 0.05). In situation 1, the use of a validated flowchart increased the likelihood of correct answers 7.76 times. DISCUSSION: Prescribing baby formula is complex and requires careful assessment of several factors. Thus, knowledge translation is an effective intervention to eliminate the gaps between knowledge and clinical practice. The validated flowchart allows more assertive conduct regarding breastfeeding management and food supplement prescription for newborns.",
+      "mesh_terms": [
+        "Humans",
+        "Infant Formula",
+        "Infant, Newborn",
+        "Breast Feeding",
+        "Female",
+        "Prescriptions",
+        "Decision Support Techniques",
+        "Infant",
+        "Reproducibility of Results",
+        "Dietary Supplements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "supplement": "Tibetan Singing Bowl",
+  "query": "Tibetan Singing Bowl[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:57:17",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "36826208",
+      "title": "Acute Relaxation Response Induced by Tibetan Singing Bowl Sounds: A Randomized Controlled Trial.",
+      "authors": [
+        "Cristobal Rio-Alamos",
+        "Rodrigo Montefusco-Siegmund",
+        "Toni Cañete",
+        "Joaquín Sotomayor",
+        "Alberto Fernandez-Teruel"
+      ],
+      "journal": "European journal of investigation in health, psychology and education",
+      "publication_date": "2023-Jan-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The prevalence of anxiety has increased dramatically due to COVID-19, so effective preventive interventions are welcome. The main objective of our study was to compare the acute relaxation response (RR) induced by Tibetan singing bowl (TSB) sound-based treatment against progressive muscle relaxation (PMR) and a control waiting list group (CWL) in a single treatment session in an adult nonclinical anxious population. In this cross-sectional randomized control trial, 50 participants selected based on high state anxiety were randomly assigned to one of the experimental groups. Pre/post self-reported anxiety, electroencephalographic activity (EEG), and heart rate variability (HRV) were recorded at baseline (T1), minute 15 (T2), minute 30 (T3), and minute 45 (T4). The TSB group showed significant reductions in alpha power (from T2 to T4) and increased HRV (from T3 to T4) compared with the PMR and CWL groups. Moreover, TSB and PMR both showed significant reductions in self-reported anxiety compared with CWL, with this effect being more evident in the TSB group. We concluded that a single session of TSB treatment was able to induce a more evident psychological/physiological relaxation response compared with PMR and CWL. TSB could be a relevant acute intervention in stressful situations or crisis intervention and while waiting for conventional interventions."
+    }
+  ]
+}

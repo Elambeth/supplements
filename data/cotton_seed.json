@@ -1,0 +1,429 @@
+{
+  "supplement": "Cotton Seed",
+  "query": "Cotton Seed[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:42:07",
+  "research_count": 16,
+  "count": 16,
+  "articles": [
+    {
+      "pmid": "39397968",
+      "title": "Impact of dielectric barrier discharge plasma and plasma-activated water on cotton seed germination and seedling growth.",
+      "authors": [
+        "Mohammad Hossein Mohajer",
+        "Motahare Monfaredi",
+        "Maede Rahmani",
+        "Mahdye Martami",
+        "Elahe Razaghiha",
+        "Mohammad Hossein Mirjalili",
+        "Aidin Hamidi",
+        "Hamid Reza Ghomi"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2024-Oct-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Unfavorable environmental conditions during planting can reduce seed germination and hinder seedling growth. To address this issue, manufacturers are exploring innovative and cost-effective methods, such as cold plasma discharge. This simple, low-cost, and efficient physical technique induces significant biological responses in seeds and plants without the use of traditional, environmentally hazardous chemicals. This study investigated the impact of dielectric barrier discharge (DBD) plasma and plasma-activated water (PAW), produced by gliding arc plasma, on the germination and seedling growth of My344 cotton seeds. The seeds were pre-treated with 80 W of DBD plasma for 0, 1, 2, and 3 min, and subsequently soaked for 90 min in PAW with varying pH levels of 5.82, 3.88, 3.63, and 3.38. The results showed that plasma treatment positively influenced seed germination and seedling growth. The highest germination percentage (98.89 %) was observed with 1 min of DBD treatment, followed by PAW priming at pH levels of 3.63 and 3.38. Additionally, a 3-min DBD treatment followed by soaking in PAW with a pH of 3.63 led to significant increases in stem length (76.76 %), root length (48.77 %), and wet weight (76.44 %). Furthermore, it was observed that the electrical conductivity of the seeds in all groups decreased significantly with increased PAW acidity. The physical and chemical effects of cold DBD plasma on the seed surface, as well as changes in hydrophilicity, were further examined using scanning electron microscopy (SEM), Fourier-transform infrared spectroscopy (FTIR), and water contact angle imaging."
+    },
+    {
+      "pmid": "39267907",
+      "title": "Seed treatment: an alternative and sustainable approach to cotton seed delinting.",
+      "authors": [
+        "Laviza Tuz Zahra",
+        "Fariha Qadir",
+        "Mohammad Nasir Khan",
+        "Hira Kamal",
+        "Nosheen Zahra",
+        "Arfan Ali",
+        "Muhammad Mubashar Zafar",
+        "Abdul Razzaq",
+        "Xuefei Jiang"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "This review article delves into the vital aspects of cotton, emphasizing its global significance as a crucial agricultural commodity. The paper comprehensively explores the composition of cotton and surveys the diverse methods employed for the removal of cotton lint from seeds. Conventional delinting methods, including mechanical and chemical approaches, are scrutinized in terms of their advantages and drawbacks. However, the primary focus of this review is on highlighting the emerging significance of biological delinting methods. By harnessing the power of microbial enzymes and organisms, biological approaches offer a promising alternative for efficient lint removal. The authors discuss the environmental advantages associated with biological delinting, positioning it as a sustainable solution that mitigates the ecological impact of traditional methods. Furthermore, the article contextualizes these delinting methods within the framework of Sustainable Development Goals (SDGs) and underscores the importance of adopting eco-friendly practices in the cotton industry to align with SDG goals. By accentuating the potential of biological delinting in contributing to sustainable agriculture and responsible production, the review advocates for a paradigm shift towards more environmentally conscious approaches in the cotton sector. Overall, the article aims to provide a comprehensive perspective on cotton delinting methods, emphasizing the pivotal role of biological alternatives in fostering a sustainable and goal-oriented future for the cotton industry."
+    },
+    {
+      "pmid": "33928409",
+      "title": "A stable QTL qSalt-A04-1 contributes to salt tolerance in the cotton seed germination stage.",
+      "authors": [
+        "Qishen Gu",
+        "Huifeng Ke",
+        "Chenchen Liu",
+        "Xing Lv",
+        "Zhengwen Sun",
+        "Zhengwen Liu",
+        "Wei Rong",
+        "Jun Yang",
+        "Yan Zhang",
+        "Liqiang Wu",
+        "Guiyin Zhang",
+        "Xingfen Wang",
+        "Zhiying Ma"
+      ],
+      "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+      "publication_date": "2021-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A stable QTL qSalt-A04-1 for salt tolerance in the cotton seed germination stage, and two candidate genes, GhGASA1 and GhADC2, that play negative roles by modulating the GA and PA signalling pathways, respectively, were identified. The successful transition of a seed into a seedling is a prerequisite for plant propagation and crop yield. Germination is a vulnerable stage in a plant's life cycle that is strongly affected by environmental conditions, such as salinity. In this study, we identified a novel quantitative trait locus (QTL) qRGR-A04-1 associated with the relative germination rate (RGR) after salt stress treatment based on a high-density genetic map under phytotron and field conditions, with LOD values that ranged from 6.65 to 16.83 and 6.11-12.63% phenotypic variations in all five environmental tests. Two candidate genes with significantly differential expression between the two parents were finally identified through RNA-seq and qRT-PCR analyses. Further functional analyses showed that GhGASA1- and GhADC2-overexpression lines were more sensitive to salt stress than wild-type Arabidopsis based on the regulation of the transcript levels of gibberellic acid (GA)- and polyamine (PA)- related genes in GA and PA biosynthesis and the reduction in the accumulation of GA and PA, respectively, under salt stress. Virus-induced gene silencing analysis showed that TRV:GASA1 and TRV:ADC2 were more tolerant to salt stress than TRV:00 based on the increased expression of GA synthesis genes and decreased H2O2 content, respectively. Taken together, our results suggested that QTL qRGR-A04-1 and its two harboured genes, GhGASA1 and GhADC2, are promising candidates for salt tolerance improvement in cotton.",
+      "mesh_terms": [
+        "Chromosome Mapping",
+        "Chromosomes, Plant",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Germination",
+        "Gossypium",
+        "Plant Proteins",
+        "Quantitative Trait Loci",
+        "Salt Tolerance",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "33893574",
+      "title": "Effect of feeding calcium propionate supplemented cotton seed cake on milk yield, milk composition and aflatoxin concentration in lactating buffaloes.",
+      "authors": [
+        "Murtaza Ali Tipu",
+        "Anjum Khalique",
+        "Muhammad Naveed-Ul-Haque",
+        "Muhammad Qamer Shahid",
+        "Maqsood Akhtar",
+        "Mubashir Ilyas"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2021-Apr-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of the current study was to reduce aflatoxin in a cotton seed cake (csc)-based diet and to decrease M1 level in milk by treating it with increasing levels of calcium propionate. Sixteen multiparous Nili-Ravi buffaloes were allocated to one of four treatments in a replicated 4 × 4 Latin square design. The treatments were calcium propionate treatment on csc at 0, 0.25, 0.50 and 0.75%. The duration of each period was 20 days. The level of aflatoxin was 100 ug/kg aflatoxin B1 (AFB1) in the control diet. Calcium propionate application decreased the concentration of aflatoxin M1, and the treatments were 1.63, 0.83, 0.29 and 0.44 ug/kg in 0.25, 0.50 and 0.75%, respectively. Milk yield and milk composition were not affected across the whole range of treatment. In conclusion, oral intake of calcium propionate reduced the AF transfer from feed to milk without changing milk yield and composition.",
+      "mesh_terms": [
+        "Aflatoxins",
+        "Animal Feed",
+        "Animals",
+        "Buffaloes",
+        "Cottonseed Oil",
+        "Diet",
+        "Female",
+        "Lactation",
+        "Milk",
+        "Propionates"
+      ]
+    },
+    {
+      "pmid": "30258075",
+      "title": "Cold plasma treatment for cotton seed germination improvement.",
+      "authors": [
+        "Gerard J J B de Groot",
+        "Andy Hundt",
+        "Anthony B Murphy",
+        "Michael P Bange",
+        "Anne Mai-Prochnow"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2018-Sep-26",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Adverse environmental conditions at planting, such as cold temperature or water limitation, can lead to a reduced level of seed germination and plant establishment for cotton. Cold atmospheric-pressure plasma (CAP) treatment of cotton seeds prior to planting may help alleviate this problem. CAP is ionised gas that has a range of biological activities due to the formation of a mix of reactive oxygen and nitrogen species (RONS), excited molecules, charged particles and UV photons. Our results show that a 27 minutes CAP treatment using air can significantly increase water absorption of the seed, and improve warm germination, metabolic chill test germination and chilling tolerance in cotton. We also observe that the beneficial effect of CAP treatment is long-lasting and stable as improved germination activity is still seen when treatment occurs 4 months before germination testing, suggesting that future large-scale industrial seed plasma treatments may still be effectively applied well (months) before the seed planting. We conclude that CAP treatment is a promising new tool for use in the cotton industry that has the potential to significantly improve plant establishment in a wider range of environmental conditions.",
+      "mesh_terms": [
+        "Agriculture",
+        "Cold Temperature",
+        "Germination",
+        "Gossypium",
+        "Plasma Gases",
+        "Seeds",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "30094903",
+      "title": "Sublethal and transgenerational effects of thiamethoxam applied to cotton seed on Chrysoperla externa and Harmonia axyridis.",
+      "authors": [
+        "Rafaella R Sâmia",
+        "Pablo C Gontijo",
+        "Rodrigo L Oliveira",
+        "Geraldo A Carvalho"
+      ],
+      "journal": "Pest management science",
+      "publication_date": "2019-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Thiamethoxam, when applied as a seed treatment, can contaminate plant products, such as extrafloral nectar, and have non-target effects on beneficial arthropods. This study assessed the non-target effects of thiamethoxam applied to cotton seed on the life history parameters of the predators Chrysoperla externa (Neuroptera: Chrysopidae) and Harmonia axyridis (Coleoptera: Coccinellidae). RESULTS: Exposure of C. externa larvae to plants grown from thiamethoxam-treated seeds caused sublethal and transgenerational effects. Thiamethoxam treatment doubled the proportion of pharate adults and reduced egg fertility in C. externa F0 and F1 generations. In addition, the insecticide prolonged pupal developmental time in the C. externa F1 generation. Thiamethoxam treatment also had a transgenerational effect on exposed H. axyridis larvae, reducing pupal survival in the F1 generation. In the adult bioassay, thiamethoxam treatment reduced egg fertility of C. externa, prolonged the larval period, and reduced both fecundity and egg fertility of the F1 generation. Thiamethoxam also caused transgenerational effect on H. axyridis adults, reducing larval survival of the F1 generation. CONCLUSION: Thiamethoxam seed treatment was harmful for both predators, but C. externa was more affected by the insecticide than H. axyridis. © 2018 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Coleoptera",
+        "Fertility",
+        "Gossypium",
+        "Insecta",
+        "Insecticides",
+        "Larva",
+        "Seeds",
+        "Thiamethoxam"
+      ]
+    },
+    {
+      "pmid": "25049819",
+      "title": "Effect of carbohydrate sources and levels of cotton seed meal in concentrate on feed intake, nutrient digestibility, rumen fermentation and microbial protein synthesis in young dairy bulls.",
+      "authors": [
+        "M Wanapat",
+        "N Anantasook",
+        "P Rowlinson",
+        "R Pilajun",
+        "P Gunun"
+      ],
+      "journal": "Asian-Australasian journal of animal sciences",
+      "publication_date": "2013-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The objective of this study was to investigate the effect of levels of cottonseed meal with various carbohydrate sources in concentrate on feed intake, nutrient digestibility, rumen fermentation and microbial protein synthesis in dairy bulls. Four, 6 months old dairy bulls were randomly assigned to receive four dietary treatments according to a 2×2 factorial arrangement in a 4×4 Latin square design. Factor A was carbohydrate source; cassava chip (CC) and cassava chip+rice bran in the ratio of 3:1 (CR3:1), and factor B was cotton seed meal levels in the concentrate; 109 g CP/kg (LCM) and 328 g CP/kg (HCM) at similar overall CP levels (490 g CP/kg). Bulls received urea-lime treated rice straw ad libitum and were supplemented with 10 g of concentrate/kg BW. It was found that carbohydrate source and level of cotton seed meal did not have significant effects on ruminal pH, ammonia nitrogen concentration, microbial protein synthesis or feed intake. Animals which received CC showed significantly higher BUN concentration, ruminal propionic acid and butyric acid proportions, while dry matter, organic matter digestibility, populations of total viable bacteria and proteolytic bacteria were lower than those in the CR3:1 treatment. The concentration of total volatile fatty acids was higher in HCM than LCM treatments, while the concentration of butyric acid was higher in LCM than HCM treatments. The population of proteolytic bacteria with the LCM treatments was higher than the HCM treatments; however other bacteria groups were similar among the different levels of cotton seed meal. Bulls which received LCM had higher protein digestibility than those receiving HCM. Therefore, using high levels of cassava chip and cotton seed meal might positively impact on energy and nitrogen balance for the microbial population in the rumen of the young dairy bull."
+    },
+    {
+      "pmid": "22072076",
+      "title": "Effect of carbohydrate sources and cotton seed meal in the concentrate: II. Feed intake, nutrient digestibility, rumen fermentation and microbial protein synthesis in beef cattle.",
+      "authors": [
+        "Metha Wanapat",
+        "Suban Foiklang",
+        "Peter Rowlinson",
+        "Ruangyote Pilajun"
+      ],
+      "journal": "Tropical animal health and production",
+      "publication_date": "2012-Jan",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Four, rumen fistulated crossbred (Brahman × native) beef cattle steers were randomly assigned to receive four dietary treatments according to a 2 × 2 factorial arrangement in a 4 × 4 Latin square design. Factor A was carbohydrate source; cassava chip (CC) or CC + rice bran at a ratio 3:1 (CR3:1) and Factor B was cotton seed meal level (CM); and 109 g CP/kg (LCM) and 328 g CP/kg (HCM) at similar overall CP levels (490 g CP/kg). The animals were fed 5 g concentrate/kg BW, and urea-treated rice straw (UTS) (50 g urea/kg DM) was fed ad libitum. Carbohydrate source did not affect feed intake, nutrient digestibility, blood urea nitrogen, rumen fermentation, or microbial protein synthesis; however, animals fed with CC had a higher population of total viable bacteria than the CR3:1 treatment (P<0.05). Animals that received HCM had a lower total feed intake while ruminal pH was higher than the LCM fed treatment (P<0.05). The population of total viable and cellulolytic bacteria in animals that received HCM were lower than the LCM fed treatment (P<0.05). Moreover, use of HCM in beef cattle diets resulted in lower microbial protein synthesis when compared with the LCM fed treatment (P<0.05) although efficiency of microbial protein synthesis was nonsignificantly different among treatments. Therefore, cassava chip combined with rice bran can be used in a concentrate diet for beef cattle. It is also noted that a high level of cotton seed meal in the concentrate may impact rumen fermentation and animal performance.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animal Husbandry",
+        "Animals",
+        "Bacterial Proteins",
+        "Cattle",
+        "Cottonseed Oil",
+        "Dietary Carbohydrates",
+        "Dietary Proteins",
+        "Digestion",
+        "Feces",
+        "Fermentation",
+        "Fungal Proteins",
+        "Male",
+        "Manihot",
+        "Oryza",
+        "Protozoan Proteins",
+        "Random Allocation",
+        "Rumen",
+        "Thailand"
+      ]
+    },
+    {
+      "pmid": "11405276",
+      "title": "Role of pencycuron in aflatoxin production and cotton seed protection.",
+      "authors": [
+        "H A Hasan"
+      ],
+      "journal": "Journal of natural toxins",
+      "publication_date": "2001-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The research is conducted on the effect of pencycuron and pencycuron-c on cotton seed mycoflora, aflatoxin production and viability. At 8% seed moisture content (mc), pencycuron and pencycuron-c promoted Aspergillus niger, A. flavus, and Penicillium corylophilum growth count at 1 g/kg, but exerted inhibitory effect at 3 and 5 g/kg. At 15% mc, pencycuron enhanced seed-borne fungi at all three doses after most treatment periods (1, 2, 3, 4, and 5 months), whereas pencycuron-c induced inhibition effect. The A. niger utilized pencycuron as nitrogen source more than pencycuron-c. Seeds with 15% mc lost their viability faster than that at 8%, and this was more evident as storage time increased. Such loss occurred faster when seed was treated with pencycuron, whereas pencycuron-c exerted significant activation in the viability compared to the control. The fungal species have high biodegradation activity and produce aflatoxin in different parts of cotton boll (fiber, valves, and seeds). Pencycuron and pencycuron-c inhibited aflatoxin B1 and B2 production in seeds, but did not affect aflatoxin G1 and G2.",
+      "mesh_terms": [
+        "Aflatoxins",
+        "Aspergillus flavus",
+        "Aspergillus niger",
+        "Biodegradation, Environmental",
+        "Fungicides, Industrial",
+        "Germination",
+        "Gossypium",
+        "Penicillium",
+        "Phenylurea Compounds",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "30861889",
+      "title": "Benefits of Cotton Seed Treatments for the Control of Seedling Diseases in Relation to Inoculum Densities of Pythium Species and Rhizoctonia solani.",
+      "authors": [
+        "R M Davis",
+        "J J Nunez",
+        "K V Subbarao"
+      ],
+      "journal": "Plant disease",
+      "publication_date": "1997-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Twenty-five field trials conducted over a 3-year period in five San Joaquin Valley counties included the following treatments: nontreated cotton seed; seed treated with myclobutanil for the control of Rhizoctonia solani-induced damping-off; seed treated with metalaxyl for the control of Pythium-induced damping-off; and seed treated with a combination of the two fungicides. The following parameters were measured: soil populations of Pythium spp. and R. solani at planting, soil temperature at planting, air temperatures for 5 days after planting, soil particle analysis, EC, calcium, pH, organic matter, and plant stands from each treatment. In 1993 and 1994, myclobutanil and the combination of the two fungicides resulted in improved stands in 15 of 18 fields. Metalaxyl did not increase stands in any field in 1993 to 1994. In 1995, the combination of fungicides increased stands relative to the nontreated seeds and was more effective in increasing stands than myclobutanil or metalaxyl alone. Pythium populations were much greater in 1995 than in 1993 to 1994 and may explain the increase in plant stands with the combination of fungicides and metalaxyl alone. Covariate analysis of the data indicated no relationship between stand increases from fungicide seed treatment and any of the soil parameters measured. Heat units following planting were not limiting and had no effect on stands. Populations of pathogens were not related to benefits of fungicides, with the exception of a negative correlation between stand increases from seed treatment with myclobutanil and Pythium populations. Apparently, seed protected with a fungicide active against R. solani were more susceptible to infection by Pythium spp. In general, the fungicide seed treatment active against R. solani increased stands of the cultivar Maxxa regardless of soil type and pathogen populations. Increased stands from the metalaxyl treatment occurred in 1 of the 3 years of the study."
+    },
+    {
+      "pmid": "9195711",
+      "title": "The influence of supplementation with cotton seed cake on the resistance of Ugandan goats to primary and secondary challenges with Trypanosoma congolense and on their response to treatment.",
+      "authors": [
+        "E Katunguka-Rwakishaya",
+        "M Murray",
+        "P H Holmes"
+      ],
+      "journal": "Veterinary parasitology",
+      "publication_date": "1997-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present study investigated the influence of supplementation with cotton seed cake on the resistance of the Small East African breed of goats to primary and secondary challenges with Trypanosoma congolense and on their response to chemotherapy with diminazene aceturate. The supplemented group received 300 g of cotton seed cake per day in addition to about 500 g of fresh napier grass which was available to the unsupplemented group. It was observed that the supplemented infected (SI) group tended to sustain higher intensities of parasitaemia than the unsupplemented infected (USI) group particularly during the primary challenge and both groups showed longer prepatent periods to secondary challenge than to primary challenge. Infection caused a significant reduction in the rate of live body weight gain in the USI group compared with the unsupplemented control (USC) group whilst the SI group grew at the same rate as the supplemented control (SC) group. This effect was observed both during primary and secondary challenges. Following primary challenge, both infected groups developed similar degrees of anaemia, but the packed red cell volume (PCV) levels in the SI group improved towards the end of the first challenge and were also significantly higher than those of the USI group during the second challenge. After treatments at 56 and 126 days after infection (DAI), the greatest response was observed in PCV values. The response of the SI group was superior to that of the USI group and by 4 weeks after treatment the PCV values of the SI and SC groups were similar while those of the USI group were significantly lower than those of the USC group. It is concluded that supplementation with cotton seed cake plays an important role in the rate of live weight gain, and rate of recovery from anaemia produced by trypanosome infection in goats.",
+      "mesh_terms": [
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Body Weight",
+        "Diminazene",
+        "Food, Fortified",
+        "Goat Diseases",
+        "Goats",
+        "Hematocrit",
+        "Immunity, Innate",
+        "Male",
+        "Parasitemia",
+        "Trypanocidal Agents",
+        "Trypanosoma congolense",
+        "Trypanosomiasis, African",
+        "Uganda"
+      ]
+    },
+    {
+      "pmid": "1776560",
+      "title": "Effects of an aqueous extract of cotton seed (Gossypium barbadense Linn.) on adult male rats.",
+      "authors": [
+        "K D Thomas",
+        "A E Caxton-Martins",
+        "A A Elujoba",
+        "O O Oyelola"
+      ],
+      "journal": "Advances in contraception : the official journal of the Society for the Advancement of Contraception",
+      "publication_date": "1991-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Twenty adult male rats per group in 4 treatment groups were injected intraperitoneally at 08.00 hours with 0.1 ml of an aqueous cotton seed extract (Gossypium barbadense Linn.) (Malvaceae) in concentrations of (a) 105.25, (b) 21.21, (c) 4.65, (d) 2.325 mg ml-1 (kg body weight)-1, respectively. A fifth group (control) was given 0.1 ml of pyrogen free distilled water per rat. Five rats per treatment group were sacrificed at 2, 8, 24 and 168 hours respectively after treatment. Plasma follicle stimulating hormone (FSH) and luteinizing hormone (LH) showed no change. Plasma testosterone was lower (p less than 0.05) than that of control at 2 and 8 hours, with recovery by 168 hours post treatment. Plasma creatinine was raised by 2 hours, with recovery by 8 hours. Plasma urea rose gradually but persistently to a maximum of 168 hours. Plasma aspartate (AST) and alanine (ALT) transaminases were significantly higher (p less than 0.001) than that of controls throughout the study. Testicular histology showed early germ cell disorganization followed by progressive fibrosis (sperm cytoskeleton) by 24 hours. There was evidence of recovery by 168 hours. It is concluded that aqueous extract of cotton seed meal contains substances that can rapidly cause damage to testicular, liver, kidney and muscular tissues.",
+      "mesh_terms": [
+        "Animals",
+        "Contraceptive Agents, Male",
+        "Creatinine",
+        "Follicle Stimulating Hormone",
+        "Gossypium",
+        "Gossypol",
+        "Luteinizing Hormone",
+        "Male",
+        "Plant Extracts",
+        "Rats",
+        "Testis",
+        "Testosterone"
+      ]
+    },
+    {
+      "pmid": "2388684",
+      "title": "Use of oyster shell as calcium supplement. Part 1. Effect on the utilization of gossypol-containing cotton seed cake by the chicken.",
+      "authors": [
+        "V A Aletor",
+        "O E Onibi"
+      ],
+      "journal": "Die Nahrung",
+      "publication_date": "1990",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "The comparative utilization of cottonseed cake (CSC) diet supplemented with varying levels of oyster shell (0.00, 1.50, 3.00 and 4.50%) as a source of calcium, and groundnut cake (GNC) based diet were evaluated in a feeding trial using 100 day-old HYPECO broiler-chicks. The response criteria included performance, carcass traits and economics of production. The weight gains at the end of the trial were not significantly different. However, feed consumption significantly (P less than 0.5) increased with increasing dietary calcium. Feed consumption was significantly (P less than 0.05) correlated with dietary calcium levels with r = 0.96. Feed efficiency and protein efficiency ratio were significantly (P less than 0.05) better in the GNC diets than CSC based diets in spite of the oyster shell supplementation of the latter. Both nitrogen retention and apparent nitrogen digestibility were not significantly influenced. The percent dressed weight, percent eviscerated weight and the relative weights of the thigh, drumstick, chest, back, head and belly fat were not significantly influenced by the dietary treatment. Only the relative weight of the shank was significantly (P less than 0.05) influenced. The cost-benefit analysis showed that although it was chapter to formulate CSC diets, profits were identical with GNC diets when fed to the chicks. It was suggested that CSC could be a good substitute for GNC because of the ready availability of the former. Dietary calcium of up to 1.82% was beneficial in the utilization of the CSC.",
+      "mesh_terms": [
+        "Animal Feed",
+        "Animals",
+        "Arachis",
+        "Calcium, Dietary",
+        "Chickens",
+        "Cottonseed Oil",
+        "Eating",
+        "Gossypol",
+        "Ostreidae",
+        "Random Allocation",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "2516506",
+      "title": "The effect of long-term treatment with crude cotton seed oil on pituitary and testicular function in men.",
+      "authors": [
+        "Z Gui-Yuan",
+        "J Meng-Chun",
+        "C Jin-Lai",
+        "Y Wen-Qing"
+      ],
+      "journal": "International journal of andrology",
+      "publication_date": "1989-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In a previous study, compensatory dysfunction of the Leydig cell was identified in men in whom spermatogenesis had failed to recover after gossypol treatment. In this study, LHRH- (100 micrograms i.v.) and hCG (3000 IU i.m.)-stimulation tests were conducted in four controls and in 45 men who had used crude cotton seed oil as their cooking oil. The patients were divided into two groups: group A--17 men with normospermia or oligospermia and group B--28 men who were azoospermic. The basal serum LH and FSH concentrations were within the normal range in group A, whereas those in group B were increased markedly. There was no significant difference in testosterone levels between the two groups, although the levels were significantly lower than in the controls. The response of LH and FSH to LHRH, and of testosterone to hCG stimulation, were within the normal range in group A, whereas in group B the response to the LHRH test was increased significantly while their response to the hCG test was reduced markedly. It was concluded that the functions of the pituitary and Leydig cells remained unchanged in group A after long-term use of crude cotton seed oil, and that once azoospermia has occurred, it is followed by total testicular failure as indicated by the responses to LHRH and hCG tests.",
+      "mesh_terms": [
+        "Adult",
+        "Chorionic Gonadotropin",
+        "Cottonseed Oil",
+        "Follicle Stimulating Hormone",
+        "Gonadotropin-Releasing Hormone",
+        "Humans",
+        "Luteinizing Hormone",
+        "Male",
+        "Oligospermia",
+        "Pituitary Gland",
+        "Stimulation, Chemical",
+        "Testis",
+        "Testosterone",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "5171478",
+      "title": "Experience with cotton-seed protein in the therapy of kwashiorkar.",
+      "authors": [
+        "G P Rao",
+        "P Ramchandran"
+      ],
+      "journal": "Indian pediatrics",
+      "publication_date": "1971-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Child",
+        "Cottonseed Oil",
+        "Humans",
+        "India",
+        "Infant",
+        "Infant Nutritional Physiological Phenomena",
+        "Kwashiorkor",
+        "Plant Proteins"
+      ]
+    },
+    {
+      "pmid": "36020154",
+      "title": "Etiology, Pathology and Treatment of Pellagra; Cotton Seed Oil and Animals.",
+      "authors": [
+        "George C Mizell"
+      ],
+      "journal": "Atlanta journal-record of medicine",
+      "publication_date": "1911-Aug",
+      "publication_types": [
+        "Journal Article"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "supplement": "Blue-Light Glasses",
+  "query": "Blue-Light Glasses[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:20:20",
+  "research_count": 17,
+  "count": 17,
+  "articles": [
+    {
+      "pmid": "38004935",
+      "title": "Tunable Visible Light and Energy Transfer Mechanism in Tm3+ and Silver Nanoclusters within Co-Doped GeO2-PbO Glasses.",
+      "authors": [
+        "Marcos Vinicius de Morais Nishimura",
+        "Augusto Anselmo Amaro",
+        "Camila Dias da Silva Bordon",
+        "Jessica Dipold",
+        "Niklaus Ursus Wetter",
+        "Luciana Reyes Pires Kassab"
+      ],
+      "journal": "Micromachines",
+      "publication_date": "2023-Nov-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study introduces a novel method for producing Ag nanoclusters (NCs) within GeO2-PbO glasses doped with Tm3+ ions. Sample preparation involved the melt-quenching method, employing adequate heat treatment to facilitate Ag NC formation. Absorption spectroscopy confirmed trivalent rare-earth ion incorporation. Ag NC identification and the amorphous structure were observed using transmission electron microscopy. A tunable visible emission from blue to the yellow region was observed. The energy transfer mechanism from Ag NCs to Tm3+ ions was demonstrated by enhanced 800 nm emission under 380 and 400 nm excitations, mainly for samples with a higher concentration of Ag NCs; moreover, the long lifetime decrease of Ag NCs at 600 nm (excited at 380 and 400 nm) and the lifetime increase of Tm3+ ions at 800 nm (excitation of 405 nm) corroborated the energy transfer between those species. Therefore, we attribute this energy transfer mechanism to the decay processes from S1→T1 and T1→S0 levels of Ag NCs to the 3H4 level of Tm3+ ions serving as the primary path of energy transfer in this system. GeO2-PbO glasses demonstrated potential as materials to host Ag NCs with applications for photonics as solar cell coatings, wideband light sources, and continuous-wave tunable lasers in the visible spectrum, among others."
+    },
+    {
+      "pmid": "36547102",
+      "title": "The Effectiveness of Blue-Light-Emitting Glasses in Security Guards Exposed to Night Shift Work on Work-Related and General Fatigue: A Randomised Controlled Cross-Over Study.",
+      "authors": [
+        "Pieter H Helmhout",
+        "Stella Timmerman",
+        "Alwin van Drongelen",
+        "Eric W P Bakker"
+      ],
+      "journal": "Clocks & sleep",
+      "publication_date": "2022-Nov-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to evaluate the effectiveness of glasses that emit blue light in reducing the need for recovery, general fatigue, and stress levels in security guards who work night shifts. Light manipulation is seen as a promising strategy to mitigate complaints related to shift work, such as sleepiness and impaired cognitive performance. In a randomized controlled cross-over study design, 86 Dutch security guards used light-emitting glasses (exposure duration: 30 min) during night shifts in a five week period versus a five week control period without glasses. Measurements (Need for Recovery Scale; Checklist Individual Strength; stress level assessed by a fitness tracker) were performed at baseline, at five weeks, and again at 11 weeks. The chronotype was measured at baseline as a potential covariate. A mixed model for repeated measure analyses showed no significant reduction in the need for recovery, nor a reduction in general fatigue scores, during the intervention period. Paired Samples T-Test analyses showed no significant changes in stress levels for the intervention period. Conclusively, blue light exposure using light-emitting glasses for security guards during night shifts showed no directly measurable effect on the reduced need for recovery, overall fatigue, and stress levels."
+    },
+    {
+      "pmid": "35089982",
+      "title": "A randomized controlled trial on the effects of blue-blocking glasses compared to partial blue-blockers on sleep outcomes in the third trimester of pregnancy.",
+      "authors": [
+        "Randi Liset",
+        "Janne Grønli",
+        "Roger E Henriksen",
+        "Tone E G Henriksen",
+        "Roy M Nilsen",
+        "Ståle Pallesen"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2022",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Sleep disturbances are common in pregnancy. Blocking blue light has been shown to improve sleep and may be a suitable intervention for sleep problems during pregnancy. The present study investigated the effects of blue light blocking in the evening and during nocturnal awakenings among pregnant women on primary sleep outcomes in terms of total sleep time, sleep efficiency and mid-point of sleep. METHODS: In a double-blind randomized controlled trial, 60 healthy nulliparous pregnant women in the beginning of the third trimester were included. They were randomized, using a random number generator, either to a blue-blocking glass intervention (n = 30) or to a control glass condition constituting partial blue-blocking effect (n = 30). Baseline data were recorded for one week and outcomes were recorded in the last of two intervention/control weeks. Sleep was measured by actigraphy, sleep diaries, the Bergen Insomnia Scale, the Karolinska Sleepiness Scale and the Pre-Sleep Arousal Scale. RESULTS: The results on the primary outcomes showed no significant mean difference between the groups at posttreatment, neither when assessed with sleep diary; total sleep time (difference = .78[min], 95%CI = -19.7, 21.3), midpoint of sleep (difference = -8.9[min], 95%CI = -23.7, 5.9), sleep efficiency (difference = -.06[%], 95%CI = -1.9, 1.8) and daytime functioning (difference = -.05[score points], 95%CI = -.33, .22), nor by actigraphy; total sleep time (difference = 13.0[min], 95%CI = -9.5, 35.5), midpoint of sleep (difference = 2.1[min], 95%CI = -11.6, 15.8) and sleep efficiency (difference = 1.7[%], 95%CI = -.4, 3.7). On the secondary outcomes, the Bergen Insomnia Scale, the Karolinska Sleepiness Scale and the Pre-Sleep Arousal Scale the blue-blocking glasses no statistically significant difference between the groups were found. Transient side-effects were reported in both groups (n = 3). CONCLUSIONS: The use of blue-blocking glasses compared to partially blue-blocking glasses in a group of healthy pregnant participants did not show statistically significant effects on sleep outcomes. Research on the effects of blue-blocking glasses for pregnant women with sleep-problems or circadian disturbances is warranted. TRIAL REGISTRATION: The trial is registered at ClinicalTrials.gov (NCT03114072).",
+      "mesh_terms": [
+        "Adult",
+        "Case-Control Studies",
+        "Double-Blind Method",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Light",
+        "Phototherapy",
+        "Pregnancy",
+        "Pregnancy Trimester, Third",
+        "Radiation Protection",
+        "Sleep",
+        "Sleep Initiation and Maintenance Disorders"
+      ]
+    },
+    {
+      "pmid": "35024497",
+      "title": "A randomized controlled trial on the effect of blue-blocking glasses compared to partial blue-blockers on melatonin profile among nulliparous women in third trimester of the pregnancy.",
+      "authors": [
+        "Randi Liset",
+        "Janne Grønli",
+        "Roger Ekeberg Henriksen",
+        "Tone Elise Gjøtterud Henriksen",
+        "Roy Miodini Nilsen",
+        "Ståle Pallesen"
+      ],
+      "journal": "Neurobiology of sleep and circadian rhythms",
+      "publication_date": "2022-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: In pregnancy melatonin regulates circadian rhythms, induce sleep, and has a neuroprotective positive effect on fetal development. Artificial blue light in the evening delays and suppresses melatonin production. Thus, we investigated the effect of blocking blue light on the melatonin profile. METHODS: A randomized controlled trial (n=30 blue-blocking glasses vs. n=30 control glasses with partial blue-blocking effect) including healthy nulliparous pregnant women in the beginning of the third trimester. Salivary melatonin and subjective sleep were measured before and after two weeks of intervention/control condition. Saliva was sampled at 30-min intervals from 3 h before normal bedtime. Melatonin onset was set at 4.0 pg/ml. RESULTS: Due to missing data melatonin onset was estimated for 47 participants. At posttreatment, melatonin onset advanced by 28 min in the blue-blocking group compared with the control condition (p=.019). Melatonin levels were significantly higher, favoring the blue-blocking glass condition, at clock time 20:00, 21:00 and 22:00 h, and for sample number 3 and 4. The phase angle (time interval) between melatonin onset and sleep bedtime and sleep onset time increased within the blue blocking group (+45 min and +41 min, respectively), but did not reach statistical significance compared to control condition (+13 min and +26 min, respectively). CONCLUSION: Blocking blue light in the evening had a positive effect on the circadian system with an earlier onset and rise of melatonin levels in healthy nulliparous pregnant women. This demonstrated the effectiveness and feasibility of a simple non-pharmacological chronobiological intervention during pregnancy."
+    },
+    {
+      "pmid": "34030534",
+      "title": "Evening wear of blue-blocking glasses for sleep and mood disorders: a systematic review.",
+      "authors": [
+        "Landon Hester",
+        "Deanna Dang",
+        "Christopher J Barker",
+        "Michael Heath",
+        "Sidra Mesiya",
+        "Tekenari Tienabeso",
+        "Kevin Watson"
+      ],
+      "journal": "Chronobiology international",
+      "publication_date": "2021-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "Blue-blocking glasses, also known as amber glasses, are plastic glasses that primarily block blue light. Blue-blocking glasses have been studied as a sleep intervention for insomnia, delayed sleep-phase disorder, shift work, jet lag, and nonpathologic sleep improvement. Blue-blocking glasses have also been studied as a treatment for bipolar disorder, major depression, and postpartum depression. Blue-blocking glasses improve sleep by inducing dim-light melatonin onset by reducing activation of intrinsically photosensitive retinal ganglion cells (ipRGCs) which are most sensitive to blue light and are a major input for circadian regulation; their mechanism for mood regulation is unclear but may be similar to that of dark therapy for bipolar disorder where patients are kept in darkness for an extended period every night. A systematic search of the scientific literature identified a total of 29 experimental publications involving evening wear of blue-blocking glasses for sleep or mood disorders. These consisted of 16 randomized controlled trials (RCTs) published in journals with a total of 453 patients, 5 uncontrolled trials, 1 case series, 1 case study, and 6 abstracts from conference proceedings. Only 1 case study and 1 RCT were for acutely manic patients but both found substantial decreases in manic symptoms with the use of blue-blocking glasses; these give preliminary clinical evidence of efficacy that makes blue-blocking glasses a high-yield intervention to study for bipolar disorder. Findings in the 3 publications for major depression and postpartum depression were heterogeneous and conflicting as to their efficacy. Out of the 24 publications focusing on sleep, there was substantial evidence for blue-blocking glasses being a successful intervention for reducing sleep onset latency in patients with sleep disorders, jet lag, or variable shift work schedules. Given the well-established biological mechanism and clinical research showing that blue-blocking glasses are effective for inducing sleep, they are a viable intervention to recommend to patients with insomnia or a delayed sleep phase.",
+      "mesh_terms": [
+        "Bipolar Disorder",
+        "Circadian Rhythm",
+        "Depressive Disorder, Major",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Light",
+        "Melatonin",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "33707105",
+      "title": "Effect of evening blue light blocking glasses on subjective and objective sleep in healthy adults: A randomized control trial.",
+      "authors": [
+        "Jeremy A Bigalke",
+        "Ian M Greenlund",
+        "Jennifer R Nicevski",
+        "Jason R Carter"
+      ],
+      "journal": "Sleep health",
+      "publication_date": "2021-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: Evening blue light has been shown to suppress melatonin, which can negatively impact sleep quality. The impact of evening blue light blocking (BLB) interventions on sleep remains ambiguous due to lack of randomized control trials. The present study tests the hypothesis that BLB glasses improve subjective and objective sleep in a population of healthy adults. DESIGN: Two-week, randomized, controlled, crossover design. SETTING: At-home testing of individuals in Michigan and Montana. PARTICIPANTS: Twenty healthy adults (11 men, 9 women, age: 32 ± 12, body mass index: 28 ± 4 kg/m2). INTERVENTION: Following a 1-week run-in baseline (ie, no glasses), participants were randomized to 1-week of BLB or control (ie, clear lens) glasses. Upon finishing the 1-week intervention, participants crossed over to the opposite condition. In both conditions, glasses were worn for 7 consecutive days from 6 PM until bedtime. MEASUREMENTS: Objective sleep parameters were obtained using wrist actigraphy. Subjective sleep measures were assessed using sleep diaries. Karolinska Sleep Diaries were used to assess perceived sleep quality. RESULTS: BLB reduced subjective sleep onset (21 ± 28 vs 24 ± 21 minute, P = .033) and awakenings (1.6 ± 1.0 vs 2.2 ± 1.0 awakenings, P = .019) compared to the control condition. In contrast, objective measures of sleep were not significantly impacted. In fact, our primary outcome variable of total sleep time (TST) tended to be paradoxically shorter in the BLB condition for both subjective (468 ± 45 vs 480 ± 48 minute, P = .066) and objective (433 ± 40 vs 449 ± 39 minute, P = .075) TST. CONCLUSIONS: Blue light blocking glasses did not improve objective measures of sleep time or quality in healthy adults.",
+      "mesh_terms": [
+        "Adult",
+        "Circadian Rhythm",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Light",
+        "Male",
+        "Sleep",
+        "Sleep Initiation and Maintenance Disorders",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32585869",
+      "title": "Luminescent Studies on Germanate Glasses Doped with Europium Ions for Photonic Applications.",
+      "authors": [
+        "Jacek Żmojda",
+        "Marcin Kochanowicz",
+        "Piotr Miluski",
+        "Piotr Golonko",
+        "Agata Baranowska",
+        "Tomasz Ragiń",
+        "Jan Dorosz",
+        "Marta Kuwik",
+        "Wojciech Pisarski",
+        "Joanna Pisarska",
+        "Renata Szal",
+        "Gabriela Mach",
+        "Bartosz Starzyk",
+        "Magdalena Leśniak",
+        "Maciej Sitarz",
+        "Dominik Dorosz"
+      ],
+      "journal": "Materials (Basel, Switzerland)",
+      "publication_date": "2020-Jun-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Glass and ceramic materials doped with rare earth (RE) ions have gained wide interest in photonics as active materials for lasers, optical amplifiers, and luminescent sensors. The emission properties of RE-doped glasses depend on their chemical composition, but they can also be tailored by modifying the surrounding active ions. Typically, this is achieved through heat treatment (including continuous-wave and pulsed lasers) after establishing the ordering mechanisms in the particular glass-RE system. Within the known systems, silicate glasses predominate, while much less work relates to materials with lower energy phonons, which allow more efficient radiation sources to be constructed for photonic applications. In the present work, the luminescent and structural properties of germanate glasses modified with phosphate oxide doped with Eu3+ ions were investigated. Europium dopant was used as a \"spectroscopic probe\" in order to analyze the luminescence spectra, which characterizes the changes in the local site symmetries of Eu3+ ions. Based on the spectroscopic results, a strong influence of P2O5 content was observed on the excitation and luminescence spectra. The luminescence study of the most intense 5D0→7F2 (electric dipole) transition revealed that the increase in the P2O5 content leads to the linewidth reduction (from 15 nm to 10 nm) and the blue shift (~2 nm) of the emission peak. According to the crystal field theory, the introduction of P2O5 into the glass structure changes the splitting number of sublevels of the 5D0→7F1 (magnetic dipole) transition, confirming the higher polymerization of fabricated glass. The slightly different local environment of Eu3+ centers the results in a number of sites and causes inhomogeneous broadening of spectral lines. It was found that the local asymmetry ratio estimated by the relation of (5D0→7F2)/(5D0→7F1) transitions also confirms greater changes in local symmetry around Eu3+ ions. Our results indicate that modification of germanate glass by P2O5 allows control of their structural properties in order to functionalize the emissions for application as luminescent light sources and sensors."
+    },
+    {
+      "pmid": "32276301",
+      "title": "A double-blind, randomized, placebo-controlled trial of adjunctive blue-blocking glasses for the treatment of sleep and circadian rhythm in patients with bipolar disorder.",
+      "authors": [
+        "Yuichi Esaki",
+        "Ipei Takeuchi",
+        "Soji Tsuboi",
+        "Kiyoshi Fujita",
+        "Nakao Iwata",
+        "Tsuyoshi Kitajima"
+      ],
+      "journal": "Bipolar disorders",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: Recent studies have suggested that evening blue light exposure is associated with sleep and circadian rhythm abnormalities. This study examined the effect of blue-blocking (BB) glasses on sleep and circadian rhythm in patients with bipolar disorder (BD). METHODS: We used a randomized, placebo-controlled, double-blinded design. Outpatients with BD and also with insomnia were randomly assigned to wear either orange glasses (BB) or clear ones (placebo) and were instructed to use these from 20:00 hours until bedtime for 2 weeks. The primary outcome metric was the difference in change from baseline to after intervention in sleep quality, as measured by the visual analog scale (VAS). RESULTS: Forty-three patients were included in this study (BB group, 21; placebo group, 22). The change in sleep quality as per the VAS metric was not significantly different between the two groups (95% confidence interval [CI], -3.34 to 24.72; P = .13). However, the Morningness-Eveningness Questionnaire score had shifted to an advanced rhythm in the BB group and to a delayed rhythm in the placebo group, and the difference in these changes was statistically significant (95% CI, 1.69-7.45; P = .003). The change in the actigraphy sleep parameters and mood symptoms was not significantly different between the two groups. CONCLUSION: Although concurrent medications may have influenced, our results suggest that BB glasses may be useful as an adjunctive treatment for circadian rhythm issues in patients with BD.",
+      "mesh_terms": [
+        "Bipolar Disorder",
+        "Circadian Rhythm",
+        "Double-Blind Method",
+        "Eyeglasses",
+        "Humans",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "31967375",
+      "title": "Blue-blocking glasses as additive treatment for mania: Effects on actigraphy-derived sleep parameters.",
+      "authors": [
+        "Tone E G Henriksen",
+        "Janne Grønli",
+        "Jörg Assmus",
+        "Ole Bernt Fasmer",
+        "Helle Schoeyen",
+        "Ieva Leskauskaite",
+        "Jeanette Bjorke-Bertheussen",
+        "Kjersti Ytrehus",
+        "Anders Lund"
+      ],
+      "journal": "Journal of sleep research",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Improvement of sleep is a central treatment goal for patients in a manic state. Blue-blocking (BB) glasses as adjunctive treatment hasten overall recovery from mania. This method is an evolvement from dark therapy and builds on the discovery of the blue-light-sensitive retinal ganglion cell that signals daytime to the brain. We report effects of adjunctive BB glasses on actigraphy-derived sleep parameters for manic inpatients as compared to placebo. Hospitalized patients with bipolar disorder in a manic state aged 18-70 years were recruited from five clinics in Norway from February 2012 to February 2015. The participants were randomly allocated to wearing BB glasses or placebo (clear glasses) as an adjunctive treatment from 18:00 to 08:00 hours for seven consecutive nights. Sleep and wake were monitored by actigraphy. From 32 eligible patients, 10 patients in each group qualified for the group analyses. The BB group's mean sleep efficiency was significantly higher at night 5 as compared to the placebo group (92.6% vs. 83.1%, p = .027). The 95% confidence interval (CI) was 89.4%-95.8% in the BB group and 75.9%-90.3% in the placebo group. There were fewer nights of interrupted sleep in the BB group: 29.6% versus 43.8% in the placebo group. The BB group received less-intensive sleep-promoting pharmacological treatment and showed significantly higher sleep efficiency and more consolidated sleep as compared to the placebo group. Our findings suggest sleep-promoting effects through deactivating mechanisms. Adjunctive BB glasses seem to be useful for improving sleep for manic patients in the hospital setting.",
+      "mesh_terms": [
+        "Actigraphy",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bipolar Disorder",
+        "Circadian Rhythm",
+        "Eye Protective Devices",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Lighting",
+        "Male",
+        "Mania",
+        "Middle Aged",
+        "Single-Blind Method",
+        "Sleep",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31792259",
+      "title": "Light therapy with boxes or glasses to counteract effects of acute sleep deprivation.",
+      "authors": [
+        "Henri Comtet",
+        "Pierre A Geoffroy",
+        "Mio Kobayashi Frisk",
+        "Jeffrey Hubbard",
+        "Ludivine Robin-Choteau",
+        "Laurent Calvel",
+        "Laurence Hugueny",
+        "Antoine U Viola",
+        "Patrice Bourgin"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2019-Dec-02",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Sleep deprivation, in the context of shift work, is an increasing major public health issue. We aimed to determine whether early light administration can counteract sleep deprivation effects, and to compare LED-glasses with a traditional light therapy box. This cross-over design study included 18 individuals exposed to light therapy for 30 minutes at 5 am after one night of complete sleep deprivation, to mimic the night shift condition. Individuals were randomly exposed to 10,000 Lux light box, 2,000 Lux LED blue-enriched glasses, and control (ambient dim-light at 8 lux). Alertness, cognition and mood were assessed throughout the night and following morning. Five women and 13 men (mean 24.78 year old) presented with a progressive and increasing alteration of alertness, cognition, and mood during each sleep deprivation. A rebound was observed at 8 am resulting from the circadian drive overriding cumulative sleep homeostatic effects. Morning light significantly improved sleepiness and sustained attention from 5 to 7 am. These effects were comparable between devices and significantly different from control. Both devices were overall well and similarly tolerated. Early morning light therapy in the condition of sleep loss may have broad practical applications to improve sleepiness, sustained attention and subsequent risk of accidents.",
+      "mesh_terms": [
+        "Adult",
+        "Affect",
+        "Attention",
+        "Circadian Rhythm",
+        "Cognition",
+        "Cross-Over Studies",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Male",
+        "Phototherapy",
+        "Sleep Deprivation",
+        "Treatment Outcome",
+        "Wakefulness",
+        "Work Schedule Tolerance",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31316746",
+      "title": "Blue Light Therapy Glasses in Parkinson's Disease: Patients' Experience.",
+      "authors": [
+        "Katarzyna Smilowska",
+        "Daniel J van Wamelen",
+        "Antonius M C Schoutens",
+        "Marjan J Meinders",
+        "Bastiaan R Bloem"
+      ],
+      "journal": "Parkinson's disease",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Blue light glasses have been introduced as a possible new treatment option to treat sleep disturbances in patients with Parkinson disease (PD). Assessing patient attitudes represents a key step in the road towards formal testing and introduction into clinical practice. Specifically, we aimed to assess how patients experience the use of blue light glasses, aiming to optimise compliance in upcoming clinical trials where these glasses will be tested for efficacy. METHODS: We invited 58 PD patients who had used the blue light glasses for at least one week on a daily basis to complete an online survey about their experiences and self-reported impact. For this purpose, the System Usability Scale was used, supplemented with additional questions about (side)effects. A total of 31 patients (53%) replied. RESULTS: 74% of respondents reported subjective improvements in night-time sleep, daytime sleepiness, depressive symptoms, motor functioning, or a combination thereof. The median score for the System Usability Scale (SUS; 0-100 range, higher scores indicating better performance) was 70.0. A total of 26 patients (84%) had an overall positive attitude towards the technique, with patients rating the glasses with an average score of 6.9 ± 2.0 (SD) out of 10. Except for one patient, all responders would like to continue using the glasses, mostly because they considered it a useful aid. CONCLUSION: Blue light therapy appears to have a positive effect on sleep, mood, and motor symptoms in PD. PD patients had an overall positive attitude towards blue light glasses as treatment for sleep disorders."
+    },
+    {
+      "pmid": "30410784",
+      "title": "Blue blocking glasses worn at night in first year higher education students with sleep complaints: a feasibility study.",
+      "authors": [
+        "Guillermo Perez Algorta",
+        "Anna Van Meter",
+        "Bernadka Dubicka",
+        "Steven Jones",
+        "Eric Youngstrom",
+        "Fiona Lobban"
+      ],
+      "journal": "Pilot and feasibility studies",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Late adolescence and early adulthood is a period of highest incidence for onset of mental health problems. Transition to college environment has been associated with many risk factors such as the initial disruption-and subsequent irregularity-of the student's sleep and activity schedule. We tested the feasibility of using blue blocking glasses (BBG) at night in first year higher education students with sleep complaints, to obtain preliminary evidence for the impact of BBG on sleep, activity, and mood. METHODS: Participants were 13 first year undergraduates (from 10 different academic courses) living on campus for the first time with sleep complaints/disorders confirmed at screening via the Duke Structured Interview Schedule for Sleep Disorders. We used a 2-week, balanced crossover design (BBG vs placebo glasses; participants were unaware which was the active intervention) with computer-generated random allocation. Exploratory analyses provided descriptive and frequency summaries to evaluate feasibility of the intervention. RESULTS: Preliminary evidence supports the feasibility and acceptability of the trial; almost all screened participants consented and completed the protocol with high adherence; missing data were negligible. Additionally, the effectiveness of BBGs to enhance sleep, mood, and activity levels in young adults was supported. CONCLUSIONS: The results of this feasibility trial suggest that BBG have potential as an inexpensive and feasible intervention for reducing sleep and circadian dysregulation in young adult students. A larger trial, following this successfully implemented protocol, is necessary to fully test the efficacy of BBG."
+    },
+    {
+      "pmid": "28650685",
+      "title": "Colored Glasses to Mitigate Photophobia Symptoms Posttraumatic Brain Injury.",
+      "authors": [
+        "Joseph Clark",
+        "Kimberly Hasselfeld",
+        "Kathryn Bigsby",
+        "Jon Divine"
+      ],
+      "journal": "Journal of athletic training",
+      "publication_date": "2017-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT:   After a concussion or mild traumatic brain injury (mTBI), patients often suffer from light sensitivity, or photophobia, which contributes to decreased quality of life post-mTBI. Whereas sunglasses may provide some relief from photophobia, they are not practical indoors or in low light. A light-mitigation strategy can be easily used indoors as needed to optimize the relief. We have found that many photophobic patients experience relief using colored sunglasses. OBJECTIVE:   To provide the athletic trainer with a means and method to assess whether an athlete is suffering from photophobia after concussion and to determine if colored glasses provide relief. DESIGN:   Cross-sectional study. SETTING:   Rehabilitation clinic. PATIENTS OR OTHER PARTICIPANTS:   Fifty-one patients being treated after concussion. INTERVENTION(S):   We assessed postconcussion patients for visual symptoms including photophobia and photosensitivity. Off-the-shelf glasses were used to determine whether specific colors provided relief from photophobia. Screening was done using a penlight and multiple pairs of colored glasses. MAIN OUTCOME MEASURE(S):   Self-reported mitigation of photophobia symptoms and the specific color frequency that reduced symptoms in each individual. RESULTS:   Of the 39 patients studied who had visual symptoms, 76% complained of photophobia. Using glasses of 1 or more colors, symptoms were relieved in 85% of patients reporting photophobia. The colors that provided the most relief were blue, green, red, and purple. No adverse events were reported. CONCLUSIONS:   An empirical assessment of frequency-specific photophobia is easy to perform. A traditional penlight is used to elicit photophobia and then the colored glasses are tested for optimal relief. Frequency-specific photophobia can be reduced with a strategy of light-mitigation therapy, including colored glasses, sunglasses, hats, and light avoidance. This, we believe, helps to improve the patient's quality of life and may aid in the recovery process. More work is needed to identify the best colors and methods of mitigating frequency-specific photophobia.",
+      "mesh_terms": [
+        "Adult",
+        "Athletic Injuries",
+        "Brain Concussion",
+        "Cross-Sectional Studies",
+        "Eye Protective Devices",
+        "Female",
+        "Humans",
+        "Male",
+        "Photophobia",
+        "Quality of Life",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "27322730",
+      "title": "Wearing blue light-blocking glasses in the evening advances circadian rhythms in the patients with delayed sleep phase disorder: An open-label trial.",
+      "authors": [
+        "Yuichi Esaki",
+        "Tsuyoshi Kitajima",
+        "Yasuhiro Ito",
+        "Shigefumi Koike",
+        "Yasumi Nakao",
+        "Akiko Tsuchiya",
+        "Marina Hirose",
+        "Nakao Iwata"
+      ],
+      "journal": "Chronobiology international",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "It has been recently discovered that blue wavelengths form the portion of the visible electromagnetic spectrum that most potently regulates circadian rhythm. We investigated the effect of blue light-blocking glasses in subjects with delayed sleep phase disorder (DSPD). This open-label trial was conducted over 4 consecutive weeks. The DSPD patients were instructed to wear blue light-blocking amber glasses from 21:00 p.m. to bedtime, every evening for 2 weeks. To ascertain the outcome of this intervention, we measured dim light melatonin onset (DLMO) and actigraphic sleep data at baseline and after the treatment. Nine consecutive DSPD patients participated in this study. Most subjects could complete the treatment with the exception of one patient who hoped for changing to drug therapy before the treatment was completed. The patients who used amber lens showed an advance of 78 min in DLMO value, although the change was not statistically significant (p = 0.145). Nevertheless, the sleep onset time measured by actigraph was advanced by 132 min after the treatment (p = 0.034). These data suggest that wearing amber lenses may be an effective and safe intervention for the patients with DSPD. These findings also warrant replication in a larger patient cohort with controlled observations.",
+      "mesh_terms": [
+        "Adolescent",
+        "Circadian Rhythm",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Light",
+        "Male",
+        "Photobiology",
+        "Sleep Disorders, Circadian Rhythm",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "27226262",
+      "title": "Blue-blocking glasses as additive treatment for mania: a randomized placebo-controlled trial.",
+      "authors": [
+        "Tone Eg Henriksen",
+        "Silje Skrede",
+        "Ole B Fasmer",
+        "Helle Schoeyen",
+        "Ieva Leskauskaite",
+        "Jeanette Bjørke-Bertheussen",
+        "Jörg Assmus",
+        "Børge Hamre",
+        "Janne Grønli",
+        "Anders Lund"
+      ],
+      "journal": "Bipolar disorders",
+      "publication_date": "2016-May",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: The discovery of the blue lightsensitive retinal photoreceptor responsible for signaling daytime to the brain suggested that light to the circadian system could be inhibited by using blue-blocking orange tinted glasses. Blue-blocking (BB) glasses are a potential treatment option for bipolar mania. We examined the effectiveness of BB glasses in hospitalized patients with bipolar disorder in a manic state. METHODS: In a single-blinded, randomized, placebo-controlled trial (RCT), eligible patients (with bipolar mania; age 18-70 years) were recruited from five clinics in Norway. Patients were assigned to BB glasses or placebo (clear glasses) from 6 p.m. to 8 a.m. for 7 days, in addition to treatment as usual. Symptoms were assessed daily by use of the Young Mania Rating Scale (YMRS). Motor activity was assessed by actigraphy, and compared to data from a healthy control group. Wearing glasses for one evening/night qualified for inclusion in the intention-to-treat analysis. RESULTS: From February 2012 to February 2015, 32 patients were enrolled. Eight patients dropped out and one was excluded, resulting in 12 patients in the BB group and 11 patients in the placebo group. The mean decline in YMRS score was 14.1 [95% confidence interval (CI): 9.7-18.5] in the BB group, and 1.7 (95% CI: -4.0 to 7.4) in the placebo group, yielding an effect size of 1.86 (Cohen's d). In the BB group, one patient reported headache and two patients experienced easily reversible depressive symptoms. CONCLUSIONS: This RCT shows that BB glasses are effective and feasible as add-on treatment for bipolar mania.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antimanic Agents",
+        "Bipolar Disorder",
+        "Brain",
+        "Circadian Rhythm",
+        "Color Perception",
+        "Combined Modality Therapy",
+        "Eyeglasses",
+        "Feasibility Studies",
+        "Female",
+        "Hospitalization",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Photoreceptor Cells, Vertebrate",
+        "Psychiatric Status Rating Scales",
+        "Psychometrics",
+        "Signal Transduction",
+        "Single-Blind Method",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23388997",
+      "title": "Pr3+-doped heavy metal germanium tellurite glasses for irradiative light source in minimally invasive photodynamic therapy surgery.",
+      "authors": [
+        "J Yang",
+        "B J Chen",
+        "E Y B Pun",
+        "B Zhai",
+        "H Lin"
+      ],
+      "journal": "Optics express",
+      "publication_date": "2013-Jan-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Pr3+-doped medium-low phonon energy heavy metal germanium tellurite (NZPGT) glasses have been fabricated and the intense multi-peak red fluorescence emissions of Pr3+ are exhibited. Judd-Ofelt parameters Ω2 = 3.14 × 10(-20)cm(2), Ω4 = 10.67 × 10(-20)cm(2) and Ω6 = 3.95 × 10(-20)cm(2) indicate a high asymmetrical and covalent environment in the optical glasses. The spontaneous emission probabilities A(ij) corresponding to the 1D2→3H4, 3P0→3H6, and 3P0→3F2 transitions are derived to be 1859.6, 6270.1 and 17276.3s(-1), respectively, and the relevant stimulated emission cross-sections σ(em) are 5.20 × 10(-21), 14.14 × 10(-21) and 126.77 × 10(-21)cm(2), confirming that the effectiveness of the red luminescence in Pr3+-doped NZPGT glasses. Under the commercial blue LED excitation, the radiant flux and the quantum yield for the red fluorescence of Pr3+ are solved to be 219μW and 11.80%, respectively. 85.24% photons of the fluorescence in the visible region are demonstrated to be located in 600-720nm wavelength range, which matches the excitation band of the most photosensitizers (PS), holding great promise for photodynamic therapy (PDT) treatment and clinical trials."
+    },
+    {
+      "pmid": "15329083",
+      "title": "A novel nonpharmacologic treatment for photosensitive epilepsy: a report of three patients tested with blue cross-polarized glasses.",
+      "authors": [
+        "Migdana R Kepecs",
+        "Alex Boro",
+        "Sheryl Haut",
+        "Gilbert Kepecs",
+        "Solomon L Moshé"
+      ],
+      "journal": "Epilepsia",
+      "publication_date": "2004-Sep",
+      "publication_types": [
+        "Case Reports",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Pharmacotherapy for photosensitive epilepsy is not always effective and is associated with well-recognized toxicities. Nonpharmacologic approaches to the management of photosensitive epilepsy have included the use of sunglasses of various types. Blue lenses have been shown to suppress the photoparoxysmal response more effectively than lenses of other colors with similar overall transmittances. Recently, cross-polarized glasses have shown promise. The axes of polarization of the two lenses of such glasses are perpendicular to one another. We tested the effect of combining the use of blue and cross-polarized lenses in three patients with photosensitive epilepsy. METHODS: We recorded the EEG response to photic stimulation, television screens, and computer monitors in three patients with photosensitive epilepsy. If photoparoxysmal responses were provoked in any of these scenarios, testing was repeated with the patient wearing nonpolarized, parallel-polarized, and blue cross-polarized sunglasses. RESULTS: One of our patients had clinical seizures that were inadequately suppressed with moderate doses of valproate (VPA) but completely suppressed with blue cross-polarized lenses. The second patient's photoparoxysmal response was suppressed by both parallel-polarized and blue cross-polarized glasses, whereas the third patient's photoparoxysmal response was not suppressed by either. CONCLUSIONS: These preliminary data suggest that blue cross-polarized lenses may be useful in the treatment of photosensitive epilepsies and that their efficacy can be predicted in the EEG laboratory.",
+      "mesh_terms": [
+        "Adolescent",
+        "Child",
+        "Color",
+        "Computers",
+        "Electroencephalography",
+        "Epilepsy, Reflex",
+        "Eye Protective Devices",
+        "Eyeglasses",
+        "Female",
+        "Humans",
+        "Light",
+        "Male",
+        "Optics and Photonics",
+        "Photic Stimulation",
+        "Television",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

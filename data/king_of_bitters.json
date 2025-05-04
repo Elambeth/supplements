@@ -1,0 +1,56 @@
+{
+  "supplement": "King of Bitters",
+  "query": "King of Bitters[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:52:55",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "26151008",
+      "title": "Adaptogenic potential of andrographolide: An active principle of the king of bitters (Andrographis paniculata).",
+      "authors": [
+        "Ajit Kumar Thakur",
+        "Shyam Sunder Chatterjee",
+        "Vikas Kumar"
+      ],
+      "journal": "Journal of traditional and complementary medicine",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Andrographolide is a major bioactive secondary plant metabolite isolated Andrographis paniculata (Burm. F.) Wall. Ex. Nees. ( chuān xīn lián), a well-known traditionally used medicinal herb. The aim of the study was to pharmacologically evaluate the beneficial effect of andrographolide on stress-induced thermoregulatory and other physiological responses in mice. A stress-induced hyperthermia test was conducted in mice. The test agents were orally administered once daily for 11 consecutive days, and treatment effects on body weight changes, basal rectal temperature, and foot-shock-triggered hyperthermic responses were quantified on Day 1, Day 5, Day 7, and Day 10 of the experiments. Pentobarbital-induced hypnosis was quantified on the 11(th) day of treatment. Observations made during a pilot dose finding experiment revealed that, like A. paniculata extracts, pure andrographolide also possess adaptogenic properties. Observed dose-dependent efficacies of 3 mg/kg/d, 10 mg/kg/d, and 30 mg/kg/d andrographolide in the pilot experiment were reconfirmed by conducting two further analogous experiments using separate groups of either male or female mice. In these confirmatory experiments, efficacies of andrographolide were compared with that of 5 mg/kg/d oral doses of the standard anxiolytic diazepam. Significantly reduced body weights and elevated core temperatures of the three vehicle-treated control groups observed on the 5(th) day and subsequent observational days were completely absent even in the groups treated with the lowest andrographolide dose (3 mg/kg/d) or diazepam (5 mg/kg/d). Benzodiazepine-like potentiation of pentobarbital hypnosis was observed in andrographolide-treated animals. These observations reveal that andrographolide is functionally a diazepam-like desensitizer of biological mechanisms, and processes involved in stress trigger thermoregulatory and other physiological responses."
+    },
+    {
+      "pmid": "21034865",
+      "title": "In vitro modulation of LPS/calcimycin induced inflammatory and allergic mediators by pure compounds of Andrographis paniculata (King of bitters) extract.",
+      "authors": [
+        "C V Chandrasekaran",
+        "P Thiyagarajan",
+        "H B Deepak",
+        "Amit Agarwal"
+      ],
+      "journal": "International immunopharmacology",
+      "publication_date": "2011-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of the current study is to probe the anti-inflammatory/anti-allergic potential of seven phytoconstituents (andrographolide, neoandrographolide, isoandrographolide, andrograpanin, 14-deoxy-11,12-didehydroandrographolide, 7-O-methylwogonin and skullcapflavone-I) isolated from Andrographis paniculata (King of bitters) on the production of key inflammatory/allergic mediators (NO, PGE(2), IL-1 beta, IL-6, LTB(4), TXB(2) and histamine). The results demonstrated that andrographolide, isoandrographolide, 7-O-methylwogonin and skullcapflavone-I significantly inhibited LPS stimulated NO and PGE(2) release in J774A.1 macrophages. Andrographolide, isoandrographolide and 7-O-methylwogonin showed considerable inhibition of IL-1 beta production in LPS elicited macrophages. LPS induced IL-6 production was significantly inhibited by andrographolide, isoandrographolide and skullcapflavone-I in a concentration dependent manner. The results revealed that andrographolide, isoandrographolide and skullcapflavone-I significantly decreased TXB(2) release in A23187 activated HL-60 promyelocytic cells. Furthermore, the anti-allergic properties of the phytoconstituents was investigated on A23187 induced LTB(4) production (HL-60 cells) and histamine release (RBL-2H3 basophilic cells). The results showed that only skullcapflavone-I and 7-O-methylwogonin showed marked inhibitory effect on LTB(4) production, however, only 7-O-methylwogonin exerted dose-dependent inhibition towards histamine release. Therefore, this study indicates that some of these phytoconstituents exhibit potent anti-inflammatory/anti-allergic effects by modulating different inflammatory/allergic mediators. Hence, these phytoconstituents might provide useful phytomedical treatment against variety of inflammatory and allergic disorders.",
+      "mesh_terms": [
+        "Andrographis",
+        "Animals",
+        "Anti-Allergic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Calcimycin",
+        "Cell Culture Techniques",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Humans",
+        "Inflammation Mediators",
+        "Lipopolysaccharides",
+        "Macrophages",
+        "Mice",
+        "Plant Extracts"
+      ]
+    }
+  ]
+}

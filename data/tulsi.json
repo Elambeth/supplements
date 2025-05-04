@@ -1,0 +1,749 @@
+{
+  "supplement": "Tulsi",
+  "query": "Tulsi[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:59:41",
+  "research_count": 32,
+  "count": 32,
+  "articles": [
+    {
+      "pmid": "39583496",
+      "title": "Comparison of Antimicrobial Efficacy of Ocimum sanctum (Tulsi) Extract and Chlorhexidine Against Tannerella forsythia: An In Vitro Study.",
+      "authors": [
+        "Mithra R",
+        "Kalaivani V",
+        "Gayathri K",
+        "Ravishankar Pl",
+        "Divya Vinayachandran",
+        "Sibyl Siluvai",
+        "Rajakumar S",
+        "Viola Esther"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: Periodontitis, a chronic inflammatory disease affecting the periodontium, is primarily caused by gram-negative anaerobic bacteria. Conventional periodontal therapy aims to eradicate pathogenic microflora through mechanical debridement, often supplemented with chemical agents. However, the use of these chemical adjuvants is frequently associated with adverse drug reactions and the development of antimicrobial resistance. Consequently, researchers are increasingly exploring herbal antibacterial agents, such as Ocimum sanctum (Tulsi), as viable alternatives due to their broad-spectrum antimicrobial properties and reduced side effect profile. AIM:  This study aims to analyze the antibacterial efficacy of the ethanolic extract of O. sanctum (Tulsi) against Tannerella forsythia, a key bacterium of the red complex, using chlorhexidine as a reference standard. Traditionally, chlorhexidine has been utilized as an adjunct to nonsurgical therapy in the treatment of patients with periodontal disease. MATERIALS AND METHODS: The cold extraction method was used to prepare the ethanolic extract of O. sanctum leaves. The resultant substance was mixed into five different concentrations (3.13%, 6.25%, 12.5%, 25%, and 50%) using dimethylformamide as the solvent. The antimicrobial activity of these varying concentrations was assessed against T. forsythia in culture plates employing the agar well diffusion method, with 0.2% chlorhexidine serving as the positive reference. The zone of inhibition of bacterial growth has been determined and compared with that of 0.2% chlorhexidine. RESULTS: The ethanolic extract of O. sanctum exhibited highly statistically significant antibacterial activity against T. forsythia (p < 0.001). At a dosage of 25 mg/mL, the extract created a zone of inhibition measuring 17 mm, while at 50 mg/mL, the zone of inhibition increased to 25 mm. However, when compared to 0.2% chlorhexidine, which had a zone of inhibition of 32 mm, O. sanctum showed a slightly smaller inhibitory effect. CONCLUSION: The extract of Tulsi showed notable antibacterial activity against T. forsythia, with the antibacterial impact observed at the 50 mg/mL dilution."
+    },
+    {
+      "pmid": "39494556",
+      "title": "Eco-inspired synthesis of MgO-infused g-C3N4 nanocomposites from tulsi seeds for advanced photocatalytic environmental remediation.",
+      "authors": [
+        "Sweety Dahiya",
+        "Anshu Sharma",
+        "Sudesh Chaudhary"
+      ],
+      "journal": "Physical chemistry chemical physics : PCCP",
+      "publication_date": "2024-Nov-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study introduces a novel approach to synthesizing magnesium oxide (MgO) nanoparticles through the use of Ocimum sanctum (tulsi seed) extract combined with the thermal polymerization of MgO-doped graphitic carbon nitride (MgCN) nanocomposites. The nanocomposites were prepared at varying MgO concentrations (0.5 mM, 1.0 mM, 1.5 mM, and 2.0 mM) to optimize their properties. Comprehensive characterization of the synthesized MgO nanoparticles and MgCN nanocomposites was conducted using advanced analytical techniques, including UV-Vis spectroscopy, X-ray diffraction (XRD), scanning electron microscopy with energy dispersive X-ray mapping (SEM-EDX), Fourier-transform infrared spectroscopy (FTIR), and thermogravimetric analysis (TGA). The MgCN nanocomposite with 1.5 mM MgO demonstrated a high surface area of 98.287 m2 g-1, as determined by Brunauer-Emmett-Teller (BET) analysis. X-ray photoelectron spectroscopy (XPS) confirmed the presence of carbon and nitrogen elements, validating the integration of MgO into the nanocomposite matrix. High-resolution transmission electron microscopy (HRTEM) images depicted planar, stacked, and wrinkled structures characteristic of a graphitic-like material. Consistent with a Z-scheme heterojunction, the MgCN (1.5 mM) sample exhibited an enhanced morphology, increased surface area, improved visible light absorption, and reduced band gap. This particular nanocomposite displayed remarkable adsorption and photocatalytic degradation capabilities, achieving up to 98% removal of methylene blue and 54% removal of tetracycline antibiotics. Furthermore, it showed significant antibacterial activity against Escherichia coli. Notably, the MgCN (1.5 mM) nanocomposite maintained its performance over four cycles, underscoring its potential for sustained application in wastewater treatment and the elimination of organic contaminants. The scavenging activity of the nanocomposites was also explored, revealing additional environmental benefits. This research highlights a promising pathway for developing eco-friendly nanocomposites with robust capabilities in water purification and pollution control."
+    },
+    {
+      "pmid": "39065528",
+      "title": "In Vitro Morphogenesis of Tobacco: Modulation of Endogenous Growth Regulators by Tulsi (Holy Basil).",
+      "authors": [
+        "Vanessa Vongnhay",
+        "Mukund R Shukla",
+        "Murali-Mohan Ayyanath",
+        "Karthika Sriskantharajah",
+        "Praveen K Saxena"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2024-Jul-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Plant growth regulators (PGRs) play a vital role in the induction of morphogenesis in vitro. Synthetic PGRs are commonly used to induce organogenesis and somatic embryogenesis from various explants, while natural substances are rarely utilized. This study aimed to enhance the regenerative response in Nicotiana tabacum leaf explants using Tulsi (Ocimum sanctum) leaf extract and to elucidate the biochemical interactions during modulation of endogenous plant growth regulators, including indole-3-acetic acid (IAA), abscisic acid (ABA), zeatin, and 6-(γ, γ-dimethylallylamino) purine (2iP). Tulsi leaf extract significantly improved shoot production through interactions between endogenous hormones and those present in the extract, which enhanced stress mitigation. The 20% Tulsi leaf extract treatment produced significantly more shoots than the control, coinciding with increased endogenous IAA and zeatin levels starting on day 10 in culture. Furthermore, ABA and zeatin concentrations increased on days 15 and 25, respectively, in the 20% Tulsi extract treatment, suggesting their role in the induction of somatic embryo-like structures. ABA likely acts as an activator of stress responses, encouraging the development of these structures. Additionally, 2iP was involved in the induction of both forms of regeneration in the 10% and 20% extract treatments, especially in combination with ABA. These results suggest that Tulsi leaf extract holds promising potential as a natural supplement for increasing plant regeneration in vitro and advancing our understanding of how natural extracts of plant origin can be harnessed to optimize plant regeneration processes in vitro."
+    },
+    {
+      "pmid": "38794439",
+      "title": "Enhanced In Vitro Plant Morphogenesis of Tobacco: Unveiling Indoleamine-Modulated Adaptogenic Properties of Tulsi (Ocimum sanctum L.).",
+      "authors": [
+        "Vanessa Vongnhay",
+        "Mukund R Shukla",
+        "Murali-Mohan Ayyanath",
+        "Karthika Sriskantharajah",
+        "Praveen K Saxena"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2024-May-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The medicinal plant tulsi (Ocimum sanctum L.) is acknowledged for its invigorating and healing properties that enhance resilience to stress in various human and animal models by modulating antioxidant compounds. While extensive research has documented these effects in humans, the adaptogenic potential of tulsi in stressful in vitro plant systems has not been explored. This study aimed to elucidate the adaptogenic properties of tulsi leaf extract on the in vitro regeneration of tobacco leaf explants through an investigation of the indoleamines at different developmental stages. Shoot regeneration from leaf explants on the medium supplemented with tulsi extract (20%) was compared to the control, and the differences in indoleamine compounds were analyzed using ultra-performance liquid chromatography. Treatment of the explants with the extract resulted in an almost two-fold increase in the number of regenerants after four weeks of culture, and 9% of the regenerants resembled somatic embryo-like structures. The occurrence of browning in the extract-treated explants stopped on day 10, shoots began to develop, and a significant concentration of tryptamine and N-acetyl-serotonin accumulated. A comparative analysis of indoleamine compounds in intact and cut tobacco leaves also revealed the pivotal role of melatonin and 2-hydroxymelatonin functioning as antioxidants during stress adaptation. This study demonstrates that tulsi is a potent adaptogen that is capable of modulating plant morphogenesis in vitro, paving the way for further investigations into the role of adaptogens in plant stress biology."
+    },
+    {
+      "pmid": "38595380",
+      "title": "Efficacy of Topical Turmeric, Calendula officinalis, and Tulsi (Ayurvedic Gel) in the Management of Erosive Lichen Planus: A Placebo-Controlled Study.",
+      "authors": [
+        "Rahul Srivastava",
+        "Saranik Sarkar",
+        "Prashant Gupta",
+        "Devina Pradhan",
+        "Hiroj Bagde",
+        "Ashwini Dhopte"
+      ],
+      "journal": "Journal of pharmacy & bioallied sciences",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Chronic mucocutaneous symptoms are a hallmark of lichen planus (LP), an inflammatory disease of the stratified squamous epithelium. The most severe type of mucosal lichen is oral erosive lichen planus (OELP). MATERIALS AND METHODS: Thirty patients were included in this prospective trial, with fifteen patients each assigned to Group A and Group B. Patients were given a choice between a placebo gel and an ayurvedic gel comprising pure turmeric, Calendula officinalis, and tulsi powder in an oral basis. At each appointment, the patients' reactions to therapy were scored on the Tel Aviv-San Francisco Scale, whereas the degree of the fire was rated using a Visual Analog Scale. Data analysis was carried out using IBM's Statistical Package for the Social Sciences (SPSS) Insights version 21. RESULTS: After receiving ayurvedic gel, patients in Group A reported much less burning than those in Group B (placebo). Group A responded better to therapy overall than Group B. CONCLUSION: This study's findings support the use of an ayurvedic gel made from pure turmeric, Calendula officinalis, and tulsi powder for the treatment of erosive lichen planus."
+    },
+    {
+      "pmid": "38523946",
+      "title": "Assessment of the Efficiency of Tulsi Extract as a Locally Administered Medication Agent and Its Comparison With Curcumin in the Treatment of Periodontal Pockets.",
+      "authors": [
+        "Ankita Agrawal",
+        "Anant Ragav Sharma",
+        "Varsha Rathod",
+        "Anand Bhatnagar",
+        "Pallavi Amol Khale",
+        "Priyanka Tidke",
+        "Dhaval Mehta",
+        "Debojyoti Mazumder"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: The use of locally administered medication (LAM) agents such as minocycline, metronidazole, and tetracycline as antimicrobials has drawbacks, including the development of microorganism resistance, exorbitant pricing, and limited accessibility. Thus, there is a need for safer and more affordable alternatives. Numerous natural therapies have been found to be superior in this situation. In this study, the efficacy of tulsi extract as a LAM agent was assessed and it was compared with curcumin, which is currently used for the treatment of periodontal pockets. METHODS AND MATERIALS: There were three categories: each category had 30 sites. Category 1 sites underwent scaling along with root planing (SRP) solely, Category 2 sites received curcumin extract as LAM in the periodontal pocket in addition to SRP, and Category 3 sites received tulsi extract as LAM in the periodontal pocket in addition to SRP. The stent was used to ensure consistent and unbiased measurements on the 30th day after treatment. Clinical attachment level (CAL) and probing pocket depth (PPD) were measured at six points around each tooth.  Results: The reduction in values of periodontal parameters such as BAPNA (Nα-benzoyl-DL-arginine-p-nitroanilide) assays, modified sulcus bleeding index (mSBI), gingival index (GI), plaque index (PI), CAL, and PPD in sites within Category 1, Category 2, and Category 3 was statistically significant. The decrease in BAPNA assay results indicates that tulsi extract is more effective than curcumin gel at eradicating red-complex bacteria. Although not significantly different, the decrease in PI and GI was observed to be greater when curcumin jelly was used. This suggests that curcumin jelly has a stronger impact on reducing plaque, which in turn decreases gingival inflammation. CONCLUSION: Based on the overall results of the study, it can be said that both tulsi and curcumin have similar effectiveness in reducing periodontal markers."
+    },
+    {
+      "pmid": "37991203",
+      "title": "Biogenic synthesis of gold nanoparticles using dual extract of tulsi-Vinca for breast cancer tumor regression in mice.",
+      "authors": [
+        "Ravi Pratap",
+        "Karishma Niveria",
+        "Saurabh Kumar Srivastava",
+        "Shilpi Chaudhary",
+        "Poonam Sharma",
+        "Anita K Verma",
+        "Avanish Singh Parmar"
+      ],
+      "journal": "Nanomedicine (London, England)",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Aim: This work aims to synthesize the gold nanoparticles (GNPs) using a dual extract of tulsi and Vinca (T+V-Gold) for breast cancer tumor regression. Methods: The GNPs were synthesized and characterized for their microscopic, spectroscopic and crystalline properties. Further, the GNPs were investigated for in vitro and in vivo studies for the treatment of the 4T1-induced triple-negative breast cancer murine model. Results: The GNPs for 4T1 tumor-challenged mice resulted in delayed tumor development and lower tumor burden, with T+V-Gold demonstrating the highest prevention of tumor spread. The antitumor effect of T+V-Gold is highly significant in the glutathione family antioxidants glutathione S-transferase and glutathione in tumor tissue samples. Conclusion: The bioefficacy and anticancer outcomes of T+V-Gold nanoformulation can be used as therapeutic agents and drug-delivery vehicles.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Gold",
+        "Vinca",
+        "Metal Nanoparticles",
+        "Glutathione",
+        "Neoplasms"
+      ]
+    },
+    {
+      "pmid": "37937014",
+      "title": "A Novel Herbal Paste Formulation of Turmeric, Tulsi, and Honey for the Treatment of Oral Submucous Fibrosis.",
+      "authors": [
+        "Shaik Mobeen",
+        "Ravindra Sv",
+        "Sunitha Jd",
+        "Rathod Prakash",
+        "Satyanarayana D",
+        "Himaja Swayampakula",
+        "Afeefa Shaikh",
+        "Amreen Begum"
+      ],
+      "journal": "Cureus",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background and objectives Oral submucous fibrosis (OSMF) is a condition that affects the oral cavity and is characterized by the development of fibrous bands in the submucosal layers, leading to progressive difficulty in mouth opening and other symptoms. Inflammation and advancing fibrosis of the submucosal tissues are the hallmarks of this chronic, disabling illness of the oral cavity. The disorder is well known for having a propensity for cancer and is particularly linked to the habit of chewing tobacco and areca nuts. The study mentioned aims to compare the effectiveness of a novel herbal paste formulation containing turmeric, tulsi (holy basil), and honey in managing OSMF. The use of herbal remedies is common in traditional medicine, and turmeric and tulsi are known for their potential anti-inflammatory and antioxidant properties. Honey, too, is believed to have some therapeutic benefits. Methodology A study was conducted at MNR Dental College and Hospital, Sangareddy, Telangana, India, in the Department of Oral Medicine and Radiology (OMR) on 80 oral submucous fibrosis patients to evaluate the efficacy of a novel herbal paste formulation of turmeric, tulsi, and honey, comprising 77 males and three females. Patients were given a novel herbal paste formulation consisting of 10 g of turmeric powder and 10 g of tulsi powder, mixed in 10 ml of honey, to study subjects, and a placebo consisting of anti-oxidants was administered to control subjects for three months. The subjective and objective symptoms were recorded and statistically analyzed. Results The majority of the subjects were in the age group of 18-22 years, with an average age of 28.09+/-8.38 years with the most predominant habit of gutka chewing. A statistically significant change in the mouth opening, tongue protrusion, burning sensation, blanching of the mucous membrane, and reduction in palpable fibrous bands was found in the study subjects when compared to control subjects. Conclusion The present study evaluated the efficacy of a novel herbal paste formulation of turmeric, tulsi, and honey in the management of OSMF."
+    },
+    {
+      "pmid": "37655435",
+      "title": "Efficacy of clove and tulsi supplementation in drinking water in broiler immunity.",
+      "authors": [
+        "Rafiqul Islam",
+        "Nasrin Sultana"
+      ],
+      "journal": "Veterinary medicine and science",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Medicinal plants or their products are popular substitutes for antibiotics or other synthetic growth promoters for their beneficial effects and cost-effectiveness. Clove (Cv) and tulsi (Ts) are rich in phytochemicals and are used to augment the growth performance of poultry. OBJECTIVES: The current investigation was carried out to evaluate the effects of Cv and Ts supplementation in drinking water on the morphologic and morphometric adaptations in the lymphoid organs. METHODS: The experiment was conducted on 60 broiler chicks, divided into 4 homogenous groups (5 pens/group and 3 broilers/pen) named T0 (control), T1 (0.5% Cv and 2% Ts), T2 (1% Cv and 3% Ts) and T3 (1.5% Cv and 4% Ts). The treatments were administered from days 8 to 28. Lymphoid organs (thymus, spleen and bursa of Fabricius) were collected on days 14, 21 and 28 after sacrificing five broilers from each group. RESULTS: The treatment groups had higher thymus and spleen weights on day 21, whereas the weights of the bursa of Fabricius were higher on days 14, 21 and 28. In the histomorphologic study, no noticeable difference in the histoarchitectures of the lymphoid organs was noticed. However, substantial differences in the cortico-medullary ratio and the number of follicles in the thymus and bursa of Fabricius, respectively, were found in the histomorphometric investigation. CONCLUSION: The inclusion of Cv and Ts in drinking water augments the weight of lymphoid organs with histomorphometric adaptations that might improve the immune status in broilers.",
+      "mesh_terms": [
+        "Animals",
+        "Chickens",
+        "Syzygium",
+        "Drinking Water",
+        "Dietary Supplements",
+        "Ocimum sanctum",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "37507040",
+      "title": "Tulsi (Ocimum sanctum) mediated Co nanoparticles with their anti-inflammatory, anti-cancer, and methyl orange dye adsorption properties.",
+      "authors": [
+        "Han Jiang",
+        "Selvam Sathiyavimal",
+        "Liping Cai",
+        "Sandhanasamy Devanesan",
+        "Shaban R M Sayed",
+        "G K Jhanani",
+        "Junqing Lin"
+      ],
+      "journal": "Environmental research",
+      "publication_date": "2023-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nanotechnology is an emerging technology that uses medicinal plants to extract nanoparticles for conventional applications. In the present investigation, the medical plant Tulsi (Ocimum sanctum) has used in the synthesis of cobalt (Co) nanoparticles in a cost-effective, feasible process. The efficiency of nanoparticles in removing methyl orange dye was evaluated by analyzing their applications in wastewater treatment. An analysis of the anti-inflammatory and anti-cancer properties of Tulsi-mediated Co nanoparticles was conducted to examine their medical application. Morphological analysis of Co nanoparticles showed that the synthesized nanoparticles were in crystal shape with a mean particle size of 110 nm. A batch adsorption study has shown that incubation periods of 5 h, pH 2, temperatures of 70 °C, and adsorbent dosage of 125 μg/mL are optimal for removing methyl orange dye from wastewater. To examine the anti-inflammatory properties of Tulsi-mediated Co nanoparticles, protein denaturation and nitric oxide scavenging assays were performed. The maximum anti-inflammatory response was recorded at a concentration of 250 μg/mL of Co nanoparticles. MTT assays against MDA-MB-231 human breast cancer cells were used to evaluate the anti-cancer properties of Co nanoparticles. This study investigates the economical extraction of Co nanoparticles from tulsi and its potential use in wastewater purification and biomedical applications."
+    },
+    {
+      "pmid": "36515030",
+      "title": "Ocimum sanctum [Tulsi] as a Potential Immunomodulator for the Treatment of Ischemic Injury in the Brain.",
+      "authors": [
+        "Inderjeet Yadav",
+        "Ravi Kumar",
+        "Zeeshan Fatima",
+        "Velayudhan Rema"
+      ],
+      "journal": "Current molecular medicine",
+      "publication_date": "2024",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "Stroke causes brain damage and is one of the main reasons for death. Most survivors of stroke face long-term physical disabilities and cognitive dysfunctions. In addition, they also have persistent emotional and behavioral changes. The two main treatments that are effective are reperfusion with recombinant tissue plasminogen activator and recanalization of penumbra using mechanical thrombectomy. However, these treatments are suitable only for a few patients due to limitations such as susceptibility to hemorrhage and the requirement for administering tissue plasminogen activators within the short therapeutic window during the early hours following a stroke. The paucity of interventions and treatments could be because of the multiple pathological mechanisms induced in the brain by stroke. The ongoing immune response following stroke has been attributed to the worsening brain injury. Hence, novel compounds with immunomodulatory properties that could improve the outcome of stroke patients are required. Natural compounds and medicinal herbs with anti-inflammatory activities and having minimal or no adverse systemic effect could be beneficial in treating stroke. Ocimum sanctum is a medicinal herb that can be considered an effective therapeutic option for ischemic brain injury. Ocimum sanctum, commonly known as holy basil or \"Tulsi,\" is mentioned as the \"Elixir of Life\" for its healing powers. Since antiquity, Tulsi has been used in the Ayurvedic and Siddha medical systems to treat several diseases. It possesses immuno-modulatory activity, which can alter cellular and humoral immune responses. Tulsi can be considered a potential option as an immuno-modulator for treating various diseases, including brain stroke. In this review, we will focus on the immunomodulatory properties of Tulsi, specifically its effect on both innate and adaptive immunity, as well as its antioxidant and antiinflammatory properties, which could potentially be effective in treating ongoing immune reactions following ischemic brain injury.",
+      "mesh_terms": [
+        "Humans",
+        "Ocimum sanctum",
+        "Tissue Plasminogen Activator",
+        "Ocimum",
+        "Plant Extracts",
+        "Immunologic Factors",
+        "Anti-Inflammatory Agents",
+        "Brain",
+        "Stroke",
+        "Brain Injuries"
+      ]
+    },
+    {
+      "pmid": "36370662",
+      "title": "Modulation of growth performance, gut morphometry, and cecal microbiota in broilers by clove (Syzygium aromaticum) and tulsi (Ocimum sanctum) supplementation.",
+      "authors": [
+        "Rafiqul Islam",
+        "Nasrin Sultana",
+        "Sonali Bhakta",
+        "Ziaul Haque",
+        "Alamgir Hasan",
+        "Mahbubul Pratik Siddique",
+        "Mohammad Rafiqul Islam"
+      ],
+      "journal": "Poultry science",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Randomized Controlled Trial, Veterinary",
+        "Journal Article"
+      ],
+      "abstract": "In an epoch of the growing risk of antibiotic resistance, there is a dire need to establish an effective novel feeding practice for broiler nutrition as an alternative to antibiotics. Hence, the aim of the current study was to evaluate the impact of clove powder and tulsi extract on the growth performance, gut morphologic and morphometric indices, and cecal microbial status of broiler, as an alternative to antibiotic growth promoters (AGPs). Sixty day-old chicks of Cobb-500 strain were randomly divided into 4 groups, each having 15 birds. Chicks of the control group (T0) were fed commercial broiler feed with no additional supplementation. The treatment groups were offered commercial broiler feed and received clove powder and tulsi extract with drinking water at the rate of 0.5% + 2% (T1), 1% + 3% (T2), and 1.5% + 4% (T3), respectively. Results showed a nonlinear relationship with the dosage of clove and tulsi. All the growth parameters substantially (P < 0.05) improved in T2 while T1 and T3 showed no significant improvement compared to T0. The final body weight was significantly (P < 0.05) higher in T2. Giblet and offal weights showed no noticeable differences except in the intestine and heart where intestine weight markedly (P < 0.05) decreased in T3 and heart weight significantly (P < 0.05) increased in T1 and T2. Clove and tulsi supplementation substantially improved the villus height and villus surface area of the small intestine in T2 while the large intestine remained mostly unaffected by the treatment. Cecal microbial status significantly improved in all the treatment groups having increased (P < 0.05) Lactobacillus spp. count and decreased (P < 0.05) E. coli count compared to T0. Based on the aforementioned findings, it can be concluded that the combination of clove and tulsi can improve the growth performance and gut health of broilers which is largely dose-dependent and might be supplied as a potential alternative to AGPs.",
+      "mesh_terms": [
+        "Animals",
+        "Dietary Supplements",
+        "Diet",
+        "Chickens",
+        "Ocimum sanctum",
+        "Syzygium",
+        "Escherichia coli",
+        "Powders",
+        "Microbiota",
+        "Anti-Bacterial Agents",
+        "Animal Feed"
+      ]
+    },
+    {
+      "pmid": "35291347",
+      "title": "Comparative clinical data for gingivitis treatment using gels from Ocimum sanctum (Tulsi) and chlorhexidine (CHX).",
+      "authors": [
+        "B A Deepika",
+        "Jaiganesh Ramamurthy",
+        "Nadathur Duraisamy Jayakumar",
+        "S Rajesh Kumar"
+      ],
+      "journal": "Bioinformation",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ocimum sanctum (Tulsi) has various properties like anti bacterial, anti inflammatory, anti oxidant for curing diseases. It is a plant with known medicinal value in Indian system of medicine. Therefore, it is of interest to evaluate the effectiveness of Ocimum sanctum with Chlorhexidine (CHX) which is a standard material for the treatment of gingivitis. We used 30 gingivitis subjects divided into 2 groups. Group I used Tulsi gel (n= 15) and Group II used CHX gel (n = 15) for treatment. Tulsi and CHX gel use was advised for 1 month. The Clinical parameters assessed were gingival Index (GI), plaque Index (PI), probing depth (PD) and clinical attachment loss (CAL) assessed at a time interval of 30 days. Statistical analysis was completed using the SPSS software 23.0. Data showed that GI and PD for Tulsi and CHX in pre and post groups are not significant with p > 0.05. Moreover, PI is not significant with p>0.05 among pre Tulsi, pre CHX and post CHX. However, data is significant with p<0.05 for Tulsi group. CAL is significant with p<0.05 among pre/post Tulsi groups. However, this is not significant with p>0.05 among pre/post CHX groups. Data shows that 2% of Tulsi is effective in reducing gingival bleeding and inflammation. Thus, clinical data shows that Tulsi gel is promising for the treatment of gingivitis."
+    },
+    {
+      "pmid": "34703138",
+      "title": "A comparative assessment of pomegranate extract, sodium hypochlorite, chlorhexidine, Myrrh (Commiphora molmol), tulsi extract against Enterococcus faecalis, Fusobacterium nucleatum and Staphylococci epidermidis.",
+      "authors": [
+        "Mallwika Sisodiya",
+        "Shadab Ahmed",
+        "Ranjan Sengupta",
+        "Priyanka",
+        "Ankit Kumar Saha",
+        "Gourav Verma"
+      ],
+      "journal": "Journal of oral and maxillofacial pathology : JOMFP",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The presence of pathogenic bacteria, toxins and byproducts in the root canal system show a decisive part in success of endodontic therapy. Thus, the complete removal of this bacterium is highly desirable. Several intracanal medicaments were tried to disinfect the root canal before obturation. AIM: The present study was conducted to compare Pomegranate, sodium hypochlorite, Chlorhexidine, Myrrh (Commiphora molmol), tulsi extract against Enterococcus faecalis, Fusobacterium nucleatum and Staphylococci epidermidis. SETTINGS AND DESIGN: Cross-sectional observational prospective study. MATERIALS AND METHODOLOGY: Aqueous extract of 20% pomegranate peel, 20% pomegranate peel, 0.2% CHX, 2.5% sodium hypochlorite, Tulsi extract and Myrrh (Commiphora molmol) was used as agent against E. faecalis, F. nucleatum and Staphylococci Epidermidis. Zone of inhibition and minimum inhibitory concentration (MIC) was calculated and compared using analysis of variance and Mann-Whitney test. The information was statistically evaluated with SPSS software version 20 with P < 0.05. RESULTS AND CONCLUSION: The mean zone of inhibition against E. faecalis, F. nucleatum and S. Epidermidis was highest in chlorhexidine and sodium hypochlorite groups compared to herbal groups. MIC was least with group III followed by group II against all bacterial species (P < 0.05). Sodium hypochlorite found comparatively better followed by chlorhexidine and other agents against E. faecalis, F nucleatum and S. epidermidis."
+    },
+    {
+      "pmid": "34677731",
+      "title": "Eugenol, a Component of Holy Basil (Tulsi) and Common Spice Clove, Inhibits the Interaction Between SARS-CoV-2 Spike S1 and ACE2 to Induce Therapeutic Responses.",
+      "authors": [
+        "Ramesh Kumar Paidi",
+        "Malabendu Jana",
+        "Sumita Raha",
+        "Mary McKay",
+        "Monica Sheinin",
+        "Rama K Mishra",
+        "Kalipada Pahan"
+      ],
+      "journal": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
+      "publication_date": "2021-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Spike S1 of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) binds to angiotensin-converting enzyme 2 (ACE2) on host cells to enter the cell and initiate COVID-19. Since ACE2 is a favorable enzyme, we were interested in finding a molecule capable of binding spike S1, but not ACE2, and inhibiting the interaction between spike S1 and ACE2. Holy basil (Tulsi) has a long history as a medicine for different human disorders. Therefore, we screened different components of Tulsi leaf and found that eugenol, but not other major components (e.g. ursolic acid, oleanolic acid and β-caryophylline), inhibited the interaction between spike S1 and ACE2 in an AlphaScreen-based assay. By in silico analysis and thermal shift assay, we also observed that eugenol associated with spike S1, but not ACE2. Accordingly, eugenol strongly suppressed the entry of pseudotyped SARS-CoV-2, but not vesicular stomatitis virus (VSV), into human ACE2-expressing HEK293 cells. Eugenol also reduced SARS-CoV-2 spike S1-induced activation of NF-κB and the expression of IL-6, IL-1β and TNFα in human A549 lung cells. Moreover, oral treatment with eugenol reduced lung inflammation, decreased fever, improved heart function, and enhanced locomotor activities in SARS-CoV-2 spike S1-intoxicated mice. Therefore, selective targeting of SARS-CoV-2 spike S1, but not ACE2, by eugenol may be beneficial for COVID-19 treatment.",
+      "mesh_terms": [
+        "Angiotensin-Converting Enzyme 2",
+        "Animals",
+        "Eugenol",
+        "HEK293 Cells",
+        "Humans",
+        "Mice",
+        "Ocimum sanctum",
+        "Protein Binding",
+        "SARS-CoV-2",
+        "Spices",
+        "Spike Glycoprotein, Coronavirus",
+        "Syzygium",
+        "COVID-19 Drug Treatment"
+      ]
+    },
+    {
+      "pmid": "34158685",
+      "title": "Determination of efficacy of curcumin and Tulsi extracts as local drugs in periodontal pocket reduction: A clinical and microbiological study.",
+      "authors": [
+        "Apurva Rahalkar",
+        "Kanteshwari Kumathalli",
+        "Rajesh Kumar"
+      ],
+      "journal": "Journal of Indian Society of Periodontology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The aim of our study is to assess the effectiveness of Curcumin and Tulsi in the control of periodontal parameters when delivered in the form of local drug delivery (LDD) agents. METHODS: Curenext gel® and Tulsi gel were used as the two LDD agent. A split mouth randomized clinical trial was carried out in 15 patients. Three sites in different quadrants were assigned treatment modality of scaling and root planing (SRP) alone, SRP with LDD of curcumin and SRP with LDD of Tulsi extract, respectively. Clinical parameters Probing Pocket Depth, Clinical Attachment Level, Plaque Index, Gingival Index, and modified Sulcus Bleeding Index were recorded and subgingival plaque sample collected for N-benzoyl-L-arginine-p-nitroanilide (BAPNA) assay on baseline followed by LDD with extracts in the assigned group. The parameters were recorded at baseline and on 30th day postoperatively. Unpaired and Paired-'t' test were used for intergroup and intragroup comparison of recorded clinical and microbiological parameters. RESULTS: All the treatment modalities showed statistically significant reduction in clinical and microbiological parameters on intragroup comparison. Intergroup comparison showed statistically significant reduction in Plaque Index in curcumin group and BAPNA assay in Tulsi group when compared to SRP. CONCLUSION: Both the herbs were effective in improving periodontal parameters and may develop as an alternative to currently used LDD agents in near future."
+    },
+    {
+      "pmid": "31275519",
+      "title": "Efficacy of chlorhexidine, hydrogen peroxide and tulsi extract mouthwash in reducing halitosis using spectrophotometric analysis: A randomized controlled trial.",
+      "authors": [
+        "Kriti Sharma",
+        "Shashidhar Acharya",
+        "Eshan Verma",
+        "Deepak Singhal",
+        "Nishu Singla"
+      ],
+      "journal": "Journal of clinical and experimental dentistry",
+      "publication_date": "2019-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: To evaluate the efficacy of tulsi extract mouthrinse in reducing halitosis as compared to chlorhexidine and hydrogen peroxide mouthrinses using spectrophotometric analysis. MATERIAL AND METHODS: It was a parallel, single center, double blinded randomized controlled trial of 15 days duration. A total of 300 participants were screened, out of which 45 subjects those fulfilled inclusion criteria of age range 17-35 years were included in the trial. The participants were randomly provided with tulsi, hydrogen peroxide or chlorhexidine mouthwashes (control group) to use 10 ml twice daily for 15 days. Clinical measurements were taken at baseline and 15 days using arbitrary 0-5 scale for organoleptic odor assessments, spectrophotometric analysis for Volatile Sulphide Compounds (VSCs) from saliva samples, Löe & Silness gingival index and Silness & Löe plaque index. RESULTS: After intervention, organoleptic, VSCs, gingival and plaque scores showed statistically significant decrease in all the three study groups. The mean percentage reduction in VSC and organoleptic scores was significantly greater in chlorhexidine and hydrogen peroxide groups than in the tulsi group and the mean percentage reduction in plaque and gingival scores was significantly greater in chlorhexidine group than in hydrogen peroxide and tulsi group. CONCLUSIONS: Tulsi may not have the efficacy of chlorhexidine and hydrogen peroxide mouthrinses. But, Tulsi is effective in reducing halitosis, plaque and gingivitis and with its lack of side effects & cost effectiveness, can be an effective & economic tool to deal with halitosis. The spectrophotometric technique appears to be a promising method for evaluation of oral malodor. Key words:Halitosis, tulsi mouthwash, chlorhexidine, hydrogen peroxide, spectrophotometric analysis."
+    },
+    {
+      "pmid": "29728546",
+      "title": "In vitro Antimicrobial Activity of Ocimum sanctum (Tulsi) Extract on Aggregatibacter actinomycetemcomitans and Porphyromonas gingivalis.",
+      "authors": [
+        "Ipsita Jayanti",
+        "Md Jalaluddin",
+        "Anisha Avijeeta",
+        "Pavithra K Ramanna",
+        "Pooja M Rai",
+        "Rohit A Nair"
+      ],
+      "journal": "The journal of contemporary dental practice",
+      "publication_date": "2018-Apr-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aim: The present study was conducted with an aim to assess the antimicrobial activity of Ocimum sanctum (tulsi) extract on Aggregatibacter actinomycetemcomitans and Porphyromonas gingivalis.Materials and methods: Tulsi extract with ethanol was prepared using cold extraction method in the present in vitro study. Various concentrations (2, 4, 6, and 8%) were then obtained by dilution with dimethylformamide. A 0.2% chlorhexidine served as the positive control, whereas the negative control was dimeth-ylformamide. Zones of inhibition were measured, each for A. actinomycetemcomitans and P. gingivalis. For comparison within the group and between the study groups, one-way analysis of variance (ANOVA) and Tukey's post hoc tests were used. A statistical significance level of p < 0.05 was established. Results: The 8% concentration of the tulsi extract showed maximum zone of inhibition against A. actinomycetemcomitans and P. gingivalis (40.10 ± 0.90, 33.79 ± 1.82 mm), followed by the 6, 4, and 2% concentrations. The 0.2% chlorhexidine, which was the positive control, had 39.80 ± 1.24 and 32.28 ± 1.28 mm zones of inhibition; dimethylformamide showed 13.55 ± 1.92 and 10.21 ± 2.16 mm zones of inhibition against both the microorganisms. The ANOVA showed highly statistically significant (p < 0.0001) results between and within the groups. The antimicrobial activity of tulsi extract at 6 and 8% concentrations, and 0.2% chlorhexidine against A. actinomycetemcomitans showed statistically significant differences between the groups. The concentration of tulsi extract at 8 and 0.2% chlorhexidine on P. gingivalis showed statistically significant differences between the groups. Conclusion: It was concluded that 8% concentration of O. sanctum (tulsi) extract showed the maximum antimicrobial activity against A. actinomycetemcomitans and P. gingivalis. It is thus recommended that this may be useful as an adjunc-tive to mechanical therapy in the prevention and treatment of periodontal diseases. Clinical significance:O. sanctum (tulsi) is a herb that is abundantly available, easily accessible, economically feasible, and culturally acceptable. Therefore, it is very useful in the management of oral diseases and also for overcoming many barriers that exist for the utilization of dental services, such as affordability, accessibility, availability, and acceptability. Keywords:Aggregatibacter actinomycetemcomitans, Antimicrobial, Ocimum sanctum, Porphyromonas gingivalis.",
+      "mesh_terms": [
+        "Aggregatibacter actinomycetemcomitans",
+        "Anti-Bacterial Agents",
+        "Chlorhexidine",
+        "Dose-Response Relationship, Drug",
+        "In Vitro Techniques",
+        "Microbial Sensitivity Tests",
+        "Ocimum",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Porphyromonas gingivalis"
+      ]
+    },
+    {
+      "pmid": "28811698",
+      "title": "Effect of Tulsi (Ocimum sanctum Linn.) Supplementation on Metabolic Parameters and Liver Enzymes in Young Overweight and Obese Subjects.",
+      "authors": [
+        "Swayamjeet Satapathy",
+        "Namrata Das",
+        "Debapriya Bandyopadhyay",
+        "Sushil Chandra Mahapatra",
+        "Dip Sundar Sahu",
+        "Mruthyumjayarao Meda"
+      ],
+      "journal": "Indian journal of clinical biochemistry : IJCB",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ocimum sanctum Linn. (also known as Tulsi) is a sacred Indian plant, the beneficial role of which, in obesity and diabetes is described traditionally. This is a randomized, parallel group, open label pilot study to investigate the effect of O. sanctum on metabolic and biochemical parameters in thirty overweight/obese subjects, divided into two groups A and B. Group A (n = 16) received one 250 mg capsule of Tulsi (O. sanctum) extract twice daily in empty stomach for 8 weeks and group B (n = 14) received no intervention. Statistically significant improvements in the values of serum triglycerides (p = 0.019); low density lipoprotein (p = 0.001); high density lipoprotein (p = 0.001); very low density lipoprotein (p = 0.019); Body Mass Index, BMI (p = 0.005); plasma insulin (p = 0.021) and insulin resistance (p = 0.049) were observed after 8 weeks in the O. sanctum intervention group. The improvement in HDL-C in the intervention group when compared to the control group was also statistically significant (p = 0.037). There was no significant alteration of the liver enzymes SGOT and SGPT in both the intervention (p = 0.141; p = 0.074) and control arms (p = 0.102; p = 0.055) respectively. These observations clearly indicate the beneficial effects of O. sanctum on various biochemical parameters in young overweight/obese subjects."
+    },
+    {
+      "pmid": "28400848",
+      "title": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature.",
+      "authors": [
+        "Negar Jamshidi",
+        "Marc M Cohen"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Tulsi, also known as holy basil, is indigenous to the Indian continent and highly revered for its medicinal uses within the Ayurvedic and Siddha medical systems. Many in vitro, animal and human studies attest to tulsi having multiple therapeutic actions including adaptogenic, antimicrobial, anti-inflammatory, cardioprotective, and immunomodulatory effects, yet to date there are no systematic reviews of human research on tulsi's clinical efficacy and safety. We conducted a comprehensive literature review of human studies that reported on a clinical outcome after ingestion of tulsi. We searched for studies published in books, theses, conference proceedings, and electronic databases including Cochrane Library, Google Scholar, Embase, Medline, PubMed, Science Direct, and Indian Medical databases. A total of 24 studies were identified that reported therapeutic effects on metabolic disorders, cardiovascular disease, immunity, and neurocognition. All studies reported favourable clinical outcomes with no studies reporting any significant adverse events. The reviewed studies reinforce traditional uses and suggest tulsi is an effective treatment for lifestyle-related chronic diseases including diabetes, metabolic syndrome, and psychological stress. Further studies are required to explore mechanisms of action, clarify the dosage and dose form, and determine the populations most likely to benefit from tulsi's therapeutic effects."
+    },
+    {
+      "pmid": "27143825",
+      "title": "Antimicrobial efficacy of Tulsi leaf (Ocimum sanctum) extract on periodontal pathogens: An in vitro study.",
+      "authors": [
+        "Sajjanshetty Mallikarjun",
+        "Ashwini Rao",
+        "Gururaghavendran Rajesh",
+        "Ramya Shenoy",
+        "Mithun Pai"
+      ],
+      "journal": "Journal of Indian Society of Periodontology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Periodontitis is an infection of the periodontal complex with severe forms of disease associated with specific bacteria colonizing the subgingival area. Widespread use of drugs has resulted in the emergence of side effects, uncommon infections, and resistance. Plant medicine like Tulsi has been used in many clinical conditions, and it appears to be a suitable alternative to manage conditions affecting the oral cavity. Hence, the objective was to assess the in vitro antimicrobial activity of Tulsi leaves extract (Ocimum sanctum) on periodontal pathogens with doxycycline as standard, as doxycycline has been used as an adjunct to nonsurgical therapy in periodontitis patients. MATERIALS AND METHODS: Ethanolic extract of Tulsi was prepared by cold extraction method. Extract was diluted with an inert solvent, dimethyl formamide, to obtain five different concentrations (0.5%, 1%, 2%, 5%, and 10%). Doxycycline was used as a positive control and dimethyl formamide, as a negative control. The extract and controls were subjected to the microbiological investigation against Aggregatibacter actinomycetemcomitans, Prevotella intermedia, and Porphyromonas gingivalis. Agar well diffusion method was employed to determine the concentration at which Tulsi gave an inhibition zone, similar to doxycycline. Data were analyzed using one-way analysis of variance and Tukey post-hoc test was used for inter- and intra-group comparisons. RESULTS: At 5% and 10% concentrations, Tulsi extracts demonstrated antimicrobial activity against A. actinomycetemcomitans, similar to doxycycline with similar inhibition zones (P > 0.05). P. gingivalis and P. intermedia, however, exhibited resistance to Tulsi extract that showed significantly smaller inhibition zones (P < 0.05). CONCLUSIONS: Tulsi demonstrated effective antimicrobial property against A. actinomycetemcomitans, suggesting its possible use as an effective and affordable \"adjunct\" along with the standard care in the management of periodontal conditions. However, further research assessing the toxicity, durability, and other assessments followed by clinical trials is necessary to explore the potential of Tulsi in combating oral conditions."
+    },
+    {
+      "pmid": "27135002",
+      "title": "Anti-microbial Activity of Tulsi {Ocimum Sanctum (Linn.)} Extract on a Periodontal Pathogen in Human Dental Plaque: An Invitro Study.",
+      "authors": [
+        "Pranati Eswar",
+        "C G Devaraj",
+        "Payal Agarwal"
+      ],
+      "journal": "Journal of clinical and diagnostic research : JCDR",
+      "publication_date": "2016-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Tulsi is a popular healing herb in Ayurvedic medicine. It is widely used in the treatment of several systemic diseases because of its anti-microbial property. However, studies documenting the effect of Tulsi on oral disease causing organisms are rare. Hence, an attempt was made to determine the effect of Tulsi on a periodontal microorganism in human dental plaque. AIM: To determine if Ocimum sanctum (Linn.) has an anti-microbial activity (Minimum Inhibitory Concentration and zone of inhibition) against Actinobacillus actinomycetemcomitans in human dental plaque and to compare the antimicrobial activity of Ocimum sanctum(Linn.) extract with 0.2% chlorhexidine as the positive control and dimethyl sulfoxide as the negative control. MATERIALS AND METHODS: A lab based invitro experimental study design was adopted. Ethanolic extract of Ocimum sanctum (Linn.) was prepared by the cold extraction method. The extract was diluted with an inert solvent, dimethyl sulfoxide, to obtain ten different concentrations (1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9%, 10%) of extract. Plaque sample was collected from 05 subjects diagnosed with periodontal disease. Isolation of Actinobacillus actinomycetemcomitans from plaque samples was done using Tryptic Soy Serum Bacitracin Vancomycin agar (TSBV) medium. Identification of Actinobacillus actinomycetemcomitans was done based on cultural, microscopic, biochemical characterization and multiple drug resistance patterns. Anti-microbial activity of Ocimum sanctum (Linn.) extract was tested by agar well-diffusion method against 0.2% chlorhexidine as a positive control and dimethyl sulfoxide as a negative control. The zone of inhibition was measured in millimeters using Vernier callipers. RESULTS: At the 6% w/v concentration of Ocimum sanctum (Linn.) extract, a zone of inhibition of 22 mm was obtained. This was the widest zone of inhibition observed among all the 10 different concentrations tested. The zone of inhibition for positive control was 25mm and no zone of inhibition was observed around the negative control. CONCLUSION: Ocimum sanctum (Linn.) extract demonstrated an antimicrobial activity against Actinobacillus actinomycetemcomitans. The maximum antimicrobial potential was observed at the 6% concentration level."
+    },
+    {
+      "pmid": "26942123",
+      "title": "Antimicrobial activity of herbal medicines (tulsi extract, neem extract) and chlorhexidine against Enterococcus faecalis in Endodontics: An in vitro study.",
+      "authors": [
+        "Pradeep Muttagadur Chandrappa",
+        "Akash Dupper",
+        "Pragya Tripathi",
+        "Ramakrishna Arroju",
+        "Preeti Sharma",
+        "Konthoujam Sulochana"
+      ],
+      "journal": "Journal of International Society of Preventive & Community Dentistry",
+      "publication_date": "2015-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Successful endodontic treatment depends on effective disinfection and complete sealing of root canal. Various medicaments are advised for disinfecting root canal, such as herbal and non-herbal medicaments. This study was done to assess the antimicrobial activity of herbal medicines (neem extract, tulsi extract) and chlorhexidine against Enterococcus faecalis in Endodontics. MATERIALS AND METHODS: Agar diffusion method was used to evaluate the antimicrobial action of different medicines. Sixty samples were segregated into four groups with 15 samples in each: Group I: chlorhexidine 2%, Group II: neem extract, Group III: tulsi extract, and Group IV: distilled water. The inhibition zones against E. faecalis were recorded and statistically assessed using one-way analysis of variance (ANOVA) test (P < 0.05). RESULTS: Significant antibacterial effect against E. faecalis was observed with chlorhexidine followed by neem extract and tulsi extract. CONCLUSION: Herbal medicines seemed to be effective against E. faecalis compared to 2% chlorhexidine gluconate."
+    },
+    {
+      "pmid": "25878464",
+      "title": "Clinical evaluation of the role of tulsi and turmeric in the management of oral submucous fibrosis: A pilot, prospective observational study.",
+      "authors": [
+        "Adit Srivastava",
+        "Rahul Agarwal",
+        "T P Chaturvedi",
+        "Akhilesh Chandra",
+        "O P Singh"
+      ],
+      "journal": "Journal of Ayurveda and integrative medicine",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of the present study was to investigate the clinical efficacy of herbal medicines (1 gm tulsi and 1 gm turmeric mixed in glycerine base) for the treatment of oral submucous fibrosis (OSMF). Forty-one patients in the age group of 17- 56 years without any systemic complications were included in the study. The patients were treated with medicines, which were to be applied 3-4 times a day. Blood samples were collected before and after treatment to screen for any systemic changes due to these medications. Burning sensation and mouth opening were recorded before and after treatment. Patients were followed up on monthly subsequent visits for three months. Changes in the burning sensation on visual analogue scale (VAS) scale and difference in the mouth opening were analyzed statistically. A statistically significant improvement was seen in both burning sensation and mouth opening. Tulsi and turmeric offers a safe and efficacious combination of natural products available for symptomatic treatment of OSMF."
+    },
+    {
+      "pmid": "27833366",
+      "title": "Therapeutic evaluation of \"Ayush Tulsi Jiwan Plus\" oil for chronic musculoskeletal pain relief.",
+      "authors": [
+        "Kunal Sharma",
+        "Jagannath Sahoo",
+        "Dipsundar Sahu",
+        "Abichal Chattopadhyay",
+        "Sanjay Kumar",
+        "Sudhanshu Sekhar Mishra"
+      ],
+      "journal": "Ayu",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Chronic pain of musculoskeletal origin is a very common symptom and has major effect on the physical, mental, and economic aspects of the patients. There is always a crave among physicians and patients for effective analgesic, curable preparation that can be locally applied. AIM: The aim of this study is to assess the efficacy and safety of \"Ayush Tulsi Jiwan Plus\" oil in chronic pain management of musculoskeletal origin. MATERIALS AND METHODS: Fifty patients of chronic musculoskeletal pain of unknown origin of mild to moderate condition were advised to apply \"Ayush Tulsi Jiwan Plus\" oil locally twice daily for 6 weeks and examined weekly. After completion of the treatment, the efficacy of the therapy was assessed on the basis of the subjective criteria such as perception of pain, tenderness, swelling, and joint mobility. RESULTS: In this study, mean baseline score versus last visit score of pain (2.84 ± 0.68 vs. 1.33 ± 0.76), tenderness (1.64 ± 0.74 vs. 0.36 ± 0.56), and swelling (0.64 ± 0.85 vs. 0.38 ± 0.66) was significantly decreased, and also clinical improvement was seen in the study participants along with no evidence of adverse drug reactions. CONCLUSION: The analysis of the overall effect of this \"Ayush Tulsi Jiwan Plus\" oil preparation was found efficacious and topically safe in chronic pain conditions. However, further study will be required with larger sample size and in heterogeneous population to elicit long-term effect of this polyherbal preparation."
+    },
+    {
+      "pmid": "23682780",
+      "title": "Ocimum sanctum L (Holy Basil or Tulsi) and its phytochemicals in the prevention and treatment of cancer.",
+      "authors": [
+        "Manjeshwar Shrinath Baliga",
+        "Rosmy Jimmy",
+        "Karadka Ramdas Thilakchand",
+        "Venkatesh Sunitha",
+        "Neeta Raghavendra Bhat",
+        "Elroy Saldanha",
+        "Suresh Rao",
+        "Pratima Rao",
+        "Rajesh Arora",
+        "Princy L Palatty"
+      ],
+      "journal": "Nutrition and cancer",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Ocimum sanctum L. or Ocimum tenuiflorum L, commonly known as the Holy Basil in English or Tulsi in the various Indian languages, is a important medicinal plant in the various traditional and folk systems of medicine in Southeast Asia. Scientific studies have shown it to possess antiinflammatory, analgesic, antipyretic, antidiabetic, hepatoprotective, hypolipidemic, antistress, and immunomodulatory activities. Preclinical studies have also shown that Tulsi and some of its phytochemicals eugenol, rosmarinic acid, apigenin, myretenal, luteolin, β-sitosterol, and carnosic acid prevented chemical-induced skin, liver, oral, and lung cancers and to mediate these effects by increasing the antioxidant activity, altering the gene expressions, inducing apoptosis, and inhibiting angiogenesis and metastasis. The aqueous extract of Tulsi and its flavanoids, orintin, and vicenin are shown to protect mice against γ-radiation-induced sickness and mortality and to selectively protect the normal tissues against the tumoricidal effects of radiation. The other important phytochemicals like eugenol, rosmarinic acid, apigenin, and carnosic acid are also shown to prevent radiation-induced DNA damage. This review summarizes the results related to the chemopreventive and radioprotective properties of Tulsi and also emphasizes aspects that warrant future research to establish its activity and utility in cancer prevention and treatment.",
+      "mesh_terms": [
+        "Abietanes",
+        "Animals",
+        "Apigenin",
+        "Cinnamates",
+        "Depsides",
+        "Disease Models, Animal",
+        "Drug Evaluation, Preclinical",
+        "Eugenol",
+        "Humans",
+        "Luteolin",
+        "Neoplasms",
+        "Ocimum",
+        "Phytochemicals",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Sitosterols",
+        "Rosmarinic Acid"
+      ]
+    },
+    {
+      "pmid": "23629478",
+      "title": "Ocimum sanctum Linn. (Tulsi): an ethnomedicinal plant for the prevention and treatment of cancer.",
+      "authors": [
+        "Piyali Bhattacharyya",
+        "Anupam Bishayee"
+      ],
+      "journal": "Anti-cancer drugs",
+      "publication_date": "2013-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Ocimum sanctum Linn., commonly known as 'Tulsi' or 'Holy Basil', is considered to be the most sacred herb of India. Several anatomical parts of O. sanctum are known to have an impressive number of therapeutic properties and accordingly find use in several traditional systems of medicine, such as Ayurveda, Unani, and Siddha. Scientific investigations have shown that O. sanctum has a plethora of biological and pharmacological activities. The presence of an impressive number of phytoconstituents in O. sanctum could explain its exceptional beneficial effects. Although several recent articles provide an overview of the various pharmacological properties of O. sanctum, the use of this herb for either prevention or therapy of oncologic diseases has not been exclusively and critically discussed in the literature. The present review critically and comprehensively examines the current knowledge on the chemopreventive and therapeutic potential of O. sanctum. The review also examines, in detail, the biochemical and molecular mechanisms involved in the antineoplastic effects of O. sanctum. Finally, we discuss the role of synergy, current limitations, and future directions of research toward the effective use of this ethnomedicinal plant for the prevention and treatment of human cancer.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Drug Evaluation, Preclinical",
+        "Humans",
+        "Medicine, Traditional",
+        "Neoplasms",
+        "Ocimum",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "21619917",
+      "title": "Double-blinded randomized controlled trial for immunomodulatory effects of Tulsi (Ocimum sanctum Linn.) leaf extract on healthy volunteers.",
+      "authors": [
+        "Shankar Mondal",
+        "Saurabh Varma",
+        "Vishwa Deepak Bamola",
+        "Satya Narayan Naik",
+        "Bijay Ranjan Mirdha",
+        "Madan Mohan Padhi",
+        "Nalin Mehta",
+        "Sushil Chandra Mahapatra"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2011-Jul-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Tulsi (Ocimum sanctum Linn.) is considered as a sacred herb and traditionally it is believed that consumption of Tulsi leaf on empty stomach increases immunity. Experimental studies have shown that alcoholic extract of Tulsi modulates immunity. MATERIALS AND METHODS: The present study was designed to evaluate the immunomodulatory effects of ethanolic extract of Tulsi leaves through a double-blinded randomized controlled cross-over trial on healthy volunteers. Three hundred milligrams capsules of ethanolic extracts of leaves of Tulsi or placebo were administered to 24 healthy volunteers on empty stomach and the results of 22 subjects who completed the study were analyzed. The primary objective was to study the levels of Th1 and Th2 cytokines (interferon-γ and interleukin-4) during both pre and post intervention period in blood culture supernatants following stimulation with lipopolysaccharide and phytohaemagglutinin. Other immunological parameters such as T-helper and T-cytotoxic cells, B-cells and NK-cells also were analyzed using Flowcytometry. RESULTS: Statistically significant increase in the levels of IFN-γ (p=0.039), IL-4 (p=0.001) and percentages of T-helper cells (p=0.001) and NK-cells (p=0.017) were observed after 4 weeks in the Tulsi extract intervention group in contrast to the placebo group. CONCLUSIONS: These observations clearly ascertain the immunomodulatory role of Tulsi leaves extract on healthy volunteers.",
+      "mesh_terms": [
+        "Adult",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Hemagglutinins",
+        "Humans",
+        "Immunologic Factors",
+        "Interferon-gamma",
+        "Interleukin-4",
+        "Killer Cells, Natural",
+        "Lipopolysaccharides",
+        "Male",
+        "Ocimum",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Reference Values",
+        "T-Lymphocytes, Helper-Inducer",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "17922070",
+      "title": "Antistressor activity of Ocimum sanctum (Tulsi) against experimentally induced oxidative stress in rabbits.",
+      "authors": [
+        "S Jyoti",
+        "S Satendra",
+        "S Sushma",
+        "T Anjana",
+        "S Shashi"
+      ],
+      "journal": "Methods and findings in experimental and clinical pharmacology",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fresh leaves of Ocimum sanctum (O. sanctum) were evaluated for antistress activity against experimentally induced oxidative stress in albino rabbits. Animals of the test group received supplementation of 2 g fresh leaves of O. sanctum per rabbit for 30 days. Anemic hypoxia was induced chemically by injecting the rabbits with 15 mg sodium nitrite per 100 g body weight intraperitoneally. Results indicated that O. sanctum administration blunted the changes in cardiorespiratory (BP, HR, RR) parameters in response to stress. A significant (p < 0.01) decrease in blood sugar level was observed after 30 days of dietary supplementation of O. sanctum leaves. Significant increase (p < 0.05) in the levels of enzymatic (superoxide dismutase) and nonenzymatic (reduced glutathione) antioxidants was observed in the test group after the treatment with O. sanctum. Oxidative stress led to a lesser depletion of reduced glutathione (28.80%) and plasma superoxide dismutase (23.04%) in O. sanctum-treated rabbits. The results of this study suggest that the potential antistressor activity of O. sanctum is partly attributable to its antioxidant properties.",
+      "mesh_terms": [
+        "Anemia",
+        "Animals",
+        "Antioxidants",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Dietary Supplements",
+        "Female",
+        "Glutathione",
+        "Heart Rate",
+        "Hypoxia",
+        "Male",
+        "Malondialdehyde",
+        "Ocimum",
+        "Oxidative Stress",
+        "Phytotherapy",
+        "Plant Leaves",
+        "Plant Preparations",
+        "Rabbits",
+        "Sodium Nitrite",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "17672214",
+      "title": "Modulatory effect of distillate of Ocimum sanctum leaf extract (Tulsi) on human lymphocytes against genotoxicants.",
+      "authors": [
+        "Dipanwita Dutta",
+        "S Saravana Devi",
+        "K Krishnamurthi",
+        "Koel Kumar",
+        "Priyanka Vyas",
+        "P L Muthal",
+        "P Naoghare",
+        "T Chakrabarti"
+      ],
+      "journal": "Biomedical and environmental sciences : BES",
+      "publication_date": "2007-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To study the modulatory effect of distillate of Ocimum sanctum (traditionally known as Tulsi) leaf extract (DTLE) on genotoxicants. METHODS: In the present investigation, we studied the antigenotoxic and anticlastogenic effect of distillate of Tulsi leaf extract on (i) human polymorphonuclear leukocytes by evaluating the DNA strand break without metabolic activation against mitomycin C (MMC) and hexavalent chromium (Cr+6) and (ii) human peripheral lymphocytes (in vitro) with or without metabolic activation against mitomycin C (MMC), hexavalent chromium (Cr+6) and B[a]P by evaluating chromosomal aberration (CA) and micronucleus assay (MN). Three different doses of DTLE, 50 microL/mL, 100 microL/mL, and 200 microL/mL were selected on the basis of cytotoxicity assay and used for studying DNA strand break, chromosomal aberration and micronucleus emergence. The following positive controls were used for inducing genotoxicity and clastogenicity: MMC (0.29 micromol/L) for DNA strand break, chromosomal aberration and 0.51 micromol/L for micronucleus assay; Potassium dichromate (Cr+6) 600 micromol/L for DNA strand break and 5 micromol/L for chromosomal aberration and micronucleus assay; Benzo[a]pyrene (30 micromol/L) for chromosomal aberration and 40 micromol/L for micronucleus assay. The active ingredients present in the distillate of Tulsi leaf extract were identified by HPLC and LC-MS. RESULTS: Mitomycin C (MMC) and hexavalent chromium (Cr+6) induced statistically significant DNA strand break of respectively 69% and 71% (P<0.001) as revealed by fluorometric analysis of DNA unwinding. Furthermore, the damage could be protected with DTLE (50 microL/mL, 100 microL/mL, and 200 microL/mL) on simultaneous treatment. Chromosomal aberration and micronucleus formation induced by MMC, Cr+6 and B[a]P were significantly protected (P<0.001) by DTLE with and without metabolic activation. CONCLUSION: Distillate of Tulsi leaf extract possesses antioxidants contributed mainly by eugenol, luteolin and apigenin as identified by LC-MS. These active ingredients may have the protective effect against genotoxicants.",
+      "mesh_terms": [
+        "Adult",
+        "Benzopyrenes",
+        "Cell Survival",
+        "Chromium",
+        "Chromosome Aberrations",
+        "DNA",
+        "DNA Damage",
+        "Humans",
+        "Lymphocytes",
+        "Mass Spectrometry",
+        "Mitomycin",
+        "Mutagens",
+        "Ocimum",
+        "Plant Extracts",
+        "Plant Leaves"
+      ]
+    },
+    {
+      "pmid": "23105641",
+      "title": "Effect ofOcimum sanctum (Tulsi) and vitamin E on biochemical parameters and retinopathy in streptozotocin induced diabetic rats.",
+      "authors": [
+        "Eshrat M Halim",
+        "A K Mukhopadhyay"
+      ],
+      "journal": "Indian journal of clinical biochemistry : IJCB",
+      "publication_date": "2006-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study was carried out to see the effect of the aqueous extract ofOcitum sanctum Linn (Tulsi) with Vitamin E on biochemical parameters and retinopathy in the streptozotocin-induced diabetic albino male rats. Adult albino male rats weighing 150-200 gm were made diabetic by intraperitoneal injection of streptozotocin in the dose 60 mg/kg in citrate buffer (pH 6.3). The diabetic animals were left for one month to develop retinopathy. Biochemical parameters like plasma glucose, oral glucose tolerance and glycosylated hemoglobin HbA(1c), were measured along with lipid profile, and enzymes like glutathione peroxidase (GPX), lipid peroxidase (LPO), superoxide dismutase (SOD), catalase (CAT) and glutathione-S-transferase (GST) in normal, untreated diabetic rats and diabetic rats treated withOcimum sanctum L extracts and vitamin E. Fluorescein angiography test was done for assessing retinopathy. Results on biochemical parameters were analyzed statistically by using ANOVA followed by Dunnet's 't'-test. A p-value of <0.05 was considered as significant. Evaluation of biochemical profile in treated groups showed statistically significant reduction in plasma levels of glucose, HbA(1c), lipid profile and LPO, and elevation of GPX, SOD, CAT and GST. Treatment of the diabetic animals withOcimum sanctum and Vitamin E, alone and in combination for 16 weeks showed reversal of most of the parameters studied including plasma glucose levels. Angiography showed improvement in retinal changes following combined antidiabetic treatment."
+    },
+    {
+      "pmid": "16170979",
+      "title": "Therapeutic uses of Ocimum sanctum Linn (Tulsi) with a note on eugenol and its pharmacological actions: a short review.",
+      "authors": [
+        "P Prakash",
+        "Neelu Gupta"
+      ],
+      "journal": "Indian journal of physiology and pharmacology",
+      "publication_date": "2005-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The medicinal plants are widely used by the traditional medical practitioners for curing various diseases in their day to day practice. In traditional systems of medicine, different parts (leaves, stem, flower, root, seeds and even whole plant) of Ocimum sanctum Linn (known as Tulsi in Hindi), a small herb seen throughout India, have been recommended for the treatment of bronchitis, bronchial asthma, malaria, diarrhea, dysentery, skin diseases, arthritis, painful eye diseases, chronic fever, insect bite etc. The Ocimum sanctum L. has also been suggested to possess antifertility, anticancer, antidiabetic, antifungal, antimicrobial, hepatoprotective, cardioprotective, antiemetic, antispasmodic, analgesic, adaptogenic and diaphoretic actions. Eugenol (1-hydroxy-2-methoxy-4-allylbenzene), the active constituent present in Ocimum sanctum L., has been found to be largely responsible for the therapeutic potentials of Tulsi. Although because of its great therapeutic potentials and wide occurrence in India the practitioners of traditional systems of medicine have been using Ocimum sanctum L. for curing various ailments, a rational approach to this traditional medical practice with modern system of medicine is, however, not much available. In order to establish the therapeutic uses of Ocimum sanctum L. in modern medicine, in last few decades several Indian scientists and researchers have studied the pharmacological effects of steam distilled, petroleum ether and benzene extracts of various parts of Tulsi plant and eugenol on immune system, reproductive system, central nervous system, cardiovascular system, gastric system, urinary system and blood biochemistry and have described the therapeutic significance of Tulsi in management of various ailments. These pharmacological studies have established a scientific basis for therapeutic uses of this plant.",
+      "mesh_terms": [
+        "Animals",
+        "Eugenol",
+        "Humans",
+        "Medicine, Ayurvedic",
+        "Medicine, Traditional",
+        "Ocimum",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Plants, Medicinal"
+      ]
+    }
+  ]
+}

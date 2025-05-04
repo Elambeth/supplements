@@ -1,0 +1,36 @@
+{
+  "supplement": "Shivlingi",
+  "query": "Shivlingi[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:34:14",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "35477469",
+      "title": "Super-critical fluid extract of Bryonopsis laciniosa (Shivlingi) seeds restores fertility in zebrafish models through revival of cytological and anatomical features.",
+      "authors": [
+        "Acharya Balkrishna",
+        "Pradeep Nain",
+        "Monali Joshi",
+        "Brijesh Kumar",
+        "Anurag Varshney"
+      ],
+      "journal": "Journal of ovarian research",
+      "publication_date": "2022-Apr-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The Ayurvedic system of medicine mentions the use of seeds of Bryonopsis laciniosa (L.) Naud. (also known as Shivlingi due to their unique structure resembling a 'Shivling') for treating sexual dysfunction, impaired fertility, and as a general virility-booster in both males and females. To investigate the scientific basis for such claims, the current study was designed for the chemical characterization of the super critical fluid extracted Shivlingi seed oil (SLSO), and subsequent evaluation of its reproductive fecundity in the zebrafish model of N-ethyl-N-nitrosourea induced infertility. RESULTS: Linoleic and linolenic acids were the major fatty acids in the SLSO, with trace amounts of β-sitosterol and stigmasterol. Both male and female zebrafish, when fed orally with the SLSO infused pallets, showed a dose-dependent increase in fertility and fecundity rates. Microscopic observations revealed recovery in the gross ovarian anatomy and consequential improvement in egg production in infertile female zebrafish. Similarly, cytological studies exhibited increased sperm counts and motility in male zebrafish. SLSO exhibited effects similar to the human equivalent dose of Letrozole. CONCLUSION: Taken together, these observations demonstrated the fertility-boosting potentials of SLSO comparable to the widely used infertility drugs. As a whole, this research work has provided scientific evidence for the rationale behind the use of Shivlingi seeds in Ayurvedic treatment for infertility in humans. Finally, but importantly, this study warrants further scientific investigations into different aspects of SLSO on human reproductive health.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Fertility",
+        "Infertility",
+        "Male",
+        "Plant Extracts",
+        "Seeds",
+        "Zebrafish"
+      ]
+    }
+  ]
+}

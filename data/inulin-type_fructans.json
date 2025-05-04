@@ -1,0 +1,1327 @@
+{
+  "supplement": "Inulin-Type Fructans",
+  "query": "Inulin-Type Fructans[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:49:50",
+  "research_count": 39,
+  "count": 39,
+  "articles": [
+    {
+      "pmid": "39313030",
+      "title": "The effects of chicory inulin-type fructans supplementation on weight management outcomes: systematic review, meta-analysis, and meta-regression of randomized controlled trials.",
+      "authors": [
+        "Raylene A Reimer",
+        "Stephan Theis",
+        "Yoghatama Cindya Zanzer"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2024-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Excess body weight and adiposity can adversely affect metabolic health. Prebiotics such as inulin-type fructans (ITFs) from chicory root are known to modulate gut microbiota and may improve body weight regulation. OBJECTIVES: This study aimed to assess evidence for chicory ITF supplementation to support weight management. METHODS: Eligible articles (initial search to 2021, updated to February 2023) were searched from EMBASE, MEDLINE (PubMed), and Cochrane Library. Data on primary (body weight) and secondary outcomes [body mass index (BMI), total fat mass, body fat percentage, and waist circumference] were extracted by 2 reviewers independently. Random-effects model using inverse-variance method was used. Subgroup analysis (health status and ITF type) and meta-regression (dose and duration) were evaluated. RESULTS: A total of 32 eligible studies were included. Chicory ITF significantly reduced body weight [mean difference (MD): -0.97 kg; 95% CI: -1.34, -0.59); n = 1184] compared with placebo. ITF favored overall effects reduction in BMI (MD: -0.39 kg/m2; 95% CI: -0.57, -0.20; n = 985), fat mass (MD: -0.37 kg; 95% CI: -0.61, -0.13; n = 397), waist circumference (MD: -1.03 cm; 95% CI: -1.69, -0.37; n = 604), and for intervention duration of >8 wk, body fat percentage (MD: -0.78%; 95% CI: -1.17, -0.39; n = 488). Except for considerable heterogeneity in body weight (I2: 73%) and body fat percentage (I2: 75%), all other outcomes had negligible to moderate heterogeneity. Significant reduction in body weight, BMI, and waist circumference was evident irrespective of participants' health status. There was minimal evidence that dose, duration, or type of ITF influenced the magnitude of reductions in outcomes. CONCLUSIONS: Chicory ITF supplementation may benefit weight management by reducing body weight, BMI, fat mass, waist circumference, and, to a certain extent, body fat percentage. This systematic review with meta-analysis was registered at PROSPERO as CRD42020184908.",
+      "mesh_terms": [
+        "Humans",
+        "Cichorium intybus",
+        "Fructans",
+        "Inulin",
+        "Randomized Controlled Trials as Topic",
+        "Dietary Supplements",
+        "Body Weight",
+        "Body Mass Index",
+        "Obesity",
+        "Waist Circumference"
+      ]
+    },
+    {
+      "pmid": "38455215",
+      "title": "Inulin-type fructans with different degrees of polymerization improve insulin resistance, metabolic parameters, and hormonal status in overweight and obese women with polycystic ovary syndrome: A randomized double-blind, placebo-controlled clinical trial.",
+      "authors": [
+        "Rahele Ziaei",
+        "Zahra Shahshahan",
+        "Hatav Ghasemi-Tehrani",
+        "Zahra Heidari",
+        "Marilyn S Nehls",
+        "Reza Ghiasvand"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Polycystic ovary syndrome (PCOS) is associated with reproductive disorders and adverse cardiometabolic risk factors that can negatively impact the general health of women. Inulin-type fructans (ITFs) are proposed to beneficially affect risk factors associated with metabolic disorders. Whether ITFs can help with the management of PCOS by modifying insulin resistance (IR) and androgen levels has not yet been explored. The aim of this study was to investigate the effects of ITFs with different degrees of polymerization on insulin resistance, blood lipids, anthropometric measures, and hormonal status in overweight and obese women with PCOS. In a randomized double-blind placebo-controlled trial, seventy-five women with PCOS aged 18-40 years old were randomly assigned to receive 10 g/day of high-performance inulin (HPI) or oligofructose-enriched inulin (OEI) or maltodextrin for 12 weeks. Biochemical and clinical outcomes were measured at baseline and after the intervention. Participants in the HPI and OEI groups experienced improvements in waist circumference, total testosterone, free androgen index, sex hormone-binding globulin, and triglycerides compared to the placebo group. Also, the number of women with irregular menses or oligomenorrhoea decreased significantly in both ITF groups. Participants in the HPI group reported lower body mass, fasting insulin, and HOMA-IR, as well as a higher quantitative insulin sensitivity check index. ITF supplementation, especially with long-chain ITFs, when given for 12 weeks may improve metabolic outcomes, androgen status and clinical manifestations in women with PCOS."
+    },
+    {
+      "pmid": "37181156",
+      "title": "Supplementation with inulin-type fructans affects gut microbiota and attenuates some of the cardiometabolic benefits of a plant-based diet in individuals with overweight or obesity.",
+      "authors": [
+        "Mona Adnan Aldubayan",
+        "Xiaotian Mao",
+        "Martin Frederik Laursen",
+        "Kristina Pigsborg",
+        "Lars H Christensen",
+        "Henrik M Roager",
+        "Dennis S Nielsen",
+        "Mads Fiil Hjorth",
+        "Faidon Magkos"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The gut microbiota has emerged as a potential therapeutic target to improve the management of obesity and its comorbidities. OBJECTIVE: We investigated the impact of a high fiber (∼38 g/d) plant-based diet, consumed ad libitum, with or without added inulin-type fructans (ITF), on the gut microbiota composition and cardiometabolic outcomes in subjects with obesity. We also tested if baseline Prevotella/Bacteroides (P/B) ratio predicts weight loss outcomes. METHODS: This is a secondary exploratory analysis from the PREVENTOMICS study, in which 100 subjects (82 completers) aged 18-65 years with body mass index 27-40 kg/m2 were randomized to 10 weeks of double-blinded treatment with a personalized or a generic plant-based diet. Changes from baseline to end-of-trial in gut microbiota composition (16S rRNA gene amplicon sequencing), body composition, cardiometabolic health and inflammatory markers were evaluated in the whole cohort (n = 82), and also compared in the subgroup of subjects who were supplemented with an additional 20 g/d ITF-prebiotics (n = 21) or their controls (n = 22). RESULTS: In response to the plant-based diet, all subjects lost weight (-3.2 [95% CI -3.9, -2.5] kg) and experienced significant improvements in body composition and cardiometabolic health indices. Addition of ITF to the plant-based diet reduced microbial diversity (Shannon index) and selectively increased Bifidobacterium and Faecalibacterium (q < 0.05). The change in the latter was significantly associated with higher values of insulin and HOMA-IR and lower HDL cholesterol. In addition, the LDL:HDL ratio and the concentrations of IL-10, MCP-1 and TNFα were significantly elevated in the ITF-subgroup. There was no relationship between baseline P/B ratio and changes in body weight (r = -0.07, p = 0.53). CONCLUSION: A plant-based diet consumed ad libitum modestly decreases body weight and has multiple health benefits in individuals with obesity. Addition of ITF-prebiotics on top this naturally fiber-rich background selectively changes gut microbiota composition and attenuates some of the realized cardiometabolic benefits. CLINICAL TRIAL REGISTRATION: [https://clinicaltrials.gov/ct2/show/NCT04590989], identifier [NCT04590989]."
+    },
+    {
+      "pmid": "36855809",
+      "title": "The Effect of Inulin-Type Fructans on Plasma Trimethylamine N-Oxide Levels in Peritoneal Dialysis Patients: A Randomized Crossover Trial.",
+      "authors": [
+        "Qianqian Xiong",
+        "Li Li",
+        "Yonghua Xiao",
+        "Shuiqing He",
+        "Jing Zhao",
+        "Xuechun Lin",
+        "Yuqin He",
+        "Jinxue Wang",
+        "Xiaolei Guo",
+        "Wangqun Liang",
+        "Xuezhi Zuo",
+        "Chenjiang Ying"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "SCOPE: Trimethylamine N-oxide (TMAO), an important proatherogenic uremic toxin, is oxidized by hepatic-flavin monooxygenases from gut microbiome-generated trimethylamine (TMA). The present study aims to explore whether manipulating the gut microbiota by inulin-type fructans (ITFs) can reduce circulating TMAO levels in peritoneal dialysis patients. METHODS AND RESULTS: This is a randomized, double-blind, placebo-controlled, crossover trial with 10 g day-1 ITFs intervention for 3 months in continuous ambulatory peritoneal dialysis patients. The gut microbiome is measured, and TMA-producing gene clusters are annotated using shotgun metagenomic sequencing. Fecal and plasma TMA, plasma TMAO, and daily urine excretion and dialysis removal of TMAO are measured. Finally, 22 participants complete the trial. The daily intake of macronutrients and TMAO precursors is comparable during the prebiotics, washout, and placebo interventions. The ITFs intervention increases the Firmicutes/Bacteroidetes (F/B) ratio (p = 0.049) of gut microbiome. However, no significant influences are observed on fecal TMA content, circulating TMAO levels, or TMA-producing gene clusters, including choline TMA-lyase (CutC/D), carnitine monooxygenase (CntA/B), and betaine reductase (GrdH). CONCLUSIONS: Intervention with 10 g day-1 of ITFs for 3 months is not sufficient to reduce plasma TMAO levels in peritoneal dialysis patients, but it improves the gut microbiome composition.",
+      "mesh_terms": [
+        "Humans",
+        "Inulin",
+        "Fructans",
+        "Cross-Over Studies",
+        "Methylamines",
+        "Choline",
+        "Peritoneal Dialysis"
+      ]
+    },
+    {
+      "pmid": "36010004",
+      "title": "Anticandidal and Antibiofilm Effect of Synbiotics including Probiotics and Inulin-Type Fructans.",
+      "authors": [
+        "Ricardo García-Gamboa",
+        "Miguel Domínguez-Simi",
+        "Misael S Gradilla-Hernández",
+        "Jorge Bravo",
+        "Andrés Moya",
+        "Blanca Ruiz-Álvarez",
+        "Marisela González-Avila"
+      ],
+      "journal": "Antibiotics (Basel, Switzerland)",
+      "publication_date": "2022-Aug-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: There is great interest in the search for new alternatives to antimicrobial drugs, and the use of synbiotics is a promising approach to this problem. This study evaluated the growth inhibition and antibiofilm activity of the short-chain fatty acids produced by Lacticaseibacillus rhamnosus and Pediococcus acidilactici in combination with inulin-type fructans against Candida albicans. METHODS: The growth inhibition of Candida was evaluated using microdilution analysis in 96-well microtiter plates; different concentrations of cell-free supernatants of Lacticaseibacillus rhamnosus and Pediococcus acidilactici were exposed to Candida albicans. The antibiofilm assessment was carried out using the crystal violet staining assay. The short-chain fatty acids were analyzed by gas chromatography. RESULTS: The clinically isolated Candida albicans interacted with supernatants from Lacticaseibacillus rhamnosus and Pediococcus acidilactici and showed significant growth inhibition and antibiofilm formation versus the controls. Lactate and acetic acid were elevated in the supernatants. The results suggest that the supernatants obtained from the synbiotic combinations of Lacticaseibacillus rhamnosus and Pediococcus acidilactici with inulin-type fructans can inhibit the growth and biofilm formation against a clinically isolated Candida albicans strain. CONCLUSIONS: These results suggest that synbiotic formulations could be a promising alternative to antifungal drugs in candidiasis therapy."
+    },
+    {
+      "pmid": "35882293",
+      "title": "Inulin-type fructans change the gut microbiota and prevent the development of diabetic nephropathy.",
+      "authors": [
+        "Liman Luo",
+        "Jinlan Luo",
+        "Yueting Cai",
+        "Menglu Fu",
+        "Wenhua Li",
+        "Lili Shi",
+        "Jingrui Liu",
+        "Ruolan Dong",
+        "Xizhen Xu",
+        "Ling Tu",
+        "Yan Yang"
+      ],
+      "journal": "Pharmacological research",
+      "publication_date": "2022-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Diabetic nephropathy (DN) is the most common cause of end-stage renal disease, and few treatment options that prevent the progressive loss of renal function are available. Studies have shown that dietary fiber intake improves kidney diseases and metabolism-related diseases, most likely through short-chain fatty acids (SCFAs). The present study aimed to examine the protective effects of inulin-type fructans (ITFs) on DN through 16 S rRNA gene sequencing, gas chromatographymass spectrometry (GCMS) analysis and fecal microbiota transplantation (FMT). The results showed that ITFs supplementation protected against kidney damage in db/db mice and regulated the composition of the gut microbiota. Antibiotic treatment and FMT experiments further demonstrated a key role of the gut microbiota in mediating the beneficial effects of ITFs. The ITFs treatment-induced changes in the gut microbiota led to an enrichment of SCFA-producing bacteria, especially the genera Akkermansia and Candidatus Saccharimonas, which increased the fecal and serum acetate concentrations. Subsequently, acetate supplementation improved glomerular damage and renal fibrosis by attenuating mitochondrial dysfunction and reducing toxic glucose metabolite levels. In conclusion, ITFs play a renoprotective role by modulating the gut microbiota and increasing acetate production. Furthermore, acetate mediates renal protection by regulating glucose metabolism, decreasing glycotoxic product levels and improving mitochondrial function.",
+      "mesh_terms": [
+        "Animals",
+        "Bacteria",
+        "Diabetes Mellitus",
+        "Diabetic Nephropathies",
+        "Fatty Acids, Volatile",
+        "Fructans",
+        "Gastrointestinal Microbiome",
+        "Inulin",
+        "Mice"
+      ]
+    },
+    {
+      "pmid": "35793918",
+      "title": "Effects of inulin-type fructans supplementation on cardiovascular disease risk factors: a protocol for a systematic review and meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Jhalok Ronjan Talukdar",
+        "Matthew Adam Cooper",
+        "Lyuba Lyutvyn",
+        "Dena Zeraatkar",
+        "Rahim Ali",
+        "Rachel Bierbrier",
+        "Sabrina Janes",
+        "Vanessa Ha",
+        "Pauline B Darling",
+        "John L Sievenpiper",
+        "David J A Jenkins",
+        "Laura Banfield",
+        "Lawrence Mbuagbaw",
+        "Russell J de Souza"
+      ],
+      "journal": "BMJ open",
+      "publication_date": "2022-Jul-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: This review aims to assess the effects of dietary supplementation with inulin-type fructans (ITF) compared with no supplementation on cardiovascular disease risk factors in adults and assess the quality of trial reporting using the Consolidated Standards of Reporting Trials (CONSORT) and CONSORT for abstract (CONSORT-A) checklists. METHODS AND ANALYSIS: We will search randomised controlled trials (RCTs) in MEDLINE, EMBASE, CINAHL, Emcare, AMED and the Cochrane Database of Systematic Reviews from inception to 31 March 2022, without any language restrictions. The RCTs need to administer ITF in adults for at least 2 weeks and assess effects on at least one cardiovascular risk factor. We will exclude RCTs that (1) assessed the postprandial effects of ITF; (2) included pregnant or lactating participants; (3) enrolled participants undergoing treatment that might affect the response to ITF. We will assess the study risk of bias (RoB) using V.2 of the Cochrane RoB tool for RCTs (RoB 2) and the certainty of the evidence using the Grading of Recommendations, Assessment, Development and Evaluations (GRADE) approach. We will pool data using a random-effects model. We will use the χ2 test to compare compliance of CONSORT and CONSORT-A checklists and Poisson regression to identify factors associated with better reporting. ETHICS AND DISSEMINATION: Ethics approval is not required for secondary analysis of already published data. We will publish the reviews in a peer-review journal. PROSPERO REGISTRATION NUMBER: CRD42019136745.",
+      "mesh_terms": [
+        "Adult",
+        "Cardiovascular Diseases",
+        "Fructans",
+        "Humans",
+        "Inulin",
+        "Meta-Analysis as Topic",
+        "Randomized Controlled Trials as Topic",
+        "Systematic Reviews as Topic"
+      ]
+    },
+    {
+      "pmid": "35495651",
+      "title": "The Protective Effects of Inulin-Type Fructans Against High-Fat/Sucrose Diet-Induced Gestational Diabetes Mice in Association With Gut Microbiota Regulation.",
+      "authors": [
+        "Miao Miao",
+        "Qing Wang",
+        "Xinyan Wang",
+        "Chong Fan",
+        "Ting Luan",
+        "Lina Yan",
+        "Yue Zhang",
+        "Xin Zeng",
+        "Yongmei Dai",
+        "Ping Li"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Inulin-type fructans (ITF) have been used as prebiotics to alleviate glucose and lipid metabolism disorders. However, few studies evaluated the microbial mechanism of ITF in improving maternal metabolic status during pregnancy. METHODS: C57BL/6J mice were fed a high-fat/sucrose diet (HFD) for 4 weeks before and throughout pregnancy to induce a model of gestational diabetes mellitus (GDM). Body weight, glycolipid metabolic parameters, and fecal short-chain fatty acids (SCFAs) were assessed in the experimental process. The effects of ITF on the fecal microbiota were analyzed by 16S rRNA gene amplicon sequencing. RESULTS: Pregnant HFD-fed mice displayed significant insulin resistance and dyslipidemia. ITF (3.33 g/kg/day) treatment improved glucose and lipid metabolism disorder parameters in HFD-induced GDM mice and alleviated fat accumulation and glucose intolerance. The alpha diversity of the gut microbial community was increased in ITF mice, while the beta diversity returned to the level of normal chow diet (NCD) mice. Interestingly, Verrucomicrobia, Bifidobacterium, and Akkermansia were obviously enriched, while Dubosiella was obviously lessened after inulin treatment. Further analysis indicated that Dubosiella was positively correlated with markers of glycolipid metabolism disorders, whereas the ITF-supplemented diet partially reversed the changes. CONCLUSION: Our results suggest that the ITF treatment may alleviate glucose and lipid metabolism disorders with the mediation of gut microbiota."
+    },
+    {
+      "pmid": "35376973",
+      "title": "The effect of inulin-type fructans on the intestinal immune function of antibiotic-treated mice.",
+      "authors": [
+        "Wenjing Zeng",
+        "Qin Zhang",
+        "Gang Feng",
+        "Gongliang Liu",
+        "Fenglin Wu",
+        "Han Shen",
+        "Hongwei Shao",
+        "Changli Tao"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "publication_date": "2022-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to evaluate the effect of supplementation with inulin-type fructans (ITFs) on the intestinal immune function in the context of dysbiosis resulting from antibiotic cocktail (ABx) treatment. BALB/c mice (8-9 weeks of age) were treated with an ABx for 3 weeks and then allowed to recover spontaneously or with ITF supplementation (5%) for 4 weeks. Our results showed that ABx treatment can induce gut microbiota dysbiosis and intestinal inflammation in mice. After 4 weeks of recovery, ITF supplementation restored the composition of the intestinal microbial community. However, compared with spontaneous recovery, ITF supplementation delayed inflammation recovery in the intestine and upregulated diamine oxidase (DAO) activity and increased lipopolysaccharide (LPS) content in serum. In addition, ITF supplementation delayed the regulatory T (Treg) cell and B cell recovery in the lamina propria (LP). Furthermore, compared with spontaneous recovery, ITF supplementation inhibited the relative expression of certain proinflammatory genes, such as for inducible nitric oxide synthase (iNOS) and tumour necrosis factor α (Tnf-α), in the colon, but it reduced the secretion of the anti-inflammatory mediator transforming growth factor β1 (TGF-β1) in serum, reduced the secretion of secretory immunoglobulin A (SIgA) in the colon and promoted the secretion of the proinflammatory cytokine interleukin (IL)-17A. In conclusion, these data supported the hypothesis that the influence of ITFs on the host's intestinal status is not always beneficial in the context of ABx-induced biological disorder. However, the significance of these findings needs to be determined by advanced studies KEY POINTS: • ITFs did not promote the recovery of microbial community composition. • ITFs delayed the recovery of ABx-induced colonic inflammation. • ITFs reduced the secretion of TGF-β1 and SIgA. • ITFs delayed the recovery of Treg and B cells in the LP.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Dysbiosis",
+        "Fructans",
+        "Immunity",
+        "Immunoglobulin A, Secretory",
+        "Inflammation",
+        "Intestines",
+        "Inulin",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Transforming Growth Factor beta1"
+      ]
+    },
+    {
+      "pmid": "35261049",
+      "title": "Effects of inulin-type fructans with different degrees of polymerization on inflammation, oxidative stress and endothelial dysfunction in women with polycystic ovary syndrome: A randomized, double-blind, placebo-controlled trial.",
+      "authors": [
+        "Rahele Ziaei",
+        "Zahra Shahshahan",
+        "Hatav Ghasemi-Tehrani",
+        "Zahra Heidari",
+        "Reza Ghiasvand"
+      ],
+      "journal": "Clinical endocrinology",
+      "publication_date": "2022-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Polycystic ovary syndrome (PCOS) is associated with several cardiovascular risk factors. Prebiotics were proposed to beneficially affect risk factors associated with metabolic disorders. The aim of this study was to investigate and compare the effects of inulin-type fructans (ITFs), as well-studied prebiotics, with different degrees of polymerization, on markers of inflammation, oxidative stress and endothelial dysfunction in PCOS patients. DESIGN: A randomized, double-blind, placebo-controlled trial. PATIENTS: Seventy-five PCOS women were randomly assigned to receive 10 g/day of either high-performance inulin (HPI) or oligofructose-enriched inulin (OEI) or placebo for 12 weeks. MEASUREMENTS: Biochemical indices and blood pressure levelswere assessed before and after the intervention. RESULTS: In the intent-to-treat analysis, high-sensitive C-reactive protein (hs-CRP) decreased in HPI and OEI groups, over the 12 weeks, and the changes were significant in the HPI group, compared to placebo (changes from baseline in the HPI group: -0.11 vs. placebo group: 0.004 mg/L [conversion factor to SI units (nmol/L): 9/5238]; p = .007). Serum levels of nitric oxide (NO) increased, and endothelin-1 and total oxidant status decreased in HPI and OEI groups, at the end of the trial; however, these changes were not significantly compared to placebo (p = .07, .36 and .22, respectively). No differences in systolic and diastolic blood pressure were found. Per-protocol analysis (n = 68) yielded consistent results for all endpoints, with the exception that the significant effect of ITFs on serum hs-CRP levels in the unadjusted ITT analysis became nonsignificant in the per-protocol analysis (p = .06). CONCLUSION: A 12-week supplementation with long-chain ITFs had favourable effects on inflammatory status among PCOS patients.",
+      "mesh_terms": [
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "Fructans",
+        "Humans",
+        "Inflammation",
+        "Inulin",
+        "Oxidative Stress",
+        "Polycystic Ovary Syndrome",
+        "Polymerization"
+      ]
+    },
+    {
+      "pmid": "34589204",
+      "title": "Effect of inulin-type fructans on appetite in patients with type 2 diabetes: a randomised controlled crossover trial.",
+      "authors": [
+        "Eline Birkeland",
+        "Sedegheh Gharagozlian",
+        "Kåre I Birkeland",
+        "Oda K S Holm",
+        "Per M Thorsby",
+        "Anne-Marie Aas"
+      ],
+      "journal": "Journal of nutritional science",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of the study was to investigate the effect of prebiotic fibres on appetite-regulating hormones, subjective feeling of appetite and energy intake in subjects with type 2 diabetes. Data presented are secondary outcomes of a study investigating the effect of prebiotics on glucagon-like peptide-1 and glycaemic regulation. We conducted a randomised and placebo-controlled crossover trial to evaluate the effects of 16 g/d of inulin-type fructans or a control supplement (maltodextrin) for 6 weeks in randomised order, with a 4-week washout period in-between, on appetite in thirty-five men and women with type 2 diabetes. Data were collected at visits before and after each treatment: plasma concentration of the satiety-related peptides ghrelin and peptide YY (PYY) were assessed during a standardised mixed meal. The subjective sensation of appetite was evaluated in response to an ad libitum lunch by rating the visual analogue scale. Twenty-nine individuals (twelve women) were included in the analyses. Compared to control treatment, the prebiotics did not affect ghrelin (P =0⋅71) or the ratings of hunger (P = 0⋅62), satiety (P = 0⋅56), fullness (P = 0⋅73) or prospective food consumption (P = 0⋅98). Energy intake also did not differ between the treatments. However, the response of PYY increased significantly after the control treatment with mean (sem) 11⋅1 (4⋅3) pg/ml when compared to the prebiotics -0⋅3 (4⋅3) pg/ml (P = 0⋅013). We observed no effect of inulin-type fructans on appetite hormones, subjective feeling of appetite or energy intake in patients with type 2 diabetes.",
+      "mesh_terms": [
+        "Appetite",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Ghrelin",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Peptide YY",
+        "Prebiotics",
+        "Prospective Studies",
+        "Satiation"
+      ]
+    },
+    {
+      "pmid": "34478936",
+      "title": "Preparation and characterization of sulfated inulin-type fructans from Jerusalem artichoke tubers and their antitumor activity.",
+      "authors": [
+        "Taili Shao",
+        "Pingchuan Yuan",
+        "Wenzhi Zhang",
+        "Deyu Dou",
+        "Fengge Wang",
+        "Chengyi Hao",
+        "Chunyan Liu",
+        "Jun Han",
+        "Kaoshan Chen",
+        "Guodong Wang"
+      ],
+      "journal": "Carbohydrate research",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The modification of polysaccharides is important for enhancing their biological activities. In this study, a pure inulin-type fructan, denoted as Jerusalem artichoke polysaccharide (P-JAP), was purified from Jerusalem artichoke tubers and modified by sulfation via treatment with a sulfur trioxide-pyridine complex to produce its sulfated derivative (S-JAP). Fourier-transform infrared spectroscopic analysis confirmed the successful introduction of sulfate groups. The inhibitory effects of S-JAP on the proliferation of human liver hepatocellular carcinoma (HepG2) cells was evaluated via a CCK-8 assay, and the pro-apoptotic effects were assessed using annexin V-FITC/PI double staining. The inhibition rates of various concentrations of S-JAP on HepG2 cells after 24, 48, and 72 h were significantly higher than those of P-JAP; moreover, S-JAP succeeded in promoting cell apoptosis. Thus, the sulfate-modified polysaccharide extracted from Jerusalem artichoke tubers was shown to exhibit effective antitumor activity with potential for further development.",
+      "mesh_terms": [
+        "Humans",
+        "Fructans",
+        "Hep G2 Cells",
+        "Apoptosis",
+        "Plant Tubers",
+        "Cell Proliferation",
+        "Helianthus",
+        "Sulfates",
+        "Inulin",
+        "Antineoplastic Agents",
+        "Drug Screening Assays, Antitumor",
+        "Antineoplastic Agents, Phytogenic"
+      ]
+    },
+    {
+      "pmid": "32813896",
+      "title": "Effects of the prebiotic inulin-type fructans on post-antibiotic reconstitution of the gut microbiome.",
+      "authors": [
+        "C Tao",
+        "W Zeng",
+        "Q Zhang",
+        "G Liu",
+        "F Wu",
+        "H Shen",
+        "W Zhang",
+        "H Bo",
+        "H Shao"
+      ],
+      "journal": "Journal of applied microbiology",
+      "publication_date": "2021-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Interventions using prebiotic inulin-type fructans (ITFs) are widely prescribed to modulate the gut microbiota composition and activity to promote health. However, the impacts of ITFs on post-antibiotic reconstitution of the gut microbiome remain incompletely understood. The aim of the present study was to investigate the effects of ITFs supplementation on intestinal inflammation, the composition of the intestinal microbiota and the colonic transcriptome after antibiotic treatment. METHODS AND RESULTS: Male BALB/c mice were subjected to an antibiotic cocktail (ABx) treatment for 7 days, and their microbiomes were then reconstituted either spontaneously or with ITFs supplementation (5%) for 14 days. Our data showed that ITFs supplementation delayed the recovery of antibiotic-induced colitis compared with the spontaneous recovery. Neither ITFs supplementation nor spontaneous recovery could restore the microbial community composition at the genus level back to its initial composition. ITFs supplementation increased the relative abundance of some beneficial bacteria and butyrate levels, but resulted in selective blooms of some opportunistic pathogens and elevated the pathways associated with diseases linked to gut microbiota function. Both ITFs supplementation and spontaneous recovery could restore the colonic transcriptome nearly to the initial profile to a certain extent; however, ITFs supplementation delayed the restoration of the immunoglobulin genes compared to spontaneous recovery. CONCLUSION: These data showed that post-antibiotic ITFs consumption did not always lead to beneficial effects but might lead to potential adverse effects in the context of dysbiosis. SIGNIFICANCE AND IMPACT OF THE STUDY: These findings highlighted that caution is required when supplementing ITFs to restore intestinal homeostasis in the context of dysbiosis resulting from broad-spectrum antibiotics.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Bacteria",
+        "Colitis",
+        "Colon",
+        "Fructans",
+        "Gastrointestinal Microbiome",
+        "Homeostasis",
+        "Inulin",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Prebiotics",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "32440730",
+      "title": "Prebiotic effect of inulin-type fructans on faecal microbiota and short-chain fatty acids in type 2 diabetes: a randomised controlled trial.",
+      "authors": [
+        "Eline Birkeland",
+        "Sedegheh Gharagozlian",
+        "Kåre I Birkeland",
+        "Jørgen Valeur",
+        "Ingrid Måge",
+        "Ida Rud",
+        "Anne-Marie Aas"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: Compared to a healthy population, the gut microbiota in type 2 diabetes presents with several unfavourable features that may impair glucose regulation. The aim of this study was to evaluate the prebiotic effect of inulin-type fructans on the faecal microbiota and short-chain fatty acids (SCFA) in patients with type 2 diabetes. METHODS: The study was a placebo controlled crossover study, where 25 patients (15 men) aged 41-71 years consumed 16 g of inulin-type fructans (a mixture of oligofructose and inulin) and 16-g placebo (maltodextrin) for 6 weeks in randomised order. A 4-week washout separated the 6 weeks treatments. The faecal microbiota was analysed by high-throughput 16S rRNA amplicon sequencing and SCFA in faeces were analysed using vacuum distillation followed by gas chromatography. RESULTS: Treatment with inulin-type fructans induced moderate changes in the faecal microbiota composition (1.5%, p = 0.045). A bifidogenic effect was most prominent, with highest positive effect on operational taxonomic units (OTUs) of Bifidobacterium adolescentis, followed by OTUs of Bacteroides. Significantly higher faecal concentrations of total SCFA, acetic acid and propionic acid were detected after prebiotic consumption compared to placebo. The prebiotic fibre had no effects on the concentration of butyric acid or on the overall microbial diversity. CONCLUSION: Six weeks supplementation with inulin-type fructans had a significant bifidogenic effect and induced increased concentrations of faecal SCFA, without changing faecal microbial diversity. Our findings suggest a moderate potential of inulin-type fructans to improve gut microbiota composition and to increase microbial fermentation in type 2 diabetes. TRIAL REGISTRATION: The trial is registered at clinicaltrials.gov (NCT02569684).",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Cross-Over Studies",
+        "Diabetes Mellitus, Type 2",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Fermentation",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Middle Aged",
+        "Prebiotics",
+        "RNA, Ribosomal, 16S"
+      ]
+    },
+    {
+      "pmid": "31805963",
+      "title": "Inulin-type fructans supplementation improves glycemic control for the prediabetes and type 2 diabetes populations: results from a GRADE-assessed systematic review and dose-response meta-analysis of 33 randomized controlled trials.",
+      "authors": [
+        "Long Wang",
+        "Hong Yang",
+        "Hao Huang",
+        "Chao Zhang",
+        "Hong-Xia Zuo",
+        "Pan Xu",
+        "Yu-Ming Niu",
+        "Shi-Shi Wu"
+      ],
+      "journal": "Journal of translational medicine",
+      "publication_date": "2019-Dec-05",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Currently, many clinical trials have shown that inulin-type fructans (ITF) supplementation is associated with glycemic control; nevertheless, the results are inconclusive. The aim of this meta-analysis of randomized controlled trials was to assess the effects of ITF supplementation on glycemic control. METHODS: PubMed, EMBASE and the Cochrane Library were searched for eligible articles up to March 6, 2019. A random-effects model was used to analyze the pooled results, and the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system was applied to assess the quality of evidence. The dose-response model was used to recommend the daily dose and duration for ITF supplementation. RESULTS: Thirty-three trials involving 1346 participants were included. Overall, ITF supplementation could significantly reduce concentrations of fasting blood glucose (FBG), glycosylated hemoglobin (HbA1c), fasting insulin (FINS) and homeostasis model assessment-insulin resistance (HOMA-IR). In the prediabetes and type 2 diabetes (T2DM) population, a more significant reduction in FBG [weighted mean difference (WMD): - 0.60 mmol/l; 95% CI - 0.71, - 0.48 mmol/l; high rate], HbA1c (WMD: - 0.58%; 95% CI - 0.83, - 0.32%; high rate), FINS (WMD: - 1.75 µU/ml; 95% CI - 2.87, - 0.63 µU/ml; low rate), and HOMA-IR (WMD: - 0.69; 95% CI - 1.10, - 0.28; low rate) were observed, and ITF supplementation with a daily dose of 10 g for a duration of 6 weeks and longer was recommended. Moreover, subgroup analyses suggested that the effects of glycemic control were significantly influenced by the sex of the subjects and the type and the method of intake of ITF. CONCLUSIONS: Our analyses confirmed that these four main glycemic indicators were significantly reduced by ITF supplementation, particularly in the prediabetes and T2DM population. Evidence supports that reasonable administration of ITF supplementation may have potential clinical value as an adjuvant therapy for prediabetes and T2DM management. Trial registration The trial was registered at PROSPERO as CRD42018115875 on November 23, 2018.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Dietary Supplements",
+        "Dose-Response Relationship, Drug",
+        "Fasting",
+        "Female",
+        "Fructans",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Middle Aged",
+        "Nonlinear Dynamics",
+        "Prediabetic State",
+        "Publication Bias",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "30704039",
+      "title": "The Efficacy of Probiotics, Prebiotic Inulin-Type Fructans, and Synbiotics in Human Ulcerative Colitis: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Erola Astó",
+        "Iago Méndez",
+        "Sergi Audivert",
+        "Andreu Farran-Codina",
+        "Jordi Espadaler"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2019-Jan-30",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Studies of probiotics, fructan-type prebiotics, and synbiotics in patients with ulcerative colitis (UC) show significant heterogeneity in methodology and results. Here, we study the efficacy of such interventions and the reasons for the heterogeneity of their results. Eligible random controlled trials were collected from the PUBMED and SCOPUS databases. A total of 18 placebo-controlled and active treatment-controlled (i.e., mesalazine) studies were selected with a Jadad score ≥ 3, including 1491 patients with UC. Data for prebiotics and synbiotics were sparse and consequently these studies were excluded from the meta-analysis. The UC remission efficacy of probiotics was measured in terms of relative risk (RR) and odds ratio (OR). Significant effects were observed in patients with active UC whenever probiotics containing bifidobacteria were used, or when adopting the US Food and Drug Administration (FDA)-recommended scales (UC Disease Activity Index and Disease Activity Index). By the FDA recommended scales, the RR was 1.55 (CI95%: 1.13⁻2.15, p-value = 0.007, I² = 29%); for bifidobacteria-containing probiotics, the RR was 1.73 (CI95%: 1.23⁻2.43, p-value = 0.002, I² = 35%). No significant effects were observed on the maintenance of remission for placebo-controlled or mesalazine-controlled studies. We conclude that a validated scale is necessary to determine the state of patients with UC. However, probiotics containing bifidobacteria are promising for the treatment of active UC.",
+      "mesh_terms": [
+        "Colitis, Ulcerative",
+        "Fructans",
+        "Humans",
+        "Prebiotics",
+        "Probiotics",
+        "Remission Induction",
+        "Synbiotics"
+      ]
+    },
+    {
+      "pmid": "30395776",
+      "title": "Inulin-type fructans improve active ulcerative colitis associated with microbiota changes and increased short-chain fatty acids levels.",
+      "authors": [
+        "Rosica Valcheva",
+        "Petya Koleva",
+        "Inés Martínez",
+        "Jens Walter",
+        "Michael G Gänzle",
+        "Levinus A Dieleman"
+      ],
+      "journal": "Gut microbes",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The intestinal microbiota is involved in ulcerative colitis (UC) pathogenesis. Prebiotics are hypothesized to improve health through alterations to gut microbiota composition and/or activity. Our aim was therefore to determine if inulin-type fructans induce clinical benefits in UC, and identify if benefits are linked to compositional and/or functional shifts of the luminal (fecal) and mucosal (biopsy) bacterial communities. Patients (n = 25) with mild/moderately active UC received 7.5 g (n = 12) or 15 g (n = 13) daily oral oligofructose-enriched inulin (Orafti®Synergy1) for 9 weeks. Total Mayo score, endoscopic activity and fecal calprotectin were assessed. Fecal and mucosal bacterial communities were characterized by 16S rRNA tag sequencing, and short chain fatty acids (SCFA) production were measured in fecal samples. Fructans significantly reduced colitis in the high-dose group, with 77% of patients showing a clinical response versus 33% in the low-dose group (P = 0.04). Fructans increased colonic butyrate production in the 15 g/d dose, and fecal butyrate levels were negatively correlated with Mayo score (r = -0.50; P = 0.036). The high fructan dose led to an increased Bifidobacteriaceae and Lachnospiraceae abundance but these shifts were not correlated with improved disease scores. In summary, this pilot study revealed that 15 g/d dose inulin type fructans in UC produced functional but not compositional shifts of the gut microbiota, suggesting that prebiotic-induced alterations of gut microbiota metabolism are more important than compositional changes for the benefits in UC. The findings warrant future well-powered controlled studies for the use of β-fructans as adjunct therapy in patients with active UC.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bacteria",
+        "Colitis, Ulcerative",
+        "Colon",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Fructans",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects",
+        "Prebiotics",
+        "RNA, Ribosomal, 16S",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "30064535",
+      "title": "Effects of prebiotic inulin-type fructans on blood metabolite and hormone concentrations and faecal microbiota and metabolites in overweight dogs.",
+      "authors": [
+        "Celeste Alexander",
+        "Tzu-Wen L Cross",
+        "Saravanan Devendran",
+        "Franka Neumer",
+        "Stephan Theis",
+        "Jason M Ridlon",
+        "Jan S Suchodolski",
+        "Maria R C de Godoy",
+        "Kelly S Swanson"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2018-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Because obesity is associated with many co-morbidities, including diabetes mellitus, this study evaluated the second-meal effect of a commercial prebiotic, inulin-type fructans, and the effects of the prebiotic on faecal microbiota, metabolites and bile acids (BA). Nine overweight beagles were used in a replicated 3×3 Latin square design to test a non-prebiotic control (cellulose) against a low (equivalent to 0·5 % diet) and high dose (equivalent to 1·0 % diet) of prebiotic over 14-d treatments. All dogs were fed the same diet twice daily, with treatments provided orally via gelatin capsules before meals. On days 13 or 14 of each period, fresh faecal samples were collected, dogs were fed at 08.00 hours and then challenged with 1 g/kg body weight of maltodextrin in place of the 16.00 hours meal. Repeated blood samples were analysed for glucose and hormone concentrations to determine postprandial incremental AUC (IAUC) data. Baseline glucose, insulin and active glucagon-like peptide-1 levels were similar between all groups (P>0·10). Glucose and insulin IAUC after glucose challenge appeared lower following the high dose, but did not reach statistical relevance. Prebiotic intervention resulted in an increase in relative abundance of some Firmicutes and a decrease in the relative abundance of some Proteobacteria. Individual and total faecal SCFA were significantly increased (P<0·05) following prebiotic supplementation. Total concentration of excreted faecal BA tended to increase in dogs fed the prebiotic (P=0·06). Our results indicate that higher doses of inulin-type prebiotics may serve as modulators of gut microbiota, metabolites and BA pool in overweight dogs.",
+      "mesh_terms": [
+        "Animals",
+        "Area Under Curve",
+        "Bile Acids and Salts",
+        "Blood Glucose",
+        "Colon",
+        "Dogs",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Firmicutes",
+        "Fructans",
+        "Gastrointestinal Microbiome",
+        "Glucagon-Like Peptide 1",
+        "Insulin",
+        "Inulin",
+        "Obesity",
+        "Postprandial Period",
+        "Prebiotics",
+        "Proteobacteria"
+      ]
+    },
+    {
+      "pmid": "29018453",
+      "title": "Inulin-Type Fructans Modulates Pancreatic-Gut Innate Immune Responses and Gut Barrier Integrity during Experimental Acute Pancreatitis in a Chain Length-Dependent Manner.",
+      "authors": [
+        "Yue He",
+        "Chengfei Wu",
+        "Jiahong Li",
+        "Hongli Li",
+        "Zhenghua Sun",
+        "Hao Zhang",
+        "Paul de Vos",
+        "Li-Long Pan",
+        "Jia Sun"
+      ],
+      "journal": "Frontiers in immunology",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acute pancreatitis (AP) is a common abdominal inflammatory disorder and one of the leading causes of hospital admission for gastrointestinal disorders. No specific pharmacological or nutritional therapy is available but highly needed. Inulin-type fructans (ITFs) are capable of modifying gut immune and barrier homeostasis in a chemistry-dependent manner and hence potentially applicable for managing AP, but their efficacy in AP has not been demonstrated yet. The current study aimed to examine and compare modulatory effects of ITFs with different degrees of fermentability on pancreatic-gut immunity and barrier function during experimentally induced AP in mice. BALB/c mice were fed short (I)- or long (IV)-chain ITFs supplemented diets for up to 3 days before AP induction by caerulein. Attenuating effects on AP development were stronger with ITF IV than with ITF I. We found that long-chain ITF IV attenuated the severity of AP, as evidenced by reduced serum amylase levels, lipase levels, pancreatic myeloperoxidase activity, pancreatic edema, and histological examination demonstrating reduced pancreatic damage. Short-chain ITF I demonstrated only partial protective effects. Both ITF IV and ITF I modulated AP-associated systemic cytokine levels. ITF IV but not ITF I restored AP-associated intestinal barrier dysfunction by upregulating colonic tight junction modulatory proteins, antimicrobial peptides, and improved general colonic histology. Additionally, differential modulatory effects of ITF IV and ITF I were observed on pancreatic and gut immunity: ITF IV supplementation prevented innate immune cell infiltration in the pancreas and colon and tissue cytokine production. Similar effects were only observed in the gut with ITF I and not in the pancreas. Lastly, ITF IV but not ITF I downregulated AP-triggered upregulation of IL-1 receptor-associated kinase 4 (IRAK-4) and phosphor-c-Jun N-terminal kinase (p-JNK), and a net decrease of phosphor-nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) p65 (p-NF-κB p65) nuclear translocation and activation in the pancreas. Our findings demonstrate a clear chain length-dependent effect of inulin on AP. The attenuating effects are caused by modulating effects of long-chain inulin on the pancreatic-gut immunity via the pancreatic IRAK-4/p-JNK/p-NF-κBp65 signaling pathway and on prevention of disruption of the gut barrier."
+    },
+    {
+      "pmid": "28377388",
+      "title": "Targeting the gut microbiota with inulin-type fructans: preclinical demonstration of a novel approach in the management of endothelial dysfunction.",
+      "authors": [
+        "Emilie Catry",
+        "Laure B Bindels",
+        "Anne Tailleux",
+        "Sophie Lestavel",
+        "Audrey M Neyrinck",
+        "Jean-François Goossens",
+        "Irina Lobysheva",
+        "Hubert Plovier",
+        "Ahmed Essaghir",
+        "Jean-Baptiste Demoulin",
+        "Caroline Bouzin",
+        "Barbara D Pachikian",
+        "Patrice D Cani",
+        "Bart Staels",
+        "Chantal Dessy",
+        "Nathalie M Delzenne"
+      ],
+      "journal": "Gut",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the beneficial role of prebiotics on endothelial dysfunction, an early key marker of cardiovascular diseases, in an original mouse model linking steatosis and endothelial dysfunction. DESIGN: We examined the contribution of the gut microbiota to vascular dysfunction observed in apolipoprotein E knockout (Apoe-/-) mice fed an n-3 polyunsaturated fatty acid (PUFA)-depleted diet for 12 weeks with or without inulin-type fructans (ITFs) supplementation for the last 15 days. Mesenteric and carotid arteries were isolated to evaluate endothelium-dependent relaxation ex vivo. Caecal microbiota composition (Illumina Sequencing of the 16S rRNA gene) and key pathways/mediators involved in the control of vascular function, including bile acid (BA) profiling, gut and liver key gene expression, nitric oxide and gut hormones production were also assessed. RESULTS: ITF supplementation totally reverses endothelial dysfunction in mesenteric and carotid arteries of n-3 PUFA-depleted Apoe-/- mice via activation of the nitric oxide (NO) synthase/NO pathway. Gut microbiota changes induced by prebiotic treatment consist in increased NO-producing bacteria, replenishment of abundance in Akkermansia and decreased abundance in bacterial taxa involved in secondary BA synthesis. Changes in gut and liver gene expression also occur upon ITFs suggesting increased glucagon-like peptide 1 production and BA turnover as drivers of endothelium function preservation. CONCLUSIONS: We demonstrate for the first time that ITF improve endothelial dysfunction, implicating a short-term adaptation of both gut microbiota and key gut peptides. If confirmed in humans, prebiotics could be proposed as a novel approach in the prevention of metabolic disorders-related cardiovascular diseases.",
+      "mesh_terms": [
+        "Aminopeptidases",
+        "Animals",
+        "Antimicrobial Cationic Peptides",
+        "Bacteria",
+        "Bile Acids and Salts",
+        "Carotid Arteries",
+        "Cecum",
+        "Dietary Supplements",
+        "Disease Models, Animal",
+        "Endothelium, Vascular",
+        "Fatty Acids, Omega-3",
+        "Fructans",
+        "Gastrointestinal Microbiome",
+        "Gene Expression",
+        "Glucagon-Like Peptide 1",
+        "Male",
+        "Mesenteric Arteries",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Knockout, ApoE",
+        "Neurotensin",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase",
+        "Organic Anion Transporters, Sodium-Dependent",
+        "Prebiotics",
+        "Proglucagon",
+        "Symporters",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "28213610",
+      "title": "Prebiotic inulin-type fructans induce specific changes in the human gut microbiota.",
+      "authors": [
+        "Doris Vandeputte",
+        "Gwen Falony",
+        "Sara Vieira-Silva",
+        "Jun Wang",
+        "Manuela Sailer",
+        "Stephan Theis",
+        "Kristin Verbeke",
+        "Jeroen Raes"
+      ],
+      "journal": "Gut",
+      "publication_date": "2017-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Contrary to the long-standing prerequisite of inducing selective (ie, bifidogenic) effects, recent findings suggest that prebiotic interventions lead to ecosystem-wide microbiota shifts. Yet, a comprehensive characterisation of this process is still lacking. Here, we apply 16S rDNA microbiota profiling and matching (gas chromatography mass spectrometry) metabolomics to assess the consequences of inulin fermentation both on the composition of the colon bacterial ecosystem and faecal metabolites profiles. DESIGN: Faecal samples collected during a double-blind, randomised, cross-over intervention study set up to assess the effect of inulin consumption on stool frequency in healthy adults with mild constipation were analysed. Faecal microbiota composition and metabolite profiles were linked to the study's clinical outcome as well as to quality-of-life measurements recorded. RESULTS: While faecal metabolite profiles were not significantly altered by inulin consumption, our analyses did detect a modest effect on global microbiota composition and specific inulin-induced changes in relative abundances of Anaerostipes, Bilophila and Bifidobacterium were identified. The observed decrease in Bilophila abundances following inulin consumption was associated with both softer stools and a favourable change in constipation-specific quality-of-life measures. CONCLUSIONS: Ecosystem-wide analysis of the effect of a dietary intervention with prebiotic inulin-type fructans on the colon microbiota revealed that this effect is specifically associated with three genera, one of which (Bilophila) representing a promising novel target for mechanistic research. TRIAL REGISTRATION NUMBER: NCT02548247.",
+      "mesh_terms": [
+        "Biomarkers",
+        "Colon",
+        "Constipation",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Metabolome",
+        "Prebiotics",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "27931142",
+      "title": "The use of inulin-type fructans improves stool consistency in constipated children. A randomised clinical trial: pilot study.",
+      "authors": [
+        "Ricardo Closa-Monasterolo",
+        "Natalia Ferré",
+        "Gemma Castillejo-DeVillasante",
+        "Veronica Luque",
+        "Mariona Gispert-Llaurado",
+        "Marta Zaragoza-Jordana",
+        "Stephan Theis",
+        "Joaquin Escribano"
+      ],
+      "journal": "International journal of food sciences and nutrition",
+      "publication_date": "2017-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Constipation is a common disorder in children. OBJECTIVE: The objective of this study is to assess the beneficial effects of a daily supplementation with Orafti® inulin-type fructans in 2-5 year old constipated children. METHODS: Double-blind, randomised, placebo-controlled parallel group trial where constipated children received two doses of 2 g Orafti® inulin-type fructans (OF:IN) or placebo (maltodextrin) for 6 weeks. Primary outcome was stool consistency. Secondary outcomes were stool frequency and gastrointestinal symptoms. RESULTS: Twenty-two children were included, 17 completed the study protocol (nine and eight for the control and the OF:IN group, respectively). Results showed that Orafti® inulin-type fructans supplemented children had softer stools (p = .003). The longitudinal analysis showed no significant changes in controls, whereas supplemented children increased their stool consistency from 2.2 to 2.6 on the modified Bristol scale for children (five items instead of seven) (p = .040). CONCLUSIONS: Prebiotic inulin-type fructans supplementation improves stool consistency in constipated 2-5-year old children. Clinicaltrials.gov, with number NCT02863848.",
+      "mesh_terms": [
+        "Child, Preschool",
+        "Constipation",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Fructans",
+        "Humans",
+        "Male",
+        "Pilot Projects"
+      ]
+    },
+    {
+      "pmid": "27771020",
+      "title": "Effects of inulin-type fructans, galacto-oligosaccharides and related synbiotics on inflammatory markers in adult patients with overweight or obesity: A systematic review.",
+      "authors": [
+        "Ricardo Fernandes",
+        "Vinicius A do Rosario",
+        "Michel C Mocellin",
+        "Marilyn G F Kuntz",
+        "Erasmo B S M Trindade"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2017-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND & AIMS: Studies in humans with overweight or obesity have reported that some prebiotics and synbiotics have beneficial effects on metabolic endotoxaemia and immune function. However, to date, no systematic review of controlled clinical trials assessed this topic. The aim of this study was to evaluate the effects of inulin-type fructans, galacto-oligosaccharides and related synbiotics on inflammatory markers in adults with overweight or obesity. METHODS: A systematic review of the literature was performed until November 6, 2015 in four electronic databases and reference lists of all included articles and relevant reviews in the field, without using any filter. RESULTS: Ten trials (six prebiotic and four synbiotic trials) representing 534 overweight/obese adults were included. All trials evaluated C-reactive protein or high-sensitivity C-reactive protein, four trials evaluated cytokines (two prebiotic and two synbiotic trials) and five trials evaluated endotoxin (four prebiotic and one synbiotic trials). Six trials (two with galacto-oligosaccharide, one with inulin and three with different synbiotics) showed a reduction on high-sensitivity C-reactive protein. Four trials (one with oligofructose-enriched inulin, one with inulin and two with different synbiotics) showed a reduction on interleukin-6 and/or tumor necrosis factor. Four trials (one with galacto-oligosaccharide, one with oligofructose-enriched inulin, one with inulin and one with synbiotic) showed a reduction on endotoxin. CONCLUSIONS: Some prebiotics and synbiotics may have immunomodulatory action, however, more randomized controlled trials are needed to support the clinical use of inulin-type fructans, galacto-oligosaccharides or related synbiotics for the treatment of metabolic endotoxaemia or low-grade inflammation in overweight/obese people.",
+      "mesh_terms": [
+        "Adult",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Cytokines",
+        "Endotoxins",
+        "Humans",
+        "Inflammation",
+        "Inulin",
+        "Obesity",
+        "Oligosaccharides",
+        "Overweight",
+        "Prebiotics",
+        "Randomized Controlled Trials as Topic",
+        "Sensitivity and Specificity",
+        "Synbiotics"
+      ]
+    },
+    {
+      "pmid": "26151029",
+      "title": "Effects of the extract from roasted chicory (Cichorium intybus L.) root containing inulin-type fructans on blood glucose, lipid metabolism, and fecal properties.",
+      "authors": [
+        "Mie Nishimura",
+        "Tatsuya Ohkawara",
+        "Toshiyuki Kanayama",
+        "Kazuya Kitagawa",
+        "Hiroyuki Nishimura",
+        "Jun Nishihira"
+      ],
+      "journal": "Journal of traditional and complementary medicine",
+      "publication_date": "2015-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The extract from roasted chicory (Cichorium intybus L.; jú jù) root (chicory root extract), which contains inulin-type fructans, has favorable effects including antihyperglycemic and antidyslipidemic effects and the improvement of bowel movement. In this study, we examined the effects of chicory root extract on blood glucose, lipid metabolism, and fecal properties in 47 healthy adult participants in a randomized, double-blind, placebo-controlled study. The participants were divided into a test group that drank chicory root extract and a placebo group that drank nonchicory root extract (ingesting 300 mL daily for 4 weeks). We performed hematological examinations and body composition measurements, and administered a visual analog scale (VAS) questionnaire for fecal properties at the baseline (Week 0) and after the intervention (Week 4) for the two groups. Although no significant differences in fasting plasma glucose or insulin were observed, hemoglobin A1c was found to decrease by ingesting chicory root extract. No intergroup differences in the levels of lipid metabolism parameters were observed. However, the level of adiponectin was significantly improved in the chicory root extract group when the baseline and postintervention values were compared. In addition, chicory root extract tends to improve the VAS score for fecal properties. These results suggest that chicory root extract could delay or prevent the early onset of diabetes mellitus and improve bowel movements."
+    },
+    {
+      "pmid": "25617533",
+      "title": "Mechanisms used by inulin-type fructans to improve the lipid profile.",
+      "authors": [
+        "Sandra Aparecida dos Reis",
+        "Lisiane Lopes da Conceição",
+        "Damiana Diniz Rosa",
+        "Manoela Maciel dos Santos Dias",
+        "Maria do Carmo Gouveia Peluzio"
+      ],
+      "journal": "Nutricion hospitalaria",
+      "publication_date": "2014-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "AIMS: The consumption of prebiotics has been associated with improvement in the lipid profile. Thus, this review aims to describe the main mechanisms by which inulin-type fructans improve the lipid profile and thereby reduce the cardiovascular risk. DATA SYNTHESIS: Inulin-type fructans have been demonstrated to improve the lipid profile through a number of mechanisms. These mechanisms include: decrease in gene expression of hepatic enzymes responsible for de novo synthesis of lipids; increase of muscle lipoprotein lipase enzyme activity, enhancing the production of short-chain fatty acids; altered production of polyamines which increases the production of satiogenic peptide; altered blood glucose and insulinemia; increase of fecal excretion of bile salts and cholesterol and increase of the Bifidobacterium population. CONCLUSIONS: The consumption of inulin-type fructans enhances lipid profile. Generally, the mechanisms vary according to the physiologic state of the individual and the type of diet to which the inulin-type fructans are added. Thus, inulin may be used for the prevention and/or treatment of cardiovascular diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Diet",
+        "Fructans",
+        "Humans",
+        "Hyperlipidemias",
+        "Inulin",
+        "Lipids",
+        "Microbiota"
+      ]
+    },
+    {
+      "pmid": "24969566",
+      "title": "Inulin-type fructans modulate intestinal Bifidobacterium species populations and decrease fecal short-chain fatty acids in obese women.",
+      "authors": [
+        "Nuria Salazar",
+        "Evelyne M Dewulf",
+        "Audrey M Neyrinck",
+        "Laure B Bindels",
+        "Patrice D Cani",
+        "Jacques Mahillon",
+        "Willem M de Vos",
+        "Jean-Paul Thissen",
+        "Miguel Gueimonde",
+        "Clara G de Los Reyes-Gavilán",
+        "Nathalie M Delzenne"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Inulin-type fructans (ITF) prebiotics promote changes in the composition and activity of the gut microbiota. The aim of this study was to determine variations on fecal short chain fatty acids (SCFA) concentration in obese women treated with ITF and to explore associations between Bifidobacterium species, SCFA and host biological markers of metabolism. METHODS: Samples were obtained in a randomized, double blind, parallel, placebo-controlled trial, with 30 obese women randomly assigned to groups that received either 16 g/day ITF (n = 15) or maltodextrin (n = 15) for 3 months. The qualitative and quantitative analysis of Bifidobacterium spp. was performed in feces by PCR-DGGE and q-PCR, and SCFA profile was analyzed by gas chromatography. Spearman correlation analysis was performed between the different variables analyzed. RESULTS: The species Bifidobacterium longum, Bifidobacterium pseudocatenulatum and Bifidobacterium adolescentis were significantly increased at the end of the treatment in the prebiotic group (p < 0.01) with being B. longum negatively correlated with serum lipopolysaccharide (LPS) endotoxin (p < 0.01). Total SCFA, acetate and propionate, that positively correlated with BMI, fasting insulinemia and homeostasis model assessment (HOMA) (p < 0.05), were significantly lower in prebiotic than in placebo group after the treatment period. CONCLUSIONS: ITF consumption selectively modulates Bifidobacterium spp. and decreases fecal SCFA concentration in obese women. ITF could lessen metabolic risk factors associated with higher fecal SCFA concentration in obese individuals.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Bifidobacterium",
+        "Biomarkers",
+        "Body Mass Index",
+        "DNA, Bacterial",
+        "Double-Blind Method",
+        "Fatty Acids, Volatile",
+        "Feces",
+        "Female",
+        "Humans",
+        "Intestines",
+        "Inulin",
+        "Middle Aged",
+        "Obesity",
+        "Prebiotics",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23887189",
+      "title": "Effects of inulin-type fructans on appetite, energy intake, and body weight in children and adults: systematic review of randomized controlled trials.",
+      "authors": [
+        "Anna Liber",
+        "Hania Szajewska"
+      ],
+      "journal": "Annals of nutrition & metabolism",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "AIM: To systematically evaluate the effects of inulin-type fructan (ITF) supplementation on appetite, energy intake, and body weight (BW) in children and adults. METHODS: The MEDLINE, EMBASE, and Cochrane Library databases were searched up to December 2012 for randomized controlled trials (RCTs) that compared the effects of supplementation with well-defined ITF with placebo or no intervention. RESULTS: For the pediatric population, 4 RCTs (n = 232) met the inclusion criteria. In infants, very limited evidence (1 RCT, n = 62) showed no effect of ITF supplementation on energy intake and BW. One RCT involving 97 nonobese adolescents aged 9 to 13 years found a reduced increase in BW in the oligofructose + inulin (8 g/day) group compared with the control group after 1 year. For the adult population, 15 RCTs (n = 545) met the inclusion criteria. Five RCTs found no effect of ITF supplementation on appetite sensations. Eleven RCTs found no effect of ITF supplementation on daily energy intake or energy intake during a meal tolerance test. Among 3 RCTs that assessed the effect of ITF supplementation on BW, 2 RCTs showed a (significant) reduction in BW. Of 3 RCTs that evaluated body mass index (BMI), 1 RCT showed a significant reduction in BMI in subjects supplemented with ITF. CONCLUSION: Limited data suggest that long-term administration of ITF may contribute to weight reduction.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Appetite",
+        "Body Mass Index",
+        "Body Weight",
+        "Child",
+        "Dietary Supplements",
+        "Energy Intake",
+        "Fructans",
+        "Humans",
+        "Inulin",
+        "Obesity",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "23135760",
+      "title": "Insight into the prebiotic concept: lessons from an exploratory, double blind intervention study with inulin-type fructans in obese women.",
+      "authors": [
+        "Evelyne M Dewulf",
+        "Patrice D Cani",
+        "Sandrine P Claus",
+        "Susana Fuentes",
+        "Philippe G B Puylaert",
+        "Audrey M Neyrinck",
+        "Laure B Bindels",
+        "Willem M de Vos",
+        "Glenn R Gibson",
+        "Jean-Paul Thissen",
+        "Nathalie M Delzenne"
+      ],
+      "journal": "Gut",
+      "publication_date": "2013-Aug",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To highlight the contribution of the gut microbiota to the modulation of host metabolism by dietary inulin-type fructans (ITF prebiotics) in obese women. METHODS: A double blind, placebo controlled, intervention study was performed with 30 obese women treated with ITF prebiotics (inulin/oligofructose 50/50 mix; n=15) or placebo (maltodextrin; n=15) for 3 months (16 g/day). Blood, faeces and urine sampling, oral glucose tolerance test, homeostasis model assessment and impedancemetry were performed before and after treatment. The gut microbial composition in faeces was analysed by phylogenetic microarray and qPCR analysis of 16S rDNA. Plasma and urine metabolic profiles were analysed by 1H-NMR spectroscopy. RESULTS: Treatment with ITF prebiotics, but not the placebo, led to an increase in Bifidobacterium and Faecalibacterium prausnitzii; both bacteria negatively correlated with serum lipopolysaccharide levels. ITF prebiotics also decreased Bacteroides intestinalis, Bacteroides vulgatus and Propionibacterium, an effect associated with a slight decrease in fat mass and with plasma lactate and phosphatidylcholine levels. No clear treatment clustering could be detected for gut microbial analysis or plasma and urine metabolomic profile analyses. However, ITF prebiotics led to subtle changes in the gut microbiota that may importantly impact on several key metabolites implicated in obesity and/or diabetes. CONCLUSIONS: ITF prebiotics selectively changed the gut microbiota composition in obese women, leading to modest changes in host metabolism, as suggested by the correlation between some bacterial species and metabolic endotoxaemia or metabolomic signatures.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anthropometry",
+        "Bacteria",
+        "Bacterial Typing Techniques",
+        "Body Mass Index",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Humans",
+        "Inulin",
+        "Metabolome",
+        "Metagenome",
+        "Middle Aged",
+        "Obesity",
+        "Prebiotics",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "21115338",
+      "title": "Inulin-type fructans with prebiotic properties counteract GPR43 overexpression and PPARγ-related adipogenesis in the white adipose tissue of high-fat diet-fed mice.",
+      "authors": [
+        "Evelyne M Dewulf",
+        "Patrice D Cani",
+        "Audrey M Neyrinck",
+        "Sam Possemiers",
+        "Ann Van Holle",
+        "Giulio G Muccioli",
+        "Louise Deldicque",
+        "Laure B Bindels",
+        "Barbara D Pachikian",
+        "Florence M Sohet",
+        "Eric Mignolet",
+        "Marc Francaux",
+        "Yvan Larondelle",
+        "Nathalie M Delzenne"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "publication_date": "2011-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Inulin-type fructans (ITF) are nondigestible/fermentable carbohydrates which are able - through the modification of the gut microbiota - to counteract high-fat (HF) diet-induced obesity, endotoxemia and related-metabolic alterations. However, their influence on adipose tissue metabolism has been poorly studied until now. The aim of this study was to assess the influence of ITF supplementation on adipose tissue metabolism, by focusing on a G protein-coupled receptor (GPR), GPR43, as a potential link between gut fermentation processes and white adipose tissue development. Male C57bl6/J mice were fed a standard diet or an HF diet without or with ITF (0.2 g/day per mouse) during 4 weeks. The HF diet induced an accumulation of large adipocytes, promoted peroxisome proliferator activated receptor gamma (PPARγ)-activated differentiation factors and led to a huge increase in GPR43 expression in the subcutaneous adipose tissue. All those effects were blunted by ITF treatment, which modulated the gut microbiota in favor of bifidobacteria at the expense of Roseburia spp. and of Clostridium cluster XIVa. The dietary modulation of GPR43 expression seems independent of endotoxemia, in view of data obtained in vivo (acute and chronic lipopolysaccharides treatment). In conclusion, ITF, which promote gut fermentation, paradoxically counteract GPR43 overexpression induced in the adipose tissue by an HF diet, a phenomenon that correlates with a beneficial effect on adiposity and with potential decrease in PPARγ-activated processes.",
+      "mesh_terms": [
+        "Adipogenesis",
+        "Adipose Tissue",
+        "Animals",
+        "Body Weight",
+        "CCAAT-Enhancer-Binding Protein-alpha",
+        "Diet, High-Fat",
+        "Dietary Fats",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Fatty Acid-Binding Proteins",
+        "Fructans",
+        "Gene Expression Regulation",
+        "Immunoblotting",
+        "Inulin",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "PPAR gamma",
+        "Prebiotics",
+        "Receptors, G-Protein-Coupled"
+      ]
+    },
+    {
+      "pmid": "20459030",
+      "title": "[Systematic review of the effects of inulin-type fructans on blood lipid profiles: a meta-analysis].",
+      "authors": [
+        "Ting Wu",
+        "Yuexin Yang",
+        "Lishi Zhang",
+        "Junhua Han"
+      ],
+      "journal": "Wei sheng yan jiu = Journal of hygiene research",
+      "publication_date": "2010-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "To conduct a systematic review on the efficacy of inulin-type fructans on lowering blood lipids, randomized controlled intervention trials on the analysis of plasma total cholesterol and triacylglycerol resulted from the treatment of dietary inulin-type fructans were selected from international journal databases and reference lists of relevant publications. The data of trials were extracted and identified by two independent reviewers. Only the qualified ones were included and evaluated. The results of 9 studies included in the systematic review indicated that the total cholesterol and triacylglycerol of subjects with hyperlipidemia could be significantly decreased by dietary inulin-type fructans, whereas the effects were absent in normal subjects. Blood lipids of subjects with hyperlipidemia could be decreased significantly by foods enriched with 17 g of inulin-type fructans per day.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Cholesterol",
+        "Dietary Supplements",
+        "Female",
+        "Fructans",
+        "Humans",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Inulin",
+        "Male",
+        "Randomized Controlled Trials as Topic",
+        "Triglycerides",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "19030908",
+      "title": "Short-term effect of bedtime consumption of fermented milk supplemented with calcium, inulin-type fructans and caseinphosphopeptides on bone metabolism in healthy, postmenopausal women.",
+      "authors": [
+        "Berit Adolphi",
+        "Katharina E Scholz-Ahrens",
+        "Michael de Vrese",
+        "Yahya Açil",
+        "Christiane Laue",
+        "Jürgen Schrezenmeir"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2009-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Milk products are good sources of calcium and their consumption may reduce bone resorption and thus contribute to prevent bone loss. AIM OF THE STUDY: We tested the hypothesis that bedtime consumption of fermented milk supplemented with calcium inhibits the nocturnally enhanced bone resorption more markedly than fermented milk alone, and postulated that this effect was most pronounced when calcium absorption enhancers were added. METHODS: In a controlled, parallel, double-blind intervention study over 2 weeks we investigated the short-term effects of two fermented milks supplemented with calcium from milk minerals (f-milk + Ca, n = 28) or calcium from milk minerals, inulin-type fructans and caseinphosphopeptides (f-milk + Ca + ITF + CPP; n = 29) on calcium and bone metabolism in healthy, postmenopausal women, and compared them with the effect of a fermented control milk without supplements (f-milk, n = 28). At bedtime 175 ml/d of either test milk was consumed. Fasting blood samples and 48 h-urine were collected at baseline and at the end of the intervention. Urine was divided into a pooled daytime and nighttime fraction. Multifactorial ANOVA was performed. RESULTS: Fermented milk independent of a supplement (n = 85) reduced the nocturnal excretion of deoxypyridinoline, a marker of bone resorption, from 11.73 +/- 0.54 before to 9.57 +/- 0.54 micromol/mol creatinine at the end of the intervention (P = 0.005). No effect was seen in the daytime fraction. Differences between the three milks (n = 28 resp. 29) were not significant. Fermented milk reduced bone alkaline phosphatase, a marker of bone formation, from 25.03 +/- 2.08 to 18.96 +/- 2.08 U/l, with no difference between these groups either. Fermented milk increased the nocturnal but not daytime urinary excretion of calcium and phosphorus. The effects on calcium and phosphorus excretion were mainly due to the group supplemented with Ca + ITF + CPP. CONCLUSION: Bedtime consumption of fermented milk reduced the nocturnal bone resorption by decelerating its turnover. Supplemented calcium from milk mineral had no additional effect unless the absorption enhancers ITF + CPP were added. A stimulated intestinal calcium absorption may be assumed, since urinary calcium excretion increased at a constant bone resorption.",
+      "mesh_terms": [
+        "Aged",
+        "Bone and Bones",
+        "Calcium",
+        "Calcium, Dietary",
+        "Caseins",
+        "Circadian Rhythm",
+        "Creatinine",
+        "Cultured Milk Products",
+        "Diet Records",
+        "Double-Blind Method",
+        "Feeding Behavior",
+        "Female",
+        "Food, Fortified",
+        "Fructans",
+        "Humans",
+        "Inulin",
+        "Middle Aged",
+        "Phosphopeptides",
+        "Phosphorus",
+        "Postmenopause",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "18608562",
+      "title": "Digestive tolerance of inulin-type fructans: a double-blind, placebo-controlled, cross-over, dose-ranging, randomized study in healthy volunteers.",
+      "authors": [
+        "Jacques Bruhwyler",
+        "Fabienne Carreer",
+        "Etienne Demanet",
+        "Heidi Jacobs"
+      ],
+      "journal": "International journal of food sciences and nutrition",
+      "publication_date": "2009-Mar",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Similar to other indigestible carbohydrates or dietary fibres, a consumption of too large quantities of inulin-type fructans may cause some digestive problems. AIM: To compare the digestive tolerance of inulin-type fructans, administered during 2 weeks, at different doses. METHODS: Eighty-four healthy volunteers (aged 18-45 years, mean body mass index 25.1 kg/m2 and mean total fibre consumption 12 g) were included in a double-blind, placebo-controlled, randomized, cross-over study comparing Fibrulose F97 (5 and 20 g/day), Fibruline Instant (5, 10 and 20 g/day) and Fibruline XL (10 g/day) (degrees of polymerization respectively equal to 2-20, 2-60 with an average of 10, and 2-60 with an average >20) to placebo. The study was decomposed into five 2-week periods: placebo run-in, treatment 1, placebo washout, treatment 2, placebo run-out. The following symptoms were assessed using visual analogue scales: flatulence, rumbling, bloating, abdominal pain, abdominal cramps, nausea, stool frequency and stool consistency. The primary variable was the mean difference between treatment and placebo in terms of tolerance (sum of the eight visual analogue scales). RESULTS: The three products tended to increase digestive symptoms whatever the dose but the change was mild (maximum, +19 mm on the 800-mm scale) and significant (P<0.001) for Fibruline Instant at 20 g/day only. At 20 g/day, a statistically significant difference between Fibruline Instant and Fibrulose F97 was demonstrated (P=0.011). There was a dose-effect relationship both for Fibrulose F97 (P>0.05) and Fibruline Instant (P=0.042). All the other tendencies were non-significant. CONCLUSIONS: The three different inulin-type fructans were very well tolerated.",
+      "mesh_terms": [
+        "Abdominal Pain",
+        "Adolescent",
+        "Adult",
+        "Body Mass Index",
+        "Cross-Over Studies",
+        "Defecation",
+        "Dietary Carbohydrates",
+        "Dietary Fiber",
+        "Dietary Supplements",
+        "Digestion",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Female",
+        "Flatulence",
+        "Fructans",
+        "Humans",
+        "Inulin",
+        "Male",
+        "Middle Aged",
+        "Nausea",
+        "Polymerization",
+        "Reference Values",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "17951509",
+      "title": "Inulin-type fructans in healthy aging.",
+      "authors": [
+        "Kieran M Tuohy"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2007-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Worldwide, the population is aging, with estimates of 1 billion people aged 60 y or over within the next 20 y. With aging comes a reduction in overall health and increased morbidity and mortality due to infectious disease. Mortality due to gastrointestinal infections is up to 400 times higher in the elderly compared with younger adults. Recent studies have shown that the gut microbiota changes in old age, with an increased number of bacterial groups represented in the predominant elderly gut microbiota. This change in species \"evenness\" coincides with parallel changes in immune function, diet, and lifestyle and may contribute to disease susceptibility and severity in old age. The intestinal microbiota may thus be identified as an important target for improving health through reduced disease risk. Here, the application of prebiotics, especially the inulin-type fructans, and synbiotics (prebiotics combined with efficacious probiotic strains) will be discussed in terms of microbiota modulation and impact on disease risk in the aged population. Recent human intervention studies have confirmed the microbiota modulatory capability of the inulin-type fructans in the elderly and there is some evidence for reduced risk of disease. However, there is a need for more and larger human intervention studies to determine the efficacy of prebiotics in the elderly, particularly studies that take advantage of recent high resolution analytical methodologies like metabonomics, to shed light on possible prebiotic mechanisms of action.",
+      "mesh_terms": [
+        "Aged",
+        "Aging",
+        "Animals",
+        "Fructans",
+        "Geriatrics",
+        "Humans",
+        "Intestines",
+        "Inulin"
+      ]
+    },
+    {
+      "pmid": "17951507",
+      "title": "Overview of experimental data on reduction of colorectal cancer risk by inulin-type fructans.",
+      "authors": [
+        "Beatrice L Pool-Zobel",
+        "Julia Sauer"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2007-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Colorectal cancer is related to diet, lifestyle, physical inactivity, and obesity. The responsible carcinogens cause mutations or enhance cell growth. Inulin-type fructans may counteract the effects via their gut flora-mediated fermentation products in vitro and in vivo. Important products formed by fermentation of inulin-type fructans with human gut flora are short-chain fatty acids. Of these, butyrate and propionate inhibit growth of colon tumor cells and histone deacetylases. Butyrate also causes apoptosis, reduces metastasis in colon cell lines, and protects from genotoxic carcinogens by enhancing expression of enzymes involved in detoxification. Fermentation supernatants of inulin have similar growth-inhibitory effects on colon adenoma and carcinoma cells and induce histone hyperacetylation by inhibiting histone deacetylases. In animal models inulin-type fructans prevent and retard colorectal carcinogenesis. Several studies reported the reduction of chemically induced preneoplastic lesions or tumors in the colon of rodents treated with inulin-type fructans. The human intervention study (SYNCAN project) sought to provide the experimental evidence for risk reduction by inulin-type fructans in humans. One group of polypectomized people at high risk for colon cancer and another of colon cancer volunteers after curative resection were given a synbiotic preparation. There were clear functional effects of the synbiotic because numerous different cancer risk markers were favorably altered. In conclusion, there is considerable experimental evidence that inulin modulates parameters of colon cancer risks in human colon cells, in animals, and in a human intervention trial. The involved mechanisms possibly include reduction of exposure to risk factors and suppression of tumor cell survival.",
+      "mesh_terms": [
+        "Animals",
+        "Colorectal Neoplasms",
+        "Disease Models, Animal",
+        "Fatty Acids, Volatile",
+        "Fermentation",
+        "Fructans",
+        "Humans",
+        "Inulin",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "17951497",
+      "title": "Current data with inulin-type fructans and calcium, targeting bone health in adults.",
+      "authors": [
+        "Véronique Coxam"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2007-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "In humans, there is increasing evidence that the colon can absorb nutritionally significant amounts of calcium, and this process may be susceptible to dietary manipulation by fermentable substrates, especially inulin-type fructans. Inulin-type fructans can modulate calcium absorption because they are resistant to hydrolysis by mammalian enzymes and are fermented in the large intestine to produce short-chain fatty acids, which in turn reduce luminal pH and modify calcium speciation, and hence solubility, or exert a direct effect on the mucosal transport pathway. Quite a few intervention studies showed an improvement of calcium absorption in adolescents or young adults by inulin-type fructans. In the same way, a positive effect has been reported in older women.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Biological Availability",
+        "Calcification, Physiologic",
+        "Calcium",
+        "Calcium, Dietary",
+        "Female",
+        "Fructans",
+        "Humans",
+        "Intestinal Absorption",
+        "Inulin",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "15877900",
+      "title": "Inulin-type fructans and reduction in colon cancer risk: review of experimental and human data.",
+      "authors": [
+        "Beatrice L Pool-Zobel"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2005-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inulin-type fructans (beta(2,1)fructans) extracted from chicory roots (Cichorium intybus) are prebiotic food ingredients, which in the gut lumen are fermented to lactic acid and SCFA. Research in experimental animal models revealed that inulin-type fructans have anticarcinogenic properties. A number of studies report the effects of inulin-type fructans on chemically induced pre-neoplastic lesions (ACF) or tumours in the colon of rats and mice. In twelve studies, there were twenty-nine individual treatment groups of which twenty-four measured aberrant crypt foci (ACF) and five measured tumours. There was a significant reduction of ACF in twenty-one of the twenty-four treatment groups and of tumour incidence in five of the five treatment groups. Higher beneficial effects were achieved by synbiotics (mixtures of probiotics and prebiotics), long-chain inulin-type fructans compared to short-chain derivatives, and feeding high-fat Western style diets. Inulin-type fructans reduced tumour incidence in APC(Min) mice in two of four studies and reduced growth and metastasising properties of implanted tumour cells in mice (four studies). The effects have been reported to be associated with gut flora-mediated fermentation and production of butyrate. In human cells, inulin-derived fermentation products inhibited cell growth, modulated differentiation and reduced metastasis activities. In conclusion, evidence has been accumulated that shows that inulin-type fructans and corresponding fermentation products reduced the risks for colon cancer. The involved mechanisms included the reduction of exposure to risk factors and suppression of tumour cell survival. Thus, this specific type of dietary fibre exerted both blocking agent and suppressing agent types of chemopreventive activities.",
+      "mesh_terms": [
+        "Animals",
+        "Bifidobacterium",
+        "Butyrates",
+        "Colonic Neoplasms",
+        "Dietary Fiber",
+        "Fermentation",
+        "Humans",
+        "Inulin",
+        "Lactobacillus",
+        "Mice",
+        "Neoplasms, Experimental",
+        "Precancerous Conditions",
+        "Probiotics",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "15877886",
+      "title": "Introducing inulin-type fructans.",
+      "authors": [
+        "Marcel B Roberfroid"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2005-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Inulin is a generic term to cover all beta(2-->1) linear fructans. Chicory inulin is a linear beta(2-->1) fructan (degree of polymerisation (DP) 2 to 60; DPav=12), its partial enzymatic hydrolysis product is oligofructose (DP 2 to 8; DPav=4), and by applying specific separation technologies a long-chain inulin known as inulin HP (DP 10 to 60; DPav=25) can be produced. Finally, a specific product known as oligofructose-enriched inulin is obtained by combining chicory long-chain inulin and oligofructose. Because of the beta-configuration of the anomeric C2 in their fructose monomers, inulin-type fructans resist hydrolysis by intestinal digestive enzymes, they classify as 'non-digestible' carbohydrates, and they are dietary fibres. By increasing faecal biomass and water content of the stools, they improve bowel habits, but they have characteristic features different from other fibres. They affect gastrointestinal functions not because of their physico-chemical properties but rather because of their biochemical and physiological attributes. In the colon, they are rapidly fermented to produce SCFA that are good candidates to explain some of the systemic effects of inulin-type fructans. Fermentation of inulin-type fructans in the large bowel is a selective process; bifidobacteria (and possibly a few other genera) are preferentially stimulated to grow, thus causing significant changes in the composition of the gut microflora by increasing the number of potentially health-promoting bacteria and reducing the number of potentially harmful species. Both oligofructose and inulin are prebiotic. They also induce changes in colonic epithelium stimulating proliferation in the crypts, increasing the concentration of polyamines, changing the profile of mucins, and modulating endocrine as well as immune functions. From a nutrition labelling perspective, inulin-type fructans are not only prebiotic dietary fibres; they are also low-calorie carbohydrates [6.3 kJ/g (1.5 kcal/g)]. Supported by the results of a large number of animal studies and human nutrition intervention trials, the claim 'inulin-type fructans enhance calcium and magnesium absorption' is scientifically substantiated, but different inulin-type fructans have probably a different efficacy (in terms of effective daily dose), the most active product being the oligofructose-enriched inulin. A series of animal studies demonstrate that inulin-type fructans affect the metabolism of lipids primarily by decreasing triglyceridaemia because of a reduction in the number of plasma VLDL particles. The human data largely confirm the animal experiments. They demonstrate mainly a reduction in triglyceridaemia and only a relatively slight decrease in cholesterolaemia mostly in (slightly) hypertriglyceridaemic conditions. Inulin appears thus eligible for an enhanced function claim related to normalization of blood triacylglycerols. A large number of animal data convincingly show that inulin-type fructans reduce the risk of colon carcinogenesis and nutrition intervention trials are now performed to test that hypothesis in human subjects known to be at risk for polyps and cancer development in the large bowel.",
+      "mesh_terms": [
+        "Animals",
+        "Bifidobacterium",
+        "Cholesterol",
+        "Colon",
+        "Colonic Neoplasms",
+        "Dietary Fiber",
+        "Digestion",
+        "Fermentation",
+        "Humans",
+        "Inulin",
+        "Lipid Metabolism",
+        "Oligosaccharides",
+        "Polyps",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "15877884",
+      "title": "Inulin-type fructans and bone health: state of the art and perspectives in the management of osteoporosis.",
+      "authors": [
+        "Véronique Coxam"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2005-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "If the primary role of diet is to provide sufficient nutrients to meet the metabolic requirements of an individual, there is an emerging rationale to support the hypothesis that, by modulating specific target functions in the body, it can help achieve optimal health. Regarding osteoporosis prevention, since Ca is most likely to be inadequate in terms of dietary intake, every strategy targeting an improvement in Ca absorption is very interesting. Actually, this process may be susceptible to manipulation by fermentable substrates. In this light, inulin-type fructans are very interesting, even if we need to gather more data targeting bone metabolism before health professionals can actively advocate their consumption to prevent senile osteoporosis. Besides targeting the prevention of postmenopausal osteoporosis, inulin-type fructans still remain a source for putative innovative dietary health intervention. Indeed, given in combination with isoflavones, they may have a potential for maintaining or improving the bone mass of human subjects, by modulating the bioavailability of phyto-oestrogens.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aging",
+        "Bone Density",
+        "Bone and Bones",
+        "Calcium",
+        "Calcium, Dietary",
+        "Child",
+        "Child, Preschool",
+        "Dietary Fiber",
+        "Female",
+        "Humans",
+        "Infant",
+        "Inulin",
+        "Isoflavones",
+        "Middle Aged",
+        "Osteoporosis, Postmenopausal"
+      ]
+    },
+    {
+      "pmid": "15469657",
+      "title": "Inulin-type fructans modulate gastrointestinal peptides involved in appetite regulation (glucagon-like peptide-1 and ghrelin) in rats.",
+      "authors": [
+        "Patrice D Cani",
+        "Cédric Dewever",
+        "Nathalie M Delzenne"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2004-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The hypothesis tested in the present study is that dietary fructans are able to modulate gastrointestinal peptides involved in the control of food intake, namely glucagon-like peptide (GLP)-1 (7-36) amide and ghrelin. After 3 weeks of treatment with a standard diet (control) or the same diet enriched with 100 g fructans varying in their degrees of polymerization (oligofructose (OFS), Synergy 1 (Syn) or long chain inulin)/kg, male Wistar rats were deprived of food for 8 h before sample collection. Dietary energy intake throughout the experiment was significantly lower (P<0.05) in fructans-fed rats than in control rats, leading to a significant decrease (P<0.01) in epidydimal fat mass at the end of the treatment in OFS- and Syn-treated rats. GLP-1 (7-36) amide concentration in portal vein serum was higher in OFS- and Syn-fed than in control rats. Both GLP-1 (7-36) amide concentration and proglucagon mRNA concentrations were significantly greater (P<0.05) in the proximal colonic mucosa of fructans-fed rats v. controls. Normally active ghrelin concentration in plasma increases during food deprivation and rapidly falls during a meal. In the present study, after 8 h of food deprivation, active ghrelin in the plasma remained significantly lower (P<0.05) in OFS and Syn-fed than in control rats. These results are in accordance with the modifications of dietary intake and fat-mass development in short-chain fructans-treated rats and demonstrate the potential modulation of GLP-1 (7-36) amide and ghrelin by fermentable fibres such as fructans, which are rapidly and extensively fermented in the proximal part of the colon.",
+      "mesh_terms": [
+        "Animals",
+        "Appetite Regulation",
+        "Cecum",
+        "Colon",
+        "Diet",
+        "Eating",
+        "Energy Intake",
+        "Ghrelin",
+        "Glucagon",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptides",
+        "Inulin",
+        "Male",
+        "Organ Size",
+        "Peptide Fragments",
+        "Peptide Hormones",
+        "Proglucagon",
+        "Protein Precursors",
+        "RNA, Messenger",
+        "Rats",
+        "Rats, Wistar",
+        "Weight Gain"
+      ]
+    }
+  ]
+}

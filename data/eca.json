@@ -1,0 +1,1761 @@
+{
+  "supplement": "ECA",
+  "query": "ECA[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:29:36",
+  "research_count": 57,
+  "count": 57,
+  "articles": [
+    {
+      "pmid": "39035578",
+      "title": "Determination of the anticancer activity of standardized extract of Centella asiatica (ECa 233) on cell growth and metastatic behavior in oral cancer cells.",
+      "authors": [
+        "Suwisit Manmuan",
+        "Sukannika Tubtimsri",
+        "Nattaya Chaothanaphat",
+        "Nipatha Issaro",
+        "Mayuree H Tantisira",
+        "Ponwit Manmuan"
+      ],
+      "journal": "Research in pharmaceutical sciences",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: The anticancer drugs used for oral cancer treatment present many disadvantages, such as low solubility, low permeability, and poor bioavailability. However, the anticancer activity of ECa 233 has not been widely studied. Therefore, the anticancer activity of ECa 233 was investigated in this study. EXPERIMENTAL APPROACH: MTT assay was carried out to determine cell viability. Characterizations of cell apoptosis were monitored using DAPI and FDA staining and Hoechst 33258 and AO staining. Confirmation of the apoptosis-induced KON cells was done using annexin V-FITC staining, and ROS generation was determined by DCFDA staining. Cell death and the cell cycle arrest activity of ECa 233 were demonstrated by a flow cytometer. The anti-migration and anti-invasion properties of ECa 233 were examined. The anti-proliferative of ECa 233 was investigated. Cellular uptake of ECa 233 was measured by TEER values. The pharmacokinetics of ECa 233 were estimated using the pkCSM web server. FINDINGS/RESULTS: ECa 233 decreased the KON cell viability. Morphological analysis showed the KON cells' loss of cell stability and structure, disorganized nucleus and cytoplasm, and induced cell death. ECa 233 acted as a cell cycle arrest in the G0/G1 phase and reduced the migration and invasion ability in KON cells. TEER values significantly increased in KON cells, which decreased cell colony and multicellular spheroid formations. The pharmacokinetic profiles of the main components are of interest for future usage. CONCLUSION AND IMPLICATION: ECa 233 can be used as an alternative therapy as well as a medicinal plant selected for sensitizing oral cancer cells to chemotherapy."
+    },
+    {
+      "pmid": "38198371",
+      "title": "Standardized Centella asiatica extract ECa 233 alleviates pain hypersensitivity by modulating P2X3 in trigeminal neuropathic pain.",
+      "authors": [
+        "Aree Wanasuntronwong",
+        "Supassanan Kaewsrisung",
+        "Nisanat Lakkhanachatpan",
+        "Rittinarong Meepong",
+        "Tawepong Arayapisit",
+        "Mayuree Tantisira"
+      ],
+      "journal": "Journal of applied oral science : revista FOB",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: During oral surgery and temporomandibular joint repositioning, pain hypersensitivity often occurs due to irritation or inflammation of the nerve endings in the orofacial region. This study aimed to investigate the effects of ECa 233, a Centella asiatica-standardized extract, on the development of mechanical hyperalgesia and allodynia induced by chronic constriction injury of the infraorbital nerve in mice. METHODOLOGY: The right infraorbital nerves of the mice were ligated. Oral carbamazepine (20 mg/kg) or ECa 233 (30, 100, or 300 mg/kg) was administered daily for 21 days. Von Frey and air-puff tests were performed on both sides of the whisker pad on days 0, 7, 14, and 21. Thereafter, the expression of purinergic receptor subtype 3 (P2X3) and voltage-gated sodium channel 1.7 (NaV1.7), a transmembrane protein, in the trigeminal ganglion and c-fos immunoreactivity-positive neurons in the trigeminal nucleus caudalis was assessed. RESULTS: After 21 days of infraorbital nerve ligation, the mice showed allodynia- and hyperalgesia-like behavior, P2X3 and NaV1.7 were upregulated in the trigeminal ganglion, and nociceptive activity increased in the trigeminal nucleus caudalis. However, the oral administration of carbamazepine (20 mg/kg), ECa 233 (100 mg/kg), or ECa 233 (300 mg/kg) mitigated these effects. Nevertheless, ECa 233 failed to affect NaV1.7 protein expression. CONCLUSION: Carbamazepine and ECa 233 can prevent pain hypersensitivity in mice. Considering the side effects of the long-term use of carbamazepine, ECa 233 monotherapy or combined ECa 233 and carbamazepine therapy can be used as an alternative for regulating the development of hypersensitivity in trigeminal pain. However, further detailed clinical studies should be conducted to provide comprehensive information on the use of ECa 233.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Hyperalgesia",
+        "Carbamazepine",
+        "Inflammation",
+        "Neuralgia",
+        "Plant Extracts",
+        "Triterpenes",
+        "Centella"
+      ]
+    },
+    {
+      "pmid": "37181231",
+      "title": "Case of IV Stage Juvenile Nasopharyngeal Angiofibroma Presurgically Treated with a Single ECA Stop-Flow Embolization Technique Using Onyx 18.",
+      "authors": [
+        "Eliodoro Faiella",
+        "Domiziana Santucci",
+        "Davide Fior",
+        "Federica Riva",
+        "Chiara Tagliaferri",
+        "Laura Demelas",
+        "Giovanni D' Aniello",
+        "Rosa Maria Muraca",
+        "Maurizio Bignami",
+        "Lorenzo Paolo Moramarco"
+      ],
+      "journal": "Case reports in otolaryngology",
+      "publication_date": "2023",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Juvenile nasopharyngeal angiofibroma (JNA) is a rare tumor that mainly affects young boys. Its intervention may be complex due to its high vascularity, location, and extension. Preoperative embolization is used to prevent intrasurgical and postsurgical bleeding. Two main kinds of embolization are described in literature: intratumoral and transarterial, and numerous embolic materials are used. Case Presentation. We want to present a case of presurgical embolization of a stage IV JNA, performed using a single stop-flow balloon assisted technique with the balloon cuffed exclusively in the external carotid artery and using Onyx 18 as an embolic agent. CONCLUSIONS: The embolization with an exclusive external carotid artery single stop-flow technique using Onyx 18 is a safe, effective, and a definitive approach."
+    },
+    {
+      "pmid": "36526533",
+      "title": "Stacking Ensemble and ECA-EfficientNetV2 Convolutional Neural Networks on Classification of Multiple Chest Diseases Including COVID-19.",
+      "authors": [
+        "Mei-Ling Huang",
+        "Yu-Chieh Liao"
+      ],
+      "journal": "Academic radiology",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "RATIONALE AND OBJECTIVES: Early detection and treatment of COVID-19 patients is crucial. Convolutional neural networks have been proven to accurately extract features in medical images, which accelerates time required for testing and increases the effectiveness of COVID-19 diagnosis. This study proposes two classification models for multiple chest diseases including COVID-19. MATERIALS AND METHODS: The first is Stacking-ensemble model, which stacks six pretrained models including EfficientNetV2-B0, EfficientNetV2-B1, EfficientNetV2-B2, EfficientNetV2-B3, EfficientNetV2-S and EfficientNetV2-M. The second model is self-designed model ECA-EfficientNetV2 based on ECA-Net and EfficientNetV2. Ten-fold cross validation was performed for each model on chest X-ray and CT images. One more dataset, COVID-CT dataset, was tested to verify the performance of the proposed Stacking-ensemble and ECA-EfficientNetV2 models. RESULTS: The best performance comes from the proposed ECA-EfficientNetV2 model with the highest Accuracy of 99.21%, Precision of 99.23%, Recall of 99.25%, F1-score of 99.20%, and (area under the curve) AUC of 99.51% on chest X-ray dataset; the best performance comes from the proposed ECA-EfficientNetV2 model with the highest Accuracy of 99.81%, Precision of 99.80%, Recall of 99.80%, F1-score of 99.81%, and AUC of 99.87% on chest CT dataset. The differences for five metrics between Stacking-ensemble and ECA-EfficientNetV2 models are not significant. CONCLUSION: Ensemble model achieves better performance than single pretrained models. Compared to the SOTA, Stacking-ensemble and ECA-EfficientNetV2 models proposed in this study demonstrate promising performance on classification of multiple chest diseases including COVID-19.",
+      "mesh_terms": [
+        "Humans",
+        "COVID-19",
+        "COVID-19 Testing",
+        "Thorax",
+        "Benchmarking",
+        "Neural Networks, Computer"
+      ]
+    },
+    {
+      "pmid": "34820686",
+      "title": "Psychiatric comorbidity in the Baltimore ECA follow-up study: the matrix approach.",
+      "authors": [
+        "Ruben Miozzo",
+        "William Eaton",
+        "O Joseph Bienvenu",
+        "Jack Samuels",
+        "Gerald Nestadt"
+      ],
+      "journal": "Social psychiatry and psychiatric epidemiology",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Psychiatric comorbidity is defined as the joint occurrence of two or more mental or substance use disorders. Widespread psychiatric comorbidity has been reported in treatment and population-based studies. The aim of this study was to measure the extent and impact of psychiatric comorbidity in a cohort of the Baltimore Epidemiologic Catchment Area study. METHODS: We examined the comorbidity burden of 16 mental disorders in a cohort of 847 participants using both established and novel analytical approaches The Comorbidity to Diagnosis Inflation Ratio (CDIR), is a statistical instrument that quantifies impact of pairwise comorbid associations, both on the whole sample, as well as on each specific disorder. RESULTS: Most anxiety disorders had substantial co-occurrence with each other, as well as with Major Depressive Disorder (MDD). In addition, mood disorders had a high degree of comorbidity with Alcohol Dependence (AD). The CDIR for the whole sample was 1.32, indicating a ratio of 132 comorbidities per 100 diagnoses. The conditions with high sample prevalence were relatively less comorbid than the low prevalence conditions. Obsessive Compulsive Disorder had a comorbidity burden that was 89% greater than the overall sample. CONCLUSION: Anxiety disorders are highly interrelated, as well as highly comorbid with depression. The comorbidity phenomenon is linked to the differential prevalence of the analyzed conditions. Comorbidity frequency (most prevalent comorbid condition) appears mutually exclusive to comorbidity burden (most widely interrelated condition). While AD and MDD were the most frequently diagnosed disorders; low prevalence conditions as OCD and GAD were the most widely interrelated.",
+      "mesh_terms": [
+        "Humans",
+        "Follow-Up Studies",
+        "Depressive Disorder, Major",
+        "Baltimore",
+        "Anxiety Disorders",
+        "Comorbidity",
+        "Prevalence",
+        "Alcoholism"
+      ]
+    },
+    {
+      "pmid": "34648902",
+      "title": "Anti-nociceptive effects of ECa 233 a standardized extract of Centella asiatica (L.) Urban on chronic neuropathic orofacial pain in mice.",
+      "authors": [
+        "Ananya Buapratoom",
+        "Aree Wanasuntronwong",
+        "Onrawee Khongsombat",
+        "Mayuree H Tantisira"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2022-Jan-30",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: ECa 233 is a standardized extract of Centella asiatica (L.) Urban, a herb traditionally used to treat a number of diseases including neurological disorders. Accordingly, ECa 233 showed benefits on animal models of cognitive deficits, chronic stress and Parkinson's disease. Analgesic activity of ECa 233 was shown in Tail's flick test in rodent and relieving aphthous ulcer pain in man. Moreover, acute and sub-chronic toxicity testing in rodents and pharmacokinetic study in healthy volunteers, clinical trial phase I demonstrated good safety profiles of ECa 233. AIM OF THE STUDY: This study aims to evaluate the anti-nociceptive effects of ECa 233 and its synergistic effect with gabapentin on chronic neuropathic orofacial pain after 3 weeks infraorbital nerve chronic constriction injury in mice. The peripheral and central nociceptive activities are also examined. MATERIALS AND METHODS: Chronic neuropathic orofacial pain was induced by 3 weeks infraorbital nerve chronic constriction injury. Mice were treated with ECa 233 (30, 100 and 300 mg/kg) and gabapentin (10 mg/kg) by oral gavage starting on day 21 and going on for 14 consecutive days. Mechanical hyperalgesia and allodynia were measured on day 7, 14, 21, 28 and 35 after infraorbital nerve chronic constriction injury. At the end of the experiment, mice were observed for the sedative effect using the locomotor activity, the calcitonin gen-related peptide in trigeminal ganglion and c-fos expression in trigeminal nucleus caudalis were investigated after euthanasia. RESULTS: Infraorbital nerve chronic constriction injury gradually induced marked ipsilateral mechanical hyperalgesia and allodynia. The maximum hyperalgesia and allodynia response presented on day 21 and the response was remained constant until day 35. Treatment with either 300 mg/kg ECa 233 or 10 mg/kg gabapentin were able to attenuate mechanical hyperalgesia and allodynia. The downregulation of calcitonin gen-related peptide on ipsilateral trigeminal ganglion were observed in ECa 233 at 100 and 300 mg/kg and 10 mg/kg gabapentin-treated groups. The c-fos expression on ipsilateral trigeminal nucleus caudalis was also decreased in 300 mg/kg ECa 233 and 10 mg/kg gabapentin-treated groups. CONCLUSION: ECa 233 reduced hyperalgesia and allodynia by modulating the peripheral calcitonin gen-related peptide expression consequently alleviate the nociceptive activity in trigeminal nucleus caudalis. Further clinical trial to proof ECa 233's efficacy in neuropathic pain in man as well as possible attributable mechanism of action should be further investigated.",
+      "mesh_terms": [
+        "Analgesics",
+        "Animals",
+        "Calcitonin Gene-Related Peptide",
+        "Chronic Pain",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Drug Synergism",
+        "Facial Pain",
+        "Gabapentin",
+        "Hyperalgesia",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Neuralgia",
+        "Plant Extracts",
+        "Trigeminal Ganglion"
+      ]
+    },
+    {
+      "pmid": "33842700",
+      "title": "Can a monologue-style ECA more effectively motivate eHealth users in initial distress than textual guidance?",
+      "authors": [
+        "Mark R Scholten",
+        "Saskia M Kelders",
+        "Julia E W C Van Gemert-Pijnen"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2021-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Stress is a prevalent issue amongst patients with chronic conditions. As eHealth interventions are gaining importance, it becomes more relevant to invoke the possibilities from the eHealth technology itself to provide motivational acts during experiences of stress as to enhance adherence to the intervention. Embodied Conversational Agents (ECA's) also known as 'robots on screen' can potentially provide a remedy. Within our eHealth experiment we applied a between-subjects design and experimentally studied the difference in appraisal of motivation and guidance. We deployed a functionally modest, monologue-style ECA and compared them with textual guidance. This way, we filtered out the considerable positive impact of interactive features that go along with dialogue-style ECA's. The study was carried out amongst eHealth users of which half were deliberately put in a stressful pre-condition. The rationale was two-sided; first, we hypothesized that it would induce a need for motivational support. Second, it would provide a fair representation of eHealth users in real life. Furthermore, we investigated hypothesized positive effects from a gender match between participant and ECA. The results demonstrated preferential ECA effects compared to text but only in the no stress conditions. Although our set-up controlled for user distraction by putting the facilitating ECA in a pane separate from the eHealth environment, we suspect that the enduring visual presence of the ECA during task completion had still inhibited distressed users. Discussing this phenomenon, our stance is that the hypothesis that ECA support is always superior to textual guidance is open for re-evaluation. Text may sometimes serve users equally well because it lacks human-like aspects that in stressful circumstances can become confrontational. We discuss the potential of ECA's to motivate, but also elaborate on the caveats. Further implications for the ECA, intervention adherence, and eHealth study fields are discussed in relation to stress."
+    },
+    {
+      "pmid": "33507132",
+      "title": "MiR-34a reverses radiation resistance on ECA-109 cells by inhibiting PI3K/AKT/mTOR signal pathway through downregulating the expression of SIRT1.",
+      "authors": [
+        "Zhimin Ye",
+        "Tieming Xie",
+        "Fengqin Yan",
+        "Lei Wang",
+        "Jun Fang",
+        "Zhun Wang",
+        "Fujun Hu",
+        "Fangzheng Wang",
+        "Zhenfu Fu"
+      ],
+      "journal": "International journal of radiation biology",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Radiotherapy is an effective treatment for esophageal squamous cell carcinoma (ESCC). However, many ESCC patients relapsed after receiving radiotherapy due to the inherent resistance. The function of miR-34a and SIRT1, as well as the correlation between miR-34a and SIRT1 has been widely claimed in multiple types of malignant tumors. This study aimed to investigate the effects of miR-34a on radiation resistance against ESCC and the underlying mechanism. METHODS: In this study, CCK8, flow cytometry, wounding healing assays, and cell clone formation assay were used to determine the in vitro anti-tumor effects of radiation on radiation-resistant ESCC cell line (rECA-109). The luciferase activity and Western Blot assays were used to investigate the relationship among miR-34a, SIRT1, and the anti-radiation resistant effects. The xenograft experiments were used to verify the important function of miR-34a and SIRT1 in radiation resistance against ESCC. The apoptosis state of tumor tissues was evaluated by TUNEL assay. RESULTS: The introduction of miR-34a significantly induced the cell death and apoptosis of rECA-109 and inhibit the migration of rECA-109 treated by radiation. The anti-tumor effect was accompanied by the downregulation of SIRT1 and the inhibition of PI3K/AKT/mTOR signal pathway. The radiation resistance on rECA-109 cells was reversed by silencing SIRT1, accompanied by the PI3K/AKT/mTOR signal pathway inhibited. In vivo experiments revealed that the radiation resistance on ESCC was reversed by the introduction of miR-34a, the effect of which was promoted by the activation of SIRT1. CONCLUSION: Our results showed that miR-34a could reverse the radiation resistance on rECA-109 cells by downregulating the expression of SIRT1through inhibiting the PI3K-AKT-mTOR signal pathway.",
+      "mesh_terms": [
+        "Sirtuin 1",
+        "MicroRNAs",
+        "TOR Serine-Threonine Kinases",
+        "Signal Transduction",
+        "Humans",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Radiation Tolerance",
+        "Cell Line, Tumor",
+        "Down-Regulation",
+        "Animals",
+        "Mice",
+        "Esophageal Neoplasms",
+        "Gene Expression Regulation, Neoplastic",
+        "Esophageal Squamous Cell Carcinoma",
+        "Apoptosis",
+        "Mice, Nude"
+      ]
+    },
+    {
+      "pmid": "32468007",
+      "title": "Effects of an ethyl acetate extract of Daphne altaica stem bark on the cell cycle, apoptosis and expression of PPARγ in Eca‑109 human esophageal carcinoma cells.",
+      "authors": [
+        "Murat Kizaibek",
+        "Ayixiamuguli Wubuli",
+        "Zhengbing Gu",
+        "Didar Bahetjan",
+        "Lazzat Tursinbai",
+        "Kamishbek Nurhamit",
+        "Bin Chen",
+        "Jing Wang",
+        "Omirshat Tahan",
+        "Peng Cao"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2020-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Daphne altaica Pall. (D. altaica; Thymelaeaceae) has long been used in traditional Kazakh medicine for the treatment of cancer and respiratory diseases. Previous studies have demonstrated the in vitro anticancer effects of D. altaica extract and its constituents in certain cancer cell lines; however, the underlying molecular mechanisms are not completely understooD. The present study aimed to investigate the molecular mechanisms underlying the activity of an ethyl acetate extract of D. altaica (Da‑Ea) by assessing its effects on cell morphology, cell apoptosis, cell cycle progression and the expression levels of peroxisome proliferator‑activated receptor γ (PPARγ) in Eca‑109 cells. Cell morphology was observed under a phase contrast microscope. Cell apoptosis and cell cycle progression were assessed by flow cytometry following Annexin V/propidium iodide (PI) double staining and PI single staining, respectively. The mRNA and protein expression levels of PPARγ were determined by reverse transcription‑quantitative PCR and western blotting, respectively. Compared with the control group, the percentage of apoptotic cells, cell cycle arrest at S phase and apoptotic morphological cell characteristics were increased in Da‑Ea‑treated Eca‑109 cells. Furthermore, Da‑Ea treatment upregulated the mRNA and protein expression levels of PPARγ compared with the control cells. High‑performance liquid chromatography with diode‑array detection indicated that daphnetin‑7‑O‑β‑D‑glucoside, daphnetin, demethyldaphnoretin‑7‑O‑β‑D‑glucopyranoside and genkwanol A were the main constituents of Da‑Ea. Collectively, the results suggested that Da‑Ea displayed antiproliferative activities in Eca‑109 cells by inducing apoptosis and S phase cell cycle arrest, as well as upregulating PPARγ expression levels.",
+      "mesh_terms": [
+        "Acetates",
+        "Apoptosis",
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle",
+        "Cell Cycle Checkpoints",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Chromatography, High Pressure Liquid",
+        "Daphne",
+        "Esophageal Neoplasms",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Microscopy, Phase-Contrast",
+        "PPAR gamma",
+        "Plant Bark",
+        "Plant Extracts",
+        "S Phase",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "31582084",
+      "title": "An alcohol-soluble polysaccharide from Atractylodes macrocephala Koidz induces apoptosis of Eca-109 cells.",
+      "authors": [
+        "Ying-Ying Feng",
+        "Hai-Yu Ji",
+        "Xiao-Dan Dong",
+        "An-Jun Liu"
+      ],
+      "journal": "Carbohydrate polymers",
+      "publication_date": "2019-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this study, polysaccharides from Atractylodes macrocephala Koidz (APA) which were soluble in alcohol were prepared, purified, analyzed the structure and investigated the antitumor activity in vitro cell experiment. Results of high-performance gel permeation chromatography (HPGPC), fourier-transform infrared spectroscopy (FT-IR), and gas chromatography (GC) showed that APA was a 2.1KDa neutral hetero polysaccharide composed of arabinose and glucose (molar ratio, 1.00:4.57) with pyranose rings and α-type and β-type glycosidic linkages. Results by MTT experiments showed that the proliferation inhibition was 74.63% in Eca109 cells treated with 2 mg/mL dose of APA. Annexin V/PI assay, Hoechst 33,258 staining, cell cycle distribution, rhodamine 123 dye assay and western blot assay clarified that APA could accelerate the apoptosis of Eca109 cells by mitochondrial pathway and stocked cells at S phase. These data indicated that APA is a promising potential candidate for therapeutic treatment of esophageal cancer.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Atractylodes",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Ethanol",
+        "Humans",
+        "Mitochondria",
+        "Polysaccharides",
+        "Solubility"
+      ]
+    },
+    {
+      "pmid": "31366870",
+      "title": "ECa 233 Suppresses LPS-Induced Proinflammatory Responses in Macrophages via Suppressing ERK1/2, p38 MAPK and Akt Pathways.",
+      "authors": [
+        "Wanida Sukketsiri",
+        "Supita Tanasawet",
+        "Furoida Moolsap",
+        "Mayuree H Tantisira",
+        "Pilaiwanwadee Hutamekalin",
+        "Varomyalin Tipmanee"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A current anti-inflammatory agent often targets the prevention of inflammatory disorder development. The standardized Centella asiatica ECa 233 extract has been previously reported for anti-inflammatory effect. This study aimed to investigate its anti-inflammatory effect and mechanisms of ECa 233 in lipopolysaccharide (LPS)-stimulated RAW264.7 macrophages, through 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay, nitric oxide (NO) assay, reactive oxygen species (ROS) production assay, enzyme-linked immunosorbent assay (ELISA) and Western blot analysis. Our results found that ECa 233 significantly inhibited LPS-stimulated pro-inflammatory mediators production including ROS, NO and prostaglandin E2 (PGE2), and pro-inflammatory cytokines, including tumor necrosis factor (TNF)-α and interleukin (IL)-1β without cytotoxicity. In addition, ECa 233 downregulated not only the expression of inducible nitric oxide synthase (iNOS) and cyclooxygenase-2 (COX-2), but also the activation of nuclear factor-kappa B (NF-κB), activated protein kinase B (Akt), extracellular signal-regulated kinase (ERK1/2) and p38 mitogen-activated protein kinases (MAPK) induced by LPS. The inhibition of LPS-induced inflammation due to ECa 233 offered an opportunity as a tentatively potential candidate for the prevention and treatment of inflammatory diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cyclooxygenase 2",
+        "Dinoprostone",
+        "Interleukin-1beta",
+        "Lipopolysaccharides",
+        "MAP Kinase Signaling System",
+        "Mice",
+        "NF-kappa B",
+        "Nitric Oxide",
+        "Nitric Oxide Synthase Type II",
+        "Plant Extracts",
+        "Proto-Oncogene Proteins c-akt",
+        "RAW 264.7 Cells",
+        "Reactive Oxygen Species"
+      ]
+    },
+    {
+      "pmid": "30655768",
+      "title": "Cistanche tubulosa phenylethanoid glycosides induce apoptosis in Eca-109 cells via the mitochondria-dependent pathway.",
+      "authors": [
+        "Changshuang Fu",
+        "Jinyu Li",
+        "Adila Aipire",
+        "Lijie Xia",
+        "Yi Yang",
+        "Qiuyan Chen",
+        "Jie Lv",
+        "Xinhui Wang",
+        "Jinyao Li"
+      ],
+      "journal": "Oncology letters",
+      "publication_date": "2019-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cistanche tubulosa has various biological functions. In the present study, the antitumor effect of water-soluble phenylethanoid glycosides of C. tubulosa (CTPG-W) on esophageal cancer was investigated. Eca-109 cells were treated with CTPG-W and the cell viability was measured by MTT assay. The apoptosis, cell cycle, mitochondrial membrane potential (Δψm) and reactive oxygen species were analyzed by flow cytometry. The levels of proteins in apoptotic pathways were detected by western blot analysis. It was determined that CTPG-W significantly reduced the viability of Eca-109 cells through the induction of apoptosis and cell cycle arrest. Following CTPG-W treatment, the Δψm of Eca-109 was notably decreased, which is associated with the upregulated levels of B-cell lymphoma-2 (Bcl-2)-associated X and downregulated levels of Bcl-2. Consequently, the levels of cytochrome c and c-Jun NH2-terminal kinase were increased, which upregulated the levels of cleaved-poly (ADP-ribose) polymerase and cleaved-caspase-3, -7 and -9, but not caspase-8. Correspondingly, the levels of reactive oxygen species in Eca-109 cells demonstrated notable changes. These results indicated that CTPG-W induced apoptosis of Eca-109 cells through a mitochondrial-dependent pathway."
+    },
+    {
+      "pmid": "30514144",
+      "title": "Prenatal Atrioventricular Septal Defect (AVSD) as a planned congenital heart disease with different outcome depending on the presence of the coexisting extracardiac abnormalities (ECA) and/or malformations (ECM).",
+      "authors": [
+        "Maciej Słodki",
+        "Małgorzata Soroka",
+        "Giuseppe Rizzo",
+        "Maria Respondek-Liberska"
+      ],
+      "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "publication_date": "2020-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Introduction: Prenatal atrioventricular septal defect (AVSD) on frequent occasions coexists with other cardiac or extracardiac abnormalities or malformation which may change the prognosis and the management with the fetus and the newborn. The aim of the research was to assess the prognosis and the outcome of prenatally diagnosed AVSD based on the classification which also includes coexisting extracardiac abnormalities and malformations as well as its influence on the prenatal consultation.Methods: It was a retrospective analysis of 113 patients with prenatally diagnosed AVSD. The group was selected out of 871 patients with CHD. Out of 113 fetuses with AVSD we exclude those in whom AVSD was coexistent with other cardiac malformations (n = 41). Extracardiac abnormalities [ECA] were defined as problems which do not require surgical intervention after delivery, they were usually markers of a genetic syndrome. Extracardiac malformations [ECM] were defined as problems requiring surgical interventions after delivery or lethal malformations. All 72 fetuses with an isolated AVSD were classified to one of the three groups: (1) Simple AVSD - (sAVSD) - a fetus with isolated AVSD without coexisting ECA and ECM (n = 6), (2) sAVSD + ECA - a fetus with isolated AVSD, with coexisting ECA (n = 28), (3) sAVSD + ECM - a fetus with isolated AVSD, with coexisting ECM (n = 38).Results: The pregnancy from the groups sAVSD + ECM were, in fact, more often referred to the prenatal cardiology centers on account of the existing ECM (p=.03). There were no differences between the two subgroups in regard to: the mean age of the pregnancy, the mean age of the fetus at the time of diagnosis and during diagnostic testing at the referral center, the gender of the fetus. An increased nuchal translucency (NT) was most often found in fetuses from the group AVSD + ECA (n = 13/23), which was connected with more frequent occurrence of abnormal karyotype (p=.048). The trisomy 21 more frequently referred to pregnancy with sAVSD + ECA than those with sAVSD + ECM (p=.0006). In the group sAVSD + ECM there was the highest number of fetuses small for the gestational age detected -48.65% (p=.01). Most often premature deliveries were found in the group sAVSD + ECM (72.73%). The duration of gestation in the group sAVSD + ECM turned out to be much shorter than that in the group with the isolated sAVSD (p=.01) and sAVSD + ECA (p=.03). The lowest Apgar score was in the newborns from the group sAVSD + ECM (p=.002). Longer period of gestation was connected with the higher score on Apgar scale (R = 0.541; p=.001). The average delivery weight of the newborns was the lowest in the group sAVSD + ECM (p=.04). sAVSD + ECM was connected with the significantly higher death rate than the isolated sAVSD (p=.0047) or sAVSD + ECA (p<.00001). The fatality rate of the newborns/ fetuses from the pregnancies lasting less than 37 weeks turned out to be much higher than in the case of the remaining pregnancies (sAVSD p=.002).Conclusions: (1) The majority of fetuses with AVSD remained the patients of just obstetricians and prenatal cardiologists because of highly heterogeneous of the coexisting malformations and abnormalities and since they perish in the period of fetal or neonatal life usually they are not seen by the pediatricians or cardiac surgeons. (2) The classification of the AVSD in fetus to a particular group of the prognostic classification of the fetal heart defects helps to plan perinatal management and supplies information regarding the prognosis. (3) The highest mortality rate was in a group of AVSD + ECM, probably due to shorter time of pregnancy duration, fetuses grow restriction and low Apgar score in 1 minute of life.",
+      "mesh_terms": [
+        "Female",
+        "Fetal Diseases",
+        "Heart Defects, Congenital",
+        "Heart Septal Defects",
+        "Humans",
+        "Infant, Newborn",
+        "Pregnancy",
+        "Retrospective Studies",
+        "Ultrasonography, Prenatal"
+      ]
+    },
+    {
+      "pmid": "30268863",
+      "title": "Apoptosis and autophagy induced by DVDMs-PDT on human esophageal cancer Eca-109 cells.",
+      "authors": [
+        "Yin Shi",
+        "Boli Zhang",
+        "Xiaolan Feng",
+        "Fei Qu",
+        "Shuang Wang",
+        "Lijie Wu",
+        "Xiaobing Wang",
+        "Quanhong Liu",
+        "Pan Wang",
+        "Kun Zhang"
+      ],
+      "journal": "Photodiagnosis and photodynamic therapy",
+      "publication_date": "2018-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Esophageal cancer is a common gastrointestinal cancer. About 300,000 people die from esophageal cancer every year in the world. Photodynamic therapy (PDT) has attracted attention as a feasible cancer therap for this diagnosis. Sinoporphyrin sodium (DVDMs) is a novel sensitizer isolated from photofrin. In this study, we aimed to investigate the effects of DVDMs mediated photodynamic therapy and the possible mechanism on human esophageal cancer Eca-109 cells. METHODS: Cell viability was measured by MTT assay and cell apoptosis was determined by Annexin V-PE/7-AAD and western blot. MDC staining and western blot were used to evaluate cell autophagy. The production of intracellular reactive oxygen species (ROS) was detected by flow cytometry. The expression of MAPK and HO-1 were detected by western blot. RESULTS: DVDMs-PDT decreased cell viability and induced cell apoptosis and autophagy. Autophagy inhibition reduced cell apoptosis triggered by DVDMs-PDT in Eca-109 cells. Generation of ROS was detected in DVDMs-PDT group. p38MAPK, JNK and HO-1 were activated after PDT treatment and the activation were reversed by adding ROS scavenger NAC. CONCLUSIONS: Our studies demonstrated that DVDMs-PDT induced apoptosis and autophagy in Eca-109 cells. DVDMs-PDT induced ROS generation in Eca-109 cells, and the generation of ROS activated p38MAPK and JNK. Activation of p38MAPK and JNK may be involved in PDT-induced apoptosis.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Autophagy",
+        "Cell Line, Tumor",
+        "Esophageal Neoplasms",
+        "Heme Oxygenase-1",
+        "Humans",
+        "Lasers, Semiconductor",
+        "Photochemotherapy",
+        "Photosensitizing Agents",
+        "Porphyrins",
+        "Reactive Oxygen Species",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "30250568",
+      "title": "Liriodenine enhances radiosensitivity in esophageal cancer ECA-109 cells by inducing apoptosis and G2/M arrest.",
+      "authors": [
+        "Gang Wu",
+        "Guangzong Chen",
+        "Jialiang Zhou",
+        "Hongcheng Zhu",
+        "Jianjun Chu",
+        "Fuzheng Zhang"
+      ],
+      "journal": "Oncology letters",
+      "publication_date": "2018-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "At present, chemotherapy and radiotherapy represent the primary modalities of treatment for patients with unresectable esophageal squamous cell carcinoma (ESCC). However, the outcome of patients remains poor owing to radioresistance. The present study aimed to determine the radiosensitizing effect of liriodenine, an aporphine alkaloid derived from Enicosanthellum pulchrum, and investigating the underlying mechanisms in ESCC, using the esophageal cancer ECA-109 cell line. Cellular proliferation was evaluated using the Cell Counting kit-8 assay. Colony formation assay was performed to characterize the radiosensitive effects of liriodenine on ECA-109 cells, and flow cytometry was used to detect the percentage of cells undergoing apoptosis. An immunofluorescence assay was utilized to evaluate the DNA damage repair ability. Western blotting was used to assess the protein levels of caspase-3, B cell lymphoma-2 (Bcl-2) and Bcl-2-associated X (Bax). Liriodenine dose-dependently inhibited ECA-109 cell viability. The clonogenic survival assay demonstrated that liriodenine increased the radiosensitivity of ESCC cells, with a sensitization enhancement ratio of 1.11-1.69. The results of flow cytometry demonstrated that liriodenine induced apoptosis and G2/M arrest. The immunofluorescence assay revealed that liriodenine delays DNA damage repair. The upregulation of Bax and Caspase-3, and the suppression of Bcl-2 confirmed that apoptosis was occurring. Liriodenine radiosensitizes ECA-109 cells by inducing apoptosis and G2/M arrest. The findings of the present study indicated that liriodenine may represent an anticancer agent with promising potential for the treatment of ESCC."
+    },
+    {
+      "pmid": "35539191",
+      "title": "Hesperetin inhibits Eca-109 cell proliferation and invasion by suppressing the PI3K/AKT signaling pathway and synergistically enhances the anti-tumor effect of 5-fluorouracil on esophageal cancer in vitro and in vivo.",
+      "authors": [
+        "Dandan Wu",
+        "Jiao Li",
+        "Xue Hu",
+        "Jingjing Ma",
+        "Weiguo Dong"
+      ],
+      "journal": "RSC advances",
+      "publication_date": "2018-Jul-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previously, we reported that hesperetin exhibited pro-apoptotic activity against esophageal cancer in vitro and in vivo. Here, we examined whether hesperetin inhibits cell proliferation and invasion and synergistically enhances the anti-tumor effect of 5-fluorouracil (5-FU) in esophageal cancer. Flow cytometry, EdU staining, and transwell invasion assays using Eca-109 cells showed that hesperetin induced cell cycle arrest at the G0/G1 phase and inhibited cell proliferation and invasion significantly. Moreover, hesperetin suppressed the expression of phosphorylated PI3K/AKT, cyclin D1, MMP-2, and MMP-9 and increased phosphorylated PTEN and p21 in Eca-109 cells. Hesperetin combined with 5-FU inhibited cell growth more effectively than did either drug alone in Eca-109 cells and in a xenograft mouse model. Hoechst 33258, Annexin V-PE/7-ADD double staining and TUNEL assay showed more apoptotic cells in the combination treatment group than in either individual treatment group. The combination down-regulated protein levels of Bcl-2 and up-regulated those of Bax, cleaved caspase-3, and cleaved caspase-9 more effectively than did either drug alone. These data suggest that hesperetin inhibited esophageal cancer cell proliferation and invasion by suppressing the PI3K/AKT signaling pathway. In conclusion, 5-FU and hesperetin exerted synergistic antitumor effects in vivo and in vitro and could constitute a novel therapeutic approach for esophageal cancer."
+    },
+    {
+      "pmid": "29620258",
+      "title": "Autophagy inhibition enhances radiosensitivity of Eca‑109 cells via the mitochondrial apoptosis pathway.",
+      "authors": [
+        "Hua Tao",
+        "Pudong Qian",
+        "Jincheng Lu",
+        "Yesong Guo",
+        "Huanfeng Zhu",
+        "Feijiang Wang"
+      ],
+      "journal": "International journal of oncology",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Autophagy inhibition is crucial for the improvement of the efficacy of radiotherapy in cancer. The aim of the present study was to determine the potential therapeutic value of autophagy and its correlation with mitochondria in human esophageal carcinoma cells following treatment with ionizing radiation (IR). Autophagy in Eca‑109 cells was induced under poor nutrient conditions. The formation of autophagic vacuoles was monitored using electron microscopy. In addition, cell apoptosis after IR and mitochondrial membrane potential (MMP) were analyzed by flow cytometry. LC3, beclin‑1, cytochrome c and apoptosis-related proteins were assayed by western blotting. A nude mouse xenograft model was also employed to verify the biological effects and mechanisms underlying autophagy in vivo. The formed autophagic vesicles and increased LC3 II/LC3 I ratio indicated marked induction of autophagy by Earle's balanced salt solution (EBSS) in Eca‑109 cells. 3‑Methyladenine or LY294002 significantly antagonized EBSS-induced autophagy and increased apoptosis of irradiated cells, suggesting that autophagy inhibition conferred radiosensitivity in vitro. Notably, IR induced prominent release of cytochrome c and Bax activation, and decreased Bcl-2 and MMP expression in Eca‑109 cells under poor nutrient conditions. Of note, these changes were more prominent following pretreatment with autophagy inhibitors. In vivo, IR treatment mildly delayed tumor growth, but the radiotherapeutic effect was improved significantly by abolishing autophagy. Furthermore, mitochondrial signaling was investigated in the Eca‑109 xenograft nude mice model, and the results were consistent with the in vitro study. Therefore, the mitochondrial pathway may be associated with improvement of radiosensitivity in Eca‑109 cells.",
+      "mesh_terms": [
+        "Adenine",
+        "Animals",
+        "Autophagy",
+        "Cell Line, Tumor",
+        "Chromones",
+        "Esophageal Neoplasms",
+        "Gene Regulatory Networks",
+        "Humans",
+        "Membrane Potential, Mitochondrial",
+        "Mice",
+        "Mice, Nude",
+        "Morpholines",
+        "Radiation Tolerance",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "29532532",
+      "title": "Induction of keratinocyte migration by ECa 233 is mediated through FAK/Akt, ERK, and p38 MAPK signaling.",
+      "authors": [
+        "Sawana Singkhorn",
+        "Mayuree H Tantisira",
+        "Supita Tanasawet",
+        "Pilaiwanwadee Hutamekalin",
+        "Tulaporn Wongtawatchai",
+        "Wanida Sukketsiri"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2018-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Centella asiatica is widely considered the most important medicinal plant for treating and relieving skin diseases. Recently developed standardized extract of Centella asiatica ECa 233 has demonstrated positive effects on wound healing of incision and burn wound in rats. However, knowledge associated with wound healing mechanism of ECa 233 was scare. Therefore, this study aimed to investigate the effect and underlying molecular mechanisms of ECa 233 on the migration of a human keratinocyte cell line (HaCaT) using scratch wound healing assay. Formation of filopodia, a key protein in cell migration as well as signaling pathways possibly involved were subsequently assessed. It was found that HaCaT cell migration was significantly enhanced by ECa 233 in a concentration- and time-dependent manner. The filopodia formations were accordingly increased in exposure to ECa 233 at concentrations of 0.1-100 μg/ml. Furthermore, ECa 233 was found to significantly upregulate the expression of Rac1 and RhoA and to induce phosphorylation of FAK and Akt as well as ERK and p38 MAPK. Taken all together, it is suggestive that ECa 233 induces cell migration and subsequently promotes wound healing activity, through the activation of FAK, Akt, and MAPK signaling pathways thereby supporting the role of ECa 233 to be further developed for the clinical treatment of wound.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Movement",
+        "Humans",
+        "Keratinocytes",
+        "Male",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Proto-Oncogene Proteins c-akt",
+        "Rats",
+        "p38 Mitogen-Activated Protein Kinases"
+      ]
+    },
+    {
+      "pmid": "29434854",
+      "title": "Celastrus orbiculatus extracts induce cell cycle arrest and apoptosis in human esophageal squamous carcinoma ECA-109 cells in vitro via the PI3K/AKT/mTOR signaling pathway.",
+      "authors": [
+        "Feng Jin",
+        "Guang Zhu",
+        "Dan Li",
+        "Tengyang Ni",
+        "Xiaojun Dai",
+        "Haibo Wang",
+        "Jun Feng",
+        "Yayun Qian",
+        "Lin Yang",
+        "Shiyu Guo",
+        "Tadashi Hisamitsu",
+        "Yanqing Liu"
+      ],
+      "journal": "Oncology letters",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recently, Celastrus orbiculatus ethyl acetate extracts (COE) have been investigated for their anticancer effects on digestive tract tumors. However, the therapeutic effects of COE on esophageal squamous carcinoma cells (ESCC) have not been investigated. In the present study, the effects of COE on the cell cycle and apoptosis of ESCCs were assessed in vitro, and it was revealed that COE treatment triggered G0/G1 cell cycle arrest, and induced DNA damage and apoptosis in a dose-dependent manner in ESCC. Activation of the phosphatidylinositol 3-kinase/protein kinase-B/mechanistic target of rapamycin (mTOR) pathway was also suppressed by COE. Additionally, the combined treatment with COE and rapamycin (an mTOR inhibitor) acted synergistically in ECA-109 cells compared with the treatment with COE or rapamycin alone. These findings extend the understanding of the action of COE and suggest that COE has potential as a treatment option for ESCC as a single treatment or in combination."
+    },
+    {
+      "pmid": "29138856",
+      "title": "Differentially expressed proteins in the human esophageal cancer cell line Eca‑109, in the presence and absence of gemcitabine.",
+      "authors": [
+        "Zenghuang Ma",
+        "Xiaojie Xue"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "The present study aimed to screen and study the roles of differentially expressed proteins in the human esophageal cancer cell line Eca‑109, in the presence and absence of gemcitabine (GEM). The 3‑(4,5)‑dimethylthiahiazo (-z-y1)-3,5-di-phenytetrazoliumromide (MTT) method was used to assay the vitality of the Eca‑109 cells following treatment with GEM (1‑16 µg/ml). The cell apoptosis was measured by using fluorescence activated cell sorting. The proteins in the treated Eca‑109 cells were extracted, validated, and assayed via two‑dimensional gel electrophoresis combined with matrix‑assisted laser desorption/ionization time of flight mass spectrometry (MALDI‑TOF‑MS). The differentially expressed proteins were then determined by western blotting. Furthermore, alterations in mitochondrial ultrastructure of the treated cells were observed under a transmission electron microscope. GEM significantly inhibited the growth of the Eca‑109 cells in a concentration‑ and time‑dependent manner, and the 50% inhibition concentration (IC50) value was 3.87 µg/ml. The MALDI‑TOF‑MS analysis revealed that there were three differentially expressed proteins following the GEM treatment, compared with the control. The differential proteins were verified to be B cell lymphoma‑2 associated X, apoptosis regulator (Bax)‑α, apoptosis‑associated speck‑like protein containing a CARD (ASC) and myeloid cell leukemia sequence (Mcl)‑1. Western blotting revealed that the expression levels of ASC and Bax‑α proteins in the treated cancer cells were significantly upregulated, whereas the Mcl‑1 protein expression was markedly downregulated compared with the control. Furthermore, the GEM treatment destroyed the mitochondrial ultrastructure of the cancer cells, leaving swelled mitochondria, a fading matrix and destroyed the mitochondrial cristae. GEM significantly inhibits the growth and promotes apoptosis of the Eca‑109 cells, due to the alterations in the expression levels of the differential proteins, including ASC, Mcl‑1 and Bax‑α.",
+      "mesh_terms": [
+        "Antimetabolites, Antineoplastic",
+        "Apoptosis",
+        "CARD Signaling Adaptor Proteins",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Deoxycytidine",
+        "Esophageal Neoplasms",
+        "Gene Expression",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Mitochondria",
+        "Myeloid Cell Leukemia Sequence 1 Protein",
+        "bcl-2-Associated X Protein",
+        "Gemcitabine"
+      ]
+    },
+    {
+      "pmid": "28864779",
+      "title": "RNAi-mediated TCF-3 gene silencing inhibits proliferation of Eca-109 esophageal cancer cells by inducing apoptosis.",
+      "authors": [
+        "Jie Ma",
+        "Xian-Bin Wang",
+        "Rui Li",
+        "Shu-Hong Xuan",
+        "Fang Wang",
+        "Xin-Hua Li",
+        "Zhi-Ping Zhang",
+        "Lu Tan",
+        "Lian Li"
+      ],
+      "journal": "Bioscience reports",
+      "publication_date": "2017-Dec-22",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "abstract": "Esophageal cancer (EC) remains an important health problem in China. In the present study, through the use of siRNA, specific gene knockdown of transcription factor 3 gene (TCF-3) was achieved in vitro and the effect of TCF-3 gene on human EC Eca-109 cell proliferation and apoptosis. Eca-109 cells were treated using negative control (NC) of siRNA against TCF-3 (siTCF-3) and siTCF-3 group. Colony formation assay was used to detect the colony formation ability in Eca-109 cells. MTT assay was used to measure the cell growth and viability, whereas BrDU assay was used to evaluate cell proliferation, and flow cytometry (FCM) to assess cell apoptosis. Reverse-transcription quantitative PCR (RT-qPCR) was applied to measure TCF-3 gene expression. Protein expressions of TCF-3, apoptosis-related proteins, Bcl-2, Bax, and caspase-3 were determined using Western blotting. Transfection of siTCF-3 successfully down-regulated TCF-3 gene expression. In addition, siTCF-3, reduced Eca-109 cell viability and proliferation, in a time-dependent manner, and inhibited progression of cell cycle from G0/G1 to S-stage. When treated with siTCF-3, the Eca-109 cells exhibited increased apoptosis, with up-regulated cleaved caspase and Bax expressions, whereas Bcl-2 expression was down-regulated. The present study shows that TCF-3 gene silencing inhibits Eca-109 cell growth and proliferation, suppresses cell cycle progression, and promotes apoptosis, which might serve as a new objective for EC treatment.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Basic Helix-Loop-Helix Transcription Factors",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Esophagus",
+        "G1 Phase Cell Cycle Checkpoints",
+        "Gene Expression Regulation, Neoplastic",
+        "Gene Silencing",
+        "Humans",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "RNA, Small Interfering",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "28393186",
+      "title": "A novel 5-fluorouracil-resistant human esophageal squamous cell carcinoma cell line Eca-109/5-FU with significant drug resistance-related characteristics.",
+      "authors": [
+        "Chi Zhang",
+        "Qunfeng Ma",
+        "Yinan Shi",
+        "Xue Li",
+        "Ming Wang",
+        "Junfeng Wang",
+        "Jianlin Ge",
+        "Zhinan Chen",
+        "Ziling Wang",
+        "Hong Jiang"
+      ],
+      "journal": "Oncology reports",
+      "publication_date": "2017-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "5-Fluorouracil (5-FU) is used for the clinical treatment of esophageal squamous cell carcinomas (ESCCs), yet it also induces chemoresistant cancer cells during treatment, which leads to the failure of the therapy. To further explore the resistance mechanism of 5-FU in ESCC, we established the 5-FU-resistant ESCC cell line Eca-109/5-FU, which was prepared by the stepwise exposure to increasing 5-FU concentrations. MTT assay and nude mouse xenograft models were used to test the drug resistance and proliferation of Eca-109 and Eca-109/5-FU cells in vitro and in vivo. Apoptosis and cell cycle distribution were determined using flow cytometry. Drug resistance-related proteins were detected by western blotting. Metabolomic profiles were obtained from nuclear magnetic resonance (NMR) tests. In regards to Eca-109/5-FU, the decreased susceptibility to 5-FU was determined in vitro and in vivo with slower rate of proliferation. Drug resistance-related proteins (multidrug resistance-associated protein 1 and ATP-binding cassette superfamily G member 2), epithelial-to-mesenchymal transition (EMT)-related proteins (E-cadherin and vimentin) and cancer stem cell-related proteins (prominin-1 and hyaluronate receptor) exhibited significant differences between the two cell lines. The 5-FU-resistant cell line Eca-109/5-FU achieved the ability to tolerate 5-FU, which may depend on significant drug resistance-related characteristics, such as EMT and cancer stem cell-like properties. The metabolism of Eca-109/5-FU was altered, and more than 15 metabolites was found to contribute to the difference in the metabolite profile, such as lactate, glutamate, taurine, glutamine, proline, aspartate, methanol, cystine, glycine and uracil. Our results identified that the resistant cell line Eca-109/5-FU showed quite different characteristics compared with the parental Eca-109 cells. The Eca-109/5-FU cell line provides an experimental model for further steps to select chemotherapeutic sensitizers.",
+      "mesh_terms": [
+        "Animals",
+        "Carcinoma, Squamous Cell",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Drug Resistance, Neoplasm",
+        "Epithelial-Mesenchymal Transition",
+        "Esophageal Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Fluorouracil",
+        "Humans",
+        "Metabolomics",
+        "Mice",
+        "Nuclear Magnetic Resonance, Biomolecular",
+        "Xenograft Model Antitumor Assays"
+      ]
+    },
+    {
+      "pmid": "27868409",
+      "title": "[Effect of RAD18-siRNA on proliferation and chemotherapy sensitivity of human esophageal squamous cell carcinoma ECA-109 cells].",
+      "authors": [
+        "Pengrong Lou",
+        "Xiaonan Sun",
+        "Jundong Zhou",
+        "Shitao Zou"
+      ],
+      "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+      "publication_date": "2016-May-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective: To investigate the effect of RAD18-siRNA on cell proliferation and chemotherapy sensitivity of esophageal squamous cell carcinoma (ESCC) ECA-109 cells. Methods: RAD18-siRNA was transfected into human ECA-109 cells by Lipofectamine 3000. Quantitative PCR and Western blot were performed to detect RAD18 and CyclinD1 expression; CCK-8 assay was used to determine cell proliferation and chemotherapy drug sensitivity; flow cytometry was used to determine cell cycle. Correlation between RAD18 and CyclinD1 mRNA expression was analyzed by Pearson's correlation. Results: Compared with non-transfected cells, the expression of RAD18 in RAD18-siRNA group was significantly decreased (P<0.05). The cell proliferation was inhibited (P<0.05) and the cell number of G1 phase was increased, G2/M phase cells decreased (P<0.05) in RAD18-siRNA group. After treatment with different concentrations of cisplatin or 5-FU, the survival rate of the two cell groups was reduced (all P<0.05), and the IC50 of RAD18-siRNA group was significantly lower than that of non-transfected group (P<0.05). The mRNA expression of RAD18 was positively correlated with CyclinD1 expression in ESCC tissues(r=0.478, P<0.01). Conclusion: Down-regulated expression of RAD18 can decrease the cell proliferation and increase chemo-sensitivity of ESCC cells, and CyclinD1 may participate in the process.",
+      "mesh_terms": [
+        "Adjuvants, Pharmaceutic",
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cisplatin",
+        "Cyclin D1",
+        "DNA-Binding Proteins",
+        "Down-Regulation",
+        "Drug Resistance, Neoplasm",
+        "Drug Screening Assays, Antitumor",
+        "Drug Synergism",
+        "Esophageal Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Fluorouracil",
+        "G1 Phase",
+        "G2 Phase",
+        "Humans",
+        "Metaphase",
+        "RNA, Small Interfering",
+        "Transfection",
+        "Ubiquitin-Protein Ligases"
+      ]
+    },
+    {
+      "pmid": "27363277",
+      "title": "[Evodiamine enhances the radiosensitivity of esophageal squamous cell cancer Eca-109 cells].",
+      "authors": [
+        "Hui Feng",
+        "Baorui Guo",
+        "Xiangmei Kong",
+        "Biao Wu"
+      ],
+      "journal": "Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology",
+      "publication_date": "2016-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective To investigate the effect of evodiamine on the radiosensitivity of esophageal squamous cell cancer Eca-109 cells. Methods Eca-109 cells were treated with various concentrations of evodiamine [(10, 20, 40, 60, 80, 100, 120) μg/mL], and then cell proliferation was examined by MTT assay. After the optimal evodiamine concentration was determined, the cells were divided into radiation group (0, 2, 4, 6, 8 Gy X-ray radiation) and radiation combined with evodiamine group (80 μg/mL evodiamine and 0, 2, 4, 6, 8 Gy X-ray radiation) .The radiosensitivity of Eca-109 cells was detected using colony formation assay. Flow cytometry was used to determine cell cycle of Eca-109 cells. The protein expressions of Ku70, Ku80, DNA-PKcs and Rad51 were examined by Western blotting. Results MTT assay showed that evodiamine decreased the proliferation of Eca-109 cells in a concentration-dependent manner. The inhibition reached the maximal level at 80 μg/mL. Compared with radiotherapy alone, the combination of 80 μg/mL evodiamine and radiotherapy improved survival curve and decreased the values of D0 and Dq. Sensitizer enhancement ratio was 1.86±0.06. Furthermore, cell cycle analysis revealed that evodiamine suppressed radiotherapy-induced the G2/M arrest. Additionally, evodiamine treatment also significantly inhibited radiotherapy-induced increase in Ku70, Ku80, DNA-PKcs and Rad51 expressions. Conclusion Evodiamine enhances radiosensitivity of Eca-109 cells during radiotherapy. The effect may be associated with the inhibition of G2/M arrest and the attenuation of Ku70, Ku80, DNA-PKcs and Rad51 expressions.",
+      "mesh_terms": [
+        "Blotting, Western",
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "DNA-Activated Protein Kinase",
+        "Dose-Response Relationship, Drug",
+        "Dose-Response Relationship, Radiation",
+        "Esophageal Neoplasms",
+        "Humans",
+        "Ku Autoantigen",
+        "Nuclear Proteins",
+        "Plant Extracts",
+        "Quinazolines",
+        "Rad51 Recombinase",
+        "Radiation Tolerance",
+        "X-Rays"
+      ]
+    },
+    {
+      "pmid": "27270144",
+      "title": "[A Case of ECA-MCA Double Anastomoses for Hemorrhagic Type of Twig-Like MCA].",
+      "authors": [
+        "Akihiro Inoue",
+        "Kanehisa Kohno",
+        "Shinya Fukumoto",
+        "Haruhisa Ichikawa",
+        "Shinji Onoue",
+        "Hajime Miyazaki",
+        "Saya Ozaki",
+        "Shinji Iwata"
+      ],
+      "journal": "No shinkei geka. Neurological surgery",
+      "publication_date": "2016-Jun",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Herein, we describe the case of a superficial temporal artery(STA)- and occipital artery (OA)-middle cerebral artery (MCA) double anastomoses that we performed to treat a hemorrhagic twig-like MCA. A 55-year-old man presented to our hospital for investigation of an incidentally identified left MCA occlusion. Left cerebral angiography revealed a twig-like MCA. The (123)I-IMP-single photon emission computed tomography( SPECT) demonstrated no reduction in the cerebral blood flow (CBF), so the patient was initially observed with no treatment. Three months later, he was readmitted with a disturbance of consciousness. The cranial computed tomography revealed a subcortical hemorrhage in the left frontotemporal region and a subdural hematoma. The hematoma was removed via emergency craniotomy. The abnormal vessels were identified and resected, but the parietal branch of the STA was damaged during the skin incision. The histological examination did not reveal the marked fibrous thickening of the intima or wavy internal elastic lamina typically seen with Moyamoya disease. Six months after the initial surgery, a STA-MCA bypass surgery was planned to prevent a future hemorrhage by reducing the hemodynamic overload of the twig-like MCA and improving the cerebral ischemia in the MCA territory that was detected on the preoperative SPECT. However, the parietal branch of the left STA had been injured during the first operation, so we performed a double anastomoses to the MCA using the frontal branch of the STA and the OA. The patient's postoperative course was uneventful and he was discharged 2 weeks after surgery. The follow-up study performed 1 year postoperatively demonstrated no evidence of cerebral infarction and revealed an improvement in the resting CBF and vascular reactivity in the left cerebral hemisphere. No subsequent cerebrovascular events have occurred in this patient during the 7 years since the double anastomoses surgery. Direct bypass for flow conversion from the internal carotid artery to the external carotid artery can be an indispensable treatment for patients with a hemorrhagic twig-like MCA.",
+      "mesh_terms": [
+        "Anastomosis, Surgical",
+        "Cerebral Angiography",
+        "Cerebral Arterial Diseases",
+        "Cerebral Hemorrhage",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Middle Cerebral Artery",
+        "Neurosurgical Procedures",
+        "Tomography, Emission-Computed, Single-Photon"
+      ]
+    },
+    {
+      "pmid": "27078502",
+      "title": "Costunolide Induces Apoptosis through Generation of ROS and Activation of P53 in Human Esophageal Cancer Eca-109 Cells.",
+      "authors": [
+        "Peiyan Hua",
+        "Mei Sun",
+        "Guangxin Zhang",
+        "Yifan Zhang",
+        "Ge Song",
+        "Zhenyu Liu",
+        "Xin Li",
+        "Xingyi Zhang",
+        "Bingjin Li"
+      ],
+      "journal": "Journal of biochemical and molecular toxicology",
+      "publication_date": "2016-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Costunolide is a sesquiterpene lactone, which possesses potent anti-cancer properties. However, there is little report about its effects on esophageal cancer. In our study, we investigated the effects of costunolide on the cell viability, cell cycle, and apoptosis in human esophageal cancer Eca-109 cells. It was found that costunolide inhibited the growth of Eca-109 cells in a dose-dependent manner, which was associated with the loss of mitochondrial membrane potential (Δψm ) and the production of ROS. Costunolide induced apoptosis of Eca-109 cells as well as cell cycle arrest in G1/S phase by upregulation of P53 and P21. Costunolide triggered apoptosis in esophageal cancer cells via the upregulation of Bax, downregulation of Bcl-2, and significant activation of caspase-3 and poly ADP-ribose polymerase. These effects were markedly abrogated when cells were pretreated with N-acetylcysteine, a specific reactive oxygen specie inhibitor. These results suggest that costunolide is a potential candidate for the treatment of esophageal cancer.",
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Dose-Response Relationship, Drug",
+        "Epithelial Cells",
+        "Esophagus",
+        "Free Radical Scavengers",
+        "G1 Phase Cell Cycle Checkpoints",
+        "Gene Expression Regulation",
+        "Humans",
+        "Membrane Potential, Mitochondrial",
+        "Mitochondria",
+        "Poly(ADP-ribose) Polymerases",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Reactive Oxygen Species",
+        "Sesquiterpenes",
+        "Signal Transduction",
+        "Tumor Suppressor Protein p53",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "26782519",
+      "title": "Effects of stathmin 1 silencing by siRNA on sensitivity of esophageal cancer cells Eca-109 to paclitaxel.",
+      "authors": [
+        "H W Zhu",
+        "D Jiang",
+        "Z Y Xie",
+        "M H Zhou",
+        "D Y Sun",
+        "Y G Zhao"
+      ],
+      "journal": "Genetics and molecular research : GMR",
+      "publication_date": "2015-Dec-29",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We investigated the effects of stathmin 1 (STMN1) silencing by small interfering (siRNA) on the sensitivity of esophageal cancer cells Eca-109 to paclitaxel. STMN1 siRNA was transiently transfected into Eca-109 cells. The effects of transfection were detected by quantitative polymerase chain reaction and western blotting. The effects of STMN1 silencing by siRNA on the sensitivity of esophageal cancer cells Eca-109 to paclitaxel was tested by MTT and colony formation assays. Hoechst 33258 nuclear staining was used to investigate the differences in Eca-109 cell apoptosis induced by paclitaxel. STMN1 siRNA was successfully transfected and the expression of STMN1 was inhibited. The sensitivity of STMN1 siRNA-transfected Eca-109 cells to paclitaxel was significantly increased (P < 0.01). The apoptosis of Eca-109 cells significantly increased following treatment with paclitaxel (P < 0.01). STMN1 silencing by siRNA may enhance the sensitivity of esophageal cancer cells Eca-109 to paclitaxel and induce apoptosis.",
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Drug Resistance, Neoplasm",
+        "Esophageal Neoplasms",
+        "Gene Expression",
+        "Gene Silencing",
+        "Humans",
+        "Paclitaxel",
+        "RNA, Messenger",
+        "RNA, Small Interfering",
+        "Stathmin",
+        "Transfection"
+      ]
+    },
+    {
+      "pmid": "26647768",
+      "title": "Heterophyllin B inhibits the adhesion and invasion of ECA-109 human esophageal carcinoma cells by targeting PI3K/AKT/β-catenin signaling.",
+      "authors": [
+        "Ji-Cheng Tantai",
+        "Yao Zhang",
+        "Heng Zhao"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2016-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The present study aimed to measure the effect of heterophyllin B (HB) on the adhesion and invasion of ECA-109 human esophageal carcinoma cells, and examine the possible mechanism involved. A Cell Counting kit 8 assay was performed to determine the cell viability. Cell adhesion and invasion were determined following treatment of the ECA-109 cells with HB (0, 10, 25 and 50 µM) for 24 h. The levels of phosphorylated (p-)ATK and p-phosphoinositide 3-kinase (PI3K), and the protein levels of β-catenin were measured using western blot analysis. The mRNA and protein expression levels of E-cadherin, vimentin, snail, matrix metalloproteinase (MMP)2 and MMP9 were detected using reverse transcription-quantitative polymerase chain reaction and western blot analyses, respectively. HB (10, 25 and 50 µM) significantly suppressed the adhesion and invasion of the ECA-109 human esophageal carcinoma cells in a dose-dependant manner. The expression levels of p-ATK, p-PI3K and β-catenin were markedly decreased. The expression of E-cadherin was promoted, whereas the expression levels of snail, vimentin, MMP 2 and MMP 9 were decreased significantly in the ECA-109 cells treated with HB. In addition, HB inhibited the adhesion and invasion induced by PI3K activating peptide in the ECA-109 cells, and the protein expression levels were also adjusted. These results suggested that HB effectively suppressed the adhesion and invasion of the human esophageal carcinoma cells by mediating the PI3K/AKT/β-catenin pathways and regulating the expression levels of adhesion- and invasion-associated genes.",
+      "mesh_terms": [
+        "Cadherins",
+        "Cell Adhesion",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Esophageal Neoplasms",
+        "Humans",
+        "Matrix Metalloproteinase 2",
+        "Matrix Metalloproteinase 9",
+        "Neoplasm Invasiveness",
+        "Peptides, Cyclic",
+        "Phosphatidylinositol 3-Kinases",
+        "Phosphorylation",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction",
+        "Snail Family Transcription Factors",
+        "Transcription Factors",
+        "Vimentin",
+        "beta Catenin"
+      ]
+    },
+    {
+      "pmid": "26111682",
+      "title": "[Inhibitory effect of 17-AAG combined with paclitaxel on proliferation of esophageal squamous cell carcinoma Eca-109 cells in vitro].",
+      "authors": [
+        "Size Chen",
+        "Xuemei Chen",
+        "Yuqi Li",
+        "Shu Yang",
+        "Xianyi Mo",
+        "Fan Zhang",
+        "Kailan Mo",
+        "Ying Ding"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effect of 17-AAG combined with paclitaxel (PTX) on the proliferation and apoptosis of esophageal squamous cell carcinoma cell line Eca-109 in vitro. METHODS: Eca-109 cells were treated with 17-AAG and PTX either alone or in combination. The proliferation of Eca-109 cells was detected by MTT assay, and the cell cycle changes and cell apoptosis were determined by flow cytometry. RESULTS: Compared with the control group, both 17-AAG and PTX significantly inhibited the proliferation of Eca-109 cells. A combined treatment of the cells with 0.5 µmol/L PTX and 0.625 µmol/L 17-AAG produced an obviously stronger inhibitory effect on the cell proliferation than either of the agents used alone (P<0.01). Flow cytometry showed that, 17-AAG and PTX used alone caused Eca-109 cell cycle arrest in G2/M phase and S phase, respectively, and their combined use caused cell cycle arrest in both G2/M and S phases. The cell apoptosis rates of Eca-109 cells treated with 17-AAG, PTX and their combination were 4.52%, 10.91%, and 29.88%, respectively, all significantly higher than that in the control group (1.32%); the combined treatment resulted in a distinct apoptotic peak that was significantly higher than that caused by either of the agents alone. CONCLUSION: 17-AAG and PTX can inhibit cell proliferation and promote apoptosis of Eca-109 cells, and their combination produces stronger effects in inhibiting cell proliferation and increasing cell apoptosis.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Benzoquinones",
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle Checkpoints",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Esophageal Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Humans",
+        "Lactams, Macrocyclic",
+        "Paclitaxel"
+      ]
+    },
+    {
+      "pmid": "25550802",
+      "title": "Aquaporin-8 mediates human esophageal cancer Eca-109 cell migration via the EGFR-Erk1/2 pathway.",
+      "authors": [
+        "Heng Chang",
+        "Yong-Hua Shi",
+        "Tuo-Kan Talaf",
+        "Chen Lin"
+      ],
+      "journal": "International journal of clinical and experimental pathology",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Abnormal expression of aquaporins (AQPs) has been reported in several human cancers. Epidermal growth factor receptor (EGFR)-extracellular signal-regulated kinases1/2 (ERK1/2) are associated with tumorigenesis and cancer progression and may upregulate AQPs expression. In this study, we investigated acquaporin-8 expression and signaling via epidermal growth factor receptor-extracellular signal-regulated kinases1/2 in human esophageal cancer Eca-109 cells by western blot, immunofluorescence and wound healing (scratch) assays. Our results showed that epidermal growth factor (EGF) induced both Eca-109 migration and AQP8 expression. Wound healing results showed that cell migration was increased by 1.23-1.10-fold at 24 h and 48 h after EGF treatment. AQP8 expression was significantly increased (1.19-fold) at 48 h after EGF treatment in Eca-109. The EGFR kinase inhibitor, PD153035, blocked EGF-induced AQP8 expression and cell migration. AQP8 expression was decreased from 3.65-fold (EGF-treated) to 0.55-fold (PD153035-treated) in Eca-109. Furthermore, the MEK [MAPK (mitogen-activated protein kinase)/Erk1/2]/Erk1/2 inhibitor U0126 also inhibited EGF-induced AQP8 expression and cell migration. AQP8 expression was decreased from 3.92-fold (EGF-treated) to 1.38-fold (U0126-treated) in Eca-109. In conclusions, EGF induces AQP8 expression and cell migration in Eca-109 cells via the EGFR/Erk1/2 signal transduction pathway.",
+      "mesh_terms": [
+        "Aquaporins",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Epidermal Growth Factor",
+        "ErbB Receptors",
+        "Esophageal Neoplasms",
+        "Humans",
+        "MAP Kinase Signaling System",
+        "Wound Healing"
+      ]
+    },
+    {
+      "pmid": "25373317",
+      "title": "Effect of galectin-3 on the behavior of Eca‑109 human esophageal cancer cells.",
+      "authors": [
+        "Ning Liang",
+        "Xiaoming Song",
+        "Jian Xie",
+        "Deguo Xu",
+        "Fengjun Liu",
+        "Xinshuang Yu",
+        "Yuan Tian",
+        "Zhen Liu",
+        "Lili Qiao",
+        "Jiandong Zhang"
+      ],
+      "journal": "Molecular medicine reports",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Galectin-3, a β-galactoside-binding lectin, is a cell adhesion molecule involved in the regulation of tumor progression. However, the importance of galectin-3 in Eca-109 human esophageal cancer cells has not yet been elucidated. In the present study, a lentiviral vector was designed for overexpression of galectin-3 in Eca-109 cells following plasmid‑mediated transfection (Eca-109/Gal-3 cells). A negative lentiviral vector was introduced into Eca-109 cells as a control (Eca‑109/Neo cells). Western blot and reverse transcription-polymerase chain reaction analyses were used to measure the expression levels of galectin-3 protein and mRNA. The proliferation of Eca-109 cells was measured by a cell counting kit-8 assay. Eca-109 cell apoptosis was determined by Annexin V/7-amino-actinomycin double‑staining. The migration and invasion capacity of Eca-109 cells was determined by a Transwell assay. A total of >98% Eca-109 cells were transfected with the lentiviral vector harboring galectin-3, and galectin-3 expression was detected in Eca-109 cells, Eca-109/Gal-3 cells and Eca-109/Neo cells. Compared with non‑transfected and negative control Eca-109 cells, proliferation was increased significantly in the Eca-109/Gal-3 cells (P<0.05). Galectin-3 also significantly reduced Eca-109 cell apoptosis, compared with the two control groups (P=0.007 and P=0.04, respectively). Transwell migration and invasion assays revealed that significantly greater numbers of Eca-109/Gal-3 cells crossed the artificial basement membrane (55.4±3.9) compared with either the non-transfected or negative control Eca-109 cells (30.6±1.5 and 29±2.6 respectively, P<0.05). In conclusion, galectin-3 expression was significantly increased in transfected Eca-109 esophageal cancer cells, resulting in enhanced proliferation, migration and invasion, as well as reduced apoptosis. These data indicate that galectin-3 may be a potential molecular target in the treatment of esophageal cancer.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Cell Proliferation",
+        "Esophageal Neoplasms",
+        "Galectin 3",
+        "Genetic Vectors",
+        "Humans",
+        "Lentivirus"
+      ]
+    },
+    {
+      "pmid": "25371158",
+      "title": "A novel human interleukin-24 peptide created by computer-guided design contributes to suppression of proliferation in esophageal squamous cell carcinoma Eca-109 cells.",
+      "authors": [
+        "Qunfeng Ma",
+        "Xuefeng Deng",
+        "Bangming Jin",
+        "Yao Zhang",
+        "Dan Luo",
+        "Heyu Song",
+        "Pengkun Wang",
+        "Chi Zhang",
+        "Xue Li",
+        "Yinan Shi",
+        "Yan Liu",
+        "Zhinan Chen",
+        "Ziling Wang",
+        "Hong Jiang"
+      ],
+      "journal": "Oncology reports",
+      "publication_date": "2015-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Based on the three-dimensional modeling structure of human interleukin-24 (hIL-24) and its most likely active position predicted by solvent accessibility and apparent electrostatic properties, a novel hIL-24 peptide M1 was created by computer-guided molecular design. The cytotoxicity and cell selectivity of M1 were examined in three human carcinoma cell lines and one normal human embryo lung fibroblast cell line (HEL). MTT assay showed that M1 induced growth arrest in two IL-20 receptor complex-positive cancer cell lines (the esophageal squamous cell carcinoma cell line Eca-109 and the melanoma cell line A375), and antibodies against IL-24 or IL-20 receptor complexes significantly neutralized the inhibitory activity. Moreover, M1 had almost no cytotoxicity on the lung cancer A549 cell line, which lacks a full complement of the IL-20 receptor complexes, or on HEL cells that express the IL-20 receptor complexes. These findings demonstrate that M1 could act as an excellent candidate for the induction of growth arrest on receptor complex-positive cancer cells. In summary, the M1 peptide may represent a novel anticancer agent for esophageal squamous cell carcinoma therapy due to its cancer cell selectivity and its relatively low cytotoxicity to normal cells.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Carcinoma, Squamous Cell",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Computer-Aided Design",
+        "Drug Design",
+        "Esophageal Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Humans",
+        "Inhibitory Concentration 50",
+        "Interleukins",
+        "Models, Molecular",
+        "Protein Conformation"
+      ]
+    },
+    {
+      "pmid": "25187833",
+      "title": "Antisense oligodeoxynucleotide against human telomerase reverse transcriptase inhibits the proliferation of Eca-109 esophageal carcinoma cells.",
+      "authors": [
+        "Xiang-Kui Fan",
+        "Rui-Hua Yan",
+        "Bao-Jiang Li",
+        "Xiang-Ming Chen",
+        "Lin Wei",
+        "Zhou Wang"
+      ],
+      "journal": "Experimental and therapeutic medicine",
+      "publication_date": "2014-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previous studies have demonstrated that the growth of tumor cells may be inhibited by antisense oligonucleotides (ASODNs) targeted against human telomerase (hTR) or human telomerase reverse transcriptase (hTERT), resulting in antitumor activity in a wide variety of tumors. However, few studies have investigated the effect of hTERT gene-targeted ASODNs on telomerase activity and cell proliferation in human esophageal cancer. In the present study, an MTT assay was used to determine the growth inhibition rate of Eca-109 cells treated with a hTERT-targeted phosphorothioate-ASODN (PS-ASODN). An inverted microscope was used to observe the morphologic changes of the cells following treatment with 5 μM PS-ASODN for 10 days. Telomerase activity was detected using the silver staining semi-quantitative telomeric repeat amplification protocol (TRAP) assay. Following treatment with the PS-ASODN (1-5 μmol/l), the proliferation of the Eca-109 cells was inhibited. The differences in inhibition rate between the PS-ASODN and blank control groups were statistically significant (P<0.05) when the concentration of the PS-ASODN was ≥2 μmol/l, whereas no statistically significant difference was identified between the non-specific-ASODN and blank control groups. The inhibition rate increased gradually as the concentration of the PS-ASODN increased and with time, suggesting that the PS-ASODN inhibited the growth of Eca-109 cells in a concentration-dependent, time-dependent and sequence-specific manner. The growth rate of the cells incubated with the PS-ASODN was reduced compared with that of the control cells. Cells treated with the PS-ASODN became round, suspended and reduced in size. The PS-ASODN was also found to inhibit telomerase activity. The ability of the PS-ASODN to inhibit the telomerase activity and cell proliferation of the Eca-109 cell line suggests that ASODNs have the potential to be novel therapeutic agents for the treatment of esophageal cancer."
+    },
+    {
+      "pmid": "25142812",
+      "title": "Antitumor effect of sinoporphyrin sodium-mediated photodynamic therapy on human esophageal cancer Eca-109 cells.",
+      "authors": [
+        "Jianmin Hu",
+        "Xiaobing Wang",
+        "Quanhong Liu",
+        "Kun Zhang",
+        "Wenli Xiong",
+        "Chuanshan Xu",
+        "Pan Wang",
+        "Albert Wingnang Leung"
+      ],
+      "journal": "Photochemistry and photobiology",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aim of this study was to evaluate the photodynamic effect of Sinoporphyrin sodium (DVDMS). In this study, Eca-109 cells were treated with DVDMS (5 μg mL(-1)) and subjected to photodynamic therapy (PDT). The uptake and subcellular localization of DVDMS were monitored by flow cytometry and confocal microscopy. The phototoxicity of DVDMS was studied by MTT assay. The morphological changes were observed by scanning electron microscopy (SEM). DNA damage, reactive oxygen species (ROS) generation and mitochondria membrane potential (MMP) changes were analyzed by flow cytometry. Studies demonstrated maximal uptake of DVDMS occurred within 3 h, with a mitochondrial subcellular localization. MTT assays displayed that DVDMS could be effectively activated by light and the phototoxicity was much higher than photofrin under the same conditions. In addition, SEM observation indicated that cells were seriously damaged after PDT treatment. Furthermore, activation of DVDMS resulted in significant increases in ROS production. The generated ROS played an important role in the phototoxicity of DVDMS. DVDMS-mediated PDT (DVDMS-PDT) also induced DNA damage and MMP loss. It is demonstrated that DVDMS-mediated PDT is an effective approach on cell proliferation inhibition of Eca-109 cells.",
+      "mesh_terms": [
+        "Cell Line, Tumor",
+        "DNA Damage",
+        "Esophageal Neoplasms",
+        "Humans",
+        "Microscopy, Electron, Scanning",
+        "Mitochondria",
+        "Photochemotherapy",
+        "Porphyrins"
+      ]
+    },
+    {
+      "pmid": "25028547",
+      "title": "Sinoporphyrin sodium, a novel sensitizer, triggers mitochondrial-dependent apoptosis in ECA-109 cells via production of reactive oxygen species.",
+      "authors": [
+        "Haiping Wang",
+        "Xiaobing Wang",
+        "Shaoliang Zhang",
+        "Pan Wang",
+        "Kun Zhang",
+        "Quanhong Liu"
+      ],
+      "journal": "International journal of nanomedicine",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Sonodynamic therapy (SDT) is a promising method that uses ultrasound to activate certain chemical sensitizers for the treatment of cancer. The purpose of this study was to investigate the sonoactivity of a novel sensitizer, sinoporphyrin sodium (DVDMS), and its sonotoxicity in an esophageal cancer (ECA-109) cell line. METHODS: The fluorescence intensity of DVDMS, hematoporphyrin, protoporphyrin IX, and Photofrin II was detected by fluorescence microscopy and flow cytometry. Generation of singlet oxygen was measured using a 1, 3-diphenylisobenzofuran experiment. A 3-(4, 5-dimethylthiazol-2-yl)-2, 5-diphenyl tetrazolium bromide assay was used to examine cell viability. Production of reactive oxygen species (ROS) and destabilization of the mitochondrial membrane potential were assessed by flow cytometry. Apoptosis was analyzed using Annexin-PE/7-amino-actinomycin D staining. Confocal microscopy was performed to assess mitochondrial damage and identify release of cytochrome C after treatment. Western blots were used to determine expression of oxidative stress-related and apoptosis-associated protein. Ultrastructural changes in the cell were studied by scanning electron microscopy. RESULTS: DVDMS showed higher autofluorescence intensity and singlet oxygen production efficiency compared with other photosensitizers in both cancerous and normal cells. Compared with hematoporphyrin, DVDMS-mediated SDT was more cytotoxic in ECA-109 cells. Abundant intracellular ROS was found in the SDT groups, and the cytotoxicity induced by SDT was effectively remitted by ROS scavengers. DVDMS located mainly to the mitochondria of ECA-109 cells, which were seriously damaged after exposure to SDT. Release of cytochrome C, an increased rate of apoptosis, and activated apoptosis protein were detected in the SDT group. In addition, relatively severe cell damage was observed on scanning electron microscopy after treatment with DVDMS and SDT. CONCLUSION: These results suggest that DVDMS could be activated by ultrasound, and that DVDMS mediates SDT-induced mitochondrial-dependent apoptosis in ECA-109 cells via production of ROS.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Line",
+        "Cell Line, Tumor",
+        "Cell Shape",
+        "Cytochromes c",
+        "Humans",
+        "Intracellular Space",
+        "Mitochondria",
+        "Porphyrins",
+        "Radiation-Sensitizing Agents",
+        "Reactive Oxygen Species",
+        "Sound"
+      ]
+    },
+    {
+      "pmid": "24739635",
+      "title": "Human mesenchymal stem cells with adenovirus-mediated TRAIL gene transduction have antitumor effects on esophageal cancer cell line Eca-109.",
+      "authors": [
+        "Lin Li",
+        "Fengling Li",
+        "Hui Tian",
+        "Weiming Yue",
+        "Shuhai Li",
+        "Guanqing Chen"
+      ],
+      "journal": "Acta biochimica et biophysica Sinica",
+      "publication_date": "2014-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The apoptotic ligand TNF-related apoptosis-inducing ligand (TRAIL) is believed to be a promising candidate for cancer gene therapy, yet gene therapy strategies to tackle this disease systemically are often impaired by inefficient delivery of the vector to the tumor tissue. Mesenchymal stem cells (MSCs) have been shown to home to tumor sites and could potentially act as a shield and vehicle for an antitumor gene therapy vector. Here, we used an adenoviral vector expressing TRAIL to transduce MSCs and studied the apoptosis-inducing activity of these TRAIL-carrying MSCs on esophageal cancer cell Eca-109. Our results showed that, in vitro, TRAIL-expressing MSCs were able to inhibit proliferation and induce apoptosis in Eca-109 cells by an MTT assay, co-culture experiments and flow cytometry analysis. In vivo, TRAIL-expressing MSCs also displayed an ability to inhibit tumor growth in an Eca-109 xenograft mouse model. Together, our findings indicated that the gene therapy strategy of MSCs-based TRAIL gene delivery has a wide potential value for improving the treatment of esophageal cancer.",
+      "mesh_terms": [
+        "Adenoviridae",
+        "Animals",
+        "Blotting, Western",
+        "Cell Line, Tumor",
+        "Coculture Techniques",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Esophageal Neoplasms",
+        "Female",
+        "Flow Cytometry",
+        "Humans",
+        "Mesenchymal Stem Cells",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "TNF-Related Apoptosis-Inducing Ligand"
+      ]
+    },
+    {
+      "pmid": "24089228",
+      "title": "Propofol suppresses proliferation, invasion and angiogenesis by down-regulating ERK-VEGF/MMP-9 signaling in Eca-109 esophageal squamous cell carcinoma cells.",
+      "authors": [
+        "Y-B Xu",
+        "Q-H Du",
+        "M-Y Zhang",
+        "P Yun",
+        "C-Y He"
+      ],
+      "journal": "European review for medical and pharmacological sciences",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Propofol (2,6-diisopropylphenol), one of the most commonly used intravenous anaesthetic agents during cancer resection surgery, has been reported to have the ability of influencing the invasion of human cancer cells. However, the mechanisms are not very clear. In this study, we investigated the effects of propofol on the proliferation, invasion and angiogenesis of human Eca-109 cells, and explored the mechanism. METHODS: The human Eca-109 cells was treated with propofol at the concentrations of 10-100 µmol/L for 72 hours or at the concentration of 100 µmol for 8-72 hours. Cell viability was determined by the MTT assay; the effect of propofol on apoptosis by 5'-triphosphate-biotin nick end labeling (TUNEL) staining. The effect of propofol on angiogenesis was determined by the chicken chorioallantoic membrane (CAM) angiogenesis assay. The effect of propofol on cell invasion using a modified Matrigel Boyden chamber assay. ERK1/2, MMP-9 and VEGF leves was detected by western blotting assay. RESULTS: In human Eca-109 cells, propofol significantly promoted cell apoptosis and inhibited proliferation in a dose and time-dependent manner. Furthermore, propofol inhibited dose and time-dependent invasion and angiogenesis. Propofol significantly dose and time-dependently down-regulated gene expression and protein production of ERK/pERK, VEGF and MMP-9. The functional effects and MMP-9/VEGF inhibition were shown to be dependent on the ERK/VEGF and ERK/MMP-9 signaling pathways. It was noteworthy that the ERK activator (phorbol 12-myristate 13-acetate [PMA]) treatment increased the MMP-9/VEGF levels after propofol treatment, and led to significant increase of proliferation, invasion and angiogenesis. CONCLUSIONS: These findings indicate that propofol inhibited proliferation, invasion and angiogenesis of human Eca-109 cells in vitro through modulation of ERK-VEGF /MMP-9 signaling. Propofol not only can be an anesthesia agent which reduces pain but plays an important role of inhibiting the migration and angiogenesis of ESCC cells in the therapy of ESCC patients.",
+      "mesh_terms": [
+        "Carcinoma, Squamous Cell",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Down-Regulation",
+        "Esophageal Neoplasms",
+        "Esophageal Squamous Cell Carcinoma",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Humans",
+        "Matrix Metalloproteinase 9",
+        "Matrix Metalloproteinase Inhibitors",
+        "Neoplasm Invasiveness",
+        "Neovascularization, Pathologic",
+        "Propofol",
+        "Signal Transduction",
+        "Vascular Endothelial Growth Factor A"
+      ]
+    },
+    {
+      "pmid": "23892041",
+      "title": "Enhancement of (-)-epigallocatechin-3-gallate and theaflavin-3-3'-digallate induced apoptosis by ascorbic acid in human lung adenocarcinoma SPC-A-1 cells and esophageal carcinoma Eca-109 cells via MAPK pathways.",
+      "authors": [
+        "Ying Gao",
+        "Wei Li",
+        "Lingyan Jia",
+        "Bo Li",
+        "Yi Charlie Chen",
+        "Youying Tu"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2013-Aug-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Tea polyphenols (-)-epigallocatechin-3-gallate (EGCG) and theaflavin-3-3'-digallate (TF3) are two prospective compounds in cancer prevention and treatment. Ascorbic acid (Vc) is essential to a healthy diet as well as being a highly effective antioxidant. In this work, the effects of the combination of EGCG or TF3 with Vc on the apoptosis and caspases-3/9 activities in human lung adenocarcinoma SPC-A-1 cells and esophageal carcinoma Eca-109 cells were determined. Furthermore, the role of mitogen-activated protein kinases (MAPK) pathways in the apoptosis induced by TF3 or EGCG together with Vc were studied using three MAPK inhibitors (ERK inhibitor PD98059, JNK inhibitor SP600125 and p38 inhibitor SB203580). Our results showed that Vc could enhance the EGCG and TF3 induced apoptosis in SPC-A-1 and Eca-109 cells, and this effect involved the activation of caspase-3 and 9. EGCG, TF3 and Vc could activate MAPK pathways respectively, and each compound activated different MAPK subfamilies in different cells. This may explain the enhancement of EGCG and TF3 induced apoptosis by Vc in SPC-A-1 and Eca-109 cells, and will ultimately aid the design of more effective anti-cancer treatments.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Anticarcinogenic Agents",
+        "Antineoplastic Agents",
+        "Apoptosis",
+        "Ascorbic Acid",
+        "Biflavonoids",
+        "Caspase 3",
+        "Caspase 9",
+        "Catechin",
+        "Cell Line, Tumor",
+        "Enzyme Inhibitors",
+        "Esophageal Neoplasms",
+        "Gallic Acid",
+        "Gene Expression Regulation, Enzymologic",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans",
+        "Lung Neoplasms",
+        "MAP Kinase Signaling System"
+      ]
+    },
+    {
+      "pmid": "23426188",
+      "title": "Serum response factor is overexpressed in esophageal squamous cell carcinoma and promotes Eca-109 cell proliferation and invasion.",
+      "authors": [
+        "Xi He",
+        "Hong Xu",
+        "Min Zhao",
+        "Shijie Wang"
+      ],
+      "journal": "Oncology letters",
+      "publication_date": "2013-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recent studies indicate that serum response factor (SRF) is highly expressed in tumors such as hepatocellular, thyroid, esophageal and lung carcinoma. However, the expression and roles of SRF in esophageal squamous cell carcinoma (ESCC) are unclear. In this study, immunohistochemistry was used to compare the expression of SRF in ESCC cases (n=73) and normal controls (n=30). The RNA interference (RNAi) technique was used to knock down the expression of SRF in Eca-109 cells. Cell proliferation, cell cycle stage and invasion were measured with cell counting kit (CCK)-8, flow cytometry and Transwell assays, respectively. Western blotting was used to measure SRF, E-cadherin, β-catenin and cyclin D1 expression in Eca-109 cells treated with siRNA. The study demonstrated that human ESCC has increased expression of SRF. In addition, blocking SRF expression inhibited tumor proliferation and invasion. In conclusion, SRF has the potential to be a new marker for ESCC diagnosis and therapy."
+    },
+    {
+      "pmid": "23202800",
+      "title": "Growth inhibitory effects and molecular mechanisms of crotoxin treatment in esophageal Eca-109 cells and transplanted tumors in nude mice.",
+      "authors": [
+        "Jing-kang He",
+        "Xiang-sheng Wu",
+        "Yan Wang",
+        "Rong Han",
+        "Zheng-hong Qin",
+        "Yan Xie"
+      ],
+      "journal": "Acta pharmacologica Sinica",
+      "publication_date": "2013-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To investigate the antitumor actions of the Crotalus durissus neurotoxin (crotoxin) on human esophageal carcinoma (Eca-109) cells in vitro and transplanted esophageal Eca-109 tumors in nude mice. METHODS: The growth-inhibitory effect was analyzed in Eca-109 cells using MTT assay. Cell morphology changes in nuclei were observed using Hoechst 33342 staining, while apoptosis and cell cycle distribution were examined by flow cytometry. RT-PCR was used to measure the Bcl-2, p15, and caspase-3 p17 gene expression levels. A tumor transplantation model was established by inoculation of Eca-109 cells were into female Balb/c nude mice. Crotoxin (25, 50, and 100 mg/kg) was subcutaneously injected into the transplanted tumors every 2 d for a total of 10 injections. Tumor size and weight were measured. Bcl-2, p15, and caspase-3 p17 protein expression in transplanted tumors was analyzed using Western blotting. RESULTS: Crotoxin (25, 50, and 100 μg/mL) inhibited the growth of Eca-109 cells in a dose-dependent manner with inhibition rates of 22.9%, 35.8%, and 57.2%, respectively. Hoechst 33342 staining revealed apoptotic cells with pyknotic nuclear chromatin after crotoxin treatment. In Eca-109 cells, crotoxin induced apoptosis and G1 block, significantly upregulated the expression of p15 and caspase-3 p17 genes and downregulated the expression of Bcl-2 gene. Furthermore, crotoxin inhibited the growth of Eca-109 tumors in nude mice in a dose-dependent manner. Western blotting showed that crotoxin increased p15 and caspase-3 p17 protein levels and reduced Bcl-2 protein level in tumor specimens. CONCLUSION: Crotoxin inhibits the growth of Eca-109 cells in vitro via apoptosis induction and G1 block. Local administration of crotoxin inhibits the growth of subcutaneously transplanted Eca-109 cells in nude mice, possibly via increasing p15 and caspase-3 p17 protein expression and reducing Bcl-2 protein expression.",
+      "mesh_terms": [
+        "Animals",
+        "Caspase 3",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Crotalus",
+        "Crotoxin",
+        "Esophageal Neoplasms",
+        "Esophagus",
+        "Female",
+        "Gene Expression Regulation, Neoplastic",
+        "Genes, bcl-2",
+        "Humans",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude"
+      ]
+    },
+    {
+      "pmid": "22841896",
+      "title": "Anxiolytic effects of standardized extract of Centella asiatica (ECa 233) after chronic immobilization stress in mice.",
+      "authors": [
+        "Aree Wanasuntronwong",
+        "Mayuree H Tantisira",
+        "Boonyong Tantisira",
+        "Hiroshi Watanabe"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2012-Sep-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Centella asiatica has long been used for various neurological disturbances in Southeast Asian countries. The present study aims to demonstrate the anxiolytic effect of ECa 233, a standardized extract of C. asiatica containing triterpenoids not less than 80%, in comparison to diazepam. MATERIALS AND METHODS: The test compound was given orally to non-stressed mice and mice subjected to chronic immobilization stress. Anxiolytic effect was assessed by an elevated plus maze (EPM), a dark-light box and an open-field tests. RESULTS: Anxiolytic effect of ECa 233 was clearly demonstrated in non-stressed mice subjected to acute stress in all behavioral tests employed. In the EPM test, chronically stressed mice showed significant decrease in the number of open arm entries, shortening the time spent in open arms and an increase of the latency to leave the central area, suggesting their release from the stress. In addition, ameliorating effect of ECa 233 was observed on the body weight and serum corticosterone which were adversely affected by immobilization stress. Madecassoside and asiaticoside, equal to their respective contents of the effective doses of ECa 233, exclusively presented anxiolytic effects in EPM, while no distinct effect was observed on the body weight and serum corticosterone. CONCLUSIONS: The present study demonstrated anxiolytic effect of ECa 233 in both acutely and chronically stressed animals. These effects could be mainly accounted by madecassoside and asiaticoside, suggesting a possible use of ECa 233 for the treatment of both acute and chronic anxiety in the pathological state.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Anxiety Agents",
+        "Anxiety",
+        "Behavior, Animal",
+        "Body Weight",
+        "Centella",
+        "Corticosterone",
+        "Diazepam",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Restraint, Physical",
+        "Stress, Physiological",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "22200741",
+      "title": "Magnetic stent hyperthermia for esophageal cancer: an in vitro investigation in the ECA-109 cell line.",
+      "authors": [
+        "Jia-Yi Liu",
+        "Ling-Yun Zhao",
+        "Yu-Ying Wang",
+        "Dan-Ye Li",
+        "Dan Tao",
+        "Li-Ya Li",
+        "Jin-Tian Tang"
+      ],
+      "journal": "Oncology reports",
+      "publication_date": "2012-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Magnetic stent hyperthermia (MSH) is a novel approach for targeted thermotherapy for esophageal cancer, which is based on the mechanism that inductive heat can be generated by the esophageal stent upon exposure under an alternative magnetic field (AMF). A positive effect of MSH on esophageal cancer has been demonstrated, however, there is no study on the in vitro effects of heating treatment or of the effects of AMF exposure on human esophageal cancer cells. This study aimed to investigate the effect of MSH and of AMF exposure in esophageal cancer cells. Inductive heating characteristics of esophageal stents were assessed by exposing the stents under AMF. A rather rapid temperature rise of the Ni-Ti stent when subjected to AMF exposure was observed and the desired hyperthermic temperature could be controlled by adjusting the field parameter of the AMF. Human esophageal squamous carcinoma (ESCC) ECA-109 cells were divided into four groups: the control group, the water-bath heating group, the MSH group and the AMF exposure group. Hyperthermic temperatures were 43, 48 and 53˚C and the treatment time was in the range of 5-30 min. The MTT assay, apoptotic analysis and TUNEL staining were applied in the current investigation. Exposure of ECA-109 cells under AMF with a field intensity of 50 to 110 kA/m had negligible effect on cell viability, cell necrosis and apoptosis. Hyperthermia had a remarkable inhibitory effect on the cell viability and the effect was dependent on the thermal dose (temperature and time). The optimal thermal dose of MSH for ECA-109 cells was 48˚C for 20-30 min. The study also elucidated that there was a difference in the effects on cell necrosis and apoptosis between the heating mode of water bath and MSH. The data suggest that MSH may have clinical significance for esophageal cancer treatment.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Esophageal Neoplasms",
+        "Heating",
+        "Humans",
+        "Hyperthermia, Induced",
+        "In Situ Nick-End Labeling",
+        "Magnetic Fields",
+        "Magnetics",
+        "Necrosis",
+        "Nickel",
+        "Stents",
+        "Temperature",
+        "Titanium"
+      ]
+    },
+    {
+      "pmid": "21868342",
+      "title": "[Kaempferol-induced apoptosis of human esophageal squamous carcinoma Eca-109 cells and the mechanism].",
+      "authors": [
+        "Rui-jun Li",
+        "Jia-zhuan Mei",
+        "Gui-ju Liu"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2011-Aug",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the growth-inhibiting and pro-apoptotic effect of kaempferol in human esophageal squamous carcinoma Eca-109 cells and explore the mechanism. METHODS: The effect of kaempferol on Eca-109 cell proliferation in vitro was measured by MTT assay. TUNEL staining was used to detect the cell apoptosis following kaempferol treatment. The changes in Bax and Bcl-2 mRNA expressions in response to kaempferol treatment were determined by RT-PCR, and the caspase-3 and caspase-9 activities were evaluated using colorimetric assay. RESULTS: Kaempferol significantly inhibited Eca-109 cell proliferation (P<0.05) in a concentration-dependent manner and induced obvious cell apoptosis. RT-PCR showed that after kaempferol treatment caused up-regulated Bax and down-regulated Bcl-2 mRNA expression. The colorimetric assay revealed significantly increased caspase-3 and caspase-9 activities in Eca-109 cells following kaempferol treatment (P<0.01). CONCLUSION: Kaempferol can induce apoptosis of Eca-109 cells via a mitochondria-dependent pathway.",
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Apoptosis",
+        "Carcinoma, Squamous Cell",
+        "Caspase 3",
+        "Caspase 9",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Esophageal Neoplasms",
+        "Humans",
+        "Kaempferols",
+        "Mitochondria",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "bcl-2-Associated X Protein"
+      ]
+    },
+    {
+      "pmid": "20584640",
+      "title": "[Inhibitory effect of photodynamic therapy combined with paclitaxel on the proliferation of esophageal carcinoma Eca-109 cells].",
+      "authors": [
+        "Zhi-feng Zhang",
+        "Yi Huang",
+        "Xi Shi",
+        "Ri-xiong Wang",
+        "Xiao-yan Lin",
+        "Xue-de Lin",
+        "Hang Zheng",
+        "Li-bo Li"
+      ],
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the inhibitory effect of photodynamic therapy (PDT) in combination with paclitaxel (PCT) on proliferation in esophageal carcinoma Eca-109 cells line. METHODS: Eca-109 cells were treated with PCT alone, HPD alone at different doses, or their combinations. For the combined treatments, the cells were exposed to PCT for 12 h followed by incubation with HPD at high, middle or low concentrations for 4 h. PDT was then performed on these treated cells and fluorescence microscopic observation was made before and after PDT. The cell survival was measured by MTT assay, and the cell apoptosis rate analyzed by flow cytometry after a 24-h cell incubation following PDT. RESULTS: The fluorescence excitation of the cells was weakened after PDT. Combined treatments resulted in significantly lowered cell survival rate and increased cell apoptosis rates as compared to those of the control cells and the cells treated with PCT alone and low-dose HPD (P<0.01). Significant differences were also noted among the cells exposed to HPD at different concentrations (P<0.05). CONCLUSION: PDT combined with PCT have significant synergetic effects in inhibiting the proliferation of human esophageal carcinoma cells and inducing their apoptosis in vitro.",
+      "mesh_terms": [
+        "Antineoplastic Agents, Phytogenic",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Esophageal Neoplasms",
+        "Humans",
+        "Paclitaxel",
+        "Photochemotherapy"
+      ]
+    },
+    {
+      "pmid": "19723737",
+      "title": "The role of social network and support in mental health service use: findings from the Baltimore ECA study.",
+      "authors": [
+        "Pallab K Maulik",
+        "William W Eaton",
+        "Catherine P Bradshaw"
+      ],
+      "journal": "Psychiatric services (Washington, D.C.)",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "OBJECTIVE: A significant number of people with mental illness do not use mental health services to receive treatment for their symptoms. This study examined the hypothesis that social network and social support affect mental health service use. METHODS: Data were from the Baltimore cohort of the Epidemiologic Catchment Area study, a prospective cohort study that gathered data over four time points. This study examined data gathered in 1993-1996 (N=1,920) and 2004-2005 (N=1,071). The study examined indicators of social network and social support in relation to four types of service use (general medical, mental health within general medical, specialty psychiatric, and other human services) with multivariate logistic regression. Examples of other human services include a self-help group or crisis center for help with any psychological problem. Weighted generalized estimating equations were used for the analyses. RESULTS: Among persons with major depressive disorder, generalized anxiety disorder, panic disorder, or alcohol use disorder in the past year or psychological distress in the past few weeks, general medical service use was reduced when the frequency of contact with relatives or friends occurred less than daily, but it was increased by about 40% when there was a higher than median level of spousal support. In contrast, receiving general medical services for mental health problems was reduced by about 50% when there was a higher than median level of social support from relatives. Specialty psychiatric service use was reduced when there was regular contact with six or more relatives and there was a higher than median level of social support from friends and relatives. None of the social network or social support measures were significantly (p</=.01) associated with use of other human services. CONCLUSIONS: Increased contact with the social network and higher levels of social support were associated with greater use of general medical services. However, more social support was associated with use of fewer services within the specialty psychiatric sector.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Baltimore",
+        "Cohort Studies",
+        "Female",
+        "Humans",
+        "Male",
+        "Mental Health Services",
+        "Middle Aged",
+        "Prospective Studies",
+        "Role",
+        "Social Support"
+      ]
+    },
+    {
+      "pmid": "17368593",
+      "title": "The flavonoid component isorhamnetin in vitro inhibits proliferation and induces apoptosis in Eca-109 cells.",
+      "authors": [
+        "Gang Ma",
+        "Chunlei Yang",
+        "Yi Qu",
+        "Huaying Wei",
+        "Tongtong Zhang",
+        "Najuan Zhang"
+      ],
+      "journal": "Chemico-biological interactions",
+      "publication_date": "2007-Apr-25",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Isorhamnetin is one member of flavonoid components which has been used in the treatment of heart disease. Recently the in vitro anti-cancer effect of isorhamnetin on human esophageal squamous carcinoma cell line Eca-109 was investigated in our lab. When Eca-109 cells were in vitro exposed to the graded doses of isorhamnetin (0-80 microg/ml) for 48 h, respectively, isorhamnetin exhibited cytostatic effect on the treated cells, with an IC(50) of 40+/-0.08 microg/ml as estimated by MTT assay. Inhibition on proliferation by isorhamnetin was detected by trypan blue exclusion assay, clone formation test, immunocytochemical assay of PCNA and (3)H-thymidine uptake analysis. Cell cycle distribution was measured by FCM. It was found that the viability of Eca-109 cells was significantly hampered by isorhamnetin. Compared with the negative control group, the treated group which was exposed to isorhamnetin had increased population in G(0)/G(1) phase from 74.6 to 84 while had a significant reduction in G(2)/M phase from 11.9 to 5.8. In addition to its cytostatic effect, isorhamnetin also showed stimulatory effect on apoptosis. Typical apoptotic morphology such as condensation and fragmentation of nuclei and blebbing membrane of the apoptotic cells could be observed through transmission electron microscope. Moreover, the sharp increase in apoptosis rate between the control and treated group were detected by FCM from 6.3 to 16.3. To explore the possible molecular mechanisms that underlie the growth inhibition and apoptosis stimulatory effects of isorhamnetin, the expressions of six proliferation- and death-related genes were detected by FCM. Expressions of bcl-2, c-myc and H-ras were downregulated whereas Bax, c-fos and p53 were upregulated. However, the in vivo experiments were required to further confirm the anti-cancer effects of isorhamnetin. In conclusion, isorhamnetin appears to be a potent drug against esophageal cancer due to its in vitro potential to not only inhibit proliferation but also induce apoptosis of Eca-109 cells.",
+      "mesh_terms": [
+        "Apoptosis",
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "DNA Replication",
+        "Esophageal Neoplasms",
+        "Flavonols",
+        "Gene Expression",
+        "Humans",
+        "Immunohistochemistry",
+        "Inhibitory Concentration 50",
+        "Microscopy, Electron, Transmission",
+        "Proliferating Cell Nuclear Antigen",
+        "Quercetin"
+      ]
+    },
+    {
+      "pmid": "16425431",
+      "title": "Dual effects of 8-Br-cAMP on differentiation and apoptosis of human esophageal cancer cell line Eca-109.",
+      "authors": [
+        "Hong-Mei Wang",
+        "Nai-Gang Zheng",
+        "Jing-Lan Wu",
+        "Cui-Cui Gong",
+        "Yi-Ling Wang"
+      ],
+      "journal": "World journal of gastroenterology",
+      "publication_date": "2005-Nov-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIM: To investigate the effects of 8-Br-cAMP on differentiation and apoptosis of human esophageal cancer cell line Eca-109, and the related gene expression. METHODS: The cultured Eca-109 cells were divided into four groups: E1 group (co-cultured with 8-Br-cAMP for 24 h); E2 group (co-cultured with 8-Br-cAMP for 48 h); C1 group (treated without 8-Br-cAMP for 24 h); and C2 group (treated without 8-Br-cAMP for 48 h). The same concentration of cell suspension of each group was dropped separately onto the slides and nitrocellulose membranes (NCM). The biotin-labeled cDNA probes for c-myc, wild-type (wt) p53, bcl-2 and iNOS were prepared for in situ hybridization. The expressions of epidermal growth factor receptor (EGFR), p38 kinase, FAS, FasL and caspase-3 were detected using immunocytochemistry, and the NOS activity and the ratio of differentiated cells/proliferating cells were examined by cytochemistry. Immunocytochemistry, cytochemistry, and in situ hybridization were separately carried out on both slides and NCM specimens for each group. In addition, TUNEL was used to detect the cell apoptosis rate in each group. RESULTS: The apoptotic rate of E2 group was significantly higher compared to E1 group, while there was no difference in the ratio of differentiated cells/proliferating cells between E1 and E2 groups. The signals of wt p53 and iNOS were markedly stronger, while the signals of c-myc and EGFR were obviously weaker in E1 group than those in C1 group (P<0.05). Moreover, the signals of wt p53, iNOS, p38 kinase, caspase-3 and NOS activity were significantly stronger, whereas, the signals of bcl-2, c-myc and Fas/FasL were markedly weaker in E2 group than those in C2 group (P<0.05). CONCLUSION: The differentiation and apoptosis of human esophageal cancer cell Eca-109 can be induced after 24- and 48-h treatment with 8-Br-cAMP, respectively. Upregulation of wt p53, iNOS and downregulation of c-myc may be associated with differentiation and apoptosis of Eca-109 cells. Furthermore, upregulation of FasL, p38 kinase and caspase-3 as well as downregulation of bcl-2, and Fas may be involved in the apoptosis of Eca-109 cells.",
+      "mesh_terms": [
+        "8-Bromo Cyclic Adenosine Monophosphate",
+        "Apoptosis",
+        "Cell Differentiation",
+        "Cell Line, Tumor",
+        "Esophageal Neoplasms",
+        "Gene Expression Regulation, Neoplastic",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "16422547",
+      "title": "[Effects of ginsenoside Rh2(GS-Rh2) on cell cycle of Eca-109 esophageal carcinoma cell line].",
+      "authors": [
+        "Li Li",
+        "Feng-ying Qi",
+        "Jun-ru Liu",
+        "Lian-fu Zuo"
+      ],
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publication_date": "2005-Oct",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To investigate the effects of ginsenoside Rh2 (GS-Rh2) on growth inhibition and cell cycle of Eca-109 esophageal carcinoma cell line in culture. METHOD: The effects of GS-Rh2 on cell growth inhibition was detected by MTT assay. Cell cycle was analyzed by flow cytometry (FCM). Cell morphology was observed by a light microscope after HE staining. The protein expression of cell cycle components (cyclinE, CDK2, p21WAF1) were examined by immunocytochemistry and Western blot. The mRNA expression were examined by semiquantitative RT-PCR. RESULT: GS-Rh2 inhibited the proliferation of Eca-109 cells in dose and time-dependent manners. The inhibition rate was about 50% after 1-day treatment with 20 microg x mL(-1) GS-Rh2 x 20 microg x mL(-1) GS-Rh2 induced the mature differentiation and morphological reversion. With increasing dose of GS-Rh2 treatment, the cell number of G0/G1 phase was increased, whereas it decreased at S and G2/M phase. There was significant difference between 10, 20 microg x mL(-1) GS-Rh2 groups and the corresponding group without GS-Rh2 treatement. After treating cells by 20 microg x mL(-1) GS-Rh2 for 1, 2, 3 days individually, the protein and mRNA expression of both cyclinE and CDK2 reduced, while the expression of p21WAF1 enhanced gradually. CONCLUSION: GS-Rh2 could arrest Eca-109 cells at G0/G1 phase and induce cell differentiation tending to normal. Furthermore, GS-Rh2 had an effect on expression of cell cycle components (cyclinE, CDK2 and p21WAF1) to inhibit Eca-109 cell proliferation.",
+      "mesh_terms": [
+        "Carcinoma, Squamous Cell",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cyclin E",
+        "Cyclin-Dependent Kinase 2",
+        "Cyclin-Dependent Kinase Inhibitor p21",
+        "Dose-Response Relationship, Drug",
+        "Drugs, Chinese Herbal",
+        "Esophageal Neoplasms",
+        "Ginsenosides",
+        "Humans",
+        "Panax",
+        "Plants, Medicinal",
+        "RNA, Messenger",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "16422106",
+      "title": "[Effect of isorhmnetin on circadian rhythms of DNA synthesis and expression of c-myc gene in Eca-109 cells of human oesophageal cancer].",
+      "authors": [
+        "Chunlei Yang",
+        "Tao Peng",
+        "Yi Qu",
+        "Dachang Tao",
+        "Zhengrong Wang",
+        "Bin Zhu"
+      ],
+      "journal": "Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi",
+      "publication_date": "2005-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study was focused on the circadian rhythms of DNA synthesis and the expression of c-myc gene in untreated and treated Eca-109 cells in human oesophageal cancer with isorhmnetin. The circadian rhythms of 3H-TdR incorporation and expression of c-myc gene in untreated and treated Eca-109 cells were measured by 3H-thymidine uptake assay and flow cytometry. The data collected were analyzed by ANOVA and Cosinor method. DNA synthesis and expression of c-myc gene in untreated group varied according to circadian time with statistical significance, the distribution curves of both DNA synthesis and the expression level of c-myc were fit for cosinor changes. The circadian rhythms of DNA synthesis and circadian parameters of c-myc expression in treated Eca-109 cells changed. The circadian parameters of DNA synthesis and expression level of c-myc varied after treatment by isorhmnetin. The effects of isorhmnetin on cell proliferation and c-myc expression reached the highest level from 20: 00 to 0: 00. The results provide a guidance for instituting the chemotherapy and chronotherapy of human tumors, when isorhmnetin is for use as anti-cancer agent.",
+      "mesh_terms": [
+        "Circadian Rhythm",
+        "DNA",
+        "Esophageal Neoplasms",
+        "Flavonols",
+        "Humans",
+        "Proto-Oncogene Proteins c-myc",
+        "Quercetin",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "12469097",
+      "title": "[New Ideas in the Treatment of Chronic Cardiac Failure. Inotropic Stimulation of the Heart in the Era of ECA Inhibitors and beta-adrenoblockers].",
+      "authors": [
+        "V. Iu. Mareev"
+      ],
+      "journal": "Kardiologiia",
+      "publication_date": "2001",
+      "publication_types": [
+        "Editorial"
+      ]
+    },
+    {
+      "pmid": "11979827",
+      "title": "[Ecabet sodium (ECA) + PPI + AMPC therapy for clarithromycin-resistant Helicobacter pylori infections].",
+      "authors": [
+        "Hidetoshi Kagaya",
+        "Mototsugu Kato",
+        "Masahiro Asaka"
+      ],
+      "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+      "publication_date": "2002-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "2-Pyridinylmethylsulfinylbenzimidazoles",
+        "Abietanes",
+        "Amoxicillin",
+        "Anti-Ulcer Agents",
+        "Clarithromycin",
+        "Clinical Trials as Topic",
+        "Diterpenes",
+        "Drug Administration Schedule",
+        "Drug Resistance, Bacterial",
+        "Drug Therapy, Combination",
+        "Enzyme Inhibitors",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Humans",
+        "Lansoprazole",
+        "Omeprazole",
+        "Proton Pump Inhibitors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "11676386",
+      "title": "The association of depression and problem drinking: analyses from the Baltimore ECA follow-up study. Epidemiologic Catchment Area.",
+      "authors": [
+        "R M Crum",
+        "C Brown",
+        "K Y Liang",
+        "W W Eaton"
+      ],
+      "journal": "Addictive behaviors",
+      "publication_date": "2001",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "In this study, we hypothesized that there would be an increased risk of greater alcohol consumption among depressed problem drinkers than those without depression in the prior year, and that the strength of this association would be stronger for women. As part of the Epidemiologic Catchment Area (ECA) program, probability samples of area residents were selected and the baseline interview for the Baltimore site was completed in 1981. Between 1993 and 1996, 73% of the survivors (n = 2633) were reinterviewed. For the 334 problem drinkers identified, the occurrence of a depressive episode and level of alcohol consumption for each intervening year between the baseline and follow-up interviews were assessed. Generalized estimating equations (GEE) were used for logistic regression analyses to examine the association between the occurrence of depression in the prior year with transition to higher-level drinking in the subsequent year. The problem drinkers tended to have a bimodal association of transitioning to higher-level drinking; although the strength of the association was greater for men. Future research will need to assess the potential influences on this relationship of other sociodemographic and psychopathologic characteristics, including the effect of treatment for depression or substance use.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Alcohol-Related Disorders",
+        "Baltimore",
+        "Comorbidity",
+        "Depressive Disorder",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Sex Factors"
+      ]
+    },
+    {
+      "pmid": "10741540",
+      "title": "\"Alcohol dependence\" and death: survival analysis of the Baltimore ECA sample from 1981 to 1995.",
+      "authors": [
+        "Y D Neumark",
+        "M L Van Etten",
+        "J C Anthony"
+      ],
+      "journal": "Substance use & misuse",
+      "publication_date": "2000-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "OBJECTIVE: Evidence is provided about the association between \"alcohol-use disorders\" and the 14-year risk of death in a community sample. Most prior descriptions of this association come from treatment samples. METHOD: 3,481 adult household residents were recruited into the NIMB Baltimore Epidemiologic Catchment Area survey and interviewed in 1981. The Diagnostic Interview Schedule (DIS) was employed to assess alcohol drinking and other drug-taking behaviors, and to determine fulfillment of DSM-III criteria for \"alcohol abuse\" and/or \"dependence\" diagnoses. Participants were followed-up in 1993-1996, by which time 24% of the sample had died. Median age of death was estimated for persons with and without alcohol disorders, and for \"heavy\" and \"nonheavy\" drinkers. Cox proportional hazards models adjusted for the influence of age, sex, race, \"drug-use disorders,\" and tobacco smoking. RESULTS: \"Alcohol abuse\" and/or \"dependence\" was associated with a higher risk of death and a younger median age of death (adjusted relative risk = 1.3, p = .016). \"Heavy\" alcohol consumption was also associated with a significantly elevated risk of death. The DIS diagnosis of \"alcohol use disorder\" helped predict mortality over and above a prediction based solely upon \"heavy drinking\" (p < .01). CONCLUSIONS: These findings indicate that the observed increased risk of death associated with \"alcohol dependence\" is not limited to cases severe enough to have been treated but is also present among cases in the household population.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Age Factors",
+        "Aged",
+        "Alcohol Drinking",
+        "Alcoholism",
+        "Baltimore",
+        "Catchment Area, Health",
+        "Cause of Death",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Psychiatric Status Rating Scales",
+        "Survival Analysis"
+      ]
+    },
+    {
+      "pmid": "7843482",
+      "title": "Transcervical endometrial cryoablation (ECA) for menorrhagia.",
+      "authors": [
+        "R Pittrof",
+        "S Majid",
+        "A Murray"
+      ],
+      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "publication_date": "1994-Nov",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To evaluate endometrial cryoablation (ECA) as a treatment for menorrhagia. METHOD: Prospective study of 67 women. ECA uses the Joule Thompson principle of expanding gases. The ECA probe has a channel to inject saline solution into the uterine cavity. The probe is introduced into the uterine cavity, which is distended with 5 ml saline solution. The device is activated for two freeze-thaw cycles. The saline solution forms an ice mold of the uterine cavity which can be observed by ultrasound scan. RESULTS: No surgical or long-term complications were observed. Two-thirds of patients followed up for > 3 months were completely satisfied. CONCLUSIONS: ECA is technically very easy, can be learned quickly, is free of complications and led to improvement of menstrual symptoms in 63% of patients followed up for 3-18 months. The device is virtually maintenance-free and requires only a small initial investment, while running costs are negligible.",
+      "mesh_terms": [
+        "Adult",
+        "Costs and Cost Analysis",
+        "Cryosurgery",
+        "Endometrium",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Hysterectomy",
+        "Menorrhagia",
+        "Patient Satisfaction",
+        "Prospective Studies",
+        "Sodium Chloride",
+        "Time Factors",
+        "Treatment Failure"
+      ]
+    },
+    {
+      "pmid": "1545722",
+      "title": "The epidemiologic catchment area (ECA) study: implications for Australia.",
+      "authors": [
+        "J M Rey"
+      ],
+      "journal": "The Medical journal of Australia",
+      "publication_date": "1992-Feb-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To make clinicians aware of the methods and results of the Epidemiologic Catchment Area (ECA) study, the largest (about 20,000 subjects) undertaken in psychiatric epidemiology, and to explore implications for the management of these conditions in Australia. DATA SOURCES: The main source was the monograph that reports the overall results of the ECA project. DATA EXTRACTION: Only data that were considered to be of general interest were extracted. DATA SYNTHESIS: The ECA study found that one in every three American adults had experienced one or more of 30 major psychiatric disorders at some time in their lives. One in five had an active disorder at the time of interview. Most conditions were found to have their onset early in life (median age of onset was 16 years) and followed a chronic course. In many cases persons afflicted did not seek or receive appropriate treatment despite using medical services more often. CONCLUSIONS: Psychiatric disorders are a major public health problem. Increased emphasis on their identification and treatment is required, particularly during childhood, adolescence and early adulthood. Paradoxically, these are the age groups more neglected by current services and research.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Australia",
+        "Catchment Area, Health",
+        "Family Characteristics",
+        "Female",
+        "Humans",
+        "Interview, Psychological",
+        "Male",
+        "Mental Disorders",
+        "Patient Acceptance of Health Care",
+        "Prevalence",
+        "Public Health",
+        "Sampling Studies",
+        "Socioeconomic Factors",
+        "United States"
+      ]
+    },
+    {
+      "pmid": "2357748",
+      "title": "[Effects and complications of Nd YAG laser posterior capsulotomy after ECA + PCI (extracapsular extraction and posterior chamber implantation)].",
+      "authors": [
+        "A Barbosa",
+        "H Hamard",
+        "Y M Ruellan"
+      ],
+      "journal": "Bulletin des societes d'ophtalmologie de France",
+      "publication_date": "1990-Feb",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "264 consecutive cases of ECCE are reviewed. In this series 28 cases of Nd YAG laser capsulotomy have been performed. Visual results are excellent: visual acuity is improved in 90% of cases. The rate of complications is low: 1 case of retinal detachment, 2 cases of IOP raise, no clinical CME. Laser therapy is performed when visual acuity decreases, prior to other extra clinical examination.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Follow-Up Studies",
+        "Humans",
+        "Laser Therapy",
+        "Lens Capsule, Crystalline",
+        "Lens, Crystalline",
+        "Lenses, Intraocular",
+        "Middle Aged",
+        "Reoperation"
+      ]
+    },
+    {
+      "pmid": "4554803",
+      "title": "[A study on adhesive characteristics of ethyl-2-cyano acrylate (ECA) to hard tooth tissue. Effects of tooth surface treatment].",
+      "authors": [
+        "Y Araki",
+        "S Ai",
+        "K Umemura",
+        "T Sakai",
+        "A Dasai"
+      ],
+      "journal": "Aichi Gakuin Daigaku Shigakkai shi",
+      "publication_date": "1972-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cyanoacrylates",
+        "Dental Bonding",
+        "Dental Enamel",
+        "Surface Properties"
+      ]
+    }
+  ]
+}

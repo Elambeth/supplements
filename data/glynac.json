@@ -1,0 +1,49 @@
+{
+  "supplement": "GlyNAC",
+  "query": "GlyNAC[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:40:20",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "37960231",
+      "title": "Glycine and N-Acetylcysteine (GlyNAC) Combined with Body Weight Support Treadmill Training Improved Spinal Cord and Skeletal Muscle Structure and Function in Rats with Spinal Cord Injury.",
+      "authors": [
+        "Xin Xu",
+        "Hua-Yong Du",
+        "Zuliyaer Talifu",
+        "Chun-Jia Zhang",
+        "Ze-Hui Li",
+        "Wu-Bo Liu",
+        "Yi-Xiong Liang",
+        "Xu-Luan Xu",
+        "Jin-Ming Zhang",
+        "De-Gang Yang",
+        "Feng Gao",
+        "Liang-Jie Du",
+        "Yan Yu",
+        "Ying-Li Jing",
+        "Jian-Jun Li"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Oct-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Skeletal muscle atrophy is a frequent complication after spinal cord injury (SCI) and can influence the recovery of motor function and metabolism in affected patients. Delaying skeletal muscle atrophy can promote functional recovery in SCI rats. In the present study, we investigated whether a combination of body weight support treadmill training (BWSTT) and glycine and N-acetylcysteine (GlyNAC) could exert neuroprotective effects, promote motor function recovery, and delay skeletal muscle atrophy in rats with SCI, and we assessed the therapeutic effects of the double intervention from both a structural and functional viewpoint. We found that, after SCI, rats given GlyNAC alone showed an improvement in Basso-Beattie-Bresnahan (BBB) scores, gait symmetry, and results in the open field test, indicative of improved motor function, while GlyNAC combined with BWSTT was more effective than either treatment alone at ameliorating voluntary motor function in injured rats. Meanwhile, the results of the skeletal muscle myofiber cross-sectional area (CSA), hindlimb grip strength, and acetylcholinesterase (AChE) immunostaining analysis demonstrated that GlyNAC improved the structure and function of the skeletal muscle in rats with SCI and delayed the atrophication of skeletal muscle.",
+      "mesh_terms": [
+        "Humans",
+        "Rats",
+        "Animals",
+        "Acetylcysteine",
+        "Rats, Sprague-Dawley",
+        "Acetylcholinesterase",
+        "Spinal Cord Injuries",
+        "Muscle, Skeletal",
+        "Muscular Atrophy",
+        "Body Weight",
+        "Recovery of Function"
+      ]
+    }
+  ]
+}

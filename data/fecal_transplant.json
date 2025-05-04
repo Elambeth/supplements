@@ -1,0 +1,614 @@
+{
+  "supplement": "Fecal Transplant",
+  "query": "Fecal Transplant[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:34:12",
+  "research_count": 22,
+  "count": 22,
+  "articles": [
+    {
+      "pmid": "37623261",
+      "title": "Probiotics and Fecal Transplant: An Intervention in Delaying Chronic Kidney Disease Progression?",
+      "authors": [
+        "Harshavardhan Sanekommu",
+        "Sobaan Taj",
+        "Rida Mah Noor",
+        "Muhammad Umair Akmal",
+        "Reza Akhtar",
+        "Mohammad Hossain",
+        "Arif Asif"
+      ],
+      "journal": "Clinics and practice",
+      "publication_date": "2023-Aug-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic kidney disease (CKD) is a global health challenge affecting nearly 700 million people worldwide. In the United States alone, the Medicare costs for CKD management has reached nearly USD 80 billion per year. While reversing CKD may be possible in the future, current strategies aim to slow its progression. For the most part, current management strategies have focused on employing Renin Angiotensin Aldosterone (RAS) inhibitors and optimizing blood pressure and diabetes mellitus control. Emerging data are showing that a disruption of the gut-kidney axis has a significant impact on delaying CKD progression. Recent investigations have documented promising results in using microbiota-based interventions to better manage CKD. This review will summarize the current evidence and explore future possibilities on the use of probiotics, prebiotics, synbiotics, and fecal microbial transplant to reduce CKD progression."
+    },
+    {
+      "pmid": "37349964",
+      "title": "Comparing the impact of mixed-culture microbial communities and fecal transplant on the intestinal microbiota and metabolome of weaned piglets.",
+      "authors": [
+        "Rajibur Rahman",
+        "Janelle M Fouhse",
+        "Tausha L Prisnee",
+        "Tingting Ju",
+        "Natalie E Diether",
+        "Benjamin P Willing"
+      ],
+      "journal": "FEMS microbiology ecology",
+      "publication_date": "2023-Jun-16",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Fecal microbiota transplantation (FMT) is an emerging technique for modulating the pig microbiota, however, donor variability is one of the major reasons for inconsistent outcomes across studies. Cultured microbial communities may address some limitations of FMT; however, no study has tested cultured microbial communities as inocula in pigs. This pilot study compared the effects of microbiota transplants derived from sow feces to cultured mixed microbial community (MMC) following weaning. Control, FMT4X, and MMC4X were applied four times, while treatment FMT1X was administered once (n = 12/group). On postnatal day 48, microbial composition was modestly altered in pigs receiving FMT in comparison with Control (Adonis, P = .003), mainly attributed to reduced inter-animal variations in pigs receiving FMT4X (Betadispersion, P = .018). Pigs receiving FMT or MMC had consistently enriched ASVs assigned to genera Dialister and Alloprevotella. Microbial transplantation increased propionate production in the cecum. MMC4X piglets showed a trend of higher acetate and isoleucine compared to Control. A consistent enrichment of metabolites from amino acid metabolism in pigs that received microbial transplantation coincided with enhanced aminoacyl-tRNA biosynthesis pathway. No differences were observed among treatment groups for body weight or cytokine/chemokine profiles. Overall, FMT and MMC exerted similar effects on gut microbiota composition and metabolite production.",
+      "mesh_terms": [
+        "Swine",
+        "Animals",
+        "Female",
+        "Fecal Microbiota Transplantation",
+        "Gastrointestinal Microbiome",
+        "Weaning",
+        "Pilot Projects",
+        "Microbiota",
+        "Feces",
+        "Metabolome"
+      ]
+    },
+    {
+      "pmid": "36479155",
+      "title": "Clinical outcomes and gut microbiota analysis of severe alcohol-associated hepatitis patients undergoing healthy donor fecal transplant or pentoxifylline therapy: single-center experience from Kerala.",
+      "authors": [
+        "Cyriac Abby Philips",
+        "Rizwan Ahamed",
+        "Sasidharan Rajesh",
+        "Shobhit Singh",
+        "Ajit Tharakan",
+        "Jinsha K Abduljaleel",
+        "Philip Augustine"
+      ],
+      "journal": "Gastroenterology report",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Severe alcohol-associated hepatitis (SAH) patients with infections have a high short-term mortality rate. Gut microbiota dysbiosis plays an important role in the pathogenesis of SAH. Preliminary studies have demonstrated long-term benefits with healthy donor fecal microbiota transplantation (FMT). Data on FMT compared with pentoxifylline for SAH and relevant gut microbial changes are lacking in literature. METHODS: From January 2019 to February 2021, retrospective analysis of a single hospital's records revealed 47 SAH patients undergoing FMT (100 mL/day via nasoduodenal tube for 7 days) and 25 matched patients receiving pentoxifylline (400 mg/8 h for 28 days). The primary end point was a 6-month survival rate. Secondary end points included incidence of ascites, hepatic encephalopathy, infections, acute kidney injury, and gut microbiota changes between post-therapy groups. Biomarker discovery and network analysis were also performed to identify significant taxa of gut microbiota in post-treatment groups in retrospectively stored stool samples. RESULTS: All were males. The 6-month survival rate was higher in the patients undergoing FMT than in patients receiving pentoxifylline (83.0% vs 56.0%, P = 0.012). At the end of 6-month follow-up, the incidences of clinically significant ascites (56.0% vs 25.5%, P = 0.011), hepatic encephalopathy (40.0% vs 10.6%, P = 0.003), and critical infections (52.0% vs 14.9%, P < 0.001) in patients administered pentoxifylline were significantly higher than those in patients treated with FMT. At 3 months, biomarker analysis revealed a significant abundance of Bifidobacterium and Eggerthella in the FMT group and the pentoxifylline group, respectively. At 6 months, Bifidobacterium in the FMT group and pathogenic Aerococcaceae in the pentoxifylline group were notable. Network analysis showed beneficial taxa (Bifidobacterium) as a central influencer in those undergoing FMT at 6 months. CONCLUSIONS: Healthy donor FMT improved survival rate and reduced liver-related complications compared with pentoxifylline. These clinical benefits were associated with favorable modulation of intestinal bacterial communities. Difficult-to-treat SAH patients may be safely bridged to transplantation using FMT. Controlled trials evaluating long-term outcomes are an unmet need."
+    },
+    {
+      "pmid": "36261423",
+      "title": "Reduced alcohol preference and intake after fecal transplant in patients with alcohol use disorder is transmissible to germ-free mice.",
+      "authors": [
+        "Jennifer T Wolstenholme",
+        "Justin M Saunders",
+        "Maren Smith",
+        "Jason D Kang",
+        "Phillip B Hylemon",
+        "Javier González-Maeso",
+        "Andrew Fagan",
+        "Derrick Zhao",
+        "Masoumeh Sikaroodi",
+        "Jeremy Herzog",
+        "Amirhossein Shamsaddini",
+        "Marcela Peña-Rodríguez",
+        "Lianyong Su",
+        "Yun-Ling Tai",
+        "Jing Zheng",
+        "Po-Cheng Cheng",
+        "R Balfour Sartor",
+        "Patrick M Gillevet",
+        "Huiping Zhou",
+        "Jasmohan S Bajaj"
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2022-Oct-19",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Alcohol use disorder is a major cause of morbidity, which requires newer treatment approaches. We previously showed in a randomized clinical trial that alcohol craving and consumption reduces after fecal transplantation. Here, to determine if this could be transmitted through microbial transfer, germ-free male C57BL/6 mice received stool or sterile supernatants collected from the trial participants pre-/post-fecal transplant. We found that mice colonized with post-fecal transplant stool but not supernatants reduced ethanol acceptance, intake and preference versus pre-fecal transplant colonized mice. Microbial taxa that were higher in post-fecal transplant humans were also associated with lower murine alcohol intake and preference. A majority of the differentially expressed genes (immune response, inflammation, oxidative stress response, and epithelial cell proliferation) occurred in the intestine rather than the liver and prefrontal cortex. These findings suggest a potential for therapeutically targeting gut microbiota and the microbial-intestinal interface to alter gut-liver-brain axis and reduce alcohol consumption in humans.",
+      "mesh_terms": [
+        "Humans",
+        "Mice",
+        "Animals",
+        "Male",
+        "Fecal Microbiota Transplantation",
+        "Alcoholism",
+        "Mice, Inbred C57BL",
+        "Alcohol Drinking",
+        "Ethanol"
+      ]
+    },
+    {
+      "pmid": "36005641",
+      "title": "Trans-Species Fecal Transplant Revealed the Role of the Gut Microbiome as a Contributor to Energy Metabolism and Development of Skeletal Muscle.",
+      "authors": [
+        "Liyuan Cai",
+        "Min Li",
+        "Shuyi Zhou",
+        "Xiaoyan Zhu",
+        "Xianghua Zhang",
+        "Qingbiao Xu"
+      ],
+      "journal": "Metabolites",
+      "publication_date": "2022-Aug-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of this study was to investigate the influence of the exogenous gut microbiome at early life stages on the development of mice skeletal muscle in adulthood. First, the characteristics of skeletal muscle and the gut microbiota composition of the gut microbiota donors—Erhualian (EH) pigs (a native Chinese breed)—were studied. EH pigs had significantly higher fiber densities and thinner fiber diameters than Duroc × Landrace × Yorkshire crossed (DLY) pigs (p < 0.05). The expression levels of genes related to oxidized muscle fibers, mitochondrial function, and glucose metabolism in the skeletal muscle of EH pigs were significantly higher than those in DLY pigs (p < 0.05). Moreover, the abundances of 8 gut microbial phyla and 35 genera correlated with the skeletal muscle fiber diameters and densities exhibited significant differences (p < 0.05) between EH and DLY pigs. Subsequently, newborn mice were treated with saline (CG) and fecal microbiota suspensions collected from EH pigs (AG), respectively, for 15 days, starting from the day of birth. In adulthood (60 days), the relative abundances of Parabacteroides, Sutterella, and Dehalobacterium were significantly higher in the feces of the AG mice than those of the CG mice. The microbes contribute to improved functions related to lipid and carbohydrate metabolism. The weight, density, and gene expression related to the oxidized muscle fibers, mitochondrial function, and glucose metabolism of the AG group were significantly higher than those of the CG group (p < 0.05), whereas the fiber diameters in the skeletal muscle of the AG mice were significantly lower (p < 0.05) than those of the CG mice. These results suggested that intervention with exogenous microbiota at early stages of life can affect the fiber size and energy metabolism of their skeletal muscle."
+    },
+    {
+      "pmid": "34751848",
+      "title": "Autologous fecal transplant for the treatment of microcolon due to diversion colitis.",
+      "authors": [
+        "C A Donahue",
+        "V Chaudhry",
+        "N Mantilla"
+      ],
+      "journal": "Techniques in coloproctology",
+      "publication_date": "2022-Jan",
+      "publication_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Colitis",
+        "Colon",
+        "Fecal Microbiota Transplantation",
+        "Humans",
+        "Intestinal Obstruction",
+        "Male",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "34439657",
+      "title": "Fecal Transplant and Bifidobacterium Treatments Modulate Gut Clostridium Bacteria and Rescue Social Impairment and Hippocampal BDNF Expression in a Rodent Model of Autism.",
+      "authors": [
+        "Sameera Abuaish",
+        "Norah M Al-Otaibi",
+        "Turki S Abujamel",
+        "Saleha Ahmad Alzahrani",
+        "Sohailah Masoud Alotaibi",
+        "Yasser A AlShawakir",
+        "Kawther Aabed",
+        "Afaf El-Ansary"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2021-Aug-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Autism is associated with gastrointestinal dysfunction and gut microbiota dysbiosis, including an overall increase in Clostridium. Modulation of the gut microbiota is suggested to improve autistic symptoms. In this study, we explored the implementation of two different interventions that target the microbiota in a rodent model of autism and their effects on social behavior: the levels of different fecal Clostridium spp., and hippocampal transcript levels. Autism was induced in young Sprague Dawley male rats using oral gavage of propionic acid (PPA) for three days, while controls received saline. PPA-treated animals were divided to receive either saline, fecal transplant from healthy donor rats, or Bifidobacterium for 22 days, while controls continued to receive saline. We found that PPA attenuated social interaction in animals, which was rescued by the two interventions. PPA-treated animals had a significantly increased abundance of fecal C. perfringens with a concomitant decrease in Clostridium cluster IV, and exhibited high hippocampal Bdnf expression compared to controls. Fecal microbiota transplantation or Bifidobacterium treatment restored the balance of fecal Clostridium spp. and normalized the level of Bdnf expression. These findings highlight the involvement of the gut-brain axis in the etiology of autism and propose possible interventions in a preclinical model of autism."
+    },
+    {
+      "pmid": "33804928",
+      "title": "What Makes a Successful Donor? Fecal Transplant from Anxious-Like Rats Does Not Prevent Spinal Cord Injury-Induced Dysbiosis.",
+      "authors": [
+        "Emma K A Schmidt",
+        "Pamela J F Raposo",
+        "Karen L Madsen",
+        "Keith K Fenrich",
+        "Gillian Kabarchuk",
+        "Karim Fouad"
+      ],
+      "journal": "Biology",
+      "publication_date": "2021-Mar-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Spinal cord injury (SCI) causes gut dysbiosis and an increased prevalence of depression and anxiety. Previous research showed a link between these two consequences of SCI by using a fecal transplant from healthy rats which prevented both SCI-induced microbiota changes and the subsequent development of anxiety-like behaviour. However, whether the physical and mental state of the donor are important factors in the efficacy of FMT therapy after SCI remains unknown. In the present study, rats received a fecal transplant following SCI from uninjured donors with increased baseline levels of anxiety-like behaviour and reduced proportion of Lactobacillus in their stool. This fecal transplant increased intestinal permeability, induced anxiety-like behaviour, and resulted in minor but long-term alterations in the inflammatory state of the recipients compared to vehicle controls. There was no significant effect of the fecal transplant on motor recovery in rehabilitative training, suggesting that anxiety-like behaviour did not affect the motivation to participate in rehabilitative therapy. The results of this study emphasize the importance of considering both the microbiota composition and the mental state of the donor for fecal transplants following spinal cord injury."
+    },
+    {
+      "pmid": "31940312",
+      "title": "Fecal transplant prevents gut dysbiosis and anxiety-like behaviour after spinal cord injury in rats.",
+      "authors": [
+        "Emma K A Schmidt",
+        "Abel Torres-Espin",
+        "Pamela J F Raposo",
+        "Karen L Madsen",
+        "Kristina A Kigerl",
+        "Phillip G Popovich",
+        "Keith K Fenrich",
+        "Karim Fouad"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Secondary manifestations of spinal cord injury beyond motor and sensory dysfunction can negatively affect a person's quality of life. Spinal cord injury is associated with an increased incidence of depression and anxiety; however, the mechanisms of this relationship are currently not well understood. Human and animal studies suggest that changes in the composition of the intestinal microbiota (dysbiosis) are associated with mood disorders. The objective of the current study is to establish a model of anxiety following a cervical contusion spinal cord injury in rats and to determine whether the microbiota play a role in the observed behavioural changes. We found that spinal cord injury caused dysbiosis and increased symptoms of anxiety-like behaviour. Treatment with a fecal transplant prevented both spinal cord injury-induced dysbiosis as well as the development of anxiety-like behaviour. These results indicate that an incomplete unilateral cervical spinal cord injury can cause affective disorders and intestinal dysbiosis, and that both can be prevented by treatment with fecal transplant therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Anxiety",
+        "Behavior, Animal",
+        "Dysbiosis",
+        "Fecal Microbiota Transplantation",
+        "Gastrointestinal Microbiome",
+        "Maze Learning",
+        "Rats",
+        "Recovery of Function",
+        "Spinal Cord Injuries"
+      ]
+    },
+    {
+      "pmid": "30789675",
+      "title": "Fecal transplant modifies urine chemistry risk factors for urinary stone disease.",
+      "authors": [
+        "Joshua M Stern",
+        "Marcia Urban-Maldonado",
+        "Mykhaylo Usyk",
+        "Ignacio Granja",
+        "Daniel Schoenfeld",
+        "Kelvin P Davies",
+        "Ilir Agalliu",
+        "John Asplin",
+        "Robert Burk",
+        "Sylvia O Suadicani"
+      ],
+      "journal": "Physiological reports",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Urinary stone disease (USD) is a major health concern. There is a need for new treatment modalities. Recently, our group provided evidence for an association between the GMB composition and USD. The accessibility of the Gut Microbiome (GMB) makes it an attractive target for investigation and therefore, in these studies we have evaluated the extent to which the whole gut microbial community in fecal transplants can affect urinary stone risk parameters in an animal model. Fresh fecal pellets were collected from Zucker lean rats, homogenized in PBS (100 mg/mL), filtered through a 70 μm strainer and then orally gavaged into C57BL/6NTac germ-free mice. Twenty-four hours urine collections and GMB analysis were performed over time for 1 month. Kidney and gut tissue were harvested from transplanted mice for western blot analysis of expression levels of the Slc26a6 transporter involved in oxalate balance. Urinary calcium decreased after fecal transplant by 55% (P < 0.001). Urinary oxalate levels were on average 24% lower than baseline levels (P < 0.001). Clostridiaceae family was negatively correlated with urinary oxalate at 4 weeks after transplant (r = -0.83, P < 0.01). There was a 0.6 unit average increase in urinary pH from a baseline of 5.85 (SE ± 0.028) to 6.49 (SE ± 0.04) (P < 0.001) after transplant. There was a concomitant 29% increase in gastrointestinal alkali absorption (P < 0.001) 4-weeks after fecal transplant. Slc26a6 expression increased by 90% in the cecum after transplant. Our results suggest that the gut microbiome may impact metabolism, alters urinary chemistry, and thereby may influence USD; the accessibility of the GMB can potentially be leveraged for therapeutic interventions.",
+      "mesh_terms": [
+        "Animals",
+        "Calcium",
+        "Fecal Microbiota Transplantation",
+        "Gastrointestinal Absorption",
+        "Gastrointestinal Microbiome",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Rats",
+        "Rats, Zucker",
+        "Urinary Calculi",
+        "Urine"
+      ]
+    },
+    {
+      "pmid": "30663928",
+      "title": "Bacteroides ovatus ATCC 8483 monotherapy is superior to traditional fecal transplant and multi-strain bacteriotherapy in a murine colitis model.",
+      "authors": [
+        "Faith D Ihekweazu",
+        "Tatiana Y Fofanova",
+        "Karen Queliza",
+        "Dorottya Nagy-Szakal",
+        "Christopher J Stewart",
+        "Melinda A Engevik",
+        "Kristina G Hulten",
+        "Nina Tatevian",
+        "David Y Graham",
+        "James Versalovic",
+        "Joseph F Petrosino",
+        "Richard Kellermayer"
+      ],
+      "journal": "Gut microbes",
+      "publication_date": "2019",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Background and aims: Bacteriotherapy aimed at addressing dysbiosis may be therapeutic for Inflammatory Bowel Diseases (IBDs). We sought to determine if defined Bacteroides-based bacteriotherapy could be an effective and consistent alternative to fecal microbiota transplantation (FMT) in a murine model of IBD. Methods: We induced experimental colitis in 8- 12-week-old C57BL/6 mice using 2-3% dextran sodium sulfate. Mice were simultaneously treated by oral gavage with a triple-Bacteroides cocktail, individual Bacteroides strains, FMT using stool from healthy donor mice, or their own stool as a control. Survival, weight loss and markers of inflammation (histology, serum amyloid A, cytokine production) were correlated to 16S rRNA gene profiling of fecal and mucosal microbiomes. Results: Triple-Bacteroides combination therapy was more protective against weight loss and mortality than traditional FMT therapy. B. ovatus ATCC8483 was more effective than any individual strain, or a combination of strains, in preventing weight loss, decreasing histological damage, dampening inflammatory response, and stimulating epithelial recovery. Irrespective of the treatment group, overall Bacteroides abundance associated with treatment success and decreased cytokine production while the presence of Akkermansia correlated with treatment failure. However, the therapeutic benefit associated with high Bacteroides abundance was negated in the presence of Streptococcus. Conclusions: Bacteroides ovatus monotherapy was more consistent and effective than traditional FMT at ameliorating colitis and stimulating epithelial recovery in a murine model of IBD. Given the tolerability of Bacteroides ovatus ATCC 8483 in an active, on-going human study, this therapy may be repurposed for the management of IBD in a clinically expedient timeline.",
+      "mesh_terms": [
+        "Animals",
+        "Bacteria",
+        "Bacteroides",
+        "Colitis",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Fecal Microbiota Transplantation",
+        "Feces",
+        "Gastrointestinal Tract",
+        "Inflammation",
+        "Male",
+        "Mice, Inbred C57BL",
+        "RNA, Ribosomal, 16S",
+        "Survival Analysis",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "30505519",
+      "title": "The need to move away from fecal transplant towards targeted, refined microbiome therapy.",
+      "authors": [
+        "Lindsey Russell",
+        "Tanya Monaghan",
+        "Dina Kao"
+      ],
+      "journal": "Journal of thoracic disease",
+      "publication_date": "2018-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "29173524",
+      "title": "Fecal Transplant in Inflammatory Bowel Disease.",
+      "authors": [
+        "Alexander S Browne",
+        "Colleen R Kelly"
+      ],
+      "journal": "Gastroenterology clinics of North America",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Patients with inflammatory bowel disease (IBD) have differences in their gastrointestinal microbiome compared with healthy individuals, although it is unclear whether this is a cause or consequence of chronic inflammation. There is hope that manipulation of the gut microbiome through fecal microbiota transplant (FMT), commonly used to treat patients with Clostridium difficile infection, may also be an effective therapy in IBD. This article reviews the evidence supporting FMT in IBD, including case reports, case series, and randomized controlled trials. The article also focuses on questions of safety and speculates on the future of this therapy.",
+      "mesh_terms": [
+        "Fecal Microbiota Transplantation",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Observational Studies as Topic",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "28649413",
+      "title": "Identification of donor microbe species that colonize and persist long term in the recipient after fecal transplant for recurrent Clostridium difficile.",
+      "authors": [
+        "Ranjit Kumar",
+        "Nengjun Yi",
+        "Degui Zhi",
+        "Peter Eipers",
+        "Kelly T Goldsmith",
+        "Paula Dixon",
+        "David K Crossman",
+        "Michael R Crowley",
+        "Elliot J Lefkowitz",
+        "J Martin Rodriguez",
+        "Casey D Morrow"
+      ],
+      "journal": "NPJ biofilms and microbiomes",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fecal microbiota transplantation has been shown to be an effective treatment for patients with recurrent C. difficile colitis. Although fecal microbiota transplantation helps to re-establish a normal gut function in patients, the extent of the repopulation of the recipient microbial community varies. To further understand this variation, it is important to determine the fate of donor microbes in the patients following fecal microbiota transplantation. We have developed a new method that utilizes the unique single nucleotide variants of gut microbes to accurately identify microbes in paired fecal samples from the same individual taken at different times. Using this method, we identified transplant donor microbes in seven recipients 3-6 months after fecal microbiota transplantation; in two of these fecal microbiota transplantation, we were able to identify donor microbes that persist in recipients up to 2 years post-fecal microbiota transplantation. Our study provides new insights into the dynamics of the reconstitution of the gastrointestinal microbe community structure following fecal microbiota transplantation."
+    },
+    {
+      "pmid": "26934528",
+      "title": "Predictors of fecal transplant failure.",
+      "authors": [
+        "Alireza Meighani",
+        "Benjamin R Hart",
+        "Chetan Mittal",
+        "Nichole Miller",
+        "Ajin John",
+        "Mayur Ramesh"
+      ],
+      "journal": "European journal of gastroenterology & hepatology",
+      "publication_date": "2016-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Clostridium difficile infection (CDI) is a significant healthcare burden, with increased morbidity and mortality. Traditional treatment regimens using antibiotics for recurrent CDI are significantly less successful compared with 80-90% with fecal microbiota transplantation (FMT). There is a paucity of data on failure rates and mortality after FMT in CDI. This study aims to identify the rates of failure, relapse, and mortality associated with FMT as well as the risk factors for FMT failure. METHODS: A large retrospective cohort study was carried out including all patients who underwent FMT from December 2012 through May 2014. Patient factors (demographics, comorbidities, immune-suppression, transplant history, antibiotics used, hospitalization, and surgeries), disease factors (number of episodes of CDI, treatments, and severity), and transplant factors (route and number of FMT) were examined. Failure of treatment was defined as no resolution of diarrhea in patients who had been treated with one or more fecal microbiota transplantation within 90 days of FMT. RESULTS: A total of 201 patients (age 66.6±18.3 years, 62.2% women) were included. The overall failure rate was 12.4%. Patients with failed fecal transplant had increased number of FMTs compared with those who responded (mean 1.92±0.997 vs. 1.29±0.615; P=0.004). No colectomies or death related to CDI were found in our patient population. Significant predictors of failure were female sex (P=0.016), previous hospitalization (P=0.006), and surgery before FMT (P=0.005). The overall mortality rate was 9.0% and failure of FMT was associated with an increased risk of death (odds ratio=5.833, confidence interval 2.01-16.925; P<0.05). CONCLUSION: FMT is a suitable alterative to antibiotic use for recurrent CDIs, with a high success rate. The results indicate that hospital-acquired CDI may be a predictor of failure of FMT.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Anti-Bacterial Agents",
+        "Cross Infection",
+        "Enterocolitis, Pseudomembranous",
+        "Fecal Microbiota Transplantation",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Prognosis",
+        "Recurrence",
+        "Retrospective Studies",
+        "Risk Factors",
+        "Sex Factors",
+        "Survival Rate",
+        "Treatment Failure"
+      ]
+    },
+    {
+      "pmid": "25574076",
+      "title": "Fecal transplant policy and legislation.",
+      "authors": [
+        "Dinesh Vyas",
+        "Apoorva Aekka",
+        "Arpita Vyas"
+      ],
+      "journal": "World journal of gastroenterology",
+      "publication_date": "2015-Jan-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fecal microbiota transplantation (FMT) has garnered significant attention in recent years in the face of a reemerging Clostridium difficile (C. difficile) epidemic. Positive results from the first randomized control trial evaluating FMT have encouraged the medical community to explore the process further and expand its application beyond C. difficile infections and even the gastrointestinal domain. However promising and numerous the prospects of FMT appear, the method remains limited in scope today due to several important barriers, most notably a poorly defined federal regulatory policy. The Food and Drug Administration has found it difficult to standardize and regulate the administration of inherently variable, metabolically active, and ubiquitously available fecal material. The current cumbersome policy, which classifies human feces as a drug, has prevented physicians from providing FMT and deserving patients from accessing FMT in a timely fashion, and subsequent modifications seem only to be temporary. The argument for reclassifying fecal material as human tissue is well supported. Essentially, this would allow for a regulatory framework that is sufficiently flexible to expand access to care and facilitate research, but also appropriately restrictive and centralized to ensure patient safety. Such an approach can facilitate the advancement of FMT to a more refined, controlled, and aesthetic process, perhaps in the form of a customized and well-characterized stool substitute therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Biological Therapy",
+        "Clostridioides difficile",
+        "Enterocolitis, Pseudomembranous",
+        "Feces",
+        "Health Policy",
+        "Humans",
+        "Intestines",
+        "Microbiota",
+        "Patient Safety",
+        "Risk Assessment",
+        "Risk Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "24858336",
+      "title": "Fecal Transplant for Treatment of Toxic Megacolon Associated With Clostridium Difficile Colitis in a Patient With Duchenne Muscular Dystrophy.",
+      "authors": [
+        "Shipeng Yu",
+        "Ahmed Abdelkarim",
+        "Ali Nawras",
+        "Bryan Thomas Hinch",
+        "Chimaka Mbaso",
+        "Shahul Valavoor",
+        "Fadi Safi",
+        "Jeffrey Hammersley",
+        "Jianlin Tang",
+        "Ragheb Assaly"
+      ],
+      "journal": "American journal of therapeutics",
+      "publication_date": "2016",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Clostridium difficile (C diff) colitis infection is the most common cause of nosocomial infectious diarrhea and the prevalence is increasing worldwide. Toxic megacolon is a severe complication of C diff colitis associated with high mortality. Gastrointestinal (GI) comorbidity and impaired smooth muscle contraction are risk factors for the development of C diff-associated toxic megacolon. We present a case of fulminant C diff colitis with toxic megacolon in a patient with Duchenne muscular dystrophy (DMD) in the intensive care unit. C diff colitis was diagnosed by clinical presentation and positive C diff DNA amplification test (polymerase chain reaction). The impairment of GI tract due to DMD predisposes these patients to severe C diff infection and toxic megacolon, as observed in this case report. For the same reason, the recovery of GI function in these patients can be prolonged. While surgery was conducted for relieving the pressure from toxic megacolon, fecal microbiota transplantation through colonoscopy resulted in successful resolution of the C diff symptoms, although the recovery is prolonged due to DMD.",
+      "mesh_terms": [
+        "Adult",
+        "Enterocolitis, Pseudomembranous",
+        "Fecal Microbiota Transplantation",
+        "Gastrointestinal Motility",
+        "Humans",
+        "Male",
+        "Megacolon, Toxic",
+        "Muscular Dystrophy, Duchenne"
+      ]
+    },
+    {
+      "pmid": "24481438",
+      "title": "[Successful home-made fecal transplant for an elderly woman].",
+      "authors": [
+        "Jose Halabe Cherem",
+        "Irma Hoyo Ulloa"
+      ],
+      "journal": "Gaceta medica de Mexico",
+      "publication_date": "2014",
+      "publication_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "Recurrent clostridium difficile infection (CDI) is a challenge for infectious disease specialists. A third of first recurrences will fail antibiotic therapy. Several mechanisms have been proposed to explain this, such as persistence of spores, inadequate antibody response, and altered gut microbiota. Standard recommendations for CDI treatment include metronidazole and vancomycin. Fecal transplant has proven to be an effective therapy for recurrent CDI. Infusion of stools can be administered to the upper or lower gastrointestinal tract during an endoscopic procedure or using nasogastric/duodenal or rectal tubes. Elderly persons have an increased incidence of recurrent infection and have a higher mortality rate. We propose a home-based delivery method using a 5 ml syringe for intrarectal infusion of stools.",
+      "mesh_terms": [
+        "Aged, 80 and over",
+        "Clostridium Infections",
+        "Feces",
+        "Female",
+        "Humans",
+        "Remission Induction"
+      ]
+    },
+    {
+      "pmid": "24119331",
+      "title": "Ulcerative colitis, Crohn's disease and irritable bowel syndrome patients need fecal transplant research and treatment.",
+      "authors": [
+        "Amy C Brown"
+      ],
+      "journal": "Journal of Crohn's & colitis",
+      "publication_date": "2014-Feb",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Feces",
+        "Humans",
+        "Irritable Bowel Syndrome"
+      ]
+    },
+    {
+      "pmid": "23967542",
+      "title": "Fecal transplant for recurrent Clostridium difficile infection.",
+      "authors": [
+        "Denene Lofland",
+        "Floyd Josephat",
+        "Sarah Partin"
+      ],
+      "journal": "Clinical laboratory science : journal of the American Society for Medical Technology",
+      "publication_date": "2013",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Clostridium difficile infection (CDI) results in clinical manifestations ranging from mild diarrhea to life-threatening pseudomembranous colitis. Infection is most often initiated by antimicrobial therapy which causes an imbalance in normal colonic microflora. The pathogenesis of C. difficile is predominantly controlled by the production of its two cytotoxins, A and B, which damage the intestinal mucosa. In recent years a nationwide increase in the rate of CDI has been noted as well as an increase in mortality, reduced initial response to antimicrobials, extended resolution time, and increased rates of recurrence. Traditional treatment includes administration of antimicrobials. Fecal microbiota transplant (FMT) is an alternative therapy for CDI that is effective and promising in multiple CDI relapse patients. This paper will provide an overview of CDI epidemiology, pathogenesis, diagnosis, and treatment, and explore the case of a 53-year-old woman suffering from her sixth episode of CDI.",
+      "mesh_terms": [
+        "Clostridioides difficile",
+        "Colon",
+        "Colonoscopy",
+        "Enterocolitis, Pseudomembranous",
+        "Feces",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Transplantation",
+        "Transplants"
+      ]
+    },
+    {
+      "pmid": "23768558",
+      "title": "Fecal transplant: a safe and sustainable clinical therapy for restoring intestinal microbial balance in human disease?",
+      "authors": [
+        "A Vrieze",
+        "P F de Groot",
+        "R S Kootte",
+        "M Knaapen",
+        "E van Nood",
+        "M Nieuwdorp"
+      ],
+      "journal": "Best practice & research. Clinical gastroenterology",
+      "publication_date": "2013-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Recent studies have suggested an association between intestinal microbiota composition and human disease, however causality remains to be proven. With hindsight, the application of fecal transplantation (FMT) does indeed suggest a causal relation between interfering with gut microbiota composition and a resultant cure of several disease states. In this review, we aim to show the available evidence regarding the involvement of intestinal microbiota and human (autoimmune) disease. Moreover, we refer to (mostly case report) studies showing beneficial or adverse effects of fecal transplantation on clinical outcomes in some of these disease states. If these findings can be substantiated in larger randomized controlled double blind trials also implementing gut microbiota composition before and after intervention, fecal transplantation might provide us with novel insights into causally related intestinal microbiota, that might be serve as future diagnostic and treatment targets in human disease.",
+      "mesh_terms": [
+        "Biological Therapy",
+        "Feces",
+        "Gastrointestinal Diseases",
+        "Gastrointestinal Tract",
+        "Host-Pathogen Interactions",
+        "Humans",
+        "Metagenome",
+        "Probiotics"
+      ]
+    },
+    {
+      "pmid": "23468820",
+      "title": "Fecal transplant in refractory Clostridium difficile colitis.",
+      "authors": [
+        "Alexander Kleger",
+        "Jacqueline Schnell",
+        "Andreas Essig",
+        "Martin Wagner",
+        "Martin Bommer",
+        "Thomas Seufferlein",
+        "Georg Härter"
+      ],
+      "journal": "Deutsches Arzteblatt international",
+      "publication_date": "2013-Feb",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Clostridium difficile infections are becoming more common, more severe, and more likely to recur. Conventional treatment with antibiotics often fails to eradicate the infection; even when it succeeds, recurrent infection is common. Complementary treatment with probiotic agents to reconstitute the physiological intestinal flora does not yield any consistent benefit. In recent years, fecal transplantation has been used in the English-speaking countries with cure rates of about 87%, but the available evidence is limited to large case series. No randomized controlled trials have been performed. We present the case of a 73-year-old woman with intractable, recurrent enterocolitis due to Clostridium difficile who was successfully treated with fecal transplantation via colonoscopy. CASE DESCRIPTION: Upon the completion of antibiotic treatment for a second recurrence of enterocolitis, stool in liquid suspension was introduced into the patient's colon through a colonoscope. Prior testing had shown the stool donor to be free of acute infection or stool pathogens. The patient was given loperamide to prolong contact of the stool transplant with the colonic mucosa. She was also treated with Saccharomyces cerevisiae for four weeks. COURSE: There was no clinical or microbiological evidence of a further recurrence of enterocolitis for 6 months after transplantation. Stool transplantation had no adverse effects. CONCLUSION: This patient had a lasting remission of enterocolitis due to Clostridium difficile after the treatment described above. Fecal transplantation seems to be a safe and highly effective treatment for recurrent Clostridium difficile infection. It is unclear whether the administration of Saccharomyces cerevisiae confers any additional benefit.",
+      "mesh_terms": [
+        "Aged",
+        "Chronic Disease",
+        "Clostridioides difficile",
+        "Colitis",
+        "Enterocolitis, Pseudomembranous",
+        "Feces",
+        "Female",
+        "Humans",
+        "Probiotics",
+        "Treatment Failure",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

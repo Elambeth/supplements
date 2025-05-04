@@ -1,0 +1,705 @@
+{
+  "supplement": "Anatabine",
+  "query": "Anatabine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:09:54",
+  "research_count": 21,
+  "count": 21,
+  "articles": [
+    {
+      "pmid": "37667170",
+      "title": "Suppression of pyrrolidine ring biosynthesis and its effects on gene expression and subsequent accumulation of anatabine in leaves of tobacco (N. tabacum L.).",
+      "authors": [
+        "Kacper Piotr Kaminski",
+        "Lucien Bovet",
+        "Aurore Hilfiker",
+        "Helene Laparra",
+        "Joanne Schwaar",
+        "Nicolas Sierro",
+        "Gerhard Lang",
+        "Damien De Palo",
+        "Philippe Alexandre Guy",
+        "Csaba Laszlo",
+        "Simon Goepfert",
+        "Nikolai V Ivanov"
+      ],
+      "journal": "BMC genomics",
+      "publication_date": "2023-Sep-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Anatabine, although being one of four major tobacco alkaloids, is never accumulated in high quantity in any of the naturally occurring species from the Nicotiana genus. Previous studies therefore focused on transgenic approaches to synthetize anatabine, most notably by generating transgenic lines with suppressed putrescine methyltransferase (PMT) activity. This led to promising results, but the global gene expression of plants with such distinct metabolism has not been analyzed. In the current study, we describe how these plants respond to topping and the downstream effects on alkaloid biosynthesis. RESULTS: The surge in anatabine accumulation in PMT transgenic lines after topping treatment and its effects on gene expression changes were analyzed. The results revealed increases in expression of isoflavone reductase-like (A622) and berberine bridge-like enzymes (BBLs) oxidoreductase genes, previously shown to be crucial for the final steps of nicotine biosynthesis. We also observed significantly higher methylputrescine oxidase (MPO) expression in all plants subjected to topping treatment. In order to investigate if MPO suppression would have the same effects as that of PMT, we generated transgenic plants. These plants with suppressed MPO expression showed an almost complete drop in leaf nicotine content, whereas leaf anatabine was observed to increase by a factor of ~ 1.6X. CONCLUSION: Our results are the first concrete evidence that suppression of MPO leads to decreased nicotine in favor of anatabine in tobacco roots and that this anatabine is successfully transported to tobacco leaves. Alkaloid transport in plants remains to be investigated to higher detail due to high variation of its efficiency among Nicotiana species and varieties of tobacco. Our research adds important step to better understand pyrrolidine ring biosynthesis and its effects on gene expression and subsequent accumulation of anatabine.",
+      "mesh_terms": [
+        "Nicotiana",
+        "Nicotine",
+        "Alkaloids",
+        "Plant Leaves",
+        "Pyrrolidines",
+        "Gene Expression"
+      ]
+    },
+    {
+      "pmid": "37146788",
+      "title": "Novel proposed cutoff values for anatabine and anabasine in differentiating smokers from non-smokers.",
+      "authors": [
+        "Marie-Lise Colsoul",
+        "Nicolas Goderniaux",
+        "Sabrina Onorati",
+        "Stéphanie Dupuis",
+        "Jacques Jamart",
+        "Dominique Vanpee",
+        "Ivan Berlin",
+        "Laurence Galanti"
+      ],
+      "journal": "Clinical biochemistry",
+      "publication_date": "2023-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Anatabine and anabasine are two tobacco alkaloids used to differentiate between tobacco users and abstainers, including users of nicotine replacement therapy. Cutoff values (>2 ng/mL for both alkaloids) have not been revised since their implementation in 2002. These values may be too high, leading to increased likelihood of misclassification between smokers and abstainers. This results in major consequences, especially adverse outcomes of transplantation when smokers were incorrectly identified as being abstinent. This study proposes that a lower threshold for anatabine and anabasine will better distinguish tobacco users from non-users and thereby improve patients' care. DESIGN AND METHODS: A new and more sensitive analytical method by liquid chromatography-mass detection was developed to allow the quantification of low concentrations. Anatabine and anabasine were measured in urine samples of 116 self-reported daily smokers and 47 long-term non-smokers (confirmed by the analysis of nicotine and its metabolites). The best compromise between sensitivity and specificity allowed us to determine new cutoff values. RESULTS: The thresholds >0.097 ng/mL for anatabine and >0.236 ng/mL for anabasine were associated with a sensitivity of 97% (anatabine) and 89% (anabasine) and a specificity of 98% for both alkaloids. These cutoff values greatly increased the sensitivity given that it dropped to 75% (anatabine) and 47% (anabasine) when using the reference value (>2 ng/mL). CONCLUSIONS: The cutoff values >0.097 ng/mL for anatabine and >0.236 ng/mL for anabasine appear to better differentiate tobacco users from abstainers than the current reference threshold (>2 ng/mL for both alkaloids). It may considerably impact patients' care, especially in transplantation settings in which smoking abstinence is essential to avoid adverse outcomes of transplantation.",
+      "mesh_terms": [
+        "Humans",
+        "Anabasine",
+        "Smoking Cessation",
+        "Non-Smokers",
+        "Tobacco Use Cessation Devices",
+        "Alkaloids"
+      ]
+    },
+    {
+      "pmid": "36467029",
+      "title": "Systems biology reveals anatabine to be an NRF2 activator.",
+      "authors": [
+        "Dimitris E Messinis",
+        "Carine Poussin",
+        "Diogo A R S Latino",
+        "Yvan Eb-Levadoux",
+        "Remi Dulize",
+        "Dariusz Peric",
+        "Emmanuel Guedj",
+        "Bjoern Titz",
+        "Nikolai V Ivanov",
+        "Manuel C Peitsch",
+        "Julia Hoeng"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Anatabine, an alkaloid present in plants of the So lanaceae family (including tobacco and eggplant), has been shown to ameliorate chronic inflammatory conditions in mouse models, such as Alzheimer's disease, Hashimoto's thyroiditis, multiple sclerosis, and intestinal inflammation. However, the mechanisms of action of anatabine remain unclear. To understand the impact of anatabine on cellular systems and identify the molecular pathways that are perturbed, we designed a study to examine the concentration-dependent effects of anatabine on various cell types by using a systems pharmacology approach. The resulting dataset, consisting of measurements of various omics data types at different time points, was analyzed by using multiple computational techniques. To identify concentration-dependent activated pathways, we performed linear modeling followed by gene set enrichment. To predict the functional partners of anatabine and the involved pathways, we harnessed the LINCS L1000 dataset's wealth of information and implemented integer linear programming on directed graphs, respectively. Finally, we experimentally verified our key computational predictions. Using an appropriate luciferase reporter cell system, we were able to demonstrate that anatabine treatment results in NRF2 (nuclear factor-erythroid factor 2-related factor 2) translocation, and our systematic phosphoproteomic assays showed that anatabine treatment results in activation of MAPK signaling. While there are certain areas to be explored in deciphering the exact anti-inflammatory mechanisms of action of anatabine and other NRF2 activators, we believe that anatabine constitutes an interesting molecule for its therapeutic potential in NRF2-related diseases."
+    },
+    {
+      "pmid": "36103960",
+      "title": "Anatabine attenuates ovalbumin-induced asthma via oxidative stress and inflammation mitigation and Nrf2/HO-1 signaling upregulation in rats.",
+      "authors": [
+        "Walied Abdo",
+        "Imer Haziri",
+        "Mohamed Dmerdash",
+        "Sulaiman Mohammed Alnasser",
+        "Ali Hakamy",
+        "Ehab Ali",
+        "Soha A Soliman",
+        "Hanan H Abd-Elhafeez",
+        "Ahmed M Abd-Eldayem"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2022-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Asthma affects a large number of people worldwide and is characterized by chronic allergic airway inflammation. Anatabine is a natural alkaloid that is structurally similar to nicotine and found in the Solanaceae family of plants, with anti-inflammatory properties. Consequently, this study aimed to evaluate the potential therapeutic effect of anatabine against asthma. MAIN METHODS: Ovalbumin was used to induce asthma in rats. Two asthmatic groups were treated with low and high doses of anatabine. KEY FINDINGS: Asthmatic animals experienced increased total leukocyte count and inflammatory cytokines in bronchoalveolar lavage fluid (BALF), bronchitis, and bronchopneumonia associated with mast cell infiltration. Additionally, inducible nitric oxide synthase immunostaining was observed, with decreased pulmonary antioxidant capacity and enzymes and decreased Nrf2 and HO-1 gene expression while increased NFκB-P65 expression. Interestingly, asthmatic animals treated with anatabine at both doses showed dose-dependently decreased inflammatory cells and cytokine levels within BALF reduced inflammation in the airways through decreased mast cell infiltration within lung tissues and increased antioxidant enzymes and Nrf2 and Ho-1 expression levels. SIGNIFICANCE: Our results highlight the potential beneficial effect of anatabine against asthma through anti-inflammatory and antioxidant mechanisms. Therefore, anatabine is a promising candidate for pulmonary asthma treatment.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Asthma",
+        "Bronchoalveolar Lavage Fluid",
+        "Cytokines",
+        "Heme Oxygenase (Decyclizing)",
+        "Inflammation",
+        "Lung",
+        "NF-E2-Related Factor 2",
+        "Nicotine",
+        "Nitric Oxide Synthase Type II",
+        "Ovalbumin",
+        "Oxidative Stress",
+        "Pyridines",
+        "Rats",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "35955098",
+      "title": "Anabasine and Anatabine Exposure Attributable to Cigarette Smoking: National Health and Nutrition Examination Survey (NHANES) 2013-2014.",
+      "authors": [
+        "Patrick B Bendik",
+        "Sharyn M Rutt",
+        "Brittany N Pine",
+        "Connie S Sosnoff",
+        "Benjamin C Blount",
+        "Wanzhe Zhu",
+        "June Feng",
+        "Lanqing Wang"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2022-Aug-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Anabasine and anatabine are minor alkaloids in tobacco products and are precursors for tobacco-specific nitrosamines (TSNAs). The levels of these two compounds have been used to differentiate tobacco product sources, monitor compliance with smoking cessation programs, and for biomonitoring in TSNA-related studies. The concentrations of urinary anabasine and anatabine were measured in a representative sample of U.S. adults who smoked cigarettes (N = 770) during the 2013−2014 National Health and Nutrition Examination Survey (NHANES) study cycle, which was the first cycle where urinary anabasine and anatabine data became available. Weighted geometric means (GM) and geometric least squares means (LSM) with 95% confidence intervals were calculated for urinary anabasine and anatabine categorized by tobacco-use status [cigarettes per day (CPD) and smoking frequency] and demographic characteristics. Smoking ≥20 CPD was associated with 3.6× higher anabasine GM and 4.8× higher anatabine GM compared with smoking <10 CPD. Compared with non-daily smoking, daily smoking was associated with higher GMs for urinary anabasine (1.41 ng/mL vs. 6.28 ng/mL) and anatabine (1.62 ng/mL vs. 9.24 ng/mL). Urinary anabasine and anatabine concentrations exceeded the 2 ng/mL cut point in 86% and 91% of urine samples from people who smoke (PWS) daily, respectively; in comparison, 100% of them had serum cotinine concentrations greater than the established 10 ng/mL cut point. We compared these minor tobacco alkaloid levels to those of serum cotinine to assess their suitability as indicators of recent tobacco use at established cut points and found that their optimal cut point values would be lower than the established values. This is the first time that anabasine and anatabine are reported for urine collected from a U.S. population-representative sample of NHANES study participants, providing a snapshot of exposure levels for adults who smoked during 2013−2014. The results of this study serve as an initial reference point for future analysis of NHANES cycles, where changes in the national level of urinary anabasine and anatabine can be monitored among people who smoke to show the effect of changes in tobacco policy.",
+      "mesh_terms": [
+        "Adult",
+        "Alkaloids",
+        "Anabasine",
+        "Biomarkers",
+        "Cigarette Smoking",
+        "Cotinine",
+        "Humans",
+        "Nicotine",
+        "Nutrition Surveys",
+        "Pyridines",
+        "Tobacco Products"
+      ]
+    },
+    {
+      "pmid": "35159932",
+      "title": "Anatabine, Nornicotine, and Anabasine Reduce Weight Gain and Body Fat through Decreases in Food Intake and Increases in Physical Activity.",
+      "authors": [
+        "Patricia E Grebenstein",
+        "Paige Erickson",
+        "Martha Grace",
+        "Catherine M Kotz"
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2022-Jan-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity is a leading cause of preventable death in the United States. Currently approved pharmacotherapies for the treatment of obesity are associated with rebound weight gain, negative side effects, and the potential for abuse. There is a need for new treatments with fewer side effects. Minor tobacco alkaloids (MTAs) are potential candidates for novel obesity pharmacotherapies. These alkaloids are structurally related to nicotine, which can help reduce body weight, but without the same addictive potential. The purpose of the current study was to examine the effects of three MTAs (nornicotine, anatabine, and anabasine) and nicotine on weight gain, body composition, chow intake, and physical activity. We hypothesized that the MTAs and nicotine would reduce weight gain through reductions in chow intake and increases in physical activity. To test this, male Sprague Dawley rats were housed in metabolic phenotyping chambers. Following acclimation to these chambers and to (subcutaneous (sc)) injections of saline, animals received daily injections (sc) of nornicotine, anabasine, anatabine, or nicotine for one week. Compared to saline-injected animals that gained body weight and body fat during the treatment phase, injections of nornicotine and anatabine prevented additional weight gain, alongside reductions in body fat. Rats receiving anabasine and nicotine gained body weight at a slower rate relative to rats receiving saline injections, and body fat remained unchanged. All compounds reduced the intake of chow pellets. Nornicotine and nicotine produced consistent increases in physical activity 6 h post-injection, whereas anabasine's and anatabine's effects on physical activity were more transient. These results show that short-term, daily administration of nornicotine, anabasine, and anatabine has positive effects on weight loss, through reductions in body fat and food intake and increases in physical activity. Together, these findings suggest that MTAs are worthy of further investigations as anti-obesity pharmacotherapies."
+    },
+    {
+      "pmid": "33846461",
+      "title": "A 3-month-delayed treatment with anatabine improves chronic outcomes in two different models of repetitive mild traumatic brain injury in hTau mice.",
+      "authors": [
+        "Alexander Morin",
+        "Benoit Mouzon",
+        "Scott Ferguson",
+        "Daniel Paris",
+        "Nicole Saltiel",
+        "Mackenzie Browning",
+        "Mike Mullan",
+        "Fiona Crawford"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2021-Apr-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "To date, an overwhelming number of preclinical studies have addressed acute treatment in mild TBI (mTBI) and repetitive mTBI (r-mTBI), whereas, in humans, there often exists a significant time gap between the injury and the first medical intervention. Our study focused on a delayed treatment with anatabine, an anti-inflammatory compound, in hTau mice using two different models of r-mTBI. The rationale for using two models of the same impact but different frequencies (5 hit mTBI over 9 days and 24 hit mTBI over 90 days) was chosen to address the heterogeneity of r-mTBI in clinical population. Following the last injury in each model, three months elapsed before the initiation of treatment. Anatabine was administered in drinking water for 3 months thereafter. Our data demonstrated that a 3-month delayed treatment with anatabine mitigated astrogliosis in both TBI paradigms but improved cognitive functions only in more-frequently-injured mice (24 hit mTBI). We also found that anatabine decreased the phosphorylation of tau protein and NFκB, which were increased after r-mTBI in both models. The ability of anatabine to suppress these mechanisms suggests that delayed treatment can be effective for clinical population of r-mTBI. The discrepancy between the two models with regard to changes in cognitive performance suggests that r-mTBI heterogeneity may influence treatment efficiency and should be considered in therapeutic development.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Brain Injuries, Traumatic",
+        "Cerebral Cortex",
+        "Disease Models, Animal",
+        "Female",
+        "Glial Fibrillary Acidic Protein",
+        "Humans",
+        "Male",
+        "Memory",
+        "Mice, Transgenic",
+        "Models, Biological",
+        "Motor Activity",
+        "NF-kappa B",
+        "Pyridines",
+        "Signal Transduction",
+        "Treatment Outcome",
+        "alpha7 Nicotinic Acetylcholine Receptor",
+        "tau Proteins"
+      ]
+    },
+    {
+      "pmid": "32855621",
+      "title": "Anatabine ameliorates intestinal inflammation and reduces the production of pro-inflammatory factors in a dextran sulfate sodium mouse model of colitis.",
+      "authors": [
+        "Pedro A Ruiz Castro",
+        "Ulrike Kogel",
+        "Giuseppe Lo Sasso",
+        "Blaine W Phillips",
+        "Alain Sewer",
+        "Bjorn Titz",
+        "Llenalia Garcia",
+        "Athanasios Kondylis",
+        "Emmanuel Guedj",
+        "Dariusz Peric",
+        "David Bornand",
+        "Remi Dulize",
+        "Celine Merg",
+        "Maica Corciulo",
+        "Nikolai V Ivanov",
+        "Manuel C Peitsch",
+        "Julia Hoeng"
+      ],
+      "journal": "Journal of inflammation (London, England)",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Inflammatory bowel disease (IBD) is the collective term for chronic immune-mediated diseases of unknown, multifactorial etiology, arising from the interplay between genetic and environmental factors and including two main disease manifestations: ulcerative colitis (UC) and Crohn's disease. In the last few decades, naturally occurring alkaloids have gained interest because of their substantial anti-inflammatory effects in several animal models of disease. Studies on mouse models of IBD have demonstrated the anti-inflammatory action of the main tobacco alkaloid, nicotine. In addition, anatabine, a minor tobacco alkaloid also present in peppers, tomato, and eggplant presents anti-inflammatory properties in vivo and in vitro. In this study, we aimed to evaluate the anti-inflammatory properties of nicotine and anatabine in a dextran sulfate sodium (DSS) mouse model of UC. RESULTS: Oral administration of anatabine, but not nicotine, reduced the clinical symptoms of DSS-induced colitis. The result of gene expression analysis suggested that anatabine had a restorative effect on global DSS-induced gene expression profiles, while nicotine only had limited effects. Accordingly, MAP findings revealed that anatabine reduced the colonic abundance of DSS-associated cytokines and increased IL-10 abundance. CONCLUSIONS: Our results support the amelioration of inflammatory effects by anatabine in the DSS mouse model of UC, and suggest that anatabine constitutes a promising therapeutic agent for IBD treatment."
+    },
+    {
+      "pmid": "32653706",
+      "title": "Determination of anabasine, anatabine, and nicotine biomarkers in wastewater by enhanced direct injection LC-MS/MS and evaluation of their in-sewer stability.",
+      "authors": [
+        "Qiuda Zheng",
+        "Geoff Eaglesham",
+        "Benjamin J Tscharke",
+        "Jake W O'Brien",
+        "Jiaying Li",
+        "Jack Thompson",
+        "Katja M Shimko",
+        "Tim Reeks",
+        "Cobus Gerber",
+        "Kevin V Thomas",
+        "Phong K Thai"
+      ],
+      "journal": "The Science of the total environment",
+      "publication_date": "2020-Nov-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Wastewater-based epidemiology (WBE) has been used to estimate tobacco use in the population. However, the increased use of nicotine replacement therapies and e-cigarettes contributes to the load of nicotine metabolites in wastewater, causing over-estimation of tobacco use if nicotine metabolites were used in WBE back-estimation. This study aims to develop a rapid method for determining the tobacco-specific biomarkers, anabasine and anatabine, in wastewater and to evaluate their in-sewer stability for better estimation of tobacco use by WBE. An enhanced direct injection LC-MS/MS was developed to quantify anabasine and anatabine as well as nicotine biomarkers (nicotine, cotinine and hydroxycotinine). The method was optimal when wastewater was filtered through 0.2 μm RC syringe filters and a pre-conditioned SPE cartridge (Oasis HLB 1 cc, 30 mg) before 50 μL was injected into the LC-MS/MS system. Limits of quantification varied between 2.7 and 54.9 ng/L with recoveries from 76% to 103% for all five compounds. In sewer reactors, anabasine and anatabine were less stable than cotinine and hydroxycotinine. They were more stable in the gravity sewer reactor with <20% loss in 12 h than in the rising main sewer reactor with ~30% loss in the same period. We then applied the new method to 42 daily wastewater influent samples collected from an Australian wastewater treatment plant. The five biomarkers were detected in all samples with concentrations ranging from 9.2 to 7430 ng/L. All five compounds were positively correlated with one another. Our results suggested a high throughput analytical method for feasible application in anabasine and anatabine as biomarkers of tobacco use in routine wastewater monitoring.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Anabasine",
+        "Australia",
+        "Biomarkers",
+        "Chromatography, Liquid",
+        "Cotinine",
+        "Electronic Nicotine Delivery Systems",
+        "Nicotine",
+        "Pyridines",
+        "Smoking Cessation",
+        "Tandem Mass Spectrometry",
+        "Tobacco Use Cessation Devices",
+        "Wastewater"
+      ]
+    },
+    {
+      "pmid": "27889957",
+      "title": "Acute or Delayed Treatment with Anatabine Improves Spatial Memory and Reduces Pathological Sequelae at Late Time-Points after Repetitive Mild Traumatic Brain Injury.",
+      "authors": [
+        "Scott Ferguson",
+        "Benoit Mouzon",
+        "Daniel Paris",
+        "Destinee Aponte",
+        "Laila Abdullah",
+        "William Stewart",
+        "Michael Mullan",
+        "Fiona Crawford"
+      ],
+      "journal": "Journal of neurotrauma",
+      "publication_date": "2017-Apr-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Traumatic brain injury (TBI) has chronic and long-term consequences for which there are currently no approved pharmacological treatments. We have previously characterized the chronic neurobehavioral and pathological sequelae of a mouse model of repetitive mild TBI (r-mTBI) through to 2 years post-TBI. Despite the mild nature of the initial insult, secondary injury processes are initiated that involve neuroinflammatory and neurodegenerative pathways persisting and progressing for weeks and months post-injury and providing a potential window of opportunity for therapeutic intervention. In this study we examined the efficacy of a novel anti-inflammatory compound, anatabine, in modifying outcome after TBI. Our model of r-mTBI involves a series of five mild impacts (midline impact at 5 m/sec, 1 mm strike depth, 200 msec dwell time) with an interval of 48 h. Anatabine treatment was administered starting 30 min after injury and was delivered continuously through drinking water. At 6 months after TBI, anatabine treatment improved spatial memory in injured mice. Nine months after TBI, a cohort of mice was euthanized for pathological analysis that revealed reductions in astroglial (glial fibrillary acid protein, GFAP) and microglial (ionized calcium-binding adapter molecule 1, IBA1) responses in treated, injured animals. Treatments for the remaining mice were then crossed-over to assess the effects of late treatment administration and the effects of treatment termination. Nine months following crossover the remaining mice showed no effect of injury on their spatial memory, and whereas pathological analysis showed improvements in mice that had received delayed treatment, corpus callosum IBA1 increased in post-crossover placebo r-mTBI mice. These data demonstrate efficacy of both early and late initiation of treatment with anatabine in improving long term behavioral and pathology outcomes after mild TBI. Future studies will characterize the treatment window, the time course of treatment needed, and the dose needed to achieve therapeutic levels of anatabine in humans after injury.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Behavior, Animal",
+        "Brain Concussion",
+        "Calcium-Binding Proteins",
+        "Cognitive Dysfunction",
+        "Disease Models, Animal",
+        "Glial Fibrillary Acidic Protein",
+        "Male",
+        "Maze Learning",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microfilament Proteins",
+        "Pyridines",
+        "Spatial Memory"
+      ]
+    },
+    {
+      "pmid": "26825008",
+      "title": "Quantitation of the Minor Tobacco Alkaloids Nornicotine, Anatabine, and Anabasine in Smokers' Urine by High Throughput Liquid Chromatography-Mass Spectrometry.",
+      "authors": [
+        "Linda B von Weymarn",
+        "Nicole M Thomson",
+        "Eric C Donny",
+        "Dorothy K Hatsukami",
+        "Sharon E Murphy"
+      ],
+      "journal": "Chemical research in toxicology",
+      "publication_date": "2016-Mar-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Nicotine is the most abundant alkaloid in tobacco accounting for 95% of the alkaloid content. There are also several minor tobacco alkaloids; among these are nornicotine, anatabine, and anabasine. We developed and applied a 96 well plate-based capillary LC-tandem mass spectrometry method for the analysis of nornicotine, anatabine, and anabasine in urine. The method was validated with regard to accuracy and precision. Anabasine was quantifiable to low levels with a limit of quantitation (LOQ) of 0.2 ng/mL even when nicotine, which is isobaric, is present at concentrations >2500-fold higher than anabasine. This attribute of the method is important since anatabine and anabasine in urine have been proposed as biomarkers of tobacco use for individuals using nicotine replacement therapies. In the present study, we analyzed the three minor tobacco alkaloids in urine from 827 smokers with a wide range of tobacco exposures. Nornicotine (LOQ 0.6 ng/mL) was detected in all samples, and anatabine (LOQ, 0.15 ng/mL) and anabasine were detected in 97.7% of the samples. The median urinary concentrations of nornicotine, anatabine, and anabasine were 98.9, 4.02, and 5.53 ng/mL. Total nicotine equivalents (TNE) were well correlated with anatabine (r(2) = 0.714) and anabasine (r(2) = 0.760). TNE was most highly correlated with nornicotine, which is also a metabolite of nicotine. Urine samples from a subset of subjects (n = 110) were analyzed for the presence of glucuronide conjugates by quantifying any increase in anatabine and anabasine concentrations after β-glucuronidase treatment. The median ratio of the glucuronidated to free anatabine was 0.74 (range, 0.1 to 10.9), and the median ratio of glucuronidated to free anabasine was 0.3 (range, 0.1 to 2.9). To our knowledge, this is the largest population of smokers for whom the urinary concentrations of these three tobacco alkaloids has been reported.",
+      "mesh_terms": [
+        "Adolescent",
+        "Alkaloids",
+        "Anabasine",
+        "Chromatography, High Pressure Liquid",
+        "Humans",
+        "Molecular Structure",
+        "Nicotine",
+        "Pyridines",
+        "Smoking",
+        "Tandem Mass Spectrometry"
+      ]
+    },
+    {
+      "pmid": "26230317",
+      "title": "Correction: Chronic Anatabine Treatment Reduces Alzheimer's Disease (AD)-Like Pathology and Improves Socio-Behavioral Deficits in a Transgenic Mouse Model of AD.",
+      "authors": [
+        "Megha Verma",
+        "David Beaulieu-Abdelahad",
+        "Ghania Ait-Ghezala",
+        "Rena Li",
+        "Fiona Crawford",
+        "Michael Mullan",
+        "Daniel Paris"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2015",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0128224.]."
+    },
+    {
+      "pmid": "26010758",
+      "title": "Chronic Anatabine Treatment Reduces Alzheimer's Disease (AD)-Like Pathology and Improves Socio-Behavioral Deficits in a Transgenic Mouse Model of AD.",
+      "authors": [
+        "Megha Verma",
+        "David Beaulieu-Abdelahad",
+        "Ghania Ait-Ghezala",
+        "Rena Li",
+        "Fiona Crawford",
+        "Michael Mullan",
+        "Daniel Paris"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Anatabine is a minor tobacco alkaloid, which is also found in plants of the Solanaceae family and displays a chemical structure similarity with nicotine. We have shown previously that anatabine displays some anti-inflammatory properties and reduces microgliosis and tau phosphorylation in a pure mouse model of tauopathy. We therefore investigated the effects of a chronic oral treatment with anatabine in a transgenic mouse model (Tg PS1/APPswe) of Alzheimer's disease (AD) which displays pathological Aβ deposits, neuroinflammation and behavioral deficits. In the elevated plus maze, Tg PS1/APPswe mice exhibited hyperactivity and disinhibition compared to wild-type mice. Six and a half months of chronic oral anatabine treatment, suppressed hyperactivity and disinhibition in Tg PS1/APPswe mice compared to Tg PS1/APPswe receiving regular drinking water. Tg PS1/APPswe mice also elicited profound social interaction and social memory deficits, which were both alleviated by the anatabine treatment. We found that anatabine reduces the activation of STAT3 and NFκB in the vicinity of Aβ deposits in Tg PS1/APPswe mice resulting in a reduction of the expression of some of their target genes including Bace1, iNOS and Cox-2. In addition, a significant reduction in microgliosis and pathological deposition of Aβ was observed in the brain of Tg PS1/APPswe mice treated with anatabine. This is the first study to investigate the impact of chronic anatabine treatment on AD-like pathology and behavior in a transgenic mouse model of AD. Overall, our data show that anatabine reduces β-amyloidosis, neuroinflammation and alleviates some behavioral deficits in Tg PS1/APPswe, supporting further exploration of anatabine as a possible disease modifying agent for the treatment of AD.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Alzheimer Disease",
+        "Animals",
+        "Behavior, Animal",
+        "Disease Models, Animal",
+        "Mice",
+        "Mice, Transgenic",
+        "Nerve Tissue Proteins",
+        "Pyridines",
+        "Social Behavior"
+      ]
+    },
+    {
+      "pmid": "25013964",
+      "title": "Validation of a LC-MS/MS method for quantifying urinary nicotine, six nicotine metabolites and the minor tobacco alkaloids--anatabine and anabasine--in smokers' urine.",
+      "authors": [
+        "James E McGuffey",
+        "Binnian Wei",
+        "John T Bernert",
+        "John C Morrow",
+        "Baoyun Xia",
+        "Lanqing Wang",
+        "Benjamin C Blount"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Tobacco use is a major contributor to premature morbidity and mortality. The measurement of nicotine and its metabolites in urine is a valuable tool for evaluating nicotine exposure and for nicotine metabolic profiling--i.e., metabolite ratios. In addition, the minor tobacco alkaloids--anabasine and anatabine--can be useful for monitoring compliance in smoking cessation programs that use nicotine replacement therapy. Because of an increasing demand for the measurement of urinary nicotine metabolites, we developed a rapid, low-cost method that uses isotope dilution liquid chromatography-tandem mass spectrometry (LC-MS/MS) for simultaneously quantifying nicotine, six nicotine metabolites, and two minor tobacco alkaloids in smokers' urine. This method enzymatically hydrolyzes conjugated nicotine (primarily glucuronides) and its metabolites. We then use acetone pretreatment to precipitate matrix components (endogenous proteins, salts, phospholipids, and exogenous enzyme) that may interfere with LC-MS/MS analysis. Subsequently, analytes (nicotine, cotinine, hydroxycotinine, norcotinine, nornicotine, cotinine N-oxide, nicotine 1'-N-oxide, anatabine, and anabasine) are chromatographically resolved within a cycle time of 13.5 minutes. The optimized assay produces linear responses across the analyte concentrations typically found in urine collected from daily smokers. Because matrix ion suppression may influence accuracy, we include a discussion of conventions employed in this procedure to minimize matrix interferences. Simplicity, low cost, low maintenance combined with high mean metabolite recovery (76-99%), specificity, accuracy (0-10% bias) and reproducibility (2-9% C.V.) make this method ideal for large high through-put studies.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Anabasine",
+        "Chromatography, Liquid",
+        "Cotinine",
+        "Humans",
+        "Nicotine",
+        "Pyridines",
+        "Smoking",
+        "Tandem Mass Spectrometry"
+      ]
+    },
+    {
+      "pmid": "24490707",
+      "title": "Anatabine significantly decreases nicotine self-administration.",
+      "authors": [
+        "Nancy K Mello",
+        "Peter A Fivel",
+        "Stephen J Kohut",
+        "S Barak Caine"
+      ],
+      "journal": "Experimental and clinical psychopharmacology",
+      "publication_date": "2014-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Nicotine addiction is associated with many lethal disorders (cancer, cardiovascular and pulmonary disease), and more effective medications to aid smoking cessation are urgently needed. Anatabine is 1 of the most abundant minor tobacco alkaloids, but relatively little is known about its interactions with the abuse-related effects of nicotine. The acute effects of anatabine or saline on nicotine- and food-maintained responding were examined in 7 rhesus monkeys (Macaca mulatta). Nicotine (0.01 mg/kg/inj, base) and banana-flavored food pellets (1 g) were available under a second-order schedule (FR 2 [VR 16:S]). Anatabine or saline injections were administered 15 min before the 11:00 a.m. food self-administration session began. Anatabine (0.18-3.2 mg/kg, IM) dose-dependently reduced nicotine self-administration (0.01 mg/kg/inj) (p = .036-0.0003). Food-maintained responding was decreased only at the highest dose of anatabine (3.2 mg/kg; p = .003). Each monkey returned to baseline levels of nicotine self-administration after anatabine treatment, and there was no evidence of catheter malfunction. Next, the effects of anatabine and saline on the nicotine dose-effect curve (0.001-0.1 mg/kg/inj) were evaluated. Anatabine (0.32 and 1.0 mg/kg, IM) decreased the peak of the nicotine dose-effect curve (p < .001 - p < .0001), with no significant effect on food-maintained responding. The abuse liability of anatabine also was examined, and monkeys did not self-administer anatabine (0.0032-0.32 mg/kg/inj) above saline levels. These findings are consistent with anatabine's effects on nicotine self-administration in rats (Caine et al., 2014). These data suggest that anatabine could be an effective agonist medication for treatment of nicotine addiction.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Conditioning, Operant",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Macaca mulatta",
+        "Male",
+        "Nicotine",
+        "Pyridines",
+        "Reinforcement Schedule",
+        "Self Administration"
+      ]
+    },
+    {
+      "pmid": "24178792",
+      "title": "Anatabine supplementation decreases thyroglobulin antibodies in patients with chronic lymphocytic autoimmune (Hashimoto's) thyroiditis: a randomized controlled clinical trial.",
+      "authors": [
+        "Lowell R Schmeltz",
+        "Thomas C Blevins",
+        "Stephen L Aronoff",
+        "Kerem Ozer",
+        "Jonathan D Leffert",
+        "Marc A Goldberg",
+        "Barry S Horowitz",
+        "Richard H Bertenshaw",
+        "Pedro Troya",
+        "Amy E Cohen",
+        "Ryan K Lanier",
+        "Curtis Wright"
+      ],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CONTEXT: Hashimoto's thyroiditis is less prevalent in tobacco smokers. Anatabine, an alkaloid found in Solanaceae plants including tobacco, has been reported to ameliorate a mouse model of Hashimoto's thyroiditis. OBJECTIVE: The effects of anatabine in patients with Hashimoto's thyroiditis were studied. DESIGN, SETTING, PATIENTS, AND INTERVENTION: This was a double-blind, randomized, placebo-controlled multisite study. A total of 146 patients (70 treated with anatabine and 76 with placebo) completed the study. Approximately 50% of patients in each group were taking levothyroxine. Anatabine lozenges (9-24 mg/d) or placebo, each containing vitamins A and D3, were administered orally 3 times a day for 3 months. MAIN OUTCOME MEASURES: Serum thyroperoxidase antibody (TPOAb) and thyroglobulin antibody (TgAb) levels were assessed. Safety was assessed through adverse events, clinical laboratory evaluations, and vital sign measurements. RESULTS: Anatabine-treated patients had a significant reduction in absolute serum TgAb levels from baseline by study end relative to those receiving placebo (P=.027); however, there were no significant changes or differences in treatment group means for TPOAb or TgAb levels. Mean±SD TgAb values decreased by 46.2±101.1 and 3.9±83.9 World Health Organization units for the anatabine and placebo groups, respectively. Significantly more patients had a >20% drop in TgAb levels in the anatabine than placebo group (P=.023). Overall, the anatabine supplement was safe and well tolerated, although significantly (P<.05) more patients in the anatabine group reported adverse events. CONCLUSIONS: These results demonstrate an immunological effect of anatabine on TgAb levels. Further studies are warranted to determine the longer-term effects and possible actions of anatabine on the course of Hashimoto's thyroiditis.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Autoantibodies",
+        "Double-Blind Method",
+        "Down-Regulation",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Female",
+        "Hashimoto Disease",
+        "Humans",
+        "Iodide Peroxidase",
+        "Male",
+        "Placebos",
+        "Pyridines"
+      ]
+    },
+    {
+      "pmid": "23383175",
+      "title": "Amelioration of experimental autoimmune encephalomyelitis by anatabine.",
+      "authors": [
+        "Daniel Paris",
+        "David Beaulieu-Abdelahad",
+        "Myles Mullan",
+        "Ghania Ait-Ghezala",
+        "Venkat Mathura",
+        "Corbin Bachmeier",
+        "Fiona Crawford",
+        "Michael J Mullan"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2013",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Anatabine, a naturally occurring alkaloid, is becoming a commonly used human food supplement, taken for its claimed anti-inflammatory properties although this has not yet been reported in human clinical trials. We have previously shown that anatabine does display certain anti-inflammatory properties and readily crosses the blood-brain barrier suggesting it could represent an important compound for mitigating neuro-inflammatory conditions. The present study was designed to determine whether anatabine had beneficial effects on the development of experimental autoimmune encephalomyelitis (EAE) in mice and to precisely determine its underlying mechanism of action in this mouse model of multiple sclerosis (MS). We found that orally administered anatabine markedly suppressed neurological deficits associated with EAE. Analyses of cytokine production in the periphery of the animals revealed that anatabine significantly reduced Th1 and Th17 cytokines known to contribute to the development of EAE. Anatabine appears to significantly suppress STAT3 and p65 NFκB phosphorylation in the spleen and the brain of EAE mice. These two transcription factors regulate a large array of inflammatory genes including cytokines suggesting a mechanism by which anatabine antagonizes pro-inflammatory cytokine production. Additionally, we found that anatabine alleviated the infiltration of macrophages/microglia and astrogliosis and significantly prevented demyelination in the spinal cord of EAE mice. Altogether our data suggest that anatabine may be effective in the treatment of MS and should be piloted in clinical trials.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Alkaloids",
+        "Analysis of Variance",
+        "Animals",
+        "Blotting, Western",
+        "Cytokines",
+        "Encephalomyelitis, Autoimmune, Experimental",
+        "Immunohistochemistry",
+        "Mice",
+        "Multiple Sclerosis",
+        "Pyridines",
+        "Th1 Cells",
+        "Th17 Cells"
+      ]
+    },
+    {
+      "pmid": "23178521",
+      "title": "Anti-inflammatory activity of anatabine via inhibition of STAT3 phosphorylation.",
+      "authors": [
+        "Daniel Paris",
+        "David Beaulieu-Abdelahad",
+        "Laila Abdullah",
+        "Corbin Bachmeier",
+        "Ghania Ait-Ghezala",
+        "Jon Reed",
+        "Megha Verma",
+        "Fiona Crawford",
+        "Michael Mullan"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2013-Jan-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Previous investigations have demonstrated the anti-inflammatory effects of cholinergic agonists, such as nicotine. In the present study, we investigated the potential anti-inflammatory activity of anatabine, a minor tobacco alkaloid also present in plants of the Solanacea family which displays a chemical structural similarity with nicotine. Our data show that anatabine prevents STAT3 and NFκB phosphorylation induced by lipopolysaccharide (LPS) or TNF-α in SH-SY5Y, HEK293, human microglia and human blood mononuclear cells. Using human whole blood, we found that anatabine prevents IL-1β production induced by LPS. We assessed anatabine's anti-inflammatory activity in vivo using an acute model of inflammation by challenging wild-type mice with LPS. We observed that anatabine reduces pro-inflammatory cytokine production (IL-6, IL-1β and TNF-α) in the plasma, kidney and spleen of the animals following the injection of LPS and concomitantly opposes STAT3 phosphorylation induced by LPS in the spleen and kidney. We also investigated the impact of anatabine on neuroinflammation using a transgenic mouse model of Alzheimer's disease (Tg APPsw) that displays elevated cytokine levels in the brain. Following a chronic oral treatment with anatabine, a reduction in brain TNF-α and IL-6 levels compared to untreated Tg APPsw mice was observed. Moreover, an increased STAT3 phosphorylation was detected in the brains of Tg APPsw mice compared to wild-type littermates and was inhibited by anatabine treatment. Overall our data show that the anti-inflammatory activity of anatabine in vitro and in vivo is mediated in part via an inhibition of STAT3 phosphorylation.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Alzheimer Disease",
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Brain",
+        "Cytokines",
+        "HEK293 Cells",
+        "Humans",
+        "Inflammation",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Phosphorylation",
+        "Pyridines",
+        "STAT3 Transcription Factor"
+      ]
+    },
+    {
+      "pmid": "21958873",
+      "title": "Anatabine lowers Alzheimer's Aβ production in vitro and in vivo.",
+      "authors": [
+        "Daniel Paris",
+        "David Beaulieu-Abdelahad",
+        "Corbin Bachmeier",
+        "Jon Reed",
+        "Ghania Ait-Ghezala",
+        "Alex Bishop",
+        "Jin Chao",
+        "Venkat Mathura",
+        "Fiona Crawford",
+        "Michael Mullan"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2011-Nov-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Brain Aβ accumulation represents a key pathological hallmark in Alzheimer's disease. In this study, we investigated the impact of anatabine, a minor alkaloid present in plants of the Solanacea family on Aβ production in vitro using a cell line overexpressing the human amyloid precursor protein (APP) and in vivo using a transgenic mouse model of Alzheimer's disease. In vitro, anatabine lowers Aβ₁₋₄₀ and Aβ₁₋₄₂ levels in a dose dependent manner and reduces sAPPβ production without impacting sAPPα levels suggesting that anatabine lowers Aβ production by mainly impacting the β-cleavage of APP. Additionally, we show that anatabine lowers NFκB activation at doses that inhibit Aβ production in vitro. Since NFκB is known to regulate BACE-1 expression (the rate limiting enzyme responsible for Aβ production), we determined the impact of anatabine on BACE-1 transcription. We show that anatabine inhibits BACE-1 transcription and reduces BACE-1 protein levels in human neuronal like SHSY-5Y cells suggesting that the Aβ lowering properties of anatabine are mediated via a regulation of BACE-1 expression. In vivo, we show that an acute treatment with anatabine for four days significantly lowers brain soluble Aβ₁₋₄₀ and Aβ₁₋₄₂ levels in a transgenic mouse model of Alzheimer's disease. Altogether our data suggest that anatabine may represent an interesting compound for regulating brain Aβ accumulation.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Alzheimer Disease",
+        "Amyloid Precursor Protein Secretases",
+        "Amyloid beta-Peptides",
+        "Animals",
+        "Aspartic Acid Endopeptidases",
+        "Brain",
+        "CHO Cells",
+        "Cricetinae",
+        "Cricetulus",
+        "Gene Expression Regulation",
+        "HEK293 Cells",
+        "Humans",
+        "Mice",
+        "Mice, Transgenic",
+        "NF-kappa B",
+        "Pyridines"
+      ]
+    },
+    {
+      "pmid": "21232776",
+      "title": "RNAi-mediated down-regulation of ornithine decarboxylase (ODC) leads to reduced nicotine and increased anatabine levels in transgenic Nicotiana tabacum L.",
+      "authors": [
+        "Kathleen D DeBoer",
+        "Heidi L Dalton",
+        "Felicity J Edward",
+        "John D Hamill"
+      ],
+      "journal": "Phytochemistry",
+      "publication_date": "2011-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In leaf and root tissues of Nicotiana tabacum L. (common tobacco), nicotine is by far the predominant pyridine alkaloid, with anatabine representing only a minor component of the total alkaloid fraction. The pyrrolidine ring of nicotine is derived from the diamine putrescine, which can be synthesized either directly from ornithine via the action of ODC, or from arginine via a three enzymatic step process, initiated by ADC. Previous studies in this laboratory have shown that antisense-mediated down-regulation of ADC transcript levels has only a minor effect upon the alkaloid profile of transgenic N. tabacum. In the present study, RNAi methodology was used to down-regulate ODC transcript levels in N. tabacum, using both the Agrobacterium rhizogenes-derived hairy root culture system, and also disarmed Agrobacterium tumefaciens to generate intact transgenic plants. We observed a marked effect upon the alkaloid profile of transgenic tissues, with ODC transcript down-regulation leading to reduced nicotine and increased anatabine levels in both cultured hairy roots and intact greenhouse-grown plants. Treatment of ODC-RNAi hairy roots with low levels of the wound-associated hormone methyl jasmonate, or wounding of transgenic plants by removal of apices - both treatments which normally stimulate nicotine synthesis in tobacco - did not restore capacity for normal nicotine synthesis in transgenic tissue but did lead to markedly increased levels of anatabine. We conclude that the ODC mediated route to putrescine plays an important role in determining the normal nicotine:anatabine profile in N. tabacum and is essential in allowing N. tabacum to increase nicotine levels in response to wound-associated stress.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Molecular Structure",
+        "Nicotine",
+        "Ornithine Decarboxylase",
+        "Plant Roots",
+        "Plants, Genetically Modified",
+        "Pyridines",
+        "RNA Interference",
+        "Seeds",
+        "Nicotiana"
+      ]
+    },
+    {
+      "pmid": "12496059",
+      "title": "Anabasine and anatabine as biomarkers for tobacco use during nicotine replacement therapy.",
+      "authors": [
+        "Peyton Jacob",
+        "Dorothy Hatsukami",
+        "Herbert Severson",
+        "Sharon Hall",
+        "Lisa Yu",
+        "Neal L Benowitz"
+      ],
+      "journal": "Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology",
+      "publication_date": "2002-Dec",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "In this study we determined urine concentration of the tobacco alkaloids anabasine and anatabine, nicotine and its metabolites cotinine, and nornicotine in 99 cigarette smokers and 205 smokeless tobacco users. We also investigated the possibility that anabasine and anatabine can be used as biomarkers for tobacco use during nicotine replacement therapy. Urine samples and data on self-reported tobacco use were obtained from subjects enrolled in tobacco cessation programs. Urine concentrations of tobacco alkaloids and metabolites were measured and correlated with self-reported tobacco use. Concentrations of anabasine and anatabine were used to validate abstinence in smokeless tobacco users who used nicotine gum as part of the therapy. Correlations of alkaloid concentration with self-reported tobacco use before treatment ranged from fair to poor. In subjects abstaining from smokeless tobacco but using nicotine gum, anabasine and anatabine levels were below the cut-point of 2 ng/ml despite high concentrations of nicotine and cotinine resulting from nicotine gum use. Anabasine and anatabine concentrations in urine can be used to validate abstinence or measure the extent of tobacco use in persons undergoing nicotine replacement therapy.",
+      "mesh_terms": [
+        "Adult",
+        "Alkaloids",
+        "Anabasine",
+        "Biomarkers",
+        "Chewing Gum",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Nicotine",
+        "Probability",
+        "Prospective Studies",
+        "Pyridines",
+        "Reference Values",
+        "Sensitivity and Specificity",
+        "Severity of Illness Index",
+        "Smoking",
+        "Tobacco Use Cessation",
+        "Tobacco Use Disorder",
+        "Tobacco, Smokeless",
+        "Treatment Outcome"
+      ]
+    }
+  ]
+}

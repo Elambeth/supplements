@@ -1,0 +1,811 @@
+{
+  "supplement": "Intermittent Energy Restriction",
+  "query": "Intermittent Energy Restriction[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:49:00",
+  "research_count": 26,
+  "count": 26,
+  "articles": [
+    {
+      "pmid": "39931753",
+      "title": "The impact of intermittent energy restriction on women's health.",
+      "authors": [
+        "Michelle Harvie",
+        "Mai Haiba"
+      ],
+      "journal": "The Proceedings of the Nutrition Society",
+      "publication_date": "2025-Feb-11",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Intermittent energy-restricted diets are used amongst women with overweight and obesity and a healthy weight. For those with overweight and obesity weight control is typically achieved through daily energy restriction (DER) which has reduced adherence and attenuated metabolic benefits over time. Several intermittent energy restriction (IER) regimens have been developed aiming to promote maintained weight loss and additional weight independent metabolic benefits including the 5:2 diet, alternate day fasting (ADF) and time-restricted eating (TRE). This review summarises the potential benefits or harms of these regimens for managing women’s health. 5:2 and ADF diets have equivalent long term (≥ 6-month) adherence, weight loss and metabolic benefits to DER. Current limited evidence suggests IER is a safe weight loss intervention for women which does not affect reproductive or bone health, increase eating disorders or disturb sleep. Adherence and weight loss with both IER and DER are lower amongst younger women compared to older women and men. Weight loss with ADF and TRE has, respectively, improved symptoms of polycystic ovarian syndrome and premenstrual syndrome, but there is no evidence of weight-independent effects of IER on these conditions. There is little evidence of the benefits and/or harms of IER amongst healthy weight women in whom there is a greater potential for adverse effects on reproductive and bone health, fat free mass, eating disorders and sleep. Further research benefits of IER for weight control and metabolic health as well as harms are required."
+    },
+    {
+      "pmid": "39186288",
+      "title": "Intermittent Energy Restriction for Adolescents With Obesity: The Fast Track to Health Randomized Clinical Trial.",
+      "authors": [
+        "Natalie B Lister",
+        "Louise A Baur",
+        "Eve T House",
+        "Shirley Alexander",
+        "Justin Brown",
+        "Clare E Collins",
+        "Christopher T Cowell",
+        "Kaitlin Day",
+        "Sarah P Garnett",
+        "Megan L Gow",
+        "Alicia M Grunseit",
+        "Maddison Henderson",
+        "Mary-Kate Inkster",
+        "Cathy Kwok",
+        "Sarah Lang",
+        "Susan J Paxton",
+        "Helen Truby",
+        "Krista A Varady",
+        "Hiba Jebeile"
+      ],
+      "journal": "JAMA pediatrics",
+      "publication_date": "2024-Oct-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "abstract": "IMPORTANCE: Adolescent obesity requires effective and accessible treatment. Intensive dietary interventions have the potential to be used as adjunctive therapy for behavioral weight management. OBJECTIVE: To examine the effectiveness of 2 diet therapies, delivered as part of an intensive behavioral weight management intervention, in adolescents with metabolic complications associated with obesity. DESIGN, SETTING, AND PARTICIPANTS: This multisite, 52-week randomized clinical trial was conducted from January 31, 2018, to March 31, 2023, at 2 tertiary pediatric centers in Australia. Adolescents (aged 13-17 years) with obesity and 1 or more associated complications were included. INTERVENTIONS: Intensive behavioral interventions, delivered by a multidisciplinary team, comparing intermittent energy restriction (IER) or continuous energy restriction (CER), with 3 phases: very low-energy diet (weeks 0-4), intensive intervention (weeks 5-16), and continued intervention and/or maintenance (weeks 17-52). MAIN OUTCOMES AND MEASURES: The primary outcome was body mass index (BMI) z score at 52 weeks in the IER vs CER group. Anthropometry, body composition, and cardiometabolic health were assessed at baseline and 52 weeks. The BMI z score and percentiles were determined using Centers for Disease Control and Prevention growth charts. Insulin resistance, dyslipidemia, and elevated hepatic function were assessed. RESULTS: A total of 141 adolescents (median [IQR] age, 14.8 [12.9-17.9] years; 71 male [50.4%]) were enrolled, 71 in the IER group and 70 in the CER group, and 97 (68.8%) completed the intervention, 43 in the IER group and 54 in the CER group. At week 52, both groups had reduced BMI z scores (estimated marginal mean change, -0.28 [95% CI, -0.37 to -0.20] for IER and -0.28 [95% CI, -0.36 to -0.20] for CER) and reduced BMI expressed as a percentage of the 95th percentile (estimated marginal mean change, -9.56 [95% CI, -12.36 to -6.83] for IER and -9.23 [95% CI, -11.82 to -6.64] for CER). No differences were found in body composition or cardiometabolic outcomes between the groups. Both groups had a reduction in the occurrence of insulin resistance (from 52 of 68 [76.5%] to 32 of 56 [57.1%] in the IER group and from 59 of 68 [86.8%] to 31 of 60 [57.1%] in the CER group) at week 16; however, at week 52, this effect was observed in the CER group only (from 59 of 68 [86.7%] to 30 of 49 [61.2%]). The occurrence of dyslipidemia was unchanged between baseline and week 52 (60 of 137 [42.6%] and 37 of 87 [42.5%], respectively), with a small improvement in occurrence of impaired hepatic function tests (37 of 139 [27.0%] and 15 of 87 [17.2%], respectively). No differences were found in dyslipidemia or hepatic function between groups. CONCLUSIONS AND RELEVANCE: These findings suggest that for adolescents with obesity-associated complications, IER can be incorporated into a behavioral weight management program, providing an option in addition to CER and offering participants more choice. TRIAL REGISTRATION: http://anzctr.org.au Identifier: ACTRN12617001630303.",
+      "mesh_terms": [
+        "Humans",
+        "Adolescent",
+        "Male",
+        "Female",
+        "Pediatric Obesity",
+        "Caloric Restriction",
+        "Body Mass Index",
+        "Australia",
+        "Diet, Reducing",
+        "Treatment Outcome",
+        "Behavior Therapy"
+      ]
+    },
+    {
+      "pmid": "38669767",
+      "title": "Intermittent energy restriction inhibits tumor growth and enhances paclitaxel response in a transgenic mouse model of endometrial cancer.",
+      "authors": [
+        "Ziyi Zhao",
+        "Jiandong Wang",
+        "Weimin Kong",
+        "Ziwei Fang",
+        "Michael F Coleman",
+        "Ginger L Milne",
+        "Wesley C Burkett",
+        "Meredith A Newton",
+        "Olivia Lara",
+        "Douglas Lee",
+        "Boer Deng",
+        "Xiaochang Shen",
+        "Hongyan Suo",
+        "Wenchuan Sun",
+        "Stephen D Hursting",
+        "Chunxiao Zhou",
+        "Victoria L Bae-Jump"
+      ],
+      "journal": "Gynecologic oncology",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "OBJECTIVE: Overweight/obesity is the strongest risk factor for endometrial cancer (EC), and weight management can reduce that risk and improve survival. We aimed to establish the differential benefits of intermittent energy restriction (IER) and low-fat diet (LFD), alone and in combination with paclitaxel, to reverse the procancer effects of high-fat diet (HFD)-induced obesity in a mouse model of EC. METHODS: Lkb1fl/flp53fl/fl mice were fed HFD or LFD to generate obese and lean phenotypes, respectively. Obese mice were maintained on a HFD or switched to a LFD (HFD-LFD) or IER (HFD-IER). Ten weeks after induction of endometrial cancer, mice in each group received paclitaxel or placebo for 4 weeks. Body and tumor weights; tumoral transcriptomic, metabolomic and oxylipin profiles; and serum metabolic hormones and chemocytokines were assessed. RESULTS: HFD-IER and HFD-LFD, relative to HFD, reduced body weight; reversed obesity-induced alterations in serum insulin, leptin and inflammatory factors; and decreased tumor incidence and mass, often to levels emulating those associated with continuous LFD. Concurrent paclitaxel, versus placebo, enhanced tumor suppression in each group, with greatest benefit in HFD-IER. The diets produced distinct tumoral gene expression and metabolic profiles, with HFD-IER associated with a more favorable (antitumor) metabolic and inflammatory environment. CONCLUSION: In Lkb1fl/flp53fl/fl mice, IER is generally more effective than LFD in promoting weight loss, inhibiting obesity-related endometrial tumor growth (particularly in combination with paclitaxel), and reversing detrimental obesity-related metabolic effects. These findings lay the foundation for further investigations of IER as an EC prevention and treatment strategies in overweight/obesity women.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Paclitaxel",
+        "Endometrial Neoplasms",
+        "Mice",
+        "Obesity",
+        "Diet, High-Fat",
+        "Mice, Transgenic",
+        "Caloric Restriction",
+        "Disease Models, Animal",
+        "Antineoplastic Agents, Phytogenic"
+      ]
+    },
+    {
+      "pmid": "37956119",
+      "title": "The BREAK study protocol: Effects of intermittent energy restriction on adaptive thermogenesis during weight loss and its maintenance.",
+      "authors": [
+        "Filipa M Cortez",
+        "Catarina L Nunes",
+        "Luís B Sardinha",
+        "Analiza M Silva",
+        "Vítor H Teixeira"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2023",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Adaptive thermogenesis, defined as the decrease in the energy expenditure components beyond what can be predicted by changes in body mass stores, has been studied as a possible barrier to weight loss and weight maintenance. Intermittent energy restriction (IER), using energy balance refeeds, has been pointed out as a viable strategy to reduce adaptive thermogenesis and improve weight loss efficiency (greater weight loss per unit of energy deficit), as an alternative to a continuous energy restriction (CER). Following a randomized clinical trial design, the BREAK Study aims to compare the effects of IER versus CER on body composition and in adaptive thermogenesis, and understand whether participants will successfully maintain their weight loss after 12 months. METHODS: Seventy-four women with obesity and inactive (20-45 y) will be randomized to 16 weeks of CER or IER (8x2 weeks of energy restriction interspersed with 7x1 week in energy balance). Both groups will start with 2 weeks in energy balance before energy restriction, followed by 16 weeks in energy restriction, then 8 weeks in energy balance and finally a 12-month weight maintenance phase. Primary outcomes are changes in fat-mass and adaptive thermogenesis after weight loss and weight maintenance. Secondary outcomes include weight loss, fat-free mass preservation, alterations in energy expenditure components, and changes in hormones (thyroid function, insulin, leptin, and cortisol). DISCUSSION: We anticipate that The BREAK Study will allow us to better understand adaptive thermogenesis during weight loss and weight maintenance, in women with obesity. These findings will enable evidence-based decisions for obesity treatment. TRIAL REGISTRATION: ClinicalTrials.gov: NCT05184361.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Caloric Restriction",
+        "Obesity",
+        "Weight Loss",
+        "Energy Metabolism",
+        "Thermogenesis",
+        "Body Composition",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "37827491",
+      "title": "Effects of Intermittent Energy Restriction Compared with Those of Continuous Energy Restriction on Body Composition and Cardiometabolic Risk Markers - A Systematic Review and Meta-Analysis of Randomized Controlled Trials in Adults.",
+      "authors": [
+        "Maite M Schroor",
+        "Peter J Joris",
+        "Jogchum Plat",
+        "Ronald P Mensink"
+      ],
+      "journal": "Advances in nutrition (Bethesda, Md.)",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "The interest in intermittent energy restriction (IER) diets as a weight-loss approach is increasing. Different IER protocols exist, including time-restricted eating (TRE), alternate-day fasting (ADF), and the 5:2 diet. This meta-analysis compared the effects of these IER diets with continuous energy restriction (CER) on anthropometrics and cardiometabolic risk markers in healthy adults. Twenty-eight trials were identified that studied TRE (k = 7), ADF (k = 10), or the 5:2 diet (k = 11) for 2-52 wk. Energy intakes between intervention groups within a study were comparable (17 trials), lower in IER (5 trials), or not reported (6 trials). Weighted mean differences (WMDs) were calculated using fixed- or random-effects models. Changes in body weight [WMD: -0.42 kg; 95% confidence interval (CI): -0.96 to 0.13; P = 0.132] and fat mass (FM) (WMD: -0.31 kg; 95% CI: -0.98 to 0.36; P = 0.362) were comparable when results of the 3 IER diets were combined and compared with those of CER. All IER diets combined reduced fat-free mass (WMD: -0.20 kg; 95% CI: -0.39 to -0.01; P = 0.044) and waist circumference (WMD: -0.91 cm; 95% CI: -1.76 to -0.06; P = 0.036) more than CER. Effects on body mass index [BMI (kg/m2)], glucose, insulin, homeostatic model assessment for insulin resistance (HOMA-IR), serum lipid and lipoprotein concentrations, and blood pressure did not differ. Further, TRE reduced body weight, FM, and fat-free mass more than CER, whereas ADF improved HOMA-IR more. BMI was reduced less in the 5:2 diet compared with CER. In conclusion, the 3 IER diets combined did not lead to superior improvements in anthropometrics and cardiometabolic risk markers compared with CER diets. Slightly greater reductions were, however, observed in fat-free mass and waist circumference. To what extent differences in energy intakes between groups within studies may have influenced these outcomes should be addressed in future studies.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Body Composition",
+        "Body Weight",
+        "Caloric Restriction",
+        "Cardiovascular Diseases",
+        "Diet, Reducing",
+        "Insulin Resistance",
+        "Obesity",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "37600013",
+      "title": "Intermittent energy restriction changes the regional homogeneity of the obese human brain.",
+      "authors": [
+        "Zhonglin Li",
+        "Xiaoling Wu",
+        "Hui Gao",
+        "Tianyuan Xiang",
+        "Jing Zhou",
+        "Zhi Zou",
+        "Li Tong",
+        "Bin Yan",
+        "Chi Zhang",
+        "Linyuan Wang",
+        "Wen Wang",
+        "Tingting Yang",
+        "Fengyun Li",
+        "Huimin Ma",
+        "Xiaojuan Zhao",
+        "Na Mi",
+        "Ziya Yu",
+        "Hao Li",
+        "Qiang Zeng",
+        "Yongli Li"
+      ],
+      "journal": "Frontiers in neuroscience",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Intermittent energy restriction (IER) is an effective weight loss strategy. However, the accompanying changes in spontaneous neural activity are unclear, and the relationship among anthropometric measurements, biochemical indicators, and adipokines remains ambiguous. METHODS: Thirty-five obese adults were recruited and received a 2-month IER intervention. Data were collected from anthropometric measurements, blood samples, and resting-state functional magnetic resonance imaging at four time points. The regional homogeneity (ReHo) method was used to explore the effects of the IER intervention. The relationships between the ReHo values of altered brain regions and changes in anthropometric measurements, biochemical indicators, and adipokines (leptin and adiponectin) were analyzed. RESULTS: Results showed that IER significantly improved anthropometric measurements, biochemical indicators, and adipokine levels in the successful weight loss group. The IER intervention for weight loss was associated with a significant increase in ReHo in the bilateral lingual gyrus, left calcarine, and left postcentral gyrus and a significant decrease in the right middle temporal gyrus and right cerebellum (VIII). Follow-up analyses showed that the increase in ReHo values in the right LG had a significant positive correlation with a reduction in Three-factor Eating Questionnaire (TFEQ)-disinhibition and a significant negative correlation with an increase in TFEQ-cognitive control. Furthermore, the increase in ReHo values in the left calcarine had a significant positive correlation with the reduction in TFEQ-disinhibition. However, no significant difference in ReHo was observed in the failed weight loss group. CONCLUSION: Our study provides objective evidence that the IER intervention reshaped the ReHo of some brain regions in obese individuals, accompanied with improved anthropometric measurements, biochemical indicators, and adipokines. These results illustrated that the IER intervention for weight loss may act by decreasing the motivational drive to eat, reducing reward responses to food cues, and repairing damaged food-related self-control processes. These findings enhance our understanding of the neurobiological basis of IER for weight loss in obesity."
+    },
+    {
+      "pmid": "37229479",
+      "title": "Intermittent energy restriction vs. continuous energy restriction on cardiometabolic risk factors in patients with metabolic syndrome: a meta-analysis and systematic review.",
+      "authors": [
+        "Rui Xu",
+        "Youxiang Cao",
+        "Peng-Ying Wang",
+        "Xiao-Lan Chen",
+        "Dan Tao"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: This is a systematic review and meta-analysis to compare the efficacy of intermittent energy restriction (IER) vs. continuous energy restriction (CER) on weight loss, body composition, blood pressure, and other cardiometabolic risk factors in patients with metabolic syndrome (MetS) risk factors. METHODS: We searched and screened PubMed, Embase, Cochrane Library, and Web of Science from inception to May 8, 2022 for randomized controlled trials. Two review authors independently selected studies, extracted data, assessed quality and risk of bias and cross-checked extracts to resolve discrepancies when required. We expressed effect size as mean difference (MD) and 95% confidence interval (CI). The major outcome was the improvement of MetS risk factors, including changes in waist circumference (WC), triglycerides (TG), high-density lipoprotein cholesterol (HDL-c), blood pressure (BP), and fasting plasma glucose (FPG) levels. The secondary outcomes were body weight (BW), body mass index (BMI), body fat (BF), fat free mass (FFM), hip circumference (HC), fasting insulin (FINs), total cholesterol (TC), and low-density lipoprotein cholesterol (LDL-c). RESULTS: The meta-analysis included 16 articles (20 trials) with a total of 1,511 participants. All studies had a low risk of bias for random sequence generation. The IER and CER intervention equally improved MetS risk factors WC (MD = -0.47, 95% CI [-1.19, 0.25]), TG (MD = -0.02 mmol/L, 95% CI [-0.11, 0.07]), FPG (MD = -0.02 mmol/L, 95% CI [-0.10, 0.05]) and BP (systolic blood pressure: MD = 0.93 mmHg, 95% CI [-2.74, 4.61]; diastolic blood pressure: MD =1.15 mmHg, 95% CI [-0.24, 2.55]), but HDL-c (MD = 0.03 mmol/L, 95% CI [0.01, 0.05]) was significant improved in IER when compared with CER. For second outcomes, BW (MD = -0.8 kg, 95% CI [-1.26, -0.33]), BF (MD = -0.75 kg, 95% CI [-1.73, -0.13]) and FFM (MD = -0.49 kg, 95% CI [-0.92, -0.05]) were also significant improved in IER, and not for other outcomes. CONCLUSION: Both IER and CER could improve MetS biomarkers, but IER was more effective than CER in the improvement of HDL-c only. For secondary outcomes, IER was also more effective for BW, BF and FFM, but there were no differences in effects for other outcomes."
+    },
+    {
+      "pmid": "36888890",
+      "title": "Metabolic impact of intermittent energy restriction and periodic fasting in patients with type 2 diabetes: a systematic review.",
+      "authors": [
+        "Elske L van den Burg",
+        "Petra G van Peet",
+        "Marjolein P Schoonakker",
+        "Dionysia E van de Haar",
+        "Mattijs E Numans",
+        "Hanno Pijl"
+      ],
+      "journal": "Nutrition reviews",
+      "publication_date": "2023-Sep-11",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CONTEXT: The effectiveness of intermittent energy restriction (IER) and periodic fasting (PF) in the management of type 2 diabetes (T2D) remains a subject of discussion. OBJECTIVE: The aim of this systematic review is to summarize current knowledge of the effects of IER and PF in patients with T2D on markers of metabolic control and the need for glucose-lowering medication. DATA SOURCES: PubMed, Embase, Emcare, Web of Science, Cochrane Library, CENTRAL, Academic Search Premier, Science Direct, Google Scholar, Wiley Online Library, and LWW Health Library were searched for eligible articles on March 20, 2018 (last update performed November 11, 2022). Studies that evaluated the effects of IER or PF diets in adult patients with T2D were included. DATA EXTRACTION: This systematic review is reported according to PRISMA guidelines. Risk of bias was assessed through the Cochrane risk of bias tool. The search identified 692 unique records. Thirteen original studies were included. DATA ANALYSIS: A qualitative synthesis of the results was constructed because the studies differed widely in terms of dietary interventions, study design, and study duration. Glycated hemoglobin (HbA1c) declined in response to IER or PF in 5 of 10 studies, and fasting glucose declined in 5 of 7 studies. In 4 studies, the dosage of glucose-lowering medication could be reduced during IER or PF. Two studies evaluated long-term effects (≥1 year after ending the intervention). The benefits to HbA1c or fasting glucose were generally not sustained over the long term. There are a limited number of studies on IER and PF interventions in patients with T2D. Most were judged to have at least some risk of bias. CONCLUSION: The results of this systematic review suggest that IER and PF can improve glucose regulation in patients with T2D, at least in the short term. Moreover, these diets may allow for dosage reduction of glucose-lowering medication. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42018104627.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Glycated Hemoglobin",
+        "Fasting",
+        "Diet, Reducing",
+        "Glucose"
+      ]
+    },
+    {
+      "pmid": "36424927",
+      "title": "Differential effects of intermittent energy restriction vs. continuous energy restriction combined high-intensity interval training on overweight/obese adults: A randomized controlled trial.",
+      "authors": [
+        "Rui Xu",
+        "You-Xiang Cao",
+        "Yu-Ting Chen",
+        "Yu-Qi Jia"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Intermittent energy restriction (IER) and continuous energy restriction (CER) are increasingly popular dietary approaches used for weight loss and overall health. These energy restriction protocols combined with exercise on weight loss and other health outcomes could achieve additional effects in a short-term intervention. OBJECTIVES: To evaluate the effects of a 4-week IER or CER program on weight, blood lipids, and CRF in overweight/obese adults when combined with high-intensity interval training (HIIT). METHODS: Forty-eight overweight/obese adults [age: 21.3 ± 2.24 years, body mass index (BMI): 25.86 ± 2.64 kg⋅m-2] were randomly assigned to iER, cER, and normal diet (ND) groups (n = 16 per group), each consisting of a 4-week intervention. All of the groups completed HIIT intervention (3 min at 80% of V̇O2max followed by 3 min at 50% of V̇O2max ), 30 min/training sessions, five sessions per week. iER subjects consumed 30% of energy needs on 2 non-consecutive days/week, and 100% of energy needs on another 5 days; cER subjects consumed 70% of energy needs; and ND subjects consumed 100% of energy needs. Body composition, waist circumference (WC) and hip circumference (HC), triglyceride (TG), total cholesterol (TC), low-density lipoprotein-cholesterol (LDL-c), high-density lipoprotein-cholesterol (HDL-c), and cardiorespiratory fitness (CRF) were measured before and after the intervention. RESULTS: Of the total 57 participants who underwent randomization, 48 (84.2%) completed the 4-week intervention. After intervention body composition and body circumference decreased in three groups, but no significant differences between groups. The iER tends to be superior to cER in the reduction of body composition and body circumference. The mean body weight loss was 4.57 kg (95% confidence interval [CI], 4.1-5.0, p < 0.001) in iER and 2.46 kg (95% CI, 4.1-5.0, p < 0.001) in iER. The analyses of BMI, BF%, WC, and HC were consistent with the primary outcome results. In addition, TG, TC, HDL-c, and CRF improved after intervention but without significant changes (p > 0.05). CONCLUSION: Both IER and CER could be effective in weight loss and increased CRF when combined with HIIT. However, iER showed greater benefits for body weight, BF%, WC, and HC compared with cER."
+    },
+    {
+      "pmid": "36192924",
+      "title": "A Chinese medical nutrition therapy diet accompanied by intermittent energy restriction alleviates type 2 diabetes by enhancing pancreatic islet function and regulating gut microbiota composition.",
+      "authors": [
+        "Wu Luo",
+        "Jiali Zhou",
+        "Xiao Yang",
+        "Ruiyu Wu",
+        "Hui Liu",
+        "Huige Shao",
+        "Bi Huang",
+        "Xincong Kang",
+        "Lan Yang",
+        "Dongbo Liu"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Medicine food homologous (MFH) plants and wholegrains have gained increasing attention for prevention and treatment of type 2 diabetes (T2D). Substantial evidence supports the effectiveness of intermittent energy restriction (IER) in T2D management. However, there are few studies that report intermittent use of a low-calorie pre-prepared food including MFH plants and wholegrains in T2D. The aim of this study was to investigate the effects of Chinese Medical Nutrition Therapy (CMNT), a MFH plants and wholegrains diet accompanied by IER, on glycemic control and potential mechanism. Ten-week-old diabetic db/db mice were randomly divided into CMNT group (feeding low-calorie mouse CMNT diet in day 1-4 and ad libitum regular chow for up to 7 days per cycle) and control group (ad libitum access to regular chow). The results showed that CMNT reduced fasting blood glucose, improved glucose tolerance with higher insulin secretion, attenuated macrophage infiltration, promoted β-cell proliferation of pancreatic islets, and increased diabetes-improving microbiota (Bacteroides, Rikenellaceae_RC9_gut_group and Coprococcus_1) in db/db mice. Additionally, we performed a pilot study evaluating CMNT in thirty-nine T2D patients without obesity. Participants with T2D randomly assigned to two groups: CMNT group (receiving a consecutive 5-day low-calorie human CMNT diet with 10 days of habitual eating per cycle for 90 days) and control group (continuing on a normal diet). We observed an improvement in glycemic control in CMNT group with significant reduction in HbA1c, fasting glucose, 2 h postprandial blood glucose but control group were not affected. After CMNT intervention, the abundance of the phylum Bacteroidetes, and genus Bacteroides, Parabacteroides and Roseburia were significantly higher than baseline in T2D patient, which were closely associated with glycemic control. These findings suggested that CMNT is a promising nutritional intervention approach in diabetes management.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Caloric Restriction",
+        "China",
+        "Diabetes Mellitus, Type 2",
+        "Diet",
+        "Gastrointestinal Microbiome",
+        "Glycated Hemoglobin",
+        "Humans",
+        "Islets of Langerhans",
+        "Mice",
+        "Pilot Projects"
+      ]
+    },
+    {
+      "pmid": "35772219",
+      "title": "Intermittent energy restriction ameliorates adipose tissue-associated inflammation in adults with obesity: A randomised controlled trial.",
+      "authors": [
+        "Inês Castela",
+        "Catarina Rodrigues",
+        "Shámila Ismael",
+        "Inês Barreiros-Mota",
+        "Juliana Morais",
+        "João R Araújo",
+        "Cláudia Marques",
+        "Marta P Silvestre",
+        "Miguel Ângelo-Dias",
+        "Catarina Martins",
+        "Luís Miguel Borrego",
+        "Rosário Monteiro",
+        "Sílvia Ribeiro Coutinho",
+        "Conceição Calhau",
+        "Ana Faria",
+        "Diogo Pestana",
+        "Cátia Martins",
+        "Diana Teixeira"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Although intermittent energy restriction (IER) seems to be as effective as continuous energy restriction (CER) for weight loss, there is still a need to determine the putative effect of this strategy upon the metabolic-inflammatory status. This study aimed to compare the effects of IER versus CER on cardiometabolic and inflammatory markers, over a 12-week period, in adults with obesity. METHODS: Twenty-eight Norwegian adults (20-55 years) with obesity [body mass index: 35.4 (3.7) kg/m2] from a clinical trial (NCT02169778) who completed a 12-weeks diet-induced weight loss as IER (n = 14) or CER (n = 14) were included in this study. Cardiometabolic, adipokines and inflammatory markers were evaluated at baseline and after the intervention. Plasma levels of 13 inflammatory cytokines and chemokines (IL-1β, IFN-α2, IFN-γ, TNF-α, MCP-1, IL-6, IL-8, IL-10, IL-12, IL-17A, IL-18, IL-23, and IL-33) and 4 adipokines (adiponectin, adipsin, leptin and resistin) were measured through multiplex bead-based flow cytometric immunoassays. RESULTS: Both interventions resulted in comparable reductions in fasting glucose and insulin concentrations, lipid profile biomarkers, and adipokines. There were significant differences in HOMA-IR between interventions, with a more pronounced reduction in the IER group (-3.7 vs -1.6, P = 0.040). Inflammatory cytokines and chemokines decreased significantly in the IER group only. Differences in the relative changes of IL-1β (-48.5 vs 58.2%, P = 0.011), IFN-γ (-53.2 vs 45.1%, P = 0.023), MCP-1 (-22.0 vs 17.4%, P = 0.023), IL-18 (-40.8 vs 10.1%, P = 0.019), IL-23 (-64.8 vs 44.0%, P = 0.011) and IL-33 (-53.4 vs 35.7%, P = 0.028) were statistically significant between groups, with improvements in the inflammatory profile in the IER group. CONCLUSIONS: Our results suggest that a 12-weeks intermittent energy restriction, in comparison to a continuous energy strategy, could be advantageous to reduce inflammation associated with obesity, and consequently improve insulin resistance, regardless of the amount of weight loss. Registered under ClinicalTrials.gov Identifier no. NCT02169778.",
+      "mesh_terms": [
+        "Adipokines",
+        "Adipose Tissue",
+        "Adult",
+        "Caloric Restriction",
+        "Cardiovascular Diseases",
+        "Energy Intake",
+        "Humans",
+        "Inflammation",
+        "Interleukin-18",
+        "Interleukin-23",
+        "Interleukin-33",
+        "Obesity",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "35531785",
+      "title": "Intermittent Energy Restriction for Weight Loss: A Systematic Review of Cardiometabolic, Inflammatory and Appetite Outcomes.",
+      "authors": [
+        "Xueting Wei",
+        "Ashley Cooper",
+        "Irene Lee",
+        "Christine A Cernoch",
+        "Ginny Huntoon",
+        "Brandi Hodek",
+        "Hanna Christian",
+        "Ariana M Chao"
+      ],
+      "journal": "Biological research for nursing",
+      "publication_date": "2022-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Current guidelines for obesity treatment recommend reducing daily caloric intake for weight loss. However, long-term weight loss continues to be an issue in obesity management. Alternative weight loss strategies have increased in popularity, such as intermittent energy restriction (IER), a type of eating pattern with periods of fasting alternating with unrestricted eating. The effects of IER on weight loss, cardiovascular risk factors, inflammation, and appetite are not clear. The purpose of this systematic review was to analyze short- (<24 weeks) and long-term (≥24 weeks) effects of IER on anthropometric, cardiometabolic, inflammatory, and appetite outcomes in adults with overweight/obesity. PubMed, CINAHL, Embase, and PsycInfo were searched from inception to July 2020. Human randomized controlled trials (RCTs) on IER with participants with a body mass index ≥25 kg/m2 were included in this review. A total of 42 articles (reporting on 27 different RCTs) were included. In short-term studies, IER showed pre-to-post treatment improvements in eight of nine studies that assessed weight. Weight outcomes were sustained in the long-term. However, no significant long-term between group differences were observed in fat mass, other anthropometric, cardiometabolic, inflammatory, or appetite outcomes. Compared to continuous energy restriction (CER), IER showed no significant long-term differences in anthropometric, cardiometabolic, inflammatory, or appetite outcomes in included studies. More long-term studies are needed to assess the benefits of IER on health outcomes.",
+      "mesh_terms": [
+        "Adult",
+        "Appetite",
+        "Caloric Restriction",
+        "Cardiovascular Diseases",
+        "Diet, Reducing",
+        "Energy Intake",
+        "Humans",
+        "Obesity",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "35406122",
+      "title": "The Role of Intermittent Energy Restriction Diet on Metabolic Profile and Weight Loss among Obese Adults.",
+      "authors": [
+        "Agata Stanek",
+        "Klaudia Brożyna-Tkaczyk",
+        "Samaneh Zolghadri",
+        "Armand Cholewka",
+        "Wojciech Myśliński"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2022-Apr-05",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Obesity is a disease defined by an elevated body mass index (BMI), which is the result of excessive or abnormal accumulation of fat. Dietary intervention is fundamental and essential as the first-line treatment for obese patients, and the main rule of every dietary modification is calorie restriction and consequent weight loss. Intermittent energy restriction (IER) is a special type of diet consisting of intermittent pauses in eating. There are many variations of IER diets such as alternate-day fasting (ADF) and time-restricted feeding (TRF). In the literature, the IER diet is known as an effective method for bodyweight reduction. Furthermore, IER diets have a beneficial effect on systolic or diastolic pressure, lipid profile, and glucose homeostasis. In addition, IER diets are presented as being as efficient as a continuous energy restriction diet (CER) in losing weight and improving metabolic parameters. Thus, the IER diet could present an alternative option for those who cannot accept a constant food regimen.",
+      "mesh_terms": [
+        "Adult",
+        "Caloric Restriction",
+        "Diet, Reducing",
+        "Fasting",
+        "Humans",
+        "Metabolome",
+        "Obesity",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "34770157",
+      "title": "The Comparison of the Effects between Continuous and Intermittent Energy Restriction in Short-Term Bodyweight Loss for Sedentary Population: A Randomized, Double-Blind, Controlled Trial.",
+      "authors": [
+        "Manwen Xu",
+        "Ji Li",
+        "Yan Zou",
+        "Yining Xu"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2021-Nov-05",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To compare the effects of continuous energy restriction (CER) and intermittent energy restriction (IER) in bodyweight loss plan in sedentary individuals with normal bodyweight and explore the influence factors of effect and individual retention. METHODS: 26 participants were recruited in this randomized controlled and double-blinded trial and allocated to CER and IER groups. Bodyweight (BW), body mass index (BMI), and resting metabolic rate (RMR) would be collected before and after a 4-week (28 days) plan which included energy restriction (CER or IER) and moderate-intensity exercise. Daily intake of three major nutrients (protein, carbohydrate, fat) and calories were recorded. RESULTS: A significant decrease in BW and BMI were reported within each group. No statistically significant difference in the change of RMR in CERG. No statistically significant difference was reported in the effect between groups, neither as well the intake of total calories, three major nutrients, and individual plan retention. The influence factors of IER and CER are different. CONCLUSION: Both CER and IER are effective and safe energy restriction strategies in the short term. Daily energy intake and physical exercise are important to both IER and CER.",
+      "mesh_terms": [
+        "Body Weight",
+        "Caloric Restriction",
+        "Diet, Reducing",
+        "Energy Intake",
+        "Humans",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "33922103",
+      "title": "Intermittent Energy Restriction, Weight Loss and Cardiometabolic Risk: A Critical Appraisal of Evidence in Humans.",
+      "authors": [
+        "Alexia L Katsarou",
+        "Nicholas L Katsilambros",
+        "Chrysi C Koliaki"
+      ],
+      "journal": "Healthcare (Basel, Switzerland)",
+      "publication_date": "2021-Apr-22",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Dietary patterns with intermittent energy restriction (IER) have been proposed as an attractive alternative to continuous energy restriction (CER) for the management of obesity and its associated comorbidities. The most widely studied regimens of IER comprise energy restriction on two days per week (5:2), alternate-day energy restriction by 60-70% (ADF), and timely restriction of energy intake during a specific time window within the day (TRF; time-restricted feeding). Although there is some evidence to suggest that IER can exert beneficial effects on human cardiometabolic health, yet is apparently not superior compared to CER, there are still some critical issues/questions that warrant further investigation: (i) high-quality robust scientific evidence regarding the long-term effects of IER (safety, efficacy, compliance) is limited since the vast majority of intervention studies had a duration of less than 6 months; (ii) whether the positive effects of IER are independent of or actually mediated by weight loss remains elusive; (iii) it remains unknown whether IER protocols are a safe recommendation for the general population; (iv) data concerning the impact of IER on ectopic fat stores, fat-free mass, insulin resistance and metabolic flexibility are inconclusive; (v) the cost-effectiveness of IER dietary regimens has not been adequately addressed; (vi) direct head-to-head studies comparing different IER patterns with variable macronutrient composition in terms of safety and efficacy are scarce; and (vii) evidence is limited with regard to the efficacy of IER in specific populations, including males, the elderly and patients with morbid obesity and diabetes mellitus. Until more solid evidence is available, individualization and critical perspective are definitely warranted to determine which patients might benefit the most from an IER intervention, depending on their personality traits and most importantly comorbid health conditions."
+    },
+    {
+      "pmid": "32367134",
+      "title": "Response to \"Intermittent Energy Restriction Is a Feasible, Effective, and Acceptable Intervention to Treat Adolescents with Obesity\" by H Jebeile et al.",
+      "authors": [
+        "Cassandra Vanderwall",
+        "Aaron L Carrel"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2020-May-01",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Adolescent",
+        "Diet, Reducing",
+        "Humans",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "32363896",
+      "title": "Impact of intermittent energy restriction on anthropometric outcomes and intermediate disease markers in patients with overweight and obesity: systematic review and meta-analyses.",
+      "authors": [
+        "Lukas Schwingshackl",
+        "Jasmin Zähringer",
+        "Kai Nitschke",
+        "Gabriel Torbahn",
+        "Szimonetta Lohner",
+        "Tilman Kühn",
+        "Luigi Fontana",
+        "Nicola Veronese",
+        "Christine Schmucker",
+        "Joerg J Meerpohl"
+      ],
+      "journal": "Critical reviews in food science and nutrition",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "This systematic review aims to investigate the effects of intermittent energy restriction (IER) on anthropometric outcomes and intermediate disease markers. A systematic literature search was conducted in three electronic databases. Randomized controlled trials (RCTs) were included if the intervention lasted ≥12 weeks and IER was compared with either continuous energy restriction (CER) or a usual diet. Random-effects meta-analysis was performed for eight outcomes. Certainty of evidence was assessed using GRADE. Seventeen RCTs with 1328 participants were included. IER in comparison to a usual diet may reduce body weight (mean difference [MD]: -4.83 kg, 95%-CI: -5.46, -4.21; n = 6 RCTs), waist circumference (MD: -1.73 cm, 95%-CI: -3.69, 0.24; n = 2), fat mass (MD: -2.54 kg, 95%-CI: -3.78, -1.31; n = 6), triacylglycerols (MD: -0.20 mmol/L, 95%-CI: -0.38, -0.03; n = 5) and systolic blood pressure (MD: -6.11 mmHg, 95%-CI: -9.59, -2.64; n = 5). No effects were observed for LDL-cholesterol, fasting glucose, and glycosylated-hemoglobin. Both, IER and CER have similar effect on body weight (MD: -0.55 kg, 95%-CI: -1.01, -0.09; n = 13), and fat mass (MD: -0.66 kg, 95%-CI: -1.14, -0.19; n = 10), and all other outcomes. In conclusion, IER improves anthropometric outcomes and intermediate disease markers when compared to a usual diet. The effects of IER on weight loss are similar to weight loss achieved by CER.",
+      "mesh_terms": [
+        "Body Weight",
+        "Energy Intake",
+        "Humans",
+        "Obesity",
+        "Overweight",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "32305005",
+      "title": "Effects of alternate-day fasting, time-restricted fasting and intermittent energy restriction DSS-induced on colitis and behavioral disorders.",
+      "authors": [
+        "Xin Zhang",
+        "Qianhui Zou",
+        "Beita Zhao",
+        "Jingwen Zhang",
+        "Weiyang Zhao",
+        "Yitong Li",
+        "Ruihai Liu",
+        "Xuebo Liu",
+        "Zhigang Liu"
+      ],
+      "journal": "Redox biology",
+      "publication_date": "2020-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Intermittent fasting (IF) has been reported to have beneficial effects on improving gut function via lowering gut inflammation and altering the gut microbiome diversity. In this study, we aimed to investigate the differential effects of three different common IF treatments, alternate day fasting (ADF), time-restricted fasting (TRF), and intermittent energy restriction (IER), on a dextran sodium sulfate (DSS)-induced colitis mouse model. The results indicated that TRF and IER, but not ADF improved the survival rates of the colitis mice. TRF and IER, but not ADF, reversed the colitis pathological development by improving the gut barrier integrity and colon length. Importantly, TRF and IER suppressed the inflammatory responses and oxidative stress in colon tissues. Interestingly, TRF and IER also attenuated colitis-related anxiety-like and obsessive-compulsive disorder behavior and alleviated the neuroinflammation and oxidative stress. TRF and IER also altered the gut microbiota composition, including the decrease of the enrichments of colitis-related microbes such as Shigella and Escherichia Coli, and increase of the enrichments of anti-inflammatory-related microbes. TRF and IER also improved the short chain fatty acid formation in colitis mice. In conclusion, the TRF and IER but not ADF exhibited the protective effects against colitis and related behavioral disorders, which could be partly explained by improving the gut microbiome compositions and preventing gut leak, and consequently suppressing the inflammation and oxidative damages in both colon and brain. The current research indicates that proper IF regimens could be effective strategies for nutritional intervention for the prevention and treatment of colitis.",
+      "mesh_terms": [
+        "Animals",
+        "Colitis",
+        "Dextran Sulfate",
+        "Disease Models, Animal",
+        "Fasting",
+        "Gastrointestinal Microbiome",
+        "Mice",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "31818675",
+      "title": "Fast track to health - Intermittent energy restriction in adolescents with obesity. A randomised controlled trial study protocol.",
+      "authors": [
+        "Natalie B Lister",
+        "Hiba Jebeile",
+        "Helen Truby",
+        "Sarah P Garnett",
+        "Krista A Varady",
+        "Christopher T Cowell",
+        "Clare E Collins",
+        "Susan J Paxton",
+        "Megan L Gow",
+        "Justin Brown",
+        "Shirley Alexander",
+        "Kerryn Chisholm",
+        "Alicia M Grunseit",
+        "Katharine Aldwell",
+        "Kaitlin Day",
+        "Mary-Kate Inkster",
+        "Sarah Lang",
+        "Louise A Baur"
+      ],
+      "journal": "Obesity research & clinical practice",
+      "publication_date": "2020",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Intermittent energy restriction (IER) has shown early success in adolescents with obesity, however efficacy trials are needed. This study aims to determine if IER results in lower body mass index (BMI) z-score after 52 weeks in metabolically unhealthy adolescents with obesity compared with continuous energy restriction (CER). METHODS/DESIGN: This is a prospective, randomised, multi-centre trial conducted in tertiary care settings, with three phases: jumpstart (weeks 0-4); intensive intervention (weeks 5-16); continued intervention and/or maintenance (weeks 17-52). During the jumpstart phase, all participants follow a very low energy diet (∼800kcal/3350kJ/day), then transition to their allocated intervention: IER or CER. IER involves three energy-restricted days/week, consuming one-third of daily energy requirements (∼600-700kcal/2500-2950kJ/day), and four days/week of a healthy meal plan. The CER, which is current standard care, has individually tailored energy prescription based on age and sex (13-14years, 1430-1670kcal/6000-7000kJ/day; 15-17years, 1670-1900kcal/7000-8000kJ/day). The study will recruit 186 (93 per arm) treatment-seeking adolescents aged 13-17years with obesity and at least one metabolic co-morbidity. The primary outcome is change in BMI z-score at 52 weeks. Secondary outcomes are changes at 4, 16 and 52 weeks in: body composition; diet quality, food choices and food patterns; cardio-metabolic risk factors; physical activity and sedentary behaviour; sleep and psycho-behavioural measures. DISCUSSION: This study challenges existing clinical paradigms that CER is the only method for weight management in metabolically unhealthy adolescents. If successful, IER may offer an alternate medical nutrition therapy approach for those seeking treatment in tertiary settings. CLINICAL TRIAL REGISTRATION NUMBER: ACTRN12617001630303.",
+      "mesh_terms": [
+        "Adolescent",
+        "Female",
+        "Humans",
+        "Male",
+        "Body Composition",
+        "Body Mass Index",
+        "Caloric Restriction",
+        "Diet, Reducing",
+        "Energy Intake",
+        "Feeding Behavior",
+        "Pediatric Obesity",
+        "Prospective Studies",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Weight Loss",
+        "Multicenter Studies as Topic"
+      ]
+    },
+    {
+      "pmid": "31605198",
+      "title": "Efficacy of an intermittent energy restriction diet in a primary care setting.",
+      "authors": [
+        "R Antoni",
+        "K L Johnston",
+        "C Steele",
+        "D Carter",
+        "M D Robertson",
+        "M S Capehorn"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2020-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Intermittent energy restriction (IER) is a popular weight loss (WL) strategy; however, its efficacy in clinical practice remains unknown. The present study compared the effects of IER compared to continuous energy restriction (CER) on WL and cardiometabolic risk factors in primary care. METHODS: A (self-selected) cohort study was conducted at the Rotherham Institute for Obesity (RIO), a primary care-based weight management service. 197(24% male) obese patients volunteered to participate and selected their diet group. IER participants (n = 99) consumed ~ 2600 kJ for two days/week. CER participants (n = 98) restricted their diet by ~ 2100 kJ/day below estimated requirements. Both interventions were delivered alongside RIO standard care. Changes in anthropometry and cardiometabolic disease risk markers (fasting biochemistry and blood pressure) were assessed after a 6-month intervention period and then participants were followed up again 6 months later (month 12). RESULTS: 27 IER patients (27%) and 39 CER patients (40%) completed the 6-month weight loss phase. Among completers, mean (SEM) WL was greater in the IER group at 6 months (5.4 ± 1.1% versus 2.8 ± 0.6%; p = 0.01), as were reductions in fat mass (p < 0.001) and improvements in systolic blood pressure (p < 0.001). Fasting insulin (p = 0.873) and diastolic blood pressure (p = 0.701) were reduced similarly in both groups. However, in the IER group, changes in anthropometry and blood pressure in the IER group had reverted to baseline by 12-month follow-up, whilst the CER group maintained weight loss but showed an increase in blood pressure. CONCLUSIONS: Among completers, IER resulted in superior short-term changes in anthropometry and some cardiometabolic risk factors. However, rates of attrition and weight regain were higher compared with standard care, providing important insights in the implementations of IER within a \"real-life\" NHS setting. TRIAL REGISTRATION NUMBER: ISRCTN31465600.",
+      "mesh_terms": [
+        "Caloric Restriction",
+        "Cohort Studies",
+        "Diet, Reducing",
+        "Female",
+        "Humans",
+        "Male",
+        "Primary Health Care",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "31006807",
+      "title": "Intermittent Energy Restriction Is a Feasible, Effective, and Acceptable Intervention to Treat Adolescents with Obesity.",
+      "authors": [
+        "Hiba Jebeile",
+        "Megan L Gow",
+        "Natalie B Lister",
+        "Marjan Mosalman Haghighi",
+        "Julian Ayer",
+        "Christopher T Cowell",
+        "Louise A Baur",
+        "Sarah P Garnett"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2019-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Intermittent energy restriction (IER) is an effective obesity management strategy in adults. OBJECTIVE: The aim of this study was to investigate the feasibility, effectiveness, and acceptability of IER in adolescents (aged 12-17 y) with obesity [adult equivalent body mass index (BMI; kg/m2) ≥30]. METHODS: During weeks 1-12 participants followed an IER dietary plan consisting of a very-low-energy diet (VLED) 3 d/wk (500-600 kcal/d) and an eating plan consistent with national dietary guidelines 4 d/wk. For weeks 13-26 participants chose to continue with 1-3 VLED d/wk or follow a prescriptive eating plan. Primary outcomes were feasibility and change in BMI expressed as a percentage of the 95th percentile (BMI %95th percentile) at 12 wk. Secondary outcomes were diet acceptability, body composition, cardiometabolic risk, vascular structure and function, quality of life (Pediatric Quality of Life Inventory), and eating behaviors [Dutch Eating Behavior Questionnaire (DEBQ-C)]. Linear mixed models were used to assess change in outcome measures. RESULTS: Of 45 adolescents invited to participate, 30 adolescents (mean ± SD age: 14.5 ± 1.4 y, female n = 25) with a median BMI of 34.9 (range: 27.7-52.4) were recruited. At 12 wk, 23 participants chose to continue with the VLED 2-3 d/wk, and 21 completed the study, indicating the feasibility of IER. Consistent with intention-to-treat analysis, BMI %95th percentile was reduced at 12 wk (difference in estimated marginal means ± SEMs: -5.6 ± 1.1, P < 0.001) and 26 wk (-5.1 ± 1.9, P = 0.013) compared with baseline. Plasma triglycerides were reduced at 26 wk from baseline (-0.33 ± 0.12 mmol/L, P = 0.03). Body fat percentage reduced between 12 and 26 wk (-1.57% ± 0.76%, P = 0.05). Carotid intima-media thickness (CIMT) (-0.06 ± 0.01 mm, P < 0.001) and flow-mediated dilation (absolute increase 0.44% ± 0.11%, P = 0.001) improved between baseline and 12 wk, with reduced CIMT maintained at 26 wk (P < 0.001). DEBQ-C and Pediatric Quality of Life Inventory scores improved throughout the intervention. Nineteen adolescents completed an acceptability interview, rating IER as easy and pleasant to follow (mean ± SD: +2.1 ± 1.2; +1.9 ± 1.2, respectively) on a Likert scale from -4 to +4. CONCLUSION: IER is a feasible, effective, and acceptable intervention in adolescents with obesity achieving reductions in BMI and cardiovascular disease risk. This trial was registered at www.anzctr.org.au as ACTRN12618000200280.",
+      "mesh_terms": [
+        "Adolescent",
+        "Anthropometry",
+        "Caloric Restriction",
+        "Child",
+        "Diet Records",
+        "Feasibility Studies",
+        "Feeding Behavior",
+        "Female",
+        "Humans",
+        "Male",
+        "Obesity",
+        "Patient Compliance",
+        "Quality of Life",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "30931109",
+      "title": "Avoiding holiday seasonal weight gain with nutrient-supported intermittent energy restriction: a pilot study.",
+      "authors": [
+        "Steven P Hirsh",
+        "Marianne Pons",
+        "Steven V Joyal",
+        "Andrew G Swick"
+      ],
+      "journal": "Journal of nutritional science",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This pilot randomised controlled study evaluated the effects of a nutrient-supported intermittent energy restriction nutrition programme to prevent weight gain in healthy overweight adults during the 6-week winter holiday period between Thanksgiving and New Year. For 52 d, twenty-two overweight adults (mean age 41·0 years, BMI 27·3 kg/m2) were assigned to either the nutrition programme (n 10; two fasting days of 730 kcal/d (3050 kJ/d) of balanced shake and dietary supplements to support weight management efforts, followed by 5 d of habitual diet) or a control group (n 12; habitual diet). A significant weight loss from baseline (pre-holiday 10 d before Thanksgiving) to day 52 (post-holiday 3 January) was observed in the nutrition programme (75·0 (sd 9·8) v. 76·3 (sd 9·8) kg; P < 0·05). Body weight did not significantly change in the control group and there was no between-group difference. Increases from baseline in fasting insulin (42·9 %; P = 0·0256), updated homoeostasis model assessment (HOMA2) (43 %; P = 0·025), LDL-cholesterol (8·4 %; P = 0·0426) and total cholesterol (7·1 %; P = 0·0154) levels were also reported in the control group. In the nutrition programme group, baseline HDL-cholesterol and TAG levels measured after two fasting days increased (13 %; P = 0·0245) and decreased (22·8 %; P = 0·0416), respectively. There was no significant change in HOMA2. Between-group differences in changes in insulin levels (P = 0·0227), total cholesterol:HDL-cholesterol ratio (P = 0·0419) and HOMA2 (P = 0·0210) were significant. Overall compliance rate was 98 % and no severe adverse events were reported. These preliminary findings suggest that this intermittent energy restriction intervention might support weight management efforts and help promote metabolic health during the winter holiday season.",
+      "mesh_terms": [
+        "Adult",
+        "Body Mass Index",
+        "Body Weight",
+        "Dietary Supplements",
+        "Fasting",
+        "Female",
+        "Holidays",
+        "Humans",
+        "Insulin",
+        "Male",
+        "Middle Aged",
+        "Nutrients",
+        "Overweight",
+        "Pilot Projects",
+        "Seasons",
+        "United Kingdom",
+        "Weight Gain",
+        "Weight Loss",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28975722",
+      "title": "Short-term intermittent energy restriction interventions for weight management: a systematic review and meta-analysis.",
+      "authors": [
+        "L Harris",
+        "A McGarty",
+        "L Hutchison",
+        "L Ells",
+        "C Hankey"
+      ],
+      "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "This systematic review synthesized the available evidence on the effect of short-term periods of intermittent energy restriction (weekly intermittent energy restriction; ≥7-d energy restriction) in comparison with usual care (daily continuous energy restriction), in the treatment of overweight and obesity in adults. Six electronic databases were searched from inception to October 2016. Only randomized controlled trials of interventions (≥12 weeks) in adults with overweight and obesity were included. Five studies were included in this review. Weekly intermittent energy restriction periods ranged from an energy intake between 1757 and 6276 kJ/d-1 . The mean duration of the interventions was 26 (range 14 to 48) weeks. Meta-analysis demonstrated no significant difference in weight loss between weekly intermittent energy restriction and continuous energy restriction post-intervention (weighted mean difference: -1.36 [-3.23, 0.51], p = 0.15) and at follow-up (weighted mean difference: -0.82 [-3.76, 2.11], p = 0.58). Both interventions achieved comparable weight loss of >5 kg and therefore were associated with clinical benefits to health. The findings support the use of weekly intermittent energy restriction as an alternative option for the treatment of obesity. Currently, there is insufficient evidence to support the long-term sustainable effects of weekly intermittent energy restriction on weight management.",
+      "mesh_terms": [
+        "Caloric Restriction",
+        "Diet, Reducing",
+        "Humans",
+        "Life Style",
+        "Obesity",
+        "Overweight",
+        "Patient Compliance",
+        "Randomized Controlled Trials as Topic",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "28925405",
+      "title": "Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study.",
+      "authors": [
+        "N M Byrne",
+        "A Sainsbury",
+        "N A King",
+        "A P Hills",
+        "R E Wood"
+      ],
+      "journal": "International journal of obesity (2005)",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: The MATADOR (Minimising Adaptive Thermogenesis And Deactivating Obesity Rebound) study examined whether intermittent energy restriction (ER) improved weight loss efficiency compared with continuous ER and, if so, whether intermittent ER attenuated compensatory responses associated with ER. SUBJECTS/METHODS: Fifty-one men with obesity were randomised to 16 weeks of either: (1) continuous (CON), or (2) intermittent (INT) ER completed as 8 × 2-week blocks of ER alternating with 7 × 2-week blocks of energy balance (30 weeks total). Forty-seven participants completed a 4-week baseline phase and commenced the intervention (CON: N=23, 39.4±6.8 years, 111.1±9.1 kg, 34.3±3.0 kg m-2; INT: N=24, 39.8±9.5 years, 110.2±13.8 kg, 34.1±4.0 kg m-2). During ER, energy intake was equivalent to 67% of weight maintenance requirements in both groups. Body weight, fat mass (FM), fat-free mass (FFM) and resting energy expenditure (REE) were measured throughout the study. RESULTS: For the N=19 CON and N=17 INT who completed the intervention per protocol, weight loss was greater for INT (14.1±5.6 vs 9.1±2.9 kg; P<0.001). INT had greater FM loss (12.3±4.8 vs 8.0±4.2 kg; P<0.01), but FFM loss was similar (INT: 1.8±1.6 vs CON: 1.2±2.5 kg; P=0.4). Mean weight change during the 7 × 2-week INT energy balance blocks was minimal (0.0±0.3 kg). While reduction in absolute REE did not differ between groups (INT: -502±481 vs CON: -624±557 kJ d-1; P=0.5), after adjusting for changes in body composition, it was significantly lower in INT (INT: -360±502 vs CON: -749±498 kJ d-1; P<0.05). CONCLUSIONS: Greater weight and fat loss was achieved with intermittent ER. Interrupting ER with energy balance 'rest periods' may reduce compensatory metabolic responses and, in turn, improve weight loss efficiency.",
+      "mesh_terms": [
+        "Adult",
+        "Basal Metabolism",
+        "Body Composition",
+        "Caloric Restriction",
+        "Energy Intake",
+        "Energy Metabolism",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Rest",
+        "Thermogenesis",
+        "Treatment Outcome",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "28031781",
+      "title": "Intermittent energy restriction in type 2 diabetes: A short discussion of medication management.",
+      "authors": [
+        "Sharayah Carter",
+        "Peter M Clifton",
+        "Jennifer B Keogh"
+      ],
+      "journal": "World journal of diabetes",
+      "publication_date": "2016-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: To discuss type 2 diabetes mellitus (T2DM) medication changes required during the popular 5:2 intermittent energy restriction (IER) diet. METHODS: A search was conducted in MEDLINE, EMBASE, AMED, CINAHL and Cochrane library for original research articles investigating the use of very low calorie diets (VLCD) in people with T2DM. The search terms used included \"VLCD\" or \"very low energy diet\" or \"very low energy restriction\" or \"IER\" or \"intermittent fasting\" or \"calorie restriction\" or \"diabetes mellitus type 2\" and \"type 2 diabetes\". Reference lists of selected articles were also screened for relevant publications. Only research articles written in English, which also included an explanation of medication changes were included. A recent pilot trial using the 5:2 IER method, conducted by our research group, will also be summarized. RESULTS: A total of 8 studies were found that investigated the use of VLCD in T2DM and discussed medication management. Overall these studies indicate that the use of a VLCD for people with T2DM usually require the cessation of medication to prevent hypoglycemia. Therefore, the 5:2 IER method will also require medication changes, but as seen in our pilot trial, may not require total cessation of medication, rather a cessation on the 2 IER days only. CONCLUSION: Guidelines outlined here can be used in the initial stages of a 2-d IER diet, but extensive blood glucose monitoring is still required to make the necessary individual reductions to medications in response to weight loss."
+    },
+    {
+      "pmid": "27338458",
+      "title": "Weight-Loss Outcomes: A Systematic Review and Meta-Analysis of Intermittent Energy Restriction Trials Lasting a Minimum of 6 Months.",
+      "authors": [
+        "Michelle Headland",
+        "Peter M Clifton",
+        "Sharayah Carter",
+        "Jennifer B Keogh"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2016-Jun-08",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "The aim of this systematic review and meta-analysis is to summarise the effects of intermittent energy restriction on weight and biological markers in long term intervention studies of >6 months duration. An electronic search was performed using the MEDLINE, EMBASE and the Cochrane Library databases for intervention trials lasting 6 months or longer investigating the effects of intermittent energy restriction. A total of nine studies were identified as meeting the pre-specified criteria. All studies included an intermittent energy restriction arm, with six being directly compared to continuous energy restriction. A total of 981 subjects were enrolled and randomised, with weight loss observed in all intermittent energy restriction arms regardless of study duration or follow up length. Eight interventions in six trials were used for the meta-analyses, with results indicating neither intermittent or continuous energy restriction being superior with respect to weight loss, 0.084 ± 0.114 (overall mean difference between groups ± standard error; p = 0.458). The effects of intermittent energy restriction in the long term remain unclear. The number of long term studies conducted is very limited, and participant numbers typically small (less than 50 completers), indicating the need for larger, long term trials of 12 months or more, to be conducted in order to understand the impact of intermittent energy restriction on weight loss and long term weight management. Blood lipid concentrations, glucose, and insulin were not altered by intermittent energy expenditure in values greater than those seen with continuous energy restriction.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Diet, Reducing",
+        "Energy Intake",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Randomized Controlled Trials as Topic",
+        "Time Factors",
+        "Treatment Outcome",
+        "Weight Loss",
+        "Young Adult"
+      ]
+    }
+  ]
+}

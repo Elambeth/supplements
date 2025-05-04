@@ -1,0 +1,386 @@
+{
+  "supplement": "Prudent Diet",
+  "query": "Prudent Diet[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:23:52",
+  "research_count": 11,
+  "count": 11,
+  "articles": [
+    {
+      "pmid": "29462973",
+      "title": "The Nordic Prudent Diet Reduces Risk of Cognitive Decline in the Swedish Older Adults: A Population-Based Cohort Study.",
+      "authors": [
+        "Behnaz Shakersain",
+        "Debora Rizzuto",
+        "Susanna C Larsson",
+        "Gerd Faxén-Irving",
+        "Laura Fratiglioni",
+        "Wei-Li Xu"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2018-Feb-17",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Appropriate dietary pattern for preserving cognitive function in northern Europe remains unknown. We aimed to identify a Nordic dietary pattern index associated with slower cognitive decline compared to the Mediterranean-DASH Intervention for Neurodegenerative Delay, Mediterranean Diet, Dietary Approaches to Stop Hypertension, and Baltic Sea Diet indices. A total of 2223 dementia-free adults aged ≥60 were followed for 6 years. Mini-Mental State Examination was administrated at baseline and follow-ups. Dietary intake was assessed by 98-item food frequency questionnaire, and the Nordic Prudent Dietary Pattern (NPDP) was identified. Data were analysed using mixed-effects and parametric survival models and receiver operating characteristic curves with adjustment for potential confounders. Moderate (β = 0.139, 95% CI 0.077-0.201) and high adherence (β = 0.238, 95% CI 0.175-0.300) to NPDP were associated with less cognitive decline compared to other four indices. High adherence to NPDP was also associated with the lowest risk of MMSE decline to ≤24 (HR = 0.176, 95% CI 0.080-0.386) and had the greatest ability to predict such decline (area under the curve = 0.70). Moderate-to-high adherence to the NPDP may predict a better-preserved cognitive function among older adults in Nordic countries. Regional dietary habits should be considered in developing dietary guidelines for the prevention of cognitive impairment and dementia.",
+      "mesh_terms": [
+        "Age Factors",
+        "Aged",
+        "Aged, 80 and over",
+        "Cognition",
+        "Cognition Disorders",
+        "Cognitive Aging",
+        "Diet, Healthy",
+        "Diet, Mediterranean",
+        "Dietary Approaches To Stop Hypertension",
+        "Feeding Behavior",
+        "Female",
+        "Healthy Aging",
+        "Humans",
+        "Male",
+        "Mental Status and Dementia Tests",
+        "Middle Aged",
+        "Protective Factors",
+        "Risk Factors",
+        "Surveys and Questionnaires",
+        "Sweden",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "21676220",
+      "title": "Efficacy of aerobic exercise and a prudent diet for improving selected lipids and lipoproteins in adults: a meta-analysis of randomized controlled trials.",
+      "authors": [
+        "George A Kelley",
+        "Kristi S Kelley",
+        "Susan Roberts",
+        "William Haskell"
+      ],
+      "journal": "BMC medicine",
+      "publication_date": "2011-Jun-15",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND: Studies addressing the effects of aerobic exercise and a prudent diet on lipid and lipoprotein concentrations in adults have reached conflicting conclusions. The purpose of this study was to determine the effects of aerobic exercise combined with a prudent diet on lipid and lipoprotein concentrations in adults. METHODS: Studies were located by searching nine electronic databases, cross-referencing, and expert review. Two independent reviewers selected studies that met the following criteria: (1) randomized controlled trials, (2) aerobic exercise combined with diet recommendations (saturated/trans fat intake less than 10% of total calories and cholesterol less than 300 mg/day and/or fiber intake ≥ 25 g/day in women and ≥ 35 grams per day in men), (3) intervention ≥ 4 weeks, (4) humans ≥ 18 years of age, (5) published studies, including dissertations and Master's theses, (6) studies published in any language, (7) studies published between January 1, 1955 and May 1, 2009, (8) assessment of one or more of the following lipid and lipoprotein concentrations: total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), ratio of TC to HDL-C, non-HDL-C, low-density lipoprotein cholesterol (LDL-C) and triglycerides (TG). Two reviewers independently extracted all data. Random-effects models that account for heterogeneity and 95% confidence intervals were used to pool findings. RESULTS: Of the 1,401 citations reviewed, six studies representing 16 groups (8 intervention, 8 control) and up to 559 men and women (282 intervention, 277 control) met the criteria for analysis. Statistically significant intervention minus control reductions were found for TC (-15.5 mg/dl, 95% CI, -20.3 to -10.7), TC:HDL-C (-0.4 mg/dl, 95% CI, -0.7 to -0.2), LDL-C (-9.2 mg/dl, 95% CI, -12.7 to -5.8) and TG (-10.6 mg/dl, 95% CI, -17.2 to -4.0) but not HDL-C (-0.5 mg/dl, 95% CI, -4.0 to 3.1). Changes were equivalent to reductions of 7.5%, 6.6%, 7.2% and 18.2% respectively, for TC, TC:HDL-C, LDL-C and TG. Because of missing variance statistics, non-HDL-C was excluded. CONCLUSIONS: Aerobic exercise combined with a prudent diet is highly efficacious for improving TC, TC:HDL-C, LDL-C and TG, but not HDL-C concentrations, in adults. However, additional studies are needed, including effectiveness studies using intention-to-treat analysis.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Diet",
+        "Exercise",
+        "Female",
+        "Humans",
+        "Lipid Metabolism",
+        "Lipids",
+        "Lipoproteins",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "15539255",
+      "title": "Effects of a prudent diet containing either lean beef and mutton or fish and skinless chicken on the plasma lipoproteins and fatty acid composition of triacylglycerol and cholesteryl ester of hypercholesterolemic subjects.",
+      "authors": [
+        "P Wolmarans",
+        "J A Laubscher",
+        "S van der Merwe",
+        "J A Kriek",
+        "C J Lombard",
+        "M Marais",
+        "H H Vorster",
+        "H Y Tichelaar",
+        "M A Dhansay",
+        "A J Benadé"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "publication_date": "1999-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this two-phase crossover study, 39 hypercholesterolemic subjects followed a prudent diet with either lean red meat or fish and skinless chicken (treatment groups), and 13 subjects (reference group) followed their habitual diet. Fasting blood samples were analyzed for plasma total cholesterol, triacylglycerol (TAG), high density lipoprotein cholesterol (HDL-C), low density lipoprotein one- and two-cholesterol, apolipoprotein-B, very low density lipoprotein cholesterol, and very low density lipoprotein TAG, and fatty acid composition of plasma TAG and cholesteryl ester (CE). Body mass and blood pressure were determined. Seven-day dietary records were kept once at baseline and twice during the treatment periods. Significant differences were observed in dietary intake between the baseline and treatment diets and between the two treatment diets. HDL-C (P < 0.05) and diastolic blood pressure (P < 0.01) were higher in patients on the red meat diet than in those on the chicken-fish diet. No other significant differences in lipoproteins were observed between the effects of the two treatment diets. The linoleic acid (%), eicosapentaenoic acid (%), and the eicosapentaenoic acid/arachidonic acid ratios in TAG and CE were higher (P < 0.01) in subjects on the chicken-fish diet than in those on the red meat diet. In conclusion, this study showed that the effect of two lipid-lowering diets containing either lean red meat or skinless chicken and fish on the atherogenic lipoproteins did not differ significantly. A prudent diet with skinless chicken and fish, however, had a more favorable effect on the fatty acid composition of the plasma TAG and the CE than did the lean red meat diet."
+    },
+    {
+      "pmid": "8409079",
+      "title": "Effect on mortality and reinfarction of adding fruits and vegetables to a prudent diet in the Indian experiment of infarct survival (IEIS).",
+      "authors": [
+        "R B Singh",
+        "M A Niaz",
+        "S Ghosh",
+        "R Singh",
+        "S S Rastogi"
+      ],
+      "journal": "Journal of the American College of Nutrition",
+      "publication_date": "1993-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The effects of antioxidant-rich foods as adjuncts to a prudent diet were compared for 12 weeks in a randomized, single-blind and controlled trial in 204 (group A) and 202 (group B) patients with acute myocardial infarction. There was a significant decrease in cardiac end points in group A compared to group B (37 vs 58, p < 0.01) after 12 weeks. Within intervention group A, those 108 patients with greater adherence to the intervention program showed a greater reduction in cardiac end points (14 vs 58, p < 0.001), and a significant decrease in total mortality (6 vs 28, p < 0.001), including cardiac mortality (6 vs 25, p < 0.01) compared to group B. Underlying these beneficial effects, antioxidant-rich foods caused a significantly smaller rise in lactate dehydrogenase (LDH) cardiac enzyme in group A than in group B (427.8 vs 561.6 IU/dL), indicating that the protective influence of such a diet may be observed within 1 week. The subset of group A patients showing reduction in mortality also had a lesser rise in LDH and greater reduction in blood lipids, blood glucose and blood pressures. Antioxidant-rich foods also caused a significant decrease in blood lipids with a lower decrease in high-density lipoprotein cholesterol in group A than in group B. Assay of serum level of antioxidants and long-term follow-up may confirm our observations.",
+      "mesh_terms": [
+        "Adult",
+        "Antioxidants",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Cholesterol",
+        "Cholesterol, LDL",
+        "Female",
+        "Fruit",
+        "Humans",
+        "India",
+        "L-Lactate Dehydrogenase",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Myocardial Infarction",
+        "Survival Rate",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "1319110",
+      "title": "Cholesterol-lowering effects of psyllium-enriched cereal as an adjunct to a prudent diet in the treatment of mild to moderate hypercholesterolemia.",
+      "authors": [
+        "J W Anderson",
+        "S Riddell-Mason",
+        "N J Gustafson",
+        "S F Smith",
+        "M Mackey"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1992-Jul",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Psyllium hydrophilic mucilloid, rich in soluble fiber, significantly lowers serum cholesterol concentrations. To investigate the lipid-lowering effects of a ready-to-eat cereal enriched with psyllium, we studied 44 hypercholesterolemic ambulatory individuals for 7 wk, using a randomized, double-blind, parallel design. After a 1-wk baseline period, subjects were randomly assigned to consume 114 g/d of a psyllium-flake or wheat-bran-flake cerearl for 6 wk adjunctive to an American Heart Association Step I diet. Serum high-density-lipoprotein cholesterol and triglycerides remained unchanged throughout the study; however, serum cholesterol and low-density lipoprotein (LDL) concentrations were significantly lower on psyllium than on wheat-bran cereal. Additionally, serum total and LDL cholesterol values were significantly lower than baseline values in the psyllium group. The dietary nutrient intake of the two groups did not differ except for soluble fiber. Adding psyllium-enriched cereal to a prudent low-fat diet may enhance dietary management of hypercholesterolemia.",
+      "mesh_terms": [
+        "Anticholesteremic Agents",
+        "Apolipoprotein A-I",
+        "Apolipoproteins B",
+        "Body Weight",
+        "Chemotherapy, Adjuvant",
+        "Cholesterol, LDL",
+        "Dietary Fats",
+        "Dietary Fiber",
+        "Double-Blind Method",
+        "Edible Grain",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Male",
+        "Patient Compliance",
+        "Psyllium"
+      ]
+    },
+    {
+      "pmid": "1511475",
+      "title": "Effects on serum lipids of adding fruits and vegetables to prudent diet in the Indian Experiment of Infarct Survival (IEIS).",
+      "authors": [
+        "R B Singh",
+        "S Ghosh",
+        "R Singh"
+      ],
+      "journal": "Cardiology",
+      "publication_date": "1992",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "In a randomized, single-blind and controlled trial, the effects of the administration of fruits and vegetables (mean 582 vs. 188 g/day) for 12 weeks were compared as adjuncts to a prudent diet in the management of 202 group A and 204 group B patients with acute myocardial infarction (AMI). Fruits and vegetables decreased total serum cholesterol level (26.4 vs. 13.8 mg/dl, p less than 0.01) low-density lipoprotein cholesterol (20.0 vs. 9.8 mg/dl, p less than 0.01), triglycerides (20.6 vs. 10.6 mg/dl, p less than 0.01) and fasting blood glucose (22.4 vs. 12.6 mg/dl, p less than 0.01) levels more significant in the intervention group than changes in the control group. Adherence to dietary advice was assessed by questionnaires. Total adherence score in group A was significantly higher than in group B. Group A patients also had a significantly smaller rise in lactate dehydrogenase cardiac enzyme which indicates that the protective effects of such a diet may be observed within 1 week. There was a significantly greater decrease in mean blood pressure in group A than changes in group B. These data suggest that fruits and vegetables, because of their high soluble dietary fibre and possibly high antioxidant contents, may be a useful and safe adjunct to a prudent diet in the treatment of patients with AMI. The use of fruits and vegetables may be preferred over oat bran, psyllium and guar gum because of their high content of vitamins and minerals.",
+      "mesh_terms": [
+        "Cholesterol",
+        "Female",
+        "Fruit",
+        "Humans",
+        "India",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Myocardial Infarction",
+        "Risk Factors",
+        "Single-Blind Method",
+        "Smoking",
+        "Triglycerides",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "2173390",
+      "title": "Cholesterol-lowering effects of soluble-fiber cereals as part of a prudent diet for patients with mild to moderate hypercholesterolemia.",
+      "authors": [
+        "L P Bell",
+        "K J Hectorn",
+        "H Reynolds",
+        "D B Hunninghake"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1990-Dec",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Soluble-fiber breakfast cereals were examined for their cholesterol-lowering ability in 58 male patients with mild to moderate hypercholesterolemia in a randomized, double-blind, placebo-controlled study. Patients followed a step 1 diet for a minimum of 6 wk, then were randomly assigned to groups incorporating either corn flakes or one of two soluble-fiber cereals (pectin enriched or psyllium enriched) in the diet for an additional 6 wk. During the diet-only phase, total cholesterol dropped 3.8%. During the cereal-plus-diet phase, total and LDL cholesterol values of the pectin-enriched cereal group dropped an additional 2.1% (P = 0.243) and 3.9% (P = 0.16), respectively, and they dropped 5.9% (P = 0.005) and 5.7% (P = 0.034), respectively, in the psyllium-enriched cereal group. During the cereal-plus-diet phase, no significant effects on HDL cholesterol, triglyceride, or body weight were found within or between any cereal groups. These results support use of soluble-fiber cereals as an effective and well-tolerated part of a prudent diet in the treatment of mild to moderate hypercholesterolemia.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Glucose",
+        "Body Weight",
+        "Cholesterol",
+        "Dietary Fiber",
+        "Eating",
+        "Edible Grain",
+        "Humans",
+        "Hypercholesterolemia",
+        "Iron",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Pectins",
+        "Psyllium",
+        "Solubility"
+      ]
+    },
+    {
+      "pmid": "2203322",
+      "title": "Comparison of psyllium hydrophilic mucilloid and cellulose as adjuncts to a prudent diet in the treatment of mild to moderate hypercholesterolemia.",
+      "authors": [
+        "E G Levin",
+        "V T Miller",
+        "R A Muesing",
+        "D B Stoy",
+        "T K Balm",
+        "J C LaRosa"
+      ],
+      "journal": "Archives of internal medicine",
+      "publication_date": "1990-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of the administration of 5.1 g of psyllium or placebo (cellulose) twice daily for 16 weeks were compared as adjuncts to a prudent diet in the management of moderate hypercholesterolemia in a parallel, double-blind study. Psyllium decreased the total cholesterol level by 5.6% and the low-density lipoprotein cholesterol level by 8.6%, whereas the levels were unchanged in the placebo group. The high-density lipoprotein cholesterol level decreased during the diet stabilization period in both groups and returned to near-baseline values by week 16. Plasma triglyceride levels did not change substantially in either group. Subject compliance to treatment was greater than 95%. These data suggest that psyllium hydrophilic mucilloid in a twice-daily regimen may be a useful and safe adjunct to a prudent diet in the treatment of moderate hypercholesterolemia.",
+      "mesh_terms": [
+        "Cellulose",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Male",
+        "Middle Aged",
+        "Psyllium"
+      ]
+    },
+    {
+      "pmid": "2724486",
+      "title": "Cholesterol-lowering effects of psyllium hydrophilic mucilloid. Adjunct therapy to a prudent diet for patients with mild to moderate hypercholesterolemia.",
+      "authors": [
+        "L P Bell",
+        "K Hectorne",
+        "H Reynolds",
+        "T K Balm",
+        "D B Hunninghake"
+      ],
+      "journal": "JAMA",
+      "publication_date": "1989-Jun-16",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Psyllium hydrophilic mucilloid was examined for its ability to lower serum cholesterol levels in hypercholesterolemic patients. Seventy-five patients with mild to moderate hypercholesterolemia were evaluated in this randomized, double-blind, placebo-controlled parallel study. Patients were treated with a Step I diet for 12 weeks before receiving placebo or 3.4 g of psyllium (equivalent to 1 teaspoon) three times per day for 8 weeks. Compared with placebo, psyllium achieved an additional 4.8% reduction in total cholesterol level, 8.2% reduction in low-density lipoprotein cholesterol level, and 8.8% reduction in apolipoprotein B level. Psyllium did not significantly affect blood pressure or levels of high-density cholesterol, triglycerides, serum glucose, or iron. Reported adherence to diet and treatment was excellent, and no significant adverse side effects were noted. These results indicate psyllium hydrophilic mucilloid is an effective and well-tolerated adjunct to diet in the management of mild to moderate hypercholesterolemia.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Cholesterol",
+        "Cholesterol, LDL",
+        "Combined Modality Therapy",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Male",
+        "Middle Aged",
+        "Psyllium",
+        "Random Allocation"
+      ]
+    },
+    {
+      "pmid": "6622440",
+      "title": "Perceived palatability of the prudent diet: results of a dietary demonstration for physicians.",
+      "authors": [
+        "T E Kottke",
+        "J K Foels",
+        "C Hill",
+        "T Choi",
+        "D A Fenderson"
+      ],
+      "journal": "Preventive medicine",
+      "publication_date": "1983-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "\"Product sampling\" is an effective marketing strategy which lowers consumer buying resistance by providing a free sample of the product for the consumer to test. We used this strategy to demonstrate the palatability of the prudent diet (30-35% of calories from total fats, less than 10% from saturated fats, less than 3 g sodium, and increased fiber) to physicians attending a 5-day family practice continuing medical education conference. The effect of the intervention was evaluated with pre- and postintervention questionnaires and a 20% random sample of participants was surveyed 1 year later. The proportion of physicians who reported that they considered the diet to be \"very palatable\" rose from 26% before the demonstration to 64% after the demonstration. Only 5% of the physicians did not report a favorable response to the demonstration. Sixty-two percent of the physicians reported that the diet was better than expected, and 82% reported that the demonstration encouraged them to recommend the diet to their patients. One year after the intervention 60% considered the diet \"very palatable\" and 55% reported that the demonstration stimulated them to increase their dietary intervention activities. These data suggest that serving the prudent diet at continuing medical education programs helps to remove prejudices about the diet and encourages physicians to recommend the diet to their patients.",
+      "mesh_terms": [
+        "Attitude",
+        "Coronary Disease",
+        "Diet, Reducing",
+        "Education, Medical, Continuing",
+        "Family Practice",
+        "Feeding Behavior",
+        "Humans",
+        "Nutritional Sciences",
+        "Physician's Role",
+        "Role",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "207959",
+      "title": "[Treatment of hyperlipoproteinemia type IIa with a \"prudent\" diet and clofibrate (author's transl)].",
+      "authors": [
+        "D P Mertz",
+        "J Suermann"
+      ],
+      "journal": "Medizinische Klinik",
+      "publication_date": "1978-Jun-09",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "14 previously untreated patients with hyperlipoproteinemia type IIa according to Fredrickson underwent a controlled clinical trial. The study was designed to clarify the effects of clofibrate on the bloodlipids. All patients were willing to cooperate. After leaving their usual dietary habits all of them were given for seven to ten days a \"prudent\" diet. This diet was rich in vitamins; it had a low caloric-content. 20% of the calories consisted of proteins, 35% of carbohydrates (sweets were omitted) and about 45% of fats with a PS-factor of about 2.2. After the initial dietary treatment all patients were given twice daily for 14 days 500 mg clofibrate. During the use of the \"prudent\" diet the serum-cholesterol-levels decreased in average with 14.8%. Compared to the values at the beginning of the trial the difference was statistically highly significant. The average-values of triglycerides, phosphatides and the relative percentage of HDL, LDL and VLDL remained unchanged. After the patients received clofibrate there was an additional decrease of the serum-cholesterol-values of 14.8%. The total decrease of the cholesterol-levels compared to the initial values amounted to 27.4%. Furthermore, there was a reduction of the phosphatids in the serum of 14.1% compared to the initial value and of 9.9% compared to the value after dietary treatment alone. Under the combined effects of a \"prudent\" diet with clofibrate the HDL increased significantly. It can be assumed that clofibrate reduces the serum-cholesterol-levels in cases of hyperlipoproteinemia by decreasing the LDL-fraction, which is rich in cholesterol, and by increasing the HDL-fraction.",
+      "mesh_terms": [
+        "Adult",
+        "Cholesterol",
+        "Clofibrate",
+        "Diet Therapy",
+        "Energy Intake",
+        "Female",
+        "Humans",
+        "Hyperlipidemias",
+        "Lipoproteins, HDL",
+        "Lipoproteins, LDL",
+        "Male",
+        "Middle Aged",
+        "Phospholipids",
+        "Triglycerides"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "supplement": "Barberry",
+  "query": "Barberry[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:15:31",
+  "research_count": 25,
+  "count": 25,
+  "articles": [
+    {
+      "pmid": "40269060",
+      "title": "Synthesis of polyaniline zirconium for purification of barberry anthocyanins and stabilization via copigmentation against thermal and gastrointestinal conditions.",
+      "authors": [
+        "Arash Dara",
+        "Javad Feizy",
+        "Sara Naji-Tabasi",
+        "Ebrahim Fooladi",
+        "Ali Rafe"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025-Apr-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study aimed to purify and stabilize anthocyanins from barberry (Berberis vulgaris L.) through a three-phase approach encompassing synthesis of adsorbent composites for purification, copigmentation, and stability assessment. The first phase involved synthesizing zirconium polyaniline as an adsorbent for anthocyanin purification, optimizing parameters such as substrate amount (0.07-0.21 g), solvent volume (1-3 mL), and adsorption duration (15-30 min). The optimal conditions identified were 0.07 g of substrate, 2 mL of solvent, and 15 min of adsorption, yielding an anthocyanin concentration of 76.02 mg/L, characterized using high-performance liquid chromatography. The second phase explored copigmentation with pectin, varying temperature (25-75 °C), time (30-120 min), and molar ratios (0.06-0.1). Optimal conditions for copigmentation were determined to be 25 °C, 30 min, and a molar ratio of 0.06, resulting in significant hyperchromic and bathochromic effects that enhanced color and stability. The final phase assessed the stability of both copigmented and free anthocyanins under thermal treatment and gastrointestinal conditions, revealing that the anthocyanins-pectin complex exhibited resistance to digestion and heat. Although both anthocyanin content and antioxidant activity decreased during copigmentation, this reduction was less significant in copigmented anthocyanins, demonstrating the effective stabilization of barberry anthocyanins through copigmentation as well as its in vitro digestion condition.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Zirconium",
+        "Aniline Compounds",
+        "Adsorption",
+        "Temperature",
+        "Chromatography, High Pressure Liquid",
+        "Antioxidants"
+      ]
+    },
+    {
+      "pmid": "40240439",
+      "title": "Prediction of barberry witches' broom rust disease using artificial intelligence models: a case study in South Khorasan, Iran.",
+      "authors": [
+        "Javad Ramezani-Avval Reiabi",
+        "Mojtaba Mohammadpoor"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025-Apr-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The South Khorasan Province in Iran is the main producer of seedless barberry, accounting for 98% of the country's production. This has led to significant economic growth in the region. However, the cultivation of barberry is threatened by the rust fungus Puccinia arrhenatheri, which causes witches' brooms on Berberis vulgaris L. var. asperma. Our research aims to detect infected leaves containing this fungal pathogen using deep learning (DL)-based artificial intelligence (AI) techniques on an available dataset. We captured healthy and infected barberry foliage images and used conventional laboratory methods to label them. We developed a convolutional neural network (CNN) deep learning model using TensorFlow's Keras API to detect and classify barberry broom rust disease. A cross-validation technique is used to check the robustness of the proposed model. The results imply that the proposed model successfully distinguished between healthy specimens and those affected by broom rust disease. The model achieved an impressive accuracy rate of 98% in automatically identifying the disease type and its severity. This interdisciplinary research demonstrates the practical application of AI in agriculture, providing timely intervention strategies to protect crop yields and maintain economic viability in the face of plant diseases.",
+      "mesh_terms": [
+        "Iran",
+        "Plant Diseases",
+        "Artificial Intelligence",
+        "Berberis",
+        "Neural Networks, Computer",
+        "Puccinia",
+        "Plant Leaves",
+        "Deep Learning",
+        "Basidiomycota"
+      ]
+    },
+    {
+      "pmid": "38493298",
+      "title": "Partial trailside Japanese barberry (Ranunculales: Berberidaceae) removal did not reduce the abundance of questing blacklegged ticks (Acari: Ixodidae).",
+      "authors": [
+        "Susan P Elias",
+        "Peter W Rand",
+        "Charles B Lubelczyk",
+        "Melanie R McVety",
+        "Robert P Smith"
+      ],
+      "journal": "Environmental entomology",
+      "publication_date": "2024-Jun-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In a nature reserve in southern Maine, we removed invasive Japanese barberry (Berberis thunbergii de Candolle) along sections of forested recreational trails that ran through dense barberry infestations. Barberry thickets provide questing substrate and a protective microclimate for blacklegged ticks (Ixodes scapularis Say), and trail users could brush up against encroaching barberry and acquire ticks. Trailside barberry removal will reduce or eliminate encroaching tick questing substrate and could reduce trailside questing tick abundance by creating a microclimate more hostile to ticks. The same-day cut-and-spray treatment comprised mechanical cutting of barberry clumps (individual plants with numerous ramets) followed immediately by targeted herbicide application to the resulting root crowns. The treatment created trail shoulders to a lateral width of 1-2 m on both sides of 100-m trail sections, with initial treatment in the fall of 2013 and one retreatment in the summer of 2014. Our aim was to remove 90% of barberry clumps to achieve a 50% or better reduction in questing tick abundance on trail shoulders. However, by the fall of 2015, there were only 41% fewer barberry clumps on treated vs. untreated trail sections and there was no reduction in either adults or nymphs. We concluded that our barberry treatment protocol was not sufficiently aggressive since the resulting ecotone habitat on trail shoulders proved suitable for questing I. scapularis. In principle, cutting back barberry along trails should reduce trail user contact with questing deer ticks, but we were unable to demonstrate a reduction in trailside tick abundance.",
+      "mesh_terms": [
+        "Animals",
+        "Berberis",
+        "Introduced Species",
+        "Ixodes",
+        "Maine",
+        "Nymph",
+        "Tick Control"
+      ]
+    },
+    {
+      "pmid": "38107101",
+      "title": "Quality preservation and decay reduction of minimally processed seedless barberry fruit via postharvest ultrasonic treatment.",
+      "authors": [
+        "Mohammad Reza Saebi",
+        "Farid Moradinezhad",
+        "Elham Ansarifar"
+      ],
+      "journal": "Food science & nutrition",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Seedless barberry fruit is one of the important horticultural products of Iran, which has health benefits due to great amounts of phenolic compounds, flavonoids, and antioxidant activity. However, fresh barberry fruit has a short shelf life even at cold storage, mainly due to high water content and thin skin that leads to fungal decay and high postharvest loss. We examined the effectiveness of the postharvest ultrasonic technology on the quality preservation and nutritional value of fresh seedless barberry fruit and their decay reduction during cold storage. Experimental treatments were the time and temperature of ultrasound (US) and included: (1) control, fruit without US, (2) 5 min US at 20°C, (3) 5 min US at 30°C, (4) 5 min US at 40°C, (5) 10 min US at 20°C, (6) 10 min US at 30°C, (7) 10 min US at 40°C, (8) 15 min US at 20°C, (9) 15 min US at 30°C, and (10) 15 min US at 40°C. After applying the treatments, the fruits were sealed in polyethylene bags and stored at 4 ± 1°C for 20 days. The results showed that all US treatments had higher titratable acidity, antioxidant activity, phenol content, and vitamin C content than the control. However, the highest titratable acidity and antioxidant activity values were obtained in US treatments at 40°C and 30°C for 15 min. Also, US treatment significantly reduced the total soluble solids, decay percentage, and microbial load of fresh barberry fruit. As the US treatment temperature increased from 20°C to 40°C, the decay and microbial load of fruit significantly decreased. In conclusion, this study proved the potential application of the US for preserving the quality of fresh seedless barberry fruit, and the most optimal US temperature and its application time was 40°C for 15 min."
+    },
+    {
+      "pmid": "37675930",
+      "title": "Effects of berberine and barberry on selected inflammatory biomarkers in adults: A systematic review and dose-response meta-analysis of randomized clinical trials.",
+      "authors": [
+        "Yasaman Vahedi-Mazdabadi",
+        "Hossein Shahinfar",
+        "Mohammad Toushih",
+        "Farzad Shidfar"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Systematic Review",
+        "Meta-Analysis",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The previous meta-analysis showed an advantageous effect of berberine supplementation on interleukin 6 (IL-6), tumor necrosis factor-α (TNF-α), and serum C-reactive protein (CRP) concentrations; however, it is unknown the dosage that this component influences inflammatory biomarkers. A comprehensive search was done in Scopus, PubMed, and Web of Science until September 2022 to find randomized controlled trials (RCT) that assessed the effects of berberine/barberry on IL-6, TNF-α, and CRP in adults but not trials without a control group. Studies bias was assessed using RoB 2. A random-effects model was performed to calculate the weighted mean difference (WMD). A dose-dependent effect was calculated. Eighteen clinical trials with 1600 participants were included in the current meta-analysis. These interventions significantly mitigate IL-6 levels (-1.18 pg/mL), TNF-α levels (-3.72 pg/mL), and CRP levels (-1.33 mg/L). In addition, the non-linear analysis showed a significant lowering effect of berberine/barberry on IL-6 and TNF-α levels in doses <1000 mg/day and less than 5 weeks of intervention. There are limitations to our findings, including low-quality studies and significant heterogeneity. These interventions might be considered adjunct therapy to managing inflammation status. However, more investigation and high-quality evidence must be conducted to obtain more comprehensive and generalizable results.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Berberine",
+        "Berberis",
+        "Interleukin-6",
+        "Tumor Necrosis Factor-alpha",
+        "Randomized Controlled Trials as Topic",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Inflammation",
+        "Dietary Supplements"
+      ]
+    },
+    {
+      "pmid": "37575603",
+      "title": "Evaluation of the Effect of Barberry Root (Berberis Vulgaris) on the Prevention of Metabolic Syndrome Caused by Atypical Antipsychotic Drugs in Patients with Schizophrenia: A Three-Blind Placebo-Controlled Clinical Trial.",
+      "authors": [
+        "Hamzeh Rostami",
+        "Farzaneh Babaali",
+        "Leila Moradi",
+        "Fereshteh Golfakhrabadi",
+        "Leila Abdi"
+      ],
+      "journal": "Iranian journal of psychiatry",
+      "publication_date": "2023-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective: Metabolic syndrome is a potential side effect of atypical antipsychotics which are the current standard treatment for schizophrenia. Therefore, we aimed to examine the effect of barberry root (Berberis vulgaris) on the prevention of metabolic syndrome caused by atypical antipsychotic drugs in patients with schizophrenia. Method : Our research was a three-blind randomized clinical trial. The participants included all patients who were diagnosed with schizophrenia through the SCID-5 questionnaire and based on the DSM-5-TR criteria by two psychiatric experts. These patients were randomly divided into intervention and placebo groups. During a three-month treatment period, the intervention group received three 500 mg capsules of barberry root extract daily, whereas the placebo group received the same capsules containing 500 mg of starch powder. Metabolic syndrome variables including fasting blood glucose, serum lipids (triglyceride and cholesterol), blood pressure, weight and waist circumference were measured before and after the treatment as outcome measure. Chi-square and t-tests were used for data analysis using SPSS-22 software. Results: At the beginning of the study, there was no significant difference between the intervention group (n = 41) and the placebo group (n = 47) in terms of demographic factors, and pre-treatment assessments including weight, waist size, fasting blood HDL, fasting blood triglycerides and systolic and diastolic blood pressure and fasting blood glucose (P > 0.05). Within group analysis showed that some metabolic factors significantly increased in both groups after the treatment (P < 0.05). Indeed, in both groups, metabolic syndrome measures worsened after the three-month treatment period. The parameters of weight and waist size were significantly higher in the intervention group than the placebo group after treatment (P < 0.05). Conclusion: Barberry root extract was not able to control the Effects of antipsychotic drugs on metabolic syndrome in schizophrenia."
+    },
+    {
+      "pmid": "36186093",
+      "title": "Neuroprotective Effect of Root Extracts of Berberis Vulgaris (Barberry) on Oxidative Stress on SH-SY5Y Cells.",
+      "authors": [
+        "Elham Shahriari Rad",
+        "Akram Eidi",
+        "Dariush Minai-Tehrani",
+        "Shahin Bonakdar",
+        "Shahram Shoeibi"
+      ],
+      "journal": "Journal of pharmacopuncture",
+      "publication_date": "2022-Sep-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Oxidative stress plays a key role in chronic and acute brain disorders and neuronal damage associated with Alzheimer disease (AD) and other neurodegeneration symptoms. The neuroprotective effects of berberine and Berberis vulgaris (barberry) root extract against apoptosis induced by hydrogen peroxide (H2O2) in the human SH-SY5Y cell line were studied. METHODS: The methanolic extraction of barberry root was performed using a maceration procedure. Oxidative stress was induced in SH-SY5Y cells by H2O2, and an MTT assay was applied to evaluate the neuroprotective effects of berberine and barberry root extract. The cells were pretreated with the half maximal inhibitory concentration (IC50) of each compound (including berberine, barberry root extract, and H2O2), and the anti-apoptotic effects of all components were investigated using RT-PCR. RESULTS: The SH-SY5Y cell viability increased in both groups exposed to 75 and 150 ppm barberry extract compared with that in the H2O2-treated group. The data showed that exposing SH-SY5Y cells to 30 ppm berberine significantly increased the cell viability compared with the H2O2-treated group; treatment with 150 and 300 ppm berberine and H2O2 significantly decreased the SH-SY5Y cell viability and was associated with berberine cytotoxicity. The mRNA levels of Bax decreased significantly under treatment with berberine at 30 ppm compared with the control group. A significant increase in Bcl-2 expression was observed only after treatment with the IC50 of berberine. The expression level of Bcl-2 in cells exposed to both berberine and barberry extracts was also significantly higher than that in cells exposed to H2O2. CONCLUSION: The outcomes of this study suggest that treatment of SH-SY5Y cells with barberry extract and berberine could suppress apoptosis by regulating the actions of Bcl-2 family members."
+    },
+    {
+      "pmid": "35150818",
+      "title": "The effect of purple-black barberry (Berberis integerrima) on blood pressure in subjects with cardiovascular risk factors: a randomized controlled trial.",
+      "authors": [
+        "Hadi Emamat",
+        "Ali Zahedmehr",
+        "Sanaz Asadian",
+        "Javad Nasrollahzadeh"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2022-May-10",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Berberis integerrima commonly known as \"barberry\" belongs to the Berberidaceae family and has been used as a medicinal plant in Iranian traditional medicine. AIM OF THE STUDY: Our aim in this study was to investigate the effects of barberry consumption on blood pressure (BP). MATERIALS AND METHODS: Eighty-four medicated hypertensive patients were selected and randomly allocated to barberry and placebo groups. The barberry group received 10 g/day dried purple-black barberry powder, once daily, for 2-months. Systolic, diastolic, and mean arterial BP was assessed through 24-h ambulatory BP monitoring before and after 2-month treatment. The estimation of sodium and potassium intake was done through measurement of sodium and potassium in 24-h urinary samples. Plasma and urinary nitrite, and nitrate (NOx) levels, as well as plasma angiotensin-converting enzyme (ACE) activity, were also determined. RESULTS: Seventy-eight participants with an average age of 54.12 ± 10.32 years and BMI of 27.93 ± 2.22 kg/m2 completed the study. There was no significant difference in body weight, physical activity, and the 24-h urinary sodium and potassium excretion between the two groups before and after the study. After adjusting for baseline values and changes in sodium intake, systolic, and mean arterial BP decreased significantly in the barberry group compared to the placebo group (p = 0.015 and p = 0.008, respectively). Plasma NOx levels and ACE activity were not different between the two groups, but urinary NOx was increased significantly in the barberry group compared to the placebo group (p = 0.008). CONCLUSIONS: In patients treated with antihypertensive drugs, daily consumption of purple-black barberry can be effective in improving systolic BP control.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Antihypertensive Agents",
+        "Berberis",
+        "Blood Pressure",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Female",
+        "Heart Disease Risk Factors",
+        "Humans",
+        "Hypertension",
+        "Iran",
+        "Male",
+        "Medicine, Traditional",
+        "Middle Aged",
+        "Plant Extracts",
+        "Single-Blind Method",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "34316278",
+      "title": "Continuous Clarification of Barberry Juice with Pectinase Immobilised by Oxidized Polysaccharides.",
+      "authors": [
+        "Seyed Saeid Hosseini",
+        "Faramarz Khodaiyan",
+        "Seyed Mohammad Mousavi",
+        "Seyedeh Zahra Azimi"
+      ],
+      "journal": "Food technology and biotechnology",
+      "publication_date": "2021-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "RESEARCH BACKGROUND: Barberry juice is a rich source of bioactive compounds and shows different health properties such as antioxidant and anticancer activities. Clarification, as the removal process of suspended material, is an important step in the production of fruit juice due to its significant effect on the appearance, flavour and commercialisation of juice. Pectinase is the most important enzyme applied in juice clarification that breaks down the pectin polymer structure and reduces the undesirable turbidity. Pectinase immobilisation is a way to overcome free enzyme drawbacks such as instability, high cost, the difficulty of recovery and recyclability. Also, continuous clarification process which is highly preferred in fruit juice industry is not possible without enzyme immobilisation. EXPERIMENTAL APPROACH: Pectinase enzymes were immobilised on the functionalised glass beads (glass bead with (3-aminopropyl)triethoxysilane) by glutaraldehyde, polyaldehyde derivatives of pullulan and kefiran and the barberry juice was clarified in the batch and continuous processes in a packed bed reactor (PBR). Also, the effect of clarification on the physicochemical and antioxidant properties of the barberry juice samples was evaluated. RESULTS AND CONCLUSIONS: The optimum conditions for clarification in the PBR were: flow rate 0.5 mL/min, temperature 50 °C and treatment time 63 min. Clarification led to a decrease in turbidity, pH, total soluble solid content, viscosity, total phenolic content and antioxidant activity of the juice samples. Also, this process increased the clarity, acidity, reducing sugar concentration and the lightness parameter of the barberry juice. The greatest effect of clarification on the studied properties of barberry juice was related to the pectinase immobilised by the polyaldehyde of kefiran in the continuous process and both new cross-linkers (polyaldehyde derivatives of pullulan and kefiran) immobilised the enzyme better than the common cross-linker (glutaraldehyde). NOVELTY AND SCIENTIFIC CONTRIBUTION: For the first time, barberry juice was clarified with pectinase immobilised by polyaldehyde derivatives of pullulan and kefiran and the obtained results showed that the pectinase immobilisation by these new cross-linkers was much more efficient than by the glutaraldehyde as a common cross-linker. These findings can be of use for an industrialised production of fruit juices."
+    },
+    {
+      "pmid": "34116265",
+      "title": "Facile green synthesis of zero-valent iron nanoparticles using barberry leaf extract (GnZVI@BLE) for photocatalytic reduction of hexavalent chromium.",
+      "authors": [
+        "Zahra Samadi",
+        "Kamyar Yaghmaeian",
+        "Sobhan Mortazavi-Derazkola",
+        "Rasoul Khosravi",
+        "Ramin Nabizadeh",
+        "Mahmood Alimohammadi"
+      ],
+      "journal": "Bioorganic chemistry",
+      "publication_date": "2021-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In this study, zero-valent iron (GnZVI) was synthesized using barberry leaf extract (GnZVI@BLE). The physicochemical properties of the final products were characterized by FT-IR, SEM, TEM, and EDS techniques. The results of TEM analysis showed that the obtained iron zero-valent nanoparticles with a diameter between 20 and 40 nm and shell-core structures were successfully synthesized. The results of FT-IR confirmed the presence of various functional groups. The photocatalytic activity of synthesized nanoparticles was investigated by reduction of hexavalent chromium. Laboratory data showed that the presence of GnZVI@BLE as a nanocatalyst in the photocatalytic process could be reduction the hexavalent chromium (Cr (VI)). Photocatalytic data revealed that, when the dosage of nanoparticles was 0.675 g/L, the reduction efficiency of hexavalent chromium was 100%. The kinetics of the reaction follows a pseudo-second-order equation. The constant of reaction rate was 0.4 at pH 2 and 0.5 g/L concentration of GnZVI@BLE.",
+      "mesh_terms": [
+        "Berberis",
+        "Catalysis",
+        "Chromium",
+        "Green Chemistry Technology",
+        "Iron",
+        "Metal Nanoparticles",
+        "Oxidation-Reduction",
+        "Photochemical Processes",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "33350540",
+      "title": "The effect of barberry (Berberis vulgaris) consumption on flow-mediated dilation and inflammatory biomarkers in patients with hypertension: A randomized controlled trial.",
+      "authors": [
+        "Hadi Emamat",
+        "Sanaz Asadian",
+        "Ali Zahedmehr",
+        "Matin Ghanavati",
+        "Javad Nasrollahzadeh"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2021-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hypertension is considered as an important cardiovascular risk factor and evidence suggests that hypertension and endothelial dysfunction reinforce each other. Polyphenol-rich foods, such as barberry can reduce the risk of cardiovascular disease. Our aim was to investigate the effects of barberry consumption on vascular function and inflammatory markers in hypertensive subject. In this randomized controlled parallel trial, 84 hypertensive subjects of both genders (aged 54.06 ± 10.19 years; body mass index 28.02 ± 2.18 kg/m2 ) were randomly allocated to consume barberry (10 g/day dried barberry) or placebo for 8 weeks. Before and after the intervention, changes in brachial flow-mediated dilation (FMD) and plasma macrophage/monocyte chemo-attractant protein-1 (MCP-1), vascular cellular adhesion molecule-1, and intracellular adhesion molecule-1 (ICAM-1) were measured. An intention-to-treat analysis was performed. Compared to placebo (n = 42), barberry consumption (n = 42) improved FMD (B [95% CI] was 6.54% [4.39, 8.70]; p < .001) and decreased plasma ICAM-1 (B [95% CI] was -1.61 ng/ml [-2.74, -0.48]; p = .006). MCP-1 was significantly lower in the barberry group compared with the placebo group (B [95% CI] was -37.62 pg/ml [-72.07, -3.17]; p = .033). Our results indicate that barberry consumption improves FMD and has a beneficial effect on plasma ICAM-1 and MCP-1 in hypertensive patients. This trial was registered at the Iranian Registry of Clinical Trial (IRCT) with number IRCT20160702028742N8."
+    },
+    {
+      "pmid": "33246500",
+      "title": "Effect of barberry (Berberis vulgaris) consumption on blood pressure, plasma lipids, and inflammation in patients with hypertension and other cardiovascular risk factors: study protocol for a randomized clinical trial.",
+      "authors": [
+        "Hadi Emamat",
+        "Ali Zahedmehr",
+        "Sanaz Asadian",
+        "Hadith Tangestani",
+        "Javad Nasrollahzadeh"
+      ],
+      "journal": "Trials",
+      "publication_date": "2020-Nov-27",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Cardiovascular diseases (CVDs) remain the leading causes of morbidity and mortality in the world. Hypertension is an important and prevalent cardiovascular risk factor. The present study will be conducted to investigate the effect of barberry as a cardio-protective fruit on the blood pressure in patients with hypertension and other CVD risk factors. Furthermore, plasma concentrations of lipids and inflammatory biomarkers will be evaluated. METHODS/DESIGN: This is an 8-week, prospective, single-blinded, parallel assigned, randomized controlled clinical trial (RCT) in which eligible men and women with hypertension and other cardiovascular risk factors will be randomized to either placebo powder (PP; containing 9 g maltodextrin, 1 g citric acid, 1 g milled sucrose and edible red color (n = 37)) or barberry powder (BP; containing 10 g milled dried barberry and 1 g of milled sucrose (n = 37)) groups. At baseline and after 8 weeks of intervention, plasma lipids and inflammatory markers, 24-h urinary nitrite/nitrate and sodium excretion, and 24-h ambulatory blood pressure monitoring (ABPM) will be measured. Anthropometric measures and dietary assessment will be performed as well. Data analysis will be done using SPSS version-21 software. DISCUSSION: The interest in natural and functional food products has increased globally. This RCT will add to the growing literature for the potential antihypertensive, lipid-lowering, and anti-inflammatory effects of barberry in humans. TRIAL REGISTRATION: ClinicalTrials.gov (NCT number) NCT04084847 . Registered on 10 December 2019.",
+      "mesh_terms": [
+        "Berberis",
+        "Blood Pressure",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Inflammation",
+        "Lipids",
+        "Male",
+        "Randomized Controlled Trials as Topic",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "33197673",
+      "title": "The effect of barberry (Berberis vulgaris L.) supplementation on blood pressure: A systematic review and meta-analysis of the randomized controlled trials.",
+      "authors": [
+        "Masoumeh Atefi",
+        "Abed Ghavami",
+        "Amir Hadi",
+        "Gholamreza Askari"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "OBJECTIVE: We identified and quantified the results of randomized clinical trials by examining the effect of barberry supplementation on blood pressure. METHODS: We conducted a comprehensive search in the medical bibliographic database up to May 2020 on randomized clinical trials investigating the effect of barberry supplementation on adult blood pressure. Intensive literature searches and data extraction according to a prefixed scheme was performed independently by two investigators. RESULTS: Through 5 randomized clinical trial studies, 350 subjects with 175 cases for the intervention group and 175 cases for control group were included in our study. The intervention period ranged from 4 to 12 weeks. In general, barberry supplementation did not have a significant effect on systolic blood pressure (WMD: -4.15 mmHg; 95 % CI: -10.3, 1.99, P = 0.185) and diastolic blood pressure (WMD: -1.22 mmHg; 95 % CI: -6.26, 3.82, P = 0.635). Our study was heterogeneous and subgroup analysis did not eliminate heterogeneity. CONCLUSION: Totally, based on this study, we cannot conclude that barberry supplementation has beneficial effects on blood pressure. Also, all included studies had limitations such as different in geographical situations, Dietary of participants, health conditions, and pharmacological forms of berberis. Therefore, further study in this area is recommended.",
+      "mesh_terms": [
+        "Berberis",
+        "Blood Pressure",
+        "Dietary Supplements",
+        "Humans",
+        "Hypertension",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "32914483",
+      "title": "The effect of black barberry hydroalcoholic extract on immune mediators in patients with active rheumatoid arthritis: A randomized, double-blind, controlled clinical trial.",
+      "authors": [
+        "Naheed Aryaeian",
+        "Mahsa Hadidi",
+        "Mahdi Mahmoudi",
+        "Marziyeh Asgari",
+        "Zohreh Sajadi Hezaveh",
+        "Sara Khorshidi Sadehi"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2021-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Rheumatoid arthritis (RA) is an autoimmune disease associated with inflammation. In this trial, we aimed to investigate the Immunomodulatory effect of hydroalcoholic extract of black barberry on immune mediators in patients with active rheumatoid arthritis. In this randomized, double-blind, placebo-controlled clinical trial, 80 women with active RA were randomly assigned into two groups of two capsules, each containing 1,000 mg black barberry extract (n = 40) or maltodextrin placebo (n = 40) daily for 12 weeks. Demographic indices, physical activity, dietary intake, and disease activity were investigated using suitable questionnaires. Concentration of cytokines IL-2, IL-4, IL-10, and IL-17 in blood sample were measured using PBMC method. Statistical analysis was performed using SPSS (version 22). At baseline, there were no differences between the two groups in terms of demographic indices, physical activity, and dietary intake (p > .05). Black barberry supplementation reduced the severity of RA. It showed no significant effect on IL-2 and IL-4 cytokines (p > .05). IL-17 levels decreased significantly after the intervention within the black barberry group, while IL-10 had a significant increase in this group (p < .05). Barberry extract may reduce inflammatory and increase anti-inflammatory cytokines in RA, and stimulates the immune response by increasing Th2 production.",
+      "mesh_terms": [
+        "Acute Disease",
+        "Arthritis, Rheumatoid",
+        "Berberis",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "30637820",
+      "title": "Berberine and barberry (Berberis vulgaris): A clinical review.",
+      "authors": [
+        "Mohsen Imenshahidi",
+        "Hossein Hosseinzadeh"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2019-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Barberry (Berberis vulgaris L.) has different medicinal applications in folk medicine of Iran. Berberine, an alkaloid constituent of this plant, is present in the roots, rhizomes, stem, and bark of B. vulgaris and many other plants. There have been many clinical trials conducted that suggested a wide range of therapeutic applications. Here, we investigated the clinical uses of berberine and B. vulgaris in the treatment of different diseases in humans. An extensive search in electronic databases (PubMed, Scopus, Embase, Web of Sciences and Science Direct) was used to identify the clinical trials on B. vulgaris and berberine. Lipid-lowering and insulin-resistance improving actions are the most studied properties of berberine in numerous randomized clinical trials. There are also clinical trials regarding cardiovascular, anticancer, gastrointestinal, CNS, endocrine, and so on. Berberine has very low toxicity in usual doses and reveals clinical benefits without major side effects. Only mild gastrointestinal reactions may occur in some patients. The purpose of this review is to provide a summary concerning the clinical trials conducted on berberine to improve the clinical application of this nutraceutical in different diseases. In this review article, we used 77 clinical studies on human subjects.",
+      "mesh_terms": [
+        "Berberine",
+        "Berberis",
+        "Humans",
+        "Iran",
+        "Medicine, Traditional",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Roots",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "30519065",
+      "title": "Barberry in the treatment of obesity and metabolic syndrome: possible mechanisms of action.",
+      "authors": [
+        "Safieh Firouzi",
+        "Mahsa Malekahmadi",
+        "Majid Ghayour-Mobarhan",
+        "Gordon Ferns",
+        "Hamid Reza Rahimi"
+      ],
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Obesity is a consequence of an imbalance between energy intake and energy expenditure. It affects people of both genders and all age groups, ethnicity and socioeconomic groups, and in developed and developing countries. Obesity is often accompanied by the metabolic syndrome (MetS). MetS is characterized by a clustering of cardiovascular risk factors, including high blood pressure, adiposity, dyslipidemia and glucose intolerance, which together increase the risk of atherosclerotic cardiovascular disease, type 2 diabetes mellitus and other causes of mortality. Nowadays, there is a growing interest in the use of plant-based agents instead of synthetic drugs to manage chronic diseases such as MetS; one such example is Berberis vulgaris. B. vulgaris contains isoquinonline alkaloids such as berberine, berberrubine and berbamine. Recent studies have proved that berberine exhibits pharmacological activities and positive effects on the risk factors of obesity and MetS. We have reviewed original articles related to the possible molecular mechanisms of action of berberine on obesity and MetS. Berberine suppresses adipocyte differentiation and decreases obesity. It also regulates glucose metabolism via decreasing insulin resistance and increasing insulin secretion. Other effects of berberine include antihyperlipidemic and antihypertensive activities and endothelial protection."
+    },
+    {
+      "pmid": "29850912",
+      "title": "Indirect Effects of Japanese Barberry Infestations on White-Footed Mice Exposure to Borrelia burgdorferi.",
+      "authors": [
+        "Megan A Linske",
+        "Scott C Williams",
+        "Jeffrey S Ward",
+        "Kirby C Stafford"
+      ],
+      "journal": "Environmental entomology",
+      "publication_date": "2018-Aug-11",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Japanese barberry (Berberis thunbergii de Candolle; Ranunculales: Berberidaceae) is an exotic shrub that has invaded woodland understories in the northeastern United States. It forms dense thickets providing ideal structure and microclimate for questing blacklegged ticks (Ixodes scapularis Say; Acari: Ixodidae). While there have been studies on the favorable habitat barberry provides blacklegged ticks, little has been studied on the relationship between barberry, vectors (ticks), and reservoirs (white-footed mice; Peromyscus leucopus Rafinesque; Rodentia: Cricetidae); specifically, the influence Japanese barberry has on the abundance of blacklegged ticks and Borrelia burgdorferi infection (Johnson, Schmid, Hyde, Steigerwalt, and Brenner; Spirochaetales: Spirochaetaceae) in mice. We studied the impacts of barberry treatment over the course of 6 yr to determine influence on encounter abundance with white-footed mice, encounter abundance with B. burgdorferi-infected mice, and juvenile blacklegged ticks parasitizing mice. Results from our study suggest that while both white-footed mouse and B. burgdorferi-infected mouse encounters remained similar between barberry treatment areas, juvenile tick attachment to mice was significantly greater in intact barberry stands (X¯ = 4.4 ticks per mouse ± 0.23 SEM) compared with managed (X¯ = 2.8 ± 0.17; P < 0.001) or absent (X¯ = 2.2 ± 0.16; P < 0.001) stands. Results of this study indicated that management of barberry stands reduced contact opportunities between blacklegged ticks and white-footed mice. Continued efforts to manage Japanese barberry will not only allow for reestablishment of native plant species, but will also reduce the number of B. burgdorferi-infected blacklegged ticks on the landscape.",
+      "mesh_terms": [
+        "Animals",
+        "Berberis",
+        "Borrelia burgdorferi",
+        "Connecticut",
+        "Host-Parasite Interactions",
+        "Ixodes",
+        "Peromyscus",
+        "Population Density",
+        "Weed Control"
+      ]
+    },
+    {
+      "pmid": "29705451",
+      "title": "The barberry juice effects on metabolic factors and oxidative stress in patients with type 2 diabetes: A randomized clinical trial.",
+      "authors": [
+        "Fatemeh Lazavi",
+        "Parvin Mirmiran",
+        "Golbon Sohrab",
+        "Omid Nikpayam",
+        "Pooneh Angoorani",
+        "Mehdi Hedayati"
+      ],
+      "journal": "Complementary therapies in clinical practice",
+      "publication_date": "2018-May",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: The aim of this study was to investigate the effect of barberry juice (BJ) on cardiovascular risk factors in patients with type 2 diabetes (T2DM). METHODS: 46 diabetic Patients were randomly allocated to either the BJ group (n = 23) who consumed 200 ml of BJ daily for eight weeks, or the control group (n = 23) with no intervention. At the baseline and the end of 8-week intervention, blood pressure and biochemical markers were measured. RESULTS: forty-two Patients completed the study. After intervention systolic blood pressure (SBP), diastolic blood pressure (DBP), Fasting Blood Sugar (FBS) Total Cholesterol significantly decreased (P < 0.05 for treatment effect) also Triglyceride (TG) decrease significantly in BJ group. Paraoxonase-1(PON1) concentrations significantly increased in Bj group and have a significant difference (P < 0.0001 for treatment effect) compared with control group. CONCLUSIONS: This study revealed that BJ might decrease the risk of cardiovascular diseases in patients with diabetes.",
+      "mesh_terms": [
+        "Aryldialkylphosphatase",
+        "Berberis",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Cardiovascular Diseases",
+        "Cholesterol",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Fruit",
+        "Humans",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "28656087",
+      "title": "Toxicology effects of Berberis vulgaris (barberry) and its active constituent, berberine: a review.",
+      "authors": [
+        "Seyede Zohre Kamrani Rad",
+        "Maryam Rameshrad",
+        "Hossein Hosseinzadeh"
+      ],
+      "journal": "Iranian journal of basic medical sciences",
+      "publication_date": "2017-May",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Berberis vulgaris and berberine, its main component, traditionally have been used for treatment of various disorders. The pharmacological properties of them have been investigated using different in vivo and in vitro models. In spite of beneficial effects of B. vulgaris on different cell lines, there are documents have revealed negative impacts of it on animal and human. In this regards, the determination of its toxicity in a scientific view is necessary. In current report, we provide classified information about the toxicity of B. vulgaris and berberine in different conditions consist of acute, sub-acute, sub-chronic and chronic state. Besides, it discusses the cytotoxicity, genotoxicity, mutagenicity, and carcinogenicity of B. vulgaris and berberine as well as developmental toxicity and clinical studies. Data from the present study indicate that their toxicity is depending on the route and duration of administration. According to present study, they could induce GI upset and ulceration, immunotoxicity, phototoxicity, neurotoxicity, cardiotoxicity and jaundice in a dose dependent manner. They should be used with caution in pregnancy, neonatal and G6PD deficiency. Besides, consideration should be taken in co-administration of berberine with drugs that are metabolized with CYP enzymes due their inhibitory effects on these enzymes. Furthermore, they evoke cytotoxicity on both normal and cancer cell line which is time and concentration dependent."
+    },
+    {
+      "pmid": "26639503",
+      "title": "Hypoglycemic effects of three Iranian edible plants; jujube, barberry and saffron: Correlation with serum adiponectin level.",
+      "authors": [
+        "Mina Hemmati",
+        "Somaye Asghari",
+        "Elham Zohoori",
+        "Mehdi Karamian"
+      ],
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "publication_date": "2015-Nov",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "One of the most common disorders of the endocrine system is diabetes mellitus. This disease is associated with dyslipidemia. Adiponectin is a protein hormone that secreted by adipocytes and has an important role in regulating of glucose and fatty acid metabolic pathways. This study was designed to investigate the changes in serum level of adiponectin in diabetic rats treated with hydroalcoholic extracts of three medicinal plants; jujube (Ziziphus jujuba), barberry (Berberis vulgaris) and saffron (Crocus sativus) in comparison with quercetin. Streptozotocin -induced diabetic male rats were gavaged with specified doses of the extracts (25 and 100mg/kg) for two weeks. At the end of treatment period, fasting blood specimens were collected. The levels of adiponectin, fasting blood sugar (FBS), total Cholesterol, triglycerides, HDL-C and LDL-C were measured. Statistical analysis showed that serum levels of triglyceride and VLDL decreased significantly (P<0.05) in all treated groups. FBS level in all treated groups, decreased significantly and reach to normoglycemic level (P<0.05). Except Jujube, other plant extracts had no effect on cholesterol. Jujube in two doses (25 and 100mg/kg) could increased significantly HDL-C (P<0.05) with no effect on total cholesterol and LDL-C. Serum adiponectin level increased in all treated groups. These beneficial effects of C. sativus, B. vulgaris and Z. jujube extracts and quercetin in diabetic rats may be associated with increase in adiponectin level.",
+      "mesh_terms": [
+        "Adiponectin",
+        "Animals",
+        "Berberis",
+        "Biomarkers",
+        "Blood Glucose",
+        "Crocus",
+        "Diabetes Mellitus, Experimental",
+        "Hypoglycemic Agents",
+        "Iran",
+        "Lipids",
+        "Male",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Quercetin",
+        "Rats, Sprague-Dawley",
+        "Ziziphus"
+      ]
+    },
+    {
+      "pmid": "26600752",
+      "title": "Anti-atherogenic potential of jujube, saffron and barberry: anti-diabetic and antioxidant actions.",
+      "authors": [
+        "Mina Hemmati",
+        "Elham Zohoori",
+        "Omid Mehrpour",
+        "Mehdi Karamian",
+        "Somaye Asghari",
+        "Asghar Zarban",
+        "Roya Nasouti"
+      ],
+      "journal": "EXCLI journal",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Atherogenic dyslipidemia, characterized by an increased level of lipoprotein (a) and a decreased level of adiponectin, is a major risk factor for cardiovascular diseases in diabetic patients. To reduce cardiovascular risk in diabetic patients, use of agents with antidiabetic and anti-atherogenic potential is required. Using an animal model of diabetes, we investigated the antiatherogenic potential of extracts of three medicinal plants: jujube, barberry, and saffron. For this, serum level of fasting blood glucose, lipid profile, malondialdehyde, total antioxidant capacity, adiponectin and lipoprotein (a) in diabetic control and extract treated groups were measured. Statistical analysis of measurements showed that serum levels of fasting blood glucose, triglyceride, and VLDL decreased significantly (P < 0.05) in all treated groups. Treatment with all extracts reduced lipid peroxidation and increased antioxidant capacity of the experimental diabetic groups. Serum adiponectin levels increased in all treated groups, whereas lipoprotein (a) levels decreased, most markedly when treated with jujube extract. Jujube, saffron, and barberry extracts are beneficial in ameliorating oxidative stress and atherogenic risk of diabetic rats. This highlights the benefits of further investigating the cardio-protective potential of medicinal plant extracts and evaluating their usefulness as cardio protective agents in clinical practice."
+    },
+    {
+      "pmid": "25763235",
+      "title": "Barberry administration and pro-oxidant-antioxidant balance in patients with metabolic syndrome.",
+      "authors": [
+        "Akram Mohammadi",
+        "Amirhossein Sahebkar",
+        "Tayyebeh Kermani",
+        "Marzieh Zhilaee",
+        "Shima Tavallaie",
+        "Majid Ghayour Mobarhan"
+      ],
+      "journal": "Iranian Red Crescent medical journal",
+      "publication_date": "2014-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Metabolic syndrome is the constellation of several cardiometabolic risk factors, and is associated with a heightened risk of coronary heart disease (CHD). The pro-oxidant-antioxidant balance (PAB) is a measure of factors that promote and control oxidative stress. PAB may also be associated with the risk factors of CHD. OBJECTIVES: This study aimed to explore the impact of supplementation with barberry, a fruit rich in antioxidants, on PAB in patients with metabolic syndrome. PATIENTS AND METHODS: A total of 106 patients diagnosed with metabolic syndrome were randomized in two groups: case and control. The case group received three capsules of barberry and the control group received three capsules of placebo for 6 weeks. Serum PAB was measured in all patients before and after the intervention. RESULTS: There was no significant difference between the groups regarding their baseline PAB values (P = 0.32). A significant decrease in PAB was observed in the barberry group (P = 0.022), whilst there was no significant change in the control group (P = 0.18). The magnitude of change in PAB during the study was significantly greater in the case group compared to the control group (P = 0.01). CONCLUSIONS: Barberry supplementation reduces oxidative burden in patients with metabolic syndrome."
+    },
+    {
+      "pmid": "24536039",
+      "title": "Barberry treatment reduces serum anti-heat shock protein 27 and 60 antibody titres and high-sensitivity c-reactive protein in patients with metabolic syndrome: a double-blind, randomized placebo-controlled trial.",
+      "authors": [
+        "Marzie Zilaee",
+        "Tayyebeh Kermany",
+        "Shima Tavalaee",
+        "Maryam Salehi",
+        "Majid Ghayour-Mobarhan",
+        "Gordon A A Ferns"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Metabolic syndrome is an important risk factor for cardiovascular disease (CVD). The heat shock proteins (HSPs) are associated with risk factors for CVD. The aim of the present study was to survey the effect of barberry on antibody titres to HSPs and high-sensitivity C-reactive protein (hs-CRP) in patients with metabolic syndrome. In our study, subjects (N=106, 79 women and 27 men, 18-65 years old) with metabolic syndrome were randomized into two groups: a group of patients who received three capsules of barberry and a control group who received three capsules of placebo for 6 weeks. Antibodies against HSPs 27, 60/65 and 70, hs-CRP and lipid profile were determined in patients before (week 0) and after (week 6) intervention. spss software (version 16.0; Inc, Chicago, IL) was used for data analysis. Results showed that barberry had no significant effect on serum level of anti-HSPs 65 and 70. But there was a significant decrease in anti-HSP 27 in both case and control groups (p=0.001 and p<0.001, respectively, in the case and control groups). Barberry decreased significantly anti-HSP 60 in the case group (p=0.03). High-sensitivity CRP was decreased non-significantly (p=0.17) in the case group and increased significantly (p=0.04) in the control group. Barberry decreased significantly low-density lipoprotein and total cholesterol and increased significantly high-density cholesterol (p<0.05). Results of the present study suggested that barberry supplementation in patients with metabolic syndrome decreased significantly anti-HSPs 27 and 60 and hs-CRP levels and improved lipid profile.",
+      "mesh_terms": [
+        "Adult",
+        "Antibodies",
+        "Berberis",
+        "C-Reactive Protein",
+        "Chaperonin 60",
+        "Cholesterol",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "HSP27 Heat-Shock Proteins",
+        "Heat-Shock Proteins",
+        "Humans",
+        "Lipoproteins, LDL",
+        "Male",
+        "Metabolic Syndrome",
+        "Middle Aged",
+        "Mitochondrial Proteins",
+        "Molecular Chaperones",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "19689875",
+      "title": "Managing Japanese barberry (Ranunculales: Berberidaceae) infestations reduces blacklegged tick (Acari: Ixodidae) abundance and infection prevalence with Borrelia burgdorferi (Spirochaetales: Spirochaetaceae).",
+      "authors": [
+        "Scott C Williams",
+        "Jeffrey S Ward",
+        "Thomas E Worthley",
+        "Kirby C Stafford"
+      ],
+      "journal": "Environmental entomology",
+      "publication_date": "2009-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In many Connecticut forests with an overabundance of white-tailed deer (Odocoileus virginianus Zimmermann), Japanese barberry (Berberis thunbergii DC) has become the dominant understory shrub, which may provide a habitat favorable to blacklegged tick (Ixodes scapularis Say) and white-footed mouse (Peromyscus leucopus Rafinesque) survival. To determine mouse and larval tick abundances at three replicate sites over 2 yr, mice were trapped in unmanipulated dense barberry infestations, areas where barberry was controlled, and areas where barberry was absent. The number of feeding larval ticks/mouse was recorded. Adult and nymphal ticks were sampled along 200-m draglines in each treatment, retained, and were tested for Borrelia burgdorferi (Johnson, Schmid, Hyde, Steigerwalt, and Brenner) presence. Total first-captured mouse counts did not differ between treatments. Mean number of feeding larval ticks per mouse was highest on mice captured in dense barberry. Adult tick densities in dense barberry were higher than in both controlled barberry and no barberry areas. Ticks sampled from full barberry infestations and controlled barberry areas had similar infection prevalence with B. burgdorferi the first year. In areas where barberry was controlled, infection prevalence was reduced to equal that of no barberry areas the second year of the study. Results indicate that managing Japanese barberry will have a positive effect on public health by reducing the number of B. burgdorferi-infected blacklegged ticks that can develop into motile life stages that commonly feed on humans.",
+      "mesh_terms": [
+        "Animals",
+        "Berberis",
+        "Borrelia burgdorferi",
+        "Ecosystem",
+        "Female",
+        "Ixodes",
+        "Larva",
+        "Male",
+        "Peromyscus",
+        "Population Density"
+      ]
+    },
+    {
+      "pmid": "14947969",
+      "title": "[Barberry and privet as a remedy for scurvy].",
+      "authors": [
+        "E ABRAMSON"
+      ],
+      "journal": "Nordisk medicin",
+      "publication_date": "1952-Apr-10",
+      "publication_types": [
+        "Biography",
+        "Historical Article",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Ascorbic Acid",
+        "Berberis",
+        "Flavoring Agents",
+        "Fruit",
+        "History, 16th Century",
+        "History, 17th Century",
+        "History, 18th Century",
+        "Ligustrum",
+        "Scurvy",
+        "Vitamins"
+      ]
+    }
+  ]
+}

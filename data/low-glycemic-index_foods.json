@@ -1,0 +1,218 @@
+{
+  "supplement": "Low-Glycemic-Index Foods",
+  "query": "Low-Glycemic-Index Foods[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:59:06",
+  "research_count": 7,
+  "count": 7,
+  "articles": [
+    {
+      "pmid": "39208910",
+      "title": "A review of the effects of physical processing techniques on the characteristics of legume starches and their application in low-glycemic index foods.",
+      "authors": [
+        "Mohammed Obadi",
+        "Bin Xu"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2024-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Physical processing techniques significantly influence the characteristics of legume starch, consequently affecting the potential applications of legume-based products. This review comprehensively examines the impact of various physical processing techniques on legume starch properties, including structure, granule morphology, gelatinization, pasting properties, solubility, and in vitro digestibility. Furthermore, it evaluates the implications of these processing methods for utilizing legumes in developing low-glycemic index (GI) foods. Notably, certain physical processing methods, such as heat-moisture treatment, ultrahigh-pressure processing, dry heat treatment, and gamma irradiation, under specific conditions, enhance the resistant starch or slowly digestible starch fractions in legume starches. This enhancement is particularly advantageous for producing low-GI foods. Conversely, techniques like annealing, extrusion, ultrasound, and germination increase starch digestibility, which is less favorable for low-GI food applications. This review also provides an up-to-date overview of the use of diverse preprocessed legume products in low-GI food production. The novelty of this review lies in its detailed comparative analysis of physical processing methods and their specific effects on legume starch digestibility, which has not been extensively covered in existing literature. The comprehensive insights presented herein will benefit the legume industry by informing effective strategies for converting legume starch into valuable low-GI products.",
+      "mesh_terms": [
+        "Fabaceae",
+        "Glycemic Index",
+        "Starch",
+        "Food Handling",
+        "Solubility",
+        "Humans",
+        "Digestion"
+      ]
+    },
+    {
+      "pmid": "26509082",
+      "title": "Low-Glycemic-Index Foods Can Decrease Systolic and Diastolic Blood Pressure in the Short Term.",
+      "authors": [
+        "Mina Hosseininasab",
+        "Abdolreza Norouzy",
+        "Mohsen Nematy",
+        "Shokoufeh Bonakdaran"
+      ],
+      "journal": "International journal of hypertension",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background. We aimed to compare the effects of low- and high-GI foods on 24-hour ambulatory blood pressure. Methods. This longitudinal study was performed on 30 women, aged 18 to 40 years, during 24 hours. In the first leg of study all recruited subjects were assigned to LGI period for 24 hours and, after a 2-week washout period, all subjects were assigned to HGI period. BP was measured every hour during the 24-hour monitoring. Results. After the intervention, there were significant decreases in SBP and DBP in the LGI period (102.26 ± 14.18 mmHg versus 112.86 ± 9.33 mmHg for SBP and 66.96 ± 10.39 mmHg versus 74.46 ± 7.61 mmHg for DBP) (P = 0.00 and P = 0.002, resp.). However, in the HGI period, there was no significant change in SBP or DBP (110.66 ± 9.85 versus 111.80 ± 9.57 for SBP and 71.16 ± 9.16 versus 74.26 ± 10.09 for DBP) (P = 0.6 and P = 0.06, resp.). Conclusion. The results suggest that LGI foods may be beneficial in reducing 24-hour BP."
+    },
+    {
+      "pmid": "25439502",
+      "title": "Assessing intentions to eat low-glycemic index foods by adults with diabetes using a new questionnaire based on the theory of planned behaviour.",
+      "authors": [
+        "Tomoe Watanabe",
+        "Tanya R Berry",
+        "Noreen D Willows",
+        "Rhonda C Bell"
+      ],
+      "journal": "Canadian journal of diabetes",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The Canadian Diabetes Association recommends that people with diabetes choose foods with low-glycemic index (GI). This study developed a questionnaire measuring Theory of Planned Behaviour (TPB) constructs relative to consuming a low-GI diet by people with diabetes so as to achieve a better understanding of which TPB constructs, demographic characteristics and diabetes-related variables best predict intention to consume a low-GI diet. METHOD: A questionnaire to measure intentions to consume a low-GI diet was developed based on TPB constructs and was administered to 369 adults (30 to 75 years) with type 1 or type 2 diabetes. Responses were analyzed using multiple linear regression. RESULTS: More than 90% of participants (mean age, 56.5±10.8 years; mean body mass index, 30.5±7.2 kg/m(2)) cited reduction and maintenance of healthy blood glucose levels as an advantage of eating low-GI foods. Older age, higher income, female gender, having type 2 diabetes, diabetes treatment (diet only) and understanding of the GI were positively associated with intention to eat a low-GI diet. TPB constructs that significantly predicted intentions to eat a low-GI diet were instrumental attitude (beta = 0.24, p<0.001); subjective norms (beta = 0.13, p=0.007); and perceived behavioural control (beta = 0.55, p<0.001). CONCLUSIONS: This new questionnaire is a valid tool to assess TPB constructs contributing to intentions to eat a low-GI diet by people with diabetes. Future studies that use this questionnaire can shed light on how TPB concepts in clinical practice can help people with diabetes to change their dietary intake.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Diabetes Mellitus",
+        "Epidemiologic Research Design",
+        "Feeding Behavior",
+        "Glycemic Index",
+        "Health Behavior",
+        "Humans",
+        "Middle Aged",
+        "Regression Analysis",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "19631048",
+      "title": "The First Step First Bite Program: guidance to increase physical activity and daily intake of low-glycemic index foods.",
+      "authors": [
+        "Sian Hoe Cheong",
+        "Linda J McCargar",
+        "Breay W Paty",
+        "Catrine Tudor-Locke",
+        "Rhonda C Bell"
+      ],
+      "journal": "Journal of the American Dietetic Association",
+      "publication_date": "2009-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Practical lifestyle interventions are needed to help people with type 2 diabetes increase their physical activity and follow nutrition therapy guidelines. This study examined whether combining instructions to walk more and to eat more low-glycemic index (GI) foods (First Step First Bite Program) improved hemoglobin A1c and anthropometric and cardiovascular health outcomes in people with type 2 diabetes vs the First Step Program (instruction only on walking). Subjects were randomly assigned to the First Step Program or First Step First Bite Program (n=22 in each group) and attended four weekly group meetings with minimal follow-up during weeks 5 to 16. All subjects monitored steps per day throughout the study; First Step First Bite Program subjects also monitored daily intake of low-GI foods. At week 16 (n=19 per group), both groups had increased steps per day by approximately 3,000 compared with baseline (P<0.01). In the First Step Program vs First Step First Bite Program groups, respectively, waist girth decreased by 5.9+/-0.9 cm vs 3.7+/-0.5 cm and hip decreased by 3.7+/-0.6 cm vs 2.2+/-0.5 cm (P<0.01 over time, both groups). There was no significant difference between groups at week 16 for anthropometric or metabolic variables measured, including hemoglobin A1c. Both the First Step First Bite Program and First Step Program resulted in increased physical activity; First Step First Bite Program also increased daily intake of low-GI foods. Both groups experienced similar significant reductions in waist and hip girth. Thus, adding a low-GI component to a walking program in people with type 2 diabetes in good glycemic control did not improve anthropometric or metabolic outcomes. A great number and/or longer duration of low-GI foods may be required to observe improved clinical outcomes.",
+      "mesh_terms": [
+        "Adult",
+        "Combined Modality Therapy",
+        "Diabetes Mellitus, Type 2",
+        "Diet Records",
+        "Dietary Carbohydrates",
+        "Female",
+        "Glycemic Index",
+        "Health Promotion",
+        "Humans",
+        "Life Style",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Treatment Outcome",
+        "Waist-Hip Ratio",
+        "Walking",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "18460477",
+      "title": "The effects of 6-week low glycemic load diet based on low glycemic index foods in overweight/obese children--pilot study.",
+      "authors": [
+        "Zsuzsanna Fajcsak",
+        "Anita Gabor",
+        "Victoria Kovacs",
+        "Eva Martos"
+      ],
+      "journal": "Journal of the American College of Nutrition",
+      "publication_date": "2008-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the effectiveness of a 6-week low Glycemic Load (GL) diet intervention based on low Glycemic Index (GI) foods on body weight, body composition, metabolic risk factors and satiety in overweight/obese pre-pubertal children. METHODS: Following a pediatric examination 8 healthy, average age 11 year old, Caucasian, pre-pubertal overweight/obese (BMI = 24, 7 +/- 3.8 kg/m(2)) children participated in the study. The Low GL diet intervention was based on the replacement of at least 50% of the high GI foods with Low-GI foods. The children with one of their parents participated in weekly nutrition consultations. Body composition, fasting glucose, insulin, cholesterol and triglyceride were measured before and after the study. Dietary changes were made based on weekly 4-day food-diaries. RESULTS: Despite no change in body weight, there was a significant (p < 0.05) reduction in % body fat (29.4 +/- 4.2 vs. 25.4 +/- 5.3), Waist-to-Hip Ratio (WHR 0.87 +/- 0.053 vs. 0.86 +/- 0.05), decrease in self-reported hunger level (4.37 +/- 0.74 vs. 1.75 +/- 0.75) and the total number of risk factors (28 vs. 15). There was a strong negative correlation between fasting glucose and insulin levels at baseline and in the magnitude of change after the study (r = -0.93 and r = -0.85 respectively; p < 0.01). CONCLUSIONS: A 6 week study demonstrated the practicality and effectiveness of this Low GL dietary approach. Despite of the unchanged body weight, Low GL diet consultations positively modified body fat content and cardiovascular risk factors in overweight or obese children.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Blood Glucose",
+        "Body Composition",
+        "Body Weight",
+        "Child",
+        "Child Nutritional Physiological Phenomena",
+        "Dietary Carbohydrates",
+        "Energy Metabolism",
+        "Female",
+        "Glycemic Index",
+        "Humans",
+        "Insulin",
+        "Male",
+        "Obesity",
+        "Overweight",
+        "Pilot Projects",
+        "Risk Factors",
+        "Satiety Response",
+        "Treatment Outcome",
+        "Waist-Hip Ratio",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "16820732",
+      "title": "Low glycemic index foods should play a role in improving overall glycemic control in type-1 and type-2 diabetic patients and, more specifically, in correcting excessive postprandial hyperglycemia.",
+      "authors": [
+        "Gérard Slama",
+        "Fabienne Elgrably",
+        "Morvarid Kabir",
+        "Salwa Rizkalla"
+      ],
+      "journal": "Nestle Nutrition workshop series. Clinical & performance programme",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "There is a large bulk of evidence that using low glycemic index (GI) foods has a very significant impact on the amelioration of metabolic disturbances observed in diabetic and/or hyperlipidemic patients and in subjects affected by the metabolic syndrome. Studies bringing convincing evidence against this concept are very rare if any. Improvement is observed not only in postprandial blood glucose and insulin variations but also in circulating plasma lipid levels and the morphology and function of adipocytes. Using the concept of low GI foods in diet counseling of diabetic patients is not exclusive of other measures to improve postprandial and overall blood glucose control. On the contrary, the use of low GI foods should be considered as one of other means and tools available to improve diabetes control (such as other dietary modifications, use of specific and nonspecific drug therapy altering postprandial blood glucose). Among these therapies, the most promising ones are alpha-glucosidase inhibitors, glynides, rapid insulin analogues and in the near future the GLP1 analogue. Again, all these classes of drugs could be associated with one another in order to obtain a postprandial delta excursion target of not below 20 and not above 40-50 mg/dl blood glucose.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes Mellitus, Type 2",
+        "Diet, Diabetic",
+        "Dietary Carbohydrates",
+        "Food",
+        "Glycemic Index",
+        "Humans",
+        "Insulin",
+        "Metabolic Syndrome",
+        "Postprandial Period",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "2060429",
+      "title": "Low-glycemic index foods improve long-term glycemic control in NIDDM.",
+      "authors": [
+        "J C Brand",
+        "S Colagiuri",
+        "S Crossman",
+        "A Allen",
+        "D C Roberts",
+        "A S Truswell"
+      ],
+      "journal": "Diabetes care",
+      "publication_date": "1991-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To compare high- and low-glycemic index (GI) diets in the treatment of non-insulin-dependent diabetes mellitus (NIDDM). RESEARCH DESIGN AND METHODS: Sixteen subjects with well-controlled NIDDM and normal lipid profile, 10 of whom continued oral hypoglycemic medication, participated in the study. A diet that emphasized low-GI foods (e.g., porridge, pasta) was compared with a high-GI diet (e.g., processed cereals, potatoes). The GI of the low-GI diet was 15% lower than the high-GI diet (77 +/- 3 vs. 91 +/- 1) but otherwise similar in macronutrient composition and fiber, as determined by a 4-day weighed record. The diets were instituted under instruction from a dietitian who visited subjects at home on a weekly basis. Body weight was maintained within 1-2 kg. RESULTS: Glycemic control was improved on the low-GI diet compared with the high-GI diet (statistically significant findings, P less than 0.05). Mean glycosylated hemoglobin at the end of the low-GI diet was 11% lower (7.0 +/- 0.3%) than at the end of the high-GI diet (7.9 +/- 0.5%), and the 8-h plasma glucose profile was lower (area under the curve above fasting 128 +/- 23 vs. 148 +/- 22 mmol.h-1.L-1, respectively). Mean fasting plasma glucose, total cholesterol triglycerides, and lipoproteins did not show important differences. CONCLUSIONS: A low-GI diet gives a modest improvement in long-term glycemic control but not plasma lipids in normolipidemic well-controlled subjects with NIDDM.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "C-Peptide",
+        "Diabetes Mellitus, Type 2",
+        "Diet, Diabetic",
+        "Dietary Carbohydrates",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Lipoproteins",
+        "Triglycerides"
+      ]
+    }
+  ]
+}

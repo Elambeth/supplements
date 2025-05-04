@@ -1,0 +1,346 @@
+{
+  "supplement": "Uva ursi",
+  "query": "Uva ursi[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:01:02",
+  "research_count": 12,
+  "count": 11,
+  "articles": [
+    {
+      "pmid": "36145700",
+      "title": "In Vitro Antibacterial and Anti-Inflammatory Activity of Arctostaphylos uva-ursi Leaf Extract against Cutibacterium acnes.",
+      "authors": [
+        "Federica Dell'Annunziata",
+        "Stefania Cometa",
+        "Roberta Della Marca",
+        "Francesco Busto",
+        "Veronica Folliero",
+        "Gianluigi Franci",
+        "Massimiliano Galdiero",
+        "Elvira De Giglio",
+        "Anna De Filippis"
+      ],
+      "journal": "Pharmaceutics",
+      "publication_date": "2022-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cutibacterium acnes (C. acnes) is the main causative agent of acne vulgaris. The study aims to evaluate the antimicrobial activity of a natural product, Arctostaphylos uva-ursi leaf extract, against C. acnes. Preliminary chemical-physical characterization of the extract was carried out by means of FT-IR, TGA and XPS analyses. Skin permeation kinetics of the extract conveyed by a toning lotion was studied in vitro by Franz diffusion cell, monitoring the permeated arbutin (as the target component of the extract) and the total phenols by HPLC and UV-visible spectrophotometry, respectively. Antimicrobial activity and time-killing assays were performed to evaluate the effects of Arctostaphylos uva-ursi leaf extract against planktonic C. acnes. The influence of different Arctostaphylos uva-ursi leaf extract concentrations on the biofilm biomass inhibition and degradation was evaluated by the crystal violet (CV) method. The 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide (MTT) test was used to determine the viability of immortalized human keratinocytes (HaCaT) after exposure to Arctostaphylos uva-ursi leaf extract for 24 and 48 h. Levels of interleukin (IL)-1β, IL-6, IL-8 and tumour necrosis factor (TNF)-α were quantified after HaCaT cells cotreatment with Arctostaphylos uva-ursi leaf extract and heat-killed C. acnes. The minimum inhibitory concentration (MIC) which exerted a bacteriostatic action on 90% of planktonic C. acnes (MIC90) was 0.6 mg/mL. Furthermore, MIC and sub-MIC concentrations influenced the biofilm formation phases, recording a percentage of inhibition that exceeded 50 and 40% at 0.6 and 0.3 mg/mL. Arctostaphylos uva-ursi leaf extract disrupted biofilm biomass of 57 and 45% at the same concentrations mentioned above. Active Arctostaphylos uva-ursi leaf extract doses did not affect the viability of HaCaT cells. On the other hand, at 1.25 and 0.6 mg/mL, complete inhibition of the secretion of pro-inflammatory cytokines was recorded. Taken together, these results indicate that Arctostaphylos uva-ursi leaf extract could represent a natural product to counter the virulence of C. acnes, representing a new alternative therapeutic option for the treatment of acne vulgaris."
+    },
+    {
+      "pmid": "35953755",
+      "title": "Arctostaphylos uva-ursi L. leaves extract and its modified cysteine preparation for the management of insulin resistance: chemical analysis and bioactivity.",
+      "authors": [
+        "Ganna Kravchenko",
+        "Oksana Krasilnikova",
+        "Ain Raal",
+        "Matar Mazen",
+        "Natalia Chaika",
+        "Igor Kireyev",
+        "Andriy Grytsyk",
+        "Oleh Koshovyi"
+      ],
+      "journal": "Natural products and bioprospecting",
+      "publication_date": "2022-Aug-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Bearberry (Arctostaphylos uva-ursi L.) is a perennial plant of the heather family (Ericaceae). The leaves are dominated by arbutin, phenol carbonic acids flavonoids, saponins, etc. It was previously shown that the bearberry leaves extract reduced blood glucose level in healthy animals under glucose overload, so it need to be studied more detail. The aim of the study was to investigate the chemical composition and the effect of dry alcohol extract from bearberry leaves, which enriched with cysteine, on the rats pancreas under experimental dexamethasone-induced insulin resistance (IR). Arctostaphylos uva-ursi L. leaves extract and its modified cysteine preparation were obtained according to the developed method with 50% ethanol solution. Their phytochemical profile, hypoglycaemic and pancreatic protective effect were investigated. Phenologlycoside (arbutin), phenolic carboxylic acid (gallic acid), 5 flavonoids and 4 hydroxycinnamic acids were identified and quantified in the extracts by HPLC. Present data revealed that bearberry leaves alcoholic dry extract enriched with cysteine has a hypoglycaemic and pancreatic protective effect in treated animals under dexamethasone-induced IR model. Treatment improved hyperglycaemia, insulin resistance and beta cell reduction induced by dexamethasone injections."
+    },
+    {
+      "pmid": "35143933",
+      "title": "Proteome changes in human bladder T24 cells induced by hydroquinone derived from Arctostaphylos uva-ursi herbal preparation.",
+      "authors": [
+        "Ana Huđek Turković",
+        "Marija Gunjača",
+        "Marko Marjanović",
+        "Marija Lovrić",
+        "Ana Butorac",
+        "Dubravka Rašić",
+        "Maja Peraica",
+        "Valerija Vujčić Bok",
+        "Ivana Šola",
+        "Gordana Rusak",
+        "Ksenija Durgo"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2022-May-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Arctostaphylos uva-ursi (L.) Spreng. (bearberry) is a well-known traditional herbal plant used as a urinary tract disinfectant. Its antiseptic and diuretic properties can be attributed to hydroquinone, obtained by hydrolysis of arbutin. AIM OF THE STUDY: This study aimed to determine the toxic profile of free hydroquinone on urinary bladder cells (T24) as a target of therapeutic action. MATERIALS AND METHODS: Quantitative and qualitative analysis of the extract and the digestive stability and bioavailability of arbutin and hydroquinone were performed by HPLC assay and simulated in vitro digestion, respectively. Cytotoxic effect, reactive oxygen species induction and proteome changes in T24 cells after hydroquinone treatment were determined using Neutral red assay, 2',7'-dichlorofluorescein-diacetate (DCFH-DA) assay and mass spectrometry, respectively. RESULTS: Through in vitro digestion, arbutin was stable, but hydroquinone increased after pepsin treatment (109.6%) and then decreased after the small intestine phase (65.38%). The recommended doses of Uva-ursi had a cytotoxic effect on T24 cells only when all hydroquinone conjugates were converted to free hydroquinone (320 and 900 μg/mL) and the toxic effect was enhanced by recovery. One cup of the therapeutic dose had a prooxidative effect after 4 h of incubation. Shorter time of cell exposure (2 h) to hydroquinone did not have any impact on reactive oxygen species induction. Proteomic analysis found 17 significantly up-regulated proteins compared to control. Hydroquinone activated proteins related to oxidative stress response, stress-adaptive signalling, heat shock response and initiation of translation. CONCLUSIONS: Despite the therapeutic properties of bearberry, up-regulated T24 cell proteins are evidence that plant compounds, although from a natural source, may exhibit negative properties.",
+      "mesh_terms": [
+        "Arbutin",
+        "Arctostaphylos",
+        "Caco-2 Cells",
+        "Cell Line, Tumor",
+        "Chromatography, High Pressure Liquid",
+        "Humans",
+        "Hydroquinones",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Proteome",
+        "Proteomics",
+        "Urinary Bladder"
+      ]
+    },
+    {
+      "pmid": "34111592",
+      "title": "Herbal treatment with uva ursi extract versus fosfomycin in women with uncomplicated urinary tract infection in primary care: a randomized controlled trial.",
+      "authors": [
+        "Ildikó Gágyor",
+        "Eva Hummers",
+        "Guido Schmiemann",
+        "Tim Friede",
+        "Sebastian Pfeiffer",
+        "Kambiz Afshar",
+        "Jutta Bleidorn"
+      ],
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "publication_date": "2021-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: We explored whether initial treatment with the herbal drug uva ursi (UU) reduces antibiotic use in women with uncomplicated urinary tract infection (UTI) without increasing symptom burden and complication frequency compared with antibiotic treatment. METHODS: A double-blind randomized controlled trial was conducted in 42 family practices in Germany. The participants were adult women with suspected uncomplicated UTIs receiving either UU 105 mg 3 × 2 tablets for 5 days (intervention) or fosfomycin a 3-g single dose (control), and their respective placebos. Participants and investigators were blinded. The primary outcome included (1) antibiotic courses day 0-28 as superiority, and (2) symptom burden (sum of daily symptom scores) day 0-7, as non-inferiority outcome (margin 125%). Clinicaltrials.gov: NCT03151603. RESULTS: Overall, 398 patients were randomly allocated to groups receiving UU (n = 207) and fosfomycin (n = 191). The number of antibiotic courses was 63.6% lower (95% CI 53.6%-71.4%; p < 0.0001) in the UU group than in the fosfomycin group. The ratio of total symptom burden in the UU group compared with control was 136.5% (95% CI 122.7-151.9; p 0.95), failing non-inferiority. Eight women developed pyelonephritis in the UU group compared with two in the fosfomycin group (mean difference 2.8; 95% CI 0.2-5.9; p 0.067). Adverse events were similar between the groups. DISCUSSION: In women with uncomplicated UTIs, initial treatment with UU reduced antibiotic use but led to a higher symptom burden and more safety concerns than fosfomycin.",
+      "mesh_terms": [
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Arctostaphylos",
+        "Female",
+        "Fosfomycin",
+        "Germany",
+        "Humans",
+        "Plant Extracts",
+        "Primary Health Care",
+        "Treatment Outcome",
+        "Urinary Tract Infections"
+      ]
+    },
+    {
+      "pmid": "32971908",
+      "title": "Phenolic Compounds Content and Genetic Diversity at Population Level across the Natural Distribution Range of Bearberry (Arctostaphylos uva-ursi, Ericaceae) in the Iberian Peninsula.",
+      "authors": [
+        "Esther Asensio",
+        "Daniel Vitales",
+        "Iván Pérez",
+        "Laia Peralba",
+        "Juan Viruel",
+        "Celia Montaner",
+        "Joan Vallès",
+        "Teresa Garnatje",
+        "Ester Sales"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2020-Sep-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Bearberry (Arctostaphylos uva-ursi) is a medicinal plant traditionally employed for the treatment of urinary tract infections due to high contents of arbutin (hydroquinone β-D-glucoside), which is now mainly used as a natural skin-whitening agent in cosmetics. Bearberry has also been proposed as a natural antioxidant additive due to the high contents of phenolic compounds in leaves. We studied the variation on phenolic compounds in 42 wild populations of bearberry, aiming to elucidate if intrinsic biological, climatic, and/or geographic factors affect phenolic contents across its natural distribution in the Iberian Peninsula. Bearberry leaves were collected during autumn over a three-year period (2014-2016) in populations across a latitude and altitude gradient. Methanolic extracts showed a wide range of variation in total phenols content, and different phenolic profiles regarding arbutin (levels of this major constituent varied from 87 to 232 mg/g dr wt), but also catechin and myricetin contents, which were affected by geographic and climatic factors. Moderate levels of variation on genome size-assessed by flow cytometry-and on two plastid DNA regions were also detected among populations. Genetic and cytogenetic differentiation of populations was weakly but significantly associated to phytochemical diversity. Elite bearberry genotypes with higher antioxidant capacity were subsequently identified."
+    },
+    {
+      "pmid": "31035018",
+      "title": "Antibiotic-sparing agents for uncomplicated cystitis: uva-ursi and ibuprofen not ready for primetime.",
+      "authors": [
+        "R Datta",
+        "M Juthani-Mehta"
+      ],
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Arctostaphylos",
+        "Clinical Trials as Topic",
+        "Complementary Therapies",
+        "Cystitis",
+        "Female",
+        "Humans",
+        "Ibuprofen",
+        "Plant Preparations",
+        "Urinary Tract Infections"
+      ]
+    },
+    {
+      "pmid": "30685500",
+      "title": "Uva-ursi extract and ibuprofen as alternative treatments for uncomplicated urinary tract infection in women (ATAFUTI): a factorial randomized trial.",
+      "authors": [
+        "M Moore",
+        "J Trill",
+        "C Simpson",
+        "F Webley",
+        "M Radford",
+        "L Stanton",
+        "T Maishman",
+        "A Galanopoulou",
+        "A Flower",
+        "C Eyles",
+        "M Willcox",
+        "A D Hay",
+        "E van der Werf",
+        "S Gibbons",
+        "G Lewith",
+        "P Little",
+        "G Griffiths"
+      ],
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "publication_date": "2019-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVES: The aim was to investigate if offering symptomatic therapy (Uva-ursi or ibuprofen) alongside a delayed prescription would relieve symptoms and reduce the consumption of antibiotics for adult women presenting with acute uncomplicated urinary tract infection (UTI). METHODS: A 2 × 2 factorial placebo controlled randomized trial in primary care. The participants were 382 women aged 18-70 years with symptoms of dysuria, urgency, or frequency of urination and suspected by a clinician to have a lower UTI. The interventions were Uva-ursi extract and/or ibuprofen advice. All women were provided with a delayed or 'back-up' prescription for antibiotics. Missing data were imputed using multiple imputation methods (ISRCTN registry: ISRCTN43397016). RESULTS: An ITT analysis of mean score for frequency symptoms assessed on Days 2-4 found no evidence of a difference between Uva-ursi vs. placebo -0.06 (95% CI -0.33 to 0.21; p 0.661), nor ibuprofen vs. no ibuprofen advice -0.01 (95% CI -0.27 to 0.26; p 0.951). There was no evidence of a reduction in antibiotic consumption with Uva-ursi (39.9% vs. placebo 47.4%; logistic regression odds ratio (OR) 0.59 (95% CI 0.22-1.58; p 0.293) but there was a significant reduction for ibuprofen advice (34.9% vs. no advice 51.0%; OR 0.27 (95% CI 0.10 to 0.72; p 0.009). There were no safety concerns and no episodes of upper tract infection were recorded. CONCLUSIONS: We found no evidence of an effect of either intervention on the severity of frequency symptoms. There is evidence that advice to take ibuprofen will reduce antibiotic consumption without increasing complications. For every seven women given this advice, one less will use antibiotics.",
+      "mesh_terms": [
+        "Acute Disease",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arctostaphylos",
+        "Complementary Therapies",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Ibuprofen",
+        "Middle Aged",
+        "Plant Extracts",
+        "Primary Health Care",
+        "Treatment Outcome",
+        "United Kingdom",
+        "Urinary Tract Infections",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "29970072",
+      "title": "Reducing antibiotic use for uncomplicated urinary tract infection in general practice by treatment with uva-ursi (REGATTA) - a double-blind, randomized, controlled comparative effectiveness trial.",
+      "authors": [
+        "Kambiz Afshar",
+        "Nina Fleischmann",
+        "Guido Schmiemann",
+        "Jutta Bleidorn",
+        "Eva Hummers-Pradier",
+        "Tim Friede",
+        "Karl Wegscheider",
+        "Michael Moore",
+        "Ildikó Gágyor"
+      ],
+      "journal": "BMC complementary and alternative medicine",
+      "publication_date": "2018-Jul-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Uncomplicated urinary tract infections (UTI) are common in general practice and usually treated with antibiotics. This contributes to increasing resistance rates of uropathogenic bacteria. A previous trial showed a reduction of antibiotic use in women with UTI by initial symptomatic treatment with ibuprofen. However, this treatment strategy is not suitable for all women equally. Arctostaphylos uva-ursi (UU, bearberry extract arbutin) is a potential alternative treatment. This study aims at investigating whether an initial treatment with UU in women with UTI can reduce antibiotic use without significantly increasing the symptom burden or rate of complications. METHODS: This is a double-blind, randomized, and controlled comparative effectiveness trial. Women between 18 and 75 years with suspected UTI and at least two of the symptoms dysuria, urgency, frequency or lower abdominal pain will be assessed for eligibility in general practice and enrolled into the trial. Participants will receive either a defined daily dose of 3 × 2 arbutin 105 mg for 5 days (intervention) or fosfomycin 3 g once (control). Antibiotic therapy will be provided in the intervention group only if needed, i.e. for women with worsening or persistent symptoms. Two co-primary outcomes are the number of all antibiotic courses regardless of the medical indication from day 0-28, and the symptom burden, defined as a weighted sum of the daily total symptom scores from day 0-7. The trial result is considered positive if superiority of initial treatment with UU is demonstrated with reference to the co-primary outcome number of antibiotic courses and non-inferiority of initial treatment with UU with reference to the co-primary outcome symptom burden. DISCUSSION: The trial's aim is to investigate whether initial treatment with UU is a safe and effective alternative treatment strategy in women with UTI. In that case, the results might change the existing treatment strategy in general practice by promoting delayed prescription of antibiotics and a reduction of antibiotic use in primary care. TRIAL REGISTRATION: EudraCT: 2016-000477-21 . Clinical trials.gov: NCT03151603 (registered: 10 May 2017).",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Arctostaphylos",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Treatment Outcome",
+        "Urinary Tract Infections",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28886751",
+      "title": "Uva-ursi extract and ibuprofen as alternative treatments of adult female urinary tract infection (ATAFUTI): study protocol for a randomised controlled trial.",
+      "authors": [
+        "Jeanne Trill",
+        "Catherine Simpson",
+        "Frances Webley",
+        "Mike Radford",
+        "Louise Stanton",
+        "Tom Maishman",
+        "Angeliki Galanopoulou",
+        "Andrew Flower",
+        "Caroline Eyles",
+        "Merlin Willcox",
+        "Alastair Hay",
+        "Gareth Griffiths",
+        "Paul Little",
+        "George Lewith",
+        "Michael Moore"
+      ],
+      "journal": "Trials",
+      "publication_date": "2017-Sep-08",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Pragmatic Clinical Trial",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Women with acute uncomplicated urine infection are usually treated with antibiotics. One trial has demonstrated that delayed antibiotic treatment offered without symptom relief results in a modest reduction in antibiotic use. There is some evidence that ibuprofen provides symptom relief and reduces antibiotic use. Uva-ursi, a herbal product, has a traditional use for urinary infection symptom relief. We set out to test: in adult women with suspected UTI who accept the delayed prescription strategy: Do NSAIDs or uva-ursi (a herbal product) provide relief from urinary symptoms and reduce antibiotic use. METHODS/DESIGN: Adult women with suspected urinary tract infection presenting to primary care will be randomised using a factorial trial design in which patients will be randomised to one of two interventions as below: Group 1 - Uva-ursi + advice to take ibuprofen Group 2 - Placebo + advice to take ibuprofen Group 3 - Uva-ursi + no advice to take ibuprofen Group 4 - Placebo + no advice to take ibuprofen Patients and physicians will be blinded to the randomised group for the herb. The main outcome is symptom severity at days 2-4 recorded in a validated, self-report diary used in previous studies. Secondary outcomes include antibiotic use and symptom duration. In total the trial will require 328 patients in order to achieve at least 90% power for the primary endpoint and 80% for the secondary endpoint. In accordance with CONSORT guidelines all comparative analyses will be conducted on an intention-to-treat basis using SPSS or similar package. DISCUSSION: The outcomes from this trial have the potential to modify the current approach to the management of acute urinary symptoms with less dependence on the use of antibiotics. TRIAL REGISTRATION: ISRCTN registry, ID: ISRCTN43397016 . Registered on 11 February 2015.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Arctostaphylos",
+        "Clinical Protocols",
+        "Cystitis",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Ibuprofen",
+        "Intention to Treat Analysis",
+        "Middle Aged",
+        "Plant Extracts",
+        "Primary Health Care",
+        "Research Design",
+        "Time Factors",
+        "Treatment Outcome",
+        "United Kingdom",
+        "Urinary Tract Infections",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26045371",
+      "title": "In vivo evaluation & safety profile evaluation of Arctostaphylos uva-ursi (L.) Spreng. extract in rabbits.",
+      "authors": [
+        "Farah Saeed",
+        "- Mehjabeen",
+        "Noor Jahan",
+        "Mansoor Ahmad"
+      ],
+      "journal": "Pakistan journal of pharmaceutical sciences",
+      "publication_date": "2014-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The aim of our research work was to investigate the effects of low dose of Arctostaphylos uva-ursi (L.) Spreng. on rabbits. Crude extract was administered for 90 days in rabbits and hematology, biochemistry parameters and histopathology changes were analyzed. In result of it gender-based variations were observed in hematological, kidney function, liver function, cardiac enzymes and lipid profile. Urine analysis revealed same results as that of standard and control drug. No significant pathology was observed in heart, stomach, liver and kidney tissues of rabbits, treated with A.uva-ursi in a dose of 25 mg/kg/day. Our results justify the use of A. uva-ursi in medicine for treatment of variable pathologies."
+    },
+    {
+      "pmid": "569336",
+      "title": "Investigation of iridoid substances in Arctostaphylos uva-ursi.",
+      "authors": [
+        "L Jahodár",
+        "I Leifertová",
+        "M Lisá"
+      ],
+      "journal": "Die Pharmazie",
+      "publication_date": "1978-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Active principles of bearberry have been studied for several decades. The drug Folium uvae-ursi is useful to the pharmaceutical industry (in production of medicinal teas) for its disinfective effect on the urinary tract which is derived from the content of phenolic glucosides. This work is a part of the total evaluation of the drug from the point of view of contents of active principles, biogenesis, isolation, qualitative and quantitative differences during the vegetative period, and the changes during technological treatment and pharmacological activity of its active principles.",
+      "mesh_terms": [
+        "Chromatography, Thin Layer",
+        "Plants, Medicinal",
+        "Pyrans"
+      ]
+    }
+  ]
+}

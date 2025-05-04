@@ -1,0 +1,2323 @@
+{
+  "supplement": "Loquat",
+  "query": "Loquat[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:58:11",
+  "research_count": 80,
+  "count": 80,
+  "articles": [
+    {
+      "pmid": "40265225",
+      "title": "EjLAC12 is involved in postharvest chilling injury in loquat fruits by regulating lignin polymerization.",
+      "authors": [
+        "Shoubing Chen",
+        "Shuaijie Li",
+        "Shengjie Dai",
+        "Zhikai Song",
+        "Xiaoyu Cui",
+        "Zhenning Liu",
+        "Meng Xu"
+      ],
+      "journal": "Physiologia plantarum",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat fruits are susceptible to chilling injury at low temperatures following harvest, and heat shock treatment (HT) effectively mitigates chilling-induced lignification in these fruits. Laccase (LAC) is involved in lignin deposition. In this study, 43 laccase genes were identified based on the loquat genome, and the expression patterns of laccases were analyzed during fruit development and postharvest storage. The expression pattern analysis and subcellular localization revealed that EjLAC12 is involved in the regulation of lignin biosynthesis. Furthermore, the overexpression of EjLAC12 in tomato plants resulted in increased lignin and flavonoid contents. Overall, EjLAC12 promotes the accumulation of lignin during low-temperature storage, whereas HT treatment can alleviate its transcription, thereby mitigating postharvest chilling-induced lignification in loquat fruits.",
+      "mesh_terms": [
+        "Lignin",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Laccase",
+        "Cold Temperature",
+        "Solanum lycopersicum",
+        "Polymerization",
+        "Flavonoids",
+        "Plants, Genetically Modified"
+      ]
+    },
+    {
+      "pmid": "40101379",
+      "title": "Isoleucine treatment prevents postharvest browning and maintains quality by elevating antioxidative defence system of 'Surkh' loquat fruit.",
+      "authors": [
+        "Saqib Ayyub",
+        "Ahmad Sattar Khan",
+        "Raheel Anwar",
+        "Abdul Rehman"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2025-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Evaluation Study"
+      ],
+      "abstract": "Rapid postharvest browning of loquat fruits is the leading issue that pose a major challenge during handling throughout the supply chain. Thus, a study was conducted to investigate the effects of pre-storage isoleucine (ILE) application on fruit browning and the antioxidative attributes of 'Surkh' loquat fruits. Fruit treated with ILE (0 %, 0.25 %, 0.5 %, or 1 %) were stored at 4 ± 1 °C for 24 days +2 days at ambient conditions. Results indicated that fruit treated with 0.25 % ILE exhibited reduced incidence of fruit browning, weight loss, decay and maintained higher levels of phenolic compounds, antioxidants, soluble solids, titratable acidity, ascorbic acid, glutathione, proline and activities of antioxidative enzymes like (ascorbate peroxidase, catalase, and superoxide dismutase) than all other treatments. Conclusively, loquat cv. 'Surkh' fruits treated with 0.25 % ILE effectively delayed fruit browning and preserved quality by elevating its antioxidative defence system during cold storage and subsequent shelf period.",
+      "mesh_terms": [
+        "Fruit",
+        "Antioxidants",
+        "Eriobotrya",
+        "Isoleucine",
+        "Food Preservation",
+        "Food Storage",
+        "Superoxide Dismutase",
+        "Phenols",
+        "Catalase",
+        "Maillard Reaction",
+        "Ascorbic Acid",
+        "Ascorbate Peroxidases",
+        "Food Preservatives",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "39856869",
+      "title": "Short-Time High-Oxygen Pre-Treatment Delays Lignification of Loquat (Eriobotrya japonica Lindl.) During Low-Temperature Storage.",
+      "authors": [
+        "Runlei Kou",
+        "Mengfei Peng",
+        "Jiaxuan Zheng",
+        "Shuangdi Hou",
+        "Linyuan Ma",
+        "Xia Liu"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2025-Jan-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lignification often occurs during low-temperature storage in loquat fruit, leading to increased firmness and lignin content, water loss, and changes in flavor. As induced stress factors, short-time high-oxygen pre-treatment (SHOP) can initiate resistant metabolism and regulate the physicochemical qualities during fresh fruit storage. However, the effect of SHOP on the lignification and quality of loquat has been reported less. In the present study, loquat fruit was immersed in oxygen concentrations of 70%, 80%, and 90% for 30 min before being stored at 4 ± 1 °C. The results showed that the 80% SHOP samples had lower lignin accumulation and firmness, showing reductions of 23.1% and 21.1% compared to the control at 50 days. These effects were associated with the inhibition of the activities of lignin synthesis-related enzymes, including phenylalanine ammonia-lyase (PAL), 4-coumarate-CoA ligase (4CL), cinnamyl alcohol dehydrogenase (CAD), and peroxidase (POD). Meanwhile, 80% SHOP improved the antioxidant enzyme system and maintained the structural integrity of the cells. Furthermore, SHOP retained the color and suppressed decay and weight loss and the decline in the soluble solids content (SSC) and titratable acidity (TA). As a convenient and cheap physical approach, SHOP is a promising technology for delaying lignification by regulating lignin synthesis in loquat storage."
+    },
+    {
+      "pmid": "39639928",
+      "title": "Efficacy of Ambroxol Combined with Loquat Syrup on Bacterial Pneumonia in Mice.",
+      "authors": [
+        "Chenping Li",
+        "Zhi Chen",
+        "Jiaqi Shi",
+        "Xiuyun Zheng"
+      ],
+      "journal": "Journal of inflammation research",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Bacterial pneumonia is a prevalent respiratory disease and a primary cause of death among hospitalized patients. Ambroxol and loquat syrup are widely utilized pharmaceuticals for managing respiratory infections in China. This study investigates the potential application and efficacy of combining ambroxol with loquat syrup for treating bacterial pneumonia. METHODS: In this study, mice with P. aeruginosa-induced bacterial pneumonia were used to evaluate the therapeutic effects of ambroxol, loquat syrup, and their combination. A bacterial plate coating assay was performed to measure the P. aeruginosa content in saliva, lung tissue, and bronchoalveolar lavage fluid (BALF). A plate colony counting assay was conducted to assess the antibacterial activity of ambroxol and loquat syrup. Serum, BALF, and lung tissues were analyzed using qPCR, ELISA, immunohistochemistry, and hematoxylin-eosin staining to evaluate disease severity. RESULTS: In this study, the experimental results demonstrate that, compared to treatment with ambroxol and/or loquat syrup alone, the combined administration of ambroxol and loquat syrup significantly increases the volume of saliva expectorated by mice infected with bacteria, concurrently augmenting bacterial presence in saliva while diminishing bacterial burden in the lungs, with significant differences observed (p<0.05). Furthermore, the combined therapy of ambroxol and loquat syrup achieved better therapeutic effects on P. aeruginosa pneumonia compared to ambroxol and/or loquat syrup alone (p<0.05), as evidenced by significantly reduced P. aeruginosa-induced lung injury, improved lung permeability, decreased inflammatory cell infiltration, and lower expression of inflammatory cytokines. CONCLUSION: These findings suggest that the combination therapy of ambroxol and loquat syrup presents a safe and feasible new treatment strategy for bacterial pneumonia, offering promising benefits for ameliorating lung tissue damage and inflammation."
+    },
+    {
+      "pmid": "39410085",
+      "title": "Melatonin Treatment Alleviates Chilling Injury of Loquat Fruit via Modulating ROS Metabolism.",
+      "authors": [
+        "Jiahui Wan",
+        "Yanting Wu",
+        "Zhihong Tong",
+        "Wenbing Su",
+        "Hetong Lin",
+        "Zhongqi Fan"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2024-Sep-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cold storage is one of the most effective methods to maintain postharvest fruit quality. However, loquat fruits are prone to chilling injury (CI) during cold storage, appearing as symptoms such as browning and pitting, which leads to quality deterioration and economic losses. In this study, the effects of melatonin on CI alleviation and the potential role of reactive oxygen species (ROS) metabolism in loquat fruit were investigated. The results showed that 50 μM melatonin was the optimal concentration to inhibit the increase in CI index and cell membrane permeability. Moreover, compared to control fruits, 50 μM melatonin inhibited the malonaldehyde (MDA) content, O2-. production rate and H2O2 content (ROS accumulation) by 17.8%, 7.2% and 11.8%, respectively, during cold storage. Compared to non-treated loquats, 50 μM melatonin maintained higher levels of 1-diphenyl-2-picrylhydrazyl radical-scavenging ability and reducing power, as well as the contents of ascorbic acid (AsA) and glutathione (GSH). Additionally, 50 μM melatonin enhanced the activities of antioxidant enzymes, such as superoxide dismutase (SOD), catalase (CAT) and ascorbate peroxidase (APX) by increasing relevant gene expressions. The activities of SOD, CAT and APX were increased by up to 1.1-, 1.1- and 1.1-times (16 d) by melatonin, as compared with the control fruits. These findings indicate that melatonin mitigation of CI is involved in maintaining cellular redox apphomeostasis in loquat fruit during cold storage."
+    },
+    {
+      "pmid": "39272594",
+      "title": "EjWRKY6 Is Involved in the ABA-Induced Carotenoid Biosynthesis in Loquat Fruit during Ripening.",
+      "authors": [
+        "Yan Yu",
+        "Zeyang Bao",
+        "Qihang Zhou",
+        "Wei Wu",
+        "Wei Chen",
+        "Zhenfeng Yang",
+        "Li Wang",
+        "Xuewen Li",
+        "Shifeng Cao",
+        "Liyu Shi"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2024-Sep-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The yellow-fleshed loquat is abundant in carotenoids, which determine the fruit's color, provide vitamin A, and offer anti-inflammatory and anti-cancer health benefits. In this research, the impact of abscisic acid (ABA), a plant hormone, on carotenoid metabolism and flesh pigmentation in ripening loquat fruits was determined. Results revealed that ABA treatment enhanced the overall content of carotenoids in loquat fruit, including major components like β-cryptoxanthin, lutein, and β-carotene, linked to the upregulation of most genes in the carotenoid biosynthesis pathway. Furthermore, a transcription factor, EjWRKY6, whose expression was induced by ABA, was identified and was thought to play a role in ABA-induced carotenoid acceleration. Transient overexpression of EjWRKY6 in Nicotiana benthamiana and stable genetic transformation in Nicotiana tabacum with EjWRKY6 indicated that both carotenoid production and genes related to carotenoid biosynthesis could be upregulated in transgenic plants. A dual-luciferase assay proposed a probable transcriptional control between EjWRKY6 and promoters of genes associated with carotenoid production. To sum up, pre-harvest ABA application could lead to carotenoid biosynthesis in loquat fruit through the EjWRKY6-induced carotenoid biosynthesis pathway."
+    },
+    {
+      "pmid": "39270496",
+      "title": "Hydrogen sulfide attenuates chilling injury in loquat fruit by alleviating oxidative stress and maintaining cell membrane integrity.",
+      "authors": [
+        "Xinyan Shen",
+        "Yu Liu",
+        "Yuan Zeng",
+        "Yaqin Zhao",
+        "Yinqiu Bao",
+        "Xingfeng Shao",
+        "Zhengguo Wu",
+        "Yonghua Zheng",
+        "Peng Jin"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2025-Jan-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of hydrogen sulfide (H2S) on chilling injury (CI), reactive oxygen species (ROS) metabolism, sugar metabolism, pentose phosphate pathway (PPP), and membrane lipid metabolism in loquat fruit throughout the refrigerated period were investigated in this study. The findings indicated that H2S application restrained the increase in internal browning (IB), malondialdehyde (MDA) content, and electrolyte leakage, while sustaining higher total phenolic and total flavonoid levels, and lower soluble quinone content in loquat fruit. Besides, H2S promoted antioxidant accumulation and increased antioxidant enzyme activities by the regulation of ROS metabolism, along with increasing fructose and glucose levels and reducing power by activating sugar metabolism and PPP. Furthermore, H2S treatment retarded the degradation of phospholipids and fatty acids in loquat fruit by modulating membrane lipid metabolism relevant enzyme activities. These findings indicated that H2S application mitigated CI in loquat fruit by alleviating oxidative stress and maintaining cell membrane structural integrity.",
+      "mesh_terms": [
+        "Fruit",
+        "Oxidative Stress",
+        "Eriobotrya",
+        "Cell Membrane",
+        "Hydrogen Sulfide",
+        "Cold Temperature",
+        "Reactive Oxygen Species",
+        "Antioxidants",
+        "Malondialdehyde"
+      ]
+    },
+    {
+      "pmid": "39233002",
+      "title": "XYLEM NAC DOMAIN 1 (EjXND1) relieves cold-induced lignification by negatively regulating the EjHB1-EjPRX12 module in loquat fruit.",
+      "authors": [
+        "Zihao Liang",
+        "Yanna Shi",
+        "Yiqing Huang",
+        "Jiao Lu",
+        "Mengxue Zhang",
+        "Xizhi Cao",
+        "Ruoqian Hu",
+        "Dongdong Li",
+        "Wenbo Chen",
+        "Changqing Zhu",
+        "Di Wu",
+        "Kunsong Chen"
+      ],
+      "journal": "Journal of advanced research",
+      "publication_date": "2024-Sep-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Lignin is a principal constituent of the secondary cell wall, which plays a role in both plant growth and defensing against stress, such as low temperature and pest infestation. Additionally, it also accumulates in fleshy fruits and negatively affects fruit quality. Red-fleshed loquat is temperature sensitive and exhibits cold-induced lignification. A number of technologies have been developed, for example, Low Temperature Conditioning (LTC) treatment, which has been applied in order to relieve the symptom of cold injury. OBJECTIVES: The present study seeks to elucidate the regulatory mechanism underlying cold-induced lignification in loquat fruit. METHODS: The target genes were isolated through the analysis of transcriptome. The gene function was analyzed by transient transgenic method in tobacco leaves and loquat fruit, respectively, as well as stable overexpression in liverwort. The regulatory mechanism study was achieved by in vitro protein-protein interaction assays, dual-luciferase assay, and EMSA. RESULTS: In the present study, the Xylem NAC Domain transcription factor EjXND1 was identified as a repressor of loquat fruit lignification. It was demonstrated that EjXND1 could interact with the characterized lignin activator EjHB1, resulting in a diminution of the activation of EjHB1 on EjPRX12 promoter. Furthermore, two highly methylated regions were identified in the promoter of EjXDN1. One of these regions exhibited a negative correlation between methylation level and EjXND1 expression. Additionally, it was shown that hypermethylation of this region weaken the binding affinity of EjXND1 activators to its promoter. CONCLUSION: The EjXND1 plays a role in modified Low Temperature Conditioning (mLTC) treatment that alleviates cold-induced lignification in red-fleshed loquat fruit by targeting the EjHB1-EjPRX12 module and EjXND1 is regulated by the dynamic of DNA methylation level in the promoter."
+    },
+    {
+      "pmid": "38310778",
+      "title": "Methyl jasmonate-loaded composite biofilm sustainably alleviates chilling lignification of loquat fruit during postharvest storage.",
+      "authors": [
+        "Zihan Cai",
+        "Weinan Huang",
+        "Jiahao Zhong",
+        "Jiayue Jin",
+        "Di Wu",
+        "Kunsong Chen"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2024-Jun-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this work, the MeJA-loaded gelatin/pullulan/chitosan composite biofilm was prepared to inhibit the chilling lignification of the loquat fruit during storage at 0 °C. The firmness and lignin content were decreased by 89 % and 81.77 % after MeJA-loaded biofilm treatment. Malondialdehyde (MDA) production was almost completely suppressed and chilling injury of loquat fruit was significantly reduced. Enzyme activity results show that the biofilm alleviated chilling lignification mainly by inhibiting peroxidase (POD) activity in the phenylpropanoid pathway (PCCs = 0.715, with lignin content). Also, the conventional MeJA vapor treatment only alleviated lignification on day 3, but the biofilm treatment had a better and more sustained effect throughout the whole storage due to its sustained release ability. Besides, the biofilm had good mechanical properties, transparency and water vapor transmission rate. This work indicates that loading preservatives into biofilms has a promising application prospect for inhibiting the postharvest quality deterioration of fruit and vegetables.",
+      "mesh_terms": [
+        "Lignin",
+        "Antioxidants",
+        "Fruit",
+        "Oxylipins",
+        "Acetates",
+        "Plant Extracts",
+        "Cyclopentanes",
+        "Eriobotrya"
+      ]
+    },
+    {
+      "pmid": "37959124",
+      "title": "Formulation of a Stable Oil-in-Water Microemulsion of Torreya grandis cv. Merrillii Aril Essential Oil and Its Application in Loquat Fruit Preservation.",
+      "authors": [
+        "He Wang",
+        "Yue Zheng",
+        "Xinyue Tang",
+        "Ting Zhang"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2023-Nov-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat is a nutrient-rich fruit with juicy and sweet pulp, but it is vulnerable to rot and deterioration without proper postharvest preservation measures. This study aimed to improve the postharvest quality of loquat by developing a microemulsion system based on an essential oil extracted from the Torreya grandis cv. Merrillii aril (TaEO), which has antimicrobial and antioxidant properties. An optimal TaEO microemulsion (TaEO-ME) was formulated, using a mixture of Tween-40 and Tween-80 as the surfactant, 1-butanol as the co-surfactant, and TaEO as the oil phase, with mass ratios of 9:1, 3:1, and 6:1, respectively. Two TaEO-ME formulations with 60% and 70% water contents were stable for 180 days at room temperature, with a mean droplet size below 12 nm and polydispersity index less than 0.24. They also exhibited higher stability and enhanced biological activities compared to free TaEO. Loquat fruit treated with TaEO-ME displayed a reduced decay index and lower membrane lipid peroxidation after 15 days of storage at 15 °C, as indicated by the lower malondialdehyde content and higher peroxidase activity. Moreover, the TaEO-ME treatment preserved the nutrient quality by maintaining the total phenolic compounds and ascorbic acid content. Our findings suggested that TaEO-ME can be used as a substitute for chemical preservatives to keep fruits fresh."
+    },
+    {
+      "pmid": "37857197",
+      "title": "Exogenous phytosulfokine α alleviates chilling injury of loquat fruit via regulating sugar, proline, polyamine and γ-aminobutyric acid metabolisms.",
+      "authors": [
+        "Yu Liu",
+        "Yuanyuan Hou",
+        "Binghan Yi",
+        "Yaqin Zhao",
+        "Yinqiu Bao",
+        "Zhengguo Wu",
+        "Yonghua Zheng",
+        "Peng Jin"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2024-Mar-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Postharvest loquat fruit is susceptible to chilling injury (CI) under cold stress. In this study, the effects of phytosulfokine α (PSKα) on sugar, proline, polyamine and γ-aminobutyric acid (GABA) metabolisms in loquat fruit during cold storage were investigated. The results showed that PSKα treatment significantly increased PSKα content along with up-regulating EjPSK3 and EjPSK6 expressions, and inhibited the increases of internal browning index, electrolyte leakage and malondialdehyde (MDA) content of loquat fruit. Besides, PSKα treatment maintained higher reducing sugar, proline, polyamines, and GABA contents in loquat fruit via activating biosynthesis pathway and suppressing catabolism pathway. More importantly, the results of correlation analysis indicated that PSKα content displayed positive correlations with reducing sugar, proline, polyamines and GABA contents. These findings suggested that the improved chilling tolerance in PSKα-treated loquat fruit was due to enhancing reducing sugar, proline, polyamines, and GABA contents, which might be modulated by endogenous PSKα signaling.",
+      "mesh_terms": [
+        "Polyamines",
+        "Sugars",
+        "Proline",
+        "Fruit",
+        "Carbohydrates",
+        "gamma-Aminobutyric Acid",
+        "Cold Temperature"
+      ]
+    },
+    {
+      "pmid": "37480637",
+      "title": "Valorization of loquat seeds by hydrothermal carbonization for the production of hydrochars and aqueous phases as added-value products.",
+      "authors": [
+        "Dimitris Kalderis",
+        "Özkan Görmez",
+        "Barış Saçlı",
+        "Selda Doğan Çalhan",
+        "Belgin Gözmen"
+      ],
+      "journal": "Journal of environmental management",
+      "publication_date": "2023-Oct-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In the framework of circular bio-economy, waste loquat seeds were utilized for the production of two added-value products. The seeds were hydrothermally carbonized at a temperature range of 150-250 °C and time range 2-6 h and the resultant hydrochars and aqueous phases were characterized using various methods. The optimum higher heating value of 30.64 MJ kg-1, ash content of 1.99 wt % and alkali index of 0.05 were achieved for the hydrochar prepared at 250 °C and 6 h, establishing its suitability for energy-related applications. The aqueous phase obtained at 250 °C and 6 h achieved 90% scavenging of the 2,2-diphenyl-1-picryl-hydrazyl-hydrate (DPPH) radical and had a IC50 value of 43.71 μg mL-1. Principal component analysis showed that the production of phenols, ketones, alkenes and organic acids was favored at >200 °C, whereas furans and aldehydes were primarily formed at 150 °C. Conclusively, both added-value products were obtained at the same optimum hydrothermal carbonization conditions of 250 °C and 6 h treatment time. In a bio-refinery context, this has the practical implication that both bio-products be obtained simultaneously, without the need to switch between different temperatures and residence times.",
+      "mesh_terms": [
+        "Aldehydes",
+        "Alkalies",
+        "Alkenes",
+        "Eriobotrya"
+      ]
+    },
+    {
+      "pmid": "37445735",
+      "title": "Effects of L-Cysteine and γ-Aminobutyric Acid Treatment on Postharvest Quality and Antioxidant Activity of Loquat Fruit during Storage.",
+      "authors": [
+        "Huifen Zhang",
+        "Jing Pu",
+        "Han Liu",
+        "Miao Wang",
+        "Ying Du",
+        "Xiaofu Tang",
+        "Xian Luo",
+        "Yongqing Wang",
+        "Qunxian Deng"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-Jun-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sichuan is the China's leading producer of loquat, with the largest cultivation area and yield ranked first in China. Loquat is a seasonal fruit highly appreciated by consumers; however, the fruit is prone to browning and lignification after harvest, affecting its storage quality. The effects of L-Cysteine (L-Cys, 0.01, 0.05, 0.1, 0.2%) and γ-aminobutyric acid (GABA, 0.025, 0.05, 0.075, 0.1%) on the sensory quality and antioxidant activity of loquat fruit during cold storage at 4 °C for 35 days and simulated shelf life for 5 days were investigated. The results showed that after 40 days of storage, compared with the control, 0.05% L-Cys and 0.05% GABA treatment of 'Zaozhong No. 6' loquat fruit effectively reduced the weight loss rate, browning index, decay index, respiratory rate, firmness, and lignin content and slowed the decreases in total soluble solids, soluble sugar, titratable acidityand vitamin C contents. The application of 0.05% L-Cys and 0.05% GABA significantly increased the contents of total phenols, total flavonoids, flavanols, and carotenoids; delayed the increase of relative electric conductivity, MDA, POD, and PPO activities; and significantly enhanced the activities of SOD and CAT, DPPH free radical scavenging ability, and FRAP, thereby improving antioxidant capacity. In summary, 0.05% L-Cys and 0.05% GABA treatment promotes the quality of loquat fruit after 40 days of storage, and significantly enhances antioxidant capacity, thus delaying senescence after harvest.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Cysteine",
+        "Eriobotrya",
+        "Fruit",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "37329690",
+      "title": "Exogenously applied zinc improves sugar-acid profile of loquat (Eriobotrya japonica Lindl.) by regulating enzymatic activities and expression of their metabolism-related genes.",
+      "authors": [
+        "Muhammad Moaaz Ali",
+        "Shaista Gull",
+        "Xiaobo Hu",
+        "Youming Hou",
+        "Faxing Chen"
+      ],
+      "journal": "Plant physiology and biochemistry : PPB",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Soluble sugars and organic acids are the most abundant components in ripe fruits, and they play critical roles in the development of fruit flavor and taste. In this study, loquat trees were sprayed with 0.1, 0.2 and 0.3% zinc sulphate. The contents of soluble sugars and organic acids were determined using HPLC-RID and UPLC-MS, respectively. The activities of key enzymes involved in sugar-acid metabolism were measured and expression profiling of related genes was done using RT-qPCR. The results revealed that 0.1% zinc sulphate was a promising treatment among other Zn applications with respect to the increased levels of soluble sugars and decreased acid contents in loquats. Correlation analysis showed that the enzymes i.e., SPS, SS, FK, and HK were may be involved in the regulation of fructose and glucose metabolism in the fruit pulp of loquat. While, the activity of NADP-ME showed negative and NAD-MDH showed a positive correlation with malic acid content. Meanwhile, EjSPS1-4, EjSS2-4, EjHK1-3, and EjFK1-6 may play an important role in soluble sugar metabolism in the pulp of loquat fruits. Similarly, EjPEPC2, EjPEPC3, EjNAD-MDH1, EjNAD-MDH3-5, EjNAD-MDH6 and EjNAD-MDH13 may have a vital contribution to malic acid biosynthesis in loquat fruits. This study provides new insights for future elucidation of key mechanisms regulating soluble sugars and malic acid biosynthesis in loquats."
+    },
+    {
+      "pmid": "36981255",
+      "title": "Postharvest Biology and Technology of Loquat (Eriobotrya japonica Lindl.).",
+      "authors": [
+        "Hafiz Muhammad Shoaib Shah",
+        "Ahmad Sattar Khan",
+        "Zora Singh",
+        "Saqib Ayyub"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2023-Mar-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica Lindl.) fruit is a rich source of carotenoids, flavonoids, phenolics, sugars, and organic acids. Although it is classified as a non-climacteric fruit, susceptibility to mechanical and physical bruising causes its rapid deterioration by moisture loss and postharvest decay caused by pathogens. Anthracnose, canker, and purple spot are the most prevalent postharvest diseases of loquat fruit. Cold storage has been used for quality management of loquat fruit, but the susceptibility of some cultivars to chilling injury (CI) consequently leads to browning and other disorders. Various techniques, including cold storage, controlled atmosphere storage, hypobaric storage, modified atmosphere packaging, low-temperature conditioning, heat treatment, edible coatings, and postharvest chemical application, have been tested to extend shelf life, mitigate chilling injury, and quality preservation. This review comprehensively focuses on the recent advances in the postharvest physiology and technology of loquat fruit, such as harvest maturity, fruit ripening physiology, postharvest storage techniques, and physiological disorders and diseases."
+    },
+    {
+      "pmid": "36901799",
+      "title": "Exogenous Nitric Oxide-Induced Postharvest Gray Spot Disease Resistance in Loquat Fruit and Its Possible Mechanism of Action.",
+      "authors": [
+        "Yanfang Ren",
+        "Tengyu Yan",
+        "Chunmei Hu",
+        "Dong Liu",
+        "Junyu He"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-Feb-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effectiveness of nitric oxide (NO) for control of grey spot rot cause by Pestalotiopsis eriobotryfolia in harvested loquat fruit and its probable mechanisms have been investigated. The results showed that NO donor sodium nitroprusside (SNP) did not evidently inhibit mycelial growth and spore germination of P. eriobotryfolia, but resulted in a low disease incidence and small lesion diameter. SNP resulted in a higher hydrogen peroxide (H2O2) level in the early stage after inoculation and a lower H2O2 level in the latter period by regulating the activities of superoxide dismutase, ascorbate peroxidase and catalase. At the same time, SNP enhanced the activities of chitinase, β-1,3-glucanase, phenylalanine ammonialyase, polyphenoloxidase, and total phenolic content in loquat fruit. However, SNP treatment inhibited the activities of cell wall-modifying enzymes and the modification of cell wall components. Our results suggested that NO treatment might have potential in reducing grey spot rot of postharvest loquat fruit.",
+      "mesh_terms": [
+        "Nitric Oxide",
+        "Disease Resistance",
+        "Hydrogen Peroxide",
+        "Eriobotrya",
+        "Nitroprusside",
+        "Fruit"
+      ]
+    },
+    {
+      "pmid": "36691270",
+      "title": "First Report of Lasiodiplodia theobromae Causing Stem Brown Rot of Loquat in China.",
+      "authors": [
+        "Qiong Kong",
+        "Shijun Xing",
+        "Kun Xie",
+        "Zhiqiang Jia",
+        "Zhili Li",
+        "Yan Liu",
+        "Chunli Xue",
+        "Xian Shi",
+        "Chuanming Wang",
+        "Shengyong Yuan"
+      ],
+      "journal": "Plant disease",
+      "publication_date": "2023-Jan-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat (Rhaphiolepis biabas, heterotypic synonym: Eriobotrya japonica) is an important edible and medicinal plant that is widely cultivated on 133 thousand hectares (recorded in 2022) in China. A stem brown rot was observed on young and old trees in Mengzi city (23°23' N; 103°23' E), Yunnan Province, southwest China, during October 2014 and September 2021. Incidence ranged from 20% of trees in surrounding plantations to 50% incidence of a 160 tree orchard that was the focal point of the disease survey. Circular brown lesions occurred initially on the stems and gradually covered all the epidermis of the stem, leading to irregular dents within the bark that developed a dark brown powdery appearance (Fig.1A). Larger lesions affected vascular tissues, causing diseased trees to wither and die. Diseased tissues were surface-disinfected in a 5% sodium hypochlorite solution for 3 min, rinsed three times with sterile distilled water, placed on potato dextrose agar (PDA), and incubated in the dark at 28°C. Twenty samples were collected for tissue isolation, and 11 isolates were single-spored on water agar. In culture, the colonies on PDA were white to dark-gray, velvet, with dense hyphae, diameter 7.64 cm after 5 days. After 18 days, spherical or subglobose pycnidia were developed and semi-buried in medium, their walls were thicker and dark-brown, which were black particles surrounded by gray-black hyphae. Conidiogenous cells were hyaline, cylindrical, holoblastic, slightly swollen at the base, with rounded apex. Conidia were initially hyaline and aseptate with elliptic or ovate shape, becoming dark brown with a single septate and developing longitudinal striations along thick walls at maturity. Conidia dimensions varied from 8.0 to 12.2 × 3.8 to 6.1μm (n=50) (Fig.1D). The morphological characteristics of eleven isolates were consistent with the description of Lasiodiplodia theobromae (Alves et al. 2008). Further confirmation was also determined by sequencing the internal transcribed spacer (ITS), β-tubulin genes, partial translation elongation factor-1α (TEF-1α) (White et al. 1990, Carbone et al. 1999, Glass et al.1995). The isolate LSB-1 was selected for DNA sequence analysis. Based on BLASTn analysis, ITS sequences (OM617921) had 98.3% similarity with L. theobromae CBS164.96 (accession AY640255), CBS124.13(accession DQ458890), CAA006 (accession DQ458891) and CBS111530 (accession EF622074), β-tubulin sequences (OM643838) showed 99.1% similarity with L. theobromae accessions EU673110. The TEF-1α (OM643839) had 99.0% identity with L. theobromae accession EF633054. The isolate LSB-1 clustered on the same clade with other L. theobromae. Pathogenicity testing of isolate LSB-1, LSB-2, LSB-3 was conducted by inoculating the stems of l-year-old seedlings growing in pots. The epidermis at the inoculation site, 15-20 cm below the crown, was wiped with 75% alcohol cotton ball, washed three times with sterile water, and then punctured (5mm diameter) with sterile inoculation needle. A 5mm block of each isolate cultured on PDA for seven days was attached to the inoculation site. Controls were inoculated with sterile PDA blocks. The inoculation area was covered with polyethylene cling film. All inoculated seedlings were kept in controlled greenhouse at 27°C with 80% relative humidity under natural daylight conditions, and watered weekly. Each treatment was repeated three times. Eight days after inoculation, all diseased plants showed dark brown discoloration at the point of inoculation (Fig. 1G) with the bark at the inoculation site gradually raising as the disease progressed. Thirty days after inoculation, all inoculated seedlings produced typical symptoms, whereas the control seedlings remained healthy. Fungal isolates were only recovered from symptomatic stems and were morphologically identical to L. theobromae, completing Koch's postulates. According to the relevant literature, Lasiodiplodia theobromae has a broad host range, causing numerous diseases, including canker and dieback of branch (Aguilera-Cogley et al., 2021), panicle blight (Mahadevakumar et al, 2022), root rot (Abd-El Ghani and Fatouh, 2005), fruit rot(Freire et al., 2011) in diverse geographical regions. To our knowledge, this is the first report of L. theobromae causing stem brown rot of loquat in China and provides a foundation for further study of the epidemiology and integrated management of this disease."
+    },
+    {
+      "pmid": "36561668",
+      "title": "An integrative exploration of loquat leaf total sesquiterpene glycosides in treating insulin-resistant mice by serum and urine untargeted metabolomics analysis.",
+      "authors": [
+        "Yanan Gai",
+        "Jiawei Li",
+        "Tunyu Jian",
+        "Xiaoqin Ding",
+        "Han Lyu",
+        "Yan Liu",
+        "Jing Li",
+        "Bingru Ren",
+        "Jian Chen",
+        "Weilin Li"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat leaf is approved to be beneficial in the treatment of diabetes. Total sesquiterpene glycosides (TSG), a major chemical component cluster, has potential ability to improve insulin-resistant diabetes syndrome. Its therapeutic mechanism using metabolomics in vivo is worth to be investigated. This study aimed to reveal the underlying therapeutic mechanism of TSG on insulin-resistant mice by untargeted metabolomics, and to explore the lipid metabolism differences in vivo. High-fat diet was used to induce insulin-resistant mice model. Biochemical indicators were applied to evaluate the model validity and related treatment effect. Ultra-performance liquid chromatography quadrupole-time-of-flight mass spectrometry was utilized to accomplish serum and urine untargeted metabolomics. Oral administration of TSG had a therapeutic effect on high-fat diet induced insulin-resistant mice. Four hundred forty-two metabolites in serum and 1732 metabolites in urine were annotated. Principal component analysis screened 324 differential metabolic signatures in serum sample and 1408 in urine sample. The pathway mainly involved purine metabolism and biosynthesis of unsaturated fatty acids. Lipidomic analysis of urine and serum confirmed that most lipid metabolites were fatty acyls, sterol lipids and polyketides."
+    },
+    {
+      "pmid": "36559584",
+      "title": "The Regulatory Mechanisms and Control Technologies of Chilling Injury and Fungal Diseases of Postharvest Loquat Fruit.",
+      "authors": [
+        "Shen Zhang",
+        "Huimin Sun",
+        "Jingyi Wang",
+        "Junnan Shen",
+        "Fan He",
+        "Dongxiao Chen",
+        "Ying Wang"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2022-Dec-12",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Loquat is a popular fruit widely cultivated all over the world. It is rich in minerals and carotenoids and has high commercial value. At room temperature, loquat fruit is impressionable to water and nutritional losses, physical damage, and microbial decay, resulting in a short postharvest life. Low-temperature storage is routinely used to prolong the shelf life of loquat fruit; however, cold storage can also lead to lignification of flesh tissue, which is one of the major symptoms of chilling injury (CI), reducing the quality and economic value of the fruit. In addition, fruit decay caused by microbial infection is another important reason for postharvest losses of loquat. To reduce quality deterioration and optimize the postharvest storage strategies of loquat fruit, considerable progress has been made in the physiological and molecular biological studies of CI, microbial decay, and preservation technologies of loquat fruit during the postharvest phase in recent decades. This review summarizes the current research progress and provides a reference for the improvement of loquat fruit quality."
+    },
+    {
+      "pmid": "36541724",
+      "title": "Sorbitol induces flower bud formation via the MADS-box transcription factor EjCAL in loquat.",
+      "authors": [
+        "Hong-Xia Xu",
+        "Dong Meng",
+        "Qing Yang",
+        "Ting Chen",
+        "Meng Qi",
+        "Xiao-Ying Li",
+        "Hang Ge",
+        "Jun-Wei Chen"
+      ],
+      "journal": "Journal of integrative plant biology",
+      "publication_date": "2023-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sorbitol is an important signaling molecule in fruit trees. Here, we observed that sorbitol increased during flower bud differentiation (FBD) in loquat (Eriobotrya japonica Lindl.). Transcriptomic analysis suggested that bud formation was associated with the expression of the MADS-box transcription factor (TF) family gene, EjCAL. RNA fluorescence in situ hybridization showed that EjCAL was enriched in flower primordia but hardly detected in the shoot apical meristem. Heterologous expression of EjCAL in Nicotiana benthamiana plants resulted in early FBD. Yeast-one-hybrid analysis identified the ERF12 TF as a binding partner of the EjCAL promoter. Chromatin immunoprecipitation-PCR confirmed that EjERF12 binds to the EjCAL promoter, and β-glucuronidase activity assays indicated that EjERF12 regulates EjCAL expression. Spraying loquat trees with sorbitol promoted flower bud formation and was associated with increased expression of EjERF12 and EjCAL. Furthermore, we identified EjUF3GaT1 as a target gene of EjCAL and its expression was activated by EjCAL. Function characterization via overexpression and RNAi reveals that EjUF3GaT1 is a biosynthetic gene of flavonoid hyperoside. The concentration of the flavonoid hyperoside mirrored that of sorbitol during FBD and exogenous hyperoside treatment also promoted loquat bud formation. We identified a mechanism whereby EjCAL might regulate hyperoside biosynthesis and confirmed the involvement of EjCAL in flower bud formation in planta. Together, these results provide insight into bud formation in loquat and may be used in efforts to increase yield.",
+      "mesh_terms": [
+        "Transcription Factors",
+        "Eriobotrya",
+        "Sorbitol",
+        "In Situ Hybridization, Fluorescence",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Flowers",
+        "Flavonoids"
+      ]
+    },
+    {
+      "pmid": "36461216",
+      "title": "CaCl2 mitigates chilling injury in loquat fruit via the CAMTA5-mediated transcriptional repression of membrane lipid degradation genes.",
+      "authors": [
+        "Yuanyuan Hou",
+        "Li Wang",
+        "Liangyi Zhao",
+        "Bing Xie",
+        "Shunqing Hu",
+        "Guifang Chen",
+        "Yonghua Zheng",
+        "Peng Jin"
+      ],
+      "journal": "Food research international (Ottawa, Ont.)",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Loquat fruit is vulnerable to chilling injury (CI) under long-term low temperature storage. The application of calciumchloride (CaCl2) can alleviate CI in loquat fruit, however, the molecular mechanisms remain unclear. In this study, the loquat fruit were immersed in 1 % CaCl2 solution for 10 min and then stored at 1 ± 1 ℃ for 35 d. The results showed that CaCl2 treatment suppressed the increases in internal browning index, electrolyte leakage, and malonaldehyde content in loquat fruit under chilling stress. The internal browning index in CaCl2-treated loquat fruit was 33.34 % lower than that in the control at the end of storage. Meanwhile, CaCl2 treatment delayed the phospholipids degradation, and retained high level of unsaturated/saturated fatty acid ratio, which was 15.21 % higher than that in the control fruit at the end of storage. The CaCl2 treatment also decreased the enzymatic activities and gene expressions of phospholipase D (PLD), phospholipase C (PLC), and lipoxygenase (LOX) in loquat fruit during cold storage. Moreover, a calmodulin-binding transcription activator (CAMTA) transcription factor (TF), EjCAMTA5, was cloned from loquat fruit. The EjCAMTA5 expression was up-regulated by cold stress and CaCl2 treatment. Further investigation revealed that EjCAMTA5 directly bound to the promoters of EjPLC6-like and EjLOX5 to repress their transcription. Taken together, these findings implied that CaCl2 application could activate the EjCAMTA5-mediated transcriptional repression of EjPLC6-like and EjLOX5 genes, which contributed to delaying the degradation of membrane lipid and maintaining the integrity of cell membrane, thereby inhibiting the occurrence of browning in loquat fruit under chilling stress.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Calcium Chloride",
+        "Fruit",
+        "Gene Expression",
+        "Membrane Lipids",
+        "Transcription Factors"
+      ]
+    },
+    {
+      "pmid": "36362065",
+      "title": "Genome-Wide Analysis of SAUR Gene Family Identifies a Candidate Associated with Fruit Size in Loquat (Eriobotrya japonica Lindl.).",
+      "authors": [
+        "Ze Peng",
+        "Wenxiang Li",
+        "Xiaoqing Gan",
+        "Chongbin Zhao",
+        "Dev Paudel",
+        "Wenbing Su",
+        "Juan Lv",
+        "Shunquan Lin",
+        "Zongli Liu",
+        "Xianghui Yang"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2022-Oct-31",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fruit size is an important fruit quality trait that influences the production and commodity values of loquats (Eriobotrya japonica Lindl.). The Small Auxin Upregulated RNA (SAUR) gene family has proven to play a vital role in the fruit development of many plant species. However, it has not been comprehensively studied in a genome-wide manner in loquats, and its role in regulating fruit size remains unknown. In this study, we identified 95 EjSAUR genes in the loquat genome. Tandem duplication and segmental duplication contributed to the expansion of this gene family in loquats. Phylogenetic analysis grouped the SAURs from Arabidopsis, rice, and loquat into nine clusters. By analyzing the transcriptome profiles in different tissues and at different fruit developmental stages and comparing two sister lines with contrasting fruit sizes, as well as by functional predictions, a candidate gene (EjSAUR22) highly expressed in expanding fruits was selected for further functional investigation. A combination of Indoleacetic acid (IAA) treatment and virus-induced gene silencing revealed that EjSAUR22 was not only responsive to auxin, but also played a role in regulating cell size and fruit expansion. The findings from our study provide a solid foundation for understanding the molecular mechanisms controlling fruit size in loquats, and also provide potential targets for manipulation of fruit size to accelerate loquat breeding.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Fruit",
+        "RNA",
+        "Phylogeny",
+        "Plant Breeding",
+        "Indoleacetic Acids",
+        "Arabidopsis",
+        "Gene Expression Regulation, Plant"
+      ]
+    },
+    {
+      "pmid": "36340346",
+      "title": "Sugar and acid profile of loquat (Eriobotrya japonica Lindl.), enzymes assay and expression profiling of their metabolism-related genes as influenced by exogenously applied boron.",
+      "authors": [
+        "Muhammad Moaaz Ali",
+        "Raheel Anwar",
+        "Rana Naveed Ur Rehman",
+        "Shaghef Ejaz",
+        "Sajid Ali",
+        "Ahmed F Yousef",
+        "Sezai Ercisli",
+        "Xiaobo Hu",
+        "Youming Hou",
+        "Faxing Chen"
+      ],
+      "journal": "Frontiers in plant science",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Soluble sugars and organic acids are the most abundant components in ripe fruits, and they play critical roles in the development of fruit flavor and taste. Some loquat cultivars have high acid content which seriously affect the quality of fruit and reduce the value of commodity. Consequently, studying the physiological mechanism of sugar-acid metabolism in loquat can clarify the mechanism of their formation, accumulation and degradation in the fruit. Minerals application has been reported as a promising way to improve sugar-acid balance of the fruits. In this study, loquat trees were foliar sprayed with 0.1, 0.2 and 0.3% borax, and changes in soluble sugars and organic acids were recorded. The contents of soluble sugars and organic acids were determined using HPLC-RID and UPLC-MS, respectively. The activities of enzymes responsible for the metabolism of sugars and acids were quantified and expressions of related genes were determined using quantitative real-time PCR. The results revealed that 0.2% borax was a promising treatment among other B applications for the increased levels of soluble sugars and decreased acid contents in loquats. Correlation analysis showed that the enzymes i.e., SPS, SS, FK, and HK were may be involved in the regulation of fructose and glucose metabolism in the fruit pulp of loquat. While the activity of NADP-ME showed negative and NAD-MDH showed a positive correlation with malic acid content. Meanwhile, EjSPS1, EjSPS3, EjSS3, EjHK1, EjHK3, EjFK1, EjFK2, EjFK5, and EjFK6 may play an important role in soluble sugars metabolism in fruit pulp of loquat. Similarly, EjPEPC2, EjPEPC3, EjNAD-ME1, EjNAD-MDH1, EjNAD-MDH5-8, EjNAD-MDH10, and EjNAD-MDH13 may have a vital contribution to malic acid biosynthesis in loquat fruits. This study provides new insights for future elucidation of key mechanisms regulating soluble sugars and malic acid biosynthesis in loquats."
+    },
+    {
+      "pmid": "35962799",
+      "title": "Protective mechanisms of loquat leaf extract and ursolic acid against diabetic pro-inflammation.",
+      "authors": [
+        "Min Kyung Hyun",
+        "Dae Hyun Kim",
+        "Chan Hum Park",
+        "Sang Gyun Noh",
+        "Sihyun Choi",
+        "Jae Yong Lee",
+        "Ji Hye Choi",
+        "Duhyeon Park",
+        "Yeon Ja Choi",
+        "Hae Young Chung"
+      ],
+      "journal": "Journal of molecular medicine (Berlin, Germany)",
+      "publication_date": "2022-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The pharmacological effectiveness of loquat leaf extract (LE) and its important component, ursolic acid (UA), in the treatment of diabetes mellitus, has been well established in traditional medicine; however, the mechanism underlying their action is still unclear. We evaluated the protective effects of LE and UA against hyperglycemia-induced advanced glycation end product (AGE) formations and hepatic pro-inflammation. Oral administration of UA and LE at a dose of 50 mg/kg/day for 15 days yielded no significant hypoglycemic effect in diabetic db/db mice. UA and LE suppressed hepatic oxidative stress and AGE formation in diabetic mice, and this was followed by the downregulated mitogen-activated protein kinase signaling and nuclear factor κ B (NF-κB) activity. To identify the molecular target of LE and UA, a docking simulation was performed, and this predicted UA to bind to liver kinase B1 (LKB1), an upstream of AMP-activated protein kinase (AMPK)/transcription factor forkhead box O3 (FOXO3) axis. UA reversed the high-glucose-induced downregulation of LKB1-AMPK1-FOXO3 activation and antioxidant gene transcription. These findings demonstrated the antioxidant and anti-inflammatory effects of UA and LE against hyperglycemia-induced hepatic inflammation. Furthermore, we speculate that the LKB1/AMPK/FOXO3 pathway is a potential target responsible for these beneficial effects of LE and UA.",
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Animals",
+        "Antioxidants",
+        "Diabetes Mellitus, Experimental",
+        "Eriobotrya",
+        "Hyperglycemia",
+        "Inflammation",
+        "Mice",
+        "Oleanolic Acid",
+        "Plant Extracts",
+        "Ursolic Acid"
+      ]
+    },
+    {
+      "pmid": "35783523",
+      "title": "Loquat Leaf Extract Enhances Muscle Contraction-Induced Activation of Protein Synthesis Signaling in Rat Skeletal Muscle.",
+      "authors": [
+        "Yung-Li Hung",
+        "Riki Kosugi",
+        "Toshiharu Natsume",
+        "Shuichi Machida"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica (Thunb.) Lindl.) leaves are traditionally used to improve muscle weakness, but their effects on muscle protein synthesis require further research. Therefore, we aimed to investigate whether loquat leaf extract (LLE) enhances muscle contraction-induced activation of muscle protein synthesis signaling. Male Wistar rats (12 weeks old, n = 6/group) were categorized into water treatment (CON) and LLE treatment (LLE) groups. The rats were administered distilled water or LLE (1.5 g/kg/day) once a day by oral gavage for 7 days. On day 7, at 3 h post-LLE administration, the gastrocnemius muscle in the right leg of each rat was stimulated by electrical muscle stimulation (EMS) (100 Hz, 30 V) through five sets of 10 isometric contractions (7 s contraction, 3 s rest) with 3 min interset intervals. The rats were then sacrificed, and the gastrocnemius muscles of both legs were excised at 3 h post-EMS. The phosphorylation levels of mammalian target of rapamycin complex 1 (mTORC1) signaling pathway molecules (Akt, mTOR, and p70S6K) were determined by Western blotting. Regarding the muscle contraction-induced protein synthesis signaling pathway, Akt phosphorylation at Ser473 was not significantly different between the CON and LLE groups. mTOR phosphorylation at Ser2448 was increased by EMS but did not show a significant difference between the CON and LLE groups. p70S6K phosphorylation at Thr389 was significantly increased in response to EMS, whereas the LLE group showed significantly higher p70S6K phosphorylation at Thr389 than that in the CON group. This suggests that LLE enhances muscle contraction-induced activation of p70S6K phosphorylation in rat skeletal muscles."
+    },
+    {
+      "pmid": "35464619",
+      "title": "Phytochemical Analysis and Antifungal Potentiating Activity of Extracts from Loquat (Eriobotrya japonica) against Cryptococcus neoformans Clinical Isolates.",
+      "authors": [
+        "Borel Ndezo Bisso",
+        "Prudence Ngalula Kayoka-Kabongo",
+        "Roland Tchuenteu Tchuenguem",
+        "Jean Paul Dzoyem"
+      ],
+      "journal": "Advances in pharmacological and pharmaceutical sciences",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Eriobotrya japonica (loquat) has been used in African traditional medicine with numerous beneficial health effects. The extracts from loquat contain several bioactive compounds with a plethora of pharmacological properties. However, a scientific study on the activity against the aetiological agent of cryptococcosis has not yet been reported. Therefore, this study aimed to investigate the antifungal potential of various extracts from Eriobotrya japonica against clinical isolates of Cryptococcus neoformans. Quantitative and qualitative phytochemical analyses of extracts were made by following standard procedures. The broth microdilution method and the checkerboard methods were used to determine the antifungal activity and the combination of extracts with antifungals drugs. The methanol extract of seeds and the hexane extract of leaves exhibited the best significant antifungal activity with MIC values of 32 µg/mL. Furthermore, the combination of both extracts with nystatin and clotrimazole showed synergistic interactions with a 32-fold reduction in the MIC values of nystatin. Our findings indicate that Eriobotrya japonica extracts are a potential source of new antifungals that could be developed for use in the treatment of cryptococcosis. The anticryptococcal and antifungal activities potentiating activity of the studied extracts indicate their potential in the management of cryptococcosis. Further study should be considered to identify the bioactive principles against Cryptococcus neoformans."
+    },
+    {
+      "pmid": "35072186",
+      "title": "Sesquiterpene glycoside isolated from loquat leaf targets gut microbiota to prevent type 2 diabetes mellitus in db/db mice.",
+      "authors": [
+        "Ruoyun Wu",
+        "Lina Zhou",
+        "Yan Chen",
+        "Xiaoqin Ding",
+        "Yan Liu",
+        "Bei Tong",
+        "Han Lv",
+        "Xiuhua Meng",
+        "Jing Li",
+        "Tunyu Jian",
+        "Jian Chen"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2022-Feb-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "According to ancient records, loquat leaf has been used as both a food and medicine in China for thousands of years. Sesquiterpene glycosides from loquat leaf have achieved remarkable effects on hyperglycemia. However, their specific activities and underlying mechanisms on type 2 diabetes mellitus (T2DM) are not fully understood. In the present study, we found that SG1, a unique sesquiterpene glycoside isolated from loquat leaf, had the capability to prevent insulin resistance and inflammation. In db/db mice, SG1 administration (25 and 50 mg kg-1 day-1) inhibited hyperglycemia and the release of inflammatory cytokines. To further explore the possible role of gut microbiota in SG1 for treating T2DM, we applied 16S rRNA pyrosequencing based on the V3-V4 region to analyze the fecal samples of different groups. Alpha diversity analysis showed that SG1 administration could obviously increase diversity and richness in db/db mice. At the phylum level, due to SG1 treatment, the relative abundance of Firmicutes and Actinobacteria was lowered while that of Bacteroidetes was raised. Additionally, 7 key genera in the db/db mice with SG1 supplementation were enriched: Lactobacillus, Lachnospiraceae_NK4A136_group, and Ruminococcus, Bacteroides, Prevotellaceae_UCG-001, Alistipes, and Roseburia. These findings proved that SG1 could prevent T2DM by relieving insulin resistance and inflammation and by remodeling the gut microbiota in db/db mice.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Diabetes Mellitus, Type 2",
+        "Eriobotrya",
+        "Functional Food",
+        "Gastrointestinal Microbiome",
+        "Glycosides",
+        "Hypoglycemic Agents",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Inbred Strains",
+        "Plant Leaves",
+        "Sesquiterpenes"
+      ]
+    },
+    {
+      "pmid": "34783554",
+      "title": "Novel Sesquiterpene Glycoside from Loquat Leaf Alleviates Type 2 Diabetes Mellitus Combined with Nonalcoholic Fatty Liver Disease by Improving Insulin Resistance, Oxidative Stress, Inflammation, and Gut Microbiota Composition.",
+      "authors": [
+        "Jian Chen",
+        "Xiaoqin Ding",
+        "Ruoyun Wu",
+        "Bei Tong",
+        "Lei Zhao",
+        "Han Lv",
+        "Xiuhua Meng",
+        "Yan Liu",
+        "Bingru Ren",
+        "Jing Li",
+        "Tunyu Jian",
+        "Weilin Li"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2021-Dec-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nonalcoholic fatty liver disease (NAFLD) is strongly associated with type 2 diabetes mellitus (T2DM). Sesquiterpene glycosides from loquat leaf achieved beneficial effects on metabolic syndromes such as NAFLD and diabetes; however, their specific activity and underlying mechanism on T2DM-associated NAFLD have not yet been fully understood. In the present study, we found that sesquiterpene glycoside 3 (SG3), a novel sesquiterpene glycoside isolated from loquat leaf, was able to prevent insulin resistance (IR), oxidative stress, and inflammation. In db/db mice, SG3 administration (25 and 50 mg/kg/day) inhibited obesity, hyperglycemia, and the release of inflammatory cytokines. SG3 (5 and 10 μM) also significantly alleviated hepatic lipid accumulation, oxidative stress, and inflammatory response induced by high glucose combined with oleic acid in HepG2 cells. Western blotting analysis showed that these effects were related to repair the abnormal insulin signaling and inhibit the cytochrome P450 2E1 (CYP2E1) and NOD-like receptor family pyrin domain-containing 3 (NLRP3), both in vivo and in vitro. In addition, SG3 treatment could decrease the ratio of Firmicutes/Bacteroidetes and increase the relative abundance of Lachnospiraceae, Muribaculaceae, and Lactobacillaceae after a high-throughput pyrosequencing of 16S rRNA to observe the changes of related gut microbial composition in db/db mice. These findings proved that SG3 could protect against NAFLD in T2DM by improving IR, oxidative stress, inflammation through regulating insulin signaling and inhibiting CYP2E1/NLRP3 pathways, and remodeling the mouse gut microbiome. It is suggested that SG3 could be considered as a new functional additive for a healthy diet.",
+      "mesh_terms": [
+        "Animals",
+        "Diabetes Mellitus, Type 2",
+        "Gastrointestinal Microbiome",
+        "Glycosides",
+        "Inflammation",
+        "Insulin Resistance",
+        "Liver",
+        "Mice",
+        "Non-alcoholic Fatty Liver Disease",
+        "Oxidative Stress",
+        "RNA, Ribosomal, 16S",
+        "Sesquiterpenes"
+      ]
+    },
+    {
+      "pmid": "34745416",
+      "title": "Total Sesquiterpene Glycosides from Loquat Leaves Ameliorate HFD-Induced Insulin Resistance by Modulating IRS-1/GLUT4, TRPV1, and SIRT6/Nrf2 Signaling Pathways.",
+      "authors": [
+        "Ruoyun Wu",
+        "Tunyu Jian",
+        "Xiaoqin Ding",
+        "Han Lv",
+        "Xiuhua Meng",
+        "Bingru Ren",
+        "Jing Li",
+        "Jian Chen",
+        "Weilin Li"
+      ],
+      "journal": "Oxidative medicine and cellular longevity",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica Lindl.), a subtropical fruit tree native to Asia, is not only known to be nutritive but also beneficial for the treatment of diabetes in the south of China. To expand its development, this study was undertaken concerning the potential therapeutic role of total sesquiterpene glycosides (TSGs) from loquat leaves in insulin resistance (IR), the major causative factor of type 2 diabetes mellitus (T2DM). Male C57BL/6 mice were fed on high-fat diet (HFD) to induce IR and then were given TSG by oral administration at 25 and 100 mg/kg/day, respectively. TSG notably improved metabolic parameters including body weight, serum glucose, and insulin levels and prevented hepatic injury. Moreover, inflammatory response and oxidative stress were found to be remarkably alleviated in IR mice with TSG supplement. Further research in liver of IR mice demonstrated that TSG repaired the signalings of insulin receptor substrate-1 (IRS-1)/glucose transporter member 4 (GLUT4) and AMP-activated protein kinase (AMPK), which improved glucose and lipid metabolism and prevented lipid accumulation in liver. It was also observed that TSG suppressed the expression of transient receptor potential vanilloid 1 (TRPV1), whereas the signaling pathway of sirtuin-6 (SIRT6)/nuclear factor erythroid 2-related factor 2 (Nrf2) was significantly promoted. Based on the results, the current study demonstrated that TSG from loquat leaves potentially ameliorated IR in vivo by enhancing IRS-1/GLUT4 signaling and AMPK activation and modulating TRPV1 and SIRT6/Nrf2 signaling pathways.",
+      "mesh_terms": [
+        "Animals",
+        "Diet, High-Fat",
+        "Eriobotrya",
+        "Gene Expression Regulation",
+        "Glucose Transporter Type 4",
+        "Glycosides",
+        "Hyperglycemia",
+        "Hyperlipidemias",
+        "Insulin Receptor Substrate Proteins",
+        "Insulin Resistance",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "NF-E2-Related Factor 2",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Sesquiterpenes",
+        "Sirtuins",
+        "TRPV Cation Channels"
+      ]
+    },
+    {
+      "pmid": "34567066",
+      "title": "Gibberellin Induced Transcriptome Profiles Reveal Gene Regulation of Loquat Flowering.",
+      "authors": [
+        "Yuanyuan Jiang",
+        "Yicun Liu",
+        "Yongshun Gao",
+        "Jiangrong Peng",
+        "Wenbing Su",
+        "Yuan Yuan",
+        "Xianghui Yang",
+        "Chongbin Zhao",
+        "Man Wang",
+        "Shunquan Lin",
+        "Ze Peng",
+        "Fangfang Xie"
+      ],
+      "journal": "Frontiers in genetics",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Flowering is an integral part of the life cycle of flowering plants, which is essential for plant survival and crop production. Most woody fruit trees such as apples and pears bloom in spring, but loquat blooms in autumn and winter. Gibberellin (GA) plays a key role in the regulation of plant flower formation. In this study, we sprayed loquat plants with exogenous GA3, which resulted in vigorous vegetative growth rather than floral bud formation. We then performed a comprehensive RNA-seq analysis on GA3-treated and control-treated leaves and buds over three time periods to observe the effects of exogenous GA3 application on floral initiation and development. The results showed that 111 differentially expressed genes (DEGs) and 563 DEGs were down-regulated, and 151 DEGs and 506 DEGs were up-regulated in buds and leaves, respectively, upon treatment with GA3. Among those that are homologs of the DELLA-mediated GA signal pathway genes, some may be involved in the positive regulation of flower development, including EjWRKY75, EjFT, EjSOC1, EjAGL24, EjSPL, EjLFY, EjFUL, and EjAP1; while some may be involved in the negative regulation of flower development, including EjDELLA, EjMYC3, EjWRKY12, and EjWRKY13. Finally, by analyzing the co-expression of DEGs and key floral genes EjSOC1s, EjLFYs, EjFULs, EjAP1s, 330 candidate genes that may be involved in the regulation of loquat flowering were screened. These genes belong to 74 gene families, including Cyclin_C, Histone, Kinesin, Lipase_GDSL, MYB, P450, Pkinase, Tubulin, and ZF-HD_dimer gene families. These findings provide new insights into the regulation mechanism of loquat flowering."
+    },
+    {
+      "pmid": "34490318",
+      "title": "The Antifungal Activity of Loquat (Eriobotrya japonica Lindl.) Leaves Extract Against Penicillium digitatum.",
+      "authors": [
+        "Yuting Shen",
+        "Chuying Chen",
+        "Nan Cai",
+        "Ruopeng Yang",
+        "Jinyin Chen",
+        "İbrahim Kahramanoǧlu",
+        "Volkan Okatan",
+        "Kannan R R Rengasamy",
+        "Chunpeng Wan"
+      ],
+      "journal": "Frontiers in nutrition",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study was performed to determine the antifungal activity of loquat (Eriobotrya japonica Lindl) leaf extract (LLE) against the citrus postharvest pathogen Penicillium digitatum (P. digitatum). The LLE exhibited an antifungal activity against P. digitatum, with a minimum inhibitory concentration (MIC) of 0.625 mg/ml and a minimum fungicidal concentration (MFC) of 1.25 mg/ml. Significant inhibitory effects of LLE on mycelial growth and spore germination of P. digitatum were seen in a dose-dependent manner. Simultaneously, to investigate possible antifungal mechanisms by LLE, we analyzed their influence on morphological changes, cell membrane permeability, cell wall and cell membrane integrity, and adenosine phosphates (ATP, ADP, and AMP) levels. Alterations, such as sunken surface and malformation, occurred in the LLE-treated P. digitatum spores. Furthermore, intracellular inclusion content decreased after LLE treatment, indicating an increase in cell membrane permeability. Besides, the LLE treatment induced a significant decline in the level of adenosine monophosphate (AMP), adenosine diphosphate (ADP), and adenosine triphosphate (ATP) with a noticeable addition of extracellular ATP, ADP, and AMP during the entire treatment period. Overall, the results manifested that the antifungal activity of LLE against P. digitatum can be attributed to the derangement of cell membrane permeability and disordered energy metabolism. This is the first report on the mechanism of antifungal activity of LLE and could be useful in the development of targeted fungicides from natural origin."
+    },
+    {
+      "pmid": "34464718",
+      "title": "Physiological and transcriptomics analysis of the effect of recombinant serine protease on the preservation of loquat.",
+      "authors": [
+        "Fen Yan",
+        "Ting Cai",
+        "Yunyun Wu",
+        "Shuqiong Chen",
+        "Junying Chen"
+      ],
+      "journal": "Genomics",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study aimed to explore the effects of recombinant serine protease treatment on the development of post-harvest loquat diseases, fruit quality, and disease resistance enzyme activities. It also sought to analyze differential genes expression using RNA-seq technology. Transcriptomics analysis revealed 708 and 398 differentially expressed genes (DEGs) in loquat fruits treated with serine protease for 24 and 48 h. Furthermore, 2198 DEGs were obtained between 24 and 48 h after treatment. The genes encoding JAZ, MYC2 and ERF in the plant signal transduction pathway were significantly up-regulated. The resistance-related genes, such as PPO, PAL, TLP, WRKY, and transcription factors were also significantly up-regulated. These results indicated that the recombinant serine protease can induce plant signal transduction pathway in loquat fruit. The expression of some resistance-related genes enhanced the disease resistance of loquat fruit and revealed the molecular mechanism of loquat fruit resistance induced by recombinant serine protease.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Serine Proteases",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "34359530",
+      "title": "Effects of CaCl2 Treatment Alleviates Chilling Injury of Loquat Fruit (Eribotrya japonica) by Modulating ROS Homeostasis.",
+      "authors": [
+        "Yuanyuan Hou",
+        "Ziying Li",
+        "Yonghua Zheng",
+        "Peng Jin"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2021-Jul-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of calcium chloride (CaCl2) treatment on chilling injury (CI), reactive oxygen species (ROS) metabolism, and ascorbate-glutathione (AsA-GSH) cycle in loquat fruit at 1 °C storage for 35 d were investigated. The results indicated that CaCl2 treatment remarkably suppressed the increase in browning index and firmness as well as the decrease in extractable juice rate. CaCl2 treatment also decreased the production of superoxide radical (O2•-), hydrogen peroxide (H2O2) content, but increased the 1,1-diphenyl-2-picrylhydrazyl (DPPH), hydroxyl radical (OH•) scavenging ability, the activities of superoxide dismutase (SOD), catalase (CAT), and their gene expressions. Moreover, compared to the control loquat fruit, CaCl2-treated fruit maintained higher contents of AsA, GSH, higher levels of activities of ascorbate peroxidase (APX), glutathione reductase (GR), dehydroascorbate reductase (DHAR), and monodehydroascorbate reductase (MDHAR) and expressions of EjAPX, EjGR, EjMDHAR, and EjDHAR, but exhibited lower glutathione disulfide (GSSG) content. These results suggested that CaCl2 treatment alleviated CI in loquat fruit through enhancing antioxidant enzymes activities and AsA-GSH cycle system to quench ROS."
+    },
+    {
+      "pmid": "33540227",
+      "title": "Pentacyclic triterpene compounds from loquat leaves reduce skin inflammation and epidermal hyperplasia in psoriasis via inhibiting the Th17 cells.",
+      "authors": [
+        "Xuyan Tian",
+        "Lipeng Tang",
+        "Fengjiao Wei",
+        "Huanpeng Chen",
+        "Longxiang Sheng",
+        "Yuying Yang",
+        "Xiaoqing Zhou",
+        "Yongchao Li",
+        "Xiaoting Xu",
+        "Boyang Zhang",
+        "Zhonghua Liu",
+        "Yu Lei",
+        "Bolan Yu",
+        "Chuan Bai",
+        "Xixin He",
+        "Zhaofeng Huang"
+      ],
+      "journal": "Molecular immunology",
+      "publication_date": "2021-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Psoriasis is a refractory inflammatory skin disease affecting 2 %-3 % of the world population, characterized by the infiltration and hyper-proliferation of inflammatory cells and aberrant differentiation of keratinocytes. Targeting the IL-23/ Th17 axis has been well recognized as a promising therapeutic strategy, as the IL-23/ Th17 signal plays a vital role in the pathology of psoriasis. Three pentacyclic triterpene compounds isolated from loquat leaves have been reported with significant inhibitory effects on RORγt transcription activity and Th17 cell differentiation, and excellent performance in preventing lupus nephritis pathogenesis. However, the potential effects of these pentacyclic triterpene compounds on psoriasis remain unknown. In this study, we demonstrated the potent therapeutic effects of these pentacyclic triterpene compounds on psoriasis. These three pentacyclic triterpene compounds significantly alleviated skin inflammation as well as aberrant keratinocyte proliferation in an imiquimod-induced mouse psoriasis model. These compounds also inhibited the infiltration of immune cells and the level of pro-inflammatory cytokine in the dermis, as well as the cells number and changed the cytokine profiling expression of Th17 cells. These compounds could reduce the amount of CD4+ and CD8+ T cells in local lymph node, but not in spleen, which is different from hydrocortisone, the positive control treatment. These results suggest better performance of these compounds than steroids on treating psoriasis with less side effects on the integrated immune system. In summary, our findings uncover the potent therapeutic effects of pentacyclic triterpene compounds on psoriasis, providing potential candidate compounds for drug development.",
+      "mesh_terms": [
+        "Animals",
+        "CD4-Positive T-Lymphocytes",
+        "CD8-Positive T-Lymphocytes",
+        "Cell Line",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Epidermis",
+        "Eriobotrya",
+        "Humans",
+        "Hyperplasia",
+        "Imiquimod",
+        "Inflammation",
+        "Keratinocytes",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Molecular Docking Simulation",
+        "Pentacyclic Triterpenes",
+        "Plant Leaves",
+        "Psoriasis",
+        "Th17 Cells"
+      ]
+    },
+    {
+      "pmid": "33240683",
+      "title": "Four sesquiterpene glycosides from loquat (Eriobotrya japonica) leaf ameliorates palmitic acid-induced insulin resistance and lipid accumulation in HepG2 Cells via AMPK signaling pathway.",
+      "authors": [
+        "Jiawei Li",
+        "Xiaoqin Ding",
+        "Tunyu Jian",
+        "Han Lü",
+        "Lei Zhao",
+        "Jing Li",
+        "Yan Liu",
+        "Bingru Ren",
+        "Jian Chen"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Insulin resistance (IR), caused by impaired insulin signal and decreased insulin sensitivity, is generally responsible for the pathophysiology of type 2 diabetes mellitus (T2DM). Sesquiterpene glycosides (SGs), the exclusive natural products from loquat leaf, have been regarded as potential lead compounds owing to their high efficacy in hypoglycemia and hypolipidemia. Here, we evaluated the beneficial effects of four single SGs isolated from loquat leaf, including SG1, SG2, SG3 and one novel compound SG4 against palmitic acid-induced insulin resistance in HepG2 cells. SG1, SG3 and SG4 could significantly enhance glucose uptake of insulin-resistant HepG2 cells at non-cytotoxic concentration. Meanwhile, Oil Red O staining showed the decrease of both total cholesterol and triglyceride content, suggesting the amelioration of lipid accumulation by SGs in insulin-resistant HepG2 cells. Further investigations found that the expression levels of phosphorylated AMPK, ACC, IRS-1, and Akt were significantly up-regulated after SGs treatment, on the contrary, the expression levels of SREBP-1 and FAS were significantly down-regulated. Notably, AMPK inhibitor Compound C (CC) blocked the regulative effects, while AMPK activator AICAR mimicked the effects of SGs in PA-treated insulin-resistant HepG2 cells. In conclusion, SGs (SG4>SG1≈SG3>SG2) improved lipid accumulation in insulin-resistant HepG2 cells through the AMPK signaling pathway."
+    },
+    {
+      "pmid": "32904229",
+      "title": "Phytochemical screening, anti-oxidant activity and α-amylase inhibition study using different extracts of loquat (Eriobotrya japonica) leaves.",
+      "authors": [
+        "Lebogang Mogole",
+        "Wesley Omwoyo",
+        "Fanyana Mtunzi"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2020-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diabetes Mellitus is an endocrine disorder which causes insulin deficiency. Medicinal plants are documented to be efficacious in the management of the disease. The current research set to determine the phytochemicals present, anti-oxidant activity and investigate the potency of Eriobotrya japonica against α-amylase inhibition. The leaves of the plant were extracted sequentially. The different extracts were evaluated for the presence of phytochemicals and their potential anti-oxidant and α-amylase inhibition activity. Methanol with the highest polarity, gave the highest yield of 20% and hexane with the lowest polarity have the lowest yield of 2.09%. This trend resembled that observed for the total flavanoid and total phenolic content analysis which gave values of 0.3822 mg QAE/mg and 3.810 mg GAE/mg respectively for methanolic and hexane extracts. The extracts of methanol recorded higher DPPH free radical scavenging activity of 87% and gave the lowest IC50 of 0.5336 which was below that of ascorbic acid used as a control. Hexane extract had a higher α-amylase inhibitory activity of 24% at 1 μg/ml as compared to other extracts. Generally hexane extracts of Eriobotrya japonica exhibits mild inhibitory activity against α-amylase enzyme which is recommended than the conventional therapy which maximally inhibits the enzyme causing major side effects. The results obtained herein support the use of the plant as an anti-diabetic agent at higher concentrations."
+    },
+    {
+      "pmid": "32618500",
+      "title": "Quantification of amygdalin, prunasin, total cyanide and free cyanide in powdered loquat seeds.",
+      "authors": [
+        "Tomoya Tanaka",
+        "Keisuke Kimura",
+        "Kimiko Kan",
+        "Yoshiko Katori",
+        "Kumi Michishita",
+        "Hisako Nakano",
+        "Takeo Sasamoto"
+      ],
+      "journal": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "publication_date": "2020-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Amygdalin, prunasin, total cyanide and free cyanide concentrations in 12 powdered loquat seeds were investigated. Loquat (Eriobotrya japonica) is a species of flowering plant in the family Rosaceae, and its fruit is quite popular in Japan. Amygdalin and prunasin were measured using LC-MS/MS. Total cyanide was measured by enzymatic treatment, steam distillation and colorimetric quantification using the pyridine-pyrazolone method. Free cyanide was measured without enzymatic treatment. The mean concentrations of amygdalin, prunasin, total cyanide and free cyanide in powdered loquat seeds were 5900, 760, 410 and 44 mg/kg, respectively. The range of each quantitative value was extensive. Seven out of twelve samples were at risk for exceeding the acute reference dose (ARfD) of cyanide.",
+      "mesh_terms": [
+        "Amygdalin",
+        "Chromatography, Liquid",
+        "Cyanides",
+        "Eriobotrya",
+        "Nitriles",
+        "Powders",
+        "Seeds",
+        "Tandem Mass Spectrometry"
+      ]
+    },
+    {
+      "pmid": "32253400",
+      "title": "Flavonoids isolated from loquat (Eriobotrya japonica) leaves inhibit oxidative stress and inflammation induced by cigarette smoke in COPD mice: the role of TRPV1 signaling pathways.",
+      "authors": [
+        "Tunyu Jian",
+        "Jian Chen",
+        "Xiaoqin Ding",
+        "Han Lv",
+        "Jiawei Li",
+        "Yuexian Wu",
+        "Bingru Ren",
+        "Bei Tong",
+        "Yuanyuan Zuo",
+        "Kelei Su",
+        "Weilin Li"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2020-Apr-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is a chronic, progressive lung disease with few successful treatments, and is strongly associated with cigarette smoking (CS). Since the novel coronavirus has spread worldwide seriously, there is growing concern that patients who have chronic respiratory conditions like COPD can easily be infected and are more prone to having severe illness and even mortality because of lung dysfunction. Loquat leaves have long been used as an important material for both pharmaceutical and functional applications in the treatment of lung disease in Asia, especially in China and Japan. Total flavonoids (TF), the main active components derived from loquat leaves, showed remarkable anti-inflammatory and antioxidant activities. However, their protective activity against CS-induced COPD airway inflammation and oxidative stress and its underlying mechanism still remain not well-understood. The present study uses a CS-induced mouse model to estimate the morphological changes in lung tissue. The results demonstrated that TF suppressed the histological changes in the lungs of CS-challenged mice, as evidenced by reduced generation of pro-inflammatory cytokines including interleukin 6 (IL-6), IL-1β, tumor necrosis factor α (TNF-α), nitric oxide (NO), and inducible nitric oxide synthase (iNOS) and diminished the protein expression of transient receptor potential vanilloid 1 (TRPV1). Moreover, TF also inhibited phosphorylation of IKK, IκB and NFκB and increased p-Akt. Interestingly, TF could inhibit CS-induced oxidative stress in the lungs of COPD mice. TF treatment significantly inhibited the level of malondialdehyde (MDA) and increased the activity of superoxide dismutase (SOD). In addition, TF markedly downregulated TRPV1 and cytochrome P450 2E1 (CYP2E1) and upregulated the expression of SOD-2, while the p-JNK level was observed to be inhibited in COPD mice. Taken together, our findings showed that the protective effect and putative mechanism of the action of TF resulted in the inhibition of inflammation and oxidative stress through the regulation of TRPV1 and the related signal pathway in lung tissues. It suggested that TF derived from loquat leaves could be considered to be an alternative or a new functional material and used for the treatment of CS-induced COPD.",
+      "mesh_terms": [
+        "Animals",
+        "Cigarette Smoking",
+        "Cytochrome P-450 CYP2E1",
+        "Drugs, Chinese Herbal",
+        "Eriobotrya",
+        "Flavonoids",
+        "Humans",
+        "Interleukin-6",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oxidative Stress",
+        "Plant Leaves",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Signal Transduction",
+        "Smoke",
+        "Superoxide Dismutase",
+        "TRPV Cation Channels"
+      ]
+    },
+    {
+      "pmid": "32121228",
+      "title": "Triterpene Acids of Loquat Leaf Improve Inflammation in Cigarette Smoking Induced COPD by Regulating AMPK/Nrf2 and NFκB Pathways.",
+      "authors": [
+        "Tunyu Jian",
+        "Xiaoqin Ding",
+        "Jiawei Li",
+        "Yuexian Wu",
+        "Bingru Ren",
+        "Jing Li",
+        "Han Lv",
+        "Jian Chen",
+        "Weilin Li"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2020-Feb-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cigarette smoking (CS) is believed to be an important inducement in the pathological development of chronic obstructive pulmonary disease (COPD), a progressive lung disease. Loquat is an Asian evergreen tree commonly cultivated for its fruit. Its leaf has long been used as an important material for both functional and medicinal applications in the treatment of lung disease in China and Japan. As the principal functional components of loquat leaf, triterpene acids (TAs) have shown notable anti-inflammatory activity. However, their protective activity and underlying action of mechanism on CS-induced COPD inflammation are not yet well understood. In the present study, male C57BL/6 mice were challenged with CS for 12 weeks, and from the seventh week of CS exposure, mice were fed with TAs (50 and 100 mg/kg) for 6 weeks to figure out the therapeutic effect and molecular mechanism of TAs in CS-induced COPD inflammation. The results demonstrate that TA suppressed the lung histological changes in CS-exposed mice, as evidenced by the diminished generation of pro-inflammatory cytokines, including interleukin 1β (IL-1β), IL-2, IL-6, and tumor necrosis factor α (TNF-α). Moreover, TA treatment significantly inhibited the malondialdehyde (MDA) level and increased superoxide dismutase (SOD) activity. In addition, TAs increased the phosphorylation of AMP-activated protein kinase (AMPK) and nuclear factor erythroid-2-related factor-2 (Nrf2) expression level, while inhibiting phosphorylation of nuclear factor kappa B (NFκB) and inducible nitric oxide synthase (iNOS) expression in CS-induced COPD. In summary, our study reveals a protective effect and putative mechanism of TA action involving the inhibition of inflammation by regulating AMPK/Nrf2 and NFκB pathways. Our findings suggest that TAs could be considered as a promising functional material for treating CS-induced COPD.",
+      "mesh_terms": [
+        "AMP-Activated Protein Kinases",
+        "Animals",
+        "Body Weight",
+        "Cigarette Smoking",
+        "Cytokines",
+        "Eriobotrya",
+        "Inflammation",
+        "Inflammation Mediators",
+        "Lung",
+        "Male",
+        "Mice, Inbred C57BL",
+        "NF-E2-Related Factor 2",
+        "NF-kappa B",
+        "Nitric Oxide Synthase Type II",
+        "Oxidative Stress",
+        "Plant Leaves",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Signal Transduction",
+        "Triterpenes",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "32072171",
+      "title": "ETHYLENE RESPONSE FACTOR39-MYB8 complex regulates low-temperature-induced lignification of loquat fruit.",
+      "authors": [
+        "Jing Zhang",
+        "Xue-Ren Yin",
+        "Heng Li",
+        "Meng Xu",
+        "Meng-Xue Zhang",
+        "Shao-Jia Li",
+        "Xiao-Fen Liu",
+        "Yan-Na Shi",
+        "Donald Grierson",
+        "Kun-Song Chen"
+      ],
+      "journal": "Journal of experimental botany",
+      "publication_date": "2020-May-30",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Flesh lignification is a specific chilling response that causes deterioration in the quality of stored red-fleshed loquat fruit (Eribotrya japonica) and is one aspect of wider chilling injury. APETALA2/ETHLENE RESPONSIVE FACTOR (AP2/ERF) transcription factors are important regulators of plant low-temperature responses and lignin biosynthesis. In this study, the expression and action of 27 AP2/ERF genes from the red-fleshed loquat cultivar 'Luoyangqing' were investigated in order to identify transcription factors regulating low-temperature-induced lignification. EjERF27, EjERF30, EjERF36, and EjERF39 were significantly induced by storage at 0 °C but inhibited by a low-temperature conditioning treatment (pre-storage at 5 °C for 6 days before storage at 0 °C, which reduces low-temperature-induced lignification), and their transcript levels positively correlated with flesh lignification. A dual-luciferase assay indicated that EjERF39 could transactivate the promoter of the lignin biosynthetic gene Ej4CL1, and an electrophoretic mobility shift assay confirmed that EjERF39 recognizes the DRE element in the promoter region of Ej4CL1. Furthermore, the combination of EjERF39 and the previously characterized EjMYB8 synergistically transactivated the Ej4CL1 promoter, and both transcription factors showed expression patterns correlated with lignification in postharvest treatments and red-fleshed 'Luoyangqing' and white-fleshed 'Ninghaibai' cultivars with different lignification responses. Bimolecular fluorescence complementation and luciferase complementation imaging assays confirmed direct protein-protein interaction between EjERF39 and EjMYB8. These data indicate that EjERF39 is a novel cold-responsive transcriptional activator of Ej4CL1 that forms a synergistic activator complex with EjMYB8 and contributes to loquat fruit lignification at low temperatures.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Ethylenes",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "31902111",
+      "title": "Proteome analysis provides new insight into major proteins involved in gibberellin-induced fruit setting in triploid loquat (Eriobotrya japonica).",
+      "authors": [
+        "Shuang Jiang",
+        "Haishan An",
+        "Fangjie Xu",
+        "Xueying Zhang"
+      ],
+      "journal": "Genes & genomics",
+      "publication_date": "2020-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Parthenocarpy can be induced by gibberellin (GA) treatment in plants. The fruits of the loquat exhibit many seeds. GA treatment can induce the development of seedless fruit and increase fruit quality during production. However, the molecular mechanism of fruit setting under GA treatment is still unclear. OBJECTIVE: Our aim was to explore GA-induced parthenocarpy in triploid loquat by proteome analysis to identify the differentially expressed proteins. METHODS: A proteome analysis was performed using TMT protein labeling and LC-MS/MS in triploid loquat. RESULTS: A total of 7290 protein groups were identified in the two stages of fruit setting. The quantitative results showed that 923 differentially expressed proteins (DEPs) were isolated, which were enriched in five pathways: ribosome, citrate cycle (TCA cycle), pentose phosphate, carbon metabolism, and carbon fixation. Twenty-four DEPs were annotated as putative key regulatory proteins involved in fruit setting, which were related to the auxin response, gibberellin metabolism, ethylene synthesis, and cell division. In addition, thirty-five DEPs were involved in the formation of the cell wall, which might be downstream proteins involved in cell proliferation during fruit setting. CONCLUSION: Our report reveals new insight into the protein dynamics of loquat fruit setting induced by GA treatment via the analysis of proteome profiles and provides a reference for other Rosaceae species.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Gibberellins",
+        "Plant Proteins",
+        "Proteome",
+        "Seeds",
+        "Triploidy"
+      ]
+    },
+    {
+      "pmid": "31795780",
+      "title": "The Inhibitory Effects of Pentacyclic Triterpenes from Loquat Leaf against Th17 Differentiation.",
+      "authors": [
+        "Xiaoqing Zhou",
+        "Huanpeng Chen",
+        "Fengjiao Wei",
+        "Qingyu Zhao",
+        "Qiao Su",
+        "Yu Lei",
+        "Meng Yin",
+        "Xuyan Tian",
+        "Zhonghua Liu",
+        "Bolan Yu",
+        "Chuan Bai",
+        "Xixin He",
+        "Zhaofeng Huang"
+      ],
+      "journal": "Immunological investigations",
+      "publication_date": "2020-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Loquat leaf is an herb that is commonly used in traditional Chinese medicine (TCM) for its anti-inflammatory properties. Numerous studies have demonstrated that Th17 cells play a fundamental role in mediating SLE pathological deterioration. In our study, we investigated the inhibitory effect of pentacyclic triterpenes from loquat leaf on T helper 17 (Th17) cells and the therapeutic efficacy of OA in Lupus nephritis (LN) development. METHODS: We isolated three pentacyclic triterpene compounds rom loquat leaf by bioassay-directed fractionation and separation method. There were methyl corosolate (MC), uvaol (UL), and oleanolic acid (OA) Firstly, we elucidated Retinoic acid receptor-related orphan receptor gamma t (RORγt) inhibitory activity of these three compounds in the cell-based assay and Th17 differentiation in vitro assay. Then, we used OA-treated pristine-induced LN mice to evaluate the therapeutic effects of OA in LN development. Anti-dsDNA level in serum was detected by enzyme-linked immunosorbent assay (ELISA), interleukin 17A (IL-17A) and interferon-γ (IFN-γ) expression in spleen cells by Flow cytometry (FCM), histomorphologic examination of kidneys were performed by periodic acid schiff (PAS) staining and immunofluorescence analysis. RESULTS: Pentacyclic triterpene compounds (MC, UL, OA) displayed inhibition of RORγt activity in cell-based assay and Th17 differentiation in vitro. Furthermore, our results also showed that OA could significantly decrease serum anti-dsDNA antibody levels, IL-17A and IFN-γ expression and alleviate renal pathological damage in OA-treated group mice than in the model group mice. CONCLUSION: These results demonstrated that OA can improve the clinical manifestation of LN, indicating potential application in SLE therapy.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Cell Differentiation",
+        "Cell Line",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Eriobotrya",
+        "Female",
+        "Humans",
+        "Inflammation Mediators",
+        "Lupus Nephritis",
+        "Mice",
+        "Nuclear Receptor Subfamily 1, Group F, Member 3",
+        "Pentacyclic Triterpenes",
+        "Plant Leaves",
+        "Th17 Cells",
+        "Transcription, Genetic"
+      ]
+    },
+    {
+      "pmid": "31312364",
+      "title": "Loquat leaf polysaccharides improve glomerular injury in rats with anti-Thy 1 nephritis via peroxisome proliferator-activated receptor alpha pathway.",
+      "authors": [
+        "Ting Lu",
+        "Zhimin Fan",
+        "Jianhao Hou",
+        "Xiaohong Qi",
+        "Mengjie Guo",
+        "Jianming Ju",
+        "Ye Yang",
+        "Chunyan Gu"
+      ],
+      "journal": "American journal of translational research",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chronic glomerulonephritis frequently develops into renal failure that cannot be completely cured. Based on the success of anti-inflammatory Chinese herbs in treating chronic nephritis, our goal was to investigate the therapeutic effects and mechanism of action of loquat leaf polysaccharides (LLPS) on chronic anti-Thy-1 nephritis. A rat model of glomerulonephritis was used to study the effects of 8 weeks of enalapril or LLPS treatment. Twenty-four-hour rat urinary protein excretions were measured every week for 8 weeks. Then, all animals were sacrificed, renal-related biochemical parameters were analyzed, and histology and electron microscopy examinations of renal tissue samples were conducted. Renal cortex tissue was used to detect markers of renal fibrosis. RNA sequencing (RNA-seq) and in vitro experiments explored the signaling pathway involved in LLPS treatment effects. Compared with the disease control group, LLPS treatment significantly decreased the levels of serum creatinine and blood urea nitrogen, reduced urinary protein excretion, glomerular mesangial cell proliferation, and extracellular matrix hyperplasia, and attenuated the expression of proteins associated with podocyte injury and renal fibrosis. RNA-seq results showed that peroxisome proliferator-activated receptor (PPAR) is a potential signaling pathway involved in LLPS treatment of chronic glomerulonephritis. Increases in PPARα and plasminogen activator inhibitor-1 (PAI-1) caused by glomerulonephritis were inhibited by LLPS in vitro. Furthermore, when an agonist of PPARα (BMS-687453) was used to stimulate PPARα activity, LLPS treatment suppressed the expression of fibrosis factor PAI-1 partially via PPARα inhibition. These findings demonstrate that LLPS improved glomerular injury in rats with anti-Thy 1 nephritis via the PPARα pathway."
+    },
+    {
+      "pmid": "31178876",
+      "title": "Metabolic Dynamics During Loquat Fruit Ripening and Postharvest Technologies.",
+      "authors": [
+        "Jianghua Cai",
+        "Tong Chen",
+        "Zhanquan Zhang",
+        "Boqiang Li",
+        "Guozheng Qin",
+        "Shiping Tian"
+      ],
+      "journal": "Frontiers in plant science",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Loquat is an important fruit widely cultivated worldwide with high commercial value. During loquat fruit development, ripening, and storage, many important metabolites undergo dramatic changes, resulting in accumulation of a diverse mixture of nutrients. Given the value of loquat fruit, significant progresses have been achieved in understanding the metabolic changes during fruit ripening and storage, as well as postharvest technologies applied in loquat fruit in recent years. The objective of the present review is to summarize currently available knowledge and provide new references for improving loquat fruit quality."
+    },
+    {
+      "pmid": "31128186",
+      "title": "Physicochemical characteristics and biological activities of polysaccharides from the leaves of different loquat (Eriobotrya japonica) cultivars.",
+      "authors": [
+        "Yuan Fu",
+        "Qin Yuan",
+        "Shang Lin",
+        "Wen Liu",
+        "Gang Du",
+        "Li Zhao",
+        "Qing Zhang",
+        "De-Rong Lin",
+        "Yun-Tao Liu",
+        "Wen Qin",
+        "De-Qiang Li",
+        "Ding-Tao Wu"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2019-Aug-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In order to explore polysaccharides from loquat leaves (LLPs) as functional food ingredients for prevention and treatment of obesity and type 2 diabetes, the physicochemical characteristics, in vitro binding properties, and inhibitory effects on α-amylase and α-glucosidase of polysaccharides from the leaves of different loquat cultivars, including 'Baiyu', 'Chuannong8', 'Yuanbao', and 'Dawuxing', were investigated and compared. Results showed that the contents of total uronic acids and degree of esterification in LLPs ranged from (27.04 ± 1.76)% to (41.46 ± 1.91)%, and from (20.54 ± 0.11)% to (26.90 ± 0.10)%, respectively. The weight-average molecular weights of LLPs ranged from 4.307 × 106 Da to 5.101 × 106 Da, and the major constituent monosaccharides of LLPs were rhamnose, galacturonic acid, arabinose, and galactose. Furthermore, LLPs exerted strong in vitro fat binding, cholesterol binding, and bile acid binding capacities, as well as remarkable inhibitory effects on α-amylase and α-glucosidase, which might be attributed to their molecular weights, molecular weight distributions, and degree of esterification. Results are helpful for better understanding of chemical structures and bioactivities of polysaccharides from loquat leaves, and LLPs had good potential to be explored as functional food ingredients for prevention and treatment of obesity and type 2 diabetes.",
+      "mesh_terms": [
+        "Chemical Phenomena",
+        "Eriobotrya",
+        "Glycoside Hydrolase Inhibitors",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Polysaccharides",
+        "alpha-Amylases",
+        "alpha-Glucosidases"
+      ]
+    },
+    {
+      "pmid": "31059995",
+      "title": "Ternary complex EjbHLH1-EjMYB2-EjAP2-1 retards low temperature-induced flesh lignification in loquat fruit.",
+      "authors": [
+        "Meng Xu",
+        "Shao-Jia Li",
+        "Xiao-Fen Liu",
+        "Xue-Ren Yin",
+        "Donald Grierson",
+        "Kun-Song Chen"
+      ],
+      "journal": "Plant physiology and biochemistry : PPB",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Many transcription factors (TFs), including NACs and MYBs, are involved in regulation of lignin biosynthesis during plant development and in responses to biotic and abiotic stresses. The lignin biosynthesis gene Ej4CL1 has been identified as a target for cold-induced TFs. We isolated a bHLH gene from loquat, EjbHLH1, the expression of which was negatively correlated with cold-induced fruit lignification. During low temperature storage (0 °C), EjbHLH1 transcripts were stable but accumulated during low-temperature conditioning (LTC) treatment, an acclimation process that reduces lignification during subsequent storage at 0 °C. Dual luciferase assays showed EjbHLH1 could repress Ej4CL1 promoter, but yeast one hybrid assay indicated EjbHLH1 is not able to bind to the Ej4CL1 promoter. Bimolecular fluorescence complementation (BIFC) indicated that EjbHLH1 could interact with EjAP2-1 and EjMYB2, two previously characterized fruit lignification related transcription factors and firefly luciferase complementation imaging assay indicated EjbHLH1, EjMYB2 and EjAP2-1 could form a ternary complex which enhanced repression of transcription from the Ej4CL1 promoter, reducing lignification at 0 °C.",
+      "mesh_terms": [
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Temperature",
+        "Transcription Factors"
+      ]
+    },
+    {
+      "pmid": "30998337",
+      "title": "EjHAT1 Participates in Heat Alleviation of Loquat Fruit Lignification by Suppressing the Promoter Activity of Key Lignin Monomer Synthesis Gene EjCAD5.",
+      "authors": [
+        "Meng Xu",
+        "Meng-Xue Zhang",
+        "Yan-Na Shi",
+        "Xiao-Fen Liu",
+        "Xian Li",
+        "Donald Grierson",
+        "Kun-Song Chen"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2019-May-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Texture attributes such as firmness and lignification are important for fruit quality. Lignification has been widely studied in model plants and energy crops, but fruit lignification has rarely been investigated, despite having an adverse effect on fruit quality and consumer preference. Chilling-induced loquat fruit lignification that occurs after harvest can be alleviated by heat treatment (HT) applied prior to low temperature storage. Enzyme activity assay showed that HT treatment could retard the low temperature-induced increase in cinnamyl alcohol dehydrogenase (CAD) activity. Transcript analysis and substrate activity assays of recombinant CAD proteins highlighted the key role of EjCAD5 in chilling-induced lignin biosynthesis. A novel homeobox-leucine zipper protein ( EjHAT1) was identified as a negative regulator of EjCAD5. Therefore, the effect of HT treatment on lignification may be partially due to the suppression of the EjCAD5 promoter activity by EjHAT1.",
+      "mesh_terms": [
+        "Alcohol Oxidoreductases",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Histone Acetyltransferases",
+        "Hot Temperature",
+        "Lignin",
+        "Plant Proteins",
+        "Promoter Regions, Genetic"
+      ]
+    },
+    {
+      "pmid": "30962941",
+      "title": "Transcriptome analysis provides insights into the regulation of metabolic processes during postharvest cold storage of loquat (Eriobotrya japonica) fruit.",
+      "authors": [
+        "Wenli Liu",
+        "Jing Zhang",
+        "Chen Jiao",
+        "Xueren Yin",
+        "Zhangjun Fei",
+        "Qingbiao Wu",
+        "Kunsong Chen"
+      ],
+      "journal": "Horticulture research",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica) fruit accumulates lignin during postharvest storage under chilling conditions (0 °C), while low-temperature conditioning (LTC; 5 °C for 6 days followed by transfer to 0 °C) or heat treatment (HT; 40 °C for 4 h followed by transfer to 0 °C) can alleviate lignification. Here we compared transcriptome profiles of loquat fruit samples under LTC or HT to those stored at 0 °C at five time points from day 1 to day 8 after treatment. High-throughput transcriptome sequences were de novo assembled into 53,319 unique transcripts with an N50 length of 1306 bp. A total of 2235 differentially expressed genes were identified in LTC, and 1020 were identified in HT compared to 0 °C. Key genes in the lignin biosynthetic pathway, including EjPAL2, EjCAD1, EjCAD3, 4CL, COMT, and HCT, were responsive to LTC or HT treatment, but they showed different expression patterns during the treatments, indicating that different structural genes could regulate lignification at different treatment stages. Coexpression network analysis showed that these candidate biosynthetic genes were associated with a number of transcription factors, including those belonging to the AP2, MYB, and NAC families. Gene ontology (GO) enrichment analysis of differentially expressed genes indicated that biological processes such as stress responses, cell wall and lignin metabolism, hormone metabolism, and metal ion transport were significantly affected under LTC or HT treatment when compared to 0 °C. Our analyses provide insights into transcriptome responses to postharvest treatments in loquat fruit."
+    },
+    {
+      "pmid": "30827108",
+      "title": "Ursolic Acid Isolated from the Leaves of Loquat ( Eriobotrya japonica) Inhibited Osteoclast Differentiation through Targeting Exportin 5.",
+      "authors": [
+        "Hui Tan",
+        "Chong Zhao",
+        "Qinchang Zhu",
+        "Yoshinori Katakura",
+        "Hiroyuki Tanaka",
+        "Koichiro Ohnuki",
+        "Kuniyoshi Shimizu"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2019-Mar-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "One of the conventional strategies for treating osteoporosis is to eliminate the multinucleated osteoclasts that are responsible for bone resorption. Our previous study revealed that ursolic acid, isolated from leaves of loquat that is used as tasty tea in Japan, suppressed osteoclastogenesis. We confirmed that ursolic acid exhibited osteoclast differentiation inhibitory activity with an 50% inhibitory concentration (IC50) value of 5.4 ± 0.96 μM. To disclose its mechanism of action, this study first uses polymer-coated magnetic nanobeads to identify potential target proteins. As a result, we identified a nuclear exporter protein named exportin 5 (XPO5). Further studies demonstrated that knockdown of XPO5 significantly blocks osteoclast differentiation ( P < 0.01). Expression profiling of mature microRNAs in the cells revealed that downregulation of XPO5 by small interfering RNA or by ursolic acid could downregulate the expression of mature microRNA let-7g-5p during osteoclast differentiation ( P < 0.01). Collectively, our findings suggest that ursolic acid inhibits osteoclast differentiation through targeting XPO5, which provides further evidence for the healthy function of the tea. This study also provides new insights into the role of XPO5 and its mediated microRNAs in treatment for bone resorption diseases.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Line",
+        "Down-Regulation",
+        "Eriobotrya",
+        "Karyopherins",
+        "Mice",
+        "Osteoclasts",
+        "Osteogenesis",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Triterpenes",
+        "Ursolic Acid"
+      ]
+    },
+    {
+      "pmid": "33405835",
+      "title": "Loquat-Inspired Janus Drug Delivery System for Flexible and Robust Tumor Targeting Therapy.",
+      "authors": [
+        "Yu Liu",
+        "Chaochao Wei",
+        "Long Huang",
+        "Weizhu Liu",
+        "Jiaqi Lin",
+        "Leifeng Chen",
+        "Yalan Yang",
+        "Ping Hu",
+        "Anwen Liu",
+        "Xiaolei Wang"
+      ],
+      "journal": "ACS biomaterials science & engineering",
+      "publication_date": "2019-Feb-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "With the inspiration of the shape of the loquat fruit, here, we developed a similarly shaped Janus carrier. This peculiar gold rod-partially exposed structure not only significantly increased the drug loading capability but also improved its infrared response efficiency. A better effect of drug-photothermal treatment thus could be realized. With the aid of an external 3D printed drug guiding device, this carrier could accurately reach different affected areas. The subsequent infrared triggered multiple tumor therapy, thus, could be conducted in the designated location. The corresponding experimental results demonstrated the reliability, flexibility, and biocompatibility of the proposed drug delivery system for two different tumor targeting treatments."
+    },
+    {
+      "pmid": "30275422",
+      "title": "Hepatoprotective Effect of Loquat Leaf Flavonoids in PM2.5-Induced Non-Alcoholic Fatty Liver Disease via Regulation of IRs-1/Akt and CYP2E1/JNK Pathways.",
+      "authors": [
+        "Tunyu Jian",
+        "Xiaoqin Ding",
+        "Yuexian Wu",
+        "Bingru Ren",
+        "Weilin Li",
+        "Han Lv",
+        "Jian Chen"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2018-Oct-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ambient air particulate matter (PM) represents a class of heterogeneous substances present in polluted air, which contains many harmful components. Exposure to ambient particulate matter in fine rages (PM2.5) is associated with non-alcoholic fatty liver disease (NAFLD). Loquat Leaf possesses pharmacological actions on NAFLD. As the main biological active ingredients, the potential therapeutic role of total flavonoids (TF) isolated from Loquat Leaf in PM2.5-induced NAFLD model remains unclear. The present study was designed to explore the hepatoprotective effect of TF in PM2.5-induced NAFLD mice with its related mechanisms of action. Mice were exposed to PM2.5 to induce NAFLD, and body weight, the ratio of liver to body weight, and blood lipids increased significantly compared with the control group. It was found that TF significantly reduced the above parameters in PM2.5-induced NAFLD mice. TF treatment alleviated oxidative stress by preventing the accumulation of oxidative product malondialdehyde (MDA) and by strengthening the anti-oxidative capacity of superoxide dismutase (SOD). TF was also found to reduce the alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activity in the PM2.5 group. In addition, TF repaired the PM2.5-induced decline of insulin receptor substrate-1 (IRs-1) and protein kinase B (Akt) phosphorylation. Meanwhile, the data showed TF suppressed the expression of cytochrome P450 2E1(CYP2E1) and the phosphorylation of c-jun N-terminal kinase (JNK) in PM2.5-induced NAFLD. Taken together, these findings show that TF alleviate PM2.5-induced NAFLD via regulation of IRs-1/Akt and CYP2E1/JNK pathways, which may have potential for further development as novel therapeutic agents for NAFLD.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Cytochrome P-450 CYP2E1",
+        "Eriobotrya",
+        "Flavonoids",
+        "Insulin Receptor Substrate Proteins",
+        "Insulin Resistance",
+        "JNK Mitogen-Activated Protein Kinases",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred ICR",
+        "Models, Biological",
+        "Non-alcoholic Fatty Liver Disease",
+        "Organ Size",
+        "Oxidative Stress",
+        "Particulate Matter",
+        "Plant Leaves",
+        "Protective Agents",
+        "Proto-Oncogene Proteins c-akt",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "30017739",
+      "title": "Integrating proteomic and transcriptomic analyses of loquat (Eriobotrya japonica Lindl.) in response to cold stress.",
+      "authors": [
+        "Xiaoming Lou",
+        "Huakun Wang",
+        "Xiaopeng Ni",
+        "Zhihong Gao",
+        "Shahid Iqbal"
+      ],
+      "journal": "Gene",
+      "publication_date": "2018-Nov-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The expression levels of many genes and the related proteins change and regulate physiological and metabolic processes that help the plant survive harsh environmental conditions under cold stress. Damage due to cold and freezing conditions often causes dynamic loss of loquat fruits in cultivated parts of northern China. To illustrate the mechanism of cold tolerance in the loquat, we combined the transcriptomic analysis with isobaric tags for relative and absolute quantification (iTRAQ) and RNA sequencing (RNA-Seq) data from loquat leaves under 4 °C treatment. The results showed 122,081 genes and 1210 differentially expressed genes (DEGs), while only 4582 proteins and 300 differential proteins (DEPs) were identified. Functional annotation and Kyoto Encyclopaedia of Genes and Genomes (KEGG) pathway analysis indicated that metabolic pathways and biosynthesis of secondary metabolites were the two most common pathways in transcriptional and translational processes in this study. Comparison analysis of the transcriptomic and proteomic profiles, only 27 of 3620 genes were found to be shared both in DEGs and DEPs. Further validation with Real-Time Quantitative RT-PCR analysis showed that the genes expression of NADP-dependent D-sorbitol-6-phosphate dehydrogenase, anthocyanin synthase and phenylalanine ammonia-lyase were consistent with the pattern of transcriptome profile, which suggested that these three genes might play vital roles in cold tolerance in loquat.",
+      "mesh_terms": [
+        "China",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Freezing",
+        "Fruit",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "High-Throughput Nucleotide Sequencing",
+        "Metabolic Networks and Pathways",
+        "Plant Leaves",
+        "Proteome",
+        "Proteomics",
+        "Sequence Analysis, RNA",
+        "Stress, Physiological",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "29474562",
+      "title": "Evaluation of Low-Temperature Phosphine Fumigation for Control of Oriental Fruit Fly in Loquat Fruit.",
+      "authors": [
+        "Tao Liu",
+        "Li Li",
+        "Baishu Li",
+        "Guoping Zhan",
+        "Yuejin Wang"
+      ],
+      "journal": "Journal of economic entomology",
+      "publication_date": "2018-May-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Oriental fruit fly, Bactrocera dorsalis (Hendel; Diptera: Tephritidae), is recognized as a quarantine pest and a threat to Chinese loquat (Eriobotrya japonica Lindl.) fruit exports. Since loquat fruit is very sensitive to methyl bromide (MB) fumigation and cold treatment, in this study, low-temperature phosphine (PH3) fumigation was investigated to develop an alternative phytosanitary treatment method. Tolerance tests showed that the third instar was the most tolerant of all life stages of B dorsalis to PH3 gas at 8°C. Toxicity assay with 500-3000 ppm PH3 and subsequent probit analysis showed that 2000 ppm PH3 was optimal for fumigation and 152.75 h of treatment duration were required to achieve 99.9968% mortality. In the verification test, 144 and 168 h of treatment duration with 2000 ppm PH3 completely killed 35,277 and 35,134 B. dorsalis third instars, respectively. However, 13 live larvae were found after 120 h of treatment. Furthermore, these treatments reduced fruit respiration rates while causing no adverse effects on other fruit quality parameters, including firmness, soluble solid content, and titratable acidity over 192 h storage at 8°C. The results strongly suggest that low-temperature PH3 fumigation could be used for the postharvest control of B. dorsalis in loquat fruit.",
+      "mesh_terms": [
+        "Animals",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Fumigation",
+        "Insect Control",
+        "Insecticides",
+        "Larva",
+        "Phosphines",
+        "Tephritidae"
+      ]
+    },
+    {
+      "pmid": "29136950",
+      "title": "A novel sesquiterpene glycoside from Loquat leaf alleviates oleic acid-induced steatosis and oxidative stress in HepG2 cells.",
+      "authors": [
+        "Tunyu Jian",
+        "Yuexian Wu",
+        "Xiaoqin Ding",
+        "Han Lv",
+        "Li Ma",
+        "Yuanyuan Zuo",
+        "Bingru Ren",
+        "Lei Zhao",
+        "Bei Tong",
+        "Jian Chen",
+        "Weilin Li"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2018-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica) leaf has displayed beneficial effect on metabolic syndrome. In our previously study, total sesquiterpene glycosides (TSG) isolated from Loquat leaf exhibited therapeutic effect on Non-alcoholic fatty liver disease (NAFLD) in vivo, but the accurate active compound remains unknown. Sesquiterpene glycoside 1 (SG1) is a novel compound, which is exclusively isolated from Loquat leaf, but its biological activity has been rarely reported. The present study was designed to evaluate the pharmacological effect of SG1, the main component of TSG, in oleic acid (OA)-induced HepG2 cell model of NAFLD with its related mechanisms of action. In this study, both SG1 and TSG were found to signiﬁcantly reduce the lipid deposition in the cell model. They could also decrease total cholesterol (TC), triglyceride (TG) and intracellular free fatty acid (FFA) contents. Compared with OA-treated cells, the superoxide dismutase (SOD) level increased, and the malondialdehyde (MDA) and 4-hydroxynonenal levels respectively decreased after the administration of SG1 or TSG. The high dose of SG1 (140 μg/mL) displayed a similar therapeutic effect as TSG at 200 μg/mL. Both SG1 and TSG were found to suppress the expression of cytochrome P450 2E1 (CYP2E1) and the phosphorylation of c-jun terminal kinase (JNK) and its downstream target c-Jun in OA-treated cell. These results demonstrate again that TSG are probably the main responsible chemical profiles of Loquat leaf for the treatment of NAFLD, for which it can effectively improve OA-induced steatosis and reduce oxidative stress, probably by downregulating of CYP2E1 expression and JNK/c-Jun phosphorylation, while SG1 may be the principle compound.",
+      "mesh_terms": [
+        "Cholesterol",
+        "Cytochrome P-450 CYP2E1",
+        "Dose-Response Relationship, Drug",
+        "Down-Regulation",
+        "Eriobotrya",
+        "Fatty Acids, Nonesterified",
+        "Glycosides",
+        "Hep G2 Cells",
+        "Humans",
+        "Malondialdehyde",
+        "Non-alcoholic Fatty Liver Disease",
+        "Oleic Acid",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Sesquiterpenes",
+        "Superoxide Dismutase",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "28992345",
+      "title": "EjNAC3 transcriptionally regulates chilling-induced lignification of loquat fruit via physical interaction with an atypical CAD-like gene.",
+      "authors": [
+        "Hang Ge",
+        "Jing Zhang",
+        "Yi-Jin Zhang",
+        "Xian Li",
+        "Xue-Ren Yin",
+        "Donald Grierson",
+        "Kun-Song Chen"
+      ],
+      "journal": "Journal of experimental botany",
+      "publication_date": "2017-Nov-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Lignin is an important component of many plant secondary cell walls. In the fruit of loquat (Eriobotrya japonica), lignification of cell walls in the fleshy tissue occurs when fruit are subjected to low-temperature storage, which is commonly used to avoid the rapid senescence that occurs at room temperature. In this study, two NAC domain genes, EjNAC3 and EjNAC4, were isolated and shown to be significantly induced at 0 °C, which was concomitant with an increase in the fruit lignification index. Lignification and expression of both EjNAC3 and EjNAC4 were inhibited by low-temperature conditioning and by heat treatment. In addition, EjNAC3 trans-activated the lignin biosynthesis-related EjCAD-like promoter, which was measured using a dual-luciferase assay. Further analysis with yeast one-hybrid and electrophoretic mobility shift assays indicated that EjNAC3 could physically bind to the promoter of the EjCAD-like gene. Thus, EjNAC3 is a direct regulator of loquat chilling-induced lignification, via regulations of EjCAD-like.",
+      "mesh_terms": [
+        "Cell Wall",
+        "Cold Temperature",
+        "Electrophoretic Mobility Shift Assay",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Gene Regulatory Networks",
+        "Genes, Reporter",
+        "Lignin",
+        "Phylogeny",
+        "Plant Proteins",
+        "Promoter Regions, Genetic",
+        "Transcription Factors",
+        "Two-Hybrid System Techniques"
+      ]
+    },
+    {
+      "pmid": "28492484",
+      "title": "The Potential of Triterpenoids from Loquat Leaves (Eriobotrya japonica) for Prevention and Treatment of Skin Disorder.",
+      "authors": [
+        "Hui Tan",
+        "Tamrakar Sonam",
+        "Kuniyoshi Shimizu"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2017-May-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The leaves of loquat (Eriobotrya japonica) possess high medicinal value and have been used as traditional medicines. However, there are no evidence-based studies on the skin-care effects of E. japonica leaves. To explore new biological activities of E. japonica leaves against skin disorder and to gain a better understanding of the chemical components associated with bioactivities, we evaluated 18 triterpenoids from E. japonica leaves on anti-melanogenesis, anti-acne, anti-allergy and anti-aging activities. Our results revealed that eight compounds showed anti-melanogenesis activity, of which ursolic acid (1) and maslinic acid (7) were the most potent with the similar selective index to that of arbutin. Structure-activity relationship and possible mechanism of active compounds were proposed. Twelve compounds exhibited anti-acne effect; ursolic acid (1), maslinic acid (7), corosolic acid (8) and euscaphic acid (12) showed highest activities against P. acnes. Four compounds displayed anti-allergy and anti-inflammatory activity; 3-epicorosolic acid (9) and euscaphic acid (12) showed marked activity against β-hexosaminidase release. Finally, ursolic acid (1), pomolic acid (10), colosolic acid (8) and its methylated derivative (6) exhibited the highest anti-aging activity by stimulating collagen and hyaluronic acid (HA) production. Our findings provide valuable evidence that E. japonica leaves have potential applications as ingredients of function foods or cosmetics for health benefits and a number of triterpenoids may play an important role in these bioactivities.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Collagen",
+        "Dose-Response Relationship, Drug",
+        "Eriobotrya",
+        "Humans",
+        "Hyaluronic Acid",
+        "Inhibitory Concentration 50",
+        "Melanins",
+        "Mice",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Skin Aging",
+        "Skin Diseases",
+        "Triterpenes",
+        "beta-N-Acetylhexosaminidases"
+      ]
+    },
+    {
+      "pmid": "28458161",
+      "title": "Total sesquiterpene glycosides from Loquat (Eriobotrya japonica) leaf alleviate high-fat diet induced non-alcoholic fatty liver disease through cytochrome P450 2E1 inhibition.",
+      "authors": [
+        "Tunyu Jian",
+        "Xiancan Ao",
+        "YueXian Wu",
+        "Han Lv",
+        "Li Ma",
+        "Lei Zhao",
+        "Bei Tong",
+        "Bingru Ren",
+        "Jian Chen",
+        "Weilin Li"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2017-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Non-alcoholic fatty liver disease (NAFLD) is a chronic liver disease characterized by hepatic steatosis, which affects 20-40% of the population in the world. Loquat (Eriobotrya japonica) Leaf possesses several pharmacological actions. Many sesquiterpene glycosides were reported to be isolated exclusively from the Loquat Leaf, however, their biological activity has been rarely investigated. The present study was designed to evaluate the pharmacological effect of total sesquiterpene glycosides (TSG) in high-fat diet (HFD) induced NAFLD mice with its related mechanisms of action. Mice were fed with a normal diet or HFD for 8 weeks. TSG (25 and 100mg/kg/day), simvastatin (10mg/kg/day) or vehicle were orally administered for last 4 weeks of the 8-week HFD feeding period. From the result, it was showed that TSG significantly reduced the body weight and fat deposition in the liver of NAFLD mice. It also decreased total cholesterol (TC) and triglyceride (TG) contents in the serum. Compared with NAFLD mice, superoxide dismutase (SOD) and malondialdehyde (MDA) levels were increased and decreased after the administration of TSG in a dose of 100mg/kg, respectively. TSG reduced alanine aminotransferase (ALT) activity as well. Finally, TSG was found to suppress the expression of cytochrome P450 2E1 (CYP2E1) and the phosphorylation of c-jun terminal kinase (JNK) in NAFLD mice. In summary, this study demonstrates that TSG reduces oxidative stress by downregulating of CYP2E1 expression and JNK phosphorylation in NAFLD, and alleviates NAFLD ultimately. TSG potentially serves as bioactive compounds for the treatment of NAFLD.",
+      "mesh_terms": [
+        "Animals",
+        "Body Weight",
+        "Chromatography, High Pressure Liquid",
+        "Cytochrome P-450 CYP2E1",
+        "Cytochrome P-450 CYP2E1 Inhibitors",
+        "Diet, High-Fat",
+        "Eriobotrya",
+        "Glycosides",
+        "JNK Mitogen-Activated Protein Kinases",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Mice, Inbred ICR",
+        "Non-alcoholic Fatty Liver Disease",
+        "Organ Size",
+        "Oxidative Stress",
+        "Plant Leaves",
+        "Sesquiterpenes",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "28411320",
+      "title": "Addition of straw from hyperaccumulator plants to cadmium-contaminated soil increases cadmium uptake by loquat seedlings.",
+      "authors": [
+        "Lijin Lin",
+        "Ming'an Liao",
+        "Xiulan Lv",
+        "Dong Liang",
+        "Hui Xia",
+        "Jin Wang",
+        "Xun Wang"
+      ],
+      "journal": "Environmental monitoring and assessment",
+      "publication_date": "2017-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The straw from three different cadmium (Cd) hyperaccumulators (Galinsoga parviflora, Youngia erythrocarpa, and Solanum photeinocarpum) was added to Cd-contaminated soil, and its effects on plant growth and Cd accumulation in loquat seedlings were evaluated. Straw from each of G. parviflora, Y. erythrocarpa, and S. photeinocarpum was added to Cd-contaminated soil before planting seedlings of two varieties of loquat (Dawuxing and Chuanzao). Addition of straw from G. parviflora and S. photeinocarpum increased the root and shoot biomasses of both loquat varieties, compared with that in the control. Addition of straw also increased Cd uptake by loquat seedlings. The treatments could be ranked, from highest Cd contents in roots and shoots of loquat seedlings to lowest, as follows: S. photeinocarpum straw > Y. erythrocarpa straw > G. parviflora straw > control. All three types of hyperaccumulator straw increased the amount of Cd extracted by shoots of two loquat seedlings, with the maximum effect in the S. photeinocarpum straw treatment. Addition of hyperaccumulator straw also resulted in increased soil invertase, urease, and catalase activities to varying degrees. Among the three types of hyperaccumulator straw, S. photeinocarpum straw was the most effective to increase Cd accumulation in loquat seedlings. Therefore, this material has the potential to increase the phytoremediation capacity of loquat seedlings in Cd-contaminated orchards.",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Biomass",
+        "Cadmium",
+        "Environmental Monitoring",
+        "Eriobotrya",
+        "Plant Roots",
+        "Seedlings",
+        "Soil",
+        "Soil Pollutants",
+        "Solanum"
+      ]
+    },
+    {
+      "pmid": "28066478",
+      "title": "Transcriptome Analysis Reveals Candidate Genes Involved in Gibberellin-Induced Fruit Setting in Triploid Loquat (Eriobotrya japonica).",
+      "authors": [
+        "Shuang Jiang",
+        "Jun Luo",
+        "Fanjie Xu",
+        "Xueying Zhang"
+      ],
+      "journal": "Frontiers in plant science",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The triploid loquat (Eriobotrya japonica) is a new germplasm with a high edible fruit rate. Under natural conditions, the triploid loquat has a low fruit setting ratio (not more than 10 fruits in a tree), reflecting fertilization failure. To unravel the molecular mechanism of gibberellin (GA) treatment to induce parthenocarpy in triploid loquats, a transcriptome analysis of fruit setting induced by GA3 was analyzed using RNA-seq at four different stages during the development of young fruit. Approximately 344 million high quality reads in seven libraries were de novo assembled, yielding 153,900 unique transcripts with more than 79.9% functionally annotated transcripts. A total of 2,220, 2,974, and 1,614 differentially expressed genes (DEGs) were observed at 3, 7, and 14 days after GA treatment, respectively. The weighted gene co-expression network and Venn diagram analysis of DEGs revealed that sixteen candidate genes may play critical roles in the fruit setting after GA treatment. Five genes were related to auxin, in which one auxin synthesis gene of yucca was upregulated, suggesting that auxin may act as a signal for fruit setting. Furthermore, ABA 8'-hydroxylase was upregulated, while ethylene-forming enzyme was downregulated, suggesting that multiple hormones may be involved in GA signaling. Four transcription factors, NAC7, NAC23, bHLH35, and HD16, were potentially negatively regulated in fruit setting, and two cell division-related genes, arr9 and CYCA3, were upregulated. In addition, the expression of the GA receptor gid1 was downregulated by GA treatment, suggesting that the negative feedback mechanism in GA signaling may be regulated by gid1. Altogether, the results of the present study provide information from a comprehensive gene expression analysis and insight into the molecular mechanism underlying fruit setting under GA treatment in E. japonica."
+    },
+    {
+      "pmid": "27999607",
+      "title": "Effect of Loquat Leaf Extract on Muscle Strength, Muscle Mass, and Muscle Function in Healthy Adults: A Randomized, Double-Blinded, and Placebo-Controlled Trial.",
+      "authors": [
+        "Young Hye Cho",
+        "Sang Yeoup Lee",
+        "Cheol Min Kim",
+        "Nam Deuk Kim",
+        "Sangmin Choe",
+        "Chang-Hyung Lee",
+        "Jin-Hong Shin"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ursolic acid (UA) is the major active component of the loquat leaf extract (LLE) and several previous studies have indicated that UA may have the ability to prevent skeletal muscle atrophy. Therefore, we conducted a randomized, double-blind, and placebo-controlled study to investigate the effects of the LLE on muscle strength, muscle mass, muscle function, and metabolic markers in healthy adults; the safety of the compound was also evaluated. We examined the peak torque/body weight at 60°/s knee extension, handgrip strength, skeletal muscle mass, physical performance, and metabolic parameters at baseline, as well as after 4 and 12 weeks of intervention. Either 500 mg of LLE (50.94 mg of UA) or a placebo was administered to fifty-four healthy adults each day for 12 weeks; no differences in muscle strength, muscle mass, and physical performance were observed between the two groups. However, the right-handgrip strength of female subjects in the LLE group was found to be significantly better than that of subjects in the control group (P = 0.047). Further studies are required to determine the optimal dose and duration of LLE supplementation to confirm the first-stage study results for clinical application. ClinicalTrials.gov Identifier is NCT02401113."
+    },
+    {
+      "pmid": "27111303",
+      "title": "EjMYB8 Transcriptionally Regulates Flesh Lignification in Loquat Fruit.",
+      "authors": [
+        "Wen-Qiu Wang",
+        "Jing Zhang",
+        "Hang Ge",
+        "Shao-Jia Li",
+        "Xian Li",
+        "Xue-Ren Yin",
+        "Donald Grierson",
+        "Kun-Song Chen"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Transcriptional regulatory mechanisms underlying lignin metabolism have been widely studied in model plants and woody trees, but seldom in fruits such as loquat, which undergo lignification. Here, twelve EjMYB genes, designed as EjMYB3-14, were isolated based on RNA-seq. Gene expression indicated that EjMYB8 and EjMYB9 were significantly induced in fruit with higher lignin content resulting from storage at low temperature (0°C), while two treatments (low temperature conditioning, LTC; heat treatment, HT) both alleviated fruit lignification and inhibited EjMYB8 and EjMYB9 expression. Dual-luciferase assays indicated that EjMYB8, but not EjMYB9, could trans-activate promoters of lignin-related genes EjPAL1, Ej4CL1 and Ej4CL5. Yeast one-hybrid assay indicated that EjMYB8 physically bind to Ej4CL1 promoter. Furthermore, the putative functions of EjMYB8 were verified using transient over-expression in both N. tabacum and loquat leaves, which increased lignin content. Moreover, combination of EjMYB8 and previously isolated EjMYB1 generated strong trans-activation effects on the Ej4CL1 promoter, indicating that EjMYB8 is a novel regulator of loquat fruit lignification.",
+      "mesh_terms": [
+        "Agrobacterium",
+        "Binding Sites",
+        "Coenzyme A Ligases",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Hot Temperature",
+        "Lignin",
+        "Phylogeny",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "Promoter Regions, Genetic",
+        "Protein Binding",
+        "Protein Isoforms",
+        "Recombinant Proteins",
+        "Nicotiana",
+        "Transcription Factors",
+        "Transcription, Genetic",
+        "Transgenes"
+      ]
+    },
+    {
+      "pmid": "27006258",
+      "title": "Regulation of loquat fruit low temperature response and lignification involves interaction of heat shock factors and genes associated with lignin biosynthesis.",
+      "authors": [
+        "Jiao-Ke Zeng",
+        "Xian Li",
+        "Jing Zhang",
+        "Hang Ge",
+        "Xue-Ren Yin",
+        "Kun-Song Chen"
+      ],
+      "journal": "Plant, cell & environment",
+      "publication_date": "2016-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Transcriptional regulatory mechanisms underlying lignin metabolism have been widely studied in model plants and woody trees, as well as fruit, such as loquat (Eriobotrya japonica). Unlike the well-known NAC, MYB and AP2/ERF transcription factors, the roles of heat shock factors (HSFs) in lignin regulation have been rarely reported. Two treatments (heat treatment, HT; low temperature conditioning, LTC) were applied to alleviate low temperature-induced lignification in loquat fruit. Gene expression analysis indicated that EjHSF1 transcript abundance, in parallel with heat shock protein genes (EjHsp), was induced by HT, while expression of EjHSF3 was repressed by LTC. Using dual-luciferase assays, EjHSF1 and EjHSF3 trans-activated the promoters of EjHsp genes and lignin biosynthesis-related genes, respectively. Thus, two distinct regulatory mechanisms of EjHSF transcription factors in chilling injury-induced fruit lignification are proposed: EjHSF1 transcriptionally regulated EjHsp genes are involved in chilling tolerance, while EjHSF3 transcriptionally regulated lignin biosynthesis. Furthermore, the relations between EjHSF3 and previously characterized fruit lignification regulators, including EjAP2-1, EjMYB1 and EjMYB2, were also investigated. Yeast-two hybrid (Y2H) and biomolecular fluorescence complementation (BiFC) assays demonstrated protein-protein interaction between EjHSF3 and EjAP2-1. Thus, the involvement of EjHSF3 in fruit lignification is via both lignin biosynthetic genes and the regulator, EjAP2-1.",
+      "mesh_terms": [
+        "Cold Temperature",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Heat Shock Transcription Factors",
+        "Heat-Shock Proteins",
+        "Lignin"
+      ]
+    },
+    {
+      "pmid": "26087548",
+      "title": "[Dynamic change of four triterpenic acids contents in different organs of loquat (Eriobotrya japonica) and phenology].",
+      "authors": [
+        "Ji-yang Li",
+        "Xiao-mei Xie",
+        "Qian-wen Li",
+        "Qi Zhang",
+        "Sheng-lin Chen",
+        "He-qun Wang",
+        "Wen-xia Yu",
+        "Mo Yang"
+      ],
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "publication_date": "2015-Mar",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The loquat is widely cultivated in China, its succulent fruits, leaves and flower are used as a traditional medicine for the treatment of many diseases. The study is aimed to analyse the content of the four triterpene compounds ( ursolic acid, corosolic acid, maslinic acid, oleanolic acid) in different organs, and investigate the dynamic changes in different phenological period. The triterpenic acids content in the samples was measured by HPLC based on the plant phenological observations. The results showed that order of four triterpenic acids content in different organs from high to low was defoliation (23.2 mg x g(-1)) > mature leaves (21.7 mg x g(-1)) > young leaves (17.5 mg x g(-1)) > fruits (7.36 mg x g(-1)) > flowers (6.40 mg x g(-1)). The triterpenic acids were not detected in the seeds. The total amount of the four triterpenic acids in the loquat leaves collected in the different phenological stages of sprout, flower bud, blossom and fruit varied between 17.8 and 26.2 mg x g(-1) (defoliation), 16.5 and 23.5 mg x g(-1) (mature leaves), 14.7 and 21.5 mg x g(-1) (young leaves), respectively. The content increased progressively with the leaf development, maturation and aging. There was a higher level of the dry material and triterpenic acids accumulation in the mature leaves during fruit enlargement. This paper attempts to present the case for medicinal plants of a broad geographical distribution to study on the secondary metabolites and harvesting time.",
+      "mesh_terms": [
+        "China",
+        "Chromatography, High Pressure Liquid",
+        "Eriobotrya",
+        "Flowers",
+        "Fruit",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Plants, Medicinal",
+        "Seeds",
+        "Triterpenes"
+      ]
+    },
+    {
+      "pmid": "25822129",
+      "title": "Low-temperature conditioning alleviates chilling injury in loquat fruit and regulates glycine betaine content and energy status.",
+      "authors": [
+        "Peng Jin",
+        "Yu Zhang",
+        "Timin Shan",
+        "Yuping Huang",
+        "Jia Xu",
+        "Yonghua Zheng"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2015-Apr-15",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The influence of low-temperature conditioning (LTC) treatment on chilling injury, glycine betaine content, and energy metabolism in loquat fruit at 1 °C storage was investigated. The results indicated that LTC treatment significantly reduced chilling injury index, ion leakage, and malondialdehyde content in loquat fruit. Betaine aldehyde hydrogenase (BADH) activity and endogenous glycine betaine (GB) content in loquats treated with LTC were significantly higher than those in control fruit. Moreover, LTC treatment induced activities of energy metabolism-associated enzymes, including H(+)-adenosine triphosphatase, Ca(2+)-adenosine triphosphatase, succinic dehydrogenase, and cytochrome c oxidase. LTC treatment triggered obviously higher levels of adenosine triphosphate (ATP) content and energy charge in loquat fruit. These results showed that LTC possibly alleviated chilling injury and enhanced chilling tolerance of loquat fruit by enhancing endogenous GB content and energy status.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Betaine",
+        "Cold Temperature",
+        "Energy Metabolism",
+        "Eriobotrya",
+        "Food Preservation",
+        "Food Storage",
+        "Fruit"
+      ]
+    },
+    {
+      "pmid": "25386680",
+      "title": "Bacillus cereus AR156-induced resistance to Colletotrichum acutatum is associated with priming of defense responses in loquat fruit.",
+      "authors": [
+        "Xiaoli Wang",
+        "Lei Wang",
+        "Jing Wang",
+        "Peng Jin",
+        "Hongxia Liu",
+        "Yonghua Zheng"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effectiveness of a biocontrol agent Bacillus cereus AR156 for control of anthracnose rot caused by Colletotrichum acutatum in harvested loquat fruit and the possible mechanisms of its action have been investigated. Treatment of fruit with B. cereus AR156 resulted in lower disease incidence and smaller lesion diameters compared with that of untreated fruit. The treatment enhanced activities of defense-related enzymes including chitinase, β-1, 3-glucanase, phenylalanine ammonia-lyase, peroxidase and polyphenoloxidase, and promoted accumulation of H2O2. Total phenolic content and 2,2-diphenyl-1-picrylhydrazyl radical scavenging activity were also increased by treatment. Transcripts of three defense-related genes were enhanced only in fruit undergoing both B. cereus AR156 treatment and C. acutatum inoculation compared with those receiving either intervention alone. These results suggest that the disease resistance against C. acutatum in loquat fruit is enhanced by B. cereus AR156 and that the induced resistance is associated with induction and priming of defense responses in the fruit.",
+      "mesh_terms": [
+        "Bacillus cereus",
+        "Biological Control Agents",
+        "Colletotrichum",
+        "Disease Resistance",
+        "Eriobotrya",
+        "Fruit"
+      ]
+    },
+    {
+      "pmid": "24860186",
+      "title": "Activator- and repressor-type MYB transcription factors are involved in chilling injury induced flesh lignification in loquat via their interactions with the phenylpropanoid pathway.",
+      "authors": [
+        "Qian Xu",
+        "Xue-ren Yin",
+        "Jiao-ke Zeng",
+        "Hang Ge",
+        "Min Song",
+        "Chang-Jie Xu",
+        "Xian Li",
+        "Ian B Ferguson",
+        "Kun-song Chen"
+      ],
+      "journal": "Journal of experimental botany",
+      "publication_date": "2014-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Lignin biosynthesis and its transcriptional regulatory networks have been studied in model plants and woody trees. However, lignification also occurs in some fleshy fruit and has rarely been considered in this way. Loquat ( Eriobotrya japonica ) is one such convenient tissue for exploring the transcription factors involved in regulating fruit flesh lignification. Firmness and lignin content of 'Luoyangqing' loquat were fund to increase during low-temperature storage as a typical symptom of chilling injury, while heat treatment (HT) and low-temperature conditioning (LTC) effectively alleviated them. Two novel EjMYB genes, EjMYB1 and EjMYB2, were isolated and were found to be localized in the nucleus. These genes responded differently to low temperature, with EjMYB1 induced and EjMYB2 inhibited at 0 °C. They also showed different temperature responses under HT and LTC conditions, and may be responsible for different regulation of flesh lignification at the transcriptional level. Transactivation assays indicated that EjMYB1 and EjMYB2 are a transcriptional activator and repressor, respectively. EjMYB1 activated promoters of both Arabidopsis and loquat lignin biosynthesis genes, while EjMYB2 countered the inductive effects of EjMYB1. This finding was also supported by transient overexpression in tobacco. Regulation of lignification by EjMYB1 and EjMYB2 is likely to be achieved via their competitive interaction with AC elements in the promoter region of lignin biosynthesis genes such as Ej4CL1.",
+      "mesh_terms": [
+        "Arabidopsis",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Regulation, Plant",
+        "Lignin",
+        "Promoter Regions, Genetic",
+        "Propanols",
+        "Nicotiana",
+        "Transcription Factors",
+        "Two-Hybrid System Techniques"
+      ]
+    },
+    {
+      "pmid": "24498141",
+      "title": "Involvement of multiple types of dehydrins in the freezing response in loquat (Eriobotrya japonica).",
+      "authors": [
+        "Hongxia Xu",
+        "Yong Yang",
+        "Li Xie",
+        "Xiaoying Li",
+        "Chao Feng",
+        "Junwei Chen",
+        "Changjie Xu"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Dehydrins (DHNs) are a family of plant proteins typically induced in response to stress conditions that cause cellular dehydration, such as low temperatures, high salinity, and drought. Loquat (Eriobotrya japonica) is a perennial fruit crop that blossoms during winter. Loquat fruitlets are frequently injured by freezing. To evaluate the role of the EjDHNs in freezing resistance in loquat fruitlets, two cultivars of loquat, the freezing-sensitive 'Ninghaibai' (FS-NHB) and the freezing-tolerant 'Jiajiao' (FT-JJ), were analyzed under induced freezing stress. Freezing stress led to obvious accumulation of reactive oxygen species and considerable lipid peroxidation in membranes during the treatment period. Both these phenomena were more pronounced in 'FS-NHB' than in 'FS-JJ.' Immunogold labeling of dehydrin protein was performed. DHN proteins were found to be concentrated mainly in the vicinity of the plasma membrane, and the density of the immunogold labeling was significantly higher after freezing treatment, especially in the more freezing-tolerant cultivar 'FT-JJ.' Seven DHNs, showing four different structure types, were obtained from loquat fruitlets and used to study the characteristics of different EjDHN proteins. These DHN proteins are all highly hydrophilic, but they differ significantly in size, ranging from 188 to 475 amino acids, and in biochemical properties, such as theoretical pI, aliphatic index, and instability index. Freezing treatment resulted in up-regulation of the expression levels of all seven EjDHNs, regardless of structure type. The accumulation of the transcripts of these EjDHN genes was much more pronounced in 'FT-JJ' than in 'FS-NHB.' Altogether, this study provides evidence that EjDHNs are involved in the cryoprotection of the plasma membrane during freeze-induced dehydration in loquat fruitlets.",
+      "mesh_terms": [
+        "Cold-Shock Response",
+        "Eriobotrya",
+        "Flowers",
+        "Freezing",
+        "Gene Expression Regulation, Plant",
+        "Plant Proteins",
+        "Reactive Oxygen Species"
+      ]
+    },
+    {
+      "pmid": "24395491",
+      "title": "Postharvest physiology and technology of loquat (Eriobotrya japonica Lindl.) fruit.",
+      "authors": [
+        "Sunil Pareek",
+        "Noureddine Benkeblia",
+        "Jules Janick",
+        "Shifeng Cao",
+        "Elhadi M Yahia"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2014-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica Lindl.) is a subtropical evergreen tree whose fruit is consumed both fresh and processed. Loquat fruit is a good source of minerals and carotenoids, while the kernel is rich in protein and carbohydrates. It has been considered a non-climacteric fruit, but there is evidence that some cultivars have a ripening pattern similar to that of climacteric fruits. The fruit has a short postharvest life at ambient temperatures and is susceptible to physical and mechanical damage, loss of moisture and nutrients, and decay. Low-temperature storage extends the shelf life of loquat fruit, but some cultivars are severely affected by chilling injury and flesh browning during cold storage. Purple spot, browning and leatheriness are major postharvest disorders. The shelf life of loquat can be extended by modified or controlled atmosphere storage as well as by postharvest treatment with 1-methyl cyclopropene or methyl jasmonate.",
+      "mesh_terms": [
+        "Carbohydrates",
+        "Carboxylic Acids",
+        "Carotenoids",
+        "Cold Temperature",
+        "Eriobotrya",
+        "Ethylenes",
+        "Food Handling",
+        "Food Preservation",
+        "Food Technology",
+        "Fruit",
+        "Minerals",
+        "Nutritive Value",
+        "Plant Proteins",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "24128452",
+      "title": "Effect of MeJA treatment on polyamine, energy status and anthracnose rot of loquat fruit.",
+      "authors": [
+        "Shifeng Cao",
+        "Yuting Cai",
+        "Zhenfeng Yang",
+        "Daryl C Joyce",
+        "Yonghua Zheng"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2014-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effect of methyl jasmonate (MeJA) on changes in polyamines content and energy status and their relation to disease resistance was investigated. Freshly harvested loquat fruit were treated with 10 μmol l(-1) MeJA and wound inoculated with Colletotrichum acutatum spore suspension (1.0 × 10(5) spores ml(-1)) after 24h, and then stored at 20 °C for 6 days. MeJA treatment significantly reduced decay incidence. MeJA treated fruit manifested higher contents of polyamines (putrescine, spermidine and spermine) compared with the control fruit, during storage. MeJA treatment also maintained higher levels of adenosine triphosphate, and suppressed an increase in adenosine monophosphate content in loquat fruit. These results suggest that MeJA treatment may inhibit anthracnose rot by increasing polyamine content and maintaining the energy status.",
+      "mesh_terms": [
+        "Acetates",
+        "Adenosine Diphosphate",
+        "Adenosine Monophosphate",
+        "Adenosine Triphosphate",
+        "Colletotrichum",
+        "Cyclopentanes",
+        "Disease Resistance",
+        "Eriobotrya",
+        "Food Microbiology",
+        "Fruit",
+        "Oxylipins",
+        "Plant Growth Regulators",
+        "Putrescine",
+        "Spermidine",
+        "Spermine"
+      ]
+    },
+    {
+      "pmid": "24009197",
+      "title": "Assessing the response of indigenous loquat cultivar Mardan to phytohormones for in vitro shoot proliferation and rooting.",
+      "authors": [
+        "Nadeem Akhtar Abbasi",
+        "Tariq Pervaiz",
+        "Ishfaq Ahmed Hafiz",
+        "Mehwish Yaseen",
+        "Azhar Hussain"
+      ],
+      "journal": "Journal of Zhejiang University. Science. B",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In vitro cultures of loquat cultivar Mardan were established using shoot apices after treating with NaOCl (5%, 7%, 10%, 12%, 14% (v/v)) for 12 min and HgCl2 (0.01%, 0.05%, 0.10%, 0.20%, 0.25% (w/v)) for 2 min. A maximum survival rate of 70% was recorded after surface sterilization with 10% NaOCl. Caulogenic response was assessed on Murashige and Skoog (MS) medium fortified with assorted combinations of the cytokinins, benzylaminopurine (BAP), kinetin, and N6-(2-isopentyl)adenine (2iP). Treatment of BAP 1.5 mg/L combined with 2iP 9.0 mg/L and kinetin 1.5 mg/L was found to be optimum for shoot morphogenesis in terms of the number and subsequent growth of shoots, while the highest shoot length was yielded by the combination of BAP 0.5 mg/L, kinetin 0.5 mg/L, and 2iP 3 mg/L. Higher levels of cytokinins induced callogenesis, vitrification and stunted growth to some extent. For rhizogenesis, uniform sized micro-shoots were excised and transferred to half-strength MS medium containing auxins. The best rooting expression was observed with naphthaleneacetic acid (NAA) 1 mg/L combined with indole-3-butyric acid (IBA) 2 mg/L and paclobutrazol (PBZ) 1 mg/L.",
+      "mesh_terms": [
+        "Adenine",
+        "Benzyl Compounds",
+        "Disinfectants",
+        "Eriobotrya",
+        "Indoles",
+        "Kinetin",
+        "Mercuric Chloride",
+        "Naphthaleneacetic Acids",
+        "Plant Growth Regulators",
+        "Plant Leaves",
+        "Plant Roots",
+        "Plant Shoots",
+        "Purines",
+        "Sodium Hypochlorite",
+        "Triazoles"
+      ]
+    },
+    {
+      "pmid": "22751734",
+      "title": "Grape skin and loquat leaf extracts and acai puree have potent anti-atherosclerotic and anti-diabetic activity in vitro and in vivo in hypercholesterolemic zebrafish.",
+      "authors": [
+        "Jae-Yong Kim",
+        "Joo-Heon Hong",
+        "Hee Kyoung Jung",
+        "Yoo Seok Jeong",
+        "Kyung-Hyun Cho"
+      ],
+      "journal": "International journal of molecular medicine",
+      "publication_date": "2012-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Three major sources of flavonoids and phenolic compounds, which are commonly used in food industry, namely loquat leaf (LL), grape skin (GS) and acai puree, were tested in regard to their potential anti-atherosclerotic and anti-diabetic activity. The compounds were evaluated by in vitro antioxidant assay using a macrophage model and for in vivo hypolipidemic activity using zebrafish. In assays in vitro, all extracts demonstrated potent ferric ion reductive capacity, radical-scavenging activity and inhibition of low-density lipoprotein (LDL) oxidation at a final concentration of 0.1 mg/ml. Extracts could also abrogate fructose-mediated protein glycation and mildly inhibit cholesteryl ester transfer protein (CETP). Cellular uptake of oxidized or acetylated LDL into macrophages was inhibited by acai treatment (final concentration, 0.1 mg/ml) and moderately diminished by GS and LL extracts. After 4 weeks of feeding on a high cholesterol diet (HCD), zebrafish exhibited serum total cholesterol (TC) and triglyceride (TG) levels 2.5-fold higher than those fed a normal diet (ND). Within the experimental group, those fed acai demonstrated the lowest serum TC and CETP activity, while the LL-consuming group showed a reduction in serum TC and TG relative to HCD-fed fish. Serum glucose levels also increased in the HCD group, to threefold above the ND group; GS and LL feeding elicited the greatest reduction in hyperglycemia. The groups consuming acai and LL showed much less hepatic inflammation, as well as attenuation of fatty liver and a reduced content of oxidized species. In conclusion, extracts of LL, GS, and acai shared antioxidant, anti-inflammatory and anti-atherosclerotic activity in cellular assays and in a hypercholesterolemic zebrafish model.",
+      "mesh_terms": [
+        "Animals",
+        "Anthocyanins",
+        "Antioxidants",
+        "Apolipoprotein A-I",
+        "Arecaceae",
+        "Atherosclerosis",
+        "Blood Glucose",
+        "Cholesterol Ester Transfer Proteins",
+        "Cholesterol, HDL",
+        "Eriobotrya",
+        "Flavonoids",
+        "Humans",
+        "Hypercholesterolemia",
+        "Hypoglycemic Agents",
+        "Macrophages",
+        "Male",
+        "Oxidation-Reduction",
+        "Phagocytosis",
+        "Phenols",
+        "Plant Extracts",
+        "Triglycerides",
+        "Vitis",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "20648530",
+      "title": "Effect of 1-methylcyclopropene on anthracnose rot caused by Colletotrichum acutatum and disease resistance in loquat fruit.",
+      "authors": [
+        "Shifeng Cao",
+        "Yonghua Zheng"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2010-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Loquat (Eriobotrya japonica Lindl.) fruit are susceptible to fungal decay during postharvest storage at ambient temperature. The control of postharvest diseases of loquat is based primarily on the use of synthetic fungicides. To look for an alternative method for disease control, we investigated the effect of 1-methylcyclopropene (1-MCP) on controlling anthracnose rot caused by Colletotrichum acutatum of loquat fruit. RESULTS: 1-MCP treatment significantly reduced decay incidence of loquat fruit. The treatment markedly inhibited accumulation of superoxide radicals and hydrogen peroxide and maintained higher superoxide dismutase, catalase and ascorbate peroxidase. Meanwhile, 1-MCP treatment induced higher activities of two defense-related enzymes-chitinase and β-1,3-glucanase-during 6 days' storage. Furthermore, the treatment inhibited increases in fruit firmness and internal browning index, and maintained higher extractable juice rate, total soluble solids and titratable acidity contents, thereby delaying the development of senescence. CONCLUSION: 1-MCP was effective in reducing decay and might have enhanced the disease resistance in loquat fruit by increasing chitinase and β-1,3-glucanase, and maintained natural resistance by delaying senescence development.",
+      "mesh_terms": [
+        "Chemical Phenomena",
+        "Chitinases",
+        "Colletotrichum",
+        "Cyclopropanes",
+        "Eriobotrya",
+        "Food Handling",
+        "Food Microbiology",
+        "Food Preservation",
+        "Fruit",
+        "Fungicides, Industrial",
+        "Glucan 1,3-beta-Glucosidase",
+        "Hydrogen Peroxide",
+        "Hydrogen-Ion Concentration",
+        "Maillard Reaction",
+        "Oxidoreductases",
+        "Plant Proteins",
+        "Superoxides",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "20549812",
+      "title": "Effects of heat treatment on internal browning and membrane fatty acid in loquat fruit in response to chilling stress.",
+      "authors": [
+        "Huaijing Rui",
+        "Shifeng Cao",
+        "Haitao Shang",
+        "Peng Jin",
+        "Kaituo Wang",
+        "Yonghua Zheng"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2010-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Chilling injury (CI) limits the storage period and shelf-life of red-fleshed loquat fruit (Eriobotrya japonica Lindl.), which leads to a remarkable loss after cold storage. To develop an effective technique to reduce CI, the effects of a 38 degrees C heat treatment in air for 5 h, plus storage at 1 degrees C for 35 days, on internal browning (IB) and membrane fatty acid composition of the loquat cv. Jiefangzhong were investigated. RESULTS: Heat treatment delayed the occurrence of IB and inhibited the increase of IB index in 'Jiefangzhong' loquat fruit. Heat treatment maintained lower levels of electrolyte leakage and malondialdehyde content, and inhibited the increases in phospholipase D and lipoxygenase activities compared with the control fruit. Meanwhile, heat treatment inhibited the increases in palmitic, stearic and oleic acid levels and delayed the decreases in linoleic and linolenic acid contents, thus maintaining higher unsaturated/saturated fatty acid ratio than the control. CONCLUSION: These results suggest that the reduction of IB in chilled loquat fruit by heat treatment might due to maintenance of membrane integrity and higher unsaturated/saturated fatty acid ratio.",
+      "mesh_terms": [
+        "Cold Temperature",
+        "Electrolytes",
+        "Eriobotrya",
+        "Fatty Acids",
+        "Flame Ionization",
+        "Food Handling",
+        "Food Preservation",
+        "Fruit",
+        "Hot Temperature",
+        "Lipoxygenase",
+        "Maillard Reaction",
+        "Malondialdehyde",
+        "Phospholipase D",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "19884229",
+      "title": "Ethylene signal transduction elements involved in chilling injury in non-climacteric loquat fruit.",
+      "authors": [
+        "Ping Wang",
+        "Bo Zhang",
+        "Xian Li",
+        "Changjie Xu",
+        "Xueren Yin",
+        "Lanlan Shan",
+        "Ian Ferguson",
+        "Kunsong Chen"
+      ],
+      "journal": "Journal of experimental botany",
+      "publication_date": "2010",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Loquat (Eriobotrya japonica Lindl.) is a subtropical fruit, with some cultivars such as 'Luoyangqing' (LYQ) susceptible to chilling injury (CI), while others such as 'Baisha' (BS) are resistant. Although loquats are non-climacteric, modulation of ethylene has an effect on ripening-related post-harvest CI. Therefore the role of ethylene signalling in the development of CI was investigated in fruit of both the LYQ and BS cultivars. Three ethylene receptor genes, one CTR1-like gene, and one EIN3-like gene were isolated and characterized in ripening fruit. All of these genes were expressed differentially within and between fruit of the two cultivars. Transcripts either declined over fruit development (EjERS1a in both cultivars and EjEIL1 in LYQ) or showed an increase in the middle stages of fruit development before declining (EjETR1, EjERS1b, and EjCTR1 in both cultivars and EjEIL1 in BS). The main cultivar differences were in levels rather than in patterns of expression during post-harvest storage. EjETR1, EjCTR1, and EjEIL1 genes showed increased expression in response to low temperature and this was particularly notable for EjETR1, and EjEIL1 during CI development in LYQ fruit. The genes were also differentially responsive to ethylene treatment, 1-methycyclopropene (1-MCP) and low temperature conditioning, confirming a role for ethylene in regulation of CI in loquat fruit.",
+      "mesh_terms": [
+        "Cold Temperature",
+        "Cyclopropanes",
+        "Eriobotrya",
+        "Ethylenes",
+        "Fruit",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Developmental",
+        "Gene Expression Regulation, Plant",
+        "Lignin",
+        "Molecular Sequence Data",
+        "Organ Specificity",
+        "Phylogeny",
+        "Plant Proteins",
+        "Sequence Analysis, DNA",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "19711912",
+      "title": "Effect of 1-methylcyclopropene treatment on chilling injury, fatty acid and cell wall polysaccharide composition in loquat fruit.",
+      "authors": [
+        "Shifeng Cao",
+        "Yonghua Zheng",
+        "Kaituo Wang",
+        "Huaijin Rui",
+        "Shuangshuang Tang"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2009-Sep-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Loquat fruit was treated with 2.32 nmol L(-1) 1-methylcyclopropene (1-MCP) for 24 h at 20 degrees C, and then stored at 1 degrees C for 35 days to investigate the effect of 1-MCP treatment on chilling injury (CI) and fatty acid and cell wall polysaccharide composition. Loquat fruit developed CI, manifested as increased fruit firmness, internal browning and decreased extractable juice. These CI symptoms were reduced by 1-MCP treatment. 1-MCP-treated fruit exhibited higher levels of linoleic and linolenic acid and a higher unsaturated/saturated fatty acid ratio than control fruit during storage. The treatment also markedly delayed increase in alcohol insoluble residue, i.e. hemicellulose and cellulose. Meanwhile, the level of water- and CDTA-soluble pectins in treated fruit was higher than that in control. Our result suggested modifications of fatty acid and cell wall polysaccharide composition are associated with CI develpoment in loquat and 1-MCP treatment modulates the changes that seem to regulate the strength of cell wall and so to alleviate CI.",
+      "mesh_terms": [
+        "Cell Wall",
+        "Cold Temperature",
+        "Cyclopropanes",
+        "Eriobotrya",
+        "Fatty Acids",
+        "Food Preservation",
+        "Fruit",
+        "Pectins",
+        "Polysaccharides",
+        "Water"
+      ]
+    },
+    {
+      "pmid": "18590937",
+      "title": "Improved control of anthracnose rot in loquat fruit by a combination treatment of Pichia membranifaciens with CaCl(2).",
+      "authors": [
+        "Shifeng Cao",
+        "Yonghua Zheng",
+        "Shuangshuang Tang",
+        "Kaituo Wang"
+      ],
+      "journal": "International journal of food microbiology",
+      "publication_date": "2008-Aug-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The beneficial effect of 2% CaCl(2) (w/v) on the antagonistic yeast Pichia membranifaciens for control of anthracnose rot caused by Colletotrichum acutatum in postharvest loquat fruit (Eriobotrya japonica L.) and the possible mechanisms involved were investigated. The results showed that treatment with P. membranifaciens at 1x10(8) CFU ml(-1) or 2% CaCl(2) alone both resulted in significantly smaller lesion diameter and lower disease incidence of anthracnose rot on loquat fruit wounds compared with the controls. The biocontrol activity of P. membranifaciens on the disease was enhanced by the addition of 2% CaCl(2), the combined treatment of P. membranifaciens with CaCl(2) resulted in a remarkably improved control of the disease in comparison with the treatment of P. membranifaciens or CaCl(2) alone. P. membranifaciens in combination with CaCl(2) induced higher activities of two defense-related enzymes chitinase and beta-1,3-glucanase in loquat fruit than applying the yeast or CaCl(2) alone. The in vitro experiment showed that the addition of 2% CaCl(2) in the suspensions of P. membranifaciens significantly inhibited spore germination and germ tube elongation of C. acutatum than the yeast or CaCl(2) alone. However, adding CaCl(2) did not significantly influence the population of P. membranifaciens in NYDB medium or fruit wounds. These results suggest that CaCl(2) could improve the biocontrol activity of P. membranifaciens on anthracnose rot in loquat fruit. It is postulated that the improved control of the disease is directly because of the higher inhibitory effect on pathogen growth and indirectly because of the enhanced disease resistance in loquat fruit by the combination treatment.",
+      "mesh_terms": [
+        "Antibiosis",
+        "Calcium Chloride",
+        "Chitinases",
+        "Colletotrichum",
+        "Dose-Response Relationship, Drug",
+        "Eriobotrya",
+        "Food Preservation",
+        "Fruit",
+        "Glucan 1,3-beta-Glucosidase",
+        "Pest Control, Biological",
+        "Pichia",
+        "Spores, Fungal"
+      ]
+    },
+    {
+      "pmid": "18273642",
+      "title": "Characterization of cDNAs associated with lignification and their expression profiles in loquat fruit with different lignin accumulation.",
+      "authors": [
+        "Lan Lan Shan",
+        "Xian Li",
+        "Ping Wang",
+        "Chong Cai",
+        "Bo Zhang",
+        "Chong De Sun",
+        "Wang Shu Zhang",
+        "Chang Jie Xu",
+        "Ian Ferguson",
+        "Kun Song Chen"
+      ],
+      "journal": "Planta",
+      "publication_date": "2008-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The ripening fruit of two loquat (Eriobotrya japonica Lindl.) cultivars with different levels of lignin accumulation provide an intriguing example of lignification in flesh tissue. Increase in firmness as a result of lignification in ripening red-fleshed Luoyangqing (LYQ) fruit was confirmed, whereas white-fleshed Baisha (BS) fruit softened without lignification. Six cDNAs associated with the lignification pathway, i.e. EjPAL1, EjPAL2 (phenylalanine ammonia lyase, PAL, EC 4.3.1.5), Ej4CL (4-coumarate: coenzyme A ligase, 4CL, EC 6.2.1.12), EjCAD1, EjCAD2 (cinnamyl alcohol dehydrogenase, CAD, EC 1.1.1.195) and EjPOD (peroxidase, POD), were cloned from flesh tissue of LYQ fruit. Expression profiles of the six corresponding genes differed greatly in different tissues, and during fruit development and ripening in both LYQ and BS cultivars. Associated activities of PAL, 4CL, CAD, and POD enzymes were also measured. CAD and POD enzyme activities and the expression of EjCAD1 and EjPOD genes were most closely associated temporally with lignification of loquat flesh tissue. Levels of EjCAD1 transcripts were particularly aligned with changes in lignification during ripening as modified either by ethylene treatment or low temperature conditioning. The two PAL genes showed different expression patterns during fruit development, with EjPAL1 strongly expressed in mature fruit and EjPAL2 only expressed in early stages of development. In addition, EjCAD1 expression was stimulated by low temperature and may contribute to low temperature injury in the fruit. Our integrated data on lignin, monolignol precursors, and associated enzymes and genes, provide a consistent model of fruit lignification.",
+      "mesh_terms": [
+        "DNA Primers",
+        "DNA, Complementary",
+        "DNA, Plant",
+        "Eriobotrya",
+        "Fruit",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Lignin"
+      ]
+    },
+    {
+      "pmid": "17997194",
+      "title": "Physiological behaviour of loquat and anger rootstocks in relation to salinity and calcium addition.",
+      "authors": [
+        "Manuel F García-Legaz",
+        "Elvira López-Gómez",
+        "Jorge Mataix Beneyto",
+        "Alejandra Navarro",
+        "M Jesús Sánchez-Blanco"
+      ],
+      "journal": "Journal of plant physiology",
+      "publication_date": "2008-Jul-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The salinity tolerance of two commercial rootstocks used for loquat plants (Eribotrya japonica Lindl.), loquat and anger, was studied in a pot experiment. The plants were irrigated using solutions containing 5 and 50mM NaCl and 5 and 25mM calcium acetate for 4 months. The growth, tissue mineral content, water status, and leaf gas exchange responses to salt treatment with and without additional calcium were examined. Plant growth was not modified by salinity in anger (50mM), but was reduced in loquat; leaf biomass and stem diameter were particularly affected. However, Cl(-) levels leaf increased with salinity to a greater extent in anger, while the Na(+) content increased to the same extent in both species, indicating that ion transport from root to leaves was not inhibited in either species. Additional calcium (25mM) reduced Na(+) and Cl(-) concentrations in both species, but did not minimise the effects of salinity on the growth of salt-treated loquat plants. The decrease in K(+) concentrations had no effect on growth, as anger was the most tolerant rootstock and had lowest leaf K(+) content. Salinity reduced the Ca(2+) concentration in the roots of both species. However, when calcium was added, the concentration of Ca(2+) increased in the roots of salinised plants. Leaf water potential at pre-dawn decreased significantly in both species under saline conditions. Leaf gas exchange, stomatal conductance and, in particular, net CO(2) assimilation, decreased with salinity only in loquat, indicating that photosynthesis could be the growth-limiting factor in this species.",
+      "mesh_terms": [
+        "Calcium",
+        "Plant Leaves",
+        "Plant Roots",
+        "Plant Stems",
+        "Rosaceae",
+        "Sodium Chloride"
+      ]
+    },
+    {
+      "pmid": "16637201",
+      "title": "Carbonic acid salts at 25 or 45 degrees C to control loquat decay under shelf life conditions.",
+      "authors": [
+        "M G Molinu",
+        "G D'Hallewin",
+        "A Dore",
+        "A Serusi",
+        "T Venditti",
+        "M Agabbio"
+      ],
+      "journal": "Communications in agricultural and applied biological sciences",
+      "publication_date": "2005",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Generally recognised as save compounds (G.R.A.S) are attractive substitutes to synthetic chemicals in postharvest control diseases. They meet safety requirements, are cheap and able to be integrated with other disease control technologies. Among G.R.A.S compounds, carbonic acid salts have been investigated on carrots, bell pepper, melons, sweet cherries and their efficacy was also evaluated when combined with biological control agents. Moreover, the possibility to use sodium carbonate and sodium bicarbonate to prevent P. digitatum an P. italicum spread on Citrus fruit was studied since the begin of the 20th century. We explored the possibility to extend the use of carbonate-bicarbonate salts on loquat fruit in order to control the pathogens and to extend postharvest life. Loquat is a very perishable fruit, susceptible to decay, mechanical damage, moisture and nutritional losses during its postharvest life. We tested the combined effect of temperature and sodium or potassium carbonate-bicarbonate and ammonium carbonate. The fruit was dipped in the salt solutions at variable concentrations (0.5, 1 and 2% w/v) at 25 or 45 degrees C for two minutes and than stored under shelf life conditions (25 degrees C and 70% RH). Decay, weight loss, pH, titrable acidity and sugar content were detected after twelve days. Preliminary data show that the combined treatments were effective in decay control depending on salts. Best results were obtained with 2% potassium and sodium carbonate solution at 25 degrees C. Weight losses were related to treatment temperature and salts concentrations whereas, no differences were detected in the chemical parameters compared to the control.",
+      "mesh_terms": [
+        "Carbonic Acid",
+        "Consumer Product Safety",
+        "Dose-Response Relationship, Drug",
+        "Eriobotrya",
+        "Food Handling",
+        "Food Preservation",
+        "Food Preservatives",
+        "Pesticide Residues",
+        "Salts",
+        "Temperature",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "32689095",
+      "title": "The effect of calcium on the antioxidant enzymes from salt-treated loquat and anger plants.",
+      "authors": [
+        "Jose A Hernández",
+        "Ana Belén Aguilar",
+        "Bruno Portillo",
+        "Elvira López-Gómez",
+        "Jorge Mataix Beneyto",
+        "Manuel F García-Legaz"
+      ],
+      "journal": "Functional plant biology : FPB",
+      "publication_date": "2003-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Salt treatment (50 mM NaCl) reduced plant growth of loquat (Eribotria japonica Lindl.) (by up to 40%) but not that of anger (Cydonia oblonga Mill.). Salt stress induced a strong leaf Na+ accumulation in both species. However, the observed increase in leaf Cl- level was higher in loquat (13-fold) than in anger plants (3.8-fold). Addition of Ca2+ (25 mM) significantly reduced Na+ and Cl- concentrations in both salt-treated species. In anger leaves, calcium addition to the nutrient media did not change the leaf calcium contents in salt-treated or untreated plants, this value being lower in salt-treated plants. However, in loquat plants, an increase in leaf Ca2+ was observed after the calcium addition. Surprisingly, an increase in Ca2+ concentration was also observed in salt-treated loquat plants. In general, anger plants had higher constitutive antioxidant enzyme levels in both control and salt-treated plants. Salt stress did not change antioxidant enzyme levels in loquat plants. A similar effect was observed in anger plants, but in this case a 2-fold induction of monodehydroascorbate reductase (MDHAR) activity was observed.In both species, salinity produced an oxidative stress, indicated by an increase in lipid peroxidation, this value being much higher in loquat (83%) than in anger (40%) plants. In salt-treated plants, Ca2+ addition provided some protection to the membranes, because the increases observed in thiobarbituric-acid-reactive substances (TBARS) were not significant.In contrast, in control plants Ca2+ treatments increased glutathione reductase (GR) and decreased catalase activity in anger, but increased MDHAR, dehydroascorbate reductase (DHAR), GR and superoxide dismutase (SOD) in loquat plants. In salt-treated plants, Ca2+ additions decreased catalase (CAT) and ascorbate peroxidase (APX) for anger and raised DHAR, GR and SOD for loquat. However, the mechanism by which Ca2+ regulates antioxidant enzymes remains to be determined.These results suggest that anger plants have a higher capacity to scavenge AOS, both under saline and non-saline conditions. Accordingly, and related to the smaller Cl- increase observed, anger plants are more salt-tolerant, at least partly owing to the higher antioxidant enzyme levels observed."
+    }
+  ]
+}

@@ -1,0 +1,1218 @@
+{
+  "supplement": "Thylakoids",
+  "query": "Thylakoids[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:57:09",
+  "research_count": 53,
+  "count": 53,
+  "articles": [
+    {
+      "pmid": "39204625",
+      "title": "Diclofenac Interacts with Photosynthetic Apparatus: Isolated Spinach Chloroplasts and Thylakoids as a Model System.",
+      "authors": [
+        "Monika Majewska",
+        "Małgorzata Kapusta",
+        "Anna Aksmann"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2024-Aug-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diclofenac, often detected in environmental samples, poses a potential hazard to the aquatic environment. The present study aimed to understand the effect of this drug on photosynthetic apparatus, which is a little-known aspect of its phytotoxicity. Chloroplasts and thylakoids isolated from spinach (Spinacia oleracea) were used for this study and treated with various concentrations of diclofenac (from 125 to 4000 μM). The parameters of chlorophyll a fluorescence (the OJIP test) as measurements for both the intact chloroplasts and the thylakoid membranes revealed that isolated thylakoids showed greater sensitivity to the drug than chloroplasts. The relatively high concentration of diclofenac that is required to inhibit chloroplast and thylakoid functions suggests a narcotic effect of that drug on photosynthetic membranes, rather than a specific interaction with a particular element of the electron transport chain. Using confocal microscopy, we confirmed the degradation of the chloroplast structure after DCF treatment, which has not been previously reported in the literature. In conclusion, it can be assumed that diclofenac's action originated from a non-specific interaction with photosynthetic membranes, leading to the disruption in the function of the electron transport chain. This, in turn, decreases the efficiency of photosynthesis, transforming part of the PSII reaction centers into heat sinks and enhancing non-photochemical energy dissipation."
+    },
+    {
+      "pmid": "35255419",
+      "title": "Change in the photochemical and structural organization of thylakoids from pea (Pisum sativum) under salt stress.",
+      "authors": [
+        "Kunal Dhokne",
+        "Jayendra Pandey",
+        "Ranay Mohan Yadav",
+        "Pavithra Ramachandran",
+        "Jyoti Ranjan Rath",
+        "Rajagopal Subramanyam"
+      ],
+      "journal": "Plant physiology and biochemistry : PPB",
+      "publication_date": "2022-Apr-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Salt can induce adverse effects, primarily on the photosynthetic process, ultimately influencing plant productivity. Still, the impact of salt on the photosynthesis process in terms of supercomplexes organization of thylakoid structure and function is not understood in Pea (Pisum sativum). To understand the structure and function in the leaves and thylakoids under salt (NaCl) treatment, we used various biophysical and biochemical techniques like infrared gas analyzer, chlorophyll a fluorescence, circular dichroism, electron microscopy, blue native gels, and western blots. The net photosynthetic rate, transpiration rate, and stomatal conductance were reduced significantly, whereas the water use efficiency was enhanced remarkably under high salt conditions (200 mM NaCl). The photochemical efficiency of both photosystem (PS) I and II was reduced in high salt by inhibiting their donor and acceptor sides. Interestingly the non-photochemical quenching (NPQ) is reduced in high salt; however, the non-regulated energy dissipation (NO) of PSII increased, leading to inactivation of PSII. The obtained results exhibit inhibition of NAD(P)H dehydrogenase (NDH) mediated pathway-dependent cyclic electron transport under salinity caused a decrease in proton motive force of ΔpH and Δψ. Further, the electron micrographs show the disorganization of grana thylakoids under salt stress. Furthermore, the macro-organization and supercomplexes of thylakoids were significantly affected by high salt. Specifically, the mega complexes, PSII-LHCII, PSI-LHCI, and NDH complexes were notably reduced, ultimately altering the electron transport. The reaction center proteins of oxygen-evolving complexes, D1 and D2 proteins were affected to high salt indicating changes in photochemical activities.",
+      "mesh_terms": [
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Pisum sativum",
+        "Photosynthesis",
+        "Photosystem II Protein Complex",
+        "Plant Leaves",
+        "Salt Stress",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "33934216",
+      "title": "Confocal microscopy reveals alterations of thylakoids in Limnospira fusiformis during prophage induction.",
+      "authors": [
+        "Maryam Alsadat Zekri",
+        "Michael Schagerl",
+        "Johannes Schweichhart",
+        "Ingeborg Lang"
+      ],
+      "journal": "Protoplasma",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The alkaliphilic cyanobacterium Limnospira fusiformis is an integral part in food webs of tropical soda lakes. Recently, sudden breakdowns of Limnospira sp. blooms in their natural environment have been linked to cyanophage infections. We studied ultrastructural details and prophage components in the laboratory by means of confocal laser scanning microscopy (CLSM) and transmission electron microscopy (TEM). For a comparison at the subcellular level, we included transmission electron microscopy (TEM) material of infected cells collected during a field survey. Compared to TEM, CLSM has the advantage to rapidly providing results for whole, intact cells. Moreover, many cells can be studied at once. We chemically induced lysogenic cyanophages by means of mitomycin C (MMC) treatments and studied the ultrastructural alterations of host cells. In parallel, the number of cyanophages was obtained by flow cytometry. After treatment of the culture with MMC, flow cytometry showed a strong increase in viral counts, i.e., prophage induction. CLSM reflected the re-organization of L. fusiformis with remarkable alterations of thylakoid arrangements after prophage induction. Our study provides a first step towards 3D visualization of ultrastructure of cyanobacteria and showed the high potential of CLSM to investigate viral-mediated modifications in these groups.",
+      "mesh_terms": [
+        "Cyanobacteria",
+        "Microscopy, Confocal",
+        "Thylakoids",
+        "Virus Activation"
+      ]
+    },
+    {
+      "pmid": "29931614",
+      "title": "Distribution of Cd and other cations between the stroma and thylakoids: a quantitative approach to the search for Cd targets in chloroplasts.",
+      "authors": [
+        "Eugene A Lysenko",
+        "Alexander A Klaus",
+        "Alexander V Kartashov",
+        "Victor V Kusnetsov"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2019-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Plant growth and photosynthetic activity are usually inhibited due to the overall action of Cd on a whole organism, though few cadmium cations can invade chloroplasts in vivo. We found that in vivo, the major portion of Cd in barley chloroplasts is located in the thylakoids (80%), and the minor portion is in the stroma (20%). Therefore, the electron-transport chain in the thylakoids would be the likely target for direct Cd action in vivo. In vitro, we found the distribution of Cd to be shifted to the stroma (40-60%). In barley chloroplasts, the major portions of Mg, Fe, Mn, and Cu were found to be located in the thylakoids, and most Ca, Zn, and K in the stroma. This finding was true for both control and Cu- or Fe-treated plants. Treatment with Cd affected the contents of all cations, and the largest portions of Ca and Zn were in the thylakoids. Alterations of the K and Mn contents were caused by Cd, Cu, or Fe treatment; the levels of other cations in chloroplasts were changed specifically by Cd treatment. The quantity of Cd in chloroplasts was small in comparison to that of Mg, Ca, and Fe. In thylakoids, the amount of Cd was similar to that of Cu and comparable to the levels of Zn and Mn. Accordingly, the possible targets for direct Cd action in thylakoids are the Mn cluster, plastocyanin, carbonic anhydrase, or FtsH protease. The quantity of Cd in thylakoids is sufficient to replace a cation nearly completely at one of these sites or partially (20-30%) at many of these sites.",
+      "mesh_terms": [
+        "Cadmium",
+        "Chloroplasts",
+        "Photosynthesis",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "27777602",
+      "title": "Dietary green-plant thylakoids decrease gastric emptying and gut transit, promote changes in the gut microbial flora, but does not cause steatorrhea.",
+      "authors": [
+        "Eva-Lena Stenblom",
+        "Björn Weström",
+        "Caroline Linninge",
+        "Peter Bonn",
+        "Mary Farrell",
+        "Jens F Rehfeld",
+        "Caroline Montelius"
+      ],
+      "journal": "Nutrition & metabolism",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Green-plant thylakoids increase satiety by affecting appetite hormones such as ghrelin, cholecystokinin (CCK) and glucagon-like peptide-1 (GLP-1). The objective of this study was to investigate if thylakoids also affect gastrointestinal (GI) passage and microbial composition. To analyse the effects on GI passage, 16 rats were gavage-fed a control or thylakoid-supplemented high-fat diet (HFD) 30 min before receiving Evans blue. Another 16 rats were fed a control HFD or thylakoid HFD for two weeks prior to the intragastric challenge with Evans blue. The amount of Evans blue in the stomach and the distance of migration in the intestines after 30 min were used as a measurement of gastric emptying and intestinal transit. These were reduced by thylakoid supplementation in the acute study, and however not significantly also after the two-week diet study. The second aim of the study was to investigate if thylakoid-supplementation affects the gut microbiota and amount of faecal fat in healthy human volunteers (n = 34) receiving thylakoid or placebo treatments for three months. Microbiota was analysed using 16S rRNA gene sequencing and qPCR, and faecal fat was extracted by dichloromethane. The total bacteria, and specifically the Bacteriodes fragilis group, were increased by thylakoid treatment versus placebo, while thylakoids did not cause steatorrhea. Dietary supplementation with thylakoids thus affects satiety both via appetite hormones and GI fullness, and affects the microbial composition without causing GI adverse effects such as steatorrhea. This suggests thylakoids as a novel agent in prevention and treatment of obesity."
+    },
+    {
+      "pmid": "25016966",
+      "title": "The effect of heat treatment of thylakoids on their ability to inhibit in vitro lipase/co-lipase activity.",
+      "authors": [
+        "Karolina Östbring",
+        "Marilyn Rayner",
+        "Ingegerd Sjöholm",
+        "Jennie Otterström",
+        "Per-Åke Albertsson",
+        "Sinan Cem Emek",
+        "Charlotte Erlanson-Albertsson"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2014-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thylakoids has been shown to prolong lipolysis by the inhibition of lipase/co-lipase, which makes thylakoids suitable as a functional food ingredient with satiating properties. The components of thylakoids that provide its function as a lipolysis modulator are primarily photosystems I and II, which are structurally stabilised by chlorophyll. However, chlorophyll is known to be heat sensitive yet the enzymatic inhibiting capacity after heat treatment has not been previously studied. It was hypothesised that the retained function of thylakoids after heat treatment could be correlated to the degree of degradation. Heat treatment at either 60 °C, 75 °C or 90 °C for time interval ranging from 15 s to 120 min induced a color shift from bright green to olive brown which was attributed to degradation. The ability of heat-treated thylakoids to inhibit lipolysis in vitro was also reduced. A correlation between chlorophyll a degradation and the enzymatic inhibiting capacity could be established which opens possibilities to use a spectrophotometric method to quantify the ability of thylakoids to inhibit lipase/co-lipase in a more rapid and cost effective way to complement the pH-stat method used today. With the degradation pattern investigated, it is then possible to design a thermal treatment process to ensure a microbiological safe appetite-reducing product and at the same time minimize the loss of functionality.",
+      "mesh_terms": [
+        "Biomarkers, Tumor",
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Enzyme Inhibitors",
+        "Kinetics",
+        "Lipase",
+        "Lipolysis",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "24411616",
+      "title": "Dietary thylakoids suppress blood glucose and modulate appetite-regulating hormones in pigs exposed to oral glucose tolerance test.",
+      "authors": [
+        "Caroline Montelius",
+        "Katarzyna Szwiec",
+        "Marek Kardas",
+        "Liudmyla Lozinska",
+        "Charlotte Erlanson-Albertsson",
+        "Stefan Pierzynowski",
+        "Jens F Rehfeld",
+        "Björn Weström"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2014-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Dietary chloroplast thylakoids have previously been found to reduce food intake and body weight in animal models, and to change metabolic profiles in humans in mixed-food meal studies. The aim of this study was to investigate the modulatory effects of thylakoids on glucose metabolism and appetite-regulating hormones during an oral glucose tolerance test in pigs fed a high fat diet. METHODS: Six pigs were fed a high fat diet (36 energy% fat) for one month before oral glucose tolerance test (1 g/kg d-glucose) was performed. The experiment was designed as a cross-over study, either with or without addition of 0.5 g/kg body weight of thylakoid powder. RESULTS: The supplementation of thylakoids to the oral glucose tolerance test resulted in decreased blood glucose concentrations during the first hour, increased plasma cholecystokinin concentrations during the first two hours, and decreased late postprandial secretion of ghrelin. CONCLUSION: Dietary thylakoids may be a novel agent in reducing the glycaemic responses to high carbohydrate and high glycaemic index foods. Thylakoids may in the future be promising for treatment and prevention of diabetes, overweight and obesity.",
+      "mesh_terms": [
+        "Animals",
+        "Appetite",
+        "Blood Glucose",
+        "Body Weight",
+        "Cholecystokinin",
+        "Ghrelin",
+        "Glucose",
+        "Glucose Tolerance Test",
+        "Glycemic Index",
+        "Intestinal Absorption",
+        "Swine",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "22683464",
+      "title": "Identification of a 2-cys peroxiredoxin as a tetramethyl benzidine-hydrogen peroxide stained protein from the thylakoids of the extreme halophyte Arthrocnemum macrostachyum L.",
+      "authors": [
+        "Andrea Trotta",
+        "Alessia Antonacci",
+        "Francesco Marsano",
+        "Susana Redondo-Gomez",
+        "Enrique Manuel Figueroa Clemente",
+        "Flora Andreucci",
+        "Roberto Barbato"
+      ],
+      "journal": "Plant physiology and biochemistry : PPB",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Tetramethylbenzidine-H(2)O(2) staining of SDS-polyacrylamide gel is a widely used method for the specific detection of proteins with heme-dependent peroxidase activity. When this method was used with thylakoids from the halophytic plant Arthrocnemum macrostachyum, besides the cytochrome f and cytochrome b6 proteins usually found in higher plants and cyanobacteria, at least four additional bands were detected. One of them, a 46-kDa protein, was shown to be an extrinsic protein, and identified by mass spectrometry and immunoblotting as a 2-cys peroxiredoxin. Peroxidase activity was insensitive to oxidizing agents such as trans-4,4-diydroxy-1,2-dithiane or hydrogen peroxide, but was inhibited by treatment of thylakoids with reducing agents such as dithiothreitol or mercaptoethanol. By immunoblotting, it was shown that loss of peroxidase activity was paralleled by disappearance of the 46-kDa band, which was converted to a 23-kDa immunoreactive form. A dimer/monomer relationship between the two proteins is suggested, with the dimeric form likely being a heme-binding protein. This possibility was further supported by anionic exchange chromatography and de novo sequencing of tryptic fragments of the protein and sequence comparison, as most of the residues previously implicated in heme binding in 2-cys peroxiredoxin from Rattus norvegicus were conserved in A. macrostachyum. The amount of this protein was modulated by environmental conditions, and increased when salt concentration in the growth medium was higher or lower than the optimal one.",
+      "mesh_terms": [
+        "Amaranthaceae",
+        "Benzidines",
+        "Hydrogen Peroxide",
+        "Peroxiredoxins",
+        "Plant Proteins",
+        "Salt-Tolerant Plants",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "22169074",
+      "title": "Phosphorylation of PSII proteins in maize thylakoids in the presence of Pb ions.",
+      "authors": [
+        "Elżbieta Romanowska",
+        "Wioleta Wasilewska",
+        "Rikard Fristedt",
+        "Alexander V Vener",
+        "Maksymilian Zienkiewicz"
+      ],
+      "journal": "Journal of plant physiology",
+      "publication_date": "2012-Mar-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Lead is potentially toxic to all organisms including plants. Many physiological studies suggest that plants have developed various mechanisms to contend with heavy metals, however the molecular mechanisms remain unclear. We studied maize plants in which lead was introduced into detached leaves through the transpiration stream. The photochemical efficiency of PSII, measured as an Fv/Fm ratio, in the maize leaves treated with Pb was only 10% lower than in control leaves. The PSII activity was not affected by Pb ions in mesophyll thylakoids, whereas in bundle sheath it was reduced. Protein phosphorylation in mesophyll and bundle sheath thylakoids was analyzed using mass spectrometry and protein blotting before and after lead treatment. Both methods clearly demonstrated increase in phosphorylation of the PSII proteins upon treatment with Pb(2+), however, the extent of D1, D2 and CP43 phosphorylation in the mesophyll chloroplasts was clearly higher than in bundle sheath cells. We found that in the presence of Pb ions there was no detectable dephosphorylation of the strongly phosphorylated D1 and PsbH proteins of PSII complex in darkness or under far red light. These results suggest that Pb(2+) stimulates phosphorylation of PSII core proteins, which can affect stability of the PSII complexes and the rate of D1 protein degradation. Increased phosphorylation of the PSII core proteins induced by Pb ions may be a crucial protection mechanism stabilizing optimal composition of the PSII complexes under metal stress conditions. Our results show that acclimation to Pb ions was achieved in both types of maize chloroplasts in the same way. However, these processes are obviously more complex because of different metabolic status in mesophyll and bundle sheath chloroplasts.",
+      "mesh_terms": [
+        "Chlorophyll",
+        "Darkness",
+        "Lead",
+        "Light",
+        "Mesophyll Cells",
+        "Phosphorylation",
+        "Photosynthesis",
+        "Photosystem II Protein Complex",
+        "Plant Leaves",
+        "Plant Transpiration",
+        "Proteolysis",
+        "Stress, Physiological",
+        "Thylakoids",
+        "Zea mays"
+      ]
+    },
+    {
+      "pmid": "19308799",
+      "title": "Thylakoids promote release of the satiety hormone cholecystokinin while reducing insulin in healthy humans.",
+      "authors": [
+        "Rickard Köhnke",
+        "Agnes Lindbo",
+        "Therese Larsson",
+        "Andreas Lindqvist",
+        "Marilyn Rayner",
+        "Sinan C Emek",
+        "Per-Ake Albertsson",
+        "Jens F Rehfeld",
+        "Mona Landin-Olsson",
+        "Charlotte Erlanson-Albertsson"
+      ],
+      "journal": "Scandinavian journal of gastroenterology",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: The effects of a promising new appetite suppressor named \"thylakoids\" (membrane proteins derived from spinach leaves) were examined in a single meal in man. Thylakoids inhibit the lipase/colipase hydrolysis of triacylglycerols in vitro and suppress food intake, decrease body-weight gain and raise the satiety hormone cholecystokinin (CCK) in rats, but their effects in man remain unclear. The aim of this study was to investigate whether thylakoids, when added to a test meal, affect appetite regulation and blood parameters in healthy individuals. MATERIAL AND METHODS: In an intervention crossover study, healthy individuals of normal weight (n=11) were offered a high-fat meal with and without the addition of thylakoids. Blood samples were taken 0 (prior to meal), 30, 60, 120, 180, 240, 300 and 360 min after the start of the meal. Blood samples were analysed for satiety and hunger hormones (CCK, leptin and ghrelin), insulin and blood metabolites (glucose and free fatty acids). RESULTS: The CCK level increased, in particular between the 120 min time-point and onwards, the ghrelin level was reduced at 120 min and leptin level increased at 360 min after intake of the thylakoid-enriched meal. The insulin level was reduced, whereas glucose concentrations were unchanged. Free fatty acids were reduced between time-point 120 min and onwards after the thylakoid meal. CONCLUSIONS: The addition of thylakoids to energy-dense food promotes satiety signals and reduces insulin response during a single meal in man.",
+      "mesh_terms": [
+        "Cholecystokinin",
+        "Eating",
+        "Female",
+        "Humans",
+        "Insulin",
+        "Male",
+        "Satiety Response",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "32689412",
+      "title": "Photoinhibition and D1 protein degradation in mesophyll and agranal bundle sheath thylakoids of maize.",
+      "authors": [
+        "Berenika Pokorska",
+        "Elzbieta Romanowska"
+      ],
+      "journal": "Functional plant biology : FPB",
+      "publication_date": "2007-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Susceptibility of photosystem II complex (PSII) to photoinhibition and degradation of D1 protein has been described in the chloroplasts of C3 plants but so far, the PSII turnover has not been characterised in any C4 plant, which contains two types of chloroplasts differing biochemically and structurally. In maize (Zea mays L. Oleńka), chloroplasts located in mesophyll (M) develop grana, while bundle sheath (BS) chloroplasts are agranal. In this paper, we report the D1 protein phosphorylation, damage and proteolysis in mesophyll as well as in agranal bundle sheath thylakoids of maize plants. Photoinhibitory treatment (1800 μmol photons m-2 s-1) of isolated thylakoids led to donor side inhibition of PSII electron transport and then to damage of reaction centre in both M and BS thylakoids. Rate of D1 degradation rate was faster in BS than in M thylakoids, and the addition of ATP to incubation medium delayed D1 degradation in both types of thylakoids. Furthermore, we demonstrated that the proteases belonging to FtsH and Deg families were present but their amounts significantly differed in M and BS thylakoids. Protease inhibitor studies revealed that serine- and metallo-proteases were involved in degradation of D1 protein. Apparent existence of D1 degradation cycle and the presence of proteolytic enzymes responsible for this process in BS thylakoids confirm that PSII plays an important role in agranal membranes, and when damaged, D1 can be rapidly degraded to enable PSII repair and restoration in these membranes."
+    },
+    {
+      "pmid": "17340213",
+      "title": "Differential response of chloride binding sites to elevated temperature: a comparative study in spinach thylakoids and PSII-enriched membranes.",
+      "authors": [
+        "Arjun Tiwari",
+        "Anjana Jajoo",
+        "Sudhakar Bharti",
+        "Prasanna Mohanty"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2007",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "A study of heat effects was performed in thylakoids and photosystem II (PSII)-enriched membranes isolated from spinach in relation to Cl(-)-induced activation of PSII catalyzed oxygen evolution and the retention of Cl(-) in the PSII complex. For this, Cl(-)-sufficient membranes and low-Cl(-) membranes were used. The presence of Cl(-) in the reaction medium did accelerate oxygen evolution, which remained unaffected by heat treatment up to 40 degrees C in PSII membranes and up to 42.5 degrees C in thylakoids. Heat resistance of Cl(-)-induced activation of oxygen evolution was found to be independent of the presence of 'bound Cl(-)' in the preparations. However, the functional stability of the PSII complex during heat treatment showed a marked dependence on the presence of bound Cl(-) in PSII. Electron paramagnetic resonance study of manganese (Mn) release per reaction center/Y (D) (+) showed that there was little loss of Mn(2+) up to 42 degrees C in our preparations, although the PSII activity was significantly lowered. These observations together with data from steady state chlorophyll a fluorescence imply that the site of action of Cl(-) causing direct activation of oxygen evolution was different from the site of primary heat damage. A differential response of chloride binding sites to heat stress was observed. The high-affinity (tightly bound, slow exchanging) site of chloride is affected earlier ( approximately 37 degrees C) while low-affinity (loosely bound, fast exchanging) site gets affected at higher temperatures (42.5 degrees C in thylakoids and 40 degrees C in the case of PSII-enriched membranes).",
+      "mesh_terms": [
+        "Binding Sites",
+        "Chlorides",
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Electron Spin Resonance Spectroscopy",
+        "Intracellular Membranes",
+        "Manganese",
+        "Oxygen",
+        "Photosystem II Protein Complex",
+        "Spectrometry, Fluorescence",
+        "Spinacia oleracea",
+        "Temperature",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "17005156",
+      "title": "Limited sensitivity of pigment photo-oxidation in isolated thylakoids to singlet excited state quenching in photosystem II antenna.",
+      "authors": [
+        "Stefano Santabarbara"
+      ],
+      "journal": "Archives of biochemistry and biophysics",
+      "publication_date": "2006-Nov-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Light-induced pigment oxidation and its relation to excited state quenching in photosystems antennae have been investigated in isolated thylakoids. The results indicate that (i) chlorophyll oxidation takes place in two sequential steps. A slow initial phase is followed by a steep increase in the bleaching rate when more than one quarter of the chromophores are oxidised. (ii) During the initial slow phase, the carotenoid pool is bleached with an apparent rate which is about three times faster than that found for chlorophyll a and more than six times faster than that of chlorophyll b. (iii) Pigment bleaching has been observed both in photosystem I and photosystem II, and it has been possible to estimate a similar carotenoid bleaching rate in the two photosystems. (iv) The protection conferred by singlet state quenchers in the initial slow phase of pigment oxidation is modest. Taking into consideration that both the photosystems are subjected to the oxidative treatment, a somewhat larger protective effect than those estimated for photo-inhibition in thylakoids [S. Santabarbara, F.M. Garlaschi, G. Zucchelli, R.C. Jennings, Biochim. Biophys. Acta 1409 (1999) 165-170] can be computed, although it is less than 50% of the expected level on the basis of the observed reciprocity to the number of incident photons. (v) Pigment oxidation is associated with the loss of membrane ultra-structure, which is interpreted as originating from a decrease in grana stacking. The dynamics of loss of membrane ultra-structure parallel the phases observed for chlorophyll photo-bleaching.",
+      "mesh_terms": [
+        "Carotenoids",
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Circular Dichroism",
+        "Kinetics",
+        "Light",
+        "Oxidation-Reduction",
+        "Photochemistry",
+        "Photosystem II Protein Complex",
+        "Plant Proteins",
+        "Spectrometry, Fluorescence",
+        "Thylakoids",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "16478766",
+      "title": "Antisense inhibition of Rubisco activase increases Rubisco content and alters the proportion of Rubisco activase in stroma and thylakoids in chloroplasts of rice leaves.",
+      "authors": [
+        "Song-Heng Jin",
+        "Jian Hong",
+        "Xue-Qin Li",
+        "De-An Jiang"
+      ],
+      "journal": "Annals of botany",
+      "publication_date": "2006-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) activase (RCA) is a nuclear-encoded chloroplast protein that modifies the conformation of Rubisco, releases inhibitors from active sites, and increases enzymatic activity. It appears to have other functions, e.g. in gibberellin signalling and as a molecular chaperone, which are related to its distribution within the chloroplast. The aim of this research was to resolve uncertainty about the localization of RCA, and to determine whether the distributions of Rubisco and RCA were altered when RCA content was reduced. The monocotyledon, Oryza sativa was used as a model species. METHODS: Gas exchange and Rubisco were measured, and the sub-cellular locations of Rubisco and RCA were determined using immunogold-labelling electron microscopy, in wild-type and antisense rca rice plants. KEY RESULTS: In antisense rca plants, net photosynthetic rate and the initial Rubisco activity decreased much less than RCA content. Immunocytolocalization showed that Rubisco in wild-type and antisense plants was localized in the stroma of chloroplasts. However, the amount of Rubisco in the antisense rca plants was greater than in the wild-type plants. RCA was detected in both the chloroplast stroma and in the thylakoid membranes of wild-type plants. The percentage of RCA labelling in the thylakoid membrane was shown to be substantially decreased, while the fraction in the stroma was increased, by the antisense rca treatment. CONCLUSIONS: From the changes in RCA distribution and alterations in Rubisco activity, RCA in the stroma of the chloroplast probably contributes to the activation of Rubisco, and RCA in thylakoids compensates for the reduction of RCA in the stroma, allowing steady-state photosynthesis to be maintained when RCA is depleted. RCA may also have a second role in protecting membranes against environmental stresses as a chaperone.",
+      "mesh_terms": [
+        "Chloroplasts",
+        "Oryza",
+        "Plant Leaves",
+        "Plant Proteins",
+        "Plants, Genetically Modified",
+        "RNA, Antisense",
+        "Ribulose-Bisphosphate Carboxylase",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "16328824",
+      "title": "On why thylakoids energize ATP formation using either delocalized or localized proton gradients - a ca(2+) mediated role in thylakoid stress responses.",
+      "authors": [
+        "Richard A Dilley"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "By the early 1970s, the chemiosmotic hypothesis of Peter Mitchell was widely accepted by bioenergetics researchers as the best conceptual scheme to explain how ATP is formed in oxidative and photosynthetic phosphorylation. At about the same time, however, work from a few laboratories suggested that some aspects of that elegant, relatively simple hypothesis required revision - not abandonment, but refinement to accommodate more complex movements of protons in the ATP formation mechanism than originally envisioned by Peter Mitchell. In some situations it appeared that protons were constrained to localized domains rather than always delocalized within an enclosed vesicle as envisioned by chemiosmosis. This minireview tells that story from my perspective, as one of the researchers involved in the experimental approaches that revealed more complex energy coupling proton flux patterns. Ionic conditions during isolated thylakoid storage were found to reversibly switch the [Formula: see text] gradient driving ATP formation between delocalized and localized energy coupling modes. Thylakoid accessible Ca(2+) ions proved to be the switching factor that was responding to the ionic conditions in the storage treatment. The mechanism of Ca(2+) was at least partially demystified when it was shown that the reversible switching between [Formula: see text] energy coupling modes involved Ca(2+) interactions with the 8 kDa CF(0) (the H(+) channel) subunit in a type of H(+) flux gating action. Other experiments showed that the Ca(2+) gating of H(+) flux into the lumen may be a critical regulatory factor in controlling the lumen pH and thereby help regulate the activity of the violaxanthin de-epoxidase enzyme, a key part of the chloroplast photoprotective response to over-energization (excess light) stress."
+    },
+    {
+      "pmid": "16228403",
+      "title": "Carbonic anhydrase activities in pea thylakoids.",
+      "authors": [
+        "O V Moskvin",
+        "T V Shutova",
+        "M S Khristin",
+        "L K Ignatova",
+        "A Villarejo",
+        "G Samuelsson",
+        "V V Klimov",
+        "B N Ivanov"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Pea thylakoids with high carbonic anhydrase (CA) activity (average rates of 5000 micromol H(+) (mg Chl)(-1) h(-1) at pH 7.0) were prepared. Western blot analysis using antibodies raised against the soluble stromal beta-CA from spinach clearly showed that this activity is not a result of contamination of the thylakoids with the stromal CA but is derived from a thylakoid membrane-associated CA. Increase of the CA activity after partial membrane disintegration by detergent treatment, freezing or sonication implies the location of the CA in the thylakoid interior. Salt treatment of thylakoids demonstrated that while one part of the initial enzyme activity is easily soluble, the rest of it appears to be tightly associated with the membrane. CA activity being measured as HCO(3) (-) dehydration (dehydrase activity) in Photosystem II particles (BBY) was variable and usually low. The highest and most reproducible activities (approximately 2000 micromol H(+) (mg Chl)(-1) h(-1)) were observed in the presence of detergents (Triton X-100 or n-octyl-beta-D-glucopyranoside) in low concentrations. The dehydrase CA activity of BBY particles was more sensitive to the lipophilic CA inhibitor, ethoxyzolamide, than to the hydrophilic CA inhibitor, acetazolamide. CA activity was detected in PS II core complexes with average rate of 13,000 micromol H(+) (mg Chl)(-1) h(-1) which was comparable to CA activity in BBY particles normalized on a PS II reaction center basis."
+    },
+    {
+      "pmid": "16228340",
+      "title": "Preparation and functional characterization of thylakoids from Arabidopsis thaliana.",
+      "authors": [
+        "A P Casazza",
+        "D Tarantino",
+        "C Soave"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2001",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A protocol for the isolation of functional thylakoids from Arabidopsis thaliana leaves was developed. The critical factor in obtaining active, coupled and stable preparation is the inclusion of EDTA and EGTA in the grinding buffer. Preparations were characterized with respect to the whole or partial electron transport chain, ATP/NADPH, ATP/O(2) and PS II/chlorophyll ratios. Sensitivity to a light-chill photoinhibitory treatment was also determined by evaluating the decrease in both maximal photochemical efficiency (Fv/Fm) and in electron transport rate."
+    },
+    {
+      "pmid": "16143918",
+      "title": "Dioxygen uptake by isolated thylakoids from lettuce (Lactuca sativa L.): simultaneous measurements of dioxygen uptake, pH change of the medium and chlorophyll fluorescence parameters.",
+      "authors": [
+        "Andrzej Waloszek",
+        "Stanisław Wieckowski"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "2005",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The setup has been elaborated for the simultaneous measurements of dioxygen uptake, pH changes, and chlorophyll a fluorescence parameters of an isolated thylakoid suspension. Using this equipment we have found at least three kinetically distinguishable components in the response of dioxygen uptake and pH increase to light intensity in the range of 0-1600 microE m(-2) s(-1). The pH changes were not observed in the presence of uncouplers (2 microM valinomycin plus 2 microM nigericin) while O(2) uptake increased by about 10% and F (v)/F (m) ratio appeared to be unaffected by this treatment. Treatment with DNP-INT, an inhibitor of plastoquinol oxidation, led to a significant reduction of pH increase and O(2) consumption whereas F (v) /F (m) was impaired only to 71% of the control. Incubation with catalase (580 U/ml) caused a total inhibition of oxygen uptake, while the pH increased and the F (v) /F (m) ratio decreased to about 60% and 85% of the control, respectively. The addition of catalase after the irradiation period led to an evolution of the same amount of dioxygen as was consumed during the light period. These results show that hydrogen peroxide was formed in the investigated system and accumulated during illumination. On the basis of the obtained data, three sites of dioxygen reduction within isolated thylakoid membranes and the dependence of dioxygen uptake on the photosystem activities were discussed.",
+      "mesh_terms": [
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Culture Media",
+        "Fluorescence",
+        "Hydrogen-Ion Concentration",
+        "Lactuca",
+        "Light",
+        "Oxygen",
+        "Photosynthesis",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "15882837",
+      "title": "EPR kinetic studies of the S-1 state in spinach thylakoids.",
+      "authors": [
+        "M Reza Razeghifard",
+        "Damien Kuzek",
+        "Ron J Pace"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "2005-Jun-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The Y(Z)* decay kinetics in a formal S(-1) state, regarded as a reduced state of the oxygen evolving complex, was determined using time-resolved EPR spectroscopy. This S(-1) state was generated by biochemical treatment of thylakoid membranes with hydrazine. The steady-state oxygen evolution of the sample was used to optimize the biochemical procedure for performing EPR experiments. A high yield of the S(-1) state was generated as judged by the two-flash delay in the first maximum of oxygen evolution in Joliot flash-type experiments. We have shown that the Y(Z)* re-reduction rate by the S(-1) state is much slower than that of any other S-state transition in hydrazine-treated samples. This slow reduction rate in the S(-1) to S(0) transition, which is in the order of the S(3) to S(0) transition rate, suggests that this transition is accompanied by some structural rearrangements. Possible explanations of this unique, slow reduction rate in the S(-1) to S(0) transition are considered, in light of earlier observations by others on hydrazine/hydroxylamine reduced PS II samples.",
+      "mesh_terms": [
+        "Electron Spin Resonance Spectroscopy",
+        "Hydrazines",
+        "Kinetics",
+        "Manganese",
+        "Oxidation-Reduction",
+        "Oxygen",
+        "Photosystem II Protein Complex",
+        "Spinacia oleracea",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "15187262",
+      "title": "Fractionation of thylakoid membranes into grana and stroma thylakoids.",
+      "authors": [
+        "Juan Cuello",
+        "María José Quiles"
+      ],
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "publication_date": "2004",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The chloroplasts contain an extensive system of internal membranes or thylakoids in which all the light-harvesting and energy-transducing processes of the photosynthesis are located. Thylakoids are differentiated into stacked membrane regions (or grana thylakoids) and nonstacked membranes (or stroma thylakoids), each with a specialized structure and function. Both kinds of thylakoids can be separated by detergent-based methods or mechanical fragmentation such as sonication. We describe the fractionation of thylakoid membranes into grana and stroma thylakoids by treatment with the detergent digitonin and successive ultracentrifugation of the resultant vesicles. After their separation, the thylakoid fractions retain electron transport and enzymatic activities and are characterized using various parameters. The stroma thylakoids have higher chlorophyll a/chlorophyll b and protein/total chlorophyll ratios, and greater photosystem I and NADH dehydrogenase activities than the grana thylakoids. In the conditions used and on a protein basis of total thylakoids, the yield of stroma thylakoids is 5%, which is considerable taking into account that the stroma thylakoids are a minor component of total thylakoids.",
+      "mesh_terms": [
+        "Cell Fractionation",
+        "Chlorophyll",
+        "Digitonin",
+        "Hordeum",
+        "Indicators and Reagents",
+        "Intracellular Membranes",
+        "Thylakoids",
+        "Ultracentrifugation"
+      ]
+    },
+    {
+      "pmid": "12857815",
+      "title": "Potato plants lacking the CDSP32 plastidic thioredoxin exhibit overoxidation of the BAS1 2-cysteine peroxiredoxin and increased lipid Peroxidation in thylakoids under photooxidative stress.",
+      "authors": [
+        "Mélanie Broin",
+        "Pascal Rey"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "2003-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The CDSP32 protein (chloroplastic drought-induced stress protein of 32 kD) is a thioredoxin participating in the defense against oxidative damage. We recently have identified in vitro the BAS1 2-Cys peroxiredoxin, a peroxide-detoxifying enzyme, as a target for CDSP32. Here, we report the characterization under stress conditions of transgenic potato (Solanum tuberosum) plants lacking CDSP32 with regard to the BAS1 redox state and the level of lipid peroxidation. Under control conditions, BAS1 is present at similar levels both in wild-type (WT) and transgenic plants. Under drought and methyl viologen treatment, CDSP32-lacking plants display, compared with WT, an increased proportion of BAS1 monomer corresponding to an overoxidized form of the protein. Leaf discs from transgenic plants treated with methyl viologen exhibit earlier degradation of BAS1 than WT plants do. Using several approaches, i.e. a probe emitting fluorescence when reacting with peroxides, high-performance liquid chromatography determination of lipid hydroxy fatty acid content, and measurement of chlorophyll thermoluminescence, we show a higher lipid peroxidation level under methyl viologen treatment in thylakoids from CDSP32-lacking plants compared with WT. These data show that CDSP32 is a critical component in the defense system against lipid peroxidation in photosynthetic membranes, likely as a physiological electron donor to the BAS1 peroxiredoxin.",
+      "mesh_terms": [
+        "Arabidopsis Proteins",
+        "Disasters",
+        "Fluorescent Dyes",
+        "Gene Deletion",
+        "Lipid Peroxidation",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Paraquat",
+        "Peroxidases",
+        "Peroxides",
+        "Peroxiredoxins",
+        "Plant Leaves",
+        "Plants, Genetically Modified",
+        "Protoplasts",
+        "Solanum tuberosum",
+        "Thioredoxins",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "12685033",
+      "title": "Characterisation of senescence-induced changes in light harvesting complex II and photosystem I complex of thylakoids of Cucumis sativus cotyledons: age induced association of LHCII with photosystem I.",
+      "authors": [
+        "Jogadhenu Syama Sundara Prakash",
+        "Masroor A Baig",
+        "Anil S Bhagwat",
+        "Prasanna Mohanty"
+      ],
+      "journal": "Journal of plant physiology",
+      "publication_date": "2003-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Structure and function of chloroplasts are known to after during senescence. The senescence-induced specific changes in light harvesting antenna of photosystem II (PSII) and photosystem I (PSI) were investigated in Cucumis cotyledons. Purified light harvesting complex II (LHCII) and photosystem I complex were isolated from 6-day non-senescing and 27-day senescing Cucumis cotyledons. The chlorophyll a/b ratio of LHCII obtained from 6-day-old control cotyledons and their absorption, chlorophyll a fluorescence emission and the circular dichroism (CD) spectral properties were comparable to the LHCII preparations from other plants such as pea and spinach. The purified LHCII obtained from 27-day senescing cotyledons had a Chl a/b ratio of 1.25 instead of 1.2 as with 6-day LHCII and also exhibited significant changes in the visible CD spectrum compared to that of 6-day LHCII, indicating some specific alterations in the organisation of chlorophylls of LHCII. The light harvesting antenna of photosystems are likely to be altered due to aging. The room temperature absorption spectrum of LHCII obtained from 27-day senescing cotyledons showed changes in the peak positions. Similarly, comparison of 77K chlorophyll a fluorescence emission characteristics of LHCII preparation from senescing cotyledons with that of control showed a small shift in the peak position and the alteration in the emission profile, which is suggestive of possible changes in energy transfer within LHCII chlorophylls. Further, the salt induced aggregation of LHCII samples was lower, resulting in lower yields of LHCII from 27-day cotyledons than from normal cotyledons. Moreover, the PSI preparations of 6-day cotyledons showed Chl a/b ratios of 5 to 5.5, where as the PSI sample of 27-day cotyledons had a Chl a/b ratio of 2.9 suggesting LHCII association with PSI. The absorption, fluorescence emission and visible CD spectral measurements as well as the polypeptide profiles of 27-day cotyledon-PSI complexes indicated age-induced association of LHCII of PSII with PSI obtained from 27-day cotyledons. We modified our isolation protocols by increasing the duration of detergent Triton X-100 treatment for preparing the PSI and LHCII complexes from 27-day cotyledons. However, the PSI complexes isolated from senescing samples invariably proved to have significantly low Chl a/b ratio suggesting an age induced lateral movement and possible association of LHCII with PSI complexes. The analyses of polypeptide compositions of LHCII and PSI holocomplexes isolated from 6-day control and 27-day senescing cotyledons showed distinctive differences in their profiles. The presence of 26-28 kDa polypeptide in PSI complexes from 27-day cotyledons, but not in 6-day control PSI complexes is in agreement with the notion that senescence induced migration of LHCII to stroma lamellae and its possible association with PSI. We suggest that the migration of LHCII to the stroma lamellae region and its possible association with PSI might cause the destacking and flattening of grana structure during senescence of the chloroplasts. Such structural changes in light harvesting antenna are likely to alter energy transfer between two photosystems. The nature of aging induced migration and association of LHCII with PSI and its existence in other senescing systems need to be estimated in the future.",
+      "mesh_terms": [
+        "Chlorophyll",
+        "Chlorophyll A",
+        "Circular Dichroism",
+        "Cucumis sativus",
+        "Energy Transfer",
+        "Light-Harvesting Protein Complexes",
+        "Peptides",
+        "Photosynthetic Reaction Center Complex Proteins",
+        "Photosystem I Protein Complex",
+        "Photosystem II Protein Complex",
+        "Spectrometry, Fluorescence",
+        "Thylakoids"
+      ]
+    },
+    {
+      "pmid": "10504242",
+      "title": "Characterization of the fast and slow reversible components of non-photochemical quenching in isolated pea thylakoids by picosecond time-resolved chlorophyll fluorescence analysis.",
+      "authors": [
+        "M Richter",
+        "R Goss",
+        "B Wagner",
+        "A R Holzwarth"
+      ],
+      "journal": "Biochemistry",
+      "publication_date": "1999-Sep-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The fast and slow reversible components of non-photochemical chlorophyll fluorescence quenching commonly assigned to the qE and the qI mechanism have been studied in isolated pea thylakoids which were prepared from leaves after a moderate photoinhibitory treatment. Chlorophyll fluorescence decays were measured at picosecond resolution and analyzed on the basis of the heterogeneous exciton/radical pair equilibrium model. Our results show that the fast reversible non-photochemical quenching is completely assigned to the PS II antenna and is related to zeaxanthin. The slow reversible qI type quenching is located at the PS II reaction center and involves enhanced nonradiative decay of the primary charge separated state to its ground state and/or triplet excited state. Apart from its independence from the proton gradient, the qI quenching shows striking similarities to a particular form of qE quenching which is also located at the PS II reaction center and has resently been resolved in isolated thylakoids from dark-adapted leaves [Wagner, B., et al. (1996) J. Photochem. Photobiol., B 36, 339-350]. Our data suggest that during exposure to the supersaturating light the reaction center qE component was replaced by qI quenching. This qE to qI transition is supposed to be part of the mechanism of the long-term downregulation of PS II during photoinhibition. It is also evident that under the conditions used in our study zeaxanthin-dependent antenna quenching is not involved in the slow reversible downregulation of PS II but that it retains its dependence on the proton gradient during exposure to strong light.",
+      "mesh_terms": [
+        "Chlorophyll",
+        "Kinetics",
+        "Pisum sativum",
+        "Plant Proteins",
+        "Spectrometry, Fluorescence"
+      ]
+    },
+    {
+      "pmid": "9625705",
+      "title": "The NAD(P)H dehydrogenase in barley thylakoids is photoactivatable and uses NADPH as well as NADH.",
+      "authors": [
+        "Bernhard Teicher H",
+        "Vibe Scheller H"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1998-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "An improved light-dependent assay was used to characterize the NAD(P)H dehydrogenase (NDH) in thylakoids of barley (Hordeum vulgare L.). The enzyme was sensitive to rotenone, confirming the involvement of a complex I-type enzyme. NADPH and NADH were equally good substrates for the dehydrogenase. Maximum rates of activity were 10 to 19 &mgr;mol electrons mg-1 chlorophyll h-1, corresponding to about 3% of linear electron-transport rates, or to about 40% of ferredoxin-dependent cyclic electron-transport rates. The NDH was activated by light treatment. After photoactivation, a subsequent light-independent period of about 1 h was required for maximum activation. The NDH could also be activated by incubation of the thylakoids in low-ionic-strength buffer. The kinetics, substrate specificity, and inhibitor profiles were essentially the same for both induction strategies. The possible involvement of ferredoxin:NADP+ oxidoreductase (FNR) in the NDH activity could be excluded based on the lack of preference for NADPH over NADH. Furthermore, thenoyltrifluoroacetone inhibited the diaphorase activity of FNR but not the NDH activity. These results also lead to the conclusion that direct reduction of plastoquinone by FNR is negligible."
+    },
+    {
+      "pmid": "24301989",
+      "title": "The role of transmembrane electrochemical potential and phosphorylation of PS II proteins in temperature induced light emission from ATP-treated lettuce thylakoids.",
+      "authors": [
+        "J Farineau"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1996-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Changes in characteristics of flash-induced thermoluminescence (TL) glow curves in thylakoids of lettuce following incubation of the organelles with ATP, under illumination or in the dark, were investigated. TL bands were induced by 1 or 2 flashes fired at -10°C or 1°C in thylakoids: TL curves in control thylakoids which were dark-adapted or submitted to an illumination without ATP, can be deconvoluted as the sum of one single B band and minor contributions. In thylakoids incubated for 90 s with 0.5 mM ATP, either under light or in the dark (after a 90 s preillumination), bands presented complex shapes; after deconvolution, they appeared composed of a B band with a low Ea (activation energy): 0.6 e.v. as compared to 0.75 in control, and a supplementary band peaking at about 10°C. The band at low temperature was suppressed by low concentrations (10-20 nM) of valinomycin, nigericin or FCCP as well as by 10 mM ammonium chloride, leaving B bands with the same characteristics as in control material. Finally with higher nigericin concentrations, the bands became single B bands with high Ea (0.9 e.v.). These characteristics would define 3 different energized states (in the form of a transmembrane electrochemical potential) for thylakoids based upon the presence of the 10°C band and the value of the activation energy for the B band component. The presence of a large 10°C band was also correlated to the existence of a larger transmembrane pH gradient, in the dark, after an ATP-treatment, than in controls. The 10°C band was specifically suppressed by the action of low concentrations of alkaline phosphatase with minor changes in characteristics of the remaining B band suggesting that phosphorylation of PS II proteins is also involved in the appearance of this low temperature band. The main mechanism at the origin of the low temperature band would be a destabilization of S2/3QB (-) charge pairs in energized membranes."
+    },
+    {
+      "pmid": "24301594",
+      "title": "The role of phospholipids in regulating photosynthetic electron transport activities: Treatment of thylakoids with phospholipase C.",
+      "authors": [
+        "M Droppa",
+        "G Horváth",
+        "E Hideg",
+        "T Farkas"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1995-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The involvement of phospholipids in the regulation of photosynthetic electron transport activities was studied by incubating isolated pea thylakoids with phospholipase C to remove the head-group of phospholipid molecules. The treatment was effective in eliminating 40-50% of chloroplast phospholipids and resulted in a drastic decrease of photosynthetic electron transport. Measurements of whole electron transport (H2O→methylviologen) and Photosystem II activity (H2O→p-benzoquinone) demonstrated that the decrease of electron flow was due to the inactivation of Photosystem II centers. The variable part of fluorescence induction measured in the absence of electron acceptor was decreased by the progress of phospholipase C hydrolysis and part of the signal could be restored on addition of 3-(3',4'-dicholorophenyl)-1,1-dimethylurea. The B and Q bands of thermoluminescence corresponding to S2S3QB (-) and S2S3QA (-) charge recombination, respectively, was also decreased with a concomitant increase of the C band, which originated from the tyrosine D(+)QA (-) charge recombination. These results suggest that phospholipid molecules play an important role in maintaining the membrane organization and thus maintaining the electron transport activity of Photosystem II complexes."
+    },
+    {
+      "pmid": "8034593",
+      "title": "Plastocyanin and the 33-kDa subunit of the oxygen-evolving complex are transported into thylakoids with similar requirements as predicted from pathway specificity.",
+      "authors": [
+        "J Yuan",
+        "K Cline"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "1994-Jul-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Plastocyanin and the 33-kDa subunit of the oxygen-evolving complex (OE33) are two of several thylakoid lumen-located proteins that are made in the cytosol, imported into chloroplasts, and subsequently transported into thylakoids. Recently, competition studies showed that there are two pathways for protein transport into the thylakoid lumen and that plastocyanin and OE33 are on the same pathway (Cline, K., Henry, R., Li, C., and Yuan, J. (1993) EMBO J. 12, 4105-4114). Our expectation is that transport requirements reflect the steps of the process and that proteins on the same pathway share similar requirements. Unfortunately, the transport requirements for plastocyanin and OE33 are not well established. Here, we investigated transport in a reconstituted system with isolated thylakoids. Efficient transport of OE33 and plastocyanin was only obtained when stromal extract was included in the assay. Heat or protease treatment of stromal extract eliminated its ability to stimulate transport. Transport was abolished by treatments designed to deplete ATP or to prevent its formation and was greatly reduced in the presence of ionophores that dissipate the trans-thylakoidal proton gradient. These results show that transport of OE33 and plastocyanin requires ATP and is stimulated by stromal protein(s) and the trans-thylakoidal proton gradient. Taken together, these and previous results suggest that there are two mechanistically distinct pathways for protein transport into the thylakoid lumen.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Arabidopsis",
+        "Biological Transport",
+        "Chloroplasts",
+        "Hydrogen-Ion Concentration",
+        "Intracellular Membranes",
+        "Ionophores",
+        "Kinetics",
+        "Macromolecular Substances",
+        "Molecular Weight",
+        "Organelles",
+        "Photosynthetic Reaction Center Complex Proteins",
+        "Photosystem II Protein Complex",
+        "Plastocyanin",
+        "Proton-Translocating ATPases",
+        "Venturicidins"
+      ]
+    },
+    {
+      "pmid": "8369309",
+      "title": "Generation, oxidation by the oxidized form of the tyrosine of polypeptide D2, and possible electronic configuration of the redox states S0, S-1, and S-2 of the water oxidase in isolated spinach thylakoids.",
+      "authors": [
+        "J Messinger",
+        "G Renger"
+      ],
+      "journal": "Biochemistry",
+      "publication_date": "1993-Sep-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Suitable treatment of thylakoids with hydrazine permits a high population of the redox states S0, S-1, and S-2 in the water oxidase. Experiments performed with dark-adapted samples enriched either in the oxidized or reduced form of the redox-active tyrosine, YD, of polypeptide D2 reveal that YoxD is a unique endogenous oxidant within the PS II complex which causes a one-electron abstraction from the water oxidase in states S0, S-1, and S-2, respectively. A kinetic analysis of the period four oscillation of oxygen yield induced by a train of short flashes in dark-adapted samples permits the determination of the rate constants of electron abstraction from the reduced water oxidase by YoxD. A value of 9 x 10(-4) s-1 was found for the oxidation of S0 and S-2, while S-1 becomes oxidized with a rate constant of 4 x 10(-4) s-1 at 20 degrees C and pH 7.2. The redox state S0 generated either from S1 via the three-flash-induced oxidative pathway through S4 or from a one-flash oxidation of the S-1 state obtained by S1 reduction with NH2NH2 exhibits the same kinetics as S0 oxidation by YoxD. On the basis of these findings and data taken from the literature, the electronic configuration of the manganese atoms in the tetranuclear cluster is discussed. It is assumed that the dimer model of two binuclear manganese groups within the tetranuclear cluster is discussed.(ABSTRACT TRUNCATED AT 250 WORDS)",
+      "mesh_terms": [
+        "Electrochemistry",
+        "Intracellular Membranes",
+        "Kinetics",
+        "Oxidation-Reduction",
+        "Photosynthetic Reaction Center Complex Proteins",
+        "Photosystem II Protein Complex",
+        "Tyrosine",
+        "Vegetables"
+      ]
+    },
+    {
+      "pmid": "24317653",
+      "title": "Electron transport, Photosystem-2 reaction centers and chlorophyll-protein complexes of thylakoids of drought resistant and sensitive Lupin piants.",
+      "authors": [
+        "S Meyer",
+        "Y de Kouchkovsky"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1993-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Two genotypes ofLupinus albus L., resistant and susceptible to drought, were subjected to water deficiency for up to two weeks. Such treatment progressively lowered the leaf water content from about 85% to about 60% (water potential from -0.8 to -4.3 MPa). Light-saturation curves of the uncoupled electron transport were analyzed according to a simple kinetic model of separated or connected reversible photoreactions. It gives an extrapolated maximum rate (Vmax) and the efficiency for capturing light (Im, which is the light intensity at Vmax/2). For Photosystem 2, Vmax and, less markedly, Im, declined with increasing severity of drought treatment; the artificial donor, diphenylcarbazide, could not restore the activity. One cause of this Photosystem 2 inhibition could be the loss of active Photosystem 2 centers. Indeed, their concentration relative to chlorophyll, estimated by flash-induced reduction of dimethylquinone, was halved by a medium stress. To the extent that it was still not restored by diphenylcarbazide, the site of Photosystem 2 inactivation must have been close to the photochemical trap, after water oxidation and before or at plastoquinone pool. By relating electron transport rate to active centers instead of chlorophyll, no inhibition by drought was detected. Therefore, water stress inactivates specifically Photosystem 2, without impairing a downhill thermal step of electron transport. On the other hand, the decrease of Im suggests that antennae connected to inactive centers may transfer their excitation energy to active neighbors, which implies that antenna network remains essentially intact. Gel electrophoresis confirmed that the apoproteins of the pigment complexes were well conserved. In conclusion, the inactivation of Photosystem 2 may not be a physical loss of its centers and core antennae but probably reflects protein alterations or conformational changes. These may result from the massive decrease of lipids induced by drought (Meyer et al. 1992, Photosynth. Res. 32: 95-107). Both lupin genotypes behaved similarly but, for a same deficiency, the resistant seemed unexpectedly more sensitive to drought."
+    },
+    {
+      "pmid": "12231815",
+      "title": "Aspects of Subunit Interactions in the Chloroplast ATP Synthase (I. Isolation of a Chloroplast Coupling Factor 1-Subunit III Complex from Spinach Thylakoids).",
+      "authors": [
+        "C. M. Wetzel",
+        "R. E. McCarty"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1993-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A chloroplast ATP synthase complex (CF1 [chloroplast-coupling factor 1]-CF0 [membrane-spanning portion of chloroplast ATP synthase]) depleted of all CF0 subunits except subunit III (also known as the proteolipid subunit) was purified to study the interaction between CF1 and subunit III. Subunit III has a putative role in proton translocation across the thylakoid membrane during photophosphorylation; therefore, an accurate model of subunit inter-actions involving subunit III will be valuable for elucidating the mechanism and regulation of energy coupling. Purification of the complex from a crude CF1-CF0 preparation from spinach (Spinacia oleracea) thylakoids was accomplished by detergent treatment during anion-exchange chromatography. Subunit III in the complex was positively identified by amino acid analysis and N-terminal sequencing. The association of subunit III with CF1 was verified by linear sucrose gradient centrifugation, immunoprecipitation, and incorporation of the complex into asolectin liposomes. After incorporation into liposomes, CF1 was removed from the CF1-III complex by ethylenediaminetetracetate treatment. The subunit III-proteoliposomes were competent to rebind purified CF1. These results indicate that subunit III directly interacts with CF1 in spinach thylakoids."
+    },
+    {
+      "pmid": "24318795",
+      "title": "Compared thermoluminescence characteristics of pea thylakoids studied in vitro and in situ (in leaves). The effect of photoinhibitory treatments.",
+      "authors": [
+        "J Farineau"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1993-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Characteristics of thermoluminescence (TL) glow curves were studied in thylakoids (isolated from pea leaves) or in intact pea leaves after an exposure to very high light for 2 min in the TL device. The inhibition of photosynthesis was detected as decreases of oxygen evolution rates and/or of variable fluorescence.In thylakoids exposed to high light, then dark adapted for 5 min, a flash regime induced TL glow curves which can be interpreted as corresponding to special B bands since: 1) they can be fitted by a single B band (leaving a residual band at -5°C) with a lower activation energy and a shift of the peak maximum by -5 to -6°C and, 2) the pattern of oscillation of their amplitudes was normal with a period of 4 and maxima on flashes 2 and 6. During a 1 h dark adaptation, no recovery of PS II activity occurred but the shift of the peak maximum was decreased to -1 to -2°C, while the activation energy of B bands increased. It is supposed that centers which remained active after the photoinhibitory treatment were subjected to reversible and probably conformational changes.Conversely, in intact leaves exposed to high light and kept only some minutes in the dark, TL bands induced by a flash regime were composite and could be deconvoluted into a special B band peaking near 30°C and a complex band with maximum at 2-5°C. In the case of charging bands by one flash, this low temperature band was largely decreased in size after a 10 min dark adaptation period; parallely, an increase of the B band type component appeared. Whatever was the flash number, bands at 2-5°C were suppressed by a short far red illumination given during the dark adaptation period and only remained a main band a 20°C; therefore, the origin of the low temperature band was tentatively ascribed to recombinations in centers blocked in state S2QA (-)QB (2-). In vivo, the recovery of a moderately reduced state in the PQ pool, after an illumination, would be slow and under the dependence of a poising mechanism, probably involving an electron transfer between cytosol and chloroplasts or the so-called 'chlororespiration' process."
+    },
+    {
+      "pmid": "1386214",
+      "title": "Differential scanning calorimetric investigation of pea chloroplast thylakoids and thylakoid fractions.",
+      "authors": [
+        "W G Nolan",
+        "H P Hopkins",
+        "S A Kalini"
+      ],
+      "journal": "Archives of biochemistry and biophysics",
+      "publication_date": "1992-Aug-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "High sensitivity differential scanning calorimetry (DSC) was employed to study the thermal denaturation of components of pea chloroplast thylakoid membranes. In contrast to previous reports utilizing spinach thylakoids, several transitions are reversible, and deconvolution of the calorimetric curves indicates nine transitions in both first and second heating scans, but overlapping transitions obscure at least three transitions in the first heating scans of control thylakoids. Glutaraldehyde fixation increases the denaturation temperature of several transitions which is consistent with a reported increase in thermal stability of thylakoid function due to fixation. Acidic pH treatment has little effect on the DSC curves, although it has been reported to have a significant effect on membrane structure. Separation of grana from stroma thylakoids indicates that components responsible for transitions centered at approximately 56, 73, 77, and 91 degrees C are predominantly or exclusively associated with grana thylakoids, whereas components responsible for transitions centered at approximately 63 and 81 degrees C are predominantly associated with stroma thylakoids. A broad transition centered at 66 degrees C is associated with grana thylakoids, whereas a sharp transition at the same temperature is due to a component associated with stroma thylakoids. Evidence obtained by washing treatments suggests the latter transition originates from the denaturation of the thylakoid ATPase (CF1). Analysis of the calorimetric enthalpy values indicates most components of the grana thylakoids denature irreversibly at high temperature, whereas components associated with the stroma thylakoids have a considerable degree of thermal reversibility.",
+      "mesh_terms": [
+        "Calorimetry, Differential Scanning",
+        "Chloroplasts",
+        "Fabaceae",
+        "Hydrogen-Ion Concentration",
+        "Intracellular Membranes",
+        "Organoids",
+        "Plants, Medicinal",
+        "Proton-Translocating ATPases"
+      ]
+    },
+    {
+      "pmid": "24407983",
+      "title": "Effects of photoinhibition on the PS II acceptor side including the endogenous high spin Fe(2+) in thylakoids, PS II-membrane fragments and PS II core complexes.",
+      "authors": [
+        "E Haag",
+        "H M Gleiter",
+        "G Renger"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1992-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Effects of photoinhibition at 0 °C on the PS II acceptor side have been analyzed by comparative studies in isolated thylakoids, PS II membrane fragments and PS II core complexes from spinach under conditions where degradation of polypeptide(s) D1(D2) is highly retarded. The following results were obtained by measurements of the transient fluorescence quantum and oxygen yield, respectively, induced by a train of short flashes in dark-adapted samples: (a) in the control the decay of the fluorescence quantum yield is very rapid after the first flash, if the dark incubation was performed in the presence of 300 μM K3[Fe(CN)6]; whereas, a characteristic binary oscillation was observed in the presence of 100 μM phenyl-p-benzoquinone with a very fast relaxation after the even flashes (2nd, 4th. . . ) of the sequence; (b) illumination of the samples in the presence of K3[Fe(CN)6] for only 5 min with white light (180 W m(-2)) largely eliminates the very fast fluorescence decay after the first flash due to QA (-) reoxidation by preoxidized endogenous non-heme Fe(3+), while a smaller effect arises on the relaxation kinetics of the fluorescence transients induced by the subsequent flashes; (c) the extent of the normalized variable fluorescence due to the second (and subsequent) flash(es) declines in all sample types with a biphasic time dependence at longer illumination. The decay times of the fast (6-9 min) and the slow degradation component (60-75 min) are practically independent of the absence or presence of K3[Fe(CN)6] and of anaerobic and aerobic conditions during the photo-inhibitory treatment, while the relative extent of the fast decay component is higher under anaerobic conditions. (d) The relaxation kinetics of the variable fluorescence induced by the second (and subsequent) flash(es) become retarded due to photoinhibition, and (e) the oscillation pattern of the oxygen yield caused by a flash train is not drastically changed due to photoinhibition.Based on these findings, it is concluded that photoinhibition modifies the reaction pattern of the PS II acceptor side prior to protein degradation. The endogenous high spin Fe(2+) located between QA and QB is shown to become highly susceptible to modification by photoinhibition in the presence of K3[Fe(CN)6] (and other exogenous acceptors), while the rate constant of QA (-) reoxidation by QB(QB (-)) and other acceptors (except the special reaction via Fe(3+)) is markedly less affected by a short photoinhibition. The equilibrium constant between QA (-) and QB(QB (-)) is not drastically changed as reflected by the damping parameters of the oscillation pattern of oxygen evolution."
+    },
+    {
+      "pmid": "1651763",
+      "title": "Evidence that localized energy coupling in thylakoids can continue beyond the energetic threshold onset into steady illumination.",
+      "authors": [
+        "M Renganathan",
+        "R S Pan",
+        "R G Ewy",
+        "S M Theg",
+        "F C Allnutt",
+        "R A Dilley"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "1991-Aug-02",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Energy transduction from proton gradients into ATP formation in chloroplast thylakoids has been hypothesized to be driven equally efficiently by localized domain delta mu H+ or by a delocalized delta mu H+ (Beard, W. A. and Dilley, R. A. (1988) J. Bioenerg. Biomembr. 20, 129-154). An important question is whether the apparent localized protonmotive force energy coupling mode can be observed only in the dark-to-light transient in the flash excitation protocol commonly used, or whether the localized energy coupling gradient can be maintained under conditions of continuous illumination ATP formation. The assay in the previous work was to use permeable amines, added to thylakoids in the dark, and observe the effect of the amine on the length of the energization lag (number of single-turnover flashes) required to initiate ATP formation in the dark-to-light transition. Amine buffers delayed the ATP onset in high-salt-stored membranes but did not delay the onset with low salt-stored membranes. This work tested whether permeable amines show the different effects in low- or high-salt-stored thylakoids which had attained a steady-state ATP formation rate (in continuous light) for 20-40 s prior to adding the amine. Hydroxyethylmorpholine was the preferred amine for such experiments, a suitable choice inasmuch as it behaves similarly to pyridine in the flash-induced ATP formation onset experiments, but it permeates more rapidly than pyridine and it has a higher pKa, which enhances its buffering effects. With high-salt-stored thylakoids, 0.5 or 1.0 mM hydroxyethylmorpholine added after 40 s of continuous illumination caused a marked, but transient, slowing of the ATP formation rate, but little or no slowing of the rate was observed with low-salt-stored thylakoids (at similar phosphorylation rates for the two thylakoid samples). Those data indicate that in continuous illumination conditions the proton gradient driving ATP formation in thylakoids from the low-salt-stored treatment did not equilibrate with the lumen, but in thylakoids stored in high-salt the delta mu H+ freely equilibrated with the lumen. That suggestion was supported by measurement of the luminal pH under coupling conditions by the [14C]methylamine distribution method using low- or high-salt-stored thylakoids. Further supportive evidence was obtained from measuring the effect of permeable amine buffers on H+ uptake under coupled and basal conditions with both types of thylakoid.(ABSTRACT TRUNCATED AT 400 WORDS)",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Buffers",
+        "Cell Membrane Permeability",
+        "Chloroplasts",
+        "Darkness",
+        "Electron Transport",
+        "Energy Metabolism",
+        "Fabaceae",
+        "Firefly Luciferin",
+        "Hydrogen-Ion Concentration",
+        "Kinetics",
+        "Light",
+        "Luciferases",
+        "Methylamines",
+        "Morpholines",
+        "Plants, Medicinal",
+        "Protons"
+      ]
+    },
+    {
+      "pmid": "16667548",
+      "title": "Sulfhydryl reagents and energy-linked reactions in monocot thylakoids.",
+      "authors": [
+        "W S Cohen",
+        "D R Baxter"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1990-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Monofunctional maleimides have been used to covalently modify the coupling factor protein of monocot thylakoid membranes. As with dicot thylakoids, incubation of the monocot thylakoids with maleimides in the light but not in the dark results in inhibition of both ATP synthesis and hydrolysis. In the dark, sites on the gamma and epsilon subunits of maize Zea mays coupling factor 1 are modified after incubation of maize mesophyll thylakoids with the fluorescent maleimide N-(anilinonaphthyl-4) maleimide. A light accessible site localized solely to the gamma subunit has also been demonstrated. In contrast to the case with dicot thylakoids (spinach [Spinacia oleracea] and pea [Pisum sativum]) treatment of monocot thylakoids (maize, barley [Hordeum vulgare], crabgrass [Digitaria sanguinalis]) with bifunctional maleimides or thiol oxidants in the light does not result in functional uncoupling, i.e the bifunctional reagents act more like energy transfer inhibitors. The lack of functional uncoupling could be due either to a failure of the reagents to cross-link key sulfhydryl residues in the gamma subunit or to the continued ability of the gamma subunit to gate proton movements through the chloroplast coupling factor complex even though its conformation has been altered by sulfhydryl reagents."
+    },
+    {
+      "pmid": "2139608",
+      "title": "Reconstitution of photophosphorylation in EDTA-treated thylakoids by added chloroplast coupling factor 1 (ATPase) and chloroplast coupling factor 1 lacking the delta subunit. Structural or functional?",
+      "authors": [
+        "S Engelbrecht",
+        "G Althoff",
+        "W Junge"
+      ],
+      "journal": "European journal of biochemistry",
+      "publication_date": "1990-Apr-20",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Upon EDTA treatment thylakoids lose the chloroplast coupling factor 1 (CF1) part of their ATP synthase, CF0CF1, this exposes the proton channel, CF0. The previously established ability of the CF1 subunit delta to block the proton leak through CF0 prompted us to study (a) the ability of complete CF1 and, for comparison, CF1 lacking the delta subunit to block proton leakage and thereby to reconstitute structurally some photophosphorylation activity of the remaining CF0CF1 molecules and (b) their ability to form functional enzymes (functional reconstitution). In order to discriminate between activities caused by added CF1 or CF1(-delta) and remaining CF0CF1, the former were inhibited by chemical modification of subunit beta by N,N'-dicyclohexyl carbodiimide (DCCD) and the latter by tentoxin. We found that added CF1 acted both structurally and functionally while added DCCD-treated CF1 (DCCD-CF1) acted only structurally. In contrast to previous observations, CF1(-delta) and DCCD-CF1(-delta) also acted structurally although the reduction of proton leakage was smaller than with DCCD-CF1. Hence there was no functional reconstitution without subunit delta present. Previous studies indicated that only a small fraction of exposed CF0 is highly conducting and that this small fraction is distinguished by its high affinity for added CF1. The results of this study point rather to a wider distribution of CF0 conductance states and binding affinities.",
+      "mesh_terms": [
+        "Cell-Free System",
+        "Chloroplasts",
+        "Dicyclohexylcarbodiimide",
+        "Edetic Acid",
+        "Kinetics",
+        "Macromolecular Substances",
+        "Organelles",
+        "Photophosphorylation",
+        "Plants",
+        "Proton-Translocating ATPases"
+      ]
+    },
+    {
+      "pmid": "16666849",
+      "title": "Enhancement of thermal injury to photosynthesis in wheat plants and thylakoids by high light intensity.",
+      "authors": [
+        "K Al-Khatib",
+        "G M Paulsen"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1989-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Thermal inhibition and photoinhibition of plants, which may occur simultaneously in nature, were investigated to determine whether the two causal stresses interact and to characterize any interactions that occurred. Photosynthetic rates of wheat (Triticum aestivum L. cv Len) seedlings declined gradually after temperature treatment increased from 22 to 42 degrees C or after photosynthetically active radiation (PAR) treatment increased from 450 to 2000 micromoles per square meter per second and fell rapidly after the stresses were simultaneously imposed. Stomatal conductance and internal CO(2) were affected little, indicating the interaction occurred in chloroplasts. Thylakoid whole chain electron transport, quantum yield, and saturating PAR intensity were decreased by high temperature and an additional amount by high PAR treatments. Photosystem reactions involving water oxidation were inhibited more than other reactions, and chlorophyll fluorescence transients indicated most inhibition was on the photooxidizing side of photosystem II. Injury was influenced little by the order in which the stresses were imposed and was always most severe when they were combined. Release of proteins from thylakoid membranes was not detected. Lability to the stresses was lowest in thylakoids from vegetative stage plants and increased as plants matured. We concluded that thermal injury is accentuated by high PAR, the two stresses may act at a common site near the water oxidizing complex, and their interaction may be involved in photosynthetic decline during adverse conditions."
+    },
+    {
+      "pmid": "24425534",
+      "title": "Effect of high KCl concentrations on membrane-localized metastable proton buffering domains in thylakoids.",
+      "authors": [
+        "F C Allnutt",
+        "R A Dilley",
+        "T Kelly"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1989-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recent work showed that chloroplast thylakoid membranes stored in 100 mM KCl-containing media have delocalized energy coupling consistent with a rapid equilibration of the proton gradient between the proton-producing redox steps and the lumen bulk phase (Beard and Dilley 1986). Thylakoids stored in low salt media showed localized energy coupling. A related thylakoid membrane property is the occurrence of sequestered, metastable, acidic domains, associated with pK a ≈7.5 amine groups. For low salt-stored membranes the domain protons appear to be in the direct (localized) diffusion pathway of protons involved in energizing ATP formation, whereas in thylakoids stored in high KCl, domain protons equilibrated with the lumen during the development of the ATP energization threshold (Theg et al. 1988). This work tested whether the 100 mM KCl storage treatment did or did not cause the dissipation of the metastable acidic domain protons in the dark, storage period. By three criteria, it was found that the 100 mM KCl storage treatment had only a slight tendency to dissipate the acidic domain protons into alkaline media under dark conditions. Storage in KCl does not cause the dissipation of the acidic domains in the dark, but allows domain protons to equilibrate with the lumen after the redox system begins turning over, but before the ATP energization threshold ΔpH is reached. These results must be considered in models of how the thylakoid structure can accommodate metastable acidic domains and how such domain protons diffuse to the CF0-CF1 complexes in energy coupling."
+    },
+    {
+      "pmid": "3346206",
+      "title": "ATP formation onset lag and post-illumination phosphorylation initiated with single-turnover flashes. III. Characterization of the ATP formation onset lag and post-illumination phosphorylation for thylakoids exhibiting localized or bulk-phase delocalized energy coupling.",
+      "authors": [
+        "W A Beard",
+        "R A Dilley"
+      ],
+      "journal": "Journal of bioenergetics and biomembranes",
+      "publication_date": "1988-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "When 100 mM KCl replaced sucrose in a chloroplast thylakoid stock suspension buffer, the membranes were converted from a localized proton gradient to a delocalized proton gradient energy coupling mode. The KCl-suspended but not the sucrose-suspended thylakoids showed pyridine-dependent extensions of the ATP onset lag and pyridine effects on post-illumination phosphorylation. The ATP formation assays were performed in a medium of identical composition, using about a 200-fold dilution of the stock thylakoid suspension; hence the different responses were due to the pretreatment, and not the conditions present in the phosphorylation assay. Such permeable buffer effects on ATP formation provide a clear indicator of delocalized proton gradients as the driving force for phosphorylation. The pyridine-dependent increases in the onset lags (and effects on post-illumination phosphorylation) were not due to different ionic conductivities of the membranes (measured by the 515 nm electrochromic absorption change), H+/e- ratios, or electron transport capacities for the two thylakoid preparations. Thylakoid volumes and [14C]pyridine equilibration were similar with both preparations. The KCl-induced shift toward a bulk-phase delocalized energy coupling mode was reversed when the thylakoids were placed back in a low-salt medium. Proton uptake, at the ATP-formation energization threshold flash number, was much larger in the KCl-treated thylakoids and they also had a longer ATP formation onset lag, when no pyridine was present. These results are consistent with the salt treatment exposing additional endogenous buffering groups for interaction with the proton gradient. The concomitant appearance of the pyridine buffer effects implies that the additional endogenous buffering groups must be located on proteins directly exposed in the aqueous lumen phase. Kinetic analysis of the decay of the post-illumination phosphorylation in the two thylakoid preparations showed different apparent first-order rate constants, consistent with there being two different compartments contributing to the proton reservoirs that energize ATP formation. We suggest that the two compartments are a membrane-phase localized compartment operative in the sucrose-treated thylakoids and the bulk lumen phase into which protons readily equilibrate in the KCl-treated thylakoids.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Chloroplasts",
+        "Electron Transport",
+        "Light",
+        "Phosphorylation",
+        "Plants",
+        "Potassium Chloride",
+        "Pyridines"
+      ]
+    },
+    {
+      "pmid": "24233737",
+      "title": "Simulation of in situ freezing damage of the photosynthetic apparatus by freezing in vitro of thylakoids suspended in complex media.",
+      "authors": [
+        "S Grafflage",
+        "G H Krause"
+      ],
+      "journal": "Planta",
+      "publication_date": "1986-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chloroplast thylakoid membranes were isolated from leaves of unhardened and cold-acclimated spinach (Spinacia oleracea L.). For freezethaw treatment, the membranes were suspended in complex media composed to simulate the solute concentrations in the chloroplast stroma in the unhardened and hardened states of the leaves. In particular, high concentrations of amino acids were applied for simulating the hardened state. After frost treatment, photosynthetic activities and chlorophyll fluorescence parameters of the thylakoids were tested to determine the degree of freezing damage. The results revealed a pattern of freezing injury similar to that observed upon frost treatment of thylakoids in situ. A major manifestation of damage was the inhibition of photosynthetic electron transport. Uncoupling of photophosphorylation, which is the dominating effect of freezing of thylakoids suspended in binary solutions (e.g., containing one sugar and one inorganic salt), was also visible but less pronounced in the complex media. Thylakoids obtained from cold-acclimated leaves did not exhibit an increased frost tolerance in vitro, as compared with thylakoids from unhardened plants. The results, furthermore, indicated a strong protective effect of free amino acids at the concentrations and composition found in chloroplasts of hardened leaves. The presence of inorganic salts in the complex media slightly stabilized rather than damaged the membranes during freezing. It is concluded that inactivation of thylakoids in situ may be understood as the destabilizing action of the combined solutes surrounding the thylakoids, occurring when solute concentration is raised due to freezing of water."
+    },
+    {
+      "pmid": "24233734",
+      "title": "Salt treatment induces frost hardiness in leaves and isolated thylakoids from spinach.",
+      "authors": [
+        "J E Schmidt",
+        "J M Schmitt",
+        "W M Kaiser",
+        "D K Hincha"
+      ],
+      "journal": "Planta",
+      "publication_date": "1986-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Frost hardiness of spinach (Spinacia oleracea L.) leaves was increased by high concentrations of NaCl in the hydroponic culture medium. Freezing damage was determined by measurement of slow chlorophyll fluorescence quenching after freezing of leaves. Both the osmolality of the leaf sap and forst hardiness of the leaves were linearly correlated with the salt concentration in the hydroponic culture medium. Freezing damage occurred, irrespective of the extent of frost hardening, when dehydration of cells during extracellular ice formation decreased cellular volume to approximately 14% of the volume of unfrozen cells. The resistance of isolated, washed thylakoids against mechanical and chemical damage by freezing was investigated. Chemical damage by freezing caused by salt accumulation was measured as release of chloroplast coupling factor (CF1; EC 3.6.1.3), and mechanical damage was measured as release of the lumenal protein plastocyanin from the membranes during an in-vitro freeze-thaw cycle. Isolated thylakoids from salt-treated frost-hardy spinach and those from plants hardened under natural conditions did not exhibit improved tolerance against chemical freezing stress exerted by high salt concentrations. They were, however, more hardy than thylakoids from unhardened control leaves against mechanical damage by freezing."
+    },
+    {
+      "pmid": "6236222",
+      "title": "Specific binding of coupling factor 1 lacking the delta and epsilon subunits to thylakoids.",
+      "authors": [
+        "W J Patrie",
+        "R E McCarty"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "1984-Sep-10",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "An improved procedure for the preparation of chloroplast coupling factor 1 (CF1) lacking the delta subunit is described. In addition, CF1 deficient in the epsilon subunit was isolated by a new method and CF1 lacking both of the smaller subunits was prepared. The ability of the subunit-deficient forms and of CF1, either heated or incubated with dithiothreitol to activate its ATPase activity, to bind to thylakoids from which CF1 had been removed was studied. All CF1 preparations bound in a cation-dependent manner to similar extents. CF1 lacking the delta subunit required higher cation concentrations for maximal binding. All preparations competed similarly with control CF1 for binding sites on the depleted membranes. The alpha subunit of all forms of CF1 in solution was rapidly cleaved by trypsin. After reconstitution, however, the alpha subunit of CF1, as well as of the subunit-deficient and the activated forms, was resistant to attack by trypsin. Moreover, treatment of the membranes with either trypsin or N,N'-dicyclohexylcarbodiimide inhibited the binding of all CF1 forms. These results suggest that the binding of the subunit-deficient and activated forms of CF1 is specific. CF1 lacking the epsilon subunit restored neither proton uptake nor ATP synthesis to the depleted membranes. In contrast to our previous results, CF1 lacking the delta subunit was partially effective. Previously, we used a suboptimal Mg2+ concentration for binding the delta-deficient enzyme which we show here was partially deficient in the epsilon subunit. These results show that the delta and epsilon subunits are not required for binding CF1 to the membranes and that the delta subunit is not an absolute requirement for ATP synthesis.",
+      "mesh_terms": [
+        "Binding Sites",
+        "Calcium-Transporting ATPases",
+        "Kinetics",
+        "Macromolecular Substances",
+        "Organoids",
+        "Photophosphorylation",
+        "Plants",
+        "Protein Binding",
+        "Proton-Translocating ATPases"
+      ]
+    },
+    {
+      "pmid": "6838205",
+      "title": "Interaction of ferredoxin and ferredoxin-NADP reductase with thylakoids.",
+      "authors": [
+        "G Forti",
+        "A Cappelletti",
+        "R L Nobili",
+        "F M Garlaschi",
+        "P D Gerola",
+        "R C Jennings"
+      ],
+      "journal": "Archives of biochemistry and biophysics",
+      "publication_date": "1983-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Ferredoxin-NADP reductase accounts for about 50% of the NADPH diaphorase activity of spinach leaf homogenates. The enzyme is bound to thylakoid membranes, but can be slowly extracted by aqueous buffers. Ferredoxin-NADP reductase can be extracted from the membranes by a 1- to 2-min treatment with a low concentration of trypsin. This treatment completely inactivates NADP photoreduction but does not affect electron transport from water to ferredoxin. It is shown that the inactivation is due to solubilization of ferredoxin-NADP reductase: the activity can be restored by addition of a very large excess of soluble enzyme in pure form. When ferredoxin-NADP reductase is added as a soluble enzyme after extraction or inactivation (by a specific antibody) of the membrane-bound enzyme, NADP photoreduction requires a very large excess of this enzyme, and the apparent Km for ferredoxin is also increased. These observations are discussed as related to the interactions of thylakoids with ferredoxin-NADP reductase.",
+      "mesh_terms": [
+        "Chloroplasts",
+        "Ferredoxin-NADP Reductase",
+        "Ferredoxins",
+        "NADH, NADPH Oxidoreductases",
+        "Photochemistry",
+        "Plants",
+        "Solubility",
+        "Trypsin"
+      ]
+    },
+    {
+      "pmid": "24458283",
+      "title": "Effects of hydroxylamine and silicomolybdate on the decay in delayed light emission in the 6-100 μs range after a single 10 ns flash in pea thylakoids.",
+      "authors": [
+        "P Jursinic",
+        "Govindjee"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1982-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Measurements are reported on μs delayed light emission, following a single 10 ns excitation flash, in Alaska pea thylakoids treated with hydroxylamine (NH2OH) or with silicomolybdate. 1. In thylakoids treated with 2 mM NH2OH in the light, or in the dark, the quantum yield of delayed light emission is considerably enhanced. A 10 μs lifetime component of delayed light emission is not significantly changed, whereas a 50-70 μs lifetime component is increased. MnCl2 and diphenylcarbazide are unable to reverse the above effects of NH2OH treatment. Thus Mn(2+) and diphenylcarbazide must not donate electrons directly to reaction center II but on the oxygen-evolution side of the NH2OH block. 2. When the closed form of photosystem II reaction centers (P680Q(-)), where P680 is the reaction center chlorophyll and Q is a 'stable' electron acceptor, is generated by preillumination of NH2OH-treated thylakoids with diuron present, the μs delayed light emission is inhibited, but a low level residual delayed light emission remains. Possible origins of this emission are discussed. It is believed that the best explanation for residual DLE is the existence of another acceptor besides Q that partakes in charge separation and rapid dissipative recombination when the reaction center is in the P680Q(-) state. 3. The quantum yield of delayed light emission from 'closed' reaction centers (P680 (+)Q(-)) that have all charge stabilization reactions (i.e., flow of electrons to P680 (+) and out of Q(-)) blocked by NH2OH treatment and addition of diuron is 1.1×10(-3) for components measured in a range from 6 to 400 μs and extrapolated to zero time. 4. The addition of silicomolybdate, which accepts electron from Q(-), causes delayed light emission in the μs range to be greatly inhibited."
+    },
+    {
+      "pmid": "24470233",
+      "title": "Intrinsic membrane proteins of the thylakoids of Chlamydomonas reinhardii.",
+      "authors": [
+        "H P Michel",
+        "E Schneider",
+        "M Tellenbach",
+        "A Boschetti"
+      ],
+      "journal": "Photosynthesis research",
+      "publication_date": "1981-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Upon protoolytle treatment of thylakoid membranes, extrinsic proteins are selectively degraded. The remaining resistant proteins have been analyzed by SDS-PAGE. In the thylakoids of Chlamydomonas reinhardii, six polypeptides or protein fragments of 20 kD or higher are resistant to proteolysis. These intrinsic proteins have been identified as: the apoproteins of the chlorophyll-protein complexes CP I and LHCP; a polypeptide whose presence is related to the chlorophyll b content of the cells; and a portion of a chloroplast-made 34 kD polypeptide. Furthermore, after proteolytic treatment of the membranes, the LHCP complex can be resolved into two subcomplexes, apparently differing in their polypeptide composition."
+    },
+    {
+      "pmid": "7236668",
+      "title": "Transmembrane distribution of phospholipids and their involvement in electron transport, as revealed by phospholipids A2 treatment of spinach thylakoids.",
+      "authors": [
+        "A Rawyler",
+        "P A Siegenthaler"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "1981-Apr-13",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thylakoid membranes were treated with either pancreatic or snake venom phospholipase A2, and the residual phospholipid content of these membranes was determined and compared to the rates of Photosystem II and/or Photosystem I electron transports. The hydrolysis curves of both phosphatidylglycerol and phosphatidylcholine displayed a first, rapid phase which was almost temperature-insensitive, followed by a second, slower phase which depended strongly on the temperature. When pancreatic phospholipase A2 had access either to the outer face or to both faces of the thylakoid membrane, either only part of or all the phospholipids, respectively, could be hydrolysed. These results were interpreted as indicating an asymmetric distribution of phospholipids across the thylakoid membrane, phosphatidylglycerol and phosphatidylcholine being preferentially located in the outer and the inner layer, respectively. When acting on uncoupled thylakoid membranes, phospholipase A2 exerted an inhibitory effect on Photosystem II activity and a stimulatory effect on Photosystem I activity. The involvement of phosphatidylcholine and of phosphatidylglycerol in electron transport activities of Photosystem II and of Photosystem I are discussed with special reference to the role of the external and internal pools of these phospholipids.",
+      "mesh_terms": [
+        "Animals",
+        "Electron Transport",
+        "Intracellular Membranes",
+        "Kinetics",
+        "Membrane Lipids",
+        "Organoids",
+        "Oxidation-Reduction",
+        "Pancreas",
+        "Phospholipases",
+        "Phospholipases A",
+        "Phospholipases A2",
+        "Phospholipids",
+        "Photosynthesis",
+        "Plants",
+        "Swine",
+        "Temperature"
+      ]
+    },
+    {
+      "pmid": "24301976",
+      "title": "Freezing injury in cold-acclimated and unhardened spinach leaves : I. Photosynthetic reactions of thylakoids isolated from frost-damaged leaves.",
+      "authors": [
+        "R J Klosson",
+        "G H Krause"
+      ],
+      "journal": "Planta",
+      "publication_date": "1981-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Spinach plants (Spinacia oleracea L.) were frost-hardened by cold-acclimation to 1° C or kept in an unhardy state at 20°/14° C in phytotrons. Detached leaves were exposed to temperatures below 0°C. Rates of photosynthetic CO2 uptake by the leaves, recorded after frost treatment, served as a measure of freezing injury. Thylakoid membranes were isolated from frost-injured leaves and their photosynthetic activities tested. Ice formation occurred at about-4° to-5° C, both in unhardened and cold-acclimated leaves. After thawing, unhardened leaves appeared severely damaged when they had been exposed to-5° to-8° C. Acclimated leaves were damaged by freezing at temperatures between-10° to-14° C. The pattern of freezing damage was complex and appeared to be identical in hardened and unhardened leaves: 1. Inactivation of photosynthesis and respiration of the leaves occurred almost simultaneously. 2. When the leaves were partly damaged, the rates of photosynthetic electron transport and noncyclic photophosphorylation and the extent of light-induced H(+) uptake by the isolated thylakoids were lowered at about the same degree. The dark decay of the proton gradient was, however, not stimulated, indicating that the permeability of the membrane to-ward protons and metal cations had not increased. 3. As shown by partial reactions of the electron transport system, freezing of leaves predominantly inhibited the oxygen evolution, but photosystem II and photosystem I-dependent electron transport were also impaired. 4. Damage of the chloroplast envelope was indicated by a decline in the percentage of intact chloroplasts found in preparations from injured leaves. The results are discussed in relation to earlier studies on freezing damage of thylakoid membranes occurring in vitro."
+    },
+    {
+      "pmid": "6165386",
+      "title": "Proton involvement with the light-induced hindrance of spin label motion in the lumen of spinach thylakoids.",
+      "authors": [
+        "D M Nesbitt",
+        "S P Berg"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "1980-Dec-03",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "The light-induced hindrance of spin label motion increases linearly with light intensity. However, it has not been possible to unambiguously demonstrate light saturation due to the very high rates of spin label reduction at high light intensity. The light-induced hindrance of spin label motion may be mimicked in the dark by subjecting thylakoids to appropriately low pH regimes. Uncouplers such as gramicidin-D and methylamine reduce the light-induced hindrance to dark levels as does ethylenedinitrilotetraacetate (EDTA) treatment. Valinomycin plus KCl which destroys the electric potential is only partially effective in reducing the light-induced hindrance. These results indicate that protons in the aqueous lumen of the thylakoids are closely involved with the observed light-induced hindrance of spin label motion.",
+      "mesh_terms": [
+        "Chloroplasts",
+        "Cyclic N-Oxides",
+        "Edetic Acid",
+        "Electron Spin Resonance Spectroscopy",
+        "Gramicidin",
+        "Intracellular Membranes",
+        "Kinetics",
+        "Light",
+        "Methylamines",
+        "Oxidation-Reduction",
+        "Protons",
+        "Spectrum Analysis",
+        "Spin Labels",
+        "Uncoupling Agents",
+        "Valinomycin"
+      ]
+    },
+    {
+      "pmid": "16661597",
+      "title": "Properties of a Membrane-bound Phosphatase from the Thylakoids of Spinach Chloroplasts.",
+      "authors": [
+        "R M Mulligan",
+        "N E Tolbert"
+      ],
+      "journal": "Plant physiology",
+      "publication_date": "1980-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A 3-phosphoglycerate phosphatase activity of about 2 micromoles per minute per milligram chlorophyll is associated with the thylakoid membranes of spinach chloroplasts. The K(m) for 3-phosphoglycerate is 3 millimolar. The enzyme can be solubilized from thylakoid membranes by treatment with 0.33 molar MgCl(2) or sodium deoxycholate. The activity is not stimulated by sulfhydryl reagents or the addition of 10 millimolar MgCl(2). The enzymic activity is insensitive to ethylenediaminetetraacetate. The pH optimum is broad, between 5.5 to 7.5. Although the substrate specificity is broad, 3-phosphoglycerate is the best substrate of those tested at neutral pH. However, p-nitrophenyl phosphate was a more effective substrate at pH 5.5. The enzyme exhibits the general characteristics of an acid phosphatase."
+    },
+    {
+      "pmid": "28758",
+      "title": "Inside-out membrane vesicles isolated from spinach thylakoids.",
+      "authors": [
+        "B Andersson",
+        "H E Akerlund"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "1978-Sep-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inside-out thylakoid vesicles have been separated from right-side-out material after press disruption of chloroplast lamellae. The sepration was obtained by partitionin an aqueous dextran-polyethylene glycol two-phase system, a method which utilizes differences in surface properties for separation of membrane particles. The isolated thylakoid vesicles showed the following inside-out properties: (1) light-induced reversible proton extrusion into the surrounding medium when supplied with the Photosystem II electron acceptor phenyl-p-benzoquinone; (2) a pH rise in the internal phase accompanying the external proton release, (3) sensitivity to trypsin treatment different from that of thylakoid membranes of normal orientation; (4) concave EF and convex PF freeze-fracture faces.",
+      "mesh_terms": [
+        "Chloroplasts",
+        "Diuron",
+        "Freeze Fracturing",
+        "Hydrogen-Ion Concentration",
+        "Intracellular Membranes",
+        "Kinetics",
+        "Oxygen",
+        "Photosynthesis",
+        "Plants"
+      ]
+    },
+    {
+      "pmid": "1259995",
+      "title": "Structure and morphogenesis of photosynthetic membranes. I. Is there a single basic peptide within Zea mays thylakoids?",
+      "authors": [
+        "B Lagoutte",
+        "J Duranton"
+      ],
+      "journal": "Biochimica et biophysica acta",
+      "publication_date": "1976-Mar-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We have previously given evidence for a physical heterogeneity among proteins from photosynthetic membranes of maize chloroplast [1]. About fifteen components have now been identified, differing in their molecular weights and also in their varying abilities to bind protochlorophyllide and chlorophyll [2]. In this paper, we show that all these proteins have very similar amino acid compositions. A detailed chemical comparison is made between, on one hand the mixture of all proteins and on the other the smallest component of molecular weight 10 000. All the features analysed (percent of non-proteic material, partial peptide maps, N and Cterminal ends and content of linked sugars) are the same in both cases. We conclude from these experiments that it is likely that all components are generated with the same basic peptide unit. This assertion seems to be confirmed by the fact that, after mild alkaline treatment, all the components are converted into the smallest one, as seen by electrophoresis. Thus, within the photosynthesizing membranes, there appears to be a basic structural protein unit, present in a form that is more or less \"polymerized\". This may account for most of the particular, and sometimes disturbing, properties so far described for this system. It is likely that such a peptide, or a similar one, would provide a framework for all photosynthesizing structures.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Cell Membrane",
+        "Galactosamine",
+        "Galactose",
+        "Mannose",
+        "Molecular Weight",
+        "Peptide Fragments",
+        "Photosynthesis",
+        "Plant Proteins",
+        "Plants",
+        "Sialic Acids",
+        "Zea mays"
+      ]
+    },
+    {
+      "pmid": "1158328",
+      "title": "A model of closely assembled consecutive enzymes on membranes: formation of hydroxycinnamic acids from L-phenylalanine on thylakoids of Dunaliella marina.",
+      "authors": [
+        "U Czichi",
+        "H Kindi"
+      ],
+      "journal": "Hoppe-Seyler's Zeitschrift fur physiologische Chemie",
+      "publication_date": "1975-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "p-Hydroxycinnamic acid was found to be located within the plastids of the green alga Dunaliella marina. Thylakoid fractions desintegrated by ultrasonic treatment were capable of converting L-phenylalanine into o- and p-hydroxycinnamic acids; the hydroxylation reaction was increased by addition of NADPH. Hydroxycinnamic acids produced when [3-14C]cinnamate was incubated with varying amounts of [4'-3H]L-phenylalanine exhibited a 3H/14C ratio 10-150 times higher than that of the cinnamic acid reisolated from the incubation mixture. The lack of equilibration between cinnamate formed from L-phenylalanine and cinnamate added to the solution supports the hypothesis that cinnamate as an intermediate in hydroxycinnamate formation remains bound to the membrane enzyme complex. A model of membrane-bound multienzyme complexes is proposed for the conversion of aromatic amino acids into phenols.",
+      "mesh_terms": [
+        "Chlorophyta",
+        "Cinnamates",
+        "Coumarins",
+        "Membranes",
+        "Microsomes",
+        "Mixed Function Oxygenases",
+        "Models, Biological",
+        "Phenylalanine",
+        "Phenylalanine Ammonia-Lyase"
+      ]
+    },
+    {
+      "pmid": "5559167",
+      "title": "[Substrates of thylakoids from Rhodospirillum rubrum following treatment with the detergent Triton X-100].",
+      "authors": [
+        "M Biedermann"
+      ],
+      "journal": "Hoppe-Seyler's Zeitschrift fur physiologische Chemie",
+      "publication_date": "1971-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Bacterial Proteins",
+        "Electrophoresis",
+        "Gels",
+        "Molecular Weight",
+        "Photosynthesis",
+        "Rhodospirillum",
+        "Surface-Active Agents"
+      ]
+    }
+  ]
+}

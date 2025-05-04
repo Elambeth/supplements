@@ -1,0 +1,261 @@
+{
+  "supplement": "Cangfu Daotan Decoction",
+  "query": "Cangfu Daotan Decoction[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:30:05",
+  "research_count": 10,
+  "count": 10,
+  "articles": [
+    {
+      "pmid": "39539629",
+      "title": "Combining single-cell RNA sequencing and network pharmacology to explore the target of cangfu daotan decoction in the treatment of obese polycystic ovary syndrome from an immune perspective.",
+      "authors": [
+        "Danqi Liu",
+        "Chaofeng Wei",
+        "Lu Guan",
+        "Wenhan Ju",
+        "Shan Xiang",
+        "Fang Lian"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is a heterogeneous gynecological endocrine disorder linked to immunity. Cangfu Daotan Decoction (CFDT), a classic Chinese medicine prescription, is particularly effective in treating PCOS, specifically in patients with obesity; however, its specific mechanism remains unclear. METHODS: Part 1: Peripheral blood mononuclear cells were collected on egg retrieval day from obese and normal-weight patients with PCOS and healthy women undergoing in vitro fertilization (IVF)-embryo transfer. Next, scRNA-seq was performed to screen the key genes of bese patients with PCOS. Part 2: Active ingredients of CFDT and obesity-related PCOS targets were identified based on public databases, and the binding ability between the active ingredients and targets was analyzed. Part 3: This part was a monocentric, randomized controlled trial. The obese women with PCOS were randomized to CFDT (6 packets/day) or placebo, and the healthy women were included in the blank control group (43 cases per group). The clinical manifestations and laboratory outcomes among the three groups were compared. RESULTS: Based on the scRNA-seq data from Part 1, CYLD, ARPC3, CXCR4, RORA, JUN, FGL2, ZEB2, GNLY, FTL, SMAD3, IL7R, KIR2DL1, CTSD, BTG2, CCL5, HLA, RETN, CTSZ, and NCF2 were potential key genes associated with obese PCOS were identified. The proportions of T, B, and natural killer cells were higher in patients with PCOS compared to healthy women, with even higher proportions observed in obese patients with PCOS. Gene ontology and the Kyoto encyclopedia of genes and genomes analysis depicted that the differentially expressed genes were related to immune regulation pathways. Network pharmacology analysis identified that the key active components in CFDT were quercetin, carvacrol, β-sitosterol, cholesterol, and nobiletin, and TP53, AKT1, STAT3, JUN, SRC, etc. were the core targets. The core targets and their enrichment pathways overlapped with those in Part 1. Clinical trials in Part 3 found that CFDT reduced the dosage of gonadotropins use in patients with PCOS, increased the number of high-quality embryos, and improved the ongoing pregnancy rate. CONCLUSION: CFDT can improve the immune microenvironment of patients to some extent, reduce their economic burden, and enhance IVF outcomes. The improvement in the immune microenvironment in obese patients with PCOS may be linked to targets such as JUN and AKT."
+    },
+    {
+      "pmid": "39281507",
+      "title": "Efficacy and safety of cangfu daotan decoction as an adjuvant treatment of Diane-35 for polycystic ovary syndrome: A systematic review and meta-analysis.",
+      "authors": [
+        "Xianjie Feng",
+        "Shaomin Cheng",
+        "Sheng Xu",
+        "Xin Chen",
+        "Xu Zhou"
+      ],
+      "journal": "Heliyon",
+      "publication_date": "2024-Sep-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Cangfu Daotan decoction is a classic traditional Chinese medicine formula that has been found to be beneficial for treating polycystic ovarian syndrome (PCOS) in animal models. This systematic review aimed to assess the efficacy and safety of Cangfu Daotan decoction as an adjuvant treatment to Diane-35 for PCOS in humans. METHODS: Seven electronic databases were searched up to June 22, 2024, to identify randomized controlled trials (RCTs) that evaluated Cangfu Daotan decoction combined with Diane-35 versus Diane-35 alone for the treatment of PCOS. The effects of individual RCTs were combined via meta-analysis and were measured as relative risks (RRs) or weighted mean differences (WMDs). RESULTS: Twenty-five RCTs with a moderate to high risk of bias were included, involving 1845 patients with PCOS. Meta-analyses indicated that compared with Diane-35 alone, the combination of Diane-35 and Cangfu Daotan decoction significantly improved the response rate (RR 1.19, 95 % confidence interval [CI] 1.14 to 1.24), pregnancy rate (RR 1.57, 95 % CI 1.18 to 2.09), ovulation rate (RR 1.22, 95 % CI 1.11 to 1.35), and ovarian volume (WMD -1.43 cm3, 95 % CI -2.46 to -0.39). Cangfu Daotan decoction also significantly reduced the luteinizing hormone (LH) level, LH:FSH ratio, testosterone level, prolactin level, body mass index (BMI) and hirsutism and acne scores but had no significant effect on the follicle-stimulating hormone (FSH) level. All adverse events were mild and not related to Cangfu Daotan decoction treatment. CONCLUSIONS: The findings suggest that Cangfu Daotan decoction, as an adjuvant therapy to Diane-35 for the treatment of PCOS, can reduce multiple sex hormone levels and BMI, relieve hyperandrogenism signs, and ultimately improve pregnancy outcomes, with good safety. The effect of Cangfu Daotan decoction on FSH remains uncertain. Due to limitations of risk of bias and heterogeneity, the quality of evidence was rated as moderate to very low."
+    },
+    {
+      "pmid": "37984794",
+      "title": "Analysis on the therapeutic effect of Cangfu Daotan Decoction combined with drospirenone and ethinylestradiol tablets (II) on patients with polycystic ovary syndrome.",
+      "authors": [
+        "Yanhong Fu",
+        "Pengpeng Xie",
+        "Qingping Yang",
+        "Peng Chen",
+        "Jingwei Yu"
+      ],
+      "journal": "Prostaglandins & other lipid mediators",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: This study was designed to investigate the therapeutic effect of Cangfu Daotan Decoction (CDD) combined with drospirenone and ethinylestradiol tablets (II) on patients with polycystic ovary syndrome (PCOS). METHODS: Patients with PCOS were gathered from September 2020 to September 2022 and divided into the experimental group (n = 36), treated with CDD combined with drospirenone and ethinylestradiol tablets (II), and the control group (n = 41), received only drospirenone and ethinylestradiol tablets (II). Levels of sex hormone, obesity, blood glucose, blood lipid were detected and compared between the two groups pre- and post-treatment. The treatment efficacy, Traditional Chinese Medicine (TCM) syndrome score, adverse drug reactions, and pregnancy rate were compared as well. RESULTS: After treatment, the experimental group had a higher treatment efficacy (94.44% vs 73.17%, P < 0.05) and a higher pregnancy rate (44.44% vs 21.95%, P < 0.05) than the control group, but the difference in the incidence of adverse drug reactions was not statistically significant (P > 0.05). Compared with control group, TCM syndrome score and levels of fasting blood glucose, fasting insulin, homeostasis model assessment of insulin resistance (HOMA-IR), and waist circumference of the experimental group after treatment displayed remarkable reduction (P < 0.05), while the levels of estradiol (E2) and high-density lipoprotein cholesterol (HDL-C) showed a remarkable increase (P < 0.05). CONCLUSION: CDD in combination with drospirenone and ethinylestradiol tablets (II) may be effective in treating PCOS by improving obesity, glucose metabolism and lipid metabolism with no serious adverse events, making it a feasible clinical practice option.",
+      "mesh_terms": [
+        "Pregnancy",
+        "Female",
+        "Humans",
+        "Polycystic Ovary Syndrome",
+        "Obesity",
+        "Tablets",
+        "Insulin Resistance",
+        "Androstenes",
+        "Drugs, Chinese Herbal"
+      ]
+    },
+    {
+      "pmid": "37544927",
+      "title": "CangFu Daotan decoction improves polycystic ovarian syndrome by downregulating FOXK1.",
+      "authors": [
+        "Chenye Wang",
+        "Jia Yu",
+        "Caifei Ding",
+        "Chunyue Chen"
+      ],
+      "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+      "publication_date": "2023-Aug-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective: Polycystic ovarian syndrome (PCOS) is a prevalent gynecologic disorder, often associated with abnormal follicular development. Cangfu Daotan decoction (CFD) is a traditional Chinese medicine formula that is effective in alleviating PCOS clinically, but the specific mechanism remains unclear. Forkhead box K1 (FOXK1) is associated with cellular function. This study aimed to explore the effects of CFD and FOXK1 on PCOS.Methods: High-fat diet and letrozole were combined to establish PCOS rat models. Next, primary GCs were extracted from those PCOS rats. Then, GC cells were transfected with si-FOXK1 or oe-FOXK1. CFD-contain serum was prepared, and experiments were conducted to investigate the regulation of FOXK1 by CFD.Results: FOXK1 was highly expressed in GCs of PCOS rats. Further investigation revealed that FOXK1 overexpression resulted in inhibition of proliferation and DNA synthesis, along with promotion of apoptosis and autophagy in GCs. Additionally, it was found that FOXK1 promoted the expressions of the AMP-activated protein kinase (AMPK)/mammalian target of rapamycin (mTOR) pathway-related proteins. Interestingly, treatment with CFD reversed all the effects of FOXK1 overexpression in GCs. Conclusion: This study demonstrated that CFD exerted a protective role in PCOS by inhibiting FOXK1, which provided a research basis for the application of CFD in PCOS, and suggested that FOXK1 is a novel therapeutic target in PCOS treatment.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Rats",
+        "Animals",
+        "Granulosa Cells",
+        "Polycystic Ovary Syndrome",
+        "Drugs, Chinese Herbal",
+        "Apoptosis",
+        "Mammals",
+        "Forkhead Transcription Factors"
+      ]
+    },
+    {
+      "pmid": "36440213",
+      "title": "Modified Cangfu Daotan decoction ameliorates polycystic ovary syndrome with insulin resistance via NF-κB/LCN-2 signaling pathway in inflammatory microenvironment.",
+      "authors": [
+        "Shuowen Liu",
+        "Yao Zhang",
+        "Fang Yang",
+        "Jingna Gu",
+        "Ruyue Zhang",
+        "Yingying Kuang",
+        "Wantong Mai",
+        "Chengbo Zheng",
+        "Yang Yu",
+        "Ruling Lu",
+        "Lei Zeng",
+        "Hongying Cao",
+        "Yongling Long"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study explored the possible connection between the insulin resistance-targeting protein adipokine lipocalin-2 (LCN-2) and NF-κB signaling pathway in the inflammatory microenvironment in PCOS-IR model rats to determine the pharmacological mechanism of modified Cangfu Daotan decoction (MCDD) intervention for PCOS-IR. We used a high-fat diet (42 days) combined with letrozole (1 mg/kg/day, 42 days) to establish a PCOS-IR rat model. From the third week after modeling, the rats were given continuous administration of MCDD (high dose with 31.68 g/kg, medium dose with 15.84 g/kg, and low dose with 7.92 g/kg) for 28 days. Serum, ovarian tissue, liver, and adipose tissue were collected after the last gavage. Enzyme-linked immunosorbent assay, hematoxylin-eosin (HE) staining, Masson staining, qRT-PCR, and Western blot experiments were performed to detect various indicators. Our results showed that MCDD could reduce body weight and abdominal fat weight; restore normal estrous cycle and ovarian function; alleviate fatty liver; regulate HOMA-IR and OGTT index; reduce serum inflammatory factor levels, LCN-2 level, and gene expression; and regulate the insulin signal transduction and NF-κB pathways in PCOS-IR rats. Thus, MCDD may play a role in improving ovarian function in PCOS-IR rats by downregulating NF-κB/LCN-2 proteins and upregulating the gene expression of Insr/Irs-1/Glut4 in the insulin signaling pathway in the inflammatory environment.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Rats",
+        "Animals",
+        "Polycystic Ovary Syndrome",
+        "Insulin Resistance",
+        "NF-kappa B",
+        "Lipocalin-2",
+        "Signal Transduction",
+        "Insulin",
+        "Tumor Microenvironment"
+      ]
+    },
+    {
+      "pmid": "35620410",
+      "title": "Efficacy and Safety of Cangfu Daotan Decoction in Patients with Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Linling Wu",
+        "Han Zhang",
+        "Mengxiao Fan",
+        "Ying Yan"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The infertility caused by polycystic ovary syndrome (PCOS) has received considerable attention. Considerable efforts have been made to improve the rates of pregnancy and live birth. Cangfu Daotan Decoction (CFDTD) is a classic prescription for treating infertility in obese women. The efficacy of CFDTD in PCOS is controversial. OBJECTIVE: To evaluate the effectiveness and safety of CFDTD in treating infertility with PCOS. METHODS: A literature search was performed in the Cochrane Library, PubMed, Embase, the China National Knowledge Infrastructure, the Wanfang Database, the VIP Chinese Biomedical science journal database, and the Chinese BioMedical database from the date of each database establishment to December 2021. Only randomized controlled trials, which were used to evaluate the efficacy of CFDTD in treating subjects with PCOS, were included in the present study. The quality of evidence was assessed using the Cochrane Reviewer Handbook 5.0.0, and meta-analysis was performed using RevMan 5.3.5 software. RESULTS: Fourteen studies with a total of 1,433 patients were included in this analysis. The present study indicated that CFDTD could significantly improve pregnancy rate (RR = 1.62, 95% CI (1.44, 1.83), P < 0.00001), ovulation rate (RR = 1.40, 95% CI (1.25, 1.56), P < 0.00001), and estradiol levels (SMD = 0.80, 95% CI (0.03, 1.58), P=0.04), while testosterone levels (SMD = -0.92, 95% CI (-1.52, -0.31), P=0.003), homeostatic model assessment for insulin resistance (MD = -0.56, 95% CI (-0.99, -0.12), P=0.01), total cholesterol levels (MD = -0.60, 95% CI (-0.76, -0.44), P < 0.00001), triglyceride levels (MD = -0.48, 95% CI (-0.60, -0.36), P < 0.00001), body mass index (MD = -2.96, 95% CI (-3.88, -2.03), P < 0.00001), and the incidence of adverse reactions (RR = 0.47, 95% CI (0.34, 0.65), P < 0.00001) were significantly reduced. CONCLUSIONS: Evidence from the meta-analysis suggested that CFDTD appeared to be an effective and relatively safe treatment for PCOS. However, the influence of CFDTD on reproductive hormones, glucose metabolism, and blood lipids should be carefully concluded. Due to the low quality of the methods used in the included randomized controlled trials, further studies are required with larger sample sizes and well-designed models to confirm our findings."
+    },
+    {
+      "pmid": "33137356",
+      "title": "Effects of Cangfu Daotan Decoction on obese polycystic ovary syndrome and its mechanism.",
+      "authors": [
+        "Weimin Yi",
+        "Xue Li",
+        "Ke Chen",
+        "Min Zhu",
+        "Xuehua Cai",
+        "Aizhen Pan"
+      ],
+      "journal": "Steroids",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is one of the most common endocrine disorders affecting women of reproductive age. Cangfu Daotan Decoction (CFDTT) is one of the prescriptions in the stagnation of obesity-type PCOS. Our previous study showed that CFDTT treatment of obese PCOS was correlated with organic anion transporting polypeptides (OATPs). METHODS: Here, we studied the effects of CFDTT on obese PCOS and its underlying mechanism. We built an obese PCOS rat model and treated the rats with CFDTT. Then, we detected the serum levels of TCHO, TG, LDL-c, HDL-c, luteinizing hormone (LH), follicle stimulating growth hormone (FSH), testosterone (T), estradiol (E2), IL-1β, IL-6, and TNF-α in each group and adopted RT-PCR, western blotting and immunohistochemical staining to investigate the effects of CFDTT treatment on the expression of OATP2B1 and OATP3A1 in ovarian and uterine tissues. In addition, we compared the pregnancy outcomes of each group. RESULTS: We found that CFDTT decreased the serum levels of TCHO, TG, LDL-c, LH, T, IL-1β, IL-6, and TNF-α and increased the levels of HDL-c, FSH and E2 in a dose-dependent manner. CFDTT could induce the expression of OATP2B1 and OATP3A1 in ovarian and uterine tissues. Moreover, CFDTT could improve pregnancy outcomes. CONCLUSION: These data suggested that the therapeutic mechanism of Cangfu Daotan Decoction on PCOS may be correlated with regulating lipid metabolism, sex hormone secretion and the inflammatory response and increasing OATP2B1 and OATP3A1 expression. Cangfu Daotan Decoction can be developed as a PCOS treatment drug.",
+      "mesh_terms": [
+        "Polycystic Ovary Syndrome",
+        "Female",
+        "Animals",
+        "Rats",
+        "Obesity",
+        "Drugs, Chinese Herbal",
+        "Rats, Sprague-Dawley",
+        "Ovary"
+      ]
+    },
+    {
+      "pmid": "32148541",
+      "title": "Identification of the Active Constituents and Significant Pathways of Cangfu Daotan Decoction for the Treatment of PCOS Based on Network Pharmacology.",
+      "authors": [
+        "Wenting Xu",
+        "Mengyu Tang",
+        "Jiahui Wang",
+        "Lihong Wang"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is the most common female endocrine disease. Cangfu Daotan Decoction (CDD) can effectively relieve the clinical symptoms of PCOS patients. METHODS: To explore the active ingredients and related pathways of CDD for treating PCOS, a network pharmacology-based analysis was carried out. The active ingredients of CDD and their potential targets were obtained from the TCM system pharmacology analysis platform. The obtained PCOS-related genes from OMIM and GeneCards were imported to establish protein-protein interaction networks in STRING. Finally, GO analysis and significant pathway analysis were conducted with the RStudio (Bioconductor) database. RESULTS: A total of 111 active compounds were obtained from 1433 ingredients present in the CDD, related to 118 protein targets. In addition, 736 genes were found to be closely related to PCOS, of which 44 overlapped with CDD and were thus considered therapeutically relevant. Pathway enrichment analysis identified the AGE-RAGE signalling pathway in diabetic complications, endocrine resistance, the IL-17 signalling pathway, the prolactin signalling pathway, and the HIF-1 signalling pathway. Moreover, PI3K-Akt, insulin resistance, Toll-like receptor, MAPK, and AGE-RAGE were related to PCOS and treatment. CONCLUSIONS: CDD can effectively improve the symptoms of PCOS, and our network pharmacological analysis lays the foundation for future clinical research."
+    },
+    {
+      "pmid": "31574864",
+      "title": "Cangfu daotan decoction for polycystic ovary syndrome: A protocol of systematic review and meta-analysis.",
+      "authors": [
+        "Hye-Rin Park",
+        "Jong-Hwan Kim",
+        "Donghun Lee",
+        "Hee-Geun Jo"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2019-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUNDS: Polycystic ovary syndrome (PCOS) is common endocrine disorder in women and can lead to serious social burdens associated with various reproductive and metabolic abnormalities. Existing therapy is controversial in its effectiveness including side effects. In traditional Korean Medicine, Cangfu Daotan Decoction (CDD), also known as Changbudodam-tang, is used for PCOS patients who are in the type of stagnation of phlegm and dampness. In this study, we aimed to evaluate the efficacy and safety of CDD for PCOS as alternative treatment. METHODS: Two researchers will search the following databases from their inception to February 2019 for relevant randomized controlled trials (RCTs): The Cochrane Library, PubMed, EMBASE, Chinese National Knowledge Infrastructure Database (CNKI), and 5 Korean medical databases (Korean Studies Information Service System, KoreaMed, DBPIA, Oriental Medicine Advanced Searching Integrated System, and Research Information Service System). The primary outcome will be the scales that assessed drug efficacy including total response rate, sex hormone level (LH, FSH, Testosterone, LH/FSH ratio), BMI, ovulation rate, and pregnancy rate. Adverse events will be assessed as the secondary outcome. Study selection, data extraction, and assessment of risk of bias will be conducted by 2 researchers independently. Statistical analysis will be performed by using the Cochrane Review Manager (RevMan 5.3) software. RESULTS AND CONCLUSION: This review will provide the latest knowledge and evidence on the efficacy and safety of CDD for PCOS women through the analysis of various evaluation scales. ETHICS AND DISSEMINATION: This systematic review does not require ethical approval and will be published in a peer-reviewed journal. PROSPERO REGISTRATION NUMBER: CRD42019134270.",
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Complementary Therapies",
+        "Drugs, Chinese Herbal",
+        "Medicine, East Asian Traditional",
+        "Plant Preparations",
+        "Polycystic Ovary Syndrome",
+        "Randomized Controlled Trials as Topic",
+        "Systematic Reviews as Topic",
+        "Meta-Analysis as Topic"
+      ]
+    },
+    {
+      "pmid": "25566617",
+      "title": "[Effect of modified cangfu daotan decoction in improving endometrial receptivity in infertility patients with polycystic ovarian syndrome].",
+      "authors": [
+        "Cai-Fei Ding",
+        "Chen-Ye Wang",
+        "Xin Yang",
+        "Ruo-Heng Zheng",
+        "Zhi-Zhong Yan",
+        "Wang-Qiang Chen"
+      ],
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "publication_date": "2014-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To study the effect and potential mechanism of Modified Cangfu Daotan Decoction (MCDD) on endometrial receptivity in infertility patients with polycystic ovarian syndrome (PCOS). METHODS: Totally 298 women having normal ovulation who underwent artificial insemination were recruited as the control group, and they received no drug therapy. Another 355 infertility patients with PCOS who received ovarian stimulation therapy were recruited as the treatment group. Then they were further assigned to the treatment group I (195 cases) and the treatment group II (160 cases) according to random digit table. Patients in the treatment group I received clomiphene (CC) + human menopause gonadotropin (HMG) +human chorionic gonadotropin (HCG), while those in the treatment group II received CC + HMG + HCG and additionally took modified MCDD. The therapeutic course for all was three menstrual cycles. The pregnancy ratio, the endometrial thickness, and spiral artery pulsatility index (PI), resistance index (RI), and homeostasis model assessment-insulin resistance (HOMA-IR) were measured. Furthermore, the uncoupling protein 2 (UCP2) level was tested by Western blot. RESULTS: Compared with the control group, the endometrial thickness decreased and PI and RI increased in the treatment group I (all P < 0.05). Compared with the treatment group I , the endometrial thickness increased and PI and RI decreased in the treatment group II (all P < 0.05). Compared with before treatment, HOMA-IR levels were significantly decreased in the treatment group II after treatment (P < 0.05). Compared with the control group before treatment, the HOMA-IR level increased in the treatment group I and the treatment group II before treatment (P < 0.05). Compared with the control group after treatment, the HOMA-IR level increased in the treatment group I (P < 0.05). But there was no statistical difference in the post-treatment HOMA-IR level between the control group and the treatment group II (P < 0.05). Compared with the control group, the post-treatment UCP2 level was increased in the treatment group II (P < 0.05). After one year follow-up, the pregnancy rate was 16.1% (48/298) in the control group, 23.1% (37/160) in the treatment group I, and 33.8% (66/195) in the treatment group II. Compared with the control group, the pregnancy rate was significantly increased in the treatment group II (P < 0.05). CONCLUSION: MCDD was found to be capable of increasing the pregnancy rate of infertility patients with PCOS, which might be associated with improving endometrial blood flow and insulin resistance, increasing the UCP2 expression, and finally improving the endometrial receptivity.",
+      "mesh_terms": [
+        "Chorionic Gonadotropin",
+        "Clomiphene",
+        "Drugs, Chinese Herbal",
+        "Female",
+        "Gonadotropins",
+        "Humans",
+        "Infertility",
+        "Infertility, Female",
+        "Insulin Resistance",
+        "Ovulation",
+        "Ovulation Induction",
+        "Polycystic Ovary Syndrome",
+        "Pregnancy",
+        "Pregnancy Rate"
+      ]
+    }
+  ]
+}

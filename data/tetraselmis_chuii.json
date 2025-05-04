@@ -1,0 +1,133 @@
+{
+  "supplement": "Tetraselmis Chuii",
+  "query": "Tetraselmis Chuii[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:48:28",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "38788650",
+      "title": "Impact of the biomass pretreatment and simulated gastrointestinal digestion on the digestibility and antioxidant activity of microalgae Chlorella vulgaris and Tetraselmis chuii.",
+      "authors": [
+        "Samuel Paterson",
+        "Marta Majchrzak",
+        "Denisa Alexandru",
+        "Serena Di Bella",
+        "Samuel Fernández-Tomé",
+        "Elena Arranz",
+        "Miguel Angel de la Fuente",
+        "Pilar Gómez-Cortés",
+        "Blanca Hernández-Ledesma"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2024-Sep-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Chlorella vulgaris and Tetraselmis chuii are two microalgae species already marketed because of their richness in high-value and health-beneficial compounds. Previous studies have demonstrated the biological properties of compounds isolated from both microalgae, although data are not yet available on the impact that pre-treatment and gastrointestinal digestion could exert on these properties. The aim of the present study was to analyze the impact of the biomass pre-treatment (freeze/thaw cycles plus ultrasounds) and simulated gastrointestinal digestion in the bioaccessibility and in vitro antioxidant activity (ABTS, ORAC, Q-FRAP, Q-DPPH) of the released digests. The cell wall from microalgae were susceptible to the pre-treatment and the action of saliva and gastric enzymes, releasing bioactive peptides and phenolic compounds that contributed to the potent antioxidant activity of digests through their radical scavenging and iron reduction capacities. Our findings suggest the potential of these microalgae against oxidative stress-associated diseases at both, intestinal and systemic level.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Digestion",
+        "Chlorella vulgaris",
+        "Microalgae",
+        "Models, Biological",
+        "Humans",
+        "Gastrointestinal Tract",
+        "Biomass",
+        "Chlorophyta"
+      ]
+    },
+    {
+      "pmid": "38781905",
+      "title": "Supercritical CO2 extraction increases the recovery levels of omega-3 fatty acids in Tetraselmis chuii extracts.",
+      "authors": [
+        "Samuel Paterson",
+        "David Villanueva-Bermejo",
+        "Blanca Hernández-Ledesma",
+        "Pilar Gómez-Cortés",
+        "Miguel Angel de la Fuente"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2024-Sep-30",
+      "publication_types": [
+        "Journal Article",
+        "Evaluation Study"
+      ],
+      "abstract": "Tetraselmis chuii is a microalgae marketed as ingredient meeting the acceptance criteria for novel foods established by the European Union and can be an important source of healthy fatty acids (FA). The aim of this research was to characterize the FA profile of T. chuii fractions obtained by supercritical carbon dioxide (SCCO2) extraction operating with two sequential co-solvents and to evaluate the effect of biomass pretreatment (freeze/thaw cycles followed by ultrasounds). T. chuii biomass was confirmed to be an important source of omega-3 FA, mainly due to the abundance of α-linolenic acid, and pre-treatment significantly improved the lipid yield. Other omega-3 FA, such as 16:3, 16:4, 18:4, 18:5, 20:3 and 20:5, were also detected in different proportions. When SCCO2 extraction of pretreated and un-pretreated T. chuii was compared with conventional solvent extraction, the nutritional quality indices of the extracts were improved by the use of SCCO2.",
+      "mesh_terms": [
+        "Fatty Acids, Omega-3",
+        "Carbon Dioxide",
+        "Chromatography, Supercritical Fluid",
+        "Chlorophyta",
+        "Plant Extracts",
+        "Microalgae"
+      ]
+    },
+    {
+      "pmid": "31505236",
+      "title": "Safety assessment of a lyophilized biomass of Tetraselmis chuii (TetraSOD®) in a 90 day feeding study.",
+      "authors": [
+        "L Mantecón",
+        "R Moyano",
+        "A M Cameán",
+        "A Jos"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2019-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "TetraSOD® is a powder of the lyophilized biomass of Tetraselmis chuii strain CCFM03, a marine microalga with a history of use as feed in the aquaculture industry. Recently, algae including T. chuii have been investigated for their potential use in human food. However, published toxicology studies addressing the safety of T. chuii as a food ingredient are not available. To address this issue, the toxicity of TetraSOD® was evaluated using a 90-day oral toxicology study in rats following the Organisation for Economic Co-operation and Development (OECD) test guideline 408. No treatment-related mortality or clinical signs were noted with TetraSOD® at doses of 625, 1667, or 2500 mg/kg/day. Additionally, no adverse effects on haematology, blood biochemistry, organ weights, gross or histopathology were observed. The Non Observed Adverse Effect Level (NOAEL) for TetraSOD® is greater than the highest tested dose of 2500 mg/kg/day.",
+      "mesh_terms": [
+        "Animals",
+        "Biomass",
+        "Chlorophyta",
+        "Female",
+        "Food",
+        "Freeze Drying",
+        "Male",
+        "Microalgae",
+        "No-Observed-Adverse-Effect Level",
+        "Rats, Sprague-Dawley",
+        "Toxicity Tests, Subchronic"
+      ]
+    },
+    {
+      "pmid": "22634255",
+      "title": "Effects of dietary Bacillus subtilis, Tetraselmis chuii, and Phaeodactylum tricornutum, singularly or in combination, on the immune response and disease resistance of sea bream (Sparus aurata L.).",
+      "authors": [
+        "Rebeca Cerezuela",
+        "Francisco A Guardiola",
+        "Pilar González",
+        "José Meseguer",
+        "M Ángeles Esteban"
+      ],
+      "journal": "Fish & shellfish immunology",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Combined or individual effects of two microalgae (Phaeodactylum tricornutum and Tetraselmis chuii) and Bacillus subtilis on immune response, gene expression, and survival to challenge with Photobacterium damselae subsp. piscicida of gilthead sea bream were investigated. To test the capacity of B. subtilis to grow employing the microalgae polysaccharides as energy and carbon source, an in vitro assay was defined, and demonstrated that the digestion product of microalgae, mainly P. tricornutum, supported the growth of B. subtilis much better than glucose. For the in vivo study, fish were distributed in six equal groups (each of two replicates) and received one of the following experimental diets: C) control, non-supplemented diet; T) T. chuii 100 g kg(-1); P) P. tricornutum 100 g kg(-1); B) B. subtilis (10(7) cfu g(-1)); BT) B. subtilis (10(7) cfu g(-1))+T. chuii (100 g kg(-1)); and BP) B. subtilis (10(7) cfu g(-1))+P. tricornutum (100 g kg(-1)). The complement activity, serum IgM level, respiratory burst, phagocytic activity, and expression of seven selected immune-related genes in head-kidney were evaluated following two and four weeks of treatment. At the end of the feeding trial, fish were challenged by intraperitoneal injection of LD(50) concentration of P. damselae subsp. piscicida and mortality was recorded. This is the first study testing the immunomodulatory capacity of the microalgae used in the present work. The dietary applications of B. subtilis, T. chuii, and P. tricornutum, singly or in combination, may exhibit up-regulating effects on gilthead sea bream immune parameters. P. tricornutum demonstrated the highest immunostimulant activity. There were no significant differences between combination feeding and feeding ingredients separately. Our results demonstrated the potential of microalgae as immunostimulants for fish, although further studies regarding the implications and effects of a stimulated immune system against pathogens, especially the protective capacity against specific diseases, are necessary.",
+      "mesh_terms": [
+        "Animals",
+        "Bacillus subtilis",
+        "Chlorophyta",
+        "Diatoms",
+        "Diet",
+        "Disease Resistance",
+        "Fish Diseases",
+        "Gene Expression Profiling",
+        "Gene Expression Regulation",
+        "Gram-Negative Bacterial Infections",
+        "Immune System",
+        "Kaplan-Meier Estimate",
+        "Phagocytosis",
+        "Photobacterium",
+        "Probiotics",
+        "Respiratory Burst",
+        "Sea Bream"
+      ]
+    }
+  ]
+}

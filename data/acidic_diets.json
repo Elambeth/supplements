@@ -1,0 +1,41 @@
+{
+  "supplement": "Acidic Diets",
+  "query": "Acidic Diets[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:01:56",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "10386317",
+      "title": "The influence of acidic diets on the acid-base balance of dry cows and the effect of fertilization on the mineral content of grass.",
+      "authors": [
+        "B Pehrson",
+        "C Svensson",
+        "I Gruvaeus",
+        "M Virkki"
+      ],
+      "journal": "Journal of dairy science",
+      "publication_date": "1999-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To investigate the safety and practicality of an acidic concentrate in milk fever prevention, the pH, carbon dioxide, standard bicarbonate, and base excess of whole blood and the pH in the urine were measured in three treatment groups of dry cows after 14 and 21 d of feeding an acidogenic diet (experiment 1). The dietary cation-anion differences (DCAD) of cows on treatments 1 (n = 11), 2 (n = 13), and 3 (n = 12) were +2275, -262, and -1185 meq/d, respectively. No changes in any parameters were found from the beginning to the end of the experiment in cows on treatment 1. In cows on treatment 2, a significant reduction in urine pH was observed, and in cows on treatment 3 significant decreases in all parameters except blood pH were observed. Mineral analyses of grass samples from fields fertilized with N from NH4NO3, Ca(NO3)2, or (NH4)2SO4, with S from (NH4)2SO4, and with different amounts of K from KCl or K2SO4 and of Cl from KCl revealed DCAD ranging from -14 to +726 meq/kg of dry matter (experiment 2). Fertilization with Cl increased the chloride concentration in the crop and had the largest effect on DCAD. The results indicate that the use of acidic concentrates is not a health hazard for dry cows, at least not when the DCAD is greater than about -1200 meq/d or about -140 meq/kg of dry matter.",
+      "mesh_terms": [
+        "Acid-Base Equilibrium",
+        "Animal Feed",
+        "Animal Nutritional Physiological Phenomena",
+        "Animals",
+        "Cattle",
+        "Chlorides",
+        "Diet",
+        "Female",
+        "Fertilizers",
+        "Hydrogen-Ion Concentration",
+        "Minerals",
+        "Poaceae",
+        "Urine"
+      ]
+    }
+  ]
+}

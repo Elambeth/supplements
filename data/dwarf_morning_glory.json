@@ -1,0 +1,42 @@
+{
+  "supplement": "Dwarf morning glory",
+  "query": "Dwarf morning glory[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:29:25",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "8311773",
+      "title": "Morning glory syndrome in children. Association with endocrine and central nervous system anomalies.",
+      "authors": [
+        "H S Eustis",
+        "M R Sanders",
+        "T Zimmerman"
+      ],
+      "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+      "publication_date": "1994-Feb",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To identify morning glory syndrome, an uncommon optic disc anomaly. Generally, it is an isolated ocular abnormality; however, some cranial facial and neurologic associations have been reported. PATIENTS: We herein report two patients with morning glory syndrome and associated pituitary dwarfism. In one patient, the pituitary insufficiency was secondary to compression of the pituitary gland by a basal encephalocele; in the second patient, causative factors were not identified. CONCLUSIONS: Patients with morning glory syndrome should have a complete general physical examination and growth evaluation so that early recognition and treatment of the patient with pituitary dwarfism can occur.",
+      "mesh_terms": [
+        "Abnormalities, Multiple",
+        "Child, Preschool",
+        "Dwarfism, Pituitary",
+        "Encephalocele",
+        "Female",
+        "Fundus Oculi",
+        "Humans",
+        "Hypopituitarism",
+        "Infant",
+        "Magnetic Resonance Imaging",
+        "Male",
+        "Optic Disk",
+        "Optic Nerve",
+        "Pituitary Function Tests",
+        "Syndrome"
+      ]
+    }
+  ]
+}

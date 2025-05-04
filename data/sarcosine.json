@@ -1,0 +1,2413 @@
+{
+  "supplement": "Sarcosine",
+  "query": "Sarcosine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:31:43",
+  "research_count": 72,
+  "count": 72,
+  "articles": [
+    {
+      "pmid": "39180989",
+      "title": "Efficacy and safety of add-on sarcosine in patients with major depressive disorder: A randomized controlled trial.",
+      "authors": [
+        "Milan Padhan",
+        "Debadatta Mohapatra",
+        "Biswa Ranjan Mishra",
+        "Rituparna Maiti",
+        "Monalisa Jena"
+      ],
+      "journal": "Journal of psychiatric research",
+      "publication_date": "2024-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "The main hurdles with current therapies for major depressive disorder (MDD) include lack of efficacy, therapeutic latency, and adverse drug reactions. Add-on therapy to conventional antidepressants may result in better therapeutic outcomes to overcome these obstacles. Sarcosine (N-methyl glycine), an endogenous amino acid that acts by modulating the NMDA receptor, is available as a dietary supplement. So, the present study was planned to evaluate the efficacy and safety of add-on sarcosine to SSRIs in MDD. In the present randomized, double-blind clinical trial (NCT04975100), 60 eligible participants with MDD were randomly assigned to either the test group (SSRI + sarcosine) or the control group (SSRI + placebo). Clinical and biochemical parameters like MADRS, CGI, serum BDNF, and serum glycine were assessed at baseline and eight weeks. The mean reduction in MADRS score was significant in both the control (-8.7, 95% CI: -11.0 to -6.4, p < 0.001) and the test group (-13.3, 95% CI: -14.9 to -11.7, p < 0.001), but the change in the test group was significantly greater (-4.6, 95% CI: -7.5 to -1.7, p = 0.003). The test group had a significantly higher response rate (p = 0.007) and remission rate (p = 0.038) compared to the control group. There was a significant increase in serum BDNF in both groups; however, the change in the test group was significantly higher than in the control group (p = 0.041). Similarly, the test group had a significantly higher increase in serum glycine than the control group (p < 0.001). Sarcosine may be considered an efficacious and safe add-on therapy to standard SSRIs in the management of MDD. ClinicalTrial.gov IdentifierNCT04975100.",
+      "mesh_terms": [
+        "Humans",
+        "Depressive Disorder, Major",
+        "Male",
+        "Female",
+        "Adult",
+        "Sarcosine",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Middle Aged",
+        "Brain-Derived Neurotrophic Factor",
+        "Young Adult",
+        "Outcome Assessment, Health Care",
+        "Antidepressive Agents"
+      ]
+    },
+    {
+      "pmid": "38877335",
+      "title": "Brucine Suppresses Malignant Progression of Prostate Cancer by Decreasing Sarcosine Accumulation via Downregulation of GNMT in the Glycine/sarcosine Metabolic Pathway.",
+      "authors": [
+        "Long Miao",
+        "Yang Liu",
+        "Wei Chen",
+        "Chao Gao",
+        "Yijing Zhang",
+        "Jin Wei",
+        "Xiliang Cao"
+      ],
+      "journal": "Cell biochemistry and biophysics",
+      "publication_date": "2024-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Prostate cancer (PCa) remains a leading cause of cancer-related incidence and mortality in men. Disruptions in amino acid (AA) metabolism contribute to the disease progression, with brucine, a glycine antagonist, exhibiting antitumor effects. This study explores the antitumor impact of brucine on PCa and investigates its mechanisms in regulating AA metabolic pathways. The study employed the PCa cell line DU-145, characterized by high sarcosine (Sar) levels, for various assays including Cell Counting Kit-8 (CCK8), wound healing, Transwell, 5-Ethynyl-2'-deoxyuridine (EDU), TdT mediated dUTP Nick End Labeling (TUNEL), flow cytometry, Western blot, and ultra-high-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS). Network pharmacological analysis determined the anticancer mechanisms of brucine. Sar levels in DU-145 cells were significantly higher than in normal prostatic epithelial cells RWPE-1. Treatment with brucine resulted in a marked decrease in cell viability, proliferation, invasion, and migration, while promoting apoptosis in a dose-dependent manner. Sar levels decreased with increasing brucine concentration. Network pharmacology analysis linked brucine's anticancer effect to the AA metabolism and glycine N-methyltransferase (GNMT) pathways. GNMT expression in prostate cancer tissues and The Cancer Genome Atlas database was significantly elevated compared to controls. Treatment with brucine led to downregulation of GNMT expression in DU-145 cells without significant effect on sarcosine dehydrogenase (SARDH). Addition of recombinant GNMT partially reversed the inhibitory effects of brucine on DU-145 cells. Treatment with brucine downregulates GNMT expression in DU-145 cells, reducing Sar accumulation and inhibiting tumor progression. These findings provide new insights into the antitumor mechanisms of brucine in PCa.",
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Sarcosine",
+        "Prostatic Neoplasms",
+        "Cell Line, Tumor",
+        "Down-Regulation",
+        "Strychnine",
+        "Glycine",
+        "Apoptosis",
+        "Glycine N-Methyltransferase",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Disease Progression",
+        "Cell Movement",
+        "Antineoplastic Agents",
+        "Metabolic Networks and Pathways"
+      ]
+    },
+    {
+      "pmid": "38692787",
+      "title": "Dual-mode fluorescence and colorimetric smartphone-based sensing platform with oxidation-induced self-assembled nanoflowers for sarcosine detection.",
+      "authors": [
+        "Peng Liu",
+        "Qian Sun",
+        "Zhexu Gai",
+        "Fei Yang",
+        "Yanzhao Yang"
+      ],
+      "journal": "Analytica chimica acta",
+      "publication_date": "2024-Jun-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Early prostatic cancer (PCa) diagnosis significantly improves the chances of successful treatment and enhances patient survival rates. Traditional enzyme cascade-based early cancer detection methods offer efficiency and signal amplification but are limited by cost, complexity, and enzyme dependency, affecting stability and practicality. Meanwhile, sarcosine (Sar) is commonly considered a biomarker for PCa development. It is essential to develop a Sar detection method based on cascade reactions, which should be efficient, low skill requirement, and suitable for on-site testing. RESULTS: To address this, our study introduces the synthesis of organic-inorganic self-assembled nanoflowers to optimize existing detection methods. The Sar oxidase (SOX)-inorganic hybrid nanoflowers (Cu3(PO4)2:Ce@SOX) possess inherent fluorescent properties and excellent peroxidase activity, coupled with efficient enzyme loading. Based on this, we have developed a dual-mode multi-enzyme cascade nanoplatform combining fluorescence and colorimetric methods for the detection of Sar. The encapsulation yield of Cu3(PO4)2:Ce@SOX reaches 84.5 %, exhibiting a remarkable enhancement in catalytic activity by 1.26-1.29 fold compared to free SOX. The present study employing a dual-signal mechanism encompasses 'turn-off' fluorescence signals ranging from 0.5 μM to 60 μM, with a detection limit of 0.226 μM, and 'turn-on' colorimetric signals ranging from 0.18 μM to 60 μM, with a detection limit of 0.120 μM. SIGNIFICANCE: Furthermore, our study developed an intelligent smartphone sensor system utilizing cotton swabs for real-time analysis of Sar without additional instruments. The nano-platform exhibits exceptional repeatability and stability, rendering it well-suited for detecting Sar in authentic human urine samples. This innovation allows for immediate analysis, offering valuable insights for portable and efficient biosensors applicable to Sar and other analytes.",
+      "mesh_terms": [
+        "Colorimetry",
+        "Sarcosine",
+        "Smartphone",
+        "Humans",
+        "Oxidation-Reduction",
+        "Nanostructures",
+        "Limit of Detection",
+        "Spectrometry, Fluorescence",
+        "Prostatic Neoplasms",
+        "Fluorescence",
+        "Biosensing Techniques",
+        "Sarcosine Oxidase"
+      ]
+    },
+    {
+      "pmid": "38004423",
+      "title": "Sarcosine May Induce EGF Production or Inhibit the Decline in EGF Concentrations in Patients with Chronic Schizophrenia (Results of the PULSAR Study).",
+      "authors": [
+        "Agnieszka Pawlak",
+        "Bartosz Kaczmarek",
+        "Adam Wysokiński",
+        "Dominik Strzelecki"
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "publication_date": "2023-Nov-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine (N-methylglycine), a glutamatergic modulator, reduces the primary negative symptoms of schizophrenia. These beneficial changes might be mediated by trophic factors such as epidermal growth factor (EGF). We assessed associations between initial serum EGF levels or changes in serum EGF levels and symptom severity during the addition of sarcosine to stable antipsychotic treatment and thereby evaluated the associations between glutamatergic modulation, clinical changes and peripheral EGF concentrations. Fifty-eight subjects with a diagnosis of chronic schizophrenia with dominant negative symptoms, stably treated with antipsychotics, completed a prospective 6-month, randomized, double-blind, placebo-controlled study. Subjects received orally 2 g of sarcosine (n = 28) or placebo (n = 30) daily. Serum EGF levels and symptom severity (using the Positive and Negative Syndrome Scale (PANSS) and the Calgary Depression Scale for Schizophrenia (CDSS)) were assessed at baseline, 6-week and 6-month follow-up. Augmentation antipsychotic treatment with sarcosine had no effect on EGF serum levels at any time points. Only the sarcosine group showed a significant improvement in negative symptoms, general psychopathology subscales and the overall PANSS score. We found a reduction in serum EGF levels in the placebo group, but levels in the sarcosine remained stable during the study. Our data indicate that improvement in negative symptoms due to sarcosine augmentation is not directly mediated by EGF, but effective treatment may induce the production or block the decrease in EGF concentrations, which indicates the neuroprotective effect of treatment and confirms the relationship between neuroprotection and EGF levels."
+    },
+    {
+      "pmid": "38003554",
+      "title": "ERVK13-1/miR-873-5p/GNMT Axis Promotes Metastatic Potential in Human Bladder Cancer though Sarcosine Production.",
+      "authors": [
+        "Shingo Kishi",
+        "Shiori Mori",
+        "Rina Fujiwara-Tani",
+        "Ruiko Ogata",
+        "Rika Sasaki",
+        "Ayaka Ikemoto",
+        "Kei Goto",
+        "Takamitsu Sasaki",
+        "Makito Miyake",
+        "Satoru Sasagawa",
+        "Masashi Kawaichi",
+        "Yi Luo",
+        "Ujjal Kumar Bhawal",
+        "Kiyohide Fujimoto",
+        "Hidemitsu Nakagawa",
+        "Hiroki Kuniyasu"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-Nov-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "N-methyl-glycine (sarcosine) is known to promote metastatic potential in some cancers; however, its effects on bladder cancer are unclear. T24 cells derived from invasive cancer highly expressed GNMT, and S-adenosyl methionine (SAM) treatment increased sarcosine production, promoting proliferation, invasion, anti-apoptotic survival, sphere formation, and drug resistance. In contrast, RT4 cells derived from non-invasive cancers expressed low GNMT, and SAM treatment did not produce sarcosine and did not promote malignant phenotypes. In T24 cells, the expression of miR-873-5p, which suppresses GNMT expression, was suppressed, and the expression of ERVK13-1, which sponges miR-873-5p, was increased. The growth of subcutaneous tumors, lung metastasis, and intratumoral GNMT expression in SAM-treated nude mice was suppressed in T24 cells with ERVK13-1 knockdown but promoted in RT4 cells treated with miR-873-5p inhibitor. An increase in mouse urinary sarcosine levels was observed to correlate with tumor weight. Immunostaining of 86 human bladder cancer cases showed that GNMT expression was higher in cases with muscle invasion and metastasis. Additionally, urinary sarcosine concentrations increased in cases of muscle invasion. Notably, urinary sarcosine concentration may serve as a marker for muscle invasion in bladder cancer; however, further investigation is necessitated.",
+      "mesh_terms": [
+        "Humans",
+        "Animals",
+        "Mice",
+        "Sarcosine",
+        "Mice, Nude",
+        "S-Adenosylmethionine",
+        "MicroRNAs",
+        "Urinary Bladder Neoplasms",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Gene Expression Regulation, Neoplastic",
+        "Cell Movement"
+      ]
+    },
+    {
+      "pmid": "37389600",
+      "title": "Point-of-care diagnostics for rapid determination of prostate cancer biomarker sarcosine: application of disposable potentiometric sensor based on oxide-conductive polymer nanocomposite.",
+      "authors": [
+        "Hend Z Yamani",
+        "Nardine Safwat",
+        "Amr M Mahmoud",
+        "Miriam F Ayad",
+        "Maha F Abdel-Ghany",
+        "Mohammed M Gomaa"
+      ],
+      "journal": "Analytical and bioanalytical chemistry",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "One of the most important reasons for an increased mortality rate of cancer is late diagnosis. Point-of-care (POC) diagnostic sensors can provide rapid and cost-effective diagnosis and monitoring of cancer biomarkers. Portable, disposable, and sensitive sarcosine solid-contact ion-selective potentiometric sensors (SC-ISEs) were fabricated as POC analyzers for the rapid determination of the prostate cancer biomarker sarcosine. Tungsten trioxide nanoparticles (WO3 NPs), polyaniline nanoparticles (PANI NPs), and PANI-WO3 nanocomposite were used as ion-to-electron transducers on screen-printed sensors. WO3 NPs and PANI-WO3 nanocomposite have not been investigated before as ion-to-electron transducer layers in potentiometric SC sensors. The designated sensors were characterized using SEM, XRD, FTIR, UV-VIS spectroscopy, and EIS. The inclusion of WO3 and PANI in SC sensors enhanced the transduction at the interface between the screen-printed SC and the ion-selective membrane, offering lower potential drift, a longer lifetime, shorter response time, and better sensitivity. The proposed sarcosine sensors exhibited Nernstian slopes over linear response ranges 10-3-10-7 M, 10-3-10-8 M, 10-5-10-9 M, and 10-7-10-12 M for control, WO3 NPs, PANI NPs, and PANI-WO3 nanocomposite-based sensors, respectively. From a comparative point of view between the four sensors, PANI-WO3 nanocomposite inclusion offered the lowest potential drift (0.5 mV h-1), the longest lifetime (4 months), and the best LOD (9.95 × 10-13 M). The proposed sensors were successfully applied to determine sarcosine as a potential prostate cancer biomarker in urine without prior sample treatment steps. The WHO ASSURED criteria for point-of-care diagnostics are met by the proposed sensors.",
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Biomarkers, Tumor",
+        "Sarcosine",
+        "Prostate",
+        "Polymers",
+        "Oxides",
+        "Prostatic Neoplasms",
+        "Point-of-Care Testing",
+        "Nanocomposites"
+      ]
+    },
+    {
+      "pmid": "36639940",
+      "title": "Comparative evaluation of biased agonists Sarcosine1 , d-Alanine8 -Angiotensin (Ang) II (SD Ang II) and Sarcosine1 , Isoleucine8 -Ang II (SI Ang II) and their radioiodinated congeners binding to rat liver membrane AT1 receptors.",
+      "authors": [
+        "Natalia M Noto",
+        "Yazmin M Restrepo",
+        "Hong W Pang",
+        "Filipe Stoyell-Conti",
+        "Crystal A West",
+        "Robert C Speth"
+      ],
+      "journal": "Pharmacology research & perspectives",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Angiotensin II analogue and β-arrestin biased agonist TRV027 (Sarcosine1 , d-Alanine8 -Angiotensin (Ang) II; SD Ang II), developed by Trevena, Inc. in the early 2010s, brought hopes of a novel treatment for cardiovascular diseases, due to its ability to simultaneously cause signaling through the β-arrestin signaling pathway, while antagonizing the pathophysiological effects of Ang II mediated by the AT1 receptor G protein signaling cascades. However, a phase II clinical trial of this agent revealed no significant benefit compared to placebo treatment. Using 125 I-Sarcosine1 , Isoleucine8 -Ang II (125 I-SI Ang II) radioligand receptor competition binding assays, we assessed the relative affinity of TRV027 compared to SI Ang II for liver AT1 receptors. We also compared radioiodinated TRV027 (125 I-SD Ang II) binding affinity for liver AT1 receptors with 125 I-SI Ang II. We found that despite its anticipated gain in metabolic stability, TRV027 and 125 I-SD Ang II had reduced affinity for the AT1 receptor compared with SI Ang II and 125 I-SI Ang II. Additionally, male-female comparisons showed that females have a higher AT1 receptor density, potentially attributed to tissue-dependent estrogen and progesterone effects. Peptide drugs have become more popular over the years due to their increased bioavailability, fast onset of action, high specificity, and low toxicity. Even though Trevena®'s biased agonist peptide TRV027 offered greater stability and potency compared to earlier AT1 R biased agonists, it failed its phase II clinical trial in 2016. Further refinements to AT1 R biased agonist peptides to improve affinity, as seen with SI Ang II, with better stability and bioavailability, has the potential to achieve the anticipated biased agonism.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Male",
+        "Rats",
+        "Alanine",
+        "Angiotensin II",
+        "beta-Arrestins",
+        "Isoleucine",
+        "Liver",
+        "Sarcosine",
+        "Receptor, Angiotensin, Type 1"
+      ]
+    },
+    {
+      "pmid": "36577922",
+      "title": "Sarcosine (glycine transporter inhibitor) attenuates behavioural and biochemical changes induced by ketamine, in the rat model of schizophrenia.",
+      "authors": [
+        "Amit Kumar",
+        "Ansab Akhtar",
+        "Anurag Kuhad",
+        "Sangeeta Pilkhwal Sah"
+      ],
+      "journal": "Experimental brain research",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Schizophrenia is a neurological disorder that alters the behavior and affects the quality of life of a patient. It is characterized by hallucinations, disorganized behavior, cognitive dysfunction, hyperlocomotion, and loss of the reward system. Schizophrenia constitutes three symptoms' domains, viz. positive, negative and cognitive. Typical and atypical antipsychotics do not fully resolve all the symptoms' domains thus paving the way to the genesis of the glutamatergic hypothesis, i.e. N-methyl-D-aspartate (NMDA) receptor hypofunction in the pathophysiology of schizophrenia. Positive modulation of NMDA receptors by enhancing co-agonist, glycine effect is proposed to produce a therapeutic effect in schizophrenia. Hence, sarcosine (N-methyl glycine), natural amino acid, and a glycine transporter inhibitor (GlyT-1) which also acts on NMDA receptors were used in the present study. The present study unravels the role of sarcosine in the attenuation of ketamine-induced three symptom domains in a rat model through modulation of oxidative stress, mitochondrial dysfunction, and neuroinflammatory pathways. The animal model of schizophrenia was established by injecting ketamine intraperitoneal (ip) at a 30 mg/kg dose for 10 consecutive days, after which sarcosine (300, 600 mg/kg, ip) as a treatment was given for 7 days followed by behavioral, biochemical, molecular, and histopathological analysis. It was revealed that sarcosine reversed ketamine-induced behavioral impairments. Moreover, sarcosine ameliorated oxidative and nitrosative stress, mitochondrial dysfunction, and neuroinflammation and showed protective effects in histopathological examination by hematoxylin and eosin staining. Hence, conclusively, sarcosine was regarded to attenuate the behavioural symptoms of schizophrenia by alleviating oxidative stress, neuroinflammation, and mitochondrial dysfunction established by the ketamine.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Sarcosine",
+        "Schizophrenia",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Ketamine",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Neuroinflammatory Diseases",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "36423705",
+      "title": "Ketamine, benzoate, and sarcosine for treating depression.",
+      "authors": [
+        "Yu-Jung Cheng",
+        "Chieh-Hsin Lin",
+        "Hsien-Yuan Lane"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "2023-Feb-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Studies have demonstrated the beneficial therapeutic effects of sarcosine, benzoate, and ketamine (including esketamine and arketamine) on depression. These drugs mainly act by modulating N-methyl-d-aspartate glutamate receptors (NMDARs) and reducing inflammation in the brain. Although ketamine, benzoate, and sarcosine act differently as the antagonists or coagonists of NMDARs, they all have demonstrated efficacy in animal models or human trials. In vitro and in vivo studies have indicated that sarcosine, benzoate, and ketamine exert their anti-inflammatory effects by inhibiting microglial activity. This review summarizes and compares the efficacy of the possible therapeutic mechanisms of sarcosine, benzoate, ketamine, esketamine, and arketamine. These compounds act as both NMDAR modulators and anti-inflammatory drugs and thus can be effective in the treatment of depression.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Sarcosine",
+        "Antidepressive Agents",
+        "Benzoates",
+        "Ketamine",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Depression"
+      ]
+    },
+    {
+      "pmid": "36281465",
+      "title": "In Vitro and In Vivo Neuroprotective Effects of Sarcosine.",
+      "authors": [
+        "Arzugül Tanas",
+        "Özlem Özdemir Tozlu",
+        "Tuğba Gezmiş",
+        "Ahmet Hacimüftüoğlu",
+        "A M Abd El-Aty",
+        "Onur Ceylan",
+        "Adil Mardinoğlu",
+        "Hasan Türkez"
+      ],
+      "journal": "BioMed research international",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder characterized by behavioral and psychological symptoms in addition to cognitive impairment and loss of memory. The exact pathogenesis and genetic background of AD are unclear and there remains no effective treatment option. Sarcosine, an n-methyl derivative of glycine, showed a promising therapeutic strategy for some cognitive disorders. To our knowledge, the impacts of sarcosine supplementation against AD have not yet been elucidated. Therefore, we aimed to determine the neuroprotective potential of sarcosine in in vitro and in vivo AD model. In vitro studies have demonstrated that sarcosine increased the percentage of viable cells against aluminum induced neurotoxicity. In AlCl3-induced rat model of AD, the level of antioxidant capacity was significantly decreased and expression levels of APP, BACE1, TNF-α, APH1A, and PSENEN genes were elevated compared to the control group. Additionally, histopathological examinations of the hippocampus of AlCl3-induced rat brains showed the presence of neurofibrillary tangles (NFTs). However, the administration of sarcosine produced marked improvement and protection of AD-associated pathologies induced by AlCl3 in experimental rats. Therefore, this investigation may contribute to design novel therapeutic strategies using sarcosine for the management of AD pathologies.",
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Neuroprotective Agents",
+        "Aluminum Chloride",
+        "Sarcosine",
+        "Antioxidants",
+        "Amyloid Precursor Protein Secretases",
+        "Tumor Necrosis Factor-alpha",
+        "Aluminum",
+        "Rats, Wistar",
+        "Aspartic Acid Endopeptidases",
+        "Alzheimer Disease"
+      ]
+    },
+    {
+      "pmid": "33934774",
+      "title": "Metal-coded hydrogel magnetic molecularly imprinted polymer for preconcentration and cleanup of sarcosine: Determination in urine; coupled to on-column capillary electrophoresis.",
+      "authors": [
+        "Zahra Ramezani",
+        "Mehdi Safdarian",
+        "Ata A Ghadiri"
+      ],
+      "journal": "Talanta",
+      "publication_date": "2021-Aug-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "In this study, sarcosine metal-coded hydrogel magnetic molecularly imprinted polymer (Hydro-MeC-MMIP) has been fabricated and coupled to on-column derivatization capillary electrophoresis (CE). As a metal-coding approach, sarcosine-Cu2+-ligand (Sar-Cu2+-L) chelate complex was introduced as a template to overcome the problems associated with the fabrication of MMIP for a small molecule having limited functional groups such as sarcosine. To our best knowledge, it is the first time that methacrylamide (MA) coated Fe3O4 (Fe3O4@MA) with abounded reactive double-bound on the surface has been used as a magnetic core in the one-pot synthesis of MMIPs. As prepared, Hydro-MeC-MMIP was characterized by different microscopic, spectroscopic, and thermal gravimetric methods. Hydro-MeC-MMIP was used to extract and preconcentrate sarcosine in the urine sample with no treatment and dilution. Sarcosine was quantified by on-column derivatization capillary electrophoresis equipped with a photodiode array detector. A mixture of thirteen amino acids was separated with a total run time of 12 min. Three structural analogs, including alanine, sarcosine, and glycine, were significantly resolved. Under optimal experimental conditions, the method's detection and quantification limits were 9.93 and 33.10 ng mL-1, respectively. The linear range of 50-2000 ng mL-1 and 96% recovery, along with the relative standard deviation of 6.07% (n = 6) for the target amino acid, were obtained. This method provides a simple, low-cost, fast, and efficient tool for extracting and quantifying sarcosine in the urine. The present method can address inconsistency in evaluating sarcosine as a candidate biomarker for prostate cancer with a simple CE/UV; no need for a sophisticated detection system such as a mass spectrometer.",
+      "mesh_terms": [
+        "Electrophoresis, Capillary",
+        "Hydrogels",
+        "Magnetic Phenomena",
+        "Male",
+        "Molecular Imprinting",
+        "Molecularly Imprinted Polymers",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "33538213",
+      "title": "Sarcosine as an add-on treatment to antipsychotic medication for people with schizophrenia: a systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Mattia Marchi",
+        "Giacomo Galli",
+        "Federica Maria Magarini",
+        "Giorgio Mattei",
+        "Gian Maria Galeazzi"
+      ],
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "publication_date": "2021-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Background: N-methyl-glycine (sarcosine) may improve symptoms of schizophrenia via NMDA-receptor modulation. We undertook a systematic review and meta-analysis to determine the short- and long-term effectiveness of sarcosine for schizophrenia.Research design and methods: The databases Medline, Scopus, EMBASE, Cochrane Library, and PsycINFO were searched. We included six independent randomized controlled trials of sarcosine as add-on treatment to current antipsychotic medication, involving 234 adult participants with schizophrenia, and reporting data on symptom severity. Standardized mean differences (SMDs) were used to assess continuous outcomes.Results: In all of the trials, sarcosine was administered orally at 2 g/day. Treatment with sarcosine did not show a significant effect size at any of the pre-established time points (2, 4, 6, or >6 weeks), due to marked quantitative heterogeneity. However, sarcosine was associated with significant reductions of symptom severity in the subgroups of people with chronic schizophrenia and no treatment resistance (namely, without added-on clozapine) in relation to the SMD after 6 weeks treatment at -0.36 and -0.31, respectively.Conclusions: People with chronic and non-refractory schizophrenia may benefit from the use of sarcosine as an add-on treatment to antipsychotic medication. Due to the good tolerability of this compound, future trials with larger sample sizes appear worthwhile.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Sarcosine",
+        "Schizophrenia",
+        "Severity of Illness Index",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "33245168",
+      "title": "Serum levels of neuropeptide Y in patients with chronic schizophrenia during treatment augmentation with sarcosine (results of the double-blind randomized controlled PULSAR study).",
+      "authors": [
+        "Dominik Strzelecki",
+        "Magdalena Kotlicka-Antczak",
+        "Bartosz Kaczmarek",
+        "Hanna Jerczyńska",
+        "Adam Wysokiński"
+      ],
+      "journal": "Human psychopharmacology",
+      "publication_date": "2021-May",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Modulation of glutamatergic neurotransmission in schizophrenia by sarcosine leads to a reduction in primary negative symptoms, while its metabolic profile is safe. In order to extend research in the area, we assessed serum levels of neuropeptide Y (NPY), a hypothalamic hormone related to anxiety and depression, also involved in mechanisms inducing weight gain. Additionally, we analyzed associations between NPY concentrations and its changes with severity of symptoms and metabolic parameters. METHODS: A prospective 6-month, randomized, double-blind placebo-controlled trial was completed by 57 subjects with chronic schizophrenia with predominant negative symptoms and stable antipsychotic treatment. The participants received 2 g of sarcosine (n = 28) or placebo (n = 29) daily. We assessed serum NPY concentrations and severity of symptoms (with the Positive and Negative Syndrome Scale [PANSS] and Calgary Depression Scale for Schizophrenia) at the beginning of the study, after 6 weeks and 6 months. RESULTS: Sarcosine did not affect NPY levels in all time points. The highest decrease in NPY concentrations was observed in the subjects who were initially depressed, who became euthymic at the last visit. We noticed an improvement in the total PANSS score, and negative symptom and general psychopathology subscales in the sarcosine group, however, without any correlation with NPY levels. CONCLUSION: The use of sarcosine does not change NPY levels. Peripheral NPY concentrations may be related to depressive symptoms in schizophrenia.",
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "DEAE-Dextran",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Neuropeptide Y",
+        "Prospective Studies",
+        "Psychiatric Status Rating Scales",
+        "Sarcosine",
+        "Schizophrenia",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "32581708",
+      "title": "Sarcosine Suppresses Epileptogenesis in Rats With Effects on Hippocampal DNA Methylation.",
+      "authors": [
+        "Hai-Ying Shen",
+        "Landen Weltha",
+        "John M Cook",
+        "Raey Gesese",
+        "Wakaba Omi",
+        "Sadie B Baer",
+        "Rizelle Mae Rose",
+        "Jesica Reemmer",
+        "Detlev Boison"
+      ],
+      "journal": "Frontiers in molecular neuroscience",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Epileptogenesis is a common consequence of brain insults, however, the prevention or delay of the epileptogenic process remains an important unmet medical challenge. Overexpression of glycine transporter 1 (GlyT1) is proposed as a pathological hallmark in the hippocampus of patients with temporal lobe epilepsy (TLE), and we previously demonstrated in rodent epilepsy models that augmentation of glycine suppressed chronic seizures and altered acute seizure thresholds. In the present study we evaluated the effect of the GlyT1 inhibitor, sarcosine (aka N-methylglycine), on epileptogenesis and also investigated possible mechanisms. We developed a modified rapid kindling model of epileptogenesis in rats combined with seizure score monitoring to evaluate the antiepileptogenic effect of sarcosine. We used immunohistochemistry and Western blot analysis for the evaluation of GlyT1 expression and epigenetic changes of 5-methylcytosine (5mC) and 5-hydroxymethylcytosine (5hmC) in the epileptogenic hippocampi of rats, and further evaluated expression changes in enzymes involved in the regulation of DNA methylation, ten-eleven translocation methylcytosine dioxygenase 1 (TET1), DNA-methyltransferase 1 (DNMT1), and DNMT3a. Our results demonstrated: (i) experimental evidence that sarcosine (3 g/kg, i.p. daily) suppressed kindling epileptogenesis in rats; (ii) the sarcosine-induced antiepileptogenic effect was accompanied by a suppressed hippocampal GlyT1 expression as well as a reduction of hippocampal 5mC levels and a corresponding increase in 5hmC; and (iii) sarcosine treatment caused differential expression changes of TET1 and DNMTs. Together, these findings suggest that sarcosine has unprecedented disease-modifying properties in a kindling model of epileptogenesis in rats, which was associated with altered hippocampal DNA methylation. Thus, manipulation of the glycine system is a potential therapeutic approach to attenuate the development of epilepsy."
+    },
+    {
+      "pmid": "32328112",
+      "title": "Chemical Synthesis, Efficacy, and Safety of Antimalarial Hybrid Drug Comprising of Sarcosine and Aniline Pharmacophores as Scaffolds.",
+      "authors": [
+        "Jean Baptiste Niyibizi",
+        "Peter G Kirira",
+        "Francis T Kimani",
+        "Fiona Oyatsi",
+        "Joseph K Ng'ang'a"
+      ],
+      "journal": "Journal of tropical medicine",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Malaria is a disease caused by protozoans transmitted to humans by infected female Anopheles mosquitoes. According to the WHO report of 2015, there were 214 million cases of malaria with 438,000 deaths worldwide. Ninety percent of world's malaria cases occur in Africa, where the disease is recognized as a serious impediment to economic and social development. Despite advancement in malaria research, the disease continues to be a global problem, especially in developing countries. Currently, there is no effective vaccine for malaria control. In addition, although there are effective drugs for treatment of malaria, this could be lost to the drug resistance in different Plasmodium species. The most lethal form is caused by P. falciparum which has developed resistance to many chemotherapeutic agents and possibly to the current drugs of choice. Reducing the impact of malaria is a key to achieving the sustainable development goals which are geared toward combating the disease. Covalent bitherapy is a rational and logical way of drug design which entails joining a couple of molecules with individual intrinsic action into a unique agent, hence packaging dual activity into one hybrid. This suggests the need to develop new antimalarial drugs that are effective against malaria parasites based on the new mode of action, molecular targets, and chemical structures. In silico studies have shown that sarcosine is able to bind to unique plasmodia proteins (P. falciparum ATCase), whereas aniline can be a ligand to target protein (enoyl acyl carrier protein reductase), hence suppressing the progression of the disease. The main objective of this study was to synthesize and determine the efficacy and safety of antiplasmodial hybrid drug comprising the sarcosine and aniline derivative for management of plasmodial infections. The hybrid drug was synthesized by adding thionyl chloride to sarcosine to form acyl chloride which was then added to aniline to form sarcosine-aniline hybrid molecule. The IC50 of sarcosine-aniline hybrid was 44.80 ± 4.70 ng/ml compared with that of aniline derivative which was 22.86 ± 1.26 ng/ml. The IC50 of control drugs was 2.63 ± 0.38 ng/ml and 5.69 ± 0.39 ng/ml for artesunate and chloroquine, respectively. There was a significant difference between IC50 of sarcosine-aniline hybrid and aniline derivative (p < 0.05). There was also a significant difference between sarcosine-aniline hybrid and standard drugs used to treat malaria including artesunate and chloroquine (p < 0.05). The ED50 of sarcosine-aniline hybrid drug was 6.49 mg/kg compared with that of aniline derivative which was 3.61 mg/kg. The ED50 of control drugs was 3.56 mg/kg, 2.94 mg/kg, and 1.78 mg/kg for artesunate-aniline hybrid, artesunate, and chloroquine, respectively. There was a significant difference (p < 0.05) between ED50 of sarcosine-aniline hybrid and both controls such as aniline derivative, artesunate, artesunate-aniline hybrid, and chloroquine. Cytotoxicity results revealed that sarcosine-aniline hybrid was safe to vero cells with a CC50 of 50.18 ± 3.53 μg/ml. Sarcosine-aniline hybrid was significantly less toxic compared with artesunate, chloroquine, and doxorubicin. Sarcosine-aniline hybrid was efficacious and safe to mice. Therefore, covalent bitherapy should be used in drug development for drug resistance mitigation."
+    },
+    {
+      "pmid": "32122256",
+      "title": "Efficacy and cognitive effect of sarcosine (N-methylglycine) in patients with schizophrenia: A systematic review and meta-analysis of double-blind randomised controlled trials.",
+      "authors": [
+        "Chun-Hung Chang",
+        "Chieh-Hsin Lin",
+        "Chieh-Yu Liu",
+        "Shaw-Ji Chen",
+        "Hsien-Yuan Lane"
+      ],
+      "journal": "Journal of psychopharmacology (Oxford, England)",
+      "publication_date": "2020-May",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Sarcosine (N-methylglycine), a type 1 glycine transporter inhibitor (GlyT1), has shown therapeutic potential for treating schizophrenia; however, studies have reported conflicting results. This meta-analysis aimed to explore the efficacy and cognitive effect of sarcosine for schizophrenia. METHODS: In this study, PubMed, Cochrane Systematic Reviews, and Cochrane Collaboration Central Register of Controlled Clinical Trials were searched electronically for double-blinded randomised controlled trials that used sarcosine for treating schizophrenia. We used the published trials up to November 2019 to investigate the efficacy of sarcosine in schizophrenia. We pooled studies by using a random-effect model for comparing sarcosine treatment effects. Patients who were diagnosed with schizophrenia according to the criteria of the Diagnostic and Statistical Manual of Mental Disorders-Fourth Edition were recruited. Clinical improvement and cognitive function scores between baseline and after sarcosine use were compared using the standardised mean difference (SMD) with 95% confidence intervals (CIs). The heterogeneity of the included trials was evaluated through visual inspection of funnel plots and through the I2 statistic. RESULTS: We identified seven trials with 326 participants with schizophrenia meeting the inclusion criteria. All these studies evaluated the overall clinical symptoms, and four of them evaluated overall cognitive functions. Sarcosine use achieved more significant effects than the use of its comparators in relieving overall clinical symptoms (SMD = 0.51, CI = 0.26-0.76, p < 0.01). Moreover, studies with the low Positive and Negative Syndrome Scale range of 70-79 showed significant effect size (ES)s of 0.67 (95% CI: 0.03-1.31, p = 0.04). In addition, trials enrolling patients with stable clinical symptoms had significant ESs: 0.53 (95% CI: 0.21-0.85, p < 0.01). Add-on sarcosine combined with first- and second-generation antipsychotics, except clozapine, had a positive effect. For overall cognitive functions, sarcosine showed a positive but insignificant effect compared with its comparators (SMD = 0.27, CI = -0.06 to 0.60, p = 0.10). The effects were correlated with increased female proportions and decreased illness duration, albeit nonsignificantly. CONCLUSIONS: The meta-analysis suggests that sarcosine may be associated with treatment effect on overall clinical symptoms in patients with schizophrenia but not cognitive functions.",
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Cognition",
+        "Drug Therapy, Combination",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Randomized Controlled Trials as Topic",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "31722126",
+      "title": "Poly(Sarcosine) Surface Modification Imparts Stealth-Like Properties to Liposomes.",
+      "authors": [
+        "Stefan Bleher",
+        "Jonas Buck",
+        "Christian Muhl",
+        "Sandro Sieber",
+        "Sabine Barnert",
+        "Dominik Witzigmann",
+        "Jörg Huwyler",
+        "Matthias Barz",
+        "Regine Süss"
+      ],
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Circulation lifetime is a crucial parameter for a successful therapy with nanoparticles. Reduction and alteration of opsonization profiles by surface modification of nanoparticles is the main strategy to achieve this objective. In clinical settings, PEGylation is the most relevant strategy to enhance blood circulation, yet it has drawbacks, including hypersensitivity reactions in some patients treated with PEGylated nanoparticles, which fuel the search for alternative strategies. In this work, lipopolysarcosine derivatives (BA-pSar, bisalkyl polysarcosine) with precise chain lengths and low polydispersity indices are synthesized, characterized, and incorporated into the bilayer of preformed liposomes via a post insertion technique. Successful incorporation of BA-pSar can be realized in a clinically relevant liposomal formulation. Furthermore, BA-pSar provides excellent surface charge shielding potential for charged liposomes and renders their surface neutral. Pharmacokinetic investigations in a zebrafish model show enhanced circulation properties and reduction in macrophage recognition, matching the behavior of PEGylated liposomes. Moreover, complement activation, which is a key factor in hypersensitivity reactions caused by PEGylated liposomes, can be reduced by modifying the surface of liposomes with an acetylated BA-pSar derivative. Hence, this study presents an alternative surface modification strategy with similar benefits as the established PEGylation of nanoparticles, but with the potential of reducing its drawbacks.",
+      "mesh_terms": [
+        "Animals",
+        "Animals, Genetically Modified",
+        "Complement Activation",
+        "Liposomes",
+        "Molecular Weight",
+        "Peptides",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Sarcosine",
+        "Static Electricity",
+        "Surface Properties",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "31685041",
+      "title": "A possible role for sarcosine in the management of schizophrenia.",
+      "authors": [
+        "David Curtis"
+      ],
+      "journal": "The British journal of psychiatry : the journal of mental science",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Editorial"
+      ],
+      "abstract": "Sarcosine, which is freely sold as a dietary supplement, has pharmacological activity to boost functioning of the glutamatergic N-methyl-d-aspartate receptor (NMDAR) and hence it is a biologically rational treatment for schizophrenia. The small number of studies carried out to date provide some evidence for its efficacy and psychiatrists could consider suggesting its use to their patients.",
+      "mesh_terms": [
+        "Antipsychotic Agents",
+        "Dietary Supplements",
+        "Humans",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "31050554",
+      "title": "Quantitative analysis of sarcosine with special emphasis on biosensors: a review.",
+      "authors": [
+        "C S Pundir",
+        "Ritu Deswal",
+        "Parveen Kumar"
+      ],
+      "journal": "Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals",
+      "publication_date": "2019-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The quantitative determination of sarcosine is of great importance in clinical chemistry, food and fermentation industries. Elevated sarcosine levels are associated with Alzheimer, dementia, prostate cancer, colorectal cancer, stomach cancer and sarcosinemia. This review summarizes the various methods for quantitative analysis of sarcosine with special emphasis on various strategies of biosensors and their analytical performance. The current bio sensing methods have overcome the drawbacks of conventional methods. Sarcosine biosensors work optimally at pH 7.0 to 8.0 in the linear range of 0.1 to 100 μM within 2 to 17 s and between 25 and 37 °C, within a limit of detection (LOD) between 0.008 and 500 mM. The formulated biosensors can be reused within a stability period of 3-180 days. Future research could be focused to modify existing sarcosine biosensors, leading to simple, reliable, and economical sensors ideally suited for point-of-care treatment. Clinical significance Elevated sarcosine levels are associated with prostate and colorectal cancer, Alzheimer, dementia, stomach cancer and sarcosinemia. Quantitative determination of sarcosine is of great importance in clinical chemistry as well as food and fermentation industries. Attempts made in development of sarcosine biosensors have been reviewed with their advantages and disadvantages, so that scientist and clinicians can improvise the methods of developing more potent sarcosine biosensor applicable in multitudinous fields. This is the first comprehensive review which compares the various immobilization methods, sensing principles, strategies used in biosensors and their analytical performance in detail.",
+      "mesh_terms": [
+        "Alzheimer Disease",
+        "Amino Acid Metabolism, Inborn Errors",
+        "Biomarkers",
+        "Biosensing Techniques",
+        "Colorectal Neoplasms",
+        "Humans",
+        "Male",
+        "Mitochondrial Diseases",
+        "Prostatic Neoplasms",
+        "Sarcosine",
+        "Sarcosine Dehydrogenase",
+        "Stomach Neoplasms"
+      ]
+    },
+    {
+      "pmid": "30209891",
+      "title": "Post-treatment urinary sarcosine as a predictor of recurrent relapses in patients with prostate cancer.",
+      "authors": [
+        "Jaromir Gumulec",
+        "Martina Raudenska",
+        "Dalibor Pacik",
+        "Mariana Plevova",
+        "Alena Sorokac-Kubolkova",
+        "Zuzana Lackova",
+        "Natalia Cernei",
+        "Vladislav Strmiska",
+        "Ondrej Zitka",
+        "Zbynek Heger",
+        "Vojtech Adam"
+      ],
+      "journal": "Cancer medicine",
+      "publication_date": "2018-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To date, there has been no evidence regarding the association between urinary sarcosine content and prostate cancer survival. Our main objective was to investigate whether levels of post-treatment urinary sarcosine are associated with relapse. The inclusion criteria were (in accordance with EAU 2017) as follows: histopathologically verified adenocarcinoma in prostate biopsy cores or specimens from transurethral resection of the prostate (TURP) or prostatectomy for benign prostatic enlargement (BPE) with retained ability to urinate. The median follow-up was 53 months. In the study, we retrospectively evaluated a cohort of 511 patients with prostate cancer with various risk factors and treatment strategies. Post-treatment sarcosine levels were elevated in 266 (52%) patients and highly elevated (≥200 nmol/L) in 71 (13%) patients. Urinary sarcosine content was significantly associated with number of relapses that patients experienced, P = 0.002 for sarcosine ≥200 vs ≤30 nmol/L. Multivariate analysis revealed that sarcosine was an independent predictor of recurrent relapses (≥2 relapses with an intermediate period of remission), HR = 3.89 (95% CI 1.29-11.7) for sarcosine >200 vs <30 nmol/L. This trend was even more pronounced in a subgroup of patients who underwent radical prostatectomy, HR = 3.29 (95% CI 1.06-10.18), where (single) relapse-free survival could also be predicted by sarcosine levels, HR = 1.96 (1.05-3.66). Urinary sarcosine may become a possible predictor for patients' outcomes, because patients with elevated post-treatment sarcosine could be predicted to have recurrent relapses of the disease.",
+      "mesh_terms": [
+        "Adenocarcinoma",
+        "Aged",
+        "Aged, 80 and over",
+        "Biomarkers",
+        "Humans",
+        "Male",
+        "Neoplasm Recurrence, Local",
+        "Postoperative Period",
+        "Prostatectomy",
+        "Prostatic Hyperplasia",
+        "Prostatic Neoplasms",
+        "Recurrence",
+        "Retrospective Studies",
+        "Sarcosine",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "30130712",
+      "title": "Serum levels of TNF-alpha in patients with chronic schizophrenia during treatment augmentation with sarcosine (results of the PULSAR study).",
+      "authors": [
+        "Dominik Strzelecki",
+        "Małgorzata Urban-Kowalczyk",
+        "Adam Wysokiński"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "2018-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Sarcosine, glycine transporter inhibitor, increases glycine levels around NMDA receptor, improving primary negative symptoms of schizophrenia. The aim of our study was to find a potential relationship between initial TNF-alpha level, its changes and schizophrenia symptoms severity, resulting from adding sarcosine to a stable antipsychotic treatment. Sixty subjects with stable schizophrenia were randomized to receive either 2 g of sarcosine or placebo and completed a 6-month, double blind, placebo-controlled study. Three patients on sarcosine and one taking placebo did not complete TNF-alpha tests, planned at the beginning, after 6 weeks and after 6 months. For clinical assessments we used PANSS and CDSS scales. No changes in TNF-alpha serum concentrations in both groups at any time-points was noted. The sarcosine group achieved significant improvement in negative symptoms, general psychopathology and total PANSS score group, however without any significant correlations between TNF-alpha levels and PANSS scores in all assessments. Positive correlations between TNF-alpha levels and CDSS score were found in the placebo group and total study group. Initial TNF-alpha concentrations cannot be used as a predictor of the improvement resulting from adding sarcosine. Sarcosine does not significantly affect TNF-alpha levels. TNF-alpha may be involved in mechanisms related to depressive symptomatology in schizophrenia.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antipsychotic Agents",
+        "Chronic Disease",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Sarcosine",
+        "Schizophrenia",
+        "Treatment Outcome",
+        "Tumor Necrosis Factor-alpha",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "29417623",
+      "title": "Serum levels of interleukin 6 in schizophrenic patients during treatment augmentation with sarcosine (results of the PULSAR study).",
+      "authors": [
+        "Dominik Strzelecki",
+        "Małgorzata Urban-Kowalczyk",
+        "Adam Wysokiński"
+      ],
+      "journal": "Human psychopharmacology",
+      "publication_date": "2018-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Augmentation of sarcosine, a natural inhibitor of the glycine transporter type I, normalizes glutamatergic neurotransmission, having beneficial impact on primary negative symptoms in schizophrenia and may also influence immune system and interleukin 6 (IL-6) levels. AIM: Finding a relationship between initial IL-6 serum concentrations or its changes and severity of symptoms as a result of sarcosine addition to stable antipsychotic treatment. METHOD: Fifity-eight individuals with schizophrenia with predominantly negative symptoms completed a 6-month randomized, double-blind placebo-controlled prospective study. Patients received 2 g of sarcosine (n = 29) or placebo (n = 30) daily per os. We measured IL-6 levels and severity of symptoms at the beginning, after 6 weeks and 6 months. As main clinical tools, we used Positive and Negative Syndrome Scale (PANSS) and Calgary depression scale for schizophrenia (CDSS). RESULTS: Augmentation with sarcosine had no effect on IL-6 serum levels in all time points. We noted significant improvements in negative symptoms, general psychopathology, and total PANSS score in the sarcosine group. We found correlation of initial serum IL-6 with severity of positive symptoms and negative association between IL-6 levels reduction and positive symptoms reduction. CONCLUSIONS: Sarcosine does not significantly affect IL-6 concentrations but IL-6 may be involved in mechanisms related to the presence of positive symptoms.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anthropometry",
+        "Antipsychotic Agents",
+        "Body Composition",
+        "Double-Blind Method",
+        "Drug Synergism",
+        "Female",
+        "Humans",
+        "Interleukin-6",
+        "Male",
+        "Middle Aged",
+        "Sarcosine",
+        "Schizophrenia",
+        "Severity of Illness Index",
+        "Time Factors",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "27824899",
+      "title": "Sarcosine Up-Regulates Expression of Genes Involved in Cell Cycle Progression of Metastatic Models of Prostate Cancer.",
+      "authors": [
+        "Zbynek Heger",
+        "Miguel Angel Merlos Rodrigo",
+        "Petr Michalek",
+        "Hana Polanska",
+        "Michal Masarik",
+        "Vitezslav Vit",
+        "Mariana Plevova",
+        "Dalibor Pacik",
+        "Tomas Eckschlager",
+        "Marie Stiborova",
+        "Vojtech Adam"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "abstract": "The effects of sarcosine on the processes driving prostate cancer (PCa) development remain still unclear. Herein, we show that a supplementation of metastatic PCa cells (androgen independent PC-3 and androgen dependent LNCaP) with sarcosine stimulates cells proliferation in vitro. Similar stimulatory effects were observed also in PCa murine xenografts, in which sarcosine treatment induced a tumor growth and significantly reduced weight of treated mice (p < 0.05). Determination of sarcosine metabolism-related amino acids and enzymes within tumor mass revealed significantly increased glycine, serine and sarcosine concentrations after treatment accompanied with the increased amount of sarcosine dehydrogenase. In both tumor types, dimethylglycine and glycine-N-methyltransferase were affected slightly, only. To identify the effects of sarcosine treatment on the expression of genes involved in any aspect of cancer development, we further investigated expression profiles of excised tumors using cDNA electrochemical microarray followed by validation using the semi-quantitative PCR. We found 25 differentially expressed genes in PC-3, 32 in LNCaP tumors and 18 overlapping genes. Bioinformatical processing revealed strong sarcosine-related induction of genes involved particularly in a cell cycle progression. Our exploratory study demonstrates that sarcosine stimulates PCa metastatic cells irrespectively of androgen dependence. Overall, the obtained data provides valuable information towards understanding the role of sarcosine in PCa progression and adds another piece of puzzle into a picture of sarcosine oncometabolic potential.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Cycle",
+        "Cell Line, Tumor",
+        "Gene Expression Regulation, Neoplastic",
+        "Genes, Neoplasm",
+        "Glycine N-Methyltransferase",
+        "Humans",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Mice, Nude",
+        "Neoplasm Transplantation",
+        "Polymerase Chain Reaction",
+        "Prostatic Neoplasms",
+        "Sarcosine",
+        "Sarcosine Dehydrogenase",
+        "Transcriptome",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "27646588",
+      "title": "Prostate tumor attenuation in the nu/nu murine model due to anti-sarcosine antibodies in folate-targeted liposomes.",
+      "authors": [
+        "Zbynek Heger",
+        "Hana Polanska",
+        "Miguel Angel Merlos Rodrigo",
+        "Roman Guran",
+        "Pavel Kulich",
+        "Pavel Kopel",
+        "Michal Masarik",
+        "Tomas Eckschlager",
+        "Marie Stiborova",
+        "Rene Kizek",
+        "Vojtech Adam"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2016-Sep-20",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Herein, we describe the preparation of liposomes with folate-targeting properties for the encapsulation of anti-sarcosine antibodies (antisarAbs@LIP) and sarcosine (sar@LIP). The competitive inhibitory effects of exogenously added folic acid supported the role of folate targeting in liposome internalization. We examined the effects of repeated administration on mice PC-3 xenografts. Sar@LIP treatment significantly increased tumor volume and weight compared to controls treated with empty liposomes. Moreover, antisarAbs@LIP administration exhibited a mild antitumor effect. We also identified differences in gene expression patterns post-treatment. Furthermore, Sar@LIP treatment resulted in decreased amounts of tumor zinc ions and total metallothioneins. Examination of the spatial distribution across the tumor sections revealed a sarcosine-related decline of the MT1X isoform within the marginal regions but an elevation after antisarAbs@LIP administration. Our exploratory results demonstrate the importance of sarcosine as an oncometabolite in PCa. Moreover, we have shown that sarcosine can be a potential target for anticancer strategies in management of PCa.",
+      "mesh_terms": [
+        "Animals",
+        "Antibodies, Monoclonal",
+        "Cell Line, Tumor",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Folic Acid",
+        "Humans",
+        "Liposomes",
+        "Male",
+        "Metallothionein",
+        "Mice",
+        "Models, Biological",
+        "Phosphatidylethanolamines",
+        "Prostatic Neoplasms",
+        "Sarcosine",
+        "Tumor Burden",
+        "Xenograft Model Antitumor Assays",
+        "Zinc"
+      ]
+    },
+    {
+      "pmid": "27555541",
+      "title": "Antidepressant-like effects of long-term sarcosine treatment in rats with or without chronic unpredictable stress.",
+      "authors": [
+        "Kuang-Ti Chen",
+        "Ching-Hsiang Wu",
+        "Mang-Hung Tsai",
+        "Ya-Chieh Wu",
+        "Ming-Jia Jou",
+        "Chih-Chia Huang",
+        "I-Hua Wei"
+      ],
+      "journal": "Behavioural brain research",
+      "publication_date": "2017-Jan-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine, an N-methyl-d-aspartate receptor enhancer, can improve depression-like behavior in rodent models and depression in humans. We found that a single dose of sarcosine exerted antidepressant-like effects with rapid concomitant increases in the mammalian target of rapamycin (mTOR) signaling pathway activation and enhancement of α-amino-3-hydroxy-5-methylisoxazole-4-propionate receptor (AMPAR) membrane insertion. Sarcosine may play a crucial role in developing novel therapy for depression. For a detailed understanding of sarcosine, this study examined the effects of long-term sarcosine treatment on the forced swim test (FST), mTOR signaling, and AMPAR membrane insertion in rats. The effects of long-term sarcosine treatment were examined in naive rats and rats exposed to chronic unpredictable stress (CUS). Long-term sarcosine treatment (560mg/kg/d for 21 d) significantly ameliorated the increased immobility induced by CUS in the FST, reaffirming the potential role of sarcosine as an antidepressant for depressed patients. The same long-term treatment exhibited no such effect in naive rats despite increased mTOR activation and AMPAR membrane insertion in both groups. Our findings clearly show CUS-exposed rats are sensitive to long-term sarcosine treatment in FST and the response at the same dose is absent in naïve rats. Nevertheless, the distinct sensitivity to long-term sarcosine treatment in rats with or without CUS is not associated with the activated mTOR signaling pathway or increased AMPAR membrane insertion. Additionally, understanding the behavioral and molecular basis of distinct responses is vital important for developing personalized treatment programs to increase the probability of success when treating depression.",
+      "mesh_terms": [
+        "Animals",
+        "Antidepressive Agents",
+        "Depression",
+        "Disease Models, Animal",
+        "MAP Kinase Signaling System",
+        "Male",
+        "Maze Learning",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, AMPA",
+        "Sarcosine",
+        "Stress, Psychological",
+        "Swimming",
+        "TOR Serine-Threonine Kinases",
+        "Time Factors",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "27443598",
+      "title": "Sarcosine treatment for oppositional defiant disorder symptoms of attention deficit hyperactivity disorder children.",
+      "authors": [
+        "Ruu-Fen Tzang",
+        "Yue-Cune Chang",
+        "Guochuan E Tsai",
+        "Hsien-Yuan Lane"
+      ],
+      "journal": "Journal of psychopharmacology (Oxford, England)",
+      "publication_date": "2016-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Methylphenidate, a stimulant that activates dopaminergic and noradrenergic function, is an important agent in the treatment of attention deficit hyperactivity disorder (ADHD). Sarcosine, a glycine transporter-1 inhibitor, may also play a role in treating ADHD by modulating the glutamatergic neurotransmission system through activating N-methyl-D-aspartate type glutamate receptors. This study aimed to assess the efficacy of sarcosine in treating children with ADHD. We conducted a six-week, randomized, double-blind, placebo-controlled clinical trial. The primary outcome measures were those on the Inattention, Hyperactivity/impulsivity, and oppositional defiant disorder (ODD) subscales of the Swanson, Nolan, and Pelham, version IV scale. Efficacy and safety were measured bi-weekly. A total of 116 children with ADHD were enrolled. Among them, 48 (83%) of the 58 sarcosine recipients and 44 (76%) of the 58 placebo recipients returned for the first post-treatment visit. The missing data values were imputed by the last observation carry forward method. From a multiple linear regression analysis, using the generalized estimating equation approach, and an intention to treat analysis, the efficacy of sarcosine marginally surpassed that of placebo at weeks 2, 4, and 6, with p-values=0.01, 0.026, and 0.012, respectively, although only for ODD symptoms. Treatment of ADHD by sarcosine (0.03 g/kg/day) was well tolerated. Sarcosine could possibly be a novel agent for managing ODD symptoms in the context of ADHD. However, future larger-scale studies are warranted to optimize its dosage.",
+      "mesh_terms": [
+        "Attention Deficit Disorder with Hyperactivity",
+        "Attention Deficit and Disruptive Behavior Disorders",
+        "Central Nervous System Stimulants",
+        "Child",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Methylphenidate",
+        "Sarcosine",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "27409603",
+      "title": "MMP-9 Serum Levels in Schizophrenic Patients during Treatment Augmentation with Sarcosine (Results of the PULSAR Study).",
+      "authors": [
+        "Dominik Strzelecki",
+        "Olga Kałużyńska",
+        "Justyna Szyburska",
+        "Adam Wysokiński"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2016-Jul-09",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: Find changes in matrix metallopeptidase-9 (MMP-9) levels during augmentation of antipsychotic treatment with sarcosine and a relationship between schizophrenia symptoms severity and initial level of MMP-9. METHOD: Fifty-eight patients with diagnosis of schizophrenia with predominant negative symptoms participated in a six-month prospective RCT (randomized controlled trial). The patients received two grams of sarcosine (n = 28) or placebo (n = 30) daily. At the beginning, after six weeks and after six months MMP-9 levels were measured. Severity of symptomatology was assessed with the Positive and Negative Syndrome Scale (PANSS) and Calgary Depression Scale for Schizophrenia (CDSS). RESULTS: MMP-9 serum levels were stable after six weeks and six months in both groups. We noted improvement in negative symptoms, general psychopathology and total PANSS score in sarcosine group compared to placebo; however, there was no correlations between serum MMP-9 concentrations and PANSS scores in all assessments. Initial serum MMP-9 concentrations cannot be used as an improvement predictor acquired during sarcosine augmentation. CONCLUSIONS: Our results indicate that either MMP-9 is not involved in the N-methyl-d-aspartate (NMDA)-dependent mechanism of sarcosine action in terms of clinical parameters or sarcosine induced changes in peripheral MMP-9 concentrations cannot be detected in blood assessments.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antipsychotic Agents",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Female",
+        "Humans",
+        "Male",
+        "Matrix Metalloproteinase 9",
+        "Middle Aged",
+        "Placebo Effect",
+        "Prospective Studies",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Schizophrenia",
+        "Severity of Illness Index",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "27262086",
+      "title": "BDNF serum levels in schizophrenic patients during treatment augmentation with sarcosine (results of the PULSAR study).",
+      "authors": [
+        "Dominik Strzelecki",
+        "Olga Kałużyńska",
+        "Adam Wysokiński"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "2016-Aug-30",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: Finding a relationship between schizophrenia symptoms severity and initial level of BDNF and its changes during augmentation of antipsychotic treatment with sarcosine. METHOD: 57 individuals with schizophrenia with predominantly negative symptoms completed a 6-month RCT prospective study. The patients received 2g of sarcosine (n=27) or placebo (n=30) daily. At the beginning, after 6 weeks and 6 months BDNF levels were measured. Severity of symptoms was assessed using the Positive and Negative Syndrome Scale (PANSS) and Calgary Depression Scale for Schizophrenia (CDSS). RESULTS: BDNF serum levels were stable after 6 weeks and 6 months in both groups. We noted improvement in negative symptoms, general psychopathology and total PANSS score in sarcosine group comparing to placebo, however there was no correlations between serum BDNF concentrations and PANSS scores in all assessments. Initial serum BDNF concentrations cannot be used as a predictor of the improvement resulting from adding sarcosine. CONCLUSIONS: Our results indicate that either BDNF is not involved in the NMDA-dependent mechanism of sarcosine action or global changes in BDNF concentrations induced by amino-acid cannot be detected in blood assessments.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Brain-Derived Neurotrophic Factor",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Prospective Studies",
+        "Psychiatric Status Rating Scales",
+        "Sarcosine",
+        "Schizophrenia",
+        "Schizophrenic Psychology"
+      ]
+    },
+    {
+      "pmid": "26902537",
+      "title": "An organic indicator functionalized graphene oxide nanocomposite-based colorimetric assay for the detection of sarcosine.",
+      "authors": [
+        "Zhonghua Xue",
+        "Bo Yin",
+        "Hui Wang",
+        "Mengqian Li",
+        "Honghong Rao",
+        "Xiuhui Liu",
+        "Xinbin Zhou",
+        "Xiaoquan Lu"
+      ],
+      "journal": "Nanoscale",
+      "publication_date": "2016-Mar-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rapid detection of sarcosine is a key requirement for both diagnosis and treatment of disease. We report here a simple yet sensitive colorimetric nanocomposite platform for rapid detection of sarcosine in alkaline media. The approach exploited the benefits of a rapid color-producing reaction between an organic indicator, 1,2-naphthoquinone-4-sulphonic acid sodium salt (NQS), and the analyte of sarcosine species as well as the good catalytic ability of graphene oxide (GO) to the formation of highly colored products due to its good water dispersibility, extremely large surface area and facile surface modification. As a result, a NQS functionalized GO nanocomposite through π-π stacking has been demonstrated to be useful as a highly efficient catalyst system for the selective and sensitive colorimetric determination of sarcosine by providing a nanocomposite-amplified colorimetric response. Meanwhile, the strategy offered excellent selectivity toward sarcosine species against other amino acids as well as a satisfying detection limit of 0.73 μM. More importantly, by using an electrochemical method, a credible sensing mechanism of GO nanocomposite-based colorimetric platform for a special analyte determination can be easily verified and elucidated, which also provides an attractive alternative to conventional characterization strategies.",
+      "mesh_terms": [
+        "Catalysis",
+        "Colorimetry",
+        "Cost-Benefit Analysis",
+        "Electrochemistry",
+        "Graphite",
+        "Hydrogen-Ion Concentration",
+        "Metal Nanoparticles",
+        "Nanocomposites",
+        "Nanotechnology",
+        "Naphthoquinones",
+        "Oxides",
+        "Sarcosine",
+        "Solubility",
+        "Sulfonic Acids"
+      ]
+    },
+    {
+      "pmid": "26847870",
+      "title": "Relation of exposure to amino acids involved in sarcosine metabolic pathway on behavior of non-tumor and malignant prostatic cell lines.",
+      "authors": [
+        "Zbynek Heger",
+        "Jaromir Gumulec",
+        "Natalia Cernei",
+        "Hana Polanska",
+        "Martina Raudenska",
+        "Michal Masarik",
+        "Tomas Eckschlager",
+        "Marie Stiborova",
+        "Vojtech Adam",
+        "Rene Kizek"
+      ],
+      "journal": "The Prostate",
+      "publication_date": "2016-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Sarcosine (N-methylglycine) was previously delineated as a substantial oncometabolite of prostate cancer (PCa) and its metabolism seems to be significantly involved in PCa development and behavior. METHODS: We focused on investigation whether the exposure of prostate cells (PNT1A, 22Rv1, and PC-3) to sarcosine-related amino acids (glycine, dimethylglycine, and sarcosine) affects their aggressiveness (cell mobility and division rates, using real-time cell based assay). The effect of supplementation on expression of glycine-N-methyltransferase (GNMT) mRNA was examined using qRT-PCR. Finally, post-treatment amino acids patterns were determined with consequent statistical processing using the Ward's method, factorial ANOVA and principal component analysis (P < 0.05). RESULTS: The highest migration induced sarcosine and glycine in metastatic PC-3 cells (a decrease in relative free area about 53% and 73%). The highest cell division was achieved after treatment of 22Rv1 and PC-3 cells with sarcosine (time required for division decreased by 65% or 45%, when compared to untreated cells). qRT-PCR revealed also significant effects on expression of GNMT. Finally, amino acid profiling shown specific amino acid patterns for each cell line. In both, treated and untreated PC-3 cells significantly higher levels of serine, glutamic acid, and aspartate, linked with prostate cancer progression were found. CONCLUSIONS: Sarcosine-related amino acids can exceptionally affect the behavior of benign and malignant prostate cells.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Cell Line",
+        "Cell Line, Tumor",
+        "Cell Movement",
+        "Glycine N-Methyltransferase",
+        "Humans",
+        "Male",
+        "Prostate",
+        "Prostatic Neoplasms",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "26691576",
+      "title": "Adjunctive sarcosine plus benzoate improved cognitive function in chronic schizophrenia patients with constant clinical symptoms: A randomised, double-blind, placebo-controlled trial.",
+      "authors": [
+        "Chun-Yuan Lin",
+        "Sun-Yuan Liang",
+        "Yue-Cune Chang",
+        "Shuo-Yen Ting",
+        "Ching-Ling Kao",
+        "Yu-Hsin Wu",
+        "Guochuan E Tsai",
+        "Hsien-Yuan Lane"
+      ],
+      "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "publication_date": "2017-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Objectives Hypofunction of NMDA receptor is implicated in the pathophysiology, particularly cognitive impairment, of schizophrenia. Sarcosine, a glycine transporter I (GlyT-1) inhibitor, and sodium benzoate, a d-amino acid oxidase (DAAO) inhibitor, can both enhance NMDA receptor-mediated neurotransmission. We proposed simultaneously inhibiting DAAO and GlyT-1 may be more effective than inhibition of either in improving the cognitive and global functioning of schizophrenia patients. Methods This study compared add-on sarcosine (2 g/day) plus benzoate (1 g/day) vs. sarcosine (2 g/day) for the clinical symptoms, as well as the cognitive and global functioning, of chronic schizophrenia patients in a 12-week, double-blind, randomised, placebo-controlled trial. Participants were measured with the Positive and Negative Syndrome Scale and the Global Assessment of Functioning Scale every 3 weeks. Seven cognitive domains, recommended by the Measurement and Treatment Research to Improve Cognition in Schizophrenia Committee, were measured at weeks 0 and 12. Results Adjunctive sarcosine plus benzoate, but not sarcosine alone, improved the cognitive and global functioning of patients with schizophrenia, even when their clinical symptoms had not improved. Conclusions This finding suggests N-methyl-d-aspartate receptor-enhancement therapy can improve the cognitive function of patients with schizophrenia, further indicating this pro-cognitive effect can be primary without improvement in clinical symptoms.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Basal Ganglia Diseases",
+        "Benzoates",
+        "Chronic Disease",
+        "Cognition",
+        "D-Amino-Acid Oxidase",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Schizophrenia",
+        "Synaptic Transmission",
+        "Taiwan"
+      ]
+    },
+    {
+      "pmid": "26506383",
+      "title": "Supplementation of Antipsychotic Treatment with the Amino Acid Sarcosine Influences Proton Magnetic Resonance Spectroscopy Parameters in Left Frontal White Matter in Patients with Schizophrenia.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Michał Podgórski",
+        "Olga Kałużyńska",
+        "Oliwia Gawlik-Kotelnicka",
+        "Ludomir Stefańczyk",
+        "Magdalena Kotlicka-Antczak",
+        "Agnieszka Gmitrowicz",
+        "Piotr Grzelak"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2015-Oct-22",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Dysfunction of the glutamatergic system, the main stimulating system in the brain, has a major role in pathogenesis of schizophrenia. The frontal white matter (WM) is partially composed of axons from glutamatergic pyramidal neurons and glia with glutamatergic receptors. The natural amino acid sarcosine, a component of a normal diet, inhibits the glycine type 1 transporter, increasing the glycine level. Thus, it modulates glutamatergic transmission through the glutamatergic ionotropic NMDA (N-methyl-d-aspartate) receptor, which requires glycine as a co-agonist. To evaluate the concentrations of brain metabolites (NAA, N-acetylaspartate; Glx, complex of glutamate, glutamine, and γ-aminobutyric acid (GABA); mI, myo-inositol; Cr, creatine; Cho, choline) in the left frontal WM, Proton Nuclear Magnetic Resonance (¹H-NMR) spectroscopy was used. Twenty-five patients randomly chosen from a group of fifty with stable schizophrenia (DSM-IV-TR) and dominant negative symptoms, who were receiving antipsychotic therapy, were administered 2 g of sarcosine daily for six months. The remaining 25 patients received placebo. Assignment was double blinded. ¹H-NMR spectroscopy (1.5 T) was performed twice: before and after the intervention. NAA, Glx and mI were evaluated as Cr and Cho ratios. All patients were also assessed twice with the Positive and Negative Syndrome Scale (PANSS). Results were compared between groups and in two time points in each group. The sarcosine group demonstrated a significant decrease in WM Glx/Cr and Glx/Cho ratios compared to controls after six months of therapy. In the experimental group, the final NAA/Cr ratio significantly increased and Glx/Cr ratio significantly decreased compared to baseline values. Improvement in the PANSS scores was significant only in the sarcosine group. In patients with schizophrenia, sarcosine augmentation can reverse the negative effect of glutamatergic system overstimulation, with a simultaneous beneficial increase of NAA/Cr ratio in the WM of the left frontal lobe. Our results further support the glutamatergic hypothesis of schizophrenia.",
+      "mesh_terms": [
+        "Adult",
+        "Amino Acids",
+        "Antipsychotic Agents",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "Frontal Lobe",
+        "Humans",
+        "Male",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Sarcosine",
+        "Schizophrenia",
+        "White Matter"
+      ]
+    },
+    {
+      "pmid": "26501260",
+      "title": "Adding Sarcosine to Antipsychotic Treatment in Patients with Stable Schizophrenia Changes the Concentrations of Neuronal and Glial Metabolites in the Left Dorsolateral Prefrontal Cortex.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Michał Podgórski",
+        "Olga Kałużyńska",
+        "Ludomir Stefańczyk",
+        "Magdalena Kotlicka-Antczak",
+        "Agnieszka Gmitrowicz",
+        "Piotr Grzelak"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2015-Oct-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The glutamatergic system is a key point in pathogenesis of schizophrenia. Sarcosine (N-methylglycine) is an exogenous amino acid that acts as a glycine transporter inhibitor. It modulates glutamatergic transmission by increasing glycine concentration around NMDA (N-methyl-d-aspartate) receptors. In patients with schizophrenia, the function of the glutamatergic system in the prefrontal cortex is impaired, which may promote negative and cognitive symptoms. Proton nuclear magnetic resonance (¹H-NMR) spectroscopy is a non-invasive imaging method enabling the evaluation of brain metabolite concentration, which can be applied to assess pharmacologically induced changes. The aim of the study was to evaluate the influence of a six-month course of sarcosine therapy on the concentration of metabolites (NAA, N-acetylaspartate; Glx, complex of glutamate, glutamine and γ-aminobutyric acid (GABA); mI, myo-inositol; Cr, creatine; Cho, choline) in the left dorso-lateral prefrontal cortex (DLPFC) in patients with stable schizophrenia. Fifty patients with schizophrenia, treated with constant antipsychotics doses, in stable clinical condition were randomly assigned to administration of sarcosine (25 patients) or placebo (25 patients) for six months. Metabolite concentrations in DLPFC were assessed with 1.5 Tesla ¹H-NMR spectroscopy. Clinical symptoms were evaluated with the Positive and Negative Syndrome Scale (PANSS). The first spectroscopy revealed no differences in metabolite concentrations between groups. After six months, NAA/Cho, mI/Cr and mI/Cho ratios in the left DLPFC were significantly higher in the sarcosine than the placebo group. In the sarcosine group, NAA/Cr, NAA/Cho, mI/Cr, mI/Cho ratios also significantly increased compared to baseline values. In the placebo group, only the NAA/Cr ratio increased. The addition of sarcosine to antipsychotic therapy for six months increased markers of neurons viability (NAA) and neurogilal activity (mI) with simultaneous improvement of clinical symptoms. Sarcosine, two grams administered daily, seems to be an effective adjuvant in the pharmacotherapy of schizophrenia.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Female",
+        "Humans",
+        "Male",
+        "Neuroglia",
+        "Neurons",
+        "Prefrontal Cortex",
+        "Proton Magnetic Resonance Spectroscopy",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "26343833",
+      "title": "No changes of cardiometabolic and body composition parameters after 6-month add-on treatment with sarcosine in patients with schizophrenia.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Olga Kałużyńska",
+        "Justyna Szyburska",
+        "Agata Wlazło",
+        "Adam Wysokiński"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "2015-Dec-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study was undertaken with the purpose to determine if there are changes in metabolic parameters during 6-month add-on treatment with sarcosine in patients with schizophrenia. This was a randomized double blind, placebo-controlled and parallel group study. Eligible participants were randomly assigned to receive 2g of sarcosine (n=30) or placebo (n=29). Sarcosine was administered as supplementation to the ongoing antipsychotic treatment. Augmentation with sarcosine had no effect on any of the analyzed cardiometabolic parameters. Also, augmentation with sarcosine had no effect on any of the analyzed body composition parameters. This is the first randomized placebo-controlled study to examine the metabolic safety of sarcosine in patients with schizophrenia. Clinically, this observation is of high importance considering how prevalent are metabolic abnormalities in patients with schizophrenia.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Blood Glucose",
+        "Blood Pressure",
+        "Body Composition",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Electric Impedance",
+        "Female",
+        "Humans",
+        "Lipids",
+        "Male",
+        "Sarcosine",
+        "Schizophrenia",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "26306650",
+      "title": "Supplementation of antipsychotic treatment with sarcosine – GlyT1 inhibitor – causes changes of glutamatergic (1)NMR spectroscopy parameters in the left hippocampus in patients with stable schizophrenia.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Michał Podgórski",
+        "Olga Kałużyńska",
+        "Oliwia Gawlik-Kotelnicka",
+        "Ludomir Stefańczyk",
+        "Magdalena Kotlicka-Antczak",
+        "Agnieszka Gmitrowicz",
+        "Piotr Grzelak"
+      ],
+      "journal": "Neuroscience letters",
+      "publication_date": "2015-Oct-08",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Glutamatergic system, the main stimulating system of the brain, plays an important role in the pathogenesis of schizophrenia. Hippocampus, a structure crucial for memory and cognitive functions and rich in glutamatergic neurons, is a natural object of interest in studies on psychoses. Sarcosine, a glycine transporter (GlyT-1) inhibitor influences the function of NMDA receptor and glutamate-dependent transmission. The aim of the study was to assess the effects of sarcosine on metabolism parameters in the left hippocampus in patients with schizophrenia. Assessments were performed using proton nuclear magnetic resonance ((1)H NMR) spectroscopy (1.5T). Fifty patients diagnosed with schizophrenia (DSM-IV-TR), with dominant negative symptoms, in stable clinical condition and stable antipsychotics doses were treated either with sarcosine (n=25) or placebo (n=25). Spectroscopic parameters were evaluated within groups and between two groups before and after 6-month intervention. All patients were also assessed with the Positive and Negative Syndrome Scale (PANSS). In the sarcosine group, after 6-month treatment, we found significant decrease in hippocampal Glx/Cr (Glx-complex of glutamate, glutamine and GABA, Cr-creatine) and Glx/Cho (Cho-choline), while N-acetylaspartate (NAA), myo-inositol (mI), Cr and Cho parameters remained stable along the study and also did not differ significantly between both groups. This is the first study showing that a pharmacological intervention in schizophrenia, particularly augmentation of the antypsychotic treatment with sarcosine, may reverse the pathological increase in glutamatergic transmission in the hippocampus. The results confirm involvement of glutamatergic system in the pathogenesis of schizophrenia and demonstrate beneficial effects of GlyT-1 inhibitor on the metabolism in the hippocampus and symptoms of schizophrenia.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antipsychotic Agents",
+        "Aspartic Acid",
+        "Choline",
+        "Creatine",
+        "Double-Blind Method",
+        "Female",
+        "Glutamic Acid",
+        "Glutamine",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Hippocampus",
+        "Humans",
+        "Inositol",
+        "Male",
+        "Middle Aged",
+        "Sarcosine",
+        "Schizophrenia",
+        "Young Adult",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "26150775",
+      "title": "AMPA Receptor-mTOR Activation is Required for the Antidepressant-Like Effects of Sarcosine during the Forced Swim Test in Rats: Insertion of AMPA Receptor may Play a Role.",
+      "authors": [
+        "Kuang-Ti Chen",
+        "Mang-Hung Tsai",
+        "Ching-Hsiang Wu",
+        "Ming-Jia Jou",
+        "I-Hua Wei",
+        "Chih-Chia Huang"
+      ],
+      "journal": "Frontiers in behavioral neuroscience",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine, an endogenous amino acid, is a competitive inhibitor of the type I glycine transporter and an N-methyl-d-aspartate receptor (NMDAR) coagonist. Recently, we found that sarcosine, an NMDAR enhancer, can improve depression-related behaviors in rodents and humans. This result differs from previous studies, which have reported antidepressant effects of NMDAR antagonists. The mechanisms underlying the therapeutic response of sarcosine remain unknown. This study examines the role of mammalian target of rapamycin (mTOR) signaling and α-amino-3-hydroxy-5-methylisoxazole-4-propionate receptor (AMPAR) activation, which are involved in the antidepressant-like effects of several glutamatergic system modulators. The effects of sarcosine in a forced swim test (FST) and the expression levels of phosphorylated mTOR signaling proteins were examined in the absence or presence of mTOR and AMPAR inhibitors. In addition, the influence of sarcosine on AMPAR trafficking was determined by analyzing the phosphorylation of AMPAR subunit GluR1 at the PKA site (often considered an indicator for GluR1 membrane insertion in neurons). A single injection of sarcosine exhibited antidepressant-like effects in rats in the FST and rapidly activated the mTOR signaling pathway, which were significantly blocked by mTOR inhibitor rapamycin or the AMPAR inhibitor 2,3-dihydroxy-6-nitro-7-sulfamoyl-benzo(f)quinoxaline (NBQX) pretreatment. Moreover, NBQX pretreatment eliminated the ability of sarcosine to stimulate the phosphorylated mTOR signaling proteins. Furthermore, GluR1 phosphorylation at its PKA site was significantly increased after an acute in vivo sarcosine treatment. The results demonstrated that sarcosine exerts antidepressant-like effects by enhancing AMPAR-mTOR signaling pathway activity and facilitating AMPAR membrane insertion. Highlights-A single injection of sarcosine rapidly exerted antidepressant-like effects with a concomitant increase in the activation of the mammalian target of rapamycin mTOR signaling pathway.-The antidepressant-like effects of sarcosine occur through the activated AMPAR-mTOR signaling pathway.-Sarcosine could enhance AMPAR membrane insertion via an AMPAR throughput."
+    },
+    {
+      "pmid": "26061311",
+      "title": "Strong Negative Interference by Calcium Dobesilate in Sarcosine Oxidase Assays for Serum Creatinine Involving the Trinder Reaction.",
+      "authors": [
+        "Xiuzhi Guo",
+        "Li'an Hou",
+        "Xinqi Cheng",
+        "Tianjiao Zhang",
+        "Songlin Yu",
+        "Huiling Fang",
+        "Liangyu Xia",
+        "Zhihong Qi",
+        "Xuzhen Qin",
+        "Lin Zhang",
+        "Qian Liu",
+        "Li Liu",
+        "Shuling Chi",
+        "Yingying Hao",
+        "Ling Qiu"
+      ],
+      "journal": "Medicine",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The vasoprotective drug calcium dobesilate is known to interfere with creatinine (Cr) quantifications in sarcosine oxidase enzymatic (SOE) assays. The aim of this study was to investigate this interference in 8 different commercially available assays and to determine its clinical significance. In in vitro experiments, interference was evaluated at 3 Cr levels. For this, Cr was quantified by SOE assays in pooled serum supplemented with calcium dobesilate at final concentrations of 0, 2, 4, 8, 16, 32, and 64 μg/mL. Percent bias was calculated relative to the drug-free specimen. For in vivo analyses, changes in serum concentrations of Cr, cystatin C (CysC; a renal function marker), and calcium dobesilate were monitored in healthy participants of group I before and after oral calcium dobesilate administration. In addition, variations in interference were also examined among different SOE assays using serum obtained from healthy participants of group II. Lastly, Cr levels from the 10 patients treated with calcium dobesilate were measured using 4 SOE assays and liquid chromatography-isotope dilution tandem mass spectrometry (LC-IDMS/MS) for comparison. Our in vitro analyses indicated that the presence of 8 μg/mL calcium dobesilate resulted in a -4.4% to -36.3% reduction in Cr serum concentration compared to drug-free serum for 8 SOE assays examined. In vivo, Cr values decreased relative to the baseline level with increasing drug concentration, with the lowest Cr levels obtained at 2 or 3 hours after drug administration in participants of group I. The observed Cr concentrations for participants in group II were reduced by -28.5% to -3.1% and -60.5% to -11.6% at 0 and 2 hours after administration related to baseline levels. The Cr values of 10 patients measured by Roche, Beckman, Maker, and Merit Choice SOE assays showed an average deviation of -20.0%, -22.4%, -14.2%, and -29.6%, respectively, compared to values obtained by LC-IDMS/MS. These results revealed a clinically significant negative interference with calcium dobesilate in all sarcosine oxidase-based Cr assays, but the degree of interference varied greatly among the assays examined. Thus, extra care should be taken in evaluating Cr quantification obtained by SOE assays in patients undergoing calcium dobesilate therapy.",
+      "mesh_terms": [
+        "Adult",
+        "Calcium Dobesilate",
+        "Clinical Enzyme Tests",
+        "Creatinine",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Sarcosine Oxidase",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "25841105",
+      "title": "Safety, tolerability and pharmacokinetics of open label sarcosine added on to anti-psychotic treatment in schizophrenia - preliminary study.",
+      "authors": [
+        "Revital Amiaz",
+        "Ilan Kent",
+        "Katya Rubinstein",
+        "Ben Ami Sela",
+        "Daniel Javitt",
+        "Mark Weiser"
+      ],
+      "journal": "The Israel journal of psychiatry and related sciences",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Hypofunction of NMDA receptor-mediated neurotransmission might play a critical role in schizophrenia. Sarcosine, N- methylglycine and inhibitor of the glycine transporter-1 (Gly-T1), has been suggested as a novel treatment for schizophrenia. METHODS: Open label sarcosine was added to 22 stabilized patients: 5 patients received 2 gm/d, and 17 received 4gm/d. Pharmacokinetics samples, clinical and cognitive parameters using PANSS, CGI and MCCB were collected for all patients. RESULTS: Significant improvement was observed after one week of treatment on PANSS sub-scale of 'positive symptoms' (Z= -2.68; P=0.007) and 'general psychopathology' (Z= -3.02; P=0.003), an improvement in PANSS total score and CGI-S showed a trend (Z= -2.72; P=0.06; Z=-2.69; P=0.08). Speed of processing (MCCB subscale) improved significantly (Z=-2.13; P=0.03). Sarcosine exhibited linear kinetics, with a Tmax and t½ of ~1½- 2½ hr and ~1hr, respectively. LIMITATIONS: This was a short period, open label pilot study with small sample size per dosage group. CONCLUSIONS: Sarcosine is a safe compound and might be efficacious in the treatment of schizophrenia.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Pilot Projects",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "25784808",
+      "title": "Hypomania after augmenting venlafaxine and olanzapine with sarcosine in a patient with schizophrenia: a case study.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Justyna Szyburska",
+        "Magdalena Kotlicka-Antczak",
+        "Olga Kałużyńska"
+      ],
+      "journal": "Neuropsychiatric disease and treatment",
+      "publication_date": "2015",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Glutamate is the main excitatory neurotransmitter in the central nervous system. Dysfunction of the glutamatergic system plays an important and well-established role in the pathogenesis of schizophrenia. Agents with glutamatergic properties such as N-methyl-D-aspartate receptor coagonists (ie, glycine, D-cycloserine) and glycine transporter type 1 inhibitors (eg, sarcosine, bitopertin) are investigated in schizophrenia with special focus on negative and cognitive symptomatology. In this article, we describe a case of a 34-year-old woman with diagnosis of schizophrenia with persistent moderate negative and cognitive symptoms, a participant of the Polish Sarcosine Study (PULSAR) treated with olanzapine (25 mg per day) and venlafaxine (75 mg per day). During ten weeks of sarcosine administration (2 g per day) the patient's activity and mood improved, but in the following 2 weeks, the patient reported decreased need for sleep, elevated mood, libido and general activity. We diagnosed drug-induced hypomania and recommended decreasing the daily dose of venlafaxine to 37.5 mg per day, which resulted in normalization of mood and activity in about 1 week. After this change, activity and mood remained stable and better than before adding sarcosine, and subsequent depressive symptoms were not noted. We describe here the second case report where sarcosine induced important affect changes when added to antidepressive and antipsychotic treatment, which supports the hypothesis of clinically important glutamate-serotonin interaction."
+    },
+    {
+      "pmid": "25667489",
+      "title": "Improving the prediction of pathologic outcomes in patients undergoing radical prostatectomy: the value of prostate cancer antigen 3 (PCA3), prostate health index (phi) and sarcosine.",
+      "authors": [
+        "Matteo Ferro",
+        "Giuseppe Lucarelli",
+        "Dario Bruzzese",
+        "Sisto Perdonà",
+        "Claudia Mazzarella",
+        "Giuseppe Perruolo",
+        "Ada Marino",
+        "Vincenzo Cosimato",
+        "Emilia Giorgio",
+        "Virginia Tagliamonte",
+        "Danilo Bottero",
+        "Ottavio De Cobelli",
+        "Daniela Terracciano"
+      ],
+      "journal": "Anticancer research",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/AIM: Several efforts have been made to find biomarkers that could help clinicians to preoperatively determine prostate cancer (PCa) pathological characteristics and choose the best therapeutic approach, avoiding over-treatment. On this effort, prostate cancer antigen 3 (PCA3), prostate health index (phi) and sarcosine have been presented as promising tools. We evaluated the ability of these biomarkers to predict the pathologic PCa characteristics within a prospectively collected contemporary cohort of patients who underwent radical prostatectomy (RP) for clinically localized PCa at a single high-volume Institution. MATERIALS AND METHODS: The prognostic performance of PCA3, phi and sarcosine were evaluated in 78 patients undergoing RP for biopsy-proven PCa. Receiver operating characteristic (ROC) curve analyses tested the accuracy (area under the curve (AUC)) in predicting PCa pathological characteristics. Decision curve analyses (DCA) were used to assess the clinical benefit of the three biomarkers. RESULTS: We found that PCA3, phi and sarcosine levels were significantly higher in patients with tumor volume (TV)≥0.5 ml, pathologic Gleason sum (GS)≥7 and pT3 disease (all p-values≤0.01). ROC curve analysis showed that phi is an accurate predictor of high-stage (AUC 0.85 [0.77-0.93]), high-grade (AUC 0.83 [0.73-0.93]) and high-volume disease (AUC 0.94 [0.88-0.99]). Sarcosine showed a comparable AUC (0.85 [0.76-0.94]) only for T3 stage prediction, whereas PCA3 score showed lower AUCs, ranging from 0.74 (for GS) to 0.86 (for TV). CONCLUSION: PCA3, phi and sarcosine are predictors of PCa characteristics at final pathology. Successful clinical translation of these findings would reduce the frequency of surveillance biopsies and may enhance acceptance of active surveillance (AS).",
+      "mesh_terms": [
+        "Antigens, Neoplasm",
+        "Humans",
+        "Male",
+        "Prostatectomy",
+        "Prostatic Neoplasms",
+        "ROC Curve",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "25578890",
+      "title": "Sarcosine-Based Glycine Transporter Type-1 (GlyT-1) Inhibitors Containing Pyridazine Moiety: A Further Search for Drugs with Potential to Influence Schizophrenia Negative Symptoms.",
+      "authors": [
+        "Laszlo G Harsing",
+        "Julia Timar",
+        "Geza Szabo",
+        "Szabolcs Udvari",
+        "Katalin M Nagy",
+        "Bernadett Marko",
+        "Gabriella Zsilla",
+        "Andrea Czompa",
+        "Pal Tapolcsanyi",
+        "Akos Kocsis",
+        "Peter Matyus"
+      ],
+      "journal": "Current pharmaceutical design",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We have synthesized a novel series of N-substituted sarcosines, analogues of NFPS (N-[3-(biphenyl-4- yloxy)-3-(4-fluorophenyl)propyl]-N-methylglycine), as type-1 glycine transporter (GlyT-1) inhibitors. Several compounds incorporated a diazine ring inhibited recombinant hGlyT-1b expressed permanently in CHO cells and GlyT-1 in rat brain synaptosomal preparations. A structure-activity relationship for the newly synthesized compounds was obtained and discussed on the ground of their GlyT-1 inhibitory potencies. Replacement of the biphenyl-4-yloxy moiety in NFPS with a 5-pyridazinylphenoxy moiety (compounds 3, 4, 5, and 6) or a 2-phenyl-5- pyridazinyloxy moiety (compounds 10, 11, and 12) afforded compounds exhibiting potent inhibition on GlyT-1 activity. The GlyT-1 inhibitory properties of NFPS analogues, in which sarcosine was closed into a ring forming (methylamino)pyridazine-3-(2H)-one, were markedly reduced (compounds 13 and 14). The pyridazine-containing GlyT-1 inhibitors with in vitro GlyT-1 inhibitory potency also enhanced extracellular glycine concentrations in conscious rat striatum as was measured by microdialysis technique. In contrast to NFPS, sarcosine-based pyridazine containing GlyT-1 inhibitors failed to evoke compulsive running behavior whereas they inhibited phencyclidine- induced hypermotility in mice. It is believed that increase of extracellular concentrations of glycine by inhibition of its reuptake may probably influence positively glutamate N-methyl-D-aspartate (NMDA)-type ionotropic receptors in the central nervous system. This may have importance in the treatment of neuropsychiatric disorders associated with hypofunctional NMDA receptor-mediated glutamatergic neurochemical transmission. Thus, impaired NMDA receptor functions have been shown to be involved in the development of the negative symptoms and the cognitive deficit of schizophrenia and the treatment of these symptoms is the possible clinical indication of GlyT-1 inhibitors including those containing pyridazine moiety.",
+      "mesh_terms": [
+        "Animals",
+        "CHO Cells",
+        "Cricetulus",
+        "Dose-Response Relationship, Drug",
+        "Drug Design",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Male",
+        "Mice",
+        "Mice, Inbred Strains",
+        "Molecular Structure",
+        "Pyridazines",
+        "Rats",
+        "Rats, Wistar",
+        "Sarcosine",
+        "Schizophrenia",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "24523591",
+      "title": "Two grams of sarcosine in schizophrenia - is it too much? A potential role of glutamate-serotonin interaction.",
+      "authors": [
+        "Dominik Strzelecki",
+        "Justyna Szyburska",
+        "Jolanta Rabe-Jabłońska"
+      ],
+      "journal": "Neuropsychiatric disease and treatment",
+      "publication_date": "2014",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Glutamate is the main excitatory neurotransmitter in the central nervous system. Dysfunction of the glutamatergic system plays an important role in the pathogenesis of schizophrenia. Therefore, glutamatergic agents such as N-methyl-D-aspartate receptor co-agonists (ie, glycine, D-cycloserine) and glycine transporter type 1 inhibitors (eg, sarcosine) are studied for their efficacy in ameliorating negative and cognitive symptomatology in patients with schizophrenia. We report the case of a 23-year-old schizophrenic patient treated with quetiapine and citalopram, who was offered concomitant sarcosine treatment. After obtaining an informed consent, we started administration of 2 g of sarcosine per day to treat persistent negative and cognitive symptoms. The patient's activity and mood improved within 2 weeks, but in the following 2 weeks the patient reported increased drive, activity, libido, unpleasant inner tension, and irritability. We ruled out hypomania and decided to decrease the daily dose of sarcosine to 1 g, which resulted in reduction of drive and irritability. Activity and mood improved compared with his state before adding sarcosine. We suggest a sarcosine dose between 1 g and 2 g per day with an initial dose of 2 g, but if side effects occur, the dose should be decreased to 1 g per day. We would like to emphasize the clinically important glutamate-serotonin interaction during concomitant use of sarcosine, citalopram, and quetiapine in our patient, which may lead to serious discomfort."
+    },
+    {
+      "pmid": "24294998",
+      "title": "Comparative study of the use of sarcosine, proline and glycine as acrylamide inhibitors in ripe olive processing.",
+      "authors": [
+        "Antonio Higinio Sánchez",
+        "Víctor Manuel Beato",
+        "Antonio López-López",
+        "Alfredo Montaño"
+      ],
+      "journal": "Food additives & contaminants. Part A, Chemistry, analysis, control, exposure & risk assessment",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The main purpose of this study was to evaluate the inhibitory effect on acrylamide (AA) formation and the impact on sensory characteristics in ripe olives of three selected amino acids (sarcosine, proline and glycine), which previously showed high AA inhibition rates in an olive model system. Each amino acid was separately added to packing solutions to give 100 or 200 mM at equilibrium, prior to a sterilisation treatment at 121°C. The results showed that sarcosine at 100 mM may be a good candidate for reducing the AA content in ripe olives with a limited effect on sensory characteristics. Studies with a model solution of AA and sarcosine heated at 121°C for 30 min suggested that the main mechanism for the inhibitory effect of sarcosine on AA formation was the Michael reaction.",
+      "mesh_terms": [
+        "Acrylamide",
+        "Food Additives",
+        "Food Analysis",
+        "Food Handling",
+        "Fruit",
+        "Glycine",
+        "Olea",
+        "Proline",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "22932812",
+      "title": "Use of crude extract of lentil plant (Lens culinaris Medikus) in peroxidase-based analyses: fast kinetic determination of hydrogen peroxide and sarcosine in urine.",
+      "authors": [
+        "Patricia Pérez Galende",
+        "Teresa Manzano Muñoz",
+        "Manuel G Roig",
+        "Cándido García de María"
+      ],
+      "journal": "Analytical and bioanalytical chemistry",
+      "publication_date": "2012-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Peroxidase-catalysed reactions are used in a wide variety of analytical applications, most of them based on the final quantification of hydrogen peroxide. Clinical tests for glucose, cholesterol, creatine, creatinine or uric acid in blood or urine and enzyme-linked immunosorbent assays for pesticides, hepatitis or acquired immune deficiency syndrome are good examples of such applications. The most widely used and commercially available peroxidase for biotechnological processes and analytical applications is horseradish peroxidase followed, although in much lower proportion, by soybean peroxidase. The high commercial interest in peroxidases has led to the search for new sources of these enzymes. This work describes the analytical use of lentil plant peroxidase (LPP), which is a new peroxidase extracted from lentil plants (Lens culinaris Medikus); an abundant post-harvest agricultural waste in the area of Castilla y León (Spain). A procedure for the quantification of hydrogen peroxide in urine is first proposed using crude extract of lentil plant instead of the purified enzyme. This procedure is then applied to the determination of sarcosine; a natural amino acid that has attracted considerable interest in clinical diagnostics since urinary sarcosine was proposed and later questioned as a biomarker for prostate cancer. Under the action of sarcosine oxidase, sarcosine is oxidized by molecular oxygen to give glycine, formaldehyde and hydrogen peroxide that is quantified according to the previously proposed procedure. The limit of detection for both hydrogen peroxide and sarcosine is around 5 × 10(-7) M. In the determination of sarcosine, the high selectivity of the overall enzymatic reaction, the simple sample treatment and instrumentation, the high-sample throughput and the use of LPP in the plant extract instead of the purified enzyme provide a rapid and inexpensive procedure with characteristics very suitable for routine analysis in a clinical laboratory.",
+      "mesh_terms": [
+        "Humans",
+        "Hydrogen Peroxide",
+        "Kinetics",
+        "Lens Plant",
+        "Peroxidases",
+        "Plant Extracts",
+        "Sarcosine",
+        "Time Factors",
+        "Urinalysis"
+      ]
+    },
+    {
+      "pmid": "22750492",
+      "title": "Pharmacological induction of ischemic tolerance in hippocampal slices by sarcosine preconditioning.",
+      "authors": [
+        "Mauro Cunha Xavier Pinto",
+        "Flávio Afonso Gonçalves Mourão",
+        "Nancy Scardua Binda",
+        "Hércules Ribeiro Leite",
+        "Marcus Vinícius Gomez",
+        "Andre Ricardo Massensini",
+        "Renato Santiago Gomez"
+      ],
+      "journal": "Neurochemistry international",
+      "publication_date": "2012-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Brain ischemic tolerance is a protective mechanism induced by a preconditioning stimulus, which prepare the tissue against harmful insults. Preconditioning with N-methyl-d-aspartate (NMDA) agonists induces brain tolerance and protects it against glutamate excitotoxicity. Recently, the glycine transporters type 1 (GlyT-1) have been shown to potentiate glutamate neurotransmission through NMDA receptors suggesting an alternative strategy to protect against glutamate excitotoxicity. Here, we evaluated the preconditioning effect of sarcosine pre-treatment, a GlyT-1 inhibitor, in rat hippocampal slices exposed to ischemic insult. Sarcosine (300 mg/kg per day, i.p.) was administered during seven consecutive days before induction of ischemia in hippocampus by oxygen/glucose deprivation (OGD). To access the damage caused by an ischemic insult, we evaluated cells viability, glutamate release, nitric oxide (NO) production, lactate dehydrogenase (LDH) levels, production of reactive oxygen species (ROS), and antioxidant enzymes as well as the impact of oxidative stress in the tissue. We observed that sarcosine reduced cell death in hippocampus submitted to OGD, which was confirmed by reduction on LDH levels in the supernatant. Cell death, glutamate release, LDH levels and NO production were reduced in sarcosine hippocampal slices submitted to OGD when compared to OGD controls (without sarcosine). ROS production was reduced in sarcosine hippocampal slices exposed to OGD, although no changes were found in antioxidant enzymes activities. This study demonstrates that preconditioning with sarcosine induces ischemic tolerance in rat hippocampal slices submitted to OGD.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Hypoxia",
+        "Dose-Response Relationship, Drug",
+        "Glucose",
+        "Hippocampus",
+        "Ischemic Preconditioning",
+        "Male",
+        "Organ Culture Techniques",
+        "Oxygen",
+        "Rats",
+        "Rats, Wistar",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "22264868",
+      "title": "Characterization of the neuropsychological phenotype of glycine N-methyltransferase-/- mice and evaluation of its responses to clozapine and sarcosine treatments.",
+      "authors": [
+        "Ching-Ping Yang",
+        "Hsiang-An Wang",
+        "Tung-Hu Tsai",
+        "Angela Fan",
+        "Chia-Lang Hsu",
+        "Chun-Jung Chen",
+        "Chen-Jee Hong",
+        "Yi-Ming Arthur Chen"
+      ],
+      "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Glycine N-methyltransferase (GNMT) affects cellular methylation capacity through regulating the ratio between S-adenosylmethionine (SAM) and S-adenosylhomocysteine (SAH). The product of its enzymatic reaction-sarcosine has antipsychotic effect in patients with schizophrenia. In this study, through RT-PCR and immunohistochemical staining, we demonstrated that GNMT expressed in various neurons located in the cerebral cortex, hippocampus, substantia nigra and cerebellum. Compared to the wild-type mice, Gnmt-/- mice had significantly lower level of sarcosine in the cerebral cortex. Real-time PCR identified genes involved in the methionine metabolism (Dnmt1 and Dnmt3a), ErbB (Nrg1 and ErbB4) and mTOR (Akt2, S6, S6k1 and S6k2) signaling pathways were dysregulated significantly in the cortex of Gnmt-/- mice. Acoustic startle reflex test demonstrated that Gnmt-/- mice had significantly lower level of prepulse inhibition and the deficit was ameliorated through clozapine or sarcosine treatment. Furthermore, liver-specific-human-GNMT transgenic with Gnmt-/- (Tg-GNMT/Gnmt-/-) mice were used to rule out that the phenotype was due to abnormal liver function. In summary, the neuropsychological abnormalities found in Gnmt-/- mice may represent an endophenotype of schizophrenia. GNMT plays an important role in maintaining normal physiological function of brain and Tg-GNMT/Gnmt-/- mice are useful models for development of therapeutics for patients with schizophrenia.",
+      "mesh_terms": [
+        "Animals",
+        "Antipsychotic Agents",
+        "Clozapine",
+        "Crosses, Genetic",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Glycine N-Methyltransferase",
+        "Humans",
+        "Male",
+        "Metencephalon",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Knockout",
+        "Mice, Transgenic",
+        "Nerve Tissue Proteins",
+        "Neurons",
+        "Organ Specificity",
+        "RNA, Messenger",
+        "Sarcosine",
+        "Schizophrenia",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "21508860",
+      "title": "Sarcosine therapy for obsessive compulsive disorder: a prospective, open-label study.",
+      "authors": [
+        "Po-Lun Wu",
+        "Hwa-Sheng Tang",
+        "Hsien-Yuan Lane",
+        "Chen-An Tsai",
+        "Guochuan E Tsai"
+      ],
+      "journal": "Journal of clinical psychopharmacology",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Several lines of evidence implicate glutamatergic neurotransmission in the pathophysiology of obsessive compulsive disorder (OCD). Sarcosine is an endogenous antagonist of glycine transporter-1. By blocking glycine uptake, sarcosine may increase the availability of synaptic glycine and enhance N-methyl-d-aspartate (NMDA) subtype glutamatergic neurotransmission. In this 10-week open-label trial, we examined the potential benefit of sarcosine treatment in OCD patients. METHOD: Twenty-six outpatients with OCD and baseline Yale-Brown Obsessive Compulsive Scale (YBOCS) scores higher than 16 were enrolled. Drug-naive subjects (group 1, n = 8) and those who had discontinued serotonin reuptake inhibitors for at least 8 weeks at study entry (group 2, n = 6) received sarcosine monotherapy. The other subjects (group 3, n = 12) received sarcosine as adjunctive treatment. A flexible dosage schedule of sarcosine 500 to 2000 mg/d was applied. The primary outcome measures were Y-BOCS and Hamilton Anxiety Inventory, rated at weeks 0, 2, 4, 6, 8, and 10. Results were analyzed by repeated-measures analysis of variance. RESULTS: Data of 25 subjects were eligible for analysis. The mean ± SD Y-BOCS scores decreased from 27.6 ± 5.8 to 22.7 ± 8.7, indicating a mean decrease of 19.8% ± 21.7% (P = 0.0035). Eight (32%) subjects were regarded as responders with greater than 35% reduction of Y-BOCS scores. Five of the responders achieved the good response early by week 4. Although not statistically significant, drug-naive (group 1) subjects had more profound and sustained improvement and more responders than the subjects who had received treatment before (groups 2 and 3). Sarcosine was tolerated well; only one subject withdrew owing to transient headache. CONCLUSION: Sarcosine treatment can achieve a fast therapeutic effect in some OCD patients, particularly those who are treatment naive. The study supports the glycine transporter-1 as a novel target for developing new OCD treatment. Large-series placebo-controlled, double-blind studies are recommended.",
+      "mesh_terms": [
+        "Adult",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Obsessive-Compulsive Disorder",
+        "Psychiatric Status Rating Scales",
+        "Psychotropic Drugs",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "21491110",
+      "title": "Sarcosine as a marker in prostate cancer progression: a rapid and simple method for its quantification in human urine by solid-phase microextraction-gas chromatography-triple quadrupole mass spectrometry.",
+      "authors": [
+        "Brunella Cavaliere",
+        "Barbara Macchione",
+        "Marcello Monteleone",
+        "Attilio Naccarato",
+        "Giovanni Sindona",
+        "Antonio Tagarelli"
+      ],
+      "journal": "Analytical and bioanalytical chemistry",
+      "publication_date": "2011-Jul",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Sarcosine is an amino acid derivative of N-methylglycine and is involved in the amino acid metabolism and methylation processes that are enriched during prostate cancer progression. It could also serve as a new target to be measured during therapeutic interventions and help in the identification of aggressive tumors for radical treatment. In this study, we present a new urine test that can help early diagnosis of prostate cancer. The method for the quantification of sarcosine in urine consists of a solid-phase microextraction (SPME) step followed by gas chromatography-triple quadrupole mass spectrometry analysis. We used a preliminary derivatization step with ethyl chloroformate/ethanol and the corresponding ester was then extracted by SPME in immersion mode. Several fibers were evaluated and the optimization of the parameters affecting the SPME process was carried out using an experimental design. The optimal values were 20 min extraction time, 10% NaCl, and 270°C using a divinylbenzene/Carboxen/polydimethylsiloxane fiber. The triple quadrupole analyzer acquired data in selected reaction monitoring mode, allowing us to obtain reconstructed chromatograms with well-defined chromatographic peaks. The accuracy and precision of this method were evaluated at concentrations of 70, 250, and 800 ng/ml and were found to be acceptable. Very satisfactory values (0.10 and 0.16 ng/ml, respectively) were also achieved for the limit of detection and the limit of quantification. The proposed protocol represents a rapid, simple, selective, and sensitive tool to quantify sarcosine in urine samples for prostate cancer diagnosis and for a screening test.",
+      "mesh_terms": [
+        "Adult",
+        "Gas Chromatography-Mass Spectrometry",
+        "Humans",
+        "Male",
+        "Prostatic Neoplasms",
+        "Sarcosine",
+        "Sensitivity and Specificity",
+        "Solid Phase Microextraction",
+        "Time Factors",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "21106609",
+      "title": "D-cycloserine, sarcosine and D-serine diminish the expression of cocaine-induced conditioned place preference.",
+      "authors": [
+        "Fu-Yung Yang",
+        "Yung-Shuan Lee",
+        "Chianfang G Cherng",
+        "Ling-Yi Cheng",
+        "Wan-Ting Chang",
+        "Jia-Ying Chuang",
+        "Gour-Shenq Kao",
+        "Lung Yu"
+      ],
+      "journal": "Journal of psychopharmacology (Oxford, England)",
+      "publication_date": "2013-Jun",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Reactivation of cocaine-associated memories plays a critical role in reinstating the cocaine-seeking behavior and causing relapse. Cocaine-induced conditioned place preference (CPP) was used as a behavioral paradigm indicative of cocaine-associated memory and repeated cocaine-free preference tests served as a behavioral procedure to retrieve such a memory in this study. Since D-cycloserine was reported to eradicate drug-associated memories, two other N-methyl-D-aspartate (NMDA) receptor agonists were assessed for their efficacy on facilitating the extinction of cocaine-induced CPP. Although D-cycloserine (30 mg/kg) abolished cocaine (10 mg/kg)-induced CPP, sarcosine (300 and 600 mg/kg) and D-serine (600 mg/kg) diminished the expression of such a cocaine memory. Sarcosine (600 mg/kg) and D-serine (600 mg/kg) did not affect the storage of this cocaine memory. It was of interest to note that D-cycloserine facilitated the extinction of cocaine-induced CPP in a fast and early-onset manner, while sarcosine and D-serine decreased cocaine-induced CPP expression in a delay-onset manner. D-cycloserine (30 mg/kg), D-serine (600 mg/kg) and sarcosine (600 mg/kg) did not affect the consolidation of cocaine (5 mg/kg)-induced CPP. Finally, sarcosine (at 600 mg/kg/day for 3 consecutive days) and D-serine (at 600 mg/kg/day for 3 consecutive days) did not produce observable aversive effect associated with their administration in a conditioned place aversion paradigm. Likewise, a similar dosing regimen of sarcosine or D-serine did not cause evident activity-impairing effect. In addition to D-cycloserine treatment, our results indicate that long-term treatment with D-serine and sarcosine may afford a therapeutic advance in suppressing the expression of cocaine-associated memory.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Cocaine",
+        "Conditioning, Psychological",
+        "Cycloserine",
+        "Dose-Response Relationship, Drug",
+        "Extinction, Psychological",
+        "Male",
+        "Memory",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Sarcosine",
+        "Serine",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "20508295",
+      "title": "Effects of sarcosine, a glycine transporter type 1 inhibitor, in two mouse seizure models.",
+      "authors": [
+        "Katarzyna Socała",
+        "Dorota Nieoczym",
+        "Chris Rundfeldt",
+        "Piotr Wlaź"
+      ],
+      "journal": "Pharmacological reports : PR",
+      "publication_date": "2010",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine, a natural amino acid found in muscles and other body tissues, is an endogenous glycine transporter type 1 inhibitor that increases the glycine concentration, resulting in an indirect potentiation of the N-methyl-D-aspartate (NMDA) subtype of glutamate receptors. Sarcosine, similar to other NMDA receptor-activating agents, is an effective adjuvant in the treatment of schizophrenia. It is widely accepted that increased glutamatergic neurotransmission is involved in the initiation and propagation of seizures. Because sarcosine facilitates NMDA receptor function, it may affect the seizure threshold. Therefore, we examined the effects of sarcosine on the seizure threshold in two different mouse seizure models: the timed intravenous (iv) pentylenetetrazole (PTZ) infusion test and the maximal electroshock seizure threshold test. In the iv PTZ test, sarcosine did not exert a significant effect on the seizure threshold at any of the doses tested (100, 200, 400 and 800 mg/kg, ip). However, at doses of 400 and 800 mg/kg, sarcosine significantly raised the threshold for electroconvulsions (p < 0.01). The present findings indicate that sarcosine did not lower the seizure threshold. Conversely, sarcosine showed weak anticonvulsant properties by increasing the threshold current for the induction of tonic seizures. Therefore, sarcosine may be considered as a safe adjuvant treatment for schizophrenia without proconvulsant risk. In addition, the compound may serve as an interesting addition to epilepsy treatment.",
+      "mesh_terms": [
+        "Animals",
+        "Disease Models, Animal",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Male",
+        "Mice",
+        "Motor Activity",
+        "Pentylenetetrazole",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Seizures"
+      ]
+    },
+    {
+      "pmid": "20217053",
+      "title": "The glutamatergic compounds sarcosine and N-acetylcysteine ameliorate prepulse inhibition deficits in metabotropic glutamate 5 receptor knockout mice.",
+      "authors": [
+        "Hwei-Hsien Chen",
+        "Astrid Stoker",
+        "Athina Markou"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "2010-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "RATIONALE: Mice lacking metabotropic glutamate receptors 5 (mGluR5) exhibit reduced glutamatergic function and behavioral abnormalities, including deficits in prepulse inhibition (PPI) of the startle response that may be relevant to schizophrenia. Thus, these mice are an animal model that may be used for preclinical evaluation of potentially new classes of antipsychotic compounds. Recent clinical studies have suggested several compounds that modulate glutamatergic transmission through distinct mechanisms, such as potentiation of the N-methyl-D: -aspartate (NMDA) receptor glycine site, activation of group II mGluR, and activation of glutamate-cysteine antiporters, as being efficacious in the treatment of schizophrenia. OBJECTIVES: The aim of this work is to evaluate the effects of sarcosine (a selective inhibitor of the glycine transporter 1 [GlyT1]), LY379268 (a group II mGluR agonist), and N-acetylcysteine (a cysteine prodrug that indirectly activates cystine-glutamate antiporters to increase glutamate levels in the extrasynaptic space) on PPI deficits in mGluR5 knockout mice. RESULTS: Sarcosine and N-acetylcysteine, but not LY379268, ameliorated PPI deficits in mGluR5 knockout mice. The ability of N-acetylcysteine to restore PPI deficits was not blocked by the group II mGluR antagonist LY341495, indicating that the effects of N-acetylcysteine were not attributable to activation of group II mGluRs by glutamate. CONCLUSIONS: These findings provide evidence that the interactions between mGluR5 and NMDA receptors are involved in the regulation of PPI and suggest that activation of glutamate receptors, other than group II receptors, by increased endogenous glutamate transmission, may ameliorate the behavioral abnormalities associated with mGluR5 deficiency.",
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Acoustic Stimulation",
+        "Amino Acid Transport System y+",
+        "Amino Acids",
+        "Analysis of Variance",
+        "Animals",
+        "Bridged Bicyclo Compounds, Heterocyclic",
+        "Dose-Response Relationship, Drug",
+        "Excitatory Amino Acid Agonists",
+        "Female",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Knockout",
+        "Neural Inhibition",
+        "Receptor, Metabotropic Glutamate 5",
+        "Receptors, Metabotropic Glutamate",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Reflex, Startle",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "20166956",
+      "title": "Recent progress in the discovery of non-sarcosine based GlyT1 inhibitors.",
+      "authors": [
+        "Scott E Wolkenberg",
+        "Cyrille Sur"
+      ],
+      "journal": "Current topics in medicinal chemistry",
+      "publication_date": "2010",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The simple amino acid glycine is implicated in both inhibitory and excitatory neurotransmission in mammalian central nervous system, and it modulates excitatory neurotransmission through its role as a necessary co-agonist for glutamatergic N-methyl-D-aspartate (NMDA) receptors. Given the involvement of NMDA receptor-mediated neurotransmission in complex cerebral processes such as cognition, pharmacological manipulation of extracellular synaptic glycine biology is an active area of pharmaceutical research to develop novel treatments for neuropsychiatric disorders. A key component of cerebral glycine metabolism is the glycine transporter type 1 (GlyT1) and elevation of extracellular synaptic glycine concentration by blockade of GlyT1 has been hypothesized to potentiate NMDA receptor function in vivo and to represent a rational approach for the treatment of schizophrenia and cognitive disorders. The present article will review the wealth of scientific evidence supporting that hypothesis and the medicinal chemistry effort by many pharmaceutical companies and academic institutions to develop potent and selective GlyT1 inhibitors.",
+      "mesh_terms": [
+        "Animals",
+        "Antipsychotic Agents",
+        "Drug Discovery",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Sarcosine",
+        "Structure-Activity Relationship"
+      ]
+    },
+    {
+      "pmid": "19887019",
+      "title": "A randomized, double-blind, placebo-controlled comparison study of sarcosine (N-methylglycine) and D-serine add-on treatment for schizophrenia.",
+      "authors": [
+        "Hsien-Yuan Lane",
+        "Ching-Hua Lin",
+        "Yu-Jhen Huang",
+        "Chun-Hui Liao",
+        "Yue-Cune Chang",
+        "Guochuan E Tsai"
+      ],
+      "journal": "The international journal of neuropsychopharmacology",
+      "publication_date": "2010-May",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Recent evidence indicates that enhancing N-methyl-D-aspartate (NMDA) neurotransmission with the treatment of NMDA/glycine site agonists, such as D-serine, or a glycine transporter-1 (GlyT-1) antagonist, N-methylglycine (sarcosine), can improve symptoms of schizophrenia. To compare these two novel approaches, 60 patients with chronic schizophrenia were enrolled into a 6-wk double-blind, placebo-controlled trial of add-on treatments at the reported effective dosages (2 g/d). Clinical assessments were conducted every other week. Treatment group x treatment duration interaction analysis by multiple linear regression showed that sarcosine was superior to placebo at all four outcome measures of Positive and Negative Syndrome Scale (PANSS) total (p=0.005), Scale for the Assessment of Negative Symptoms (SANS) (p=0.021), Quality of Life (QOL) (p=0.025), and Global Assessment of Functioning (GAF) (p=0.042). However, d-serine did not differ significantly from placebo in any measure. Sarcosine treatment was better than d-serine in effect sizes for all outcome measures. Sarcosine also surpassed placebo in most of the measures of five PANSS factors and five SANS subscales. All treatments were well tolerated. These findings suggest that the GlyT-1 inhibitor is more efficacious than the NMDA/glycine site agonist in treatment for schizophrenia, including life quality and global function, at the dosages tested.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Adult",
+        "Antipsychotic Agents",
+        "Chronic Disease",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Placebos",
+        "Quality of Life",
+        "Sarcosine",
+        "Schizophrenia",
+        "Schizophrenic Psychology",
+        "Serine",
+        "Stereoisomerism"
+      ]
+    },
+    {
+      "pmid": "19577367",
+      "title": "Prefrontal cortex and spinal cord mediated anti-neuropathy and analgesia induced by sarcosine, a glycine-T1 transporter inhibitor.",
+      "authors": [
+        "Maria V Centeno",
+        "Amelia Mutso",
+        "Magali Millecamps",
+        "A Vania Apkarian"
+      ],
+      "journal": "Pain",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Sarcosine is a competitive inhibitor of glycine type 1 transporter. We hypothesized that it may have analgesic and anti-neuropathic efficacy by a dual action: affecting neurotransmission in the prefrontal cortex as well as within the spinal cord. In rats with spared nerve injury (SNI) oral sarcosine reduced mechanical sensitivity for the injured limb (anti-neuropathy or anti-allodynia) as well as for the uninjured limb (analgesia), showing better dose efficacy for the injured limb. Intrathecal administration of sarcosine was more effective in reducing mechanical sensitivity for the uninjured paw. In contrast, prefrontal cortex infusions of sarcosine acutely reduced mechanical sensitivity for the injured paw. Repeated daily oral sarcosine induced anti-neuropathy, observed only after days of repeated treatment; this long-term effect disappeared a few days after treatment cessation. The findings indicate that manipulating glycine-T1 transporter at multiple central sites can induce acute analgesia, as well as acute and long-term reduction in neuropathic pain behavior. Analgesic effects seem primarily mediated through spinal cord circuitry while anti-neuropathic effects seem mediated through prefrontal cortex circuitry, most likely through distinct molecular pathways. The results suggest that such an approach may provide a novel venue for treating clinical pain conditions.",
+      "mesh_terms": [
+        "Analgesics",
+        "Analysis of Variance",
+        "Animals",
+        "Cold Temperature",
+        "Disease Models, Animal",
+        "Dose-Response Relationship, Drug",
+        "Drug Administration Routes",
+        "Exploratory Behavior",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Male",
+        "Pain Measurement",
+        "Pain Threshold",
+        "Prefrontal Cortex",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Sarcosine",
+        "Sciatica",
+        "Spinal Cord",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "19433577",
+      "title": "The glycine transport inhibitor sarcosine is an NMDA receptor co-agonist that differs from glycine.",
+      "authors": [
+        "Hai Xia Zhang",
+        "Krzysztof Hyrc",
+        "Liu Lin Thio"
+      ],
+      "journal": "The Journal of physiology",
+      "publication_date": "2009-Jul-01",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine is an amino acid involved in one-carbon metabolism and a promising therapy for schizophrenia because it enhances NMDA receptor (NMDAR) function by inhibiting glycine uptake. The structural similarity between sarcosine and glycine led us to hypothesize that sarcosine is also an agonist like glycine. We examined this possibility using whole-cell recordings from cultured embryonic mouse hippocampal neurons. We found that sarcosine is an NMDAR co-agonist at the glycine binding site. However, sarcosine differed from glycine because less NMDAR desensitization occurred with sarcosine than with glycine as the co-agonist. This finding led us to examine whether the physiological effects of NMDAR activation with these two co-agonists are the same. The difference in desensitization probably accounts for rises in intracellular Ca(2+), as assessed by the fluorescent indicator fura-FF, being larger when NMDAR activation occurred with sarcosine than with glycine. In addition, Ca(2+)-activated K(+) currents following NMDAR activation were larger with sarcosine than with glycine. Compared to glycine, NMDAR-mediated autaptic currents decayed faster with sarcosine suggesting that NMDAR deactivation also differs with these two co-agonists. Despite these differences, NMDAR-dependent neuronal death as assessed by propidium iodide was similar with both co-agonists. The same was true for neuronal bursting. Thus, sarcosine may enhance NMDAR function by more than one mechanism and may have different effects from other NMDAR co-agonists.",
+      "mesh_terms": [
+        "Animals",
+        "Antipsychotic Agents",
+        "Calcium Signaling",
+        "Cell Death",
+        "Cells, Cultured",
+        "Electrophysiological Phenomena",
+        "Glycine",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Hippocampus",
+        "Humans",
+        "Mice",
+        "N-Methylaspartate",
+        "Neurons",
+        "Patch-Clamp Techniques",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Schizophrenia",
+        "Sodium"
+      ]
+    },
+    {
+      "pmid": "17659263",
+      "title": "Sarcosine (N-methylglycine) treatment for acute schizophrenia: a randomized, double-blind study.",
+      "authors": [
+        "Hsien-Yuan Lane",
+        "Yi-Ching Liu",
+        "Chieh-Liang Huang",
+        "Yue-Cune Chang",
+        "Chun-Hui Liau",
+        "Cheng-Hwang Perng",
+        "Guochuan E Tsai"
+      ],
+      "journal": "Biological psychiatry",
+      "publication_date": "2008-Jan-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Small molecules that enhance the N-methyl-D-aspartate (NMDA) neurotransmission have been shown to be beneficial as adjuvant therapy for schizophrenia. Among these compounds, sarcosine (a glycine transporter-I inhibitor), when added to an existing regimen of antipsychotic drugs, has shown its efficacy for both chronically stable and acutely ill patients. However, the efficacy of these agents as a primary antipsychotic agent has not yet been demonstrated. METHODS: Twenty acutely symptomatic drug-free patients with schizophrenia were randomly assigned under double-blind conditions to receive a 6-week trial of 2 g or 1 g of sarcosine daily. RESULTS: Overall, patients in the 2-g group were more likely to respond as defined by a 20% or more reduction of the Positive and Negative Syndrome Scale total score, particularly among antipsychotic-naïve patients. However, there was no significant between-group difference in the sarcosine dose x time interaction analysis. Both doses were well tolerated with minimal side effects. CONCLUSIONS: Although patients receiving the 2-g daily dose were more likely to respond, it requires further clarification whether the effect is limited to the antipsychotic-naive population. Future placebo- or active-controlled, larger-sized studies are needed to fully assess sarcosine's effects.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antipsychotic Agents",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Linear Models",
+        "Male",
+        "Middle Aged",
+        "Psychiatric Status Rating Scales",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "16780811",
+      "title": "Glycine transporter I inhibitor, N-methylglycine (sarcosine), added to clozapine for the treatment of schizophrenia.",
+      "authors": [
+        "Hsien-Yuan Lane",
+        "Chieh-Liang Huang",
+        "Po-Lun Wu",
+        "Yi-Ching Liu",
+        "Yue-Cune Chang",
+        "Pao-Yen Lin",
+        "Po-Wei Chen",
+        "Guochuan Tsai"
+      ],
+      "journal": "Biological psychiatry",
+      "publication_date": "2006-Sep-15",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Agonists at the N-methyl-D-aspartate (NMDA)-glycine site (D-serine, glycine, D-alanine and D-cycloserine) and glycine transporter-1 (GlyT-1) inhibitor (N-methylglycine, or called sarcosine) both improve the symptoms of stable chronic schizophrenia patients receiving concurrent antipsychotics. Previous studies, however, found no advantage of D-serine, glycine, or D-cycloserine added to clozapine. The present study aims to determine the effects of sarcosine adjuvant therapy for schizophrenic patients receiving clozapine treatment. METHODS: Twenty schizophrenic inpatients enrolled in a 6-week double-blind, placebo-controlled trial of sarcosine (2 g/day) which was added to their stable doses of clozapine. Measures of clinical efficacy and side-effects were determined every other week. RESULTS: Sarcosine produced no greater improvement when co-administered with clozapine than placebo plus clozapine at weeks 2, 4, and 6. Sarcosine was well tolerated and no significant side-effect was noted. CONCLUSIONS: Unlike patients treated with other antipsychotics, patients who received clozapine treatment exhibit no improvement by adding sarcosine or agonists at the NMDA-glycine site. Clozapine possesses particular efficacy, possibly related to potentiation of NMDA-mediated neurotransmission. This may contribute to the clozapine's unique clinical efficacy and refractoriness to the addition of NMDA-enhancing agents.",
+      "mesh_terms": [
+        "Adult",
+        "Antipsychotic Agents",
+        "Clozapine",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Neuropsychological Tests",
+        "Psychiatric Status Rating Scales",
+        "Sarcosine",
+        "Schizophrenia",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "16730704",
+      "title": "Involvement of spinal mu1-opioid receptors on the Tyr-d-Arg-Phe-sarcosine-induced antinociception.",
+      "authors": [
+        "Hirokazu Mizoguchi",
+        "Daisuke Nakayama",
+        "Hiroyuki Watanabe",
+        "Kanenori Ito",
+        "Wataru Sakurada",
+        "Toshiki Sawai",
+        "Tsutomu Fujimura",
+        "Takumi Sato",
+        "Tsukasa Sakurada",
+        "Shinobu Sakurada"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2006-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The involvement of spinal mu-opioid receptor subtypes on the antinociception induced by i.t.-administered Tyr-D-Arg-Phe-sarcosine (TAPS), a N-terminal tetrapeptide analog of dermorphin, was determined in mice tail-flick test. Intrathecal administration of TAPS produced the marked inhibition of the tail-flick response in a dose-dependent manner. The antinociception induced by TAPS was completely eliminated by i.t.-co-administration of Tyr-D-Pro-Phe-Phe-NH2 (D-Pro2-endomorphin-2), the mu1-opioid receptor antagonist, whereas i.t. co-treatment with Tyr-D-Pro-Trp-Phe-NH2 (D-Pro2-endomorphin-1) or Tyr-D-Pro-Trp-Gly-NH2 (D-Pro2-Tyr-W-MIF-1), the mu2-opioid receptor antagonists, did not affect the TAPS-induced antinociception. In contrast, the antinociception induced by i.t.-administered [D-Ala2,N-MePhe4,Gly-ol5]enkephalin was significantly attenuated by i.t.-co-administration of D-Pro2-endomorphin-1 or D-Pro2-Tyr-W-MIF-1, but not D-Pro2-endomorphin-2. These results suggest that TAPS may stimulate spinal mu1-opioid receptors to produce the antinociception.",
+      "mesh_terms": [
+        "Analgesics",
+        "Analgesics, Opioid",
+        "Animals",
+        "Dose-Response Relationship, Drug",
+        "Enkephalin, Ala(2)-MePhe(4)-Gly(5)-",
+        "Hot Temperature",
+        "Hyperalgesia",
+        "Injections, Spinal",
+        "MSH Release-Inhibiting Hormone",
+        "Male",
+        "Mice",
+        "Oligopeptides",
+        "Pain Measurement",
+        "Protein Isoforms",
+        "Receptors, Opioid, mu",
+        "Spinal Cord"
+      ]
+    },
+    {
+      "pmid": "16716829",
+      "title": "Modulatory effects of d-serine and sarcosine on NMDA receptor-mediated neurotransmission are apparent after stress in the genetically inbred BALB/c mouse strain.",
+      "authors": [
+        "Katrice D Long",
+        "John Mastropaolo",
+        "Richard B Rosse",
+        "Kebreten F Manaye",
+        "Stephen I Deutsch"
+      ],
+      "journal": "Brain research bulletin",
+      "publication_date": "2006-May-31",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Abnormalities of NMDA receptor-mediated neurotransmission are involved in the pathophysiology of schizophrenia, Alzheimer's disease, substance abuse and seizure disorders. The NMDA receptor is implicated in schizophrenia because phencyclidine (PCP), a noncompetitive NMDA receptor antagonist, binds to a hydrophobic domain within the channel, precipitating a schizophreniform psychosis in susceptible persons. Pharmacological, environmental, and genetic variables alter NMDA receptor-mediated neurotransmission. Inbred mouse strains differ in their sensitivity to some of the behavioral effects of MK-801 (dizocilpine), a PCP analogue. The NMDA receptor complex in the BALB/c strain could reflect a unique stoichiometric combination of receptor subunits resulting in a higher proportion of the channels in the open configuration, a higher affinity of MK-801 for its hydrophobic channel domain, and/or a combination of the above. The BALB/c mouse strain, \"stressed\" mice, and behavioral consequences of MK-801 administration represent models of altered glutamatergic neural transmission. We were interested in examining the effect of stress on the modulatory properties of d-serine and sarcosine. d-Serine is a naturally occurring glycine agonist that modulates the ability of l-glutamate to influence the opening of the NMDA receptor-associated ionophore, and sarcosine is a naturally occurring glycine reuptake inhibitor. The data suggest that 24h after stress, d-serine and sarcosine interact synergistically to reduce MK-801's ability to antagonize electrically precipitated tonic hindlimb extension. Under conditions of stress, modulatory effects of d-serine and sarcosine on the antiseizure effect of MK-801 are observed that are not apparent in the nonstress condition. The results could be relevant to the development of glycinergic interventions for the treatment of neuropsychiatric disorders.",
+      "mesh_terms": [
+        "Analysis of Variance",
+        "Animals",
+        "Dizocilpine Maleate",
+        "Dose-Response Relationship, Drug",
+        "Drug Interactions",
+        "Electroshock",
+        "Excitatory Amino Acid Antagonists",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Sarcosine",
+        "Seizures",
+        "Serine",
+        "Stress, Physiological",
+        "Synaptic Transmission"
+      ]
+    },
+    {
+      "pmid": "16300392",
+      "title": "Structure of the sodium borohydride-reduced N-(cyclopropyl)glycine adduct of the flavoenzyme monomeric sarcosine oxidase.",
+      "authors": [
+        "Zhi-wei Chen",
+        "Gouhua Zhao",
+        "Suzana Martinovic",
+        "Marilyn Schuman Jorns",
+        "F Scott Mathews"
+      ],
+      "journal": "Biochemistry",
+      "publication_date": "2005-Nov-29",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Monomeric sarcosine oxidase (MSOX) is a flavoprotein that contains covalently bound FAD [8a-(S-cysteinyl)FAD] and catalyzes the oxidation of sarcosine (N-methylglycine) and other secondary amino acids, such as l-proline. Our previous studies showed that N-(cyclopropyl)glycine (CPG) acts as a mechanism-based inactivator of MSOX [Zhao, G., et al. (2000) Biochemistry 39, 14341-14347]. The reaction results in the formation of a modified reduced flavin that can be further reduced and stabilized by treatment with sodium borohydride. The borohydride-reduced CPG-modified enzyme exhibits a mass increase of 63 +/- 2 Da as compared with native MSOX. The crystal structure of the modified enzyme, solved at 1.85 A resolution, shows that FAD is the only site of modification. The modified FAD contains a fused five-membered ring, linking the C(4a) and N(5) atoms of the flavin ring, with an additional oxygen atom bound to the carbon atom attached to N(5) and a tetrahedral carbon atom at flavin C(4) with a hydroxyl group attached to C(4). On the basis of the crystal structure of the borohydride-stabilized adduct, we conclude that the labile CPG-modified flavin is a 4a,5-dihydroflavin derivative with a substituent derived from the cleavage of the cyclopropyl ring in CPG. The results are consistent with CPG-mediated inactivation in a reaction initiated by single electron transfer from the amine function in CPG to FAD in MSOX, followed by collapse of the radical pair to yield a covalently modified 4a,5-dihydroflavin.",
+      "mesh_terms": [
+        "Borohydrides",
+        "Crystallography, X-Ray",
+        "Electron Transport",
+        "Flavin-Adenine Dinucleotide",
+        "Glycine",
+        "Molecular Structure",
+        "Oxidation-Reduction",
+        "Peptides, Cyclic",
+        "Sarcosine Oxidase"
+      ]
+    },
+    {
+      "pmid": "16275807",
+      "title": "Sarcosine or D-serine add-on treatment for acute exacerbation of schizophrenia: a randomized, double-blind, placebo-controlled study.",
+      "authors": [
+        "Hsien-Yuan Lane",
+        "Yue-Cune Chang",
+        "Yi-Ching Liu",
+        "Chih-Chiang Chiu",
+        "Guochuan E Tsai"
+      ],
+      "journal": "Archives of general psychiatry",
+      "publication_date": "2005-Nov",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "CONTEXT: Agents that enhance N-methyl-D-aspartate (NMDA) function through the glycine modulatory site (D-serine, glycine, or D-cycloserine) or through glycine transporter 1 (sarcosine) improve the symptoms of patients with stable chronic schizophrenia. OBJECTIVE: To determine whether NMDA-glycine site agonists or glycine transporter-1 inhibitors have better efficacy and whether NMDA receptor-enhancing agents have beneficial effects for acute exacerbation of schizophrenia. DESIGN: Randomized, double-blind, placebo-controlled trial. SETTING: Inpatient units of 2 major medical centers in Taiwan. Patients Sixty-five schizophrenic inpatients with acute exacerbation. INTERVENTIONS: Six weeks of treatment with sarcosine (2 g/d), D-serine (2 g/d), or placebo and concomitant optimal risperidone therapy. MAIN OUTCOME MEASURES: Positive and Negative Syndrome Scale (PANSS) and Scale for the Assessment of Negative Symptoms (SANS) (20 and 17 items) total scores. RESULTS: The sarcosine group revealed more reductions in PANSS total scores than the placebo (P = .04) and D-serine (P<.001) groups. Sarcosine adjunctive treatment was also superior to placebo in reducing SANS-20 (P = .007) and SANS-17 (P = .003) scores and to D-serine in decreasing SANS-20 (P = .006) and SANS-17 (P = .002) scores. The PANSS-general, PANSS-cognitive, and PANSS-depressive symptoms scores and SANS-alogia and SANS-blunted affect scores improved significantly more in sarcosine-cotreated patients than in risperidone monotherapy patients (P< or =.02 for all). Sarcosine adjunctive therapy also surpassed D-serine in terms of PANSS-general, PANSS-positive, PANSS-negative, and PANSS-depressive symptoms scores (P< or =.04 for all). D-serine and risperidone cotreatment did not differ significantly from risperidone monotherapy in all efficacy domains. CONCLUSIONS: This first short-term treatment study on NMDA receptor-enhancing agents suggests that sarcosine, superior to D-serine, can benefit not only patients with long-term stable disease but also acutely ill persons with schizophrenia. This finding indicates that a glycine transporter 1 inhibitor may be more efficacious than NMDA-glycine site agonists for adjuvant treatment of schizophrenia, at least during the acute phase. Further studies are needed.",
+      "mesh_terms": [
+        "Acute Disease",
+        "Adult",
+        "Antipsychotic Agents",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Placebos",
+        "Psychiatric Status Rating Scales",
+        "Risperidone",
+        "Sarcosine",
+        "Schizophrenia",
+        "Schizophrenic Psychology",
+        "Serine",
+        "Stereoisomerism",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "15023571",
+      "title": "Glycine transporter I inhibitor, N-methylglycine (sarcosine), added to antipsychotics for the treatment of schizophrenia.",
+      "authors": [
+        "Guochuan Tsai",
+        "Hsien-Yuan Lane",
+        "Pinchen Yang",
+        "Mian-Yoon Chong",
+        "Nicholas Lange"
+      ],
+      "journal": "Biological psychiatry",
+      "publication_date": "2004-Mar-01",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "BACKGROUND: Hypofunction of N-methyl-D-aspartate glutamate receptor had been implicated in the pathophysiology of schizophrenia. Treatment with D-serine or glycine, endogenous full agonists of the glycine site of N-methyl-D-aspartate receptor, or D-cycloserine, a partial agonist, improve the symptoms of schizophrenia. N-methylglycine (sarcosine) is an endogenous antagonist of glycine transporter-1, which potentiates glycine's action on N-methyl-D-aspartate glycine site and can have beneficial effects on schizophrenia. METHODS: Thirty-eight schizophrenic patients were enrolled in a 6-week double-blind, placebo-controlled trial of sarcosine (2 g/d), which was added to their stable antipsychotic regimens. Twenty of them received risperidone. Measures of clinical efficacy and side effects were determined every other week. RESULTS: Patient who received sarcosine treatment revealed significant improvements in their positive, negative, cognitive, and general psychiatric symptoms. Similar therapeutic effects were observed when only risperidone-treated patients were analyzed. Sarcosine was well-tolerated, and no significant side effect was noted. CONCLUSIONS: Sarcosine treatment can benefit schizophrenic patients treated by antipsychotics including risperidone. The significant improvement with the sarcosine further supports the hypothesis of N-methyl-D-aspartate receptor hypofunction in schizophrenia. Glycine transporter-1 is a novel target for the pharmacotherapy to enhance N-methyl-D-aspartate function.",
+      "mesh_terms": [
+        "Adult",
+        "Affective Symptoms",
+        "Amino Acid Transport Systems, Neutral",
+        "Analysis of Variance",
+        "Antipsychotic Agents",
+        "Double-Blind Method",
+        "Drug Interactions",
+        "Drug Therapy, Combination",
+        "Female",
+        "Glycine Plasma Membrane Transport Proteins",
+        "Humans",
+        "Male",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Risperidone",
+        "Sarcosine",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "pmid": "10684595",
+      "title": "Kinetic studies of the mechanism of carbon-hydrogen bond breakage by the heterotetrameric sarcosine oxidase of Arthrobacter sp. 1-IN.",
+      "authors": [
+        "R J Harris",
+        "R Meskys",
+        "M J Sutcliffe",
+        "N S Scrutton"
+      ],
+      "journal": "Biochemistry",
+      "publication_date": "2000-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The reaction of heterotetrameric sarcosine oxidase (TSOX) of Arthrobactor sp. 1-IN has been studied by stopped-flow spectroscopy, with particular emphasis on the reduction of the enzyme by sarcosine. Expression of the cloned gene encoding TSOX in Escherichia coli enables the production of TSOX on a scale suitable for stopped-flow studies. Treatment of the enzyme with sulfite provides the means for selective formation of a flavin-sulfite adduct with the covalent 8alpha-(N(3)-histidyl)-FMN. Formation of the sulfite-flavin adduct suppresses internal electron transfer between the noncovalent FAD (site of sarcosine oxidation) and the covalent FMN (site of enzyme oxidation) and thus enables detailed characterization of the kinetics of FAD reduction by sarcosine using stopped-flow methods. The rate of FAD reduction displays a simple hyperbolic dependence on sarcosine concentration. Studies in the pH range 6.5-10 indicate there are no kinetically influential ionizations in the enzyme-substrate complex. A plot of the limiting rate of flavin reduction/the enzyme-substrate dissociation constant (k(lim)/K(d)) versus pH is bell-shaped and characterized by two macroscopic pK(a) values of 7.4 +/- 0.1 and 10.4 +/- 0.2: potential candidates for the two ionizable groups are discussed with reference to the structure of monomeric sarcosine oxidase (MSOX). The kinetic data are discussed with reference to potential mechanisms for the oxidation of amine molecules by flavoenzymes. Additionally, kinetic isotope effect studies of the rate of C-H bond breakage suggest that a ground-state quantum tunneling mechanism for H-transfer, facilitated by the low-frequency thermal motions of the protein molecule, accounts for C-H bond cleavage by TSOX. TSOX thus provides another example of C-H bond breakage by ground-state quantum tunneling, driven by protein dynamics [vibrationally enhanced ground-state quantum tunneling (VEGST)], for the oxidation of amines by enzymes.",
+      "mesh_terms": [
+        "Arthrobacter",
+        "Carbon",
+        "Deuterium",
+        "Flavin-Adenine Dinucleotide",
+        "Hydrogen Bonding",
+        "Kinetics",
+        "Models, Chemical",
+        "Oxidation-Reduction",
+        "Oxidoreductases, N-Demethylating",
+        "Recombinant Proteins",
+        "Sarcosine",
+        "Sarcosine Oxidase",
+        "Sulfites",
+        "Titrimetry"
+      ]
+    },
+    {
+      "pmid": "10220347",
+      "title": "Structure of the flavocoenzyme of two homologous amine oxidases: monomeric sarcosine oxidase and N-methyltryptophan oxidase.",
+      "authors": [
+        "M A Wagner",
+        "P Khanna",
+        "M S Jorns"
+      ],
+      "journal": "Biochemistry",
+      "publication_date": "1999-Apr-27",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Monomeric sarcosine oxidase (MSOX) and N-methyltryptophan oxidase (MTOX) are homologous enzymes that catalyze the oxidative demethylation of sarcosine (N-methylglycine) and N-methyl-L-tryptophan, respectively. MSOX is induced in various bacteria upon growth on sarcosine. MTOX is an E. coli enzyme of unknown metabolic function. Both enzymes contain covalently bound flavin. The covalent flavin is at the FAD level as judged by electrospray mass spectrometry. The data provide the first evidence that MTOX is a flavoprotein. The following observations indicate that 8alpha-(S-cysteinyl)FAD is the covalent flavin in MSOX from Bacillus sp. B-0618 and MTOX. FMN-containing peptides, prepared by digestion of MSOX or MTOX with trypsin, chymotrypsin, and phosphodiesterase, exhibited absorption and fluorescence properties characteristic of an 8alpha-(S-cysteinyl)flavin and could be bound to apo-flavodoxin. The thioether link in the FMN-containing peptides was converted to the sulfone by performic acid oxidation, as judged by characteristic absorbance changes and an increase in flavin fluorescence. The sulfone underwent a predicted reductive cleavage reaction upon treatment with dithionite, releasing unmodified FMN. Cys315 was identified as the covalent FAD attachment site in MSOX from B. sp. B-0618, as judged by the sequence obtained for a flavin-containing tryptic peptide (GAVCMYT). Cys315 aligns with a conserved cysteine in MSOX from other bacteria, MTOX (Cys308) and pipecolate oxidase, a homologous mammalian enzyme known to contain covalently bound flavin. There is only one conserved cysteine found among these enzymes, suggesting that Cys308 is the covalent flavin attachment site in MTOX.",
+      "mesh_terms": [
+        "Amino Acid Sequence",
+        "Bacillus",
+        "Binding Sites",
+        "Coenzymes",
+        "Escherichia coli",
+        "Escherichia coli Proteins",
+        "Flavin Mononucleotide",
+        "Flavin-Adenine Dinucleotide",
+        "Flavins",
+        "Molecular Sequence Data",
+        "Oxidoreductases",
+        "Oxidoreductases, N-Demethylating",
+        "Sarcosine",
+        "Sarcosine Oxidase",
+        "Sequence Alignment",
+        "Sequence Homology, Amino Acid"
+      ]
+    },
+    {
+      "pmid": "8529639",
+      "title": "Purification and characterization of protein PB of betaine reductase and its relationship to the corresponding proteins glycine reductase and sarcosine reductase from Eubacterium acidaminophilum.",
+      "authors": [
+        "M Meyer",
+        "K Granderath",
+        "J R Andreesen"
+      ],
+      "journal": "European journal of biochemistry",
+      "publication_date": "1995-Nov-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Simple complementation assay systems were developed for the substrate-specific proteins PB of glycine reductase, sarcosine reductase, and betaine reductase, in which acetyl phosphate was detected as the product in all three cases. The betaine-specific subunits of protein B (PB betaine) responsible for betaine reductase activity were purified to homogeneity from cells of Eubacterium acidaminophilum. The molecular masses of the two different subunits were 45 kDa and 48 kDa according to SDS/PAGE. The molecular mass of the native protein was about 200 kDa, indicating and alpha 2 beta 2 structure. The glycine-specific protein B (PB glycine) was partially purified and subunits of 47 kDa and 27 kDa were N-terminally sequenced. The latter subunits cross-reacted with antibodies raised against PB betaine and showed high sequence similarity to the 45-kDa and 48-kDa subunits of PB betaine, respectively. [2-14C]Glycine could be covalently coupled to the 47-kDa subunit by treatment with borohydride. By the same procedure, [2-14C]sarcosine labeled a protein of the same size. Like the sarcosine reductase activity, this protein was not present in glycine-grown cells, indicating its specific involvement in sarcosine metabolism. The labile viologen-dependent formate dehydrogenase purified with the respective PB proteins and could be tentatively assigned to a 95-kDa protein.",
+      "mesh_terms": [
+        "Amino Acid Oxidoreductases",
+        "Amino Acid Sequence",
+        "Betaine",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Eubacterium",
+        "Formate Dehydrogenases",
+        "Glycine",
+        "Molecular Sequence Data",
+        "Multienzyme Complexes",
+        "Sarcosine",
+        "Substrate Specificity"
+      ]
+    },
+    {
+      "pmid": "3080819",
+      "title": "Evaluation of (1-sarcosine, 8-isoleucine) angiotensin II as a therapeutic agent for oleic acid-induced pulmonary edema.",
+      "authors": [
+        "T Yukioka",
+        "N Yukioka",
+        "L H Aulick",
+        "C W Goodwin",
+        "A D Mason",
+        "T Sugimoto",
+        "B A Pruitt"
+      ],
+      "journal": "Surgery",
+      "publication_date": "1986-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1-Sarcosine, 8-isoleucine) angiotensin II was assessed as a therapeutic agent for acute respiratory distress syndrome with oleic acid pulmonary edema in sheep used as an experimental model. Under general anesthesia with controlled mechanical ventilation with 100% oxygen, 32 sheep received oleic acid (0.075 ml/kg) intravenously. After oleic acid infusion, 20 animals were treated with continuous intravenous infusion of the angiotensin II analogue; nine received 300 ng/kg/min, six received 600 ng/kg/min, and five received 2000 ng/kg/min. Cardiopulmonary measurements were repeated every 30 minutes for 270 minutes. According to time-integrated PaO2, six of 15 animals of the groups given 300 and 600 ng/kg/min (43%) did not respond to the treatment. All animals responded in the group given 2000 ng/kg/min. Animals in the latter group had lower Qs/Qt, PaCO2, and airway resistance than had the control animals. Elevation of pulmonary vascular resistance was limited and mean arterial blood pressure was well maintained. These results reveal that (1-Sar, 8-Ile) angiotensin II is effective in the treatment of oleic acid-induced pulmonary edema.",
+      "mesh_terms": [
+        "1-Sarcosine-8-Isoleucine Angiotensin II",
+        "Angiotensin II",
+        "Animals",
+        "Blood Pressure",
+        "Carbon Dioxide",
+        "Lung",
+        "Lung Compliance",
+        "Male",
+        "Oleic Acid",
+        "Oleic Acids",
+        "Oxygen",
+        "Partial Pressure",
+        "Pulmonary Circulation",
+        "Pulmonary Edema",
+        "Respiratory Distress Syndrome",
+        "Sheep",
+        "Vascular Resistance"
+      ]
+    },
+    {
+      "pmid": "6490627",
+      "title": "Identification of the covalently bound flavin of dimethylglycine dehydrogenase and sarcosine dehydrogenase from rat liver mitochondria.",
+      "authors": [
+        "R J Cook",
+        "K S Misono",
+        "C Wagner"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "1984-Oct-25",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Dimethylglycine dehydrogenase (EC 1.5.99.2) and sarcosine dehydrogenase (EC 1.5.99.1) are the folate binding proteins of rat liver mitochondria. These two enzymes contain covalently bound flavin and catalyze similar oxidative demethylation reactions (Wittwer, A. J., and Wagner, C. (1981) J. Biol. Chem. 256, 4102-4108). Flavin-peptides have been purified from these two enzymes after proteolytic digestion by trypsin and chymotrypsin. The spectral and chromatographic properties of these flavin peptides changed after treatment with nucleotide pyrophosphatase in a manner consistent with the conversion of an FAD-peptide to an FMN-peptide. The pKa for pH-dependent fluorescence quenching of the purified flavin-peptides was not affected by borohydride reduction which, in conjunction with the pKa values, indicated that the flavin was covalently linked via the 8 alpha position of the isoalloxazine ring to an imidazole N(3) of a histidine residue. Peptides from both enzymes showed histidylflavin at the N terminus. Amino acid composition and sequence analysis showed that the flavin-peptide from dimethylglycine dehydrogenase was His(flavin)-Ala-Ala-Gly-Leu. Amino acid composition and N-terminal analysis suggested the sequence of the flavin-peptide of sarcosine dehydrogenase was His(flavin)-(Ala, Gly,Thr)-Leu.",
+      "mesh_terms": [
+        "Amino Acids",
+        "Animals",
+        "Chromatography, High Pressure Liquid",
+        "Dimethylglycine Dehydrogenase",
+        "Flavin Mononucleotide",
+        "Flavin-Adenine Dinucleotide",
+        "Flavins",
+        "Hydrogen-Ion Concentration",
+        "Kinetics",
+        "Male",
+        "Mitochondria, Liver",
+        "Mitochondrial Proteins",
+        "Oxidoreductases, N-Demethylating",
+        "Peptide Fragments",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Sarcosine Dehydrogenase",
+        "Spectrophotometry"
+      ]
+    },
+    {
+      "pmid": "6630175",
+      "title": "Chemical modification of Corynebacterium sarcosine oxidase: role of sulfhydryl and histidyl groups.",
+      "authors": [
+        "S Hayashi",
+        "M Suzuki",
+        "S Nakamura"
+      ],
+      "journal": "Journal of biochemistry",
+      "publication_date": "1983-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sarcosine oxidase [sarcosine: oxygen oxidoreductase (demethylating) EC 1.5.3.1] from Corynebacterium contained 8 sulfhydryl groups per mol of enzyme as determined with 5,5'-dithiobis(2-nitrobenzoic acid) (DTNB) in the presence of 0.2% SDS and by titration with p-chloromercuribenzoate (PMB). Among them, 2 groups were easily modified by iodoacetamide (IAA) and the modification resulted in complete loss of enzymatic activity. The inactivation by IAA followed first-order kinetics with respect to IAA concentration. The presence of acetate, a competitive inhibitor (I), protected the enzyme from inactivation by IAA. However, the protection was only approximately 50%. The enzyme was also inactivated by PMB, but in this case, there was practically no recovery of activity after treatment with thiol compounds. The enzyme was also rapidly inactivated by incubation with diethylpyrocarbonate (DEP). The absorbance change accompanying the inactivation showed that a single histidyl residue was modified by DEP, resulting in a complete loss of enzymatic activity. In the presence of acetate, the enzyme was completely protected from DEP-inactivation. Furthermore, DEP-inactivated enzyme recovered its enzymatic activity on treatment with hydroxylamine. These observations seem to imply that the modified histidine is essential for enzyme activity. In addition, modification by DEP changed the absorption spectrum in the visible region. This strongly suggests that the modified histidyl residue is present in the vicinity of the flavin moiety of the enzyme molecule.",
+      "mesh_terms": [
+        "Chemical Phenomena",
+        "Chemistry",
+        "Corynebacterium",
+        "Diethyl Pyrocarbonate",
+        "Histidine",
+        "Metals",
+        "Oxidoreductases, N-Demethylating",
+        "Sarcosine Oxidase",
+        "Sulfhydryl Compounds",
+        "Sulfhydryl Reagents"
+      ]
+    },
+    {
+      "pmid": "6827687",
+      "title": "Predictive value of angiotensin II blockade with (sarcosine-1, threonine-8) angiotensin II in renovascular hypertension.",
+      "authors": [
+        "A C Novick",
+        "F M Fouad",
+        "S C Textor",
+        "E L Bravo",
+        "R C Tarazi",
+        "R W Gifford",
+        "D G Vidt"
+      ],
+      "journal": "The Journal of urology",
+      "publication_date": "1983-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Administration of an angiotensin II antagonist, (sarcosine-1, threonine-8) angiotensin II, was used to diagnose renovascular hypertension in 22 patients before renal revascularization or nephrectomy. Positive and negative responses to infusion occurred in 12 and 10 patients, respectively. Postoperatively, hypertension was cured in 13 patients, improved in 6 and unchanged in 3. The over-all accuracy of the infusion test in predicting the outcome of surgical therapy was 59 per cent, the false positive rate was 8.3 per cent and the false negative rate was 80 per cent. A similar high incidence of false negative results has been observed with differential renal vein plasma renin assays. The most accurate prediction of the blood pressure response to surgical therapy is obtained by considering multiple factors rather than a single test.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Angiotensin II",
+        "Blood Pressure",
+        "Child",
+        "Diagnostic Errors",
+        "Female",
+        "Humans",
+        "Hypertension, Renal",
+        "Hypertension, Renovascular",
+        "Infusions, Parenteral",
+        "Male",
+        "Middle Aged",
+        "Nephrectomy"
+      ]
+    },
+    {
+      "pmid": "6192074",
+      "title": "Variability in the phenotypic expression of abnormal sarcosine metabolism in a family.",
+      "authors": [
+        "E S Kang",
+        "J Seyer",
+        "T A Todd",
+        "C Herrera"
+      ],
+      "journal": "Human genetics",
+      "publication_date": "1983",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "A retarded child with hypersarcosinemia and his family were studied by loading tests to determine the probable site of his defect. On the basis of his response to folate treatment, a partially-reversible defect in the formation of activated formaldehyde in the reaction catalyzed by sarcosine dehydrogenase was considered to be the most likely site. During a glycine loading test, sarcosine levels in the plasma and urine increased, indicating that the direct transmethylation of glycine to sarcosine could occur in this patient. The father of the proband tolerated a load of sarcosine poorly, resembling the proband in his plasma sarcosine levels. No evidence that glycine could be transmethylated to sarcosine was found in the father, despite the fact that his peak glycine level was four times higher than the proband's. These findings provide indirect evidence that sarcosine formation may be affected by two additional components besides the apo moiety of sarcosine dehydrogenase, the availability of tetrahydrofolic acid as a one carbon unit carrier and the integrity of the transmethylase which catalyzes the direct transmethylation of glycine to sarcosine.",
+      "mesh_terms": [
+        "Adult",
+        "Amino Acid Metabolism, Inborn Errors",
+        "Child, Preschool",
+        "Female",
+        "Genetic Variation",
+        "Glycine",
+        "Humans",
+        "Intellectual Disability",
+        "Male",
+        "Phenotype",
+        "Sarcosine",
+        "Serine"
+      ]
+    },
+    {
+      "pmid": "167941",
+      "title": "Carcinogenicity of nitrosation products of ephedrine, sarcosine, folic acid, and creatinine.",
+      "authors": [
+        "G N Wogan",
+        "S Paglialunga",
+        "M C Archer",
+        "S R Tannenbaum"
+      ],
+      "journal": "Cancer research",
+      "publication_date": "1975-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Carcinogenic activity of several synthetic N-nitroso compounds was evaluated in C57BL/6J X C3HeB/FeJ F1 mice. Test substances, suspended in trioctanoin, were injected i.p. in three equal doses given on Days 1, 4, and 7 after birth and animals were held without further treatment for up to 85 weeks. Nitrosoephedrine at a total dose of 600 mg/kg induced metastasizing liver cell carcinomas in 28 of 30 animals. Nitrososarcosine (225 mg/kg) induced similar tumors in 8 of 14 animals. Nitrosofolic acid (375 mg/kg) induced lung adenocarcinomas in 4 of 28 mice. Creatinine-5-oxime (600 mg/kg) showed no evidence of carcinogenic activity. Diethylnitrosamine (12 mg/kg given in four doses), included as a positive control, caused metastasizing liver cell tumors in 23 of 25 animals.",
+      "mesh_terms": [
+        "Adenoma, Bile Duct",
+        "Animals",
+        "Carcinogens",
+        "Carcinoma",
+        "Creatinine",
+        "Ephedrine",
+        "Folic Acid",
+        "Hyperplasia",
+        "Lethal Dose 50",
+        "Liver Neoplasms",
+        "Lung Neoplasms",
+        "Mice",
+        "Mice, Inbred C3H",
+        "Mice, Inbred C57BL",
+        "Neoplasms, Experimental",
+        "Neurofibroma",
+        "Nitro Compounds",
+        "Nitroso Compounds",
+        "Precancerous Conditions",
+        "Sarcosine"
+      ]
+    },
+    {
+      "pmid": "1179425",
+      "title": "Effects of 1-sarcosine-8-isoleucine-angiotensin II on blood pressure and plasma renin activity in various types of hypertension.",
+      "authors": [
+        "M Yasujima",
+        "K Abe",
+        "H Aoyagi",
+        "N Irokawa",
+        "H Memezawa"
+      ],
+      "journal": "The Tohoku journal of experimental medicine",
+      "publication_date": "1975-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The pharmacological effects of 1-Sar-8-Ile-angiotensin II on blood pressure and plasma renin activity (PRA) were studied in 5 normal subjects and in 19 patients with hypertension of various etiologics including malignant hypertension, renovascular hypertension, essential hypertension, and primary aldosteronism. Intravenous administration of this peptide induced a significant pressor response in normal or low PRA subjects at infusion rates of 100-600 ng/kg/min. Similar pressor response was also observed in renovascular hypertensives with normal PRA who were cured later by surgical treatment. The blood pressure in high PRA group was lowered remarkably by infusion of this angiotensin II inhibitor. A significant increase in PRA was obtained in subjects with malignant hypertension following the infusion of this peptide. However, there was no detectable rise in PRA in other subjects with normal or high PRA. The present data show that circulating angiotensin II plays an important role in maintaining high blood pressure in high PRA patients, especially in malignant hypertension, while it is not directly involved in the maintenance of high blood pressure in human chronic renovascular hypertension.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Angiotensin II",
+        "Blood Pressure",
+        "Child",
+        "Female",
+        "Humans",
+        "Hyperaldosteronism",
+        "Hypertension",
+        "Hypertension, Malignant",
+        "Hypertension, Renal",
+        "Male",
+        "Middle Aged",
+        "Renin"
+      ]
+    }
+  ]
+}

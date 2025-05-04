@@ -1,0 +1,66 @@
+{
+  "supplement": "Medical Face Masks",
+  "query": "Medical Face Masks[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:02:32",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "35240932",
+      "title": "Free formaldehyde in non-medical face masks purchased from the Japanese market since the COVID-19 outbreak.",
+      "authors": [
+        "Tsuyoshi Kawakami",
+        "Tomoko Obama",
+        "Shinobu Sakai",
+        "Mihono Takagi",
+        "Natsuko Takahashi",
+        "Naohiro Oshima",
+        "Maiko Tahara",
+        "Yoshiaki Ikarashi"
+      ],
+      "journal": "Journal of environmental science and health. Part A, Toxic/hazardous substances & environmental engineering",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Since the Coronavirus Disease 2019 (COVID-19) pandemic began, people have been wearing face masks for many hours every day. As these face masks are in contact with the skin, it is important to pay more attention to their quality and safety. This study examined the concentration of free formaldehyde in 90 non-medical face masks and related products (33 nonwoven, 30 woven cloth, 12 polyurethane, and 15 related products) because formaldehyde is a common contact allergen in textile products. For products consisting of mixed materials, each material was sampled, resulting in 103 samples for analysis. Free formaldehyde (34-239 μg/g) was found in three cloth masks, which consisted of cotton and polyester, with antibacterial and antiviral labeling. It was confirmed that the detected formaldehyde originated from the mask-finishing treatment by a hydrochloric acid extraction discrimination test. These masks may elicit contact dermatitis if the consumers have already been sensitized to formaldehyde. However, the risk of contact dermatitis caused by formaldehyde in masks may be considered low since the frequency of formaldehyde detection in masks in Japan is low.",
+      "mesh_terms": [
+        "COVID-19",
+        "Dermatitis, Contact",
+        "Formaldehyde",
+        "Humans",
+        "Japan",
+        "Masks",
+        "Pandemics",
+        "SARS-CoV-2"
+      ]
+    },
+    {
+      "pmid": "32417321",
+      "title": "Steam treatment for rapid decontamination of N95 respirators and medical face masks.",
+      "authors": [
+        "Daniel F Li",
+        "Jennifer L Cadnum",
+        "Sarah N Redmond",
+        "Lucas D Jones",
+        "Basya Pearlmutter",
+        "Muhammed F Haq",
+        "Curtis J Donskey"
+      ],
+      "journal": "American journal of infection control",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Letter",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_terms": [
+        "Decontamination",
+        "Humans",
+        "Masks",
+        "N95 Respirators",
+        "Respiratory Protective Devices",
+        "Steam"
+      ]
+    }
+  ]
+}

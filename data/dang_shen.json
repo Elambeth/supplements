@@ -1,0 +1,62 @@
+{
+  "supplement": "Dang Shen",
+  "query": "Dang Shen[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:26:06",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "39380772",
+      "title": "Molecular mechanism of Dang-Shen-Yu-Xing decoction against Mycoplasma bovis pneumonia based on network pharmacology, molecular docking, molecular dynamics simulations and experimental verification.",
+      "authors": [
+        "Mengmeng Yang",
+        "Fei Yang",
+        "Yanan Guo",
+        "Fan Liu",
+        "Yong Li",
+        "Yanrong Qi",
+        "Lei Guo",
+        "Shenghu He"
+      ],
+      "journal": "Frontiers in veterinary science",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Mycoplasma bovis pneumonia is a highly contagious respiratory infection caused by Mycoplasma bovis. It is particularly prevalent in calves, posing a significant threat to animal health and leading to substantial economic losses. Dang-Shen-Yu-Xing decoction is often used to treat this condition in veterinary clinics. It exhibits robust anti-inflammatory effects and can alleviate pulmonary fibrosis. However, its mechanism of action remains unclear. Therefore, this study aimed to preliminarily explore the molecular mechanism of Dang-Shen-Yu-Xing decoction for treating mycoplasma pneumonia in calves through a combination of network pharmacology, molecular docking, molecular dynamics simulation methods, and experimental validation. The active components and related targets of Dang-Shen-Yu-Xing decoction were extracted from several public databases. Additionally, complex interactions between drugs and targets were explored through network topology, Gene Ontology, and Kyoto Encyclopedia of Genes and Genomes enrichment analyses. Subsequently, the binding affinity of drug to disease-related targets was verified through molecular docking and molecular dynamics simulation. Finally, the pharmacodynamics were verified via animal experiments. The primary network topology analysis revealed two core targets and 10 key active components of Dang-Shen-Yu-Xing decoction against Mycoplasma bovis pneumonia. Kyoto Encyclopedia of Genes and Genomes enrichment analysis showed that the mechanism of Dang-Shen-Yu-Xing decoction for treating mycoplasma bovis pneumonia involved multiple signaling pathways, with the main pathways including PI3K-Akt and IL17 signaling pathways. Moreover, molecular docking predicted the binding affinity and conformation of the core targets of Dang-Shen-Yu-Xing decoction, IL6, and IL10, with the associated main active ingredients. The results showed a strong binding of the active ingredients to the hub target. Further, molecular docking dynamics simulation revealed three key active components of IL10 induced by Dang-Shen-Yu-Xing decoction against Mycoplasma bovis pneumonia. Finally, animal experiments confirmed Dang-Shen-Yu-Xing decoction pharmacodynamics, suggesting that it holds potential as an alternative therapy for treating mycoplasma bovis pneumonia."
+    },
+    {
+      "pmid": "25336444",
+      "title": "Dang shen [Codonopsis pilosula (Franch.) Nannf] herbal formulae for chronic obstructive pulmonary disease: a systematic review and meta-analysis.",
+      "authors": [
+        "Johannah L Shergis",
+        "Shaonan Liu",
+        "Xiankun Chen",
+        "Anthony L Zhang",
+        "Xinfeng Guo",
+        "Chuanjian Lu",
+        "Charlie C Xue"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "This systematic review and meta-analysis assessed the efficacy and safety of Dang shen [Codonopsis pilosula (Franch.) Nannf., root] formulae for the treatment of chronic obstructive pulmonary disease (COPD). English and Chinese databases were searched, and 48 randomized controlled trials were included. Dang shen formulae improved lung function forced expiratory volume in 1 s compared with conventional pharmacotherapy (CP) [mean difference (MD) 0.22 L, 95% confidence interval (CI) 0.13-0.31, p < 0.001, I(2)  = 5%] and quality of life (St. Georges Respiratory Questionnaire) compared with placebo (MD -7.19, 95% CI -10.82 to -3.56, p < 0.001, I(2)  = 0%) and when combined with CP versus CP (MD -9.05, 95% CI -12.72 to -5.38, p < 0.001, I(2)  = 89%). Dang shen formulae also increased distance walked in 6 min when combined with CP versus CP alone (MD 51.43 m, 95% CI 30.06-72.80, p < 0.001, I(2)  = 27%) and reduced frequency/days with COPD exacerbations. Risk of bias was evaluated using the Cochrane tool. Methodological shortfalls were identified. Adverse events were low and not different between intervention and control groups. Thirty-three events were reported, including gastrointestinal upset, dry mouth, and insomnia. Dang shen formulae appear to improve some aspects of the included COPD outcomes. However, owing to methodological flaws, the current evidence is inadequate to support the routine use of Dang shen formulae outside of Chinese medicine practice. However, these results justify further investigation.",
+      "mesh_terms": [
+        "Bias",
+        "Codonopsis",
+        "Drugs, Chinese Herbal",
+        "Female",
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Randomized Controlled Trials as Topic",
+        "Respiratory Function Tests"
+      ]
+    }
+  ]
+}

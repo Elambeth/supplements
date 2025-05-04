@@ -1,0 +1,1545 @@
+{
+  "supplement": "White Noise",
+  "query": "White Noise[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:05:33",
+  "research_count": 57,
+  "count": 57,
+  "articles": [
+    {
+      "pmid": "40309787",
+      "title": "Comparison of Enriched Acoustic Environment and White Noise as Sound Stimuli for Tinnitus Treatment: A 4-Month Feasibility Study.",
+      "authors": [
+        "Marta Fernández-Ledesma",
+        "Ricardo Sanz-Fernández",
+        "María Cuesta",
+        "Pedro Cobo"
+      ],
+      "journal": "Brain sciences",
+      "publication_date": "2025-Mar-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background/Objectives: This study evaluated the feasibility and effectiveness of three sound therapies-enriched acoustic environment with random noise (EAERR), enriched acoustic environment with gamma tones (EAEGT), and white noise (WN)-in alleviating tinnitus distress and enhancing emotional well-being. Methods: A total of 125 individuals with tinnitus were recruited, with 92 completing the four-month intervention. Following counseling, participants selected a therapy and listened daily for one hour for four-months at the mixing point intensity. Tinnitus severity and emotional state were assessed at the baseline and post-treatment using the Tinnitus Handicap Inventory (THI), Tinnitus Functional Index (TFI), and Hospital Anxiety and Depression Scale (HADS). Results: All therapies significantly reduced tinnitus distress and improved emotional well-being, with 80.4% of participants reporting benefits. Conclusions: These findings suggest that sound therapies are effective for tinnitus management, though further research with larger and more homogeneous samples is needed to refine their application and optimize treatment for diverse tinnitus profiles."
+    },
+    {
+      "pmid": "39930077",
+      "title": "Frequency-aware denoising using a diffusion model for enhanced band-limited and white noise removal in x-ray acoustic computed tomography.",
+      "authors": [
+        "Jiayuan Peng",
+        "Mengyang Lu",
+        "Boyi Li",
+        "Jiazhou Wang",
+        "Weigang Hu",
+        "Xin Liu"
+      ],
+      "journal": "Medical physics",
+      "publication_date": "2025-Feb-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Radiation therapy delivers precise doses to tumors, but accurately measuring internal tissue doses remains a challenge. Current methods, such as ionization chambers and radiographic films, rely on external measurements, which cannot provide direct, in vivo dose feedback. X-ray acoustic computed tomography (XACT) was developed to generate thermoacoustic signals when x-rays deposit energy into water or tissue, enabling the reconstruction of dose distribution patterns through acoustic signals. However, the longer pulse width of x-rays from linear accelerators reduces the efficiency of thermoacoustic signal conversion, lowering the signal-to-noise ratio (SNR) of radiofrequency (RF) signals. This noise significantly affects the quality of reconstructed XACT images. Overcoming the impact of noise is essential for advancing XACT toward accurate dose detection. PURPOSE: This study aims to develop a frequency-aware denoising (FAD) method for overcoming the impact of band-limited and white noise in RF signals for XACT. METHODS: Real RF signals were acquired from an XACT system using radiotherapy megavoltage (MV) x-rays, a water tank, and an ultrasound transducer. To capture the frequency characteristics of these RF signals, we first estimated the probability density function (PDF) of their frequency spectrum. To generate synthetic RF data that closely approximates realistic noisy signals for model training, noise was sampled from this PDF, incorporating both magnitude and random phase components, and combined with simulated signals and white noise. A conditional diffusion model was trained on these synthetic signals to obtain the FAD model. A total of 3150 frequency-aware RF data samples were used to train the FAD model. For testing, acoustic RF signal data excited by five different x-ray shapes were measured, denoised by the FAD model, and finally reconstructed into XACT. The performance of the method was evaluated based on XACT image quality using SNR analysis and γ passing rate, and compared with results from Raw-RF and background noise-removed (BNR-RF) methods. RESULTS: The FAD-RF method produced XACT images with clearer structural details and fewer artifacts. It achieved the highest SNR among the tested methods, with a mean SNR of 27.6 ± 5.0, outperforming both Raw-RF (22.9 ± 2.2, p < 0.05) and BNR-RF (22.0 ± 3.0, p < 0.05). In terms of spatial accuracy, the FAD-RF method also outperformed in γ analysis, achieving a mean γ passing rate of 79.0% ± 2.4%, significantly higher than Raw-RF (50.2% ± 20.0%, p < 0.05) and BNR-RF (73.5% ± 3.6%, p = 0.078). CONCLUSION: The FAD-RF method relies solely on the RF signals for denoising, making it practical and efficient for real-world applications. It demonstrates effective noise suppression and enhanced spatial accuracy in XACT image reconstruction."
+    },
+    {
+      "pmid": "39875927",
+      "title": "White noise's effect on premature infants' physiological parameters during peripheral intravenous catheter insertion.",
+      "authors": [
+        "Omolbani Rahimi",
+        "FatemehSadat SeyedNematollah Roshan",
+        "Leila Nikrouz"
+      ],
+      "journal": "BMC pediatrics",
+      "publication_date": "2025-Jan-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Early and continuous exposure to painful stimuli in premature infants leads to short-and long-term complications. Listening to white noise is an accessible and inexpensive non-invasive method that can be used as a safe nursing intervention in hospitals. This study aimed to assess white noise's effect on premature Infants' physiological parameters during peripheral intravenous catheter insertion. METHODS: The present experimental study was conducted on 40 premature Infants. From 5 min before Indwelling catheters to 10 min after, white noise was played through headphones to infants at a controlled volume in the test group. Using a monitor, physiological parameters were recorded from 10 min before to 30 min after the Indwelling catheter. Statistical analysis was done through the SPSS version 27 software program. RESULTS: Regarding respiratory rate, there was no statistically significant difference between the two groups in the first, second, and sixth stages (p < 0.05). However, in the third, fourth, and fifth stages, RR in the control group was significantly higher than the test group (p ≤ 0.05). In terms of mean arterial blood pressure, there was no statistically significant difference between the two groups in any of the stages (p < 0.05). In terms of heart rate, there was no statistically significant difference between the two groups in the first, second, and sixth stages (p < 0.05). However, in the third, fourth, and fifth stages, HR in the control group was significantly higher than the test group (p ≤ 0.05). Regarding oxygen saturation percentage, there was no statistically significant difference between the two groups in the first, second, third, and sixth stages (p < 0.05). In contrast, in the fourth and fifth stages, the oxygen saturation percentage in the test group was significantly higher than in the control group (p < 0.05). CONCLUSIONS: Although in both groups the painful procedure led to an increase in physiological variables (respiratory rate, heart rate, mean arterial blood pressure) and a decrease in blood oxygen saturation, in the test group these variables approached their initial state more quickly within half an hour after exposure to white noise. This confirms that the effect of white noise on the improvement of physiological variables is gradual. CLINICAL TRIAL NUMBER: Not applicable.",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Catheterization, Peripheral",
+        "Male",
+        "Female",
+        "Heart Rate",
+        "Noise",
+        "Respiratory Rate"
+      ]
+    },
+    {
+      "pmid": "39836946",
+      "title": "Comparison of the Effect of the White Noise and Sound Reduction on Behavioral Responses of Premature Infants Under Noninvasive Ventilation: A Clinical Trial.",
+      "authors": [
+        "Hasti Mohseni",
+        "Monir Ramezani",
+        "Azadeh Saki",
+        "Nasim Poor-Alizadeh"
+      ],
+      "journal": "The Journal of perinatal & neonatal nursing",
+      "publication_date": "2025-Jan-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "With the increasing survival rates of premature infants and their associated respiratory problems, noninvasive ventilation has gained popularity in neonatal intensive care units. On the other hand, this equipment can be stressful for infants. Objective: This study aimed to compare the effects of white noise and sound reduction on the behavioral responses of premature infants under noninvasive ventilation. Methods: This study was a randomized controlled crossover trial. Forty-two infants who met the inclusion criteria received white noise and noise reduction in a randomized sequence with a 30-minute washout period between conditions. During the noise reduction condition, infants were placed in the fetal position with earplugs. During the white noise condition, nature sounds from the White Noise Baby Sleep app were played into the incubator. Infant behavioral responses were recorded using the Anderson Behavioral State Scale on 3 consecutive days before, during, and after the intervention. Results: The independent t test showed no statistically significant difference between the 2 groups at baseline. The repeated measures analysis of variance test showed that the mean behavioral response scores of preterm infants in the sound reduction group and the white noise group differed significantly across the 3 stages on all 3 days. However, the results of mixed-effects model indicated that the sound reduction group experienced a significant decrease in behavioral response compared to the white noise group. Conclusion: Therefore, the present study suggests that sound reduction is a more effective nonpharmacological method for improving behavioral responses and reducing restlessness of premature infants under noninvasive ventilation."
+    },
+    {
+      "pmid": "39827056",
+      "title": "The Effect of White Noise and Recorded Lullaby during Breastfeeding on Newborn Stress, Mother's Breastfeeding Success, and Comfort: A Randomized Controlled Trial.",
+      "authors": [
+        "Aslı Karakuş Selçuk",
+        "Duygu Karaarslan",
+        "Eda Ergin",
+        "Emine Salğin"
+      ],
+      "journal": "Journal of pediatric nursing",
+      "publication_date": "2025",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: The study was aimed at determining the effect of exposure to white noise and recorded lullaby during breastfeeding on newborn stress, mother's breastfeeding success, and comfort. DESIGN AND METHODS: This single-blinded and three-parallel group randomized controlled study consisted of mothers who had given birth and whose newborns were at a hospital in Turkey. Seventy-five participants completed the study. They were assigned to white noise, lullaby, and control groups in equal numbers. Each group included 25 women. The questionnaires included descriptive characteristics of mothers, the LATCH Breastfeeding Assessment Tool, the Newborn Stress Scale, and the Visual Analog Scale. During the breastfeeding process, the newborn and mother listened to white noise and lullaby for approximately 15 min. The newborn stress and mothers' level of comfort were assessed before and after the interventions. The breastfeeding success of the mother assessed with the LATCH was completed within the first 15 min of breastfeeding. RESULTS: The mean scores obtained from the Newborn Stress Scale by the mothers in the lullaby group and white noise group decreased significantly after the intervention. A significant difference was also observed in the control group. There were also significant differences between the changes in the mothers' comfort level of all groups. There were significant differences between the changes in the LATCH scores of the groups. CONCLUSION: Both white noise and recorded lullaby significantly reduced newborn stress, and increased mother's comfort in the early postpartum period. PRACTICE IMPLICATIONS: Music should be used as a nonpharmacological method to improve breastfeeding success in newborns.",
+      "mesh_terms": [
+        "Humans",
+        "Breast Feeding",
+        "Female",
+        "Infant, Newborn",
+        "Adult",
+        "Stress, Psychological",
+        "Noise",
+        "Turkey",
+        "Mothers",
+        "Single-Blind Method",
+        "Mother-Child Relations",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "39798103",
+      "title": "A comparative evaluation of the effects of white noise, brown noise, and pink noise on dental anxiety of pediatric patients undergoing dental extraction treatment: A randomized control study.",
+      "authors": [
+        "Sayali Kolhe",
+        "Pooja Dialani",
+        "Prashant Bondarde",
+        "Rukmini Pande",
+        "Prajakta Patil",
+        "Aruna Prashanth Vishwakarma"
+      ],
+      "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+      "publication_date": "2024-Oct-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "abstract": "BACKGROUND: Audio-analgesia is one of the unexplored aspects of behavior management in pediatric dentistry, and recently, there have been many new inclusions in shades of noise that were previously just limited to white noise, like brown noise and pink noise. AIM: The aim of the study was to evaluate and compare the effectiveness of white noise, brown noise, and pink noise on dental anxiety in pediatric patients undergoing primary tooth extraction. STUDY SETTINGS AND DESIGN: Multiarm, triple-blinded, parallel-group randomized controlled trial. MATERIALS AND METHOD: Forty children belonging to the age group of 8-12 years having their first dental visit with primary teeth indicated for extraction were included in our study. We evenly divided the 40 children into four groups: Group A (white noise), Group B (pink noise), Group C (brown noise), and Group D (cartoon music), which served as the control. We assessed the patient's anxiety using Venham's Picture Test and a pulse oximeter, as well as their pain using the Visual Analog Scale (VAS) both preoperatively and postoperatively. We also noted changes in the patient's pulse after administering local anesthesia. RESULTS: All groups have shown significant differences in dental anxiety and pain, preoperatively and postoperatively, but pink noise was found to be effective even in maintaining pulse rate intraoperatively. CONCLUSION: In pediatric dentistry, audio distraction is an innovative, noninvasive, and effective behavior management technique that can effectively manage dental anxiety in children. REGISTRATION: The Clinical Trials Registry of India (CTRI) has prospectively registered the study under the CTRI number CTRI/2024/01/061679.",
+      "mesh_terms": [
+        "Humans",
+        "Dental Anxiety",
+        "Tooth Extraction",
+        "Child",
+        "Male",
+        "Female",
+        "Noise",
+        "Pain Measurement",
+        "Tooth, Deciduous"
+      ]
+    },
+    {
+      "pmid": "39787561",
+      "title": "Effects of White Noise Intervention on Sleep Quality and Immunological Indicators of Patients with Breast Cancer Undergoing Neoadjuvant Chemotherapy.",
+      "authors": [
+        "Gang Yin",
+        "Na Li",
+        "Dan Xu",
+        "Zhen Meng",
+        "Shuyun Zheng",
+        "Ying Chen"
+      ],
+      "journal": "Noise & health",
+      "publication_date": null,
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: Evaluate the effect of white noise intervention on sleep quality and immunological indicators of patients with breast cancer undergoing neoadjuvant chemotherapy (NAC). METHODS: From January 2020 to December 2022, 104 newly diagnosed female patients (the number of people who met the inclusion criteria) with breast cancer who were confirmed to be preoperative NAC by puncture pathology were selected for a randomised single-blind trial. The patients were randomly divided into an observation group and a control group, with 52 cases in each group. The control group of patients received routine NAC treatment. The observation group played white noise at regular intervals every night on the basis of routine NAC, covering the entire treatment cycle. We evaluated the clinical efficacy, safety, sleep quality and immunological indicators of the two groups. RESULTS: We found no statistically significant difference in the objective response rate between the two groups (P > 0.05). There was no statistically significant difference in the incidence of safety events between the two groups (P > 0.05). The total incidence of adverse reactions in the observation group was significantly lower than that in the control group (P < 0.05). After intervention, the sleep latency, subjective sleep quality, sleep duration, daytime function and sleep disorder scores of both groups decreased, and the observation group had significantly lower scores than the control group (P < 0.05). After intervention, both groups showed changes in immunoglobulin A (IgA), immunoglobulin G (IgG), immunoglobulin M (IgM), C-reactive protein and serum interleukin-6, but the differences between the groups were not statistically significant (P > 0.05). CONCLUSION: White noise intervention can improve the sleep quality of the NAC population with breast cancer and reduce the incidence of adverse reactions. In addition, it has no effect on the treatment efficacy, safety and immune indicators of patients.",
+      "mesh_terms": [
+        "Humans",
+        "Breast Neoplasms",
+        "Female",
+        "Neoadjuvant Therapy",
+        "Middle Aged",
+        "Sleep Quality",
+        "Single-Blind Method",
+        "Adult",
+        "Noise"
+      ]
+    },
+    {
+      "pmid": "39602095",
+      "title": "Effects of White Noise and Therapeutic Touch on Pain and Comfort in Newborns during Heel Lance: A Randomized Controlled Study.",
+      "authors": [
+        "Duygu Deniz Erol",
+        "Gülçin Özalp Gerçeker"
+      ],
+      "journal": "Advances in neonatal care : official journal of the National Association of Neonatal Nurses",
+      "publication_date": "2024-Dec-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Nonpharmacological methods such as white noise and therapeutic touch can be used in pain management in neonates. PURPOSE: This randomized controlled study evaluated the effects of white noise and therapeutic touch during heel lance procedures on pain, comfort levels, and physiological parameters in healthy neonates. METHODS: This parallel, randomized controlled study was conducted in the Obstetrics and Gynecology Service of a regional hospital. The sample comprised 160 neonates with gestational ages of >35 weeks randomly assigned to 4 groups (white noise [WN], therapeutic touch [TT], white noise + therapeutic touch [WT], and control [CG] group). Pain and comfort levels were evaluated according to the Neonatal Infant Pain Scale, and the COMFORTneo Scale. The primary outcomes were pain and comfort levels, and the secondary outcomes were heart rate and SpO2 levels. The Kruskal-Wallis test was used to compare the scale scores among groups. RESULTS: There were significant differences among groups in terms of Neonatal Infant Pain Scale and COMFORTneo scores (P < .05). The pain scores for the white noise, therapeutic touch, and white noise + therapeutic touch groups were 4.2 ± 2.0, 5.2 ± 1.6, and 3.3 ± 1.7, respectively. There was a significant difference in average heart rate during the heel lance procedure among the groups (P < .05). Pain scores of the intervention groups were lower compared to the control group. IMPLICATIONS FOR PRACTICE AND RESEARCH: The combination of white noise and therapeutic touch was more effective in reducing pain and increasing comfort levels. Nurses could reduce procedural pain by applying these pain relief methods.",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Pain Management",
+        "Therapeutic Touch",
+        "Female",
+        "Heel",
+        "Male",
+        "Pain Measurement",
+        "Noise",
+        "Pain",
+        "Heart Rate",
+        "Patient Comfort",
+        "Blood Specimen Collection"
+      ]
+    },
+    {
+      "pmid": "39492232",
+      "title": "White noise effect on listening effort among patients with chronic tinnitus and normal hearing thresholds.",
+      "authors": [
+        "Jeanne Oiticica",
+        "Laura G E Vasconcelos",
+        "Mirella B Horiuti"
+      ],
+      "journal": "Brazilian journal of otorhinolaryngology",
+      "publication_date": "2023-Oct-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: This study investigated the effects of WN on LE in subjects with chronic tinnitus and normal hearing thresholds. The study was a prospective, non-randomized, before-and-after, intra-participant intervention. METHODS: Twenty-five subjects performed the following tests: conventional and high-frequency audiometry, acuphenometry, screening questionnaires for depression and anxiety symptoms, Tinnitus Handicap Inventory (THI), Montreal Cognitive Assessment, and high WM test from the Working Memory Assessment Battery, Federal University of Minas Gerais (WMAB) as the LE measure in two conditions: No Added Noise (NAN) and with Added Noise (AN). RESULTS: Seventeen participants (68%) performed better on AN condition. Data analysis revealed a 45% improvement in the WMAB total span count on AN setting, with a significant p value (p=0.001). CONCLUSION: The subgroup of participants without traces of anxiety symptoms, up to mild traces of depressive symptoms, having unilateral tinnitus, and a THI level up to grade 2, had improved WM performance in the presence of WN, which suggests a release of cognitive resources and less auditory effort under these combined conditions. EVIDENCE LEVEL: 4."
+    },
+    {
+      "pmid": "39345068",
+      "title": "Effects of the Combination of Noise Reduction Earplugs with White Noise and Rational Emotional Therapy on Emotional States of Inpatients with Colorectal Cancer.",
+      "authors": [
+        "Yifei Wang",
+        "Jiandong Fei",
+        "Yanan Zheng",
+        "Ping Li",
+        "Xiaodong Ren",
+        "Yongzhu An"
+      ],
+      "journal": "Noise & health",
+      "publication_date": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: The aim of the study was to explore the effects of the combination of noise reduction earplugs with white noise and rational emotional therapy on the emotional states of inpatients with colorectal cancer (CRC). METHODS: The study selected 152 CRC patients who received inpatient treatment in our hospital from January 2020 to January 2022 as the research objects. According to different nursing intervention modes, these patients were divided into the observation group (OG, n = 73, conventional nursing + noise reduction earplugs with white noise + rational emotional therapy) and the control group (CG, n = 79, conventional nursing) to compare the emotional status, sleep quality, and other indicators between the two groups. RESULTS: After 2 and 6 weeks of intervention, the severity of illness and global impression in the OG were notably lower than those in the CG. The OG had remarkably higher efficacy indexes than the CG (p < 0.05). The OG had overtly lower Montgomery-Asberg Depression Scale (MADRS) scores and Pittsburgh sleep quality index (PSQI) scores than the CG (p < 0.05). CONCLUSION: The combination of noise reduction earplugs with white noise and rational emotional therapy can improve the emotion and sleep states of patients, with certain positive effects, which can be used as a potential nursing plan for CRC patients.",
+      "mesh_terms": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Emotions",
+        "Ear Protective Devices",
+        "Noise",
+        "Sleep Quality",
+        "Aged",
+        "Adult",
+        "Inpatients"
+      ]
+    },
+    {
+      "pmid": "39110047",
+      "title": "Effect of Yakson Touch and White Noise on Pain in Neonatal Heel Blood Collection: A Randomized Controlled Study.",
+      "authors": [
+        "Türkan Kadiroğlu",
+        "Reyhan Yalçın",
+        "Meral Güven"
+      ],
+      "journal": "Alternative therapies in health and medicine",
+      "publication_date": "2024-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "CONTEXT: As part of preventive health services, infants are exposed to painful procedures, such as venous interventions, injections, and heel blood collection. Infants, in particular, are sensitive and vulnerable to untreated pain. OBJECTIVE: This study aims to evaluate the effect of Yakson touch and white noise on pain in newborn heel blood collection. Yakson touch include the interaction between the caregiver and the care recipient. DESIGN: The study was conducted using a parallel randomized controlled experimental design. The research was conducted during the Guthrie screening test routinely performed on newborns. SETTING: The study was carried out at the Family Health Center, which has the highest number of patients in a province in the Eastern Anatolia Region of Turkey between May 1st and August 30th, 2022. PARTICIPANTS: A total of 66 babies with a gestational age of 37-40 weeks were included in the study. INTERVENTION: In the study, infant participants were randomly assigned to one of three groups: the Yakson Touch Group (n=22), the White Noise Group (n=22), and the Control Group (n=22). Infants in the Yakson Touch Group received the Yakson touch from the same researcher. Infants in the White Noise Group listened to a song \"Don't Let Your Baby Cry 2\" from the album \"Colic\". Infants in the Control Group received routine intervention procedures. OUTCOME MEASURES: The study data were collected using the Introductory Information Form and the Newborn Infant Pain Scale (NIPS). RESULTS: After the procedure, the mean Yakson Touch Group of the NIPS score was 2.04±1.17, the mean White Noise Group of the NIPS score was 2.80±1.47, and the mean Control Group of the NIPS score was 3.72±1.07. There was a significant difference between the groups after the procedure (P < .001; ηp2=0.248 ). The Yakson touch procedure was found to be the most effective at decreasing the pain score, and white noise was the second most effective. CONCLUSIONS: Yakson touch is more effective than white noise in controlling pain due to invasive procedures in babies.",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Female",
+        "Male",
+        "Blood Specimen Collection",
+        "Heel",
+        "Pain Management",
+        "Noise",
+        "Pain Measurement",
+        "Pain",
+        "Turkey",
+        "Touch",
+        "Therapeutic Touch"
+      ]
+    },
+    {
+      "pmid": "39060170",
+      "title": "Effect of white noise during nasal continuous positive airway pressure application on newborn's pain and stress levels, physiological parameters, and crying durations: A randomized controlled study.",
+      "authors": [
+        "Gülistan Göktürk",
+        "Arzu Sarıalioğlu"
+      ],
+      "journal": "Journal of pediatric nursing",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: The study was conducted to determine the effects of white noise during nasal continuous positive airway pressure (CPAP) application on the newborn's pain and stress levels, physiological parameters, and crying durations. DESIGN AND METHODS: The study used a randomized, controlled experimental design. The study was completed with 80 newborns (40 in the intervention group and 40 in the control group). The Newborn Descriptive Data Form, ALPS Newborn Pain and Stress Assessment Scale, and Follow-up Form were used to collect the study data. Routine nasal CPAP application was performed to newborns in the control group. White noise was played to newborns in the intervention group before, during, and after the nasal CPAP application. The study was approved by an ethics committee. RESULTS: It was found that the newborn's pain and stress levels of the intervention group were lower than the control group before, during, and after the nasal CPAP application (p < 0.05). Before nasal CPAP application, the intervention group's SpO2 average was lower than that of the control group (p < 0.01). During nasal CPAP application, the intervention group's heart rate, SpO2, and crying duration averages were found to be lower than the control group (p < 0.05). After nasal CPAP application, the intervention group's crying duration average was lower than the control group (p < 0.01). CONCLUSIONS: It was found that white noise before, during, and after the nasal CPAP application reduced newborns' pain and stress levels. PRACTICE IMPLICATION: It is recommended that white noise be used as an easily applicable, economical, safe, and non-pharmacological method to reduce the pain and stress caused by nasal CPAP application in newborns. CLINICAL TRIALS REGISTRATION: The study was registered at Clinical-Trials.gov (NCT05440669).",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Continuous Positive Airway Pressure",
+        "Crying",
+        "Female",
+        "Male",
+        "Noise",
+        "Pain Measurement",
+        "Pain",
+        "Stress, Psychological",
+        "Pain Management"
+      ]
+    },
+    {
+      "pmid": "38830777",
+      "title": "The effects of white noise and swaddling methods on orogastric tube insertion-related pain in preterm infants: A randomized controlled trial.",
+      "authors": [
+        "Ceyda Kirli",
+        "Öznur Gürlek Kisacik",
+        "Selçuk Gürel"
+      ],
+      "journal": "International journal of nursing practice",
+      "publication_date": "2024-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: This study aims to investigate the effects of the white noise, swaddling and white noise + swaddling methods on pain and physiological parameters associated with orogastric tube insertion procedure. METHODS: This was a randomized controlled trial. A total of 132 preterm infants were randomly assigned to four groups as white noise group (n = 33), swaddling group (n = 33), white noise + swaddling group (n = 33) and control group (n = 33). Interventions were initiated 5 min before the orogastric tube insertion procedure and continued during and up to 5 min after the procedure. RESULTS: White noise intervention alone did not have a significant effect on reducing pain associated with orogastric tube insertion (p > 0.05). Compared with the control group, the preterm infants in the swaddling group experienced 0.587 times less pain, and those in the white noise + swaddling group experienced 0.473 times less pain. CONCLUSIONS: Findings indicate the swaddling and the combination of white noise + swaddling may be a useful intervention in reducing the invasive pain experienced by preterm infants during and after orogastric tube insertion and in improving the physiological parameters associated with pain.",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Premature",
+        "Infant, Newborn",
+        "Noise",
+        "Female",
+        "Male",
+        "Intubation, Gastrointestinal",
+        "Pain Management",
+        "Pain"
+      ]
+    },
+    {
+      "pmid": "38815280",
+      "title": "Effects of White Noise on Pain Scores and Salivary Cortisol Levels in Surgical Neonates: A Randomized Controlled Trial.",
+      "authors": [
+        "Siya Lin",
+        "Li Li",
+        "Xuyan Ren",
+        "Chunxia Zhong",
+        "Kai Wu",
+        "Xiaoling Fang",
+        "Shaocong Liang",
+        "Xuedong Chen",
+        "Jingxia Chen",
+        "Liucheng Yang",
+        "Xiaowu Wang",
+        "Bin Wang"
+      ],
+      "journal": "Advances in neonatal care : official journal of the National Association of Neonatal Nurses",
+      "publication_date": "2024-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Neonates experience varying intensities of pain after surgery. While white noise has been used for postoperative pain relief in infants, its effects on neonates after surgery need further exploration. PURPOSE: This study aimed to evaluate the effects of white noise on pain scores and salivary cortisol levels in surgical neonates. METHODS: In this randomized controlled trial, 64 neonates scheduled for surgery were recruited and assigned by block randomization into 2 groups. The intervention group listened to white noise at 50 dB, while the control group listened to white noise at 0 dB, for 30 minutes 6 times for 48 hours postoperatively. Pain scores, measured by the COMFORTneo Scale, and salivary cortisol levels were compared. RESULTS: Although pain scores decreased after surgery in all subjects, no statistically significant difference was observed between the 2 groups (P = .937). There was a significant difference between pre- and postintervention pain scores in the intervention group only (P = .006). Salivary cortisol levels decreased after intervention in the intervention group, but there was no significant difference between pre- and postintervention levels in the 2 groups (P = .716). IMPLICATIONS FOR PRACTICE: Given the reduction in pain scores and salivary cortisol concentrations after white noise intervention, white noise shows potential as an adjunctive soothing measure for neonates after surgery. IMPLICATIONS FOR RESEARCH: Future studies are needed to confirm the efficacy and utility of white noise intervention in clinical settings.",
+      "mesh_terms": [
+        "Humans",
+        "Hydrocortisone",
+        "Infant, Newborn",
+        "Saliva",
+        "Pain, Postoperative",
+        "Female",
+        "Male",
+        "Pain Measurement",
+        "Noise"
+      ]
+    },
+    {
+      "pmid": "38776720",
+      "title": "White noise use among children undergoing sound field audiometry: A preliminary study.",
+      "authors": [
+        "Alison C Ma",
+        "Mattie Rosi-Schumacher",
+        "Alexandra F Corbin",
+        "Helana Geisen",
+        "Michele M Carr"
+      ],
+      "journal": "International journal of pediatric otorhinolaryngology",
+      "publication_date": "2024-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To describe the prevalence of routine white noise exposure in children who undergo sound field audiometry. METHODS: A retrospective cohort study was conducted at a pediatric otolaryngology clinic affiliated with an academic tertiary care hospital. The medical records of children who underwent sound field audiometry were reviewed and data was collected regarding demographics and audiogram results. The group was divided into two cohorts based on routine exposure to white noise. Children exposed to white noise were tested with warble tones, while those not exposed were tested with narrow-band noise. RESULTS: 127 patients underwent sound field audiometry testing, of which 96 (75.6%) were reported by their parents to use white noise for sleep. The mean age at time of testing was 1.6 years (95% Confidence Interval [CI] 1.5-1.7). 104 (81.9%) children were able to respond to at least four of the sound field thresholds, and there was no significant difference between the children exposed to white noise and those who were not (P = 0.459). Mean pure tone average (PTA) was 26.2 dB (95% CI 25.2-27.2) and mean speech reception threshold (SRT) was 19.2 dB (95% CI 18.2-20.2). The sound field response rate, PTA, and SRT were similar between these two groups. CONCLUSIONS: The routine use of white noise therapy was extremely common in this pediatric population. The use of warble tones as the audiometric stimuli for children exposed to white noise resulted in similar testing success compared to the use of narrow-band noise in children not exposed to white noise.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Noise",
+        "Audiometry, Pure-Tone",
+        "Infant",
+        "Child, Preschool",
+        "Hearing Loss, Noise-Induced",
+        "Auditory Threshold",
+        "Cohort Studies",
+        "Child",
+        "Audiometry",
+        "Prevalence"
+      ]
+    },
+    {
+      "pmid": "38617401",
+      "title": "Effects of White Noise Sound on the Severity of Muscle Vaccination Pain in Children Under Two Years.",
+      "authors": [
+        "Abbas Shamsalinia",
+        "Zahra Fotokian",
+        "Zahra Jannat Alipour",
+        "Yadollah Zahedpasha",
+        "Fatemeh Mohammadkhah"
+      ],
+      "journal": "Iranian journal of child neurology",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: Pain and its control is a significant health problem worldwide. The present study aimed to determine the effects of white noise (bird sound) on the severity of muscle vaccination pain in children under two years old. MATERIALS & METHODS: This study was a case-control study conducted in 2021. The samples included seventy children under two years old referred to the health centers in Ramsar City, Iran. The samples were selected using the convenient sampling method and divided into experimental and control groups. The data were collected using the demographic characteristics questionnaire, facial expression, and pain assessment in pediatric patients (FLACC). They were then analyzed by SPSS16 using an independent t-test and analysis of covariance (P<0.05). RESULTS: A significant difference was observed between the severity of muscle vaccination pain in children in the two groups (p=0.042); the pain intensity mean in the experimental group (6.45±2.01) was lower than the control group (8.94±1.28). CONCLUSION: This method can be a harmless and inexpensive intervention to reduce pain intensity and behavioral pain responses in infants during painful procedures, especially vaccination."
+    },
+    {
+      "pmid": "38573024",
+      "title": "Comment on 'Intervention strategies for white noise alleviating procedural pain in newborns: A systematic review'.",
+      "authors": [
+        "Guangshun Ou",
+        "Xuesong Zhang"
+      ],
+      "journal": "Journal of clinical nursing",
+      "publication_date": "2024-Aug",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Noise",
+        "Pain, Procedural",
+        "Pain Management",
+        "Systematic Reviews as Topic"
+      ]
+    },
+    {
+      "pmid": "38507879",
+      "title": "The effect of virtual rainforest and a white noise mobile application on satisfaction, tolerance, comfort, and vital signs during arthroscopy.",
+      "authors": [
+        "Hasan Genç",
+        "Seher Tanriverdi",
+        "Mehmet Sait Akar"
+      ],
+      "journal": "Complementary therapies in clinical practice",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND AND PURPOSE: This study was conducted to investigate the effect of Virtual Rainforest (VRF) and a White Noise (WN) mobile applications on patient satisfaction, tolerance, comfort, and vital signs during arthroscopic knee surgery. METHODS: This is a randomized, controlled, interventional study. The study was completed with a total of 93 participants, 31 in the VRF group, 31 in the WN group, and 31 in the control group. Data were collected using a Patient Information Form and a Visual Analog Scale for satisfaction, tolerance, and comfort. RESULTS: The results of study showed that there were significant increases in tolerance, satisfaction, comfort, respiratory rate, and oxygen saturation levels and significant decreases in heart rate, systolic and diastolic blood pressures in both VRF and WN groups (p < .05). In the control group, no significant difference was found between the means of the variables before and after the procedure (p > .05). CONCLUSION: According to the results of the study, VRF and WN applied during the arthroscopy procedure increased satisfaction, tolerance, and comfort in patients and had a positive effect on vital signs. TRIAL AND PROTOCOL REGISTRATION: ClinicalTrials.gov, NCT05992714.",
+      "mesh_terms": [
+        "Humans",
+        "Arthroscopy",
+        "Mobile Applications",
+        "Rainforest",
+        "Vital Signs",
+        "Personal Satisfaction"
+      ]
+    },
+    {
+      "pmid": "38428577",
+      "title": "Systematic Review and Meta-Analysis: Do White Noise or Pink Noise Help With Task Performance in Youth With Attention-Deficit/Hyperactivity Disorder or With Elevated Attention Problems?",
+      "authors": [
+        "Joel T Nigg",
+        "Alisha Bruton",
+        "Michael B Kozlowski",
+        "Jeanette M Johnstone",
+        "Sarah L Karalunas"
+      ],
+      "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "publication_date": "2024-Aug",
+      "publication_types": [
+        "Systematic Review",
+        "Meta-Analysis",
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: Public interest in the potential benefits of white, pink, and brown noise for attention-deficit/hyperactivity disorder (ADHD) has recently mushroomed. White noise contains all frequencies of noise and sounds like static; pink or brown noise has more power in the lower frequencies and may sound, respectively, like rain or a waterfall. This meta-analysis evaluated effects on laboratory tasks in individuals with ADHD or elevated ADHD symptoms. METHOD: Eligible studies reported on participants with diagnosis of ADHD or elevated symptoms of ADHD who were assessed in a randomized trial using laboratory tasks intended to measure aspects of attention or academic work involving attention or executive function while exposed to white, pink, and brown noise and compared with a low/no noise condition. Two authors independently reviewed and screened studies for eligibility. A random-effects meta-analysis was conducted with preplanned moderator analyses of age, diagnostic status, and task type. Publication bias was evaluated. The GRADE tool was used to assess certainty of the evidence. Sensitivity analyses were conducted to evaluate robustness. RESULTS: Studies of children and college-age young adults with ADHD or ADHD symptoms (k = 13, N = 335) yielded a small but statistically significant benefit of white and pink noise on task performance (g = 0.249, 95% CI [0.135, 0.363], p < .0001). No studies of brown noise were identified. Heterogeneity was minimal, and moderators were nonsignificant; results survived sensitivity tests, and no publication bias was identified. In non-ADHD comparison groups (k = 11, N = 335), white and pink noise had a negative effect (g = -0.212, 95% CI [-0.355, -0.069], p = .0036). CONCLUSION: White and pink noise provide a small benefit on laboratory attention tasks for individuals with ADHD or high ADHD symptoms, but not for non-ADHD individuals. This article addresses theoretical implications, cautions, risks, and limitations. PLAIN LANGUAGE SUMMARY: Public interest in the potential benefits of white, pink, and brown noise exposure for enhancing task performance for individuals with attention-deficit/hyperactivity disorder (ADHD) has increased substantially. This systematic review and meta-analysis included 13 studies with 335 participants and found that white/pink noise improved cognitive performance for children and young adults with ADHD or significant ADHD symptoms. In contrast, white/pink noise impaired cognitive performance for individuals without ADHD. Positive effects of noise were small, but these results point to a possible low-cost, low-risk intervention that may benefit youth with ADHD. Additional studies are needed to confirm effects and identify safe and appropriate decibel levels. The potential detrimental effects for individuals without ADHD also requires further study. STUDY PREREGISTRATION INFORMATION: White Noise for ADHD: A Systematic Review And Meta-analysis; https://www.crd.york.ac.uk/prospero; CRD42023393992.",
+      "mesh_terms": [
+        "Humans",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Noise",
+        "Child",
+        "Adolescent",
+        "Attention",
+        "Task Performance and Analysis",
+        "Executive Function"
+      ]
+    },
+    {
+      "pmid": "38358237",
+      "title": "Effect of White Noise Intervention Combined with Multi-dimensional Nursing Mode on Sleep Quality and Incidence of Nosocomial Infection in Patients Undergoing Hip Replacement.",
+      "authors": [
+        "Meng Tian",
+        "Xing Gu"
+      ],
+      "journal": "Noise & health",
+      "publication_date": "2023",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To investigate the clinical effects of white noise intervention combined with multi-dimensional nursing mode in patients receiving hip replacement (HR). METHODS: The study selected the clinical data of 161 patients who underwent HR in our hospital from February 2020 to February 2022 for retrospective analysis. According to patients' willingness, they were divided into the study group (n = 77, receiving white noise intervention combined with multi-dimensional nursing mode) and the control group (n = 84, receiving routine nursing). Pittsburgh sleep quality index (PSQI) scale was used to evaluate patients' sleep quality in the two groups, and the incidence of nosocomial infection in the both groups was counted. RESULTS: Before nursing and white noise intervention, the PSQI scores of patients' sleep quality in the two groups were all lower, with no obvious difference (P > 0.05). After nursing and white noise intervention, the sleep quality of the two groups was all improved, and the study group had overtly lower PSQI score and score of psychological status than the control group (P < 0.05). After nursing and white noise intervention, the study group had remarkably lower incidence of nosocomial infection than the control group (p < 0.05). CONCLUSION: White noise intervention combined with multi-dimensional nursing mode can effectively improve the sleep quality of patients undergoing HR and reduce the incidence of nosocomial infection, which is of positive significance for promoting the recovery of postoperative limb function.",
+      "mesh_terms": [
+        "Humans",
+        "Cross Infection",
+        "Incidence",
+        "Retrospective Studies",
+        "Sleep Quality",
+        "Hospitals"
+      ]
+    },
+    {
+      "pmid": "38268285",
+      "title": "Effects of white noise on preterm infants in the neonatal intensive care unit: A meta-analysis of randomised controlled trials.",
+      "authors": [
+        "Qing Zhang",
+        "Qiugui Huo",
+        "Peizhen Chen",
+        "Wenying Yao",
+        "Zhihong Ni"
+      ],
+      "journal": "Nursing open",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "AIM: To critically assess the effects of white noise on the pain level, weight gain and vital signs (heart rate, respiratory rate and oxygen saturation) of preterm infants in neonatal intensive care units (NICUs). DESIGN: A systematic review and meta-analysis of randomised controlled trials (RCTs). METHODS: Ten databases (PubMed, Cochrane Library, Embase, Web of Science, CINAHL, PsycINFO, SinoMed, China National Knowledge Infrastructure, VIP and Wanfang Data) were systematically reviewed from inception to July 2022. Two reviewers evaluated the risk of bias separately using the Cochrane Collaboration criteria and extracted data using a predesigned information form. RESULTS: The meta-analysis included eight eligible RCTs. According to statistical analysis, white noise significantly affected the pain level, weight gain, heart rate, respiratory rate and oxygen saturation in preterm infants. Regardless of the outcome measurement timing, gestational age and birth weight of preterm infants, subgroup analysis demonstrated that white noise reduced the pain level, heart rate and respiratory rate and promoted weight gain in preterm infants in NICUs. CONCLUSION: White noise is a practical and potentially useful therapy for premature neonates in NICUs. No Patient or Public Contribution.",
+      "mesh_terms": [
+        "Infant",
+        "Infant, Newborn",
+        "Humans",
+        "Intensive Care Units, Neonatal",
+        "Infant, Premature",
+        "Birth Weight",
+        "Weight Gain",
+        "Pain"
+      ]
+    },
+    {
+      "pmid": "38001103",
+      "title": "White noise insole: an artificial evoked sensation device that can be expected to improve plantar sensation of diabetic foot.",
+      "authors": [
+        "Yangzheng Jiang"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2023-Nov-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Diabetic foot is a common severe complication of diabetes, and its main symptom is diabetic foot ulcer. The production of plantar diabetic foot ulcers is usually affected by two factors, namely neuropathy or vascular disease. While previous studies proved that stochastic resonance (SR) could effectively enhance the plantar touch of patients with diabetic feet, the potential impact of SR on neural circuit feedback, especially on the input of the tactile nerves of the lower limbs, is less clear. This study aims to explore the potential impact on the tactile threshold of the human foot when using vibrating insoles. We study a white noise vibration insole based on SR mechanism. We compare and analyze the tactile threshold voltage (TTV) triggered by an electrical stimulation device in three main plantar pressure-bearing areas (the second metatarsal (M2), the fourth metatarsal (M4), and the heel (H) area) of 8 participants using EEG and self-developed vibration insole. Significance found in M2 and M4 areas, white noise signal (WNS) lowered the tactile threshold in these areas, and had a potentially positive impact on patients with diabetic feet, especially in the M4 area. The influence of WNS on the plantar heel area was still controversial. This study showed that WNS applied to the sole could improve the plantar tactile sensing ability of patients with diabetic feet, but it did not cover all areas. The application of WNS showed better benefits for the forefoot area than for the hindfoot area, which was speculated that may be related to the difference in the distribution density of blood vessels in plantar areas. Due to the impaired natural touch in participants with diabetic foot, using artificial evoked sensation WNS intervention, would be a feasible approach to improve plantar sensation.",
+      "mesh_terms": [
+        "Humans",
+        "Diabetic Foot",
+        "Foot",
+        "Sensation",
+        "Heel",
+        "Foot Orthoses",
+        "Shoes",
+        "Diabetes Mellitus"
+      ]
+    },
+    {
+      "pmid": "37967268",
+      "title": "Effect of White Noise on Pain Response, Heart Rate, and Oxygen Saturation During Heel Puncture in Premature Infants: A Randomized Controlled Trial.",
+      "authors": [
+        "Min Hye Kim",
+        "Ju-Eun Song",
+        "Jeong-Ah Ahn",
+        "Mi-Ae You"
+      ],
+      "journal": "The Journal of perinatal & neonatal nursing",
+      "publication_date": null,
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: This study aimed to investigate the effect of white noise on pain response, heart rate, and oxygen saturation during heel puncture in premature infants. METHODS: A randomized, controlled, pretest-posttest design was used. The participants were premature infants admitted to the neonatal intensive care unit of a university hospital in Gyeonggi Province. Sixty premature infants were assigned to either an experimental ( n = 30) or control ( n = 30) group. The experimental group was exposed to white noise during heel puncture, and the measured variables were pain response, heart rate, and oxygen saturation. The data were analyzed using the independent t test, chi-squared test, and analysis of covariance. RESULTS: Premature infants in the experimental group had a lower pain response and heart rate than the control group ( F = 81.26, P < .01; F = 7.05, P = .01), and higher oxygen saturation than the control group ( F = 4.76, P = .03). CONCLUSION: These results demonstrated that the white noise intervention is an effective nursing intervention to reduce the pain response and stabilize heart rate and oxygen saturation in premature infants during heel puncture.",
+      "mesh_terms": [
+        "Humans",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Heart Rate",
+        "Female",
+        "Male",
+        "Noise",
+        "Oxygen Saturation",
+        "Pain Measurement",
+        "Punctures",
+        "Intensive Care Units, Neonatal",
+        "Heel",
+        "Pain",
+        "Pain Management",
+        "Neonatal Nursing"
+      ]
+    },
+    {
+      "pmid": "37966399",
+      "title": "The Effects of White Noise on Preprocedural Anxiety and Vital Signs Among Older Adults Undergoing Colonoscopy.",
+      "authors": [
+        "Sara Lazar Barzegar",
+        "Sepideh Mohammadi",
+        "Abbas Shamsalinia",
+        "Morteza Saberifar"
+      ],
+      "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+      "publication_date": "2024-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: A significant portion of individuals undergoing colonoscopy report stress and anxiety before the procedure. The efficacy of white noise as a nonpharmacological intervention on state anxiety and vital signs of individuals waiting for colonoscopy has not been investigated in previous studies. The current study aimed to analyze the effect of white noise on preprocedural anxiety and vital signs among older adults undergoing colonoscopy. DESIGN: A pre-test/post-test quasi-experimental study. METHODS: Subjects (N = 60) were older adults in the colonoscopy unit and divided into experimental (n = 30) and control groups (n = 30). The subjects in the experimental group listened to the white noise via binaural headphones for 20 minutes, while the control group received routine pre-endoscopic care. State anxiety and vital signs were assessed before and after intervention using the State-Trait Anxiety Inventory and vital signs monitor, respectively. The data were analyzed using SPSS-25 software. FINDINGS: No statistically significant differences were found between the two groups on demographic characteristics, state-anxiety, systolic and diastolic blood pressure, pulse rate, and respiratory rate before the intervention (P > .05). A significant difference was found between the experimental and control groups in terms of state-anxiety (P = .00) and pulse rate (P = .003) after the intervention. No significant differences were found between the two groups in terms of systolic blood pressure (P = .69), diastolic blood pressure (.59), and respiratory rate (P = .164) after the intervention. CONCLUSIONS: This study provides preliminary evidence supporting the use of white noise in older adults undergoing colonoscopy to reduce anxiety. The authors recommend that this intervention, as a nonpharmacological and easily administered approach, is adopted to reduce precolonoscopy anxiety. Continued investigation into the effect of white noise on vital signs is recommended.",
+      "mesh_terms": [
+        "Humans",
+        "Aged",
+        "Male",
+        "Female",
+        "Colonoscopy",
+        "Anxiety",
+        "Noise",
+        "Vital Signs",
+        "Middle Aged",
+        "Aged, 80 and over"
+      ]
+    },
+    {
+      "pmid": "37806925",
+      "title": "The effects of massage therapy and white noise application on premature infants' sleep.",
+      "authors": [
+        "Mehmet Emin Düken",
+        "Emriye Hilal Yayan"
+      ],
+      "journal": "Explore (New York, N.Y.)",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIM: Sleep is vital to premature infants' physical, social and emotional development. The significance of sleep duration, efficiency, and function in premature infants regarding growth development, behavior and neurological development has been increasing. MATERIALS AND METHODS: This study was conducted in a randomized controlled experimental design with three groups. Premature infants at 28-37 weeks of gestation who were admitted to the Neonatal Intensive Care Unit of Şanlıurfa Mehmet Akif İnan Training and Research Hospital Haliliye Annex Building were the research population. The sample of the present study consisted of 120 premature infants in the massage therapy group (40), white noise group (40), and control group (40). RESULTS: The sleep duration and sleep efficiency of the premature infants in the massage group increased compared to before the application, whereas the number of awakenings and WASO values decreased. The sleep duration of premature infants in the massaged group increased by some five hours. In the white noise group, the sleep duration increased by about two hours than the pre-treatment, and there was an increase in sleep efficiency. White noise application provided a significant decrease in the number of awakenings and WASO values in premature infants. CONCLUSION: In this experimental study, which was designed with three groups, it was revealed that massage and white noise application in premature infants were significant non-pharmacological methods to increase sleep duration and sleep efficiency. It was concluded that massage therapy and white noise application is one of the considerable interventions regarding sleep duration, efficiency and functions in premature infants who left the intrauterine period early.",
+      "mesh_terms": [
+        "Humans",
+        "Massage",
+        "Infant, Premature",
+        "Infant, Newborn",
+        "Sleep",
+        "Female",
+        "Male",
+        "Noise",
+        "Intensive Care Units, Neonatal"
+      ]
+    },
+    {
+      "pmid": "37764116",
+      "title": "Effects of Music and White Noise Exposure on the Gut Microbiota, Oxidative Stress, and Immune-Related Gene Expression of Mice.",
+      "authors": [
+        "Zhenyu Zhang",
+        "Yinqiang Wu",
+        "Shizheng Zhou",
+        "Pengcheng Fu",
+        "Hong Yan"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2023-Sep-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The microbiota in gastrointestinal tracts is recognized to play a pivotal role in the health of their hosts. Music and noise are prevalent environmental factors in human society and animal production and are reported to impact their welfare and physiological conditions; however, the information on the relationship between the microbiota, physiological status, and sound is limited. This study investigated the impact of music and white noise exposure in mice through 16s rRNA gene sequencing, enzyme assay, and qPCR. The results demonstrate that white noise induced oxidative stress in animals by decreasing serum SOD and GSH-PX activity while increasing LDH activity and MDA levels (p < 0.05). Conversely, no oxidative stress was observed in the music treatment group. The relative gene expression of IFN-γ and IL-1β decreased in the white noise group compared to the music and control groups. The 16s rRNA gene amplicon sequencing revealed that Bacteroidetes, Firmicutes, Verrucomicrobia, and Proteobacteria were dominant among all the groups. Furthermore, the proportion of Firmicutes increased in the music treatment group but decreased in the white noise treatment group compared to the control group. In conclusion, white noise has detrimental impacts on the gut microbiota, antioxidant activity, and immunity of mice, while music is potentially beneficial."
+    },
+    {
+      "pmid": "37661385",
+      "title": "Comment on: Intervention strategies for white noise alleviating procedural pain in newborns.",
+      "authors": [
+        "Ping Xiong",
+        "Xinqiao Yu"
+      ],
+      "journal": "Journal of clinical nursing",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "mesh_terms": [
+        "Infant, Newborn",
+        "Humans",
+        "Pain, Procedural",
+        "Pain",
+        "Infant, Premature"
+      ]
+    },
+    {
+      "pmid": "37124893",
+      "title": "White Noise and Its Potential Applications in Occupational Health: A Review.",
+      "authors": [
+        "Shoaib Ghasemi",
+        "Fatemeh Fasih-Ramandi",
+        "Mohammad Reza Monazzam",
+        "Soheila Khodakarim"
+      ],
+      "journal": "Iranian journal of public health",
+      "publication_date": "2023-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: White noise (WN), because of its unique behavior and characteristics, has different applications in different sciences. Nevertheless, the results of studies and reviews of the literature on occupational safety and health found that this type of noise is often used as a noise source to assess the effects of hearing and its physical characteristics. Its possible applications in this area have not received as much attention. The present review study aimed to answer the question, \"Can WN be used as a means of promoting occupational safety and health at the workplace?\". METHODS: In this review, we reviewed the articles published in reputable databases from 1990 to 2020. Our study included 33 articles from 120 that were searched in full text and followed the inclusion and exclusion criteria. RESULTS: Various applications were examined, including noise masking, white noise therapy, cognitive functions, and sleep. WN can enhance the work environment and meet occupational safety and health objectives based on the study's results. The results of this study will provide a basis for continuing research into the use of WN in the workplace as an engineering and management control method. CONCLUSION: WN is being used in various fields that may hold promise for its application in occupational health sciences and maintaining the well-being of workplace workers."
+    },
+    {
+      "pmid": "36528871",
+      "title": "Intervention strategies for white noise alleviating procedural pain in newborns: A systematic review.",
+      "authors": [
+        "Xian Ye",
+        "Jun-Qing Chen",
+        "Ling-Li Zhu",
+        "Lin-Bo Chui",
+        "Hong-Zhen Xu"
+      ],
+      "journal": "Journal of clinical nursing",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "AIMS AND OBJECTIVE: To systematically evaluate the current intervention strategies of white noise alleviating procedural pain in newborns. METHODS: This review was conducted following the PRISMA guideline. Seventeen databases National Guideline Clearinghouse, up to date, Clinical Evidence, BMJ best practice, Cochrane library, OVID, PubMed, Medline, EMBASE, Web of Science, CHINHAL, Medlive, China Biology Medicine disc, Chinese Clinical Trial Registry, China National Knowledge Infrastructure, China Science and Technology Journal Database, Wanfang Data Knowledge Service Platform were employed, and the studies about pain-relieving with white noise in newborns published before June 2022 was included. Quality of studies was evaluated by using the Cochrane Handbook for Systematic Reviews of Interventions. RESULTS: 18 studies were included, with sample sizes ranging from 32-296 cases. Intervention indices included duration, distance, volume, music type and outcome measure. Duration varies from study to study, from 5 min before to 5 min after the procedures. The distance was controlled at 10-60 cm, volume was controlled at 45-60 dB and music type was selected from Orhan Osman's album \"Kolic\" in most studies. Outcome measures included physiological indicators, neurophysiological indicators, behavioural indicators and pain score. Differences in duration leading to different white noise effects was found, but no studies have shown whether there is an effect of different volume, distance or music type. CONCLUSIONS: Based on this review, we recommend the following intervention strategies: the duration is set from 1 min before to 3 min after the procedures, the distance is decided according to the actual clinical situation, the volume is controlled at 45-55 dB (55 dB is optimal), the music type is selected to simulate intrauterine sounds, and outcome measures can choose physiological indicators, neurophysiological indictors, behavioural indicators and pain score depending on specific department and population. It is important to further explore the best intervention strategies. RELEVANCE TO CLINICAL PRACTICE: In addition to providing a set of intervention strategies, this review could be used as evidence for relieving procedural pain in newborns. PATIENT OR PUBLIC CONTRIBUTION: No Patient or Public Contribution. Data were obtained from others' literature.",
+      "mesh_terms": [
+        "Infant, Newborn",
+        "Humans",
+        "Pain, Procedural",
+        "Pain",
+        "Outcome Assessment, Health Care",
+        "China"
+      ]
+    },
+    {
+      "pmid": "36430109",
+      "title": "The Effects of White Noise on Attentional Performance and On-Task Behaviors in Preschoolers with ADHD.",
+      "authors": [
+        "Hung-Yu Lin"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2022-Nov-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Several models have tentatively associated improving attention-deficit/hyperactivity disorder (ADHD) symptoms with arousal and external environmental stimulation. In order to further clarify the relationships between ADHD symptoms, arousal, and external stimulation, this study focused on exploring the \"simultaneous\" effects of white noise on intrinsic attentional performance and extrinsic on-task behaviors in preschoolers with and without ADHD. By using the computerized task (K-CPT 2), 104 preschoolers, including 52 ADHD children and 52 typically developing (TD) children, were tested and analyzed for their intrinsic attention (such as detectability, omission errors, commission errors, and reaction time). Simultaneously, these preschoolers' external on-task behaviors were recorded for analysis through systematic observation. This study showed that white noise could effectively improve attention performance, including enhancing the ability to differentiate non-targets from targets and decreasing omission errors. It could also reduce the extrinsic hyperactive behaviors of preschoolers with ADHD. The findings of this study highlighted that white noise stimulation is a beneficial non-pharmacological treatment for preschoolers with ADHD. In contrast, for TD preschoolers, the results of this study showed that the external white noise stimuli were not only unhelpful but also a burden.",
+      "mesh_terms": [
+        "Child",
+        "Humans",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Neuropsychological Tests",
+        "Attention",
+        "Reaction Time",
+        "Arousal"
+      ]
+    },
+    {
+      "pmid": "35891905",
+      "title": "Effects of white noise on procedural pain-related cortical response and pain score in neonates: A randomized controlled trial.",
+      "authors": [
+        "Xuyan Ren",
+        "Li Li",
+        "Siya Lin",
+        "Chunxia Zhong",
+        "Bin Wang"
+      ],
+      "journal": "International journal of nursing sciences",
+      "publication_date": "2022-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To evaluate the effects of white noise on pain-related cortical response, pain score, and behavioral and physiological parameters in neonates with procedural pain. METHODS: A double-blind, randomized controlled trial was conducted. Sixty-six neonates from the Neonatal Intensive Care Unit in a university-affiliated general hospital were randomly assigned to listen to white noise at 50 dB (experimental group) or 0 dB (control group) 2 min before radial artery blood sampling and continued until 5 min after needle withdrawal. Pain-related cortical response was measured by regional cerebral oxygen saturation (rScO2) monitored with near-infrared spectroscopy, and facial expressions and physiological parameters were recorded by two video cameras. Two assessors scored the Premature Infant Pain Profile-Revised (PIPP-R) independently when viewing the videos. Primary outcomes were pain score and rScO2 during arterial puncture and 5 min after needle withdrawal. Secondary outcomes were pulse oximetric oxygen saturation (SpO2) and heart rate (HR) during arterial puncture, and duration of painful expressions. The study was registered at the Chinese Clinical Trial Registry (ChiCTR2200055571). RESULTS: Sixty neonates (experimental group, n = 29; control group, n = 31) were included in the final analysis. The maximum PIPP-R score in the experimental and control groups was 12.00 (9.50, 13.00), 12.50 (10.50, 13.75), respectively (median difference -0.5, 95% CI -2.0 to 0.5), and minimum rScO2 was (61.22 ± 3.07)%, (61.32 ± 2.79)%, respectively (mean difference -0.325, 95% CI -1.382 to 0.732), without significant differences. During arterial puncture, the mean rScO2, HR, and SpO2 did not differ between groups. After needle withdrawal, the trends for rScO2, PIPP-R score, and facial expression returning to baseline were different between the two groups without statistical significance. CONCLUSION: The white noise intervention did not show beneficial effects on pain-related cortical response as well as pain score, behavioral and physiological parameters in neonates with procedural pain."
+    },
+    {
+      "pmid": "34931413",
+      "title": "Impact of a white noise app on sleep quality among critically ill patients.",
+      "authors": [
+        "Evansaralin Warjri",
+        "Fatima Dsilva",
+        "Thankappan S Sanal",
+        "Abhishek Kumar"
+      ],
+      "journal": "Nursing in critical care",
+      "publication_date": "2022-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Sleep disturbance negatively affects recovery and survival of patients in intensive care units (ICUs). AIMS AND OBJECTIVES: This study aimed to measure the noise levels and evaluate the impact of a white noise app on the sleep quality of critically ill patients. DESIGN: A quasi-experimental time series pre-test-post-test control group design with repeated measures was adopted. METHODS: The study was conducted in the high dependency unit (HDU) of a selected tertiary care hospital in Mangalore, Karnataka State, India. Conscious oriented patients with systolic blood pressure ranging from 100/70 to 140/90 mm Hg and hearing acuity of at most 20 dB in both ears were included in the study. Noise levels in the HDU were measured using calibrated sound level meter on weekdays/weekends in three different shifts and an average of 24 readings was obtained per shift. A 4-point Likert scale was used to assess the sleep quality. The intervention included administration of white noise app twice a day, for three consecutive days by using different masking sounds such as white noise on day 1 which resembles to a humming AC conditioner, pink noise on day 2 which resembles to the sound of ocean waves and brown noise on day 3 which resembles a steady rainfall. The app was used with the help of JBL earphones C10SI an excellent noise cancellation and noise isolating earphone. RESULTS: Among the 54 subjects, the mean age of the patients was 40.28 years, majority 34 (63%) were males. The noise level in the ICU was more than 60 dB. There was a significant difference in the sleep quality after the application of the white noise app in the experimental group on Day 1 (Z = -3.996; P = .001), Day 2 (Z = -3.302; P = .001), and Day 3 (-2.822; P = .005) compared to the control group. CONCLUSION: Adoption of technology driven noise reduction applications would enhance the quality of sleep among the ICU patients. RELEVANCE TO CLINICAL PRACTICE: The use of a technology-driven application helps control noise levels which promotes improved sleep quality among critically ill patients in the intensive care units.",
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Adult",
+        "Female",
+        "Critical Illness",
+        "Sleep Quality",
+        "Mobile Applications",
+        "India",
+        "Intensive Care Units",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "34049045",
+      "title": "The effects of white noise on sleep and duration in individuals living in a high noise environment in New York City.",
+      "authors": [
+        "Matthew R Ebben",
+        "Peter Yan",
+        "Ana C Krieger"
+      ],
+      "journal": "Sleep medicine",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "INTRODUCTION: Undisturbed sleep has been shown to be important for both health and quality of life (Medic et al. [7]). The World Health Organization estimates that nearly 25% of the population suffers from disturbed sleep due to environmental noise (Health TWECfEa, [2]). Sleep disturbance associated with elevated noise levels is particularly prevalent in metropolitan areas. Our study tested the hypothesis that white noise would improve sleep in New Yorkers complaining of sleep difficulty due to elevated sound levels. METHODS: Ten adult participants were included in this study. All participants were recruited from a New York City based sleep clinic. Inclusion criteria was based on the presence of sleep disturbance and the reporting of high levels of environmental noise in participants' sleep location. The study was conducted using a within-subject, ABA design, with baseline, treatment phase, followed by another baseline (washout) period. Each phase lasted one-week, during which noise level and sleep were assessed. The treatment consisted of the application of a white noise device (Dohm Classic by Marpac, LLC) in the participants' bedroom. Sleep parameters were measured subjectively using the Consensus Sleep Diary (Carney et al. [15]), and objectively using a Motionlogger Actigraph. RESULTS: Paired sample t-tests were conducted to evaluate the hypothesis that white noise improves sleep in a high noise environment. Significance was found on the variables WASO, as measured by actigraphy, t(9) = 3.438, p = 0.007 and sleep latency as measured by sleep diary, t(9) = 2.947, p = 0.016. There was a trend toward significance on the number of awakenings during the night, as measured by sleep diary, t(9) = 2.622, p = 0.028 (Holm's sequential correction of p-value required a value of <0.01 to find significance on this comparison) and sleep efficiency (actigraph), t(9) = -2.121, p = 0.063. CONCLUSION: Our data show that white noise significantly improved sleep based on subjective and objective measurements in subjects complaining of difficulty sleeping due to high levels of environmental noise. This suggests that the application of white noise may be an effective tool in helping to improve sleep in those settings.",
+      "mesh_terms": [
+        "Actigraphy",
+        "Adult",
+        "Humans",
+        "New York City",
+        "Quality of Life",
+        "Sleep",
+        "Sleep Wake Disorders"
+      ]
+    },
+    {
+      "pmid": "33975075",
+      "title": "Mothers' voices and white noise on premature infants' physiological reactions in a neonatal intensive care unit: A multi-arm randomized controlled trial.",
+      "authors": [
+        "Jinhua Liao",
+        "Guihua Liu",
+        "Namei Xie",
+        "Shuo Wang",
+        "Taohong Wu",
+        "Ying Lin",
+        "Rongfang Hu",
+        "Hong-Gu He"
+      ],
+      "journal": "International journal of nursing studies",
+      "publication_date": "2021-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: A few positive effects of mothers' voice on physiological outcomes have been studied and limited studies have focused on the level of cortisol. In addition, white noise has recently been found to be beneficial for human sleep, but studies in premature infants were limited and no study has compared the effects of mothers' voice and white noise on premature infants. OBJECTIVE: To examine the effects of mothers' voice and white noise on sleep-wake patterns, salivary cortisol levels, weight gain, heart rate, and oxygen saturation of premature infants in a neonatal intensive care unit (NICU). METHODS: This was a three-group randomized controlled trial. A total of 103 medically stable premature infants in incubators were recruited from the NICU of a women's and children's hospital in China between March and December 2017 and were randomized into three groups: the mothers' voice group (n = 34), the white noise group (n = 34), and the routine care group (n = 35). Mothers' voice, white noise, and no voice were provided to the three groups for 20 min at a time, three times a day for four consecutive days. The sound levels of the mothers' voice and white noise were controlled between 50 and 55 dB. Sleep-wake patterns, salivary cortisol level, and weight were measured at pre-test and post-test whereas heart rate and oxygen saturation were measured every five-minute at 11am, 2pm, 5pm for four-consecutive days. RESULTS: A group difference was found only in weight gain (p = 0.003), with weight gain in the white noise group being significantly higher than the mothers' voice group (Z=-3.447, p = 0.001). Significant declines in total sleep time and sleep efficiency and increases in wake time after sleep onset and average awakening time were only found in the routine-care group between the pre-test and post-test (p<0.05). No significant differences were found in the salivary cortisol levels, heart rates, and oxygen saturation levels among the three groups (p>0.05). A significant increase in oxygen saturation during the 20-min intervention was found in white noise group. Non-significant decreases in the heart rate during the 20-min intervention and salivary cortisol levels at post test were noted in all the three groups. CONCLUSION: White noise is more useful for encouraging weight gain in preterm infants compared with mothers' voices. White noise might be introduced for use in the care of premature infants in NICUs, and more high-quality randomized controlled trials are needed to confirm these findings. Trial Registration No: ChiCTR-INR-17012755.",
+      "mesh_terms": [
+        "Child",
+        "China",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Intensive Care Units, Neonatal",
+        "Mothers",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "33278506",
+      "title": "Gender differences in anxiety response to high intensity white noise in rats.",
+      "authors": [
+        "Nino Gogokhia",
+        "Nadezhda Japaridze",
+        "Yousef Tizabi",
+        "Lizi Pataraya",
+        "Mzia G Zhvania"
+      ],
+      "journal": "Neuroscience letters",
+      "publication_date": "2021-Jan-18",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Prolong exposure to high intensity white noise (HIWN), defined as a heterogeneous mixture of sound waves extending over a wide frequency range, has detrimental peripheral and central consequences including cardiovascular and emotional effects. Anxiety is a common manifestation of HIWN. Although gender-dependent differences in manifestation of anxiety and/or response to treatment of this condition has been amply documented, potential differences in response to HIWN, a common exposure in combat, construction and rave disco, has not been adequately investigated. In this study, both male and female Wistar rats were subjected to HIWN for 10 consecutive days, 1 h/day. On day 11, a day after the last exposure, the performance of the rats in open field (OF) and elevated plus maze (EPM) was evaluated. Male rats showed a higher anxiety-like response to HIWN as evidenced by: lower number of entries into the open arm of the EPM, lower number of entries into central zone of OF, excess grooming in OF and more boluses in closed arm of EPM. These results indicate that gender-related differences in anxiety in general, and in response to HIWN, in particular, has to be taken into consideration when investigating the neurobiological components and/or treatment modalities.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Animals",
+        "Anxiety",
+        "Exploratory Behavior",
+        "Female",
+        "Male",
+        "Maze Learning",
+        "Motor Activity",
+        "Noise",
+        "Rats",
+        "Rats, Wistar",
+        "Sex Characteristics"
+      ]
+    },
+    {
+      "pmid": "32985022",
+      "title": "Male and female immediate fear reaction to white noise in a semi-natural environment: A detailed behavioural analysis of the role of sex and oestrogen receptors.",
+      "authors": [
+        "Olivia Le Moëne",
+        "Mayra Liliana Ramírez-Rentería",
+        "Anders Ågmo"
+      ],
+      "journal": "Journal of neuroendocrinology",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In classical rodent anxiety models, females usually display lower anxiety than males, whereas anxiety disorders are more prevalent in women. Perhaps this contradiction is caused by the use of behavioural models with low external validity. Therefore, we analysed immediate reactions to a sudden 90-dB white noise in a semi-natural environment. We observed mixed-sex groups of rats for the 60 seconds preceding noise onset and the first 60 seconds of exposure. White noise elicited fear-specific behaviours hiding alone and huddling. It also increased exploratory and ambulatory behaviours, although only in the burrow zone farthest from the open area. Thus, in a semi-natural environment, white noise enhanced motor activity as a product of fear-induced general arousal. Then, we compared male and female sexual, social, exploratory and anxiety-related behaviour, and found little sex difference. This absence of behavioural effect, also observed in other studies, might be a result of our study design, a familiar environment with an ecologically relevant social context. Fear and anxiety responses are modulated by oestrogens through the activation of oestrogen receptors α and β. Thus, in a third part of out study, we analysed how treatment with either oil, oestradiol benzoate (EB), an agonist to the oestrogen receptor α (propylpyrazoletriol [PPT]) or β (diarylpropionitrile [DPN]) influenced female behaviour. The effect of treatment was limited, both EB and PPT stimulated motor activity in the open area before white noise, probably because of sexual activity. PPT increased the probability of fleeing from the noise, and decreased the latency to do so, which is consistent with a pattern of anxiogenic properties found in previous studies. Contrary to reports in classical procedures, we failed to detect any effect of DPN on immediate fear reactions in a semi-natural environment.",
+      "mesh_terms": [
+        "Animals",
+        "Behavior, Animal",
+        "Environment",
+        "Estradiol",
+        "Fear",
+        "Female",
+        "Male",
+        "Nitriles",
+        "Noise",
+        "Progesterone",
+        "Rats",
+        "Rats, Wistar",
+        "Reaction Time",
+        "Receptors, Estrogen",
+        "Sex Characteristics"
+      ]
+    },
+    {
+      "pmid": "32838628",
+      "title": "The Effect of Music and White Noise on Electroencephalographic (EEG) Functional Connectivity in Neonates in the Neonatal Intensive Care Unit.",
+      "authors": [
+        "Akiyoshi Akiyama",
+        "Jeng-Dau Tsai",
+        "Emily W Y Tam",
+        "Daphne Kamino",
+        "Cecil Hahn",
+        "Cristina Y Go",
+        "Vann Chau",
+        "Hilary Whyte",
+        "Diane Wilson",
+        "Carol McNair",
+        "Vicky Papaioannou",
+        "Sarah C Hugh",
+        "Blake C Papsin",
+        "Sakura Nishijima",
+        "Toshimasa Yamazaki",
+        "Steven P Miller",
+        "Ayako Ochi"
+      ],
+      "journal": "Journal of child neurology",
+      "publication_date": "2021-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The purpose of this study is to investigate whether listening to music and white noise affects functional connectivity on scalp electroencephalography (EEG) in neonates in the neonatal intensive care unit.Nine neonates of ≥34 weeks' gestational age, who were already undergoing clinical continuous EEG monitoring in the neonatal intensive care unit, listened to lullaby-like music and white noise for 1 hour each separated by a 2-hour interval of no intervention. EEG segments during periods of music, white noise, and no intervention were band-pass filtered as delta (0.5-4 Hz), theta (4-8 Hz), lower alpha (8-10 Hz), upper alpha (10-13 Hz), beta (13-30 Hz), and gamma (30-45 Hz). Synchronization likelihood was used as a measure of connectivity between any 2 electrodes.In theta, lower alpha, and upper alpha frequency bands, the synchronization likelihood values yielded statistical significance with sound (music, white noise and no intervention) and with edge (between any 2 electrodes) factors. In theta, lower alpha, and upper alpha frequency bands, statistical significance was obtained between music and white noise (t = 3.12, 3.32, and 3.68, respectively; P < .017), and between white noise and no intervention (t = 4.51, 3.09, and 2.95, respectively, P < .017). However, there was no difference between music and no intervention.Although limited by a small sample size and the 1-time only auditory intervention, these preliminary results demonstrate the feasibility of EEG connectivity analyses even at bedside in neonates on continuous EEG monitoring in the neonatal intensive care unit. They also point to the possibility of detecting significant changes in functional connectivity related to the theta and alpha bands using auditory interventions.",
+      "mesh_terms": [
+        "Auditory Perception",
+        "Brain",
+        "Cross-Over Studies",
+        "Electroencephalography",
+        "Humans",
+        "Infant, Newborn",
+        "Intensive Care Units, Neonatal",
+        "Male",
+        "Music",
+        "Noise",
+        "Prospective Studies"
+      ]
+    },
+    {
+      "pmid": "31874652",
+      "title": "[Clinical effect of white noise combined with glucose in reducing the pain of retinopathy screening in preterm infants].",
+      "authors": [
+        "Xiang-Fang Ren",
+        "Zi-Zhen Wang",
+        "Mei Yang",
+        "Lei Li",
+        "Xiang-Yong Kong",
+        "Zhi-Chun Feng"
+      ],
+      "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+      "publication_date": "2019-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: To study the clinical effect of white noise combined with glucose in reducing the procedural pain of retinopathy screening in preterm infants. METHODS: A total of 396 preterm infants with a gestational age of 28-34 weeks and a birth weight of ≤2 000 g were randomly divided into 4 groups according to the intervention method for reducing pain in retinopathy screening: control group with 100 infants (no white noise or glucose intervention), white noise group with 96 infants, glucose group with 98 infants and white noise + glucose group with 102 infants. The Premature Infant Pain Profile (PIPP) was used to determine pain score during retinopathy screening, and the four groups were compared in terms of PIPP score before and after retinopathy screening. RESULTS: There were no significant differences in PIPP score, heart rate and blood oxygen saturation between the four groups at 3 minutes before screening (P>0.05). At 1 and 5 minutes after screening, the white noise, glucose and white noise + glucose groups had significantly lower heart rate and PIPP score but significantly higher blood oxygen saturation than the control group (P<0.05).The white noise + glucose group had significantly lower heart rate and PIPP score but significantly higher blood oxygen saturation than the white noise and glucose groups (P<0.05). CONCLUSIONS: White noise combined with glucose can reduce the procedural pain of retionopathy screening and keep vital signs stable in preterm infants.",
+      "mesh_terms": [
+        "Glucose",
+        "Heart Rate",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Pain",
+        "Pain Management"
+      ]
+    },
+    {
+      "pmid": "30670235",
+      "title": "White noise as a possible therapeutic option for children with ADHD.",
+      "authors": [
+        "Thomas A Pickens",
+        "Sara P Khan",
+        "Daniel J Berlau"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2019-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Attention deficit/hyperactivity disorder (ADHD) is a condition that affects many children and adults throughout the world. ADHD symptoms have been associated with changes in catecholamine release. Current therapies for ADHD have a variety of limitations that invite additional therapeutic options. White noise therapy has previously been utilized to improve sleep and aspects of cognition in a variety of patient populations. Through a proposed phenomenon called stochastic resonance, white noise may have the ability to improve symptoms in children with ADHD. Empirically, white noise therapy has been able to improve certain tasks affected by ADHD symptoms, including speech recognition and reading and writing speed. Not all tasks affected by ADHD are improved, however, and significant logistical challenges remain before this therapy could be realistically implemented. In this review, there appears to be evidence that white noise therapy could be beneficial for patients with ADHD, and therefore further research is encouraged to establish parameters for maximum therapeutic benefit.",
+      "mesh_terms": [
+        "Attention Deficit Disorder with Hyperactivity",
+        "Child",
+        "Cognition",
+        "Humans",
+        "Noise",
+        "Reading",
+        "Sleep",
+        "Writing"
+      ]
+    },
+    {
+      "pmid": "30656238",
+      "title": "Acoustic white noise ameliorates reduced regional brain expression of CaMKII and ΔFosB in the spontaneously hypertensive rat model of ADHD.",
+      "authors": [
+        "Daniel Eckernäs",
+        "Fredrik Hieronymus",
+        "Thomas Carlsson",
+        "Filip Bergquist"
+      ],
+      "journal": "IBRO reports",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Loud (≥70dBA) acoustic white noise improves cognitive performance in children with ADHD as well as skilled reach and rotarod performance in the spontaneously hypertensive (SH) rat model of ADHD. To investigate how acoustic noise influences the brain activity in the SH rat model of ADHD, immunohistochemical staining of two neuronal activity and plasticity markers, Ca2+/Calmodulin dependent protein kinase II (CaMKII) and ΔFosB, was evaluated in Wistar (n = 24) and SH (n = 16) rats after repeated exposure to acoustic noise or ambient silence. Other SH rats (n = 6) were treated with repeated methylphenidate (MPH). Expression of CaMKII was reduced in the tuberomammillary nucleus (TMN) of the SH rat compared to Wistar but not in the nucleus accumbens (nAc) or the dorsolateral prefrontal cortex (DL-PFC). In the TMN, the expression of CaMKII was increased by noise in both strains. ΔFosB expression was reduced in nAc, DL-PFC and the dorsolateral striatum (DLS) of the SH rat compared to Wistar. Exposure to acoustic white noise significantly increased ΔFosB expression in the nAc and DL-PFC but not in the DLS of SH rats. The results indicate that acoustic noise shifts a reduced neuronal activity in the nAc, TMN and DL-PFC in SH rats toward the normal levels of activity in outbred rats. This may explain why noise has benefit selectively in ADHD."
+    },
+    {
+      "pmid": "30178067",
+      "title": "Unintended Consequences of White Noise Therapy for Tinnitus-Otolaryngology's Cobra Effect: A Review.",
+      "authors": [
+        "Mouna Attarha",
+        "James Bigelow",
+        "Michael M Merzenich"
+      ],
+      "journal": "JAMA otolaryngology-- head & neck surgery",
+      "publication_date": "2018-Oct-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "IMPORTANCE: Critical to the success of many medical therapeutics is a consideration of the brain's miraculous ability to dynamically rewire itself anatomically and neurochemically on the basis of incoming information. We argue that white noise exposure, a commonly recommended therapy for patients with tinnitus, engages these plastic processes in a way that induces maladaptive changes in the brain that degrade neurological health and compromise cognition. OBSERVATIONS: The pathophysiologic mechanisms commonly associated with hearing loss and tinnitus reflect cortical dedifferentiation and widespread loss of inhibitory tone throughout the central auditory pathway. Importantly, these same changes are also induced by exposure to unstructured noise, even at nontraumatic levels in the adult nervous system. Not by coincidence, the same changes appear in age-related decline of central auditory function, suggesting that both tinnitus and white noise accelerate the aging of the brain. CONCLUSIONS AND RELEVANCE: Noise exposure therapies offer a seductive short-term solution for relief but, in the long term, undermine the functional and structural integrity of the central auditory system and the brain more generally. Sound therapies using unstructured, random (\"white\") noise should be avoided as a treatment for tinnitus. Alternative therapeutics that drive positive, adaptive plastic changes are discussed.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Evoked Potentials, Auditory, Brain Stem",
+        "Humans",
+        "Noise",
+        "Otolaryngology",
+        "Physical Therapy Modalities",
+        "Tinnitus"
+      ]
+    },
+    {
+      "pmid": "29315202",
+      "title": "The Effects of White Noise on Agitated Behaviors, Mental Status, and Activities of Daily Living in Older Adults With Dementia.",
+      "authors": [
+        "Li-Wei Lin",
+        "Shu-Chuan Weng",
+        "Hua-Shan Wu",
+        "Lu-Jen Tsai",
+        "Ya-Ling Lin",
+        "Shu-Hui Yeh"
+      ],
+      "journal": "The journal of nursing research : JNR",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The aging of society is a global trend, and care of older adults with dementia is an urgent challenge. As dementia progresses, patients exhibit negative emotions, memory disorders, sleep disorders, and agitated behavior. Agitated behavior is one of the most difficult problems for family caregivers and healthcare providers to handle when caring for older adults with dementia. PURPOSE: The aim of this study was to investigate the effectiveness of white noise in improving agitated behavior, mental status, and activities of daily living in older adults with dementia. METHODS: An experimental research design was used to study elderly participants two times (pretest and posttest). Six dementia care centers in central and southern Taiwan were targeted to recruit participants. There were 63 participants: 28 were in the experimental group, and 35 were in the comparison group. Experimental group participants received 20 minutes of white noise consisting of ocean, rain, wind, and running water sounds between 4 and 5 P.M. daily over a period of 4 weeks. The comparison group received routine care. Questionnaires were completed, and observations of agitated behaviors were collected before and after the intervention. RESULTS: Agitated behavior in the experimental group improved significantly between pretest and posttest. Furthermore, posttest scores on the Mini-Mental Status Examination and Barthel Index were slightly better for this group than at pretest. However, the experimental group registered no significant difference in mental status or activities of daily living at posttest. For the comparison group, agitated behavior was unchanged between pretest and posttest. CONCLUSIONS: The results of this study support white noise as a simple, convenient, and noninvasive intervention that improves agitated behavior in older adults with dementia. These results may provide a reference for related healthcare providers, educators, and administrators who care for older adults with dementia.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Aged",
+        "Aged, 80 and over",
+        "Anxiety",
+        "Dementia",
+        "Female",
+        "Humans",
+        "Male",
+        "Mental Health",
+        "Noise",
+        "Psychomotor Agitation",
+        "Surveys and Questionnaires",
+        "Taiwan",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "28618052",
+      "title": "Comparison between swinging and playing of white noise among colicky babies: A paired randomised controlled trial.",
+      "authors": [
+        "Emel Sezici",
+        "Deniz Yigit"
+      ],
+      "journal": "Journal of clinical nursing",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "AIMS AND OBJECTIVE: This study aimed to compare the effects of swinging and playing of white noise on the crying and sleeping durations of colicky babies. BACKGROUND: Infantile colic (IC) is one of the most common reasons for doctor visits among babies younger than 3 months. One of five babies older than 3 months also experiences IC. IC, unlike gastrointestinal problems, is regarded as an individual differentiation and maturation of the central nervous system. Providing a warm bath, breastfeeding, swinging and playing of white noise are nonpharmacological methods. The efficiency of these methods has been proven by various studies independently of one another. DESIGN: The study is a prospective, multicentre, paired randomised controlled trial. METHODS: The study was conducted between April-December 2016. The study sample consisted of 40 1-month-old babies with gas pains who passed a hearing screening and their mothers. The total daily crying and sleeping durations of the babies were determined without any intervention on the first week. On the second week, 20 randomly selected babies (first group) were swung each time they cried, and on the third week, they were made to listen to white noise. The other 20 babies (second group) were made to listen to white noise on the second week and were swung on the third week. Swinging and playing of white noise were performed until the babies stopped crying. After every intervention, the total crying and sleeping durations of the babies were evaluated using a \"Colicky Baby's Diary.\" RESULTS: Playing of white noise significantly decreased the daily crying durations (p < .05) and increased the sleeping durations of the colicky babies (p < .05) compared to swinging in both groups. CONCLUSION: Playing of white noise was found to be a more effective nonpharmacological method on crying and sleeping durations of colicky babies than swinging. RELEVANCE TO CLINICAL PRACTICE: Playing of white noise may be helpful for parents and healthcare personnel in reducing the gas pains of babies.",
+      "mesh_terms": [
+        "Colic",
+        "Crying",
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant Behavior",
+        "Infant Care",
+        "Male",
+        "Mothers",
+        "Noise",
+        "Prospective Studies",
+        "Sleep",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "28355949",
+      "title": "Differences in the suppression of distortion product otoacoustic emissions by contralateral white noise between patients with acute or chronic tinnitus.",
+      "authors": [
+        "Maria Riga",
+        "Agis Komis",
+        "Pavlos Marangoudakis",
+        "Stefanos Naxakis",
+        "Eleftherios Ferekidis",
+        "Dimitrios Kandiloros",
+        "Vasilios Danielides"
+      ],
+      "journal": "International journal of audiology",
+      "publication_date": "2017-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "abstract": "OBJECTIVE: The mechanisms underlying the shift from acute tinnitus to chronic remain obscure. An association between tinnitus and medial olivocochlear bundle (MOCB) reflex dysfunction has been hypothesised by several studies. The differences between participants with acute and chronic tinnitus have not yet been investigated. DESIGN: Participants were examined with distortion product otoacoustic emissions (DPOAEs) suppression elicited by contralateral white noise. They were compared in terms of frequency regions with non-recordable DPOAEs, suppression amplitudes and the presence of DPOAE enhancement. STUDY SAMPLE: Eighteen participants with acute tinnitus, 40 age-matched adults with chronic tinnitus and 17 controls were included. All participants (aged 34.7 ± 9.6years; mean ± Standard deviation) had normal hearing. Tinnitus was bilateral in 22 participants and unilateral in 36. RESULTS: Ears with chronic tinnitus presented significantly lower DPOAE suppression amplitudes than ears with acute tinnitus (p < 0.0001). Both acute and chronic tinnitus ears present a high prevalence of enhancement, significantly different from controls (p < 0.0001, p = 0.0002, respectively). Non-recordable DPOAEs were significantly more frequent in the chronic than in the acute tinnitus and control groups (p < 0.0001). CONCLUSIONS: The differences between study groups indicate that when tinnitus becomes chronic, DPOAEs suppression presents changes that might reveal corresponding steps in tinnitus pathophysiology. Treatment implications are discussed.",
+      "mesh_terms": [
+        "Adult",
+        "Case-Control Studies",
+        "Chronic Disease",
+        "Cochlea",
+        "Humans",
+        "Middle Aged",
+        "Noise",
+        "Prospective Studies",
+        "Tinnitus"
+      ]
+    },
+    {
+      "pmid": "27751753",
+      "title": "Effect of White Noise in Relieving Vaccination Pain in Premature Infants.",
+      "authors": [
+        "Sibel Kucukoglu",
+        "Aynur Aytekin",
+        "Ayda Celebioglu",
+        "Arzu Celebi",
+        "Ibrahim Caner",
+        "Rukiye Maden"
+      ],
+      "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
+      "publication_date": "2016-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The purpose of this study was to evaluate the effect of white noise as a distraction method in relieving procedural pain caused by vaccination for premature infants. This experimental study was performed at a neonatal intensive care unit (NICU) of a university hospital in Turkey between July and September 2013. The study population was composed of 75 premature infants (35 in the study group and 40 in the control group) who met the inclusion criteria. Premature infants in the study group were exposed to white noise using MP3 players placed at the head of the infants' open crib for 1 minute before vaccination. The white noise continued until 1 minute after vaccination. Premature infants in the control group were not exposed to white noise. The Premature Infant Information Form, Intervention Follow-up Form, and Premature Infant Pain Profile (PIPP) were used to collect study data. Descriptive statistics, chi-square test, and independent sample t-tests were used to evaluate the data. The pain level of the control group (PIPP = 14.35 ± 2.59) was significantly higher than the pain level of the study group (PIPP = 8.14 ± 3.14) (p < .05). The authors found that 67.6% of the infants in the study group had moderate pain during vaccination and only 2.9% had severe pain. Most of the infants in the control group (82.5%) had severe pain, whereas 17.5% had moderate pain (p < .05). White noise was found to be effective for this sample; however, there is a dire need for extensive research on white noise and its use with this vulnerable population.",
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Infant",
+        "Infant, Newborn",
+        "Infant, Premature",
+        "Male",
+        "Noise",
+        "Pain",
+        "Pain Management",
+        "Pain Measurement",
+        "Turkey",
+        "Vaccination"
+      ]
+    },
+    {
+      "pmid": "27495013",
+      "title": "Auditory white noise reduces age-related fluctuations in balance.",
+      "authors": [
+        "J M Ross",
+        "O J Will",
+        "Z McGann",
+        "R Balasubramaniam"
+      ],
+      "journal": "Neuroscience letters",
+      "publication_date": "2016-Sep-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Fall prevention technologies have the potential to improve the lives of older adults. Because of the multisensory nature of human balance control, sensory therapies, including some involving tactile and auditory noise, are being explored that might reduce increased balance variability due to typical age-related sensory declines. Auditory white noise has previously been shown to reduce postural sway variability in healthy young adults. In the present experiment, we examined this treatment in young adults and typically aging older adults. We measured postural sway of healthy young adults and adults over the age of 65 years during silence and auditory white noise, with and without vision. Our results show reduced postural sway variability in young and older adults with auditory noise, even in the absence of vision. We show that vision and noise can reduce sway variability for both feedback-based and exploratory balance processes. In addition, we show changes with auditory noise in nonlinear patterns of sway in older adults that reflect what is more typical of young adults, and these changes did not interfere with the typical random walk behavior of sway. Our results suggest that auditory noise might be valuable for therapeutic and rehabilitative purposes in older adults with typical age-related balance variability.",
+      "mesh_terms": [
+        "Accidental Falls",
+        "Acoustic Stimulation",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Aging",
+        "Humans",
+        "Noise",
+        "Postural Balance",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "27354974",
+      "title": "Effect of White Noise on Sleep in Patients Admitted to a Coronary Care.",
+      "authors": [
+        "Pouya Farokhnezhad Afshar",
+        "Fatemeh Bahramnezhad",
+        "Parvaneh Asgari",
+        "Mahmoud Shiri"
+      ],
+      "journal": "Journal of caring sciences",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Sleep disorders are a common problem in patients in the critical care unit. The objective of the present study was to determine the effect of white noise on the quality of sleep in patients admitted to the CCU. METHODS: The present study was single-blind, quasi-experimental study. A total of 60 patients were selected using the purposive sampling method. Quality of sleep was measured with PSQI on the first day in admission, then after three nights of admission without any intervention for control group and for the experimental group quality of sleep measured by white noise with intensity of 50-60 dB then Quality of sleep was measured with PSQI. Data were analyzed by SPSS 13 software. RESULTS: The average total sleep time in the control group before the study reached from 7.08 (0.8) to 4.75 (0.66) hours after three nights of hospitalization, while in the experimental group, no significant changes were seen in the average sleep hours (6.69 ± 0.84 vs. 6.92 ± 0.89, P = 0.15).The average minutes of sleep in the control group before the study reached from 12.66 (7.51) to 25.83 (11.75) minutes after a three- night stay, while in the experimental group, no significant changes were observed in the average sleep duration (12.16 ± 7.50 vs. 11 ±6. 07, P = 0.16). CONCLUSION: The use of white noise is recommended as a method for masking environmental noises, improving sleep, and maintaining sleep in the coronary care unit."
+    },
+    {
+      "pmid": "25487611",
+      "title": "Gilthead seabream (Sparus aurata) response to three music stimuli (Mozart--\"Eine Kleine Nachtmusik,\" Anonymous--\"Romanza,\" Bach--\"Violin Concerto No. 1\") and white noise under recirculating water conditions.",
+      "authors": [
+        "Sofronios E Papoutsoglou",
+        "Nafsika Karakatsouli",
+        "Anna Psarrou",
+        "Sofia Apostolidou",
+        "Eustratios S Papoutsoglou",
+        "Alkisti Batzina",
+        "Georgios Leondaritis",
+        "N Sakellaridis"
+      ],
+      "journal": "Fish physiology and biochemistry",
+      "publication_date": "2015-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This study presents the results of the response of Sparus aurata to three different musical stimuli, derived from the transmission (4 h per day, 5 days per week) of particular music pieces by Mozart, Romanza and Bach (140 dB(rms) re 1 μPa), compared to the same transmission level of white noise, while the underwater ambient noise in all the experimental tanks was 121 dB(rms) re 1 μPa. Using recirculating sea water facilities, 10 groups, 2 for each treatment, of 20 specimens of 11.2 ± 0.02 g (S.E.), were reared for 94 days, under 150 ± 10 l× 12L-12D, and were fed an artificial diet three times per day. Fish body weight showed significant differences after 55 days, while its maximum level was observed after the 69th day until the end of the experiment, the highest value demonstrated in Mozart (M) groups, followed by those of Romanza (R), Bach (B), control (C) and white noise (WN). SGR (M = B), %WG (M = B) and FCR (all groups fed same % b.w.) were also improved for M group. Brain neurotransmitters results exhibited significant differences in DA-dopamine, (M > B), 5HIAA (C > B), 5HIAA:5HT (WN > R), DOPAC (M > B), DOPAC:DA and (DOPAC + HVA):DA, (C > M), while no significant differences were observed in 5HT, NA, HVA and HVA:DA. No differences were observed in biometric measurements, protease activity, % fatty acids of fillet, visceral fat and liver, while differences were observed regarding carbohydrase activity and the amount (mg/g w.w.) of some fatty acids in liver, fillet and visceral fat. In conclusion, present results confirm those reported for S. aurata, concerning the observed relaxing influence--due to its brain neurotransmitters action--of the transmission of Mozart music (compared to R and B), which resulted in the achievement of maximum growth rate, body weight and improved FCR. This conclusion definitely supports the musical \"understanding\" and sensitivity of S. aurata to music stimuli as well as suggesting a specific effect of white noise.",
+      "mesh_terms": [
+        "3,4-Dihydroxyphenylacetic Acid",
+        "Acoustic Stimulation",
+        "Adipose Tissue",
+        "Analysis of Variance",
+        "Animals",
+        "Aquaculture",
+        "Body Weight",
+        "Body Weights and Measures",
+        "Brain",
+        "Dopamine",
+        "Fatty Acids",
+        "Liver",
+        "Music",
+        "Noise",
+        "Peptide Hydrolases",
+        "Sea Bream",
+        "Serotonin",
+        "Sound Spectrography"
+      ]
+    },
+    {
+      "pmid": "25393410",
+      "title": "Different effects of adding white noise on cognitive performance of sub-, normal and super-attentive school children.",
+      "authors": [
+        "Suzannah K Helps",
+        "Susan Bamford",
+        "Edmund J S Sonuga-Barke",
+        "Göran B W Söderlund"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: Noise often has detrimental effects on performance. However, because of the phenomenon of stochastic resonance (SR), auditory white noise (WN) can alter the \"signal to noise\" ratio and improve performance. The Moderate Brain Arousal (MBA) model postulates different levels of internal \"neural noise\" in individuals with different attentional capacities. This in turn determines the particular WN level most beneficial in each individual case-with one level of WN facilitating poor attenders but hindering super-attentive children. The objective of the present study is to find out if added WN affects cognitive performance differently in children that differ in attention ability. METHODS: Participants were teacher-rated super- (N = 25); normal- (N = 29) and sub-attentive (N = 36) children (aged 8 to 10 years). Two non-executive function (EF) tasks (a verbal episodic recall task and a delayed verbal recognition task) and two EF tasks (a visuo-spatial working memory test and a Go-NoGo task) were performed under three WN levels. The non-WN condition was only used to control for potential differences in background noise in the group testing situations. RESULTS: There were different effects of WN on performance in the three groups-adding moderate WN worsened the performance of super-attentive children for both task types and improved EF performance in sub-attentive children. The normal-attentive children's performance was unaffected by WN exposure. The shift from moderate to high levels of WN had little further effect on performance in any group. SIGNIFICANCE: The predicted differential effect of WN on performance was confirmed. However, the failure to find evidence for an inverted U function challenges current theories. Alternative explanations are discussed. We propose that WN therapy should be further investigated as a possible non-pharmacological treatment for inattention.",
+      "mesh_terms": [
+        "Attention",
+        "Child",
+        "Cognition",
+        "Executive Function",
+        "Female",
+        "Humans",
+        "Male",
+        "Memory, Short-Term",
+        "Mental Recall",
+        "Noise",
+        "Pattern Recognition, Physiological",
+        "Schools"
+      ]
+    },
+    {
+      "pmid": "23819634",
+      "title": "Efficacy of white noise therapy for dementia patients with schizophrenia.",
+      "authors": [
+        "Yutaka Kaneko",
+        "James P Butler",
+        "Etsuko Saitoh",
+        "Tatsuya Horie",
+        "Masahiko Fujii",
+        "Hidetada Sasaki"
+      ],
+      "journal": "Geriatrics & gerontology international",
+      "publication_date": "2013-Jul",
+      "publication_types": [
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Aged",
+        "Aged, 80 and over",
+        "Dementia",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Male",
+        "Noise",
+        "Schizophrenia",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "36747385",
+      "title": "Effect of the sound of the mother's heartbeat combined with white noise on heart rate, weight, and sleep in premature infants: a retrospective comparative cohort study.",
+      "authors": [
+        "Shiyan Zhang",
+        "Chunmei He"
+      ],
+      "journal": "Annals of palliative medicine",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The neonate intensive care unit (NICU) is a high-stress environment can affect the hormone secretion, cardiopulmonary function, sleep/wake cycle, alertness, temperature regulation, and intellectual development of premature infants. It is not conducive to their recovery, growth, and development. The sound of the mother's heartbeat and white noise can stabilize the heart rate and respiration of premature infants and alleviate pain. This study aims to analyze the effects of the sound of the mother's heartbeat combined with white noise on the heart rate, weight, and sleep status of premature infants in the NICU. METHODS: We retrospectively analyzed 121 premature infants admitted to the Newborn Department of Suzhou Kowloon Hospital from January 2019 to December 2021. The infants were divided into an intervention group (those given the mother's heartbeat sound combined with white noise) and a control group (routine treatment and nursing); the heart rate, sleep state, weight and weight gain rate of the two groups were compared before and after the intervention. RESULTS: The heart rate and behavioral status scores of the intervention group during the intervention (10, 20 min) and 1 min after the intervention were significantly lower than 1 min before the intervention (P<0.05). The intervention group's weight was significantly higher than the control group's on the 14th day after intervention (P<0.05), and the rate of weight gain was faster than that of the control group (P<0.05). The average daily milk intake of the intervention group in the first and second weeks was higher than that in the control group (P<0.05). Multiple stepwise regression analysis showed that the rate of weight gain in the intervention group was higher than that in the control group (P<0.05). CONCLUSIONS: The combination of the auditory stimulation of the mother's heartbeat and white noise for premature infants in NICU can effectively reduce the heart rate of premature infants, stabilize their mood, promote their sleep, increase the amount of milk consumption during hospitalization, increase the rate of weight gain, and promote their physical development."
+    },
+    {
+      "pmid": "14586821",
+      "title": "[The image of people with mental illness in movies: effects on beliefs, attitudes and social distance, considering as example the movie \"The white noise\"].",
+      "authors": [
+        "Anja Baumann",
+        "Harald Zaeske",
+        "Wolfgang Gaebel"
+      ],
+      "journal": "Psychiatrische Praxis",
+      "publication_date": "2003-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To examine the impact of the movie \"The White Noise\" on the audience's beliefs and attitudes towards schizophrenia. METHOD: Survey with pre-post-questionnaire to assess the knowledge about schizophrenia, stereotypical attitudes and social distance. RESULTS: Differences between the audience's knowledge about schizophrenia and expert opinion increased. Negative stereotypes reinforced and social distance increased. CONCLUSIONS: Treatment- and rehabilitation opportunities and coping with the illness in everyday life as well as the important role of support by family members and friends should be more accentuated to mediate more positive attitudes.",
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Germany",
+        "Health Education",
+        "Humans",
+        "Male",
+        "Motion Pictures",
+        "Prejudice",
+        "Psychological Distance",
+        "Public Opinion",
+        "Schizophrenia",
+        "Schizophrenic Psychology",
+        "Stereotyping"
+      ]
+    },
+    {
+      "pmid": "11707354",
+      "title": "Effects of contralateral white noise stimulation on distortion product otoacoustic emissions in myasthenic patients.",
+      "authors": [
+        "S Di Girolamo",
+        "A d'Ecclesia",
+        "N Quaranta",
+        "A Garozzo",
+        "A Evoli",
+        "G Paludetti"
+      ],
+      "journal": "Hearing research",
+      "publication_date": "2001-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Myasthenia gravis (MG) induces a reduction of transient evoked otoacoustic emissions (TEOAEs) and distortion product otoacoustic emissions (DPOAEs) that reverses partially after administration of an acetylcholinesterase (AChE) inhibitor. In normal subjects a contralateral acoustic stimulation (CAS) produces an amplitude reduction of TEOAEs and DPOAEs. This effect, called contralateral suppression (CS), is mediated by the efferent auditory system. Twenty subjects affected by MG underwent DPOAE recording with and without contralateral white noise in a drug-free baseline period ('basal') and 1 h ('post') after administration of a reversible AChE inhibitor. In 'basal' condition CAS did not induce significant DPOAE amplitude changes but a paradoxical slight increase was observed. After drug administration, CAS produced a significant decrease of DPOAE amplitudes for middle frequencies (f(2) between 1306 and 2600 Hz). In normal controls CAS caused a significant decrease (P<0.001) for all frequencies. The amount of CS in controls and in the MG 'post' condition was not significantly different. The increased acetylcholine (ACh) availability following drug consumption seems to partially restore outer hair cell function and enhances their electromotility; a further influx of ACh due to CAS yields to restoration of the CS. These findings also suggest that DPOAEs may be useful in the diagnosis of MG and for monitoring the effectiveness of treatment.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Adult",
+        "Cholinesterase Inhibitors",
+        "Ear",
+        "Functional Laterality",
+        "Humans",
+        "Middle Aged",
+        "Myasthenia Gravis",
+        "Noise",
+        "Otoacoustic Emissions, Spontaneous",
+        "Perceptual Distortion",
+        "Pyridostigmine Bromide",
+        "Reference Values",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "9373544",
+      "title": "A consideration of the effect of ear canal resonance and hearing loss upon white noise generators for tinnitus retraining therapy.",
+      "authors": [
+        "D M Baguley",
+        "G J Beynon",
+        "F Thornton"
+      ],
+      "journal": "The Journal of laryngology and otology",
+      "publication_date": "1997-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Tinnitus retraining therapy has been heralded as a major advance in the alleviation of tinnitus perception. A cornerstone of this technique is to use white noise produced by a white noise generator (WNG) over a period of several months in order to assist the patient to habituate to their tinnitus. There are three factors which influence the frequency spectrum of the perceived noise such that the perception of white noise from a WNG is unlikely. These factors are the actual spectrum of the emitted noise, the ear canal resonance of the patient and the hearing sensitivity of the patient. Advocates of tinnitus retraining therapy state that white noise is the optimal stimulation to assist habituation of tinnitus. This paper demonstrates that this optimal situation is unlikely to be achieved and that this may account for the long periods needed for patients to achieve benefit from the technique. The development of devices that allow for the above factors to be countered is suggested.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Auditory Perception",
+        "Ear Canal",
+        "Hearing Loss, Sensorineural",
+        "Humans",
+        "Tinnitus"
+      ]
+    },
+    {
+      "pmid": "8931624",
+      "title": "Environmental \"white noise\": an intervention for verbally agitated nursing home residents.",
+      "authors": [
+        "L Burgio",
+        "K Scilley",
+        "J M Hardin",
+        "C Hsu",
+        "J Yancey"
+      ],
+      "journal": "The journals of gerontology. Series B, Psychological sciences and social sciences",
+      "publication_date": "1996-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "This study presents preliminary data on the efficacy of two environmental \"white noise\" audiotapes for the treatment of verbal agitation in severely demented nursing home residents. The researchers employed a computer-assisted real-time observational system to assess both the frequency of verbal agitation and the actual use of the intervention on the nursing units (treatment fidelity). Intervention by nurse aides (NAs) on the unit was preceded by a researcher-controlled functional analysis phase that provided information regarding which of the two audiotapes would be most effective for individual residents. Results indicate a 23% reduction in verbal agitation with this individualized treatment strategy on the nursing units. These results were obtained even though treatment fidelity data showed that the audiotapes were used during only 51% of the observations. The authors discuss the need for formal staff management procedures for increasing staff compliance with treatment regimens.",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Aging",
+        "Dementia",
+        "Female",
+        "Humans",
+        "Male",
+        "Nursing Homes",
+        "Psychomotor Agitation",
+        "Verbal Behavior"
+      ]
+    },
+    {
+      "pmid": "7806480",
+      "title": "Piribedil affects dopamine turnover in cochleas stimulated by white noise.",
+      "authors": [
+        "P Gil-Loyzaga",
+        "M A Vicente-Torres",
+        "P Fernández-Mateos",
+        "A Arce",
+        "A Esquifino"
+      ],
+      "journal": "Hearing research",
+      "publication_date": "1994-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The presence of dopamine (DA) within the cochlea has been previously reported, indicating that its turnover increases under noise stimulation. In the present report, piribedil, a dopaminergic D2 agonist, was used in order to provide evidence of the activity of D2 receptors in the turnover of DA under noise stimulation. Long-Evans rats were intraperitoneally injected with distilled water or with a solution of piribedil one hour previously to either noise or silence exposure. Noise stimulation was performed in an anechoic chamber at 70, 90 or 110 dB SPL for one hour. The animals were then sacrificed and the cochlear contents of DA and its metabolites dihydroxyphenylacetic acid (DOPAC) and homovanillic acid (HVA) were quantified by HPLC with electrochemical detection. The administration of piribedil to animals kept in silence did not modify the cochlear DA, DOPAC and HVA content. Noise stimulation resulted in a decrease of the cochlear DA content and an increase of the cochlear DOPAC and HVA contents in vehicle treated animals. The administration of piribedil resulted in a blockade of this noise induced cochlear DA turnover. These results suggest that piribedil stimulates cochlear D2 receptors controlling the cochlear DA release. Piribedil action on D2 receptors could explain the improvement observed in some cochleo-vestibular diseases signs after piribedil treatment.",
+      "mesh_terms": [
+        "3,4-Dihydroxyphenylacetic Acid",
+        "Acoustic Stimulation",
+        "Animals",
+        "Chromatography, High Pressure Liquid",
+        "Cochlea",
+        "Dopamine",
+        "Homovanillic Acid",
+        "Injections, Intraperitoneal",
+        "Male",
+        "Olivary Nucleus",
+        "Piribedil",
+        "Rats",
+        "Receptors, Dopamine D2"
+      ]
+    },
+    {
+      "pmid": "7148436",
+      "title": "The effects of combined gentamicin and white noise on the spiral organ of young guinea pigs. A structural study.",
+      "authors": [
+        "H C Dodson",
+        "L H Bannister",
+        "E E Douek"
+      ],
+      "journal": "Acta oto-laryngologica",
+      "publication_date": "1982",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present work describes the effects on the spiral organ of very young guinea pigs, of continuous white noise (76 dB SPL, 7 days) combined with gentamicin, using surface preparations and both transmission and scanning electron microscopy to analyse structural changes. Gentamicin only, at 80 mg/kg/day for 5 days did not cause any perceptible loss of hair cells, and only minimal structural changes. When combined with 7 days of white noise, there was a widespread effect on outer hair cells throughout the cochlea, some changes being similar to those induced by sound alone, others being seen only in the combined experiments. Outer hair cell losses with sound and gentamicin treatment were highly variable, but in addition to apical damage, also seen in sound-treated animals, a more basal area of cell loss appeared in the spiral organ.",
+      "mesh_terms": [
+        "Animals",
+        "Animals, Suckling",
+        "Cochlea",
+        "Gentamicins",
+        "Guinea Pigs",
+        "Hair Cells, Auditory",
+        "Noise",
+        "Organ of Corti"
+      ]
+    }
+  ]
+}

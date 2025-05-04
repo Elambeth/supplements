@@ -1,0 +1,27 @@
+{
+  "supplement": "Starch- and Sucrose-Restricted Diet",
+  "query": "Starch- and Sucrose-Restricted Diet[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:44:16",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "34357334",
+      "title": "Metabolic Profiling of Plasma in Patients with Irritable Bowel Syndrome after a 4-Week Starch- and Sucrose-Reduced Diet.",
+      "authors": [
+        "Hans Stenlund",
+        "Clara Nilholm",
+        "Elin Chorell",
+        "Bodil Roth",
+        "Mauro D'Amato",
+        "Bodil Ohlsson"
+      ],
+      "journal": "Metabolites",
+      "publication_date": "2021-Jul-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A 4-week dietary intervention with a starch- and sucrose-restricted diet (SSRD) was conducted in patients with irritable bowel syndrome (IBS) to examine the metabolic profile in relation to nutrient intake and gastrointestinal symptoms. IBS patients were randomized to SSRD intervention (n = 69) or control continuing with their ordinary food habits (n = 22). Food intake was registered and the questionnaires IBS-symptoms severity scale (IBS-SSS) and visual analog scale for IBS (VAS-IBS) were completed. Metabolomics untargeted analysis was performed by gas chromatography mass spectrometry (GC-MS) and liquid chromatography mass spectrometry (LC-MS) in positive and negative ionization modes. SSRD led to marked changes in circulating metabolite concentrations at the group level, most prominent for reduced starch intake and increased polyunsaturated fat, with small changes in the control group. On an individual level, the correlations were weak. The marked reduction in gastrointestinal symptoms did not correlate with the metabolic changes. SSRD was observed by clear metabolic effects mainly related to linoleic acid metabolism, fatty acid biosynthesis, and beta-oxidation."
+    }
+  ]
+}

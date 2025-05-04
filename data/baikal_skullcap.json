@@ -1,0 +1,77 @@
+{
+  "supplement": "Baikal skullcap",
+  "query": "Baikal skullcap[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:14:51",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "15455121",
+      "title": "Effect of baikal skullcap extract administered alone or in combination with cyclophosphamide on natural cytotoxicity system in mice with Lewis lung carcinoma.",
+      "authors": [
+        "O A Kaplya",
+        "E Yu Sherstoboev",
+        "E P Zueva",
+        "T G Razina",
+        "E N Amosova",
+        "S G Krylova"
+      ],
+      "journal": "Bulletin of experimental biology and medicine",
+      "publication_date": "2004-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Baikal skullcap extract was introduced into cytostatic therapy of mice with Lewis lung carcinoma. This extract potentiated the antimetastatic effect of cyclophosphamide in mice with grafted tumors. Combined treatment with cyclophosphamide and extract of Baikal skullcap modulated cytotoxic activity of natural killer cells and peritoneal macrophages during tumor growth.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Lewis Lung",
+        "Cyclophosphamide",
+        "Cytotoxicity Tests, Immunologic",
+        "Killer Cells, Natural",
+        "Macrophages",
+        "Mice",
+        "Mice, Inbred Strains",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Scutellaria baicalensis"
+      ]
+    },
+    {
+      "pmid": "3825008",
+      "title": "[Enhancement of the selectivity of the action of the cytostatics cyclophosphane and 5-fluorouracil by using an extract of the Baikal skullcap in an experiment].",
+      "authors": [
+        "T G Razina",
+        "S N Udintsev",
+        "T P Prishchep",
+        "K V Iaremenko"
+      ],
+      "journal": "Voprosy onkologii",
+      "publication_date": "1987",
+      "publication_types": [
+        "Comparative Study",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "In experiments with murine and rat transplantable tumors, Scutellaria baicalensis Georgii extract treatment was shown to ameliorate cyclophosphamide and 5-fluorouracil-induced myelotoxicity and to decrease tumor cell viability. This was partly attributed to a pronounced antistressor action of the extract and its normalizing effect on some homeostatic parameters.",
+      "mesh_terms": [
+        "Animals",
+        "Cyclophosphamide",
+        "Drug Evaluation, Preclinical",
+        "Drug Synergism",
+        "Female",
+        "Fluorouracil",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Mice, Inbred CBA",
+        "Neoplasm Transplantation",
+        "Neoplasms, Experimental",
+        "Plant Extracts",
+        "Plants, Medicinal",
+        "Rats",
+        "Rats, Inbred Strains"
+      ]
+    }
+  ]
+}

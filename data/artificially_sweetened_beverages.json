@@ -1,0 +1,210 @@
+{
+  "supplement": "Artificially Sweetened Beverages",
+  "query": "Artificially Sweetened Beverages[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:12:16",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "37432352",
+      "title": "Switching from Sugar- to Artificially-Sweetened Beverages: A 12-Week Trial.",
+      "authors": [
+        "Michael D Kendig",
+        "Julie Y L Chow",
+        "Sarah I Martire",
+        "Kieron B Rooney",
+        "Robert A Boakes"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-May-04",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Consumption of sugar-sweetened beverages (SSBs) forms the primary source of added sugar intake and can increase the risk of metabolic disease. Evidence from studies in humans and rodents also indicates that consumption of SSBs can impair performance on cognitive tests, but that removing SSB access can ameliorate these effects. METHODS: The present study used an unblinded 3-group parallel design to assess the effects of a 12-week intervention in which young healthy adults (mean age = 22.85, SD = 3.89; mean BMI: 23.2, SD = 3.6) who regularly consumed SSBs were instructed to replace SSB intake with artificially-sweetened beverages (n = 28) or water (n = 25), or (c) to continue SSB intake (n = 27). RESULTS: No significant group differences were observed in short-term verbal memory on the Logical Memory test or the ratio of waist circumference to height (primary outcomes), nor in secondary measures of effect, impulsivity, adiposity, or glucose tolerance. One notable change was a significant reduction in liking for strong sucrose solutions in participants who switched to water. Switching from SSBs to 'diet' drinks or water had no detectable impact on cognitive or metabolic health over the relatively short time frame studied here. This study was prospectively registered with the Australian New Zealand Clinical Trials Registry (ACTRN12615001004550; Universal Trial Number: U1111-1170-4543).",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Young Adult",
+        "Adiposity",
+        "Artificially Sweetened Beverages",
+        "Australia",
+        "Sugar-Sweetened Beverages",
+        "Sugars"
+      ]
+    },
+    {
+      "pmid": "32529512",
+      "title": "Sugar and artificially sweetened beverages and risk of obesity, type 2 diabetes mellitus, hypertension, and all-cause mortality: a dose-response meta-analysis of prospective cohort studies.",
+      "authors": [
+        "Pei Qin",
+        "Quanman Li",
+        "Yang Zhao",
+        "Qing Chen",
+        "Xizhuo Sun",
+        "Yu Liu",
+        "Honghui Li",
+        "Tieqiang Wang",
+        "Xiaoliang Chen",
+        "Qionggui Zhou",
+        "Chunmei Guo",
+        "Dongdong Zhang",
+        "Gang Tian",
+        "Dechen Liu",
+        "Ranran Qie",
+        "Minghui Han",
+        "Shengbing Huang",
+        "Xiaoyan Wu",
+        "Yang Li",
+        "Yifei Feng",
+        "Xingjin Yang",
+        "Fulan Hu",
+        "Dongsheng Hu",
+        "Ming Zhang"
+      ],
+      "journal": "European journal of epidemiology",
+      "publication_date": "2020-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "Although consumption of sugar-sweetened beverages (SSBs) and artificially sweetened beverages (ASBs) has increasingly been linked with obesity, type 2 diabetes mellitus, hypertension, and all-cause mortality, evidence remains conflicted and dose-response meta-analyses of the associations are lacking. We conducted an updated meta-analysis to synthesize the knowledge about their associations and to explore their dose-response relations. We comprehensively searched PubMed, EMBASE, Web of Science, and Open Grey up to September 2019 for prospective cohort studies investigating the associations in adults. Summary relative risks (RRs) and 95% confidence intervals (CIs) were estimated for the dose-response association. Restricted cubic splines were used to evaluate linear/non-linear relations. We included 39 articles in the meta-analysis. For each 250-mL/d increase in SSB and ASB intake, the risk increased by 12% (RR = 1.12, 95% CI 1.05-1.19, I2 = 67.7%) and 21% (RR = 1.21, 95% CI 1.09-1.35, I2 = 47.2%) for obesity, 19% (RR = 1.19, 95% CI 1.13-1.25, I2 = 82.4%) and 15% (RR = 1.15, 95% CI 1.05-1.26, I2 = 92.6%) for T2DM, 10% (RR = 1.10, 95% CI 1.06-1.14, I2 = 58.4%) and 8% (RR = 1.08, 95% CI 1.06-1.10, I2 = 24.3%) for hypertension, and 4% (RR = 1.04, 95% CI 1.01-1.07, I2 = 58.0%) and 6% (RR = 1.06, 95% CI 1.02-1.10, I2 = 80.8%) for all-cause mortality. For SSBs, restricted cubic splines showed linear associations with risk of obesity (Pnon-linearity = 0.359), T2DM (Pnon-linearity = 0.706), hypertension (Pnon-linearity = 0.510) and all-cause mortality (Pnon-linearity = 0.259). For ASBs, we found linear associations with risk of obesity (Pnon-linearity = 0.299) and T2DM (Pnon-linearity = 0.847) and non-linear associations with hypertension (Pnon-linearity = 0.019) and all-cause mortality (Pnon-linearity = 0.048). Increased consumption of SSBs and ASBs is associated with risk of obesity, T2DM, hypertension, and all-cause mortality. However, the results should be interpreted cautiously because the present analyses were based on only cohort but not intervention studies.",
+      "mesh_terms": [
+        "Artificially Sweetened Beverages",
+        "Carbonated Beverages",
+        "Diabetes Mellitus, Type 2",
+        "Female",
+        "Humans",
+        "Hypertension",
+        "Obesity",
+        "Risk Factors",
+        "Sugars",
+        "Sweetening Agents"
+      ]
+    },
+    {
+      "pmid": "29273466",
+      "title": "The impact of replacing sugar- by artificially-sweetened beverages on brain and behavioral responses to food viewing - An exploratory study.",
+      "authors": [
+        "Camille Crézé",
+        "Marie-Laure Notter-Bielser",
+        "Jean-François Knebel",
+        "Vanessa Campos",
+        "Luc Tappy",
+        "Micah Murray",
+        "Ulrike Toepel"
+      ],
+      "journal": "Appetite",
+      "publication_date": "2018-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Several studies indicate that the outcome of nutritional and lifestyle interventions can be linked to brain 'signatures' in terms of neural reactivity to food cues. However, 'dieting' is often considered in a rather broad sense, and no study so far investigated modulations in brain responses to food cues occurring over an intervention specifically aiming to reduce sugar intake. We studied neural activity and liking in response to visual food cues in 14 intensive consumers of sugar-sweetened beverages before and after a 3-month replacement period by artificially-sweetened equivalents. Each time, participants were presented with images of solid foods differing in fat content and taste quality while high-density electroencephalography was recorded. Contrary to our hypotheses, there was no significant weight loss over the intervention period and no changes were observed in food liking or in neural activity in regions subserving salience and reward attribution. However, neural activity in response to high-fat, sweet foods was significantly reduced from pre-to post-intervention in prefrontal regions often linked to impulse control. This decrease in activity was associated with weight loss failure, suggesting an impairment in individuals' ability to exert control and adjust their solid food intake over the intervention period. Our findings highlight the need to implement multidisciplinary approaches when aiming to help individuals lose body weight.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Beverages",
+        "Brain",
+        "Choice Behavior",
+        "Cues",
+        "Diet",
+        "Dietary Sugars",
+        "Electroencephalography",
+        "Female",
+        "Food Preferences",
+        "Health Behavior",
+        "Humans",
+        "Longitudinal Studies",
+        "Male",
+        "Sweetening Agents",
+        "Taste",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28264429",
+      "title": "Metabolic Effects of Replacing Sugar-Sweetened Beverages with Artificially-Sweetened Beverages in Overweight Subjects with or without Hepatic Steatosis: A Randomized Control Clinical Trial.",
+      "authors": [
+        "Vanessa Campos",
+        "Camille Despland",
+        "Vaclav Brandejsky",
+        "Roland Kreis",
+        "Philippe Schneiter",
+        "Chris Boesch",
+        "Luc Tappy"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2017-Feb-27",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "OBJECTIVE: Addition of fructose to the diet of normal weight and overweight subjects can increase postprandial plasma triglyceride and uric acid concentration. We, therefore, assessed whether replacing sugar-sweetened beverages (SSB) with artificially-sweetened beverages (ASB) in the diet of overweight and obese subjects would decrease these parameters. METHODS: Twenty-six participants of the REDUCS study, which assessed the effects of replacing SSB by ASB over 12 weeks on intra-hepatocellular lipid concentration, were included in this sub-analysis. All were studied after a four-week run-in period during which they consumed their usual diet and SSBs, and after a 12-week intervention in which they were randomly assigned to replace their SSBs with ASBs (ASB arm) or to continue their usual diet and SSBs (control arm, CTRL). At the end of run-in (week 4) and again at the end of intervention (week 16), they took part in an 8.5 h metabolic investigation during which their plasma glucose, insulin, glucagon, lactate, triglyceride (TG), non-esterified fatty acids (NEFA), and uric acid concentrations were measured over a 30 min fasting period (-30-0 min), then every 2 h over 480 min. with ingestion of standard breakfast at time 0 min and a standard lunch at time 240 min. Breakfast and lunch were consumed together with a 3.3 dL SSB at week 4 and with either an ASB (ASB arm) or a SSB (CTRL arm) at week 16. After analyzing the whole group, a secondary analysis was performed on 14 subjects with hepatic steatosis (seven randomized to ASB, seven to CTRL) and 12 subjects without hepatic steatosis (six randomized to ASB and six to CTRL). RESULTS: Ingestion of meals increased plasma glucose, insulin, glucagon, lactate, and TG concentrations and decreased NEFA concentrations, but with no significant difference of integrated postprandial responses between week 4 and week 16 in both ASB and CTRL, except for a slightly decreased glucagon response in ASB. There was, however, no significant postprandial increase in uric acid concentration in both arms. In the secondary analysis, replacing SSBs with ASBs did not significantly change postprandial TG and uric acid concentrations irrespective of the presence or not of hepatic steatosis, Conclusions: In overweight, high SSB consumers, replacing SSBs with ASBs during 12 weeks did not significantly alter post-prandial TG and uric acid concentration, in spite of the lower energy and fructose content of the meals. These effects were globally the same in subjects without and with hepatic steatosis.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Body Mass Index",
+        "Diet",
+        "Fatty Acids, Nonesterified",
+        "Fatty Liver",
+        "Female",
+        "Glucagon",
+        "Humans",
+        "Insulin",
+        "Lactic Acid",
+        "Male",
+        "Meals",
+        "Nutritive Sweeteners",
+        "Obesity",
+        "Overweight",
+        "Postprandial Period",
+        "Sweetening Agents",
+        "Treatment Outcome",
+        "Triglycerides",
+        "Uric Acid",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "26727115",
+      "title": "Sugar- and artificially sweetened beverages and intrahepatic fat: A randomized controlled trial.",
+      "authors": [
+        "Vanessa Campos",
+        "Camille Despland",
+        "Vaclav Brandejsky",
+        "Roland Kreis",
+        "Philippe Schneiter",
+        "Arnaud Chiolero",
+        "Chris Boesch",
+        "Luc Tappy"
+      ],
+      "journal": "Obesity (Silver Spring, Md.)",
+      "publication_date": "2015-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: To test the hypothesis that substituting artificially sweetened beverages (ASB) for sugar-sweetened beverages (SSB) decreases intrahepatocellular lipid concentrations (IHCL) in overweight subjects with high SSB consumption. METHODS: About 31 healthy subjects with BMI greater than 25 kg/m(2) and a daily consumption of at least 660 ml SSB were randomized to a 12-week intervention in which they replaced SSBs with ASBs. Their IHCL (magnetic resonance spectroscopy), visceral adipose tissue volume (VAT; magnetic resonance imaging), food intake (2-day food records), and fasting blood concentrations of metabolic markers were measured after a 4-week run-in period and after a 12-week period with ASB or control (CTRL). RESULTS: About 27 subjects completed the study. IHCL was reduced to 74% of the initial values with ASB (N = 14; P < 0.05) but did not change with CTRL. The decrease in IHCL attained with ASB was more important in subjects with IHCL greater than 60 mmol/l than in subjects with low IHCL. ALT decreased significantly with SSB only in subjects with IHCL greater than 60 mmol/l. There was otherwise no significant effect of ASB on body weight, VAT, or metabolic markers. CONCLUSIONS: In subjects with overweight or obesity and a high SSB intake, replacing SSB with ASB decreased intrahepatic fat over a 12-week period.",
+      "mesh_terms": [
+        "Adipose Tissue",
+        "Adult",
+        "Beverages",
+        "Body Weight",
+        "Dietary Carbohydrates",
+        "Female",
+        "Humans",
+        "Intra-Abdominal Fat",
+        "Lipid Metabolism",
+        "Liver",
+        "Male",
+        "Obesity",
+        "Overweight",
+        "Sweetening Agents"
+      ]
+    }
+  ]
+}

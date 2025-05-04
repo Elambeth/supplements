@@ -1,0 +1,1848 @@
+{
+  "supplement": "5-HTP",
+  "query": "5-HTP[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:01:25",
+  "research_count": 64,
+  "count": 64,
+  "articles": [
+    {
+      "pmid": "40113000",
+      "title": "Directed evolution of hydroxylase XcP4H for enhanced 5-HTP production in engineered probiotics to treat depression.",
+      "authors": [
+        "Xiaowei Gao",
+        "Yingjie Sun",
+        "Yanhong Yang",
+        "Xiu Yang",
+        "Qiuyu Liu",
+        "Xiurong Guo",
+        "Lijuan Wu",
+        "Qin Wang"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2025-Mar-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Depression exhibits a complex and multifaceted pathophysiology, accompanied by high rates of relapse and disability with current medication treatments. 5-Hydroxytryptophan (5-HTP) is a promising candidate for depression therapy, but its poor pharmacokinetics hinders its clinical application. To address this limitation, we introduced the hydroxylase XcP4H into Escherichia coli Nissle 1917 (EcN) to biosynthesize 5-HTP in vivo. To create a high-yielding EcN strain for 5-HTP production, we engineered XcP4H through enzyme-directed evolution using a novel genetic code expansion-based high-throughput screening method. The most effective XcP4H variant achieved a 22-fold increase in 5-HTP production, and molecular dynamic simulations elucidated the underlying mechanisms. After pathway engineering and gene editing, we further improved the 5-HTP yield in EcN. When the most robust strain, EcN@5-HTP, was employed as a live therapeutic, it alleviated depressive-like behaviors in mice by increasing 5-HT levels in both the gut and brain, repairing neurological abnormalities, inhibiting inflammation, elevating SCFAs concentrations, and modulating gut microbiota dysbiosis. By integrating synthetic biology with enzyme-directed evolution, we successfully addressed the pharmacokinetic limitations of 5-HTP through a live therapeutic approach. This proof-of-concept design clearly demonstrates that combining synthetic biology with probiotics has the potential to significantly revolutionize our strategies for disease detection, prevention, and treatment."
+    },
+    {
+      "pmid": "35583055",
+      "title": "The Effects of 5-HTP on Body Composition: An 8-Week Preliminary RCT.",
+      "authors": [
+        "Cassandra Evans",
+        "Veronica Mekhail",
+        "Jason Curtis",
+        "Paulina Czartoryski",
+        "Jackie Kaminski",
+        "Anya Ellerbroek",
+        "Erik Bustillo",
+        "Lia Jiannine",
+        "Juan Carlos Santana",
+        "Jose Antonio"
+      ],
+      "journal": "Journal of dietary supplements",
+      "publication_date": "2023",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "The purpose of this investigation was to determine the effects of supplementing with 100 mg daily of 5-Hydroxytryptophan (5-HTP) on indices of body composition in exercise-trained men and women. Sixty-one subjects volunteered for this investigation. Forty-eight subjects were randomized into a treatment (n = 31, 12 male/19 female; 100 mg 5-HTP daily; CLEANMOOD™) or a placebo (n = 17, six male/11 female; maltodextrin). Body composition was assessed pre- and post-treatment after eight weeks via a multi-frequency bioelectrical impedance device (InBody® 270). Subjects were instructed to not change their training or eating habits; moreover, they were instructed to track their diet ∼2-3 days per week using a mobile app (MyFitnessPal). There were no changes in food intake (i.e. total energy intake or grams of macronutrients) between or within groups. Lean body mass, total body water, and % body fat did not change significantly in either group. Fat mass decreased significantly post versus pre in the 5-HTP group (p = 0.02) but did not change in the placebo group (p = 0.58). Moreover, changes in fat mass were significantly different between the 5-HTP and placebo group (p = 0.048). Based on the limited data from this investigation, daily supplementation with 100 mg of 5-HTP may affect body composition.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "5-Hydroxytryptophan",
+        "Body Composition",
+        "Energy Intake",
+        "Adipose Tissue",
+        "Diet"
+      ]
+    },
+    {
+      "pmid": "33375373",
+      "title": "5-Hydroxytryptophan (5-HTP): Natural Occurrence, Analysis, Biosynthesis, Biotechnology, Physiology and Toxicology.",
+      "authors": [
+        "Massimo E Maffei"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2020-Dec-26",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "L-5-hydroxytryptophan (5-HTP) is both a drug and a natural component of some dietary supplements. 5-HTP is produced from tryptophan by tryptophan hydroxylase (TPH), which is present in two isoforms (TPH1 and TPH2). Decarboxylation of 5-HTP yields serotonin (5-hydroxytryptamine, 5-HT) that is further transformed to melatonin (N-acetyl-5-methoxytryptamine). 5-HTP plays a major role both in neurologic and metabolic diseases and its synthesis from tryptophan represents the limiting step in serotonin and melatonin biosynthesis. In this review, after an look at the main natural sources of 5-HTP, the chemical analysis and synthesis, biosynthesis and microbial production of 5-HTP by molecular engineering will be described. The physiological effects of 5-HTP are discussed in both animal studies and human clinical trials. The physiological role of 5-HTP in the treatment of depression, anxiety, panic, sleep disorders, obesity, myoclonus and serotonin syndrome are also discussed. 5-HTP toxicity and the occurrence of toxic impurities present in tryptophan and 5-HTP preparations are also discussed.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Biotechnology",
+        "Humans",
+        "Mental Disorders",
+        "Obesity",
+        "Serotonin Syndrome",
+        "Sleep Wake Disorders",
+        "Toxicological Phenomena"
+      ]
+    },
+    {
+      "pmid": "33068678",
+      "title": "5-HTP decreases goat mammary epithelial cells apoptosis through MAPK/ERK/Bcl-3 pathway.",
+      "authors": [
+        "Haiying Zhao",
+        "Shunxin Chen",
+        "Kaizhao Hu",
+        "Zhifei Zhang",
+        "Xiaoru Yan",
+        "Huijie Gao",
+        "Wei Du",
+        "Huiling Zheng"
+      ],
+      "journal": "Gene",
+      "publication_date": "2021-Feb-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Serotonin (5-HT) is a monoamine and it could regulate cell growth by its receptors working on signaling pathways. 5-HTP is the precursor of 5-HT that help 5-HT synthesis. B cell leukemia/lymphoma 3 (Bcl-3) involved in cell death and proliferation through mitogen activated protein kinase (MAPK) pathway. However, there is little information about the effects of MAPK/Bcl-3 on apoptosis of goat mammary gland epithelial cells (GMECs). The aim of this study is to explore the interaction among 5-HTP, MAPK and Bcl-3 in GMEC apoptosis. In this study, 5-HTP treatment decreased cell apoptosis and promoted phosphorylation of ERK1/2 in GMEC. We also found that the activation and inhibition of ERK1/2 could affect GMEC apoptosis. The Annexin V-FITC/PI staining and western blotting results suggested that 5-HTP decreased GMEC apoptosis through ERK1/2 signaling pathway. And the results of RT-qPCR and western blotting demonstrated that both 5-HTP and ERK1/2 positively regulated Bcl-3 expression. Sum up all the results, we could draw the conclusion that 5-HTP decreased GMEC apoptosis through MAPK/ERK/Bcl-3 pathway.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Apoptosis",
+        "B-Cell Lymphoma 3 Protein",
+        "Cell Proliferation",
+        "Cells, Cultured",
+        "Epithelial Cells",
+        "Extracellular Signal-Regulated MAP Kinases",
+        "Goats",
+        "MAP Kinase Signaling System",
+        "Mammary Glands, Animal",
+        "Phosphorylation",
+        "Signal Transduction"
+      ]
+    },
+    {
+      "pmid": "31780943",
+      "title": "The Triple Combination Phentermine Plus 5-HTP/Carbidopa Leads to Greater Weight Loss, With Fewer Psychomotor Side Effects Than Each Drug Alone.",
+      "authors": [
+        "Claudia I Perez",
+        "B Kalyanasundar",
+        "Mario G Moreno",
+        "Ranier Gutierrez"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity has become a serious public health problem. Although diet, surgery, and exercise are the primary treatments for obesity, these activities are often supplemented using appetite suppressants. A previous study reported that obesity specialists frequently prescribed a new drug combination for its treatment that includes phentermine (Phen; dopaminergic appetite suppressant), a serotonin (5-HT) precursor 5-hydroxytryptophan (5-HTP; an appetite suppressant that increases the 5-HT concentration), and carbidopa (CB; peripheral blocker of conversion of 5-HTP to 5-HT). Despite its widespread use, there is neither a preclinical study confirming the drug efficacy nor studies of its effects on the brain. To fill this gap, in rats for seven consecutive days, we administered Phen intraperitoneally at different doses either alone or in combination with a fixed dose of 5-HTP/CB. In a different group, we infused drugs via an intraperitoneal catheter while extracellular-recordings were performed in the nucleus accumbens shell (NAcSh), a brain region with dopamine-releasing effects that is involved in the action of appetite suppressants. We found that the triple-drug combination leads to greater weight-loss than each drug alone. Moreover, and as the treatment progresses, the triple drug combination partially reversed psychomotor side-effects induced by Phen. Electrophysiological results revealed that Phen alone evoked a net inhibitory imbalance in NAcSh population activity that correlated with the onset of psychomotor effects. In addition, and unlike the greater weight loss, the addition of 5-HTP/CB did not alter the Phen-evoked inhibitory imbalance in NAcSh responses. Subsequent experiments shed light on the underlying mechanism. That is the majority of NAcSh neurons modulated by 5-HTP/CB were suppressed by Phen. Notably, and despite acting via a different mechanism of action (DA for Phen vs. 5-HT for 5-HTP/CB), both drugs recruited largely overlapping NAcSh neuronal ensembles. These data suggest that the neural correlates of the greater weight loss could be located outside the NAcSh, in other brain circuits. Furthermore, we conclude that Phen + 5-HTP/CB is a potential treatment for overweight and obesity."
+    },
+    {
+      "pmid": "31778690",
+      "title": "5-Hydroxytryptophan (5-HTP)-induced intracellular syndrome in mouse non-neural embryonic cells is associated with inhibited proliferation and cell death.",
+      "authors": [
+        "Olga Gordeeva",
+        "Vitaliy Safandeev"
+      ],
+      "journal": "Neuropharmacology",
+      "publication_date": "2021-Sep-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Biogenic monoamines are involved in the regulation of various processes in both neural and non-neural cells during development. The present study aimed to identify the regulatory effects of serotonin (5-HT) and its precursors (l-tryptophan and 5-hydroxytryptophan, 5-HTP) on proliferation and cell death in mouse embryonic stem cells (ESCs) and embryonic fibroblasts (MEFs and 3T3 cells). The concentration-dependent cell growth and viability of the ESCs, MEFs and 3T3 cells were analyzed after treatment with l-tryptophan, 5-HTP and 5-HT in the concentration range 10-6 - 10-2 M. Treating the cells with 5-HTP, but not l-tryptophan and 5-HT, induced reversible toxic effects. 5-HTP treatment (10-3 - 10-2 M) significantly inhibited cell proliferation through blocking of the S-phase of the cell cycle and increasing apoptotic and necrotic cell death. Moreover, 5-HTP treatment stimulated a reorganization of the actin and tubulin networks and upregulated the gene expression of enzymes involved in 5-HT synthesis and metabolism: aromatic amino acid decarboxylase (Aadc/Ddc), monoamine oxidase A (Maoa), and transglutaminase 2 (Tgm2). HPLC analysis found no changes in the intracellular and extracellular levels of 5-HT after 5-HTP treatment, but a significant increase of intracellular 5-HTP levels. However, inhibition of AADC with NSD-1015 or transglutaminase with cystamine prevented 5-HTP-induced cell growth impairment and attenuated the toxic effects of 5-HTP treatment. Our results suggest that 5-HTP can induce toxic effects through cell cycle arrest and cell death in embryonic stem and somatic cells by enhancing the levels of 5-HT-mediated protein modifications. This article is part of the special issue entitled 'Serotonin Research: Crossing Scales and Boundaries'.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Alkaline Phosphatase",
+        "Animals",
+        "Annexin A5",
+        "Apoptosis",
+        "Cell Death",
+        "Cell Proliferation",
+        "Mice",
+        "Mouse Embryonic Stem Cells",
+        "NIH 3T3 Cells",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "26921634",
+      "title": "Sleep-promoting effects of a GABA/5-HTP mixture: Behavioral changes and neuromodulation in an invertebrate model.",
+      "authors": [
+        "Ki-Bae Hong",
+        "Yooheon Park",
+        "Hyung Joo Suh"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2016-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: This study was to investigate the sleep promoting effects of combined γ-aminobutyric acid (GABA) and 5-hydroxytryptophan (5-HTP), by examining neuronal processes governing mRNA level alterations, as well as assessing neuromodulator concentrations, in a fruit fly model. MAIN METHODS: Behavioral assays were applied to investigate subjective nighttime activity, sleep episodes, and total duration of subjective nighttime sleep of two amino acids and GABA/5-HTP mixture with caffeine treated flies. Also, real-time PCR and HPLC analysis were applied to analyze the signaling pathway. KEY FINDINGS: Subjective nighttime activity and sleep patterns of individual flies significantly decreased with 1% GABA treatment in conjunction with 0.1% 5-HTP treatment (p<0.001). Furthermore, GABA/5-HTP mixture resulted in significant differences between groups related to sleep patterns (40%, p<0.017) and significantly induced subjective nighttime sleep in the awake model (p<0.003). These results related to transcript levels of the GABAB receptor (GABAB-R1) and serotonin receptor (5-HT1A), compared to the control group. In addition, GABA/5-HTP mixture significantly increased GABA levels 1h and 12h following treatment (2.1 fold and 1.2 fold higher than the control, respectively) and also increased 5-HTP levels (0 h: 1.01 μg/protein, 12h: 3.45 μg/protein). SIGNIFICANCE: In this regard, we successfully demonstrated that using a GABA/5-HTP mixture modulates subjective nighttime activity, sleep episodes, and total duration of subjective nighttime sleep to a greater extent than single administration of each amino acid, and that this modulation occurs via GABAergic and serotonergic signaling.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Behavior, Animal",
+        "Caffeine",
+        "Central Nervous System Stimulants",
+        "Drosophila melanogaster",
+        "Hypnotics and Sedatives",
+        "Motor Activity",
+        "Neurotransmitter Agents",
+        "Receptor, Serotonin, 5-HT1A",
+        "Receptors, GABA-B",
+        "Signal Transduction",
+        "Sleep",
+        "gamma-Aminobutyric Acid"
+      ]
+    },
+    {
+      "pmid": "26000689",
+      "title": "The Successful Treatment of Opioid Withdrawal-Induced Refractory Muscle Spasms with 5-HTP in a Patient Intolerant to Clonidine.",
+      "authors": [
+        "Jennifer Dais",
+        "Ankur Khosia",
+        "Gulshan Doulatram"
+      ],
+      "journal": "Pain physician",
+      "publication_date": "2015",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Instituting drug holidays for chronic opioid using patients is becoming commonplace for pain practitioners initiating procedures such as intrathecal pump or spinal cord stimulator trials. As such, pain practitioners need to be adept in their management of acute opioid withdrawal. Successfully weaning an opioid dependent patient off of chronic opioids requires a thorough knowledge of the available adjuvants to assist in this process. However, that selection can become exhausted by adjuvant side effects or by ineffective attenuation of opioid withdrawal symptoms. In that case, novel drugs, or novel application of currently available medications must be sought after to assist in the drug holiday. We present a case in which refractory muscle spasms secondary to opioid withdrawal were successfully treated with an over-the-counter supplement that is not typically used for the attenuation of opioid withdrawal symptoms. In a patient intolerant to the side effects of clonidine, we were able to successfully wean chronic opiates by treating refractory muscle spasms with the serotonin precursor, 5-hydroxytryptophan (5-HTP). We hypothesize that our success with this medication gives further credence to the role of serotonin in opioid withdrawal somatic symptomatology, and supports the need for future research to clarify the role of serotonin precursors or serotonin modulating drugs as potential alternatives in those unable to follow standard treatment protocols.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adrenergic alpha-Agonists",
+        "Analgesics, Opioid",
+        "Back Pain",
+        "Clonidine",
+        "Female",
+        "Humans",
+        "Injections, Spinal",
+        "Middle Aged",
+        "Sleep Initiation and Maintenance Disorders",
+        "Spasm",
+        "Substance Withdrawal Syndrome",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "25763508",
+      "title": "Combined Sepiapterin Reductase and Methylmalonyl-CoA Epimerase Deficiency in a Second Patient: Cerebrospinal Fluid Polyunsaturated Fatty Acid Level and Follow-Up Under L-DOPA, 5-HTP and BH4 Trials.",
+      "authors": [
+        "Michel Mazzuca",
+        "Marie-Anne Maubert",
+        "Léna Damaj",
+        "Fabienne Clot",
+        "Marylène Cadoudal",
+        "Christele Dubourg",
+        "Sylvie Odent",
+        "Jean François Benoit",
+        "Nadia Bahi-Buisson",
+        "Laurence Christa",
+        "Pascale de Lonlay"
+      ],
+      "journal": "JIMD reports",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: Objective/context: We describe the second patient presenting the combination of two homoallelic homozygous nonsense mutations in two genes distant from 1.8 Mb in the chromosome 2p13-3, the methylmalonyl-CoA epimerase gene (MCEE) and the sepiapterin reductase gene (SPR). CASE REPORT: The patient was born from consanguineous parents. He has presented a moderate but constant methylmalonic acid (MMA) excretion in urine associated with a mental retardation. The first homozygous mutation was identified in the MCEE gene (c.139C>T; p.Arg47*). Progressive dystonia and cataplexy narcolepsy led to diagnose the second homozygous mutation in the SPR gene: c.751A>T; p.Lys251*. Sepiapterin reductase deficiency (SRD) was characterized by a defect in tetrahydrobiopterin (BH4), the cofactor of several hydroxylases needed for the synthesis of neurotransmitters. A treatment with L-DOPA/carbidopa and 5-HTP dramatically improved the dystonic posture, the mood and the hypersomnia, proving that the pathogenesis was due to SRD. A supplementation with BH4 did not induce additional clinical benefit, although HVA and HIAA increased in CSF. The polyunsaturated fatty acids were measured in CSF as the markers of the neuronal stress. We have shown that DHA and its precursor EPA were high before and during the time course of the different treatments. IN CONCLUSION: The patient has inherited two copies of the two mutations from his consanguineous parents in the MCEE and SPR genes in the chromosome 2p13-3. DHA and EPA increased in CSF as a response to the neuronal stress induced by the defect in neurotransmitters or the altered metabolism of the odd-chain fatty acids and cholesterol."
+    },
+    {
+      "pmid": "24084697",
+      "title": "[(11)C]5-HTP and microPET are not suitable for pharmacodynamic studies in the rodent brain.",
+      "authors": [
+        "Anniek K D Visser",
+        "Nisha K Ramakrishnan",
+        "Antoon T M Willemsen",
+        "Valentina Di Gialleonardo",
+        "Erik F J de Vries",
+        "Ido P Kema",
+        "Rudi A J O Dierckx",
+        "Aren van Waarde"
+      ],
+      "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The PET tracer [(11)C]5-hydroxytryptophan ([(11)C]5-HTP), which is converted to [(11)C]5-hydroxytryptamine ([(11)C]5-HT) by aromatic amino acid decarboxylase (AADC), is thought to measure 5-HT synthesis rates. But can we measure these synthesis rates by kinetic modeling of [(11)C]5-HTP in rat? Male rats were scanned with [(11)C]5-HTP (60 minutes) after different treatments. Scans included arterial blood sampling and metabolite analysis. 5-HT synthesis rates were calculated by a two-tissue compartment model (2TCM) with irreversible tracer trapping or Patlak analysis. Carbidopa (inhibitor peripheral AADC) dose-dependently increased [(11)C]5-HTP brain uptake, but did not influence 2TCM parameters. Therefore, 10 mg/kg carbidopa was applied in all subsequent study groups. These groups included treatment with NSD 1015 (general AADC inhibitor) or p-chlorophenylalanine (PCPA, inhibitor of tryptophan hydroxylase, TPH). In addition, the effect of a low-tryptophan (Trp) diet was investigated. NSD 1015 or Trp depletion did not affect any model parameters, but PCPA reduced [(11)C]5-HTP uptake, and the k3. This was unexpected as NSD 1015 directly inhibits the enzyme converting [(11)C]5-HTP to [(11)C]5-HT, suggesting that trapping of radioactivity does not distinguish between parent tracer and its metabolites. As different results have been acquired in monkeys and humans, [(11)C]5-HTP-PET may be suitable for measuring 5-HT synthesis in primates, but not in rodents.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Aromatic Amino Acid Decarboxylase Inhibitors",
+        "Brain",
+        "Carbidopa",
+        "Carbon Radioisotopes",
+        "Enzyme Inhibitors",
+        "Hydrazines",
+        "Male",
+        "Models, Biological",
+        "Positron-Emission Tomography",
+        "Rats",
+        "Rats, Wistar",
+        "Sensitivity and Specificity",
+        "Serotonin",
+        "Tissue Distribution",
+        "Tryptophan"
+      ]
+    },
+    {
+      "pmid": "22888252",
+      "title": "5-HTP efficacy and contraindications.",
+      "authors": [
+        "Marty Hinz",
+        "Alvin Stein",
+        "Thomas Uncini"
+      ],
+      "journal": "Neuropsychiatric disease and treatment",
+      "publication_date": "2012",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "abstract": "L-5-hydroxytryptophan (5-HTP) is the immediate precursor of serotonin. It is readily synthesized into serotonin without biochemical feedback. This nutrient has a large and strong following who advocate exaggerated and inaccurate claims relating to its effectiveness in the treatment of depression and a number of other serotonin-related diseases. These assertions are not supported by the science. Under close examination, 5-HTP may be contraindicated for depression in some of the very patients for whom promoters of 5-HTP advocate its use."
+    },
+    {
+      "pmid": "22110560",
+      "title": "Erratum: GTP-cyclohydrolase deficiency responsive to sapropterin and 5-HTP supplementation: relief of treatment-refractory depression and suicidal behaviour.",
+      "authors": [
+        "Lisa Pan",
+        "Brian William McKain",
+        "Suneeta Madan-Khetarpal",
+        "Marianne McGuire",
+        "Rasim S Diler",
+        "James M Perel",
+        "Jerry Vockley",
+        "David A Brent"
+      ],
+      "journal": "BMJ case reports",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article",
+        "Published Erratum"
+      ],
+      "abstract": "[This corrects the article DOI: 10.1136/bcr.03.2011.3927.]."
+    },
+    {
+      "pmid": "22691588",
+      "title": "GTP-cyclohydrolase deficiency responsive to sapropterin and 5-HTP supplementation: relief of treatment-refractory depression and suicidal behaviour.",
+      "authors": [
+        "Lisa Pan",
+        "Brian William McKain",
+        "Suneeta Madan-Khetarpal",
+        "Marianne Mcguire",
+        "Rasim S Diler",
+        "James M Perel",
+        "Jerry Vockley",
+        "David A Brent"
+      ],
+      "journal": "BMJ case reports",
+      "publication_date": "2011-Jun-09",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "The authors describe a new variant of guanosine triphosphate (GTP)- cyclohydrolase deficiency in a young man with severe and disabling major depressive disorder with multiple near-lethal suicide attempts. His cerebrospinal fluid levels showed that the concentration of tetrahydrobiopterin (BH4), neopterin, 5-hydroxyindoleacetic acid and homovanillic acid were below the reference range, suggesting a defect in the pterin biosynthetic pathway and in synthesis of dopamine and serotonin indicative of GTP-cyclohydrolase deficiency. Patient was started on sapropterin, a BH4 replacement protein, for the defect in the above pathway. In addition, the authors started 5-hydroxytryptophan titrated to 400 mg orally twice daily with concomittant carbidopa 37.5 mg orally four times a day, and he responded with remission of suicidal ideation and significant improvement in depression and function.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Antidepressive Agents, Second-Generation",
+        "Biopterins",
+        "Depressive Disorder, Major",
+        "GTP Cyclohydrolase",
+        "Humans",
+        "Male",
+        "Suicidal Ideation"
+      ]
+    },
+    {
+      "pmid": "20737522",
+      "title": "Oral administration of 5-hydroxytryptophan (5-HTP) impairs decision making under ambiguity but not under risk: evidence from the Iowa Gambling Task.",
+      "authors": [
+        "Mathew H Gendle",
+        "Abbe C Golding"
+      ],
+      "journal": "Human psychopharmacology",
+      "publication_date": "2010-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Although the serotonin precursor 5-hydroxytryptophan (5-HTP) is marketed as a psychoactive nutritional supplement, knowledge is limited regarding the effects of exogenous 5-HTP on brain activity. This study examined if oral administration of 5-HTP to healthy adults impacted: (1) mood states, as measured by the Profile of Mood States (POMS); and (2) performance on the Iowa Gambling Task (IGT), a measure sensitive to alterations in frontocortical serotonin levels. METHODS: A sample of 46 undergraduates participated, and each received either two 50 mg 5-HTP capsules or placebos, and completed the IGT and POMS following an absorption period. RESULTS: 5-HTP did not significantly alter mood states, but did impair performance on the IGT. Specifically, the 5-HTP group performed more poorly than the placebo group during the first 20 trials of the IGT but did not differ from the placebo group on trials 21-100. This suggests that oral 5-HTP specifically impaired decision making under ambiguity but not under risk. Males also performed more poorly on the first 20 trials of the IGT, regardless of treatment group. CONCLUSIONS: Oral 5-HTP is psychoactive at low doses. Decisions made under ambiguity may be differentially sensitive to increased serotonin release or associated reductions in frontocortical dopamine activity.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Administration, Oral",
+        "Affect",
+        "Decision Making",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "Gambling",
+        "Humans",
+        "Judgment",
+        "Male",
+        "Neuropsychological Tests",
+        "Problem Solving",
+        "Psychotropic Drugs",
+        "Risk",
+        "Sex Factors",
+        "Students",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "20519168",
+      "title": "Effects of marijuana and diazepam on lipid peroxidation, Na+ , K+ ATPase, and levels of glutathione and 5-HTP in rat brain.",
+      "authors": [
+        "G D Calderón",
+        "Gabriela J Esquivel",
+        "Ernestina H García",
+        "Norma B Osnaya",
+        "H Juárez Olguín"
+      ],
+      "journal": "Acta biologica Hungarica",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Our aim was to evaluate the effects of marijuana (Mar) and diazepam (Dz) on lipid peroxidation (TBARS), Na + , K + ATP ase activity, levels of glutathione (GSH) and 5-hydroxytryptophan (5-HTP). Male Wistar rats were given a single dose per group: extract of Mar (100 microL/kg), Dz (5 mg/kg), Mar plus Dz, and NaCl for control. Sixty mins after treatment, animals were sacrificed, and their brains extracted and homogenised to measure GSH, TBARS and 5-HTP levels. Na + , K + ATP ase and total ATP ase activities. GSH and TBARS did not show differences respect to controls. Na + , K + ATP ase activity was similar as well. However, groups treated with Mar, total ATPase activity decreased significantly (p < 0.05). Levels of 5-HTP decreased significantly (p = 0.0001) in rats treated either with Mar and or Dz. Mar and Dz induced biochemical effects on the serotonergic metabolism, which can alter the development and function in rat brain, because it has also been involved in scavenging free radicals present there.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adenosine Triphosphatases",
+        "Animals",
+        "Anti-Anxiety Agents",
+        "Brain",
+        "Cannabis",
+        "Diazepam",
+        "Glutathione",
+        "Lipid Peroxidation",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Serotonin",
+        "Sodium-Potassium-Exchanging ATPase",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "22084581",
+      "title": "Production and Peripheral Roles of 5-HTP, a Precursor of Serotonin.",
+      "authors": [
+        "Kazuhiro Nakamura",
+        "Hiroyuki Hasegawa"
+      ],
+      "journal": "International journal of tryptophan research : IJTR",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Serotonin (5-hydroxytryptamine [5-HT]) has been implicated in a variety of physiological and pathological functions. Multiple steps of enzyme reactions enable biosynthesis of 5-HT. The first and rate-limiting step of the reaction is the synthesis of 5-hydroxy-L-tryptophan (5-HTP) from L-tryptophan. This step is dictated by an enzyme, tryptophan hydroxylase (TPH). TPH requires 6R-L-erythro-5,6,7,8-tetrahydrobiopterin (BH4) as a co-substrate of TPH. 5-HTP has been simply regarded as a precursor of 5-HT and it is believed that the biological significance of 5-HTP is essentially ascribed to the production of 5-HT. However, recent works shed light on the specific functions of 5-HTP in the periphery. In this review article, we focus on the specific roles of exogenous 5-HTP as well as the endogenous 5-HTP in the gut epithelial cells. Since systemic treatment with 5-HTP is applied to patients with lower 5-HT levels, the studies on the specific role of 5-HTP might create an opportunity to explore the effects of exogenously-applied 5-HTP in the gut in man."
+    },
+    {
+      "pmid": "15121217",
+      "title": "The effect of oral 5-HTP administration on 5-HTP and 5-HT immunoreactivity in monoaminergic brain regions of rats.",
+      "authors": [
+        "Christina P Lynn-Bullock",
+        "Kristy Welshhans",
+        "Sarah L Pallas",
+        "Paul S Katz"
+      ],
+      "journal": "Journal of chemical neuroanatomy",
+      "publication_date": "2004-May",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "5-Hydroxytryptophan (5-HTP), which is the rate-limiting precursor in serotonin (5-hydroxytryptamine (5-HT)) biosynthesis, is used as an oral supplement to enhance serotonin levels in humans. To evaluate its effects on serotonin levels and localization, 5-hydroxytryptophan was administered to Sprague-Dawley rats either orally or via intraperitoneal injection. 5-Hydroxytryptophan-immunoreactivity was co-localized with serotonin-immunoreactivity in the serotonergic dorsal raphe nucleus of control animals and this was not changed in animals given 5-hydroxytryptophan. Oral 5-HTP administration increased the intensity of both 5-HTP and serotonin immunoreactivity in raphe neurons. However, 5-HTP treatment also caused ectopic 5-hydroxytryptophan-immunoreactivity and serotonin-immunoreactivity in normally dopaminergic neurons of the substantia nigra par compacta. Serotonin-immunoreactivity was confined to neurons that also displayed amino acid decarboxylase immunoreactivity, but in a small percentage of substantia nigra neurons, serotonin immunoreactivity was not co-localized with tyrosine hydroxylase-immunoreactivity. The intensity of the immunoreactivity to serotonin and 5-hydroxytryptophan in the substantia nigra was maximal within 2h of 5-hydroxytryptophan administration and returned to control levels by 24h. This time course mirrored changes in HPLC measurements of 5-hydroxytryptophan, serotonin, and the metabolite 5-hydroxyindoleacetic acid (5-HIAA) in the urine. 5-Hydroxytryptophan administration did not cause ectopic appearance of either serotonin or 5-hydroxytryptophan in the noradrenergic locus coeruleus. These results suggest that a single oral dose of 5-HTP increases the 5-HTP and serotonin content of serotonergic neurons and causes the transient ectopic appearance of serotonin in some normally non-serotonergic neurons.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Administration, Oral",
+        "Animals",
+        "Brain",
+        "Chromatography, High Pressure Liquid",
+        "Hydroxyindoleacetic Acid",
+        "Immunohistochemistry",
+        "Injections, Intraperitoneal",
+        "Microscopy, Confocal",
+        "Neurons",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "12111460",
+      "title": "5-Hydroxytryptophan (5-HTP) uptake and decarboxylation in the kitten brain.",
+      "authors": [
+        "K Kitahama",
+        "A Jouvet",
+        "M Fujimiya",
+        "I Nagatsu",
+        "R Arai"
+      ],
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "publication_date": "2002-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study reports the presence of noradrenergic (NA) neurons which are capable to take up 5-hydroxytryptophan (5-HTP) and decarboxylate it to 5-hydroxytryptamine (5-HT serotonin) in the kitten brain. After loading of 5-HTP and monoamine oxidase inhibitor (MAOI), we could demonstrate 5-HT-immunoreactivity (IR) not only in hypothalamic and midbrain dopaminergic (DA) cell bodies, but also in NA ones located in the pons and medulla oblongata of the new born kitten aged from 1 to 7 days. NA cell bodies could no longer show 5-HT-IR after this treatment in the kitten older than 1 month. On the other hand, 5-HT-IR in the ventrolateral posterior hypothalamic (VLPH) cells was very weak at birth and became more and more intense after 15 days of age. Finally, after loading of tryptophan (TP) and MAOI, 5-HTP uptake cells mentioned above did not express 5-HT-IR in the kitten brain.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Aging",
+        "Animals",
+        "Animals, Newborn",
+        "Brain",
+        "Cats",
+        "Decarboxylation",
+        "Drug Combinations",
+        "Female",
+        "Male",
+        "Monoamine Oxidase Inhibitors",
+        "Pargyline",
+        "Serotonin",
+        "Sodium Chloride",
+        "Tissue Distribution",
+        "Tryptophan"
+      ]
+    },
+    {
+      "pmid": "10854579",
+      "title": "Opposite effects of glutamate antagonists and antiparkinsonian drugs on the activities of DOPA decarboxylase and 5-HTP decarboxylase in the rat brain.",
+      "authors": [
+        "A Fisher",
+        "M S Starr"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2000-Jun-23",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This study measured the activities of L-DOPA and 5-HTP decarboxylase (DDC and 5-HTPDC) in the substantia nigra and corpus striatum of reserpine-treated rats. Acute injection of the NMDA receptor antagonists CGP 40116 (5 mg/kg) and HA 966 (5 mg/kg), and to a lesser extent eliprodil (10 mg/kg), greatly elevated DDC in both structures, whilst having no effect on (nigra) or inhibiting (striatum) 5-HTPDC. L-DOPA (25 mg/kg) on its own inhibited both enzymes in either brain region. The weak NMDA receptor-channel blockers (and antiparkinsonian drugs) budipine (10 mg/kg), memantine (40 mg/kg) and amantadine (40 mg/kg) strongly increased DDC, whilst not affecting or decreasing 5-HTPDC activity in nigra and striatum. The L-DOPA-induced suppression of DDC was mostly reversed by all three antiparkinsonian drugs, whilst L-DOPA-induced inhibition of 5-HTPDC was only reversed by CGP 40116 (striatum only). It is concluded that glutamate exerts a differential physiological influence on the biosynthesis of dopamine and 5-HT in the brain, by tonically suppressing DDC and tonically stimulating 5-HTPDC. The L-DOPA-induced reduction in DDC may help to explain the eventual loss of efficacy of L-DOPA therapy in parkinsonian patients. It is suggested, however, that it may be possible to extend the lifetime of L-DOPA therapy with drugs which potentiate the activity of DDC, such as budipine and the 1-aminoadamantanes.",
+      "mesh_terms": [
+        "Animals",
+        "Antiparkinson Agents",
+        "Aromatic-L-Amino-Acid Decarboxylases",
+        "Dopa Decarboxylase",
+        "Excitatory Amino Acid Antagonists",
+        "Glutamic Acid",
+        "Male",
+        "Neostriatum",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Reserpine",
+        "Substantia Nigra"
+      ]
+    },
+    {
+      "pmid": "9862411",
+      "title": "Clomipramine enhances the cortisol response to 5-HTP: implications for the therapeutic role of 5-HT2 receptors.",
+      "authors": [
+        "P A Sargent",
+        "D J Quested",
+        "P J Cowen"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "1998-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "We measured the cortisol response to the 5-HT precursor, 5-hydroxytryptophan, (5-HTP) in seven patients with major depression before and after 8 weeks treatment with the tricyclic antidepressant, clomipramine. The cortisol response to 5-HTP was significantly increased following clomipramine treatment, suggesting that clomipramine, like selective serotonin re-uptake inhibitors (SSRIs), enhances this 5-HT2 receptor mediated response. Because other tricyclic antidepressants do not increase 5-HTP-mediated cortisol release, it seems unlikely that enhancement of 5-HT2 receptor function is a critical mechanism for antidepressant action. However, facilitation of neurotransmission at 5-HT2 receptors could account for the efficacy of clomipramine and SSRIs in the treatment of obsessive compulsive disorder and also for their liability to cause orgasmic dysfunction.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Clomipramine",
+        "Drug Synergism",
+        "Female",
+        "Humans",
+        "Hydrocortisone",
+        "Male",
+        "Middle Aged",
+        "Receptors, Serotonin",
+        "Selective Serotonin Reuptake Inhibitors"
+      ]
+    },
+    {
+      "pmid": "9676898",
+      "title": "Evidence for an involvement of 5-HT1B receptors in the inhibition of male rat ejaculatory behavior produced by 5-HTP.",
+      "authors": [
+        "S Ahlenius",
+        "K Larsson"
+      ],
+      "journal": "Psychopharmacology",
+      "publication_date": "1998-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The administration of the 5-hydroxytryptamine (5-HT) precursor 5-hydroxytryptophan (5-HTP) (25 mg/kg i.p.), in combination with an inhibitor of peripheral 5-HTP decarboxylase, produced a dose-dependent increase in the ejaculation latency of male rats, and this effect was enhanced by additional treatment with the 5-HT1 receptor antagonist (-)-pindolol (2 mg/kg s.c.). The 5-HT2A/C receptor agonist (+/-) 1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI) (0.125-0.5 mg/kg s.c.) did not by itself affect male ejaculatory behavior, but additional treatment with (-)-pindolol (2 mg/kg s.c.) produced a dose-dependent decrease in number of ejaculating animals. The increased ejaculation latency produced by 5-HTP was fully antagonized by treatment with the 5-HT1B receptor antagonist isamoltane (4 mg/kg s.c.), but not by ritanserin (2 mg/kg s.c.) treatment. The selective 5-HT1A receptor antagonist WAY-100635 (0.15 mg/kg s.c.) enhanced the inhibitory actions of 5-HTP on the male rat ejaculatory behavior, and this dose of WAY-100635 fully antagonized 8-OH-DPAT-induced facilitation (0.25 mg/kg s.c.) of the ejaculatory behavior. WAY-100635 (0.04-0.60 mg/kg s.c.) did not, by itself, significantly affect male rat sexual behavior. Taken together, the results suggest an inhibitory role for postsynaptic 5-HT1B receptors in the effects produced by 5-HTP on male rat ejaculatory behavior. Furthermore, 5-HTP-induced inhibition of male rat ejaculatory behavior is partially controlled by stimulation of inhibitory 5-HT1A autoreceptors, since the effects of 5-HTP were accentuated by treatment with (-)-pindolol, as well as by the more selective 5-HT1A receptor antagonist WAY-100635.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "8-Hydroxy-2-(di-n-propylamino)tetralin",
+        "Amphetamines",
+        "Animals",
+        "Ejaculation",
+        "Female",
+        "Male",
+        "Piperazines",
+        "Pyridines",
+        "Rats",
+        "Rats, Wistar",
+        "Receptors, Serotonin",
+        "Serotonin Antagonists",
+        "Serotonin Receptor Agonists",
+        "Sexual Behavior, Animal"
+      ]
+    },
+    {
+      "pmid": "9255851",
+      "title": "Effects of subchronic treatment with valproate on L-5-HTP-induced cortisol responses in mania: evidence for increased central serotonergic neurotransmission.",
+      "authors": [
+        "M Maes",
+        "J Calabrese",
+        "K Jayathilake",
+        "H Y Meltzer"
+      ],
+      "journal": "Psychiatry research",
+      "publication_date": "1997-Jul-04",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "The mechanisms underlying the acute and prophylactic antimanic properties of valproate have remained elusive. There are some reports that treatment with valproic acid may increase brain serotonergic neurotransmission in the rodent. This study was carried out in order to investigate the effects of subchronic therapy with valproate on central serotonin metabolism in manic patients. Toward this end, the authors examined plasma cortisol responses to 200 mg (orally) L-5-hydroxy-tryptophan (L-5-HTP) in 10 manic patients both before and after subchronic treatment with valproate. Administration of L-5-HTP resulted in significantly increased cortisol responses both before and after treatment with valproate. The L-5-HTP-induced cortisol responses were significantly higher after treatment with valproate than before treatment. It is suggested that valproate may increase central serotonergic neurotransmission and that this stimulation may play a role in the antimanic effects of valproate.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Animals",
+        "Bipolar Disorder",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Humans",
+        "Hydrocortisone",
+        "Male",
+        "Radioimmunoassay",
+        "Rats",
+        "Serotonin",
+        "Synaptic Transmission",
+        "Valproic Acid"
+      ]
+    },
+    {
+      "pmid": "9257330",
+      "title": "Positron emission tomography (PET) with 11C-5-hydroxytryptophan (5-HTP) in patients with metastatic hormone-refractory prostatic adenocarcinoma.",
+      "authors": [
+        "K M Kälkner",
+        "C Ginman",
+        "S Nilsson",
+        "M Bergström",
+        "G Antoni",
+        "H Ahlström",
+        "B Långström",
+        "J E Westlin"
+      ],
+      "journal": "Nuclear medicine and biology",
+      "publication_date": "1997-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The discovery of neuroendocrine differentiation in hormone-refractory prostatic adenocarcinoma has opened a potentially new therapeutic approach in this group of patients with a poor prognosis and few effective therapy modalities. Based on previous findings of increased uptake of 11C-5-hydroxytryptophan (11C-5-HTP) in neuroendocrine tumours using the PET technique, this tracer was applied in the study of 10 patients with metastatic hormone-refractory prostatic adenocarcinoma. In three patients, the study was repeated after treatment. An increased uptake of 11C-5-HTP was observed in all investigated skeletal lesions, although the magnitude of the uptake was moderate. The difference between the standard uptake values (SUV) in normal bone and metastatic lesions was significant (p < 0.001). A kinetic analysis of the uptake of 11C-5-HTP demonstrates an increase during the first minutes followed by a wash-out and a stabilization of the tissue/blood ratio at about 2. The Patlak plots demonstrated a gradual increase in the transport rate during the first 20 to 30 min, after which a constant level was observed. The SUV varied between patients and between lesions over time and treatment. The uptake of 11C-5-HTP discriminates metastatic lesions from normal bone and may thus aid in the diagnosis and, potentially, in treatment monitoring of metastatic hormone-refractory prostatic adenocarcinoma. Uptake kinetics are characterized by a wash-out and cannot alone be used as proof of neuroendocrine differentiation in hormone-refractory prostatic adenocarcinoma.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adenocarcinoma",
+        "Aged",
+        "Bone Neoplasms",
+        "Carbon Radioisotopes",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Prostatic Neoplasms",
+        "Tomography, Emission-Computed"
+      ]
+    },
+    {
+      "pmid": "8800647",
+      "title": "Effect of subchronic and chronic exposure to 5-hydroxytryptophan (5-HTP) on the aggressive behavior induced by food competition in undernourished dominant and submissive pigeons (Columba livia).",
+      "authors": [
+        "C Fachinelli",
+        "M Ison",
+        "E L Rodríguez Echandía"
+      ],
+      "journal": "Behavioural brain research",
+      "publication_date": "1996-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The acute administration of 5-HTP was reported to block in undernourished dominant pigeons the aggressive attacks induced in a submissive partner by food competition. In the present study, undernourished pigeons with previously consolidated dominance were submitted to subchronic and chronic 5-HTP treatment. Adult males (n = 28) were kept at 80% of their body weight by a restricted diet. These were divided in pairs made of a previously ranked dominant subject (total time spent in aggression higher than 200 s/20 min) and a submissive one of similar body weight (time spent in aggression between 90 and 150 s/20 min). The same pairs were exposed to a daily 20 min interaction during each experiment in an observation chamber bearing a central feeder. The time spent in aggressive behavior, feeder control behavior and eating behavior was recorded. Intratest body weight gain was also recorded. In Experiment 1, 8 pairs of pigeons were exposed to a daily trial for 4 successive days (pretreatment-scores). The dominant subjects were then injected subcutaneously, 30 min. before trials, with 7.5 mg/kg 5-HTP from day 5 to day 8 (Treatment scores). The Recovery scores were obtained through a 4-trial post-treatment schedule. In Experiment 2 different pigeons were used. The pretreatment and recovery scores were obtained according to a 16-trial schedule (16 days). Both 4-day (subchronic) and 16-day (chronic) 5-HTP treatments attenuated aggression by the dominant subjects and reduced their intra-test body weight gain but did not decrease dominance for feeder control. The recovery scores of total aggression in subchronic experiments returned to pretreatment scores. In chronic experiments, instead, the recovery scores of aggression remained lower than pretreatment scores, whereas body-weight-gain scores came back to pretreatment values. This suggests that dominant subjects submitted to chronic 5-HTP might have learned to maintain dominance and feeder control in a virtual absence of aggressive behavior.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Aggression",
+        "Animals",
+        "Columbidae",
+        "Competitive Behavior",
+        "Dominance-Subordination",
+        "Eating",
+        "Male",
+        "Nutrition Disorders",
+        "Time Factors",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "8208773",
+      "title": "Central and peripheral components of the inhibitory actions of 5-HTP on ethanol consumption in the rat.",
+      "authors": [
+        "J E Zabik",
+        "J E Sprague",
+        "K Binkerd"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "1994-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "When administered under a backward conditioning paradigm, 5-HTP administration resulted in a decrease in ethanol intake followed by a persistently decreased ethanol consumption. A central component to this inhibitory effect was suggested by the inability of xylamidine to significantly reduce the initial inhibitory effect of 5-HTP. The persistent rejection was prevented by xylamidine. Methysergide reduced the initial as well as the persistent effects of 5-HTP. In studies utilizing a forward conditioning paradigm, 5-HTP and lithium were each effective in developing CTAs to ethanol and saccharin. Only the ethanol-5-HTP pairing showed a persistent aversion. A peripheral component to the actions of 5-HTP was suggested by xylamidine blocking the CTAs induced by 5-HTP. Xylamidine also prevented the persistent ethanol avoidance induced by 5-HTP, but was ineffective in antagonizing lithium-induced CTAs. These results suggest central as well as peripheral components associated with the inhibitory effects of 5-HTP on ethanol consumption. Central actions appear to mediate the initial inhibitory effects while peripheral actions appear to be associated with persistent avoidance of ethanol following 5-HTP treatment.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Alcohol Drinking",
+        "Amidines",
+        "Animals",
+        "Central Nervous System",
+        "Conditioning, Operant",
+        "Depression, Chemical",
+        "Lithium",
+        "Male",
+        "Methysergide",
+        "Peripheral Nervous System",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Saccharin",
+        "Serotonin",
+        "Serotonin Antagonists",
+        "Taste"
+      ]
+    },
+    {
+      "pmid": "1874551",
+      "title": "Effect of 12 hr temporal relation of serotonin and dopamine precursor drugs (5-HTP and L-DOPA) on photosexual responses of immature Japanese quail.",
+      "authors": [
+        "C M Chaturvedi",
+        "A H Meier",
+        "R Bhatt"
+      ],
+      "journal": "Indian journal of experimental biology",
+      "publication_date": "1991-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "To study the interaction of photoperiod and circadian neurotransmitter activity, L-DOPA L-dihydroxyphenylalanine, dopamine precursor) was administered daily, 12 hr after 5-HTP (5-hydroxy tryptophan, serotonin precursor) in sexually immature Japanese quail, raised under short photoperiod (LD8:16) since hatching. The 12 hr treatment of 5-HTP and L-DOPA was given under continuous condition of light for 11 days. After treatment the quail were transferred to intermediate day length (LD 13.5:10.5). The cloacal gland size of drug treated group increased significantly in comparison to control. The quail were then transferred to short photoperiod (LD 8:16). The cloacal gland size of both the groups started decreasing gradually but the rate was significantly low in drug treated quail in comparison to control. The results indicate that the endogenous mechanism controlling seasonality may be reset by drugs that influence serotonergic and dopaminergic activity. The 12 hr relation between the two drugs is stimulatory for gonadal growth under intermediate day length and retards the rate of regression when transferred to short days.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Circadian Rhythm",
+        "Cloaca",
+        "Coturnix",
+        "Levodopa",
+        "Male",
+        "Reproduction",
+        "Testis"
+      ]
+    },
+    {
+      "pmid": "1836762",
+      "title": "The role of 5-hydroxytryptophan (5-HTP) in the regulation of the sleep/wake cycle in parachlorophenylalanine (p-CPA) pretreated rat: a multiple approach study.",
+      "authors": [
+        "M Touret",
+        "N Sarda",
+        "A Gharib",
+        "M Geffard",
+        "M Jouvet"
+      ],
+      "journal": "Experimental brain research",
+      "publication_date": "1991",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In the rat, the insomnia which follows the administration of parachlorophenylalanine (p-CPA), a serotonin synthesis inhibitor, is transiently reversed either by intra-cisternal injection of L-5-HTP or by an associated injection of 5-HTP and an L-aromatic-acid-decarboxylase inhibitor (benserazide). Histochemical, immunohistochemical and chemical investigations showed that 5-HTP administration does not lead to a detectable increase in cerebral 5-HT. These findings suggest that the restoration of sleep after p-CPA treatment could be mediated by the central action of 5-HTP.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Autoradiography",
+        "Benserazide",
+        "Brain Chemistry",
+        "Cisterna Magna",
+        "Fenclonine",
+        "Immunohistochemistry",
+        "Injections",
+        "Male",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Serotonin",
+        "Sleep"
+      ]
+    },
+    {
+      "pmid": "1720112",
+      "title": "Effect of L-dopa loading on 5-HTP decarboxylation in rat brain areas.",
+      "authors": [
+        "J H Trouvin",
+        "M C Maubrey",
+        "H Raynal",
+        "C Jacquot"
+      ],
+      "journal": "Fundamental & clinical pharmacology",
+      "publication_date": "1991",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The time course of 5-hydroxytryptophan (5-HTP), serotonin (5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) concentrations in four rat brain areas (hypothalamus, hippocampus, striatum and olfactory bulbs) were investigated after treatment with L-dopa (125 mg/kg, ip) + benserazide (50 mg/kg, ip). 5-HTP levels increased as early as 0.5 h, showed maximum accumulation at 1.5 h and returned to control levels within 4 h, while 5-HT was markedly decreased in all four structures, with a maximum effect at 1.5 h (approximately -70%) in the four areas. The decrease in 5-HT was not accompanied by changes in 5-HIAA levels. In agreement with previous studies, these data demonstrate that L-dopa loading interferes with serotonin metabolism in the rat brain. However, in addition to the releasing action of newly-synthesized dopamine, the accumulation of 5-HTP and the parallel decrease in 5-HT indicate a reduction in 5-HT synthesis. This inhibition could be explained by a competitive effect of L-dopa for aromatic aminoacid decarboxylase activity.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Benserazide",
+        "Brain",
+        "Corpus Striatum",
+        "Decarboxylation",
+        "Hippocampus",
+        "Hydroxyindoleacetic Acid",
+        "Hypothalamus",
+        "Levodopa",
+        "Male",
+        "Olfactory Bulb",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "2357555",
+      "title": "Striatal dopamine terminals release serotonin after 5-HTP pretreatment: in vivo voltammetric data.",
+      "authors": [
+        "J A Stamford",
+        "Z L Kruk",
+        "J Millar"
+      ],
+      "journal": "Brain research",
+      "publication_date": "1990-May-07",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Peripheral administration of 5-hydroxytryptophan (5-HTP) to rats causes 'wet dog' shakes and a parallel elevation of brain serotonin (5-HT) levels. The increase in 5-HT concentration does not, however, correlate with the endogenous 5-HT innervation raising the possibility that some 5-HTP is decarboxylated in non-serotonergic cells. In the present study we used in vivo voltammetry to establish whether 5-HTP treatment led to formation of 5-HT as a 'false transmitter' in striatal dopamine (DA) neurons. Fast cyclic voltammetry at carbon fibre microelectrodes (CFMs) was used to monitor striatal monoamine release following electrical stimulation of the median forebrain bundle (MFB). In the absence of any pretreatment DA was the sole compound released by stimulation. However, when DA release was abolished with alpha-methyl-p-tyrosine (AMPT), 5-HTP administration (after peripheral decarboxylase inhibition) caused a dose-dependent release of 5-HT, confirmed by the voltammetric characteristics. Central decarboxylase inhibition prevented release indicating that 5-HTP itself was not released. By monitoring reduction peaks it was possible to record DA and 5-HT release simultaneously at a single CFM. While DA and 5-HT oxidised at the same potential their reduction peaks were separated by approximately 450 mV. It was shown, using this means, that 5-HT was still detectable even when DA release was not abolished by AMPT. DA and 5-HT release showed a significant positive correlation suggesting that they were released from the same nerves. We conclude that, after 5-HTP treatment, 5-HT can be released as a false transmitter from striatal DA neurones.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Action Potentials",
+        "Animals",
+        "Corpus Striatum",
+        "Dopamine",
+        "Electric Stimulation",
+        "Electrochemistry",
+        "Frontal Lobe",
+        "Male",
+        "Rats",
+        "Rats, Inbred Strains",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "3187267",
+      "title": "[L-5-HTP in the treatment of sleep disorders in patients with depression and anxiety states].",
+      "authors": [
+        "R Realini",
+        "R Mascetti"
+      ],
+      "journal": "Schweizerische Rundschau fur Medizin Praxis = Revue suisse de medecine Praxis",
+      "publication_date": "1988-Aug-23",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Adult",
+        "Anxiety Disorders",
+        "Depressive Disorder",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Neuropsychological Tests",
+        "Sleep Wake Disorders",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "2965956",
+      "title": "5-HT depletion with 5,7-DHT, PCA and PCPA in mice: differential effects on the sensitivity to 5-MeODMT, 8-OH-DPAT and 5-HTP as measured by two nociceptive tests.",
+      "authors": [
+        "P K Eide",
+        "K Hole",
+        "O G Berge",
+        "O J Broch"
+      ],
+      "journal": "Brain research",
+      "publication_date": "1988-Feb-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Depletion of 5-hydroxytryptamine (5-HT) in mice was produced by intracerebroventricular injection of 5,7-dihydroxytryptamine (5,7-DHT, 80 micrograms) or by systemic injections of p-chloroamphetamine (PCA, 3 X 40 or 4 X 40 mg/kg), p-chlorophenylalanine (PCPA, 5 X 400 or 14 X 400 mg/kg) or combined PCA (3 X 40 mg/kg) + PCPA (11 X 400 mg/kg). Neither of the pretreatments altered nociception in the increasing temperature hot-plate test, whereas hyperalgesia was demonstrated in 5,7-DHT lesioned animals in the tail-flick test. 5,7-DHT-pretreatment enhanced the antinociceptive effect of the 5-HT agonists 5-methoxy-N,N-dimethyltryptamine (5-MeODMT), 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) and 5-hydroxytryptophan (5-HTP). This effect was observed after 2, 5 and 8 days in the tail-flick test and after 5 and 8 days in the hot-plate test. However, pretreatment with PCPA or PCA failed to alter the antinociception elicited by the 5-HT agonists, although a tendency towards enhancement of antinociception was found after combined treatment with PCA and PCPA. It is suggested that the injection of 5,7-DHT induces denervation supersensitivity of post-synaptic 5-HT receptors. The lack of such supersensitivity after PCPA-pretreatment which induces similar 5-HT depletion to 5,7-DHT, may suggest that other factors than the absence of 5-HT may contribute to the development of denervation supersensitivity. Alternatively, the three 5-HT depleting agents may produce a qualitatively different reduction of 5-HT.",
+      "mesh_terms": [
+        "5,7-Dihydroxytryptamine",
+        "5-Hydroxytryptophan",
+        "8-Hydroxy-2-(di-n-propylamino)tetralin",
+        "Amphetamines",
+        "Animals",
+        "Cerebral Ventricles",
+        "Desipramine",
+        "Dihydroxytryptamines",
+        "Fenclonine",
+        "Injections, Intraventricular",
+        "Male",
+        "Methoxydimethyltryptamines",
+        "Mice",
+        "Mice, Inbred Strains",
+        "Naphthalenes",
+        "Pain",
+        "Pain Measurement",
+        "Serotonin",
+        "Tetrahydronaphthalenes",
+        "p-Chloroamphetamine"
+      ]
+    },
+    {
+      "pmid": "3283779",
+      "title": "Interaction between opioid agonists or naloxone and 5-HTP on feeding behavior in food-deprived rats.",
+      "authors": [
+        "M P Fernandez-Tome",
+        "Y Gonzalez",
+        "J Del Rio"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "1988-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Morphine and the enkephalin analogs DAME, DADLE and FK-33824, as well as the opioid antagonist naloxone, decrease feeding in food-deprived rats after intraventricular or subcutaneous administration, FK-33824 being by far the most potent drug tested. The administration of subeffective doses of either morphine or naloxone given by the subcutaneous route induces anorexia when given in combination with a subeffective dose of 5-HTP whereas the treatment with subeffective intraventricular doses of any of the opioids or naloxone fails to potentiate 5-HTP. Similarly, the anorexia induced by FK-33824 is blocked by either morphine or naloxone given subcutaneously but not by intraventricular administration of the same two drugs. The results appear to suggest that central or peripheral opioid receptors differentially affect feeding behavior in the rat and, on the other hand, that the interaction of opiates with the serotonergic system appears to occur preferentially in the periphery.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "D-Ala(2),MePhe(4),Met(0)-ol-enkephalin",
+        "Drug Interactions",
+        "Enkephalin, Leucine",
+        "Enkephalin, Leucine-2-Alanine",
+        "Enkephalin, Methionine",
+        "Feeding Behavior",
+        "Food Deprivation",
+        "Male",
+        "Morphine",
+        "Naloxone",
+        "Narcotics",
+        "Rats",
+        "Rats, Inbred Strains"
+      ]
+    },
+    {
+      "pmid": "3496316",
+      "title": "Effects of DSIP, 5-HTP and serotonin on the lymphokine system: a preliminary study.",
+      "authors": [
+        "S Yehuda",
+        "B Shredny",
+        "Y Kalechman"
+      ],
+      "journal": "The International journal of neuroscience",
+      "publication_date": "1987-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "Short term effects of the sleep promoting substances DSIP, 5-HTP and 5-HT on the function of the lymphokine system were studied 10 and 30 min after treatment. DSIP treatment after 10 and 30 min caused a significant decrease in IL-3 and CSF levels, response to CSF-1 and CSF-GM, IL-2 level, number of IL-2 receptors and in cell proliferation. DSIP initially induced (after 10 min) a decrease to be followed (after 30 min) by an increase in IL-1 level. Ten minutes after 5-HTP treatment a decrease was found in all parameter tests, except in IL-3 and in CSF secretion. 5-HT treatment was able to induce an increase in IL-3 level, a decrease in response to IL-2 receptors and proliferation, 10 min after treatment. Thirty minutes after treatment, only IL-3 and IL-2 levels were reduced. These results showed that sleep promoting substances had an effect on the lymphokines system, that DSIP was the most potent agent, that immunological changes occur before physiological or behavioral signs. The relative weak potency 5-HTP and 5-HT, and the similar pattern of effects between them, may indicate that peripheral events may lead to sleep state.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Colony-Stimulating Factors",
+        "Concanavalin A",
+        "Delta Sleep-Inducing Peptide",
+        "Interleukin-2",
+        "Interleukin-3",
+        "Lymphokines",
+        "Male",
+        "Rats",
+        "Receptors, Immunologic",
+        "Serotonin",
+        "Spleen"
+      ]
+    },
+    {
+      "pmid": "3308389",
+      "title": "Headache in association with sleep disorders in children: a psychodiagnostic evaluation and controlled clinical study--L-5-HTP versus placebo.",
+      "authors": [
+        "G De Giorgis",
+        "R Miletto",
+        "M Iannuccelli",
+        "M Camuffo",
+        "S Scerni"
+      ],
+      "journal": "Drugs under experimental and clinical research",
+      "publication_date": "1987",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "Forty-eight elementary and junior high school students presenting the association of recurring headache and sleep disorders were selected for this study on the basis of a questionnaire filled out by the entire school population. The selected students had normal intellectual capacity but often showed inadequate progress in school, attentive-mnemonic deficiencies, and psychopathological elements of a depressive nature. The clinical characteristics predicted that this group would be responsive to treatment with L-5-hydroxytryptophan. The results of a double-blind, cross-over trial with placebo confirmed these expectations for headache and some sleep disorders, in particular frequent awakenings and some parasomnias.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Child",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Female",
+        "Headache",
+        "Humans",
+        "Male",
+        "Random Allocation",
+        "Sleep Wake Disorders",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "3014368",
+      "title": "The effect of intravenous L-5-HTP in the myoclonic encephalopathy of infants.",
+      "authors": [
+        "G Gobbi",
+        "G Melideo",
+        "P Giovanardi Rossi"
+      ],
+      "journal": "Neuropediatrics",
+      "publication_date": "1986-May",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "A 7 year old girl suffering from myoclonic encephalopathy of infants (MEI) underwent acute treatment by slow intravenous L-5-hydroxytrypthophan (L-5-HTP). The authors found a clear clinical physiological improvement of myoclonic symptoms at rest and during action, but the opsoclonus remained unchanged. The authors suggest that, at least in this case of MEI, the myoclonus was serotonin responsive, as already reported in action or intention and stimulus sensitive myoclonus.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adrenocorticotropic Hormone",
+        "Drug Therapy, Combination",
+        "Female",
+        "Ganglioneuroma",
+        "Humans",
+        "Infant",
+        "Myoclonus",
+        "Spinal Neoplasms"
+      ]
+    },
+    {
+      "pmid": "6334064",
+      "title": "Regression of cerebellar syndrome with long-term administration of 5-HTP or the combination 5-HTP-benserazide.",
+      "authors": [
+        "P Trouillas"
+      ],
+      "journal": "Italian journal of neurological sciences",
+      "publication_date": "1984-Sep",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "A quantitative evaluation of cerebellar ataxia, with an ataxia score (total, static, kinetic) and the measurement of objective values relating to the major symptoms, was used in 21 patients with hereditary ataxias treated for 12 months with high doses (16 mg/kg/day) of d-l-5-HTP, l-5-HTP or the combination d-l-5-HTP (16 mg/kg/day)--benserazide (6 mg/kg/day). The data obtained from regular examination were processed by computer. The ataxia showed a significant regression at the 12th month, mainly in the static forms and speed of speech. l-5-HTP appeared to be more effective than d-l-5-HTP. Regression of the cerebellar ataxia was also observed in non-degenerative conditions such as multiple sclerosis and surgical lesion of the anterior lobe vermis, showing that 5-HTP was active on the cerebellar syndrome in general. The regression of the cerebellar ataxia was very slow in inherited diseases and continued for 2 or 4 months after the treatment stopped. A serotoninergic cerebellar control of movement is discussed.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Benserazide",
+        "Cerebellar Ataxia",
+        "Dopamine",
+        "Drug Therapy, Combination",
+        "Friedreich Ataxia",
+        "Humans",
+        "Hydrazines",
+        "Olivary Nucleus",
+        "Pons",
+        "Serotonin",
+        "Syndrome"
+      ]
+    },
+    {
+      "pmid": "6397729",
+      "title": "[Treatment of essential headache in developmental age with L-5-HTP (cross over double-blind study versus placebo)].",
+      "authors": [
+        "G Longo",
+        "I Rudoi",
+        "M Iannuccelli",
+        "R Strinati",
+        "F Panizon"
+      ],
+      "journal": "La Pediatria medica e chirurgica : Medical and surgical pediatrics",
+      "publication_date": "1984",
+      "publication_types": [
+        "Clinical Trial",
+        "English Abstract",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Thirty patients (mean age: 10.38 years) affected by primary headache were selected for a double-blind cross-over clinical trial. The patients were randomized into 2 homogeneous groups of 15 and treated for 12 weeks with L-5-HTP (100 mg/day) and placebo as per the following design: placebo - L-5-HTP (group A) and L-5-HTP - placebo (group B). Evaluation was carried out every 3 weeks by the Migraine Index supplying a general assessment of the attacks, i.e. severity, duration and frequency. The decrease in mean score values was directly proportional to L-5-HTP treatment, and statistical significance (Wilcoxon's test) was observed only for L-5-HTP in both groups, from 0.05 to 0.01. Improvement, as evaluated by CGI on percentage distribution of the patients, was homogeneous in both groups.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Child",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Female",
+        "Headache",
+        "Humans",
+        "Male",
+        "Placebos"
+      ]
+    },
+    {
+      "pmid": "6604672",
+      "title": "L-5 HTP available under treatment IND.",
+      "authors": [],
+      "journal": "FDA drug bulletin",
+      "publication_date": "1983-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Humans",
+        "Myoclonus",
+        "Professional Staff Committees",
+        "United States",
+        "United States Food and Drug Administration"
+      ]
+    },
+    {
+      "pmid": "6215817",
+      "title": "Treatment of myoclonic syndromes with paroxetine alone or combined with 5-HTP.",
+      "authors": [
+        "I Magnussen",
+        "K Mondrup",
+        "F Engbaek",
+        "A Lademann",
+        "B D Olivarius"
+      ],
+      "journal": "Acta neurologica Scandinavica",
+      "publication_date": "1982-Aug",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Myoclonus",
+        "Paroxetine",
+        "Piperidines",
+        "Serotonin",
+        "Serotonin Antagonists",
+        "Syndrome"
+      ]
+    },
+    {
+      "pmid": "6983101",
+      "title": "[Regression of the cerebellar syndrome under long-term administration of 5-HTP or the combination of 5-HTP and benserazide. 26 cases quantified and treated using computer methods].",
+      "authors": [
+        "P Trouillas",
+        "A Garde",
+        "J M Robert",
+        "B Renaud",
+        "P Adeleine",
+        "J Bard",
+        "F Brudon"
+      ],
+      "journal": "Revue neurologique",
+      "publication_date": "1982",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "A quantitative evaluation of cerebellar ataxia, with an ataxia score (total, static, kinetic) and the measurement of objective values related to the major symptoms, is proposed. 21 patients with heredo-ataxias were treated for 12 months with high doses (16 mg/kg/day) of D-L-5-HTP, L-5-HTP or the association D-L-5-HTP (16 mg/kg/day)-Benserazide(6 mg/kg/day). A computerized processing of the data obtained by regular examination was performed. The ataxia showed a significant regression at the 12th month, mainly in the static performances and in the speed of speech. L-5-HTP appeared to be more active than D-L-5-HTP. The regression of the cerebellar ataxia was also observed in non degenerative conditions such as multiple sclerosis and surgical injury of the anterior lobe vermis, showing that 5-HTP was active on the cerebellar syndrome in general. The regression of the cerebellar ataxia was very slow in inherited diseases and continued for 2 or 4 months after the treatment stopped. A serotoninergic cerebellar control of motricity is discussed.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Benserazide",
+        "Cerebellar Ataxia",
+        "Computers",
+        "Drug Therapy, Combination",
+        "Humans",
+        "Hydrazines",
+        "Kinetics",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "7323368",
+      "title": "[EEG sleep activity in a phenylketonuric child of the 'new variant' type, before and after treatment with 5-HTP and L-DOPA (author's transl)].",
+      "authors": [
+        "F Salomon",
+        "I Fagioli",
+        "F Rey",
+        "P Salzarulo"
+      ],
+      "journal": "Revue d'electroencephalographie et de neurophysiologie clinique",
+      "publication_date": "1981-Nov",
+      "publication_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "abstract": "The EEG during the sleep of a 'new variant' (having a dihyropteridine reductase deficiency) phenylketonuric child, aged 11 months, has been studied under low phenylalanine and following a substitute treatment with 5-HTP and L-DOPA. Prior to treatment, a paroxystic type of activity composed of spikes and/or polyspikes associated with sharp theta waves was chiefly observed during paradoxical sleep (PS). After a 10 day treatment with 5-HTP and L-DOPA, the EEG was not modified. However, after 6 months of this therapy, the paroxysms disappeared as well as the spindles; the quiet sleep trace was disorganized. The EEG modifications observed could be due to an evolution of the illness, if the substitute treatment was begun too late to go into effect.",
+      "mesh_terms": [
+        "Electroencephalography",
+        "Follow-Up Studies",
+        "Genetic Variation",
+        "Humans",
+        "Infant",
+        "Levodopa",
+        "Male",
+        "Phenylketonurias",
+        "Serotonin",
+        "Sleep",
+        "Sleep Stages"
+      ]
+    },
+    {
+      "pmid": "6985126",
+      "title": "The effect of DL-5-hydroxytryptophan (5-HTP) on plasma prolactin in pituitary stalk sectioned rats.",
+      "authors": [
+        "A Akabori",
+        "S Araki",
+        "T Tamada"
+      ],
+      "journal": "Endocrinologia japonica",
+      "publication_date": "1981-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "5-HTP (5 mg/100 g body weight), a precursor of serotonin, was administered intravenously to pituitary stalk sectioned rats. Plasma prolactin levels were initially increased 30 and 60 min after the injection of 5-HTP and thereafter decreased. Pituitary prolactin content was decreased 60 min after the stalk section as compared to those seen following sham operation. The treatment of 5-HTP induced a moderate increase in pituitary prolactin content in the stalk sectioned rats. In order to confirm the complete disconnection of pituitary stalk after the operation, 2.5 micrograms of dopamine hydrochloride was given into the lateral ventricle of stalk sectioned rats. Plasma prolactin did not change following the administration. Our results demonstrate that 5-HTP acts either directly at the pituitary level or via some mechanism yet to be determined.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Animals",
+        "Female",
+        "Hypophysectomy",
+        "Pituitary Gland",
+        "Prolactin",
+        "Rats",
+        "Rats, Inbred Strains"
+      ]
+    },
+    {
+      "pmid": "28678360",
+      "title": "TREATMENT OF DEPRESSION WITH AN MAO INHIBITOR FOLLOWED BY 5-HTP-AN UNFINISHED RESEARCH PROJECT.",
+      "authors": [
+        "N Kline",
+        "W Sacks"
+      ],
+      "journal": "Acta psychiatrica Scandinavica",
+      "publication_date": "1980-Mar",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "6996430",
+      "title": "Treatment of depression with an mao inhibitor followed by 5-HTP--an unfinished research project.",
+      "authors": [
+        "N Kline",
+        "W Sacks"
+      ],
+      "journal": "Acta psychiatrica Scandinavica. Supplementum",
+      "publication_date": "1980",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Carboxy-Lyases",
+        "Clinical Trials as Topic",
+        "Depression",
+        "Double-Blind Method",
+        "Drug Synergism",
+        "Humans",
+        "Monoamine Oxidase Inhibitors",
+        "Pilot Projects",
+        "Protein Hydrolysates"
+      ]
+    },
+    {
+      "pmid": "318090",
+      "title": "Application of 5 HTP in the treatment of essential tremor.",
+      "authors": [
+        "A Guillard",
+        "C Chastang"
+      ],
+      "journal": "International journal of neurology",
+      "publication_date": "1979",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Humans",
+        "Tremor"
+      ]
+    },
+    {
+      "pmid": "312470",
+      "title": "L-5HTP treatment and serum 5-HT level after L-5-HTP loading on depressed patients.",
+      "authors": [
+        "M Kaneko",
+        "H Kumashiro",
+        "Y Takahashi",
+        "Y Hoshino"
+      ],
+      "journal": "Neuropsychobiology",
+      "publication_date": "1979",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Based on 5-HT hypothesis, L-5-HTP (150 or 300 mg/day) was given orally to 18 depressed patients. The global estimates were 2 very much improved; 8 much improved; 3 minimally improved, and 5 unchanged. The action of L-5-HTP was usually rapid. The elevation of the serum 5-HT level 1 week after L-5-HTP administration was relatively lower in the 5-HTP nonresponder group, compared with the responders. The chronological change of the serum 5-HT level in depressed patients after an oral loading dose of 3 mg/kg of L-5-HTP showed a gradual and slight elevation, compared with manic and normal groups. It seemed that the therapeutic effect of L-5-HTP on responders was related to lower 5-HT level in the brain for their pathogenesis, and that there was a metabolic disturbance of L-5-HTP into 5-HT in some depressed patients.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Adult",
+        "Bipolar Disorder",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "306584",
+      "title": "Late endocrine effects of L-dopa, 5-HTP, and 6-OH-dopa administered to neonatal rats.",
+      "authors": [
+        "J L Bakke",
+        "N L Lawrence",
+        "S A Robinson",
+        "J Bennett",
+        "C Bowers"
+      ],
+      "journal": "Neuroendocrinology",
+      "publication_date": "1978",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Neonatal rats were injected with L-dopa, 5-hydroxytryptophan (5-HTP) or 6-hydroxy-dopa (6-OH-dopa) and allowed to mature. Eye opening, vaginal opening, endocrine organ weights and pituitary hormone concentration in the serum were measured. Treatment with either the dopamine (DA) precursor or the serotonin (5-HT) precursor caused an acceleration in eye opening, a significant decrease in serum TSH (males) an elevation of serum prolactin (Prl; males), and a lowering of serum growth hormone (females). After chemical sympathectomy (6-OH-dopa) vaginal opening was delayed, thyroid weights were increased and serum TSH decreased (males). It is concluded that during the critical neonatal period overloading either of 2 of the principal monaminergic systems results in similar and persistent alterations in pituitary function. Chemical sympathectomy produced a different pattern of abnormalities.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adrenal Glands",
+        "Animals",
+        "Animals, Newborn",
+        "Estrus",
+        "Female",
+        "Follicle Stimulating Hormone",
+        "Growth",
+        "Hydroxydopamines",
+        "Hypothalamo-Hypophyseal System",
+        "Levodopa",
+        "Luteinizing Hormone",
+        "Male",
+        "Organ Size",
+        "Ovary",
+        "Pituitary Gland",
+        "Pregnancy",
+        "Rats",
+        "Sex Factors",
+        "Sexual Maturation",
+        "Testis",
+        "Thyrotropin",
+        "Uterus"
+      ]
+    },
+    {
+      "pmid": "336110",
+      "title": "Clinical and polygraphic effects of d.1 5 HTP on narcolepsy-cataplexy.",
+      "authors": [
+        "A Autret",
+        "M Minz",
+        "T Beillevaire",
+        "C Degos",
+        "H P Cathala"
+      ],
+      "journal": "Biomedicine / [publiee pour l'A.A.I.C.I.G.]",
+      "publication_date": "1977-Jul",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "d.1 5 hydroxy-trytophan (600 mg a day) or a placebo were administered during 4 weeks following a double blind cross over design to 11 narcoleptic-cataplectic patients. Daily number of cataplectic and narcoleptic attacks did not vary. The 36 hours polygraphic recordings performed at the end of each treatment exhibit: a trend toward a decrease of the duration of the day time sleep and a significant increase of the duration of the night sleep.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Cataplexy",
+        "Clinical Trials as Topic",
+        "Double-Blind Method",
+        "Drug Evaluation",
+        "Female",
+        "Humans",
+        "Imipramine",
+        "Male",
+        "Narcolepsy",
+        "Placebos",
+        "Sleep",
+        "Sleep Stages"
+      ]
+    },
+    {
+      "pmid": "60227",
+      "title": "Human sleep and 5-HTP. Effects of repeated high doses and of association with benserazide (RO.04.4602).",
+      "authors": [
+        "A Autret",
+        "M Minz",
+        "B Bussel",
+        "H P Cathala",
+        "P Castaigne"
+      ],
+      "journal": "Electroencephalography and clinical neurophysiology",
+      "publication_date": "1976-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "On account of the conflicting data concerning the action of 5-HTP on human sleep, repeated high doses were administered to three healthy subjects. The paradoxical sleep time and percentage tend to show a decrease during the 2nd week of treatment, followed by a rebound effect after the end of the treatment. In two subjects who initially had a small amount of slow wave sleep (SWS), the treatment induced an increase in SWS that persisted after the end of the treatment. Similar results were obtained after administration of 5-HTP together with RO.04.4602.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Benserazide",
+        "Drug Combinations",
+        "Electroencephalography",
+        "Humans",
+        "Hydrazines",
+        "Male",
+        "Mental Processes",
+        "Sleep Stages"
+      ]
+    },
+    {
+      "pmid": "1088459",
+      "title": "Clinical and metabolic observations on the treatment of myoclonus with L-5-HTP and carbidopa.",
+      "authors": [
+        "L Thal",
+        "N Sharpless",
+        "L Wolfson",
+        "J Engel",
+        "R Katzman"
+      ],
+      "journal": "Transactions of the American Neurological Association",
+      "publication_date": "1976",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Carbidopa",
+        "Drug Evaluation",
+        "Homovanillic Acid",
+        "Humans",
+        "Hydrazines",
+        "Hydroxyindoleacetic Acid",
+        "Myoclonus",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "1088138",
+      "title": "Measurement of 5-hydroxyindole compounds during L-5-HTP treatment in depressed patients.",
+      "authors": [
+        "S Takahashi",
+        "R Takahashi",
+        "I Masumura",
+        "A Miike"
+      ],
+      "journal": "Folia psychiatrica et neurologica japonica",
+      "publication_date": "1976",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "L-5-hydroxytryptophan (L-5-HTP), and immediate serotonin precursor, was given to the hospitalized depressed patients in an open clinical trial of the Phase 2 study for antidepressive effects of the agent. A relatively small dose, 150 mg orally for seven days, was employed, and seven of 14 patients responded to the treatment with mild or moderate amelioration of their depressive symptoms. Urinary excretion levels and plasma concentrations of three 5-hydroxyindole compounds, 5-HTP, 5-HT and 5-HIAA, were measured during the drug treatment. Approximately 70% of the orally administered dose of L-5-HTP was recovered from the urine of depressed patients. Major part of urinary indoleamine metabolites was free and conjugate 5-HIAA. Excretion levels of these compounds in urine were not consistently altered in the depressed patients as compared to those in normal subjects. Clinical response to L-5-HTP treatment appeared to have some correlation with the biochemical measures in the depressed patients, that is, non-responders exhibited significantly lower excretion levels of 5-HT and 5-HIAA in urine, and lower plasma levels of 5-HT than responders. Administered L-5-HTP may not be fully utilized in the depressed patients who did not react to the agent.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Administration, Oral",
+        "Adolescent",
+        "Adult",
+        "Depression",
+        "Female",
+        "Humans",
+        "Hydroxyindoleacetic Acid",
+        "Indoles",
+        "Male",
+        "Middle Aged",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "1087913",
+      "title": "Measurement of 5-hydroxyindole compounds during L-5-HTP treatment in depressed patients.",
+      "authors": [
+        "S Takahashi",
+        "R Takahashi",
+        "I Masumura",
+        "A Miike"
+      ],
+      "journal": "Folia psychiatrica et neurologica japonica",
+      "publication_date": "1976",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "L-5-hydroxytryptophan (L-5-HTP), an immediate serotonin precursor, was given to the hospitalized depressed patients in an open clinical trial of the Phase 2 study for antidepressive effects of the agent. A relatively small dose, 150mg orally for seven days, was employed, and seven of 14 patients responded to the treatment with mild or moderate emelioration of their depressive symptoms. Urinary excretion levels and plasma concentrations of three 5-hydroxyindole compounds, 5-HTP, 5-HT and 5-HIAA, were measured during the drug treatment. Approximately 70% of the orally administered dose of L-5-HTP was recovered from the urine of depressed patients. Major part of urinary indoleamine metabolites was free and conjugate 5-HIAA. Excretion levels of these compounds in urine were not consistenly altered in the depressed patients as compared to those in normal subjects. Clinical response to L-5-HTP treatment appeared to have some correlation with the biochemical measures in the depressed patients, that is, non-responders exhibited significantly lower excretion levels of 5-HT and 5-HIAA in urine, and lower plasma levels of 5-HT than responders. Administered L-5-HTP may not be fully utilized in the depressed patients who did not react to the agent.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Adult",
+        "Depression",
+        "Female",
+        "Humans",
+        "Hydroxyindoleacetic Acid",
+        "Male",
+        "Middle Aged",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "770365",
+      "title": "5-Hydroxytryptophan (5-HTP) and a MAOI (nialamide) in the treatment of depressions. A double-blind controlled study.",
+      "authors": [
+        "J J Aliño",
+        "J L Gutierrez",
+        "M L Iglesias"
+      ],
+      "journal": "International pharmacopsychiatry",
+      "publication_date": "1976",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "Through a controlled double-blind study in 30 hospitalized patients affected with endogenous depression, the antidepressant action of the combination of nialamide+l-5-HTP has been evaluated and compared with a control group which only received nialamide (+ placebo). The patients treated with nialamide + l-5-HTP achieved a fuller recovery than those who were treated with nialamide alone. The treatment with nialamide + l-5-HTP proved to have a shorter delay of onset. Side effects showed no marked differences except for the orthostatic hypotension which was less apparent in those patients treated with nialamide + l-5-HTP.",
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Clinical Trials as Topic",
+        "Depression",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Nialamide",
+        "Nitrazepam",
+        "Psychiatric Status Rating Scales",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "4277102",
+      "title": "The use of 5-HTP in the treatment of Down's syndrome.",
+      "authors": [
+        "P Weise",
+        "R Koch",
+        "K N Shaw",
+        "M J Rosenfeld"
+      ],
+      "journal": "Pediatrics",
+      "publication_date": "1974-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Administration, Oral",
+        "Age Factors",
+        "Child Development",
+        "Child, Preschool",
+        "Chromatography",
+        "Down Syndrome",
+        "Female",
+        "Humans",
+        "Hydroxyindoleacetic Acid",
+        "Infant",
+        "Intelligence Tests",
+        "Male",
+        "Tryptophan"
+      ]
+    },
+    {
+      "pmid": "4541701",
+      "title": "[Psychopharmacologic treatment with (L-5-HTP), L-5 hydroxytryptophan in endogenous depressions].",
+      "authors": [
+        "I Sano"
+      ],
+      "journal": "Actas luso-espanolas de neurologia, psiquiatria y ciencias afines",
+      "publication_date": "1973",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Depression",
+        "Evaluation Studies as Topic",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "4540359",
+      "title": "[Treatment of endogenous depression with L-hydroxy-tryptophan (L-5-HTP)].",
+      "authors": [
+        "I Sano"
+      ],
+      "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+      "publication_date": "1973-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Aged",
+        "Depression",
+        "Humans",
+        "Isomerism",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "4538893",
+      "title": "[L-5-hydroxytryptophan(L-5-HTP) therapy of Parkinson's disease. 2].",
+      "authors": [
+        "I Sano",
+        "K Taniguchi"
+      ],
+      "journal": "Munchener medizinische Wochenschrift (1950)",
+      "publication_date": "1972-Oct-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Aged",
+        "Depression",
+        "Dihydroxyphenylalanine",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Muscle Rigidity",
+        "Parkinson Disease",
+        "Tremor"
+      ]
+    },
+    {
+      "pmid": "4538892",
+      "title": "[L-5-hydroxytryptophan(L-5-HTP) therapy in endogenous depression. 1].",
+      "authors": [
+        "I Sano"
+      ],
+      "journal": "Munchener medizinische Wochenschrift (1950)",
+      "publication_date": "1972-Oct-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Benzoates",
+        "Bipolar Disorder",
+        "Child",
+        "Depression",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Nausea",
+        "Serotonin",
+        "Trihexyphenidyl",
+        "Vomiting"
+      ]
+    },
+    {
+      "pmid": "4538204",
+      "title": "[L-5-hydroxytryptophan-(L-5-HTP) therapy].",
+      "authors": [
+        "I Sano"
+      ],
+      "journal": "Folia psychiatrica et neurologica japonica",
+      "publication_date": "1972-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Antidepressive Agents",
+        "Child",
+        "Depression",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "5316906",
+      "title": "[\"Precursor-therapy\" with active amines. 2. Treatment of Parkinson's disease by L-5-HTP (L-5-hydroxytryptophan)].",
+      "authors": [
+        "I Sano",
+        "K Taniguchi"
+      ],
+      "journal": "Seishin shinkeigaku zasshi = Psychiatria et neurologia Japonica",
+      "publication_date": "1971",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Aged",
+        "Dihydroxyphenylalanine",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Parkinson Disease",
+        "Serotonin"
+      ]
+    },
+    {
+      "pmid": "5316872",
+      "title": "[\"Precursor therapy\" with active amines. I. Treatment of depression by L-5-HTP (L-5-hydroxytryptophan)].",
+      "authors": [
+        "I Sano"
+      ],
+      "journal": "Seishin shinkeigaku zasshi = Psychiatria et neurologia Japonica",
+      "publication_date": "1971-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Adult",
+        "Aged",
+        "Depression",
+        "Female",
+        "Gastrointestinal Diseases",
+        "Humans",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "4188997",
+      "title": "Changes resembling lupus erythematosus after prolonged treatment with Ro-4-4602, a potent inhibitor of 5-HTP-carboxyliase, in white rats.",
+      "authors": [
+        "M Chruściel"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "1969-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Aminobenzoates",
+        "Animals",
+        "Carboxy-Lyases",
+        "Cholesterol",
+        "Creatinine",
+        "Female",
+        "Hydrazines",
+        "Hydroxyindoleacetic Acid",
+        "Kidney",
+        "Kynurenine",
+        "Liver",
+        "Lupus Erythematosus, Systemic",
+        "Male",
+        "Neutrophils",
+        "Proline",
+        "Rats",
+        "Spleen",
+        "Tryptophan",
+        "Vanilmandelic Acid"
+      ]
+    },
+    {
+      "pmid": "14211415",
+      "title": "FURTHER STUDIES ON: ONE DAY TREATMENT OF DEPRESSION WITH 5-HTP.",
+      "authors": [
+        "N S KLINE",
+        "W SACKS",
+        "G M SIMPSON"
+      ],
+      "journal": "The American journal of psychiatry",
+      "publication_date": "1964-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Biomedical Research",
+        "Depression",
+        "Depressive Disorder",
+        "Drug Therapy",
+        "Geriatrics",
+        "Humans",
+        "Monoamine Oxidase Inhibitors",
+        "Phenelzine"
+      ]
+    },
+    {
+      "pmid": "13822063",
+      "title": "The administration of BAS, 5-HTP, and marsilid to schizophrenic patients.",
+      "authors": [
+        "A FELDSTEIN",
+        "H FREEMAN",
+        "J M HOPE",
+        "I M DIBNER",
+        "H HOAGLAND"
+      ],
+      "journal": "The American journal of psychiatry",
+      "publication_date": "1959-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "5-Hydroxytryptophan",
+        "Humans",
+        "Isoniazid",
+        "Schizophrenia",
+        "Serotonin",
+        "Tryptophan"
+      ]
+    }
+  ]
+}

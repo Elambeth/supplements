@@ -1,0 +1,67 @@
+{
+  "supplement": "Nondigestible Fermentable Carbohydrates",
+  "query": "Nondigestible Fermentable Carbohydrates[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:10:29",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "33997907",
+      "title": "The effects of nondigestible fermentable carbohydrates on adults with overweight or obesity: a meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Bocheng Xu",
+        "Jinping Cao",
+        "Jie Fu",
+        "Zhi Li",
+        "Mingliang Jin",
+        "Xinxia Wang",
+        "Yizhen Wang"
+      ],
+      "journal": "Nutrition reviews",
+      "publication_date": "2022-Jan-10",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "abstract": "CONTEXT: Nondigestible fermentable carbohydrates (NDFCs) can be fermented by microbiota, thereby yielding metabolites that have a beneficial role in the prevention and treatment of obesity and its complications. However, to our knowledge, no meta-analysis has been conducted to evaluate the effects of NDFCs on obesity. OBJECTIVE: To conduct a meta-analysis of randomized controlled trials (RCTs) to summarize existing evidence on the effects of numerous NDFCs on adiposity and cardiovascular risk factors in adults with overweight or obesity with ≥2 weeks of follow-up. DATA SOURCES: The following databases were searched: MEDLINE, Embase, and CINAHL. DATA EXTRACTION: Seventy-seven RCTs with 4535 participants were identified for meta-analysis from the 3 databases. DATA ANALYSIS: The findings suggest that increased intake of NDFCs is significantly effective in reducing body mass index by 0.280 kg/m2, weight by 0.501 kg, hip circumference by 0.554 cm, waist circumference by 0.649 cm, systolic blood pressure by 1.725 mmHg, total cholesterol by 0.36 mmol/L, and low-density lipoprotein by 0.385 mmol/L, with evidence of moderate-to-high quality. CONCLUSION: Convincing evidence from meta-analyses of RCTs indicates that increased NDFC intake improves adiposity, blood lipid levels, and systolic blood pressure in people with overweight and obesity.",
+      "mesh_terms": [
+        "Adult",
+        "Body Weight",
+        "Carbohydrates",
+        "Humans",
+        "Obesity",
+        "Overweight",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "28936943",
+      "title": "Modulation of the Gastrointestinal Microbiome with Nondigestible Fermentable Carbohydrates To Improve Human Health.",
+      "authors": [
+        "Edward C Deehan",
+        "Rebbeca M Duar",
+        "Anissa M Armet",
+        "Maria Elisa Perez-Muñoz",
+        "Mingliang Jin",
+        "Jens Walter"
+      ],
+      "journal": "Microbiology spectrum",
+      "publication_date": "2017-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "There is a clear association between the gastrointestinal (GI) microbiome and the development of chronic noncommunicable diseases, providing a rationale for the development of strategies that target the GI microbiota to improve human health. In this article, we discuss the potential of supplementing the human diet with nondigestible fermentable carbohydrates (NDFCs) to modulate the composition, structure, diversity, and metabolic potential of the GI microbiome in an attempt to prevent or treat human disease. The current concepts by which NDFCs can be administered to humans, including prebiotics, fermentable dietary fibers, and microbiota-accessible carbohydrates, as well as the mechanisms by which these carbohydrates exert their health benefits, are discussed. Epidemiological research presents compelling evidence for the health effects of NDFCs, with clinical studies providing further support for some of these benefits. However, rigorously designed human intervention studies with well-established clinical markers and microbial endpoints are still essential to establish (i) the clinical efficiency of specific NDFCs, (ii) the causal role of the GI microbiota in these effects, (iii) the underlying mechanisms involved, and (iv) the degree by which inter-individual differences between GI microbiomes influence these effects. Such studies would provide the mechanistic understanding needed for a systematic application of NDFCs to improve human health via GI microbiota modulation while also allowing the personalization of these dietary strategies.",
+      "mesh_terms": [
+        "Bacteria",
+        "Dietary Carbohydrates",
+        "Fermentation",
+        "Gastrointestinal Microbiome",
+        "Gastrointestinal Tract",
+        "Health",
+        "Humans",
+        "Prebiotics"
+      ]
+    }
+  ]
+}

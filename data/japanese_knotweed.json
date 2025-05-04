@@ -1,0 +1,82 @@
+{
+  "supplement": "Japanese Knotweed",
+  "query": "Japanese Knotweed[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:50:41",
+  "research_count": 4,
+  "count": 4,
+  "articles": [
+    {
+      "pmid": "39620580",
+      "title": "Control and Disposal of Invasive Japanese Knotweed Reynoutria japonica Houtt. Using Microwave Treatment.",
+      "authors": [
+        "Krzysztof Słowiński",
+        "Beata Grygierzec",
+        "Sylwester Tabor",
+        "Szymon Bucior",
+        "Agnieszka Synowiec"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "publication_date": "2024-Nov-15",
+      "publication_types": [
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "abstract": "The study aims to assess the effectiveness of microwave treatment (MWT) at a frequency of 2.45 GHz and a power of 800 W to control Japanese knotweed (Reynoutria japonica Houtt.) using a self-propelled device that was built in the in-house facility. The MWT was applied in the field population of knotweed in July 2022. First, plants were mechanically moved from the area of 1 m2, and next, the cut shoots around 4 cm high were microwave-treated for 25 min, 20 min, and 15 min. The control treatments were: 1) only cut plants and 2) rhizomes dug out to 30 cm deep. The effectiveness of the microwave treatments was observed for the next 11 months by counting the number of newly grown shoots. The results showed that a 25 min MWT was 100% effective in Japanese knotweed loss of vitality, while a 15 min MWT microwave treatment stimulated plant growth by around 50%, compared to controls. Rhizomes were dug out in a separate in vitro experiment for laboratory testing. The rhizomes were categorized by thickness and subjected to a 60 s MWT using a commercial microwave, after which their temperature and vitality were assessed. The temperature of rhizomes following MWT depended on their thickness. Those rhizomes that warmed to temperatures above 42 °C were effectively destroyed. Summing up, the time plants are exposed to microwaves plays a major role in the effectiveness of this method. The longer the exposure to MWT, the better control. The thinner the rhizomes, the more effective the in vitro MWT rhizomes disposal.",
+      "mesh_terms": [
+        "Microwaves",
+        "Introduced Species",
+        "Rhizome",
+        "Weed Control"
+      ]
+    },
+    {
+      "pmid": "36134975",
+      "title": "Japanese Knotweed Rhizome Bark Extract Inhibits Live SARS-CoV-2 In Vitro.",
+      "authors": [
+        "Urška Jug",
+        "Katerina Naumoska",
+        "Tadej Malovrh"
+      ],
+      "journal": "Bioengineering (Basel, Switzerland)",
+      "publication_date": "2022-Sep-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Coronavirus disease 2019 (COVID-19), a viral infectious respiratory disease, is caused by highly contagious severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and is responsible for the ongoing COVID-19 pandemic. Since very few drugs are known to be effective against SARS-CoV-2, there is a general need for new therapeutics, including plant-based drugs, for the prophylaxis and treatment of infections. In the current study, the activity of a 70% ethanolic(aq) extract of the rhizome bark of Japanese knotweed, an invasive alien plant species, was tested for the first time against the wild-type SARS-CoV-2 virus using a specific and robust virus neutralization test (VNT) on Vero-E6 cells, which best mimics the mechanism of real virus−host interaction. A statistically significant antiviral effect against SARS-CoV-2 (p-value < 0.05) was observed for the 50.8 µg mL−1 extract solution in cell medium. A suitable extract preparation was described to avoid loss of polyphenols throughout filtration of the extract, which was dissolved in cell medium containing fetal bovine serum (FBS). The significance of the differences between the sums of the test and control groups in the incidence of cytopathic effects (CPE) was determined using the one-way ANOVA test. A dose−response relationship was observed, with the cytotoxic effect occurring at higher concentrations of the extract (≥101.6 µg mL−1). The obtained results suggest possible use of this plant material for the production of various products (e.g., packaging, hygiene products, biodisinfectants, etc.) that would be useful against the spread of and for self-protection against COVID-19."
+    },
+    {
+      "pmid": "34447618",
+      "title": "Regeneration and growth in crowns and rhizome fragments of Japanese knotweed (Reynoutria japonica) and desiccation as a potential control strategy.",
+      "authors": [
+        "Jacob W Lawson",
+        "Mark Fennell",
+        "Mark W Smith",
+        "Karen L Bacon"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Reynoutria japonica (Japanese knotweed) is a problematic invasive plant found in many areas of Europe and North America. Notably, in the UK, the species can cause issues with mortgage acquisition. Control of R. japonica is complicated by its ability to regenerate from small fragments of plant material; however, there remains uncertainty about how much (in terms of mass) rhizome is required for successful regeneration. This study investigated the ability of crowns and rhizomes with different numbers of nodes to regenerate successfully from three sites in the north of England, UK. Two of the sites had been subject to herbicide treatment for two years prior to sampling and the third site had no history of herbicide treatment. No significant differences were observed in regenerated stem diameter, maximum height of stem and maximum growth increments among crowns. All traits measured from the planted crowns were significantly greater than those of the planted rhizome fragments and at least one node was necessary for successful regeneration of rhizomes. The smallest initial fragment weight to regenerate and survive the experiment was 0.5 g. Subjecting all plant material to desiccation for 38 days resulted in no regrowth (emergence or regeneration) after replanting. These findings suggest that desiccation could be a valuable management strategy for small to medium scale infestations common in urban settings."
+    },
+    {
+      "pmid": "21632416",
+      "title": "Plasticity in salt tolerance traits allows for invasion of novel habitat by Japanese knotweed s. l. (Fallopia japonica and F.xbohemica, Polygonaceae).",
+      "authors": [
+        "Christina L Richards",
+        "Ramona L Walls",
+        "John P Bailey",
+        "Radha Parameswaran",
+        "Tara George",
+        "Massimo Pigliucci"
+      ],
+      "journal": "American journal of botany",
+      "publication_date": "2008-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Japanese knotweeds are among the most invasive organisms in the world. Their recent expansion into salt marsh habitat provides a unique opportunity to investigate how invasives establish in new environments. We used morphology, cytology, and AFLP genotyping to identify taxa and clonal diversity in roadside and salt marsh populations. We conducted a greenhouse study to determine the ability to tolerate salt and whether salt marsh populations are more salt tolerant than roadside populations as measured by the efficiency of PSII, leaf area, succulence, height, root-to-shoot ratio, and total biomass. Clonal diversity was extremely low with one F. japonica clone and five F. ×bohemica genotypes. The two taxa were significantly different in several traits, but did not vary in biomass or plasticity of any trait. All traits were highly plastic in response to salinity, but differed significantly among genets. Despite this variation, plants from the salt marsh habitats did not perform better in the salt treatment, suggesting that they are not better adapted to tolerate salt. Instead, our data support the hypothesis that plasticity in salt tolerance traits may allow these taxa to live in saline habitats without specific adaptation to tolerate salt."
+    }
+  ]
+}

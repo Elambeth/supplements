@@ -1,0 +1,337 @@
+{
+  "supplement": "Mycoprotein",
+  "query": "Mycoprotein[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:07:26",
+  "research_count": 10,
+  "count": 10,
+  "articles": [
+    {
+      "pmid": "38306892",
+      "title": "A four-week dietary intervention with mycoprotein-containing food products reduces serum cholesterol concentrations in community-dwelling, overweight adults: A randomised controlled trial.",
+      "authors": [
+        "George F Pavis",
+        "Raquel Revuelta Iniesta",
+        "Holly Roper",
+        "Hannah E Theobald",
+        "Emma J Derbyshire",
+        "Tim J A Finnigan",
+        "Francis B Stephens",
+        "Benjamin T Wall"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2024-Mar",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Substituting dietary meat and fish for mycoprotein, a fungal-derived food source rich in protein and fibre, decreases circulating cholesterol concentrations in laboratory-controlled studies. However, whether these findings can be translated to a home-based setting, and to decrease cholesterol concentrations in overweight and hypercholesterolemic individuals, remains to be established. OBJECTIVE: We investigated whether a remotely-delivered, home-based dietary intervention of mycoprotein-containing food products would affect various circulating cholesterol moieties and other markers of cardio-metabolic health in overweight (BMI >27.5 kg⋅m-2) and hypercholesterolaemic (>5.0 mmol⋅L-1) adults. METHODS: Seventy-two participants were randomized into a controlled, parallel-group trial conducted in a free-living setting, in which they received home deliveries of either meat/fish control products (CON; n = 39; BMI 33 ± 1 kg⋅m-2; 13 males, 26 females) or mycoprotein-containing food products (MYC; n = 33; BMI 32 ± 1 kg⋅m-2; 13 males, 20 females) for 4 weeks. Fingertip blood samples were collected and sent via postal service before and after the dietary intervention period and analysed for concentrations of serum lipids, blood glucose and c-peptide. RESULTS: Serum total cholesterol concentrations were unchanged throughout the intervention in CON, but decreased by 5 ± 2 % in MYC (from 5.4 ± 0.2 to 5.1 ± 0.2 mmol⋅L-1; P < 0.05). Serum low-density lipoprotein cholesterol and non-high-density lipoprotein cholesterol concentrations were also unchanged in CON, but decreased in MYC by 10 ± 3 % and 6 ± 2 % (both by 0.3 ± 0.1 mmol⋅L-1; P < 0.05). Serum high-density lipoprotein cholesterol and free triglyceride concentrations were unaffected in CON or MYC. Post-intervention, MYC displayed lower mean blood glucose (3.7 ± 0.2 versus 4.3 ± 0.2 mmol⋅L-1) and c-peptide (779 ± 76 vs. 1064 ± 86 pmol⋅L-1) concentrations (P < 0.05) vs. CON. CONCLUSIONS: We show that a home-based dietary intervention of mycoprotein-containing food products effectively lowers circulating cholesterol concentrations in overweight, hypercholesterolemic adults. This demonstrates that mycoprotein consumption is a feasible and ecologically valid dietary strategy to improve markers of cardio-metabolic health in an at-risk population under free living conditions. CLINICAL TRIAL REGISTRATION: NCT04773483 (https://classic. CLINICALTRIALS: gov/ct2/show/NCT04773483).",
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Animals",
+        "Male",
+        "Humans",
+        "Blood Glucose",
+        "C-Peptide",
+        "Independent Living",
+        "Overweight",
+        "Meat"
+      ]
+    },
+    {
+      "pmid": "37624376",
+      "title": "The effects of substituting red and processed meat for mycoprotein on biomarkers of cardiovascular risk in healthy volunteers: an analysis of secondary endpoints from Mycomeat.",
+      "authors": [
+        "Dominic N Farsi",
+        "Jose Lara Gallegos",
+        "Tim J A Finnigan",
+        "William Cheung",
+        "Jose Munoz Munoz",
+        "Daniel M Commane"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: Mycoprotein is a relatively novel food source produced from the biomass of Fusarium venenatum. It has previously been shown to improve CVD risk markers in intervention trials when it is compared against total meat. It has not hitherto been assessed specifically for benefits relative to red and processed meat. METHODS: We leveraged samples from Mycomeat, an investigator-blind randomised crossover controlled trial in metabolically healthy male adults (n = 20), randomised to consume 240 g/day of red and processed meat for 14 days followed by mycoprotein, or vice versa. Blood biochemical indices were a priori defined secondary endpoints. RESULTS: Mycoprotein consumption led to a 6.74% reduction in total cholesterol (P = 0.02) and 12.3% reduction in LDL cholesterol (P = 0.02) from baseline values. Change in fasted triglycerides was not significantly different between diets (+ 0.19 ± 0.11 mmol/l with mycoprotein, P = 0.09). There was a small but significant reduction in waist circumference for mycoprotein relative to meat (- 0.95 ± 0.42 cm, P = 0.04). Following the mycoprotein diet, mean systolic (- 2.41 ± 1.89 mmHg, P = 0.23) and diastolic blood pressure (- 0.80 ± 1.23 mmHg, P = 0.43) were reduced from baseline. There were no statistically significant effects of the intervention on urinary sodium, nitrite or TMAO; while urinary potassium (+ 126.12 ± 50.30 mmol/l, P = 0.02) and nitrate (+ 2.12 ± 0.90 mmol/l, P = 0.04) were both significantly higher with mycoprotein relative to meat. The study population comprised metabolically healthy adults, therefore, changes in plasma lipids had little effect on cardiovascular risk scores (- 0.34% FRS for mycoprotein P = 0.24). CONCLUSIONS: These results confirm potential cardiovascular benefits when displacing red and processed meat with mycoprotein in the diet. Longer trials in higher risk study populations are needed to fully elucidate suggested benefits for blood pressure and body composition. CLINICALTRIALS: gov Identifier: NCT03944421.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Biomarkers",
+        "Cardiovascular Diseases",
+        "Cholesterol, HDL",
+        "Heart Disease Risk Factors",
+        "Meat",
+        "Red Meat",
+        "Risk Factors",
+        "Cross-Over Studies"
+      ]
+    },
+    {
+      "pmid": "37407163",
+      "title": "The effect of mycoprotein intake on biomarkers of human health: a systematic review and meta-analysis.",
+      "authors": [
+        "Maria Shahid",
+        "Allison Gaines",
+        "Daisy Coyle",
+        "Roberta Alessandrini",
+        "Tim Finnigan",
+        "Gary Frost",
+        "Matti Marklund",
+        "Bruce Neal"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2023-Jul",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Mycoprotein is a fungal source of protein that is increasingly consumed as an ingredient in meat analogs. OBJECTIVES: This study aimed to systematically review and meta-analyze the effects of mycoprotein intake on selected biomarkers of human health. METHODS: This study was registered in PROSPERO (CRD42022308980). We searched the PubMed, Scopus, and Embase databases to identify randomized control trials in any language until 16 August, 2022. Trials were included if they administered a mycoprotein intervention against a nonmycoprotein control arm and if reported outcomes included blood lipids, blood glucose, insulin, blood pressure, or body weight. Eligible trials were assessed for risk of bias using the Cochrane risk-of-bias tool for randomized trials. An inverse-variance-weighted, random-effects meta-analysis model was used to assess the effects of intake across each biomarker. RESULTS: Nine trials that included 178 participants with a mean follow-up of 13 d were included, with 4 reporting on blood lipids and 5 reporting on postprandial blood glucose or insulin. The overall reduction of total cholesterol was -0.55 mmol/L (95% CI: -0.85 to -0.26; P < 0.001) in the mycoprotein group compared to control, but no clear effects on HDL cholesterol, LDL cholesterol, or TGs were found (all P > 0.05). There were no reductions in postprandial blood glucose concentrations at 30, 60, 90 or 120 min. Postprandial blood insulin concentration was reduced by -76.51 pmol/L (95% CI: -150.75 to -2.28; P = 0.043) at 30 min, with no detectable effects at 60, 90, or 120 min. CONCLUSIONS: Mycoprotein intake may have important effects on blood lipids, but the evidence base is limited by the small sample sizes and short intervention periods of the contributing trials. The protocol for this systematic review has been registered in PROSPERO as CRD42022308980.",
+      "mesh_terms": [
+        "Humans",
+        "Blood Glucose",
+        "Insulin",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Lipids"
+      ]
+    },
+    {
+      "pmid": "36651990",
+      "title": "Substituting meat for mycoprotein reduces genotoxicity and increases the abundance of beneficial microbes in the gut: Mycomeat, a randomised crossover control trial.",
+      "authors": [
+        "Dominic N Farsi",
+        "Jose Lara Gallegos",
+        "Georgios Koutsidis",
+        "Andrew Nelson",
+        "Tim J A Finnigan",
+        "William Cheung",
+        "Jose L Muñoz-Muñoz",
+        "Daniel M Commane"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2023-Apr",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: The high-meat, low-fibre Western diet is strongly associated with colorectal cancer risk. Mycoprotein, produced from Fusarium venanatum, has been sold as a high-fibre alternative to meat for decades. Hitherto, the effects of mycoprotein in the human bowel have not been well considered. Here, we explored the effects of replacing a high red and processed meat intake with mycoprotein on markers of intestinal genotoxicity and gut health. METHODS: Mycomeat (clinicaltrials.gov NCT03944421) was an investigator-blind, randomised, crossover dietary intervention trial. Twenty healthy male adults were randomised to consume 240 g day-1 red and processed meat for 2 weeks, with crossover to 2 weeks 240 g day-1 mycoprotein, separated by a 4-week washout period. Primary end points were faecal genotoxicity and genotoxins, while secondary end points comprised changes in gut microbiome composition and activity. RESULTS: The meat diet increased faecal genotoxicity and nitroso compound excretion, whereas the weight-matched consumption of mycoprotein decreased faecal genotoxicity and nitroso compounds. In addition, meat intake increased the abundance of Oscillobacter and Alistipes, whereas mycoprotein consumption increased Lactobacilli, Roseburia and Akkermansia, as well as the excretion of short chain fatty acids. CONCLUSION: Replacing red and processed meat with the Fusarium-based meat alternative, mycoprotein, significantly reduces faecal genotoxicity and genotoxin excretion and increases the abundance of microbial genera with putative health benefits in the gut. This work demonstrates that mycoprotein may be a beneficial alternative to meat within the context of gut health and colorectal cancer prevention.",
+      "mesh_terms": [
+        "Adult",
+        "Male",
+        "Humans",
+        "Meat",
+        "Diet",
+        "Fatty Acids, Volatile",
+        "DNA Damage",
+        "Nitroso Compounds",
+        "Colorectal Neoplasms"
+      ]
+    },
+    {
+      "pmid": "35887410",
+      "title": "Fungal-Derived Mycoprotein and Health across the Lifespan: A Narrative Review.",
+      "authors": [
+        "Emma Derbyshire"
+      ],
+      "journal": "Journal of fungi (Basel, Switzerland)",
+      "publication_date": "2022-Jun-22",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Mycoprotein is a filamentous fungal protein that was first identified in the 1960s. A growing number of publications have investigated inter-relationships between mycoprotein intakes and aspects of human health. A narrative review was undertaken focusing on evidence from randomized controlled trials, clinical trials, intervention, and observational studies. Fifteen key publications were identified and undertaken in early/young adulthood, adulthood (mid-life) or older/advanced age. Main findings showed that fungal mycoprotein could contribute to an array of health benefits across the lifespan including improved lipid profiles, glycaemic markers, dietary fibre intakes, satiety effects and muscle/myofibrillar protein synthesis. Continued research is needed which would be worthwhile at both ends of the lifespan spectrum and specific population sub-groups."
+    },
+    {
+      "pmid": "33172506",
+      "title": "A mycoprotein-based high-protein vegan diet supports equivalent daily myofibrillar protein synthesis rates compared with an isonitrogenous omnivorous diet in older adults: a randomised controlled trial.",
+      "authors": [
+        "Alistair J Monteyne",
+        "Mandy V Dunlop",
+        "David J Machin",
+        "Mariana O C Coelho",
+        "George F Pavis",
+        "Craig Porter",
+        "Andrew J Murton",
+        "Doaa R Abdelrahman",
+        "Marlou L Dirks",
+        "Francis B Stephens",
+        "Benjamin T Wall"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2021-Sep-14",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Animal-derived dietary protein ingestion and physical activity stimulate myofibrillar protein synthesis rates in older adults. We determined whether a non-animal-derived diet can support daily myofibrillar protein synthesis rates to the same extent as an omnivorous diet. Nineteen healthy older adults (aged 66 (sem 1) years; BMI 24 (sem 1) kg/m2; twelve males, seven females) participated in a randomised, parallel-group, controlled trial during which they consumed a 3-d isoenergetic high-protein (1·8 g/kg body mass per d) diet, where the protein was provided from predominantly (71 %) animal (OMNI; n 9; six males, three females) or exclusively vegan (VEG; n 10; six males, four females; mycoprotein providing 57 % of daily protein intake) sources. During the dietary control period, participants conducted a daily bout of unilateral resistance-type leg extension exercise. Before the dietary control period, participants ingested 400 ml of deuterated water, with 50-ml doses consumed daily thereafter. Saliva samples were collected throughout to determine body water 2H enrichments, and muscle samples were collected from rested and exercised muscle to determine daily myofibrillar protein synthesis rates. Deuterated water dosing resulted in body water 2H enrichments of approximately 0·78 (sem 0·03) %. Daily myofibrillar protein synthesis rates were 13 (sem 8) (P = 0·169) and 12 (sem 4) % (P = 0·016) greater in the exercised compared with rested leg (1·59 (sem 0·12) v. 1·77 (sem 0·12) and 1·76 (sem 0·14) v. 1·93 (sem 0·12) %/d) in OMNI and VEG groups, respectively. Daily myofibrillar protein synthesis rates did not differ between OMNI and VEG in either rested or exercised muscle (P > 0·05). Over the course of a 3-d intervention, omnivorous- or vegan-derived dietary protein sources can support equivalent rested and exercised daily myofibrillar protein synthesis rates in healthy older adults consuming a high-protein diet.",
+      "mesh_terms": [
+        "Aged",
+        "Animals",
+        "Diet, High-Protein",
+        "Diet, Vegan",
+        "Dietary Proteins",
+        "Female",
+        "Fungal Proteins",
+        "Humans",
+        "Male",
+        "Muscle Proteins",
+        "Muscle, Skeletal",
+        "Resistance Training"
+      ]
+    },
+    {
+      "pmid": "32660657",
+      "title": "Daily mycoprotein consumption for 1 week does not affect insulin sensitivity or glycaemic control but modulates the plasma lipidome in healthy adults: a randomised controlled trial.",
+      "authors": [
+        "Mariana O C Coelho",
+        "Alistair J Monteyne",
+        "Marlou L Dirks",
+        "Tim J A Finnigan",
+        "Francis B Stephens",
+        "Benjamin T Wall"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2021-Jan-28",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Mycoprotein consumption has been shown to improve acute postprandial glycaemic control and decrease circulating cholesterol concentrations. We investigated the impact of incorporating mycoprotein into the diet on insulin sensitivity (IS), glycaemic control and plasma lipoprotein composition. Twenty healthy adults participated in a randomised, parallel-group trial in which they consumed a 7 d fully controlled diet where lunch and dinner contained either meat/fish (control group, CON) or mycoprotein (MYC) as the primary source of dietary protein. Oral glucose tolerance tests were performed pre- and post-intervention, and 24 h continuous blood glucose monitoring was applied throughout. Fasting plasma samples were obtained pre- and post-intervention and were analysed using quantitative, targeted NMR-based metabonomics. There were no changes within or between groups in blood glucose or serum insulin responses, nor in IS or 24 h glycaemic profiles. No differences between groups were found for 171 of the 224 metabonomic targets. Forty-five lipid concentrations of different lipoprotein fractions (VLDL, LDL, intermediate-density lipoprotein and HDL) remained unchanged in CON but showed a coordinated decrease (7-27 %; all P < 0·05) in MYC. Total plasma cholesterol, free cholesterol, LDL-cholesterol, HDL2-cholesterol, DHA and n-3 fatty acids decreased to a larger degree in MYC (14-19 %) compared with CON (3-11 %; P < 0·05). Substituting meat/fish for mycoprotein twice daily for 1 week did not modulate whole-body IS or glycaemic control but resulted in changes to plasma lipid composition, the latter primarily consisting of a coordinated reduction in circulating cholesterol-containing lipoproteins.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "Blood Glucose Self-Monitoring",
+        "Cholesterol",
+        "Dietary Proteins",
+        "Fasting",
+        "Female",
+        "Fish Proteins, Dietary",
+        "Fungal Proteins",
+        "Glucose Tolerance Test",
+        "Glycemic Control",
+        "Healthy Volunteers",
+        "Humans",
+        "Insulin",
+        "Insulin Resistance",
+        "Lipidomics",
+        "Lipoproteins",
+        "Male",
+        "Meat Proteins",
+        "Postprandial Period",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "32438401",
+      "title": "Mycoprotein ingestion stimulates protein synthesis rates to a greater extent than milk protein in rested and exercised skeletal muscle of healthy young men: a randomized controlled trial.",
+      "authors": [
+        "Alistair J Monteyne",
+        "Mariana O C Coelho",
+        "Craig Porter",
+        "Doaa R Abdelrahman",
+        "Thomas S O Jameson",
+        "Sarah R Jackman",
+        "Jamie R Blackwell",
+        "Tim J A Finnigan",
+        "Francis B Stephens",
+        "Marlou L Dirks",
+        "Benjamin T Wall"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2020-Aug-01",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Mycoprotein is a fungal-derived sustainable protein-rich food source, and its ingestion results in systemic amino acid and leucine concentrations similar to that following milk protein ingestion. OBJECTIVE: We assessed the mixed skeletal muscle protein synthetic response to the ingestion of a single bolus of mycoprotein compared with a leucine-matched bolus of milk protein, in rested and exercised muscle of resistance-trained young men. METHODS: Twenty resistance-trained healthy young males (age: 22 ± 1 y, body mass: 82 ± 2 kg, BMI: 25 ± 1 kg·m-2) took part in a randomized, double-blind, parallel-group study. Participants received primed, continuous infusions of L-[ring-2H5]phenylalanine and ingested either 31 g (26.2 g protein: 2.5 g leucine) milk protein (MILK) or 70 g (31.5 g protein: 2.5 g leucine) mycoprotein (MYCO) following a bout of unilateral resistance-type exercise (contralateral leg acting as resting control). Blood and m. vastus lateralis muscle samples were collected before exercise and protein ingestion, and following a 4-h postprandial period to assess mixed muscle fractional protein synthetic rates (FSRs) and myocellular signaling in response to the protein beverages in resting and exercised muscle. RESULTS: Mixed muscle FSRs increased following MILK ingestion (from 0.036 ± 0.008 to 0.052 ± 0.006%·h-1 in rested, and 0.035 ± 0.008 to 0.056 ± 0.005%·h-1 in exercised muscle; P <0.01) but to a greater extent following MYCO ingestion (from 0.025 ± 0.006 to 0.057 ± 0.004%·h-1 in rested, and 0.024 ± 0.007 to 0.072 ± 0.005%·h-1 in exercised muscle; P <0.0001) (treatment × time interaction effect; P <0.05). Postprandial FSRs trended to be greater in MYCO compared with MILK (0.065 ± 0.004 compared with 0.054 ± 0.004%·h-1, respectively; P = 0.093) and the postprandial rise in FSRs was greater in MYCO compared with MILK (Delta 0.040 ± 0.006 compared with Delta 0.018 ± 0.005%·h-1, respectively; P <0.01). CONCLUSIONS: The ingestion of a single bolus of mycoprotein stimulates resting and postexercise muscle protein synthesis rates, and to a greater extent than a leucine-matched bolus of milk protein, in resistance-trained young men. This trial was registered at clinicaltrials.gov as 660065600.",
+      "mesh_terms": [
+        "Adult",
+        "Amino Acids",
+        "Double-Blind Method",
+        "Exercise",
+        "Fungal Proteins",
+        "Humans",
+        "Male",
+        "Milk Proteins",
+        "Muscle Proteins",
+        "Muscle, Skeletal",
+        "Resistance Training",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "7825525",
+      "title": "Mycoprotein reduces glycemia and insulinemia when taken with an oral-glucose-tolerance test.",
+      "authors": [
+        "W H Turnbull",
+        "T Ward"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1995-Jan",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "This study investigated the effects of mycoprotein, a food produced by the continuous fermentation of Fusarium graminearum (Schwabe), on acute glycemia and insulinemia in normal healthy individuals. Subjects participated in two single-meal study periods in a crossover design. After an overnight fast, subjects were given milkshakes containing mycoprotein or a control substance, which were isoenergetic and nutrient balanced. Each milkshake contained 75 g carbohydrate, equivalent to a standard World Health Organization oral-glucose-tolerance test. Blood samples were taken fasting and at 30, 60, 90, and 120 min postprandially for the measurement of serum glucose and insulin. Glycemia was reduced postmeal after mycoprotein compared with the control and was statistically significant at 60 min (13% reduction). Insulinemia was reduced postmeal after mycoprotein compared with the control and was statistically significant at 30 min (19% reduction) and 60 min (36% reduction) postmeal. These results may be significant in the dietary treatment of diabetes.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Cross-Over Studies",
+        "Dietary Proteins",
+        "Fasting",
+        "Female",
+        "Food Handling",
+        "Fungal Proteins",
+        "Fusarium",
+        "Glucose Tolerance Test",
+        "Humans",
+        "Insulin",
+        "Male",
+        "Nutritive Value"
+      ]
+    },
+    {
+      "pmid": "1734679",
+      "title": "Mycoprotein reduces blood lipids in free-living subjects.",
+      "authors": [
+        "W H Turnbull",
+        "A R Leeds",
+        "D G Edwards"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "1992-Feb",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Mycoprotein is a food produced by continuous fermentation of Fusarium graminearum (Schwabe). A previous metabolic study showed that mycoprotein decreased total and low-density-lipoprotein (LDL) cholesterol and increased high-density-lipoprotein (HDL) cholesterol. This study was undertaken to determine the effects of mycoprotein under free-living conditions. Two groups of subjects with slightly raised cholesterol concentrations participated in the 8-wk study. The experimental group was fed cookies containing mycoprotein and the control group was fed a nutrient-balanced cookie without mycoprotein. After 8 wk of treatment total cholesterol was reduced by 0.46 mmol/L in the control group and 0.95 mmol/L in the mycoprotein group, and LDL was reduced by 0.34 mmol/L in the control group and 0.84 mmol/L in the mycoprotein group. All analysis of variance differences were statistically significant. This study confirms the metabolic-study results and we are now relatively confident that mycoprotein exerts a beneficial effect on blood lipids.",
+      "mesh_terms": [
+        "Adult",
+        "Analysis of Variance",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Dietary Fats",
+        "Energy Intake",
+        "Female",
+        "Food",
+        "Fusarium",
+        "Humans",
+        "Lipids",
+        "Male",
+        "Middle Aged"
+      ]
+    }
+  ]
+}

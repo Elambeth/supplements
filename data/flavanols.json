@@ -1,0 +1,2020 @@
+{
+  "supplement": "Flavanols",
+  "query": "Flavanols[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:35:55",
+  "research_count": 59,
+  "count": 59,
+  "articles": [
+    {
+      "pmid": "39675158",
+      "title": "Enhancing metabolic and inflammatory status in insulin-resistant rats: Acute intervention with cocoa flavanols and submaximal aerobic exercise activates intracellular signaling pathways for glucose metabolism.",
+      "authors": [
+        "B P Melo",
+        "A C Zacarias",
+        "J C C Oliveira",
+        "L M de Souza Cordeiro",
+        "N A C Horta",
+        "M O Poletini",
+        "C Tonoli",
+        "M L Dos Santos",
+        "S P Wanner",
+        "R Meeusen",
+        "E Heyman",
+        "G F Avelar",
+        "D D Soares"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2025-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Type 2 diabetes, characterized by hyperglycemia, is closely linked to obesity and low-grade inflammation. Acute cocoa flavanols (CF) intake has demonstrated benefits in vasoreactivity, cognitive functions, and antioxidant enzyme activity. However, the physiological mechanisms of CF concerning glucose uptake, inflammatory mediators, and their interplay with aerobic exercise remain unclear in populations with metabolic diseases. OBJECTIVE: This study aims to investigate the acute effects of CF, alone or combined with acute aerobic exercise on mechanisms involved in glucose uptake and inflammatory mediators in the liver, skeletal muscle, pancreas, and adipose tissue in insulin-resistant (IR) rats. METHODS: Sixty-four Wistar rats (250 ± 10g; 15 weeks age) were subjected to a regular chow (CON) or an obesity-associated insulin-resistant (IR) state induced by a high-fat diet and fructose-rich beverage for 30 days. Seventy-two hours after an incremental maximal treadmill running test, rats received a placebo solution or CF supplementation (45 mg·kg-1 of body weight). One hour later, they either rested or ran on a treadmill at 60 % of peak oxygen uptake (VO2peak) for 30 min. Euthanasia occurred 30 min post-experimental sessions. Inflammatory and anti-inflammatory cytokines were assayed using ELISA in the liver, pancreas, gastrocnemius muscle, and epididymal adipose tissues. TRB3 and CPT1 mRNA were assessed by q-RTPCR in the liver and gastrocnemius muscle while Akt and AMPK phosphorylation were examined by immunohistochemistry. RESULTS: CF attenuated hyperglycemia observed after submaximal aerobic exercise in IR rats (p < 0.001). In the liver, CF exhibited additive effects to aerobic exercise, enhancing Akt protein phosphorylation, potentially contributing to improved glucose uptake in IR rats. Submaximal aerobic exercise and CF increased AMPK protein phosphorylation in the liver (p < 0.001) and skeletal muscle (p < 0.001), reduced TRB3 gene expression (p < 0.01), elevated CPT-1a gene expression (p < 0.001), and ameliorated the inflammatory milieu in the pancreas, adipose tissue, liver, and gastrocnemius muscle. CONCLUSION: Acute intake, of CF combined with submaximal aerobic exercise activates key proteins and genes involved in glucose uptake and lipid metabolism, improving the inflammatory milieu. This synergistic effect may contribute to mitigating metabolic complications associated with insulin resistance.",
+      "mesh_terms": [
+        "Animals",
+        "Insulin Resistance",
+        "Rats, Wistar",
+        "Physical Conditioning, Animal",
+        "Male",
+        "Signal Transduction",
+        "Rats",
+        "Muscle, Skeletal",
+        "Cacao",
+        "Liver",
+        "Inflammation",
+        "Glucose",
+        "Adipose Tissue",
+        "Flavonols",
+        "Diet, High-Fat",
+        "Pancreas"
+      ]
+    },
+    {
+      "pmid": "39552296",
+      "title": "Cocoa flavanols rescue stress-induced declines in endothelial function after a high-fat meal, but do not affect cerebral oxygenation during stress in young, healthy adults.",
+      "authors": [
+        "Rosalind Baynham",
+        "Jet J C S Veldhuijzen van Zanten",
+        "Catarina Rendeiro"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2024-Nov-25",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Food choices during stressful periods often worsen, which can influence the impact of stress on vascular health. For instance, fat consumption impairs the recovery of endothelial function following mental stress, while flavanols have been shown to enhance recovery. This randomised, counterbalanced, double-blinded, crossover, postprandial intervention study examined whether flavanols consumed in combination with fat can mitigate the negative impact of fat on stress-induced impairments in endothelial function. Twenty-three young, healthy males and females ingested a high-fat meal (56.5 g fat) with high-flavanol (150 mg (-)-epicatechin) or low-flavanol (<6 mg (-)-epicatechin) cocoa 1.5 hours before an 8-minute mental stress task. The primary outcome, brachial flow-mediated dilatation (FMD), was assessed at pre-intervention baseline and 30 and 90 minutes post-stress. Pre-frontal cortical oxygenation was assessed post-meal at rest and during stress. Forearm blood flow (FBF), blood pressure (BP), cardiovascular activity, common carotid artery (CCA) diameter and blood flow and mood were assessed before, during and/or after stress. FMD was impaired at 30 and 90 minutes post-stress after the low-flavanol cocoa. High-flavanol cocoa attenuated FMD impairments at 30 minutes and improved FMD at 90 minutes post-stress. Mental stress induced similar increases in cortical oxygenation, FBF, BP, cardiovascular activity, and disruptions to mood, in both conditions. CCA diameter increased and CCA retrograde blood flow decreased post-stress, with no difference between conditions. In summary, flavanols can counteract declines in endothelial function induced by consuming fat in the context of stress, but do not impact cerebral oxygenation. These findings can have important implications for flavanol-rich dietary choices to protect the vasculature from stress.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Young Adult",
+        "Adult",
+        "Stress, Psychological",
+        "Endothelium, Vascular",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Cacao",
+        "Chocolate",
+        "Blood Pressure",
+        "Diet, High-Fat",
+        "Postprandial Period",
+        "Dietary Fats",
+        "Brachial Artery"
+      ]
+    },
+    {
+      "pmid": "38613003",
+      "title": "Dietary Cocoa Flavanols Do Not Alter Brain Excitability in Young Healthy Adults.",
+      "authors": [
+        "Raphael Hamel",
+        "Rebecca Oyler",
+        "Evie Harms",
+        "Rosamond Bailey",
+        "Catarina Rendeiro",
+        "Ned Jenkinson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-Mar-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The ingestion of dietary cocoa flavanols acutely alters functions of the cerebral endothelium, but whether the effects of flavanols permeate beyond this to alter other brain functions remains unclear. Based on converging evidence, this work tested the hypothesis that cocoa flavanols would alter brain excitability in young healthy adults. In a randomised, cross-over, double-blinded, placebo-controlled design, transcranial magnetic stimulation was used to assess corticospinal and intracortical excitability before as well as 1 and 2 h post-ingestion of a beverage containing either high (695 mg flavanols, 150 mg (-)-epicatechin) or low levels (5 mg flavanols, 0 mg (-)-epicatechin) of cocoa flavanols. In addition to this acute intervention, the effects of a short-term chronic intervention where the same cocoa flavanol doses were ingested once a day for 5 consecutive days were also investigated. For both the acute and chronic interventions, the results revealed no robust alteration in corticospinal or intracortical excitability. One possibility is that cocoa flavanols yield no net effect on brain excitability, but predominantly alter functions of the cerebral endothelium in young healthy adults. Future studies should increase intervention durations to maximize the acute and chronic accumulation of flavanols in the brain, and further investigate if cocoa flavanols would be more effective at altering brain excitability in older adults and clinical populations than in younger adults.",
+      "mesh_terms": [
+        "Humans",
+        "Aged",
+        "Catechin",
+        "Chocolate",
+        "Food",
+        "Cacao",
+        "Brain",
+        "Polyphenols"
+      ]
+    },
+    {
+      "pmid": "38285609",
+      "title": "Effects of flavanols and procyanidins-rich cocoa consumption on metabolic syndrome: an update review (2013-2023).",
+      "authors": [
+        "Sharvintha Salaish Kumar",
+        "Abbe Maleyki Mhd Jalil",
+        "Napisah Hussin",
+        "Zulfitri 'Azuan Mat Daud",
+        "Amin Ismail"
+      ],
+      "journal": "Bioscience, biotechnology, and biochemistry",
+      "publication_date": "2024-Mar-22",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "Studies indicated that cocoa-based products effectively mitigate the risks associated with metabolic syndrome (MetS), however, the effect varies based on cocoa types, dosages, and study durations. This review aimed to determine the flavanol-rich cocoa consumption on MetS outcomes within the last decade (2013-2023), adhering to Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Seven randomized-controlled trials (RCTs) used cocoa-based products containing 0.3-1680 mg flavanol monomers and 3.5-1270 mg procyanidins. Cocoa-based products beneficially reduced glycemic response, blood pressure and lipid profiles. However, this review highlights little evidence pinpointing the best cocoa products type and required dosage for the observed effects. Further intervention aiming to improve MetS should justify the selection and concentration of flavanols (monomers and procyanidins). A robust study design should consider registering the trials before study commencement, consider multicenter RCT trials, and adjust for potential covariates that might \"masked\" the outcomes.",
+      "mesh_terms": [
+        "Humans",
+        "Proanthocyanidins",
+        "Metabolic Syndrome",
+        "Polyphenols",
+        "Cacao",
+        "Blood Pressure",
+        "Multicenter Studies as Topic"
+      ]
+    },
+    {
+      "pmid": "38189132",
+      "title": "Cocoa flavanols, Nrf2 activation, and oxidative stress in peripheral artery disease: mechanistic findings in muscle based on outcomes from a randomized trial.",
+      "authors": [
+        "Ahmed Ismaeel",
+        "Mary M McDermott",
+        "Jai K Joshi",
+        "Jada C Sturgis",
+        "Dongxue Zhang",
+        "Karen J Ho",
+        "Robert Sufit",
+        "Luigi Ferrucci",
+        "Charlotte A Peterson",
+        "Kate Kosmac"
+      ],
+      "journal": "American journal of physiology. Cell physiology",
+      "publication_date": "2024-Feb-01",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "The pathophysiology of muscle damage in peripheral artery disease (PAD) includes increased oxidant production and impaired antioxidant defenses. Epicatechin (EPI), a naturally occurring flavanol, has antioxidant properties that may mediate the beneficial effects of natural products such as cocoa. In a phase II randomized trial, a cocoa-flavanol-rich beverage significantly improved walking performance compared with a placebo in people with PAD. In the present work, the molecular mechanisms underlying the therapeutic effect of cocoa flavanols were investigated by analyzing baseline and follow-up muscle biopsies from participants. Increases in nuclear factor erythroid 2-related factor 2 (Nrf2) target antioxidants heme oxygenase-1 (HO-1) and NAD(P)H dehydrogenase [quinone] 1 (NQO1) in the cocoa group were significantly associated with reduced accumulation of central nuclei, a myopathy indicator, in type II muscle fibers (P = 0.017 and P = 0.023, respectively). Protein levels of the mitochondrial respiratory complex III subunit, cytochrome b-c1 complex subunit 2 (UQCRC2), were significantly higher in the cocoa group than in the placebo group (P = 0.032), and increases in UQCRC2 were significantly associated with increased levels of Nrf2 target antioxidants HO-1 and NQO1 (P = 0.001 and P = 0.035, respectively). Exposure of non-PAD human myotubes to ex vivo serum from patients with PAD reduced Nrf2 phosphorylation, an indicator of activation, increased hydrogen peroxide production and oxidative stress, and reduced mitochondrial respiration. Treatment of myotubes with EPI in the presence of serum from patients with PAD increased Nrf2 phosphorylation and protected against PAD serum-induced oxidative stress and mitochondrial dysfunction. Overall, these findings suggest that cocoa flavanols may enhance antioxidant capacity in PAD via Nrf2 activation.NEW & NOTEWORTHY The current study supports the hypothesis that in people with PAD, cocoa flavanols activate Nrf2, thereby increasing antioxidant protein levels, protecting against skeletal muscle damage, and increasing mitochondrial protein abundance. These results suggest that Nrf2 activation may be an important therapeutic target for improving walking performance in people with PAD.",
+      "mesh_terms": [
+        "Humans",
+        "Antioxidants",
+        "Cacao",
+        "Catechin",
+        "Heme Oxygenase-1",
+        "Muscles",
+        "NF-E2-Related Factor 2",
+        "Oxidative Stress",
+        "Peripheral Arterial Disease",
+        "Polyphenols"
+      ]
+    },
+    {
+      "pmid": "38020404",
+      "title": "Flavanols for Age-related Memory Loss: A Promising Nutritional Intervention.",
+      "authors": [
+        "Mariam Shahabi",
+        "Rahma Idrees"
+      ],
+      "journal": "Annals of neurosciences",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "37716608",
+      "title": "Higher Habitual Dietary Intakes of Flavanols and Anthocyanins Differentially Associate with Lower Incidence of Ischemic Stroke Subtypes-A Follow-Up Analysis.",
+      "authors": [
+        "Benjamin H Parmenter",
+        "Pratik Pokharel",
+        "Frederik Dalgaard",
+        "Kevin Murray",
+        "Aedín Cassidy",
+        "Catherine P Bondonno",
+        "Joshua R Lewis",
+        "Cecilie Kyrø",
+        "Anne Tjønneland",
+        "Kim Overvad",
+        "Jonathan M Hodgson",
+        "Nicola P Bondonno"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: We previously reported that habitual consumption of dietary flavanol oligomers + polymers and anthocyanins is associated with a lower risk of ischemic stroke. However, no studies have investigated their relationship with ischemic stroke subtypes. OBJECTIVES: In this follow-up analysis, we aimed to examine the association of flavanol oligomers + polymers and anthocyanin intake with ischemic stroke subtypes, including the following: 1) large-artery atherosclerosis, 2) cardioembolism, 3) small-vessel occlusion, 4) other determined etiology, and 5) undetermined etiology. METHODS: Participants (n = 55,094) from the Danish Diet, Cancer, and Health Study were followed up for <16 y for first-time ischemic stroke events, which were classified according to the Trial of Org 10172 in Acute Stroke Treatment (TOAST) criteria. Intakes of flavanol oligomers + polymers and anthocyanins were calculated from food frequency questionnaires using the Phenol-Explorer database, and their relationships with ischemic stroke subtypes were investigated using restricted cubic splines within Cox proportional hazards models. After multivariable adjustment, higher habitual intakes (quintile 5 compared with quintile 1) of flavanol oligomers + polymers and anthocyanins were associated with a lower risk of specific ischemic stroke subtypes, including large-artery atherosclerosis [flavanol oligomers + polymers, hazard ratio {HR} (95% confidence interval {CI}): 0.64 (0.47, 0.87)], cardioembolism [anthocyanins, HR (95% CI): 0.45 (0.25, 0.82)], and small-vessel occlusion [flavanol oligomers + polymers, HR (95% CI): 0.65 (0.54, 0.80); anthocyanins, HR (95% CI): 0.79 (0.64, 0.97)], but not stroke of other determined or undetermined etiology. CONCLUSIONS: Higher habitual intakes of flavanols and anthocyanins are differentially associated with a lower risk of ischemic stroke from atherosclerosis and/or cardioembolism but not with other subtypes.",
+      "mesh_terms": [
+        "Humans",
+        "Anthocyanins",
+        "Brain Ischemia",
+        "Ischemic Stroke",
+        "Follow-Up Studies",
+        "Incidence",
+        "Risk Factors",
+        "Stroke",
+        "Atherosclerosis",
+        "Polyphenols",
+        "Eating",
+        "Polymers"
+      ]
+    },
+    {
+      "pmid": "37526943",
+      "title": "Cocoa flavanols improve peakVO2 and exercise capacity in a randomized double blinded clinical trial in healthy elderly people.",
+      "authors": [
+        "Michael Gröne",
+        "Dragos Andrei Duse",
+        "Nicolas Kramser",
+        "Niklas Ophoff",
+        "Hendrik Schweers",
+        "Fabian Voß",
+        "Christine Quast",
+        "Roberto Sansone",
+        "Christian Heiss",
+        "Christian Jung",
+        "Malte Kelm",
+        "Ralf Erkens"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2023-Aug-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Loss of functional capacity is one of the hallmarks in cardiovascular aging. Cocoa flavanols (CF) exert favorable effects on endothelial function, blood pressure, and inflammation. These cardiovascular health markers worsen with increasing age and limit functional exercise capacity. Aim: To investigate the effect of CF on cardiorespiratory-fitness in healthy elderly people. Methods: In a randomized, double-masked, placebo-controlled, parallel-group dietary intervention trial, 68 healthy elderly people (55-79 years, 28 female) received either 500 mg of CF or a nutrient-matched control capsule twice a day for 30 days. Primary endpoint was defined as peak oxygen consumption (VO2) in a cardiopulmonary exercise test (CPET). Secondary endpoints were oxygen pulse (VO2 per heart rate (HR)), resting blood pressure (BP), and resting vascular function. Results: After 30 days of CF intake peakVO2 increased by 190 ml min-1 (95% CI 1-371 ml min-1) and peakVO2 per kg by 2.5 ml (min kg)-1 (95% CI 0.30-4.2 ml (min kg)-1). O2-pulse increased by 1.7 ml (95% CI 0.29-3.2 ml) and max exercise capacity by 9.6 W (95% CI 2.1-17.7 W). CF decreased resting systolic and diastolic BP by 5.4 mmHg (95% CI -10.7 to -0.1 mmHg) and 2.9 mmHg (95% CI -5.5 to -0.4 mmHg), respectively. Flow-mediated vasodilation (FMD) increased by an absolute 1.3% (95% CI 0.76-1.79%) in the CF group. Indexes of pulmonary function were not affected. No changes for primary and secondary endpoints were detected in control. Conclusion: CF substantially improve markers of cardiorespiratory fitness in healthy elderly humans highlighting their potential to preserve cardiovascular health with increasing age."
+    },
+    {
+      "pmid": "37512508",
+      "title": "Bioavailable Microbial Metabolites of Flavanols Demonstrate Highly Individualized Bioactivity on In Vitro β-Cell Functions Critical for Metabolic Health.",
+      "authors": [
+        "Emily S Krueger",
+        "Laura E Griffin",
+        "Joseph L Beales",
+        "Trevor S Lloyd",
+        "Nathan J Brown",
+        "Weston S Elison",
+        "Colin D Kay",
+        "Andrew P Neilson",
+        "Jeffery S Tessem"
+      ],
+      "journal": "Metabolites",
+      "publication_date": "2023-Jun-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Dietary flavanols are known for disease preventative properties but are often poorly absorbed. Gut microbiome flavanol metabolites are more bioavailable and may exert protective activities. Using metabolite mixtures extracted from the urine of rats supplemented with flavanols and treated with or without antibiotics, we investigated their effects on INS-1 832/13 β-cell glucose stimulated insulin secretion (GSIS) capacity. We measured insulin secretion under non-stimulatory (low) and stimulatory (high) glucose levels, insulin secretion fold induction, and total insulin content. We conducted treatment-level comparisons, individual-level dose responses, and a responder vs. non-responder predictive analysis of metabolite composition. While the first two analyses did not elucidate treatment effects, metabolites from 9 of the 28 animals demonstrated significant dose responses, regardless of treatment. Differentiation of responders vs. non-responder revealed that levels of native flavanols and valerolactones approached significance for predicting enhanced GSIS, regardless of treatment. Although treatment-level patterns were not discernable, we conclude that the high inter-individual variability shows that metabolite bioactivity on GSIS capacity is less related to flavanol supplementation or antibiotic treatment and may be more associated with the unique microbiome or metabolome of each animal. These findings suggest flavanol metabolite activities are individualized and point to the need for personalized nutrition practices."
+    },
+    {
+      "pmid": "37315924",
+      "title": "A combined DHA-rich fish oil and cocoa flavanols intervention does not improve cognition or brain structure in older adults with memory complaints: results from the CANN randomized, controlled parallel-design study.",
+      "authors": [
+        "David Vauzour",
+        "Andrew Scholey",
+        "David J White",
+        "Neal J Cohen",
+        "Aedín Cassidy",
+        "Rachel Gillings",
+        "Michael A Irvine",
+        "Colin D Kay",
+        "Min Kim",
+        "Rebecca King",
+        "Cristina Legido-Quigley",
+        "John F Potter",
+        "Hilary Schwarb",
+        "Anne-Marie Minihane"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2023-Aug",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: There is evidence that both omega-3 long-chain polyunsaturated fatty acids (PUFAs) (eicosapentaenoic acid [EPA] and docosahexaenoic acid [DHA]) and cocoa flavanols can improve cognitive performance in both healthy individuals and in those with memory complaints. However, their combined effect is unknown. OBJECTIVES: To investigate the combined effect of EPA/DHA and cocoa flavanols (OM3FLAV) on cognitive performance and brain structures in older adults with memory complaints. METHODS: A randomized placebo-controlled trial of DHA-rich fish oil (providing 1.1 g/d DHA and 0.4 g/d EPA) and a flavanol-rich dark chocolate (providing 500 mg/d flavan-3-ols) was conducted in 259 older adults with either subjective cognitive impairment or mild cognitive impairment. Participants underwent assessment at baseline, 3 mo, and 12 mo. The primary outcome was the number of false-positives on a picture recognition task from the Cognitive Drug Research computerized assessment battery. Secondary outcomes included other cognition and mood outcomes, plasma lipids, brain-derived neurotrophic factor (BDNF), and glucose levels. A subset of 110 participants underwent structural neuroimaging at baseline and at 12 mo. RESULTS: 197 participants completed the study. The combined intervention had no significant effect on any cognitive outcomes, with the exception of reaction time variability (P = 0.007), alertness (P < 0.001), and executive function (P < 0.001), with a decline in function observed in the OM3FLAV group (118.6 [SD 25.3] at baseline versus 113.3 [SD 25.4] at 12 mo for executive function) relative to the control, and an associated decrease in cortical volume (P = 0.039). Compared with the control group, OM3FLAV increased plasma HDL, total cholesterol ratio (P < 0.001), and glucose (P = 0.008) and reduced TG concentrations (P < 0.001) by 3 mo, which were sustained to 12 mo, with no effect on BDNF. Changes in plasma EPA and DHA and urinary flavonoid metabolite concentrations confirmed compliance to the intervention. CONCLUSIONS: These results suggest that cosupplementation with ω-3 PUFAs and cocoa flavanols for 12 mo does not improve cognitive outcomes in those with cognitive impairment. This trial was registered at clinicaltrials.gov as NCT02525198.",
+      "mesh_terms": [
+        "Humans",
+        "Fish Oils",
+        "Docosahexaenoic Acids",
+        "Brain-Derived Neurotrophic Factor",
+        "Chocolate",
+        "Double-Blind Method",
+        "Fatty Acids, Omega-3",
+        "Eicosapentaenoic Acid",
+        "Cognition",
+        "Dietary Supplements",
+        "Brain"
+      ]
+    },
+    {
+      "pmid": "37252983",
+      "title": "Dietary flavanols restore hippocampal-dependent memory in older adults with lower diet quality and lower habitual flavanol consumption.",
+      "authors": [
+        "Adam M Brickman",
+        "Lok-Kin Yeung",
+        "Daniel M Alschuler",
+        "Javier I Ottaviani",
+        "Gunter G C Kuhnle",
+        "Richard P Sloan",
+        "Heike Luttmann-Gibson",
+        "Trisha Copeland",
+        "Hagen Schroeter",
+        "Howard D Sesso",
+        "JoAnn E Manson",
+        "Melanie Wall",
+        "Scott A Small"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "publication_date": "2023-Jun-06",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Dietary flavanols are food constituents found in certain fruits and vegetables that have been linked to cognitive aging. Previous studies suggested that consumption of dietary flavanols might specifically be associated with the hippocampal-dependent memory component of cognitive aging and that memory benefits of a flavanol intervention might depend on habitual diet quality. Here, we tested these hypotheses in the context of a large-scale study of 3,562 older adults, who were randomly assigned to a 3-y intervention of cocoa extract (500 mg of cocoa flavanols per day) or a placebo [(COcoa Supplement and Multivitamin Outcomes Study) COSMOS-Web, NCT04582617]. Using the alternative Healthy Eating Index in all participants and a urine-based biomarker of flavanol intake in a subset of participants [n = 1,361], we show that habitual flavanol consumption and diet quality at baseline are positively and selectively correlated with hippocampal-dependent memory. While the prespecified primary end point testing for an intervention-related improvement in memory in all participants after 1 y was not statistically significant, the flavanol intervention restored memory among participants in lower tertiles of habitual diet quality or habitual flavanol consumption. Increases in the flavanol biomarker over the course of the trial were associated with improving memory. Collectively, our results allow dietary flavanols to be considered in the context of a depletion-repletion paradigm and suggest that low flavanol consumption can act as a driver of the hippocampal-dependent component of cognitive aging.",
+      "mesh_terms": [
+        "Humans",
+        "Aged",
+        "Diet",
+        "Dietary Supplements",
+        "Polyphenols",
+        "Biomarkers",
+        "Cacao",
+        "Double-Blind Method"
+      ]
+    },
+    {
+      "pmid": "34808598",
+      "title": "Combination of Aerobic Training and Cocoa Flavanols as Effective Therapies to Reduce Metabolic and Inflammatory Disruptions in Insulin-Resistant Rats: The Exercise, Cocoa, and Diabetes Study.",
+      "authors": [
+        "Bruno P Melo",
+        "Aline C Zacarias",
+        "Joyce C C Oliveira",
+        "Letícia M De Souza Cordeiro",
+        "Samuel P Wanner",
+        "Mara L Dos Santos",
+        "Gleide F Avelar",
+        "Romain Meeusen",
+        "Elsa Heyman",
+        "Danusa D Soares"
+      ],
+      "journal": "International journal of sport nutrition and exercise metabolism",
+      "publication_date": "2022-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "We aimed to investigate the combined effects of aerobic exercise (EXE) and cocoa flavanol (COCOA) supplementation on performance, metabolic parameters, and inflammatory and lipid profiles in obese insulin-resistant rats. Therefore, 32 male Wistar rats (230-250 g) were fed a high-fat diet and a fructose-rich beverage for 30 days to induce insulin resistance. Next, the rats were randomized into four groups, orally administered placebo solution or COCOA supplementation (45 mg·kg-1), and either remained sedentary or were subjected to EXE on a treadmill at 60% peak velocity for 30 min, for 8 weeks. Blood samples and peripheral tissues were collected and processed to analyze metabolic and inflammatory parameters, lipid profiles, and morphological parameters. Supplementation with COCOA and EXE improved physical performance and attenuated body mass gain, adipose index, and adipocyte area. When analyzed as individual interventions, supplementation with COCOA and EXE improved glucose intolerance and the lipid profile reduced the concentrations of leptin, glucose, and insulin, and reduced homeostasis assessment index (all effects were p < .001 for both interventions), while ameliorated some inflammatory mediators in examined tissues. In skeletal muscles, both COCOA supplementation and EXE increased the expression of glucose transporter (p < .001 and p < .001), and combined intervention showed additive effects (p < .001 vs. COCOA alone or EXE alone). Thus, combining COCOA with EXE represents an effective nonpharmacological strategy to treat insulin resistance; it could prevent Type 2 diabetes mellitus by improving physical performance, glucose metabolism, neuroendocrine control, and lipid and inflammatory mediators in the liver, pancreas, adipose tissue, and skeletal muscle in obese male insulin-resistant rats.",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Male",
+        "Rats",
+        "Cacao",
+        "Diabetes Mellitus, Type 2",
+        "Inflammation Mediators",
+        "Insulin",
+        "Insulin Resistance",
+        "Lipids",
+        "Obesity",
+        "Rats, Wistar"
+      ]
+    },
+    {
+      "pmid": "34656955",
+      "title": "The effect of monomeric and oligomeric FLAVAnols in patients with type 2 diabetes and microalbuminuria (FLAVA-trial): A double-blind randomized controlled trial.",
+      "authors": [
+        "Mardin Rashid",
+        "Adrie J M Verhoeven",
+        "Monique T Mulder",
+        "Reinier Timman",
+        "Behiye Ozcan",
+        "Yvonne van Beek-Nieuwland",
+        "Lei M Chow",
+        "Roel J J M van de Laar",
+        "Willem A Dik",
+        "Eric J G Sijbrands",
+        "Kirsten A Berk"
+      ],
+      "journal": "Clinical nutrition (Edinburgh, Scotland)",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND & AIMS: Microalbuminuria is an early sign of vascular complications of type 2 diabetes and predicts cardiovascular disease and mortality. Monomeric and oligomeric flavanols (MOFs) are linked to improved vascular health. The aim of this study was to assess the effect of 3 months MOFs on albuminuria and endothelial function markers in patients with type 2 diabetes and microalbuminuria. METHODS: We conducted a double-blind, placebo-controlled trial among patients with type 2 diabetes and microalbuminuria. Patients with type 2 diabetes received either 200 mg MOFs or placebo daily on top of their habitual diet and medication. The primary endpoint was the between-group difference of the change in 24-h Albumin Excretion Rate (AER) over three months. Secondary endpoints were the between-group differences of the change in plasma levels of different markers of endothelial dysfunction. Mixed-modelling was applied for the longitudinal analyses. RESULTS: Participants (n = 97) were 63.0 ± 9.5 years old; diabetes-duration was 15.7 ± 8.5 years. Median baseline AER was 60 (IQR 20-120) mg/24 h. There was no within-group difference in median change of AER from baseline to 3 months in the intervention (0 (-35-21) mg/24 h, p = 0.41) or the control group (0 (-20-10) mg/24 h, p = 0.91). There was no between-group difference in the course of AER over three months (log-transformed data: β = -0.02 (95%CI -0.23-0.20), p = 0.88), nor in the plasma levels of the endothelial dysfunction markers. CONCLUSION: Daily 200 mg MOFs for three months on top of habitual diet and usual care did not reduce AER and plasma markers of endothelial dysfunction compared to placebo, in patients with long-term type 2 diabetes and microalbuminuria. CLINICAL TRIALS REGISTRATION: NTR4669, www.trialregister.nl.",
+      "mesh_terms": [
+        "Aged",
+        "Albuminuria",
+        "Biomarkers",
+        "Diabetes Mellitus, Type 2",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Endothelium, Vascular",
+        "Female",
+        "Flavonols",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "34539375",
+      "title": "Intake of Products Containing Anthocyanins, Flavanols, and Flavanones, and Cognitive Function: A Narrative Review.",
+      "authors": [
+        "Samantha L Gardener",
+        "Stephanie R Rainey-Smith",
+        "Michael Weinborn",
+        "Catherine P Bondonno",
+        "Ralph N Martins"
+      ],
+      "journal": "Frontiers in aging neuroscience",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The purpose of this review is to examine human research studies published within the past 6 years which evaluate the role of anthocyanin, flavanol, and flavanone consumption in cognitive function, and to discuss potential mechanisms of action underlying any observed benefits. Evidence to date suggests the consumption of flavonoid-rich foods, such as berries and cocoa, may have the potential to limit, or even reverse, age-related declines in cognition. Over the last 6 years, the flavonoid subgroups of anthocyanins, flavanols, and flavanones have been shown to be beneficial in terms of conferring neuroprotection. The mechanisms by which flavonoids positively modulate cognitive function are yet to be fully elucidated. Postulated mechanisms include both direct actions such as receptor activation, neurotrophin release and intracellular signaling pathway modulation, and indirect actions such as enhancement of cerebral blood flow. Further intervention studies conducted in diverse populations with sufficient sample sizes and long durations are required to examine the effect of consumption of flavonoid groups on clinically relevant cognitive outcomes. As populations continue to focus on adopting healthy aging strategies, dietary interventions with flavonoids remains a promising avenue for future research. However, many questions are still to be answered, including identifying appropriate dosage, timeframes for intake, as well as the best form of flavonoids, before definitive conclusions can be drawn about the extent to which their consumption can protect the aging brain."
+    },
+    {
+      "pmid": "34048642",
+      "title": "Molecular Determinants of the Cardiometabolic Improvements of Dietary Flavanols Identified by an Integrative Analysis of Nutrigenomic Data from a Systematic Review of Animal Studies.",
+      "authors": [
+        "Laurent-Emmanuel Monfoulet",
+        "Tatjana Ruskovska",
+        "Vladimir Ajdžanović",
+        "Jaroslav Havlik",
+        "David Vauzour",
+        "Banu Bayram",
+        "Irena Krga",
+        "Karla-Fabiola Corral-Jara",
+        "Elena Kistanova",
+        "Desislava Abadjieva",
+        "Marika Massaro",
+        "Egeria Scoditti",
+        "Eirini Deligiannidou",
+        "Christos Kontogiorgis",
+        "Anna Arola-Arnal",
+        "Evert M van Schothorst",
+        "Christine Morand",
+        "Dragan Milenkovic"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2021-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "abstract": "SCOPE: Flavanols are important polyphenols of the human diet with extensive demonstrations of their beneficial effects on cardiometabolic health. They contribute to preserve health acting on a large range of cellular processes. The underlying mechanisms of action of flavanols are not fully understood but involve a nutrigenomic regulation. METHODS AND RESULTS: To further capture how the intake of dietary flavanols results in the modulation of gene expression, nutrigenomics data in response to dietary flavanols obtained from animal models of cardiometabolic diseases have been collected and submitted to a bioinformatics analysis. This systematic analysis shows that dietary flavanols modulate a large range of genes mainly involved in endocrine function, fatty acid metabolism, and inflammation. Several regulators of the gene expression have been predicted and include transcription factors, miRNAs and epigenetic factors. CONCLUSION: This review highlights the complex and multilevel action of dietary flavanols contributing to their strong potential to preserve cardiometabolic health. The identification of the potential molecular mediators and of the flavanol metabolites driving the nutrigenomic response in the target organs is still a pending question which the answer will contribute to optimize the beneficial health effects of dietary bioactives.",
+      "mesh_terms": [
+        "Animals",
+        "Cardiovascular Diseases",
+        "Computational Biology",
+        "Diet",
+        "Gene Expression Regulation",
+        "Mice",
+        "Nutrigenomics",
+        "Polyphenols",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "33801767",
+      "title": "Cocoa Flavanols Improve Vascular Responses to Acute Mental Stress in Young Healthy Adults.",
+      "authors": [
+        "Rosalind Baynham",
+        "Jet J C S Veldhuijzen van Zanten",
+        "Paul W Johns",
+        "Quang S Pham",
+        "Catarina Rendeiro"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2021-Mar-27",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Mental stress has been shown to induce cardiovascular events, likely due to its negative impact on vascular function. Flavanols, plant-derived polyphenolic compounds, improve endothelial function and blood pressure (BP) in humans, however their effects during stress are not known. This study examined the effects of acute intake of cocoa flavanols on stress-induced changes on vascular function. In a randomised, controlled, double-blind, cross-over intervention study, 30 healthy men ingested a cocoa flavanol beverage (high-flavanol: 150 mg vs. low-flavanol < 4 mg (-)-epicatechin) 1.5 h before an 8-min mental stress task). Forearm blood flow (FBF), BP, and cardiovascular activity were assessed pre- and post-intervention, both at rest and during stress. Endothelial function (brachial flow-mediated dilatation, FMD) and brachial BP were measured before the intervention and 30 and 90 min post-stress. FMD was impaired 30 min post-stress, yet high-flavanol cocoa attenuated this decline and remained significantly higher compared to low-flavanol cocoa at 90 min post-stress. High-flavanol cocoa increased FBF at rest and during stress. Stress-induced cardiovascular and BP responses were similar in both conditions. Flavanols are effective at counteracting mental stress-induced endothelial dysfunction and improving peripheral blood flow during stress. These findings suggest the use of flavanol-rich dietary strategies to protect vascular health during stress.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Pressure",
+        "Brachial Artery",
+        "Chocolate",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Flavonols",
+        "Humans",
+        "Male",
+        "Stress, Psychological",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "33791343",
+      "title": "Acute Effects of Cocoa Flavanols on Blood Pressure and Peripheral Vascular Reactivity in Type 2 Diabetes Mellitus and Essential Hypertension: A Protocol for an Acute, Randomized, Double-Blinded, Placebo-Controlled Cross-Over Trial.",
+      "authors": [
+        "Anouk Tanghe",
+        "Bert Celie",
+        "Samyah Shadid",
+        "Ernst Rietzschel",
+        "Jos Op 't Roodt",
+        "Koen D Reesink",
+        "Elsa Heyman",
+        "Patrick Calders"
+      ],
+      "journal": "Frontiers in cardiovascular medicine",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Introduction: Patients with type 2 diabetes mellitus are at high risk to develop vascular complications resulting in high morbidity and mortality. Cocoa flavanols are promising nutraceuticals with possible beneficial vascular effects in humans. However, limited research is currently available on the vascular effects in a diabetic population with inconsistent results. Possible reasons for this inconsistency might be heterogeneity in the given intervention (dose per time and day, single dose vs. split-dose, placebo formula) and the studied population (blood pressure at baseline, duration of diabetes, use of vasoactive antihypertensive and antidiabetic drugs, sex). Therefore, we aimed to develop a randomized, double-blinded, placebo-controlled cross-over trial to investigate whether cocoa flavanols have an acute impact on blood pressure and vascular reactivity in patients with type 2 diabetes with and without arterial hypertension. Methods and Analysis: We will include participants in four groups: (i) patients with type 2 diabetes without arterial hypertension, (ii) patients with type 2 diabetes with arterial hypertension and 1 antihypertensive drug, (iii) non-diabetic participants with essential hypertension and 1 antihypertensive drug, and (iv) healthy controls. All participants will complete the same protocol on both testing days, consuming high-flavanol cocoa extract (790 mg flavanols) or placebo. Macrovascular endothelial function (flow-mediated dilation) and blood pressure will be measured before and after capsule ingestion. Forearm muscle vasoreactivity (near-infrared spectroscopy) and brachial artery blood flow (echo-doppler) will be assessed in response to a dynamic handgrip exercise test after capsule ingestion. Data will be analyzed with a random intercept model in mixed models. Clinical Trial Registration: www.Clinicaltrials.gov, identifier: NCT03722199."
+    },
+    {
+      "pmid": "33589674",
+      "title": "Insights into the role of diet and dietary flavanols in cognitive aging: results of a randomized controlled trial.",
+      "authors": [
+        "Richard P Sloan",
+        "Melanie Wall",
+        "Lok-Kin Yeung",
+        "Tianshu Feng",
+        "Xinyang Feng",
+        "Frank Provenzano",
+        "Hagen Schroeter",
+        "Vincenzo Lauriola",
+        "Adam M Brickman",
+        "Scott A Small"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2021-Feb-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "With the world's population aging, age-related memory decline is an impending cognitive epidemic. Assessing the impact of diet on cognitive aging, we conducted a controlled, randomized, parallel-arm dietary intervention with 211 healthy adults (50-75 years) investigating effects of either a placebo or 260, 510 and 770 mg/day of cocoa flavanols for 12-weeks followed by 8-weeks washout. The primary outcome was a newly-developed object-recognition task localized to the hippocampus' dentate gyrus. Secondary outcomes included a hippocampal-dependent list-learning task and a prefrontal cortex-dependent list-sorting task. The alternative Healthy Eating Index and a biomarker of flavanol intake (gVLM) were measured. In an MRI substudy, hippocampal cerebral blood volume was mapped. Object-recognition and list-sorting performance did not correlate with baseline diet quality and did not improve after flavanol intake. However, the hippocampal-dependent list-learning performance was directly associated with baseline diet quality and improved after flavanol intake, particularly in participants in the bottom tertile of baseline diet quality. In the imaging substudy, a region-of-interest analysis was negative but a voxel-based-analysis suggested that dietary flavanols target the dentate gyrus. While replication is needed, these findings suggest that diet in general, and dietary flavanols in particular, may be associated with memory function of the aging hippocampus and normal cognitive decline.",
+      "mesh_terms": [
+        "Aged",
+        "Aging",
+        "Brain",
+        "Cognition",
+        "Cognitive Aging",
+        "Diet",
+        "Dietary Supplements",
+        "Female",
+        "Flavonols",
+        "Healthy Volunteers",
+        "Humans",
+        "Learning",
+        "Magnetic Resonance Imaging",
+        "Male",
+        "Middle Aged",
+        "Nutritional Status",
+        "Physical Functional Performance",
+        "Public Health Surveillance",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "33522303",
+      "title": "Microbial Metabolites of Flavanols in Urine are Associated with Enhanced Anti-Proliferative Activity in Bladder Cancer Cells In Vitro.",
+      "authors": [
+        "Laura E Griffin",
+        "Sarah E Kohrt",
+        "Atul Rathore",
+        "Colin D Kay",
+        "Magdalena M Grabowska",
+        "Andrew P Neilson"
+      ],
+      "journal": "Nutrition and cancer",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Flavanols are metabolized by the gut microbiota to bioavailable metabolites, and the absorbed fraction is excreted primarily via urine. Uroepithelial cells are thus a potential site of activity due to exposure to high concentrations of these compounds. Chemoprevention by flavanols may be partly due to these metabolites. In Vitro work in this area relies on a limited pool of commercially available microbial metabolites, and little has been done in bladder cancer. The impact of physiologically relevant mixtures of flavanols and their metabolites remains unknown. Rats were fed various flavanols and urine samples, approximating the bioavailable metabolome, were collected. Urines were profiled by UPLC-MS/MS, and their anti-proliferative activities were assayed In Vitro in four bladder cancer models. Significant interindividual variability was observed for composition and proliferation. Microbial metabolite concentrations (valerolactones, phenylalkyl acids and hippuric acids) were positively associated with reduced bladder cancer proliferation In Vitro, while native flavanols were poorly correlated with activity. These results suggest that microbial metabolites may be responsible for chemoprevention in uroepithelial cells following flavanol consumption. This highlights the potential to use individual genetics and microbial metabotyping to design personalized dietary interventions for cancer prevention and/or adjuvant therapy to reduce bladder cancer incidence and improve outcomes.",
+      "mesh_terms": [
+        "Animals",
+        "Chromatography, Liquid",
+        "Gastrointestinal Microbiome",
+        "Polyphenols",
+        "Rats",
+        "Tandem Mass Spectrometry",
+        "Urinary Bladder Neoplasms"
+      ]
+    },
+    {
+      "pmid": "33454330",
+      "title": "Three flavanols delay starch digestion by inhibiting α-amylase and binding with starch.",
+      "authors": [
+        "Chao Jiang",
+        "Yu Chen",
+        "Xin Ye",
+        "Li Wang",
+        "Jiajia Shao",
+        "Huijuan Jing",
+        "Chengyu Jiang",
+        "Hongxin Wang",
+        "Chaoyang Ma"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2021-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The study aimed to reveal the different mechanisms of delaying starch digestion by ECG, EGCG and Procyanidin based on the perspective of α-amylase-flavanol interaction and starch-flavanol interaction. The interaction characteristics of flavanols with α-amylase were studied from five aspects: enzyme inhibition, kinetics, fluorescence quenching, circular dichroism (CD) and computer simulation. The IC50 of flavanols (ECG, EGCG and Procyanidin) against α-amylase were 172.21 ± 0.22, 732.15 ± 0.13 and 504.45 ± 0.19 μg/mL according to the results of α-amylase inhibition experiment, respectively. ECG and Procyanidin showed mixed inhibition against α-amylase, while EGCG showed non-competition against α-amylase. However, thermodynamic parameters，computer-based docking and dynamic simulation proved that ECG and EGCG-α-amylase complexs were mainly driven by van der Waals and hydrogen bonds, while Procyanidin-α-amylase complexs was driven by hydrophobic interaction. In addition, it was indicated, by means of starch‑iodine complex spectroscopy, that flavanols inhibited the digestion of starch not only through bind with α-amylase but also through bind with starch. Thus, flavanols as a starch-based food additive have the potential to be employed as adjuvant therapy for diabetes.",
+      "mesh_terms": [
+        "Biflavonoids",
+        "Binding Sites",
+        "Catechin",
+        "Glucose",
+        "Glycoside Hydrolase Inhibitors",
+        "Hydrolysis",
+        "Kinetics",
+        "Maltose",
+        "Molecular Docking Simulation",
+        "Proanthocyanidins",
+        "Protein Binding",
+        "Protein Conformation, alpha-Helical",
+        "Protein Conformation, beta-Strand",
+        "Protein Interaction Domains and Motifs",
+        "Starch",
+        "Substrate Specificity",
+        "Thermodynamics",
+        "Trisaccharides",
+        "alpha-Amylases"
+      ]
+    },
+    {
+      "pmid": "32537624",
+      "title": "Systematic bioinformatic analysis of nutrigenomic data of flavanols in cell models of cardiometabolic disease.",
+      "authors": [
+        "Tatjana Ruskovska",
+        "Marika Massaro",
+        "Maria Annunziata Carluccio",
+        "Anna Arola-Arnal",
+        "Begoña Muguerza",
+        "Wim Vanden Berghe",
+        "Ken Declerck",
+        "Francisca Isabel Bravo",
+        "Nadia Calabriso",
+        "Emilie Combet",
+        "Eileen R Gibney",
+        "Andreia Gomes",
+        "Marie-Paule Gonthier",
+        "Elena Kistanova",
+        "Irena Krga",
+        "Pedro Mena",
+        "Christine Morand",
+        "Claudia Nunes Dos Santos",
+        "Sonia de Pascual-Teresa",
+        "Ana Rodriguez-Mateos",
+        "Egeria Scoditti",
+        "Manuel Suárez",
+        "Dragan Milenkovic"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2020-Jun-24",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "Flavanol intake positively influences several cardiometabolic risk factors in humans. However, the specific molecular mechanisms of action of flavanols, in terms of gene regulation, in the cell types relevant to cardiometabolic disease have never been systematically addressed. On this basis, we conducted a systematic literature review and a comprehensive bioinformatic analysis of genes whose expression is affected by flavanols in cells defining cardiometabolic health: hepatocytes, adipocytes, endothelial cells, smooth muscle cells and immune cells. A systematic literature search was performed using the following pre-defined criteria: treatment with pure compounds and metabolites (no extracts) at low concentrations that are close to their plasma concentrations. Differentially expressed genes were analyzed using bioinformatics tools to identify gene ontologies, networks, cellular pathways and interactions, as well as transcriptional and post-transcriptional regulators. The systematic literature search identified 54 differentially expressed genes at the mRNA level in in vitro models of cardiometabolic disease exposed to flavanols and their metabolites. Global bioinformatic analysis revealed that these genes are predominantly involved in inflammation, leukocyte adhesion and transendothelial migration, and lipid metabolism. We observed that, although the investigated cells responded differentially to flavanol exposure, the involvement of anti-inflammatory responses is a common mechanism of flavanol action. We also identified potential transcriptional regulators of gene expression: transcriptional factors, such as GATA2, NFKB1, FOXC1 or PPARG, and post-transcriptional regulators: miRNAs, such as mir-335-5p, let-7b-5p, mir-26b-5p or mir-16-5p. In parallel, we analyzed the nutrigenomic effects of flavanols in intestinal cells and demonstrated their predominant involvement in the metabolism of circulating lipoproteins. In conclusion, the results of this systematic analysis of the nutrigenomic effects of flavanols provide a more comprehensive picture of their molecular mechanisms of action and will support the future setup of genetic studies to pave the way for individualized dietary recommendations.",
+      "mesh_terms": [
+        "Cardiovascular Diseases",
+        "Computational Biology",
+        "Flavonols",
+        "Humans",
+        "Models, Biological",
+        "Nutrigenomics"
+      ]
+    },
+    {
+      "pmid": "32492958",
+      "title": "Effects of Flavanols on Enteroendocrine Secretion.",
+      "authors": [
+        "Carme Grau-Bové",
+        "Carlos González-Quilen",
+        "Ximena Terra",
+        "M Teresa Blay",
+        "Raul Beltrán-Debón",
+        "Rosa Jorba-Martín",
+        "Beatriz Espina",
+        "Montserrat Pinent",
+        "Anna Ardévol"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2020-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Some beneficial effects of grape seed proanthocyanidin extract (GSPE) can be explained by the modulation of enterohormone secretion. As GSPE comprises a combination of different molecules, the pure compounds that cause these effects need to be elucidated. The enterohormones and chemoreceptors present in the gastrointestinal tract differ between species, so if humans are to gain beneficial effects, species closer to humans-and humans themselves-must be used. We demonstrate that 100 mg/L of GSPE stimulates peptide YY (PYY) release, but not glucagon-like peptide 1 (GLP-1) release in the human colon. We used a pig ex vivo system that differentiates between apical and basolateral intestinal sides to analyse how apical stimulation with GSPE and its pure compounds affects the gastrointestinal tract. In pigs, apical GSPE treatment stimulates the basolateral release of PYY in the duodenum and colon and that of GLP-1 in the ascending, but not the descending colon. In the duodenum, luminal stimulation with procyanidin dimer B2 increased PYY secretion, but not CCK secretion, while catechin monomers (catechin/epicatechin) significantly increased CCK release, but not PYY release. The differential effects of GSPE and its pure compounds on enterohormone release at the same intestinal segment suggest that they act through chemosensors located apically and unevenly distributed along the gastrointestinal tract.",
+      "mesh_terms": [
+        "Animals",
+        "Cholecystokinin",
+        "Gastrointestinal Tract",
+        "Glucagon-Like Peptide 1",
+        "Humans",
+        "Peptide YY",
+        "Plant Extracts",
+        "Proanthocyanidins",
+        "Seeds",
+        "Swine",
+        "Vitis"
+      ]
+    },
+    {
+      "pmid": "32229139",
+      "title": "The short-term effect of dark chocolate flavanols on cognition in older adults: A randomized controlled trial (FlaSeCo).",
+      "authors": [
+        "M H Suominen",
+        "M M L Laaksonen",
+        "H Salmenius-Suominen",
+        "H Kautiainen",
+        "S-M Hongisto",
+        "K Tuukkanen",
+        "S K Jyväkorpi",
+        "K H Pitkälä"
+      ],
+      "journal": "Experimental gerontology",
+      "publication_date": "2020-Jul-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Cocoa flavanols in the diet have had positive effects on cognition, blood lipid levels, and glucose metabolism. METHODS: Cognitively healthy older adults aged 65-75 years were recruited for an eight-week randomized, double-blind controlled trial to investigate the effectiveness of cocoa flavanols on cognitive functions. At baseline, nutrient and polyphenol intakes from diet were assessed with three-day food diaries. The intervention group received 50 g dark chocolate containing 410 mg of flavanols per day, and the control group 50 g dark chocolate containing 86 mg of flavanols per day, for eight weeks. Cognition was assessed with Verbal Fluency (VF) and the Trail Making Test (TMT) A and B as the main outcome measures. Changes in blood lipids and glucose were also measured. RESULTS: The older adults participating numbered 100 (63% women), mean 69 y (range 65 to 74). They were highly educated with a mean 14.9 years of education (SD 3.6). No differences in changes in cognition were seen between groups. The mean change (± SEs) in the time to complete the TMT A and B in the intervention group was -4.6 s (-7.1 to -2.1) and -16.1 s (-29.1 to -3.1), and in the controls -4.4 s (-7.0 to -1.9) and -12.5 s (-22.8 to -2.1)(TMT A p = 0.93; TMT B p = 0.66). No difference was apparent in the changes in blood lipids, glucose levels, or body weight between the groups. CONCLUSIONS: The healthy older adults showed no effect from the eight-week intake of dark chocolate flavanols on cognition.",
+      "mesh_terms": [
+        "Aged",
+        "Blood Pressure",
+        "Cacao",
+        "Chocolate",
+        "Cognition",
+        "Female",
+        "Humans",
+        "Male",
+        "Polyphenols"
+      ]
+    },
+    {
+      "pmid": "32223044",
+      "title": "Monomeric Flavanols Are More Efficient Substrates for Gut Microbiota Conversion to Hydroxyphenyl-γ-Valerolactone Metabolites Than Oligomeric Procyanidins: A Randomized, Placebo-Controlled Human Intervention Trial.",
+      "authors": [
+        "Wendy J Hollands",
+        "Mark Philo",
+        "Natalia Perez-Moral",
+        "Paul W Needs",
+        "George M Savva",
+        "Paul A Kroon"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2020-May",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "SCOPE: The majority of ingested flavanols reach the colon where they are catabolized by the microbiota to form hydroxyphenyl-γ-valerolactones (HGVLs). It is not known if the HGVLs are catabolic products of monomeric (epi)catechins (EPC), oligomeric procyanidins (OPCs), or both. Using data from a randomized, double-blind, placebo-controlled crossover trial the relative contributions of catechins and OPC to the bioavailable pool of HGVLs are estimated. METHODS AND RESULTS: Participants ingested an apple extract once daily for 28 days that delivered the following: i) 70 mg EPC and 65 mg OPC (low dose EPC), ii) 140 mg EPC and 130 mg OPC (high dose EPC), iii) 6 mg EPC and 130 mg OPC (OPC), and iv) a placebo control. Urine is collected over a 24-h period before and after treatments. The median urinary excretion of HGVLs after ingestion of the high dose EPC is tenfold higher than that excreted after ingestion of the OPC that provided an equivalent dose of PC. Approximately 22% of catechins are converted to HGVLs in contrast to PC, for which there is limited conversion. CONCLUSION: Monomeric catechins are efficiently converted to derived HGVLs that are absorbed and excreted in human urine, whereas oligomeric PCs are much less efficiently converted.",
+      "mesh_terms": [
+        "Aged",
+        "Biological Availability",
+        "Blood Pressure",
+        "Catechin",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Lactones",
+        "Male",
+        "Malus",
+        "Middle Aged",
+        "Observer Variation",
+        "Placebos",
+        "Plant Extracts",
+        "Proanthocyanidins"
+      ]
+    },
+    {
+      "pmid": "31524216",
+      "title": "Dose-response relationship between cocoa flavanols and human endothelial function: a systematic review and meta-analysis of randomized trials.",
+      "authors": [
+        "Ye Sun",
+        "Diane Zimmermann",
+        "Carlos Antonio De Castro",
+        "Lucas Actis-Goretta"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2019-Oct-16",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Several intervention studies have investigated the relationship between cocoa flavanols and endothelial function. However, the shape of the association and the type of compounds responsible for the effects are largely unknown. OBJECTIVE: To examine the dose-response association between the consumption of cocoa flavanols and endothelial function, measured by flow-mediated dilation (FMD). DESIGN: Two investigators searched Scopus® for the relevant human intervention studies, which were pooled and meta-analysed. Heterogeneity in the findings was explored with various subgroup analyses. RESULTS: Fifteen published articles with 18 intervention arms met the inclusion criteria. Participants in these intervention groups received 80 to 1248 mg (mean: 704 mg) more flavanols than control groups. A significant improvement of FMD by 1.17% (95% CI: 0.76% to 1.57%) was calculated, with strong evidence of a non-linear association (inverted U-shape) between cocoa flavanols and FMD. CONCLUSIONS: This meta-analysis provides evidence that cocoa flavanols could significantly improve endothelial function, with an optimal effect observed with 710 mg total flavanols, 95 mg (-)-epicatechin or 25 mg (+)-catechin. However, there was substantial variation in the results that could not be explained by the characteristics that we explored, and there were significant risk-of-bias concerns with a large majority of the studies.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Blood Pressure",
+        "Cacao",
+        "Chocolate",
+        "Endothelium, Vascular",
+        "Female",
+        "Flavonols",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "30012185",
+      "title": "Use of monomeric and oligomeric flavanols in the dietary management of patients with type 2 diabetes mellitus and microalbuminuria (FLAVA trial): study protocol for a randomized controlled trial.",
+      "authors": [
+        "Mardin Rashid",
+        "Adrie J M Verhoeven",
+        "Monique T Mulder",
+        "Reinier Timman",
+        "Yvonne van Beek-Nieuwland",
+        "Athumani A Athumani",
+        "Adrienne A M Zandbergen",
+        "Hans E van der Wiel",
+        "Eric J G Sijbrands",
+        "Kirsten A Berk"
+      ],
+      "journal": "Trials",
+      "publication_date": "2018-Jul-16",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Patients with type 2 diabetes mellitus (T2D) are prone to micro- and macro-vascular complications. Monomeric and oligomeric flavanols (MOF) isolated from grape seeds (Vitis vinifera) have been linked to improved endothelial function and vascular health. The aim of this study is to determine the effect of a daily supplementation of 200 mg MOF on renal endothelial function of patients with T2D and microalbuminuria. METHODS/DESIGN: For this double-blind, placebo-controlled, randomized, multicenter trial 96 individuals (ages 40-85 years) with T2D and microalbuminuria will be recruited. Participants will be randomly assigned to the intervention group, receiving 200 mg of MOF daily for 3 months, or to the control group, receiving a placebo. The primary endpoint is the evolution over time in albumin excretion rate (AER) until 3 months of intervention as compared with placebo. Secondary endpoints are the evolution over time in established plasma markers of renal endothelial function-asymmetric dimethylarginine (ADMA), soluble vascular cell adhesion molecule-1 (sVCAM-1), soluble intercellular cell adhesion molecule-1 (sICAM-1), interleukin-6 (IL-6), and von Willebrand Factor (vWF)-until 3 months of intervention as compared with placebo. Mixed modeling will be applied for the statistical analysis of the data. DISCUSSION: We hypothesize that T2D patients with microalbuminuria have a medically determined requirement for MOF and that fulfilling this requirement will result in a decrease in AER and related endothelial biomarkers. If confirmed, this may lead to new insights in the dietary management of patients with T2D. TRIAL REGISTRATION: Nederlands Trial Register, NTR4669 , registered on 7 July 2014.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Albuminuria",
+        "Data Interpretation, Statistical",
+        "Diabetes Mellitus, Type 2",
+        "Double-Blind Method",
+        "Flavonols",
+        "Humans",
+        "Middle Aged",
+        "Multicenter Studies as Topic",
+        "Outcome Assessment, Health Care",
+        "Randomized Controlled Trials as Topic",
+        "Sample Size",
+        "Seeds",
+        "Vitis"
+      ]
+    },
+    {
+      "pmid": "29759310",
+      "title": "Flavanols are potential anti-obesity agents, a systematic review and meta-analysis of controlled clinical trials.",
+      "authors": [
+        "M Akhlaghi",
+        "S Ghobadi",
+        "M Mohammad Hosseini",
+        "Z Gholami",
+        "F Mohammadian"
+      ],
+      "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "publication_date": "2018-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: The anti-obesity potential of flavonoids has been shown by animal and human studies. In this meta-analysis, we systematically reviewed controlled clinical trials and quantified the effects of flavonoids and flavonoid subclasses on obesity-related anthropometric measures. METHODS AND RESULTS: PubMed, EMBASE, Scopus, Web of Science, and ProQuest databases were searched to identify trials examining the effect of flavonoids on body mass index (BMI), waist circumference, and body fat percentage. Fifty eight trials passed the eligibility process. Analysis endpoints were calculated as the mean difference between baseline and post-treatment. Flavonoids were in subclasses of flavanols, flavonols, isoflavones, flavanones, anthocyanins, and proanthocyanidins. They were mostly in the form of supplements and dosages varying from 40 to 1300 mg/day. Among flavonoid subclasses, flavanols showed potential for decreasing BMI, in the overall population (mean difference (MD) = -0.28 kg/m2, P = 0.04; n = 21) and in the subgroups of Asians (MD = -0.42 kg/m2; P = 0.046; n = 13), ages < 50 years (MD = -0.50 kg/m2; P = 0.008; n = 14), BMI ≥ 25 kg/m2 (MD = -0.30 kg/m2; P = 0.049; n = 15), and at doses ≥ 500 mg/day (MD = -0.36 kg/m2; P = 0.049; n = 12). Isoflavones also decreased BMI of non-Asian populations (MD = -0.26 kg/m2; P = 0.035; n = 13) and doses ≥ 75 mg/day (MD = -0.34 kg/m2; P = 0.027; n = 8). In the overall assessment, flavanols also decreased waist circumference (MD = -0.60 cm; P = 0.02; n = 18) but had no significant effect on body fat percentage. The available trials did not reveal significant effects from flavonols, flavanones, and anthocyanins on the specified anthropometric measures. CONCLUSIONS: Overall results of this meta-analysis showed that flavanols have potential against obesity.",
+      "mesh_terms": [
+        "Adiposity",
+        "Adult",
+        "Aged",
+        "Anti-Obesity Agents",
+        "Body Mass Index",
+        "Controlled Clinical Trials as Topic",
+        "Dietary Supplements",
+        "Evidence-Based Medicine",
+        "Female",
+        "Flavonols",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Obesity",
+        "Risk Factors",
+        "Treatment Outcome",
+        "Waist Circumference",
+        "Weight Loss",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28540171",
+      "title": "Flavanols from the Camellia sinensis var. assamica and their hypoglycemic and hypolipidemic activities.",
+      "authors": [
+        "Xin Wang",
+        "Quan Liu",
+        "Hongbo Zhu",
+        "Hongqing Wang",
+        "Jie Kang",
+        "Zhufang Shen",
+        "Ruoyun Chen"
+      ],
+      "journal": "Acta pharmaceutica Sinica. B",
+      "publication_date": "2017-May",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "α-Glucosidase and lipase inhibitors play important roles in the treatment of hyperglycaemia and dyslipidemia. To identify novel naturally occurring inhibitors, a bioactivity-guided phytochemical research was performed on the pu-erh tea. One new flavanol, named (-)-epicatechin-3-O-(Z)-coumarate (1), and 16 known analogs (2-17) were isolated from the aqueous extract of the pu-erh tea. Their structures were determined by spectroscopic and chemical methods. Furthermore, the water extract of pu-erh tea and its fractions exhibited inhibitory activities against α-glucosidases and lipases in vitro; compound 15 showed moderate inhibitory effect against sucrase with an IC50 value of 32.5 μmol/L and significant inhibitory effect against maltase with an IC50 value of 1.3 μmol/L. Compounds 8, 10, 11 and 15 displayed moderate activity against a lipase with IC50 values of 16.0, 13.6, 19.8, and 13.3 μmol/L, respectively."
+    },
+    {
+      "pmid": "27979161",
+      "title": "Unravelling effects of flavanols and their derivatives on acrylamide formation via support vector machine modelling.",
+      "authors": [
+        "Mengmeng Huang",
+        "Qiao Wang",
+        "Xinyu Chen",
+        "Yu Zhang"
+      ],
+      "journal": "Food chemistry",
+      "publication_date": "2017-Apr-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This study investigated the effect of flavanols and their derivatives on acrylamide formation under low-moisture conditions via prediction using the support vector regression (SVR) approach. Acrylamide was generated in a potato-based equimolar asparagine-reducing sugar model system through oven heating. Both positive and negative effects were observed when the flavonoid treatment ranged 1-10,000μmol/L. Flavanols and derivatives (100μmol/L) suppress the acrylamide formation within a range of 59.9-78.2%, while their maximal promotion effects ranged from 2.15-fold to 2.84-fold for the control at a concentration of 10,000μmol/L. The correlations between inhibition rates and changes in Trolox-equivalent antioxidant capacity (ΔTEAC) (RTEAC-DPPH=0.878, RTEAC-ABTS=0.882, RTEAC-FRAP=0.871) were better than promotion rates (RTEAC-DPPH=0.815, RTEAC-ABTS=0.749, RTEAC-FRAP=0.841). Using ΔTEAC as variables, an optimized SVR model could robustly serve as a new predictive tool for estimating the effect (R: 0.783-0.880), the fitting performance of which was slightly better than that of multiple linear regression model (R: 0.754-0.880).",
+      "mesh_terms": [
+        "Acrylamide",
+        "Antioxidants",
+        "Asparagine",
+        "Chromatography, High Pressure Liquid",
+        "Dose-Response Relationship, Drug",
+        "Flavonoids",
+        "Food Handling",
+        "Hot Temperature",
+        "Linear Models",
+        "Maillard Reaction",
+        "Polyphenols",
+        "Solanum tuberosum",
+        "Support Vector Machine",
+        "Tandem Mass Spectrometry"
+      ]
+    },
+    {
+      "pmid": "27827474",
+      "title": "The prothrombotic state associated with obesity-induced hypertension is reduced by cocoa and its main flavanols.",
+      "authors": [
+        "G M Rabadán-Chávez",
+        "E Reyes-Maldonado",
+        "L Quevedo-Corona",
+        "N Paniagua-Castro",
+        "G Escalona-Cardoso",
+        "M E Jaramillo-Flores"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2016-Dec-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Little is known about the effects of cocoa and its main flavanols on the prothrombotic state associated with the development of hypertension in diet-induced obesity models. PURPOSE: To evaluate the effects of cocoa powder, cocoa extract and their main flavanols on plasma biomarkers related to impaired coagulation and fibrinolysis and its association with hypertension and obesity-related metabolic disorders in rats fed a hypercaloric diet. METHODS: Male Wistar rats were randomly assigned to 7 treatment groups (n = 7): normal diet (ND); hypercaloric diet control group (HCD); HCD + cocoa powder (CO); HCD + cocoa extract (CO-EX); HCD + (-)-epicatechin (EPI); HCD + (+)-catechin (CAT); and HCD + procyanidin B2 (PB2). Blood pressure was measured using the tail-cuff method (week 7). At the end of the experimental period (week 8), rats were sacrificed and blood samples were collected immediately for coagulation and biochemical analyses. RESULTS: Oral administration of CO, CO-EX and their main flavanols significantly decreased plasma biomarkers related to impaired coagulation and fibrinolysis (vWF, FVIII, fibrinogen and PAI-1) in rats fed a hypercaloric diet. These effects were associated with decreased systolic and diastolic blood pressure, aortic oxidative stress (MDA levels) and improvement of dyslipidemia, insulin resistance and circulating markers of inflammation (TNF-α, IL-6 and CRP) compared to the HCD group. CONCLUSION: Our results showed that cocoa and its main flavanols may improve endothelial dysfunction and exert their antihypertensive effects by decreasing the prothrombotic state in rats fed a hypercaloric diet. Moreover, improvement of obesity-related metabolic disorders may also contribute to their BP-lowering effect.",
+      "mesh_terms": [
+        "Adipokines",
+        "Animals",
+        "Aorta",
+        "Biomarkers",
+        "Chocolate",
+        "Flavonols",
+        "Hypertension",
+        "Inflammation",
+        "Lipid Peroxidation",
+        "Malondialdehyde",
+        "Plant Extracts",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "27588209",
+      "title": "Cocoa flavanols reduce N-terminal pro-B-type natriuretic peptide in patients with chronic heart failure.",
+      "authors": [
+        "Rodney De Palma",
+        "Imelda Sotto",
+        "Elizabeth G Wood",
+        "Noorafza Q Khan",
+        "Jane Butler",
+        "Atholl Johnston",
+        "Martin T Rothman",
+        "Roger Corder"
+      ],
+      "journal": "ESC heart failure",
+      "publication_date": "2016-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIMS: Poor prognosis in chronic heart failure (HF) is linked to endothelial dysfunction for which there is no specific treatment currently available. Previous studies have shown reproducible improvements in endothelial function with cocoa flavanols, but the clinical benefit of this effect in chronic HF has yet to be determined. Therefore, the aim of this study was to assess the potential therapeutic value of a high dose of cocoa flavanols in patients with chronic HF, by using reductions in N-terminal pro-B-type natriuretic peptide (NT-proBNP) as an index of improved cardiac function. METHODS AND RESULTS: Thirty-two patients with chronic HF, stable on guideline-directed medical therapy, were randomized to consume 50 g/day of high-flavanol dark chocolate (HFDC; 1064 mg of flavanols/day) or low-flavanol dark chocolate (LFDC; 88 mg of flavanols/day) for 4 weeks and then crossed over to consume the alternative dark chocolate for a further 4 weeks. Twenty-four patients completed the study. After 4 weeks of HFDC, NT-proBNP (mean decrease % ± standard deviation) was significantly reduced compared with baseline (-44 ± 69%), LFDC (-33 ± 72%), and follow-up (-41 ± 77%) values. HFDC also reduced diastolic blood pressure compared with values after LFDC (-6.7 ± 10.1 mmHg). CONCLUSIONS: Reductions in blood pressure and NT-proBNP after HFDC indicate decreased vascular resistance resulting in reduced left ventricular afterload. These effects warrant further investigation in patients with chronic HF."
+    },
+    {
+      "pmid": "27417519",
+      "title": "Subchronic treatment with grape-seed phenolics inhibits ghrelin production despite a short-term stimulation of ghrelin secretion produced by bitter-sensing flavanols.",
+      "authors": [
+        "Joan Serrano",
+        "Àngela Casanova-Martí",
+        "Inge Depoortere",
+        "Maria Teresa Blay",
+        "Ximena Terra",
+        "Montserrat Pinent",
+        "Anna Ardévol"
+      ],
+      "journal": "Molecular nutrition & food research",
+      "publication_date": "2016-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "SCOPE: Grape-seed phenolic compounds have recently been described as satiating agents in rats when administered as a whole phenolic extract (GSPE). This satiating effect may involve the release of satiating gut hormones such as GLP-1, although a short-term increase in the orexigenic hormone ghrelin was also reported. In this study, we investigated the short- and long-term effects of GSPE in rats, focusing on the role of the main grape-seed phenolics in ghrelin secretion. METHODS AND RESULTS: GSPE produced a short-term increase in plasma ghrelin in rats after an acute treatment. A mouse ghrelinoma cell line was used to test the effects of the main pure grape-seed phenolic compounds on ghrelin release. Monomeric flavanols stimulated ghrelin secretion by activating bitter taste receptors. In contrast, gallic acid (GA) and oligomeric flavanols inhibited ghrelin release. The ghrelin-inhibiting effects of GA were confirmed in rats and in rat duodenal segments. One day after the last dose of a subchronic treatment, GSPE decreased plasma ghrelin in rats, ghrelin secretion in intestinal segments, and ghrelin mRNA expression in stomach. CONCLUSION: The sustained satiating effects of GSPE are related to a long-term decrease in ghrelin expression. GA and oligomeric flavanols play a ghrelin-inhibiting role in this process.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Cell Line, Tumor",
+        "Dose-Response Relationship, Drug",
+        "Female",
+        "Gallic Acid",
+        "Gastric Mucosa",
+        "Gene Expression Regulation",
+        "Ghrelin",
+        "Grape Seed Extract",
+        "Intestinal Mucosa",
+        "Intestines",
+        "Male",
+        "Mice",
+        "Polyphenols",
+        "RNA, Messenger",
+        "Rats",
+        "Stomach",
+        "Stomach Neoplasms",
+        "Vitis"
+      ]
+    },
+    {
+      "pmid": "26111215",
+      "title": "Potential implications of dose and diet for the effects of cocoa flavanols on cardiometabolic function.",
+      "authors": [
+        "Kade Davison",
+        "Peter R C Howe"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2015-Nov-18",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "The metabolic syndrome is a pathological state whereby cardiovascular and metabolic dysfunction coexist and typically progress in a mutual feed-forward manner to further dysfunction and ultimately disease. The health and function of the vascular endothelium is integral in this phenomenon and thus represents a logical target for intervention. Consumption of foods high in cocoa flavanols has demonstrated a capacity to markedly improve endothelial function and key markers of the metabolic syndrome including blood pressure and insulin sensitivity. The typically high energy content of foods containing sufficient doses of cocoa flavanols has caused some reservations around its therapeutic use, but this is dependent upon the particulars of the food matrix used. Further to this, the food matrix appears to influence the dose response curve of cocoa flavanols, particularly on blood pressure, with dark chocolate appearing to be 8 times more effective in systolic blood pressure reduction than a cocoa powder drink for the equivalent dose of flavanol. Cocoa flavanol consumption conclusively demonstrates a positive impact on cardiometabolic function; however, more research is needed to understand how best to consume it to maximize the benefit while avoiding excessive fat and sugar consumption.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Pressure",
+        "Cacao",
+        "Cardiovascular Diseases",
+        "Flavonols",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "26040467",
+      "title": "Effect of cocoa products and flavanols on platelet aggregation in humans: a systematic review.",
+      "authors": [
+        "Ilaria Peluso",
+        "Maura Palmery",
+        "Mauro Serafini"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2015-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "Previous evidence suggested an active role of cocoa products and flavanols in modulating platelet aggregation. However, cocoa flavanols are characterized by a low bioavailability that can deeply affect their presence in biological fluids and raise questions on their biological effect in humans. We performed a systematic search on Medline, Embase, Cochrane and ProQuest databases, until April 2015, on the effect of cocoa products on platelet aggregation in human intervention studies. We identified 13 interventions, of which only five involved repeated administration. Different effects were observed on the basis of the platelet aggregation test used, whereas neither a longer duration of treatment nor a higher dose was associated with a higher inhibition of platelet aggregation. In conclusion, the reviewed results suggest that consumption of cocoa products in bolus administration positively affects platelet aggregation in both healthy subjects and diseased patients. On the other hand, more evidence is required in order to assess the effect of long-term cocoa product ingestion and to identify the bioactive components involved.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Platelets",
+        "Cacao",
+        "Flavonoids",
+        "Humans",
+        "Plant Extracts",
+        "Platelet Aggregation"
+      ]
+    },
+    {
+      "pmid": "25530151",
+      "title": "Interactions between cocoa flavanols and inorganic nitrate: additive effects on endothelial function at achievable dietary amounts.",
+      "authors": [
+        "Ana Rodriguez-Mateos",
+        "Michael Hezel",
+        "Hilal Aydin",
+        "Malte Kelm",
+        "Jon O Lundberg",
+        "Eddie Weitzberg",
+        "Jeremy P E Spencer",
+        "Christian Heiss"
+      ],
+      "journal": "Free radical biology & medicine",
+      "publication_date": "2015-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Dietary intervention studies have shown that flavanols and inorganic nitrate can improve vascular function, suggesting that these two bioactives may be responsible for beneficial health effects of diets rich in fruits and vegetables. We aimed to study interactions between cocoa flavanols (CF) and nitrate, focusing on absorption, bioavailability, excretion, and efficacy to increase endothelial function. In a double-blind randomized, dose-response crossover study, flow-mediated dilation (FMD) was measured in 15 healthy subjects before and at 1, 2, 3, and 4 h after consumption of CF (1.4-10.9 mg/kg bw) or nitrate (0.1-10 mg/kg bw). To study flavanol-nitrate interactions, an additional intervention trial was performed with nitrate and CF taken in sequence at low and high amounts. FMD was measured before (0 h) and at 1h after ingestion of nitrate (3 or 8.5 mg/kg bw) or water. Then subjects received a CF drink (2.7 or 10.9 mg/kg bw) or a micro- and macronutrient-matched CF-free drink. FMD was measured at 1, 2, and 4 h thereafter. Blood and urine samples were collected and assessed for CF and nitric oxide (NO) metabolites with HPLC and gas-phase reductive chemiluminescence. Finally, intragastric formation of NO after CF and nitrate consumption was investigated. Both CF and nitrate induced similar intake-dependent increases in FMD. Maximal values were achieved at 1 h postingestion and gradually decreased to reach baseline values at 4 h. These effects were additive at low intake levels, whereas CF did not further increase FMD after high nitrate intake. Nitrate did not affect flavanol absorption, bioavailability, or excretion, but CF enhanced nitrate-related gastric NO formation and attenuated the increase in plasma nitrite after nitrate intake. Both flavanols and inorganic nitrate can improve endothelial function in healthy subjects at intake amounts that are achievable with a normal diet. Even low dietary intake of these bioactives may exert relevant effects on endothelial function when ingested together.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Male",
+        "Blood Pressure",
+        "Brachial Artery",
+        "Cacao",
+        "Chromatography, High Pressure Liquid",
+        "Cross-Over Studies",
+        "Dietary Supplements",
+        "Dose-Response Relationship, Drug",
+        "Flavonoids",
+        "Gastric Mucosa",
+        "Nitrates",
+        "Nitric Oxide",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "25344629",
+      "title": "Enhancing dentate gyrus function with dietary flavanols improves cognition in older adults.",
+      "authors": [
+        "Adam M Brickman",
+        "Usman A Khan",
+        "Frank A Provenzano",
+        "Lok-Kin Yeung",
+        "Wendy Suzuki",
+        "Hagen Schroeter",
+        "Melanie Wall",
+        "Richard P Sloan",
+        "Scott A Small"
+      ],
+      "journal": "Nature neuroscience",
+      "publication_date": "2014-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The dentate gyrus (DG) is a region in the hippocampal formation whose function declines in association with human aging and is therefore considered to be a possible source of age-related memory decline. Causal evidence is needed, however, to show that DG-associated memory decline in otherwise healthy elders can be improved by interventions that enhance DG function. We addressed this issue by first using a high-resolution variant of functional magnetic resonance imaging (fMRI) to map the precise site of age-related DG dysfunction and to develop a cognitive task whose function localized to this anatomical site. Then, in a controlled randomized trial, we applied these tools to study healthy 50-69-year-old subjects who consumed either a high or low cocoa flavanol-containing diet for 3 months. A high-flavanol intervention was found to enhance DG function, as measured by fMRI and by cognitive testing. Our findings establish that DG dysfunction is a driver of age-related cognitive decline and suggest non-pharmacological means for its amelioration.",
+      "mesh_terms": [
+        "Acoustic Stimulation",
+        "Aged",
+        "Cacao",
+        "Cognition",
+        "Dentate Gyrus",
+        "Diet",
+        "Exercise Test",
+        "Female",
+        "Flavanones",
+        "Humans",
+        "Magnetic Resonance Imaging",
+        "Male",
+        "Middle Aged",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "24763279",
+      "title": "Dietary flavanols modulate the transcription of genes associated with cardiovascular pathology without changes in their DNA methylation state.",
+      "authors": [
+        "Dragan Milenkovic",
+        "Wim Vanden Berghe",
+        "Céline Boby",
+        "Christine Leroux",
+        "Ken Declerck",
+        "Katarzyna Szarc vel Szic",
+        "Karen Heyninck",
+        "Kris Laukens",
+        "Martin Bizet",
+        "Matthieu Defrance",
+        "Sarah Dedeurwaerder",
+        "Emilie Calonne",
+        "Francois Fuks",
+        "Guy Haegeman",
+        "Guido R M M Haenen",
+        "Aalt Bast",
+        "Antje R Weseler"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: In a recent intervention study, the daily supplementation with 200 mg monomeric and oligomeric flavanols (MOF) from grape seeds for 8 weeks revealed a vascular health benefit in male smokers. The objective of the present study was to determine the impact of MOF consumption on the gene expression profile of leukocytes and to assess changes in DNA methylation. METHODOLOGY/PRINCIPAL FINDINGS: Gene expression profiles were determined using whole genome microarrays (Agilent) and DNA methylation was assessed using HumanMethylation450 BeadChips (Illumina). MOF significantly modulated the expression of 864 genes. The majority of the affected genes are involved in chemotaxis, cell adhesion, cell infiltration or cytoskeleton organisation, suggesting lower immune cell adhesion to endothelial cells. This was corroborated by in vitro experiments showing that MOF exposure of monocytes attenuates their adhesion to TNF-α-stimulated endothelial cells. Nuclear factor kappa B (NF-κB) reporter gene assays confirmed that MOF decrease the activity of NF-κB. Strong inter-individual variability in the leukocytes' DNA methylation was observed. As a consequence, on group level, changes due to MOF supplementation could not be found. CONCLUSION: Our study revealed that an 8 week daily supplementation with 200 mg MOF modulates the expression of genes associated with cardiovascular disease pathways without major changes of their DNA methylation state. However, strong inter-individual variation in leukocyte DNA methylation may obscure the subtle epigenetic response to dietary flavanols. Despite the lack of significant changes in DNA methylation, the modulation of gene expression appears to contribute to the observed vascular health effect of MOF in humans.",
+      "mesh_terms": [
+        "Adult",
+        "Cardiovascular Diseases",
+        "Cell Adhesion",
+        "Cells, Cultured",
+        "Coculture Techniques",
+        "CpG Islands",
+        "DNA Methylation",
+        "Flavonoids",
+        "Gene Expression Regulation",
+        "Grape Seed Extract",
+        "Human Umbilical Vein Endothelial Cells",
+        "Humans",
+        "Leukocytes",
+        "Male",
+        "Middle Aged",
+        "NF-kappa B",
+        "Oligonucleotide Array Sequence Analysis",
+        "Sequence Analysis, DNA",
+        "Transcription, Genetic",
+        "Transcriptome"
+      ]
+    },
+    {
+      "pmid": "23917449",
+      "title": "Estimated dietary intakes and sources of flavanols in the German population (German National Nutrition Survey II).",
+      "authors": [
+        "Anna Vogiatzoglou",
+        "Thorsten Heuer",
+        "Angela A Mulligan",
+        "Marleen A H Lentjes",
+        "Robert N Luben",
+        "Gunter G C Kuhnle"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: Data from intervention studies suggest a beneficial effect of flavanols on vascular health. However, insufficient data on their intake have delayed the assessment of their health benefits. The aim of this study was to estimate intake of flavanols and their main sources among people living in Germany. SUBJECTS/METHODS: Data from diet history interviews of the German National Nutrition Survey II for 15,371 people across Germany aged 14-80 years were analyzed. The FLAVIOLA Flavanol Food Composition Database was compiled using the latest US Department of Agriculture and Phenol-Explorer Databases and expanded to include recipes and retention factors. RESULTS: Mean intake of total flavanols, flavan-3-ol monomers, proanthocyanidins (PA), and theaflavins in Germany was 386, 120, 196, and 70 mg/day, respectively. Women had higher intakes of total flavanols (399 mg/day) than men (372 mg/day) in all age groups, with the exception of the elderly. Similar results were observed for monomers (108 mg/day for men, 131 mg/day for women) and PA (190 mg/day; 203 mg/day), although intake of theaflavins was higher in men (74 mg/day; 66 mg/day). There was an age gradient with an increase in total flavanols, monomers, and theaflavins across the age groups. The major contributor of total flavanols in all subjects was pome fruits (27%) followed by black tea (25%). CONCLUSIONS: This study demonstrated age- and sex-related variations in the intake and sources of dietary flavanols in Germany. The current analysis will provide a valuable tool in clarifying and confirming the potential health benefits of flavanols.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Biflavonoids",
+        "Catechin",
+        "Diet",
+        "Female",
+        "Flavonoids",
+        "Fruit",
+        "Germany",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Nutrition Policy",
+        "Nutrition Surveys",
+        "Nutritional Status",
+        "Proanthocyanidins",
+        "Tea"
+      ]
+    },
+    {
+      "pmid": "23810791",
+      "title": "Chocolate and the brain: neurobiological impact of cocoa flavanols on cognition and behavior.",
+      "authors": [
+        "Alexander N Sokolov",
+        "Marina A Pavlova",
+        "Sibylle Klosterhalfen",
+        "Paul Enck"
+      ],
+      "journal": "Neuroscience and biobehavioral reviews",
+      "publication_date": "2013-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Cocoa products and chocolate have recently been recognized as a rich source of flavonoids, mainly flavanols, potent antioxidant and anti-inflammatory agents with established benefits for cardiovascular health but largely unproven effects on neurocognition and behavior. In this review, we focus on neuromodulatory and neuroprotective actions of cocoa flavanols in humans. The absorbed flavonoids penetrate and accumulate in the brain regions involved in learning and memory, especially the hippocampus. The neurobiological actions of flavanols are believed to occur in two major ways: (i) via direct interactions with cellular cascades yielding expression of neuroprotective and neuromodulatory proteins that promote neurogenesis, neuronal function and brain connectivity, and (ii) via blood-flow improvement and angiogenesis in the brain and sensory systems. Protective effects of long-term flavanol consumption on neurocognition and behavior, including age- and disease-related cognitive decline, were shown in animal models of normal aging, dementia, and stroke. A few human observational and intervention studies appear to corroborate these findings. Evidence on more immediate action of cocoa flavanols remains limited and inconclusive, but warrants further research. As an outline for future research on cocoa flavanol impact on human cognition, mood, and behavior, we underscore combination of functional neuroimaging with cognitive and behavioral measures of performance.",
+      "mesh_terms": [
+        "Brain",
+        "Cacao",
+        "Cognition",
+        "Flavonoids",
+        "Humans",
+        "Neural Pathways",
+        "Neurobiology"
+      ]
+    },
+    {
+      "pmid": "22397837",
+      "title": "Influence of sugar type on the bioavailability of cocoa flavanols.",
+      "authors": [
+        "Ana Rodriguez-Mateos",
+        "Maria Jose Oruna-Concha",
+        "Catherine Kwik-Uribe",
+        "Alberto Vidal",
+        "Jeremy P E Spencer"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2012-Dec-28",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The beneficial effects of cocoa on vascular function are mediated by the absorption of monomeric flavanols into the circulation from the small intestine. As such, an understanding of the impact of the food matrix on the delivery of flavanols to the circulation is critical in assessing the potential vascular impact of a food. In the present study, we investigated the impact of carbohydrate type on flavanol absorption and metabolism from chocolate. A randomised, double-blind, three-arm cross-over study was conducted, where fifteen volunteers were randomly assigned to either a high-flavanol (266 mg) chocolate containing maltitol, a high-flavanol (251 mg) chocolate with sucrose or a low-flavanol (48 mg) chocolate with sucrose. Test chocolates were matched for micro- and macronutrients, including the alkaloids theobromine and caffeine, and were similar in taste and appearance. Total flavanol absorption was lower after consumption of the maltitol-containing test chocolate compared with following consumption of its sucrose-containing equivalent (P = 0·002). Although the O-methylation pattern observed for absorbed flavanols was unaffected by sugar type, individual levels of unmethylated ( - )-epicatechin metabolites, 3'-O-methyl-epicatechin and 4'-O-methyl-epicatechin metabolites were lower for the maltitol-containing test chocolate compared with the sucrose-containing equivalent. Despite a reduction in the total plasma pool of flavanols, the maximum time (T max) was unaffected. The present data indicate that full assessment of intervention treatments is vital in future intervention trials with flavanols and that carbohydrate content is an important determinant for the optimal delivery of flavanols to the circulation.",
+      "mesh_terms": [
+        "Adult",
+        "Biological Availability",
+        "Cacao",
+        "Catechin",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Male",
+        "Maltose",
+        "Methylation",
+        "Sucrose",
+        "Sugar Alcohols",
+        "Sweetening Agents"
+      ]
+    },
+    {
+      "pmid": "22378733",
+      "title": "Intake of dietary procyanidins does not contribute to the pool of circulating flavanols in humans.",
+      "authors": [
+        "Javier I Ottaviani",
+        "Catherine Kwik-Uribe",
+        "Carl L Keen",
+        "Hagen Schroeter"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2012-Apr",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Accumulating data show a causal role for flavanols in the mediation of cardiovascular benefits associated with the consumption of flavanol- and procyanidin-containing foods. Evidence for a direct causal role for procyanidins in this context is far less profound due to the poor absorption of procyanidins. However, it has been proposed that procyanidins may break down in the gastrointestinal tract, resulting in monomeric flavanols, which contribute to the systemic flavanol pool. Verification or rejection of this supposition could significantly affect the interpretation of epidemiologic and dietary intervention data and the design of food-content databases. OBJECTIVE: We assessed the respective contribution of flavanols and procyanidins to the systemic pool of flavanols and 5-(3,4-dihydroxyphenyl)-γ-valerolactone (γ-VL) in humans. DESIGN: Test drinks that contained only flavanols (D1), procyanidins with a degree of polymerization that ranged from 2 to 10 (D2-10), or flavanols and procyanidins with a degree of polymerization that ranged from 2 to 10 (D1-10) were consumed by subjects (n = 12) according to a randomized, double-masked, crossover design. Plasma and urine samples were collected postprandially and analyzed. RESULTS: The ingestion of D1-10 resulted in the systemic presence of flavanols (plasma concentration: 863 ± 77 nmol/L), γ-VLs (24-h urine: 93 ± 18 μmol), and minute concentrations of procyanidin B2. With correction for small residual amounts of flavanols present in D2-10, only negligible concentrations of circulating flavanols were detected after ingestion of the drink, whereas the intake of D1 resulted in circulating flavanol concentrations similar to those detected after D1-10 consumption. CONCLUSIONS: These outcomes show that dietary procyanidins do not contribute to the systemic pool of flavanols in humans. Thus, these data reject the notion that procyanidins, through their breakdown into flavanols and subsequent absorption, causally modulate vascular function.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Analytic Sample Preparation Methods",
+        "Biflavonoids",
+        "Catechin",
+        "Cross-Over Studies",
+        "Diet",
+        "Double-Blind Method",
+        "Flavonoids",
+        "Glucuronides",
+        "Humans",
+        "Lactones",
+        "Male",
+        "Methylation",
+        "Molecular Weight",
+        "Polymerization",
+        "Postprandial Period",
+        "Proanthocyanidins",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "22174811",
+      "title": "Pleiotropic benefit of monomeric and oligomeric flavanols on vascular health--a randomized controlled clinical pilot study.",
+      "authors": [
+        "Antje R Weseler",
+        "Erik J B Ruijters",
+        "Marie-José Drittij-Reijnders",
+        "Koen D Reesink",
+        "Guido R M M Haenen",
+        "Aalt Bast"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Cardiovascular diseases are expanding to a major social-economic burden in the Western World and undermine man's deep desire for healthy ageing. Epidemiological studies suggest that flavanol-rich foods (e.g. grapes, wine, chocolate) sustain cardiovascular health. For an evidenced-based application, however, sound clinical data on their efficacy are strongly demanded. METHODS: In a double-blind, randomized, placebo-controlled intervention study we supplemented 28 male smokers with 200 mg per day of monomeric and oligomeric flavanols (MOF) from grape seeds. At baseline, after 4 and 8 weeks we measured macro- and microvascular function and a cluster of systemic biomarkers for major pathological processes occurring in the vasculature: disturbances in lipid metabolism and cellular redox balance, and activation of inflammatory cells and platelets. RESULTS: In the MOF group serum total cholesterol and LDL decreased significantly (P ≤ 0.05) by 5% (n = 11) and 7% (n = 9), respectively in volunteers with elevated baseline levels. Additionally, after 8 weeks the ratio of glutathione to glutathione disulphide in erythrocytes rose from baseline by 22% (n = 15, P<0.05) in MOF supplemented subjects. We also observed that MOF supplementation exerts anti-inflammatory effects in blood towards ex vivo added bacterial endotoxin and significantly reduces expression of inflammatory genes in leukocytes. Conversely, alterations in macro- and microvascular function, platelet aggregation, plasma levels of nitric oxide surrogates, endothelin-1, C-reactive protein, fibrinogen, prostaglandin F2alpha, plasma antioxidant capacity and gene expression levels of antioxidant defense enzymes did not reach statistical significance after 8 weeks MOF supplementation. However, integrating all measured effects into a global, so-called vascular health index revealed a significant improvement of overall vascular health by MOF compared to placebo (P ≤ 0.05). CONCLUSION: Our integrative multi-biomarker approach unveiled the pleiotropic vascular health benefit of an 8 weeks supplementation with 200 mg/d MOF in humans. TRIAL REGISTRATION: ClinicalTrials.gov NCT00742287.",
+      "mesh_terms": [
+        "Adult",
+        "Antioxidants",
+        "Blood Vessels",
+        "Dietary Supplements",
+        "Fibrinogen",
+        "Flavonols",
+        "Humans",
+        "Inflammation",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Oxidation-Reduction",
+        "Oxidative Stress",
+        "Pilot Projects",
+        "Platelet Aggregation",
+        "Vitis"
+      ]
+    },
+    {
+      "pmid": "22072922",
+      "title": "Nuclei of Tsuga canadensis: role of flavanols in chromatin organization.",
+      "authors": [
+        "Walter Feucht",
+        "Markus Schmid",
+        "Dieter Treutter"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Needle primordia of Tsuga canadensis (hemlock) arising from flank meristems of a shoot apex, form cell lineages consisting of four or eight cells. Within a recently established lineage there is striking uniformity in the pattern of nuclear flavanols. This fact points to an identical transcriptional expression of these flavanols during cell cycling. However two lineages, even if located close together within the same meristem, can be very different in the expression of both cell shape and nuclear flavanol pattern, indicating that epigenetic positional signals are operating in a collective specification of cell lineage development. There is a wide range of nuclear flavanol patterning from a mosaic-like distribution in an activated cell type to a homogenous appearance in silenced cell types. Single cells deriving from lineages are desynchronized because they underlie a signaling network at a higher tissue level which results in stronger epigenetic modifications of their nuclear flavanols. As an extreme case of epigenetic modulation, transient drought conditions caused a drastic reduction of nuclear flavanols. Upon treatment with sucrose or cytokinin, these nuclear flavanols could be fully restored. Analytical determination of the flavanols revealed 3.4 mg/g DW for newly sprouting needles and 19.6 mg/g DW for anthers during meiosis. The roughly 6-fold difference in flavanols is apparently a reflection of the highly diverging organogenetic processes. Collectively, the studies provide strong evidence for combinatorial interplay between cell fate and nuclear flavanols.",
+      "mesh_terms": [
+        "Cell Nucleus",
+        "Chromatin",
+        "Cytokinins",
+        "Flavonols",
+        "Meiosis",
+        "Sucrose",
+        "Tsuga"
+      ]
+    },
+    {
+      "pmid": "21945981",
+      "title": "Dietary flavanols exert different effects on antioxidant defenses and apoptosis/proliferation in Caco-2 and SW480 colon cancer cells.",
+      "authors": [
+        "Sonia Ramos",
+        "Ildefonso Rodríguez-Ramiro",
+        "María Angeles Martín",
+        "Luis Goya",
+        "Laura Bravo"
+      ],
+      "journal": "Toxicology in vitro : an international journal published in association with BIBRA",
+      "publication_date": "2011-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Flavanols intake has been associated with reduced risk of cancer. In this study, the anticarcinogenic effects of the flavanols epicatechin (EC), epicatechin-gallate (ECG) and procyanidin B2 (PB2) on Caco-2 and SW480 colon cancer cells were investigated. Catechins showed different cytotoxicity depending on the cell line. ECG displayed strong growth inhibitory effects against SW480 cells, but was ineffective on Caco-2 cells. In contrast, PB2 did not affect Caco-2 cells, whereas promoted cell growth in SW480 cells and EC had no obvious effects on any cell line. Exposure of SW480 cells to ECG led to apoptosis as determined by caspase-3 activity, imbalance among Bcl-2 anti- and pro-apoptotic protein levels, ERK activation and AKT inhibition, whereas PB2 treatment enhanced phospho-AKT and phospho-ERK levels. Incubation of Caco-2 cells with ECG increased glutathione levels without affecting the expression of pro- and anti-apoptotic Bcl-2 proteins, AKT or ERK. The results suggest that the different cytotoxicity of flavanols is caused by their different activity and the degree of differentiation of the colon cancer cell line. Thus, ECG induced apoptosis in SW480 cells and contributed to the cytotoxic effect, whereas ECG enhanced the antioxidant potential in Caco-2 cells. PB2 activated cell proliferation and survival/proliferation pathways in SW480 cells.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Apoptosis",
+        "Caco-2 Cells",
+        "Caspase 3",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Colonic Neoplasms",
+        "Diet",
+        "Flavonoids",
+        "Glutathione",
+        "Glutathione Peroxidase",
+        "Glutathione Reductase",
+        "Glutathione Transferase",
+        "Humans",
+        "MAP Kinase Signaling System",
+        "Phosphatidylinositol 3-Kinases",
+        "Proto-Oncogene Proteins c-akt",
+        "Proto-Oncogene Proteins c-bcl-2",
+        "Reactive Oxygen Species"
+      ]
+    },
+    {
+      "pmid": "21068351",
+      "title": "Prebiotic evaluation of cocoa-derived flavanols in healthy humans by using a randomized, controlled, double-blind, crossover intervention study.",
+      "authors": [
+        "Xenofon Tzounis",
+        "Ana Rodriguez-Mateos",
+        "Jelena Vulevic",
+        "Glenn R Gibson",
+        "Catherine Kwik-Uribe",
+        "Jeremy P E Spencer"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2011-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The absorption of cocoa flavanols in the small intestine is limited, and the majority of the flavanols reach the large intestine where they may be metabolized by resident microbiota. OBJECTIVE: We assessed the prebiotic potential of cocoa flavanols in a randomized, double-blind, crossover, controlled intervention study. DESIGN: Twenty-two healthy human volunteers were randomly assigned to either a high-cocoa flavanol (HCF) group (494 mg cocoa flavanols/d) or a low-cocoa flavanol (LCF) group (23 mg cocoa flavanols/d) for 4 wk. This was followed by a 4-wk washout period before volunteers crossed to the alternant arm. Fecal samples were recovered before and after each intervention, and bacterial numbers were measured by fluorescence in situ hybridization. A number of other biochemical and physiologic markers were measured. RESULTS: Compared with the consumption of the LCF drink, the daily consumption of the HCF drink for 4 wk significantly increased the bifidobacterial (P < 0.01) and lactobacilli (P < 0.001) populations but significantly decreased clostridia counts (P < 0.001). These microbial changes were paralleled by significant reductions in plasma triacylglycerol (P < 0.05) and C-reactive protein (P < 0.05) concentrations. Furthermore, changes in C-reactive protein concentrations were linked to changes in lactobacilli counts (P < 0.05, R(2) = -0.33 for the model). These in vivo changes were closely paralleled by cocoa flavanol-induced bacterial changes in mixed-batch culture experiments. CONCLUSION: This study shows, for the first time to our knowledge, that consumption of cocoa flavanols can significantly affect the growth of select gut microflora in humans, which suggests the potential prebiotic benefits associated with the dietary inclusion of flavanol-rich foods. This trial was registered at clinicaltrials.gov as NCT01091922.",
+      "mesh_terms": [
+        "Adult",
+        "Antioxidants",
+        "Bifidobacterium",
+        "Biomarkers",
+        "Blood Pressure",
+        "C-Reactive Protein",
+        "Cacao",
+        "Cross-Over Studies",
+        "Diet",
+        "Double-Blind Method",
+        "Feces",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Lactobacillus",
+        "Male",
+        "Prebiotics"
+      ]
+    },
+    {
+      "pmid": "21046126",
+      "title": "Comparative effects of dietary flavanols on antioxidant defences and their response to oxidant-induced stress on Caco2 cells.",
+      "authors": [
+        "Ildefonso Rodríguez-Ramiro",
+        "María Angeles Martín",
+        "Sonia Ramos",
+        "Laura Bravo",
+        "Luis Goya"
+      ],
+      "journal": "European journal of nutrition",
+      "publication_date": "2011-Aug",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: Flavanols are an important fraction of our diet both for their antioxidant capacity and because they are constituents of greatly accepted foodstuffs such as tea, wine and cocoa. In addition to their antioxidant activity by directly scavenging intracellular reactive oxygen species (ROS), flavanols have been recently shown to enhance protective enzymes. The objective was to evaluate the antioxidant response of colon-derived Caco2 cells to dietary flavanols. METHODS: Four representative flavanols were selected: epicatechin (EC), epicatechin-3-gallate (ECG), epigallocatechin-3-gallate (EGCG) and procyanidin B2 (PB2). Cell viability, concentration of ROS and reduced glutathione (GSH), and activity of antioxidant/detoxification enzymes and caspase 3 were determined. RESULTS: Treatment of Caco2 cells with flavanols decreased ROS production but did not affect GSH content. ECG induced glutathione peroxidase (GPx), whereas PB2 evoked a dose-dependent increase in GPx, glutathione reductase and glutathione-S-transferase. Enhancement of the antioxidant defences implies an improved cell response to an oxidative challenge. Hence, Caco2 cells treated 20 h with the flavanols, especially PB2, and then submitted to an oxidative stress induced by a pro-oxidant, tert-butyl-hydroperoxide, showed a reduced ROS production, restricted activation of caspase 3 and higher viability than cells plainly submitted to the stressor. CONCLUSIONS: Flavanols protect Caco2 cells against an induced oxidative stress and subsequent cellular death by reducing ROS production and preventing caspase-3 activation. In particular, PB2 increases the activity of antioxidant/detoxification enzymes and thus protects Caco2 cells by directly counteracting free radicals and also by activating the antioxidant defence system.",
+      "mesh_terms": [
+        "Antioxidants",
+        "Biflavonoids",
+        "Caco-2 Cells",
+        "Caspase 3",
+        "Catechin",
+        "Cell Survival",
+        "Diet",
+        "Glutathione",
+        "Glutathione Peroxidase",
+        "Humans",
+        "Oxidative Stress",
+        "Proanthocyanidins",
+        "Reactive Oxygen Species"
+      ]
+    },
+    {
+      "pmid": "20854838",
+      "title": "Recommending flavanols and procyanidins for cardiovascular health: current knowledge and future needs.",
+      "authors": [
+        "Hagen Schroeter",
+        "Christian Heiss",
+        "Jeremy P E Spencer",
+        "Carl L Keen",
+        "Joanne R Lupton",
+        "Harold H Schmitz"
+      ],
+      "journal": "Molecular aspects of medicine",
+      "publication_date": "2010-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Data on the potential health benefits of dietary flavanols and procyanidins, especially in the context of cardiovascular health, are considerable and continue to accumulate. Significant progress has been made in flavanol analytics and the creation of phytonutrient-content food databases, and novel data emanated from epidemiological investigations as well as dietary intervention studies. However, a comprehensive understanding of the pharmacological properties of flavanols and procyanidins, including their precise mechanisms of action in vivo, and a conclusive, consensus-based accreditation of a causal relationship between intake and health benefits in the context of primary and secondary cardiovascular disease prevention is still outstanding. Thus, the objective of this review is to identify and discuss key questions and gaps that will need to be addressed in order to conclusively demonstrate whether or not dietary flavanols and procyanidins have a role in preventing, delaying the onset of, or treating cardiovascular diseases, and thus improving human life expectancy and quality of life.",
+      "mesh_terms": [
+        "Cardiovascular Diseases",
+        "Diet",
+        "Flavonoids",
+        "Forecasting",
+        "Health Behavior",
+        "Health Knowledge, Attitudes, Practice",
+        "Health Planning Guidelines",
+        "Humans",
+        "Proanthocyanidins"
+      ]
+    },
+    {
+      "pmid": "20852295",
+      "title": "Flavanols and cardiovascular disease prevention.",
+      "authors": [
+        "Christian Heiss",
+        "Carl L Keen",
+        "Malte Kelm"
+      ],
+      "journal": "European heart journal",
+      "publication_date": "2010-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Diet is a major lifestyle factor in the primary and secondary prevention of numerous chronic diseases, including myocardial infarction, stroke, and diabetes. Epidemiological studies suggest that the beneficial cardiovascular health effects of diets rich in fruits and vegetables are in part mediated by their flavonoid content, with particular benefits provided by one member of this family, the flavanols. This concept is supported by findings from small-scale intervention studies with surrogate endpoints including endothelium-dependent vasodilation, blood pressure, platelet function, and glucose tolerance. Mechanistically, short-term effects on endothelium-dependent vasodilation following the consumption of flavanol-rich foods, as well as purified flavanols, have been linked to an increased nitric oxide bioactivity in healthy humans, and those with increased cardiovascular risk. The critical biological target(s) for flavanols have yet to be identified and the extent to which these acute results are important in the context of long-term human health is unknown. While flavanols represent a promising class of food components with respect to their ability to lower cardiovascular risk the flavanol-rich foods used in many trials have been poorly defined with respect to their flavanol content and flavanol-isomer profile; several studies have lacked appropriate controls, and the long-term randomized controlled intervention trials with flavanol-rich foods are missing. Thus, while the literature regarding flavanols and vascular health is encouraging, more in-depth and well-controlled clinical and experimental studies are needed to better define the potential protective vascular effects of these nutrients and their therapeutic value in cardiovascular medicine.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "Blood Pressure",
+        "Cardiovascular Diseases",
+        "Dietary Supplements",
+        "Endothelium, Vascular",
+        "Flavonols",
+        "Humans",
+        "Nitric Oxide",
+        "Prospective Studies",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "20620742",
+      "title": "Improvement of endothelial function with dietary flavanols is associated with mobilization of circulating angiogenic cells in patients with coronary artery disease.",
+      "authors": [
+        "Christian Heiss",
+        "Sarah Jahn",
+        "Melanie Taylor",
+        "Wendy May Real",
+        "Franca S Angeli",
+        "Maelene L Wong",
+        "Nicolas Amabile",
+        "Megha Prasad",
+        "Tienush Rassaf",
+        "Javier I Ottaviani",
+        "Shirley Mihardja",
+        "Carl L Keen",
+        "Matthew L Springer",
+        "Andrew Boyle",
+        "William Grossman",
+        "Stanton A Glantz",
+        "Hagen Schroeter",
+        "Yerem Yeghiazarians"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "publication_date": "2010-Jul-13",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: In patients with coronary artery disease (CAD) medically managed according to currently accepted guidelines, we tested whether a 1-month dietary intervention with flavanol-containing cocoa leads to an improvement of endothelial dysfunction and whether this is associated with an enhanced number and function of circulating angiogenic cells (CACs). BACKGROUND: Dietary flavanols can improve endothelial dysfunction. The CACs, also termed endothelial progenitor cells, are critical for vascular repair and maintenance of endothelial function. METHODS: In a randomized, controlled, double-masked, cross-over trial, 16 CAD patients (64+/-3 years of age) received a dietary high-flavanol intervention (HiFI [375 mg]) and a macronutrient- and micronutrient-matched low-flavanol intervention (LoFI [9 mg]) twice daily in random order over 30 days. RESULTS: Endothelium-dependent vasomotor function, as measured by flow-mediated vasodilation of the brachial artery, improved by 47% in the HiFI period compared with the LoFI period. After HiFI, the number of CD34+/KDR+-CACs, as measured by flow cytometry, increased 2.2-fold as compared with after LoFI. The CAC functions, as measured by the capacity to survive, differentiate, proliferate, and to migrate were not different between the groups. The HiFI led to a decrease in systolic blood pressure (mean change over LoFI: -4.2+/-2.7 mm Hg), and increase in plasma nitrite level (mean change over LoFI: 74+/-32 nM). Applying a mixed-effects linear regression model, the results demonstrated a significant increase in flow-mediated vasodilation and a decrease in systolic blood pressure with increasing levels of CD34+/KDR+-CACs. CONCLUSIONS: Sustained improvements in endothelial dysfunction by regular dietary intake of flavanols are associated with mobilization of functional CACs. (Effect of Cocoa Flavanols on Vascular Function in Optimally Treated Coronary Artery Disease Patients: Interaction Between Endothelial Progenitor Cells, Reactivity of Micro- and Macrocirculation; NCT00553774).",
+      "mesh_terms": [
+        "Blood Pressure",
+        "Cacao",
+        "Coronary Disease",
+        "Diet",
+        "Double-Blind Method",
+        "Endothelial Cells",
+        "Endothelium, Vascular",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Neovascularization, Physiologic",
+        "Vasodilation"
+      ]
+    },
+    {
+      "pmid": "18504447",
+      "title": "Effect of cocoa flavanols and exercise on cardiometabolic risk factors in overweight and obese subjects.",
+      "authors": [
+        "K Davison",
+        "A M Coates",
+        "J D Buckley",
+        "P R C Howe"
+      ],
+      "journal": "International journal of obesity (2005)",
+      "publication_date": "2008-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: Impaired endothelial function in obesity may reduce blood flow to sites of metabolism, contributing to impaired fat oxidation and insulin resistance. This study investigated the effects of cocoa flavanols and regular exercise, interventions known to improve endothelial function, on cardiometabolic function and body composition in obese individuals. DESIGN: Overweight and obese adults were randomly assigned to high-flavanol cocoa (HF, 902 mg flavanols), HF and exercise, low-flavanol cocoa (LF, 36 mg flavanols), or LF and exercise for 12 weeks (exercise duration was 3 x 45 min per week at 75% of age-predicted maximum heart rate). Body composition was assessed by dual-energy X-ray absorptiometry at 0 and 12 weeks. Brachial artery flow-mediated dilatation (FMD), supine blood pressure (BP) and fasting plasma insulin, and glucose levels were assessed at 0, 6 and 12 weeks, respectively. Insulin sensitivity/resistance was determined using the modified homeostasis model assessment of insulin resistance (HOMA2). RESULTS: A total of 49 subjects (M=18; F=31) completed the intervention. Baseline averages were as follows: body mass index=33.5 kg/m(2); BP=123/76 mm Hg; HOMA2=2.4; FMD=4.3%; rate of fat oxidation during exercise=0.34 g min(-1); abdominal fat=45.7% of total abdominal mass. Compared to LF, HF increased FMD acutely (2 h post-dose) by 2.4% (P<0.01) and chronically (over 12 weeks; P<0.01) by 1.6% and reduced insulin resistance by 0.31% (P<0.05), diastolic BP by 1.6 mm Hg and mean arterial BP by 1.2 mm Hg (P<0.05), independent of exercise. Regular exercise increased fat oxidation during exercise by 0.10 g min(-1) (P<0.01) and reduced abdominal fat by 0.92% (P<0.05). CONCLUSION: Although HF consumption was shown to improve endothelial function, it did not enhance the effects of exercise on body fat and fat metabolism in obese subjects. However, it may be useful for reducing cardiometabolic risk factors in this population.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Anthropometry",
+        "Blood Pressure",
+        "Body Composition",
+        "Brachial Artery",
+        "Cacao",
+        "Cardiovascular Diseases",
+        "Combined Modality Therapy",
+        "Diet",
+        "Double-Blind Method",
+        "Endothelium, Vascular",
+        "Exercise",
+        "Female",
+        "Flavonols",
+        "Humans",
+        "Male",
+        "Metabolic Syndrome",
+        "Middle Aged",
+        "Motor Activity",
+        "Obesity",
+        "Overweight",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "18296357",
+      "title": "Effects of cocoa flavanols on risk factors for cardiovascular disease.",
+      "authors": [
+        "John W Erdman",
+        "LeaAnn Carson",
+        "Catherine Kwik-Uribe",
+        "Ellen M Evans",
+        "Robin R Allen"
+      ],
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Epidemiologic investigations support the hypothesis that regular consumption of flavonoid-containing foods can reduce the risk of cardiovascular diseases (CVD). While flavonoids are ubiquitous in plants, cocoa can be particularly rich in a sub-class of flavonoids known as flavanols. A number of human dietary intervention trials with flavanol-containing cocoa products have demonstrated improvements in endothelial and platelet function, as well as blood pressure. These studies provide direct evidence for the potential cardiovascular benefits of flavanol-containing foods and help to substantiate the epidemiological data. In this review, results from selective published trials with cocoa and chocolate focused on risk for CVD will be discussed along with a study we recently completed evaluating the effects of the daily consumption of flavanol-containing dark chocolate (CocoaVia?) with and without plant sterol esters on CVD markers in a normotensive population with mild hypercholesterolemia. In this study, the daily consumption of flavanol-containing dark chocolate was associated with a significant mean reduction of 5.8 mmHg in systolic blood pressure. Together the results of these human dietary intervention trials provide scientific evidence of the vascular effects of cocoa flavanols and suggest that the regular consumption of cocoa products containing flavanols may reduce risk of CVD.",
+      "mesh_terms": [
+        "Blood Platelets",
+        "Blood Pressure",
+        "Cacao",
+        "Cardiovascular Diseases",
+        "Endothelium, Vascular",
+        "Flavonoids",
+        "Humans",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "18348861",
+      "title": "Cocoa flavanols lower vascular arginase activity in human endothelial cells in vitro and in erythrocytes in vivo.",
+      "authors": [
+        "Oliver Schnorr",
+        "Tatjana Brossette",
+        "Tony Y Momma",
+        "Petra Kleinbongard",
+        "Carl L Keen",
+        "Hagen Schroeter",
+        "Helmut Sies"
+      ],
+      "journal": "Archives of biochemistry and biophysics",
+      "publication_date": "2008-Aug-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The availability of l-arginine can be a rate-limiting factor for cellular NO production by nitric oxide synthases (NOS). Arginase competes with NOS for l-arginine as the common substrate. Increased arginase activity has been linked to low NO levels, and an inhibition of arginase activity has been reported to improve endothelium-dependent vasorelaxation. Based on the above, we hypothesized that an increase in the circulating NO pool following flavanol consumption could be correlated with decreased arginase activity. To test this hypothesis we (a) investigated the effects of (-)-epicatechin and its structurally related metabolites on endothelial arginase expression and activity in vitro; (b) evaluated the effects of dietary flavanol-rich cocoa on kidney arginase activity in vivo; and (c) assessed human erythrocyte arginase activity following flavanol-rich cocoa beverage consumption in a double-blind intervention study with cross-over design. The results demonstrate that cocoa flavanols lower arginase-2 mRNA expression and activity in HUVEC. Dietary intervention with flavanol-rich cocoa caused diminished arginase activity in rat kidney and, erythrocyte arginase activity was lowered in healthy humans following consumption of a high flavanol beverage in vivo.",
+      "mesh_terms": [
+        "Adult",
+        "Arginase",
+        "Cacao",
+        "Cells, Cultured",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Endothelial Cells",
+        "Endothelium, Vascular",
+        "Erythrocytes",
+        "Flavonols",
+        "Humans",
+        "In Vitro Techniques",
+        "Umbilical Veins"
+      ]
+    },
+    {
+      "pmid": "17156755",
+      "title": "Grape seed flavanols, but not Port wine, prevent ethanol-induced neuronal lipofuscin formation.",
+      "authors": [
+        "Marco Assunção",
+        "Victor de Freitas",
+        "Manuel Paula-Barbosa"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2007-Jan-19",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Lipofuscin is an end-product of lipid peroxidation which dramatically increases following ethanol consumption, as we have shown in hippocampal and cerebellar neurons. In this work, we corroborated observations indicating that supplementation of ethanol with 200 mg/l of grape seed flavanols prevents increased lipofuscin formation, an action that has been ascribed to the antioxidant properties of the flavanols. Because wine is an alcoholic beverage naturally rich in flavanols, we decided to study the effect of chronic ingestion of Port wine (PW), which also contains 20% ethanol and approximately 200 mg/l of flavanol oligomers, upon lipofuscin accumulation in the hippocampal CA1 and CA3 pyramidal neurons and in the cerebellar Purkinje cells. Six months old rats were fed with PW and results were compared with those obtained in ethanol-treated groups and pair-fed controls. After 6 months of treatment, the volume of lipofuscin per neuron was estimated using unbiased stereological methods. Treatment with PW resulted in an increase of lipofuscin in all neuronal populations studied when compared to controls and to rats treated with ethanol supplemented with flavanols. No differences were observed when comparisons were made with ethanol drinking rats. We conclude that PW, despite containing 20% ethanol and flavanols, does not prevent ethanol-induced lipofuscin formation as previously found in animals drinking ethanol plus flavanols. The reduced antioxidant capacity of PW might depend on the type and amount of flavanols present and on its content in sugars.",
+      "mesh_terms": [
+        "Alcohol-Induced Disorders, Nervous System",
+        "Animals",
+        "Brain",
+        "Central Nervous System Depressants",
+        "Cerebellar Cortex",
+        "Ethanol",
+        "Flavonols",
+        "Hippocampus",
+        "Lipid Peroxidation",
+        "Lipofuscin",
+        "Male",
+        "Microscopy, Electron, Transmission",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Purkinje Cells",
+        "Pyramidal Cells",
+        "Rats",
+        "Rats, Wistar",
+        "Treatment Outcome",
+        "Up-Regulation",
+        "Vitis",
+        "Wine"
+      ]
+    },
+    {
+      "pmid": "16794453",
+      "title": "The anti-inflammatory properties of cocoa flavanols.",
+      "authors": [
+        "Carlo Selmi",
+        "Tin K Mao",
+        "Carl L Keen",
+        "Harold H Schmitz",
+        "M Eric Gershwin"
+      ],
+      "journal": "Journal of cardiovascular pharmacology",
+      "publication_date": "2006",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Signs of chronic or acute inflammation have been demonstrated in most cardiovascular diseases of multifactorial pathogenesis, including atherosclerosis and chronic heart failure. The triggers and mechanisms leading to inflammation may vary between clinical conditions but they share many common mediators, including specific patterns of eicosanoid and cytokine production. Certain cocoa-based products can be rich in a subclass of flavonoids known as flavanols, some of which have been found in model systems to possess potential anti-inflammatory activity relevant to cardiovascular health. Indeed, experimental evidence demonstrates that some cocoa-derived flavanols can reduce the production and effect of pro-inflammatory mediators either directly or by acting on signaling pathways. However, it should be noted that the evidence for any beneficial effects of cocoa flavanols in providing a meaningful anti-inflammatory action has been gathered predominantly from in vitro experiments. Therefore, additional research in well-designed human clinical experiments, using cocoa properly characterized in terms of flavanol content, would be a welcome addition to the evidence base to determine unambiguously if this benefit does indeed exist. If so, then flavanol-rich cocoa could be a potential candidate for the treatment, or possibly prevention, of the broad array of chronic diseases that are linked to dysfunctional inflammatory responses.",
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Biflavonoids",
+        "Blood Platelets",
+        "Cacao",
+        "Cardiovascular Diseases",
+        "Catechin",
+        "Cytokines",
+        "Eicosanoids",
+        "Flavonoids",
+        "Humans",
+        "NF-kappa B",
+        "Nitric Oxide",
+        "Proanthocyanidins"
+      ]
+    },
+    {
+      "pmid": "12798412",
+      "title": "Food effects on the absorption and pharmacokinetics of cocoa flavanols.",
+      "authors": [
+        "Derek D Schramm",
+        "Malina Karim",
+        "Heather R Schrader",
+        "Roberta R Holt",
+        "Nadine J Kirkpatrick",
+        "John A Polagruto",
+        "Jodi L Ensunsa",
+        "Harold H Schmitz",
+        "Carl L Keen"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2003-Jul-04",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Macronutrients in food and gastric acid are known to have a pronounced effect on the metabolism of many xenobiotics, an effect that impacts their efficacy as bioactive agents. In this investigation we assessed the impact of select food treatments and the histamine H(2)-receptor antagonist Famotidine (Pepcid-AC) on flavanol absorption and metabolism. Four crossover intervention studies were conducted with 6 subjects each. Volunteers consumed sugar-free, flavanol-rich cocoa (0.125 g/kg body wt) alone, with macronutrient-rich foods (8.75 or 17.5 kJ/kg subject body wt) or Famotidine (Pepcid-AC). Blood samples were drawn at 5 time points including baseline. Plasma samples were analyzed for epicatechin and catechin flavanols by HPLC. Pharmacokinetic parameters were assessed using non-compartmental methodology. When provided at 17.5 kJ/kg subject body weight (approximately 4 kcal/kg), sugar and bread test meals increased flavanol area under the curve (AUC) values to 140% of control values (P < 0.05). A corresponding tendency for plasma antioxidant capacity to increase was observed for the cocoa treatment at 1.5 and 2.5 h (P < 0.17, P < 0.06, respectively). The ability of treatment meals to affect AUC values was positively correlated with treatment carbohydrate content (r = 0.83; P< 0.02). In contrast to carbohydrate rich meals, lipid and protein rich meals and Famotidine treatment had minimal effects on flavanol absorption. Based on C(max) and AUC values, this data suggests that the uptake of flavanols can be increased significantly by concurrent carbohydrate consumption.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Area Under Curve",
+        "Cacao",
+        "Catechin",
+        "Dietary Carbohydrates",
+        "Drug Therapy, Combination",
+        "Famotidine",
+        "Feeding Behavior",
+        "Female",
+        "Food",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Intestinal Absorption",
+        "Male",
+        "Middle Aged"
+      ]
+    },
+    {
+      "pmid": "12791625",
+      "title": "Dietary flavanols and procyanidin oligomers from cocoa (Theobroma cacao) inhibit platelet function.",
+      "authors": [
+        "Karen J Murphy",
+        "Andriana K Chronopoulos",
+        "Indu Singh",
+        "Maureen A Francis",
+        "Helen Moriarty",
+        "Marilyn J Pike",
+        "Alan H Turner",
+        "Neil J Mann",
+        "Andrew J Sinclair"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2003-Jun",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Flavonoids may be partly responsible for some health benefits, including antiinflammatory action and a decreased tendency for the blood to clot. An acute dose of flavanols and oligomeric procyanidins from cocoa powder inhibits platelet activation and function over 6 h in humans. OBJECTIVE: This study sought to evaluate whether 28 d of supplementation with cocoa flavanols and related procyanidin oligomers would modulate human platelet reactivity and primary hemostasis and reduce oxidative markers in vivo. DESIGN: Thirty-two healthy subjects were assigned to consume active (234 mg cocoa flavanols and procyanidins/d) or placebo (< or = 6 mg cocoa flavanols and procyanidins/d) tablets in a blinded parallel-designed study. Platelet function was determined by measuring platelet aggregation, ATP release, and expression of activation-dependent platelet antigens by using flow cytometry. Plasma was analyzed for oxidation markers and antioxidant status. RESULTS: Plasma concentrations of epicatechin and catechin in the active group increased by 81% and 28%, respectively, during the intervention period. The active group had significantly lower P selectin expression and significantly lower ADP-induced aggregation and collagen-induced aggregation than did the placebo group. Plasma ascorbic acid concentrations were significantly higher in the active than in the placebo group (P < 0.05), whereas plasma oxidation markers and antioxidant status did not change in either group. CONCLUSIONS: Cocoa flavanol and procyanidin supplementation for 28 d significantly increased plasma epicatechin and catechin concentrations and significantly decreased platelet function. These data support the results of acute studies that used higher doses of cocoa flavanols and procyanidins.",
+      "mesh_terms": [
+        "Adult",
+        "Biflavonoids",
+        "Blood Platelets",
+        "Cacao",
+        "Catechin",
+        "Diet",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Platelet Aggregation Inhibitors",
+        "Proanthocyanidins",
+        "Time Factors"
+      ]
+    },
+    {
+      "pmid": "11741742",
+      "title": "Flavanols and procyanidins of cocoa and chocolate inhibit growth and polyamine biosynthesis of human colonic cancer cells.",
+      "authors": [
+        "Stéphanie Carnésecchi",
+        "Yann Schneider",
+        "Sheryl A Lazarus",
+        "David Coehlo",
+        "Francine Gossé",
+        "Francis Raul"
+      ],
+      "journal": "Cancer letters",
+      "publication_date": "2002-Jan-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The effects of cocoa powder and extracts with different amounts of flavanols and related procyanidin oligomers were investigated on the growth of Caco-2 cells. Treatment of the cells with 50 microg/ml of procyanidin-enriched (PE) extracts caused a 70% growth inhibition with a blockade of the cell cycle at the G2/M phase. PE extracts caused a significant decrease of ornithine decarboxylase and S-adenosylmethionine decarboxylase activities, two key enzymes of polyamine biosynthesis. This led to a decrease in the intracellular pool of the polyamines. These observations indicate that polyamine metabolism might be an important target in the anti-proliferative effects of cocoa polyphenols.",
+      "mesh_terms": [
+        "Antineoplastic Agents",
+        "Antioxidants",
+        "Apoptosis",
+        "Biflavonoids",
+        "Cacao",
+        "Catechin",
+        "Cell Division",
+        "Cell Survival",
+        "Colonic Neoplasms",
+        "Flavonoids",
+        "Humans",
+        "Kinetics",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Polyamines",
+        "Proanthocyanidins",
+        "Tumor Cells, Cultured"
+      ]
+    },
+    {
+      "pmid": "9734711",
+      "title": "Contribution of caffeine and flavanols in the induction of hepatic Phase II activities by green tea.",
+      "authors": [
+        "A Bu-Abbas",
+        "M N Clifford",
+        "R Walker",
+        "C Ioannides"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "1998-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Aqueous extracts of green tea, at concentrations of 2.5. 5.0 and 7.5%, were administered to rats as the sole drinking fluid for 4 weeks. Hepatic glutathione S-transferase (GST) activity, determined using 1-chloro-2,4-dinitrobenzene (CDNB) and 3,4-dichloronitrobenzene (DCNB) as substrates, and UDP-glucuronosyl transferase activity, determined using 2-aminophenol as substrate, were induced but the effect was not always dose dependent. At the two highest doses, hepatic catalase activity was inhibited. In a second study, animals were exposed for 4 weeks to aqueous extracts (2.5%, v/v) of green tea, black tea (which has a much lower content of flavanols compared with green tea) and decaffeinated black tea. Treatment with the black tea enhanced GST activity, whether monitored using CDNB or DCNB, and the glucuronidation of 2-aminophenol. Treatment with decaffeinated black tea failed to modulate any of these activities, whereas treatment with green tea only enhanced the glucuronidation of 2-aminophenol. Finally, at this concentration of tea extract administration, black and decaffeinated black tea, but not green tea, suppressed catalase activity. It is concluded that neither flavanols nor caffeine are responsible for the induction of hepatic Phase II activities and inhibition of catalase activity in the rat.",
+      "mesh_terms": [
+        "Aminophenols",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Caffeine",
+        "Catalase",
+        "Dinitrochlorobenzene",
+        "Flavonoids",
+        "Glucuronates",
+        "Glucuronosyltransferase",
+        "Glutathione Transferase",
+        "Liver",
+        "Male",
+        "Nitrobenzenes",
+        "Plant Extracts",
+        "Proteins",
+        "Rats",
+        "Rats, Wistar",
+        "Tea"
+      ]
+    },
+    {
+      "pmid": "14967695",
+      "title": "Accumulation of flavanols in yellowing beech leaves from forest decline sites.",
+      "authors": [
+        "W Feucht",
+        "D Treutter",
+        "E Christ"
+      ],
+      "journal": "Tree physiology",
+      "publication_date": "1994-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Beech leaves were sampled during two consecutive years from three sites characterized by forest decline. Both monomeric and oligomeric flavanols from green and yellowing leaves were determined quantitatively by reversed-phase, high-performance liquid chromatography (HPLC) combined with a chemical reaction detection technique (CRD). Yellowing leaves generally contained more than twice the quantity of flavanols than normal green leaves. The monomeric flavanols, epicatechin and (+)-catechin, comprised up to 80% of the total flavanol fraction. Histochemical staining with p-dimethylaminocinnamaldehyde was used to determine local deposition of flavanols, including insoluble oligomeric flavanols, in leaf tissues. The yellowing leaves stained intensely, whereas the green leaves stained lightly. Flavanol staining was strongest in the spongy parenchyma followed by the palisade cells. The upper epidermis stained more intensely than the lower epidermis. A 4-day treatment of small leaf pieces (5 x 5 mm) with 0.04 mM paraquat resulted in browning of the leaf pieces. The browning reaction was prevented when the paraquat treatment was carried out in the presence of 0.16 mM (+)-catechin, indicating an antioxidative property for this flavanol."
+    }
+  ]
+}

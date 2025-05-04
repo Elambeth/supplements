@@ -1,0 +1,1342 @@
+{
+  "supplement": "Elderberry",
+  "query": "Elderberry[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:30:42",
+  "research_count": 43,
+  "count": 43,
+  "articles": [
+    {
+      "pmid": "40218964",
+      "title": "Synergistic Antiviral Activity of European Black Elderberry Fruit Extract and Quinine Against SARS-CoV-2 and Influenza A Virusa.",
+      "authors": [
+        "Christian Setz",
+        "Pia Rauch",
+        "Melanie Setz",
+        "Stephan Breitenberger",
+        "Stephan Plattner",
+        "Ulrich Schubert"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2025-Mar-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: The persistent threat of emerging respiratory RNA viruses like SARS-CoV-2 and Influenza A virus (IAV) necessitates the continuous development of effective, safe, broadly acting, and generally accessible antiviral agents. Current treatments often face limitations such as early administration requirements, resistance development, and limited global access. Natural products, like European black elderberry (Sambucus nigra L.; S. nigra) fruit extract and quinine, have been used historically against viral infections. In this study, we investigated the antiviral efficacy of a standardized black elderberry fruit extract containing 3.2% anthocyanins (EC 3.2) and, as a second natural antiviral product, quinine, against IAV and SARS-CoV-2 in vitro. METHODS: Madin-Darby Canine Kidney II (MDCKII) cells were infected with IAV PR-8, while human Calu-3 lung epithelial cells were infected with Wuhan-type SARS-CoV-2. Cells were treated with varying concentrations of EC 3.2 and quinine either as mono- or combinational therapy. Viral replication was assessed using quantitative RT-PCR, and cell viability was evaluated using WST-1 assays. RESULTS: Our results demonstrate, for the first time, that both EC 3.2 and quinine individually inhibited IAV replication in a dose-dependent manner, with IC50 values of approximately 1:400 for EC 3.2 and 250 nM for quinine. Most importantly, the combinational treatment exhibited a strong synergistic antiviral effect, as confirmed by the Bliss independence model (synergy scores of 14.7 for IAV, and 27.8 for SARS-CoV-2), without affecting cell viability. CONCLUSIONS: These findings suggest that the combined use of black elderberry extract and quinine might serve as an effective antiviral strategy against IAV and SARS-CoV-2, particularly since the synergistic effect allows for lower doses of each product while retaining therapeutic efficacy. In summary, this combinational in vitro approach, when expanded to other respiratory RNA viruses and confirmed in clinical studies, has the potential to open a promising avenue for pandemic preparedness.",
+      "mesh_terms": [
+        "Plant Extracts",
+        "Antiviral Agents",
+        "Humans",
+        "SARS-CoV-2",
+        "Fruit",
+        "Dogs",
+        "Madin Darby Canine Kidney Cells",
+        "Animals",
+        "Quinine",
+        "Influenza A virus",
+        "Virus Replication",
+        "Drug Synergism",
+        "Sambucus nigra",
+        "Sambucus",
+        "COVID-19",
+        "Cell Survival",
+        "Anthocyanins"
+      ]
+    },
+    {
+      "pmid": "40004941",
+      "title": "A Preliminary Analysis of the Influence of Elderberry Juice Consumption on Thyroid Metabolism in Mice and Humans Fed High-Fat Diets.",
+      "authors": [
+        "Catherine L Jarrett",
+        "Christy Teets",
+        "Franck G Carbonero",
+        "Andrea J Etter",
+        "Patrick M Solverson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2025-Feb-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND/OBJECTIVES: Elderberry juice (EBJ) consumption prevents weight gain in mice fed a high-fat diet and increases fat oxidation in response to a meal challenge in overweight humans. Thyroid hormones influence metabolism and substrate oxidation, and the impact of EBJ consumption on thyroid homeostasis remains unexplored. Thus, the primary objective of this analysis was to investigate whether elderberry consumption in mice and humans affects serum thyroid biomarkers. METHODS: Serum samples from a previous trial incorporating an EBJ intervention were analyzed for thyroxine (T4), thyroid stimulating hormone (TSH), and thyroglobulin (Tg). The samples are from a meal-tolerance test in 18 humans who followed a 7-day diet-controlled crossover design. Samples from 33 male mice were collected after 13 weeks following a high-fat diet with or without EBJ powder, and with or without free wheel running. RESULTS: Short-term EBJ consumption in humans resulted in significant increases in T4 (PL: 42.3 ± 3.2 vs. EBJ: 49.3 ± 4.1 ng/mL, p < 0.05), and TSH (PL: 0.094 ± 0.012 vs. EBJ: 0.104 ± 0.011 ng/mL, p < 0.05), with no change in Tg (p > 0.05). Whereas supplementation with EBJ powder in rodents resulted in a non-significant reduction in T4 (p = 0.07). CONCLUSIONS: These findings suggest that elderberry juice consumption may influence thyroid metabolism, contributing to the observed metabolic benefits, such as improved fat oxidation, body composition, and protection against high-fat diet-induced weight gain. The increased T4 and TSH in humans align with enhanced metabolic rate, while the reduction in T4 in rodents indicates potential long-term adaptations requiring further exploration.",
+      "mesh_terms": [
+        "Diet, High-Fat",
+        "Humans",
+        "Animals",
+        "Male",
+        "Fruit and Vegetable Juices",
+        "Thyroid Gland",
+        "Mice",
+        "Thyroxine",
+        "Thyrotropin",
+        "Sambucus",
+        "Thyroglobulin",
+        "Cross-Over Studies",
+        "Adult",
+        "Mice, Inbred C57BL",
+        "Middle Aged",
+        "Biomarkers",
+        "Female"
+      ]
+    },
+    {
+      "pmid": "40003961",
+      "title": "Combination of Saffron (Crocus sativus), Elderberry (Sambucus nigra L.) and Melilotus officinalis Protects ARPE-19 Cells from Oxidative Stress.",
+      "authors": [
+        "Alessandra Puddu",
+        "Massimo Nicolò",
+        "Davide C Maggi"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2025-Feb-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oxidative stress is considered a common underlying mechanism in many retinal degenerative diseases and is often associated with inflammation. The use of dietary supplements containing Saffron has beneficial effects in ocular diseases, though the molecular mechanisms are still unclear. In this study, we investigated how Saffron can exert protective effects against oxidative damage in retinal pigment epithelial cells (ARPE-19) and whether its combination with Elderberry and Melilotus may have additive beneficial effects. ARPE-19 cells were pretreated with Saffron alone or in a mix containing Saffron, Elderberry and Melilotus, then exposed to hydrogen peroxide (H2O2) for 3 h. Afterwards, we evaluated cell viability, oxidative stress and inflammatory status. Our results showed that H2O2 reduced cell viability and total glutathione levels, while increasing caspase-3, caspase-1 and LDH activity. Moreover, H2O2 triggered ROS production, glutathione oxidation and IL-1β secretion. Pretreatments with Saffron alone or with the mix counteract these damaging effects by improving cell viability, reducing oxidative stress and enhancing SOD2 expression. Pretreatment with the mix activated the NRF2 pathway and was more effective than Saffron alone in preventing caspase-1 activation. These findings suggest that the combination of Saffron, Elderberry and Melilotus could have therapeutic potential in the prevention and treatment of retinal degenerative diseases.",
+      "mesh_terms": [
+        "Oxidative Stress",
+        "Humans",
+        "Crocus",
+        "Cell Survival",
+        "Plant Extracts",
+        "Hydrogen Peroxide",
+        "Retinal Pigment Epithelium",
+        "Cell Line",
+        "Glutathione",
+        "Reactive Oxygen Species",
+        "Melilotus",
+        "NF-E2-Related Factor 2",
+        "Antioxidants",
+        "Superoxide Dismutase",
+        "Interleukin-1beta",
+        "Protective Agents",
+        "Caspase 3"
+      ]
+    },
+    {
+      "pmid": "40002417",
+      "title": "The Role of Elderberry Hydrolate as a Therapeutic Agent in Palliative Care.",
+      "authors": [
+        "Sara Gonçalves",
+        "Ana Caramelo"
+      ],
+      "journal": "Antioxidants (Basel, Switzerland)",
+      "publication_date": "2025-Feb-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Elderberry hydrolate, derived from the berries of Sambucus nigra, has gained attention for its therapeutic properties, particularly in skincare. This review explores its potential applications in palliative care, where patients often experience compromised skin health due to illness or treatment. The bioactive compounds in elderberry hydrolate, including phenylacetaldehyde, 2-acetyl-pyrrole, n-hexanal, furfural, and (E)-beta-damascenone, contribute to its anti-inflammatory, antioxidant, antimicrobial, and skin-healing effects. These properties make it a promising option for addressing common dermatological issues in palliative care, such as irritation, dryness, pruritus, and inflammation. For example, phenylacetaldehyde's antimicrobial and anti-inflammatory actions help soothe irritated skin, while 2-acetyl-pyrrole's antioxidant effects protect sensitive skin from oxidative stress. Additionally, n-hexanal's antimicrobial properties reduce infection risks and furfural aids in skin regeneration. (E)-beta-damascenone's antioxidant effects help maintain skin health and prevent further damage. Despite these promising effects, barriers to the widespread implementation of elderberry hydrolate in palliative care exist, including cost, accessibility, patient sensitivities, and regulatory challenges. Future research focusing on standardized chemical profiling, clinical trials, and addressing these practical concerns will be crucial for integrating elderberry hydrolate into palliative care regimens. This review highlights its potential as a natural, supportive therapy for enhancing patient comfort and quality of life in palliative care settings."
+    },
+    {
+      "pmid": "39864262",
+      "title": "Effects of black mulberry, chokeberry, and elderberry extracts on the healing of burn wounds.",
+      "authors": [
+        "Rukiye Zengi N",
+        "Selim Erdoğan",
+        "Onural Özhan",
+        "Elif Taşlidere Karaca",
+        "Semih Özçinar",
+        "Yakup Yilmazteki N",
+        "Fatma Hilal Yağin",
+        "Yılmaz Uğur",
+        "Cemal Firat",
+        "Hakan Parlakpinar",
+        "Ayşe Burçin Uyumlu"
+      ],
+      "journal": "Burns : journal of the International Society for Burn Injuries",
+      "publication_date": "2025-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: In the burn affected area of the skin, the progression or deepening of wounds is related to oxidative stress. Especially in the highly susceptible stasis zone, tissues survive to the extent that they can cope with oxidative stress. OBJECTIVE: This study investigated the potential of extracts (E) derived from the fruits (F) and leaves (L) of elderberry (E), chokeberry (C), and black mulberry (M), which are rich in antioxidant properties, to enhance the recovery of the stasis zone in burn wounds. METHODS: The study employed a sample size of 56 healthy rats. The comb burn model was used. The rats were administered the extracts via gastric gavage for a period of 21 days. Histological examination and biochemical analyses were conducted on biopsies taken from the stasis zone on the 3rd, 7th, and 21st days of the study. Photography was performed for macroscopic evaluations. The histological assays included the evaluation of inflammatory cell infiltration, reepithelialization, and collagenization, as well as immunohistochemical analysis of vascular endothelial growth factor (VEGF). Bioassays pertaining to the enzymatic activities of catalase, superoxide dismutase, glutathione peroxidase, and malondialdehyde (MDA) levels were performed. RESULTS: In macroscopic evaluation, a significant difference was found between the groups in terms of stasis area (F=3.58, p2< 0.001). Post-hoc analyses showed that there was a significant difference between CFE-ELE, EFE-Burn, ELE-Burn and MLE-Burn groups in terms of stasis zones (p < 0.05). However, the difference between the groups according to time was not significant (F=1.36, p = 0.16). At the end of the 21-day experiment, inflammatory cell infiltration was higher in the burn group compared to the other groups, but similar to the CFE group. Re-epithelialization was similar in the burn group compared to the fruit extract groups and significantly lower compared to the leaf extract groups. Furthermore, a significant increase in collagenization and VEGF immunoreactivity was observed in all treatment groups compared to the burn group (p < 0.05). However, no significant difference was detected between the treatment groups. The treatment groups presented a notable reduction in MDA levels in comparison to the burn group (p < 0.001). CONCLUSION: This study demonstrated the efficacy of fruit and leaf extracts in burn healing. Histological examination revealed that leaf extracts exhibited superior healing effects compared to fruit extracts. These results suggest that bioactive components in fruits and leaves may have different biological effects.",
+      "mesh_terms": [
+        "Animals",
+        "Burns",
+        "Plant Extracts",
+        "Rats",
+        "Wound Healing",
+        "Morus",
+        "Vascular Endothelial Growth Factor A",
+        "Superoxide Dismutase",
+        "Malondialdehyde",
+        "Re-Epithelialization",
+        "Fruit",
+        "Antioxidants",
+        "Sambucus nigra",
+        "Catalase",
+        "Juniperus",
+        "Male",
+        "Glutathione Peroxidase",
+        "Phytotherapy",
+        "Oxidative Stress",
+        "Skin",
+        "Plant Leaves",
+        "Rats, Wistar",
+        "Collagen",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "39832437",
+      "title": "Elderberry diet improves sperm quality and histological parameters of testicular tissue in adult male rats exposed to methamphetamine.",
+      "authors": [
+        "Haleh Hemmatparast",
+        "Zahra Shams Mofarahe",
+        "Mohammad-Amin Abdollahifar",
+        "Samira Ezi",
+        "Ghazal Khanjari",
+        "Nahal Babaeian Amini",
+        "Zahra Niakan",
+        "Pourya Raee",
+        "Meysam Hassani Moghaddam",
+        "Mobina Fathi",
+        "Kimia Vakili",
+        "Amirreza Beirami",
+        "Maral Hasanzadeh",
+        "Ramtin Hajibeygi",
+        "Abbas Aliaghaei",
+        "Mojtaba Sani",
+        "Mohsen Norouzian"
+      ],
+      "journal": "Tissue & cell",
+      "publication_date": "2025-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Psychotropic stimulants like methamphetamine (METH) have an impact on the physiology, behavior, and psychology of human beings and can damage the reproductive and neuroendocrine systems in them. These deleterious impacts include a temporary drop in the relative weight of the testis along with adverse effects on spermatogenesis. Sambucus nigra, also known as elderberry (EB) or sweet elder, is a source of bioactive compounds that has drawn growing attention for its potential beneficial impact in preventing and treating several diseases. In this experimental research, 36 adult male rats were classified into three groups: (1) control, (2) METH, and (3) METH receiving the EB diet. The rats were injected with METH at a dose of 20 mg/kg for 28 days during treatment with the EB diet. Then, the rats were euthanized, and their sperm samples were collected for sperm parameters analysis. Afterward, the testis samples were taken for histopathological experimentations, immunohistochemistry against TNF-α and caspase-3, and serum testosterone levels. Our findings indicated largely improved sperm and stereological parameters, like spermatogonia, primary spermatocyte, round spermatid, and Leydig cells, and an increased serum testosterone level in the METH group receiving the EB diet compared to the other METH group. The results also revealed a significantly decreased TNF-α and caspase-3 expression in the METH+EB group compared to the METH group. In conclusion, the EB diet is regarded as an alternative treatment for improving the spermatogenesis process in reproductive toxicity induced by METH exposure.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Methamphetamine",
+        "Testis",
+        "Spermatozoa",
+        "Rats",
+        "Sambucus nigra",
+        "Testosterone",
+        "Diet",
+        "Spermatogenesis",
+        "Caspase 3"
+      ]
+    },
+    {
+      "pmid": "39458549",
+      "title": "A One-Week Elderberry Juice Intervention Augments the Fecal Microbiota and Suggests Improvement in Glucose Tolerance and Fat Oxidation in a Randomized Controlled Trial.",
+      "authors": [
+        "Christy Teets",
+        "Nancy Ghanem",
+        "Guoying Ma",
+        "Jagrani Minj",
+        "Penelope Perkins-Veazie",
+        "Sarah A Johnson",
+        "Andrea J Etter",
+        "Franck G Carbonero",
+        "Patrick M Solverson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2024-Oct-20",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Obesity is a costly and ongoing health complication in the United States and globally. Bioactive-rich foods, especially those providing polyphenols, represent an emerging and attractive strategy to address this issue. Berry-derived anthocyanins and their metabolites are of particular interest for their bioactive effects, including weight maintenance and protection from metabolic aberrations. Earlier findings from small clinical trials suggest modulation of substrate oxidation and glucose tolerance with mediation of prospective benefits attributable to the gut microbiota, but mixed results suggest appropriate anthocyanin dosing poses a challenge. The objective of this randomized, placebo-controlled study was to determine if anthocyanin-dense elderberry juice (EBJ) reproduces glucoregulatory and substrate oxidation effects observed with other berries and if this is mediated by the gut microbiota. Overweight or obese adults (BMI > 25 kg/m2) without chronic illnesses were randomized to a 5-week crossover study protocol with two 1-week periods of twice-daily EBJ or placebo (PL) separated by a washout period. Each treatment period included 4 days of controlled feeding with a 40% fat diet to allow for comparison of measurements in fecal microbiota, meal tolerance testing (MTT), and indirect calorimetry between test beverages. Eighteen study volunteers completed the study. At the phylum level, EBJ significantly increased Firmicutes and Actinobacteria, and decreased Bacteroidetes. At the genus level, EBJ increased Faecalibacterium, Ruminococcaceae, and Bifidobacterium and decreased Bacteroides and lactic acid-producing bacteria, indicating a positive response to EBJ. Supporting the changes to the microbiota, the EBJ treatment significantly reduced blood glucose following the MTT. Fat oxidation also increased significantly both during the MTT and 30 min of moderate physical activity with the EBJ treatment. Our findings confirm the bioactivity of EBJ-sourced anthocyanins on outcomes related to gut health and obesity. Follow-up investigation is needed to confirm our findings and to test for longer durations.",
+      "mesh_terms": [
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Male",
+        "Feces",
+        "Fruit and Vegetable Juices",
+        "Female",
+        "Sambucus",
+        "Middle Aged",
+        "Adult",
+        "Obesity",
+        "Oxidation-Reduction",
+        "Cross-Over Studies",
+        "Anthocyanins",
+        "Blood Glucose",
+        "Overweight",
+        "Double-Blind Method"
+      ]
+    },
+    {
+      "pmid": "39201717",
+      "title": "Effects of Sequential Induction Combining Thermal Treatment with Ultrasound or High Hydrostatic Pressure on the Physicochemical and Mechanical Properties of Pea Protein-Psyllium Hydrogels as Elderberry Extract Carriers.",
+      "authors": [
+        "Adonis Hilal",
+        "Anna Florowska",
+        "Tomasz Florowski",
+        "Katarzyna Rybak",
+        "Ewa Domian",
+        "Marcin Szymański",
+        "Małgorzata Wroniak"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2024-Aug-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Entrapping bioactive ingredients like elderberry extract in hydrogels improves their stability and functionality in food matrices. This study assessed the effect of sequential thermal treatment with ultrasound (US) or high hydrostatic pressure (HHP) and treatment duration on pea protein-psyllium hydrogels as elderberry extract carriers. Measurements included color parameters, extract entrapment efficiency, physical stability, textural properties, microrheology, FT-IR, thermal degradation (TGA), SEM images, total polyphenols content, antioxidant activity, and reducing power. The control hydrogel was obtained using only thermal induction. Both treatments impacted physical stability by affecting biopolymer aggregate structures. Thermal and US combined induction resulted in hydrogels with noticeable color changes and reduced entrapment efficiency. Conversely, thermal and HHP-combined induction, especially with extended secondary treatment (10 min), enhanced hydrogel strength, uniformity, and extract entrapment efficiency (EE = 33% for P10). FT-IR and TGA indicated no chemical structural alterations post-treatment. Sequential thermal and HHP induction preserved polyphenol content, antioxidant activity (ABTS = 5.8 mg TE/g d.m.; DPPH = 11.1 mg TE/g d.m.), and reducing power (RP = 1.08 mg TE/g d.m.) due to the dense hydrogel structure effectively enclosing the elderberry extract. Sequential thermal and HHP induction was more effective in developing pea protein-psyllium hydrogels for elderberry extract entrapment.",
+      "mesh_terms": [
+        "Hydrogels",
+        "Hydrostatic Pressure",
+        "Plant Extracts",
+        "Pea Proteins",
+        "Antioxidants",
+        "Spectroscopy, Fourier Transform Infrared",
+        "Polyphenols",
+        "Drug Carriers",
+        "Ultrasonic Waves"
+      ]
+    },
+    {
+      "pmid": "38794188",
+      "title": "Elderberry Leaves with Antioxidant and Anti-Inflammatory Properties as a Valuable Plant Material for Wound Healing.",
+      "authors": [
+        "Elżbieta Studzińska-Sroka",
+        "Magdalena Paczkowska-Walendowska",
+        "Zuzanna Woźna",
+        "Tomasz Plech",
+        "Piotr Szulc",
+        "Judyta Cielecka-Piontek"
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "publication_date": "2024-May-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sambuci folium (elderberry leaves) have been used in traditional medicine, mainly externally, to treat skin diseases and wounds. Therefore, the aim of this study was to screen the biological activity of elderberry leaves (antioxidant potential and possibility of inhibition of tyrosinase and hyaluronidase enzymes) combined with phytochemical analysis. For this purpose, a phytochemical analysis was carried out. Elderberry leaves of 12 varieties (\"Sampo\", \"Obelisk\", \"Dwubarwny\", \"Haschberg\", \"Haschberg 1\", \"Koralowy\", \"Sambo\", \"Black Beauty\", \"Black Tower\", \"Golden hybrid\", \"Samyl\", \"Samyl 1\") in two growth stages. The compounds from the selected groups, phenolic acids (chlorogenic acid) and flavonols (quercetin), were chromatographically determined in hydroalcoholic leaf extracts. All tested elderberry leaf extracts showed antioxidant effects, but the most promising potential: very high compounds content (TPC = 61.85 mg GAE/g), antioxidant (e.g., DPPH IC50 = 1.88 mg/mL; CUPRAC IC0.5 = 0.63 mg/mL) and optimal anti-inflammatory (inhibition of hyaluronidase activity 41.28%) activities were indicated for older leaves of the \"Sampo\" variety. Additionally, the extract obtained from \"Sampo\" and \"Golden hybrid\" variety facilitated the treatment of wounds in the scratch test. In summary, the best multidirectional pro-health effect in treating skin inflammation was specified for \"Sampo\" leaves II extract (leaves during the flowering period); however, wound treatment was noted as rich in chlorogenic acid younger leaf extracts of the \"Golden hybrid\" variety."
+    },
+    {
+      "pmid": "38662754",
+      "title": "Ameliorative effects of elderberry (Sambucus nigra L.) extract and extract-derived monosaccharide-amino acid on H2O2-induced decrease in testosterone-deficiency syndrome in a TM3 Leydig cell.",
+      "authors": [
+        "Sujung Lee",
+        "Jiyeon Kim",
+        "Hyunseok Kong",
+        "Yong-Suk Kim"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "With aging, men develop testosterone-deficiency syndrome (TDS). The development is closely associated with age-related mitochondrial dysfunction of Leydig cell and oxidative stress-induced reactive oxygen species (ROS). Testosterone-replacement therapy (TRT) is used to improve the symptoms of TDS. However, due to its various side effects, research on functional ingredients derived from natural products that do not have side effects is urgently needed. In this study, using the mitochondrial dysfunction TM3 (mouse Leydig) cells, in which testosterone biosynthesis is reduced by H2O2, we evaluated the effects of elderberry extract and monosaccharide-amino acid (fructose-leucine; FL) on mRNA and protein levels related to steroidogenesis-related enzymes steroidogenic acute regulatory protein (StAR), cytochrome P450 11A1(CYP11A1, cytochrome P450 17A1(CYP17A1), cytochrome P450 19A1(CYP19A1, aromatase), 3β-hydroxysteroid dehydrogenase (3β-HSD), and 17β-hydroxysteroid dehydrogenase(17β-HSD). We analyzed elderberry extract and extract-derived FL for changes in ROS scavenging activity and testosterone secretion. Elderberry extract and FL significantly reduced H2O2-induced intracellular ROS levels, improved testosterone secretion, and increased the mRNA and protein expression levels of steroidogenesis-related enzymes (StAR, 3b-HSD, 17b-HSD, CYP11A1, CYp17A1). However, the conversion of testosterone to estradiol was inhibited by elderberry extract and extract-derived FL, which reduced the mRNA and protein expression of CYP19A1. In conclusion, elderberry extract and FL are predicted to have value as novel functional ingredients that may contribute to the prevention of TDS by ameliorating reduced steroidogenesis.",
+      "mesh_terms": [
+        "Animals",
+        "Leydig Cells",
+        "Mice",
+        "Hydrogen Peroxide",
+        "Plant Extracts",
+        "Testosterone",
+        "Male",
+        "Cell Line",
+        "Amino Acids",
+        "Monosaccharides",
+        "Sambucus",
+        "Reactive Oxygen Species",
+        "Oxidative Stress",
+        "Phosphoproteins",
+        "Steroidogenic Acute Regulatory Protein"
+      ]
+    },
+    {
+      "pmid": "38596626",
+      "title": "Elderberry interaction with pazopanib in a patient with soft‑tissue sarcoma: A case report and literature review.",
+      "authors": [
+        "Nikki Agarwal",
+        "Ankit Mangla"
+      ],
+      "journal": "Molecular and clinical oncology",
+      "publication_date": "2024-May",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "Elderberry flower extract is marketed as an herbal supplement with purported benefits in boosting the immune system. The use of elderberry increased during the coronavirus pandemic. However, the interaction of elderberry with cytotoxic medicines has remained elusive. Pazopanib is a multikinase inhibitor approved for patients diagnosed with soft-tissue sarcoma. The present study reported on the case of a middle-aged woman diagnosed with localized intermediate-grade sarcoma of the left sartorius muscle who received neoadjuvant pazopanib with radiation therapy. The patient had no other medical comorbidities and only took over-the-counter (OTC) elderberry supplements for numerous years to 'boost' her immune system. She started pazopanib at 400 mg per os (PO) daily, which was increased to 800 mg PO daily after a week. By week three on pazopanib, the patient reported intense nausea and a number of loose stools, requiring anti-nausea medication. By the fourth week on pazopanib, laboratory tests showed grade 3 liver injury, as demonstrated by a fivefold rise in liver enzymes along with severe nausea and loose stools. All medications, including elderberry supplement, were stopped. Within two weeks of stopping all medicines, the liver enzymes started normalizing within two weeks and were normal by the end of four weeks. Pazopanib treatment was resumed without the recurrence of side effect. Pazopanib is metabolized in the liver via the cytochrome P 450 (CYP)3A4 enzyme pathway. Hence, potent inhibitors of CYP3A4 are avoided for concurrent use with pazopanib. Small in vitro studies on elderberry extracts have shown weak inhibition of CYP3A4. However, considering the wide usage of elderberry and the availability of mixed supplements OTC, it is essential to pursue clinical studies in cancer patients to understand the interactions of elderberry extracts with cytotoxic medicines. In this report, the scientific evidence behind the use of elderberry was reviewed and a hypothesis of its interaction with pazopanib was proposed."
+    },
+    {
+      "pmid": "38401660",
+      "title": "Elderberry diet enhances motor performance and reduces neuroinflammation-induced cell death in cerebellar ataxia rat models.",
+      "authors": [
+        "Maryam Raoofi Nejad",
+        "Elham Siasi",
+        "Mohammad Amin Abdollahifar",
+        "Abbas Aliaghaei"
+      ],
+      "journal": "Journal of chemical neuroanatomy",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Cerebellar ataxia (CA) is a condition in which cerebellar dysfunction results in movement disorders such as dysmetria, synergy and dysdiadochokinesia. This study investigates the therapeutic effects of elderberry (EB) diet on the 3-acetylpyridine-induced (3-AP) CA rat model. First, CA rat models were generated by 3-AP administration followed by elderberry diet treatment containing 2 % EB for 8 consecutive weeks. Motor performance, electromyographic activity and gene expression were then evaluated. The number of Purkinje neurons were evaluated by stereological methods. Immunohistochemistry for the microgliosis, astrogliosis and apoptosis marker caspase-3 was also performed. In addition, the morphology of microglia and astrocytes was assessed using the Sholl analysis method. The results showed that EB diet administration in a 3-AP ataxia model improved motor coordination, locomotor activity and neuro-muscular function, prevented Purkinje neurons degeneration, increased microglia and astrocyte complexity and reduced cell soma size. Moreover, EB diet administration decreased apoptosis in cerebellum of 3-AP ataxic model. In addition, elderberry diet treatment decreased the expression of inflammatory, apoptotic and necroptotic genes and increased the expression of antioxidant-related genes. The results suggest that the EB diet attenuates 3-AP-induced neuroinflammation leading to cell death and improves motor performance. Thus, the EB diet could be used as a therapeutic procedure for CA due to its neuroprotective effects.",
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Cerebellar Ataxia",
+        "Disease Models, Animal",
+        "Male",
+        "Cell Death",
+        "Neuroinflammatory Diseases",
+        "Purkinje Cells",
+        "Motor Activity",
+        "Diet",
+        "Rats, Wistar",
+        "Microglia",
+        "Cerebellum",
+        "Pyridines"
+      ]
+    },
+    {
+      "pmid": "37432227",
+      "title": "One-Week Elderberry Juice Treatment Increases Carbohydrate Oxidation after a Meal Tolerance Test and Is Well Tolerated in Adults: A Randomized Controlled Pilot Study.",
+      "authors": [
+        "Bret M Rust",
+        "Joseph O Riordan",
+        "Franck G Carbonero",
+        "Patrick M Solverson"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2023-Apr-25",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "abstract": "Obesity in the United States continues to worsen. Anthocyanin-rich fruits and vegetables provide a pragmatic dietary approach to slow its metabolic complications. Given American diet patterns, foods with high anthocyanin content could address dose-response challenges. The study objective was to determine the effect of 100% elderberry juice on measures of indirect calorimetry (IC) and insulin sensitivity/glucose tolerance in a placebo-controlled, randomized, crossover pilot study. Overweight and obese adults were randomized to a 5-week study which included 2 1-week periods of twice-daily elderberry juice (EBJ) or sugar-matched placebo consumption separated by a 3-week washout period. Following each 1-week test period, IC and insulin sensitivity/glucose tolerance was measured with a 3 h meal tolerance test (MTT). Treatment differences were tested with linear mixed modeling. A total of 22 prospective study volunteers (18 F/4 M) attended recruitment meetings, and 9 were analyzed for treatment differences. EBJ was well tolerated and compliance was 99.6%. A total of 6 IC measures (intervals) were created, which coincided with 10-20 min gaseous samplings in-between MTT blood samplings. Average CHO oxidation was significantly higher during the MTT after 1-week EBJ consumption (3.38 vs. 2.88 g per interval, EBJ vs. placebo, p = 0.0113). Conversely, average fat oxidation was significantly higher during the MTT after 1-week placebo consumption (1.17 vs. 1.47 g per interval, EBJ vs. placebo, p = 0.0189). This was in-line with a significantly lower average respiratory quotient after placebo treatment (0.87 vs. 0.84, EBJ vs. placebo, p = 0.0114). Energy expenditure was not different. There was no difference in serum glucose or insulin response between treatments. This pilot study of free-living volunteers describes significant change in IC but not insulin sensitivity with an EBJ intervention. Controlled feeding and increased sample size will help determine the utility of EBJ on these outcomes.",
+      "mesh_terms": [
+        "Adult",
+        "Humans",
+        "Pilot Projects",
+        "Sambucus",
+        "Anthocyanins",
+        "Prospective Studies",
+        "Meals",
+        "Glucose"
+      ]
+    },
+    {
+      "pmid": "37240060",
+      "title": "Sambucus ebulus (Elderberry) Fruits Modulate Inflammation and Complement System Activity in Humans.",
+      "authors": [
+        "Yoana Kiselova-Kaneva",
+        "Milka Nashar",
+        "Bogdan Roussev",
+        "Ayshe Salim",
+        "Minka Hristova",
+        "Pawel Olczyk",
+        "Katarzyna Komosinska-Vassev",
+        "Ivayla Dincheva",
+        "Ilian Badjakov",
+        "Bistra Galunska",
+        "Diana Ivanova"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2023-May-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sambucus ebulus (SE) fruits are used for immune stimulation and amelioration of gastrointestinal inflammatory conditions. Currently, there is no scientific evidence of their effects on various aspects of the immune response mechanisms in humans. The purpose of this study was to evaluate the immunomodulatory potential of SE fruit infusion intake in healthy humans. Anthocyanin content was determined with UPLC-ESI-MS/MS. Fifty-three volunteers enrolled in a 4-week SE infusion intake intervention. Blood count, serum total protein, Interleukin 1 beta (IL-1β), Interleukin 6 (IL-6), Tumor Necrosis Factor Alpha (TNFα), High-sensitivity C-reactive protein (hs-CRP), C3, and C4 levels were measured on automatic analyzers, and Interleukin 8 (IL-8) was measured manually with an ELISA kit. Cyanidin-3-O-galactoside (48.15 mg/g DW), followed by cyaniding-3-sambubioside (43.41 ± 1.07 mg/g DW), were the most abundant anthocyanins in SE samples. A significant decrease in total protein (2.82%), IL-6 (20.15%), TNFα (5.38%), IL-8 (5.50%), C3 (4.16%), and C4 (14.29%) was established in the whole group. Total protein, IL-8, TNFα, and C4 decreased in women (3.11%, 4.76%, 5.09%, and 11.11%), and IL-6 decreased (40.61%) in men. Hb (1.20%) and hematocrit (1.55%) levels decreased in the whole group and in the women group (1.61% and 2.20%). SE fruits exert immune-modulatory activity as revealed by decreased pro-inflammatory status and complement activity markers in healthy volunteers after a 4-week intervention.",
+      "mesh_terms": [
+        "Male",
+        "Humans",
+        "Female",
+        "Sambucus",
+        "Anthocyanins",
+        "Fruit",
+        "Interleukin-8",
+        "Tandem Mass Spectrometry",
+        "Interleukin-6",
+        "Tumor Necrosis Factor-alpha",
+        "Inflammation"
+      ]
+    },
+    {
+      "pmid": "36518861",
+      "title": "The Pros and Cons of Using Elderberry (Sambucus nigra) for Prevention and Treatment of COVID-19.",
+      "authors": [
+        "Sedigheh Asgary",
+        "Alireza Pouramini"
+      ],
+      "journal": "Advanced biomedical research",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "BACKGROUND: The novel severe acute respiratory syndrome coronavirus 2 emerged in 2019. Health-care systems around the world are looking for alternative prevention and treatment remedies. Herbal supplements are popular among consumers as a complementary method to prevent and treat illnesses. One of them is Sambucus nigra. METHODS: We searched for related articles in Scopus, Web of Science, PubMed, Google Scholar, and the Directory of Open Access Journals using the following keywords: elderberry, S. nigra, and COVID-19. RESULTS: Elderberry has antiviral properties due to its ability to modulate inflammatory cytokines. The current evidence suggests elderberry is appropriate for the prevention and initial treatment of viral disease. Concerns have been raised that elderberry may overstimulate the immune system, increasing the risk of a cytokine storm. There is not yet enough evidence to support this claim. CONCLUSIONS: For COVID-19 patients, further research is required since elderberry may provoke a cytokine storm if administered therapeutically."
+    },
+    {
+      "pmid": "36143265",
+      "title": "Short- and Long-Term Effects of a Prebiotic Intervention with Polyphenols Extracted from European Black Elderberry-Sustained Expansion of Akkermansia spp.",
+      "authors": [
+        "Simon Reider",
+        "Christina Watschinger",
+        "Julia Längle",
+        "Ulrike Pachmann",
+        "Nicole Przysiecki",
+        "Alexandra Pfister",
+        "Andreas Zollner",
+        "Herbert Tilg",
+        "Stephan Plattner",
+        "Alexander R Moschen"
+      ],
+      "journal": "Journal of personalized medicine",
+      "publication_date": "2022-Sep-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "(1) Background: The intestinal microbiome has emerged as a central factor in human physiology and its alteration has been associated with disease. Therefore, great hopes are placed in microbiota-modulating strategies. Among various approaches, prebiotics, substrates with selective metabolization conferring a health benefit to the host, are promising candidates. Herein, we studied the prebiotic properties of a purified extract from European black elderberries, with a high and standardized content of polyphenols and anthocyanins. (2) Methods: The ELDERGUT trial represents a 9-week longitudinal intervention study divided into 3 distinct phases, namely a baseline, an intervention and a washout period, three weeks each. The intervention consisted of capsules containing 300 mg elderberry extract taken twice a day. Patient-reported outcomes and biosamples were collected weekly. Microbiome composition was assessed using 16S amplicon metagenomics. (3) Results: The supplementation was well tolerated. Microbiome trajectories were highly individualized with a profound shift in diversity indices immediately upon initiation and after termination of the compound. This was accompanied by corresponding changes in species abundance over time. Of particular interest, the relative abundance of Akkermansia spp. continued to increase in a subset of participants even beyond the supplementation period. Associations with participant metadata were detected."
+    },
+    {
+      "pmid": "36127818",
+      "title": "An elderberry-supplemented diet improves spermatogenesis in mice with busulfan-induced azoospermia.",
+      "authors": [
+        "Mohammadreza Mafi Balani",
+        "Mahsa Ghafari Novin",
+        "Mohammadamin Sabbagh Alvani",
+        "Pourya Raee",
+        "Azar Afshar",
+        "Fakhroddin Aghajanpour",
+        "Reza Soltani",
+        "Meysam Hassani Moghaddam",
+        "Mobina Fathi",
+        "Kimia Vakili",
+        "Maryam Salimi",
+        "Ahad Hasan Seyed Hasani",
+        "Shabnam Abdi",
+        "Mohammad-Amin Abdollahifar",
+        "Abbas Aliaghaei"
+      ],
+      "journal": "Reproduction, fertility, and development",
+      "publication_date": "2022-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "CONTEXT: Approximately 40-50% of all infertility cases are due to male infertility, and one of the most important causes of infertility is azoospermia. AIMS: This study aimed to evaluate the potential effect of elderberry on the spermatogenesis process in the azoospermia mice model. METHOD: Thirty adult male mice were randomised into three groups: control; busulfan (45mg/kg); and busulfan+elderberry (2%), 6mL orally per animal. Sperm samples were collected from the tail of the epididymis, and testis specimens were also collected and then subjected to sperm parameters analysis, histopathological evaluation, reactive oxygen species (ROS), and glutathione (GSH) measurement to determine the mRNA expression and hormonal assay. CONCLUSIONS: It can be concluded that the elderberry diet may be considered a complementary treatment to improve the spermatogenesis process in busulfan-induced azoospermic mice. IMPLICATIONS: Considering some limitations, the elderberry diet can be an alternate option for improving testicular damage following chemotherapy.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Mice",
+        "Animals",
+        "Azoospermia",
+        "Busulfan",
+        "Sambucus",
+        "Seeds",
+        "Spermatogenesis",
+        "Testis",
+        "Diet"
+      ]
+    },
+    {
+      "pmid": "35088364",
+      "title": "Elderberry Diet Restores Spermatogenesis in the Transient Scrotal Hyperthermia-Induced Mice.",
+      "authors": [
+        "Meysam Hassani Moghaddam",
+        "Sheida Farrokhi",
+        "Amirhosein Hasani",
+        "Amirreza Khosravi",
+        "Maryam Pirani",
+        "Kimia Vakili",
+        "Mobina Fathi",
+        "Neda Eskandari",
+        "Ahmadreza Golshan",
+        "Sara Sadeghzadeh",
+        "Kosar Namakin",
+        "Abbas Aliaghaei",
+        "Mohammad-Amin Abdollahifar"
+      ],
+      "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+      "publication_date": "2022-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Over the past years, several studies have also reported the adverse effects of hyperthermia on normal testicular tissues in several species including mice, rats, and humans. These deleterious impacts include temporarily drop in relative weight of testis along with a temporary partial or complete infertility. Sambucus nigra, also known as elderberry or sweet elder, is a source of bioactive compounds that has drawn growing attention for its potential beneficial effects in preventing and treating several diseases. This experimental research divided 30 mice into the following three groups: (1) control, (2) hyperthermia, and (3) hyperthermia receiving elderberry diet for 35 days. Scrotal hyperthermia was induced by water bath with 43 °C for 30 min. Then, the mice were euthanized, and their sperm samples were collected for sperm parameters analysis. Then, we took the testis samples for histopathological experimentations, immunohistochemistry against TNF-α and caspase-3 and serum testosterone, FSH and LH levels. Our outputs indicated that elderberry diet could largely improve the sperms parameters and stereological parameters, like spermatogonia, primary spermatocyte, round spermatid, and Leydig cells together with an increasing level of the serum testosterone compared to the scrotal hyperthermia induced mice. In addition, it was found that the expression of TNF-α and caspase-3 significantly decreased in the treatment groups by elderberry diet compared to the scrotal hyperthermia-induced mice. In conclusion, it could be concluded that elderberry diet may be regarded as an alternative treatment for improving the spermatogenesis process in the scrotal hyperthermia induced mice.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Mice",
+        "Caspase 3",
+        "Diet",
+        "Sambucus",
+        "Seeds",
+        "Spermatogenesis",
+        "Spermatozoa",
+        "Testis",
+        "Testosterone",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "34517282",
+      "title": "A nanophytosomes formulation based on elderberry anthocyanins and Codium lipids to mitigate mitochondrial dysfunctions.",
+      "authors": [
+        "Daniela Mendes",
+        "Patrícia Valentão",
+        "Maria Manuel Oliveira",
+        "Paula Andrade",
+        "Romeu A Videira"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The development of nanomedicines to modulate the mitochondrial function is a great scientific challenge since mitochondrial dysfunction is a pathological hallmark of many chronic diseases, including degenerative brain pathologies like Parkinson's and Alzheimer's diseases. To address this challenge, the mitochondriotropic features of the elderberry anthocyanin-enriched extract (Sambucus nigra) were combined with the self-assembling properties of the membrane polar lipids from Codium tomentosum in an innovative SC-Nanophytosomes formulation. Membrane polar lipids, obtained by a new procedure as chlorophyll-free extract, are characterized by 26% of non-phosphorus polar lipids and 74% of phospholipids (dominated by anionic lipids) containing a high degree of polyunsaturated fatty acids. The anthocyanin-enriched extract is dominated by a mixture of four cyanidin-glycosides, representing about 86% of their phenolic content. SC-Nanophytosomes engineered with 600 µM algae membrane polar lipids and 0.5 mg/L of the anthocyanin-enriched extract are nanosized vesicles (diameter =108.74 ± 24.74 nm) with a negative surface charge (Zeta potential = -46.93 ± 6.63 mV) that exhibit stability during storage at 4 ºC. In vitro assays with SH-SY5Y cells showed that SC-Nanophytosomes have the competence to target mitochondria, improving the mitochondrial respiratory chain complexes I and II and preserving the mitochondrial membrane potential in the presence of rotenone. Additionally, SC-Nanophytosomes protect SH-SY5Y cells against the toxicity induced by rotenone or glutamate. Green-fluorescent labeled SC-Nanophytosomes were used to reveal that they are mainly internalized by cells via caveola-mediated endocytosis, escape from endosome and reach the cytoplasm organelles, including mitochondria. Overall, data indicate that SC-Nanophytosomes have the potential to support a mitochondria-targeted therapy for neurodegenerative diseases.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Cell Line, Tumor",
+        "Chlorophyta",
+        "Drug Carriers",
+        "Drug Compounding",
+        "Electron Transport Complex I",
+        "Endocytosis",
+        "Fruit",
+        "Glutamic Acid",
+        "Humans",
+        "Lipids",
+        "Mitochondria",
+        "Nanoparticles",
+        "Nanotechnology",
+        "Neurons",
+        "Neuroprotective Agents",
+        "Rotenone",
+        "Sambucus",
+        "Surface Properties"
+      ]
+    },
+    {
+      "pmid": "33827515",
+      "title": "Elderberry for prevention and treatment of viral respiratory illnesses: a systematic review.",
+      "authors": [
+        "L Susan Wieland",
+        "Vanessa Piechotta",
+        "Termeh Feinberg",
+        "Emilie Ludeman",
+        "Brian Hutton",
+        "Salmaan Kanji",
+        "Dugald Seely",
+        "Chantelle Garritty"
+      ],
+      "journal": "BMC complementary medicine and therapies",
+      "publication_date": "2021-Apr-07",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract": "BACKGROUND: Elderberry has traditionally been used to prevent and treat respiratory problems. During the COVID-19 pandemic, there has been interest in elderberry supplements to treat or prevent illness, but also concern that elderberry might overstimulate the immune system and increase the risk of 'cytokine storm'. We aimed to determine benefits and harms of elderberry for the prevention and treatment of viral respiratory infections, and to assess the relationship between elderberry supplements and negative health impacts associated with overproduction of pro-inflammatory cytokines. METHODS: We conducted a systematic review and searched six databases, four research registers, and two preprint sites for studies. Two reviewers independently assessed studies for inclusion, extracted data from studies, assessed risk of bias using Cochrane tools, and evaluated certainty of estimates using GRADE. Outcomes included new illnesses and the severity and duration of illness. RESULTS: We screened 1187 records and included five randomized trials on elderberry for the treatment or prevention of viral respiratory illness. We did not find any studies linking elderberry to clinical inflammatory outcomes. However, we found three studies measuring production of cytokines ex vivo after ingestion of elderberry. Elderberry may not reduce the risk of developing the common cold; it may reduce the duration and severity of colds, but the evidence is uncertain. Elderberry may reduce the duration of influenza but the evidence is uncertain. Compared to oseltamivir, an elderberry-containing product may be associated with a lower risk of influenza complications and adverse events. We did not find evidence on elderberry and clinical outcomes related to inflammation. However, we found evidence that elderberry has some effect on inflammatory markers, although this effect may decline with ongoing supplementation. One small study compared elderberry to diclofenac (a nonsteroidal anti-inflammatory drug) and provided some evidence that elderberry is as effective or less effective than diclofenac in cytokine reduction over time. CONCLUSIONS: Elderberry may be a safe option for treating viral respiratory illness, and there is no evidence that it overstimulates the immune system. However, the evidence on both benefits and harms is uncertain and information from recent and ongoing studies is necessary to make firm conclusions.",
+      "mesh_terms": [
+        "COVID-19",
+        "Common Cold",
+        "Cytokines",
+        "Humans",
+        "Inflammation",
+        "Influenza, Human",
+        "Pandemics",
+        "Phytotherapy",
+        "Plant Extracts",
+        "SARS-CoV-2",
+        "Sambucus",
+        "COVID-19 Drug Treatment"
+      ]
+    },
+    {
+      "pmid": "33745925",
+      "title": "Elderberry diet ameliorates motor function and prevents oxidative stress-induced cell death in rat models of Huntington disease.",
+      "authors": [
+        "Meysam Hassani Moghaddam",
+        "Amir-Hossein Bayat",
+        "Neda Eskandari",
+        "Mohammad-Amin Abdollahifar",
+        "Farid Fotouhi",
+        "Ali Forouzannia",
+        "Romina Rafiei",
+        "Saba Hatari",
+        "Aryan Seraj",
+        "Amir Mahdi Emam Jome Shahidi",
+        "Zeynab Ghorbani",
+        "Ali Asghar Peyvandi",
+        "Abbas Aliaghaei"
+      ],
+      "journal": "Brain research",
+      "publication_date": "2021-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Huntington's disease (HD) is an inherited neurodegenerative disorder which begins in the striatum and then spreads to other neural areas. Known as a progressive movement cognitive disorder, HD has no efficient therapy. Although the exact mechanism of HD is still unknown, several different etiological processes such as oxidative stress have been shown to play critical roles. Also, the current evidence indicates a strong correlation between immune activation and neural damage induced by neuroinflammatory and apoptotic agents in neurodegenerative disorders. Thus, natural products like Elderberry (EB) could be considered as a novel and potential therapeutic candidate for the treatment of this disease. In this study EB was added to the daily ration of ordinary rats for two months in order to ameliorate inflammatory and oxidative responses in rats injected with 3-nitropropionic acid (3-NP) in an experimental model of HD. Using Rotarod and electromyography setups, we showed that EB diet significantly recovered motor failure and muscle incoordination in 3-NP injected rats compared to the control group. Also, the molecular findings implied that EB diet led to a significant drop in 3-NP induced growth in caspase-3 and TNF-α concentration. The treatment also improved striatal antioxidative capacity by a significant reduction in ROS and a remarkable rise in GSH, which might be correlated with motor recovery in the tests. In sum, the findings demonstrate the advantages of EB treatment in the HD rat model with a score of beneficial anti-oxidative and anti-inflammatory effects.",
+      "mesh_terms": [
+        "Animals",
+        "Cell Death",
+        "Disease Models, Animal",
+        "Electric Stimulation",
+        "Electromyography",
+        "Huntington Disease",
+        "Male",
+        "Motor Activity",
+        "Nitro Compounds",
+        "Oxidative Stress",
+        "Propionates",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Sambucus"
+      ]
+    },
+    {
+      "pmid": "33643450",
+      "title": "Green synthesis of gold nanoparticles using Acai berry and Elderberry extracts and investigation of their effect on prostate and pancreatic cancer cells.",
+      "authors": [
+        "Nicole Remaliah Samantha Sibuyi",
+        "Velaphi Clement Thipe",
+        "Kiandokht Panjtan-Amiri",
+        "Mervin Meyer",
+        "Kattesh V Katti"
+      ],
+      "journal": "Nanobiomedicine",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Green nanotechnology has drawn major attention because of its ecofriendly and economical biosynthetic protocols. Synthesis of gold nanoparticles (AuNPs) using plant secondary metabolites is considered as a safer and cheaper option. Plants contain phytochemicals that has been used traditionally for treatment of various diseases, and proved to be non-toxic to healthy tissues. These phytochemicals play an important role in bio-reduction processes as reducing and stabilizing agents, and renders NPs selective toxicity towards diseased tissues. The study reports on the synthesis of AuNPs using Acai berry (AB) and Elderberry (EB) extracts and their anti-cancer properties. Formation of berry-AuNPs was confirmed through measurement of physico-chemical properties. The stability of the AuNPs was tested in biocompatible solutions. Anti-cancer activity of berry extracts and AuNPs was evaluated on the prostate (PC-3) and pancreatic (Panc-1) cancer cells. The berry extracts did not show toxicity to the cells, except for AB extracts on PC-3 cells at higher concentrations. The berry-AuNPs showed potential anti-cancer activities, and these effects could be further exploited for treatment of both the prostate and pancreatic cancers. Further studies are required to study the NP mechanism of action and specificity, as well as identify the phytochemicals involved in the synthesis of AuNPs."
+    },
+    {
+      "pmid": "32929634",
+      "title": "Elderberry Extract Outpatient Influenza Treatment for Emergency Room Patients Ages 5 and Above: a Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "authors": [
+        "Michael Macknin",
+        "Kathy Wolski",
+        "Jeffrey Negrey",
+        "Sharon Mace"
+      ],
+      "journal": "Journal of general internal medicine",
+      "publication_date": "2020-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Black elderberry, used medicinally for centuries, decreased influenza duration by 4 days in three previous peer-reviewed trials. US elderberry sales, possibly related to a \"high severity\" and \"high activity\" influenza season from January to March 2018, more than doubled from 2017 to 2018 to > $100 million. OBJECTIVE: To determine whether elderberry extract decreases influenza's duration and severity. DESIGN: FDA-approved, investigator-initiated, Investigational New Drug, double-blind, randomized, placebo-controlled trial. Conducted January 2018-April 2019 in three emergency rooms, two suburban and one urban, in the Midwestern Health System. PATIENTS: Eighty-seven consecutive, consenting patients, over age four, with < 48 h of at least 2 moderate-severity influenza symptoms and positive polymerase chain reaction influenza test. INTERVENTION: Patients from age 5 to 12 years received placebo or 15 ml (5.7 g) elderberry extract orally twice a day for 5 days; those > 12 years received 15 ml 4 times a day for 5 days. Patients were permitted to choose to also receive the standard dosage of oseltamivir. MEASUREMENTS: Primary: days until all symptoms were none or mild for 21.5 h. Secondary: days to complete symptom resolution for 24 h. RESULTS: The 87 participants were randomized to receive placebo (n = 44) or elderberry (n = 43). The average age was 25 ± 20 years, and 56% were male. The average number of days to reach all symptoms none or mild for 21.5 h in the placebo group was 4.9 ± 2.8 days compared to 5.3 ± 3.6 in the elderberry group (p = 0.57). The average number of days to complete resolution was 8.7 ± 3.8 and 8.6 ± 3.9 in the placebo and elderberry group, respectively (p = 0.87). LIMITATIONS: Small sample size, but powered > 0.90 to detect 2-day benefit of elderberry versus placebo. CONCLUSIONS: We found no evidence that elderberry benefits the duration or severity of influenza. Post hoc analysis suggested primary outcomes with elderberry taken alone (without oseltamivir) were 2 days worse than with placebo taken alone. Our results contradict previous studies and demonstrate the need for further studies. TRIAL REGISTRATION: NCT03410862.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Antiviral Agents",
+        "Child",
+        "Child, Preschool",
+        "Double-Blind Method",
+        "Emergency Service, Hospital",
+        "Female",
+        "Humans",
+        "Influenza, Human",
+        "Male",
+        "Middle Aged",
+        "Outpatients",
+        "Plant Extracts",
+        "Sambucus",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "31398785",
+      "title": "Elderberry (Sambucus nigra L.) Fruit Extract Alleviates Oxidative Stress, Insulin Resistance, and Inflammation in Hypertrophied 3T3-L1 Adipocytes and Activated RAW 264.7 Macrophages.",
+      "authors": [
+        "Joanna Zielińska-Wasielica",
+        "Anna Olejnik",
+        "Katarzyna Kowalska",
+        "Mariola Olkowicz",
+        "Radosław Dembczyński"
+      ],
+      "journal": "Foods (Basel, Switzerland)",
+      "publication_date": "2019-Aug-08",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Oxidative stress and inflammation in hypertrophied adipose tissue with excessive fat accumulation play a crucial role in the development of obesity and accompanying metabolic dysfunctions. This study demonstrated the capacity of elderberry fruit (EDB) extract to decrease the elevated production of reactive oxygen species in hypertrophied 3T3-L1 adipocytes. Treatment with the EDB extract resulted in modulation of mRNA expression and protein secretion of key adipokines in hypertrophied adipocytes. Expression of leptin and adiponectin was, respectively, down- and up-regulated. Moreover, glucose uptake stimulation was noticed in mature adipocytes, both sensitive to insulin and insulin resistant. This may suggest a positive effect of EDB extract on insulin resistance status. The extract was also found to alleviate the inflammatory response in activated RAW 264.7 macrophages by down-regulating the expression of proinflammatory genes (TNF-α, IL-6, COX-2, iNOS) and suppressing the enhanced production of inflammatory mediators (TNF-α, IL-6, PGE2, NO). In vitro experiments showed that the EDB extract could inhibit digestive enzymes, including α-amylase, α-glucosidase, and pancreatic lipase, leading to reduced intestinal absorption of dietary lipids and carbohydrates. Further in vivo studies could be postulated to support EDB as a functional food component for the prevention and treatment of obesity and metabolic-immune comorbidities."
+    },
+    {
+      "pmid": "30897755",
+      "title": "Comparative Proteomic Analysis Unveils Critical Pathways Underlying the Role of Nitrogen Fertilizer Treatment in American Elderberry.",
+      "authors": [
+        "Bo Yang",
+        "Andrew L Thomas",
+        "C Michael Greenlief"
+      ],
+      "journal": "Proteomes",
+      "publication_date": "2019-Mar-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "American elderberry (Sambucus nigra subsp. canadensis) is a rapidly growing specialty crop in Missouri and eastern North America. Nitrogen (N) is a major nutrient involved in plant growth and development. However, proteome changes for different genotypes of elder in response to varying levels of N-treatment remain undefined. To reveal plant responses to N, comparative proteomic analyses were performed to determine consistent changes in three genotypes of elderberry leaves (Adams II, Bob Gordon and Wyldewood) grown under different N-fertilizer treatments. 165 proteins separated by two dimensional gel electrophoresis showed significant differences in abundance (p < 0.05 and greater than 2-fold). Principal component analysis of the abundance profiles of these proteins revealed Bob Gordon as a distinct genotype. The 165 proteins were identified by mass spectrometry and showed similar functional distributions in these genotypes underlying the N-treatment. Among the proteins identified, 23 are mainly involved in photosynthesis, protein metabolism and redox homeostasis. Their abundance profiles were not altered upon exposure to N or genotype. These results provide novel insights into plant responses to fertilizer treatment at the proteome level and could lead to a better understanding of molecular mechanisms of elderberry growth."
+    },
+    {
+      "pmid": "29409346",
+      "title": "The kinetics of thermal degradation of polyphenolic compounds from elderberry ( Sambucus nigra L.) extract.",
+      "authors": [
+        "Ana-Maria Oancea",
+        "Cristina Onofrei",
+        "Mihaela Turturică",
+        "Gabriela Bahrim",
+        "Gabriela Râpeanu",
+        "Nicoleta Stănciuc"
+      ],
+      "journal": "Food science and technology international = Ciencia y tecnologia de los alimentos internacional",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This main focus of this study was to evaluate the thermal degradation kinetics and the phytochemical characterization of the elderberries extract. Pelargonidin-3-sophoroside and delphinidin-3-glucoside were identified as the major anthocyanin compounds and catechin hydrate as the major flavonoid compound. In order to further understand the action of the heat treatment on the bioactive compounds from elderberry extract, fluorescence studies were also carried out. In general, heating at temperatures ranging from 100 to 150 ℃ for up to 90 min caused a decrease in fluorescence intensity, simultaneously with significant redshifts in λmax suggesting important molecular changes inside the anthocyanins structure, affecting the antioxidant activity. Increasing the heating time up to 120 min, the elderberry extract peaked at about 88 nm shifted toward higher wavelengths with respect to that of untreated solutions (peak at 442 nm). The kinetics studies of anthocyanins, fluorescence intensity, and antioxidant activity evidenced a decrease of the degradation rate constants with increased temperature while the activation energies for heat-induced fluorescence intensity, monomeric anthocyanins, and antioxidant activity were 39.62 ± 9.60, 49.97 ± 5.61, and 31.04 ± 19.92 kJ/mol, respectively. Our results can be valuable in terms of establishing the appropriate processing and formulation protocols that could lead to a more efficient utilization of these pigments in actual food products and/or nutraceuticals.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Antioxidants",
+        "Food Handling",
+        "Glucosides",
+        "Hot Temperature",
+        "Hydrogen-Ion Concentration",
+        "Phytochemicals",
+        "Plant Extracts",
+        "Polyphenols",
+        "Sambucus"
+      ]
+    },
+    {
+      "pmid": "28303711",
+      "title": "Phenolic Elderberry Extracts, Anthocyanins, Procyanidins, and Metabolites Influence Glucose and Fatty Acid Uptake in Human Skeletal Muscle Cells.",
+      "authors": [
+        "Giang Thanh Thi Ho",
+        "Eili Tranheim Kase",
+        "Helle Wangensteen",
+        "Hilde Barsett"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2017-Apr-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Uptake of glucose and fatty acids in skeletal muscle is of interest for type 2 diabetes treatment. The aim was to study glucose and fatty acid uptake in skeletal muscle cells, antioxidant effects, and inhibition of carbohydrate-hydrolyzing enzymes by elderberries. Enhanced glucose and oleic acid uptake in human skeletal muscle cells were observed after treatment with phenolic elderberry extracts, anthocyanins, procyanidins, and their metabolites. The 96% EtOH and the acidified MeOH extracts were highly active. Of the isolated substances, cyanidin-3-glucoside and cyanidin-3-sambubioside showed highest stimulation of uptake. Phloroglucinol aldehyde was most active among the metabolites. Isolated anthocyanins and procyanidins are strong radical scavengers and are good inhibitors of 15-lipoxygenase and moderate inhibitors of xanthine oxidase. As α-amylase and α-glucosidase inhibitors, they are considerably better than the positive control acarbose. The antidiabetic property of elderberry phenolics increases the nutritional value of this plant and indicates potential as functional food against diabetes.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Anthocyanins",
+        "Biflavonoids",
+        "Catechin",
+        "Cells, Cultured",
+        "Fatty Acids",
+        "Female",
+        "Fruit",
+        "Glucose",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Muscle Fibers, Skeletal",
+        "Oculomotor Muscles",
+        "Phenols",
+        "Plant Extracts",
+        "Proanthocyanidins",
+        "Sambucus",
+        "Satellite Cells, Skeletal Muscle",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "28067841",
+      "title": "Lectin Digestibility and Stability of Elderberry Antioxidants to Heat Treatment In Vitro.",
+      "authors": [
+        "Pilar Jiménez",
+        "Patricia Cabrero",
+        "Damian Cordoba-Diaz",
+        "Manuel Cordoba-Diaz",
+        "Manuel Garrosa",
+        "Tomás Girbés"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2017-Jan-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Elderberry contains healthy low molecular weight nutraceuticals and lectins which are sequence-related to the elderberry allergen Sam n1. Some of these lectins are type II ribosome-inactivating proteins. The sensitivity of native lectins present in elderberry fruits and bark to the proteolysis triggered by in vitro simulated gastric and duodenal fluids has been investigated. It was found that these lectins are refractory to proteolysis. Nonetheless, incubation for 5-10 min in a boiling water bath completely sensitized them to the hydrolytic enzymes in vitro. Under these conditions neither total Folin-Ciocalteau's reagent reactive compounds, total anthocyanins and the mixture of cyanidin-3-glucoside plus cyanidin-3-sambubioside, nor antioxidant and free-radical scavenging activities were affected by more than 10% for incubations of up to 20 min. Therefore, short-time heat treatment reduces potential allergy-related risks deriving from elderberry consumption without seriously affecting its properties as an antioxidant and free-radical scavenging food.",
+      "mesh_terms": [
+        "Allergens",
+        "Antioxidants",
+        "Fruit",
+        "Hot Temperature",
+        "Pepsin A",
+        "Plant Bark",
+        "Plant Extracts",
+        "Plant Lectins",
+        "Plants, Medicinal",
+        "Protein Stability",
+        "Proteolysis",
+        "Ribosome Inactivating Proteins, Type 2",
+        "Sambucus nigra",
+        "Spain"
+      ]
+    },
+    {
+      "pmid": "26507382",
+      "title": "Fenton's treatment as an effective treatment for elderberry effluents: economical evaluation.",
+      "authors": [
+        "Nuno Amaral-Silva",
+        "Rui C Martins",
+        "Sérgio Castro-Silva",
+        "Rosa M Quinta-Ferreira"
+      ],
+      "journal": "Environmental technology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The utilization of Fenton's oxidation for the depuration of elderberry juice wastewater was studied. The aim was to select the adequate cost-effective operating conditions suitable to lead to an effluent within the legal thresholds to be discharged into the natural water courses. The treatment efficacy was assessed by chemical oxygen demand (COD), colour, phenolic content and total solids removal besides its ability to improve biodegradability (biochemical oxygen demand (BOD5)/COD). Moreover, the costs of the applied reactants were also considered. Fenton's reaction was able to abate at least 70% of COD (corresponding to a final value below 150 mg O2 L(-1)). Besides, total phenolic content degradation was always achieved. Within these conditions, the resulting effluent is able to be directly discharged into the natural hydric channels. Fenton oxidation could be successfully applied as a single treatment method with a reactant cost of 4.38 € m(-3) ([Fe(2+)] = 20 mmol L(-1), [H2O2] = 100 mmol L(-1), pH = 3 and 4 h of oxidation procedure).",
+      "mesh_terms": [
+        "Biodegradation, Environmental",
+        "Biological Oxygen Demand Analysis",
+        "Fruit and Vegetable Juices",
+        "Hydrogen Peroxide",
+        "Iron",
+        "Oxidation-Reduction",
+        "Phenols",
+        "Sambucus",
+        "Waste Disposal, Fluid",
+        "Wastewater",
+        "Water Pollutants, Chemical",
+        "Water Purification"
+      ]
+    },
+    {
+      "pmid": "25597779",
+      "title": "Quantification of anthocyanins in elderberry and chokeberry dietary supplements.",
+      "authors": [
+        "Christian Vlachojannis",
+        "Benno F Zimmermann",
+        "Sigrun Chrubasik-Hausmann"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2015-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Elderberry and chokeberry food supplements may be 'functional food' in patients with metabolic syndrome or influenza but, for this, adequate amounts of co-active ingredients must be consumed in the daily dose. This study aimed to quantify the anthocyanin content in three elderberry and six chokeberry products to assess their usefulness as functional food. Analyses were carried out using an established HPLC procedure. The minimum anthocyanin doses for the treatment of metabolic syndrome disorders were estimated as 110 mg per day and 3.5 g per day for influenza. Three products were inappropriate for clinical use. The lowest liquid supplies were achieved with a proprietary elderberry concentrate (11 mL) and a proprietary chokeberry mother juice (100 mL). Clinical studies are now required to prove the effectiveness and adapt the doses according to the clinical symptoms.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Chromatography, High Pressure Liquid",
+        "Dietary Supplements",
+        "Fruit",
+        "Humans",
+        "Influenza, Human",
+        "Metabolic Syndrome",
+        "Photinia",
+        "Plant Extracts",
+        "Sambucus"
+      ]
+    },
+    {
+      "pmid": "25324465",
+      "title": "Dietary Sutherlandia and elderberry mitigate cerebral ischemia-induced neuronal damage and attenuate p47phox and phospho-ERK1/2 expression in microglial cells.",
+      "authors": [
+        "Dennis Y Chuang",
+        "Jiankun Cui",
+        "Agnes Simonyi",
+        "Victoria A Engel",
+        "Shanyan Chen",
+        "Kevin L Fritsche",
+        "Andrew L Thomas",
+        "Wendy L Applequist",
+        "William R Folk",
+        "Dennis B Lubahn",
+        "Albert Y Sun",
+        "Grace Y Sun",
+        "Zezong Gu"
+      ],
+      "journal": "ASN neuro",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "Sutherlandia (Sutherlandia frutescens) and elderberry (Sambucus spp.) are used to promote health and for treatment of a number of ailments. Although studies with cultured cells have demonstrated antioxidative and anti-inflammatory properties of these botanicals, little is known about their ability to mitigate brain injury. In this study, C57BL/6 J male mice were fed AIN93G diets without or with Sutherlandia or American elderberry for 2 months prior to a 30-min global cerebral ischemia induced by occlusion of the bilateral common carotid arteries (BCCAs), followed by reperfusion for 3 days. Accelerating rotarod assessment at 24 h after BCCA occlusion showed amelioration of sensorimotor impairment in the mice fed the supplemented diets as compared with the ischemic mice fed the control diet. Quantitative digital pathology assessment of brain slides stained with cresyl violet at 3 days after ischemia/reperfusion (I/R) revealed significant reduction in neuronal cell death in both dietary groups. Immunohistochemical staining for ionized calcium-binding adapter molecule-1 demonstrated pronounced activation of microglia in the hippocampus and striatum in the ischemic brains 3 days after I/R, and microglial activation was significantly reduced in animals fed supplemented diets. Mitigation of microglial activation by the supplements was further supported by the decrease in expression of p47phox, a cytosolic subunit of NADPH oxidase, and phospho-ERK1/2, a mitogen-activated protein kinase known to mediate a number of cytoplasmic processes including oxidative stress and neuroinflammatory responses. These results demonstrate neuroprotective effect of Sutherlandia and American elderberry botanicals against oxidative and inflammatory responses to cerebral I/R.",
+      "mesh_terms": [
+        "Animals",
+        "Brain Ischemia",
+        "Disease Models, Animal",
+        "Gene Expression Regulation",
+        "Hippocampus",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Microglia",
+        "Mitogen-Activated Protein Kinase 3",
+        "NADPH Oxidases",
+        "Neurons",
+        "Neuroprotective Agents",
+        "Perilla frutescens",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Sambucus"
+      ]
+    },
+    {
+      "pmid": "25174985",
+      "title": "Green synthesis, characterization and anti-inflammatory activity of silver nanoparticles using European black elderberry fruits extract.",
+      "authors": [
+        "Luminita David",
+        "Bianca Moldovan",
+        "Adriana Vulcu",
+        "Liliana Olenic",
+        "Maria Perde-Schrepler",
+        "Eva Fischer-Fodor",
+        "Adrian Florea",
+        "Maria Crisan",
+        "Ioana Chiorean",
+        "Simona Clichici",
+        "Gabriela Adriana Filip"
+      ],
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "publication_date": "2014-Oct-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "This research aimed at reporting the synthesis, characterization and evaluation of the anti-inflammatory effects of some new biomaterials based on silver nanoparticles and polyphenols rich natural extracts. A fast and eco-friendly extracellular biosynthesis of silver nanoparticles (AgNPs), using European black elderberry (Sambucus nigra - SN, Adoxaceae family) fruit extracts was developed. The phytosynthesized nanoparticles exhibited an absorbance peak at 426nm, characteristic for AgNPs and their sizes were ranged from 20 to 80nm. The anti-inflammatory properties of AgNPs were assessed in vitro on HaCaT cells exposed to UVB radiation, in vivo on acute inflammation model and in humans on psoriasis lesions. In vitro, our results demonstrated the anti-inflammatory effects of functionalized AgNPs by the decrease of cytokines production induced by UVB irradiation. In vivo, the pre-administration of AgNPs reduced the edema and cytokines levels in the paw tissues, early after the induction of inflammation. The present study also demonstrated the possible use of synthesized AgNPs for the treatment of psoriasis lesions.",
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "Cell Line, Transformed",
+        "Humans",
+        "Metal Nanoparticles",
+        "Microscopy, Electron, Transmission",
+        "Plant Extracts",
+        "Sambucus",
+        "Silver",
+        "Spectroscopy, Fourier Transform Infrared"
+      ]
+    },
+    {
+      "pmid": "25056752",
+      "title": "The purple Codex Rossanensis: spectroscopic characterisation and first evidence of the use of the elderberry lake in a sixth century manuscript.",
+      "authors": [
+        "Marina Bicchieri"
+      ],
+      "journal": "Environmental science and pollution research international",
+      "publication_date": "2014-Dec",
+      "publication_types": [
+        "Historical Article",
+        "Journal Article"
+      ],
+      "abstract": "This paper presents the results obtained during the measurements campaign started in June 2012 and ended in November 2013 on the invaluable purple Codex Rossanensis, sixth century, one of the oldest surviving illuminated manuscripts of the New Testament. The tasks of the chemistry laboratory were to answer a variety of questions posed both by historians and restorers, concerning the materials used in a previous restoration, the composition of the pictorial palette and the different inks and to determine which colouring material had been applied to dye the parchment support. It was also requested to determine the state of preservation of the manuscript, as a result of its interactions with the environment in which the manuscript had been stored and the vicissitudes experienced during its life (fire, previous restoration, exhibition). The spectroscopic analyses performed by micro-Raman, micro-Fourier transform infrared and X-ray fluorescence allowed to fill a gap in the knowledge of the pictorial materials used in the Early Middle Ages. The pictorial palette, the inks, the dye applied to obtain the purple parchments, the support and the materials used in the previous restoration treatment executed in 1917-19 were fully characterised. Moreover, to the author's knowledge, the article shows the first experimental evidence of the use of the elderberry lake in a sixth century-illuminated manuscript. The lake was characterised by Raman spectroscopy.",
+      "mesh_terms": [
+        "Color",
+        "History, Medieval",
+        "Manuscripts as Topic",
+        "Paper",
+        "Sambucus",
+        "Spectrum Analysis, Raman"
+      ]
+    },
+    {
+      "pmid": "24624087",
+      "title": "Echinacea and elderberry-should they be used against upper respiratory tract infections during pregnancy?",
+      "authors": [
+        "Lone Holst",
+        "Gro C Havnen",
+        "Hedvig Nordeng"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "This review evaluates the safety of echinacea and elderberry in pregnancy. Both herbs are commonly used to prevent or treat upper respiratory tract infections (URTIs) and surveys have shown that they are also used by pregnant women. The electronic databases PubMed, ISI Web of Science, AMED, EMBASE, Natural Medicines Comprehensive Database, and Cochrane Library were searched from inception to November 2013. Relevant references from the acquired articles were included. No clinical trials concerning safety of either herb in pregnancy were identified. One prospective human study and two small animal studies of safety of echinacea in pregnancy were identified. No animal- or human studies of safety of elderberry in pregnancy were identified. Twenty clinical trials concerning efficacy of various echinacea preparations in various groups of the population were identified between 1995 and 2013. Three clinical trials concerning efficacy of two different elderberry preparations were identified between 1995 and 2013. The results from the human and animal studies of Echinacea sp. are not sufficient to conclude on the safety in pregnancy. The prospective, controlled study in humans found no increase in risk of major malformations. The efficacy of Echinacea sp. is dubious based on the identified studies. Over 2000 persons were given the treatment, but equal amounts of studies of good quality found positive and negative results. All three clinical trials of Elderberry concluded that it is effective against influenza, but only 77 persons were given the treatment. Due to lack of evidence of efficacy and safety, health care personnel should not advice pregnant women to use echinacea or elderberry against upper respiratory tract infection."
+    },
+    {
+      "pmid": "30722464",
+      "title": "Colletotrichum acutatum, Agent of Anthracnose on the New Host Black Elderberry (Sambucus nigra) in Switzerland.",
+      "authors": [
+        "V V Michel",
+        "R Hollenstein",
+        "A Stensvand",
+        "G M Strømeng"
+      ],
+      "journal": "Plant disease",
+      "publication_date": "2013-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Black elderberry (Sambucus nigra L.) is grown in Switzerland for flower and fruit production. Flowers are used for candy and syrup production, whereas the fruits are directly consumed as berries. In autumn 2008, the diagnostic laboratory of Agroscope ACW received a sample of strongly shriveled elderberry fruits from the extension office of the canton of St. Gallen. The sample originated from an experimental plot at Flawil, where 80% of the berries exhibited these symptoms. In years with high rainfall, infections of 100% of the berries can be observed in the production areas of Switzerland. Symptoms of anthracnose are only visible on the fruits, but not on the other plant organs. Berries start to shrivel when turning from green to black, and sporulation can be observed on ripe fruits under humid weather conditions. The sample was incubated in a moist chamber at room temperature, where it formed abundant acervuli producing salmon-colored spores at the fruit surface. Isolation from the acervuli on potato dextrose agar (PDA) containing an antibiotic (chlortetracycline) resulted in the growth of white to grey mycelium with salmon-colored spore masses. The reverse side of the PDA was red to violet. One-celled conidiospores were primarily fusiform, with an average size of 16.5 × 4 μm. Based on these morphological traits, the pathogen was previously identified as Colletotrichum acutatum J. H. Simmonds (2). A PCR using the primers CaInt2 and ITS4 (1) was run on a pure culture of the isolate from elderberry and confirmed this identification. A pathogenicity test was conducted from May to August 2010. The isolate from black elderberry and an isolate of C. acutatum from highbush blueberry (Vaccinium corymbosum) were multiplied separately on PDA on the laboratory bench (23 ± 2°C) for one week. Conidiospore suspensions of each isolate were prepared with 0.9% sterile NaCl solution and were adjusted to 1.2 × 106 spores/ml. Flower clusters of a single black elderberry tree at the Agroscope Research Center were inoculated at full flowering stage on May 26, 2010. Two sets of three healthy clusters were sprayed separately with the two spore suspensions until run-off. Spraying three healthy clusters with a sterile 0.9% NaCl solution served as control treatment. Immediately after inoculation, flower clusters were enclosed individually in transparent polyethylene bags for 2 days. To avoid excessive temperature inside the bags caused by solar radiation, the bagged flower clusters were placed below the leaves of the elderberry tree. During the 2 days, the average air temperature measured at the research center was 17 ± 2.5°C. Bags were removed and fruits of the treated clusters were harvested on July 27, 2010. Each cluster was incubated individually in a moist chamber on the laboratory bench (23 ± 2°C) for 10 days. Abundant formation of acervuli producing salmon-colored spores occurred on the fruits inoculated with either strain of C. acutatum. No such symptoms were produced on incubated fruits of the control treatment. From acervuli of the inoculated fruits, C. acutatum was reisolated on PDA. To our knowledge, this is the first report of C. acutatum on black elderberry. In Switzerland, a fungicide containing the active ingredient trifloxystrobine is registered to control C. acutatum on black elderberry. References: (1) S. K. Sreenivasaprasad et al. Plant Pathol. 45:650, 1996. (2) B. C. Sutton. The Coelomycetes. CAB International, Wallingford, UK, 1980."
+    },
+    {
+      "pmid": "19793846",
+      "title": "Cardiovascular disease risk biomarkers and liver and kidney function are not altered in postmenopausal women after ingesting an elderberry extract rich in anthocyanins for 12 weeks.",
+      "authors": [
+        "Peter J Curtis",
+        "Paul A Kroon",
+        "Wendy J Hollands",
+        "Rebecca Walls",
+        "Gail Jenkins",
+        "Colin D Kay",
+        "Aedín Cassidy"
+      ],
+      "journal": "The Journal of nutrition",
+      "publication_date": "2009-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Growing evidence supports a cardio-protective role for anthocyanins; however, there is limited evidence on their efficacy and safety following the consumption of relatively high but dietarily achievable doses in humans. We conducted a parallel-designed, randomized, placebo-controlled study to examine the effect of chronic consumption of anthocyanins on biomarkers of cardiovascular disease (CVD) risk and liver and kidney function in 52 healthy postmenopausal women (n = 26 in treatment and placebo groups). Volunteers (BMI, 24.7 +/- 3.6 kg/m(2); age, 58.2 +/- 5.6 y) consumed 500 mg/d anthocyanins as cyanidin glycosides (from elderberry) or placebo for 12 wk (2 capsules twice/d). At the beginning (wk 0) and end of the 12-wk intervention, levels of anthocyanins and biomarkers of CVD (inflammatory biomarkers, platelet reactivity, lipids, and glucose) and liver and kidney function (total bilirubin, albumin, urea, creatinine, alkaline phosphatase, alanine aminotransferase, and gamma-glutyl transferase) were assessed in fasted blood. Anthropometric, blood pressure, and pulse measurements were also taken. In addition, postprandial plasma anthocyanins were measured (t = 1, 2, 3 h) following a 500-mg oral bolus dose. After 12 wk of chronic exposure to anthocyanins, there was no significant change in biomarkers of CVD risk and liver and kidney function remained within clinically acceptable ranges. We observed no plasma accumulation of anthocyanins; however, postprandial metabolism increased (P = 0.02). In conclusion, these data suggest that chronic consumption of 500 mg/d of elderberry extract for 12 wk is apparently safe, but ineffective in altering biomarkers of CVD risk in healthy postmenopausal women.",
+      "mesh_terms": [
+        "Anthocyanins",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Cardiovascular Diseases",
+        "Female",
+        "Flavonoids",
+        "Humans",
+        "Interleukin-6",
+        "Kidney Function Tests",
+        "Liver Function Tests",
+        "Middle Aged",
+        "Placebos",
+        "Plant Extracts",
+        "Postmenopause",
+        "Risk Assessment",
+        "Safety",
+        "Sambucus",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "19034562",
+      "title": "Understanding the ecology of blue elderberry to inform landscape restoration in semiarid river corridors.",
+      "authors": [
+        "Mehrey G Vaghti",
+        "Marcel Holyoak",
+        "Amy Williams",
+        "Theresa S Talley",
+        "Alexander K Fremier",
+        "Steven E Greco"
+      ],
+      "journal": "Environmental management",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Societal constraints often limit full process restoration in large river systems, making local rehabilitation activities valuable for regeneration of riparian vegetation. A target of much mitigation and restoration is the federally threatened Valley elderberry longhorn beetle and its sole host plant, blue elderberry, in upper riparian floodplain environments. However, blue elderberry ecology is not well understood and restoration attempts typically have low success rates. We determined broad-scale habitat characteristics of elderberry in altered systems and examined associated plant species composition in remnant habitat. We quantified vegetation community composition in 139 remnant riparian forest patches along the Sacramento River and elderberry stem diameters along this and four adjacent rivers. The greatest proportion of plots containing elderberry was located on higher and older floodplain surfaces and in riparian woodlands dominated by black walnut. Blue elderberry saplings and shrubs with stems <5.0 cm in diameter were rare, suggesting a lack of recruitment. A complex suite of vegetation was associated with blue elderberry, including several invasive species which are potentially outcompeting seedlings for light, water, or other resources. Such lack of recruitment places increased importance on horticultural restoration for the survival of an imperiled species. These findings further indicate a need to ascertain whether intervention is necessary to maintain functional and diverse riparian woodlands, and a need to monitor vegetative species composition over time, especially in relation to flow regulation.",
+      "mesh_terms": [
+        "Animals",
+        "California",
+        "Coleoptera",
+        "Conservation of Natural Resources",
+        "Ecosystem",
+        "Rivers",
+        "Sambucus",
+        "Water Movements"
+      ]
+    },
+    {
+      "pmid": "15080016",
+      "title": "Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections.",
+      "authors": [
+        "Z Zakay-Rones",
+        "E Thom",
+        "T Wollan",
+        "J Wadstein"
+      ],
+      "journal": "The Journal of international medical research",
+      "publication_date": "2004",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Elderberry has been used in folk medicine for centuries to treat influenza, colds and sinusitis, and has been reported to have antiviral activity against influenza and herpes simplex. We investigated the efficacy and safety of oral elderberry syrup for treating influenza A and B infections. Sixty patients (aged 18-54 years) suffering from influenza-like symptoms for 48 h or less were enrolled in this randomized, double-blind, placebo-controlled study during the influenza season of 1999-2000 in Norway. Patients received 15 ml of elderberry or placebo syrup four times a day for 5 days, and recorded their symptoms using a visual analogue scale. Symptoms were relieved on average 4 days earlier and use of rescue medication was significantly less in those receiving elderberry extract compared with placebo. Elderberry extract seems to offer an efficient, safe and cost-effective treatment for influenza. These findings need to be confirmed in a larger study.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Adult",
+        "Female",
+        "Humans",
+        "Influenza B virus",
+        "Influenza, Human",
+        "Male",
+        "Placebos",
+        "Plant Extracts",
+        "Sambucus nigra",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "11941461",
+      "title": "Biochemical, molecular and structural analysis of multiple thaumatin-like proteins from the elderberry tree (Sambucus nigra L.).",
+      "authors": [
+        "Els J M Van Damme",
+        "Diana Charels",
+        "Laurence Menu-Bouaouiche",
+        "Paul Proost",
+        "Annick Barre",
+        "Pierre Rougé",
+        "Willy J Peumans"
+      ],
+      "journal": "Planta",
+      "publication_date": "2002-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Thaumatin-like proteins (TLPs) were isolated and characterized from fruits and leaves of elderberry (Sambucus nigra) and their corresponding genes cloned. In addition, the developmental regulation and induction of the different TLPs was followed in some detail. Ripening berries accumulated a fruit-specific TLP during the final stages of maturation. This fruit-specific TLP had no antifungal activity and was devoid of beta-glucanase activity. Leaves constitutively expressed a TLP that closely resembled the fruit-specific homologue. Treatment with jasmonate methyl ester induced two additional TLPs in leaves but did not induce or enhance the expression of TLPs in immature berries. In contrast to jasmonate methyl ester, both ethephon and garlic extract induced the expression of a TLP in unripe berries that normally do not express any TLP. Sequence analysis and molecular modeling indicated that all elderberry thaumatin-like proteins share a high sequence similarity with group-5 pathogenesis-related proteins. However, the proteins encoded by the different sequences differed from each other in isoelectric point and the distribution of the charges on the surface of the molecule.",
+      "mesh_terms": [
+        "Acetates",
+        "Amino Acid Sequence",
+        "Anti-Infective Agents",
+        "Cloning, Molecular",
+        "Cyclopentanes",
+        "DNA, Complementary",
+        "Fruit",
+        "Fungi",
+        "Garlic",
+        "Gene Expression Regulation, Plant",
+        "Genes, Plant",
+        "Glucan Endo-1,3-beta-D-Glucosidase",
+        "Models, Molecular",
+        "Molecular Sequence Data",
+        "Organophosphorus Compounds",
+        "Oxylipins",
+        "Plant Extracts",
+        "Plant Proteins",
+        "Sambucus nigra",
+        "Sequence Homology, Amino Acid"
+      ]
+    },
+    {
+      "pmid": "11366557",
+      "title": "Anecdotal reports: elderberry extract plus chondroitin and glucosamine sulfate and Thy-mate reduces viral load to non-detectable levels in 10 days.",
+      "authors": [],
+      "journal": "Positive health news",
+      "publication_date": "1998",
+      "publication_types": [
+        "Newspaper Article",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "AIDS-Related Opportunistic Infections",
+        "Calcium Phosphates",
+        "Chondroitin Sulfates",
+        "Complementary Therapies",
+        "Drug Synergism",
+        "Drug Therapy, Combination",
+        "Glucosamine",
+        "HIV Infections",
+        "HIV Protease Inhibitors",
+        "Humans",
+        "Plant Extracts",
+        "Pneumonia, Pneumocystis",
+        "Viral Load"
+      ]
+    },
+    {
+      "pmid": "9395631",
+      "title": "Inhibition of several strains of influenza virus in vitro and reduction of symptoms by an elderberry extract (Sambucus nigra L.) during an outbreak of influenza B Panama.",
+      "authors": [
+        "Z Zakay-Rones",
+        "N Varsano",
+        "M Zlotnik",
+        "O Manor",
+        "L Regev",
+        "M Schlesinger",
+        "M Mumcuoglu"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "1995",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "A standardized elderberry extract, Sambucol (SAM), reduced hemagglutination and inhibited replication of human influenza viruses type A/Shangdong 9/93 (H3N2), A/Beijing 32/92 (H3N2), A/Texas 36/91 (H1N1), A/Singapore 6/86 (H1N1), type B/Panama 45/90, B/Yamagata 16/88, B/Ann Arbor 1/86, and of animal strains from Northern European swine and turkeys, A/Sw/Ger 2/81, A/Tur/Ger 3/91, and A/Sw/Ger 8533/91 in Madin-Darby canine kidney cells. A placebo-controlled, double blind study was carried out on a group of individuals living in an agricultural community (kibbutz) during an outbreak of influenza B/Panama in 1993. Fever, feeling of improvement, and complete cure were recorded during 6 days. Sera obtained in the acute and convalescent phases were tested for the presence of antibodies to influenza A, B, respiratory syncytial, and adenoviruses. Convalescent phase serologies showed higher mean and mean geometric hemagglutination inhibition (HI) titers to influenza B in the group treated with SAM than in the control group. A significant improvement of the symptoms, including fever, was seen in 93.3% of the cases in the SAM-treated group within 2 days, whereas in the control group 91.7% of the patients showed an improvement within 6 days (p < 0.001). A complete cure was achieved within 2 to 3 days in nearly 90% of the SAM-treated group and within at least 6 days in the placebo group (p < 0.001). No satisfactory medication to cure influenza type A and B is available. Considering the efficacy of the extract in vitro on all strains of influenza virus tested, the clinical results, its low cost, and absence of side-effects, this preparation could offer a possibility for safe treatment for influenza A and B.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Animals",
+        "Antibodies, Viral",
+        "Child",
+        "Disease Outbreaks",
+        "Dogs",
+        "Double-Blind Method",
+        "Drug Evaluation, Preclinical",
+        "Female",
+        "Humans",
+        "Influenza A virus",
+        "Influenza B virus",
+        "Influenza, Human",
+        "Lectins",
+        "Male",
+        "Middle Aged",
+        "Plant Extracts",
+        "Plant Lectins",
+        "Ribosome Inactivating Proteins",
+        "Serotyping"
+      ]
+    },
+    {
+      "pmid": "1378792",
+      "title": "Preparation of a stable subunit of Japanese elderberry (Sambucus sieboldiana) bark lectin and its application for the study of cell surface carbohydrates by flow cytometry.",
+      "authors": [
+        "H Kaku",
+        "N Shibuya"
+      ],
+      "journal": "FEBS letters",
+      "publication_date": "1992-Jul-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A stable subunit of Sambucus sieboldiana bark lectin (MSSA) was prepared by selective reduction of disulfide bridges between the subunits and alkylation with 4-vinylpyridine. Amino acid analysis of MSSA revealed that 1.4 cysteine residues per subunit were selectively modified. MSSA failed to agglutinate rabbit erythrocytes and precipitate fetuin. However, MSSA retained the ability to bind to fetuin, as detected by ELISA. Neu5Ac alpha 2-6lactose inhibited the binding to fetuin of both SSA and MSSA. Flow cytometric analysis showed that human histocytic lymphoma U937 cells were clearly stained with FITC-labeled MSSA (FITC-MSSA) without any detectable agglutination and that this staining was almost completely inhibited by the addition of Neu5Ac alpha 2-6lactose (2 mM). Treatment of U937 cells with native FITC-SSA at the sub-agglutinating concentration (0.3 microgram/ml) showed much poorer fluorescence intensity than that of MSSA, suggesting that MSSA is an invaluable tool for the detection of cell surface glycoconjugates containing NeuAc alpha 2-6Gal/GalNAc sequences by flow cytometry.",
+      "mesh_terms": [
+        "Carbohydrate Sequence",
+        "Carbohydrates",
+        "Cell Line",
+        "Cell Membrane",
+        "Chromatography, High Pressure Liquid",
+        "Electrophoresis, Polyacrylamide Gel",
+        "Flow Cytometry",
+        "Humans",
+        "Lectins",
+        "Molecular Sequence Data",
+        "Plant Lectins",
+        "Plants",
+        "Ribosome Inactivating Proteins",
+        "alpha-Fetoproteins"
+      ]
+    },
+    {
+      "pmid": "3805045",
+      "title": "The elderberry (Sambucus nigra L.) bark lectin recognizes the Neu5Ac(alpha 2-6)Gal/GalNAc sequence.",
+      "authors": [
+        "N Shibuya",
+        "I J Goldstein",
+        "W F Broekaert",
+        "M Nsimba-Lubaki",
+        "B Peeters",
+        "W J Peumans"
+      ],
+      "journal": "The Journal of biological chemistry",
+      "publication_date": "1987-Feb-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "abstract": "Carbohydrate binding properties of a new plant lectin isolated from elderberry (Sambucus nigra L.) (SNA) bark were studied using the techniques of quantitative precipitation, hapten inhibition, and equilibrium dialysis. Purified SNA precipitates highly sialylated glycoproteins such as fetuin, orosomucoid, and ovine submaxillary mucin, but not their asialo derivatives. Hapten inhibition experiments showed that both D-Gal and D-GalNAc are weak inhibitors of SNA-glycophorin precipitation, but neither New5Ac nor Neu5Gc is an inhibitor. A series of oligosaccharides which contain the terminal Neu5Ac(alpha 2-6)Gal sequence showed an extremely high inhibitory potency (1,600-10,000 times more inhibitory than Gal). On the other hand, oligosaccharides with the Neu5Ac(alpha 2-3)Gal linkage were only 30-80 times more inhibitory than Gal, thus showing a marked preference for the 2,6-linked isomer. Hapten inhibition with Gal and its epimers suggested that the equatorial OH at C-3 and the axial OH at C-4 of the D-pyranose ring are strict requirements for binding. Conversion of the Neu5Ac residue to its 7-carbon analogue by selective periodate oxidation of its glyceryl side chain, followed by NaBH4 reduction, completely destroyed the ability of fetuin and orosomucoid to precipitate with SNA. Moreover, the same treatment of Neu5Ac(alpha 2-3)lactitol also abolished its ability to inhibit the precipitation reaction, suggesting that the glyceryl side chain of NBu5Ac (especially the C-8 and/or C-9 portion) is an important determinant for SNA. The increased inhibitory potency of various glycosides with beta-linked nonpolar aglycons suggested the presence of a hydrophibic interacting region adjacent to the carbohydrate binding site. The results of equilibrium dialysis using [3H] Neu5Ac(alpha 2-6)lactitol as ligand showed the presence of two equivalent, noninteracting carbohydrate binding sites in this tetrameric glycoprotein lectin (Ka = 3.9 X 10(5) M-1).",
+      "mesh_terms": [
+        "Acetylgalactosamine",
+        "Carbohydrate Conformation",
+        "Carbohydrate Sequence",
+        "Galactose",
+        "Glycophorins",
+        "Humans",
+        "Lectins",
+        "Molecular Weight",
+        "Plant Lectins",
+        "Ribosome Inactivating Proteins",
+        "Substrate Specificity"
+      ]
+    }
+  ]
+}

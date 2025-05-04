@@ -1,0 +1,98 @@
+{
+  "supplement": "Eucommia Bark",
+  "query": "Eucommia Bark[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:33:12",
+  "research_count": 3,
+  "count": 3,
+  "articles": [
+    {
+      "pmid": "36638713",
+      "title": "Eucommia bark/leaf extract improves HFD-induced lipid metabolism disorders via targeting gut microbiota to activate the Fiaf-LPL gut-liver axis and SCFAs-GPR43 gut-fat axis.",
+      "authors": [
+        "Zhineng Wang",
+        "Yin Sun",
+        "Yewen Han",
+        "Xuefeng Chen",
+        "Pin Gong",
+        "Pengtao Zhai",
+        "Wenbo Yao",
+        "Qian Ba",
+        "Hui Wang"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The bark of Eucommia ulmoides (a perennial deciduous tree termed eucommia hereafter) has anti-hyperlipidemia effects due to its bioactive components. However, the slow growth of eucommia bark leads to a deficit in this resource. Studies have shown that eucommia leaf has bioactive components similar to those of eucommia bark and anti-hyperlipidemia effects. At present, the strength of the anti-hyperlipidemia effect of eucommia bark and eucommia leaf has not been reported. Their interaction with the gut microbiota and the mechanism by which the gut microbiota exerts anti-hyperlipidemia effects are unclear. PURPOSES: Through fecal microbiota transplantation (FMT) experiments, this study aimed to investigate the mechanism by which fecal bacteria suspensions containing chlorogenic acid (CGA), eucommia bark extract (EBE), and eucommia leaves extract (ELE) improve high-fat diet (HFD)-induced lipid metabolism disorders. Difference in anti-hyperlipidemia effects between EBE and ELE and exploring an eucommia bark substitute to improve the sustainable utilization of eucommia were also evaluated. RESULTS: EBE and ELE contain eight identical bioactive ingredients, and fecal bacteria suspensions containing EBE and ELE significantly improved HFD-induced lipid metabolism disorders and elevated blood glucose levels. The fecal bacteria suspension of healthy mice containing CGA, EBE, and ELE significantly reduced the relative abundance of Erysipelothrichaceae and Ruminococcaceae and promoted short chain fatty acids (SCFAs) production thereby activating the expression of the SCFA. G protein-coupled receptor 43 (GPR43) gene in colon and epididymal fat tissues. In addition, fecal bacteria suspensions of healthy mice containing CGA, EBE, or ELE significantly activated fasting-induced adipose factor (Fiaf) gene expression in colon tissue and inhibited the secretion of lipoprotein lipase (LPL) in liver tissue, thereby inhibiting the synthesis of triglycerides (TG). Changed in the Erysipelotrichaceae and Ruminococcaceae relative abundances were significantly correlated with these target genes. Thus, regulating the abundance of the Erysipelotrichaceae and Ruminococcaceae could serve as a potential target for the role of fecal bacteria suspensions of healthy mice containing CGA, EBE, or ELE in the Fiaf-LPL gut-liver axis and SCFAs-GPR43 gut-fat axis. In addition, regarding HFD-induced lipid metabolism disorders and gut microbiota structural disorders, we found no significant difference between ELE and EBE. CONCLUSIONS: Our FMT experiments evidenced that EBE and ELE improve lipid metabolism disorders by regulating the gut microbiota, providing a new pathway for treating hyperlipidemia using eucommia dietary therapy. There was no significant difference in the anti-hyperlipidemia effects of ELE and EBE; thus, eucommia leaf could replace eucommia bark in traditional Chinese medicine, so as to achieve a sustainable utilization of eucommia resources.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Diet, High-Fat",
+        "Gastrointestinal Microbiome",
+        "Lipid Metabolism",
+        "Eucommiaceae",
+        "Lipoprotein Lipase",
+        "Plant Bark",
+        "Liver",
+        "Fatty Acids, Volatile",
+        "Plant Extracts",
+        "Lipid Metabolism Disorders"
+      ]
+    },
+    {
+      "pmid": "27041999",
+      "title": "Eucommia bark (Du-Zhong) improves diabetic nephropathy without altering blood glucose in type 1-like diabetic rats.",
+      "authors": [
+        "Ho-Shan Niu",
+        "I-Min Liu",
+        "Chiang-Shan Niu",
+        "Po-Ming Ku",
+        "Chao-Tien Hsu",
+        "Juei-Tang Cheng"
+      ],
+      "journal": "Drug design, development and therapy",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Eucommia bark, Eucommia ulmoides Oliver barks (Du-Zhong in Mandarin), is an herb used for renal dysfunction in Chinese traditional medicine. In an attempt to develop this herb as a treatment for diabetic nephropathy (DN), we investigated the effects of Du-Zhong on renal dysfunction in type 1-like diabetic rats. METHODS: Streptozotocin (STZ) was used to induce type 1-like diabetes in rats (STZ-diabetic rats). In addition to hyperglycemia, STZ-diabetic rats showed significant nephropathy, including higher plasma levels of blood urea nitrogen, creatinine, and renal fibrosis. Western blot analysis of renal cortical tissue was applied to characterize the changes in potential signals related to nephropathy. RESULTS: Oral administration of Du-Zhong (1 g/kg/day) to STZ-diabetic rats for 20 days not only decreased the plasma levels of blood urea nitrogen and creatinine but also improved renal fibrosis, whereas the plasma glucose level was not changed. The higher expressions of protein levels of transforming growth factor-beta (TGF-β) and connective tissue growth factor in diabetic rats were markedly attenuated by Du-Zhong. The increased phosphorylation of Smad2/3 in STZ-diabetic rats was also reduced by Du-Zhong. However, Du-Zhong cannot reverse the hyperglycemia-induced overproduction of signal transducers and activators of transcription 3 in the diabetic kidney. CONCLUSION: Oral administration of Du-Zhong improves STZ-induced DN in rats by inhibiting TGF-β/Smad signaling and suppressing TGF-β/connective tissue growth factor expression. Therefore, active principle from Du-Zhong is suitable to develop as new agent for DN in the future.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Blood Glucose",
+        "Connective Tissue Growth Factor",
+        "Diabetes Mellitus, Type 1",
+        "Diabetic Nephropathies",
+        "Dose-Response Relationship, Drug",
+        "Drugs, Chinese Herbal",
+        "Eucommiaceae",
+        "Male",
+        "Medicine, Chinese Traditional",
+        "Rats",
+        "Rats, Wistar",
+        "Signal Transduction",
+        "Streptozocin",
+        "Structure-Activity Relationship",
+        "Transforming Growth Factor beta"
+      ]
+    },
+    {
+      "pmid": "13543749",
+      "title": "[Treatment of hypertension with Eucommia bark tincture].",
+      "authors": [
+        "I I VERETIANOV"
+      ],
+      "journal": "Terapevticheskii arkhiv",
+      "publication_date": "1957-Jul",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Cardiovascular Agents",
+        "Hypertension",
+        "Muscle Relaxants, Central"
+      ]
+    }
+  ]
+}

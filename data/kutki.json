@@ -1,0 +1,39 @@
+{
+  "supplement": "Kutki",
+  "query": "Kutki[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:54:05",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "19619118",
+      "title": "Pharmacology and chemistry of a potent hepatoprotective compound Picroliv isolated from the roots and rhizomes of Picrorhiza kurroa royle ex benth. (kutki).",
+      "authors": [
+        "Praveen C Verma",
+        "Vaishali Basu",
+        "Vijayta Gupta",
+        "Gauri Saxena",
+        "Laiq Ur Rahman"
+      ],
+      "journal": "Current pharmaceutical biotechnology",
+      "publication_date": "2009-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Natural products from plants are of major pharmaceutical and therapeutic importance, several of which are often obtained from the underground parts of the concerned plants. Deviation from standard rules in modern medicines, where instead of a single isolated fraction, a group of naturally occurring components exerts the desired therapeutic effect, was noted in case of Picroliv or Kutkin of Picrorhiza kurroa. \"Picroliv\" mainly a glucoside, is one such compound, normally obtained from 3 - 4 years old roots and rhizomes of an endangered medicinal plant - Picrorhiza kurroa (kutki) and constitute an important component of many Indian herbal preparations, used mainly for the treatment of a variety of liver ailments. It is an iridoid glycoside mixture containing 60% picroside I and kutkoside in the ratio of 1:1.5. Picroliv has shown efficacy comparable to silymarin in rodent models of galactosamine, paracetamol, thioacetamide and CCl(4) induced hepatic damage. Picroliv has also shown cholerectic effect in rats and anti-cholestatic effect in rats, guinea pigs and cats treated with paracetamol and ethinyl estradiol. It has also anti-viral and immune-stimulant activities and is devoid of any significant CNS and CVS, autonomic and other systemic activity. Because of its apparent ability as a strong hepato-protective and immune-modulatory compound, it is in high demand in both national and international markets. The review discusses the potential of Picrorhiza in various hepatic diseases as well as the chemistry and activity of individual compound of crude drug Picroliv.",
+      "mesh_terms": [
+        "Animals",
+        "Cinnamates",
+        "Glycosides",
+        "Humans",
+        "Liver",
+        "Liver Diseases",
+        "Picrorhiza",
+        "Plant Extracts",
+        "Plant Roots",
+        "Vanillic Acid"
+      ]
+    }
+  ]
+}

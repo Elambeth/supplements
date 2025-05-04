@@ -1,0 +1,76 @@
+{
+  "supplement": "African Mango",
+  "query": "African Mango[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:06:53",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "38218500",
+      "title": "A mechanistic exploration of the metabolome of African mango seeds and its potential to alleviate cognitive impairment induced by high-fat/high-carbohydrate diets: Involvement of PI3K/AKT/GSK-3β/CREB, PERK/CHOP/Bcl-2, and AMPK/SIRT-1/mTOR Axes.",
+      "authors": [
+        "Yassmin Raafat Hassan",
+        "Riham A El-Shiekh",
+        "Hala M El Hefnawy",
+        "Osama G Mohamed",
+        "Karema Abu-Elfotuh",
+        "Ahmed M Hamdan",
+        "Alshaymaa Darwish",
+        "Ayah M H Gowifel",
+        "Ashootosh Tripathi",
+        "Camilia George Michael"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2024-Apr-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Irvingia gabonensis (Aubry-Lecomte ex O'Rorke) Baill., also known as \"African mango\" or \"bush mango\", belonging to family Irvingiaceae, has been mostly used as food and traditional medicine for weight loss and to enhance the health. AIM OF THE STUDY: The overconsumption of high-fat and high-carbohydrate (HFHC) food induces oxidative stress, leading to neurological and cognitive dysfunction. Consequently, there is an immediate need for effective treatment. Hence, this study explored the efficacy of orlistat, metformin, and I. gabonensis seeds' total aqueous extract (IG SAE) in addressing HFHC-induced cognitive impairment by mitigating oxidative stress and their underlying mechanistic pathways. MATERIALS AND METHODS: Initially, the secondary metabolite profile of IG SAE is determined using high-performance liquid chromatography coupled with a mass detector (UHPLC/MS). The in vivo study involves two phases: an established model phase with control (10 rats on a standard diet) and HFHC diet group (50 rats) for 3 months. In the study phase, HFHC is divided into 5 groups. The first subgroup receives HFHC diet only, while the remaining groups each receive HFHC diet with either Orlistat, metformin, or IG SAE at doses of 100 mg/kg and 200 mg/kg, respectively, for 28 days. RESULTS: More than 150 phytoconstituents were characterized for the first holistic approach onto IG metabolome. Characterization of IG SAE revealed that tannins dominate metabolites in the plant. Total phenolics and flavonoids were estimated to standardize our extract (77.12 ± 7.09 μg Gallic acid equivalent/mg extract and 8.039 ± 0.53 μg Rutin equivalent/mg extract, respectively). Orlistat, metformin, and IG SAE successfully reduced the body weight, blood glucose level, lipid profile, oxidative stress and neurotransmitters levels leading to improved behavioral functions as well as histological alternation. Also, IG SAE halted inflammation, apoptosis, and endoplasmic reticulum stress, together with promoting autophagy, via modulation of PI3K/AKT/GSK-3β/CREB, PERK/CHOP/Bcl-2 and AMPK/SIRT-1/m-TOR pathways. CONCLUSION: Metformin, orlistat, and IG SAE offer a promising multi-target therapy to mitigate HFHC diet-induced oxidative stress, addressing cognitive function. This involves diverse molecular mechanisms, particularly the modulation of inflammation, ER stress, and both PI3K/AKT/GSK-3β/CREB and AMPK/SIRT-1/m-TOR pathways. Furthermore, the higher dose of IG SAE demonstrated effects comparable to orlistat and metformin across most studied parameters.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Proto-Oncogene Proteins c-akt",
+        "Glycogen Synthase Kinase 3 beta",
+        "AMP-Activated Protein Kinases",
+        "Phosphatidylinositol 3-Kinases",
+        "Orlistat",
+        "Mangifera",
+        "TOR Serine-Threonine Kinases",
+        "Cognitive Dysfunction",
+        "Seeds",
+        "Metformin",
+        "Inflammation",
+        "Metabolome",
+        "Diet"
+      ]
+    },
+    {
+      "pmid": "35204821",
+      "title": "Terminalin from African Mango (Irvingia gabonensis) Stimulates Glucose Uptake through Inhibition of Protein Tyrosine Phosphatases.",
+      "authors": [
+        "Sun-Young Yoon",
+        "Jinsoo Kim",
+        "Bum Soo Lee",
+        "Su Cheol Baek",
+        "Sang J Chung",
+        "Ki Hyun Kim"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2022-Feb-17",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Protein tyrosine phosphatases (PTPs), along with protein tyrosine kinases, control signaling pathways involved in cell growth, metabolism, differentiation, proliferation, and survival. Several PTPs, such as PTPN1, PTPN2, PTPN9, PTPN11, PTPRS, and DUSP9, disrupt insulin signaling and trigger type 2 diabetes, indicating that PTPs are promising drug targets for the treatment or prevention of type 2 diabetes. As part of an ongoing study on the discovery of pharmacologically active bioactive natural products, we conducted a phytochemical investigation of African mango (Irvingia gabonensis) using liquid chromatography-mass spectrometry (LC/MS)-based analysis, which led to the isolation of terminalin as a major component from the extract of the seeds of I. gabonensis. The structure of terminalin was characterized by spectroscopic methods, including one-dimensional (1D) and two-dimensional (2D) nuclear magnetic resonance (NMR) and high-resolution (HR) electrospray ionization (ESI) mass spectroscopy. Moreover, terminalin was evaluated for its antidiabetic property; terminalin inhibited the catalytic activity of PTPN1, PTPN9, PTPN11, and PTPRS in vitro and led to a significant increase in glucose uptake in differentiated C2C12 muscle cells, indicating that terminalin exhibits antidiabetic effect through the PTP inhibitory mechanism. These findings suggest that terminalin derived from African mango could be used as a functional food ingredient or pharmaceutical supplement for the prevention of type 2 diabetes.",
+      "mesh_terms": [
+        "Cellulose",
+        "Diabetes Mellitus, Type 2",
+        "Glucose",
+        "Humans",
+        "Hypoglycemic Agents",
+        "Mangifera",
+        "Proanthocyanidins"
+      ]
+    }
+  ]
+}

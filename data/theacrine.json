@@ -1,0 +1,458 @@
+{
+  "supplement": "Theacrine",
+  "query": "Theacrine[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:48:49",
+  "research_count": 14,
+  "count": 14,
+  "articles": [
+    {
+      "pmid": "38402443",
+      "title": "Theacrine enhances autophagy and inhibits inflammation via regulating SIRT3/FOXO3a/Parkin pathway.",
+      "authors": [
+        "Jin Li",
+        "Wenliang Yan",
+        "Hongshan Yuan",
+        "Fang Ren"
+      ],
+      "journal": "International journal of rheumatic diseases",
+      "publication_date": "2024-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Psoriasis, a common chronic inflammatory skin condition, impacts around 2%-3% of the global population. Theacrine is recognized for its potential anti-inflammatory and antioxidant properties. However, the role of theacrine in psoriasis remains unclear. PURPOSES: To investigate the effects of theacrine on psoriasis and explore the underlying signaling pathways. METHODS: For imiquimod (IMQ)-induced Psoriasis-like mice, the psoriatic inflammation was monitored using Psoriasis Area and Severity Index (PASI). The skin damage was observed using Hematoxylin and Eosin staining. The KI67 and CD4 in skin tissues were assessed using Immunohistochemistry analysis. Western blots were performed to evaluate the expression of Keratin 1 (KRT1), KRT6, LC3, P62, Beclin1, T-bet, GATA3, RAR-related orphan receptor (ROR)-γt, Sirtuin-3 (SIRT3), Forkhead Box O3a (FOXO3a) and Parkin. Additionally, LC3B expression was analyzed using an immunofluorescent assay, while flow cytometry was performed to analyze the percentage of Th17, Th1, and Th2 positive cells in skin-draining lymph node. RESULTS: Theacrine improved skin condition by reducing hyperkeratosis and acanthosis, lowering PASI scores, and decreasing KI67-positive cells. Theacrine also modulated keratin expression, elevating KRT1 while reducing KRT6 levels. Theacrine enhanced autophagy indicated by an increased LC3-II/LC3-I ratio and Beclin1, while reduced P62 levels. Additionally, Theacrine reduced CD4-positive cells and suppressed Th17 and Th1 cell activation. Theacrine activated the FOXO3a/Parkin pathway by upregulating SIRT3 expression, and down-regulation of SIRT3 counteracted theacrine's effects in psoriasis-like mice. CONCLUSION: Theacrine inhibits skin damage, promotes autophagy, and mediates inflammation in IMQ-induced psoriasis mice via upregulating SIRT3 to activate FOXO3a/Parkin pathway, positioning theacrine as a candidate for psoriasis treatment.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Sirtuin 3",
+        "Beclin-1",
+        "Ki-67 Antigen",
+        "Inflammation",
+        "Psoriasis",
+        "Skin",
+        "Imiquimod",
+        "Autophagy",
+        "Disease Models, Animal",
+        "Mice, Inbred BALB C",
+        "Th17 Cells",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "37641574",
+      "title": "Proteomics analysis to investigate the potential mechanism of theacrine against UV-induced skin photodamage.",
+      "authors": [
+        "Yong He",
+        "Xinkai Zheng",
+        "Yunfeng Hu",
+        "Liehua Deng",
+        "Jin Xu",
+        "Shi Wu"
+      ],
+      "journal": "Photodermatology, photoimmunology & photomedicine",
+      "publication_date": "2023-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: This study aimed to explore the underlying mechanism of theacrine treatment of UV-induced skin photodamage. MATERIALS AND METHODS: Tandem Mass Tag (TMT) relative quantitative proteomics analysis was used to characterize the proteins and pathways associated with the ability of theacrine to combat photodamage in mouse skin by modeling UV irradiation of the backs of ICR mice. RESULTS: Apoptosis-related proteins and signaling pathways play a key role in the ability of theacrine to protect against skin photodamage, according to proteomic and bioinformatics analysis; molecular docking and Western blotting further revealed that theacrine was associated with apoptosis-related proteins (p53, Bcl-2, Bax, caspase-3, and cleaved-caspase-3) with strong binding affinity, which can significantly reduce skin cell apoptosis induced by UV exposure. CONCLUSION: The findings revealed that theacrine can reduce UVB-induced epidermal damage by controlling the apoptosis signaling pathway, implying that theacrine could be a useful anti-UVB damage agent.",
+      "mesh_terms": [
+        "Mice",
+        "Animals",
+        "Caspase 3",
+        "Proteomics",
+        "Molecular Docking Simulation",
+        "Mice, Inbred ICR",
+        "Apoptosis Regulatory Proteins"
+      ]
+    },
+    {
+      "pmid": "36213494",
+      "title": "Theacrine alleviates sepsis-induced acute kidney injury by repressing the activation of NLRP3/Caspase-1 inflammasome.",
+      "authors": [
+        "Maoxian Yang",
+        "Peng Shen",
+        "Longsheng Xu",
+        "Min Kong",
+        "Congcong Yu",
+        "Yunchao Shi"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Acute kidney injury (AKI) is a frequent and serious complication of sepsis, which results in a rapid decline of kidney function. Currently, there are no curative therapies for AKI. Theacrine is a purine alkaloid and exerts significant role in regulating inflammation, oxidative stress, and mood elevation. The study aims to evaluate the biological role and potential mechanism of theacrine in septic AKI. The murine and cellular models of septic AKI were established in lipopolysaccharide (LPS)-treated C57BL/6 mice and HK-2 cells, respectively. The effect of theacrine on alleviating septic AKI was assessed after pretreatment with theacrine in vivo and in vitro. We found that theacrine treatment significantly alleviated LPS-induced kidney injury, as evidenced by decreased levels of kidney injury markers (blood urea nitrogen and creatinine), inflammatory factors (IL-1β and IL-18), and cell apoptosis in vivo and in vitro. Mechanistically, theacrine markedly repressed the activation of NOD-like receptor (NLR) pyrin domain-containing protein 3 (NLRP3)inflammasome. As expected, MCC950 (a specific inhibitor of NLRP3) treatment also decreased LPS-induced production of IL-18 and IL-1β and cell apoptosis in HK-2 cells. More important, Nigericin sodiumsalt (a NLRP3 agonist) damaged the effect of theacrine on repressing kidney injury markers (blood urea nitrogen and creatinine), pro-inflammatory cytokines (IL-18 and IL-1β), and cell apoptosis. Taken together, these results demonstrate that theacrine alleviates septic AKI, at least in part by repressing the activation of NLRP3 inflammasome.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Acute Kidney Injury",
+        "Caspase 1",
+        "Creatinine",
+        "Inflammasomes",
+        "Interleukin-18",
+        "Lipopolysaccharides",
+        "Mice, Inbred C57BL",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Sepsis",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "33287129",
+      "title": "A Theacrine-Based Supplement Increases Cellular NAD+ Levels and Affects Biomarkers Related to Sirtuin Activity in C2C12 Muscle Cells In Vitro.",
+      "authors": [
+        "Petey W Mumford",
+        "Shelby C Osburn",
+        "Carlton D Fox",
+        "Joshua S Godwin",
+        "Michael D Roberts"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2020-Dec-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "There is evidence in rodents to suggest that theacrine-based supplements modulate tissue sirtuin activity as well as other biological processes associated with aging. Herein, we examined if a theacrine-based supplement (termed NAD3) altered sirtuin activity in vitro while also affecting markers of mitochondrial biogenesis. The murine C2C12 myoblast cell line was used for experimentation. Following 7 days of differentiation, myotubes were treated with 0.45 mg/mL of NAD3 (containing ~2 mM theacrine) for 3 and 24 h (n = 6 treatment wells per time point). Relative to control (CTL)-treated cells, NAD3 treatments increased (p < 0.05) Sirt1 mRNA levels at 3 h, as well as global sirtuin activity at 3 and 24 h. Follow-up experiments comparing 24 h NAD3 or CTL treatments indicated that NAD3 increased nicotinamide phosphoribosyltransferase (NAMPT) and SIRT1 protein levels (p < 0.05). Cellular nicotinamide adenine dinucleotide (NAD+) levels were also elevated nearly two-fold after 24 h of NAD3 versus CTL treatments (p < 0.001). Markers of mitochondrial biogenesis were minimally affected. Although these data are limited to select biomarkers in vitro, these preliminary findings suggest that a theacrine-based supplement can modulate select biomarkers related to NAD+ biogenesis and sirtuin activity. However, these changes did not drive increases in mitochondrial biogenesis. While promising, these data are limited to a rodent cell line and human muscle biopsy studies are needed to validate and elucidate the significance of these findings.",
+      "mesh_terms": [
+        "Animals",
+        "Biomarkers",
+        "Cytokines",
+        "Humans",
+        "Mitochondria",
+        "Muscles",
+        "Myoblasts",
+        "NAD",
+        "Nicotinamide Phosphoribosyltransferase",
+        "RNA, Messenger",
+        "Rodentia",
+        "Sirtuin 1",
+        "Sirtuins",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "32730889",
+      "title": "Theacrine and strictinin, two major ingredients for the anti-influenza activity of Yunnan Kucha tea.",
+      "authors": [
+        "Pei-Rong Lin",
+        "Ping-Chung Kuo",
+        "Yue-Chiun Li",
+        "Cian-Fen Jhuo",
+        "Wei-Li Hsu",
+        "Jason T C Tzen"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2020-Nov-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Kucha tea plant (Camellia assamica var. kucha Chang et Wang) is regarded as a mutant variety of wild Pu'er tea plant found in few mountain areas of Yunnan, China. Its fresh young leaves and shoots are picked by the indigenous aborigines in these local areas to prepare an herbal tea for the treatment of common cold empirically. MATERIALS AND METHODS: Two extra compounds of relative abundance were detected in Kucha tea in comparison with Pu'er tea, and their chemical structures were identified as chlorogenic acid and theacrine. These two compounds as well as two major compounds, strictinin and caffeine, in Kucha tea were evaluated for their cytotoxicity and inhibitory effects on human influenza virus A/Puerto Rico/8/34 by analyzing viral protein expression and progeny production. RESULTS: No or low cytotoxicity was detected for the four Kucha compounds when their concentrations were below 100 μM. Expression of viral NS1 protein was significantly inhibited by chlorogenic acid, theacrine or strictinin, but not caffeine at a concentration of 100 μM. The relative inhibitory potency was detected as chlorogenic acid < theacrine < strictinin, and both theacrine and strictinin displayed significant inhibition at a concentration of 50 μM. According to a plaque assay, viral progeny production was significantly reduced by theacrine or strictinin, but not by chlorogenic acid or caffeine under the same concentration of 100 μM. CONCLUSION: It is suggested that theacrine and strictinin are two major ingredients responsible for the anti-influenza activity of Yunnan Kucha tea traditionally used for the treatment of common cold.",
+      "mesh_terms": [
+        "Animals",
+        "Antiviral Agents",
+        "Camellia sinensis",
+        "Cell Survival",
+        "Dogs",
+        "Humans",
+        "Alphainfluenzavirus",
+        "Madin Darby Canine Kidney Cells",
+        "Phenols",
+        "Plant Leaves",
+        "Teas, Herbal",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "32707370",
+      "title": "Theacrine, a purine alkaloid from kucha, protects against Parkinson's disease through SIRT3 activation.",
+      "authors": [
+        "Wen-Jun Duan",
+        "Lei Liang",
+        "Ming-Hai Pan",
+        "Dan-Hua Lu",
+        "Ting-Mei Wang",
+        "Shan-Bing Li",
+        "Han-Bing Zhong",
+        "Xuan-Jun Yang",
+        "Yan Cheng",
+        "Bo Liu",
+        "Wei-Xi Li",
+        "Hiroshi Kurihara",
+        "Wei Bi",
+        "Yi-Fang Li",
+        "Rong-Rong He"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "publication_date": "2020-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Oxidative damage of dopaminergic neurons is the fundamental causes of Parkinson's disease (PD) that has no standard cure at present. Theacrine, a purine alkaloid from Chinese tea Kucha, has been speculated to benefit the neurodegeneration in PD, through similar actions to its chemical analogue caffeine, albeit excluding side effects. Theacrine has nowadays gained a lot of interest for its multiple benefits, while the investigations are weak and insufficient. HYPOTHESIS/PURPOSE: It is well-known that tea has a wide range of functions, especially in the prevention and treatment of neurodegenerative diseases. Theacrine is an active monomer compound in Camellia assamica var. kucha Hung T. Chang & H.S.Wang (Kucha), which appears to be effective and safe in PD therapy. The aim of this study is to examine its actions in diverse PD models and explore the mechanisms. STUDY DESIGN: For determination of theacrine's effects, we employed diverse oxidative damage-associated PD models, including 6-OHDA-treated rats, MPTP-treated mice/zebrafish and MPP+-treated SH-SY5Y cells, and using caffeine, selegiline and depranyl as positve control. For investigation and verification of the mechanisms, we utilized approaches testing mitochondrial function-related parameters and enzyme activity as well as applied gene knockdown and overexpression. METHODS: We employed behavioral tests including spontaneous activity, pole, swimming, rotarod and gait, immunohistochemistry, HPLC, flow cytometry, immunohistochemistry, Western blot, gene knockdown by siRNA and overexpression by plasmid in this study. RESULTS: Theacrine is demonstrated to retrieve the loss of dopaminergic neurons and the damages of behavioral performance in multiple animal models of PD (6-OHDA-treated rats and in MPTP-treated mice and zebrafish). The followed data of MPP+-treated SH-SY5Y cells indicate that theacrine relieves apoptosis resulted from oxidative damage and mitochondrial dysfunction. Further investigations illustrate that theacrine activates SIRT3 directly. It is of advantage to prevent apoptosis through SIRT3-mediated SOD2 deacetylation that reduces ROS accumulation and restores mitochondrial function. This concept is elaborated by 3TYP that inhibits SIRT3 enzyme activity and knockdown/overexpression of SIRT3 gene, demonstrating a crucial role of SIRT3 in theacrine-benefited dopaminergic neurons. CONCLUSION: Theacrine prevents apoptosis of dopaminergic neurons through directly activating SIRT3 which deacetylating SOD2 and restoring mitochondrial functions.",
+      "mesh_terms": [
+        "Animals",
+        "Apoptosis",
+        "Behavior, Animal",
+        "Camellia",
+        "Dopaminergic Neurons",
+        "Embryo, Nonmammalian",
+        "Humans",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Mitochondria",
+        "Neuroprotective Agents",
+        "Oxidopamine",
+        "Parkinsonian Disorders",
+        "Rats, Sprague-Dawley",
+        "Sirtuin 1",
+        "Uric Acid",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "31791581",
+      "title": "Theacrine alleviates chronic inflammation by enhancing TGF-β-mediated shifts via TGF-β/SMAD pathway in Freund's incomplete adjuvant-induced rats.",
+      "authors": [
+        "Ming Gao",
+        "Jun Zheng",
+        "Chao Zheng",
+        "Zhiyuan Huang",
+        "Qinwei Huang"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2020-Feb-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rheumatoid arthritis is a chronic and systemic autoimmune disease, which affects approximately 1% of the adult population worldwide. The present study investigated the therapeutic effect of theacrine (TC) on arthritis and its mechanisms in Freund's incomplete adjuvant (FIA)-induced SD rats. Rats were randomly divided into 5 groups: i) healthy control; ii) model; iii) positive control with methotrexate (MTX); iv) treatment with 12.5 mg/kg TC; and v) treatment with 25.0 mg/kg TC. The apparent scores, including changes in body weights, degree of paw swelling and arthritis indicators, were analyzed to evaluate the anti-chronic inflammatory effect of TC. The levels of interleukin (IL)-6 and transforming growth factor-β (TGF-β) in serum were measured by enzyme-linked immunosorbent assay. The protein and RNA expression levels of the critical factors in rats were measured to elucidate the mechanisms responsible for chronic inflammation and to verify molecular indexes of chronic inflammatory conditions. TC notably suppressed the severity of FIA-induced rat by attenuating the apparent scores, animal weight and inflammatory indexes in the 25 mg/kg TC group compared with the FIA rat model. Furthermore, TC significantly decreased the levels of IL-6 and increased the levels of TGF-β. Histopathological examinations indicated that TC rescued the synovial hyperplasia and inflammatory cell infiltration in joint tissues. In addition, TC enhanced TGF-β-mediated shifts in inflammatory marker expression in joint tissue. Overall, the present study demonstrated that TC exerted a superior anti-arthritic effect via the suppression of IL-6 and the activation of TGF-β by the TGF-β/SMAD pathway.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Arthritis, Experimental",
+        "Arthritis, Rheumatoid",
+        "Chronic Disease",
+        "Freund's Adjuvant",
+        "Inflammation",
+        "Joints",
+        "Lipids",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Signal Transduction",
+        "Smad Proteins",
+        "Transforming Growth Factor beta",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "31298401",
+      "title": "Theacrine attenuates myocardial fibrosis after myocardial infarction via the SIRT3/β-catenin/PPARγ pathway in estrogen-deficient mice.",
+      "authors": [
+        "L-L Song",
+        "Y Zhang",
+        "X-R Zhang",
+        "Y-N Song",
+        "H-Z Dai"
+      ],
+      "journal": "European review for medical and pharmacological sciences",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: To investigate the role of theacrine in the protection of ventricular remodeling and chronic heart failure after myocardial infarction in the estrogen-deficient mice. MATERIALS AND METHODS: Female C57BL/6 mice aged 8 weeks old were selected and then subjected to bilateral oophorectomy. At 7 days after surgery, the models of the myocardial infarction were established by ligating the anterior descending coronary artery. On the first day after myocardial infarction, Theacrine (20 mg/kg) was administered via gavage for continuous 28 days. Thereafter, the cardiac function in each group of mice was detected via cardiac ultrasonography for small animals at 7, 14, and 28 days after surgery. The mice were sacrificed after 28 days. The infarct size of mice was determined through 2,3,5-triphenyltetrazolium chloride (TTC) and Evan blue double staining assay, while the myocardial fibrosis was assessed via Masson staining assay. The expression levels of collagen-related proteins Collagen I, Collagen III, alpha-smooth muscle actin (α-SMA), and the transforming growth factor-β (TGF-β) were measured by Western blotting (WB). The terminal deoxynucleotidyl transferase (TdT)-mediated dUTP nick end labeling (TUNEL) staining assay was applied to evaluate the myocardial apoptosis, and the WB was employed to detect apoptosis-associated proteins. The expression level of silent information regulator 2 homologue 3 (SIRT3) protein was detected by immunohistochemistry, and the expression levels of SIRT3, β-catenin and peroxisome proliferator-activated receptor gamma (PPARγ) protein were measured via WB. RESULTS: Compared with those in the Sham group, the ejection fraction (EF) and fractional shortening (FS) in estrogen-deficient mice were significantly lowered, the myocardial fibrosis and myocardial apoptosis were clearly aggravated, and the SIRT3 expression was decreased at 28 days after myocardial infarction. The theacrine could improve the cardiac function after the myocardial infarction in estrogen-deficient mice and relieve both myocardial fibrosis and myocardial apoptosis during chronic remodeling after myocardial infarction in estrogen-deficient mice. After the intervention with theacrine, the estrogen-deficient mice with myocardial infarction had up-regulated SIRT3 and PPARγ levels and a reduced β-catenin level in the heart. CONCLUSIONS: Theacrine is able to activate SIRT3 and repress myocardial fibrosis and apoptosis after myocardial infarction in ovariectomized mice, thereby improving the cardiac function of ovariectomized mice with myocardial infarction through the possible downstream signal pathway β-catenin/PPARγ.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Apoptosis",
+        "Disease Models, Animal",
+        "Echocardiography",
+        "Estrogens",
+        "Female",
+        "Fibrosis",
+        "Heart",
+        "Heart Failure",
+        "Mice",
+        "Myocardial Infarction",
+        "Myocardium",
+        "Ovariectomy",
+        "PPAR gamma",
+        "Signal Transduction",
+        "Sirtuin 3",
+        "Up-Regulation",
+        "Uric Acid",
+        "Ventricular Remodeling",
+        "beta Catenin"
+      ]
+    },
+    {
+      "pmid": "28875060",
+      "title": "Assessment of the Drug-Drug Interaction Potential Between Theacrine and Caffeine in Humans.",
+      "authors": [
+        "Hui He",
+        "Dejian Ma",
+        "Laura Brooks Crone",
+        "Matthew Butawan",
+        "Bernd Meibohm",
+        "Richard J Bloomer",
+        "Charles R Yates"
+      ],
+      "journal": "Journal of caffeine research",
+      "publication_date": "2017-Sep-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Objective: Theacrine, a methylurate class purine alkaloid, triggers diverse pharmacologic responses, including psychostimulatory activity by modulation of adenosinergic and dopaminergic pathways. In a double-blind, placebo-controlled study, theacrine increased energy, concentration, and mood, while reducing fatigue. Because caffeine, a methylxanthine purine alkaloid, is frequently coadministered with theacrine, we sought to determine if a pharmacokinetic and/or pharmacodynamic interaction existed between theacrine and caffeine. Methods: Eight healthy adults received theacrine, as TeaCrine® (25 or 125 mg), caffeine (150 mg), or a combination of theacrine (125 mg) and caffeine (150 mg) in a randomized, double-blind crossover study. Blood samples were collected over a 24-hour period and analyzed by Liquid chromatrography-mass spectrometry/mass spectrometry (LC-MS/MS) for theacrine, caffeine, and paraxanthine. Pharmacodynamic response markers, heart rate and blood pressure, were recorded. Results: Theacrine pharmacokinetics was similar following administration of theacrine alone. Caffeine coadministration increased maximum plasma concentration and area under the curve of theacrine without altering theacrine half-life. Theacrine had no impact on caffeine or paraxanthine pharmacokinetics. There was no difference between treatment groups with regard to heart rate or systolic/diastolic blood pressure. Conclusions: Coadministration of theacrine and caffeine results in a clinically significant pharmacokinetic interaction, viz., increased theacrine exposure. Enhanced oral bioavailability is the most likely mechanism by which caffeine alters theacrine exposure. However, further studies examining the contribution of presystemic elimination mechanisms, for example, efflux transport and/or gut metabolism, to theacrine bioavailability are needed to confirm the exact mechanism(s). Hemodynamic parameters were unaltered despite the pharmacokinetic interaction, suggesting that coadministration of caffeine and theacrine is safe at the doses administered."
+    },
+    {
+      "pmid": "27635133",
+      "title": "A 90-Day Oral Toxicological Evaluation of the Methylurate Purine Alkaloid Theacrine.",
+      "authors": [
+        "Amy Clewell",
+        "Gábor Hirka",
+        "Róbert Glávits",
+        "Philip A Palmer",
+        "John R Endres",
+        "Timothy S Murbach",
+        "Tennille Marx",
+        "Ilona Pasics Szakonyiné"
+      ],
+      "journal": "Journal of toxicology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "A 90-day repeated-dose oral toxicological evaluation was conducted according to GLP and OECD guidelines on the methylurate purine alkaloid theacrine, which is found naturally in certain plants. Four groups of Hsd.Brl.Han Wistar rats (ten/sex/group) were administered theacrine by gavage doses of 0 (vehicle only), 180, 300, and 375 mg/kg bw/day. Two females and one male in the 300 and 375 mg/kg bw/day groups, respectively, died during the study. Histological examination revealed centrilobular hepatocellular necrosis as the probable cause of death. In 375 mg/kg bw/day males, slight reductions in body weight development, food consumption, and feed efficiency, decreased weight of the testes and epididymides and decreased intensity of spermatogenesis in the testes, lack or decreased amount of mature spermatozoa in the epididymides, and decreased amount of prostatic secretions were detected at the end of the three months. At 300 mg/kg bw/day, slight decreases in the weights of the testes and epididymides, along with decreased intensity of spermatogenesis in the testes, and lack or decreased amount of mature spermatozoa in the epididymides were detected in male animals. The NOAEL was considered to be 180 mg/kg bw/day, as at this dose there were no toxicologically relevant treatment-related findings in male or female animals."
+    },
+    {
+      "pmid": "26610558",
+      "title": "Cognitive Performance and Mood Following Ingestion of a Theacrine-Containing Dietary Supplement, Caffeine, or Placebo by Young Men and Women.",
+      "authors": [
+        "Daniel J Kuhman",
+        "Keanan J Joyner",
+        "Richard J Bloomer"
+      ],
+      "journal": "Nutrients",
+      "publication_date": "2015-Nov-19",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Theacrine is a purine alkaloid found primarily in the leaves of the Camellia Kucha plant and is now included within dietary supplements. To compare the effects of a theacrine-containing dietary supplement with caffeine and placebo on energy and mood, as well as objective measures of cognitive performance, heart rate, and blood pressure, 10 healthy men (20.8 ± 0.7 years) and 10 healthy women (22.2 ± 1.1 years) ingested the dietary supplement TheaTrim (Purus Labs; containing a branded form of theacrine (Teacrine™) and caffeine (150 mg)), caffeine only (150 mg), or a placebo on three different days, separated by approximately one week. Before, and for up to 4 h following, ingestion of the assigned condition, subjects completed a subjective assessment of energy and mood, as well as tests of cognitive performance (trail making test (TMT), digit symbol substitution test (DSST)), and reaction time. Heart rate and blood pressure were measured. No condition or interaction effects were noted for TMT, DSST, or reaction time, despite a trend for improvement in selected variables with both TheaTrim and caffeine treatment. Condition effects or trends were noted for subjective feelings, with values for attentive, alert, focused, and energetic higher for TheaTrim than for placebo and caffeine, while values for lethargic and groggy were lower for TheaTrim than for placebo and caffeine. Heart rate and blood pressure were largely unaffected by treatment. These data indicate that TheaTrim treatment does not result in a statistically significant improvement in cognitive performance but may favorably impact multiple subjective feelings related to energy and mood.",
+      "mesh_terms": [
+        "Affect",
+        "Appetite",
+        "Blood Pressure",
+        "Caffeine",
+        "Camellia",
+        "Cognition",
+        "Cross-Over Studies",
+        "Diet Records",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Male",
+        "Motor Activity",
+        "Plant Extracts",
+        "Plant Leaves",
+        "Reaction Time",
+        "Uric Acid",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "23678853",
+      "title": "Theacrine, a purine alkaloid obtained from Camellia assamica var. kucha, attenuates restraint stress-provoked liver damage in mice.",
+      "authors": [
+        "Wei-Xi Li",
+        "Yi-Fang Li",
+        "Yu-Jia Zhai",
+        "Wei-Min Chen",
+        "Hiroshi Kurihara",
+        "Rong-Rong He"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2013-Jul-03",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Theacrine (1,3,7,9-tetramethyluric acid), a purine alkaloid, has proven to be beneficial in maintaining several brain functions and is being studied for potential medicinal uses in recent years. In this study, we isolated theacrine from Camellia assamica var. kucha and investigated its protective effects on liver damage induced by restraint stress in mice. Results showed that 18 h of restraint stress could induce liver damage, with an obvious increase in levels of plasma alanine aminotransferase (ALT) and aspartate aminotransferase (AST). This finding was further confirmed by hepatic pathological examination, which showed inflammatory cell infiltration and focal necrosis of hepatocytes. However, oral administration of theacrine (10, 20, 30 mg/kg for 7 consecutive days) was found to decrease plasma ALT and AST levels, reduce hepatic mRNA levels of inflammatory mediators (IL-1β, TNF-α, IL-6, and IFN-γ), and reverse the histologic damages in stressed mice. Simultaneously, theacrine also significantly decreased the content of malondialdehyde and increased oxygen radical absorbance capacity (ORAC) level in the plasma and liver of stressed mice. These results suggested that the protective effects of theacrine on stress-induced liver damage might be correlated with its antioxidative activity. The antioxidative capacity of theacrine was further evaluated by in vitro ORAC and cellular antioxidant activity assay. The results suggested that the antioxidative capacity of theacrine was not due to the direct action on free radical clearance. Moreover, the elevated activities and gene expressions of superoxide dismutase, catalase, and glutathione peroxidase, as well as the reduced activity of xanthine oxidase by theacrine treatment in stressed mice suggested that the antioxidative activity might be due to the strengthening of the antioxidant system in vivo. On the basis of the above results, theacrine is possibly a good candidate for protecting against or treating lifestyle diseases and might contribute to the study of natural products.",
+      "mesh_terms": [
+        "Animals",
+        "Camellia",
+        "China",
+        "Dietary Supplements",
+        "Hepatic Insufficiency",
+        "Liver",
+        "Mice",
+        "Protective Agents",
+        "Restraint, Physical",
+        "Specific Pathogen-Free Organisms",
+        "Stress, Physiological",
+        "Stress, Psychological",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "22579816",
+      "title": "Locomotor activation by theacrine, a purine alkaloid structurally similar to caffeine: involvement of adenosine and dopamine receptors.",
+      "authors": [
+        "Allison A Feduccia",
+        "Yuanyuan Wang",
+        "Jeffrey A Simms",
+        "Henry Y Yi",
+        "Rui Li",
+        "Leonard Bjeldanes",
+        "Chuangxing Ye",
+        "Selena E Bartlett"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2012-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Purine compounds, such as caffeine, have many health-promoting properties and have proven to be beneficial in treating a number of different conditions. Theacrine, a purine alkaloid structurally similar to caffeine and abundantly present in Camellia kucha, has recently become of interest as a potential therapeutic compound. In the present study, theacrine was tested using a rodent behavioral model to investigate the effects of the drug on locomotor activity. Long Evans rats were injected with theacrine (24 or 48 mg/kg, i.p.) and activity levels were measured. Results showed that the highest dose of theacrine (48 mg/kg, i.p.) significantly increased locomotor activity compared to control animals and activity remained elevated throughout the duration of the session. To test for the involvement of adenosine receptors underlying theacrine's motor-activating properties, rats were administered a cocktail of the adenosine A₁ agonist, N⁶-cyclopentyladenosine (CPA; 0.1 mg/kg, i.p.) and A(2A) receptor agonist 2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamidoadenosine (CGS-21680; 0.2 mg/kg, i.p.). Pre-treatment with theacrine significantly attenuated the motor depression induced by the adenosine receptor agonists, indicating that theacrine is likely acting as an adenosine receptor antagonist. Next, we examined the role of DA D₁ and D₂ receptor antagonism on theacrine-induced hyperlocomotion. Both antagonists, D₁R SCH23390 (0.1 or 0.05 mg/kg, i.p.) and D₂R eticlopride (0.1 mg/kg, i.p.), significantly reduced theacrine-stimulated activity indicating that this behavioral response, at least in part, is mediated by DA receptors. In order to investigate the brain region where theacrine may be acting, the drug (10 or 20 μg) was infused bilaterally into nucleus accumbens (NAc). Theacrine enhanced activity levels in a dose-dependent manner, implicating a role of the NAc in modulating theacrine's effects on locomotion. In addition, theacrine did not induce locomotor sensitization or tolerance after chronic exposure. Taken together, these findings demonstrate that theacrine significantly enhances activity; an effect which is mediated by both the adenosinergic and dopaminergic systems.",
+      "mesh_terms": [
+        "Animals",
+        "Locomotion",
+        "Nucleus Accumbens",
+        "Rats",
+        "Rats, Long-Evans",
+        "Receptors, Dopamine",
+        "Receptors, Purinergic P1",
+        "Uric Acid"
+      ]
+    },
+    {
+      "pmid": "17943563",
+      "title": "Theacrine, a special purine alkaloid with sedative and hypnotic properties from Cammelia assamica var. kucha in mice.",
+      "authors": [
+        "Jie-Kun Xu",
+        "Hiroshi Kurihara",
+        "Liang Zhao",
+        "Xin-Sheng Yao"
+      ],
+      "journal": "Journal of Asian natural products research",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The central nervous system activities of theacrine (1,3,7,9-tetramethyluric acid), a purine alkaloid which is abundantly present in Camellia assamica var. kucha, were investigated in ambulatory activity, pentobarbital-induced sleep and forced swimming test in mice, compared with two other purine alkaloids, caffeine and theobromine. Caffeine treatment led to a marked increase in the ambulatory activity accompanied with decreasing of the immobility time in forced swimming test at both 10 and 30 mg/kg. Under the same conditions, neither theacrine nor theobromine showed obvious excited efficacy. Both doses of theacrine could significantly prolong the sleeping time induced by pentobarbital, while caffeine and theobromine exhibited an inverted effect. These results indicated that theacrine possessed potent sedative and hypnotic properties and its central nervous system effects were different from those of caffeine and theobromine.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Animals",
+        "Behavior, Animal",
+        "Hypnotics and Sedatives",
+        "Male",
+        "Mice",
+        "Purines",
+        "Tea"
+      ]
+    }
+  ]
+}

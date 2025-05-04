@@ -1,0 +1,137 @@
+{
+  "supplement": "Dark Therapy",
+  "query": "Dark Therapy[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:26:33",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "36082412",
+      "title": "Treating postpartum insomnia: a three arm randomised controlled trial of cognitive behavioural therapy and light dark therapy.",
+      "authors": [
+        "Sumedha Verma",
+        "Nina Quin",
+        "Laura Astbury",
+        "Cornelia Wellecke",
+        "Joshua F Wiley",
+        "Margot Davey",
+        "Shantha M W Rajaratnam",
+        "Bei Bei"
+      ],
+      "journal": "Psychological medicine",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Insomnia symptoms are common during the postpartum period, yet interventions remain scarce. This trial aimed to simultaneously examine the efficacy of cognitive behavioural therapy (CBT) and light dark therapy (LDT), targeting different mechanisms, against treatment-as-usual (TAU), in reducing maternal postpartum insomnia symptoms. METHODS: This three-arm randomised controlled trial recruited from the general community in Australia. Nulliparous females 4-12 months postpartum with self-reported insomnia symptoms [Insomnia Severity Index (ISI) scores >7] were included; severe medical/psychiatric conditions were excluded. Participants were randomised 1:1:1 to CBT, LDT, or TAU stratified by ISI (< or ⩾14) and infant age (< or ⩾8 months). Participants and principal investigators were unblinded. Six-week interventions were delivered via digital materials and telephone. The primary outcome was insomnia symptoms (ISI), assessed pre-, midpoint-, post- (primary endpoint), and one-month post-intervention. Analyses were intention-to-treat using latent growth models. RESULTS: 114 participants (CBT = 39, LDT = 36, TAU = 39; Mage = 32.20 ± 4.62 years) were randomised. There were significantly greater reductions in ISI scores in CBT and LDT (effect sizes -2.01 and -1.52 respectively, p < 0.001) from baseline to post-intervention compared to TAU; improvements were maintained at follow-up. Similar effects were observed for self-reported sleep disturbance. There were greater reductions in fatigue in CBT (effect size = 0.85, p < 0.001) but not LDT (p = 0.11) compared to TAU. Changes in sleepiness, depression, and anxiety were non-significant compared to TAU (all p > 0.08). Four participants (11%) in the LDT group reported headaches, dizziness, or nausea; no others reported adverse events. CONCLUSIONS: Therapist-assisted CBT and LDT were feasible during the first postpartum year; data at post-intervention and 1-month follow-up support their safety and efficacy in reducing postpartum insomnia symptoms.",
+      "mesh_terms": [
+        "Female",
+        "Humans",
+        "Infant",
+        "Adult",
+        "Sleep Initiation and Maintenance Disorders",
+        "Self Report",
+        "Sleep Wake Disorders",
+        "Postpartum Period",
+        "Cognitive Behavioral Therapy",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "34816165",
+      "title": "Cognitive Behavioural Therapy and Light Dark Therapy for Maternal Postpartum Insomnia Symptoms: Protocol of a Parallel-Group Randomised Controlled Efficacy Trial.",
+      "authors": [
+        "Sumedha Verma",
+        "Shantha M W Rajaratnam",
+        "Margot Davey",
+        "Joshua F Wiley",
+        "Bei Bei"
+      ],
+      "journal": "Frontiers in global women's health",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Symptoms of insomnia are common in new mothers and have been associated with a range of negative maternal and child outcomes. Despite this, interventions to improve maternal postpartum sleep remain scarce. Cognitive Behavioural Therapy (CBT) and Light Dark Therapy (LDT) represent two promising interventions for insomnia symptoms and associated daytime consequences such as fatigue. This randomised controlled trial examines whether CBT and LDT improve maternal insomnia symptoms as the primary outcome and maternal sleep disturbance, mood, fatigue, and sleepiness as secondary outcomes. This protocol paper outlines the development, design, and implementation of the trial. Methods: Participants are an Australian community-sample of 90 first-time mothers who are 4-12 months postpartum with self-reported symptoms of insomnia (Insomnia Severity Index scores ≥ 8). Exclusion criteria include current severe sleep/psychiatric disorders, unsettled infant sleep behaviour, sleep-affecting medication use, and photosensitivity. Eligible women are randomised into a CBT (strategies targeting sleep, worries, fatigue, and relaxation), LDT, or a treatment-as-usual control condition. Interventions are therapist-assisted and personalised through two telephone calls and include a series of automated intervention emails delivered over 6 weeks. Primary and secondary outcomes are assessed at four time points: baseline, intervention mid-point, post-intervention, and 1-month post-intervention. Discussion: If found effective, these interventions could represent efficacious, safe, and inexpensive treatments for improving postpartum insomnia and mitigate its negative impact on maternal well-being. Interventions tested are highly scalable and can be integrated into postpartum care and made available to the broader community. ANZCTR trial registration: Accessible at: https://anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12618000842268."
+    },
+    {
+      "pmid": "18812254",
+      "title": "Dark therapy for schizoaffective disorder. A case report.",
+      "authors": [
+        "Germán Gómez-Bernal"
+      ],
+      "journal": "Medical hypotheses",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Case Reports",
+        "Letter"
+      ],
+      "mesh_terms": [
+        "Bipolar Disorder",
+        "Darkness",
+        "Eyeglasses",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Psychotic Disorders"
+      ]
+    },
+    {
+      "pmid": "17637502",
+      "title": "Dark therapy for bipolar disorder using amber lenses for blue light blockade.",
+      "authors": [
+        "James Phelps"
+      ],
+      "journal": "Medical hypotheses",
+      "publication_date": "2008",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "\"Dark Therapy\", in which complete darkness is used as a mood stabilizer in bipolar disorder, roughly the converse of light therapy for depression, has support in several preliminary studies. Although data are limited, darkness itself appears to organize and stabilize circadian rhythms. Yet insuring complete darkness from 6 p.m. to 8 a.m. the following morning, as used in several studies thus far, is highly impractical and not accepted by patients. However, recent data on the physiology of human circadian rhythm suggests that \"virtual darkness\" may be achievable by blocking blue wavelengths of light. A recently discovered retinal photoreceptor, whose fibers connect only to the biological clock region of the hypothalamus, has been shown to respond only to a narrow band of wavelengths around 450 nm. Amber-tinted safety glasses, which block transmission of these wavelengths, have already been shown to preserve normal nocturnal melatonin levels in a light environment which otherwise completely suppresses melatonin production. Therefore it may be possible to influence human circadian rhythms by using these lenses at night to blunt the impact of electrical light, particularly the blue light of ubiquitous television screens, by creating a \"virtual darkness\". One way to investigate this would be to provide the lenses to patients with severe sleep disturbance of probable circadian origin. A preliminary case series herein demonstrates that some patients with bipolar disorder experience reduced sleep-onset latency with this approach, suggesting a circadian effect. If amber lenses can effectively simulate darkness, a broad range of conditions might respond to this inexpensive therapeutic tool: common forms of insomnia; sleep deprivation in nursing mothers; circadian rhythm disruption in shift workers; and perhaps even rapid cycling bipolar disorder, a difficult- to -treat variation of a common illness.",
+      "mesh_terms": [
+        "Bipolar Disorder",
+        "Circadian Rhythm",
+        "Darkness",
+        "Eyeglasses",
+        "Humans",
+        "Melatonin",
+        "Models, Biological",
+        "Photobiology",
+        "Photoreceptor Cells, Vertebrate"
+      ]
+    },
+    {
+      "pmid": "15654938",
+      "title": "Dark therapy for mania: a pilot study.",
+      "authors": [
+        "Barbara Barbini",
+        "Francesco Benedetti",
+        "Cristina Colombo",
+        "Danilo Dotoli",
+        "Alessandro Bernasconi",
+        "Mara Cigala-Fulgosi",
+        "Marcello Florita",
+        "Enrico Smeraldi"
+      ],
+      "journal": "Bipolar disorders",
+      "publication_date": "2005-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Recent findings suggest that extended bed rest and darkness could stabilize mood swings in rapid cycling bipolar patients. METHOD: We exposed 16 bipolar inpatients affected by a manic episode to a regimen of 14 h of enforced darkness from 6 p.m. to 8 a.m. each night for three consecutive days [dark therapy (DT)]. Pattern of mood changes were recorded with the Young Mania Rating Scale (YMRS) and compared with a control group of 16 inpatients matched for age, sex, age at onset, number of previous illness episodes and duration of current episode, and were treated with therapy as usual (TAU). RESULTS: Adding DT to TAU resulted in a significantly faster decrease of YMRS scores when patients were treated within 2 weeks from the onset of the current manic episode. When duration of current episode was longer, DT had no effect. Follow-up confirmed that good responders needed a lower dose of antimanic drugs and were discharged earlier from the hospital. CONCLUSIONS: Chronobiological interventions and control of environmental stimuli can be a useful add-on for the treatment of acute mania in a hospital setting.",
+      "mesh_terms": [
+        "Adult",
+        "Bipolar Disorder",
+        "Darkness",
+        "Female",
+        "Humans",
+        "Male",
+        "Periodicity",
+        "Pilot Projects",
+        "Surveys and Questionnaires"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "supplement": "Trans Fat",
+  "query": "Trans Fat[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:58:36",
+  "research_count": 18,
+  "count": 18,
+  "articles": [
+    {
+      "pmid": "35982449",
+      "title": "Molecular effects of the consumption of margarine and butter varying in trans fat composition: a parallel human intervention study.",
+      "authors": [
+        "Dominik Guggisberg",
+        "Kathryn J Burton-Pimentel",
+        "Barbara Walther",
+        "René Badertscher",
+        "Carola Blaser",
+        "Reto Portmann",
+        "Alexandra Schmid",
+        "Thomas Radtke",
+        "Hugo Saner",
+        "Nadine Fournier",
+        "Ueli Bütikofer",
+        "Guy Vergères"
+      ],
+      "journal": "Lipids in health and disease",
+      "publication_date": "2022-Aug-18",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Whereas the dietary intake of industrial trans fatty acids (iTFA) has been specifically associated with inflammation, cardiovascular disease, and type 2 diabetes, understanding the impact of dietary fats on human health remains challenging owing to their complex composition and individual effects of their lipid components on metabolism. The aim of this study is to profile the composition of blood, measured by the fatty acid (FAs) profile and untargeted metabolome of serum and the transcriptome of blood cells, in order to identify molecular signatures that discriminate dietary fat intakes. METHODS: In a parallel study, the molecular effects of consuming dairy fat containing ruminant TFA (rTFA) or margarine containing iTFA were investigated. Healthy volunteers (n = 42; 45-69 y) were randomly assigned to diets containing margarine without TFA as major source of fat (wTFA control group with 0.4 g TFA per 100 g margarine), margarine with iTFA (iTFA group with 4.1 g TFA per 100 g margarine), or butter with rTFA (rTFA group with 6.3 g TFA per 100 g butter) for 4 weeks. The amounts of test products were individually selected so that fat intake contributed to 30-33% of energy requirements and TFA in the rTFA and iTFA groups contributed to up to 2% of energy intake. Changes in fasting blood values of lipid profiles (GC with flame-ionization detection), metabolome profiles (LC-MS, GC-MS), and gene expression (microarray) were measured. RESULTS: Eighteen FAs, as well as 242 additional features measured by LC-MS (185) and GC-MS (54) showed significantly different responses to the diets (PFDR-adjusted < 0.05), mainly distinguishing butter from the margarine diets while gene expression was not differentially affected. The most abundant TFA in the butter, i.e. TFA containing (E)-octadec-11-enoic acid (C18:1 t11; trans vaccenic acid), and margarines, i.e. TFA containing (E)-octadec-9-enoic acid (C18:1 t9; elaidic acid) were reflected in the significantly different serum levels of TFAs measured after the dietary interventions. CONCLUSIONS: The untargeted serum metabolome differentiates margarine from butter intake although the identification of the discriminating features remains a bottleneck. The targeted serum FA profile provides detailed information on specific molecules differentiating not only butter from margarine intake but also diets with different content of iTFAs in margarine. TRIAL REGISTRATION: ClinicalTrials.gov NCT00933322.",
+      "mesh_terms": [
+        "Butter",
+        "Diabetes Mellitus, Type 2",
+        "Dietary Fats",
+        "Humans",
+        "Margarine",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "29955689",
+      "title": "The Impact of Policies to Reduce trans Fat Consumption: A Systematic Review of the Evidence.",
+      "authors": [
+        "Shauna M Downs",
+        "Milan Z Bloem",
+        "Miaobing Zheng",
+        "Elise Catterall",
+        "Beth Thomas",
+        "Lennert Veerman",
+        "Jason Hy Wu"
+      ],
+      "journal": "Current developments in nutrition",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: The consumption of industrially produced trans fatty acids (TFAs) has been associated with an increased risk of heart disease. In recognition of this, countries, states, and cities worldwide have implemented TFA policies aimed at reducing their availability in the food supply. Objective: This article aims to provide an update of the evidence of the effectiveness of policies aimed at reducing TFAs in the food supply. Methods: A systematic review of the literature from 2013 onward was conducted, building on a previously published review that examined the evidence of the impact of TFA policies worldwide from 2000 to 2012. Studies that were 1) empirical, 2) examined a TFA policy, and 3) examined the effect of the policy on TFA amounts and availability pre- and post-policy intervention were included. Modeling studies examining the impact of TFA policies on cardiovascular, equity, and economic outcomes were also included. Results: A total of 18 articles from the updated search were combined with 14 articles from the previous review (total = 32 articles). All types of TFA policies led to their reduction; however, trans fat bans had a larger impact (TFAs virtually eliminated) than did voluntary (range: 20-38% reduction in TFA intakes) or labeling (range: 30-74% reduction in TFA intakes, plasma serum, or breast-milk concentrations) approaches to reducing TFA amounts in the food supply. Product reformulation to reduce TFAs had variable effects on saturated fatty acid (SFA) contents in these foods; however, the combined amount of TFAs and SFAs declined in most products. Overall, the modeling studies indicated that TFA bans would reduce heart disease risk, benefit socioeconomically disadvantaged populations the most, and be cost-saving. Conclusions: Policies aimed at reducing TFAs in the food supply are effective and will likely reduce the burden of diet-related disease, particularly among the most vulnerable socioeconomic groups. Although all policy approaches lead to reductions in TFAs in foods, TFA bans are likely the most effective, economical, and equitable policy approach to reducing TFAs in the food supply."
+    },
+    {
+      "pmid": "29203247",
+      "title": "Co-administration of APD668, a G protein-coupled receptor 119 agonist and linagliptin, a DPPIV inhibitor, prevents progression of steatohepatitis in mice fed on a high trans-fat diet.",
+      "authors": [
+        "Umakant Ashok Bahirat",
+        "Rekha Raghuveer Shenoy",
+        "Rashmi Talwar",
+        "Rajan Naresh Goel",
+        "Kumar V S Nemmani"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "2018-Jan-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Non-Alcoholic SteatoHepatitis (NASH) is the more severe form of Non-Alcoholic Fatty Liver Disease (NAFLD) and is characterized by the presence of hepatic steatosis, oxidative stress, inflammation, hepatocyte injury with or without fibrosis. Recently, GPR119 receptor has emerged as a novel therapeutic target for the treatment of dyslipidemia and non-alcoholic steatohepatitis. In the present study, we investigated the effect of APD668, a GPR119 agonist alone or in combination with linagliptin, a DPPIV inhibitor on the progression of steatohepatitis in mice fed on a high trans-fat diet. In this study, monotherapy with either APD668 or linagliptin caused a reduction in the levels of ALT, AST, glucose, cholesterol and epididymal fat mass but the effect was more pronounced upon treatment with combination of both drugs. On the other hand, combined treatment of APD668 with linagliptin demonstrated a non-significant additive effect in reduction of hepatic triglyceride (-78%) and cholesterol (-56%) compared to monotherapy groups. Moreover, co-administration of APD668 and linagliptin resulted in enhanced levels of active GLP-1 with additional benefit of significant synergistic decrease in body weight gain (-19%) in mice. We speculated that the enhanced effect observed with the combination treatment could be due to either 1) direct activation of GPR119 receptors present in liver and intestine or 2) enhanced active GLP-1 levels or 3) decreased degradation of GLP-1 in-vivo through DPPIV inhibition. Therefore, these findings clearly suggest that GPR119 receptor agonists in combination with DPPIV inhibitors may represent a promising therapeutic strategy for the treatment of non-alcoholic steatohepatitis.",
+      "mesh_terms": [
+        "Animals",
+        "Diet, High-Fat",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Disease Models, Animal",
+        "Disease Progression",
+        "Drug Synergism",
+        "Drug Therapy, Combination",
+        "Linagliptin",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Non-alcoholic Fatty Liver Disease",
+        "Pyrazoles",
+        "Pyrimidines",
+        "Receptors, G-Protein-Coupled",
+        "Weight Gain"
+      ]
+    },
+    {
+      "pmid": "28274625",
+      "title": "APD668, a G protein-coupled receptor 119 agonist improves fat tolerance and attenuates fatty liver in high-trans fat diet induced steatohepatitis model in C57BL/6 mice.",
+      "authors": [
+        "Umakant Ashok Bahirat",
+        "Rekha Raghuveer Shenoy",
+        "Rajan Naresh Goel",
+        "Kumar V S Nemmani"
+      ],
+      "journal": "European journal of pharmacology",
+      "publication_date": "2017-Apr-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "G-protein coupled receptor 119 (GPR119) receptor is a rhodopsin-like, class A Gαs-coupled receptor, predominantly expressed in pancreatic islet cells and intestinal entero-endocrine cells. GPR119 has been emerged as a novel therapeutic target for the treatment of dyslipidemia in type 2 diabetes. In this study, we investigated the effect of APD668, a GPR119 agonist alone and in combination with linagliptin, a DPPIV inhibitor on oral fat tolerance test. Our findings demonstrate that APD668, a GPR119 agonist inhibits the intestinal triglyceride absorption after acute fat load in mice. Single dose administration of APD668 increases incretin secretion and enhances total PYY levels in presence of fat load in mice. We found that, the anti-dyslipidemic action of APD668 was reversed in presence of exendin-3 in oral fat tolerance test. In addition, our results showed that exendin-3 (9-39) failed to block the effect of APD668 on gastric emptying indicating that gastric emptying effects of APD668 are indeed mediated through GPR119 receptor dependent mechanism. Combined administration of APD668 and linagliptin significantly increased plasma active GLP-1 levels in-vivo and showed improvement in fat tolerance. However, APD668 failed to show anti-dyslipidemic activity in tyloxapol-induced hyperlipidemia in mice. Furthermore, we investigated the chronic effects of APD668 on hepatic steatosis in high trans-fat diet fed steatohepatitis model in mice. Oral administration of APD668 in HTF diet fed mice ameliorated hepatic endpoints such as plasma ALT, AST, liver weight and steatosis. These findings suggest that GPR119 agonists may represent a promising therapeutic strategy for the treatment of dyslipidemia and non-alcoholic steatohepatitis.",
+      "mesh_terms": [
+        "Animals",
+        "Diet, High-Fat",
+        "Drug Interactions",
+        "Gastric Emptying",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Linagliptin",
+        "Male",
+        "Mesylates",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Non-alcoholic Fatty Liver Disease",
+        "Oxadiazoles",
+        "Polyethylene Glycols",
+        "Pyrazoles",
+        "Pyrimidines",
+        "Receptors, G-Protein-Coupled",
+        "Tetrazoles",
+        "Thiazoles",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "26197873",
+      "title": "The need for multisectoral food chain approaches to reduce trans fat consumption in India.",
+      "authors": [
+        "Shauna M Downs",
+        "Archna Singh",
+        "Vidhu Gupta",
+        "Karen Lock",
+        "Suparna Ghosh-Jerath"
+      ],
+      "journal": "BMC public health",
+      "publication_date": "2015-Jul-22",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The World Health Organization (WHO) recommends virtually eliminating trans fat from the global food supply. Although several high-income countries have successfully reduced trans fat levels in foods, low- and middle-income countries such as India face additional challenges to its removal from the food supply. This study provides a systems analysis of the Indian food chain to assess intervention options for reducing trans fat intake in low-income consumers. METHODS: Data were collected at the manufacturer, retailer and consumer levels. Qualitative interviews were conducted with vanaspati manufacturers (n = 13) and local food vendors (n = 44). Laboratory analyses (n = 39) of street foods/snacks sold by the vendors were also conducted. Trans fat and snack intakes were also examined in low-income consumers in two rural villages (n = 260) and an urban slum (n = 261). RESULTS: Manufacturers of vanaspati described reducing trans fat levels as feasible but identified challenges in using healthier oils. The fat content of sampled oils from street vendors contained high levels of saturated fat (24.7-69.3 % of total fat) and trans fat (0.1-29.9 % of total fat). Households were consuming snacks high in trans fat as part of daily diets (31 % village and 84.3 % of slum households) and 4 % of rural and 13 % of urban households exceeded WHO recommendations for trans fat intakes. CONCLUSIONS: A multisectoral food chain approach to reducing trans fat is needed in India and likely in other low- and middle-income countries worldwide. This will require investment in development of competitively priced bakery shortenings and economic incentives for manufacturing foods using healthier oils. Increased production of healthier oils will also be required alongside these investments, which will become increasingly important as more and more countries begin investing in palm oil production.",
+      "mesh_terms": [
+        "Commerce",
+        "Consumer Behavior",
+        "Dietary Fats",
+        "Fatty Acids",
+        "Fatty Acids, Unsaturated",
+        "Food Supply",
+        "Health Behavior",
+        "Humans",
+        "India",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "25936963",
+      "title": "Trans-fat supplementation over two generations of rats exacerbates behavioral and biochemical damages in a model of mania: Co-treatment with lithium.",
+      "authors": [
+        "V T Dias",
+        "F Trevizol",
+        "Kr Roversi",
+        "F T Kuhn",
+        "K Roversi",
+        "C S Pase",
+        "R C S Barcelos",
+        "T Emanuelli",
+        "M E Bürger"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2015-Jul-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "AIMS: We investigated whether trans-fat supplemented over two generations of rats could alter neuronal membranes and influence mania-like behaviors, as well as the effects of lithium (Li). MAIN METHODS: Two generations of female rats were supplemented with soybean oil (SO-C, rich in n-6 fatty acids - FA) or hydrogenated vegetable fat (HVF, rich in trans-fatty acids - TFA). Male rats born from the 1st and 2nd generations were maintained in the same supplementation until adulthood, when they were exposed to an amphetamine (AMPH)-induced model of mania and co-treated with Li or not. KEY FINDINGS: AMPH increased locomotion of both generations and this influence was higher in the HVF than in the SO-C group. Conversely, AMPH increased long-term memory in SO-C group of the 2nd generation. HVF supplementation allowed hippocampal TFA incorporation in rats of both generations (0.1 and 0.2%, respectively). Oxidative parameters indicated higher levels of protein carbonyl (PC) in the HVF group with no changes in catalase (CAT) activity in the 1st generation. In the 2nd generation, AMPH increased PC levels of both experimental groups, whereas CAT activity was lower per se in the HVF group only. The co-treatment with Li leveled out all behavioral parameters, PC levels and CAT activity indicating a significant neuroprotective role. SIGNIFICANCE: These findings suggest that chronic HVF consumption allows a rising incorporation of TFA in the brain, which may be reflected on the neuropsychiatric conditions related to mania, whereas the effects of Li are not modified in the course of this harmful dietary habit.",
+      "mesh_terms": [
+        "Amphetamines",
+        "Analysis of Variance",
+        "Animals",
+        "Bipolar Disorder",
+        "Catalase",
+        "Dietary Supplements",
+        "Female",
+        "Hippocampus",
+        "Lithium",
+        "Locomotion",
+        "Male",
+        "Memory, Long-Term",
+        "Rats",
+        "Rats, Wistar",
+        "Soybean Oil",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "25499313",
+      "title": "Cross-generational trans fat intake facilitates mania-like behavior: oxidative and molecular markers in brain cortex.",
+      "authors": [
+        "F Trevizol",
+        "Kr Roversi",
+        "V T Dias",
+        "K Roversi",
+        "R C S Barcelos",
+        "F T Kuhn",
+        "C S Pase",
+        "R Golombieski",
+        "J C Veit",
+        "J Piccolo",
+        "D Pochmann",
+        "L O Porciúncula",
+        "T Emanuelli",
+        "J B T Rocha",
+        "M E Bürger"
+      ],
+      "journal": "Neuroscience",
+      "publication_date": "2015-Feb-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Since that fast food consumption have raised concerns about people's health, we evaluated the influence of trans fat consumption on behavioral, biochemical and molecular changes in the brain-cortex of second generation rats exposed to a model of mania. Two successive generations of female rats were supplemented with soybean oil (SO, rich in n-6 FA, control group), fish oil (FO, rich in n-3 FA) and hydrogenated vegetable fat (HVF, rich in trans FA) from pregnancy, lactation to adulthood, when male rats from 2nd generation received amphetamine (AMPH-4 mg/kg-i.p., once a day, for 14 days) treatment. AMPH increased locomotor index in all animals, which was higher in the HVF group. While the FO group showed increased n-3 polyunsaturated fatty acid (PUFA) incorporation and reduced n-6/n-3 PUFA ratio, HVF allowed trans fatty acid (TFA) incorporation and increased n-6/n-3 PUFA ratio in the brain-cortex. In fact, the FO group showed minor AMPH-induced hyperactivity, decreased reactive species (RS) generation per se, causing no changes in protein carbonyl (PC) levels and dopamine transporter (DAT). FO supplementation showed molecular changes, since proBDNF was increased per se and reduced by AMPH, decreasing the brain-derived neurotrophic factor (BDNF) level following drug treatment. Conversely, HVF was related to increased hyperactivity, higher PC level per se and higher AMPH-induced PC level, reflecting on DAT, whose levels were decreased per se as well as in AMPH-treated groups. In addition, while HVF increased BDNF-mRNA per se, AMPH reduced this value, acting on BDNF, whose level was lower in the same AMPH-treated experimental group. ProBDNF level was influenced by HVF supplementation, but it was not sufficient to modify BDNF level. These findings reinforce that prolonged consumption of trans fat allows TFA incorporation in the cortex, facilitating hyperactive behavior, oxidative damages and molecular changes. Our study is a warning about cross-generational consumption of processed food, since high trans fat may facilitate the development of neuropsychiatric conditions, including bipolar disorder (BD).",
+      "mesh_terms": [
+        "Age Factors",
+        "Amphetamine",
+        "Animals",
+        "Bipolar Disorder",
+        "Brain Chemistry",
+        "Brain-Derived Neurotrophic Factor",
+        "Cerebral Cortex",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Fatty Acids, Omega-3",
+        "Fatty Acids, Omega-6",
+        "Female",
+        "Fish Oils",
+        "Male",
+        "Motor Activity",
+        "Pregnancy",
+        "Protein Carbonylation",
+        "Rats",
+        "Rats, Wistar",
+        "Reactive Oxygen Species",
+        "Soybean Oil",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "25394793",
+      "title": "Cross-generational trans fat intake modifies BDNF mRNA in the hippocampus: Impact on memory loss in a mania animal model.",
+      "authors": [
+        "Fabíola Trevizol",
+        "Verônica T Dias",
+        "Katiane Roversi",
+        "Raquel C S Barcelos",
+        "Fábio T Kuhn",
+        "Karine Roversi",
+        "Camila S Pase",
+        "Ronaldo Golombieski",
+        "Juliana C Veit",
+        "Jaqueline Piccolo",
+        "Tatiana Emanuelli",
+        "João B T Rocha",
+        "Marilise E Bürger"
+      ],
+      "journal": "Hippocampus",
+      "publication_date": "2015-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Recently, we have described the influence of dietary fatty acids (FA) on mania-like behavior of first generation animals. Here, two sequential generations of female rats were supplemented with soybean oil (SO, rich in n-6 FA, control group), fish oil (FO, rich in n-3 FA) and hydrogenated vegetable fat (HVF, rich in trans FA) from pregnancy and during lactation. In adulthood, half of each group was exposed to an amphetamine (AMPH)-induced mania animal model for behavioral, biochemical and molecular assessments. FO supplementation was associated with lower reactive species (RS) generation and protein carbonyl (PC) levels and increased dopamine transporter (DAT) levels, while HVF increased RS and PC levels, thus decreasing catalase (CAT) activity and DAT levels in hippocampus after AMPH treatment. AMPH impaired short- (1 h) and long- (24 h) term memory in the HVF group. AMPH exposure was able to reduce hippocampal BDNF- mRNA expression, which was increased in FO. While HVF was related to higher trans FA (TFA) incorporation in hippocampus, FO was associated with increased percentage of n-3 polyunsaturated FA (PUFA) together with lower n-6/n-3 PUFA ratio. Interestingly, our data showed a positive correlation between brain-derived neurotrophic factor (BDNF) mRNA and short- and long-term memory (r(2)  = 0.53; P = 0.000/r(2)  = 0.32; P = 0.011, respectively), as well as a negative correlation between PC and DAT levels (r(2)  = 0.23; P = 0.015). Our findings confirm that provision of n-3 or TFA during development over two generations is able to change the neuronal membrane lipid composition, protecting or impairing the hippocampus, respectively, thus affecting neurothrophic factor expression such as BDNF mRNA. In this context, chronic consumption of trans fats over two generations can facilitate the development of mania-like behavior, so leading to memory impairment and emotionality, which are related to neuropsychiatric conditions.",
+      "mesh_terms": [
+        "Animals",
+        "Bipolar Disorder",
+        "Brain-Derived Neurotrophic Factor",
+        "Disease Models, Animal",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Female",
+        "Fish Oils",
+        "Hippocampus",
+        "Lactation",
+        "Male",
+        "Memory Disorders",
+        "Pregnancy",
+        "Prenatal Exposure Delayed Effects",
+        "RNA, Messenger",
+        "Rats, Wistar",
+        "Recognition, Psychology",
+        "Soybean Oil",
+        "Trans Fatty Acids",
+        "Vegetable Products"
+      ]
+    },
+    {
+      "pmid": "24099723",
+      "title": "Reduction in dietary trans fat intake is associated with decreased LDL particle number in a primary prevention population.",
+      "authors": [
+        "M Garshick",
+        "H Mochari-Greenberger",
+        "L Mosca"
+      ],
+      "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+      "publication_date": "2014-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "BACKGROUND AND AIMS: Increased trans fat intake has been associated with an increased risk of cardiovascular disease (CVD). While the effect of trans fat on traditional lipids is known, it's association with LDL particle number (LDL-P), a novel marker of CVD risk, has not been established. The purpose of this study was to determine the association between trans fat intake and LDL-P over 1-year among individuals participating in a lifestyle intervention trial. METHODS AND RESULTS: Family members (N = 400, 33% male, mean age 48 ± 13) of patients hospitalized with CVD who participated in a 1-year randomized controlled primary prevention lifestyle intervention trial and had complete dietary data and LDL-P measures at baseline and 1-year. Change in trans fat as a percentage of total diet and mean absolute change in LDL-P at 1-year was assessed using multivariate adjusted linear regression models. At baseline, there was a significant positive correlation between dietary trans fat intake and LDL-P (Beta = 37, p = 0.04). For every 1 percent change in trans fat intake there was a 27 nmol/L change in LDL-P (Beta = 27, p = 0.04) over 1-year which was independent of baseline predictors and confounders (age, sex, smoking, statin use, waist size and physical activity; Beta = 30, p = 0.03). CONCLUSION: A reduction in trans fat intake over 1-year was significantly associated with a reduction in LDL-P independent of potential confounders. Healthcare providers should reinforce the beneficial impact of a healthy diet, and in particular modifications in trans fat intake on improving lipid profiles.",
+      "mesh_terms": [
+        "Adult",
+        "Cardiovascular Diseases",
+        "Cholesterol, LDL",
+        "Diet",
+        "Diet, Fat-Restricted",
+        "Energy Intake",
+        "Family",
+        "Female",
+        "Follow-Up Studies",
+        "Humans",
+        "Life Style",
+        "Male",
+        "Middle Aged",
+        "Multivariate Analysis",
+        "Primary Prevention",
+        "Risk Factors",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "23599549",
+      "title": "The effectiveness of policies for reducing dietary trans fat: a systematic review of the evidence.",
+      "authors": [
+        "Shauna M Downs",
+        "Anne Marie Thow",
+        "Stephen R Leeder"
+      ],
+      "journal": "Bulletin of the World Health Organization",
+      "publication_date": "2013-Apr-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Systematic Review"
+      ],
+      "abstract": "OBJECTIVE: To systematically review evidence for the effectiveness of policies, including self-regulation, aimed at reducing industrially produced trans fatty acids (TFAs) in food. METHODS: The Medline, Embase and Cinahl databases were searched to identify peer-reviewed articles examining the effect of TFA policies. In addition, the first 20 pages of Google searches were examined for articles from the grey literature. A study was included if: (i) it was empirical and conducted in a \"real-world\" setting (i.e. modelling studies were excluded); (ii) it examined a TFA policy involving, for example, labelling, voluntary limits or bans; and (iii) it examined a policy's effect on TFA levels in food, people's diets, blood or breast milk. FINDINGS: Twenty-six articles met the inclusion criteria: 5 involved voluntary self-regulation; 8, labelling alone; 4, labelling and voluntary limits; 5, local bans and 4, national bans. Overall, the TFA content of food decreased with all types of policy intervention. In general, saturated fat levels increased or decreased, depending on the product type, and total fat content remained stable. National and local bans were most effective at eliminating TFAs from the food supply, whereas mandatory TFA labelling and voluntary TFA limits had a varying degree of success, which largely depended on food category. CONCLUSION: Policies aimed at restricting the TFA content of food were associated with significant reductions in TFA levels, without increasing total fat content. Such policies are feasible, achievable and likely to have an effect on public health.",
+      "mesh_terms": [
+        "Dietary Fats",
+        "Food Labeling",
+        "Global Health",
+        "Health Policy",
+        "Humans",
+        "Lipids",
+        "Milk, Human",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "22144172",
+      "title": "Nutrigenomics of hepatic steatosis in a feline model: effect of monosodium glutamate, fructose, and Trans-fat feeding.",
+      "authors": [
+        "Kate S Collison",
+        "Marya Z Zaidi",
+        "Soad M Saleh",
+        "Nadine J Makhoul",
+        "Angela Inglis",
+        "Joey Burrows",
+        "Joseph A Araujo",
+        "Futwan A Al-Mohanna"
+      ],
+      "journal": "Genes & nutrition",
+      "publication_date": "2012-Apr",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Nonalcoholic fatty liver disease begins with a relatively benign hepatic steatosis, often associated with increased adiposity, but may progress to a more severe nonalcoholic steatohepatitis with inflammation. A subset of these patients develops progressive fibrosis and ultimately cirrhosis. Various dietary components have been shown to contribute to the development of liver disease, including fat, sugars, and neonatal treatment with high doses of monosodium glutamate (MSG). However, rodent models of progressive disease have been disappointing, and alternative animal models of diet-induced liver disease would be desirable, particularly if they contribute to our knowledge of changes in gene expression as a result of dietary manipulation. The domestic cat has previously been shown to be an appropriate model for examining metabolic changes-associated human diseases such as diabetes. Our aim was therefore to compare changes in hepatic gene expression induced by dietary MSG, with that of a diet containing Trans-fat and high fructose corn syrup (HFCS), using a feline model. MSG treatment increased adiposity and promoted hepatic steatosis compared to control (P < 0.05). Exposure to Trans-fat and HFCS promoted hepatic fibrosis and markers of liver dysfunction. Affymetrix microarray analysis of hepatic gene expression showed that dietary MSG promoted the expression of genes involved in cholesterol and steroid metabolism. Conversely, Trans-fat and HFCS feeding promoted the expression of genes involved in lipolysis, glycolysis, liver damage/regeneration, and fibrosis. Our feline model examining gene-diet interactions (nutrigenomics) demonstrates how dietary MSG, Trans-fat, and HFCS may contribute to the development of hepatic steatosis."
+    },
+    {
+      "pmid": "21795740",
+      "title": "Effect of industrially produced trans fat on markers of systemic inflammation: evidence from a randomized trial in women.",
+      "authors": [
+        "Nathalie T Bendsen",
+        "Steen Stender",
+        "Pal B Szecsi",
+        "Steen B Pedersen",
+        "Samar Basu",
+        "Lars I Hellgren",
+        "John W Newman",
+        "Thomas M Larsen",
+        "Steen B Haugaard",
+        "Arne Astrup"
+      ],
+      "journal": "Journal of lipid research",
+      "publication_date": "2011-Oct",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Consumption of industrially produced trans fatty acids (IP-TFA) has been positively associated with systemic markers of low-grade inflammation and endothelial dysfunction in cross-sectional studies, but results from intervention studies are inconclusive. Therefore, we conducted a 16 week double-blind parallel intervention study with the objective to examine the effect of IP-TFA intake on biomarkers of inflammation, oxidative stress, and endothelial dysfunction. Fifty-two healthy overweight postmenopausal women (49 completers) were randomly assigned to receive either partially hydrogenated soybean oil (15.7 g/day IP-TFA) or control oil without IP-TFA. After 16 weeks, IP-TFA intake increased baseline-adjusted serum tumor necrosis factor (TNF) α by 12% [95% confidence interval (CI): 5-20; P = 0.002] more in the IP-TFA group compared with controls. Plasma soluble TNF receptors 1 and 2 were also increased by IP-TFA [155 pg/ml (CI: 63-247); P < 0.001 and 480 pg/ml (CI: 72-887); P = 0.02, respectively]. Serum C-reactive protein, interleukin (IL) 6 and adiponectin and subcutaneous abdominal adipose tissue mRNA expression of IL6, IL8, TNFα, and adiponectin as well as ceramide content were not affected by IP-TFA, nor was urinary 8-iso-prostaglandin-F(2α). In conclusion, this dietary trial indicates that the mechanisms linking dietary IP-TFA to cardiovascular disease may involve activation of the TNFα system.",
+      "mesh_terms": [
+        "Biomarkers",
+        "Cardiovascular Diseases",
+        "Dietary Fats, Unsaturated",
+        "Double-Blind Method",
+        "Endothelium",
+        "Female",
+        "Food Industry",
+        "Humans",
+        "Hydrogenation",
+        "Inflammation",
+        "Middle Aged",
+        "Overweight",
+        "Oxidative Stress",
+        "Postmenopause",
+        "Receptors, Tumor Necrosis Factor, Type I",
+        "Receptors, Tumor Necrosis Factor, Type II",
+        "Risk Factors",
+        "Soybean Oil",
+        "Time Factors",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "21320382",
+      "title": "Ruminant and industrial sources of trans-fat and cardiovascular and diabetic diseases.",
+      "authors": [
+        "Anne-Laure Tardy",
+        "Béatrice Morio",
+        "Jean-Michel Chardigny",
+        "Corinne Malpuech-Brugère"
+      ],
+      "journal": "Nutrition research reviews",
+      "publication_date": "2011-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "The various positional isomers of oleic acid (18 : 1Δ9c or 9c-18 : 1) may have distinct biological effects. Detrimental effects of consumption of industrial trans-fatty acids (TFA) (elaidic acid; 18 : 1Δ9t) from partially hydrogenated vegetable oils on CVD risk factors are well documented. In addition, epidemiological data suggest that chronic consumption of industrial sources of TFA could alter insulin sensitivity and predispose for type 2 diabetes. However, intervention studies on this issue have remained inconclusive. Moreover, very little information is available on the effect of natural sources of TFA (vaccenic acid; 18 : 1Δ11t) coming from dairy products and ruminant meat on the development of CVD and type 2 diabetes. The review focuses on the impact of the consumption of ruminant TFA in relation to cardiovascular risk factors, inflammation and type 2 diabetes.",
+      "mesh_terms": [
+        "Animals",
+        "Cardiovascular Diseases",
+        "Dairy Products",
+        "Diabetes Mellitus, Type 2",
+        "Dietary Fats",
+        "Humans",
+        "Inflammation",
+        "Meat",
+        "Ruminants",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "21270839",
+      "title": "The effect of conjugated linoleic acid, a natural trans fat from milk and meat, on human blood pressure: results from a randomized crossover feeding study.",
+      "authors": [
+        "M F Engberink",
+        "J M Geleijnse",
+        "A J Wanders",
+        "I A Brouwer"
+      ],
+      "journal": "Journal of human hypertension",
+      "publication_date": "2012-Feb",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Cis-9, trans-11 conjugated linoleic acid (CLA) is a natural trans fatty acid that is largely restricted to ruminant fats and consumed in foods and supplements. Its role in blood pressure (BP) regulation is still unclear. We examined the effect of cis-9, trans-11 CLA on BP compared with oleic acid. A total of 61 healthy volunteers were sequentially fed each of 3 diets for 3 weeks, in random order, for a total of 9 weeks. The diets were identical except for 7% of energy (18.9 g in a diet of 10 MJ day(-1)) that was provided either by oleic acid, by industrial trans fatty acids or by cis-9, trans-11 CLA. We measured BP on two separate days at the end of each intervention period. At baseline, mean BP was 113.8±14.4 mm Hg systolic and 66.3±9.6 mm Hg diastolic. The effect of the CLA diet compared with the oleic acid diet was 0.11 mm Hg (95% confidence interval: -1.27, 1.49) systolic and -0.45 mm Hg (-1.63, 0.73) diastolic. After the industrial trans fatty acid diet, the effect was 1.13 mm Hg (-0.25, 2.51) systolic and -0.44 mm Hg (-1.62, 0.73) diastolic compared with the oleic acid diet. Our study suggests that short-term high intakes of cis-9,trans-11 CLA do not affect BP in healthy volunteers.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Blood Pressure",
+        "Cross-Over Studies",
+        "Dairy Products",
+        "Dietary Fats",
+        "Dietary Supplements",
+        "Female",
+        "Food, Fortified",
+        "Humans",
+        "Linoleic Acids, Conjugated",
+        "Male",
+        "Meat",
+        "Middle Aged",
+        "Netherlands",
+        "Oleic Acid",
+        "Time Factors",
+        "Treatment Outcome",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "20166463",
+      "title": "Trans fat intake in children: risks and recommendations.",
+      "authors": [
+        "Lindsay R Bauer",
+        "Julee Waldrop"
+      ],
+      "journal": "Pediatric nursing",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Partially hydrogenated oils, also known as trans fat, are found in many baked goods, snack foods, fast foods, margarines, and shortening. Partially hydrogenated oil is vegetable oil that has been modified to be solid at room temperature and lengthens the shelf life of products in which it is used. Consumption of trans fat has been linked to negative changes in lipoproteins, systemic inflammation, coronary heart disease, and diabetes mellitus. Evidence of processes leading to these conditions has also been found in children. Dietary habits and preferences are established in early childhood; therefore, it is important to intervene early with parents to help them make healthier food choices for their families. Educational intervention should reflect successful programs, be based on a theoretical model, and focus on the adverse health effects of consuming trans fat and the importance of choosing a diet that favors unprocessed foods.",
+      "mesh_terms": [
+        "Child",
+        "Child Nutrition Sciences",
+        "Child Nutritional Physiological Phenomena",
+        "Child Welfare",
+        "Child, Preschool",
+        "Coronary Disease",
+        "Diabetes Mellitus, Type 2",
+        "Dietary Fats",
+        "Energy Intake",
+        "Fast Foods",
+        "Feeding Behavior",
+        "Health Education",
+        "Humans",
+        "Hypercholesterolemia",
+        "Infant",
+        "Menu Planning",
+        "Nutrition Policy",
+        "Parents",
+        "Pediatric Nursing",
+        "Risk Factors",
+        "Trans Fatty Acids"
+      ]
+    },
+    {
+      "pmid": "19620165",
+      "title": "Cholesterol control beyond the clinic: New York City's trans fat restriction.",
+      "authors": [
+        "Sonia Y Angell",
+        "Lynn Dee Silver",
+        "Gail P Goldstein",
+        "Christine M Johnson",
+        "Deborah R Deitcher",
+        "Thomas R Frieden",
+        "Mary T Bassett"
+      ],
+      "journal": "Annals of internal medicine",
+      "publication_date": "2009-Jul-21",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Decades after key modifiable risk factors were identified, cardiovascular disease remains the leading cause of preventable death, and only one quarter of persons with high cholesterol levels have attained recommended levels of control. Cholesterol control efforts have focused on consumer education and medical treatment. A powerful, complementary approach is to change the makeup of food, a route the New York City Department of Health and Mental Hygiene took when it restricted artificial trans fat--a contributor to coronary heart disease--in restaurants. The Department first undertook a voluntary campaign, but this effort did not decrease the proportion of restaurants that used artificial trans fat. In December 2006, the Board of Health required that artificial trans fat be phased out of restaurant food. To support implementation, the Department provided technical assistance to restaurants. By November 2008, the restriction was in full effect in all New York City restaurants and estimated restaurant use of artificial trans fat for frying, baking, or cooking or in spreads had decreased from 50% to less than 2%. Preliminary analyses suggest that replacement of artificial trans fat has resulted in products with more healthful fatty acid profiles. For example, in major restaurant chains, total saturated fat plus trans fat in French fries decreased by more than 50%. At 2 years, dozens of national chains had removed artificial trans fat, and 13 jurisdictions, including California, had adopted similar laws. Public health efforts that change food content to make default choices healthier enable consumers to more successfully meet dietary recommendations and reduce their cardiovascular risk.",
+      "mesh_terms": [
+        "Cardiovascular Diseases",
+        "Dietary Fats",
+        "Health Education",
+        "Health Policy",
+        "Humans",
+        "Legislation, Food",
+        "New York City",
+        "Restaurants",
+        "Risk Factors",
+        "Trans Fatty Acids",
+        "United States"
+      ]
+    },
+    {
+      "pmid": "19474135",
+      "title": "Dairy and industrial sources of trans fat do not impair peripheral insulin sensitivity in overweight women.",
+      "authors": [
+        "Anne-Laure Tardy",
+        "Stéphanie Lambert-Porcheron",
+        "Corinne Malpuech-Brugère",
+        "Christophe Giraudet",
+        "Jean-Paul Rigaudière",
+        "Brigitte Laillet",
+        "Pascale Leruyet",
+        "Jean-Louis Peyraud",
+        "Yves Boirie",
+        "Martine Laville",
+        "Marie-Caroline Michalski",
+        "Jean-Michel Chardigny",
+        "Béatrice Morio"
+      ],
+      "journal": "The American journal of clinical nutrition",
+      "publication_date": "2009-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: The 2 major dietary sources of trans fatty acids (TFAs) are partially hydrogenated oils and ruminant-derived products. Epidemiologic data suggest that chronic consumption of industrial sources of TFAs could be damaging to insulin sensitivity, but intervention studies on this issue have remained inconclusive. OBJECTIVE: The trial was designed to compare the effects of dairy compared with industrial sources of TFAs on insulin sensitivity in overweight women. DESIGN: Sixty-three healthy women with abdominal obesity [waist circumference >88 cm and a body mass index (in kg/m(2)) >28] were recruited. After a run-in period, the volunteers were randomly assigned to consume 1 of 3 four-week diets: 60 g low-TFA lipids/d (0.54 g/d; n = 21), ruminant TFA-rich lipids (4.86 g/d; n = 21), or industrial TFA-rich lipids (5.58 g/d; n = 21). Changes in peripheral insulin sensitivity were assessed by using hyperinsulinemic-euglycemic clamps. RESULTS: After the intervention period, fasting glycemia and insulinemia and insulin sensitivity were not significantly modified in either group (P > 0.05). CONCLUSIONS: These data indicate that consumption of dairy- and industrial-source TFAs for 4 wk at nutritional levels do not impair peripheral insulin sensitivity in insulin-resistant women. Our study may not preassess the effects of TFAs in normal insulin-sensitive individuals. This trial was registered at ClinicalTrials.gov as NCT00617435.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Animals",
+        "Blood Glucose",
+        "Body Composition",
+        "Body Mass Index",
+        "Dairy Products",
+        "Dietary Fats",
+        "Double-Blind Method",
+        "Female",
+        "Glucose Clamp Technique",
+        "Humans",
+        "Hyperinsulinism",
+        "Insulin",
+        "Insulin Resistance",
+        "Obesity",
+        "Overweight",
+        "Patient Compliance",
+        "Phospholipids",
+        "Ruminants",
+        "Trans Fatty Acids",
+        "Waist Circumference",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "19001666",
+      "title": "Effect of dietary monosodium glutamate on trans fat-induced nonalcoholic fatty liver disease.",
+      "authors": [
+        "Kate S Collison",
+        "Zakia Maqbool",
+        "Soad M Saleh",
+        "Angela Inglis",
+        "Nadine J Makhoul",
+        "Razan Bakheet",
+        "Mohammed Al-Johi",
+        "Rana Al-Rabiah",
+        "Marya Z Zaidi",
+        "Futwan A Al-Mohanna"
+      ],
+      "journal": "Journal of lipid research",
+      "publication_date": "2009-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The effects of dietary monosodium glutamate (MSG) on trans-fatty acid (TFA)-induced nonalcoholic fatty liver disease (NAFLD) are addressed in an animal model. We used Affymetrix microarray analysis to investigate hepatic gene expression and the contribution of visceral white adipose tissue (WAT) to diet-induced NAFLD. Trans-fat feeding increased serum leptin, FFA, HDL-cholesterol (HDL-C), and total cholesterol (T-CHOL) levels, while robustly elevating the expression of genes involved in hepatic lipogenesis, including the transcription factor sterol-regulatory element binding protein 1c. Histological examination revealed hepatic macrosteatosis in TFA-fed animals. Conversely, dietary MSG at doses similar to human average daily intake caused hepatic microsteatosis and the expression of beta-oxidative genes. Serum triglyceride, FFA, and insulin levels were elevated in MSG-treated animals. The abdominal cavities of TFA- or MSG-treated animals had increased WAT deposition compared with controls. Microarray analysis of WAT gene expression revealed increased lipid biosynthetic gene expression, together with a 50% decrease in the key transcription factor Ppargc1a. A combination of TFA+MSG resulted in the highest levels of serum HDL-C, T-CHOL, and leptin. Microarray analysis of TFA+MSG-treated livers showed elevated expression of markers of hepatic inflammation, lipid storage, cell damage, and cell cycle impairment. TFA+MSG mice also had a high degree of WAT deposition and lipogenic gene expression. Levels of Ppargc1a were further reduced to 25% by TFA+MSG treatment. MSG exacerbates TFA-induced NAFLD.",
+      "mesh_terms": [
+        "Adiposity",
+        "Animals",
+        "Blood Glucose",
+        "Cell Size",
+        "Cholesterol",
+        "Diet",
+        "Dietary Fats",
+        "Fatty Liver",
+        "Female",
+        "Gene Expression Regulation",
+        "Insulin",
+        "Intra-Abdominal Fat",
+        "Leptin",
+        "Lipid Metabolism",
+        "Lipids",
+        "Liver",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Oligonucleotide Array Sequence Analysis",
+        "Organ Size",
+        "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+        "Pregnancy",
+        "Sodium Glutamate",
+        "Sterol Regulatory Element Binding Protein 1",
+        "Trans Fatty Acids",
+        "Trans-Activators",
+        "Transcription Factors"
+      ]
+    }
+  ]
+}

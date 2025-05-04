@@ -1,0 +1,50 @@
+{
+  "supplement": "Winter Exercise",
+  "query": "Winter Exercise[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 23:06:15",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "31181728",
+      "title": "Winter Exercise Reduces Allergic Airway Inflammation: A Randomized Controlled Study.",
+      "authors": [
+        "Johanna Prossegger",
+        "Daniela Huber",
+        "Carina Grafetstätter",
+        "Christina Pichler",
+        "Herbert Braunschmid",
+        "Renate Weisböck-Erdheim",
+        "Arnulf Hartl"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2019-Jun-08",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Background: Physical exercise is often recommended as additional treatment for people suffering from allergic rhinitis and/or asthma, but less is known about the specific effects of recreational winter outdoor exercise on allergic airway inflammation. Methods: We performed a longitudinal, randomized controlled intervention study to investigate the effects of recreational winter exercise on allergic airway inflammation, quality of life, spirometry and cardiorespiratory fitness in adults suffering from allergic rhinitis and/or asthma. The exercise group participated in a ten-day winter sports program. The control group did not receive any intervention. Results: A significant improvement of fractional oral exhaled nitric oxide (FeNO; p = 0.008, day 10) and a significant decrease in FeNO after a single 4 h hiking tour (p < 0.001, time effect) were observed for the exercise group. The nasal eosinophilic cell count revealed a short-term reduction (p = 0.021, treatment effect) in the exercise group and for the visual analogue scale sustainable improvements in allergic symptoms (p < 0.001, day 60) were found. No adverse effects of outdoor winter exercise were observed. Conclusion: Recreational winter exercise at moderately cold temperatures reduces allergic airway inflammation measured as FeNO, nasal eosinophilic cell count and induces sustainable improvements in allergic symptoms.",
+      "mesh_terms": [
+        "Adult",
+        "Eosinophils",
+        "Exercise",
+        "Exercise Therapy",
+        "Exhalation",
+        "Female",
+        "Humans",
+        "Leukocyte Count",
+        "Male",
+        "Middle Aged",
+        "Nasal Lavage Fluid",
+        "Nitric Oxide",
+        "Quality of Life",
+        "Respiratory Hypersensitivity",
+        "Seasons",
+        "Spirometry",
+        "Visual Analog Scale",
+        "Young Adult"
+      ]
+    }
+  ]
+}

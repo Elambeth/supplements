@@ -1,0 +1,73 @@
+{
+  "supplement": "Gale of the Wind",
+  "query": "Gale of the Wind[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:37:50",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "26861224",
+      "title": "Performance of wind-powered soil electroremediation process for the removal of 2,4-D from soil.",
+      "authors": [
+        "F L Souza",
+        "J Llanos",
+        "C Sáez",
+        "M R V Lanza",
+        "M A Rodrigo",
+        "P Cañizares"
+      ],
+      "journal": "Journal of environmental management",
+      "publication_date": "2016-Apr-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "In this work, it is studied a wind-powered electrokinetic soil flushing process for the removal of pesticides from soil. This approach aims to develop an eco-friendly electrochemical soil treatment technique and to face the in-situ treatment of polluted soils at remote locations. Herbicide 2,4 dichlorophenoxyacetic acid (2,4-D) is selected as a model pollutant for the soil treatment tests. The performance of the wind-powered process throughout a 15 days experiment is compared to the same remediation process powered by a conventional DC power supply. The wind-powered test covered many different wind conditions (from calm to near gale), being performed 20.7% under calm conditions and 17% under moderate or gentle breeze. According to the results obtained, the wind-powered soil treatment is feasible, obtaining a 53.9% removal of 2,4-D after 15 days treatment. Nevertheless, the remediation is more efficient if it is fed by a constant electric input (conventional DC power supply), reaching a 90.2% removal of 2,4-D with a much lower amount of charge supplied (49.2 A h kg(-1) and 4.33 A h kg(-1) for wind-powered and conventional) within the same operation time.",
+      "mesh_terms": [
+        "2,4-Dichlorophenoxyacetic Acid",
+        "Electrochemical Techniques",
+        "Environmental Restoration and Remediation",
+        "Herbicides",
+        "Hydrogen-Ion Concentration",
+        "Soil",
+        "Soil Pollutants",
+        "Wind"
+      ]
+    },
+    {
+      "pmid": "17209711",
+      "title": "A gale force wind: meaning making by male survivors of childhood sexual abuse.",
+      "authors": [
+        "Frances K Grossman",
+        "Lynn Sorsoli",
+        "Maryam Kia-Keating"
+      ],
+      "journal": "The American journal of orthopsychiatry",
+      "publication_date": "2006-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "This in-depth qualitative study explores how 16 resilient male survivors of serious childhood sexual abuse, representing a range of racial, ethnic, and socioeconomic backgrounds, made meaning from their abuse experiences. Three main types of meaning making styles were identified in the narratives: meaning making through action, using cognitive strategies, and engaging spirituality. Meaning making through action included helping others and using creative expression to describe and process the abuse. Reasoning systems that helped survivors to understand why the abuse happened included developing a psychological framework for understanding the abuser or the role of the self in the abuse, using a sociocultural explanation, or developing a philosophical view. A few men made meaning through their spirituality. Meaning making styles seem to be related to experiences with therapy; the more experience these men had had with specialized trauma therapy, the more likely they were to make meaning by attempting to understand their perpetrators. In this study, men of color, regardless of socioeconomic class, were less likely than Caucasian men to have received specialized trauma therapy.",
+      "mesh_terms": [
+        "Adaptation, Psychological",
+        "Adolescent",
+        "Adult",
+        "Altruism",
+        "Awareness",
+        "Child",
+        "Child Abuse, Sexual",
+        "Child, Preschool",
+        "Creativity",
+        "Humans",
+        "Internal-External Control",
+        "Male",
+        "Middle Aged",
+        "Philosophy",
+        "Psychotherapy",
+        "Self-Assessment",
+        "Spirituality",
+        "Survivors"
+      ]
+    }
+  ]
+}

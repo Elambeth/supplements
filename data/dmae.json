@@ -1,0 +1,70 @@
+{
+  "supplement": "DMAE",
+  "query": "DMAE[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:29:01",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "26274909",
+      "title": "N-Acetyl Cysteine (NAC)-Directed Detoxification of Methacryloxylethyl Cetyl Ammonium Chloride (DMAE-CB).",
+      "authors": [
+        "Yang Jiao",
+        "Sai Ma",
+        "Jing Li",
+        "Lequn Shan",
+        "Yingjie Wang",
+        "Min Tian",
+        "Yanwei Yang",
+        "Jinlong Sun",
+        "Jinghao Ban",
+        "Jihua Chen"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2015",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Methacryloxylethyl cetyl ammonium chloride (DMAE-CB) is a polymerizable antibacterial monomer and has been proved as an effective strategy to achieve bioactive bonding with reliable bacterial inhibitory effects. However, the toxicity of DMAE-CB may hamper its wide application in clinical situations. Thus, this study was designed to investigate the toxicity of DMAE-CB and explore the possible protective effects of N-acetyl cysteine (NAC). High performance liquid chromatography (HPLC) and liquid chromatography-mass spectrometry (LC-MS) analysis showed that chemical binding of NAC and DMAE-CB occurred in a time dependent manner. Pre-incubation of fourty-eight hours is required for adequate reaction between DMAE-CB and NAC. DMAE-CB reduced human dental pulp cells (hDPCs) viability in a dose-dependent manner. The toxic effects of DMAE-CB were accompanied by increased reactive oxygen species (ROS) level and reduced glutathione (GSH) content. NAC alleviated DMAE-CB-induced oxidative stress. Annexin V/ Propidium Iodide (PI) staining and Hoechst 33342 staining indicated that DMAE-CB induced apoptosis. Collapsed mitochondrial membrane potential (MMP) and activation of caspase-3 were also observed after DMAE-CB treatment. NAC rescued hDPCs from DMAE-CB-induced apoptosis, accompanied by lower level of MMP loss and caspase-3 activity. This study assists to elucidate the mechanism underlying the cytotoxic effects of DMAE-CB and provides theoretical supports for the searching of effective strategies to reduce toxicity of quaternary ammonium dental monomers.",
+      "mesh_terms": [
+        "Acetylcysteine",
+        "Adolescent",
+        "Adult",
+        "Apoptosis",
+        "Caspase 3",
+        "Cells, Cultured",
+        "Chromatography, High Pressure Liquid",
+        "Dental Pulp",
+        "Female",
+        "Humans",
+        "Male",
+        "Mass Spectrometry",
+        "Methacrylates",
+        "Oxidative Stress",
+        "Quaternary Ammonium Compounds"
+      ]
+    },
+    {
+      "pmid": "13756733",
+      "title": "[Studies on the effectiveness of dimethylaminoethanol (DMAE) with and without vitamin supplement in the treatment of geriatric diseases].",
+      "authors": [
+        "H KLEINSORGE",
+        "R RUHE"
+      ],
+      "journal": "Die Medizinische Welt",
+      "publication_date": "1961-Mar-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Amino Alcohols",
+        "Deanol",
+        "Dietary Supplements",
+        "Geriatrics",
+        "Nutrition Therapy",
+        "Vitamins"
+      ]
+    }
+  ]
+}

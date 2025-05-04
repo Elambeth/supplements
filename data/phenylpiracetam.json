@@ -1,0 +1,47 @@
+{
+  "supplement": "Phenylpiracetam",
+  "query": "Phenylpiracetam[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:18:13",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "28743458",
+      "title": "S-phenylpiracetam, a selective DAT inhibitor, reduces body weight gain without influencing locomotor activity.",
+      "authors": [
+        "Liga Zvejniece",
+        "Baiba Svalbe",
+        "Edijs Vavers",
+        "Marina Makrecka-Kuka",
+        "Elina Makarova",
+        "Vilnis Liepins",
+        "Ivars Kalvinsh",
+        "Edgars Liepinsh",
+        "Maija Dambrova"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "publication_date": "2017-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "S-phenylpiracetam is an optical isomer of phenotropil, which is a clinically used nootropic drug that improves physical condition and cognition. Recently, it was shown that S-phenylpiracetam is a selective dopamine transporter (DAT) inhibitor that does not influence norepinephrine (NE) or serotonin (5-HT) receptors. The aim of the present study was to study the effects of S-phenylpiracetam treatment on body weight gain, blood glucose and leptin levels, and locomotor activity. Western diet (WD)-fed mice and obese Zucker rats were treated daily with peroral administration of S-phenylpiracetam for 8 and 12weeks, respectively. Weight gain and plasma metabolites reflecting glucose metabolism were measured. Locomotor activity was detected in an open-field test. S-phenylpiracetam treatment significantly decreased body weight gain and fat mass increase in the obese Zucker rats and in the WD-fed mice. In addition, S-phenylpiracetam reduced the plasma glucose and leptin concentration and lowered hyperglycemia in a glucose tolerance test in both the mice and the rats. S-phenylpiracetam did not influence locomotor activity in the obese Zucker rats or in the WD-fed mice. The results demonstrate that S-phenylpiracetam reduces body weight gain and improves adaptation to hyperglycemia without stimulating locomotor activity. Our findings suggest that selective DAT inhibitors, such as S-phenylpiracetam, could be potentially useful for treating obesity in patients with metabolic syndrome with fewer adverse health consequences compared to other anorectic agents.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Glucose",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Glucose Tolerance Test",
+        "Insulin",
+        "Locomotion",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Piracetam",
+        "Rats",
+        "Rats, Wistar",
+        "Rats, Zucker",
+        "Weight Gain"
+      ]
+    }
+  ]
+}

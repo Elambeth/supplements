@@ -1,0 +1,145 @@
+{
+  "supplement": "California Poppy",
+  "query": "California Poppy[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:29:47",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "37673017",
+      "title": "Alkaloids in commercial preparations of California poppy - Quantification, intestinal permeability and microbiota interactions.",
+      "authors": [
+        "Antoine Chauveau",
+        "Annelies Geirnaert",
+        "Angela Babst",
+        "Andrea Treyer",
+        "Christophe Lacroix",
+        "Matthias Hamburger",
+        "Olivier Potterat"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "California poppy products are commonly used for the treatment of nervousness, anxiety and sleeping disorders. Pharmacologically relevant constituents include the main alkaloids californidine, escholtzine and protopine. However, only limited information is available about the alkaloid content in commercial preparations and their intestinal absorption. Moreover, a possible metabolization of these alkaloids by the gut microbiota, and their impact on microbial activity and viability have not been investigated. Californidine, escholtzine and protopine were quantified by UHPLC-MS/MS in eight commercial California poppy products. The intestinal permeability of alkaloids was studied in Caco-2 cell as a model for absorption in the small intestine. The gut microbial biotransformation was explored in artificial gut microbiota from the in vitro PolyFermS model. In addition, the impact of these alkaloids and a California poppy extract on the microbial production of short-chain fatty acids (SCFAs) and the viability of microbiota was investigated. Contents of californidine, escholtzine and protopine in California poppy products were in the ranges of 0.13-2.55, 0.05-0.63 and 0.008-0.200 mg/g, respectively. In the Caco-2 cell model, californidine was low-to-moderately permeable while escholtzine and protopine were highly permeable. An active transport process was potentially involved in the transfer of the three alkaloids. The three compounds were not metabolized by the artificial gut microbiota over 24 h. Neither the California poppy extract nor the alkaloids markedly impacted microbial SCFA production and bacterial viability.",
+      "mesh_terms": [
+        "Humans",
+        "Eschscholzia",
+        "Caco-2 Cells",
+        "Tandem Mass Spectrometry",
+        "Microbiota",
+        "Alkaloids",
+        "Permeability",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "20729473",
+      "title": "Overproduction of alkaloid phytoalexins in California poppy cells is associated with the co-expression of biosynthetic and stress-protective enzymes.",
+      "authors": [
+        "Sornitza Angelova",
+        "Marcus Buchheim",
+        "Doreen Frowitter",
+        "Angelika Schierhorn",
+        "Werner Roos"
+      ],
+      "journal": "Molecular plant",
+      "publication_date": "2010-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Many plant cells respond to pathogens by the induction of phytoalexin biosynthesis, but the underlying changes of gene expression are often obscured by their close linkage to the complex rearrangements during pathogen defense, especially the hypersensitive cell death. In root-derived cell cultures of Eschscholzia californica, the overproduction of cytotoxic benzophenanthridine alkaloids can be triggered by a minimum of pathogen pressure that does not evoke hypersensitive reactions. Such conditions activate a signal chain that is initiated by a short contact to low concentrations of yeast glycoprotein elicitor and includes a transient acidification of the cytoplasm. In contrast, high elicitor concentrations signal via an increase of jasmonate and trigger hypersensitive cell death, preceded by a drastic decay of translatable mRNAs. The main changes in protein and mRNA patterns caused by either signal path were compared by 2D proteomic separation, MS/MS sequencing and mRNA-in vitro translation. The four proteins showing the highest overexpression were identical between cells that received low or high-elicitor treatment and overlapped with the three proteins most up-regulated by artificial pH shifts. They comprised one biosynthetic enzyme (norcoclaurine:SAM 4' O-methyl-transferase) plus a unique combination of stress-protective proteins: a heat shock protein (hsp 70); a peptidyl-prolyl-cis/trans isomerase (cyclophilin); and a glyceraldehyde-3-phosphate dehydrogenase. It appears that overproduction of the benzophenanthridine phytoalexins requires the up-regulation of a rate-limiting biosynthetic enzyme plus the coordinated expression of a specific set of protective enzymes and thus is managed like an oxidative stress.",
+      "mesh_terms": [
+        "Electrophoresis, Gel, Two-Dimensional",
+        "Eschscholzia",
+        "Gene Expression Regulation, Plant",
+        "Hydrogen-Ion Concentration",
+        "Plant Proteins",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "Sesquiterpenes",
+        "Signal Transduction",
+        "Tandem Mass Spectrometry",
+        "Phytoalexins"
+      ]
+    },
+    {
+      "pmid": "20690678",
+      "title": "Shotgun proteomic analysis of yeast-elicited California poppy (Eschscholzia californica) suspension cultures producing enhanced levels of benzophenanthridine alkaloids.",
+      "authors": [
+        "John T Oldham",
+        "Marina Hincapie",
+        "Tomas Rejtar",
+        "P Kerr Wall",
+        "John E Carlson",
+        "Carolyn W T Lee-Parsons"
+      ],
+      "journal": "Journal of proteome research",
+      "publication_date": "2010-Sep-03",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The California poppy, Eschscholzia californica, produces benzophenanthridine alkaloids (BPAs), an important class of biologically active compounds. Cell cultures of E. californica were investigated as an alternative and scalable method for producing these valuable compounds; treatment with yeast extract increased production from low levels to 23 mg/g dry weight (DW) of BPAs. A shotgun proteomic analysis of E. californica cell cultures was undertaken to explore changes in metabolism associated with enhanced BPA production. We implemented differential centrifugation and then shotgun proteomics based on nanoliquid chromatography/mass spectrometry (nano-LC-MS/MS) for peptide separation and analysis. A unigene database available for E. californica was translated and utilized for protein identification. Approximately 646 proteins (3% false discovery rate at the protein level) were identified. Differentially abundant proteins observed with elicitation included enzymes involved in (S)-adenosyl methionine (SAM) biosynthesis and BPA biosynthesis. These results demonstrate (1) the identification of proteins from a medicinal plant using shotgun proteomics combined with a well-annotated, translated unigene database and (2) the potential utility of proteomics for exploring changes in metabolism associated with enhanced secondary metabolite production.",
+      "mesh_terms": [
+        "Benzophenanthridines",
+        "Chromatography, Liquid",
+        "Eschscholzia",
+        "Metabolic Networks and Pathways",
+        "Peptide Fragments",
+        "Peptide Mapping",
+        "Plant Proteins",
+        "Proteome",
+        "Saccharomyces cerevisiae",
+        "Tandem Mass Spectrometry",
+        "Trypsin"
+      ]
+    },
+    {
+      "pmid": "30754797",
+      "title": "High-efficiency somatic embryogenesis and plant regeneration in California poppy, Eschscholzia californica Cham.",
+      "authors": [
+        "S-U Park",
+        "P J Facchini"
+      ],
+      "journal": "Plant cell reports",
+      "publication_date": "2000-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": " The development of a rapid protocol for high-efficiency somatic embryogenesis and plant regeneration from seed-derived embryogenic callus cultures of California poppy (Eschscholzia californica Cham.) is reported. The optimized procedure required less than 13 weeks from the initiation of seed cultures to the recovery of plantlets and involved the sequential transfer of cultures onto solid Murashige and Skoog basal medium containing three different combinations of growth regulators. All steps were performed at 25  °C. Friable primary callus was induced from seeds of E. californica cultured on medium supplemented with 1.0 mg l-1 2,4-dichlorophenoxyacetic acid. The primary callus was transferred to medium containing 1.0 mg l-1 1-naphthaleneacetic acid and 0.5 mg l-1 6-benzylaminopurine to establish embryogenic callus and promote somatic embryogenesis. Regenerated plantlets were recovered after the conversion of somatic embryos on medium containing 0.05 mg l-1 6-benzylaminopurine and showed normal development. Embryogenic callus was induced at a frequency of 85%, an average of 45 somatic embryos were produced per callus, 90% of the somatic embryos converted, and about 70% of the plantlets were recovered in soil. The growth rate of somatic embryo-derived shoots could be increased by gibberellic acid treatment, but the resulting plantlets were hyperhydritic."
+    },
+    {
+      "pmid": "9425319",
+      "title": "Barbiturate induced benzophenanthridine alkaloid formation proceeds by gene transcript accumulation in the California poppy.",
+      "authors": [
+        "G Haider",
+        "T Kislinger",
+        "T M Kutchan"
+      ],
+      "journal": "Biochemical and biophysical research communications",
+      "publication_date": "1997-Dec-18",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Four barbiturates, barbituric acid, butethal, phenobarbital, and 2-thiobarbituric acid, of fourteen tested were found to induce accumulation of benzophenanthridine alkaloids in cell suspension cultures of the California poppy Eschscholzia california. When the plant cell suspension cultures were treated with 1 mM barbiturate, alkaloids accumulated to 100 mg/l within four days. This is a level comparable to that achieved with 300 microM concentration of the established secondary metabolite inducer methyl jasmonate. In contrast to methyl jasmonate, barbituric acid, and 2-thiobarbituric acid, butethal and phenobarbital treatment resulted in a different alkaloid profile, suggesting that only select cytochrome P-450 genes were activated by these latter two barbiturates. RNA gel blot analysis of barbiturate induced cell cultures confirmed that transcripts of at least two benzophenanthridine alkaloid biosynthetic genes cyp80b1 (encoding the cytochrome P-450-dependent monooxygenase (S)-N-methylcoclaurine 3'-hydroxylase) and bbe1 (encoding the covalently flavinylated berberine bridge enzyme) increased up to 5- to 7-fold over control values.",
+      "mesh_terms": [
+        "Alkaloids",
+        "Barbiturates",
+        "Cells, Cultured",
+        "Cytochrome P-450 Enzyme System",
+        "Gene Expression Regulation, Plant",
+        "Papaver",
+        "Phenanthridines",
+        "Plant Proteins",
+        "Plants, Medicinal",
+        "RNA, Messenger",
+        "RNA, Plant",
+        "Structure-Activity Relationship"
+      ]
+    }
+  ]
+}

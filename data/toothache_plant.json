@@ -1,0 +1,33 @@
+{
+  "supplement": "Toothache plant",
+  "query": "Toothache plant[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:57:59",
+  "research_count": 1,
+  "count": 1,
+  "articles": [
+    {
+      "pmid": "32401104",
+      "title": "Chemical composition and broad-spectrum anthelmintic activity of a cultivar of toothache plant, Acmella oleracea, from Mizoram, India.",
+      "authors": [
+        "Pawi Bawitlung Lalthanpuii",
+        "Kholhring Lalchhandama"
+      ],
+      "journal": "Pharmaceutical biology",
+      "publication_date": "2020-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Context: A variety of Acmella oleracea (L.) R.K. Jansen (Asteraceae) is used by the Mizo people of India and Myanmar for intestinal helminthiasis.Objective: To perform a chemical analysis of the plant extract using gas chromatography-mass spectrometry (GC-MS) and test the anthelmintic activity on intestinal parasites.Materials and methods: An extract of the aerial parts was prepared in hexane and analysed using GC-MS. Survival test was performed in vitro on the cestode, Taenia tetragona, and the nematode, Ascaridia perspicillum. Concentrations of 1.25, 2.5, 5, 10 and 20 mg/mL, prepared in phosphate-buffered saline (PBS) with 1% dimethylsulphoxide (DMSO), were tested. Negative control was maintained in PBS with DMSO, and albendazole was used as a reference drug. Each treatment consisted of six worms and was done until death was confirmed. Scanning electron microscopy was used to describe the structural changes.Results: Nineteen compounds were detected. The major compounds were fatty alcohols such as 3,7,11,15-tetramethylhexadec-2-en-1-ol and (9Z)-9-hexadecen-1-ol. Important bioactive compounds including an alkylamide, N-isobutyl-(2E,4Z,8Z,10E)-dodecatetraenamide, and a triterpenoid, lupeol, were also confirmed. The lethal concentration (LC50) of the plant extract was 5128.61 ppm on T. tetragona and 8921.50 ppm on A. perspicillum. Tegumental shrinkage, erosion of microtriches, and distortion of the suckers were observed on the cestode. The nematode showed collapse of the lips and shrunk cuticle.Conclusions: Acmella oleracea contains important bioactive compounds, which are responsible for the broad-spectrum anthelmintic activity. Further study on the pharmacology of the compounds is warranted.",
+      "mesh_terms": [
+        "Animals",
+        "Anthelmintics",
+        "Asteraceae",
+        "Cestoda",
+        "India",
+        "Nematoda",
+        "Plant Extracts",
+        "Toothache"
+      ]
+    }
+  ]
+}

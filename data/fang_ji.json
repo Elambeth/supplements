@@ -1,0 +1,68 @@
+{
+  "supplement": "Fang Ji",
+  "query": "Fang Ji[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:34:04",
+  "research_count": 2,
+  "count": 2,
+  "articles": [
+    {
+      "pmid": "34464701",
+      "title": "Deciphering the mechanism of Fang-Ji-Di-Huang-Decoction in ameliorating psoriasis-like skin inflammation via the inhibition of IL-23/Th17 cell axis.",
+      "authors": [
+        "Chenglin Song",
+        "Chenxi Yang",
+        "Siwei Meng",
+        "Manru Li",
+        "Xiao Wang",
+        "Yaoxuan Zhu",
+        "Lingdong Kong",
+        "Wen Lv",
+        "Hongzhi Qiao",
+        "Yang Sun"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2021-Dec-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: In the theory of traditional Chinese medicine (TCM), the etiology of psoriasis is assigned to damp-heat internal depression, blood poisoning, Yin deficiency and loss of nourishment. Fang-Ji-Di-Huang-Decoction (FJDH), a well-known Chinese traditional formula, is recorded in Synopsis of the Golden Chamber (in the Eastern Han Dynasty). This decoction is composed of dried roots of Rehmannia glutinosa (Gaertn.) DC., dried roots of Stephania tetrandra S. Moore, roots of Saposhnikovia divaricata (Turcz.) Schischk., dried twigs of Cinnamomum cassia (L.) J. Presl and dry roots and rhizomes of Glycyrrhiza uralensis Fisch. FJDH has the function of clearing heat, removing dampness, and nourishing blood. Therefore, in modern medical theory, FJDH can regulate the infiltration of inflammatory cells and the secretion of inflammatory cytokines in the process of psoriasis. AIM OF THE STUDY: This study evaluated whether FJDH treated psoriasis and its specific mechanism for the efficacy in mice. At the same time, it clarified s what important role of the copperware played s in the curative effect of FJDH. METHODS AND MATERIALS: We used imiquimod (IMQ) to induce psoriasis-like skin inflammation in mice. Mice were treated with imiquimod for one week, and FJDH was given by intragastric administration one week in advance. Record the weight change and psoriasis Area and Severity Index (PASI) score of the mouse during the whole process to assess the severity of psoriasis were recored mouse. Hematoxylin-eosin staining was used to evaluate skin tissue structure change. Immunohistochemistry was performed to observe the expressions of Ki67 and proliferating cell nuclear antigen (PCNA) in skin tissue. In order to further explore the mechanism of FJDH in the treatment of psoriasis, we used network pharmacology to predict the therapeutic target. TCMSP and Uniprot were used to collect compounds and genes of FJDH. Genecards was used for obtaining genes of psoriasis. String was used to analyze the relationship between genes. Metascape was used for gene enrichment and pathway prediction. Using molecular biological detection methods, we verified whether FJDH could regulate Interleukin 17 signaling pathway and T helper cell 17 (Th17) cell differentiation. Flow cytometry was used to detect Th17 cell differentiation in mouse spleen. Quantitative Real-time PCR was used to detect mRNA expression of IL-17 signaling pathway-related inflammatory factors in mouse skin tissues. UPLC-Triple TOF-MS/MS and Phenol-Sulphate colorimetry were used to explore the main components of FJDH, and further elaborate the mechanism of FJDH in the treatment of psoriasis. RESULTS: FJDH with copper was found to improve psoriasis-related pathological symptoms in a dose-dependent manner, possibly by inhibiting IL-23/Th17 cell axis and reducing inflammatory cytokines such as IL-17A, IL-17F, IL-22 and TNF-α. Furthermore, R. glutinosa polysaccharide in FJDH was the main substance that exerted the drug effect and it work by forming a complex with copper. Experimental data proved that Rehmannia glutinosa polysaccharide and copper complex had the same pharmacological activity and therapeutic effect as FJDH. CONCLUSIONS: FJDH may attenulated imiquimod-induced psoriasis-like skin inflammation in mice by inhibiting IL-23/Th17 cell axis. The material basis for the therapeutic effect may be the formation of complexes between the polysaccharides of R. glutinosa and copper in FJDH to produce the effect. These findings suggest that FJDH can be used as an effective Chinese medicine to treat psoriasis.",
+      "mesh_terms": [
+        "Animals",
+        "Copper",
+        "Drugs, Chinese Herbal",
+        "Gene Expression Regulation",
+        "Imiquimod",
+        "Inflammation",
+        "Interleukin-17",
+        "Interleukin-23",
+        "Mice",
+        "Phytotherapy",
+        "Psoriasis",
+        "Th17 Cells"
+      ]
+    },
+    {
+      "pmid": "32280355",
+      "title": "Fang-Ji-Huang-Qi-Tang Attenuates Degeneration of Early-Stage KOA Mice Related to Promoting Joint Lymphatic Drainage Function.",
+      "authors": [
+        "Haihui Han",
+        "Yinghui Ma",
+        "Xiaoyun Wang",
+        "Ruisheng Yun",
+        "Sheng Lu",
+        "Mengxiong Xia",
+        "Yongjun Wang",
+        "Qi Shi",
+        "Weitao Zhai",
+        "Qianqian Liang",
+        "Hao Xu"
+      ],
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "publication_date": "2020",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Osteoarthritis (OA) is a chronic degenerative joint disease characterized by the breakdown of articular cartilage, subchondral bone remodeling, and inflammation of the synovium. In this study, we investigated whether Fang-Ji-Huang-Qi-Tang (FJHQT) decoction improved the joint structure of OA or delayed the process of knee joint degeneration in OA mice by promoting lymphatic drain function. The mice were randomly divided into four groups, the sham group, the PBS group, the FJHQT-treated group, and the Mobic-treated group. The mice in each group were tested for lymphatic draining function at 4, 6, 8, and 10 weeks postsurgery (WPS), then sacrificed (N = 10/group). Using a near-infrared indocyanine green (NIR-ICG) lymphatic imaging system, we found that the lymphatic drain function was significantly reduced in the PBS group compared with the sham group. After treatment with the FJHQT decoction, the lymphatic draining function improved at 4 wps and 6 wps. The results of the analysis indicated a strong correlation between lymphatic draining function (ICG clearance) and the degree of joint structural damage (OARSI score). By Alcian blue/orange G (ABOG) staining of the paraffin sections, the FJHQT-treated group exhibited less cartilage destruction and lower OARSI scores. Moreover, the result of immunohistochemical staining (IHC) shows that FJHQT decoction increased the content of type II collagen in knee joints of OA mice at 4 wps and 6 wps. By the double immunofluorescence staining of podoplanin and smooth muscle actin in the paraffin sections, the capillaries and mature lymphatics in the FJHQT group increased at 4 wps. In conclusion, the FJHQT decoction can increase lymphatic vessel number, promote joint lymphatic draining function, and postpone knee osteoarthritis pathologic progression in the early stage of a collagen-induced mouse model. Therefore, the application of sufficient lymphatic drainage in the knee joint may be a new treatment method for knee joint osteoarthritis (KOA)."
+    }
+  ]
+}

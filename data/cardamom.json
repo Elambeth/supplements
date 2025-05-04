@@ -1,0 +1,1296 @@
+{
+  "supplement": "Cardamom",
+  "query": "Cardamom[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 19:31:41",
+  "research_count": 45,
+  "count": 45,
+  "articles": [
+    {
+      "pmid": "40140723",
+      "title": "Cardamom synergizes with cisplatin against human osteosarcoma cells by mTOR-mediated autophagy.",
+      "authors": [
+        "Sheng Li",
+        "Ziyun Li",
+        "Jiayu Wang",
+        "Xueqian Han",
+        "Lulu Zhang"
+      ],
+      "journal": "Cancer gene therapy",
+      "publication_date": "2025-Mar-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cisplatin (DDP), a frontline chemotherapeutic agent in osteosarcoma (OS) treatment, is frequently paired with other compounds to enhance its therapeutic potency. Cardamom (CAR), a natural flavonoid, exhibits significant inhibitory effects on human OS cells while minimizing toxic side effects. In this study, we combined CAR and DDP to treat OS, revealing that the DDP/CAR combination synergistically inhibits the growth of human OS cells in vitro and in vivo. Network pharmacological analysis indicated that mammalian target of rapamycin (mTOR) may be an important cross-target for DDP/CAR combination. Notably, this combined treatment significantly reduced mTOR phosphorylation and elevated autophagy levels within OS cells. At the mechanistic level, the DDP/CAR regimen enhanced apoptosis and compromised the viability of OS cells by triggering autophagy. This impact was attenuated by the use of the mTOR activator MHY and the autophagy inhibitor hydroxychloroquine (HCQ). Furthermore, in DDP-resistant cell lines, CAR was able to mitigate DDP resistance by bolstering autophagy levels. In general, our results suggest that CAR bolstering autophagy levels DDP against OS cells through the induction of mTOR-mediated autophagy."
+    },
+    {
+      "pmid": "40126665",
+      "title": "Pulsed cavitation ultrasound assisted delivery of cardamom, pistacia and laurel encapsulated micelles nanoparticles for sono-photodynamic lymphoma in vitro and in vivo treatment.",
+      "authors": [
+        "Samir Ali Abd El-Kaream",
+        "Safia Ali Hussein Hamoda",
+        "Sohier Mahmoud El Kholey",
+        "Awatef Mohamed El-Sharkawy"
+      ],
+      "journal": "Lasers in medical science",
+      "publication_date": "2025-Mar-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Sono-photodynamic therapy (SPDT) has attracted a lot of interest as a cutting-edge therapeutic strategy in the field of cancer treatment. The essential part of SPDT is the sensitizer, which under laser photon and pulsed cavitation ultrasound sono-irradiation may transform sono and photo- energy into cytotoxic molecules. Photon absorption, targeting, penetration, and oxygen dependence remain challenges in sono- -photosensitizer (SPs) design. Rapid advancements in material science have prompted the creation of several SPs that create cytotoxic species with great selectivity, safety, and noninvasiveness for the treatment of tumors. The current study aims to provide an advanced method of activated cancer treatment by using pulsed cavitation to assist the delivery of cardamom, pistacia and laurel conjugated micelles nanoparticles (CPL-Micelle NP) for the sono-photodynamic lymphoma in vivo and in vitro treatment. Human lymphoma cells (U-937) were used in the in vitro study, and the in vivo application groups of the study protocol were Swiss albino mice treated with 9,10-Dimethyl-1,2-Benzanthracene (DMBA) only; they were not given any treatment to induce lymphoma. The study treatment protocol started only after lymphoma induction, and involved daily administration of CPL-Micelle NP as SPDT sensitizer whether or not to be exposed to photo- (IRL) or sono- (US) or a combination of them for three minutes for a period of two weeks. Indicated that Micelle NP is a useful CPL delivery mechanism that targets lymphoma cells directly. Furthermore, CPL-Micelle NP is a promising SPS that, when used in conjunction with SPDT, can be very effective in in vitro treating lymphoma-U-937 (in a dose-dependent manner cell viability declined, an increase in the cells population during the S and G2/M phases indicates that the cell cycle was arrested, and an increase in cell population in the Pre-G, autophagic cell death, as well as necrosis and early and late apoptosis, indicate that cell death was induced) and DMBA-Lymphoma-induced mice in vivo (induced antiproliferative genes, repressed antiangiogenic and antiapoptotic genes), successfully slowing the growth of tumors and even killing cancer cells, as well as lowering oxidative stress malondialdehyde (MDA), improving the functions of the kidneys, liver, and enzymatic and non enzymatic antioxidants. SPDT, the photo- or sono- chemical CPL activation mechanism, and the antioxidant capacity of non-activated CPL can all be linked to this process. On the bases of the findings, CPL-Micelle NP shows a great promise as a novel, efficient selective delivery system for localized SPDT-activated lymphoma treatment.",
+      "mesh_terms": [
+        "Animals",
+        "Mice",
+        "Photochemotherapy",
+        "Micelles",
+        "Nanoparticles",
+        "Humans",
+        "Lymphoma",
+        "Pistacia",
+        "Photosensitizing Agents",
+        "Cell Line, Tumor",
+        "Ultrasonic Therapy",
+        "Apoptosis"
+      ]
+    },
+    {
+      "pmid": "40005380",
+      "title": "Protective and Therapeutic Effects of Orlistat in Combination with Elettaria cardamomum \"Cardamom\" Extract on Learning, Memory, Anxiety, and Neuroinflammation in Obese Mice.",
+      "authors": [
+        "Anfal Al-Dalaeen",
+        "Nour Batarseh",
+        "Nadine N Abdelhadi",
+        "Sally Atawneh",
+        "Reem AbuKashef",
+        "Ali Mosa Ra-Shid Al-Yasari"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "publication_date": "2025-Feb-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Introduction and Objective: Obesity has increased worldwide, and existing anti-obesity medications have treatment limitations that diminish their overall benefits. This study aimed to investigate the effects of orlistat in combination with Elettaria cardamomum \"Cardamom\" (CAR) extract on working memory, recognition memory, anxiety, and inflammation within hippocampal tissue. Methods: Mice were categorized into two groups: a control group (CD) and a cafeteria diet (CAF) group induced with obesity (CAF) for 10 weeks. The groups were then subdivided into a CAF group treated with orlistat (CAF-ORL), a CAF group treated with orlistat and Elettaria cardamomum (CAF-ORL-CARD), and a group that continued on the CAF. The CAF-ORL group received orlistat at a dosage of 10 mg/kg/day for four weeks, while the CAF-ORL-CARD group received 10 mg/kg/day of orlistat and 500 mg/kg of CAR extract via oral gavage. In the 14th week, various assessments were conducted, including the novel object recognition (NOR) test, Y maze test, marble-burying test (MBT), open-field test, and TNF-α levels in the hippocampus. Result: TNF-α levels in the hippocampal tissue of the CAF group were elevated compared to the CD group (p < 0.01), whereas the CAF-ORL group exhibited reduced TNF-α levels compared to the CAF group (p < 0.01). Moreover, TNF-α levels in the CAF-ORL-CARD group were significantly lower than in the CAF-ORL group (p < 0.01). The recognition index was notably higher in the CAF-ORL group compared to the CAF group (p < 0.01) and higher in the CAF-ORL-CARD group compared to the CAF-ORL group (p < 0.01). However, there were no changes in the open-field test and Y maze test (p > 0.05). Conclusions: Orlistat combined with CAR has positive effects on neuroinflammation and memory, suggesting that this combination may offer potential therapeutic benefits for cognitive impairments and hippocampal dysfunction associated with obesity.",
+      "mesh_terms": [
+        "Animals",
+        "Orlistat",
+        "Mice",
+        "Plant Extracts",
+        "Mice, Obese",
+        "Obesity",
+        "Anxiety",
+        "Anti-Obesity Agents",
+        "Elettaria",
+        "Male",
+        "Disease Models, Animal",
+        "Hippocampus",
+        "Memory",
+        "Learning",
+        "Neuroinflammatory Diseases"
+      ]
+    },
+    {
+      "pmid": "39922887",
+      "title": "Cardamom extract alleviates tamoxifen-induced liver damage by suppressing inflammation and pyroptosis pathway.",
+      "authors": [
+        "Wedad S Sarawi",
+        "Hala A Attia",
+        "Afraa Alzoubi",
+        "Nour Alanazi",
+        "Raeesa Mohammad",
+        "Rehab A Ali"
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025-Feb-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Tamoxifen (TAM) is extensively used to manage estrogen receptor-positive breast cancer. Despite its effectiveness, its administration can negatively impact various organs, including the liver. This research focused on the effects of TAM on the pyroptotic pathway in the liver and evaluated the potential of cardamom extract (CRDE) to lessen hepatic damage of TAM in female rats. Rats received 45 mg/kg of TAM injections for 10 days, while the groups treated with CRDE received 12 ml/kg of CRDE for 20 days, commencing 10 days before TAM administration. TAM exposure resulted in apparent degenerations in hepatic tissue with inflammatory cell infiltration and loss of architectures. Serum levels of liver enzymes including alanine aminotransferase, aspartate aminotransferase and alkaline phosphatase were elevated, along with hepatic oxidative stress, as shown by increased lipid peroxidation with lower levels of reduced glutathione. TAM caused inflammation in the liver tissue as indicated by higher levels of tumor necrosis factor-α and interleukin-6 as well as increased expression of CD68; a phagocytic Kupffer's cells marker. Additionally, the protein expression analysis revealed a high expression of pyroptotic markers including NLRP3-inflammasome, caspase-1, and gasdermin D. Conversely, CRDE treatment effectively neutralized the biochemical, histological, and protein expression alterations induced by TAM. In conclusion, CRDE demonstrated the potential to protect the liver from TAM-induced damage by regulating mechanisms involving oxidative damage, inflammation, and pyroptosis.",
+      "mesh_terms": [
+        "Animals",
+        "Pyroptosis",
+        "Tamoxifen",
+        "Rats",
+        "Female",
+        "Chemical and Drug Induced Liver Injury",
+        "Plant Extracts",
+        "Liver",
+        "Oxidative Stress",
+        "Inflammation",
+        "Elettaria"
+      ]
+    },
+    {
+      "pmid": "39334932",
+      "title": "Deciphering the Potentials of Cardamom in Cancer Prevention and Therapy: From Kitchen to Clinic.",
+      "authors": [
+        "Shabana Bano",
+        "Avisek Majumder",
+        "Ayush Srivastava",
+        "Kasturi Bala Nayak"
+      ],
+      "journal": "Biomolecules",
+      "publication_date": "2024-Sep-18",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Cardamom (cardamum) is a spice produced from the seeds of several Elettaria and Amomum plants of the Zingiberaceae family. Cardamom has been demonstrated to offer numerous benefits, including its antioxidant, antimicrobial, anti-inflammatory, and other metabolic (anti-diabetic) properties, and its potential to reduce cancer risk. Recently, researchers have extracted and tested multiple phytochemicals from cardamom to assess their potential effectiveness against various types of human malignancy. These studies have indicated that cardamom can help overcome drug resistance to standard chemotherapy and protect against chemotherapy-induced toxicity due to its scavenging properties. Furthermore, chemical compounds in cardamom, including limonene, cymene, pinene, linalool, borneol, cardamonin, indole-3-carbinol, and diindolylmethane, primarily target the programmed cell death lignin-1 gene, which is more prevalent in cancer cells than in healthy cells. This review provides the medicinal properties and pharmacological uses of cardamom, its cellular effects, and potential therapeutic uses in cancer prevention and treatment, as well as its use in reducing drug resistance and improving the overall health of cancer patients. Based on previous preclinical studies, cardamom shows significant potential as an anti-cancer agent, but further exploration for clinical use is warranted due to its diverse mechanisms of action.",
+      "mesh_terms": [
+        "Humans",
+        "Neoplasms",
+        "Elettaria",
+        "Plant Extracts",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic"
+      ]
+    },
+    {
+      "pmid": "37803872",
+      "title": "Black cardamom (Amomum subulatum) extract improves growth potential, antioxidant status, immune parameters and response to crowding stress in Catla catla.",
+      "authors": [
+        "Wazir Ali",
+        "Mahroze Fatima",
+        "Syed Zakir Hussain Shah",
+        "Noor Khan",
+        "Saima Naveed"
+      ],
+      "journal": "Journal of animal physiology and animal nutrition",
+      "publication_date": "2024-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Natural herbs are excellent alternatives to synthetic compounds to enhance the growth performance and health status of fish. This study was conducted to evaluate the efficacy of black cardamom (Amomum subulatum) extract (BCE) as an herbal supplement in improving the growth, antioxidant status, haematology, and serum biochemistry of Catla catla. The acclimatized fish (N = 900; average initial weight = 14.44 ± 0.33 g) were allocated into five groups (60 fish/group in triplicate) in hapas (4 × 2 × 2.5 ft) and provided with feed containing 0 (control), 0.5, 1, 2 and 4 g/kg BCE for 90 days before being subjected to 8 days of crowding stress. After 90 days, significantly higher feed utilization and growth were observed in all BCE-fed treatments compared to the control; however, the maximum values of these parameters were noted in the 2 g/kg BCE-fed treatment. Moreover, the BCE-fed groups exhibited a significant increase in antioxidant indices (glutathione peroxidase, superoxide dismutase and catalase), with a significant reduction in malondialdehyde levels, indicating a higher antioxidant capacity compared to the control. Significant improvements in haematological parameters, such as an increase in haematocrit, haemoglobin and red blood cells and a decrease in white blood cells, were observed in BCE-fed treatments compared to the control. Furthermore, BCE-fed groups showed a significant decrease in serum glucose, cortisol and triglycerides, while total protein, globulin and albumin levels were significantly higher compared with the control. During the feeding trial of 90 days, no mortality was observed; however, the lowest cumulative mortality was noted in the 2 g/kg BCE group after crowding stress of 8 days. In conclusion, the use of BCE in feed can enhance the growth performance, antioxidant status, haematology, and serum biochemistry of C. catla and improve the resistance against crowding stress. The optimum levels of BCE for C. catla were estimated based on weight gain % (1.78 g/kg; R2  = 0.97), feed conversion ratio (1.65 g/kg; R2  = 0.98), MDA content (1.66 g/kg; R2  = 0.93) and serum lysozyme activity (1.72 g/kg; R2  = 1) using broken-line regression analysis.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Amomum",
+        "Elettaria",
+        "Dietary Supplements",
+        "Cyprinidae",
+        "Animal Feed",
+        "Diet"
+      ]
+    },
+    {
+      "pmid": "37781022",
+      "title": "Antibacterial and Angiotensin I-Converting Enzyme (ACE) Inhibition Activities of Essential Oil from Java Cardamom (Amomum compactum) Fruit.",
+      "authors": [
+        "Cici Darsih",
+        "Anjar Windarsih",
+        "Ema Damayanti",
+        "Virgio Adhitya Amiru",
+        "Anastasia Wheni Indrianingsih",
+        "Siti Marfu'ah",
+        "Wawan Sujarwo"
+      ],
+      "journal": "Indian journal of microbiology",
+      "publication_date": "2023-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: The essential oil has been reported to be one of the Angiotensin I-Converting Enzyme (ACE) inhibitor resources. Moreover, it has been proven against bacterial pathogens that cause infectious diseases. Amomum compactum is one source of essential oil, known as Javanese cardamom is a spice herb commonly used for flavouring food and traditional medicine in Indonesia. However, ACE inhibition activity of A. compactum has not been reported. The purposes of this study were to identify the main constituent of volatile compounds, inhibition activity toward bacteria, and antihypertension potency of A. compactum essential oils. Volatile compounds were investigated using Gas Chromatography-Mass Spectrometry (GC-MS). The antimicrobial activity was observed using the microdilution method toward Pseudomonas aeruginosa, Bacillus subtilis, Escherichia coli, and Staphylococcus aureus. The antihypertension effect was studied using an ACE inhibition assay. The result showed that eucalyptol was a primary compound of A. compactum fruit either in Banjar (BJR) and Bogor (BGR) essential oils with the value of 62.22% and 66.23%, respectively. Both BJR and BGR are more active to inhibit gram-positive bacteria (B. subtilis) with MIC values of 1 mg/mL. Meanwhile, the BJR exhibited a higher inhibitory activity effect toward ACE compared to BGR with the value of IC50 64.86 ± 0.57 μg/mL. These findings suggest that A. compactum essential oil can be the potential to lead to the treatment of hypertension as an ACE inhibitor and antibacterial agent. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s12088-023-01080-x."
+    },
+    {
+      "pmid": "37779590",
+      "title": "Protective effects of cardamom aqueous extract against tamoxifen-induced pancreatic injury in female rats.",
+      "authors": [
+        "Hala Attia",
+        "Afraa Alzoubi",
+        "Nour Al-Anazi",
+        "Aliah Alshanwani",
+        "Naglaa El-Orabi",
+        "Alaa Alanteet",
+        "Raeesa Mohamad",
+        "Rehab Ali"
+      ],
+      "journal": "Toxicological research",
+      "publication_date": "2023-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "UNLABELLED: Tamoxifen (TAM) is a commonly used drug for breast cancer treatment. Although effective, TAM has deleterious effects on many organs. The toxic effects of TAM on the pancreas and the underlying mechanisms however, have not fully investigated. In the present study, we investigated the effects of TAM on the pancreatic tissue in female rats. We also examined whether cardamom aqueous extract (CAE) protects against TAM-induced pancreatic injury. TAM-intoxicated rats were injected with 45 mg/kg of TAM for 10 days, whereas rats in the CAE-treated group were administered 10 mL/kg of CAE for 20 days, starting 10 days prior to TAM administration. Treatment with TAM resulted in severe degeneration of the pancreatic acini and marked increases in the serum levels of pancreatic lipase, α-amylase, glucose, fatty acids and triglycerides along with decreased insulin serum levels. TAM led to oxidative stress as evident from a significant increase in the pancreatic levels of lipid peroxides and nitric oxide along with the depletion of reduced glutathione, glutathione peroxidase, and superoxide dismutase. Moreover, inflammation was indicated by a significant increase in tumor necrosis factor-α and interleukin-6 levels, enhanced expression of the macrophage recruitment marker; CD68 as well as up-regulated protein levels of toll-like receptor 4 and nuclear factor kappa B and increased p-p38/MAPK ratio; which are important signals in the production of inflammatory cytokines. TAM also markedly increased the pancreatic levels of caspase-3 and BAX reflecting its apoptotic effects. The CAE treatment ameliorated all the biochemical and histological changes induced by TAM. The present study revealed, for the first time, that TAM has toxic effects on the pancreatic tissue through oxidative stress, inflammation and apoptotic effects. The present study also provides evidence that CAE exerts cytoprotective effects against these deleterious effects induced by TAM in the pancreatic tissue. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s43188-023-00198-w."
+    },
+    {
+      "pmid": "37760390",
+      "title": "The Influence of a Nanoemulsion of Cardamom Essential Oil on the Growth Performance, Feed Utilization, Carcass Characteristics, and Health Status of Growing Rabbits under a High Ambient Temperature.",
+      "authors": [
+        "Rehab F S A Ismail",
+        "Mahmoud A E Hassan",
+        "Mahmoud Moustafa",
+        "Mohammed Al-Shehri",
+        "Reem S Alazragi",
+        "Hanan Khojah",
+        "Ali Ali El-Raghi",
+        "Sameh A Abdelnour",
+        "Alaa M A Gad"
+      ],
+      "journal": "Animals : an open access journal from MDPI",
+      "publication_date": "2023-Sep-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recently, nanotechnology approaches have been employed to enhance the solubility, availability, and efficacy of phytochemicals, overcoming some industrial obstacles and natural biological barriers. In this regard, 120 clinically healthy growing V-line rabbits (5 weeks old) reared during the summer season were divided randomly into four equal experimental groups (30 rabbits each). The first group received a basal diet without the supplementation of the nanoemulsion of cardamom essential oil (NCEO) (0 g/kg diet) and served as a control (NCEO 0). The other groups were given diets containing NCEO at levels of 150 (NCEO 150), 300 (NCEO 300), and 600 (NCEO 600) mg/kg diet, respectively. The growth performance (higher LBW and ADG), feed utilization (lower FCR), dressing percentage, and relative weight of the liver were improved significantly in the NCEO-treated groups compared to the control group. Moreover, the dietary treatment significantly decreased the rectum temperature and respiration rate, minimizing the 350 and 325 mg NECO/kg diets. The erythrocyte count, hematocrit, and hemoglobin concentration were significantly increased (p < 0.05), while white blood cells were significantly diminished (p = 0.0200) in the NCEO300 and NCEO600 groups compared to the control group. Treatment with 300 or 600 mg NCEO/kg significantly increased the blood serum total protein and albumin compared to the control group. Meanwhile, the liver enzymes (AST and ALT), uric acid, and creatinine concentrations decreased significantly in the NCEO300 group compared to the control group. The concentrations of triglycerides and total cholesterol were reduced significantly by the dietary treatment. The total antioxidant capacity, dismutase activity, and glutathione concentration were significantly higher, while the malondialdehyde and protein carbonyl levels were significantly lower in the NCEO300 group than in the control. The inflammatory responses and immunity statuses were improved in the blood serum of the NCEO-treated rabbits compared to the control. Heat-stress-induced pathological perturbations in renal/hepatic tissues and NCEO co-treatment successfully re-established and recovered near-control renal-hepatic morphology. In conclusion, a dietary supplementation of NCEO (300 mg/kg) could effectively enhance growing rabbits' growth indices, feed efficiency, redox balance, immunity, and inflammatory responses during the summer."
+    },
+    {
+      "pmid": "37241765",
+      "title": "Antioxidant Activity in Extracts from Zingiberaceae Family: Cardamom, Turmeric, and Ginger.",
+      "authors": [
+        "Pura Ballester",
+        "Begoña Cerdá",
+        "Raúl Arcusa",
+        "Ana María García-Muñoz",
+        "Javier Marhuenda",
+        "Pilar Zafrilla"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2023-May-11",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "An increase in life expectancy leads to a greater impact of chronic non-communicable diseases. This is even more remarkable in elder populations, to whom these become main determinants of health status, affecting mental and physical health, quality of life, and autonomy. Disease appearance is closely related to the levels of cellular oxidation, pointing out the importance of including foods in one's diet that can prevent oxidative stress. Previous studies and clinical data suggest that some plant-based products can slow and reduce the cellular degradation associated with aging and age-related diseases. Many plants from one family present several applications that range from the food to the pharmaceutical industry due to their characteristic flavor and scents. The Zingiberaceae family, which includes cardamom, turmeric, and ginger, has bioactive compounds with antioxidant activities. They also have anti-inflammatory, antimicrobial, anticancer, and antiemetic activities and properties that help prevent cardiovascular and neurodegenerative diseases. These products are abundant sources of chemical substances, such as alkaloids, carbohydrates, proteins, phenolic acids, flavonoids, and diarylheptanoids. The main bioactive compounds found in this family (cardamom, turmeric, and ginger) are 1,8-cineole, α-terpinyl acetate, β-turmerone, and α-zingiberene. The present review gathers evidence surrounding the effects of dietary intake of extracts of the Zingiberaceae family and their underlying mechanisms of action. These extracts could be an adjuvant treatment for oxidative-stress-related pathologies. However, the bioavailability of these compounds needs to be optimized, and further research is needed to determine appropriate concentrations and their antioxidant effects in the body.",
+      "mesh_terms": [
+        "Zingiberaceae",
+        "Antioxidants",
+        "Zingiber officinale",
+        "Curcuma",
+        "Elettaria",
+        "Quality of Life",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "36781058",
+      "title": "Cardamom oil ameliorates behavioral and neuropathological disorders in a rat model of depression induced by reserpine.",
+      "authors": [
+        "Alaa A Abdel-Rasoul",
+        "Nabil A Saleh",
+        "Eman N Hosny",
+        "Mayada M El-Gizawy",
+        "Ehab A Ibrahim"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "publication_date": "2023-May-23",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Depression is a public health problem. Despite the availability of treatment options, its prevalence is increasing. A high rate of treatment failure is often reported, along with considerable side effects associated with synthetic antidepressants. Therefore, developing effective and safe antidepressants from traditional herbs or natural products as an alternative strategy is warranted to avoid side effects and increase drug efficacy. In traditional medicine, cardamom has traditionally been used to treat conditions like asthma, tooth and gum infections, cataracts, nausea, diarrhea, and even depression and anxiety as well as some problems with the heart, kidneys, and digestive system. AIM OF THE STUDY: The current study aimed to evaluate the antidepressant activity of cardamom oil in a rat model of depression induced by reserpine and compare it with the activity of the antidepressant drug fluoxetine. MATERIALS AND METHODS: Depression-like symptoms were induced in male rats by daily i. p. injection of reserpine (0.2 mg/kg/d for 15 d followed by 0.1 mg/kg/d for 21 d to maintain the depressive state), and the rats were treated with cardamom oil (oral dose = 200 mg/kg/d) for 21 d along with the maintenance dose of reserpine. We performed behavioral tests (forced swimming test and open-field test) and evaluated biochemical markers of depression. RESULTS: Our findings revealed that cardamom oil attenuated depression-like symptoms in reserpine-injected rats by improving the behavioral changes measured by the forced swimming test and the locomotor activities measured by the open-field test. In reserpine-injected rats, cardamom oil exerted antidepressant-like effects by modulating lower levels of brain monoamine neurotransmitters (serotonin, norepinephrine, and dopamine), GSH, and higher oxido-nitrosative stress parameters (malondialdehyde and nitric oxide). Moreover, cardamom oil alleviated depression-like behaviors by lowering monoamine oxidase activity and raising the activities of Na+/K+-ATPase and acetylcholinesterase and levels of a brain-derived neurotrophic factor in the cortex and hippocampus. CONCLUSION: We recommend the use of cardamom oil as a safe and reliable treatment or an adjuvant for preventing depression-like symptoms in patients suffering from depression.",
+      "mesh_terms": [
+        "Rats",
+        "Male",
+        "Animals",
+        "Reserpine",
+        "Depression",
+        "Elettaria",
+        "Acetylcholinesterase",
+        "Antidepressive Agents",
+        "Behavior, Animal",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "36522620",
+      "title": "Effect of green cardamom on the expression of genes implicated in obesity and diabetes among obese women with polycystic ovary syndrome: a double blind randomized controlled trial.",
+      "authors": [
+        "Sahar Cheshmeh",
+        "Negin Elahi",
+        "Maysa Ghayyem",
+        "Elaheh Mosaieby",
+        "Shima Moradi",
+        "Yahya Pasdar",
+        "Susan Tahmasebi",
+        "Mehdi Moradinazar"
+      ],
+      "journal": "Genes & nutrition",
+      "publication_date": "2022-Dec-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is an endocrine disease in which related to obesity, metabolic disorders and is considered as one of the main causes of infertility in women. This trial was investigated the effects of green cardamom on the expression of genes implicated in obesity and diabetes among obese women with PCOS. METHODS: One hundred ninety-four PCOS women were randomly divided two groups: intervention (n = 99; 3 g/day green cardamom) and control groups (n = 95). All of them were given low calorie diet. Anthropometric, glycemic and androgen hormones were assessed before and after 16-week intervention. The reverse transcription-polymerase chain reaction (RT-PCR) method was used to measure fat mass and obesity-associated (FTO), peroxisome proliferative activating receptor- (PPAR-), carnitine palmitoyltransferase 1A (CPT1A), acetyl-CoA carboxylase beta (ACAB), leptin receptor (LEPR), ghrelin, and lamin A/C (LAMIN) genes expression in each group. RESULTS: Anthropometric indices were significantly decreased after intervention in both two studied groups. Glycemic indices and androgen hormones were significantly improved in the intervention group compared to the control group. The expression levels of FTO, CPT1A, LEPR, and LAMIN were significantly downregulated compared to control group (P < 0.001), as well as, PPAR-y was significantly upregulated in the intervention group after intervention with green cardamom compared to control group (P < 0.001). CONCLUSION: This current study showed that the administration of green cardamom is a beneficial approach for improving anthropometric, glycemic, and androgen hormones, as well as obesity and diabetes genes expression in PCOS women under the low-calorie diet. TRIAL REGISTRATION: This trial was registered with the Iranian Clinical Trials Registry (registration number: IRCT20200608047697N1). 1 August, 2020; https://www.irct.ir/trial/48748."
+    },
+    {
+      "pmid": "36181264",
+      "title": "The effect of green cardamom on blood pressure and inflammatory markers among patients with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomized clinical trials.",
+      "authors": [
+        "Bahareh Izadi",
+        "Hassan Joulaei",
+        "Kamran Bagheri Lankarani",
+        "Reza Tabrizi",
+        "Erfan Taherifard",
+        "Ali Sadeghpour",
+        "Mohebat Vali",
+        "Maryam Akbari"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2023-Feb",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "Research shows that herbal spices, including seeds of Elettaria cardamomum, may exert beneficial effects on unhealthy metabolic status. This study is a systematic review of the effect of green cardamom in patients with metabolic syndrome and its related disorders. PubMed/Medline, Scopus, EMBASE, Web of Science, and Cochrane Library were searched to identify the relevant randomized clinical trials. The data were pooled using the random-effects model, and weighted mean difference (WMD) was considered as summary effect size. Of 625 clinical trials, eight reports with 595 patients (299 in intervention group and 296 in control group) were included. The findings indicated that green cardamom significantly decreased diastolic blood pressure (WMD: -0.91 mmHg, 95%CI; -1.19, -0.62), high-sensitivity C-reactive protein (WMD: -1.21 mg/L, 95%CI; -2.18, -0.24), interleukin 6 levels (WMD: -2.41 ng/L, 95%CI; -4.35, -0.47). However, cardamom supplementation did not significantly affect systolic blood pressure. This meta-analysis demonstrated that green cardamom could improve blood pressure control and exert antiinflammatory effects which could help patients with unhealthy metabolic profile better manage their health. Importantly, there were few eligible randomized trials with quite a low number of participants. Further prospective studies on larger sample sizes and longer duration of supplementation are warranted for its widespread use.",
+      "mesh_terms": [
+        "Humans",
+        "Blood Pressure",
+        "Metabolic Syndrome",
+        "Elettaria",
+        "Prospective Studies",
+        "Dietary Supplements",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "35996271",
+      "title": "Large Cardamom Extract Enhances Ramipril's Vasoprotective Action in the Aorta by Modulating Endothelial Redox Biology. An Evaluation based on In-silico and In-vitro Research.",
+      "authors": [
+        "Amritha A M",
+        "Shakhi Shylesh C M",
+        "Kavyanjana R Nair",
+        "Arya V S",
+        "Thennavan Arumugam",
+        "Uma Devi P",
+        "Kanthlal Sk"
+      ],
+      "journal": "Current computer-aided drug design",
+      "publication_date": "2022-Aug-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The mechanisms that cause a patient's blood pressure to rise are diverse. Controlling blood pressure with monotherapy acting through a single pathway may be unachievable. Combining a clinically used medication with herbal medicine can result in an antihypertensive effect that is two to five times greater than monotherapy. METHOD: This study examined the effects of aqueous extracts of large cardamom and ramipril on the redox biology of nitric oxide and vascular reactivity in the isolated aorta incubated with a nitro-L-arginine methyl ester. Molecular docking study was performed to predict the affinity of constituents of large cardamom extracts with the NOX 2 gene. RESULTS: Nitric oxide (NO) levels, disordered antioxidant enzymes (glutathione and catalase), NADPH oxidase and lipid peroxidation were recovered when aqueous extract of large cardamom and ramipril were combined. A gradual increase in the percentage relaxation of acetylcholine in phenylephrine pre-contracted aorta indicates that the combination therapy prevents endothelial damage. The molecular docking study reveals the important phytoconstituents present in the large cardamom that can effectively bind with the NADPH oxidase for its antioxidant activity. Consculsion: According to our findings, it was evidenced that the large cardamom extract's vasoprotective action was mostly related to its ability to restore endothelial redox biology by suppressing NADPH oxidase activity. Our findings suggest that ramipril's direct impact on the eNOS/NO system, along with the antioxidant properties of AELC, could have a synergetic benefit in the treatment of hypertension, as well as lessen ramipril's existing side effects."
+    },
+    {
+      "pmid": "35806499",
+      "title": "Formation Mechanism and Lattice Parameter Investigation for Copper-Substituted Cobalt Ferrites from Zingiber officinale and Elettaria cardamom Seed Extracts Using Biogenic Route.",
+      "authors": [
+        "Faiqa Barkat",
+        "Marina Afzal",
+        "Babar Shahzad Khan",
+        "Adnan Saeed",
+        "Mahwish Bashir",
+        "Aiman Mukhtar",
+        "Tahir Mehmood",
+        "Kaiming Wu"
+      ],
+      "journal": "Materials (Basel, Switzerland)",
+      "publication_date": "2022-Jun-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Biogenic routes for the synthesis of nanoparticles are environmentally friendly, nontoxic, biocompatible, and cost-effective compared to traditional synthesis methods. In this study, cobalt ferrite was synthesized using Zingiber officinale and Elettaria cardamom Seed extracts. Effect of copper contents (x = 0.0, 0.3, 0.6 and 0.9) on the plant extracted Cux(Co1-xFe2O4) was investigated by XRD, SEM, EDX, UV-Vis., PL, FE-SEM, FTIR and photocatalytic activity. XRD results revealed that nanoparticles exhibit a cubical spinel structure with an average diameter of 7-45 nm, calculated by the Debye Scherer formula. The value of the lattice parameter decreased from 8.36 Å to 8.08 Å with substitution of copper, which can be attributed to mismatch of ionic radii of Cu2+ (0.73 Å) and Co2+ (0.74 Å) ions. SEM analysis showed that nanoparticles exhibit a spherical shape (~13 nm diameter) for undoped samples and low Cu concentration, while they changed to a hexagonal structure at higher Cu concentration (x = 0.9) with a diameter ~46 nm and a decreased degree of agglomeration. FE-SEM further confirmed the nanoparticles' size and shape. EDX analysis confirmed the presence of cobalt, iron, and oxygen without contamination. The optical absorption spectra of UV-vis and PL showed red-shift, which can be accredited to larger crystalline sizes of nanoparticles. FTIR spectra showed two main bands at 410 and 605 cm-1, indicating the presence of intrinsic vibrations of the octahedral and tetrahedral complexes, respectively. The photocatalytic activity of Co0.4Cu0.6 Fe2O4 nanoparticles was investigated using methylene blue (MB) and methyl orange (MO) dyes under visible light irradiation. The degradation rate (93.39% and 83.15%), regression correlation coefficient (0.9868 and 0.9737) and rate constant (0.04286 and 0.03203 rate·min-1) were calculated for MB and MO, respectively. Mechanisms for the formation and photocatalytic activity of Cu-substituted plant-extracted cobalt ferrite were discussed. The Co0.4Cu0.6 Fe2O4 nanoferrite was found to be an efficient photocatalyst, and can be exploited for wastewater treatment applications for MB/MO elimination."
+    },
+    {
+      "pmid": "35581106",
+      "title": "Effect of Cardamom Inhalation Therapy on Intra-and Postoperative Nausea and Vomiting of Mothers Undergoing Spinal Anesthesia for Elective Cesarean Section.",
+      "authors": [
+        "Mahnaz Khatiban",
+        "Masoumeh Mirzaie",
+        "Akbar Fazeli",
+        "Leili Tapak",
+        "Zahra Khalili"
+      ],
+      "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "PURPOSE: This study aimed to determine the effect of cardamom inhalation on intra and postoperative nausea and vomiting (IONV/PONV) of mothers undergoing spinal anesthesia for elective cesarean section. DESIGN: A single-blind, randomized, placebo-controlled clinical trial study. METHODS: Seventy eligible participates were equally randomized to the intervention or placebo group. The demographic and clinical characteristics questionnaire, a 100 mm Visual Analogue Scale (VAS) to measure the severity of nausea; and the mothers' emetic episodes checklist were used. Upon the first episode of nausea, participants inhaled through a plastic bag containing distilled gauze pads in normal saline with or without Cardamom essential oil. FINDINGS: Following the intervention, nausea severity in placebo (25.28 ± 32.38) and cardamom (13.14 ± 19.96) groups declined (P < .001), however after controlling the initial severity of nausea, the declining extent was more noticeable in the intervention group than in the placebo group. The episodes of nausea (37.1% vs 65.7%, P = .006), and retching (20% vs 45.7%, P = .028) were significantly lower in the intervention group than in the placebo group. Administration of antiemetic medications was lower in the intervention than the placebo group (37.1% vs 65.7%, P = .009). CONCLUSIONS: Cardamom aromatherapy was effective in alleviating mothers' experience of nausea and retching across the cesarean surgical continuum. As such, it can be considered as a palliative treatment for IONV/PONV in Cesarean section surgeries.",
+      "mesh_terms": [
+        "Anesthesia, Spinal",
+        "Antiemetics",
+        "Cesarean Section",
+        "Double-Blind Method",
+        "Elettaria",
+        "Female",
+        "Humans",
+        "Mothers",
+        "Oils, Volatile",
+        "Postoperative Nausea and Vomiting",
+        "Pregnancy",
+        "Respiratory Therapy",
+        "Single-Blind Method",
+        "Vomiting"
+      ]
+    },
+    {
+      "pmid": "35320494",
+      "title": "Anti-inflammatory response of cardamom extract and prediction of therapeutic window in COVID-19 patients by assessing inflammatory markers using RT-PCR.",
+      "authors": [
+        "Nourin Shakeeb",
+        "Prashanth Varkey",
+        "Aimy Hynse",
+        "Ajit Mandlecha"
+      ],
+      "journal": "Inflammopharmacology",
+      "publication_date": "2022-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Molecular diagnostics using RT-PCR has now emerged as the new diagnostic method for clinicians with the dawn of SARS-CoV-2. In India, the popularity and awareness of RT-PCR and particularly the increased availability of testing machines across hospitals has now opened up possibilities of diagnostic tests with RT-PCR. In view of the cytokine storm which is the significant reason for morbidity and mortality of COVID-19 patients, we proposed to test the usefulness of a multiplex RT-PCR test kit that simultaneously measured inflammatory markers namely, IL-6, TNF- α and IL-10 (IFM) all in one tube. The study included a group of patients who were equally allotted to two treatment arms one of which received standard of care along with a food supplement capsule as a natural anti-inflammatory (RECOVEREEZ FORTE™), and the other group received standard of care that included oral Prednisolone tablets in tapered dosage. RECOVEREEZ FORTE™ consists of potent biomolecules from cardamom extract. A natural product with substantial anti-inflammatory action when consumed early at the onset of symptoms is hereby proven by comparing gene expression profile of inflammatory markers with routinely tested inflammatory parameters such as serum IL-6, CRP and LDH. In addition to predicting worse disease outcomes beforehand, RT-PCR assay tests provides an opportunity for identifying therapeutic window aiding in practicing effective treatment strategy for COVID-19. RT-PCR analysis of IFM together being used in a single multiplex kit is being first reported and such a test as a prognosticator for disease progression does seem promising and worthy of clinicians adopting novel testing modalities in clinical practice. AIM OF THE STUDY: To study the anti-inflammatory response of RECOVEREEZ FORTE™ using RT-PCR based multiplex gene profiling of inflammatory markers in disease prognosis and show its predictability of worsening outcomes and its role in identifying therapeutic window for RECOVEREEZ FORTE™. To show the potentiality of RECOVEREEZ FORTE™ in reducing COVID-19 symptoms and SARS-CoV-2 RT-PCR Ct values of the treatment group. MATERIALS AND METHODS: This was a short study of a 10-day period where the end point was the negativity of COVID-19 on RT-PCR test or the decline in cycle threshold (Ct) values of the test performed on day 10 when compared to day 0. During the course of the study, patients were given standard treatment and an oral dose of 500 mg of RECOVEREEZ FORTE™ thrice daily, or standard of care and oral Prednisolone in tapered dosage (control group). All essential interventions were included in the standard of care as decided by the attending physician. The RT-PCR results of inflammatory markers were compared to routinely tested parameters such as IL-6, CRP and LDH. Time to clinical improvement was in terms of SARS-CoV-2 RT-PCR test negativity or recovery of COVID-19 symptoms. We enrolled 64 patients, of which 32 were allocated to RECOVEREEZ FORTE ™ group and 32 to the control group. RESULTS: The RT-PCR analysis of elevated IFM on day 0 corresponded to above normal protein levels of routinely tested parameters such as serum IL-6, CRP and LDH on day 5. Similarly, elevated IFM on day 5 corresponded to above normal protein levels on day 10. Such an association was equally prevalent in both the control group and RECOVEREEZ FORTE™ group, stipulating that RECOVEREEZ FORTE™ may be used as an alternative to steroids. The obtained results indicate that the RT-PCR assessment predicts worse outcomes 5 days earlier. But, the RT-PCR analysis of elevated IFM on day 0 did not correspond to the above normal protein levels of other parameters on day 10. Hence, indicating that the IFM RT-PCR test cannot predict worse outcomes 10 days earlier. Also, RECOVEREEZ FORTE™ when consumed for a period of 10 days normalized LDH values, compared to the control group. Moreover, IFM RT-PCR test identified a 5-day therapeutic window for RECOVEREEZ FORTE™ against inflammation experienced by patients. In addition to the above findings, the authors also observed that majority of the patients belonging to the treatment group showed recovery from symptoms such as fever, cough, sore throat and breathlessness compared to control group by day 5. 12 (37.5%) out of 32 patients and 6 (18.75%) out of 32 patients belonging to the treatment group and control group, respectively, became SARS-CoV-2 negative by day 5, indicating a probable anti-viral action of RECOVEREEZ FORTE™ against SARS-CoV-2. CONCLUSION: The IFM RT-PCR test possess 5-day early prediction ability and lacks 10-day prediction ability. Treatment with RECOVEREEZ FORTE™ indicates good anti-inflammatory action which is equivalent to steroids. Intake of RECOVEREEZ FORTE ™ for a period of 5 days depicts persistent anti-inflammatory action, recovery of COVID-19 symptoms and a probable anti-viral action. Moreover, an effective normalization of LDH may be rendered by RECOVEREEZ FORTE™ when consumed for a period of 10 days.",
+      "mesh_terms": [
+        "Anti-Inflammatory Agents",
+        "C-Reactive Protein",
+        "COVID-19",
+        "Elettaria",
+        "Humans",
+        "Interleukin-6",
+        "Plant Extracts",
+        "Prednisolone",
+        "Reverse Transcriptase Polymerase Chain Reaction",
+        "SARS-CoV-2",
+        "COVID-19 Drug Treatment"
+      ]
+    },
+    {
+      "pmid": "35317114",
+      "title": "The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review.",
+      "authors": [
+        "Roghayeh Yahyazadeh",
+        "Mahboobeh Ghasemzadeh Rahbardar",
+        "Bibi Marjan Razavi",
+        "Gholamreza Karimi",
+        "Hossein Hosseinzadeh"
+      ],
+      "journal": "Iranian journal of basic medical sciences",
+      "publication_date": "2021-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Metabolic syndrome (MetS), as a health-threatening factor, consists of various symptoms including insulin resistance, high blood sugar, hypertension, dyslipidemia, inflammation, and abdominal obesity that raise the risk of diabetes mellitus and cardiovascular disease. Cardiovascular diseases are important causes of mortality among the world population. Recently, there has been a growing interest in using phytomedicine and natural compounds in the prevention and treatment of various diseases. The data was gathered by searching various standard electronic databases (Google Scholar, Scopus, Web of Science, and PubMed) for English articles with no time limitations. All in vivo, in vitro, and clinical studies were included. Elettaria cardamomum (cardamom) is a rich source of phenolic compounds, volatile oils, and fixed oils. Cardamom and its pharmacologically effective substances have shown broad-spectrum activities including antihypertensive, anti-oxidant, lipid-modifying, anti-inflammatory, anti-atherosclerotic, anti-thrombotic, hepatoprotective, hypocholesterolemic, anti-obesity, and antidiabetic effects. This review aims to highlight the therapeutic effects of cardamom on MetS and its components including diabetes, hyperlipidemia, obesity, and high blood pressure as well as the underlying mechanisms in the management of MetS. Finally, it can be stated that cardamom has beneficial effects on the treatment of MetS and its complications."
+    },
+    {
+      "pmid": "34281445",
+      "title": "Aqueous extract of large cardamom inhibits vascular damage, oxidative stress, and metabolic changes in fructose-fed hypertensive rats.",
+      "authors": [
+        "Kanthlal S",
+        "Arya V",
+        "Bindhu Paul-Prasanth",
+        "Vijayakumar M",
+        "Rema Shree A",
+        "Uma Devi P"
+      ],
+      "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "publication_date": "2021-Oct-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: Since metabolic abnormalities such as elevated glucose level and imbalanced lipid profiles increase the risk for hypertension and cause endothelial dysfunction, we evaluated the effect of aqueous extract of large cardamom (AELC) on fructose-induced metabolic hypertension and oxidative stress. METHODS: The male Sprague-Dawley rats were divided into 6 groups with 5 rats in each group, and each group was fed with 10% fructose in drinking water for 8 weeks. Starting from week 5, animals were treated with 50, 100, and 200 mg/kg/day AELC or Losartan (10 mg/kg/day). Systolic, diastolic, and mean arterial blood pressure was measured once in every seven days using the tail-cuff method. Vascular function, plasma nitric oxide (NO), glucose, lipid profiles, serum biochemical, and anti-oxidant parameters were also evaluated. RESULTS: Rats fed with fructose showed higher blood pressure, serum cholesterol, and triglyceride levels, but decreased in the AELC or Losartan treatment group. Treatments with AELC prevented exaggerated plasma glucose and oxidative stress and restored the nitric oxide level in fructose-fed rats. Besides, it also reduced vascular proliferation and improved the relaxation response of acetylcholine in the aorta pre-contracted with phenylephrine. CONCLUSION: In summary, the obtained results suggest that AELC can prevent and reverse the high blood pressure induced by fructose, probably by restoring nitric oxide level and by improving altered metabolic parameters.",
+      "mesh_terms": [
+        "Animals",
+        "Blood Pressure",
+        "Elettaria",
+        "Fructose",
+        "Hypertension",
+        "Insulin Resistance",
+        "Male",
+        "Oxidative Stress",
+        "Rats",
+        "Rats, Sprague-Dawley"
+      ]
+    },
+    {
+      "pmid": "34057705",
+      "title": "Green cardamom plus low-calorie diet can decrease the expression of inflammatory genes among obese women with polycystic ovary syndrome: a double-blind randomized clinical trial.",
+      "authors": [
+        "Sahar Cheshmeh",
+        "Maysa Ghayyem",
+        "Firoozeh Khamooshi",
+        "Neda Heidarzadeh-Esfahani",
+        "Negin Rahmani",
+        "Niloofar Hojati",
+        "Elaheh Mosaieby",
+        "Shima Moradi",
+        "Yahya Pasdar"
+      ],
+      "journal": "Eating and weight disorders : EWD",
+      "publication_date": "2022-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "PURPOSE: Polycystic ovary syndrome (PCOS) is an endocrine disorder and a common cause of infertility among women that is associated with low-grade inflammation. Therefore, the current randomized, double-blind, placebo-controlled clinical trial was conducted to assess the effects of green cardamom supplementation on the serum level of inflammatory markers and their gene expression among obese women with PCOS. METHODS: We included 194 obese women with PCOS and administered low-calorie diet to all of them. These subjects were randomly divided into two groups including the intervention group with 3 g/day green cardamom (n = 99) and the placebo group (n = 95). Anthropometric indices, androgen hormones, and inflammatory factors [tumor necrosis factor-α (TNF-α), interleukin 6 (IL-6), and C-reactive protein (CRP)] were assessed before and after the 4-month intervention. TNF-α, IL-6, and CRP gene expression levels were measured using reverse transcription-polymerase chain reaction (RT-PCR) method. RESULTS: Anthropometric indices were improved in both studied groups (P < 0.001). Among androgen hormones, luteinizing hormone, androstenedione, and dehydroepiandrosterone were significantly decreased (P < 0.001), and follicle-stimulating hormone was significantly increased (P < 0.001) in the green cardamom group. Our findings showed that TNF-α, IL-6, and CRP serum levels were significantly decreased after the intervention with green cardamom plus low-calorie diet (P < 0.001). In addition, the expression levels of TNF-α and CRP genes were significantly decreased in the intervention group (P < 0.001). CONCLUSIONS: The present study supports the beneficial anti-inflammatory effect of green cardamom on the inflammatory state in PCOS women. LEVEL OF EVIDENCE: Level I: randomized clinical trial. Trial registration This trial was registered with the Iranian Clinical Trials Registry (registration number: IRCT20200608047697N1). 1 August, 2020; https://www.irct.ir/trial/48748 .",
+      "mesh_terms": [
+        "Caloric Restriction",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Elettaria",
+        "Female",
+        "Humans",
+        "Iran",
+        "Obesity",
+        "Polycystic Ovary Syndrome"
+      ]
+    },
+    {
+      "pmid": "33926427",
+      "title": "Effects of Green cardamom (Elettaria cardamomum Maton) and its combination with cyclophosphamide on Ehrlich solid tumors.",
+      "authors": [
+        "Rafa S Almeer",
+        "Meshael Alnasser",
+        "Nada Aljarba",
+        "Gadah I AlBasher"
+      ],
+      "journal": "BMC complementary medicine and therapies",
+      "publication_date": "2021-Apr-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Cardamom (Elettaria cardamomum) is a spice and exhibits potent antioxidant and biological activities through distinct molecular mechanisms. However, the anticancer effect of cardamom was not explored yet in Ehrlich solid tumor (EST)-bearing mice. OBJECTIVES: This investigation was aimed to evaluate the anti-cancer effects of green cardamom (GCar) alone or combined with the anti-cancer drug cyclophosphamide in an in vivo model to explore its mechanistic role in tumor cell death in EST-bearing mice. METHODS: Ehrlich ascites tumor cells were injected in the mice and 5 days later the animals treated with GCar and/or cyclophosphamide for 10 days. Twenty-four hours from the last treatment, animals were sacrificed for the different measurements. RESULTS: Data recorded for tumor size, percentage of tumor growth inhibition, tumor growth delay and mean survival time of EST-bearing mice demonstrated the effective role of GCar alone or combined with CPO as a promising anti-cancer agent because it reduced tumor size. GCar elevated the mean survival time of EST-bearing mice compared to that of untreated EST and EST + CPO groups. Analysis of qPCR mRNA gene and protein expression revealed that GCar alone or combined with CPO were promising anticancer agents. After the treatment of EST with GCar, the apoptotic-related genes and proteins were significantly modulated. GCar induced markedly significant decreases in oxidative stress biomarkers and a significant increment in glutathione levels and that of antioxidant enzymes. With a marked diminish in liver and kidney function biomarkers. CONCLUSION: The results revealed that GCar could serve as an apoptotic stimulator agent, presenting a novel and potentially curative approach for cancer treatment, inducing fewer side effects than those of the commercially used anti-cancer drugs, such as CPO.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents",
+        "Body Weight",
+        "Carcinoma, Ehrlich Tumor",
+        "Cyclophosphamide",
+        "Elettaria",
+        "Male",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Neoplasms, Experimental",
+        "Plant Extracts",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "33466708",
+      "title": "Anti-Pathogenic and Immune-Modulatory Effects of Peroral Treatment with Cardamom Essential Oil in Acute Murine Campylobacteriosis.",
+      "authors": [
+        "Markus M Heimesaat",
+        "Soraya Mousavi",
+        "Dennis Weschka",
+        "Stefan Bereswill"
+      ],
+      "journal": "Microorganisms",
+      "publication_date": "2021-Jan-14",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Human infections with enteropathogenic Campylobacter jejuni (C. jejuni) including multi-drug resistant isolates are emerging worldwide. Antibiotics-independent approaches in the combat of campylobacteriosis are therefore highly desirable. Since the health-beneficial including anti-inflammatory and anti-infectious properties of cardamom have been acknowledged for long, we here addressed potential anti-pathogenic and immune-modulatory effects of this natural compound during acute campylobacteriosis. For this purpose, microbiota-depleted IL-10-/- mice were orally infected with C. jejuni strain 81-176 and subjected to cardamom essential oil (EO) via the drinking water starting on day 2 post-infection. Cardamom EO treatment resulted in lower intestinal pathogen loads and improved clinical outcome of mice as early as day 3 post-infection. Furthermore, when compared to mock controls, cardamom EO treated mice displayed less distinct macroscopic and microscopic inflammatory sequelae on day 6 post-infection that were paralleled by lower colonic numbers of macrophages, monocytes, and T cells and diminished pro-inflammatory mediator secretion not only in the intestinal tract, but also in extra-intestinal and, remarkably, systemic organs. In conclusion, our preclinical intervention study provides the first evidence that cardamom EO comprises a promising compound for the combat of acute campylobacteriosis and presumably prevention of post-infectious morbidities."
+    },
+    {
+      "pmid": "32359750",
+      "title": "Effect of green cardamom on lipoproteins, glycemic control and anthropometric parameters: A meta-analysis of randomized clinical trials.",
+      "authors": [
+        "Omid Asbaghi",
+        "Elham Eslampour",
+        "Željko Reiner",
+        "Bita Badehnoosh",
+        "Fariba Kolahdooz",
+        "Sajjad Moradi",
+        "Shahrzad Hashemi Dizaji",
+        "Zatollah Asemi"
+      ],
+      "journal": "Clinical nutrition ESPEN",
+      "publication_date": "2020-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "abstract": "INTRODUCTION: The aim of this systematic review and meta-analysis was to summarize all the existing randomized controlled trials (RCTs) evidence and to evaluate the effects of green cardamom on lipoproteins, glycemic control and anthropometric parameters in healthy and/or with disease types compared with the control. METHOD: Two independent authors systematically searched online databases including EMBASE, Scopus, PubMed, Cochrane Library, and Web of Science from inception until 30th July 2019. RCTs complying with the following criteria were included in this meta-analysis: human trials with either cross-over design or parallel design, trials with data on the effects of green cardamom on serum lipoproteins and glycemic control and anthropometric parameters with standard deviation and related 95% confidence interval for the both intervention and placebo groups. The heterogeneity among the included studies was assessed using Cochrane's Q test and I-square (I2) statistic. Data were pooled using a random-effects model and weighted mean difference (WMD) was considered as the overall effect size. RESULT: Seven trials were included in this meta-analysis. Triglycerides were significantly reduced after cardamom supplementation when compared with the control group. Cardamom intake from 3 small studies resulted in a significant increase in BMI when compared with the control group. However, cardamom supplementation did not have any significant effect on total cholesterol, LDL-cholesterol, HDL-cholesterol, fasting plasma glucose and body weight when compared with the control group. CONCLUSION: This meta-analysis demonstrated that green cardamom intake significantly reduced triglycerides levels which may have played an indirect role in improved clinical symptoms in diseases with metabolic disorders.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "Elettaria",
+        "Glycemic Control",
+        "Humans",
+        "Lipoproteins",
+        "Randomized Controlled Trials as Topic"
+      ]
+    },
+    {
+      "pmid": "32202168",
+      "title": "Antioxidant and vasorelaxant effects of aqueous extract of large cardamom in L-NAME induced hypertensive rats.",
+      "authors": [
+        "S K Kanthlal",
+        "Jipnomon Joseph",
+        "Bindhu Paul",
+        "Vijayakumar M",
+        "Uma Devi P"
+      ],
+      "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+      "publication_date": "2020-Oct-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "PURPOSE: The present work aimed to study the effect of aqueous extract of large cardamom (AELC) to prevent vascular remodeling and oxidative stress in Nω-Nitro-L-arginine methyl ester (L-NAME)-induced hypertension. METHOD: Male Wistar rats were administered with L-NAME 40 mg/kg/day for 28 days by oral gavage. The treatments included captopril (20 mg/kg/day) or AELC (100, 200 and 400 mg/kg/day) along with L-NAME administration. RESULTS: L-NAME treated rats showed high systolic, diastolic and mean arterial pressure, decreased nitric oxide level, increased level of malondialdehyde in plasma, heart, aorta and kidney, hypertrophy of the vascular wall and reduced vascular response to acetylcholine in phenylephrine-precontracted aorta. Treatment with AELC markedly reduced the blood pressure, restored the nitric oxide level, reduced the malondialdehyde level, alleviated the hypertrophy in L-NAME-induced hypertensive rats. Additionally, it also improved the vascular response to acetylcholine in phenylephrine pre-contracted aorta. CONCLUSION: In conclusion, our results demonstrate the preventive effect of AELC in L-NAME-induced hypertensive model, which is possibly related to antioxidant activities and restoration of nitric oxide level.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Animals",
+        "Antihypertensive Agents",
+        "Antioxidants",
+        "Aorta",
+        "Arterial Pressure",
+        "Blood Vessels",
+        "Captopril",
+        "Elettaria",
+        "Hypertension",
+        "Hypertrophy",
+        "Kidney",
+        "Male",
+        "Malondialdehyde",
+        "Myocardium",
+        "NG-Nitroarginine Methyl Ester",
+        "Nitric Oxide",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Wistar",
+        "Vascular Remodeling",
+        "Vasodilation",
+        "Vasodilator Agents"
+      ]
+    },
+    {
+      "pmid": "31430531",
+      "title": "Antibacterial and anti-inflammatory activities of cardamom (Elettaria cardamomum) extracts: Potential therapeutic benefits for periodontal infections.",
+      "authors": [
+        "Mariem Souissi",
+        "Jabrane Azelmat",
+        "Kamel Chaieb",
+        "Daniel Grenier"
+      ],
+      "journal": "Anaerobe",
+      "publication_date": "2020-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Cardamom (Elettaria cardamomum) is a traditional aromatic plant for which several pharmacological properties have been associated. In this study, the antibacterial activity of two cardamom extracts (fruit and seeds), rich in volatile compounds, against major periodontal pathogens was evaluated. Moreover, the ability of the extracts to exert anti-inflammatory activity was tested. Both cardamom fruit and seed extracts exerted an antibacterial effect against Aggregatibacter actinomycetemcomitans, Fusobacterium nucleatum, Porphyromonas gingivalis, and Prevotella intermedia (minimum inhibitory concentrations: 0.5% [v/v], 0.25%, 0.062%, 0.125%, respectively and minimum bactericidal concentrations: 1%, 0.25%, 0.062%, 0.25%, respectively). The cell membrane of P. gingivalis was disrupted by a treatment with cardamom extracts suggesting the bactericidal mode of action. The extracts also inhibited biofilm formation although it correlated with a growth reduction. Moreover, the cardamom extracts significantly decreased the secretion of IL-1β, TNF-α, and IL-8 by lipopolysaccharide-stimulated macrophages. Evidence were brought that the anti-inflammatory activity may result from inhibition of the NF-κB signaling pathway. This study is the first to provide evidence that cardamom fruit and seed extracts through their antibacterial and anti-inflammatory properties may be therapeutic agents of interest against periodontal infections.",
+      "mesh_terms": [
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents",
+        "Biofilms",
+        "Cell Membrane Permeability",
+        "Computational Biology",
+        "Cytokines",
+        "Elettaria",
+        "Humans",
+        "Lipopolysaccharides",
+        "Macrophages",
+        "Microbial Sensitivity Tests",
+        "NF-kappa B",
+        "Periodontitis",
+        "Plant Extracts"
+      ]
+    },
+    {
+      "pmid": "31114535",
+      "title": "Neuroprotective Effect of Cardamom Oil Against Aluminum Induced Neurotoxicity in Rats.",
+      "authors": [
+        "Sandip T Auti",
+        "Yogesh A Kulkarni"
+      ],
+      "journal": "Frontiers in neurology",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Acetylcholinesterase (AChE) is an enzyme involved in the progression of Alzheimer's disease (AD). Cardamom oil (CO) has been reported to have acetylcholinesterase inhibitory, antioxidant and anti-anxiety effects. Hence, we studied the effect of cardamom oil in aluminum chloride induced neurotoxicity in rats. AD like symptoms were induced in Wistar rats with aluminum chloride (100 mg/kg, p.o.). Cardamom oil was administered concomitantly by oral route at doses of 100 and 200 mg/kg for 42 days. Behavioral parameters like Morris water maze, elevated plus maze, passive avoidance test and locomotor activity were evaluated on day 21 and 42. AChE activity, oxidative stress parameters, histopathological studies and immunohistochemistry studies were carried out in hippocampus and cortex. Cardamom oil treatment showed significant improvement in behavioral parameters, inhibition of AChE activity (p < 0.001) and reduction in oxidative stress in the brain. Histopathological studies of hippocampus and cortex by hematoxylin & eosin (H. & E.) and congo red stain showed inhibition of neuronal damage and amyloid β plaque formation with cardamom oil treatment. Immunohistochemistry showed, CO treatment inhibited amyloid β expression and upregulated brain-derived neurotrophic factor (BDNF). The present study showed that, cardamom oil has neuroprotective effect in aluminum chloride induced neurotoxicity linked with inhibition of AChE activity and reduction in oxidative damage. This effect of cardamom oil may be useful in management of Alzheimer's disease."
+    },
+    {
+      "pmid": "30701554",
+      "title": "Beneficial effects of green cardamom on serum SIRT1, glycemic indices and triglyceride levels in patients with type 2 diabetes mellitus: a randomized double-blind placebo controlled clinical trial.",
+      "authors": [
+        "Mohadeseh Aghasi",
+        "Fariba Koohdani",
+        "Mostafa Qorbani",
+        "Ensieh Nasli-Esfahani",
+        "Shohreh Ghazi-Zahedi",
+        "Hoorieh Khoshamal",
+        "Ali Keshavarz",
+        "Gity Sotoudeh"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2019-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Cardamom has antioxidant and anti-inflammatory effects which may help to remedy diseases. Studies on the health benefits of cardamom in diabetic patients are very limited. Thus, this study is designed to determine the effect of cardamom supplementation on blood lipids and glycemic indices in type 2 diabetic patients. To investigate the mechanism of cardamom effect on blood glucose and lipid levels, serum sirtuin-1 (SIRT1) was assessed. RESULTS: In a parallel, double-blind randomized, placebo-controlled clinical trial, 83 overweight or obese type 2 diabetic patients were randomly allocated into an intervention (n = 41) or a control group (n = 42). The intervention and the placebo group received 3 g of green cardamom or rusk powder, respectively for 10 weeks. Physical activity level, dietary intake, anthropometric measurements (weight, height and waist circumference), glycemic indices [glucose, insulin, hemoglobin A1c (HbA1c)], blood lipids [triglyceride (TG), total cholesterol (TC), high-density lipoprotein cholesterol (HDL-c) and low-density lipoprotein cholesterol (LDL-c)] and SIRT1 levels were measured. Body mass index and homeostasis model assessment as an index of insulin resistance (HOMA-IR) were calculated before and after intervention. Compared to the control group, a significant decrease in serum HbA1C (-0.4%), insulin (-2.8 µIU dL-1 ), HOMA-IR (-1.7) and TG (-39.9 mg dL-1 ), and an increase in SIRT1 (2.3 ng mL-1 ) was observed in cardamom group. There were no significant changes in serum TC, HDL-c and LDL-c levels between the two groups before and after adjustment for potential confounders including glyclaside dose, duration of disease and weight. CONCLUSION: Our results showed that cardamom can decrease HbA1c, insulin level, HOMA-IR and TG level via increase in SIRT1 concentration in type 2 diabetes mellitus patients. © 2019 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Adult",
+        "Blood Glucose",
+        "Cholesterol, HDL",
+        "Diabetes Mellitus, Type 2",
+        "Double-Blind Method",
+        "Elettaria",
+        "Female",
+        "Glycated Hemoglobin",
+        "Glycemic Index",
+        "Humans",
+        "Insulin",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Sirtuin 1",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "30263038",
+      "title": "Green cardamom increases Sirtuin-1 and reduces inflammation in overweight or obese patients with non-alcoholic fatty liver disease: a double-blind randomized placebo-controlled clinical trial.",
+      "authors": [
+        "Milad Daneshi-Maskooni",
+        "Seyed Ali Keshavarz",
+        "Mostafa Qorbani",
+        "Siavash Mansouri",
+        "Seyed Moayed Alavian",
+        "Mahtab Badri-Fariman",
+        "Seyed Ali Jazayeri-Tehrani",
+        "Gity Sotoudeh"
+      ],
+      "journal": "Nutrition & metabolism",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Non-alcoholic fatty liver disease (NAFLD) is the hepatic component of metabolic syndrome. Despite the beneficial health effects of cardamom on dyslipidemia, hepatomegaly, and fasting hyperglycemia, no previous human study has been conducted on the efficacy of cardamom in NAFLD. The aim of this study was to assess the effects of green cardamom (GC) on serum Sirtuin-1 (Sirt1), inflammatory factors, and liver enzymes in overweight or obese NAFLD patients. METHODS: The recruitment of subjects was conducted at the polyclinic of the central hospital of National Iranian Oil Company (NIOC), Tehran. Eighty-seven patients who participated were divided randomly into two groups according to the ultrasonography and eligibility criteria as cardamom (n = 43) or placebo (n = 44). The intervention involves taking two 500 mg capsules three times per day with meals for 3 months. General characteristics, dietary intake and physical activity status, weight and height were determined. In addition, serum Sirt1, tumor necrosis factor-alpha (TNF-α), high sensitive c-reactive protein (hs-CRP), interleukin-6 (IL-6), alanine transaminase (ALT), and aspartate transaminase (AST) were measured. The degree of fatty liver was determined at beginning and end of the study. RESULTS: In comparison with placebo, GC significantly increased Sirt1 and decreased hs-CRP, TNF-α, IL-6, ALT, and the degree of fatty liver (P < 0.05). The differences in weight, BMI, and AST were not significant (P > 0.05). CONCLUSION: GC supplementation could improve some biomarkers related to fatty liver including inflammation, ALT, and Sirt1 in overweight/obese NAFLD patients. Further trials on cardamom's potential are suggested. TRIAL REGISTRATION: Iranian Registry of Clinical Trials, IRCT2015121317254N4. Registered 27/12/2015."
+    },
+    {
+      "pmid": "29026804",
+      "title": "The effect of cardamom supplementation on serum lipids, glycemic indices and blood pressure in overweight and obese pre-diabetic women: a randomized controlled trial.",
+      "authors": [
+        "Yaghooblou Fatemeh",
+        "Fereydoun Siassi",
+        "Abbas Rahimi",
+        "Fariba Koohdani",
+        "Farideh Doostan",
+        "Mostafa Qorbani",
+        "Gity Sotoudeh"
+      ],
+      "journal": "Journal of diabetes and metabolic disorders",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Spice consumption helps the treatment of diseases due to their antioxidant and anti-inflammatory contents. Cardamom is one of this spices; therefore, this study is designed to determine the effect of cardamom supplementation on serum lipids, glycemic indices, and blood pressure in pre-diabetic women. METHODS: Eighty overweight or obese pre-diabetic women were randomly allocated to two groups. The intervention group received 3 g of green cardamom and the placebo group received 3 g of rusk powder for 2 months. The physical activity level, dietary intake, anthropometric measurements, Blood pressure, fasting blood sugar (FBS), triglyceride (TG), total cholesterol (TC), low density lipoprotein (LDL-C), high density lipoprotein (HDL-C), insulin, body mass index (BMI), insulin resistance, and insulin sensitivity were measured before and after intervention. RESULTS: After intervention, mean TC (p = 0.02) and LDL-C (p = 0.01) significantly decreased and insulin sensitivity (p = 0.03) increased in the cardamom group. In the control group, mean HDL-C (p = 0.02) significantly decreased after the study. We observed no significant decrease in systolic and diastolic blood pressure, glycemic indices, and serum lipids values in the cardamom group compared to the placebo group. CONCLUSIONS: Green cardamom supplementation may have a protective effect on HDL-C level in pre-diabetic subjects. It improves some blood parameters in these subjects; however, its effects are not different from placebo. TRIAL REGISTRATION: Iranian Registry of Clinical Trials, IRCT2014060817254N2. Registered 2 September 2014."
+    },
+    {
+      "pmid": "28714890",
+      "title": "Cardamom, Cumin, and Dill Weed Essential Oils: Chemical Compositions, Antimicrobial Activities, and Mechanisms of Action against Campylobacter spp.",
+      "authors": [
+        "Aysegul Mutlu-Ingok",
+        "Funda Karbancioglu-Guler"
+      ],
+      "journal": "Molecules (Basel, Switzerland)",
+      "publication_date": "2017-Jul-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Natural antimicrobials as well as essential oils (EOs) have gained interest to inhibit pathogenic microorganisms and to control food borne diseases. Campylobacter spp. are one of the most common causative agents of gastroenteritis. In this study, cardamom, cumin, and dill weed EOs were evaluated for their antibacterial activities against Campylobacter jejuni and Campylobacter coli by using agar-well diffusion and broth microdilution methods, along with the mechanisms of antimicrobial action. Chemical compositions of EOs were also tested by gas chromatography (GC) and gas chromatography-mass spectrometry (GC-MS). The results showed that cardamom and dill weed EOs possess greater antimicrobial activity than cumin with larger inhibition zones and lower minimum inhibitory concentrations. The permeability of cell membrane and cell membrane integrity were evaluated by determining relative electric conductivity and release of cell constituents into supernatant at 260 nm, respectively. Moreover, effect of EOs on the cell membrane of Campylobacter spp. was also investigated by measuring extracellular ATP concentration. Increase of relative electric conductivity, extracellular ATP concentration, and cell constituents' release after treatment with EOs demonstrated that tested EOs affected the membrane integrity of Campylobacter spp. The results supported high efficiency of cardamom, cumin, and dill weed EOs to inhibit Campylobacter spp. by impairing the bacterial cell membrane.",
+      "mesh_terms": [
+        "Adenosine Triphosphate",
+        "Anethum graveolens",
+        "Anti-Bacterial Agents",
+        "Anti-Infective Agents",
+        "Campylobacter",
+        "Cell Membrane",
+        "Cuminum",
+        "Electric Conductivity",
+        "Elettaria",
+        "Microbial Sensitivity Tests",
+        "Oils, Volatile",
+        "Phytochemicals",
+        "Plant Oils"
+      ]
+    },
+    {
+      "pmid": "28480505",
+      "title": "Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: a randomized double-blind clinical trial.",
+      "authors": [
+        "Shiva Kazemi",
+        "Fatemeh Yaghooblou",
+        "Fereydoun Siassi",
+        "Abbas Rahimi Foroushani",
+        "Mahsa Ghavipour",
+        "Fariba Koohdani",
+        "Gity Sotoudeh"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2017-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: Several preclinical studies have shown that spices may decrease the risk of chronic diseases. However, it has been suggested that more clinical trials be carried out to strengthen this preclinical evidence. The purpose of the present study was to evaluate the effects of cardamom (Elettaria cardamomum) supplementation on inflammation and oxidative stress in hyperlipidemic, overweight, and obese pre-diabetic women. METHODS: This randomized, placebo-controlled, double-blind clinical trial was conducted on 80 pre-diabetic subjects. They randomly received the cardamom supplement (n = 40, 3 g d-1 ) or identical inert placebo (n = 40) for 8 weeks. Serum concentrations of high-sensitivity C-reactive protein (hs-CRP), interleukin-6 (IL-6), tumour necrosis factor α, total antioxidant capacity, malondialdehyde (MDA), protein carbonyl, and erythrocyte superoxide dismutase and glutathione reductase activity were analyzed at the baseline and after intervention. RESULTS: After the adjustment of some covariates, cardamom supplementation significantly decreased serum hs-CRP (P = 0.02), hs-CRP:IL-6 ratio (P = 0.008), and MDA (P = 0.009) compared with the placebo group. CONCLUSION: Cardamom could improve some parameters of inflammation and oxidative stress in pre-diabetic subjects. Thus it may be useful in reducing complications associated with inflammation and oxidative stress in these patients. Copyright © 2017 Society of Chemical Industry © 2017 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Dietary Supplements",
+        "Double-Blind Method",
+        "Elettaria",
+        "Female",
+        "Glutathione Reductase",
+        "Humans",
+        "Hyperlipidemias",
+        "Interleukin-6",
+        "Malondialdehyde",
+        "Middle Aged",
+        "Obesity",
+        "Overweight",
+        "Oxidative Stress",
+        "Plant Extracts",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "28290213",
+      "title": "Cardamom fruits as a green resource for facile synthesis of gold and silver nanoparticles and their biological applications.",
+      "authors": [
+        "Veronika Soshnikova",
+        "Yeon Ju Kim",
+        "Priyanka Singh",
+        "Yue Huo",
+        "Josua Markus",
+        "Sungeun Ahn",
+        "Verónica Castro-Aceituno",
+        "Jongpyo Kang",
+        "Mohan Chokkalingam",
+        "Ramya Mathiyalagan",
+        "Deok Chun Yang"
+      ],
+      "journal": "Artificial cells, nanomedicine, and biotechnology",
+      "publication_date": "2018-Feb",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Gold (FA-AuNps) and silver (FA-AgNps) nanoparticles were synthesized at room temperature by aqueous extract of dried fruits of Amomum villosum, also known as Fructus Amomi (cardamom), in order to confer antioxidant, catalytic, antimicrobial activities and treatment effect against breast cancer cells. Fruit extracts served as both reducing agents and stabilizers in lieu of chemical agents. Ultra-violet visible (UV-Vis) spectroscopy, field emission transmission electron microscopy (FE-TEM), energy-dispersive X-ray (EDX) spectroscopy, elemental mapping, X-ray powder diffraction (XRD), selected area electron diffraction (SAED), dynamic light scattering (DLS) and Fourier transform infrared (FTIR) spectroscopy were employed to characterize the biosynthesized nanoparticles. Both FA-AuNps and FA-AgNps exhibited free radical scavenging activity against 2,2-diphenyl-1-picrylhydrzyl (DPPH). Additionally, biosynthesized nanoparticles successfully reduced methylene blue, a well-known redox indicator. FA-AgNps showed zones of inhibition against pathogenic Staphylococcus aureus and Escherichia coli. Finally, the biological activities and cytotoxicity of nanoparticles were subsequently investigated in vitro. FA-AuNps demonstrated a potential cytotoxic agent against breast cancer cells as evaluated by MTT assay. The study highlights a rapid synthesis of FA-AuNps and FA-AgNps by dried Fructus Amomi aqueous extract and evaluates their potential biological applications on medical platforms.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Bacterial Agents",
+        "Biphenyl Compounds",
+        "Chemistry Techniques, Synthetic",
+        "Elettaria",
+        "Escherichia coli",
+        "Fruit",
+        "Gold",
+        "Green Chemistry Technology",
+        "Humans",
+        "MCF-7 Cells",
+        "Metal Nanoparticles",
+        "Mice",
+        "Particle Size",
+        "Picrates",
+        "RAW 264.7 Cells",
+        "Silver",
+        "Staphylococcus aureus"
+      ]
+    },
+    {
+      "pmid": "27888503",
+      "title": "Anti-hypercholesterolemic influence of the spice cardamom (Elettaria cardamomum) in experimental rats.",
+      "authors": [
+        "Shamarao Nagashree",
+        "Kottangada K Archana",
+        "Pullabhatla Srinivas",
+        "Krishnapura Srinivasan",
+        "Halagur B Sowbhagya"
+      ],
+      "journal": "Journal of the science of food and agriculture",
+      "publication_date": "2017-Aug",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Cardamom (Elettaria cardamomum) is an aromatic seed spice grown extensively in India and used as a flavoring in sweets. In this study, the anti-hypercholesterolemic effect of cardamom was evaluated in Wistar rats by inducing hypercholesterolemia with a high-cholesterol diet for 8 weeks. Dietary interventions were made with (a) cardamom powder (50 g kg-1 ), (b) cardamom oil (3 g kg-1 , equivalent to 50 g kg-1 cardamom) and (c) de-oiled cardamom powder (50 g kg-1 ). RESULTS: A significant reduction in blood total cholesterol (31%) and low-density lipoprotein cholesterol (44%) was observed by oral administration of cardamom oil in hypercholesterolemic rats, accompanied by a marked decrease in serum triglycerides by 42%. The cholesterol content of cardiac muscle was beneficially lowered by 39% with administration of cardamom oil in hypercholesterolemic rats. Liver triglycerides were reduced by 33%. Incorporation of cardamom oil/powder in the diet did not alter feed consumption by rats. Compromised activities of hepatic antioxidant enzymes in the hypercholesterolemic situation were generally countered by dietary cardamom. Treatment with de-oiled cardamom as well as cardamom oil countered the diminished activity of catalase in hypercholesterolemic animals. Cardamom also enhanced the activity of heart superoxide dismutase in the hypercholesterolemic situation. The concentration of ascorbic acid in serum was significantly increased by dietary cardamom or its fractions in the hypercholesterolemic situation. CONCLUSION: This animal study has established the potential of cardamom oil in restoring the alteration in lipid homeostasis in conditions of hypercholesterolemia. The significant reduction in atherogenicity index by dietary intervention with cardamom powder and cardamom oil indicates the potential cardioprotective effect of cardamom. © 2016 Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Anticholesteremic Agents",
+        "Catalase",
+        "Cholesterol",
+        "Elettaria",
+        "Glutathione Reductase",
+        "Humans",
+        "Hypercholesterolemia",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Spices",
+        "Superoxide Dismutase"
+      ]
+    },
+    {
+      "pmid": "27757108",
+      "title": "Encapsulation of Cardamom Essential Oil in Chitosan Nano-composites: In-vitro Efficacy on Antibiotic-Resistant Bacterial Pathogens and Cytotoxicity Studies.",
+      "authors": [
+        "Bushra Jamil",
+        "Rashda Abbasi",
+        "Shahid Abbasi",
+        "Muhammad Imran",
+        "Siffat U Khan",
+        "Ayesha Ihsan",
+        "Sundus Javed",
+        "Habib Bokhari",
+        "Muhammad Imran"
+      ],
+      "journal": "Frontiers in microbiology",
+      "publication_date": "2016",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Natural antimicrobial agents, particularly essential oils present an excellent alternative to current antibiotics due to their potent and broad-spectrum antimicrobial potential, unique mechanisms of action and low tendency to induce resistance. However their potential as a viable therapeutic alternative is greatly compromised due to their hydrophobic and volatile nature. The objective of the current research was to explore the anti-pathogenic potential of essential oils in a bio-based nano-carrier system. Six different essential oils were tested on multidrug-resistant bacterial pathogens. However, cardamom oil was selected for nano-encapsulation because of most potent anti-microbial activity. Cardamom oil loaded chitosan nano-particles were prepared by ionic gelation method with an encapsulation efficiency of more than 90% and size was estimated to be 50-100 nm. The Zeta potential was more than +50 mV that indicate a stable nano-dispersion. Cytotoxicity analysis indicated non haemolytic and non-cytotoxic behaviour on human corneal epithelial cells and HepG2 cell lines. Cardamom oil loaded chitosan nano-particles were found to exhibit excellent anti-microbial potential against extended spectrum β lactamase producing Escherichia coli and methicillin resistant Staphylococcus aureus. Our results suggested safety and efficacy of cardamom oil loaded chitosan nano-particles for treating multidrug-resistant pathogens hence offer an effective alternative to current antibiotic therapy."
+    },
+    {
+      "pmid": "26758574",
+      "title": "Effect of cinnamon, cardamom, saffron and ginger consumption on blood pressure and a marker of endothelial function in patients with type 2 diabetes mellitus: A randomized controlled clinical trial.",
+      "authors": [
+        "Paria Azimi",
+        "Reza Ghiasvand",
+        "Awat Feizi",
+        "Javad Hosseinzadeh",
+        "Maryam Bahreynian",
+        "Mitra Hariri",
+        "Hossein Khosravi-Boroujeni"
+      ],
+      "journal": "Blood pressure",
+      "publication_date": "2016-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "Herbal medicines with high amounts of phytochemicals have been shown to have beneficial effects on blood pressure (BP), endothelial function and anthropometric measures. This study aimed to determine the effect of herbal treatment on BP, endothelial function and anthropometric measures in patients with type 2 diabetes mellitus (T2DM). This clinical trial included 204 T2DM patients randomly assigned to four intervention groups receiving 3 g cinnamon, 3 g cardamom, 1 g saffron or 3 g ginger with three glasses of black tea, and one control group consuming only three glasses of tea without any herbals, for 8 weeks. Intercellular adhesion molecule-1 (ICAM-1), systolic and diastolic BP and anthropometric measures were collected at baseline and after 8 weeks. No significant difference was found between various medicinal plants in terms of influencing BP, serum soluble (s)ICAM-1 concentrations and anthropometric measures. However, in within-group comparison saffron and ginger intakes significantly reduced sICAM-1 concentrations (340.9 ± 14.4 vs 339.69 ± 14.4 ng/ml, p = 0.01, and 391.78 ± 16.0 vs 390.97 ± 15.8 ng/ml, p = 0.009, respectively) and ginger intake affected systolic BP (143.06 ± 0.2 vs 142.07 ± 0.2 mmHg, p = 0.02). Although administration of these herbal medicines as supplementary remedies could affect BP and sICAM-1 concentrations, there was no significant difference between the plants in terms of influencing anthropometric measures, BP and endothelial function.",
+      "mesh_terms": [
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Cinnamomum zeylanicum",
+        "Crocus",
+        "Diabetes Mellitus, Type 2",
+        "Elettaria",
+        "Endothelium",
+        "Female",
+        "Functional Food",
+        "Zingiber officinale",
+        "Humans",
+        "Hypertension",
+        "Intercellular Adhesion Molecule-1",
+        "Male",
+        "Middle Aged",
+        "Plants, Medicinal"
+      ]
+    },
+    {
+      "pmid": "26177486",
+      "title": "Effects of Cinnamon, Cardamom, Saffron, and Ginger Consumption on Markers of Glycemic Control, Lipid Profile, Oxidative Stress, and Inflammation in Type 2 Diabetes Patients.",
+      "authors": [
+        "Paria Azimi",
+        "Reza Ghiasvand",
+        "Awat Feizi",
+        "Mitra Hariri",
+        "Behnoud Abbasi"
+      ],
+      "journal": "The review of diabetic studies : RDS",
+      "publication_date": "2014",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVES: Type 2 diabetes (T2D) may be caused by elevated oxidative stress, inflammation, and hyperglycemia. The phytochemicals in several herbal medicines are reported to effectively improve diabetes and to ameliorate diabetic complications. The aim of the present study was to determine the effects of cinnamon, cardamom, saffron, and ginger as supplementary remedies in T2D. METHODS: This randomized controlled, clinical trial included 204 T2D patients. The participants were randomly assigned to four intervention groups receiving 3 glasses of black tea and either 3 g cardamom, or cinnamon, or ginger, or 1 g saffron and one control group which consumed only 3 tea glasses without any herbal medicine for 8 weeks. Markers of inflammation, oxidative stress, fasting blood sugar, lipid profile, and anthropometric measures were evaluated at baseline and after 8 weeks of intervention. RESULTS: After 8 weeks of intervention, cinnamon, cardamom, ginger, and saffron consumption had significant effects on total cholesterol, LDL, and HDL levels (p < 0.05) compared with controls. However, the herbal products did not have significant effects on measures of glycemic control, anthropometry, inflammation, and oxidative stress. In within-group comparisons only, cinnamon intake significantly decreased fasting blood sugar (FBS). CONCLUSIONS: The herbal remedies examined had significantly beneficial effects on cholesterol, but not on measures of glycemic control, oxidative stress, and inflammation. Based on the contradictory results reported in the literature, the effects of herbal medicine in diabetic patients should undergo further detailed investigation.",
+      "mesh_terms": [
+        "Blood Glucose",
+        "C-Reactive Protein",
+        "Cinnamomum zeylanicum",
+        "Crocus",
+        "Diabetes Mellitus, Type 2",
+        "Elettaria",
+        "Female",
+        "Zingiber officinale",
+        "Humans",
+        "Inflammation",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Phytotherapy"
+      ]
+    },
+    {
+      "pmid": "26081028",
+      "title": "Chemopreventive Effect of Cardamom (Elettaria cardamomum L.) Against Benzo(α)Pyrene-Induced Forestomach Papillomagenesis in Swiss Albino Mice.",
+      "authors": [
+        "Samir Qiblawi",
+        "Sasikumar Dhanarasu",
+        "Mo'ez Al-Islam Faris"
+      ],
+      "journal": "Journal of environmental pathology, toxicology and oncology : official organ of the International Society for Environmental Toxicology and Cancer",
+      "publication_date": "2015",
+      "publication_types": [
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "Prevention of cancer through dietary intervention has recently gained significant recognition. Cardamom (Elettaria cardamomum), a dietary phytoproduct, is a popular spice that is regularly used as a flavoring agent in various cuisines, and is much valued for its medicinal properties. In the present study, the cancer chemopreventive potential of cardamom was investigated against benzo(α)pyrene [B(α)P]-induced forestomach papillomagenesis in mice. Results showed that treatment with cardamom [(B(α)P + cardamom] reduced tumor incidence and multiplicity significantly (P<0.001) by 41.67% and 74.55%, respectively, compared to that of the B(α)P control group. Biochemical assays revealed a significant enhancement in the hepatic activities of glutathione-S-transferases (P<0.01), superoxide dismutase (P<0.01), glutathione peroxidase (P<0.001), and catalase (P<0.001) in mice treated with cardamom compared with the control. Furthermore, the nonenzymatic antioxidant glutathione was significantly (P<0.001) increased in the cardamom-treated group, whereas the lipid peroxidation level along with lactate dehydrogenase activity exhibited a significant (P<0.01) reduction with cardamom treatment compared to the control. These results suggest that cardamom has the potential to become a pivotal chemopreventive agent against forestomach cancer.",
+      "mesh_terms": [
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Antioxidants",
+        "Benzo(a)pyrene",
+        "Elettaria",
+        "Glutathione",
+        "L-Lactate Dehydrogenase",
+        "Lipid Peroxidation",
+        "Liver",
+        "Male",
+        "Mice",
+        "Papilloma",
+        "Phytotherapy",
+        "Stomach Neoplasms"
+      ]
+    },
+    {
+      "pmid": "25182178",
+      "title": "The impact of ozone treatment on changes in biologically active substances of cardamom seeds.",
+      "authors": [
+        "Agnieszka Joanna Brodowska",
+        "Krzysztof Śmigielski",
+        "Agnieszka Nowak",
+        "Katarzyna Brodowska",
+        "Rik Catthoor",
+        "Agata Czyżowska"
+      ],
+      "journal": "Journal of food science",
+      "publication_date": "2014-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The overall objective of this study was to develop a decontamination method against microorganisms in cardamom (Elettaria cardamomum (L.) Maton) seeds using ozone as a decontaminating agent. Ozone treatment was conducted 3 times, at 24-h intervals, and the parameters of the process were determined assuring the least possible losses of biologically active substances (essential oils and polyphenols): ozone concentration 160 to 165.0 g/m(3) ; flow rate 0.1 L/min; pressure 0.5 atm; time 30 min. After each step of decontamination, the microbiological profile of the cardamom seeds was studied, and the contaminating microflora was identified. Next to the microbiological profile, the total polyphenol content (TPC), composition of essential oils, free radical-scavenging capacity, total antioxidant capacity, ferric-reducing antioxidant power (FRAP), and LC-MS polyphenol analysis were determined. This study shows that extract from cardamom seeds after ozone treatment is characterized by a better radical scavenging activity (IC(50) = 24.18 ± 0.04 mg/mL) than the control sample (IC(50) = 31.94 ± 0.05 mg/mL). The extract from cardamom seeds after ozone treatment showed an improved FRAP activity as well (613.64 ± 49.79 mmol TE/g compared to 480.29 ± 30.91 mmol TE/g of control sample). The TPC and the total antioxidant capacity were negatively affected, respectively, 41.2% and 16.2%, compared to the control sample.",
+      "mesh_terms": [
+        "Elettaria",
+        "Food Microbiology",
+        "Free Radical Scavengers",
+        "Oils, Volatile",
+        "Ozone",
+        "Plant Extracts",
+        "Plant Oils",
+        "Polyphenols",
+        "Seeds"
+      ]
+    },
+    {
+      "pmid": "22404574",
+      "title": "Chemopreventive effects of cardamom (Elettaria cardamomum L.) on chemically induced skin carcinogenesis in Swiss albino mice.",
+      "authors": [
+        "Samir Qiblawi",
+        "Awdah Al-Hazimi",
+        "Mohammed Al-Mogbel",
+        "Ashfaque Hossain",
+        "Debasis Bagchi"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2012-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The chemopreventive potential of cardamom was evaluated on 7,12-dimethylbenz[a]anthracene-initiated and croton oil-promoted mouse skin papillomagenesis. A significant reduction in the values of tumor incidence, tumor burden, and tumor yield and the cumulative number of papillomas was observed in mice treated orally with 0.5 mg of cardamom powder in suspension continuously at pre-, peri-, and post-initiational stages of papillomagenesis compared with the control group. The average weight and diameter of tumors recorded were also comparatively lower in the cardamom-treated mouse group. Treatment of cardamom suspension by oral gavage for 15 days resulted in a significant decrease in the lipid peroxidation level of the liver (P < .01). In addition, the reduced glutathione level was significantly elevated in comparison with the control group (P < .05) following cardamom suspension treatment. Taken together, these findings indicate the potential of cardamom as a chemopreventive agent against two-stage skin cancer.",
+      "mesh_terms": [
+        "9,10-Dimethyl-1,2-benzanthracene",
+        "Animals",
+        "Antineoplastic Agents, Phytogenic",
+        "Croton Oil",
+        "Elettaria",
+        "Glutathione",
+        "Lipid Peroxidation",
+        "Liver",
+        "Male",
+        "Mice",
+        "Papilloma",
+        "Phytotherapy",
+        "Plant Preparations",
+        "Skin",
+        "Skin Neoplasms"
+      ]
+    },
+    {
+      "pmid": "22182368",
+      "title": "Antioxidative effects of the spice cardamom against non-melanoma skin cancer by modulating nuclear factor erythroid-2-related factor 2 and NF-κB signalling pathways.",
+      "authors": [
+        "Ila Das",
+        "Asha Acharya",
+        "Deborah L Berry",
+        "Supti Sen",
+        "Elizabeth Williams",
+        "Eva Permaul",
+        "Archana Sengupta",
+        "Sudin Bhattacharya",
+        "Tapas Saha"
+      ],
+      "journal": "The British journal of nutrition",
+      "publication_date": "2012-Sep-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The role of dietary factors in inhibiting or delaying the development of non-melanoma skin cancer (NMSC) has been investigated for many years. Cardamom, which is a dietary phytoproduct, has been commonly used in cuisines for flavour and has numerous health benefits, such as improving digestion and stimulating metabolism and having antitumorigenic effects. We have investigated the efficacy of dietary cardamom against 7,12-dimethylbenz[a]anthracene (DMBA)-induced skin papillomatogenesis in Swiss albino mice that closely resembles human NMSC. Mice were grouped into normal wild type (untreated), vehicle-treated (acetone), carcinogen-treated (DMBA), and DMBA and cardamom-treated (DMBA+CARD) to delineate the role of cardamom against DMBA-induced papillomatogenesis. Oral administration of cardamom to DMBA-treated mice up-regulated the phase II detoxification enzymes, such as glutathione-S-transferase and glutathione peroxidase, probably via activation of nuclear factor erythroid-2-related factor 2 transcription factor in 'DMBA+CARD' mice. Furthermore, reduced glutathione, glutathione reductase, superoxide dismutase and catalase were also up-regulated by cardamom in the same 'DMBA+CARD' group of mice compared with DMBA-treated mice. Cardamom ingestion in DMBA-treated mice blocked NF-κB activation and down-regulated cyclo-oxygenase-2 expression. As a consequence, both the size and the number of skin papillomas generated on the skin due to the DMBA treatment were reduced in the 'DMBA+CARD' group. Thus, the results from the present study suggest that cardamom has a potential to become a pivotal chemopreventive agent to prevent papillomagenesis on the skin.",
+      "mesh_terms": [
+        "9,10-Dimethyl-1,2-benzanthracene",
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Antioxidants",
+        "Carcinogens",
+        "Cyclooxygenase 2",
+        "Elettaria",
+        "Female",
+        "Metabolic Detoxication, Phase II",
+        "Mice",
+        "NF-E2-Related Factor 2",
+        "NF-kappa B",
+        "Neoplasm Proteins",
+        "Papilloma",
+        "Seeds",
+        "Signal Transduction",
+        "Skin",
+        "Skin Neoplasms",
+        "Spices",
+        "Tumor Burden"
+      ]
+    },
+    {
+      "pmid": "21695005",
+      "title": "Antimicrobial activity of essential oil and various extracts of fruits of greater cardamom.",
+      "authors": [
+        "Supriya Agnihotri",
+        "S Wakode"
+      ],
+      "journal": "Indian journal of pharmaceutical sciences",
+      "publication_date": "2010-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Greater cardamom (Amomum subulatum Roxb. Zingiberaceae) commonly known as \"Bari ilaichi\" is a well known plant used in Ayurvedic and Unani medicine. It has been used for the treatment of various diseases and disorders like gastric ulcer. Therefore antimicrobial activity of petroleum ether, methanol and aqueous extracts from leaves and roots, essential oil and isolated vasicine from A. vasica were tested against various microorganisms. Antimicrobial activity was done by disc diffusion method. The zone of inhibition observed was compared with that of standard drugs, ciprofloxacin and fluconazole. Minimum inhibitory concentration was determined against microorganisms used in the study. The results of this study reveal that methanol extract of fruits of A. subulatum shows remarkable antimicrobial activity against Escherichia coli whereas in case of other microorganisms used it was found inferior to the standard drug used. Methanol extract of rind showed good antimicrobial activity against Staphylococcus aureus. It was found that the essential oil isolated was effective against majority of microorganisms used viz. Bacillus pumilus, Staphylococcus aureus, Staphylococcus epidermidis, Pseudomonas aeruginosa, Saccharomyces cerevisiae."
+    },
+    {
+      "pmid": "20653562",
+      "title": "Chemopreventive properties of indole-3-carbinol, diindolylmethane and other constituents of cardamom against carcinogenesis.",
+      "authors": [
+        "Asha Acharya",
+        "Ila Das",
+        "Sushmita Singh",
+        "Tapas Saha"
+      ],
+      "journal": "Recent patents on food, nutrition & agriculture",
+      "publication_date": "2010-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Oxidative stress results from an imbalance in the production of reactive oxygen species (ROS) and cell's own antioxidant defenses that in part lead to numerous carcinogenesis. Several phytochemicals, derived from vegetables, fruits, herbs and spices, have demonstrated excellent chemopreventive properties against carcinogenesis by regulating the redox status of the cells during oxidative stress. I3C (indole-3-carbinol) and DIM (diindolylmethane) are the phytochemicals that are found in all types of cruciferous vegetables and demonstrated exceptional anti-cancer effects against hormone responsive cancers like breast, prostate and ovarian cancers. Novel analogs of I3C were designed to enhance the overall efficacy, particularly with respect to the therapeutic activity and oral bioavailability and that results in several patent applications on symptoms associated with endometriosis, vaginal neoplasia, cervical dysplasia and mastalgia. Likewise, DIM and its derivatives are patented for treatment and prevention of leiomyomas, HPV infection, respiratory syncytial virus, angiogenesis, atherosclerosis and anti-proliferative actions. On the other hand, phytochemicals in cardamom have not been explored in great details but limonene and cineole demonstrate promising effects against carcinogenesis. Thus studies with selected phytochemicals of cardamom and bioavailability research might lead to many patent applications. This review is focused on the patents generated on the effects of I3C, DIM and selected phytochemicals of cardamom on carcinogenesis.",
+      "mesh_terms": [
+        "Anticarcinogenic Agents",
+        "Antioxidants",
+        "Biological Availability",
+        "Brassicaceae",
+        "Cyclohexanols",
+        "Cyclohexenes",
+        "Elettaria",
+        "Eucalyptol",
+        "Humans",
+        "Indoles",
+        "Limonene",
+        "Molecular Structure",
+        "Monoterpenes",
+        "Neoplasms",
+        "Oils, Volatile",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Terpenes"
+      ]
+    },
+    {
+      "pmid": "18260732",
+      "title": "Inhibition of lipid peroxidation and enhancement of GST activity by cardamom and cinnamon during chemically induced colon carcinogenesis in Swiss albino mice.",
+      "authors": [
+        "Shamee Bhattacharjee",
+        "Tapasi Rana",
+        "Archana Sengupta"
+      ],
+      "journal": "Asian Pacific journal of cancer prevention : APJCP",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Globally, colorectal cancer is the third commonest cancer in men since 1975.The present study focuses on the preventive strategies aimed at reducing the incidences and mortality of large bowel cancer. Chemoprevention of colon cancer appears to be a very realistic possibility because various intermediate stages have been identified preceding the development of malignant colonic tumors. Several studies have demonstrated that generous consumption of vegetables reduces the risk of colon cancer. This idea has prompted the present investigation to search for some novel plant products, which may have possible anticarcinogenic activity. It has already been proved from various experiments that chemopreventive agents, by virtue of their anti-oxidant, anti-inflammatory, anti-proliferative, apoptosis-inducing activity, act at various levels including molecular, cellular, tissue and organ levels to interfere with carcinogens. Previous studies from our laboratory have already reported the inhibitory effect of cinnamon and cardamom on azoxymethane induced colon carcinogenesis by virtue of their anti-inflammatory, anti-proliferative and pro-apoptotic activity. This particular experiment was carried out to assess the anti-oxidative potential of these spices. Aqueous suspensions of cinnamon and cardamom have been shown to enhance the level of detoxifying enzyme (GST activity) with simultaneous decrease in lipid peroxidation levels in the treatment groups when compared to that of the carcinogen control group.",
+      "mesh_terms": [
+        "Animals",
+        "Azoxymethane",
+        "Carcinogens",
+        "Cinnamomum zeylanicum",
+        "Colon",
+        "Colonic Neoplasms",
+        "Elettaria",
+        "Glutathione Transferase",
+        "Lipid Peroxidation",
+        "Liver",
+        "Mice",
+        "Phytotherapy",
+        "Precancerous Conditions"
+      ]
+    },
+    {
+      "pmid": "16101317",
+      "title": "Dietary cardamom inhibits the formation of azoxymethane-induced aberrant crypt foci in mice and reduces COX-2 and iNOS expression in the colon.",
+      "authors": [
+        "Archana Sengupta",
+        "Samit Ghosh",
+        "Shamee Bhattacharjee"
+      ],
+      "journal": "Asian Pacific journal of cancer prevention : APJCP",
+      "publication_date": "2005",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Recently, considerable attention has been focused on identifying naturally occurring chemopreventive compounds capable of inhibiting, retarding, or reversing the multi-step carcinogenesis. The primary aim of the present study was to identify the effects of a commonly consumed spice, viz., cardamom against azoxymethane (AOM) induced colonic aberrant crypt foci (ACF) in Swiss Albino mice. The secondary aim, was to explore the ability of cardamom to modulate the status of proliferation and apoptosis, and to understand its role in altering cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS) expression. Male Swiss albino mice were injected with AOM (dose: 5mg/Kg body weight) or saline (Group 1) weekly once for two weeks. The AOM-injected mice were randomly assigned to two groups (Groups 2 and 3). While all the groups were on standard lab chow, Group 3 received oral doses of 0.5% cardamom, in aqueous suspension, daily for 8 weeks. Following treatment, significant reduction in the incidences of aberrant crypt foci (p<0.05) was observed. This reduction in ACF was accompanied by suppression of cell proliferation (mean Brdu LI in carcinogen control =13.91+/-3.31, and 0.5% cardamom =2.723+/-0.830) and induction of apoptosis (mean AI in carcinogen control=1.547+/-0.42 and 0.5% cardamom = 6.61+/-0.55). Moreover, reduction of both COX-2 and iNOS expression was also observed. These results suggest that aqueous suspensions of cardamom have protective effects on experimentally induced colon carcinogenesis. Cardamom as a whole and its active components require further attention if the use of this spice is to be recommended for cancer prevention.",
+      "mesh_terms": [
+        "Animals",
+        "Anticarcinogenic Agents",
+        "Apoptosis",
+        "Azoxymethane",
+        "Blotting, Western",
+        "Carcinogens",
+        "Colonic Diseases",
+        "Colonic Neoplasms",
+        "Cyclooxygenase 2",
+        "Elettaria",
+        "Mice",
+        "Nitric Oxide Synthase",
+        "Nitric Oxide Synthase Type II",
+        "Precancerous Conditions",
+        "Prostaglandin-Endoperoxide Synthases",
+        "Random Allocation"
+      ]
+    },
+    {
+      "pmid": "10408241",
+      "title": "Cyclic monoterpene extract from cardamom oil as a skin permeation enhancer for indomethacin: in vitro and in vivo studies.",
+      "authors": [
+        "Y B Huang",
+        "J Y Fang",
+        "C H Hung",
+        "P C Wu",
+        "Y H Tsai"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "1999-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The in vitro and in vivo effect of pretreatment by cardamom oil, a crude drug extract, in ethanol/water vehicles on the transdermal delivery of indomethacin was investigated. The cyclic monoterpene components in cardamom oil were also determined and quantified in this study. The permeation of indomethacin was significantly enhanced after pretreatment of cardamom oil both in the in vitro and in vivo studies. The result of various pre-treatment periods showed that the indomethacin flux decreased as the length of the pretreatment increased. Both natural cardamom oil and a cyclic monoterpene mixture composed of the components of the oil showed similar enhancement on indomethacin permeation, indicating cyclic monoterpenes are the predominant components altering the barrier property of stratum corneum. The results also showed that three minor components in cardamom oil (alpha-pinene, 6.5%; beta-pinene, 4.8%; alpha-terpineol, 0.4%) had a synergistic effect with 1,8-cineole (59.3%) and d-limonene (29.0%) to enhance the permeation of indomethacin.",
+      "mesh_terms": [
+        "Adult",
+        "Animals",
+        "Humans",
+        "Indomethacin",
+        "Male",
+        "Middle Aged",
+        "Oils, Volatile",
+        "Permeability",
+        "Rabbits",
+        "Rats",
+        "Rats, Wistar",
+        "Skin",
+        "Terpenes"
+      ]
+    }
+  ]
+}

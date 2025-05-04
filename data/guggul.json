@@ -1,0 +1,398 @@
+{
+  "supplement": "Guggul",
+  "query": "Guggul[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 21:42:52",
+  "research_count": 13,
+  "count": 13,
+  "articles": [
+    {
+      "pmid": "39429641",
+      "title": "Comparative evaluation of efficacy of Trayodashang Guggul versus Rasona Pinda as an adjuvant with Katibasti in the management of Grudhrasi (Sciatica):  A randomized controlled trial.",
+      "authors": [
+        "Mayank Rai",
+        "Sadhana Misar",
+        "Reeya Gamne"
+      ],
+      "journal": "F1000Research",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study",
+        "Randomized Controlled Trial"
+      ],
+      "abstract": "BACKGROUND: In ayurveda, sciatica can be correlated to ' Grudhrasi' under Vata Nanatmaja-Vyadhi (neurological disorders caused by Vata, one of the bodily humour). In this mainly bodily humours vata and kapha are vitiating producing symptoms like piercing pain, stiffness, twitching, numbness and pain radiating from lumbosacral region to lower limb up to the foot. Therapeutic plan includes stabilizing and bringing back the vitiated vata and kapha humours to equilibrium. The prevalence of sciatica varies considerably ranging from 3.8% in the working population to 7.9% in the nonworking population. AIM: Comparative evaluation of efficacy of Rasonapinda and Trayodashang guggul as an adjuvant to katibasti (oil pooling therapy) in the management of Grudhrasi (Sciatica). OBJECTIVES: To assess the efficacy of Rasonapinda as an adjuvant to katibasti in subjective and objective parameters of Grudhrasi (Sciatica). To assess the efficacy of Trayodashang guggul as an adjuvant to katibasti in subjective and objective parameters of Grudhrasi (Sciatica). To compare the efficacy of Rasonapinda and Trayodashang guggul as an adjuvant to katibasti in subjective and objective parameters. Standardisation of Rasonapinda (modified formvati). METHODS: In this study, a total of 60 patients will be enrolled and divided equally into two groups. In group A, Trayodashang Guggul 500 mg twice a day after meal with warm water for 30 days adjuvant with katibasti for the initial 7 days will be given. In group B, Rasonapinda 500 mg twice a day after meal with warm water adjuvant with katibasti for the initial 7 days will be given for 30 days. RESULT: The result will be assessed on baseline of subjective and objective parameters and data will be compared after treatment. CONCLUSIONS: It will be based on observations and results obtained. TRIAL REGISTRATION: CTRI No. - CTRI/2022/12/048534 Dated - 27/12/2022.",
+      "mesh_terms": [
+        "Humans",
+        "Male",
+        "Female",
+        "Plant Extracts",
+        "Adult",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Medicine, Ayurvedic",
+        "Plant Gums",
+        "Commiphora"
+      ]
+    },
+    {
+      "pmid": "39255475",
+      "title": "Evaluation of Comparative Efficacy of Levothyroxine Versus Kshar Basti and Kanchanar Guggul in the Treatment of Hypothyroidism: Protocol for a Randomized Controlled Trial.",
+      "authors": [
+        "Satyajit Pandurang Kulkarni",
+        "Shweta Parwe"
+      ],
+      "journal": "JMIR research protocols",
+      "publication_date": "2024-Sep-10",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The thyroid gland is an endocrine gland that has an impact on the body's general metabolism. Thus, the secretions of the thyroid gland can modify the overall metabolism of the entire body. The prevalence of hypothyroidism is increasing quickly, with rates of 2%-5% in affluent countries and 11% in India. Individuals diagnosed with hypothyroidism need to take medication for the rest of their lives, resulting in significant stress. Therefore, conducting a study in this area is imperative. OBJECTIVE: This study aims to assess the effectiveness of the therapeutic enema (Kshar Basti) and oral Kanchanar Guggul in the treatment of hypothyroidism. METHODS: The trial group (n=45) will receive a therapeutic enema (Kshar Basti) followed by oral Ayurvedic drugs for 180 days. The control group (n=45) will be given levothyroxine tablets at a dosage of 1.6 µg/kg/day for the same duration. The objective is to examine the alterations in thyroid stimulating hormone (TSH) levels before and after the treatment. RESULTS: Any deviation of the serum TSH by more than 20% from the initial values, while keeping triiodothyronine (T3), and thyroxine (T4) levels within the normal range, will be deemed statistically significant. Consequently, we anticipate a statistically significant variation in serum TSH levels between the therapeutic enema and Kanchanar Guggul treatments. Presently, the drug preparation operations are in progress. We expect to start enrolling patients in June 2024, do data analysis in December 2025, and acquire results by early 2026, marking the end of this trial. CONCLUSIONS: This study will evaluate the efficacy of the therapeutic enema, specifically Kshar Basti, in treating hypothyroidism. Furthermore, more research can determine the efficacy of a therapeutic enema (Kshar Basti) in treating overt hypothyroidism and hypothyroidism during pregnancy. TRIAL REGISTRATION: Clinical Trials Registry India CTRI/2023/05/052389; https://ctri.nic.in/Clinicaltrials/pmaindet2.php?EncHid=Nzk1NjY=&Enc=&userName=052389. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): PRR1-10.2196/57287.",
+      "mesh_terms": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Commiphora",
+        "Enema",
+        "Hypothyroidism",
+        "India",
+        "Medicine, Ayurvedic",
+        "Plant Extracts",
+        "Plant Gums",
+        "Randomized Controlled Trials as Topic",
+        "Thyroxine",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "33160910",
+      "title": "SWATH-MS based quantitative proteomics analysis to evaluate the antileishmanial effect of Commiphora wightii- Guggul and amphotericin B on a clinical isolate of Leishmania donovani.",
+      "authors": [
+        "Chinmayee Bar Routaray",
+        "Renuka Bhor",
+        "Shakuntala Bai",
+        "Nitin Suryakant Kadam",
+        "Surabhi Jagtap",
+        "Pooja Jignesh Doshi",
+        "Shyam Sundar",
+        "Sangeeta Sawant",
+        "Mahesh J Kulkarni",
+        "Kalpana Pai"
+      ],
+      "journal": "Journal of proteomics",
+      "publication_date": "2021-Feb-10",
+      "publication_types": [
+        "Published Erratum"
+      ],
+      "abstract": "Drug resistance and relapse after treatment of visceral leishmaniasis (VL) with the chemotherapeutic drugs has impeded the VL elimination programme especially, in the endemic region of Bihar, India. Currently, Antimonials (Sbv) have been rendered obsolete (Bihar) as frequent treatment failure and relapse in Sbv treated patient's warrants greater vigilance and attention to the limited drugs. A clinical isolate of L.donovani obtained from an Amphotericin B (AmB) relapse patient was evaluated for its susceptibility to AmB and a hyperlipidemic drug Guggul. The evaluation of susceptibility or resistance to any drug still relies on in vitro assay on promastigote and amastigote stages of Leishmania spp. as there are no validated markers which can ascertain drug resistance in Leishmania. The anti-promastigote effect of AmB and Guggul were demonstrated by significant cellular and morphological changes exhibiting apoptosis-mediated cell death. To further illustrate the molecular mechanism of the parasite's response upon exposure to either AmB and Guggul, sequential window acquisition of all theoretical fragment ion spectra mass spectrometry (SWATH-MS) for quantitative proteomics analysis was performed along with computational data analysis; revealing considerable differences in the proteome profiles which could be regarded as putative markers for resistance or drug targets for development of therapeutic antileishmanials."
+    },
+    {
+      "pmid": "32380292",
+      "title": "SWATH-MS based quantitative proteomics analysis to evaluate the antileishmanial effect of Commiphora wightii- Guggul and Amphotericin B on a clinical isolate of Leishmania donovani.",
+      "authors": [
+        "Chinmayee Bar Routaray",
+        "Renuka Bhor",
+        "Shakuntala Bai",
+        "Nitin Suryakant Kadam",
+        "Surabhi Jagtap",
+        "Pooja Jignesh Doshi",
+        "Shyam Sundar",
+        "Sangeeta Sawant",
+        "Mahesh J Kulkarni",
+        "Kalpana Pai"
+      ],
+      "journal": "Journal of proteomics",
+      "publication_date": "2020-Jul-15",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The present study provides comprehensive proteomics analyses of the response of L. donovani parasite to pharamacological stress in vitro. Identification of differentially expressed proteins with associated molecular functions and metabolic pathways, clearly provides an insight into the potential mechanism of the antileishmanial effects as well as a comparative response of the parasite to Guggul and AmB. Treatment of parasite with AmB results in an enhanced modulatory mechanism to counteract the drug induced stress which may have contributed to relapse. In the case of Guggul treatment, an effective antipromastigote activity was observed, which is being reported for the first time. Thus, a deeper understanding of the molecular pathways in the Leishmania parasite in response to pharmacological stress would help in designing novel and effective strategies in targeting the key molecules essential for parasite survival. It will also help in screening of new lead molecules targeting these vital pathways which could be used as an adjunct therapy along with the limited repertoire of antileishmanial drugs.",
+      "mesh_terms": [
+        "Amphotericin B",
+        "Antiprotozoal Agents",
+        "Commiphora",
+        "Leishmania donovani",
+        "Proteomics"
+      ]
+    },
+    {
+      "pmid": "30127736",
+      "title": "Googling the Guggul (Commiphora and Boswellia) for Prevention of Chronic Diseases.",
+      "authors": [
+        "Ajaikumar B Kunnumakkara",
+        "Kishore Banik",
+        "Devivasha Bordoloi",
+        "Choudhary Harsha",
+        "Bethsebie L Sailo",
+        "Ganesan Padmavathi",
+        "Nand K Roy",
+        "Subash C Gupta",
+        "Bharat B Aggarwal"
+      ],
+      "journal": "Frontiers in pharmacology",
+      "publication_date": "2018",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Extensive research during last 2 decades has revealed that most drugs discovered today, although costs billions of dollars for discovery, and yet they are highly ineffective in their clinical response. For instance, the European Medicines Agency has approved 68 anti-cancer drugs, and out of which 39 has reached the market level with no indication of increased survival nor betterment of quality of life. Even when drugs did improve survival rate compared to available treatment strategies, most of these were found to be clinically insignificant. This is a fundamental problem with modern drug discovery which is based on thinking that most chronic diseases are caused by alteration of a single gene and thus most therapies are single gene-targeted therapies. However, extensive research has revealed that most chronic diseases are caused by multiple gene products. Although most drugs designed by man are mono-targeted therapies, however, those designed by \"mother nature\" and have been used for thousands of years, are \"multi-targeted\" therapies. In this review, we examine two agents that have been around for thousands of years, namely \"guggul\" from Commiphora and Boswellia. Although we are all familiar with the search engine \"google,\" this is another type of \"guggul\" that has been used for centuries and being explored for its various biological activities. The current review summarizes the traditional uses, chemistry, in vitro and in vivo biological activities, molecular targets, and clinical trials performed with these agents."
+    },
+    {
+      "pmid": "28584486",
+      "title": "Estimation of Guggulsterone E and Z in the Guggul-based Commercial Formulations Using High-performance Thin-layer Chromatography.",
+      "authors": [
+        "Pramod Kumar Sairkar",
+        "Anjana Sharma",
+        "N P Shukla"
+      ],
+      "journal": "Journal of pharmacy & bioallied sciences",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Guggulsterone (GS) is a plant steroid and bioactive compound present in gum Guggul of Commiphora wightii. An Indian herbal medicine system \"Ayurveda\" has a long history of use of gum Guggul and plant extract of C. wightii as medicine for the treatment of various illnesses. Complex nature, low availability, and inconsistency of phytoconstituents make its analysis of difficult tasks. AIMS: In this work, six different Guggul-based herbal formulations were examined for estimation of GS and their isomers (E and Z) through high-performance thin-layer chromatography technique. MATERIALS AND METHODS: For that various concentrations of standard E-GS and Z-GS (50 ng-250 ng/spot) with samples (20 μg/spot) were applied on silica gel coated aluminum plate and developed with the mobile phase of toluene: ethyl acetate: formic acid: methanol (6:2:1:0.5). The scanning was performed at 254 nm wavelength and the absorbance (scan) spectrum of E-GS and Z-GS peak was generated at 200 nm-400 nm wavelength range. RESULTS AND CONCLUSIONS: Rf value and scan spectrum pattern of the samples reveal that they contain either one form of GS (E-GS, Z-GS) or both. The quantity of E-GS and Z-GS within the samples was ranged from 0.230 ± 0.0040-0.926 ± 0.0168% to 0.537 ± 0.0026-0.723 ± 0.0177%, respectively."
+    },
+    {
+      "pmid": "26735695",
+      "title": "A Comparative Study of Lipid-Lowering Effects of Guggul and Atorvastatin Monotherapy in Comparison to Their Combination in High Cholesterol Diet-Induced Hyperlipidemia in Rabbits.",
+      "authors": [
+        "Saibal Das",
+        "Ankur Datta",
+        "Chiranjib Bagchi",
+        "Sandip Chakraborty",
+        "Achintya Mitra",
+        "Santanu Kumar Tripathi"
+      ],
+      "journal": "Journal of dietary supplements",
+      "publication_date": "2016",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Hypolipidemic activity of gugulipid has been widely described in traditional literature. OBJECTIVE: This study was done to evaluate hypolipidemic activity of guggul and atorvaststin monotherapy in comparison to their combination in rabbits. MATERIALS AND METHODS: Male New Zealand White rabbits (body weight 1.3-1.8 kg and age 8-10 weeks) were made hyperlipidemic by feeding cholesterol (0.5 g/kg) for three weeks and randomly divided into a control and three treatment groups receiving: atorvastatin (3.7 mg/kg), guggul (3.5 mg/kg) and their combination (same dose) for the next three weeks. Body weight measurements, estimation of serum lipid profile were done at the beginning, after three and six weeks, respectively. Histopathological examination of liver, heart and aorta was done after six weeks. Statistical analysis was done with SPSS version 16.0 using one-way and repeated measures analysis of variance (ANOVA) followed by post-hoc multiple comparison test with two tailed P value < 0.05 as significant. RESULTS: All treated groups had significant reduction in cholesterol, triglyceride, low-density lipoprotein (LDL) and very low-density lipoprotein (VLDL) in comparison to pre-treatment values and control group, and had significant increase in high-density lipoprotein (HDL) in comparison to pre-treatment values. CONCLUSION: Combination of atorvastatin and guggul was comparable to their monotherapies in improving lipid profile.",
+      "mesh_terms": [
+        "Animals",
+        "Anticholesteremic Agents",
+        "Atorvastatin",
+        "Cholesterol, Dietary",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Commiphora",
+        "Diet, High-Fat",
+        "Drug Combinations",
+        "Hyperlipidemias",
+        "Male",
+        "Plant Extracts",
+        "Plant Gums",
+        "Rabbits",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "25632052",
+      "title": "Effect of a Natural Supplement Containing Curcuma Longa, Guggul, and Chlorogenic Acid in Patients With Metabolic Syndrome.",
+      "authors": [
+        "Angelo Maria Patti",
+        "Khalid Al-Rasadi",
+        "Niki Katsiki",
+        "Yajnavalka Banerjee",
+        "Dragana Nikolic",
+        "Luca Vanella",
+        "Rosaria Vincenza Giglio",
+        "Valeria Ausilia Giannone",
+        "Giuseppe Montalto",
+        "Manfredi Rizzo"
+      ],
+      "journal": "Angiology",
+      "publication_date": "2015-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "abstract": "The impact of a natural supplement (Kepar; Rikrea, Italy), containing several plant extracts such as curcuma longa, silymarin, guggul, chlorogenic acid, and inulin, was evaluated in 78 patients with metabolic syndrome (MetS; 45 men; age: 62 ± 9 years). Kepar at a dose of 2 pills/d was given for 4 months as add-on therapy to the ongoing treatment, maintained at fixed doses for the entire study. Anthropometric variables, plasma lipids, glucose parameters, and oxidative stress were measured at baseline and after 4 months. We found significant reductions in body weight (from 81.1 ± 13.5 to 79.4 ± 12.5 kg, P < .0001), body mass index (from 29.6 [23.7] to 29.3 [21.9] kg/m(2), P = .001), and waist circumference (from 105 ± 11 to 102 ± 10 cm, P = .0004) as well as in fasting glucose (from 6.5 [11.7] to 6.4 [7.6] mmol/L, P = .014) and total cholesterol (from 4.8 ± 1.4 to 4.5 ± 1.0 mmol/L, P = .03). No significant changes were found in the other appraised parameters, including oxidative stress. In conclusion, after few months of treatment Kepar seems to exert beneficial effects in patients with MetS. Larger studies with a longer follow-up period are needed to confirm these preliminary findings.",
+      "mesh_terms": [
+        "Aged",
+        "Biomarkers",
+        "Blood Glucose",
+        "Chlorogenic Acid",
+        "Cholesterol",
+        "Commiphora",
+        "Curcuma",
+        "Dietary Supplements",
+        "Female",
+        "Humans",
+        "Inulin",
+        "Italy",
+        "Male",
+        "Metabolic Syndrome",
+        "Middle Aged",
+        "Oxidative Stress",
+        "Phytotherapy",
+        "Pilot Projects",
+        "Plant Extracts",
+        "Plant Gums",
+        "Plants, Medicinal",
+        "Silymarin",
+        "Time Factors",
+        "Treatment Outcome",
+        "Weight Loss"
+      ]
+    },
+    {
+      "pmid": "22388973",
+      "title": "Pharmacological properties of guggulsterones, the major active components of gum guggul.",
+      "authors": [
+        "Rohan Shah",
+        "Vandana Gulati",
+        "Enzo A Palombo"
+      ],
+      "journal": "Phytotherapy research : PTR",
+      "publication_date": "2012-Nov",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Oleo gum resin secreted by Commiphora mukul, also known as gum guggul, has been used widely as an ayurvedic drug. Commiphora mukul is a short thorny shrub that is native to the Indian subcontinent. Oleo gum resin extracted by incision of the bark is a very complex mixture of gum, minerals, essential oils, terpenes, sterols, ferrulates, flavanones and sterones. Its active constituents, the Z- and E-guggulsterones, have been demonstrated to exhibit their biological activities by binding to nuclear receptors and modulating the expression of proteins involved in carcinogenic activities. Guggulsterones have also been reported to regulate gene expression by exhibiting control over other molecular targets including transcription factors such as nuclear factor (NF)-κB, signal transducer and activator of transcription (STAT) and steroid receptors. Considerable scientific evidence indicates the use of gum guggul as a therapeutic agent in the treatment of inflammation, nervous disorders, hyperlipidaemia and associated cardiac disorders such as hypertension and ischaemia, skin disorders, cancer and urinary disorders. This review highlights the taxonomic details, phytochemical properties and pharmacological profile of gum guggul.",
+      "mesh_terms": [
+        "Commiphora",
+        "Humans",
+        "Plant Bark",
+        "Plant Extracts",
+        "Plant Gums",
+        "Plants, Medicinal"
+      ]
+    },
+    {
+      "pmid": "19114224",
+      "title": "Resin from the mukul myrrh tree, guggul, can it be used for treating hypercholesterolemia? A randomized, controlled study.",
+      "authors": [
+        "Lise Anett Nohr",
+        "Lars Bjørn Rasmussen",
+        "Jørund Straand"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2009-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Guggul, herbal extract from resin of the Commiphora mukul tree, is widely used in Asia as a cholesterol-lowering agent based on Indian Ayurvedic medicine. Its popularity for this use is increasing in the US and Western Europe. Guggulsterones, the presumed bioactive compounds of guggul, may antagonise two nuclear hormone receptors involved in cholesterol metabolism, which is a possible explanation for hypolipidemic effects of these extracts. However, publications of efficacy data on the use of guggul extracts in Western populations are scarce. OBJECTIVE: To study the efficacy of a guggul-based formulation (short: guggul) on blood lipids in healthy adults with moderately increased cholesterol. METHODS: Double-blind, randomised, placebo controlled trial in Norwegian general practice. 43 women and men, age 27-70, with moderately increased cholesterol, randomised to use 2160mg guggul (4 capsules) daily, or placebo for 12 weeks. OUTCOME MEASURES: Mean change in total cholesterol, low-density lipoprotein cholesterol (LDL-C), triglycerides, high-density lipoprotein cholesterol (HDL-C) and total cholesterol/HDL-C ratio compared with baseline. Lipids were analysed at baseline, and at 6 and 12 weeks. In addition, unexpected events and adverse effects were recorded. RESULTS: Two dropouts, one withdrawal, and incomplete lab results for six persons left 34 participants to accomplish the trial (18-guggul, 16-placebo) with complete lab test data. After 12 weeks, mean levels of total cholesterol and HDL-C in the active group were significantly reduced compared with the placebo group. However, the mean levels of LDL-C, triglycerides, and total cholesterol/HDL-C ratio between the two groups did not change significantly. Ten guggul users (vs. four in the placebo group) reported side effects: mild gastrointestinal discomfort (n=7), possible thyroid problems (n=2), and generalized skin rash (n=1). The latter resulted in withdrawal from trial. CONCLUSIONS: Even if total cholesterol and HDL-C were significantly reduced, the clinical magnitude of this remains obscure. More and larger studies are needed to establish effects and safety of guggul-based formulations in the treatment for hypercholesterolemia.",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Anticholesteremic Agents",
+        "Cholesterol",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Commiphora",
+        "Creatinine",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Hypercholesterolemia",
+        "Linear Models",
+        "Lipids",
+        "Male",
+        "Middle Aged",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Plant Gums",
+        "Resins, Plant",
+        "Triglycerides"
+      ]
+    },
+    {
+      "pmid": "18078436",
+      "title": "Therapeutic effects of guggul and its constituent guggulsterone: cardiovascular benefits.",
+      "authors": [
+        "Ruitang Deng"
+      ],
+      "journal": "Cardiovascular drug reviews",
+      "publication_date": "2007",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Oleogum resin (known as guggul) from the guggul tree, Commiphora mukul, found in India, Bangladesh, and Pakistan, has been used to treat various diseases including hyper-cholesterolemia, atherosclerosis, rheumatism, and obesity over several thousands of years. Guggulsterone isolated from guggul has been identified as the bioactive constituent responsible for guggul's therapeutic effects. Since the first study demonstrating the therapeutic effects of guggul in an animal model in 1966, numerous preclinical and clinical trails have been carried out. Although differences in study design, methodological quality, statistical analysis, sample size, and subject population result in certain inconsistencies in the response to therapy, the cumulative data from in vitro, preclinical, and clinical studies largely support the therapeutic claims for guggul described in the ancient Ayurvedic text. However, future clinical studies with much larger size and longer term are required to confirm these claims. The cardiovascular benefits of the therapy are derived from the multiple pharmacological activities associated with guggul or guggulsterone, notably its hypolipidemic, antioxidant, and antiinflammatory activities. It has been established that guggulsterone is an antagonist at farnesoid x receptor (FXR), a key transcriptional regulator for the maintenance of cholesterol and bile acid homeostasis. The FXR antagonism by guggulsterone has been proposed as a mechanism for its hypolipidemic effect. A recent study demonstrates that guggulsterone upregulates the bile salt export pump (BSEP), an efflux transporter responsible for removal of cholesterol metabolites, bile acids from the liver. Such upregulation of BSEP expression by guggulsterone favors cholesterol metabolism into bile acids, and thus represents another possible mechanism for its hypolipidemic activity. Guggulsterone has been found to potently inhibit the activation of nuclear factor-kappaB (NF-kappaB), a critical regulator of inflammatory responses. Such repression of NF-kappaB activation by guggulsterone has been proposed as a mechanism of the antiinflammatory effect of guggulsterone.",
+      "mesh_terms": [
+        "Animals",
+        "Cardiovascular Diseases",
+        "Clinical Trials as Topic",
+        "Commiphora",
+        "DNA-Binding Proteins",
+        "Drug Evaluation, Preclinical",
+        "Humans",
+        "NF-kappa B",
+        "Plant Extracts",
+        "Pregnenediones",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Transcription Factors"
+      ]
+    },
+    {
+      "pmid": "16338199",
+      "title": "Guggul for hyperlipidemia: a review by the Natural Standard Research Collaboration.",
+      "authors": [
+        "Catherine Ulbricht",
+        "Ethan Basch",
+        "Philippe Szapary",
+        "Paul Hammerness",
+        "Serguei Axentsev",
+        "Heather Boon",
+        "David Kroll",
+        "Levi Garraway",
+        "Mamta Vora",
+        "Jen Woods"
+      ],
+      "journal": "Complementary therapies in medicine",
+      "publication_date": "2005-Dec",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "OBJECTIVE: To evaluate the scientific evidence on guggul for hyperlipidemia including expert opinion, folkloric precedent, history, pharmacology, kinetics/dynamics, interactions, adverse effects, toxicology, and dosing. METHODS: Electronic searches were conducted in nine databases, 20 additional journals (not indexed in common databases), and bibliographies from 50 selected secondary references. No restrictions were placed on language or quality of publications. All literature collected pertained to efficacy in humans, dosing, precautions, adverse effects, use in pregnancy/lactation, interactions, alteration of laboratory assays, and mechanism of action. Standardized inclusion/exclusion criteria were utilized for selection. RESULTS: Before 2003, most scientific evidence suggested that guggulipid elicits significant reductions in serum total cholesterol, low-density lipoprotein (LDL), and triglycerides, as well as elevations in high-density lipoprotein (HDL) [Kotiyal JP, Bisht DB, Singh DS. Double blind cross-over trial of gum guggulu (Commiphora mukul) Fraction A in hypercholesterolemia. J Res Indian Med Yoga Hom 1979;14(2):11-6; Kotiyal JP, Singh DS, Bisht DB. Gum guggulu (Commiphora mukul) fraction 'A' in obesity-a double-blind clinical trial. J Res Ayur Siddha 1985;6(1, 3, 4):20-35; Gaur SP, Garg RK, Kar AM, et al. Gugulipid, a new hypolipidaemic agent, in patients of acute ischaemic stroke: effect on clinical outcome, platelet function and serum lipids. Asia Pacif J Pharm 1997;12:65-9; Urizar NL, Liverman AB, Dodds DT, et al. A natural product that lowers cholesterol as an antagonist ligand for the FXR. Science 3 May 2002 [Science Express Reports]; Nityanand S, Srivastava JS, Asthana OP. Clinical trials with gugulipid. A new hypolipidaemic agent. J Assoc Physicians India 1989;37(5):323-8; Kuppurajan K, Rajagopalan SS, Rao TK, et al. Effect of guggulu (Commiphora mukul-Engl.) on serum lipids in obese, hypercholesterolemic and hyperlipemic cases. J Assoc Physicians India 1978;26(5):367-73; Gopal K, Saran RK, Nityanand S, et al. Clinical trial of ethyl acetate extract of gum gugulu (gugulipid) in primary hyperlipidemia. J Assoc Physicians India 1986;34(4):249-51; Agarwal RC, Singh SP, Saran RK, et al. Clinical trial of gugulipid-a new hypolipidemic agent of plant origin in primary hyperlipidemia. Indian J Med Res 1986;84:626-34; Verma SK, Bordia A. Effect of Commiphora mukul (gum guggulu) in patients of hyperlipidemia with special reference to HDL-cholesterol. Indian J Med Res 1988;87:356-60; Singh RB, Niaz MA, Ghosh S. Hypolipidemic and antioxidant effects of Commiphora mukul as an adjunct to dietary therapy in patients with hypercholesterolemia. Cardiovasc Drugs Ther 1994;8(4):659-64; Ghorai M, Mandal SC, Pal M, et al. A comparative study on hypocholesterolaemic effect of allicin, whole germinated seeds of bengal gram and guggulipid of gum gugglu. Phytother Res 2000;14(3):200-02]. However, most published studies were small and methodologically flawed. In August 2003, a well-designed trial reported small significant increases in serum LDL levels associated with the use of guggul compared to placebo [Szapary PO, Wolfe ML, Bloedon LT, et al. Guggulipid for the treatment of hypercholesterolemia: a randomized controlled trial. JAMA 2003;290(6):765-72]. No significant changes in total cholesterol, high-density lipoprotein (HDL), or triglycerides were measured. These results are consistent with two prior published case reports [Das Gupta R. Gugulipid: pro-lipaemic effect. J Assoc Physicians India 1990;38(12):346]. CONCLUSION: The effects of guggulipid in patients with high cholesterol are not clear, with some studies finding cholesterol-lowering effects, and other research suggesting no benefits. At this time, there is not enough scientific evidence to support the use of guggul for any medical condition. Guggul may cause stomach discomfort or allergic rash as well as other serious side effects and interactions. It should be avoided in pregnant or breast-feeding women and in children. Safety of use beyond 4 months has not been well studied.",
+      "mesh_terms": [
+        "Clinical Trials as Topic",
+        "Commiphora",
+        "Drug Interactions",
+        "Humans",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Medicine, Ayurvedic",
+        "Plant Extracts",
+        "Plant Gums"
+      ]
+    },
+    {
+      "pmid": "13709695",
+      "title": "Antiarthritic and anti-inflammatory activity of gum guggul (Balsamodendron mukul Hook).",
+      "authors": [
+        "M L GUJRAL",
+        "K SAREEN",
+        "K K TANGRI",
+        "M K AMMA",
+        "A K ROY"
+      ],
+      "journal": "Indian journal of physiology and pharmacology",
+      "publication_date": "1960-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Arthritis",
+        "Commiphora",
+        "Gingiva",
+        "Humans",
+        "Inflammation",
+        "Plant Extracts",
+        "Plant Gums",
+        "Resins, Synthetic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "supplement": "Pet Ownership",
+  "query": "Pet Ownership[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:17:41",
+  "research_count": 19,
+  "count": 19,
+  "articles": [
+    {
+      "pmid": "39372717",
+      "title": "Canine companionship as a resilience factor: a quantitative inquiry into the impact of pet ownership on burnout mitigation among radiologists and radiographers.",
+      "authors": [
+        "Dávid Sipos",
+        "Timea Jenei",
+        "Attila Pandur",
+        "Luca Anna Ferkai",
+        "Krisztina Deutsch",
+        "Arpad Kovács",
+        "Melinda Csima"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2024",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: The demanding nature of diagnostic imaging, coupled with the increasing workload and exposure to high-stress scenarios, underscores the pressing concern of burnout among radiologists and radiographers in modern healthcare settings. The objective was to investigate the interplay between family characteristics, workplace characteristics, pet ownership, and the occurrence of burnout. METHODS: An online, quantitative, cross-sectional study with a non-random, purposive sampling method was carried out among Hungarian radiologists and radiographers from 1st of September to 1st of November 2022. RESULTS: We examined the results of 406 responses predominantly from females (79.8%, n = 324), including 70.7% radiographers (n = 287). Cronbach's alpha values for depersonalization (DP), emotional exhaustion (EE), and personal accomplishment (PA) were 0.74, 0.88, and 0.85, respectively. Average burnout scores were 8.35 (SD = 6.62) for DP, 26.26 (SD = 12.74) for EE, and 32.86 (SD = 9.52) for PA. DP demonstrated a balanced distribution (low: 35.7%, moderate: 27.3%, high: 36.9%). Conversely, EE and PA skewed towards high levels, with 52.5% (n = 213) and 49.5% (n = 201). Significant associations were found between gender and DP (p = 0.006), age (31-40 years) and DP/PA (p < 0.001; p = 0.004), absence of children and all burnout dimensions (p < 0.05), and pet ownership (p = 0.004) with lower EE, particularly for dog owners (p = 0.009). Occupation lacked a significant effect on burnout dimensions (p > 0.05). Employees without a second job had higher EE (p = 0.002) and lower PA (p = 0.008). Increasing healthcare experience correlated with decreased DP values (p = 0.001), while working over 40 h weekly negatively impacted all burnout dimensions (p ≤ 0.05). 15.5% (n = 63) exhibited signs of high burnout, with the age group 31-40 demonstrating the highest proportion (25.4%, n = 27) and significant associations with marital status, absence of children, pet ownership, private healthcare, 10-19 years in healthcare, and working over 40 h weekly. CONCLUSIONS: There is a pressing need for evidence-based strategies to alleviate burnout among radiologists and radiographers. There is a growing importance of recognizing the role of pets, especially dogs, as valuable companions for emotional support and stress relief. Implementing pet-friendly policies or therapy programs can contribute to a positive and supportive workplace, potentially mitigating burnout among essential frontline healthcare professionals.",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Male",
+        "Cross-Sectional Studies",
+        "Pets",
+        "Radiologists",
+        "Burnout, Professional",
+        "Dogs",
+        "Adult",
+        "Animals",
+        "Middle Aged",
+        "Hungary",
+        "Surveys and Questionnaires",
+        "Ownership",
+        "Resilience, Psychological",
+        "Depersonalization",
+        "Allied Health Personnel",
+        "Human-Animal Bond",
+        "Workload"
+      ]
+    },
+    {
+      "pmid": "37094984",
+      "title": "Pet ownership during the first 5 years after breast cancer diagnosis in the NEON-BC cohort.",
+      "authors": [
+        "Luisa Lopes-Conceição",
+        "Bárbara Peleteiro",
+        "Natália Araújo",
+        "Teresa Dias",
+        "Filipa Fontes",
+        "Susana Pereira",
+        "Nuno Lunet"
+      ],
+      "journal": "European journal of public health",
+      "publication_date": "2023-Jun-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Although human-animal interactions (HAI) have been associated with health benefits, they have not been extensively studied among cancer patients nor which factors may influence HAI during cancer survivorship. Therefore, this study aims to describe pet ownership in a breast cancer cohort within 5 years post-diagnosis and to identify associated factors. METHODS: Four hundred sixty-six patients from the NEON-BC cohort were evaluated. Four groups of pet ownership over the 5 years were defined: 'never had', 'stopped having', 'started having' and 'always had'. Multinomial logistic regression was used to quantify the association between the patient characteristics and the groups defined (reference: 'never had'). RESULTS: 51.7% of patients had pets at diagnosis, which increased to 58.4% at 5 years; dogs and cats were the most common. Women presenting depressive symptoms and poor quality of life were more likely to stop having pets. Older and unpartnered women were less likely to start having pets. Those retired, living outside Porto, having diabetes or having owned animals during adulthood were more likely to start having pets. Women with higher education and unpartnered were less likely to always have pets. Those living in larger households, with other adults or having animals throughout life, were more likely to always have pets. Obese women had lower odds of stopping having dogs/cats. Women submitted to neoadjuvant chemotherapy and longer chemotherapy treatments were more likely to stop having dogs/cats. CONCLUSIONS: Pet ownership changed over the 5 years and is influenced by sociodemographic, clinical and treatment characteristics, patient-reported outcomes and past pet ownership, reflecting the importance of HAI during cancer survivorship.",
+      "mesh_terms": [
+        "Humans",
+        "Adult",
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Female",
+        "Pets",
+        "Neon",
+        "Breast Neoplasms",
+        "Ownership",
+        "Cat Diseases",
+        "Quality of Life",
+        "Dog Diseases"
+      ]
+    },
+    {
+      "pmid": "36539923",
+      "title": "Balancing the Risks and Benefits of Pet Ownership in Pediatric Transplant Recipients.",
+      "authors": [
+        "Paula García Sánchez",
+        "Irene Iglesias",
+        "Iker Falces-Romero",
+        "María Serrano-Villar",
+        "Cristina Calvo",
+        "Sonia Alcolea",
+        "Talía Sainz",
+        "Ana Mendez-Echevarría"
+      ],
+      "journal": "Transplantation",
+      "publication_date": "2023-Apr-01",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "abstract": "In recent decades, the number of pediatric transplantations and their survival rates have increased. Psychological problems and poorer quality of life are notable among children undergoing transplantation and can have long-lasting consequences and affect immunosuppressive therapy adherence. Pet ownership and animal contact have been associated with physical, mental, and social health benefits. Despite these potential benefits, however, companion animals are known to be a source of infection, which is one of the main concerns for clinicians. Because of immunosuppression, these children are particularly vulnerable to infections. Zoonoses comprise a long list of infectious diseases and represent a major public health problem. Nevertheless, many families and most healthcare providers are unaware of these potential risks, and there is a worrisome lack of recommendations to manage the risk-benefit balance, which could pose a risk for acquiring a zoonosis. Furthermore, no data are available on the number of transplanted patients with pets, and this risk-benefit balance is difficult to adequately evaluate. In this document, we review the currently available evidence regarding the epidemiology of zoonotic infections in patients undergoing transplantation, focusing on pediatric patients from a risk-benefit perspective, to help inform decision-making for clinicians. Families and healthcare professionals should be aware of the risks, and clinicians should actively screen for pets and offer comprehensive information as part of routine clinical practice. A multidisciplinary approach will ensure proper care of patients and pets and will establish preventive measures to ensure patients are safe living with their pets.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Pets",
+        "Transplant Recipients",
+        "Ownership",
+        "Quality of Life",
+        "Zoonoses",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "pmid": "35451801",
+      "title": "Pet Ownership and the Risk of Arterial Hypertension and Cardiovascular Disease.",
+      "authors": [
+        "Stanisław Surma",
+        "Suzanne Oparil",
+        "Krzysztof Narkiewicz"
+      ],
+      "journal": "Current hypertension reports",
+      "publication_date": "2022-Aug",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "PURPOSE OF REVIEW: Hypertension prevention and cardiovascular risk reduction are cornerstones in the prevention and treatment of cardiovascular diseases. Potential applicability of nontraditional cardiovascular risk reduction methods, such as pet ownership, raises a growing interest. RECENT FINDINGS: Studies show that having pets may reduce the risk of death from any cause, particularly from cardiovascular causes. Furthermore, results of some studies indicate that having pets may reduce the risk of developing hypertension and improve blood pressure control in patients with established hypertension. In addition, there is evidence that having pets may improve the prognosis of patients after myocardial infarction and stroke. One of the most important cardioprotective mechanisms of pet ownership is reduction in activity of the sympathetic nervous system. Pet ownership has a positive effect on the cardiovascular system, likely related to antihypertensive and cardioprotective mechanisms.",
+      "mesh_terms": [
+        "Animals",
+        "Cardiovascular Diseases",
+        "Humans",
+        "Hypertension",
+        "Ownership",
+        "Pets",
+        "Risk Reduction Behavior"
+      ]
+    },
+    {
+      "pmid": "34886405",
+      "title": "Pet Ownership and Multiple Sclerosis during COVID-19.",
+      "authors": [
+        "Holly Oliver-Hall",
+        "Elena Ratschen",
+        "Christopher R Tench",
+        "Helen Brooks",
+        "Cris S Constantinescu",
+        "Laura Edwards"
+      ],
+      "journal": "International journal of environmental research and public health",
+      "publication_date": "2021-Dec-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Background: Multiple sclerosis (MS) is associated with lower quality of life, reduced social participation, and decreased self-efficacy. The COVID-19 pandemic has had documented effects on the health and wellbeing of people with and without MS. Previous research has demonstrated the positive impact pets can have for people living with long-term conditions. Objectives: To explore the rates of pet ownership and pet attachment in people living with MS and pet ownership associations with quality of life, satisfaction with social roles, and self-efficacy scores; and to explore the effects of the COVID-19 outbreak on people's perceived relationships with their pets. Materials and Methods: A postal questionnaire was distributed to members of a local MS Register and a control group of people without MS. The questionnaire assessed quality of life, satisfaction with social roles, self-efficacy, the perceived roles of pets, and pet-related concerns experienced during the COVID-19 pandemic. Results: No apparent difference in attachment to pets was found between the patient and control groups. Pet ownership and level of attachment were not associated with differences in quality of life or self-efficacy scores in people living with MS. Using multiple regression analysis, pet ownership was associated with a decrease in satisfaction with participation in social roles, but with the estimated effect being small compared to having a diagnosis of MS or being unemployed. Most participants reported that pets had positive roles during the pandemic, and the most reported pet-related concern was access to veterinary treatment. Conclusion: Pet owners both with and without MS reported subjective benefits to their wellbeing from pet ownership during COVID-19, although analysis suggested that pet ownership was associated with a reduction in satisfaction with social roles. The study had several limitations and suggestions are made for future work.",
+      "mesh_terms": [
+        "Animals",
+        "COVID-19",
+        "Humans",
+        "Multiple Sclerosis",
+        "Ownership",
+        "Pandemics",
+        "Pets",
+        "Quality of Life",
+        "SARS-CoV-2"
+      ]
+    },
+    {
+      "pmid": "34805473",
+      "title": "Association between pet ownership and physical activity and mental health during the COVID-19 \"circuit breaker\" in Singapore.",
+      "authors": [
+        "Joel Shi Quan Tan",
+        "Waikit Fung",
+        "Beverley Shu Wen Tan",
+        "Jia Ying Low",
+        "Nicholas L Syn",
+        "Ying Xian Goh",
+        "Junxiong Pang"
+      ],
+      "journal": "One health (Amsterdam, Netherlands)",
+      "publication_date": "2021-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: The negative impact of the coronavirus disease 2019 (COVID-19) pandemic on mental health and physical activity is well reported. While prior studies showed a positive influence of pet ownership on physical activity and mental health, the interactions between the pandemic and pet ownership are not well studied. OBJECTIVE: To determine the association between pet ownership, physical activity levels and mental health during the COVID-19 pandemic. MATERIALS AND METHODS: A cross-sectional study was conducted from May 19 to July 13, 2020 among Singapore residents aged 21 to 64 years through a previously published questionnaire. Inverse probability treatment weighting was used to develop mixed-effects models for outcome comparisons. We recorded participant data on pet ownership, duration and intensity of physical activity, and RAND 36-item Health Survey mental health domains during the COVID-19 pandemic. RESULTS: The questionnaire was completed by 431 pet owners and 103 non-pet owners. A greater proportion of pet owners were female, non-married, employed and owned pets in the past. Pet owners reported 31.8 (95% CI 13.6 to 50; p = .001) more minutes per week of mild-intensity physical activity compared to non-pet owners. No statistically significant differences were found for moderate- and vigorous-intensity physical activity. Pet owners had better emotional well-being (ꞵ = 9.66, 95% CI 4.97 to 14.4; p < .001), energy (ꞵ = 8.29, 95% CI 3.46 to 13.1; p = .001) and social functioning (ꞵ = 11.2, 95% CI 5.03 to 17.4; p < .001) scores than non-pet owners. However, no statistically significant difference was observed for general health scores. Pet owner physical activity levels, general health, emotional well-being and energy scores correlated positively with pet attachment scores. CONCLUSION: Pet ownership was associated with greater physical activity levels and better mental health, particularly in main caregivers with higher pet attachment scores. These findings suggest that pet ownership is beneficial to physical and mental well-being during periods of social isolation amidst a global pandemic."
+    },
+    {
+      "pmid": "34459072",
+      "title": "Improvement to the subjective well-being of pet ownership may have positive psychological influence during COVID-19 epidemic.",
+      "authors": [
+        "Xing Xin",
+        "Ling Cheng",
+        "Shufang Li",
+        "Ling Feng",
+        "Yinjuan Xin",
+        "Shaoshuai Wang"
+      ],
+      "journal": "Animal science journal = Nihon chikusan Gakkaiho",
+      "publication_date": "2021",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The COVID-19 epidemic and government intervention measures may have adverse effects on people's mental health. To explore the influence of pets on the intervention of people's psychological problems during the COVID-19 epidemic, an online survey was carried out between April 9 and April 29, 2020. A total of 756 participants replied to this questionnaire. Mental health variables were assessed, and the comparison of behavior changes among pet owners and pets on positive mental well-being during COVID-19 epidemic. Comparative analysis was performed; compared with individuals without pets (n = 575), pet owners (n = 181) had a higher prevalence of insomnia (p = 0.006). Living in Wuhan city was a risk factor for people with psychological stress (p < 0.05). Dog owners exhibited lower than average scores of insomnia and uncertainty of infection than cat owners (p = 0.004). People with more than one pet exhibited lower than average scores of depression than having one pet (p = 0.040). For analysis of psychological effects of pets on people, the role of pets in subjective feeling and positive psychological changes of pet owner was significantly different. Pet owners relieve that psychological pressure through behavioral changes towards their pets in early stage. Pets provided positive subjective well-being and psychological effects for their owners.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Animals",
+        "COVID-19",
+        "Cats",
+        "Child",
+        "China",
+        "Cross-Sectional Studies",
+        "Dogs",
+        "Emotions",
+        "Epidemics",
+        "Female",
+        "Human-Animal Bond",
+        "Humans",
+        "Male",
+        "Mental Health",
+        "Middle Aged",
+        "Ownership",
+        "Pets",
+        "Prevalence",
+        "Stress, Psychological",
+        "Surveys and Questionnaires",
+        "Time Factors",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "33626160",
+      "title": "Benefits of Affordable Robotic Pet Ownership in Older Adults With Dementia.",
+      "authors": [
+        "Rebecca A Hammarlund",
+        "Kari L Whatley",
+        "Mark H Zielinski",
+        "Jean Claude Jubert"
+      ],
+      "journal": "Journal of gerontological nursing",
+      "publication_date": "2021-Mar-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "The current study investigated the impact of affordable robotic pet ownership on agitation, quality of life, and depression in older adults with dementia. Data are reported for five adults with dementia receiving day services at an all-inclusive care center for older adults (one male; mean age = 82.8 years). Data were collected three times to obtain baseline (Time 1 to Time 2) and post-intervention (Time 2 to Time 3) scores. Self-reported quality of life and depression symptoms improved post-intervention, but not during baseline. Caregiver-reported agitation did not change consistently across participants during baseline or post-intervention. Simple ownership of affordable robotic pets may be a feasible option to improve quality of life and affective experiences in individuals with dementia. Further work with larger samples should examine whether a combination of ownership and structured activity would produce changes more perceptible to caregivers. [Journal of Gerontological Nursing, 47(3), 18-22.].",
+      "mesh_terms": [
+        "Aged",
+        "Aged, 80 and over",
+        "Caregivers",
+        "Dementia",
+        "Humans",
+        "Male",
+        "Ownership",
+        "Quality of Life",
+        "Robotic Surgical Procedures"
+      ]
+    },
+    {
+      "pmid": "32924558",
+      "title": "Animal-Assisted Intervention to Improve End-of-Life Care: The Moderating Effect of Gender and Pet Ownership on Anxiety and Depression.",
+      "authors": [
+        "Fiorenza Scagnetto",
+        "Giovanni Poles",
+        "Carmine Guadagno",
+        "Valentina Notari",
+        "Nicola Giacopini"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2020-Sep",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "mesh_terms": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Male",
+        "Animal Assisted Therapy",
+        "Animals, Domestic",
+        "Anxiety",
+        "Anxiety Disorders",
+        "Depression",
+        "Depressive Disorder",
+        "Human-Animal Interaction",
+        "Ownership",
+        "Palliative Care",
+        "Pets",
+        "Sex Factors",
+        "Terminal Care",
+        "Humans"
+      ]
+    },
+    {
+      "pmid": "31022817",
+      "title": "Is Pet Ownership Helpful in Reducing the Risk and Severity of Geriatric Depression?",
+      "authors": [
+        "Nancy J Needell",
+        "Nisha Mehta-Naik"
+      ],
+      "journal": "Geriatrics (Basel, Switzerland)",
+      "publication_date": "2016-Oct-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Many community-dwelling older adults are searching for ways to remain mentally and physically healthy as they age. One frequently offered suggestion is for older people to adopt a pet to avoid loneliness, to stay socially engaged, and to stave off depression. Despite the ubiquity of this advice in popular culture, research findings are equivocal on whether pet ownership is beneficial to the physical and psychological health of older adults. This article evaluates published data relating to pet ownership and its possible impact on depression and related symptoms in the elderly."
+    },
+    {
+      "pmid": "26164613",
+      "title": "Pet ownership and physical health.",
+      "authors": [
+        "Robert L Matchock"
+      ],
+      "journal": "Current opinion in psychiatry",
+      "publication_date": "2015-Sep",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "PURPOSE OF REVIEW: Pet ownership and brief human-animal interactions can serve as a form of social support and convey a host of beneficial psychological and physiological health benefits. This article critically examines recent relevant literature on the pet-health connection. RECENT FINDINGS: Cross-sectional studies indicate correlations between pet ownership and numerous aspects of positive health outcomes, including improvements on cardiovascular measures and decreases in loneliness. Quasi-experimental studies and better controlled experimental studies corroborate these associations and suggest that owning and/or interacting with a pet may be causally related to some positive health outcomes. SUMMARY: The value of pet ownership and animal-assisted therapy (AAT), as a nonpharmacological treatment modality, augmentation to traditional treatment, and healthy preventive behavior (in the case of pet ownership), is starting to be realized. However, more investigations that employ randomized controlled trials with larger sample sizes and investigations that more closely examine the underlying mechanism of the pet-health effect, such as oxytocin, are needed.",
+      "mesh_terms": [
+        "Animal Assisted Therapy",
+        "Animals",
+        "Health Status",
+        "Human-Animal Bond",
+        "Humans",
+        "Loneliness",
+        "Mental Disorders",
+        "Ownership",
+        "Pets"
+      ]
+    },
+    {
+      "pmid": "24774476",
+      "title": "Survey to investigate pet ownership and attitudes to pet care in metropolitan Chicago dog and/or cat owners.",
+      "authors": [
+        "Amber Freiwald",
+        "Annette Litster",
+        "Hsin-Yi Weng"
+      ],
+      "journal": "Preventive veterinary medicine",
+      "publication_date": "2014-Aug-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The aims of this descriptive cross-sectional study were to investigate dog and cat acquisition and attitudes toward pet care among residents of the Chicago area (zip codes 60600-60660); to compare data obtained from owners of shelter-acquired pets with those of residents who acquired their pets from other sources; to compare data from dog owners with cat owners; and to compare pet health practices among the respondents of different zip code income groups. In-person surveys administered at five pet store locations collected data from 529 respondents, representing 582 dogs and 402 cats owned or continuously cared for in the past 3 years. Median household income data for represented zip codes was also obtained. Shelters were the most common source of cats (p<0.01) and were the second most common source of dogs. Cats were more likely to have been acquired as strays, while dogs were more likely to have been acquired from friends/family/neighbors, pet stores, breeders or rescue organizations and to be kept as outdoor-only pets (p<0.01). More cats were kept per household than dogs (dogs mean=1.32/household; cats mean=1.78/household; p<0.01). Pet owners were most commonly 'very likely' (5 on a 1-5/5 Likert scale) to administer all hypothetical treatments discussed, although cat owners were less likely to spend time training their pet (p=0.05). Cat owners were less likely to have taken their pet to a veterinarian for vaccinations or annual physical exams (p<0.01). Shelter-acquired cats were significantly more likely to have been taken by their owners to the veterinarian for annual exams (p=0.05) than cats obtained as strays. Owners of shelter-acquired pets were at least as willing as other respondents to administer hypothetical treatments and pay ≥$1000 for veterinary treatment. Respondents from site #3 lived in zip codes that had relatively lower median household incomes (p<0.01) and were less likely to spend ≥$1000 on their pets than those at the four other sites (p<0.01). Over 90% of pet owners from all acquisition categories expressed very high levels of attachment (≥8-10/10 on a Likert scale), except for owners of cats acquired as strays (84.9%) or from the 'other' category (75.0%). Survey respondents commonly acquired their pets from shelters and those who did were at least as willing to pay for and provide veterinary care as respondents who owned pets acquired from other sources. The data collected provides a snapshot of the attitudes of survey respondents in the Chicago area toward pet acquisition and care.",
+      "mesh_terms": [
+        "Animal Welfare",
+        "Animals",
+        "Attitude",
+        "Cats",
+        "Chicago",
+        "Cross-Sectional Studies",
+        "Dogs",
+        "Ownership",
+        "Pets",
+        "Socioeconomic Factors",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "19839680",
+      "title": "Another breed of \"service\" animals: STARS study findings about pet ownership and recovery from serious mental illness.",
+      "authors": [
+        "Jennifer P Wisdom",
+        "Goal Auzeen Saedi",
+        "Carla A Green"
+      ],
+      "journal": "The American journal of orthopsychiatry",
+      "publication_date": "2009-Jul",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "This study elucidates the role of pets in recovery processes among adults with serious mental illness. Data derive from interviews with 177 HMO members with serious mental illness (52.2% women, average age 48.8 years) in the Study of Transitions and Recovery Strategies (STARS). Interviews and questionnaires addressed factors affecting recovery processes and included questions about pet ownership. Data were analyzed using a modified grounded theory method to identify the roles pets play in the recovery process. Primary themes indicate pets assist individuals in recovery from serious mental illness by (a) providing empathy and \"therapy\"; (b) providing connections that can assist in redeveloping social avenues; (c) serving as \"family\" in the absence of or in addition to human family members; and (d) supporting self-efficacy and strengthening a sense of empowerment. Pets appear to provide more benefits than merely companionship. Participants' reports of pet-related contributions to their well-being provide impetus to conduct more formal research on the mechanisms by which pets contribute to recovery and to develop pet-based interventions.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Animals",
+        "Animals, Domestic",
+        "Empathy",
+        "Female",
+        "Human-Animal Bond",
+        "Humans",
+        "Male",
+        "Mental Disorders",
+        "Middle Aged",
+        "Self Concept",
+        "Self Efficacy",
+        "Social Isolation",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "19432050",
+      "title": "Pet ownership as a meaningful community occupation for people with serious mental illness.",
+      "authors": [
+        "Ulrike Zimolag",
+        "Terry Krupa"
+      ],
+      "journal": "The American journal of occupational therapy : official publication of the American Occupational Therapy Association",
+      "publication_date": "2009",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVE: We determined the proportion of pet owners and non-pet owners with serious mental illness, compared their characteristics and their motivations for owning or not owning a pet, and examined the relationship between pet ownership and engagement in meaningful activity and three dimensions of community integration. METHOD: Three Assertive Community Treatment (ACT) teams reported on the pet ownership of all service recipients (N = 204). Of these recipients, 60 completed a survey. Nonparametric tests were selected for data analysis. RESULTS: Of 204 ACT clients, 38 (18.6%) were pet owners. Twenty-tour (63.2%) of 38 responding non-pet owners desired to live with a pet. There were significant differences between groups on diagnosis, gender, a global measure of function, meaningful activity, and psychological integration. CONCLUSION: The key finding supports the hypothesis that pet owners with serious mental illness living in the community demonstrate higher social community integration. Implications for future research and practice are discussed.",
+      "mesh_terms": [
+        "Activities of Daily Living",
+        "Adult",
+        "Case-Control Studies",
+        "Female",
+        "Human-Animal Bond",
+        "Humans",
+        "Interpersonal Relations",
+        "Male",
+        "Persons with Psychiatric Disorders",
+        "Middle Aged",
+        "Sex Distribution"
+      ]
+    },
+    {
+      "pmid": "19388863",
+      "title": "Associations between pet ownership and self-reported health status in people suffering from chronic fatigue syndrome.",
+      "authors": [
+        "Deborah L Wells"
+      ],
+      "journal": "Journal of alternative and complementary medicine (New York, N.Y.)",
+      "publication_date": "2009-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "OBJECTIVE: This study explored the association between pet ownership and self-reported health in people suffering from chronic fatigue syndrome (CFS). METHODS: One hundred and ninety-three (193) people with medically diagnosed CFS completed a postal survey designed to collect information on illness severity, physical and psychologic health, and pet ownership practices. RESULTS: Most of the participants were female (72.0%), over 45 years of age (57.1%) and married (41.1%) with no children (63.1%). Pets were owned by 58.3% of the sample, with dogs and cats being the most commonly kept types of companion animal. The general health of the participants was discovered to be poor, as assessed by scores on the Chalder Fatigue Questionnaire (CFQ), General Health Questionnaire-12 (GHQ-12), and Short-Form-36 (SF-36) health survey. Pet ownership was not significantly associated with scores on the CFQ, GHQ-12, or SF-36 scales, although pet owners considered their animals to offer them a range of health benefits, notably those associated with mental well-being. CONCLUSIONS: Overall, findings suggest no statistically significant association between pet ownership and self-reported health in people with CFS. Nonetheless, people suffering from this condition believe that their pets have the potential to enhance quality of life. Although animals should not be regarded as a panacea for people with long-term conditions such as CFS, they may, nonetheless, serve a valuable, and currently underutilized, role in promoting well-being, whether in their own right, or in conjunction with more traditional forms of therapy.",
+      "mesh_terms": [
+        "Adolescent",
+        "Adult",
+        "Animals",
+        "Animals, Domestic",
+        "Cats",
+        "Dogs",
+        "Fatigue Syndrome, Chronic",
+        "Female",
+        "Health Status",
+        "Health Surveys",
+        "Human-Animal Bond",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Quality of Life",
+        "Self Disclosure",
+        "Young Adult"
+      ]
+    },
+    {
+      "pmid": "15208601",
+      "title": "Airborne cat allergen reduction in classrooms that use special school clothing or ban pet ownership.",
+      "authors": [
+        "Anne-Sophie Karlsson",
+        "Berith Andersson",
+        "Anne Renström",
+        "Jan Svedmyr",
+        "Kjell Larsson",
+        "Magnus P Borres"
+      ],
+      "journal": "The Journal of allergy and clinical immunology",
+      "publication_date": "2004-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "BACKGROUND: Allergens from furred animals are brought to school mainly via clothing of pet owners. Asthmatic children allergic to cat have more symptoms when attending a class with many cat owners, and some schools allocate specific resources to allergen avoidance measures. OBJECTIVE: The aim of the current study was to evaluate the effect of school clothing or pet owner-free classes compared with control classes on airborne cat allergen levels and to investigate attitudes and allergic symptoms among the children. METHODS: Allergen measurements were performed prospectively in 2 classes with school clothing, 1 class of children who were not pet owners, and 3 control classes during a 6-week period in 2 consecutive years. Portable pumps and petri dishes were used for collection of airborne cat allergen, and a roller was used for sampling on children's clothes. Cat allergen (Fel d 1) was analyzed with enzyme-linked immunoassay and immunostaining. Both years, questionnaires were administered to the children. RESULTS: We found 4-fold to 6-fold lower airborne cat allergen levels in intervention classes compared with control classes. Levels of cat allergen were 3-fold higher on clothing of cat owners than of children without cats in control classes. Pet ownership ban seemed less accepted than school clothing as an intervention measure. CONCLUSION: For the first time, it has been shown that levels of airborne cat allergen can be reduced by allergen avoidance measures at school by using school clothing or pet ownership ban, and that both measures are equally efficient. The clinical effect of these interventions remains to be evaluated.",
+      "mesh_terms": [
+        "Air",
+        "Allergens",
+        "Animals",
+        "Attitude",
+        "Cats",
+        "Clothing",
+        "Glycoproteins",
+        "Humans",
+        "Hypersensitivity",
+        "Prospective Studies",
+        "Schools",
+        "Surveys and Questionnaires"
+      ]
+    },
+    {
+      "pmid": "11641292",
+      "title": "Pet ownership, but not ace inhibitor therapy, blunts home blood pressure responses to mental stress.",
+      "authors": [
+        "K Allen",
+        "B E Shykoff",
+        "J L Izzo"
+      ],
+      "journal": "Hypertension (Dallas, Tex. : 1979)",
+      "publication_date": "2001-Oct",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "In the present study, we evaluated the effect of a nonevaluative social support intervention (pet ownership) on blood pressure response to mental stress before and during ACE inhibitor therapy. Forty-eight hypertensive individuals participated in an experiment at home and in the physician's office. Participants were randomized to an experimental group with assignment of pet ownership in addition to lisinopril (20 mg/d) or to a control group with only lisinopril (20 mg/d). On each study day, blood pressure, heart rate, and plasma renin activity were recorded at baseline and after each mental stressor (serial subtraction and speech). Before drug therapy, mean responses to mental stress did not differ significantly between experimental and control groups in heart rate (94 [SD 6.8] versus 93 [6.8] bpm), systolic blood pressure (182 [8.0] versus 181 [8.3] mm Hg), diastolic blood pressure (120 [6.6] versus 119 [7.9] mm Hg), or plasma renin activity (9.4 [0.59] versus 9.3 [0.57] ng. mL(-1). h(-1)). Lisinopril therapy lowered resting blood pressure by approximately 35/20 mm Hg in both groups, but responses to mental stress were significantly lower among pet owners relative to those who only received lisinopril (P<0.0001; heart rate 81 [6.3] versus 91 [6.5] bpm, systolic blood pressure 131 [6.8] versus 141 [7.8] mm Hg, diastolic blood pressure 92 [6.3] versus 100 [6.8] mm Hg, and plasma renin activity 13.9 [0.92] versus 16.1 [0.58] ng. mL(-1). h(-1)). We conclude that ACE inhibitor therapy alone lowers resting blood pressure, whereas increased social support through pet ownership lowers blood pressure response to mental stress.",
+      "mesh_terms": [
+        "Analysis of Variance",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Animals",
+        "Animals, Domestic",
+        "Blood Pressure",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Diastole",
+        "Female",
+        "Heart Rate",
+        "Humans",
+        "Hypertension",
+        "Lisinopril",
+        "Male",
+        "Renin",
+        "Stress, Psychological",
+        "Systole",
+        "Time Factors",
+        "Treatment Outcome"
+      ]
+    },
+    {
+      "pmid": "11147376",
+      "title": "The experience of pet ownership as a meaningful occupation.",
+      "authors": [
+        "J M Allen",
+        "D H Kellegrew",
+        "D Jaffe"
+      ],
+      "journal": "Canadian journal of occupational therapy. Revue canadienne d'ergotherapie",
+      "publication_date": "2000-Oct",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "abstract": "This qualitative study examined the experience of pet ownership in the everyday lives of seven men with human immuno-deficiency virus or acquired immune deficiency syndrome. Interviews and field observations were analyzed using a grounded theory approach. The findings demonstrate that the experience of pet ownership is both typical of any pet owner and yet profoundly impacted by the illness of the owners. The results of this preliminary study indicate pet ownership can be a highly valued occupation for some, and thus has implications for occupational therapy intervention.",
+      "mesh_terms": [
+        "Acquired Immunodeficiency Syndrome",
+        "Activities of Daily Living",
+        "Adult",
+        "Emotions",
+        "HIV Infections",
+        "Health Status",
+        "Human-Animal Bond",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Occupational Therapy",
+        "Ownership",
+        "Quality of Life"
+      ]
+    },
+    {
+      "pmid": "10160462",
+      "title": "Human health concerns from pet ownership after a tornado.",
+      "authors": [
+        "S E Heath",
+        "M Champion"
+      ],
+      "journal": "Prehospital and disaster medicine",
+      "publication_date": "1996",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "abstract": "INTRODUCTION: Although 50% to 60% of North American households own pets and many of these pets are considered family members, there is little information on the impact of pet ownership on pet-owning families affected by disasters. METHODS: This case report describes some of the effects of a tornado on 17 families whose dwellings were destroyed. The setting was a typical urban trailer park. RESULTS: After a tornado at the Sagamore Village Trailer Park in north central Indiana, 104 families were evacuated. Seventeen (16.3%) of these families owned pets. For 14 families (13.5%), pet ownership had an important impact on the families' recovery from the tornado. Public- and mental-health concerns that arose from pet ownership included failure to evacuate a dangerous site, attempts to re-enter a dangerous site, separation anxiety leading to psychosomatic disturbances, and the need for additional animal care. CONCLUSIONS: In urban disasters, the behaviors of families with a human-animal bond are likely to pose a significant risk to their own and others' health and safety in urban disasters. In this small study of families affected by a tornado, the most prominent public-health concerns were failure to evacuate because of a pet and attempts of re-entry to save a pet; the most common mental-health concerns resulted from separation anxiety from a pet and refusal to accept medical treatment until a pet's well-being can be assured. These are thought to be typical issues that will arise out of the human-animal bond in urban disaster situations and differ considerably from traditional public-health concerns over dog bites, spread of zoonotic diseases, and human food contamination. Medical disaster preparedness planning should consider the substantial effects that the human-animal bond is likely to have on human recovery from large-scale urban disasters.",
+      "mesh_terms": [
+        "Adult",
+        "Animals",
+        "Animals, Domestic",
+        "Cats",
+        "Child",
+        "Cricetinae",
+        "Disasters",
+        "Dogs",
+        "Female",
+        "Human-Animal Bond",
+        "Humans",
+        "Indiana",
+        "Male",
+        "Public Health",
+        "Rabbits",
+        "Rescue Work"
+      ]
+    }
+  ]
+}

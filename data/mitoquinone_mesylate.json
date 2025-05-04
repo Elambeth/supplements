@@ -1,0 +1,183 @@
+{
+  "supplement": "Mitoquinone mesylate",
+  "query": "Mitoquinone mesylate[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:05:23",
+  "research_count": 5,
+  "count": 5,
+  "articles": [
+    {
+      "pmid": "38471990",
+      "title": "Mitoquinone mesylate as post-exposure prophylaxis against SARS-CoV-2 infection in humans: an exploratory single center pragmatic open label non-randomized pilot clinical trial with matched controls.",
+      "authors": [
+        "Keren Chen",
+        "Nicholas J Jackson",
+        "Theodoros Kelesidis"
+      ],
+      "journal": "EBioMedicine",
+      "publication_date": "2024-Apr",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Pragmatic Clinical Trial"
+      ],
+      "abstract": "BACKGROUND: An ongoing important need exists to rapidly develop novel therapeutics for COVID-19 that will retain antiviral efficacy in the setting of rapidly evolving SARS-CoV-2 variants and potential future development of resistance of SARS-COV-2 to remdesivir and protease inhibitors. To date, there is no FDA-approved treatment for post-exposure prophylaxis against SAR-CoV-2. We have shown that the mitochondrial antioxidant mitoquinone/mitoquinol mesylate (Mito-MES), a dietary supplement, has antiviral activity against SARS-CoV-2 in vitro and in SARS-CoV-2 infected K18-hACE2 mice. METHODS: In this exploratory, pragmatic open label clinical trial (ClinicalTrials.gov identifier NCT05381454), we studied whether Mito-MES is an effective post-exposure prophylaxis treatment in people who had high-grade unmasked exposures to SARS-CoV-2 within 5 days prior to study entry. Participants were enrolled in real-world setting in Los Angeles, United States between May 1 and December 1, 2022 and were assigned to either mito-MES 20 mg daily for 14 days (n = 40) or no mito-MES (controls) (n = 40). The primary endpoint was development of SARS-CoV-2 infection based on 4 COVID-19 diagnostic tests [rapid antigen tests (RATs) or PCR] performed during the study period (14 days post exposure). FINDINGS: Out of 40 (23 females; 57.5%) study participants who took Mito-MES, 12 (30%) developed SARS-CoV-2 infection compared to 30 of the 40 controls (75%) (difference -45.0%, 95% confidence intervals (CI): -64.5%, -25.5%). Out of 40 (19 females; 47.5%) study participants in the control group, 30 (75.0%) had at least one positive COVID-19 diagnostic test and 23 (57.5%) were symptomatic. With regards to key secondary outcomes, among symptomatic SARS-CoV-2 infections, the median duration of viral symptoms was lower in the Mito-MES group (median 3.0, 95% CI 2.75, 3.25) compared to the control group (median 5.0, 95% CI 4.0, 7.0). None of the study participants was hospitalized or required oxygen therapy. Mito-MES was well tolerated and no serious side effect was reported in any study participant. INTERPRETATION: This work describes antiviral activity of mito-MES in humans. Mito-MES was well tolerated in our study population and attenuated transmission of SARS-CoV-2 infection. Given established safety of Mito-MES in humans, our results suggest that randomized control clinical trials of Mito-MES as post-exposure prophylaxis against SARS-CoV-2 infection are warranted. FUNDING: This work was supported in part by National Institutes of Health grant R01AG059501 (TK), National Institutes of Health grant R01AG059502 04S1 (TK), NIH/National Center for Advancing Translational Sciences (NCATS) UCLA CTSI Grant Number UL1TR001881 and California HIV/AIDS Research Program grant OS17-LA-002 (TK).",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Mice",
+        "Antiviral Agents",
+        "COVID-19",
+        "Organophosphorus Compounds",
+        "Post-Exposure Prophylaxis",
+        "SARS-CoV-2",
+        "Treatment Outcome",
+        "Ubiquinone"
+      ]
+    },
+    {
+      "pmid": "36958371",
+      "title": "Mitoquinone Mesylate and Mitochondrial DNA in End Organs in Humanized Mouse Model of Chronic Treated Human Immunodeficiency Virus Infection.",
+      "authors": [
+        "Sihyeong Song",
+        "Sandro Satta",
+        "Madhav B Sharma",
+        "Cristelle Hugo",
+        "Athanassios Kossyvakis",
+        "Shubhendu Sen Roy",
+        "Theodoros Kelesidis"
+      ],
+      "journal": "The Journal of infectious diseases",
+      "publication_date": "2023-Jun-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "abstract": "No treatment exists for mitochondrial dysfunction, a contributor to end-organ disease in human immunodeficiency virus (HIV). The mitochondrial antioxidant mitoquinone mesylate (MitoQ) attenuates mitochondrial dysfunction in preclinical mouse models of various diseases but has not been used in HIV. We used a humanized murine model of chronic HIV infection and polymerase chain reaction to show that HIV-1-infected mice treated with antiretroviral therapy and MitoQ for 90 days had higher ratios of human and murine mitochondrial to nuclear DNA in end organs compared with HIV-1-infected mice on antiretroviral therapy. We offer translational evidence of MitoQ as treatment for mitochondrial dysfunction in HIV.",
+      "mesh_terms": [
+        "Humans",
+        "Mice",
+        "Animals",
+        "Disease Models, Animal",
+        "DNA, Mitochondrial",
+        "HIV Infections",
+        "Organophosphorus Compounds",
+        "Antioxidants",
+        "Ubiquinone",
+        "Mitochondria"
+      ]
+    },
+    {
+      "pmid": "36511516",
+      "title": "Mitoquinone mesylate attenuates pathological features of lean and obese allergic asthma in mice.",
+      "authors": [
+        "Ravishankar Chandrasekaran",
+        "Sierra R Bruno",
+        "Zoe F Mark",
+        "Joseph Walzer",
+        "Sarah Caffry",
+        "Clarissa Gold",
+        "Amit Kumar",
+        "Nicolas Chamberlain",
+        "Isabella M Butzirus",
+        "Carolyn R Morris",
+        "Nirav Daphtary",
+        "Minara Aliyeva",
+        "Ying-Wai Lam",
+        "Albert van der Vliet",
+        "Yvonne Janssen-Heininger",
+        "Matthew E Poynter",
+        "Anne E Dixon",
+        "Vikas Anathy"
+      ],
+      "journal": "American journal of physiology. Lung cellular and molecular physiology",
+      "publication_date": "2023-Feb-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Obesity is associated with severe, difficult-to-control asthma, and increased airway oxidative stress. Mitochondrial reactive oxygen species (mROS) are an important source of oxidative stress in asthma, leading us to hypothesize that targeting mROS in obese allergic asthma might be an effective treatment. Using a mouse model of house dust mite (HDM)-induced allergic airway disease in mice fed a low- (LFD) or high-fat diet (HFD), and the mitochondrial antioxidant MitoQuinone (MitoQ), we investigated the effects of obesity and ROS on HDM-induced airway inflammation, remodeling, and airway hyperresponsiveness (AHR). Obese allergic mice showed increased lung tissue eotaxin, airway tissue eosinophilia, and AHR compared with lean allergic mice. MitoQ reduced airway inflammation, remodeling, and hyperreactivity in both lean and obese allergic mice, and tissue eosinophilia in obese-allergic mice. Similar effects were observed with decyl triphosphonium (dTPP+), the hydrophobic cationic moiety of MitoQ lacking ubiquinone. HDM-induced oxidative sulfenylation of proteins was increased particularly in HFD mice. Although only MitoQ reduced sulfenylation of proteins involved in protein folding in the endoplasmic reticulum (ER), ER stress was attenuated by both MitoQ and dTPP+ suggesting the anti-allergic effects of MitoQ are mediated in part by effects of its hydrophobic dTPP+ moiety reducing ER stress. In summary, oxidative signaling is an important mediator of allergic airway disease. MitoQ, likely through reducing protein oxidation and affecting the UPR pathway, might be effective for the treatment of asthma and specific features of obese asthma.",
+      "mesh_terms": [
+        "Animals",
+        "Asthma",
+        "Lung",
+        "Obesity",
+        "Inflammation",
+        "Pyroglyphidae",
+        "Eosinophilia",
+        "Disease Models, Animal"
+      ]
+    },
+    {
+      "pmid": "34197233",
+      "title": "Mitoquinone mesylate (MitoQ) prevents sepsis-induced diaphragm dysfunction.",
+      "authors": [
+        "Gerald S Supinski",
+        "Elizabeth A Schroder",
+        "Lin Wang",
+        "Andrew J Morris",
+        "Leigh Ann P Callahan"
+      ],
+      "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+      "publication_date": "2021-Aug-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "abstract": "Sepsis-induced diaphragm dysfunction is a major contributor to respiratory failure in mechanically ventilated patients. There are no pharmacological treatments for this syndrome, but studies suggest that diaphragm weakness is linked to mitochondrial free radical generation. We hypothesized that administration of mitoquinone mesylate (MitoQ), a mitochondrially targeted free radical scavenger, would prevent sepsis-induced diaphragm dysfunction. We compared diaphragm function in 4 groups of male mice: 1) sham-operated controls treated with saline (0.3 mL ip), 2) sham-operated treated with MitoQ (3.5 mg/kg/day given intraperitoneally in saline), 3) cecal ligation puncture (CLP) mice treated with saline, and 4) CLP mice treated with MitoQ. Forty-eight hours after surgery, we assessed diaphragm force generation, myosin heavy chain content, state 3 mitochondrial oxygen consumption (OCR), and aconitase activity. We also determined effects of MitoQ in female mice with CLP sepsis and in mice with endotoxin-induced sepsis. CLP decreased diaphragm specific force generation and MitoQ prevented these decrements (e.g. maximal force averaged 30.2 ± 1.3, 28.0 ± 1.3, 12.8 ± 1.9, and 30.0 ± 1.0 N/cm2 for sham, sham + MitoQ, CLP, and CLP + MitoQ groups, respectively, P < 0.001). CLP also reduced diaphragm mitochondrial OCR and aconitase activity; MitoQ blocked both effects. Similar responses were observed in female mice and in endotoxin-induced sepsis. Moreover, delayed MitoQ treatment (by 6 h) was as effective as immediate treatment. These data indicate that MitoQ prevents sepsis-induced diaphragm dysfunction, preserving force generation. MitoQ may be a useful therapeutic agent to preserve diaphragm function in critically ill patients with sepsis.NEW & NOTEWORTHY This is the first study to show that mitoquinone mesylate (MitoQ), a mitochondrially targeted antioxidant, treats sepsis-induced skeletal muscle dysfunction. This biopharmaceutical agent is without known side effects and is currently being used by healthy individuals and in clinical trials in patients with various diseases. When taken together, our results suggest that MitoQ has the potential to be immediately translated into treatment for sepsis-induced skeletal muscle dysfunction.",
+      "mesh_terms": [
+        "Animals",
+        "Diaphragm",
+        "Female",
+        "Humans",
+        "Male",
+        "Mesylates",
+        "Mice",
+        "Organophosphorus Compounds",
+        "Sepsis",
+        "Ubiquinone"
+      ]
+    },
+    {
+      "pmid": "27550965",
+      "title": "Long-term administration of the mitochondria-targeted antioxidant mitoquinone mesylate fails to attenuate age-related oxidative damage or rescue the loss of muscle mass and function associated with aging of skeletal muscle.",
+      "authors": [
+        "Giorgos K Sakellariou",
+        "Timothy Pearson",
+        "Adam P Lightfoot",
+        "Gareth A Nye",
+        "Nicola Wells",
+        "Ifigeneia I Giakoumaki",
+        "Richard D Griffiths",
+        "Anne McArdle",
+        "Malcolm J Jackson"
+      ],
+      "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "publication_date": "2016-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Age-related skeletal muscle dysfunction is the underlying cause of morbidity that affects up to half the population aged 80 and over. Considerable evidence indicates that oxidative damage and mitochondrial dysfunction contribute to the sarcopenic phenotype that occurs with aging. To examine this, we administered the mitochondria-targeted antioxidant mitoquinone mesylate {[10-(4,5-dimethoxy-2-methyl-3,6-dioxo-1,4-cyclohexadien-1-yl)decyl] triphenylphosphonium; 100 μM} to wild-type C57BL/6 mice for 15 wk (from 24 to 28 mo of age) and investigated the effects on age-related loss of muscle mass and function, changes in redox homeostasis, and mitochondrial organelle integrity and function. We found that mitoquinone mesylate treatment failed to prevent age-dependent loss of skeletal muscle mass associated with myofiber atrophy or alter a variety of in situ and ex vivo muscle function analyses, including maximum isometric tetanic force, decline in force after a tetanic fatiguing protocol, and single-fiber-specific force. We also found evidence that long-term mitoquinone mesylate administration did not reduce mitochondrial reactive oxygen species or induce significant changes in muscle redox homeostasis, as assessed by changes in 4-hydroxynonenal protein adducts, protein carbonyl content, protein nitration, and DNA damage determined by the content of 8-hydroxydeoxyguanosine. Mitochondrial membrane potential, abundance, and respiration assessed in permeabilized myofibers were not significantly altered in response to mitoquinone mesylate treatment. Collectively, these findings demonstrate that long-term mitochondria-targeted mitoquinone mesylate administration failed to attenuate age-related oxidative damage in skeletal muscle of old mice or provide any protective effect in the context of muscle aging.-Sakellariou, G. K., Pearson, T., Lightfoot, A. P., Nye, G. A., Wells, N., Giakoumaki, I. I., Griffiths, R. D., McArdle, A., Jackson, M. J. Long-term administration of the mitochondria-targeted antioxidant mitoquinone mesylate fails to attenuate age-related oxidative damage or rescue the loss of muscle mass and function associated with aging of skeletal muscle.",
+      "mesh_terms": [
+        "Aging",
+        "Animals",
+        "Antioxidants",
+        "Female",
+        "Male",
+        "Mesylates",
+        "Mice, Inbred C57BL",
+        "Mitochondria",
+        "Muscle, Skeletal",
+        "Muscular Diseases",
+        "Organophosphorus Compounds",
+        "Oxidative Stress",
+        "Protein Carbonylation",
+        "Reactive Oxygen Species",
+        "Ubiquinone"
+      ]
+    }
+  ]
+}

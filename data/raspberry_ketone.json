@@ -1,0 +1,757 @@
+{
+  "supplement": "Raspberry Ketone",
+  "query": "Raspberry Ketone[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])",
+  "search_date": "2025-05-02 22:26:44",
+  "research_count": 24,
+  "count": 24,
+  "articles": [
+    {
+      "pmid": "39189875",
+      "title": "Study on the signaling pathways involved in the anti-hyperglycemic effect of raspberry ketone on zebrafish using integrative transcriptome and metabolome analyses.",
+      "authors": [
+        "Xinliang Zhu",
+        "Dengcai Zhang",
+        "Yong Wang",
+        "Chuangxin Wang",
+        "Xiaoxiao Liu",
+        "Yicong Niu"
+      ],
+      "journal": "Food & function",
+      "publication_date": "2024-Sep-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hyperglycemia leads to increased oxidative stress in mitochondria, an abnormal activation of intracellular inflammatory signals, and mediate multiple dysfunctions. Raspberry ketone (RK) is an aromatic phenolic compound found in many plants and could contribute to weight loss, restore impaired glucose tolerance, and has antioxidant properties. In our investigation, RK could greatly prevent islet, brain and other tissue damage caused by hyperglycemia in a zebrafish model with streptozotocin (STZ)-induced hyperglycemia. Body weight, insulin level, and food intake indexes were also restored by RK. Using transcriptome profiling, we found that RK administration could significantly attenuate STZ-induced insulin synthesis and pancreatic secretion as well as alter protein and carbohydrate metabolism. Metabolomics analysis results showed that RK could also prevent STZ-induced metabolic disorders, such as adenosine and sphingolipid metabolism. Integrative analysis of metabolome and transcriptome data and qRT-PCR validation of key metabolic regulatory genes (glut1, glut2, ctrb1, ccka, gck, pklr) confirmed that the purine pathway was the most enriched metabolic pathway, in which both metabolite accumulation and gene expression levels showed consistent change patterns upon RK treatment. Our study provides a new perspective for understanding the hypoglycemic mechanism of RK and may be helpful for investigating the modes of action of hypoglycemic drugs using the zebrafish hyperglycemia model.",
+      "mesh_terms": [
+        "Animals",
+        "Zebrafish",
+        "Transcriptome",
+        "Hypoglycemic Agents",
+        "Metabolome",
+        "Butanones",
+        "Signal Transduction",
+        "Hyperglycemia",
+        "Male",
+        "Gene Expression Profiling",
+        "Insulin",
+        "Blood Glucose"
+      ]
+    },
+    {
+      "pmid": "38970822",
+      "title": "Raspberry Ketone Attenuates Hepatic Fibrogenesis and Inflammation via Regulating the Crosstalk of FXR and PGC-1α Signaling.",
+      "authors": [
+        "Yu-Chen Jiang",
+        "Jia-Yi Dou",
+        "Mei-Yan Xuan",
+        "Chong Gao",
+        "Zhao-Xu Li",
+        "Li-Hua Lian",
+        "Zhen-Yu Cui",
+        "Ji-Xing Nan",
+        "Yan-Ling Wu"
+      ],
+      "journal": "Journal of agricultural and food chemistry",
+      "publication_date": "2024-Jul-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Hepatic fibrosis is a compensatory response to chronic liver injury and inflammation, and dietary intervention is recommended as one of the fundamental prevention strategies. Raspberry ketone (RK) is an aromatic compound first isolated from raspberry and widely used to prepare food flavors. The current study investigated the hepatoprotection and potential mechanism of RK against hepatic fibrosis. In vitro, hepatic stellate cell (HSC) activation was stimulated with TGF-β and cultured with RK, farnesoid X receptor (FXR), or peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC-1α) agonist or inhibitor, respectively. In vivo, C57BL/6 mice were injected intraperitoneally with thioacetamide (TAA) at 100/200 mg/kg from the first to the fifth week. Mice were intragastrically administrated with RK or Cur once a day from the second to the fifth week. In activated HSCs, RK inhibited extracellular matrix (ECM) accumulation, inflammation, and epithelial-mesenchymal transition (EMT) process. RK both activated FXR/PGC-1α and regulated their crosstalk, which were verified by their inhibitors and agonists. Deficiency of FXR or PGC-1α also attenuated the effect of RK on the reverse of activated HSCs. RK also decreased serum ALT/AST levels, liver histopathological change, ECM accumulation, inflammation, and EMT in mice caused by TAA. Double activation of FXR/PGC-1α might be the key targets for RK against hepatic fibrosis. Above all, these discoveries supported the potential of RK as a novel candidate for the dietary intervention of hepatic fibrosis.",
+      "mesh_terms": [
+        "Animals",
+        "Humans",
+        "Male",
+        "Mice",
+        "Butanones",
+        "Epithelial-Mesenchymal Transition",
+        "Hepatic Stellate Cells",
+        "Inflammation",
+        "Liver Cirrhosis",
+        "Mice, Inbred C57BL",
+        "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Rubus",
+        "Signal Transduction",
+        "Rats"
+      ]
+    },
+    {
+      "pmid": "37507354",
+      "title": "Raspberry ketone feeding makes Queensland fruit fly, Bactrocera tryoni (Froggatt), more vulnerable to desiccation but not starvation.",
+      "authors": [
+        "Humayra Akter",
+        "Benjamin G Fanson",
+        "Jess Inskeep",
+        "Polychronis Rempoulakis"
+      ],
+      "journal": "Pest management science",
+      "publication_date": "2023-Dec",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "BACKGROUND: Queensland fruit fly (Qfly) males exhibit accelerated sexual maturation when their diet is supplemented with raspberry ketone (RK) for 48 h following emergence, which is beneficial for sterile insect technique operation. The present study tests whether RK supplementation makes Qfly more vulnerable to starvation or desiccation. RESULTS: Flies were fed for 48 h with a yeast hydrolysate and sugar diet (1:3) that contained 0% RK (control), 1.25% RK (low dose) or 5% RK (high dose) to test subsequent vulnerability to starvation and desiccation. RK feeding decreased body weight and water content in males and increased lipid levels in both sexes before exposure to any stress treatment. Under nutritional stress, flies fed the low RK dose, but not the high RK dose, had higher survival than controls. Under desiccation stress, flies fed both the low and high RK doses had lower survival than the controls. Body weight, water content and lipid reserves at death were all affected by RK dose when under nutritional stress, but not when under desiccation stress. In the absence of stress, body weight at death was higher than controls in flies provided with the high RK dose and lipids were lower than controls in flies provided with the low RK dose. CONCLUSION: Feeding with RK makes Qflies more vulnerable to desiccation but not starvation. In most conditions, it is expected that the disadvantage of increased desiccation vulnerability would be outweighed by the benefits of accelerated sexual maturation in RK-fed young adult Qflies. © 2023 The Authors. Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+      "mesh_terms": [
+        "Animals",
+        "Male",
+        "Female",
+        "Tephritidae",
+        "Desiccation",
+        "Saccharomyces cerevisiae",
+        "Body Weight",
+        "Water",
+        "Lipids"
+      ]
+    },
+    {
+      "pmid": "37167472",
+      "title": "Raspberry ketone improves non-alcoholic fatty liver disease induced in rats by modulating sphingosine kinase/sphingosine-1-phosphate and toll-like receptor 4 pathways.",
+      "authors": [
+        "Kareem M Abdelraheem",
+        "Nahla N Younis",
+        "Mohamed A Shaheen",
+        "Sahar E Elswefy",
+        "Sousou I Ali"
+      ],
+      "journal": "The Journal of pharmacy and pharmacology",
+      "publication_date": "2023-Jul-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "OBJECTIVES: To investigate the therapeutic role of calorie-restricted diet (CR) and raspberry ketone (RK) in non-alcoholic fatty liver disease (NAFLD) and the implication of sphingosine kinase-1 (SphK1)/sphingosine-1-phosphate (S1P) and toll-like receptor 4 (TLR4) signalling. METHODS: NAFLD was induced by feeding rats high-fat-fructose-diet (HFFD) for 6 weeks. Rats were then randomly assigned to three groups (n = 6 each); NAFLD group continued on HFFD for another 8 weeks. CR group was switched to CR diet (25% calorie restriction) for 8 weeks and RK group was switched to normal diet and received RK (55 mg/kg/day; orally) for 8 weeks. Another six rats were used as normal control. KEY FINDINGS: HFFD induced a state of NAFLD indicated by increased fat deposition in liver tissue along with dyslipidemia, elevated liver enzymes, oxidative stress and inflammation. Either CR diet or RK reversed these changes and decreased HFFD-induced elevation of hepatic SphK1, S1P, S1PR1 and TLR4. Of notice, RK along with a normal calorie diet was even better than CR alone in most studied parameters. CONCLUSIONS: SphK1/S1P and TLR4 are interconnected and related to the establishment of HFFD-induced NAFLD and can be modulated by RK. Supplementation of RK without calorie restriction to patients with NAFLD unable to follow CR diet to achieve their treatment goals would be a promising therapeutic modality.",
+      "mesh_terms": [
+        "Animals",
+        "Rats",
+        "Diet, High-Fat",
+        "Liver",
+        "Non-alcoholic Fatty Liver Disease",
+        "Phosphates",
+        "Sphingosine",
+        "Toll-Like Receptor 4"
+      ]
+    },
+    {
+      "pmid": "37009719",
+      "title": "The combined effect of Raspberry Ketone with Resveratrol against oxidative stress and steatohepatitis in rats: Pharmacokinetic and pharmacodynamic studies.",
+      "authors": [
+        "Saurabh Verma",
+        "Umesh K Goand",
+        "Shivam Rathaur",
+        "Richa Garg",
+        "Roshan Katekar",
+        "Jiaur R Gayen"
+      ],
+      "journal": "Journal of biochemical and molecular toxicology",
+      "publication_date": "2023-Jun",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Raspberry Ketone (RK) and Resveratrol (RSV) are natural phenolic antioxidants and anti-inflammatory agents. However, its combined pharmacokinetic and pharmacodynamics potentials are not reported. The study aims to assess the combined effect of RK with RSV to protect rats from carbon-tetrachloride (CCl4) induced oxidative stress and NASH. The toxicant CCl4 was employed at a concentration of 1 mL/kg as a 1:1 (v/v) mixture with olive oil twice weekly for 6 weeks to induce liver toxicity. Animal treatment was followed for 2 weeks. Silymarin was used as a standard control drug to compare the hepatoprotective effect of RK and RSV. Hepatic histology, oxidative stress, MMP, reduced glutathione (GSH), plasma levels of SGOT, SGPT, and lipid profile (total cholesterol and triglycerides) were measured. Anti-inflammation genes (IL-10), and fibrotic genes (TGF-β) were also examined in liver tissue. Oral administration of combined RK with RSV (50 + 50 mg/kg for 2 weeks) showed significantly more hepatoprotection by significantly decreasing elevated plasma markers and lipid profile than alone RK and RSV (100 mg/kg daily for 2 weeks). It also significantly alleviated the hepatic lipid peroxidation, restoring the activities of GSH levels in the liver. RT-PCR and Immunoblotting studies confirmed that significantly upregulation of anti-inflammation genes and protein expression (MMP-9) ameliorated the disease. Pharmacokinetic studies confirmed more synergistic stability in simulated gastric-intestinal fluids (FaSSGF, FaSSIF) and rat liver microsomes (CYP-450, NADPH oxidation & glucuronidation. Moreover, coadministration of drugs augmented the relative bioavailability, Vd/ F (L/Kg), and MRT0-∞( h), which leads to more efficacy. This pharmacokinetic and pharmacodynamic reveals a new adjuvant therapy for the treatment of steatohepatitis.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Resveratrol",
+        "Antioxidants",
+        "Oxidative Stress",
+        "Liver",
+        "Fatty Liver",
+        "Carbon Tetrachloride",
+        "Anti-Inflammatory Agents",
+        "Triglycerides",
+        "Chemical and Drug Induced Liver Injury",
+        "Lipid Peroxidation"
+      ]
+    },
+    {
+      "pmid": "36916612",
+      "title": "LC-MS/MS method for quantification of raspberry ketone in rat plasma: application to preclinical pharmacokinetic studies.",
+      "authors": [
+        "Saurabh Verma",
+        "Umesh K Goand",
+        "Richa Garg",
+        "Athar Husain",
+        "Roshan A Katekar",
+        "Mohammed Riyazuddin",
+        "Shailesh Dadge",
+        "Jiaur R Gayen"
+      ],
+      "journal": "Bioanalysis",
+      "publication_date": "2023-Jan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Background: Raspberry ketone (RK), derived from red raspberry fruit (Rubus idaeus, family Rosaceae), is a reported potent antiobesity agent. This study aims to investigate method development, validation, and in vitro and in vivo pharmacokinetics in rats. Materials & methods: LC-MS/MS was used to conduct method development, validation, stability, and oral PK samples of RK in plasma analyses. Results: RK was highly soluble in Tris buffer and stable in gastrointestinal fluids as well as plasma. Rat liver microsomal stability of RK in phase I and II studies was 84.96 ± 2.39 and 69.98 ± 8.69%, respectively, after 60 min. Intestinal permeability was 4.39 ± 1.37 × 10-5 cm/s. Maximal concentration was 1591.02 ± 64.76 ng/ml, which was achieved after 1 h (time to maximal concentration), and absolute oral bioavailability was 86.28%. Conclusion: Pharmacokinetic data serve as a keystone for preclinical and clinical adjuvant therapy.",
+      "mesh_terms": [
+        "Rats",
+        "Animals",
+        "Chromatography, Liquid",
+        "Tandem Mass Spectrometry",
+        "Butanones",
+        "Microsomes, Liver",
+        "Reproducibility of Results"
+      ]
+    },
+    {
+      "pmid": "35488673",
+      "title": "Raspberry ketone promotes FNDC5 protein expression via HO-1 upregulation in 3T3-L1 adipocytes.",
+      "authors": [
+        "Yung-Chieh Tsai",
+        "Jung-Hua Chen",
+        "Yen-Mei Lee",
+        "Mao-Hsiung Yen",
+        "Pao-Yun Cheng"
+      ],
+      "journal": "The Chinese journal of physiology",
+      "publication_date": "2022",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity is a global health problem and a risk factor for cardiovascular diseases and cancers. Exercise is an effective intervention to combat obesity. Fibronectin type III domain containing protein 5 (FNDC5)/irisin, a myokine, can stimulate the browning of white adipose tissue by increasing uncoupling protein 1 (UCP1) expression, and therefore may represent a link between the beneficial effects of exercise and improvement in metabolic diseases. Thus, upregulating the endogenous expression of FNDC5/irisin by administering medication would be a good approach for treating obesity. Herein, we evaluated the efficacy of raspberry ketone (RK) in inducing FNDC5/irisin expression and the underlying mechanisms. The expression of brown fat-specific proteins (PR domain containing 16 (PRDM16), CD137, and UCP1), heme oxygenase-1 (HO-1), FNDC5, and peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC1α) in differentiated 3T3-L1 adipocyte was analyzed by western blotting or immunofluorescence. The level of irisin in the culture medium was also assayed using an enzyme-linked immunosorbent assay kit. Results showed that RK (50 μM) significantly induced the upregulation of FNDC5 protein in differentiated 3T3-L1 adipocytes; however, the irisin level in the culture media was unaffected. Moreover, RK significantly increased the levels of PGC1α, brown adipocyte markers (PRDM16, CD137, and UCP1), and HO-1. Furthermore, the upregulation of PGC1α and FNDC5 and the browning effect induced by RK were significantly reduced by SnPP or FNDC5 siRNA, respectively. In conclusion, RK can induce FNDC5 protein expression via the HO-1 signaling pathway, and this study provides new evidence for the potential use of RK in the treatment of obesity.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipocytes",
+        "Animals",
+        "Butanones",
+        "Fibronectins",
+        "Heme Oxygenase-1",
+        "Membrane Proteins",
+        "Mice",
+        "Obesity",
+        "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+        "Uncoupling Protein 1",
+        "Up-Regulation"
+      ]
+    },
+    {
+      "pmid": "34913499",
+      "title": "Potential metabolic activities of raspberry ketone.",
+      "authors": [
+        "Xiaoping Li",
+        "Teng Wei",
+        "Min Wu",
+        "Fang Chen",
+        "Peng Zhang",
+        "Ze-Yuan Deng",
+        "Ting Luo"
+      ],
+      "journal": "Journal of food biochemistry",
+      "publication_date": "2022-Jan",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "abstract": "Novel food and food compounds interventions have attracted a lot of attention nowadays for the prevention and treatment of metabolic diseases. Raspberry ketone (RK) is aromatic compound found within red fruits and berries, has been used as an over-the-counter product for weight loss. However, actually, the effect of RK on weight loss is still controversial, and the mechanism is largely unknown. Besides, in vivo and in vitro studies have demonstrated the beneficial effect of RK on the development of other metabolic diseases. In this review, we comprehensively highlighted the synthesis, bioavailability, and metabolism of RK, and summarized the progress made in our understanding of the potential biological activities of RK, including antiobesity, antidiabetes, cardioprotection, and hepatoprotection, as well as their underlying mechanisms. This paper provides a critical overview about the current findings and proposes the future studies in the area of RK on human health. PRACTICAL APPLICATIONS: Raspberry ketone (RK) has been used for weight control for years, but this effect is controversial considering food intake. Additionally, RK is beneficial for T2DM, liver and heart injury. The underlying mechanisms of the protective effect of RK including accelerating fatty acid oxidation, balancing serum glucose level, anti-inflammation, antioxidant process, and so on. In this context, we provide a comprehensive analysis of the benefits of RK against many metabolic diseases and discuss the underlying molecular mechanisms. We hope our work will be helpful for further researches on RK and improve its public recognition.",
+      "mesh_terms": [
+        "Butanones",
+        "Fruit",
+        "Humans",
+        "Lipid Metabolism",
+        "Liver"
+      ]
+    },
+    {
+      "pmid": "34209554",
+      "title": "Pharmacological Exploration of Phenolic Compound: Raspberry Ketone-Update 2020.",
+      "authors": [
+        "Shailaja Rao",
+        "Mallesh Kurakula",
+        "Nagarjuna Mamidipalli",
+        "Papireddy Tiyyagura",
+        "Bhaumik Patel",
+        "Ravi Manne"
+      ],
+      "journal": "Plants (Basel, Switzerland)",
+      "publication_date": "2021-Jun-29",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract": "Raspberry ketone (RK) is an aromatic phenolic compound naturally occurring in red raspberries, kiwifruit, peaches, and apples and reported for its potential therapeutic and nutraceutical properties. Studies in cells and rodents have suggested an important role for RK in hepatic/cardio/gastric protection and as an anti-hyperlipidemic, anti-obesity, depigmentation, and sexual maturation agent. Raspberry ketone-mediated activation of peroxisome proliferator-activated receptor-α (PPAR-α) stands out as one of its main modes of action. Although rodent studies have demonstrated the efficacious effects of RK, its mechanism remains largely unknown. In spite of a lack of reliable human research, RK is marketed as a health supplement, at very high doses. In this review, we provide a compilation of scientific research that has been conducted so far, assessing the therapeutic properties of RK in several disease conditions as well as inspiring future research before RK can be considered safe and efficacious with limited side effects as an alternative to modern medicines in the treatment of major lifestyle-based diseases."
+    },
+    {
+      "pmid": "32565406",
+      "title": "Acute feeding suppression and toxicity of raspberry ketone [4-(4-hydroxyphenyl)-2-butanone] in mice.",
+      "authors": [
+        "Lihong Hao",
+        "Dushyant Kshatriya",
+        "Xinyi Li",
+        "Aditi Badrinath",
+        "Zuzanna Szmacinski",
+        "Michael J Goedken",
+        "Marianne Polunas",
+        "Nicholas T Bello"
+      ],
+      "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "publication_date": "2020-Sep",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Raspberry ketone (RK; [4-(4-hydroxyphenyl)-2-butanone]) is used by the food and cosmetic industry as a flavoring agent. RK is also marketed as a dietary supplement for weight maintenance and appetite control. The purpose of the study was to characterize the acute feeding suppression with RK (64-640 mg/kg) by oral gavage in male and female C57BL/6J mice. Cumulative 24 h food intake was reduced at 200 mg/kg (24% feeding suppression) in males and reliably reduced at 640 mg/kg (49-77% feeding suppression). Feeding suppression was not associated with pica behavior over the range of doses or conditioned taste aversion. In a separate experiment, a single oral gavage of RK (640 mg/kg) resulted in approximate 43% mortality rate (6 out 14 male mice) within 2 days. Atrophy of white adipose tissue, splenic abnormalities, and thymus involution were noted after 2-4 days after oral gavage RK. Total white blood cell count, lymphocytes, monocytes, eosinophils were significantly lower, while mean red blood cells, hemoglobin, and hematocrit were significantly higher with RK treatment. Our findings indicated a dose-dependent feeding suppression with acute RK, but doses that reliable suppress food intake are associated with pathological changes.",
+      "mesh_terms": [
+        "Administration, Oral",
+        "Animals",
+        "Butanones",
+        "Feeding Behavior",
+        "Female",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL"
+      ]
+    },
+    {
+      "pmid": "31628682",
+      "title": "Biochemical characterization of an organic solvent-tolerant glycosyltransferase from Bacillus licheniformis PI15 with potential application for raspberry ketone glycoside production.",
+      "authors": [
+        "Bingfeng Li",
+        "Bo Fan",
+        "Jingping Fan",
+        "Siyuan Chang",
+        "Xin Pan",
+        "Yinan Wang",
+        "Yaming Wu",
+        "Junsong Song",
+        "Xuejun He"
+      ],
+      "journal": "Biotechnology and applied biochemistry",
+      "publication_date": "2020-Mar",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Raspberry ketone is a primary aroma component of the red raspberry. The glycosylation of this compound is a potential approach used to improve its pharmaceutical properties. In this work, raspberry ketone glycosides are produced in bacteria for the first time. Bacillus licheniformis PI15, an organic solvent-tolerant glycosyltransferase-producing strain, was isolated from chemically polluted soil. The cloning and heterologous expression of a glycosyltransferase, which was designated PI-GT1, in Escherichia coli BL21 resulted in the expression of an active and soluble protein that accounted for 15% of the total cell protein content. Purified PI-GT1 was highly active and stable over a broad pH range (6.0-10.0) and showed excellent pH stability. PI-GT1 maintained almost 60% of its maximal activity after 3 H of incubation at 20-40 °C and demonstrated optimal activity at 30 °C. Additionally, PI-GT1 displayed high stability and activity in the presence of hydrophilic solvents with log P ≤ -0.2 and retained more than 80% of its activity after 3 H of treatment. Supplementation with 10% DMSO markedly improved the glycosylation of raspberry ketone, resulting in a value 26 times higher than that in aqueous solution. The organic solvent-tolerant PI-GT1 may have potential uses in industrial chemical and pharmaceutical synthesis applications.",
+      "mesh_terms": [
+        "Bacillus licheniformis",
+        "Butanones",
+        "Dimethyl Sulfoxide",
+        "Glycosides",
+        "Glycosylation",
+        "Glycosyltransferases",
+        "Hydrogen-Ion Concentration",
+        "Solvents"
+      ]
+    },
+    {
+      "pmid": "31603036",
+      "title": "Effect of Raspberry Ketone on Normal, Obese and Health-Compromised Obese Mice: A Preliminary Study.",
+      "authors": [
+        "Tahir Maqbool Mir",
+        "Guoyi Ma",
+        "Zulfiqar Ali",
+        "Ikhlas A Khan",
+        "Mohammad K Ashfaq"
+      ],
+      "journal": "Journal of dietary supplements",
+      "publication_date": "2021",
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article"
+      ],
+      "abstract": "Raspberry ketone (RK)-an aromatic compound found mostly in red raspberries (Rubus idaeus) is widely used as an over the counter product for weight loss. The present study was conducted to determine adverse effects associated with RK in obese and health-compromised obese mice. Two sets of experiments were conducted on normal obese and health-compromised obese mice treated with RK for a duration of 10 days. Obese conditions were induced by feeding mice a high fat diet for 10 weeks, while the health compromised obese mouse model was developed by a single intraperitoneal injection of a nontoxic dose of lipopolysaccharide (LPS) (6 mg/kg) to obese mice. Results showed that RK (165, 330, and 500 mg/kg) under obese as well as health-compromised condition retarded the gain in body weights as compared to the control groups. RK at doses 330 and 500 mg/kg resulted in 67.6 and 50% mortality, respectively in normal obese mice and 70% mortality was observed in health-compromised obese mice treated with RK at 500 mg/kg. At higher doses deaths were observed earlier than those given lower doses of RK. Significant elevations in blood alanine transaminase (ALT) were also observed with RK treatment in obese mice. Blood glucose levels were significantly elevated in all groups of mice treated with RK. This study suggests that higher doses of RK may cause adverse effects in health compromised conditions. Under these conditions, prolonged use of RK, especially in high doses, may pose a health hazard.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Obesity Agents",
+        "Butanones",
+        "Diet, High-Fat",
+        "Disease Models, Animal",
+        "Flavoring Agents",
+        "Inflammation",
+        "Lipopolysaccharides",
+        "Male",
+        "Mice",
+        "Mice, Obese",
+        "Obesity"
+      ]
+    },
+    {
+      "pmid": "31404064",
+      "title": "The implication of the crosstalk of Nrf2 with NOXs, and HMGB1 in ethanol-induced gastric ulcer: Potential protective effect is afforded by Raspberry Ketone.",
+      "authors": [
+        "Amira M Badr",
+        "Naglaa F El-Orabi",
+        "Rehab A Ali"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2019",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Ethanol consumption is one of the common causative agents implicated in gastric ulcer development. Oxidative stress plays a major role in the induction and development of gastric ulceration. NADPH oxidases (NOXs) and Nuclear factor erythroid 2-related factor 2 (Nrf2) are key players in ethanol-induced ulcers. High-mobility group box 1 (HMGB1), a ubiquitous nuclear protein, mediates various inflammation functions. However, the role of HMGB1 in ethanol-induced gastric ulcer is not yet elucidated. Raspberry Ketone (RK) is a natural phenolic compound with antioxidant and anti-inflammatory properties. In the present study, absolute ethanol (7.5 ml/kg) was used to induce gastric ulceration in rats. Raspberry Ketone (RK) (50 mg/kg) was given orally one hour before the administration of absolute ethanol. Interestingly, ethanol-induced gastric ulcer was associated with Nrf2 downregulation, which was correlated with NOX-1, 2 NOX-4, and HMGB1 upregulation, and was significantly reversed by RK pre-treatment. RK pre-treatment provided 80% gastroprotection. Gastroprotective properties of RK were mediated via antioxidant, anti-inflammatory (suppression of NF-kB and tumor necrosis factor-α), and antiapoptotic activities (reduction of Bax/Bcl2 ratio). Gastroprotective properties of RK were confirmed by histopathological examination. In conclusion, this study is the first to provide evidence to the role of HMGB1 in ethanol-induced gastric ulcer, and the crosstalk of Nrf2, NOXs and HMGB1. It also demonstrates that RK represents a promising gastroprotective activity comparable to omeprazole.",
+      "mesh_terms": [
+        "Animals",
+        "Antioxidants",
+        "Butanones",
+        "Ethanol",
+        "Gastric Mucosa",
+        "Gastrointestinal Agents",
+        "HMGB1 Protein",
+        "Male",
+        "NADPH Oxidases",
+        "NF-E2-Related Factor 2",
+        "Rats",
+        "Rats, Wistar",
+        "Receptor Cross-Talk",
+        "Stomach Ulcer"
+      ]
+    },
+    {
+      "pmid": "30257330",
+      "title": "Raspberry ketone preserved cholinergic activity and antioxidant defense in obesity induced Alzheimer disease in rats.",
+      "authors": [
+        "Hoda E Mohamed",
+        "Dina M Abo-ELmatty",
+        "Noha M Mesbah",
+        "Samy M Saleh",
+        "Abdel-Moniem A Ali",
+        "Amr T Sakr"
+      ],
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "publication_date": "2018-Nov",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Obesity is a proven risk factor for neurodegenerative disease like Alzheimer's disease (AD). Accumulating evidences suggested that nutritional interventions provide potential for prevention and treatment of AD. The present study aimed to investigate the effect of dietary treatment of obese rats with natural Raspberry ketone (RK) and their relationship with neurodegeneration. Obesity was first induced in 40 male Wistar rats (140-160 g) by feeding high fat diet (HFD) for 16 weeks. Obese rats were then assigned into 4 groups (n = 10 each). (O-AD) is obese induced AD group maintained on HFD for another 6 weeks. OCR is obese group received calorie restricted diet for 6 weeks. OCRRK is obese group received calorie restricted diet and RK (44 mg/kg body weight, daily, orally) for 6 weeks and OCRD is obese group received calorie restricted diet and orlistate (10 mg/kg body weight, daily orally) for 6 weeks. Another 10 normal rats received normal diet were used as normal control group (NC). Body weight, visceral white adipose tissue weight (WAT), lipid profile, oxidative stress markers, adiponectin, cholinergic activity and amyloid extracellular plaques were examined. In addition to histological changes in brain tissues were evaluated.Raspberry ketone (RK) via its antioxidant properties attenuated oxidative damage and dyslipidemia in O-AD group. It inhibited acetylcholinesterase enzyme (AchE) and hence increased acetylcholine level (Ach) in brain tissues of O-AD rats. It is also impeded the upregulation of beta-secretase-1 (BACE-1) and the accumulation of amyloid beta (Aβ) plaques which crucially involved in AD. The combination of CR diet with RK was more effective than CR diet with orlistate (antiobese drug) in abrogating the neurodegenerative changes induced by obesity. Results from this study suggested that concomitant supplementation of RK with calorie restricted regimen effectively modulate the neurodegenerative changes induced by obesity and delay the progression of AD.",
+      "mesh_terms": [
+        "Acetylcholine",
+        "Acetylcholinesterase",
+        "Alzheimer Disease",
+        "Animals",
+        "Antioxidants",
+        "Butanones",
+        "Caloric Restriction",
+        "Cholinesterase Inhibitors",
+        "Diet, High-Fat",
+        "Disease Progression",
+        "Male",
+        "Obesity",
+        "Oxidative Stress",
+        "Plaque, Amyloid",
+        "Rats",
+        "Rats, Wistar",
+        "Risk Factors"
+      ]
+    },
+    {
+      "pmid": "29525531",
+      "title": "Raspberry ketone induces brown-like adipocyte formation through suppression of autophagy in adipocytes and adipose tissue.",
+      "authors": [
+        "Sy-Ying Leu",
+        "Yung-Chieh Tsai",
+        "Wen-Chi Chen",
+        "Chih-Hsiung Hsu",
+        "Yen-Mei Lee",
+        "Pao-Yun Cheng"
+      ],
+      "journal": "The Journal of nutritional biochemistry",
+      "publication_date": "2018-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Promoting white adipose tissue (WAT) to acquire brown-like characteristics is a promising approach for obesity treatment. Although raspberry ketone (RK) has been reported to possess antiobesity activity, its effects on the formation of brown-like adipocytes remain unclear. Therefore, we investigated the effects and underlying mechanism of RK on WAT browning in 3T3-L1 adipocytes and rats with ovariectomy (Ovx)-induced obesity. RK (100 μM) significantly induced browning of 3T3-L1 cells by increasing mitochondrial biogenesis and the expression of browning-specific proteins (PR domain containing 16, PRDM16; peroxisome proliferator-activated receptor gamma coactivator 1-alpha, PGC-1α; uncoupling protein-1, UCP-1) and lipolytic enzymes (hormone-sensitive lipase and adipose triglyceride lipase). RK significantly reduced the expression of the autophagy-related protein Atg12 and increased the expression of p62 and heme oxygenase 1 (HO-1). Additionally, these effects of RK were reversed by the HO-1 inhibitor SnPP (20 μM). In addition, RK (160 mg/kg, gavage, for 8 weeks) significantly reduced body weight gain (Ovx+RK, 191.8 ± 4.6 g vs. Ovx, 223.6 ± 5.9; P < .05), food intake, the amount of inguinal adipose tissue (Ovx+RK, 9.05 ± 1.1 g vs Ovx, 12.9 ± 0.92 g; P < .05) and the size of white adipocytes in Ovx rats. Moreover, compared to expression in the Ovx group, the levels of browning-specific proteins were significantly higher and the levels of autophagy-related proteins were significantly lower in the Ovx+RK group. Therefore, this study elucidated the mechanism associated with RK-induced WAT browning and thus provides evidence to support the clinical use of RK for obesity treatment.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipocytes",
+        "Adipose Tissue, Brown",
+        "Animals",
+        "Autophagy",
+        "Autophagy-Related Protein 12",
+        "Body Weight",
+        "Butanones",
+        "Cell Survival",
+        "Female",
+        "Heme Oxygenase (Decyclizing)",
+        "Heme Oxygenase-1",
+        "Lipid Metabolism",
+        "Membrane Proteins",
+        "Mice",
+        "Mitochondria",
+        "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+        "Positive Regulatory Domain I-Binding Factor 1",
+        "Rats",
+        "Rats, Wistar",
+        "Transcription Factors",
+        "Uncoupling Protein 1"
+      ]
+    },
+    {
+      "pmid": "29477543",
+      "title": "Inhibitory effect of raspberry ketone on α-glucosidase: Docking simulation integrating inhibition kinetics.",
+      "authors": [
+        "Shang-Ling Xiong",
+        "Li-Mei Yue",
+        "Gyu Tae Lim",
+        "Jun-Mo Yang",
+        "Jinhyuk Lee",
+        "Yong-Doo Park"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "publication_date": "2018-Jul-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Inhibition of α-glucosidase is directly associated with treatment of type 2 diabetes. In this regard, we conducted enzyme kinetics integrated with computational docking simulation to assess the inhibitory effect of raspberry ketone (RK) on α-glucosidase. RK bound to the active site of α-glucosidase and interacted with several key residues such as ASP68, TYR71, HIS111, PHE157, PHE158, PHE177, GLN181, ASP214, THR215, ASP349, ASP408, and ARG439, as detected by protein-ligand docking simulation. Subsequently, we confirmed the action of RK on α-glucosidase as the non-competitive type of inhibition in a reversible and rapidly binding manner. The relevant kinetic parameters were IC50=6.17±0.46mM and Ki=7.939±0.211mM. Regarding the structure-activity relationship, the higher concentration of RK induced slight modulation of the shape of the active site as monitored by hydrophobic exposure. The tertiary conformational change was linked to RK inhibition, and mostly involved regional changes of the active site. Our study provides insight into the functional role of RK due to its structural property of a hydroxyphenyl ring that interacts with the active site of α-glucosidase. We suggest that similar hydroxyphenyl ring compounds targeting the key residues of the active site might be potential α-glucosidase inhibitors.",
+      "mesh_terms": [
+        "Butanones",
+        "Glycoside Hydrolase Inhibitors",
+        "Kinetics",
+        "Molecular Docking Simulation",
+        "Protein Conformation",
+        "Saccharomyces cerevisiae",
+        "alpha-Glucosidases"
+      ]
+    },
+    {
+      "pmid": "29225109",
+      "title": "Raspberry ketone protects against isoproterenol-induced myocardial infarction in rats.",
+      "authors": [
+        "Vasim Khan",
+        "Sumit Sharma",
+        "Uma Bhandari",
+        "Syed Mansoor Ali",
+        "Syed Ehtaishamul Haque"
+      ],
+      "journal": "Life sciences",
+      "publication_date": "2018-Feb-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "AIM: The cardioprotective role of raspberry ketone (RK) against isoproterenol (ISO)-induced myocardial infarction (MI) in rats was assessed. MATERIALS AND METHODS: Rats were randomly divided into Group I - Vehicle control; Group II - Toxic control ISO (85mg/kg, s.c.); Group III, IV and V - RK (50, 100 and 200mg/kg, respectively) with ISO; Group VI- RK (200mg/kg) alone; Group VII - Propranolol (10mg/kg) with ISO; and Group VIII - Propranolol (10mg/kg) alone. After twenty-four hours of the last dose, animals were sacrificed and creatine kinase-MB, lactate dehydrogenase, total cholesterol, triglycerides, high-density-lipoprotein, low-density-lipoprotein, very-low-density-lipoprotein, malondialdehyde, reduced glutathione, superoxide dismutase, catalase, Na+, K+-ATPase, nitric oxide, histopathological and immunohistochemical analysis (tumor necrosis factor-α and inducible nitric oxide synthase) were performed. KEY FINDINGS: Treatment with ISO significantly deviated the biochemical parameters from the normal levels, which were considerably restored by RK at 100 and 200mg/kg doses. 50mg/kg dose, however, did not demonstrate any significant cardioprotective action. The histopathological and immunohistochemical analysis further substantiated these findings. SIGNIFICANCE: Our study showed a dose-dependent reduction in oxidative stress, inflammation and dyslipidemia by RK in ISO-intoxicated rats, which signifies that RK from the European red raspberry plant might be a valuable entity for the management of MI.",
+      "mesh_terms": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Antioxidants",
+        "Butanones",
+        "Cardiotonic Agents",
+        "Isoproterenol",
+        "Myocardial Infarction",
+        "Myocardium",
+        "Oxidative Stress",
+        "PPAR alpha",
+        "Rats",
+        "Rats, Wistar",
+        "Rubus"
+      ]
+    },
+    {
+      "pmid": "28859132",
+      "title": "Suppression of cuelure attraction in male Queensland fruit flies provided raspberry ketone supplements as immature adults.",
+      "authors": [
+        "Humayra Akter",
+        "Saleh Adnan",
+        "Renata Morelli",
+        "Polychronis Rempoulakis",
+        "Phillip W Taylor"
+      ],
+      "journal": "PloS one",
+      "publication_date": "2017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Tephritid fruit flies are amongst the most damaging insect pests of horticulture globally. Some of the key fruit fly species are managed using the sterile insect technique (SIT), whereby millions of sterile males are released to suppress reproduction of pest populations. Male annihilation technique (MAT), whereby sex specific lures are used to attract and kill males, is often used to reduce wild male numbers before SIT programs commence, providing released sterile males an increased numerical advantage. Overall program efficacy might be improved if MAT could be deployed simultaneously with SIT, continuously depleting fertile males from pest populations and replacing them with sterile males. However, such 'male replacement' requires a means of suppressing attraction of released sterile males to lures used in MAT. Previous studies have found that exposure of some fruit flies to lure compounds as mature adults can suppress subsequent response to those lures, raising the possibility of pre-release treatments. However, this approach requires holding flies until after maturation for treatment and then release. The present study takes a novel approach of exposing immature adult male Queensland fruit flies (Bactrocera tryoni, or 'Qfly') to raspberry ketone (RK) mixed in food, forcing these flies to ingest RK at ages far younger than they would naturally. After feeding on RK-supplemented food for two days after emergence, male Qflies exhibited a reduction in attraction to cuelure traps that lasted more than 20 days. This approach to RK exposure is compatible with current practises, in which Qflies are released as immature adults, and also yields advantages of accelerated reproductive development and increased mating propensity at young ages.",
+      "mesh_terms": [
+        "Animals",
+        "Butanones",
+        "Dietary Supplements",
+        "Female",
+        "Infertility, Male",
+        "Insect Control",
+        "Male",
+        "Pest Control, Biological",
+        "Pheromones",
+        "Reproduction",
+        "Sexual Behavior, Animal",
+        "Tephritidae"
+      ]
+    },
+    {
+      "pmid": "26867644",
+      "title": "Rhododenol and raspberry ketone impair the normal proliferation of melanocytes through reactive oxygen species-dependent activation of GADD45.",
+      "authors": [
+        "Minjeong Kim",
+        "Heung Soo Baek",
+        "Miri Lee",
+        "Hyeonji Park",
+        "Song Seok Shin",
+        "Dal Woong Choi",
+        "Kyung-Min Lim"
+      ],
+      "journal": "Toxicology in vitro : an international journal published in association with BIBRA",
+      "publication_date": "2016-Apr",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "Rhododenol or rhododendrol (RD, 4-(4-hydroxyphenyl)-2-butanol) occurs naturally in many plants along with raspberry ketone (RK, 4-(4-hydroxyphenyl)-2-butanone), a ketone derivative, which include Nikko maple tree (Acer nikoense) and white birch (Betula platyphylla). De-pigmenting activity of RD was discovered and it was used as a brightening ingredient for the skin whitening cosmetics. Recently, cosmetics containing RD were withdrawn from the market because a number of consumers developed leukoderma, inflammation and erythema on their face, neck and hands. Here, we explored the mechanism underlying the toxicity of RD and RK against melanocytes using B16F10 murine melanoma cells and human primary epidermal melanocytes. Treatment with RD or RK resulted in the decreased cell viability in a dose-dependent manner which appeared from cell growth arrest. Consistently, ROS generation was significantly increased by RD or RK as determined by DCF-enhanced fluorescence. An antioxidant enzyme, glutathione peroxidase was depleted as well. In line with ROS generation, oxidative damages and the arrest of normal cell proliferation, GADD genes (Growth Arrest and DNA Damage) that include GADD45 and GADD153, were significantly up-regulated. Prevention of ROS generation with an anti-oxidant, N-acetylcysteine (NAC) significantly rescued RD and RK-suppressed melanocyte proliferation. Consistently, up-regulation of GADD45 and GADD153 was significantly attenuated by NAC, suggesting that increased ROS and the resultant growth arrest of melanocytes may contribute to RD and RK-induced leukoderma.",
+      "mesh_terms": [
+        "Animals",
+        "Butanols",
+        "Butanones",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Cell Survival",
+        "Cells, Cultured",
+        "Humans",
+        "Intracellular Signaling Peptides and Proteins",
+        "Melanocytes",
+        "Mice, Inbred C57BL",
+        "Reactive Oxygen Species",
+        "Transcription Factor CHOP",
+        "GADD45 Proteins"
+      ]
+    },
+    {
+      "pmid": "25429790",
+      "title": "Raspberry ketone, a naturally occurring phenolic compound, inhibits adipogenic and lipogenic gene expression in 3T3-L1 adipocytes.",
+      "authors": [
+        "Kyoung Sik Park"
+      ],
+      "journal": "Pharmaceutical biology",
+      "publication_date": "2015-Jun",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "CONTEXT: Raspberry ketone (RK) is a natural phenolic compound of red raspberry. The dietary intake of RK has been reported to exert anti-obese actions and alter the lipid metabolism in vivo and human studies. OBJECTIVE: To elucidate a possible mechanism for anti-obese actions of RK, the effects of RK on the adipogenic and lipogenic gene expression in 3T3-L1 adipocytes were investigated. MATERIALS AND METHODS: 3T3-L1 maturing pre-adipocytes were treated from day 2 to day 8 of differentiation and mature adipocytes for 24 h on day 12 with 1, 10, 20, and 50 μM of RK. Triacylglycerols were assessed by spectrophotometry and gene expression by quantitative real-time polymerase chain reaction (qRT-PCR). RESULTS: Treatment of adipocytes with RK suppressed adipocyte differentiation and fat accumulation in a concentration-dependent manner. RK suppressed the expression of major genes involved in the adipogenesis pathway including peroxisome proliferator-activated receptor-γ (PPARγ) and CCAAT enhancer binding protein-α (C/EBPα), which led to further down-regulation of adipocyte fatty acid-binding protein-2 (aP2). In addition, treatment with 10 μM of RK also reduced mRNA levels of lipogenic genes such as acetyl-CoA carboxylase-1 (ACC1), fatty acid synthase (FASN), and stearoyl-CoA desaturase-1 (SCD1). In mature adipocytes, RK increased the transcriptional activities of genes involved in lipolysis and the oxidative pathways including adipose triglyceride lipase (ATGL), hormone sensitive lipase (HSL), and carnitine palmitoyl transferase-1B (CPT1B). DISCUSSION AND CONCLUSION: These findings suggest that RK holds great promise for an herbal medicine with the biological activities altering the lipid metabolism in 3T3-L1 adipocytes.",
+      "mesh_terms": [
+        "3T3-L1 Cells",
+        "Adipogenesis",
+        "Animals",
+        "Butanones",
+        "Cell Differentiation",
+        "Cell Survival",
+        "Fruit",
+        "Gene Expression Regulation",
+        "Lipid Metabolism",
+        "Mice",
+        "Phenols"
+      ]
+    },
+    {
+      "pmid": "24404978",
+      "title": "Raspberry ketone promotes the differentiation of C3H10T1/2 stem cells into osteoblasts.",
+      "authors": [
+        "Tomoyo Takata",
+        "Chie Morimoto"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2014-Mar",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The decrease in the bone mass associated with osteoporosis caused by ovariectomy, aging, and other conditions is accompanied by an increase in bone marrow adipose tissue. The balance between osteoblasts and adipocytes is influenced by a reciprocal relationship. The development of modalities to promote local/systemic bone formation by inhibiting bone marrow adipose tissue is important in the treatment of fractures or metabolic bone diseases such as osteoporosis. In this study, we examined whether raspberry ketone [4-(4-hydroxyphenyl)butan-2-one; RK], which is one of the major aromatic compounds of red raspberry and exhibits anti-obesity action, could promote osteoblast differentiation in C3H10T1/2 stem cells. Confluent C3H10T1/2 stem cells were treated for 6 days with 10-100 μg/mL of RK in culture medium containing 10 nM all-trans-retinoic acid (ATRA) or 300 ng/mL recombinant human bone morphogenetic protein (rhBMP)-2 protein as an osteoblast-differentiating agent. RK in the presence of ATRA increased alkaline phosphatase (ALP) activity in a dose-dependent manner. RK in the presence of rhBMP-2 also increased ALP activity. RK in the presence of ATRA also increased the levels of mRNAs of osteocalcin, α1(I) collagen, and TGF-βs (TGF-β1, TGF-β2, and TGF-β3) compared with ATRA only. RK promoted the differentiation of C3H10T1/2 stem cells into osteoblasts. However, RK did not affect the inhibition of early-stage adipocyte differentiation. Our results suggest that RK enhances the differentiation of C3H10T1/2 stem cells into osteoblasts, and it may promote bone formation by an action unrelated to adipocyte differentiation.",
+      "mesh_terms": [
+        "Butanones",
+        "Cell Differentiation",
+        "Cell Line",
+        "Humans",
+        "Osteoblasts",
+        "Osteocalcin",
+        "Plant Extracts",
+        "Rosaceae",
+        "Stem Cells",
+        "Transforming Growth Factor beta1"
+      ]
+    },
+    {
+      "pmid": "22551412",
+      "title": "Raspberry ketone protects rats fed high-fat diets against nonalcoholic steatohepatitis.",
+      "authors": [
+        "Lili Wang",
+        "Xianjun Meng",
+        "Fengqing Zhang"
+      ],
+      "journal": "Journal of medicinal food",
+      "publication_date": "2012-May",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "abstract": "The protective effect of raspberry ketone against nonalcoholic steatohepatitis (NASH) was tested by using a high-fat diet-induced NASH model, and its mechanism was explored. Forty Sprague-Dawley rats with a 1:1 male to female ratio were randomly divided into five groups: the normal control (NC) group (n=8) fed normal diet for 8 weeks, the model control (MC) group (n=8) fed high-fat diet (82% standard diet, 8.3% yolk powder, 9.0% lard, 0.5% cholesterol, and 0.2% sodium taurocholate), and the raspberry ketone low-dose (0.5%) (RKL) group (n=8), the raspberry ketone middle-dose (1%) (RKM) group (n=8), and the raspberry ketone high-dose (2%) (RKH) group (n=8) fed high-fat diet for 4 weeks. After 8 weeks of experiment, all the rats were sacrificed, and blood lipid parameters (total cholesterol [TC], triglycerides [TG], high-density lipoprotein cholesterol [HDL-C], and low-density lipoprotein cholesterol [LDL-C]), liver function parameters (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], and alkaline phosphatase [ALP]), leptin (LEP), free fatty acid (FFA), tumor necrosis factor α (TNF-α), blood glucose (GLU), and insulin (INS) with calculated INS resistance index (IRI) and INS-sensitive index (ISI) were measured in rats. Therefore, we determined the peroxisome proliferator-activated receptor (PPAR)-α activity in liver homogenate and the levels of low-density lipoprotein receptor (LDLR), high-sensitivity C-reactive protein (hs-CRP), adiponection (APN), superoxide dismutase, and malondialdehyde (MDA). The liver tissues of rats in each group were imaged by electron microscopy with hematoxylin-eosin as the staining agent. The levels of TG, TC, LDL-C, ALT, AST, ALP, GLU, INS, IRI, FFA, LEP, TNF-α, MDA, and hs-CRP of MC rats were significantly increased (P<.05, P<.01). Therefore, the levels of HDL-C, ISI, PPAR-α, LDLR, and APN were significantly decreased (P<.05, P<.01). Compared with the MC group, each parameter in the RKL, RKM, and RKH groups was significantly improved (P<.05, P<.01). Thus raspberry ketone was an effective intervention for NASH in rats. It was believed that raspberry ketone had a dual effect of liver protection and fat reduction, and the mechanism was probably mediated by alleviation of fatty degeneration of liver cells, decreased liver inflammation, correction of dyslipidemia, reversal of LEP and INS resistance, and improved antioxidant capacity.",
+      "mesh_terms": [
+        "Adipokines",
+        "Animals",
+        "Biomarkers",
+        "Blood Glucose",
+        "Butanones",
+        "C-Reactive Protein",
+        "Diet, High-Fat",
+        "Disease Models, Animal",
+        "Fatty Liver",
+        "Female",
+        "Fruit",
+        "Insulin",
+        "Insulin Resistance",
+        "Lipids",
+        "Liver",
+        "Male",
+        "Non-alcoholic Fatty Liver Disease",
+        "PPAR alpha",
+        "Phytotherapy",
+        "Plant Extracts",
+        "Rats",
+        "Rats, Sprague-Dawley",
+        "Rosaceae",
+        "Transaminases",
+        "Tumor Necrosis Factor-alpha"
+      ]
+    },
+    {
+      "pmid": "21954327",
+      "title": "Evaluation of in vitro and in vivo depigmenting activity of raspberry ketone from Rheum officinale.",
+      "authors": [
+        "Chia-Hsiang Victor Lin",
+        "Hsiou-Yu Ding",
+        "Shiou-Yi Kuo",
+        "Ling-Wei Chin",
+        "Jiumn-Yih Wu",
+        "Te-Sheng Chang"
+      ],
+      "journal": "International journal of molecular sciences",
+      "publication_date": "2011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Melanogenesis inhibition by raspberry ketone (RK) from Rheum officinale was investigated both in vitro in cultivated murine B16 melanoma cells and in vivo in zebrafish and mice. In B16 cells, RK inhibited melanogenesis through a post-transcriptional regulation of tyrosinase gene expression, which resulted in down regulation of both cellular tyrosinase activity and the amount of tyrosinase protein, while the level of tyrosinase mRNA transcription was not affected. In zebrafish, RK also inhibited melanogenesis by reduction of tyrosinase activity. In mice, application of a 0.2% or 2% gel preparation of RK applied to mouse skin significantly increased the degree of skin whitening within one week of treatment. In contrast to the widely used flavoring properties of RK in perfumery and cosmetics, the skin-whitening potency of RK has been demonstrated in the present study. Based on our findings reported here, RK would appear to have high potential for use in the cosmetics industry.",
+      "mesh_terms": [
+        "Animals",
+        "Butanones",
+        "Cell Line, Tumor",
+        "Cell Survival",
+        "Enzyme Activation",
+        "Melanoma, Experimental",
+        "Mice",
+        "Monophenol Monooxygenase",
+        "Plant Exudates",
+        "Rheum",
+        "Skin Lightening Preparations",
+        "Time Factors",
+        "Zebrafish"
+      ]
+    },
+    {
+      "pmid": "20425690",
+      "title": "Raspberry ketone increases both lipolysis and fatty acid oxidation in 3T3-L1 adipocytes.",
+      "authors": [
+        "Kyoung Sik Park"
+      ],
+      "journal": "Planta medica",
+      "publication_date": "2010-Oct",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "abstract": "Raspberry ketone (RK) is a natural phenolic compound of the red raspberry. The dietary administration of RK to male mice has been reported to prevent high-fat diet-induced elevation in body weight and to increase lipolysis in white adipocytes. To elucidate a possible mechanism for the antiobesity action of RK, its effects on the expression and the secretion of adiponectin, lipolysis, and fatty acid oxidation in 3T3-L1 were investigated. Treatment with 10 µM of RK increased lipolysis significantly in differentiated 3T3-L1 cells. An immunoassay showed that RK increased both the expression and the secretion of adiponectin, an adipocytokine mainly expressed and secreted by adipose tissue. In addition, treatment with 10 µM of RK increased the fatty acid oxidation and suppressed lipid accumulation in 3T3-L1 adipocytes. These findings suggest that RK holds great promise as an herbal medicine since its biological activities alter the lipid metabolism in 3T3-L1 adipocytes.",
+      "mesh_terms": [
+        "Adiponectin",
+        "Animals",
+        "Anti-Obesity Agents",
+        "Butanones",
+        "Fatty Acids",
+        "Lipolysis",
+        "Mice",
+        "NIH 3T3 Cells",
+        "Oxidation-Reduction"
+      ]
+    }
+  ]
+}
