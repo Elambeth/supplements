@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
-import { ArrowLeft, ExternalLink, ThumbsUp, ThumbsDown, Calendar, BookOpen, FileText } from 'lucide-react';
+import { ArrowLeft, ExternalLink, ThumbsUp, ThumbsDown, Calendar, BookOpen, FileText, Info } from 'lucide-react';
 import { getSupplementWithResearch } from '@/lib/supabase';
 
 // Define types for supplement data
@@ -252,41 +252,69 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
       <div className="mb-6">
         <Card className="border-none shadow-md">
           <CardHeader className="pb-2">
-            <CardTitle className="text-xl font-semibold flex items-center">
-              <FileText className="w-5 h-5 mr-2 text-primary/70" />
-              Effectiveness & Research
-            </CardTitle>
+            <div className="flex items-center justify-between">
+              <CardTitle className="text-xl font-semibold flex items-center">
+                <FileText className="w-5 h-5 mr-2 text-primary/70" />
+                Effectiveness & Research
+              </CardTitle>
+              
+              {/* Info button with Tooltip */}
+              <div className="relative flex items-center group">
+                <Link 
+                  href="/research-methodology" 
+                  className="w-6 h-6 rounded-full bg-muted hover:bg-muted/80 flex items-center justify-center transition-colors"
+                  aria-label="Research methodology information"
+                >
+                  <Info className="w-5.5 h-5.5 text-muted-foreground" />
+                </Link>
+                <div className="absolute z-10 right-0 top-8 w-64 p-2 bg-popover rounded-md shadow-md text-xs opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                  <p className="text-popover-foreground">Learn about our research methodology and how we assess supplement effectiveness.</p>
+                </div>
+              </div>
+            </div>
           </CardHeader>
-          <CardContent>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div>
-                <h3 className="text-lg font-medium mb-3">Research Summary</h3>
-                <p className="text-muted-foreground mb-4">
-                  There {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'is' : 'are'} {hasResearchData ? supplement.supplement_research[0].research_count.toLocaleString() : 'no'} published {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'study' : 'studies'} about {supplement.name} in the PubMed database.
-                </p>
+          <CardContent className="pt-2">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {/* Left column - Research stats and info */}
+              <div className="space-y-4">
+                <div>
+                  <h3 className="text-lg font-medium mb-2">Research Summary</h3>
+                  <p className="text-muted-foreground">
+                    There {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'is' : 'are'} {hasResearchData ? supplement.supplement_research[0].research_count.toLocaleString() : 'no'} relevant {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'study' : 'studies'} about {supplement.name} in the PubMed database.
+                  </p>
+                </div>
                 
-                <div className="flex flex-col gap-2 mb-4">
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm text-muted-foreground">Last research check</span>
-                    <span className="font-medium">{formattedDate}</span>
+                <div className="space-y-2">
+                  <div className="flex justify-between items-center py-1 border-b border-muted">
+                    <span className="text-sm font-medium">Last research check</span>
+                    <span className="text-sm">{formattedDate}</span>
                   </div>
                   
                   {hasResearchData && supplement.supplement_research[0].rank_position && (
-                    <div className="flex justify-between items-center">
-                      <span className="text-sm text-muted-foreground">Research Rank</span>
-                      <div className="flex items-center">
-                        <span className="font-medium">
-                          #{supplement.supplement_research[0].rank_position} of {supplement.supplement_research[0].rank_total}
-                        </span>
-                      </div>
+                    <div className="flex justify-between items-center py-1 border-b border-muted">
+                      <span className="text-sm font-medium">Research Rank</span>
+                      <span className="text-sm">
+                        #{supplement.supplement_research[0].rank_position} of {supplement.supplement_research[0].rank_total}
+                      </span>
+                    </div>
+                  )}
+                  
+                  {hasResearchData && supplement.supplement_research[0].rank_percentile && (
+                    <div className="flex justify-between items-center py-1 border-b border-muted">
+                      <span className="text-sm font-medium">Research Percentile</span>
+                      <span className="text-sm">
+                        Top {supplement.supplement_research[0].rank_percentile}%
+                      </span>
                     </div>
                   )}
                 </div>
               </div>
               
-              <div className="flex flex-col justify-center">
+              {/* Right column - Evidence meter and button */}
+              <div className="flex flex-col justify-between space-y-4">
                 {supplement.sentiment_score !== null && (
-                  <>
+                  <div>
+                    <h3 className="text-lg font-medium mb-2">Evidence Strength</h3>
                     <div className="relative h-8 bg-gray-200 rounded-full overflow-hidden mb-2">
                       <div 
                         className={`absolute top-0 left-0 h-full ${
@@ -296,28 +324,64 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                         }`}
                         style={{ width: `${supplement.sentiment_score * 10}%` }}
                       />
+                      {/* Score indicator */}
+                      <div 
+                        className="absolute top-0 h-full flex items-center justify-center text-xs font-bold text-white"
+                        style={{ 
+                          left: `${Math.max(Math.min(supplement.sentiment_score * 10, 95), 5)}%`,
+                          transform: 'translateX(-50%)'
+                        }}
+                      >
+                        {supplement.sentiment_score}/10
+                      </div>
                     </div>
                     <div className="flex justify-between text-xs text-muted-foreground">
                       <span>Limited Evidence</span>
                       <span>Strong Evidence</span>
                     </div>
-                  </>
+                  </div>
                 )}
                 
-                <div className="mt-4">
+                {/* Explore more link and button in a flex container */}
+                <div className="flex items-end justify-between mt-auto pt-4">
+                  <Link 
+                    href={`/supplement/${encodeURIComponent(supplement.name)}/studies`} 
+                    className="text-sm text-primary hover:underline"
+                  >
+                    See all studies →
+                  </Link>
+                  
                   <Link 
                     href={`https://pubmed.ncbi.nlm.nih.gov/?term=${encodeURIComponent(`${supplement.name}[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])`)}`}
                     target="_blank"
-                    className="w-full"
                   >
-                    <Button className="w-full flex items-center justify-center">
-                      View Full Research
-                      <ExternalLink className="w-4 h-4 ml-2" />
+                    <Button size="sm" className="flex items-center gap-1">
+                      <ExternalLink className="w-4 h-4" />
+                      PubMed Research
                     </Button>
                   </Link>
                 </div>
               </div>
             </div>
+            
+            {/* Bottom CTA - Only visible if there's research data */}
+            {hasResearchData && supplement.supplement_research[0].research_count > 10 && (
+              <div className="mt-6 p-4 bg-blue-50 rounded-lg flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div>
+                  <h4 className="font-medium">Want to explore the research in detail?</h4>
+                  <p className="text-sm text-muted-foreground">
+                    We've found {supplement.supplement_research[0].research_count.toLocaleString()} studies related to {supplement.name}.
+                  </p>
+                </div>
+                <Link 
+                  href={`/supplement/${encodeURIComponent(supplement.name)}/research-analysis`}
+                >
+                  <Button variant="default">
+                    View Research Analysis
+                  </Button>
+                </Link>
+              </div>
+            )}
           </CardContent>
         </Card>
       </div>
