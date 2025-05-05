@@ -141,3 +141,32 @@ export async function getMostResearchedSupplements(limit: number = 10) {
   
   return data || [];
 }
+
+/**
+ * Fetches all supplements with their research data
+ */
+export async function getAllSupplementsWithResearch() {
+  const { data, error } = await supabase
+    .from('supplements')
+    .select(`
+      *,
+      supplement_research (
+        research_count,
+        retrieved_count,
+        search_date,
+        last_updated,
+        query,
+        rank_position,
+        rank_total,
+        rank_percentile
+      )
+    `)
+    .order('name');
+
+  if (error) {
+    console.error('Error fetching supplements with research:', error);
+    return [];
+  }
+
+  return data || [];
+}
