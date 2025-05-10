@@ -4,12 +4,12 @@ import { Leaf } from 'lucide-react';
 export function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-16 items-center justify-between max-w-6xl px-4">
+      <div className="container flex h-16 items-center justify-between max-w-6xl px-8">
         <Link href="/" className="flex items-center space-x-2">
           <span className="font-bold text-lg tracking-tight">SupplementDB</span>
         </Link>
         
-        <nav className="flex items-center space-x-6">
+        <nav className="flex items-center space-x-10">
           <Link
             href="/"
             className="text-sm font-medium transition-colors hover:text-primary"
@@ -20,14 +20,14 @@ export function SiteHeader() {
             href="/research-ranking"
             className="text-sm font-medium transition-colors hover:text-primary"
           >
-            Research Rankings
+            Research-Rankings
           </Link>
           <Link
-            href="https://pubmed.ncbi.nlm.nih.gov/"
+            href="/research-methodology"
             target="_blank"
-            className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
+            className="text-sm font-medium transition-colors hover:text-primary"
           >
-            Research
+            Methodology
           </Link>
         </nav>
       </div>

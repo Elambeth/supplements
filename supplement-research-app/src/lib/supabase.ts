@@ -91,7 +91,7 @@ export async function getSupplementByName(name: string) {
   return data;
 }
 
-// New function to get supplement with research data
+// Function to get supplement with research data and studies
 export async function getSupplementWithResearch(name: string) {
   const { data, error } = await supabase
     .from('supplements')
@@ -106,6 +106,16 @@ export async function getSupplementWithResearch(name: string) {
         rank_position,
         rank_total,
         rank_percentile
+      ),
+      supplement_studies (
+        id,
+        pmid,
+        title,
+        abstract,
+        journal,
+        publication_date,
+        publication_types,
+        authors
       )
     `)
     .eq('name', name)
@@ -117,6 +127,41 @@ export async function getSupplementWithResearch(name: string) {
   }
   
   return data;
+}
+
+// Function to get studies by publication type
+export async function getSupplementStudiesByType(supplementId: number, publicationTypes: string[] = []) {
+  let query = supabase
+    .from('supplement_studies')
+    .select('*')
+    .eq('supplement_id', supplementId);
+
+  if (publicationTypes.length > 0) {
+    // Create an OR condition for each publication type
+    const conditions = publicationTypes.map(type => `publication_types.cs.{${type}}`);
+    query = query.or(conditions.join(','));
+  }
+
+  const { data, error } = await query.order('publication_date', { ascending: false });
+  
+  if (error) {
+    console.error(`Error fetching supplement studies for ID ${supplementId}:`, error);
+    return [];
+  }
+  
+  return data || [];
+}
+
+// Function to get important studies (RCTs, meta-analyses, etc.)
+export async function getImportantStudies(supplementId: number) {
+  const importantTypes = [
+    "Randomized Controlled Trial", 
+    "Multicenter Study", 
+    "Systematic Review", 
+    "Meta-Analysis"
+  ];
+
+  return getSupplementStudiesByType(supplementId, importantTypes);
 }
 
 // New function to get top researched supplements

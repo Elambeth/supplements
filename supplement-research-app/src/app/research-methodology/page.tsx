@@ -1,10 +1,10 @@
-// src/app/research-methodology/page.tsx
+// src/app/research-query-system/page.tsx
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
 
-export default function ResearchMethodologyPage() {
+export default function ResearchQuerySystemPage() {
   return (
     <main className="container max-w-4xl mx-auto px-4 py-8">
       <div className="mb-6">
@@ -16,77 +16,72 @@ export default function ResearchMethodologyPage() {
 
       <Card className="border-none shadow-md mb-8">
         <CardHeader>
-          <CardTitle className="text-2xl font-bold">Our Research Methodology</CardTitle>
+          <CardTitle className="text-2xl font-bold">Understanding the Research Query System</CardTitle>
         </CardHeader>
         <CardContent className="space-y-6">
           <section>
-            <h2 className="text-xl font-medium mb-2">Data Collection</h2>
+            <h2 className="text-xl font-medium mb-2">How Relevant Research is Found</h2>
             <p className="text-muted-foreground">
-              We collect supplement research data directly from PubMed, the leading database of biomedical 
-              literature maintained by the U.S. National Library of Medicine. Our automated system periodically 
-              searches for new studies related to each supplement in our database.
+              When you search for a supplement or health intervention on this site, you don't just see every 
+              paper that mentions it. Instead, a specialized search approach finds studies specifically 
+              examining its therapeutic applications.
             </p>
           </section>
           
           <Separator />
           
           <section>
-            <h2 className="text-xl font-medium mb-2">Research Count Methodology</h2>
+            <h2 className="text-xl font-medium mb-2">The Search Method</h2>
             <p className="text-muted-foreground">
-              The research count represents the total number of published studies mentioning the supplement 
-              in the title, along with treatment-related terms in the abstract. This provides a reliable 
-              indicator of the volume of scientific research dedicated to studying the supplement's effects.
+              This system connects directly to PubMed using 
+              the following query:
             </p>
-          </section>
-          
-          <Separator />
-          
-          <section>
-            <h2 className="text-xl font-medium mb-2">Research Ranking</h2>
+            <div className="bg-gray-100 p-4 rounded-md my-4 font-mono text-sm">
+              query = "{'{intervention}'}[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])"
+            </div>
             <p className="text-muted-foreground">
-              Supplements are ranked based on the total number of published studies. The rank position shows 
-              where a supplement stands in terms of research volume compared to all other supplements in our 
-              database. The percentile indicates how a supplement compares relatively - for example, a supplement 
-              in the top 10% has more research than 90% of other supplements.
+              This means the search looks for research papers that:
             </p>
-          </section>
-          
-          <Separator />
-          
-          <section>
-            <h2 className="text-xl font-medium mb-2">Evidence Strength Score</h2>
-            <p className="text-muted-foreground">
-              The evidence strength score (from 1-10) is calculated based on several factors:
-            </p>
-            <ul className="list-disc pl-6 mt-2 space-y-1 text-muted-foreground">
-              <li>Volume of published research</li>
-              <li>Quality of studies (randomized controlled trials weighted higher)</li>
-              <li>Consistency of results across studies</li>
-              <li>Presence of meta-analyses and systematic reviews</li>
-              <li>Recency of research</li>
-            </ul>
+            <ol className="list-decimal pl-6 mt-2 space-y-1 text-muted-foreground">
+              <li>Have your search term directly in the title (ensuring it's a primary focus)</li>
+              <li>Discuss it specifically as a therapy, treatment, or intervention</li>
+            </ol>
             <p className="text-muted-foreground mt-4">
-              A score of 7-10 indicates strong evidence, 4-6 indicates moderate evidence, and 1-3 indicates 
-              limited evidence for the supplement's effectiveness.
+              Notice the query doesn't use terms like "supplementation" because many interventions aren't supplements. For example, trying to "supplement" with acupuncture would be quite 
+              detrimental (and painful)! This broader approach ensures all types of health interventions can be 
+              properly researched.
             </p>
           </section>
           
           <Separator />
           
           <section>
-            <h2 className="text-xl font-medium mb-2">Limitations</h2>
+            <h2 className="text-xl font-medium mb-2">Why This Approach Matters</h2>
             <p className="text-muted-foreground">
-              While we strive for accuracy, our methodology has limitations:
+              While this method returns fewer total results than a basic search, the studies you see are much 
+              more relevant to what you actually want to know: "Does this intervention work, and what does 
+              science say about it?"
             </p>
-            <ul className="list-disc pl-6 mt-2 space-y-1 text-muted-foreground">
-              <li>Quantity of research doesn't always correlate with effectiveness</li>
-              <li>Our search terms may not capture all relevant studies</li>
-              <li>Negative results are equally counted in research volume</li>
-              <li>Research quality varies significantly across studies</li>
-            </ul>
             <p className="text-muted-foreground mt-4">
-              We recommend consulting with healthcare professionals before using any supplements, regardless 
-              of their research profile on our platform.
+              A standard PubMed search for something like "turmeric" would return thousands of papers, including 
+              many that just mention turmeric as part of something else or study its chemical properties rather 
+              than its health effects.
+            </p>
+            <p className="text-muted-foreground mt-4">
+              This focused approach filters out the noise and highlights studies that evaluate the intervention's 
+              practical health applications.
+            </p>
+          </section>
+          
+          <Separator />
+          
+          <section>
+            <h2 className="text-xl font-medium mb-2">Looking Forward</h2>
+            <p className="text-muted-foreground">
+              In the future, this system will likely evolve so that the 
+              query can be customized based on your personal details and interests. This might be handled 
+              automatically by AI or through user preferences, allowing for more personalized research results 
+              that better match your specific health situation and concerns.
             </p>
           </section>
         </CardContent>
