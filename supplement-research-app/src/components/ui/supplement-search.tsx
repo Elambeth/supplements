@@ -1,7 +1,8 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import { Search } from 'lucide-react';
 import { 
   Command,
   CommandInput,
@@ -10,6 +11,7 @@ import {
   CommandItem,
   CommandList
 } from '@/components/ui/command';
+import { cn } from '@/lib/utils';
 
 interface Supplement {
   name: string;
@@ -22,7 +24,10 @@ interface SupplementSearchProps {
 export function SupplementSearch({ supplements }: SupplementSearchProps) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
+  const [isExpanded, setIsExpanded] = useState(false);
   const router = useRouter();
+  const commandRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   const filteredSupplements = supplements
     .filter((supplement) => 
@@ -36,26 +41,56 @@ export function SupplementSearch({ supplements }: SupplementSearchProps) {
     setQuery('');
   }
 
+  // Handle container click to focus input
+  const handleContainerClick = (e: React.MouseEvent) => {
+    if (inputRef.current && e.target !== inputRef.current) {
+      inputRef.current.focus();
+    }
+  };
+
+  // Show dropdown when query exists
+  useEffect(() => {
+    setOpen(query.length > 0);
+  }, [query]);
+
   return (
     <div className="relative w-full max-w-2xl mx-auto">
-      <Command className="rounded-lg border shadow-md">
-        <div className="flex items-center border-b px-3">
+      <Command 
+        ref={commandRef} 
+        className={cn(
+          "rounded-xl border shadow-md transition-all duration-300",
+        )}
+        onClick={handleContainerClick}
+      >
+        <div 
+          className={cn(
+            "flex items-center px-4 transition-all duration-300",
+            isExpanded ? "pb-3 pt-3" : "pb-2 pt-2"
+          )}
+          onMouseEnter={() => setIsExpanded(true)}
+          onMouseLeave={() => !open && setIsExpanded(false)}
+        >
           <CommandInput
+            ref={inputRef}
             value={query}
             onValueChange={setQuery}
-            className="flex h-14 w-full rounded-md bg-transparent py-4 text-base outline-none placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50"
-            placeholder="Search supplements..."
+            onFocus={() => setIsExpanded(true)}
+            onBlur={() => !query && setIsExpanded(false)}
+            className="flex h-14 w-full bg-transparent py-4 text-lg placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-0"
+            placeholder="Search..."
           />
         </div>
-        {query.length > 0 && (
-          <CommandList>
-            <CommandEmpty>No supplements found.</CommandEmpty>
+        {open && (
+          <CommandList className="max-h-80 overflow-auto">
+            <CommandEmpty className="py-6 text-center text-sm">
+              No supplements found.
+            </CommandEmpty>
             <CommandGroup>
               {filteredSupplements.map((supplement) => (
                 <CommandItem
                   key={supplement.name}
                   onSelect={() => handleSupplementSelect(supplement)}
-                  className="cursor-pointer py-2.5 text-base"
+                  className="cursor-pointer py-3 text-base hover:bg-accent hover:text-accent-foreground"
                 >
                   {supplement.name}
                 </CommandItem>

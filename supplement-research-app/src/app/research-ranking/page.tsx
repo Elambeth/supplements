@@ -8,7 +8,7 @@ import { ResearchTable } from '@/components/ui/research-table';
 
 export const metadata: Metadata = {
   title: 'Research Ranking | Supplement Database',
-  description: 'Explore supplements ranked by research volume and evidence strength'
+  description: 'Explore supplements ranked by research volume'
 };
 
 export default async function ResearchRankingPage() {
@@ -36,20 +36,11 @@ export default async function ResearchRankingPage() {
       <div className="mb-6">
         <h1 className="text-3xl font-bold">Research Ranking</h1>
         <p className="text-muted-foreground mt-2">
-          Supplements ranked by research volume and evidence strength
+          Supplements ranked by research volume in the PubMed database
         </p>
       </div>
 
       <Card className="border-none shadow-md mb-6">
-        <CardHeader className="pb-2">
-          <CardTitle className="text-xl font-semibold flex items-center">
-            <BookOpen className="w-5 h-5 mr-2 text-primary/70" />
-            Research Rankings
-          </CardTitle>
-          <CardDescription>
-            Supplements ordered by number of published studies in scientific literature
-          </CardDescription>
-        </CardHeader>
         <CardContent>
           <ResearchTable supplements={sortedSupplements} />
         </CardContent>

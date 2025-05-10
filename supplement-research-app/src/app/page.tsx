@@ -57,8 +57,8 @@ export default async function HomePage() {
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {sortedKeys.map((letterKey) => (
                   <div key={letterKey} className="mb-2">
-                    <h3 className="text-lg font-medium mb-2 uppercase flex items-center">
-                      <span className="text-secondary-foreground font-semibold mr-2">
+                    <h3 className="text-lg font-lg mb-2 uppercase flex items-center">
+                      <span className="text-secondary-foreground font-semibold mr-8">
                         {letterKey}
                       </span>
                     </h3>
