@@ -1,0 +1,17 @@
+2025-05-12 21:23:34,009 - supplement_aggregator - INFO - Starting aggregation script at 2025-05-12T21:23:34.009498
+2025-05-12 21:23:34,009 - supplement_aggregator - INFO - Using aggregation version: 1.0
+2025-05-12 21:23:34,009 - supplement_aggregator - INFO - Min studies required: 2
+2025-05-12 21:23:35,748 - httpx - INFO - HTTP Request: GET https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplements?select=id%2Cname&id=eq.893 "HTTP/2 200 OK"
+2025-05-12 21:23:36,502 - httpx - INFO - HTTP Request: GET https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplement_studies?select=id&supplement_id=eq.893&last_analyzed_at=not.is.null "HTTP/2 200 OK"
+2025-05-12 21:23:36,513 - supplement_aggregator - INFO - Found 1 supplements with at least 2 analyzed studies
+2025-05-12 21:23:36,513 - supplement_aggregator - INFO - 
+Processing supplement: Ashwagandha (ID: 893)
+2025-05-12 21:23:37,230 - httpx - INFO - HTTP Request: GET https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplements?select=name&id=eq.893 "HTTP/2 200 OK"
+2025-05-12 21:23:37,763 - httpx - INFO - HTTP Request: GET https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplement_studies?select=%2A%2Cpublication_types&supplement_id=eq.893&last_analyzed_at=not.is.null "HTTP/2 200 OK"
+2025-05-12 21:23:57,466 - httpx - INFO - HTTP Request: GET https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplement_research_aggregates?select=id&supplement_id=eq.893 "HTTP/2 200 OK"
+2025-05-12 21:23:57,466 - supplement_aggregator - INFO - Creating new aggregate record for supplement ID 893
+2025-05-12 21:23:57,753 - httpx - INFO - HTTP Request: POST https://vmnmtglmhtielenzeqyb.supabase.co/rest/v1/supplement_research_aggregates "HTTP/2 201 Created"
+2025-05-12 21:23:57,758 - supplement_aggregator - INFO - Successfully updated aggregates for Ashwagandha
+2025-05-12 21:23:58,761 - supplement_aggregator - INFO - 
+Aggregation script completed at 2025-05-12T21:23:58.761066
+2025-05-12 21:23:58,761 - supplement_aggregator - INFO - Total supplements processed: 1
