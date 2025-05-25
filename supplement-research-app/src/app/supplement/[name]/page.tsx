@@ -4,9 +4,11 @@ import { notFound } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
+import { Progress } from '@/components/ui/progress'; // Import Progress component
 import { ArrowLeft, ExternalLink, ThumbsUp, ThumbsDown, Calendar, BookOpen, FileText, Info, FileSearch, Book, ChevronRight } from 'lucide-react';
-import { getSupplementWithResearch } from '@/lib/supabase';
+import { countAggregateRecords, getSupplementWithResearch } from '@/lib/supabase';
 import { Badge } from '@/components/ui/badge';
+import ResearchTimeline from '@/components/ui/ResearchTimeline';
 
 // Define types for supplement data
 interface Study {
@@ -31,6 +33,22 @@ interface SupplementResearch {
   rank_percentile: number;
 }
 
+interface SupplementResearchAggregates {
+  avg_safety_score: number | null;
+  avg_efficacy_score: number | null;
+  avg_quality_score: number | null;
+  safety_score_count: number;
+  efficacy_score_count: number;
+  quality_score_count: number;
+  findings_consistency_score: number | null;
+  findings_summary: string | null;
+  research_summary: string | null;
+  populations_studied: string[] | null;
+  common_dosages: string[] | null;
+  typical_duration: string | null;
+  common_interactions: string[] | null;
+}
+
 interface Supplement {
   id: number;
   name: string;
@@ -41,6 +59,7 @@ interface Supplement {
   created_at: string;
   supplement_research?: SupplementResearch[];
   supplement_studies?: Study[];
+  supplement_research_aggregates?: SupplementResearchAggregates[];
 }
 
 // This enables dynamic segments to be statically generated at build time
@@ -53,9 +72,14 @@ interface SupplementPageProps {
   };
 }
 
+// Add near the top of your component
+const recordCount = await countAggregateRecords();
+console.log(`Total supplement_research_aggregates records: ${recordCount}`);
+
 export default async function SupplementPage({ params }: SupplementPageProps) {
   // Decode the URL parameter
-  const supplementName = decodeURIComponent(params.name);
+  const { name } = await params;
+  const supplementName = decodeURIComponent(name);
   
   // Fetch supplement data from Supabase with research data
   const supplement = await getSupplementWithResearch(supplementName);
@@ -137,7 +161,15 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
         return "bg-gray-100 text-gray-800";
     }
   };
+  
 
+  
+  // Define custom styles for progress bars with correct colors
+const safetyProgressStyle = { "--progress-background": "rgb(240, 253, 244)", "--progress-foreground": "rgb(34, 197, 94)" } as React.CSSProperties;
+const efficacyProgressStyle = { "--progress-background": "rgb(239, 246, 255)", "--progress-foreground": "rgb(59, 130, 246)" } as React.CSSProperties;
+const qualityProgressStyle = { "--progress-background": "rgb(243, 232, 255)", "--progress-foreground": "rgb(168, 85, 247)" } as React.CSSProperties;
+const consistencyProgressStyle = { "--progress-background": "rgb(254, 243, 199)", "--progress-foreground": "rgb(217, 119, 6)" } as React.CSSProperties;
+  
   // Helper function to truncate text
   const truncateText = (text: string, maxLength: number) => {
     if (text.length <= maxLength) return text;
@@ -306,7 +338,7 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
         </Card>
       </div>
       
-      {/* Effectiveness & Research Card */}
+     {/* Effectiveness & Research Card */}
       <div className="mb-6">
         <Card className="border-none shadow-md">
           <CardHeader className="pb-2">
@@ -332,130 +364,152 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
             </div>
           </CardHeader>
           <CardContent className="pt-2">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {/* Left column - Research stats and info */}
-              <div className="space-y-4">
-                <div>
-                  <h3 className="text-lg font-medium mb-2">Research Summary</h3>
-                  <p className="text-muted-foreground">
-                    There {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'is' : 'are'} {hasResearchData ? supplement.supplement_research[0].research_count.toLocaleString() : 'no'} relevant {hasResearchData && supplement.supplement_research[0].research_count === 1 ? 'study' : 'studies'} about {supplement.name} in the PubMed database.
-                    {importantStudies.length > 0 && (
-                      <>, including {importantStudies.length} high-quality {importantStudies.length === 1 ? 'study' : 'studies'} such as randomized controlled trials and meta-analyses.</>
-                    )}
-                  </p>
-                </div>
+            <div>
+              {/* Research Quality Metrics Section */}
+              <div>
+                <h3 className="text-lg font-medium mb-2">Research Quality Metrics</h3>
                 
-                <div className="space-y-2">
-                  <div className="flex justify-between items-center py-1 border-b border-muted">
-                    <span className="text-sm font-medium">Last research check</span>
-                    <span className="text-sm">{formattedDate}</span>
-                  </div>
-                  
-                  {hasResearchData && supplement.supplement_research[0].rank_position && (
-                    <div className="flex justify-between items-center py-1 border-b border-muted">
-                      <span className="text-sm font-medium">Research Rank</span>
-                      <span className="text-sm">
-                        #{supplement.supplement_research[0].rank_position} of {supplement.supplement_research[0].rank_total}
-                      </span>
-                    </div>
-                  )}
-                  
-                  {hasResearchData && supplement.supplement_research[0].rank_percentile && (
-                    <div className="flex justify-between items-center py-1 border-b border-muted">
-                      <span className="text-sm font-medium">Research Percentile</span>
-                      <span className="text-sm">
-                        Top {supplement.supplement_research[0].rank_percentile}%
-                      </span>
-                    </div>
-                  )}
-                  
-                  {importantStudies.length > 0 && (
-                    <div className="flex justify-between items-center py-1 border-b border-muted">
-                      <span className="text-sm font-medium">High Quality Studies</span>
-                      <span className="text-sm">
-                        {importantStudies.length}
-                      </span>
-                    </div>
-                  )}
-                </div>
-              </div>
-              
-              {/* Right column - Evidence meter and button */}
-              <div className="flex flex-col justify-between space-y-4">
-                {supplement.sentiment_score !== null && (
-                  <div>
-                    <h3 className="text-lg font-medium mb-2">Evidence Strength</h3>
-                    <div className="relative h-8 bg-gray-200 rounded-full overflow-hidden mb-2">
-                      <div 
-                        className={`absolute top-0 left-0 h-full ${
-                          supplement.sentiment_score >= 7 ? 'bg-green-500' :
-                          supplement.sentiment_score >= 4 ? 'bg-amber-500' :
-                          'bg-red-500'
-                        }`}
-                        style={{ width: `${supplement.sentiment_score * 10}%` }}
-                      />
-                      {/* Score indicator */}
-                      <div 
-                        className="absolute top-0 h-full flex items-center justify-center text-xs font-bold text-white"
-                        style={{ 
-                          left: `${Math.max(Math.min(supplement.sentiment_score * 10, 95), 5)}%`,
-                          transform: 'translateX(-50%)'
-                        }}
-                      >
-                        {supplement.sentiment_score}/10
+                {/* Check if we have aggregate data */}
+                {supplement.supplement_research_aggregates && supplement.supplement_research_aggregates.length > 0 ? (
+                  <>
+                    <div className="grid grid-cols-1 gap-6">
+                      {/* Safety Score with Progress Bar */}
+                      <div className="rounded-lg p-4 border border-green-100 bg-green-50">
+                        <div className="flex justify-between items-center mb-2">
+                          <span className="text-sm font-medium text-green-800">Safety Score</span>
+                          {supplement.supplement_research_aggregates[0].avg_safety_score && (
+                            <span className="text-sm bg-green-100 text-green-800 px-2 py-0.5 rounded font-medium">
+                              {supplement.supplement_research_aggregates[0].avg_safety_score.toFixed(1)}/10
+                            </span>
+                          )}
+                        </div>
+                        {supplement.supplement_research_aggregates[0].avg_safety_score && (
+                          <div className="mb-2">
+                            <Progress 
+                              value={supplement.supplement_research_aggregates[0].avg_safety_score * 10} 
+                              className="h-2" 
+                              style={safetyProgressStyle}
+                            />
+                          </div>
+                        )}
+                        <div className="text-xs text-muted-foreground">
+                          Based on {supplement.supplement_research_aggregates[0].safety_score_count} {supplement.supplement_research_aggregates[0].safety_score_count === 1 ? 'study' : 'studies'}
+                        </div>
+                      </div>
+                      
+                      {/* Efficacy Score with Progress Bar */}
+                      <div className="rounded-lg p-4 border border-blue-100 bg-blue-50">
+                        <div className="flex justify-between items-center mb-2">
+                          <span className="text-sm font-medium text-blue-800">Efficacy Score</span>
+                          {supplement.supplement_research_aggregates[0].avg_efficacy_score && (
+                            <span className="text-sm bg-blue-100 text-blue-800 px-2 py-0.5 rounded font-medium">
+                              {supplement.supplement_research_aggregates[0].avg_efficacy_score.toFixed(1)}/10
+                            </span>
+                          )}
+                        </div>
+                        {supplement.supplement_research_aggregates[0].avg_efficacy_score && (
+                          <div className="mb-2">
+                            <Progress 
+                              value={supplement.supplement_research_aggregates[0].avg_efficacy_score * 10} 
+                              className="h-2" 
+                              style={efficacyProgressStyle}
+                            />
+                          </div>
+                        )}
+                        <div className="text-xs text-muted-foreground">
+                          Based on {supplement.supplement_research_aggregates[0].efficacy_score_count} {supplement.supplement_research_aggregates[0].efficacy_score_count === 1 ? 'study' : 'studies'}
+                        </div>
+                      </div>
+                      
+                      {/* Quality Score with Progress Bar */}
+                      <div className="rounded-lg p-4 border border-purple-100 bg-purple-50">
+                        <div className="flex justify-between items-center mb-2">
+                          <span className="text-sm font-medium text-purple-800">Quality Score</span>
+                          {supplement.supplement_research_aggregates[0].avg_quality_score && (
+                            <span className="text-sm bg-purple-100 text-purple-800 px-2 py-0.5 rounded font-medium">
+                              {supplement.supplement_research_aggregates[0].avg_quality_score.toFixed(1)}/10
+                            </span>
+                          )}
+                        </div>
+                        {supplement.supplement_research_aggregates[0].avg_quality_score && (
+                          <div className="mb-2">
+                            <Progress 
+                              value={supplement.supplement_research_aggregates[0].avg_quality_score * 10} 
+                              className="h-2" 
+                              style={qualityProgressStyle}
+                            />
+                          </div>
+                        )}
+                        <div className="text-xs text-muted-foreground">
+                          Based on {supplement.supplement_research_aggregates[0].quality_score_count} {supplement.supplement_research_aggregates[0].quality_score_count === 1 ? 'study' : 'studies'}
+                        </div>
                       </div>
                     </div>
-                    <div className="flex justify-between text-xs text-muted-foreground">
-                      <span>Limited Evidence</span>
-                      <span>Strong Evidence</span>
+                    
+                    {/* Add findings consistency if available */}
+                    {supplement.supplement_research_aggregates[0].findings_consistency_score && (
+                      <div className="mt-6 p-4 border border-amber-100 rounded-lg bg-amber-50">
+                        <div className="flex justify-between items-center mb-2">
+                          <span className="text-sm font-medium text-amber-800">Findings Consistency</span>
+                          <span className="text-sm bg-amber-100 text-amber-800 px-2 py-0.5 rounded font-medium">
+                            {supplement.supplement_research_aggregates[0].findings_consistency_score.toFixed(1)}/10
+                          </span>
+                        </div>
+                        <div className="mb-2">
+                          <Progress 
+                            value={supplement.supplement_research_aggregates[0].findings_consistency_score * 10} 
+                            className="h-2" 
+                            style={consistencyProgressStyle}
+                          />
+                        </div>
+                        {supplement.supplement_research_aggregates[0].findings_summary && (
+                          <p className="text-sm text-muted-foreground mt-2">
+                            {supplement.supplement_research_aggregates[0].findings_summary}
+                          </p>
+                        )}
+                      </div>
+                    )}
+                    
+                    {/* Research Summary if available */}
+                    {supplement.supplement_research_aggregates[0].research_summary && (
+                      <div className="mt-6 p-4 bg-gray-50 rounded-lg border border-gray-100">
+                        <h4 className="text-sm font-medium mb-2">Research Summary</h4>
+                        <p className="text-sm">
+                          {supplement.supplement_research_aggregates[0].research_summary}
+                        </p>
+                      </div>
+                    )}
+                  </>
+                ) : (
+                  <div className="p-4 bg-amber-50 rounded-lg">
+                    <div className="flex items-center">
+                      <Info className="w-4 h-4 text-amber-500 mr-2" />
+                      <p className="text-sm text-amber-800">
+                        Detailed research metrics are being processed for {supplement.name}. Check back later for safety, efficacy, and quality scores based on scientific studies.
+                      </p>
                     </div>
                   </div>
                 )}
-                
-                {/* Explore more link and button in a flex container */}
-                <div className="flex items-end justify-between mt-auto pt-4">
-                  <Link 
-                    href={`/supplement/${encodeURIComponent(supplement.name)}/studies`} 
-                    className="text-sm text-primary hover:underline"
-                  >
-                    See all studies →
-                  </Link>
-                  
-                  <Link 
-                    href={`https://pubmed.ncbi.nlm.nih.gov/?term=${encodeURIComponent(`${supplement.name}[Title] AND (therapy[Title/Abstract] OR treatment[Title/Abstract] OR intervention[Title/Abstract])`)}`}
-                    target="_blank"
-                  >
-                    <Button size="sm" className="flex items-center gap-1">
-                      <ExternalLink className="w-4 h-4" />
-                      PubMed Research
-                    </Button>
-                  </Link>
-                </div>
               </div>
             </div>
-            
-            {/* Bottom CTA - Only visible if there's research data */}
-            {hasResearchData && supplement.supplement_research[0].research_count > 10 && (
-              <div className="mt-6 p-4 bg-blue-50 rounded-lg flex flex-col sm:flex-row items-center justify-between gap-4">
-                <div>
-                  <h4 className="font-medium">Want to explore the research in detail?</h4>
-                  <p className="text-sm text-muted-foreground">
-                    We've found {supplement.supplement_research[0].research_count.toLocaleString()} studies related to {supplement.name}.
-                  </p>
-                </div>
-                <Link 
-                  href={`/supplement/${encodeURIComponent(supplement.name)}/research-analysis`}
-                >
-                  <Button variant="default">
-                    View Research Analysis
-                  </Button>
-                </Link>
-              </div>
-            )}
           </CardContent>
         </Card>
       </div>
       
+      {/* Research Timeline Card */}
+      {supplement.supplement_studies && supplement.supplement_studies.length > 0 && (
+        <div className="mb-6">
+          <Card className="border-none shadow-md">
+            <CardContent className="p-6">
+              <ResearchTimeline 
+                studies={supplement.supplement_studies} 
+                supplementName={supplement.name} 
+              />
+            </CardContent>
+          </Card>
+        </div>
+      )}
+
       {/* Key Studies Card - New section for important studies - MOVED TO BOTTOM */}
       {importantStudies.length > 0 && (
         <div className="mb-6">

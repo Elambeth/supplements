@@ -3,7 +3,8 @@ import Link from 'next/link';
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { SupplementSearch } from "@/components/ui/supplement-search";
-import { getSupplementsByFirstLetter, getAllSupplements } from '@/lib/supabase';
+import { AnimatedStats } from "@/components/ui/animated-stats";
+import { getSupplementsByFirstLetter, getAllSupplements, getDatabaseStats } from '@/lib/supabase';
 
 // Define types for supplement data
 interface Supplement {
@@ -20,6 +21,7 @@ export default async function HomePage() {
   // Fetch data from Supabase
   const supplementsByLetter = await getSupplementsByFirstLetter();
   const allSupplements = await getAllSupplements();
+  const stats = await getDatabaseStats();
   
   // Get the sorted keys for alphabetical sections (like '0-9', 'a', 'b', ...)
   const sortedKeys = Object.keys(supplementsByLetter).sort((a, b) => {
@@ -38,6 +40,18 @@ export default async function HomePage() {
           <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
             Discover and learn about various supplements and health interventions, backed by scientific research.
           </p>
+          
+          {/* Animated Stats Display */}
+          <AnimatedStats 
+            totalSupplements={stats.totalSupplements} 
+            totalPapers={stats.totalPapers} 
+          />
+          
+          {/* Or use the card version: */}
+          {/* <AnimatedStatsCards 
+            totalSupplements={stats.totalSupplements} 
+            totalPapers={stats.totalPapers} 
+          /> */}
           
           {/* Larger Search Component */}
           <div className="mt-12 max-w-3xl mx-auto">

@@ -64,11 +64,12 @@ export function SupplementSearch({ supplements }: SupplementSearchProps) {
       >
         <div 
           className={cn(
-            "flex items-center px-4 transition-all duration-300",
+            "flex items-center px-4 transition-all duration-300 border-0 border-b-0",
             isExpanded ? "pb-3 pt-3" : "pb-2 pt-2"
           )}
           onMouseEnter={() => setIsExpanded(true)}
           onMouseLeave={() => !open && setIsExpanded(false)}
+          style={{ borderBottom: 'none' }}
         >
           <CommandInput
             ref={inputRef}
@@ -76,8 +77,9 @@ export function SupplementSearch({ supplements }: SupplementSearchProps) {
             onValueChange={setQuery}
             onFocus={() => setIsExpanded(true)}
             onBlur={() => !query && setIsExpanded(false)}
-            className="flex h-14 w-full bg-transparent py-4 text-lg placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-0"
+            className="flex h-14 w-full bg-transparent py-4 text-lg placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-0 !border-0 !border-none !outline-none !border-b-0 [&_*]:!border-0 [&_*]:!border-none [&_*]:!outline-none [&_*]:!border-b-0"
             placeholder="Search..."
+            style={{ border: 'none', borderBottom: 'none', outline: 'none' }}
           />
         </div>
         {open && (

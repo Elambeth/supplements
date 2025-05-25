@@ -260,18 +260,58 @@ def parse_analysis_response(response_text):
     
     return results
 
-def get_supplements_needing_analysis(specific_supplement_id=None):
+def get_supplements_needing_analysis(specific_supplement_id=None, only_unprocessed=False):
     """
     Get a list of supplements that have research papers needing analysis
+    
+    Parameters:
+    - specific_supplement_id: If provided, only check this supplement
+    - only_unprocessed: If True, only include supplements with no analyzed papers
     """
     try:
-        query = supabase.table("supplements").select("id, name")
-        
         if specific_supplement_id:
-            query = query.eq("id", specific_supplement_id)
+            # If a specific supplement ID is provided, just get that one
+            query = supabase.table("supplements").select("id, name").eq("id", specific_supplement_id)
+            response = query.execute()
+            supplements = response.data
+        else:
+            # Otherwise get all supplements
+            query = supabase.table("supplements").select("id, name")
+            response = query.execute()
+            supplements = response.data
             
-        response = query.execute()
-        return response.data
+        if only_unprocessed:
+            # Filter to only include supplements where no studies have been analyzed
+            filtered_supplements = []
+            
+            for supplement in supplements:
+                supp_id = supplement['id']
+                
+                # Check if this supplement has any processed studies
+                analyzed_response = supabase.table("supplement_studies")\
+                    .select("id", count="exact")\
+                    .eq("supplement_id", supp_id)\
+                    .not_.is_("last_analyzed_at", "null")\
+                    .execute()
+                
+                analyzed_count = analyzed_response.count
+                
+                # Check if this supplement has any studies at all
+                total_response = supabase.table("supplement_studies")\
+                    .select("id", count="exact")\
+                    .eq("supplement_id", supp_id)\
+                    .execute()
+                
+                total_count = total_response.count
+                
+                # Only include supplements with studies but none analyzed
+                if total_count > 0 and analyzed_count == 0:
+                    filtered_supplements.append(supplement)
+            
+            return filtered_supplements
+        else:
+            return supplements
+            
     except Exception as e:
         logger.error(f"Error fetching supplements: {str(e)}")
         return []
@@ -364,6 +404,8 @@ def parse_arguments():
     parser.add_argument('--debug', action='store_true', help='Enable debug logging')
     parser.add_argument('--skip-errors', action='store_true', 
                         help='Continue processing even if a study fails to update')
+    parser.add_argument('--only-unprocessed', action='store_true',
+                        help='Only process supplements with no analyzed papers')
     return parser.parse_args()
 
 def main():
@@ -396,8 +438,12 @@ def main():
         logger.info(f"Resuming from supplement ID: {last_supplement_id}")
     
     # Get supplements
-    supplements = get_supplements_needing_analysis(args.supplement)
-    logger.info(f"Found {len(supplements)} supplements to process")
+    supplements = get_supplements_needing_analysis(args.supplement, args.only_unprocessed)
+    
+    if args.only_unprocessed:
+        logger.info(f"Found {len(supplements)} supplements with unprocessed studies")
+    else:
+        logger.info(f"Found {len(supplements)} supplements to process")
     
     if not supplements:
         logger.info("No supplements found to process. Exiting.")

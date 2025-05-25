@@ -90,10 +90,15 @@ export async function getSupplementByName(name: string) {
   
   return data;
 }
+// Add this to your supabase.ts file or replace the existing function
 
-// Function to get supplement with research data and studies
+// Replace your existing getSupplementWithResearch function with this one
+
 export async function getSupplementWithResearch(name: string) {
-  const { data, error } = await supabase
+  console.log(`Fetching supplement data for: ${name}`);
+  
+  // First get the basic supplement data with research and studies
+  const { data: supplement, error: supplementError } = await supabase
     .from('supplements')
     .select(`
       *,
@@ -121,14 +126,32 @@ export async function getSupplementWithResearch(name: string) {
     .eq('name', name)
     .single();
   
-  if (error) {
-    console.error(`Error fetching supplement with research for ${name}:`, error);
+  if (supplementError) {
+    console.error(`Error fetching supplement with research for ${name}:`, supplementError);
     return null;
   }
   
-  return data;
+  // Then get the aggregates separately - this is more reliable
+  const { data: aggregates, error: aggregatesError } = await supabase
+    .from('supplement_research_aggregates')
+    .select('*')
+    .eq('supplement_id', supplement.id);
+  
+  if (aggregatesError) {
+    console.error(`Error fetching aggregates for supplement ID ${supplement.id}:`, aggregatesError);
+  } else {
+    // Add the aggregates to the supplement object
+    if (aggregates && aggregates.length > 0) {
+      console.log(`Found aggregates data for ${name} (ID: ${supplement.id})`);
+      supplement.supplement_research_aggregates = aggregates;
+    } else {
+      console.log(`No aggregates found for ${name} (ID: ${supplement.id})`);
+      supplement.supplement_research_aggregates = null;
+    }
+  }
+  
+  return supplement;
 }
-
 // Function to get studies by publication type
 export async function getSupplementStudiesByType(supplementId: number, publicationTypes: string[] = []) {
   let query = supabase
@@ -150,6 +173,73 @@ export async function getSupplementStudiesByType(supplementId: number, publicati
   }
   
   return data || [];
+}
+
+// Add this to your supabase.ts file
+export async function countAggregateRecords() {
+  const { count, error } = await supabase
+    .from('supplement_research_aggregates')
+    .select('*', { count: 'exact', head: true });
+  
+  if (error) {
+    console.error("Error counting aggregate records:", error);
+    return 0;
+  }
+  
+  return count;
+}
+
+
+// Add these functions to your existing supabase.ts file
+
+/**
+ * Get total count of supplements in the database
+ */
+export async function getTotalSupplementsCount() {
+  const { count, error } = await supabase
+    .from('supplements')
+    .select('*', { count: 'exact', head: true });
+  
+  if (error) {
+    console.error('Error counting supplements:', error);
+    return 0;
+  }
+  
+  return count || 0;
+}
+
+/**
+ * Get total count of research papers across all supplements
+ */
+export async function getTotalResearchPapersCount() {
+  const { data, error } = await supabase
+    .from('supplement_research')
+    .select('research_count');
+  
+  if (error) {
+    console.error('Error fetching research counts:', error);
+    return 0;
+  }
+  
+  // Sum up all research_count values
+  const totalPapers = (data || []).reduce((sum, item) => sum + (item.research_count || 0), 0);
+  
+  return totalPapers;
+}
+
+/**
+ * Get both counts in a single function for efficiency
+ */
+export async function getDatabaseStats() {
+  const [supplementsCount, papersCount] = await Promise.all([
+    getTotalSupplementsCount(),
+    getTotalResearchPapersCount()
+  ]);
+  
+  return {
+    totalSupplements: supplementsCount,
+    totalPapers: papersCount
+  };
 }
 
 // Function to get important studies (RCTs, meta-analyses, etc.)
@@ -213,5 +303,7 @@ export async function getAllSupplementsWithResearch() {
     return [];
   }
 
+
+  
   return data || [];
 }
