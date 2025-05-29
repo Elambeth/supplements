@@ -4,11 +4,12 @@ import { notFound } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
 import { Separator } from '@/components/ui/separator';
-import { Progress } from '@/components/ui/progress'; // Import Progress component
 import { ArrowLeft, ExternalLink, ThumbsUp, ThumbsDown, Calendar, BookOpen, FileText, Info, FileSearch, Book, ChevronRight } from 'lucide-react';
 import { countAggregateRecords, getSupplementWithResearch } from '@/lib/supabase';
 import { Badge } from '@/components/ui/badge';
 import ResearchTimeline from '@/components/ui/ResearchTimeline';
+import { TimelineCard } from '@/components/ui/timeline-card';
+import GaugeChart from '@/components/ui/gauge-chart';
 
 // Define types for supplement data
 interface Study {
@@ -161,14 +162,6 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
         return "bg-gray-100 text-gray-800";
     }
   };
-  
-
-  
-  // Define custom styles for progress bars with correct colors
-const safetyProgressStyle = { "--progress-background": "rgb(240, 253, 244)", "--progress-foreground": "rgb(34, 197, 94)" } as React.CSSProperties;
-const efficacyProgressStyle = { "--progress-background": "rgb(239, 246, 255)", "--progress-foreground": "rgb(59, 130, 246)" } as React.CSSProperties;
-const qualityProgressStyle = { "--progress-background": "rgb(243, 232, 255)", "--progress-foreground": "rgb(168, 85, 247)" } as React.CSSProperties;
-const consistencyProgressStyle = { "--progress-background": "rgb(254, 243, 199)", "--progress-foreground": "rgb(217, 119, 6)" } as React.CSSProperties;
   
   // Helper function to truncate text
   const truncateText = (text: string, maxLength: number) => {
@@ -338,7 +331,7 @@ const consistencyProgressStyle = { "--progress-background": "rgb(254, 243, 199)"
         </Card>
       </div>
       
-     {/* Effectiveness & Research Card */}
+     {/* Effectiveness & Research Card with Gauge Charts */}
       <div className="mb-6">
         <Card className="border-none shadow-md">
           <CardHeader className="pb-2">
@@ -367,112 +360,120 @@ const consistencyProgressStyle = { "--progress-background": "rgb(254, 243, 199)"
             <div>
               {/* Research Quality Metrics Section */}
               <div>
-                <h3 className="text-lg font-medium mb-2">Research Quality Metrics</h3>
+                <h3 className="text-lg font-medium mb-6">Research Quality Metrics</h3>
                 
                 {/* Check if we have aggregate data */}
                 {supplement.supplement_research_aggregates && supplement.supplement_research_aggregates.length > 0 ? (
                   <>
-                    <div className="grid grid-cols-1 gap-6">
-                      {/* Safety Score with Progress Bar */}
-                      <div className="rounded-lg p-4 border border-green-100 bg-green-50">
-                        <div className="flex justify-between items-center mb-2">
-                          <span className="text-sm font-medium text-green-800">Safety Score</span>
-                          {supplement.supplement_research_aggregates[0].avg_safety_score && (
-                            <span className="text-sm bg-green-100 text-green-800 px-2 py-0.5 rounded font-medium">
-                              {supplement.supplement_research_aggregates[0].avg_safety_score.toFixed(1)}/10
-                            </span>
-                          )}
-                        </div>
-                        {supplement.supplement_research_aggregates[0].avg_safety_score && (
-                          <div className="mb-2">
-                            <Progress 
-                              value={supplement.supplement_research_aggregates[0].avg_safety_score * 10} 
-                              className="h-2" 
-                              style={safetyProgressStyle}
-                            />
-                          </div>
-                        )}
-                        <div className="text-xs text-muted-foreground">
-                          Based on {supplement.supplement_research_aggregates[0].safety_score_count} {supplement.supplement_research_aggregates[0].safety_score_count === 1 ? 'study' : 'studies'}
-                        </div>
-                      </div>
-                      
-                      {/* Efficacy Score with Progress Bar */}
-                      <div className="rounded-lg p-4 border border-blue-100 bg-blue-50">
-                        <div className="flex justify-between items-center mb-2">
-                          <span className="text-sm font-medium text-blue-800">Efficacy Score</span>
-                          {supplement.supplement_research_aggregates[0].avg_efficacy_score && (
-                            <span className="text-sm bg-blue-100 text-blue-800 px-2 py-0.5 rounded font-medium">
-                              {supplement.supplement_research_aggregates[0].avg_efficacy_score.toFixed(1)}/10
-                            </span>
-                          )}
-                        </div>
-                        {supplement.supplement_research_aggregates[0].avg_efficacy_score && (
-                          <div className="mb-2">
-                            <Progress 
-                              value={supplement.supplement_research_aggregates[0].avg_efficacy_score * 10} 
-                              className="h-2" 
-                              style={efficacyProgressStyle}
-                            />
-                          </div>
-                        )}
-                        <div className="text-xs text-muted-foreground">
-                          Based on {supplement.supplement_research_aggregates[0].efficacy_score_count} {supplement.supplement_research_aggregates[0].efficacy_score_count === 1 ? 'study' : 'studies'}
-                        </div>
-                      </div>
-                      
-                      {/* Quality Score with Progress Bar */}
-                      <div className="rounded-lg p-4 border border-purple-100 bg-purple-50">
-                        <div className="flex justify-between items-center mb-2">
-                          <span className="text-sm font-medium text-purple-800">Quality Score</span>
-                          {supplement.supplement_research_aggregates[0].avg_quality_score && (
-                            <span className="text-sm bg-purple-100 text-purple-800 px-2 py-0.5 rounded font-medium">
-                              {supplement.supplement_research_aggregates[0].avg_quality_score.toFixed(1)}/10
-                            </span>
-                          )}
-                        </div>
-                        {supplement.supplement_research_aggregates[0].avg_quality_score && (
-                          <div className="mb-2">
-                            <Progress 
-                              value={supplement.supplement_research_aggregates[0].avg_quality_score * 10} 
-                              className="h-2" 
-                              style={qualityProgressStyle}
-                            />
-                          </div>
-                        )}
-                        <div className="text-xs text-muted-foreground">
-                          Based on {supplement.supplement_research_aggregates[0].quality_score_count} {supplement.supplement_research_aggregates[0].quality_score_count === 1 ? 'study' : 'studies'}
-                        </div>
-                      </div>
-                    </div>
-                    
-                    {/* Add findings consistency if available */}
-                    {supplement.supplement_research_aggregates[0].findings_consistency_score && (
-                      <div className="mt-6 p-4 border border-amber-100 rounded-lg bg-amber-50">
-                        <div className="flex justify-between items-center mb-2">
-                          <span className="text-sm font-medium text-amber-800">Findings Consistency</span>
-                          <span className="text-sm bg-amber-100 text-amber-800 px-2 py-0.5 rounded font-medium">
-                            {supplement.supplement_research_aggregates[0].findings_consistency_score.toFixed(1)}/10
-                          </span>
-                        </div>
-                        <div className="mb-2">
-                          <Progress 
-                            value={supplement.supplement_research_aggregates[0].findings_consistency_score * 10} 
-                            className="h-2" 
-                            style={consistencyProgressStyle}
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
+                      {/* Safety Score with Gauge Chart */}
+                      <div className="flex flex-col items-center">
+                        <div className="mb-4">
+                          <GaugeChart
+                            size={120}
+                            gap={20}
+                            progress={supplement.supplement_research_aggregates[0].avg_safety_score ? supplement.supplement_research_aggregates[0].avg_safety_score * 10 : 0}
+                            progressClassName="text-green-500"
+                            trackClassName="text-green-100"
+                            circleWidth={8}
+                            progressWidth={8}
+                            showValue={true}
+                            className="mb-2"
                           />
                         </div>
-                        {supplement.supplement_research_aggregates[0].findings_summary && (
-                          <p className="text-sm text-muted-foreground mt-2">
-                            {supplement.supplement_research_aggregates[0].findings_summary}
+                        <div className="text-center">
+                          <h4 className="text-sm font-semibold text-green-700 mb-1">Safety Score</h4>
+                          <p className="text-xs text-muted-foreground">
+                            Based on {supplement.supplement_research_aggregates[0].safety_score_count} {supplement.supplement_research_aggregates[0].safety_score_count === 1 ? 'study' : 'studies'}
                           </p>
-                        )}
+                        </div>
+                      </div>
+                      
+                      {/* Efficacy Score with Gauge Chart */}
+                      <div className="flex flex-col items-center">
+                        <div className="mb-4">
+                          <GaugeChart
+                            size={120}
+                            gap={20}
+                            progress={supplement.supplement_research_aggregates[0].avg_efficacy_score ? supplement.supplement_research_aggregates[0].avg_efficacy_score * 10 : 0}
+                            progressClassName="text-blue-500"
+                            trackClassName="text-blue-100"
+                            circleWidth={8}
+                            progressWidth={8}
+                            showValue={true}
+                            className="mb-2"
+                          />
+                        </div>
+                        <div className="text-center">
+                          <h4 className="text-sm font-semibold text-blue-700 mb-1">Efficacy Score</h4>
+                          <p className="text-xs text-muted-foreground">
+                            Based on {supplement.supplement_research_aggregates[0].efficacy_score_count} {supplement.supplement_research_aggregates[0].efficacy_score_count === 1 ? 'study' : 'studies'}
+                          </p>
+                        </div>
+                      </div>
+                      
+                      {/* Quality Score with Gauge Chart */}
+                      <div className="flex flex-col items-center">
+                        <div className="mb-4">
+                          <GaugeChart
+                            size={120}
+                            gap={20}
+                            progress={supplement.supplement_research_aggregates[0].avg_quality_score ? supplement.supplement_research_aggregates[0].avg_quality_score * 10 : 0}
+                            progressClassName="text-purple-500"
+                            trackClassName="text-purple-100"
+                            circleWidth={8}
+                            progressWidth={8}
+                            showValue={true}
+                            className="mb-2"
+                          />
+                        </div>
+                        <div className="text-center">
+                          <h4 className="text-sm font-semibold text-purple-700 mb-1">Quality Score</h4>
+                          <p className="text-xs text-muted-foreground">
+                            Based on {supplement.supplement_research_aggregates[0].quality_score_count} {supplement.supplement_research_aggregates[0].quality_score_count === 1 ? 'study' : 'studies'}
+                          </p>
+                        </div>
+                      </div>
+                      
+                      {/* Findings Consistency with Gauge Chart */}
+                      {supplement.supplement_research_aggregates[0].findings_consistency_score && (
+                        <div className="flex flex-col items-center">
+                          <div className="mb-4">
+                            <GaugeChart
+                              size={120}
+                              gap={20}
+                              progress={supplement.supplement_research_aggregates[0].findings_consistency_score * 10}
+                              progressClassName="text-amber-500"
+                              trackClassName="text-amber-100"
+                              circleWidth={8}
+                              progressWidth={8}
+                              showValue={true}
+                              className="mb-2"
+                            />
+                          </div>
+                          <div className="text-center">
+                            <h4 className="text-sm font-semibold text-amber-700 mb-1">Consistency</h4>
+                            <p className="text-xs text-muted-foreground">
+                              Findings alignment
+                            </p>
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                    
+                    {/* Findings Summary if available */}
+                    {supplement.supplement_research_aggregates[0].findings_summary && (
+                      <div className="mb-6 p-4 border border-amber-100 rounded-lg bg-amber-50">
+                        <h4 className="text-sm font-medium text-amber-800 mb-2">Key Findings</h4>
+                        <p className="text-sm text-amber-700">
+                          {supplement.supplement_research_aggregates[0].findings_summary}
+                        </p>
                       </div>
                     )}
                     
                     {/* Research Summary if available */}
                     {supplement.supplement_research_aggregates[0].research_summary && (
-                      <div className="mt-6 p-4 bg-gray-50 rounded-lg border border-gray-100">
+                      <div className="p-4 bg-gray-50 rounded-lg border border-gray-100">
                         <h4 className="text-sm font-medium mb-2">Research Summary</h4>
                         <p className="text-sm">
                           {supplement.supplement_research_aggregates[0].research_summary}
@@ -496,17 +497,13 @@ const consistencyProgressStyle = { "--progress-background": "rgb(254, 243, 199)"
         </Card>
       </div>
       
-      {/* Research Timeline Card */}
+      {/* Research Timeline Card - Dynamic Height Container */}
       {supplement.supplement_studies && supplement.supplement_studies.length > 0 && (
         <div className="mb-6">
-          <Card className="border-none shadow-md">
-            <CardContent className="p-6">
-              <ResearchTimeline 
-                studies={supplement.supplement_studies} 
-                supplementName={supplement.name} 
-              />
-            </CardContent>
-          </Card>
+          <TimelineCard 
+            studies={supplement.supplement_studies}
+            supplementName={supplement.name}
+          />
         </div>
       )}
 
