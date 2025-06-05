@@ -371,7 +371,7 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                         <div className="mb-4">
                           <GaugeChart
                             size={120}
-                            gap={20}
+                            gap={50}
                             progress={supplement.supplement_research_aggregates[0].avg_safety_score ? supplement.supplement_research_aggregates[0].avg_safety_score * 10 : 0}
                             progressClassName="text-green-500"
                             trackClassName="text-green-100"
@@ -394,7 +394,7 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                         <div className="mb-4">
                           <GaugeChart
                             size={120}
-                            gap={20}
+                            gap={50}
                             progress={supplement.supplement_research_aggregates[0].avg_efficacy_score ? supplement.supplement_research_aggregates[0].avg_efficacy_score * 10 : 0}
                             progressClassName="text-blue-500"
                             trackClassName="text-blue-100"
@@ -417,7 +417,7 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                         <div className="mb-4">
                           <GaugeChart
                             size={120}
-                            gap={20}
+                            gap={50}
                             progress={supplement.supplement_research_aggregates[0].avg_quality_score ? supplement.supplement_research_aggregates[0].avg_quality_score * 10 : 0}
                             progressClassName="text-purple-500"
                             trackClassName="text-purple-100"
@@ -441,7 +441,7 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                           <div className="mb-4">
                             <GaugeChart
                               size={120}
-                              gap={20}
+                              gap={50}
                               progress={supplement.supplement_research_aggregates[0].findings_consistency_score * 10}
                               progressClassName="text-amber-500"
                               trackClassName="text-amber-100"
