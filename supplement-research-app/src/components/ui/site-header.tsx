@@ -6,7 +6,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between max-w-6xl px-8">
         <Link href="/" className="flex items-center space-x-2">
-          <span className="font-bold text-lg tracking-tight">SupplementDB</span>
+          <span className="font-bold text-lg tracking-tight">Panacea Index</span>
         </Link>
         
         <nav className="flex items-center space-x-10">

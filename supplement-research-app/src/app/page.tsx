@@ -4,7 +4,14 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { SupplementSearch } from "@/components/ui/supplement-search";
 import { AnimatedStats } from "@/components/ui/animated-stats";
-import { getSupplementsByFirstLetter, getAllSupplements, getDatabaseStats } from '@/lib/supabase';
+import { 
+  getSupplementsByFirstLetter, 
+  getSupplementsForSearch, // ✅ Import the new optimized function
+  getDatabaseStats 
+} from '@/lib/supabase';
+
+// ✅ App Router ISR - revalidate every hour
+export const revalidate = 3600;
 
 // Define types for supplement data
 interface Supplement {
@@ -17,11 +24,19 @@ interface Supplement {
   created_at: string;
 }
 
+// ✅ Add type for search-optimized data
+interface SupplementSearchData {
+  id: number;
+  name: string;
+}
+
 export default async function HomePage() {
-  // Fetch data from Supabase
-  const supplementsByLetter = await getSupplementsByFirstLetter();
-  const allSupplements = await getAllSupplements();
-  const stats = await getDatabaseStats();
+  // ✅ Fetch data in parallel for better performance
+  const [supplementsByLetter, supplementsForSearch, stats] = await Promise.all([
+    getSupplementsByFirstLetter(),
+    getSupplementsForSearch(), // ✅ Use optimized function
+    getDatabaseStats()
+  ]);
   
   // Get the sorted keys for alphabetical sections (like '0-9', 'a', 'b', ...)
   const sortedKeys = Object.keys(supplementsByLetter).sort((a, b) => {
@@ -47,15 +62,9 @@ export default async function HomePage() {
             totalPapers={stats.totalPapers} 
           />
           
-          {/* Or use the card version: */}
-          {/* <AnimatedStatsCards 
-            totalSupplements={stats.totalSupplements} 
-            totalPapers={stats.totalPapers} 
-          /> */}
-          
           {/* Larger Search Component */}
           <div className="mt-12 max-w-3xl mx-auto">
-            <SupplementSearch supplements={allSupplements} />
+            <SupplementSearch supplements={supplementsForSearch} /> {/* ✅ Use optimized data */}
           </div>
         </section>
 
