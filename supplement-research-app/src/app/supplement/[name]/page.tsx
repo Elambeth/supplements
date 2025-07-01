@@ -7,9 +7,11 @@ import { Separator } from '@/components/ui/separator';
 import { ArrowLeft, ExternalLink, ThumbsUp, ThumbsDown, Calendar, BookOpen, FileText, Info, FileSearch, Book, ChevronRight } from 'lucide-react';
 import { countAggregateRecords, getSupplementWithResearch } from '@/lib/supabase';
 import { Badge } from '@/components/ui/badge';
-import ResearchTimeline from '@/components/ui/ResearchTimeline';
-import { TimelineCard } from '@/components/ui/timeline-card';
-import GaugeChart from '@/components/ui/gauge-chart';
+import { lazy, Suspense } from 'react';
+
+// Lazy load below-fold components
+const GaugeChart = lazy(() => import('@/components/ui/gauge-chart'));
+const TimelineCard = lazy(() => import('@/components/ui/timeline-card').then(module => ({ default: module.TimelineCard })));
 
 // Define types for supplement data
 interface Study {
@@ -283,15 +285,6 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
               <>
                 <p className="text-muted-foreground mb-4">{supplement.description}</p>
                 
-                {/* Show full description if it was truncated in the header */}
-                {/* Full description */}
-                
-                {/* Safety profile based on sentiment */}
-                <h3 className="text-lg font-medium mb-2">Safety Profile</h3>
-                <div className={`inline-flex items-center px-3 py-1.5 rounded-md text-sm font-medium mb-4 ${sentimentBgColor} ${sentimentColor}`}>
-                  {sentimentIcon}
-                  {sentimentLabel} {supplement.sentiment_score !== null && `(${supplement.sentiment_score}/10)`}
-                </div>
               </>
             ) : (
               <p className="text-muted-foreground italic">No description available for this supplement yet.</p>
@@ -369,17 +362,19 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                       {/* Safety Score with Gauge Chart */}
                       <div className="flex flex-col items-center">
                         <div className="mb-4">
-                          <GaugeChart
-                            size={120}
-                            gap={50}
-                            progress={supplement.supplement_research_aggregates[0].avg_safety_score ? supplement.supplement_research_aggregates[0].avg_safety_score * 10 : 0}
-                            progressClassName="text-green-500"
-                            trackClassName="text-green-100"
-                            circleWidth={8}
-                            progressWidth={8}
-                            showValue={true}
-                            className="mb-2"
-                          />
+                          <Suspense fallback={<div className="w-[120px] h-[120px] bg-gray-100 animate-pulse rounded-full" />}>
+                            <GaugeChart
+                              size={120}
+                              gap={50}
+                              progress={supplement.supplement_research_aggregates[0].avg_safety_score ? supplement.supplement_research_aggregates[0].avg_safety_score * 100 : 0}
+                              progressClassName="text-green-500"
+                              trackClassName="text-green-100"
+                              circleWidth={8}
+                              progressWidth={8}
+                              showValue={true}
+                              className="mb-2"
+                            />
+                          </Suspense>
                         </div>
                         <div className="text-center">
                           <h4 className="text-sm font-semibold text-green-700 mb-1">Safety Score</h4>
@@ -391,19 +386,19 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                       
                       {/* Efficacy Score with Gauge Chart */}
                       <div className="flex flex-col items-center">
-                        <div className="mb-4">
+                        <Suspense fallback={<div className="w-[120px] h-[120px] bg-gray-100 animate-pulse rounded-full" />}>
                           <GaugeChart
                             size={120}
                             gap={50}
-                            progress={supplement.supplement_research_aggregates[0].avg_efficacy_score ? supplement.supplement_research_aggregates[0].avg_efficacy_score * 10 : 0}
-                            progressClassName="text-blue-500"
-                            trackClassName="text-blue-100"
+                            progress={supplement.supplement_research_aggregates[0].avg_efficacy_score ? supplement.supplement_research_aggregates[0].avg_efficacy_score * 100 : 0}
+                            progressClassName="text-green-500"
+                            trackClassName="text-green-100"
                             circleWidth={8}
                             progressWidth={8}
                             showValue={true}
                             className="mb-2"
                           />
-                        </div>
+                        </Suspense>
                         <div className="text-center">
                           <h4 className="text-sm font-semibold text-blue-700 mb-1">Efficacy Score</h4>
                           <p className="text-xs text-muted-foreground">
@@ -415,17 +410,19 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                       {/* Quality Score with Gauge Chart */}
                       <div className="flex flex-col items-center">
                         <div className="mb-4">
-                          <GaugeChart
-                            size={120}
-                            gap={50}
-                            progress={supplement.supplement_research_aggregates[0].avg_quality_score ? supplement.supplement_research_aggregates[0].avg_quality_score * 10 : 0}
-                            progressClassName="text-purple-500"
-                            trackClassName="text-purple-100"
-                            circleWidth={8}
-                            progressWidth={8}
-                            showValue={true}
-                            className="mb-2"
-                          />
+                          <Suspense fallback={<div className="w-[120px] h-[120px] bg-gray-100 animate-pulse rounded-full" />}>
+                            <GaugeChart
+                              size={120}
+                              gap={50}
+                              progress={supplement.supplement_research_aggregates[0].avg_quality_score ? supplement.supplement_research_aggregates[0].avg_quality_score * 100 : 0}
+                              progressClassName="text-green-500"
+                              trackClassName="text-green-100"
+                              circleWidth={8}
+                              progressWidth={8}
+                              showValue={true}
+                              className="mb-2"
+                            />
+                          </Suspense>
                         </div>
                         <div className="text-center">
                           <h4 className="text-sm font-semibold text-purple-700 mb-1">Quality Score</h4>
@@ -439,17 +436,19 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
                       {supplement.supplement_research_aggregates[0].findings_consistency_score && (
                         <div className="flex flex-col items-center">
                           <div className="mb-4">
-                            <GaugeChart
-                              size={120}
-                              gap={50}
-                              progress={supplement.supplement_research_aggregates[0].findings_consistency_score * 10}
-                              progressClassName="text-amber-500"
-                              trackClassName="text-amber-100"
-                              circleWidth={8}
-                              progressWidth={8}
-                              showValue={true}
-                              className="mb-2"
-                            />
+                            <Suspense fallback={<div className="w-[120px] h-[120px] bg-gray-100 animate-pulse rounded-full" />}>
+                              <GaugeChart
+                                size={120}
+                                gap={50}
+                                progress={supplement.supplement_research_aggregates[0].findings_consistency_score ? supplement.supplement_research_aggregates[0].findings_consistency_score * 100 : 0}
+                                progressClassName="text-green-500"
+                                trackClassName="text-green-100"
+                                circleWidth={8}
+                                progressWidth={8}
+                                showValue={true}
+                                className="mb-2"
+                              />
+                            </Suspense>
                           </div>
                           <div className="text-center">
                             <h4 className="text-sm font-semibold text-amber-700 mb-1">Consistency</h4>
@@ -500,10 +499,12 @@ export default async function SupplementPage({ params }: SupplementPageProps) {
       {/* Research Timeline Card - Dynamic Height Container */}
       {supplement.supplement_studies && supplement.supplement_studies.length > 0 && (
         <div className="mb-6">
-          <TimelineCard 
-            studies={supplement.supplement_studies}
-            supplementName={supplement.name}
-          />
+          <Suspense fallback={<div className="h-96 bg-gray-100 animate-pulse rounded-lg" />}>
+            <TimelineCard 
+              studies={supplement.supplement_studies}
+              supplementName={supplement.name}
+            />
+          </Suspense>
         </div>
       )}
 
