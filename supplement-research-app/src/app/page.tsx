@@ -1,109 +1,67 @@
 // src/app/page.tsx
-import Link from 'next/link';
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent } from "@/components/ui/card";
 import { SupplementSearch } from "@/components/ui/supplement-search";
 import { AnimatedStats } from "@/components/ui/animated-stats";
+import { LazySupplementList } from "@/components/ui/lazy-supplement-list";
 import { 
-  getSupplementsByFirstLetter, 
-  getSupplementsForSearch, // ✅ Import the new optimized function
+  getSupplementsForSearch,
   getDatabaseStats 
 } from '@/lib/supabase';
 
-// ✅ App Router ISR - revalidate every hour
+// App Router ISR - revalidate every hour
 export const revalidate = 3600;
 
-// Define types for supplement data
-interface Supplement {
-  id: number;
-  name: string;
-  description: string | null;
-  is_popular: boolean;
-  last_research_check: string;
-  sentiment_score: number | null;
-  created_at: string;
-}
-
-// ✅ Add type for search-optimized data
 interface SupplementSearchData {
   id: number;
   name: string;
 }
 
 export default async function HomePage() {
-  // ✅ Fetch data in parallel for better performance
-  const [supplementsByLetter, supplementsForSearch, stats] = await Promise.all([
-    getSupplementsByFirstLetter(),
-    getSupplementsForSearch(), // ✅ Use optimized function
+  // Only fetch essential data for initial page load
+  const [supplementsForSearch, stats] = await Promise.all([
+    getSupplementsForSearch(),
     getDatabaseStats()
   ]);
-  
-  // Get the sorted keys for alphabetical sections (like '0-9', 'a', 'b', ...)
-  const sortedKeys = Object.keys(supplementsByLetter).sort((a, b) => {
-    // Ensure '0-9' comes first, then alphabetical
-    if (a === '0-9') return -1;
-    if (b === '0-9') return 1;
-    return a.localeCompare(b);
-  });
 
   return (
-    <main className="container mx-auto px-4 py-12 max-w-6xl">
-      <div className="space-y-12">
-        {/* Hero Section with Larger Title */}
-        <section className="text-center space-y-6 mb-16">
-          <h1 className="text-5xl md:text-6xl font-bold tracking-tight">Supplement & Intervention Explorer</h1>
-          <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-            Discover and learn about various supplements and health interventions, backed by scientific research.
-          </p>
+    <main className="min-h-screen">
+      {/* Hero Section - Full Viewport Height */}
+      <section className="min-h-screen flex flex-col justify-center items-center px-4 relative">
+        <div className="container mx-auto max-w-6xl text-center space-y-8">
+          
+          {/* Main Title */}
+          <div className="space-y-6">
+            <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight">
+              Supplement & Intervention Explorer
+            </h1>
+            <p className="text-muted-foreground text-lg md:text-xl max-w-4xl mx-auto leading-relaxed">
+              Discover and learn about various supplements and health interventions, backed by scientific research.
+            </p>
+          </div>
+          
+          {/* Search Component - Larger and More Prominent */}
+          <div className="max-w-4xl mx-auto">
+            <SupplementSearch supplements={supplementsForSearch} />
+          </div>
           
           {/* Animated Stats Display */}
-          <AnimatedStats 
-            totalSupplements={stats.totalSupplements} 
-            totalPapers={stats.totalPapers} 
-          />
-          
-          {/* Larger Search Component */}
-          <div className="mt-12 max-w-3xl mx-auto">
-            <SupplementSearch supplements={supplementsForSearch} /> {/* ✅ Use optimized data */}
+          <div className="py-6">
+            <AnimatedStats 
+              totalSupplements={stats.totalSupplements} 
+              totalPapers={stats.totalPapers} 
+            />
           </div>
-        </section>
+          
+          {/* Scroll Indicator */}
+          <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+            <div className="w-6 h-10 border-2 border-muted-foreground rounded-full flex justify-center">
+              <div className="w-1 h-3 bg-muted-foreground rounded-full mt-2"></div>
+            </div>
+          </div>
+        </div>
+      </section>
 
-        {/* A-Z Interventions Section */}
-        <section className="mt-12">
-          <Card>
-            <CardContent className="pt-6">
-              <h2 className="text-xl font-semibold mb-4 flex items-center">
-                <span className="inline-block w-2 h-2 bg-primary rounded-full mr-2"></span>
-                All Interventions (A-Z)
-              </h2>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {sortedKeys.map((letterKey) => (
-                  <div key={letterKey} className="mb-2">
-                    <h3 className="text-lg font-lg mb-2 uppercase flex items-center">
-                      <span className="text-secondary-foreground font-semibold mr-8">
-                        {letterKey}
-                      </span>
-                    </h3>
-                    <div className="flex flex-wrap gap-1.5">
-                      {supplementsByLetter[letterKey].map((supplement) => (
-                        <Link href={`/supplement/${encodeURIComponent(supplement)}`} key={supplement} legacyBehavior>
-                          <Badge
-                            variant="outline"
-                            className="cursor-pointer hover:bg-accent hover:text-accent-foreground transition-colors text-xs px-2 py-0.5 rounded"
-                          >
-                            {supplement}
-                          </Badge>
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </CardContent>
-          </Card>
-        </section>
-      </div>
+      {/* Lazy-Loaded A-Z Interventions Section */}
+      <LazySupplementList />
     </main>
   );
 }

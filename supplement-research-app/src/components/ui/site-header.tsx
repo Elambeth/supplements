@@ -1,12 +1,18 @@
 import Link from 'next/link';
-import { Leaf } from 'lucide-react';
+import Image from 'next/image';
 
 export function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between max-w-6xl px-8">
         <Link href="/" className="flex items-center space-x-2">
-          <span className="font-bold text-lg tracking-tight">Panacea Index</span>
+          <Image
+            src="/rect1.svg" // Update with your logo path
+            alt="Panacea Index Logo"
+            width={32}
+            height={32}
+            className="h-10 w-10"
+          />
         </Link>
         
         <nav className="flex items-center space-x-10">

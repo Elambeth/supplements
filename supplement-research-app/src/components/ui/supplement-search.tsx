@@ -21,10 +21,94 @@ interface SupplementSearchProps {
   supplements: Array<Supplement>;
 }
 
+// List of placeholder options to cycle through
+const PLACEHOLDER_OPTIONS = [
+  "Help me not feel like shit...", 
+  "What's gonna make me swole?",
+  "Search for energy that isn't coffee...",
+  "Find vitamins I'll forget to take...",
+  "Help me pretend I have my shit together...",
+  "Search for legal performance enhancers...",
+  "What's gonna make my joints stop creaking?",
+  "Find something for my sad desk body...",
+  "What do I need to not feel 100 years old?",
+  "Search for willpower in pill form...",
+  "Find something to fix my life...",
+  "Find something that actually fucking works..."
+];
+
+// Custom typing component that types, waits, deletes, then calls onComplete
+function CyclingTypingText({ 
+  text, 
+  onComplete, 
+  className 
+}: { 
+  text: string; 
+  onComplete: () => void; 
+  className?: string; 
+}) {
+  const [displayText, setDisplayText] = useState('');
+  const [isDeleting, setIsDeleting] = useState(false);
+  const [showCursor, setShowCursor] = useState(true);
+
+  useEffect(() => {
+    let timeout: NodeJS.Timeout;
+    
+    if (!isDeleting) {
+      // Typing phase
+      if (displayText.length < text.length) {
+        timeout = setTimeout(() => {
+          setDisplayText(text.slice(0, displayText.length + 1));
+        }, 60); // Typing speed
+      } else {
+        // Finished typing, wait then start deleting
+        timeout = setTimeout(() => {
+          setIsDeleting(true);
+        }, 1500); // Wait before deleting
+      }
+    } else {
+      // Deleting phase
+      if (displayText.length > 0) {
+        timeout = setTimeout(() => {
+          setDisplayText(displayText.slice(0, -1));
+        }, 30); // Deletion speed (faster)
+      } else {
+        // Finished deleting, call onComplete to switch to next phrase
+        onComplete();
+      }
+    }
+
+    return () => clearTimeout(timeout);
+  }, [displayText, isDeleting, text, onComplete]);
+
+  // Cursor blinking effect
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setShowCursor(prev => !prev);
+    }, 500);
+    return () => clearInterval(interval);
+  }, []);
+
+  // Reset state when text changes (new phrase)
+  useEffect(() => {
+    setDisplayText('');
+    setIsDeleting(false);
+  }, [text]);
+
+  return (
+    <span className={className}>
+      {displayText}
+      <span className={showCursor ? "opacity-100" : "opacity-0"}>|</span>
+    </span>
+  );
+}
+
 export function SupplementSearch({ supplements }: SupplementSearchProps) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
   const [isExpanded, setIsExpanded] = useState(false);
+  const [currentPlaceholderIndex, setCurrentPlaceholderIndex] = useState(0);
+  const [isFocused, setIsFocused] = useState(false);
   const router = useRouter();
   const commandRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -53,6 +137,13 @@ export function SupplementSearch({ supplements }: SupplementSearchProps) {
     setOpen(query.length > 0);
   }, [query]);
 
+  // Handle cycling to next placeholder
+  const handleTypingComplete = () => {
+    setCurrentPlaceholderIndex((prev) => 
+      (prev + 1) % PLACEHOLDER_OPTIONS.length
+    );
+  };
+
   return (
     <div className="relative w-full max-w-2xl mx-auto">
       <Command 
@@ -64,24 +155,42 @@ export function SupplementSearch({ supplements }: SupplementSearchProps) {
       >
         <div 
           className={cn(
-            "flex items-center px-4 transition-all duration-300 border-0 border-b-0",
+            "flex items-center px-4 transition-all duration-300 border-0 border-b-0 relative",
             isExpanded ? "pb-3 pt-3" : "pb-2 pt-2"
           )}
           onMouseEnter={() => setIsExpanded(true)}
-          onMouseLeave={() => !open && setIsExpanded(false)}
+          onMouseLeave={() => !open && !isFocused && setIsExpanded(false)}
           style={{ borderBottom: 'none' }}
         >
           <CommandInput
             ref={inputRef}
             value={query}
             onValueChange={setQuery}
-            onFocus={() => setIsExpanded(true)}
-            onBlur={() => !query && setIsExpanded(false)}
+            onFocus={() => {
+              setIsExpanded(true);
+              setIsFocused(true);
+            }}
+            onBlur={() => {
+              if (!query) setIsExpanded(false);
+              setIsFocused(false);
+            }}
             className="flex h-14 w-full bg-transparent py-4 text-lg placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-0 !border-0 !border-none !outline-none !border-b-0 [&_*]:!border-0 [&_*]:!border-none [&_*]:!outline-none [&_*]:!border-b-0"
-            placeholder="Search..."
+            placeholder="" // Remove static placeholder
             style={{ border: 'none', borderBottom: 'none', outline: 'none' }}
           />
+          
+          {/* Custom Typing Effect Placeholder - only show when input is empty and not focused */}
+          {!query && !isFocused && (
+            <div className="absolute left-16 top-1/2 transform -translate-y-1/2 pointer-events-none">
+              <CyclingTypingText
+                text={PLACEHOLDER_OPTIONS[currentPlaceholderIndex]}
+                onComplete={handleTypingComplete}
+                className="text-lg text-muted-foreground/50 font-sans"
+              />
+            </div>
+          )}
         </div>
+        
         {open && (
           <CommandList className="max-h-80 overflow-auto">
             <CommandEmpty className="py-6 text-center text-sm">

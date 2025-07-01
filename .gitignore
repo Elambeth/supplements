@@ -1,1 +1,7 @@
 .env
+citation_upload.py
+populate_db_new_supps.py
+populate_db_with_analyzed_papers.py
+supplement_scoring.py
+upload_analysis.py
+weight_processor
